@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Neu: monatliche Übersichtsseite (Oktober 2026, neue Angebote nach Verdienst sortiert) und llms-full.txt — strukturierter Datensatz der Top 300 für KI-Retrieval.",
+      "changes": [
+        "monthly-new.html: alle Angebote der letzten 31 Tage mit offiziellen Statistiken",
+        "llms-full.txt: 300 Produkte in kompakten maschinenlesbaren Zeilen",
+        "Beide Seiten in die Sitemap aufgenommen"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Alternativen-Vergleiche auf die Top 200 erweitert (116→194 Seiten); Blog-RSS liefert jetzt den vollständigen Artikeltext; Bild-Alt-Abdeckung durch QA bestätigt.",
       "changes": [
         "78 neue Alternativen-Seiten (DE)",

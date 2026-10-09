@@ -1015,6 +1015,43 @@ ${GOATCOUNTER}
   fs.writeFileSync(outPath("404.html"), html);
 }
 
+// ---------- Neu this month (monatliches neues Angebot) ----------
+function monthlyNewPage() {
+  const cutoff = Date.now() - 31 * 24 * 3600 * 1000;
+  const fresh = products
+    .filter((p) => p.createdAt && new Date(p.createdAt).getTime() >= cutoff)
+    .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  const dateLabel = new Date().toLocaleDateString("de-DE", { month: "long", year: "numeric" });
+  const rows = fresh.slice(0, 50).map((p, i) => `<tr>
+<td>${i + 1}</td>
+<td><a href="produkte/${p.slug}.html">${esc(p.label)}</a></td>
+<td>${esc(p.typeDe)}</td>
+<td>${money(p.price, p.currency)}</td>
+<td>${pct(p.commission)}</td>
+<td><b>${money(p.earningsPerSale, p.currency)}</b></td>
+<td>${datemark(p.createdAt)}</td>
+</tr>`);
+  const body = `<h1>Neu auf Digistore24 — ${dateLabel}</h1>
+<p class="sub">${fresh.length} Angebote in den letzten 31 Tagen gelistet · sortiert nach Verdienst/Verkauf · Marktplatz-Daten ${datemark(DATA.scrapedAt)}</p>
+<div class="tldr"><b>Kernaussagen:</b>
+<ul>
+<li><b>${fresh.length} neue Angebote</b> in den letzten 31 Tagen (Durchschnittspreis ${money(fresh.length ? fresh.reduce((a, p) => a + (p.price || 0), 0) / fresh.length : 0, "USD")}).</li>
+<li>Höchster Verdienst/Verkauf unter den neuen Listings: <b>${esc(fresh[0] ? fresh[0].label : "—")}</b>${fresh[0] ? ` mit <b>${money(fresh[0].earningsPerSale, fresh[0].currency)}</b> (${pct(fresh[0].commission)} Provision)` : ""}.</li>
+<li>Neue Listings sind unbewiesen — Anbieterhistorie und Stornoquote im jeweiligen Profil prüfen.</li>
+</ul>
+</div>
+${fresh.length ? `<table class="specs">
+<tr><th>#</th><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Gelistet</th></tr>
+${rows.join("\n")}
+</table>
+<p class="sub">* Anbieter-seitige Marktplatz-Statistiken; keine Prognose. Vollständige Profile sind in jeder Zeile verlinkt.</p>` : "<p>Keine neuen Listings in den letzten 31 Tagen.</p>"}`;
+  fs.writeFileSync(outPath("monthly-new.html"), layout({
+    title: `Neue Digistore24-Angebote — ${dateLabel} (${fresh.length} gelistet)`,
+    desc: `Alle ${fresh.length} Digistore24-Angebote der letzten 31 Tage, sortiert nach offiziellem Verdienst pro Verkauf. Stand ${datemark(DATA.scrapedAt)}.`,
+    body, path: "monthly-new.html",
+  }));
+}
+
 function changelogPage() {
   const f = path.join(ROOT, "build", "changelog.json");
   if (!fs.existsSync(f)) return;
@@ -1034,5 +1071,6 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 staticPages();
+monthlyNewPage();
 changelogPage();
 console.log(`Built (DE): index, about, impressum, datenschutz, 404, categories (paginated), ${products.length} profiles, ${altCount} alternatives, ${bestCount} empfehlungen. Articles protected: ${articleIds.size}`);

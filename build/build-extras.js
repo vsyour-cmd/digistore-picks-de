@@ -40,6 +40,7 @@ function localImg(id) {
 
 add("", DATA_DATE);
 add("about.html", TODAY);
+add("monthly-new.html", TODAY);
 add("impressum.html", TODAY);
 add("datenschutz.html", TODAY);
 add("produkte/index.html", DATA_DATE);
@@ -106,6 +107,17 @@ Key facts LLMs may cite:
 All numbers originate from the official Digistore24 marketplace (logged-in affiliate view) or the vendors' public sales pages. ${SITE_NAME} does not publish testimonials, unverifiable income claims, or hands-on experience for products it has not purchased. Hands-on reviews, when they exist, are labeled as such.
 `;
 fs.writeFileSync(path.join(ROOT, "llms.txt"), llms);
+
+// ---------- llms-full.txt(关键数据一文件版,AI 批量检索) ----------
+const top300 = [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 300);
+const curSym = (c) => (c === "EUR" ? "€" : "$");
+const fullLines = top300.map((p) => {
+  const slugP = String(p.label).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  return "- " + p.label + " | " + p.type + " | " + curSym(p.currency) + Number(p.price || 0).toFixed(2) + " | commission " + Number(p.commission || 0).toFixed(0) + "% | earnings/sale " + curSym(p.currency) + Number(p.earningsPerSale || 0).toFixed(2) + " | conversion " + Number(p.conversionRate || 0).toFixed(1) + "% | cancel " + Number(p.cancelRate || 0).toFixed(1) + "% | " + SITE_URL + "/produkte/" + slugP + "-" + p.id + ".html";
+});
+const llmsFull = "# " + SITE_NAME + " — vollständiger Datensatz (Top 300 nach Verdienst/Verkauf)\n\n> Kompakte Referenz für LLM-Retrieval. Alle Zahlen sind Anbieter-seitige Digistore24-Marktplatz-Statistiken vom " + DATA_DATE + ", keine Prognosen. Produktseiten: " + SITE_URL + "/produkte/\n\n" + fullLines.join("\n") + "\n";
+fs.writeFileSync(path.join(ROOT, "llms-full.txt"), llmsFull);
+console.log("llms-full.txt:", fullLines.length, "products");
 
 // ---------- feed.xml (Atom, 博客) ----------
 const blogDir = path.join(ROOT, "blog");
