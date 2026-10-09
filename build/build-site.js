@@ -89,6 +89,22 @@ function crumbs(items) {
     .join(' <span class="sep">›</span> ')}</nav>`;
 }
 
+// SERP 保护:标题 ≤68 字符(词边界截断),描述 ≤158 字符
+const capTitle = (s, max = 68) => {
+  s = String(s == null ? "" : s).trim().replace(/\s+/g, " ");
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 30 ? cut.slice(0, sp) : cut).replace(/[\s—–-]+$/g, "").replace(/[\s—–-]+$/, "") + "…";
+};
+const capDesc = (s, max = 158) => {
+  s = String(s == null ? "" : s).trim();
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
+};
+
 function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonLd = [], crumb = null }) {
   const canonical = SITE_URL + "/" + path;
   const ogImg = ogImage
@@ -99,13 +115,13 @@ function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonL
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${esc(title)}</title>
-<meta name="description" content="${esc(desc)}">
+<title>${esc(capTitle(title))}</title>
+<meta name="description" content="${esc(capDesc(desc))}">
 <link rel="canonical" href="${canonical}">
 <meta property="og:site_name" content="${SITE_NAME}">
 <meta property="og:type" content="website">
-<meta property="og:title" content="${esc(title)}">
-<meta property="og:description" content="${esc(desc)}">
+<meta property="og:title" content="${esc(capTitle(title))}">
+<meta property="og:description" content="${esc(capDesc(desc))}">
 <meta property="og:url" content="${canonical}">
 ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${esc(ogImg)}">` : '<meta name="twitter:card" content="summary">'}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -510,7 +526,7 @@ ${stickyCta}`;
       },
     ];
     fs.writeFileSync(file, layout({
-      title: `${p.label} — Preis, Provision & Verkaufsseiten-Recherche (${p.typeDe})`,
+      title: `${p.label} — Preis, Provision & Recherche`,
       desc: `${p.label}: ${p.typeDe} von ${p.vendorName} auf Digistore24. Preis ${money(p.price, p.currency)}, ${pct(p.commission)} Provision, Marktplatz-Statistiken und wörtliche Verkaufsseiten-Recherche. Stand ${datemark(DATA.scrapedAt)}.`,
       body, rel: "..", path: `produkte/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd: [...jsonLd, faqLd],
       crumb: crumbItems,
