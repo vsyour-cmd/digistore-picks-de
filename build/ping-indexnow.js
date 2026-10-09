@@ -22,18 +22,18 @@ const KEY_LOCATION = `${SITE_URL}/${keyFile}`;
 
 let paths = [];
 if (process.argv.includes("--all")) {
-  paths = ["index.html", "about.html", "reviews/index.html", "blog/index.html"];
-  const catDir = path.join(ROOT, "category");
-  for (const f of fs.readdirSync(catDir)) if (f.endsWith(".html")) paths.push(`category/${f}`);
-  const blogDir = path.join(ROOT, "blog");
-  for (const f of fs.readdirSync(blogDir)) if (f.endsWith(".html")) paths.push(`blog/${f}`);
+  paths = ["index.html", "about.html", "impressum.html", "datenschutz.html", "produkte/index.html", "blog/index.html"];
+  for (const dir of ["kategorie", "empfehlungen", "alternativen", "blog"]) {
+    const d = path.join(ROOT, dir);
+    if (fs.existsSync(d)) for (const f of fs.readdirSync(d)) if (f.endsWith(".html")) paths.push(`${dir}/${f}`);
+  }
 } else {
   // 最近一次提交变动的页面 + 固定入口
   try {
     const diff = execSync("git diff --name-only HEAD~1 HEAD", { cwd: ROOT, encoding: "utf8" });
     paths = diff.split("\n").filter((f) => f.endsWith(".html"));
   } catch {}
-  paths = [...new Set([...paths, "index.html", "blog/index.html", "reviews/index.html"])];
+  paths = [...new Set([...paths, "index.html", "blog/index.html", "produkte/index.html"])];
 }
 paths = [...new Set(paths)].slice(0, 100);
 if (!paths.length) { console.log("nothing to ping"); process.exit(0); }
