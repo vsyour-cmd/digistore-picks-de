@@ -166,7 +166,7 @@ function homePage() {
 <h1>Digistore24-Produkte, sortiert nach Zahlen</h1>
 <p class="sub">Ein unabhängiges Verzeichnis von ${DATA.total} deutschsprachigen Produkten im Digistore24-Marktplatz — ${DATA.categories.length} Kategorien, offizielle Preise und Provisionen, Verkaufsseiten-Recherche zu ${DATA.withResearch} Angeboten. Datenstand: ${datemark(DATA.scrapedAt)}.</p>
 <h2>Top-Angebote nach Verdienst pro Verkauf</h2>
-<p class="sub">Rangliste nach dem vom Marktplatz gemeldeten Verdienst pro Verkauf. Offizielle Marktplatz-Statistiken, keine我们的 Prognosen.</p>
+<p class="sub">Rangliste nach dem vom Marktplatz gemeldeten Verdienst pro Verkauf. Offizielle Marktplatz-Statistiken, keine Prognosen von uns.</p>
 <div class="grid">
 ${top.map((p) => productCard(p)).join("\n")}
 </div>
@@ -213,7 +213,8 @@ function categoryPages() {
       const file = idx === 0 ? c.file + ".html" : `${c.file}-p${idx + 1}.html`;
       const pageSub = pages.length > 1 ? ` · Seite ${idx + 1} von ${pages.length}` : "";
       const intro = `<p class="lead">${extraIntro}Die Kategorie <b>${esc(catName(c))}</b> listet im Digistore24-Marktplatz <b>${items.length} Angebote</b> (Stand ${datemark(DATA.scrapedAt)}). Durchschnittspreis: <b>${money(avg, "USD")}</b>; Provisionen zwischen <b>${pct(minC)}</b> und <b>${pct(maxC)}</b>. Alle Statistiken werden von Digistore24 über den Traffic der Anbieter gemeldet und hängen von der Traffic-Qualität ab.</p>`;
-      const bestOf = idx === 0 && items.length >= 8 ? `<p class="sub">Wenig Zeit? Zu den <a href="../empfehlungen/beste-${c.file}.html">Top-Empfehlungen in ${esc(catName(c))}</a> — rechnerisch aus denselben Daten ermittelt.</p>` : "";
+      const isRealCat = DATA.categories.some((x) => x.file === c.file);
+      const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Wenig Zeit? Zu den <a href="../empfehlungen/beste-${c.file}.html">Top-Empfehlungen in ${esc(catName(c))}</a> — rechnerisch aus denselben Daten ermittelt.</p>` : "";
       const body = `
 <h1>${esc(catName(c))}</h1>
 <p class="sub">${items.length} Produkte · Bereich: ${esc(c.sectionDe || c.section)}${pageSub} · <a href="../index.html">alle Kategorien</a> · <a href="../produkte/index.html">alle Produkte A–Z</a></p>
