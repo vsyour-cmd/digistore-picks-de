@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Kategorie-Guides auf alle Kategorien erweitert (Blog 13→43 Seiten DE), Internal-Link-Audit abgeschlossen (monthly-new Orphan behoben). Alle Seiten >=60 Vertrauensscore.",
+      "changes": [
+        "30 neue deutsche Kategorie-Guides",
+        "audit-inlinks.js hinzugefügt; monthly-new über Footer verlinkt",
+        "QA: alle Gates grün über 6271 Seiten"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Vertrauenswürdigkeits-Overhaul: Organization auf jeder Seite, Belegbasis-Box auf jeder Produktseite, verlinkte FAQ-Antworten, Kategorie-FAQs mit JSON-LD, Bild-Sitemap, Volltext-RSS, monatliche Übersicht, llms-full.txt. Audit: alle 4679 Seiten >=60 (Produkte 100/100).",
       "changes": [
         "Schema: Product sku/itemCondition/seller/Intended use; Organization mit Adresse & sameAs auf jeder Seite",

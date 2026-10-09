@@ -218,7 +218,7 @@ const EN_GUIDE_SLUGS = {
 };
 
 function categoryGuides() {
-  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Computer & Internet", "Family & Children", "Dating, Relationships & Romance", "Software", "Social Media"];
+  const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;
@@ -274,7 +274,7 @@ function blogIndex() {
     ["digistore24-zahlen-checkliste.html", "Kaufen oder bewerben? Der 6-Punkte-Zahlen-Check", "Die Methode hinter jedem Profil dieser Website — auf jedes Angebot anwendbar."],
   ];
   // Kategorie-Guides ergänzen (bereits generierte Dateien)
-  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Computer & Internet", "Family & Children", "Dating, Relationships & Romance", "Software", "Social Media"];
+  const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;
