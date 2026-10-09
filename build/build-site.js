@@ -105,11 +105,11 @@ const capDesc = (s, max = 158) => {
   return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
 };
 
-function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonLd = [], crumb = null }) {
+function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonLd = [], crumb = null, hreflangLinks = "" }) {
   const canonical = SITE_URL + "/" + path;
   const ogImg = ogImage
     ? (ogImage.startsWith("http") ? ogImage : SITE_URL + "/" + ogImage.replace(/^(\.\.\/)+/, ""))
-    : null;
+    : SITE_URL + "/assets/og-default.png";
   return `<!doctype html>
 <html lang="de">
 <head>
@@ -127,9 +127,7 @@ ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitt
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="alternate" type="application/atom+xml" title="Blog feed" href="${rel}/feed.xml">
 <link rel="stylesheet" href="${rel}/assets/style.css">
-<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
-<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">
-${VERIFY_META}
+${hreflangLinks}${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
@@ -149,7 +147,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie entstehen keine Mehrkosten. Alle Marktplatz-Statistiken (Preis, Provision, Konversion, Verdienst) stammen vom offiziellen Digistore24-Marktplatz und sind keine Prognose Ihrer Ergebnisse.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site: 1243 Digistore24 products</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site: 1243 Digistore24 products</a> · <a href="${rel}/changelog.html">Neuigkeiten</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -212,6 +210,21 @@ function tldr(p) {
 </div>`;
 }
 
+const HREF_HOME = '<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/"><link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">';
+function enCatHref(catId) {
+  if (!EN_DATA) return null;
+  const c2 = EN_DATA.categories.find((c) => String(c.catId) === String(catId));
+  const c1 = DATA.categories.find((c) => String(c.catId) === String(catId));
+  if (!c2 || !c1) return null;
+  const mk = (cats) => {
+    const cnt = {};
+    for (const c of cats) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
+    return (c) => (cnt[slug(c.label)] > 1 ? slug(c.section) + "-" + slug(c.label) : slug(c.label));
+  };
+  const enFile = mk(EN_DATA.categories)(c2);
+  const deFile = mk(DATA.categories)(c1);
+  return '<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/category/' + enFile + '.html"><link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/kategorie/' + deFile + '.html">';
+}
 // ---------- Startseite ----------
 function homePage() {
   const top = products.slice(0, 12);
@@ -240,6 +253,7 @@ ${uncategorized ? `\n<a href="kategorie/ohne-kategorie.html"><span>Ohne Kategori
     publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL + "/about.html" },
   }];
   fs.writeFileSync(outPath("index.html"), layout({
+    hreflangLinks: HREF_HOME,
     title: `${SITE_NAME} — alle ${DATA.total} Digistore24-Produkte: Preise, Provisionen & Recherche`,
     desc: `Verzeichnis von ${DATA.total} Digistore24-Produkten mit offiziellen Preisen, Provisionen, Konversionsdaten und Verkaufsseiten-Recherche. Stand ${datemark(DATA.scrapedAt)}.`,
     body, path: "", jsonLd,
@@ -301,7 +315,7 @@ ${pager(idx)}
       fs.writeFileSync(path.join(dir, file), layout({
         title: `${catName(c)} — ${items.length} Digistore24-Produkte: Preise & Provisionen${pages.length > 1 ? ` (Seite ${idx + 1})` : ""}`,
         desc: `${items.length} Digistore24-Produkte in ${catName(c)}: offizielle Preise, Provisionen (Ø ${money(avg, "USD")}), Konversion und Stornoquoten. Stand ${datemark(DATA.scrapedAt)}.`,
-        body, rel: "..", path: `kategorie/${file}`, jsonLd,
+        body, rel: "..", path: `kategorie/${file}`, jsonLd, hreflangLinks: enCatHref(c.catId) || "",
         crumb: [{ label: "Start", href: "../index.html" }, { label: catName(c), href: `../kategorie/${file}` }],
       }));
     });
@@ -955,6 +969,18 @@ ${GOATCOUNTER}
   fs.writeFileSync(outPath("404.html"), html);
 }
 
+function changelogPage() {
+  const f = path.join(ROOT, "build", "changelog.json");
+  if (!fs.existsSync(f)) return;
+  const entries = JSON.parse(fs.readFileSync(f, "utf8")).entries || [];
+  const body = `<h1>Neuigkeiten auf ${SITE_NAME}</h1>
+<p class="sub">Jede Verbesserung, täglich protokolliert. Die Marktplatz-Daten aktualisieren sich jeden Morgen automatisch — die Zahlen auf der gesamten Website aktualisieren sich mit.</p>
+${entries.map((e) => `<h2>${datemark(e.date)}</h2>
+<p>${esc(e.summary)}</p>
+<ul>${(e.changes || []).map((c) => `<li>${esc(c)}</li>`).join("")}</ul>`).join("\n")}`;
+  fs.writeFileSync(outPath("changelog.html"), layout({ title: `Neuigkeiten — ${SITE_NAME}`, desc: `Tägliches Änderungslog von ${SITE_NAME}: Datenaktualisierungen, neue Artikel und Verbesserungen.`, body, path: "changelog.html", hreflangLinks: HREF_HOME }));
+}
+
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -962,4 +988,5 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 staticPages();
+changelogPage();
 console.log(`Built (DE): index, about, impressum, datenschutz, 404, categories (paginated), ${products.length} profiles, ${altCount} alternatives, ${bestCount} empfehlungen. Articles protected: ${articleIds.size}`);

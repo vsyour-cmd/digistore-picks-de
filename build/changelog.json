@@ -1,0 +1,18 @@
+{
+  "site": "de",
+  "entries": [
+    {
+      "date": "2026-10-09",
+      "summary": "Launch: vollständiger Aufbau mit 4271 Produktprofilen, 45+1 Kategorien, 116 Alternativen, 42 Empfehlungen, Verkaufsseiten-Recherche (3704/4271), lokale WebP-Bilder, FAQ auf jeder Produktseite, Dark Mode, mobile Sticky-CTA.",
+      "changes": [
+        "4271 Produktprofile mit Marktplatz-Daten + wörtlicher Verkaufsseiten-Recherche",
+        "45+1 Kategorieseiten (paginiert), 116 Alternativen-Vergleiche, 42 Empfehlungsseiten",
+        "FAQ (6 F&A) + FAQPage JSON-LD auf jeder Produktseite",
+        "Recherche-Abdeckung: 3704/4271 (87%), nicht erreichbare Seiten gekennzeichnet",
+        "Bilder lokalisiert als WebP (47 MB)",
+        "SEO: Titel ≤68 Zeichen, canonical, hreflang zur englischen Website, Impressum & Datenschutz, sitemap 4595 URLs, llms.txt",
+        "Affiliate-Links auf allen CTAs und jedem Produktbild"
+      ]
+    }
+  ]
+}
