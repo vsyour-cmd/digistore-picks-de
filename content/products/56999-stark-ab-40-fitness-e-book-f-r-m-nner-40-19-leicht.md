@@ -1,3 +1,24 @@
+---
+product_id: "56999"
+digistore24_product_id: 701188
+title: "Stark ab 40 – Fitness-E-Book für Männer 40+ | 19 € | leicht"
+vendor: "Olfi79"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stark-ab-40.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://stark-ab-40.netlify.app"
+language: "de"
+---
 # Stark ab 40 – Fitness-E-Book für Männer 40+ | 19 € | leicht
 
 > Product ID `56999` · Digistore24 productId `701188` · [HTML profile page](../../produkte/stark-ab-40-fitness-e-book-f-r-m-nner-40-19-leicht-56999.html)

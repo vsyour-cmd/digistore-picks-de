@@ -1,3 +1,24 @@
+---
+product_id: "57484"
+digistore24_product_id: 708858
+title: "Das Bundle - DEIN NÄCHSTER SCHRITT"
+vendor: "JEMORIS"
+product_type: "Downloads"
+price: 156.82
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 78.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Dating, Relationships & Romance","Education"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jemoris.com/Vorverkaufsseite_Bundle.html?aff=adminstore#aff=adminstore"
+sales_page: "https://jemoris.com/Vorverkaufsseite_Bundle.html"
+language: "de"
+---
 # Das Bundle - DEIN NÄCHSTER SCHRITT
 
 > Product ID `57484` · Digistore24 productId `708858` · [HTML profile page](../../produkte/das-bundle-dein-n-chster-schritt-57484.html)

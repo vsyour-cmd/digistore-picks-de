@@ -1,3 +1,24 @@
+---
+product_id: "55314"
+digistore24_product_id: 663971
+title: "Glückscoaching-Ausbildung: Glück ist planbar!"
+vendor: "Magierschule"
+product_type: "Member area and video courses"
+price: 1353.6
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 541.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://magierschule.de/glueckscoach?aff=adminstore#aff=adminstore"
+sales_page: "https://magierschule.de/glueckscoach"
+language: "de"
+---
 # Glückscoaching-Ausbildung: Glück ist planbar!
 
 > Product ID `55314` · Digistore24 productId `663971` · [HTML profile page](../../produkte/gl-ckscoaching-ausbildung-gl-ck-ist-planbar-55314.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45629"
+digistore24_product_id: 518323
+title: "Blütengarten Onlinekurs"
+vendor: "BluetenGarten"
+product_type: "Member area and video courses"
+price: 205.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 61.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2023-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online?aff=adminstore#aff=adminstore"
+sales_page: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online"
+language: "de"
+---
 # Blütengarten Onlinekurs
 
 > Product ID `45629` · Digistore24 productId `518323` · [HTML profile page](../../produkte/bl-tengarten-onlinekurs-45629.html)

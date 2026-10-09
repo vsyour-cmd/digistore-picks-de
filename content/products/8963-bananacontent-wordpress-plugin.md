@@ -1,3 +1,24 @@
+---
+product_id: "8963"
+digistore24_product_id: 58717
+title: "bananacontent WordPress Plugin"
+vendor: "JonasB"
+product_type: "Downloads"
+price: 322.16
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 96.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2015-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bananacontent.de?aff=adminstore#aff=adminstore"
+sales_page: "https://bananacontent.de"
+language: "de"
+---
 # bananacontent WordPress Plugin
 
 > Product ID `8963` · Digistore24 productId `58717` · [HTML profile page](../../produkte/bananacontent-wordpress-plugin-8963.html)

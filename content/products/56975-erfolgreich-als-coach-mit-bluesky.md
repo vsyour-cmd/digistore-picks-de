@@ -1,3 +1,24 @@
+---
+product_id: "56975"
+digistore24_product_id: 701395
+title: "Erfolgreich als Coach mit Bluesky"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-bluesky?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-bluesky"
+language: "de"
+---
 # Erfolgreich als Coach mit Bluesky
 
 > Product ID `56975` · Digistore24 productId `701395` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-bluesky-56975.html)

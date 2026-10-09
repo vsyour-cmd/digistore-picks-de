@@ -1,3 +1,24 @@
+---
+product_id: "53248"
+digistore24_product_id: 625085
+title: "Premium-PDF: \"Positionierung + Marken-Mindset\" – 60 € Prov."
+vendor: "JumbMedia-Store"
+product_type: "E-books"
+price: 167.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 67.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/625085?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/625085"
+language: "de"
+---
 # Premium-PDF: "Positionierung + Marken-Mindset" – 60 € Prov.
 
 > Product ID `53248` · Digistore24 productId `625085` · [HTML profile page](../../produkte/premium-pdf-positionierung-marken-mindset-60-prov-53248.html)

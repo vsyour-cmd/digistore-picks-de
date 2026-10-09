@@ -1,3 +1,24 @@
+---
+product_id: "57805"
+digistore24_product_id: 715079
+title: "The Changing Chance Premium"
+vendor: "TheChangingChance"
+product_type: "Member area and video courses"
+price: 1069.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 427.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thechangingchance.de/index.html?aff=adminstore#aff=adminstore"
+sales_page: "https://thechangingchance.de/index.html"
+language: "de"
+---
 # The Changing Chance Premium
 
 > Product ID `57805` · Digistore24 productId `715079` · [HTML profile page](../../produkte/the-changing-chance-premium-57805.html)

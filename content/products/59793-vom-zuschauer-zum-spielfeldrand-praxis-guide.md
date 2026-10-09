@@ -1,3 +1,24 @@
+---
+product_id: "59793"
+digistore24_product_id: 735851
+title: "Vom Zuschauer zum Spielfeldrand | Praxis-Guide"
+vendor: "dkzmedia2025"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film","Sport"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dkzmedia.com/ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dkzmedia.com/ebook"
+language: "de"
+---
 # Vom Zuschauer zum Spielfeldrand | Praxis-Guide
 
 > Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../produkte/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)

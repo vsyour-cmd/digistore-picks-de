@@ -1,3 +1,24 @@
+---
+product_id: "59649"
+digistore24_product_id: 733708
+title: "Seen and Sold: Das KI-Textsystem für bessere Websites"
+vendor: "DigitalDuniaLLC"
+product_type: "E-books"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 35.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Marketing Services"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/733708?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/733708"
+language: "de"
+---
 # Seen and Sold: Das KI-Textsystem für bessere Websites
 
 > Product ID `59649` · Digistore24 productId `733708` · [HTML profile page](../../produkte/seen-and-sold-das-ki-textsystem-f-r-bessere-websites-59649.html)

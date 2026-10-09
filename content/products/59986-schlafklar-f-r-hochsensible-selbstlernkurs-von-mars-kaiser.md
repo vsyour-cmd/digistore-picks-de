@@ -1,3 +1,24 @@
+---
+product_id: "59986"
+digistore24_product_id: 730272
+title: "Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser"
+vendor: "marcokaiser8e50"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://webinar.marskaiser.de/schlafklar2?aff=adminstore#aff=adminstore"
+sales_page: "https://webinar.marskaiser.de/schlafklar2"
+language: "de"
+---
 # Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser
 
 > Product ID `59986` · Digistore24 productId `730272` · [HTML profile page](../../produkte/schlafklar-f-r-hochsensible-selbstlernkurs-von-mars-kaiser-59986.html)

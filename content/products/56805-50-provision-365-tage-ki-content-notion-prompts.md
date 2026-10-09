@@ -1,3 +1,24 @@
+---
+product_id: "56805"
+digistore24_product_id: 698309
+title: "50% Provision! 365 Tage KI content (Notion,Prompts)"
+vendor: "svetoslavdzhabirski0be5"
+product_type: "Downloads"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/698309?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/698309"
+language: "de"
+---
 # 50% Provision! 365 Tage KI content (Notion,Prompts)
 
 > Product ID `56805` · Digistore24 productId `698309` · [HTML profile page](../../produkte/50-provision-365-tage-ki-content-notion-prompts-56805.html)

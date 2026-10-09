@@ -1,3 +1,24 @@
+---
+product_id: "58799"
+digistore24_product_id: 728048
+title: "Witwenrente in Deutschland einfach erklärt"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Law & Justice"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728048?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728048"
+language: "de"
+---
 # Witwenrente in Deutschland einfach erklärt
 
 > Product ID `58799` · Digistore24 productId `728048` · [HTML profile page](../../produkte/witwenrente-in-deutschland-einfach-erkl-rt-58799.html)

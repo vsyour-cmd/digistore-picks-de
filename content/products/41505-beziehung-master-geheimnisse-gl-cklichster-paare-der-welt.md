@@ -1,3 +1,24 @@
+---
+product_id: "41505"
+digistore24_product_id: 454935
+title: "Beziehung Master: Geheimnisse glücklichster Paare der Welt"
+vendor: "Koepfe-der-Genies"
+product_type: "Webinar"
+price: 276.81
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 55.95
+cart_conversion_pct: 2
+cancel_rate_pct: 5.73
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.maximmankevich.com/beziehung-master?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.maximmankevich.com/beziehung-master"
+language: "de"
+---
 # Beziehung Master: Geheimnisse glücklichster Paare der Welt
 
 > Product ID `41505` · Digistore24 productId `454935` · [HTML profile page](../../produkte/beziehung-master-geheimnisse-gl-cklichster-paare-der-welt-41505.html)

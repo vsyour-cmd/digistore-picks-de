@@ -1,3 +1,24 @@
+---
+product_id: "53109"
+digistore24_product_id: 613426
+title: "Entspannung auf Knopfdruck - zert. PMR Präventionskurs"
+vendor: "glueckwaerts"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore"
+sales_page: "https://www.glueckwaerts.com/anmeldung-otcoachy"
+language: "de"
+---
 # Entspannung auf Knopfdruck - zert. PMR Präventionskurs
 
 > Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../produkte/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)

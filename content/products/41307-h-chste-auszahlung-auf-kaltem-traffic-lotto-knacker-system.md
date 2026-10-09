@@ -1,3 +1,24 @@
+---
+product_id: "41307"
+digistore24_product_id: 242150
+title: "Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)"
+vendor: "system"
+product_type: "E-books"
+price: 365.89
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 274.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2018-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://lottoknacker.net/ds/video-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://lottoknacker.net/ds/video-3/"
+language: "de"
+---
 # Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)
 
 > Product ID `41307` · Digistore24 productId `242150` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-lotto-knacker-system-41307.html)

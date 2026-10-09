@@ -1,3 +1,24 @@
+---
+product_id: "10195"
+digistore24_product_id: 70791
+title: "Bartagamen - Deutschlands großer Ratgeber"
+vendor: "Loewenstark"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 7.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.bartagame.de/buch/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.bartagame.de/buch/"
+language: "de"
+---
 # Bartagamen - Deutschlands großer Ratgeber
 
 > Product ID `10195` · Digistore24 productId `70791` · [HTML profile page](../../produkte/bartagamen-deutschlands-gro-er-ratgeber-10195.html)

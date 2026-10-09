@@ -1,3 +1,24 @@
+---
+product_id: "51373"
+digistore24_product_id: 596513
+title: "TikTok und KI Social-Media-Marketing Profi"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2025-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/TikTok-KI-Profi?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/TikTok-KI-Profi"
+language: "de"
+---
 # TikTok und KI Social-Media-Marketing Profi
 
 > Product ID `51373` · Digistore24 productId `596513` · [HTML profile page](../../produkte/tiktok-und-ki-social-media-marketing-profi-51373.html)

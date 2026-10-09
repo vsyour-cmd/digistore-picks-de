@@ -1,3 +1,24 @@
+---
+product_id: "48699"
+digistore24_product_id: 561918
+title: "Chat GPT - 50 Möglichkeiten es zu nutzen"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.91
+cart_conversion_pct: 41
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing"]
+listed_since: "2024-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-moeglichkeiten/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-moeglichkeiten/"
+language: "de"
+---
 # Chat GPT - 50 Möglichkeiten es zu nutzen
 
 > Product ID `48699` · Digistore24 productId `561918` · [HTML profile page](../../produkte/chat-gpt-50-m-glichkeiten-es-zu-nutzen-48699.html)

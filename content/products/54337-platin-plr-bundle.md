@@ -1,3 +1,24 @@
+---
+product_id: "54337"
+digistore24_product_id: 640014
+title: "Platin PLR Bundle"
+vendor: "MoneyCreators"
+product_type: "Downloads"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/platin-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/platin-bundle"
+language: "de"
+---
 # Platin PLR Bundle
 
 > Product ID `54337` · Digistore24 productId `640014` · [HTML profile page](../../produkte/platin-plr-bundle-54337.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56631"
+digistore24_product_id: 694021
+title: "Geometrie und Körper verstehen für Lehrlinge/Azubis"
+vendor: "Mathecloud"
+product_type: "Member area and video courses"
+price: 36.03
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 28.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.e-ducation.cloud/course/geometrie-koerper-verstehen/?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/geometrie-koerper-verstehen/"
+language: "de"
+---
 # Geometrie und Körper verstehen für Lehrlinge/Azubis
 
 > Product ID `56631` · Digistore24 productId `694021` · [HTML profile page](../../produkte/geometrie-und-k-rper-verstehen-f-r-lehrlinge-azubis-56631.html)

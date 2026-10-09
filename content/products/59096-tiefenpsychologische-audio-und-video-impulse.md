@@ -1,3 +1,24 @@
+---
+product_id: "59096"
+digistore24_product_id: 722640
+title: "Tiefenpsychologische Audio und Video Impulse"
+vendor: "polked521"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 38.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/722640?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722640"
+language: "de"
+---
 # Tiefenpsychologische Audio und Video Impulse
 
 > Product ID `59096` · Digistore24 productId `722640` · [HTML profile page](../../produkte/tiefenpsychologische-audio-und-video-impulse-59096.html)

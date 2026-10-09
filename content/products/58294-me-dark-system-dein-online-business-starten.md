@@ -1,3 +1,24 @@
+---
+product_id: "58294"
+digistore24_product_id: 716340
+title: "ME-DARK SYSTEM  - Dein Online-Business starten"
+vendor: "medarksystem"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 51.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/716340?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/716340"
+language: "de"
+---
 # ME-DARK SYSTEM  - Dein Online-Business starten
 
 > Product ID `58294` · Digistore24 productId `716340` · [HTML profile page](../../produkte/me-dark-system-dein-online-business-starten-58294.html)

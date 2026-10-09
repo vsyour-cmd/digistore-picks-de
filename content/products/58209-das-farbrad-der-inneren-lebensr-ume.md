@@ -1,3 +1,24 @@
+---
+product_id: "58209"
+digistore24_product_id: 700139
+title: "Das Farbrad der inneren Lebensräume"
+vendor: "FiaBiba"
+product_type: "Member area and video courses"
+price: 188
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 18.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.embodiedcoloracademy.de/farbrad-lebensraeume.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.embodiedcoloracademy.de/farbrad-lebensraeume.html"
+language: "de"
+---
 # Das Farbrad der inneren Lebensräume
 
 > Product ID `58209` · Digistore24 productId `700139` · [HTML profile page](../../produkte/das-farbrad-der-inneren-lebensr-ume-58209.html)

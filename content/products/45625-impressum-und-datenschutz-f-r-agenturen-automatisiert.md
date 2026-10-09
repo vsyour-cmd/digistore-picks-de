@@ -1,3 +1,24 @@
+---
+product_id: "45625"
+digistore24_product_id: 228023
+title: "Impressum und Datenschutz für Agenturen automatisiert"
+vendor: "Paragraf7"
+product_type: "Member area and video courses"
+price: 267.12
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 53.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Law & Justice"]
+listed_since: "2018-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://easyrechtssicher.de/webdesigner-agenturen-3/"
+language: "de"
+---
 # Impressum und Datenschutz für Agenturen automatisiert
 
 > Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../produkte/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)

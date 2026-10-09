@@ -1,3 +1,24 @@
+---
+product_id: "55652"
+digistore24_product_id: 662113
+title: "E-Book Skin Prep Masterclass"
+vendor: "MartinaOtteCosmetics"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/662113?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/662113"
+language: "de"
+---
 # E-Book Skin Prep Masterclass
 
 > Product ID `55652` · Digistore24 productId `662113` · [HTML profile page](../../produkte/e-book-skin-prep-masterclass-55652.html)

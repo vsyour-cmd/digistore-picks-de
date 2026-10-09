@@ -1,3 +1,24 @@
+---
+product_id: "55674"
+digistore24_product_id: 668221
+title: "Ohne Schreien – Das 7-Tage Reset für entspannte Eltern"
+vendor: "AndreiPintilii"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/668221?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/668221"
+language: "de"
+---
 # Ohne Schreien – Das 7-Tage Reset für entspannte Eltern
 
 > Product ID `55674` · Digistore24 productId `668221` · [HTML profile page](../../produkte/ohne-schreien-das-7-tage-reset-f-r-entspannte-eltern-55674.html)

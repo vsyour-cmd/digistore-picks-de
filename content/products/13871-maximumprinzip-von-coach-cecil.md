@@ -1,3 +1,24 @@
+---
+product_id: "13871"
+digistore24_product_id: 100729
+title: "MAXIMUMPRINZIP von Coach Cecil"
+vendor: "coachcecil"
+product_type: "Downloads"
+price: 307.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 153.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Sport"]
+listed_since: "2016-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.maximumprinzip.de/maft1?aff=adminstore#aff=adminstore"
+sales_page: "https://www.maximumprinzip.de/maft1"
+language: "de"
+---
 # MAXIMUMPRINZIP von Coach Cecil
 
 > Product ID `13871` · Digistore24 productId `100729` · [HTML profile page](../../produkte/maximumprinzip-von-coach-cecil-13871.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47959"
+digistore24_product_id: 549880
+title: "eBook Freilernen - selbstbestimmte Bildung begleiten"
+vendor: "Freiechtwunderbar"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2024-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/549880?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/549880"
+language: "de"
+---
 # eBook Freilernen - selbstbestimmte Bildung begleiten
 
 > Product ID `47959` · Digistore24 productId `549880` · [HTML profile page](../../produkte/ebook-freilernen-selbstbestimmte-bildung-begleiten-47959.html)

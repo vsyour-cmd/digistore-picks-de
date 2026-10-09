@@ -1,3 +1,24 @@
+---
+product_id: "57554"
+digistore24_product_id: 710318
+title: "+5 Wege zum passiven Einkommen Guide"
+vendor: "soudmohsin68cc4f"
+product_type: "E-books"
+price: 37.13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/710318?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710318"
+language: "de"
+---
 # +5 Wege zum passiven Einkommen Guide
 
 > Product ID `57554` · Digistore24 productId `710318` · [HTML profile page](../../produkte/5-wege-zum-passiven-einkommen-guide-57554.html)

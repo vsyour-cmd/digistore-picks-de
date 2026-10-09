@@ -1,3 +1,24 @@
+---
+product_id: "2661"
+digistore24_product_id: 22655
+title: "Verkaufstexter-Kompendium"
+vendor: "Beopal"
+product_type: "Downloads"
+price: 0.94
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 0.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2014-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verkaufstexter-kompendium.de?aff=adminstore#aff=adminstore"
+sales_page: "https://verkaufstexter-kompendium.de"
+language: "de"
+---
 # Verkaufstexter-Kompendium
 
 > Product ID `2661` · Digistore24 productId `22655` · [HTML profile page](../../produkte/verkaufstexter-kompendium-2661.html)

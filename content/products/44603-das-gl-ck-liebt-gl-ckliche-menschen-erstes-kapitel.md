@@ -1,3 +1,24 @@
+---
+product_id: "44603"
+digistore24_product_id: 447270
+title: "Das Glück liebt glückliche Menschen - Erstes Kapitel"
+vendor: "Deinechance"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Fun & Games","Home & Garden"]
+listed_since: "2022-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.dejansekulic.ch/kapitel1?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dejansekulic.ch/kapitel1"
+language: "de"
+---
 # Das Glück liebt glückliche Menschen - Erstes Kapitel
 
 > Product ID `44603` · Digistore24 productId `447270` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-erstes-kapitel-44603.html)

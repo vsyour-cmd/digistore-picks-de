@@ -1,3 +1,24 @@
+---
+product_id: "57490"
+digistore24_product_id: 710395
+title: "Raus aus der Müdigkeit (E-Book)"
+vendor: "worldxpb"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 7.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/710395?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710395"
+language: "de"
+---
 # Raus aus der Müdigkeit (E-Book)
 
 > Product ID `57490` · Digistore24 productId `710395` · [HTML profile page](../../produkte/raus-aus-der-m-digkeit-e-book-57490.html)

@@ -1,3 +1,24 @@
+---
+product_id: "31335"
+digistore24_product_id: 298374
+title: "Vegan, Einfach Selbstgemacht"
+vendor: "Beerenlecker"
+product_type: "Downloads"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2019-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/?aff=adminstore#aff=adminstore"
+sales_page: "https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/"
+language: "de"
+---
 # Vegan, Einfach Selbstgemacht
 
 > Product ID `31335` · Digistore24 productId `298374` · [HTML profile page](../../produkte/vegan-einfach-selbstgemacht-31335.html)

@@ -1,3 +1,24 @@
+---
+product_id: "15055"
+digistore24_product_id: 113631
+title: "Mundharmonika spielen: Melodiespiel mit Noten und Playbacks"
+vendor: "Activent"
+product_type: "Member area and video courses"
+price: 140.91
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2017-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mundharmonikaspielen.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mundharmonikaspielen.com/"
+language: "de"
+---
 # Mundharmonika spielen: Melodiespiel mit Noten und Playbacks
 
 > Product ID `15055` · Digistore24 productId `113631` · [HTML profile page](../../produkte/mundharmonika-spielen-melodiespiel-mit-noten-und-playbacks-15055.html)

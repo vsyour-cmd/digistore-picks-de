@@ -1,3 +1,24 @@
+---
+product_id: "51898"
+digistore24_product_id: 595192
+title: "eBook Modernes Spanisch lernen - Lektionen 1 bis 5"
+vendor: "digiheini"
+product_type: "Downloads"
+price: 8.37
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.dirk-wohlfeil.de/sp-endlich-den-einstieg-in-die-spanische-sprache-meistern-l1-bis-l5/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dirk-wohlfeil.de/sp-endlich-den-einstieg-in-die-spanische-sprache-meistern-l1-bis-l5/"
+language: "de"
+---
 # eBook Modernes Spanisch lernen - Lektionen 1 bis 5
 
 > Product ID `51898` · Digistore24 productId `595192` · [HTML profile page](../../produkte/ebook-modernes-spanisch-lernen-lektionen-1-bis-5-51898.html)

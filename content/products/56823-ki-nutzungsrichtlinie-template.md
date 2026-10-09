@@ -1,3 +1,24 @@
+---
+product_id: "56823"
+digistore24_product_id: 698838
+title: "KI Nutzungsrichtlinie Template"
+vendor: "dealpromo1217"
+product_type: "Downloads"
+price: 925.96
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 92.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Services"]
+listed_since: "2026-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/698838?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/698838"
+language: "de"
+---
 # KI Nutzungsrichtlinie Template
 
 > Product ID `56823` · Digistore24 productId `698838` · [HTML profile page](../../produkte/ki-nutzungsrichtlinie-template-56823.html)

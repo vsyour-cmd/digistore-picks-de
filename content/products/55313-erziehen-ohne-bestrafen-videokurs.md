@@ -1,3 +1,24 @@
+---
+product_id: "55313"
+digistore24_product_id: 654947
+title: "Erziehen ohne Bestrafen, Videokurs"
+vendor: "annewiegoldcoaching"
+product_type: "Downloads"
+price: 8.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/654947?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/654947"
+language: "de"
+---
 # Erziehen ohne Bestrafen, Videokurs
 
 > Product ID `55313` · Digistore24 productId `654947` · [HTML profile page](../../produkte/erziehen-ohne-bestrafen-videokurs-55313.html)

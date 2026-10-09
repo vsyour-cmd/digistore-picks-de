@@ -1,3 +1,24 @@
+---
+product_id: "50836"
+digistore24_product_id: 579927
+title: "Biz Builder Bootcamp"
+vendor: "weinand1986"
+product_type: "Member area and video courses"
+price: 1113.01
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 556.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-11-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michelweinand.systeme.io/bb-bootcamp?aff=adminstore#aff=adminstore"
+sales_page: "https://michelweinand.systeme.io/bb-bootcamp"
+language: "de"
+---
 # Biz Builder Bootcamp
 
 > Product ID `50836` · Digistore24 productId `579927` · [HTML profile page](../../produkte/biz-builder-bootcamp-50836.html)

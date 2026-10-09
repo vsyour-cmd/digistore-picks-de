@@ -1,3 +1,24 @@
+---
+product_id: "33412"
+digistore24_product_id: 323042
+title: "Freediving Masterclass"
+vendor: "SOjstersek"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2020-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.freitauchen-lernen.com/freediving-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freitauchen-lernen.com/freediving-masterclass/"
+language: "de"
+---
 # Freediving Masterclass
 
 > Product ID `33412` · Digistore24 productId `323042` · [HTML profile page](../../produkte/freediving-masterclass-33412.html)

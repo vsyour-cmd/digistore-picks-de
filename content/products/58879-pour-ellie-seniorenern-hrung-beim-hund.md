@@ -1,3 +1,24 @@
+---
+product_id: "58879"
+digistore24_product_id: 653103
+title: "Pour Ellie – Seniorenernährung beim Hund"
+vendor: "PourEllie"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs"
+language: "de"
+---
 # Pour Ellie – Seniorenernährung beim Hund
 
 > Product ID `58879` · Digistore24 productId `653103` · [HTML profile page](../../produkte/pour-ellie-seniorenern-hrung-beim-hund-58879.html)

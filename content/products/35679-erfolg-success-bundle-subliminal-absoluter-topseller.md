@@ -1,3 +1,24 @@
+---
+product_id: "35679"
+digistore24_product_id: 330154
+title: "Erfolg & Success-Bundle (Subliminal) Absoluter Topseller"
+vendor: "seiwunderbar"
+product_type: "Downloads"
+price: 26.31
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/?aff=adminstore#aff=adminstore"
+sales_page: "http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/"
+language: "de"
+---
 # Erfolg & Success-Bundle (Subliminal) Absoluter Topseller
 
 > Product ID `35679` · Digistore24 productId `330154` · [HTML profile page](../../produkte/erfolg-success-bundle-subliminal-absoluter-topseller-35679.html)

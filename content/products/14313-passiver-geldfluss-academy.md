@@ -1,3 +1,24 @@
+---
+product_id: "14313"
+digistore24_product_id: 101703
+title: "Passiver Geldfluss Academy"
+vendor: "Hegder"
+product_type: "Member area and video courses"
+price: 32.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2016-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://passivergeldfluss.academy?aff=adminstore#aff=adminstore"
+sales_page: "https://passivergeldfluss.academy"
+language: "de"
+---
 # Passiver Geldfluss Academy
 
 > Product ID `14313` · Digistore24 productId `101703` · [HTML profile page](../../produkte/passiver-geldfluss-academy-14313.html)

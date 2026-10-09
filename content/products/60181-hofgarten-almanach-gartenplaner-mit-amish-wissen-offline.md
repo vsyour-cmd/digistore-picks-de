@@ -1,3 +1,24 @@
+---
+product_id: "60181"
+digistore24_product_id: 738218
+title: "Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Software"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/"
+language: "de"
+---
 # Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline
 
 > Product ID `60181` · Digistore24 productId `738218` · [HTML profile page](../../produkte/hofgarten-almanach-gartenplaner-mit-amish-wissen-offline-60181.html)

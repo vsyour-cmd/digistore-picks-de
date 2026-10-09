@@ -1,3 +1,24 @@
+---
+product_id: "52713"
+digistore24_product_id: 615255
+title: "Militärische Spurensuche 1933 bis 1945 für Ahnenforscher"
+vendor: "tiamana"
+product_type: "Downloads"
+price: 8.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 4
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Hobby & Craft"]
+listed_since: "2025-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://welt-der-vorfahren.de/opa-im-krieg-militaerische-spurensuche-spickzettel/?aff=adminstore#aff=adminstore"
+sales_page: "https://welt-der-vorfahren.de/opa-im-krieg-militaerische-spurensuche-spickzettel/"
+language: "de"
+---
 # Militärische Spurensuche 1933 bis 1945 für Ahnenforscher
 
 > Product ID `52713` · Digistore24 productId `615255` · [HTML profile page](../../produkte/milit-rische-spurensuche-1933-bis-1945-f-r-ahnenforscher-52713.html)

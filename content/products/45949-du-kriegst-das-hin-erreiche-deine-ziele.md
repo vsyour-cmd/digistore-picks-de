@@ -1,3 +1,24 @@
+---
+product_id: "45949"
+digistore24_product_id: 523522
+title: "Du kriegst das hin! Erreiche deine Ziele!"
+vendor: "Deinechance"
+product_type: "Book (printed)"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Food & Drink","Home & Garden"]
+listed_since: "2023-11-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dejansekulic.ch/du-kriegst-das-hin?aff=adminstore#aff=adminstore"
+sales_page: "https://dejansekulic.ch/du-kriegst-das-hin"
+language: "de"
+---
 # Du kriegst das hin! Erreiche deine Ziele!
 
 > Product ID `45949` · Digistore24 productId `523522` · [HTML profile page](../../produkte/du-kriegst-das-hin-erreiche-deine-ziele-45949.html)

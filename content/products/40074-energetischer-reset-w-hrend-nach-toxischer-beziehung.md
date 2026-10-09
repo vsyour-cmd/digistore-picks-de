@@ -1,3 +1,24 @@
+---
+product_id: "40074"
+digistore24_product_id: 419278
+title: "ENERGETISCHER RESET während/ nach toxischer Beziehung"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2021-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://katja-amberg-shop.de/energetischer-reset?aff=adminstore#aff=adminstore"
+sales_page: "https://katja-amberg-shop.de/energetischer-reset"
+language: "de"
+---
 # ENERGETISCHER RESET während/ nach toxischer Beziehung
 
 > Product ID `40074` · Digistore24 productId `419278` · [HTML profile page](../../produkte/energetischer-reset-w-hrend-nach-toxischer-beziehung-40074.html)

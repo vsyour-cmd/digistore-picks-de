@@ -1,3 +1,24 @@
+---
+product_id: "52809"
+digistore24_product_id: 616865
+title: "Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)"
+vendor: "MoneyCreators"
+product_type: "Downloads"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing"]
+listed_since: "2025-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/ebook-schmiede?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/ebook-schmiede"
+language: "de"
+---
 # Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)
 
 > Product ID `52809` · Digistore24 productId `616865` · [HTML profile page](../../produkte/leadmagnetix-e-book-schmiede-2-0-relaunch-52809.html)

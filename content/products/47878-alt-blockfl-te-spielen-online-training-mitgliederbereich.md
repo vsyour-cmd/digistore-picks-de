@@ -1,3 +1,24 @@
+---
+product_id: "47878"
+digistore24_product_id: 543973
+title: "Alt-Blockflöte spielen - Online-Training +Mitgliederbereich"
+vendor: "Charlotte-Volland"
+product_type: "Webinar"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 9.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Education"]
+listed_since: "2024-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/543973?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/543973"
+language: "de"
+---
 # Alt-Blockflöte spielen - Online-Training +Mitgliederbereich
 
 > Product ID `47878` · Digistore24 productId `543973` · [HTML profile page](../../produkte/alt-blockfl-te-spielen-online-training-mitgliederbereich-47878.html)

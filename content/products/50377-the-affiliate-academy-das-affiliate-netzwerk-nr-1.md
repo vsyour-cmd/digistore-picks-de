@@ -1,3 +1,24 @@
+---
+product_id: "50377"
+digistore24_product_id: 519122
+title: "The Affiliate Academy - Das Affiliate Netzwerk Nr. 1"
+vendor: "marketingmarko"
+product_type: "Member area and video courses"
+price: 74.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.95
+cart_conversion_pct: 3
+cancel_rate_pct: 9.66
+categories: ["Business & Investment","Services"]
+listed_since: "2023-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.theaffiliateacademy.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.theaffiliateacademy.de/"
+language: "de"
+---
 # The Affiliate Academy - Das Affiliate Netzwerk Nr. 1
 
 > Product ID `50377` · Digistore24 productId `519122` · [HTML profile page](../../produkte/the-affiliate-academy-das-affiliate-netzwerk-nr-1-50377.html)

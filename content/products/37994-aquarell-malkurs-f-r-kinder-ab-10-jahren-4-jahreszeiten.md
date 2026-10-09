@@ -1,3 +1,24 @@
+---
+product_id: "37994"
+digistore24_product_id: 408957
+title: "Aquarell Malkurs für Kinder ab 10 Jahren \"4 Jahreszeiten\""
+vendor: "kolibrischool"
+product_type: "Member area and video courses"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2021-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kolibri-school.de/vier-jahreszeiten-malen/?aff=adminstore#aff=adminstore"
+sales_page: "https://kolibri-school.de/vier-jahreszeiten-malen/"
+language: "de"
+---
 # Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"
 
 > Product ID `37994` · Digistore24 productId `408957` · [HTML profile page](../../produkte/aquarell-malkurs-f-r-kinder-ab-10-jahren-4-jahreszeiten-37994.html)

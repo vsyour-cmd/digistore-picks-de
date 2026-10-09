@@ -1,3 +1,24 @@
+---
+product_id: "52149"
+digistore24_product_id: 608205
+title: "Frauenleuchten Onlinekurs- Hohe Provision"
+vendor: "Sinnplauderei"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 42.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2025-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/608205?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/608205"
+language: "de"
+---
 # Frauenleuchten Onlinekurs- Hohe Provision
 
 > Product ID `52149` · Digistore24 productId `608205` · [HTML profile page](../../produkte/frauenleuchten-onlinekurs-hohe-provision-52149.html)

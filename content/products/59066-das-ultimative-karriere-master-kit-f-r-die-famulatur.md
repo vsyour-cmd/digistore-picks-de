@@ -1,3 +1,24 @@
+---
+product_id: "59066"
+digistore24_product_id: 727262
+title: "Das ultimative Karriere Master-Kit für die Famulatur"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/famulatur/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/famulatur/"
+language: "de"
+---
 # Das ultimative Karriere Master-Kit für die Famulatur
 
 > Product ID `59066` · Digistore24 productId `727262` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-die-famulatur-59066.html)

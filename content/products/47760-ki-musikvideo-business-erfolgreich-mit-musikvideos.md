@@ -1,3 +1,24 @@
+---
+product_id: "47760"
+digistore24_product_id: 547933
+title: "KI Musikvideo Business - Erfolgreich mit Musikvideos"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-musikvideo-business-frontend499-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-musikvideo-business-frontend499-2/"
+language: "de"
+---
 # KI Musikvideo Business - Erfolgreich mit Musikvideos
 
 > Product ID `47760` · Digistore24 productId `547933` · [HTML profile page](../../produkte/ki-musikvideo-business-erfolgreich-mit-musikvideos-47760.html)

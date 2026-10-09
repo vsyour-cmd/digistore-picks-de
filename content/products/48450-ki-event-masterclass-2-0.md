@@ -1,3 +1,24 @@
+---
+product_id: "48450"
+digistore24_product_id: 555162
+title: "KI EVENT MASTERCLASS 2.0"
+vendor: "KESCHAcademy"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 196.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2024-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/555162?voucher=STARTKI99&voucher_not_locked&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/555162?voucher=STARTKI99&voucher_not_locked"
+language: "de"
+---
 # KI EVENT MASTERCLASS 2.0
 
 > Product ID `48450` · Digistore24 productId `555162` · [HTML profile page](../../produkte/ki-event-masterclass-2-0-48450.html)

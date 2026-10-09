@@ -1,3 +1,24 @@
+---
+product_id: "58281"
+digistore24_product_id: 720178
+title: "66 Tage Stoffwechsel Reise"
+vendor: "mutpunkt-pro"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 55.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/720178?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/720178"
+language: "de"
+---
 # 66 Tage Stoffwechsel Reise
 
 > Product ID `58281` · Digistore24 productId `720178` · [HTML profile page](../../produkte/66-tage-stoffwechsel-reise-58281.html)

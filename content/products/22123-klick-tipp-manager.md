@@ -1,3 +1,24 @@
+---
+product_id: "22123"
+digistore24_product_id: 195791
+title: "Klick-Tipp Manager"
+vendor: "klicktipp-solutions"
+product_type: "Downloads"
+price: 446.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 223.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2018-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.klicktipp-solutions.de/klick-tipp-manager/enterprise/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.klicktipp-solutions.de/klick-tipp-manager/enterprise/"
+language: "de"
+---
 # Klick-Tipp Manager
 
 > Product ID `22123` · Digistore24 productId `195791` · [HTML profile page](../../produkte/klick-tipp-manager-22123.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60165"
+digistore24_product_id: 741367
+title: "ChatGPT ADS Blueprint"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 5.22
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/5kae6oPtqE3R5eoub?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/5kae6oPtqE3R5eoub"
+language: "de"
+---
 # ChatGPT ADS Blueprint
 
 > Product ID `60165` · Digistore24 productId `741367` · [HTML profile page](../../produkte/chatgpt-ads-blueprint-60165.html)

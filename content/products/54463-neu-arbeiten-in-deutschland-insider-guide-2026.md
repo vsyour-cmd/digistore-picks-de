@@ -1,3 +1,24 @@
+---
+product_id: "54463"
+digistore24_product_id: 642256
+title: "NEU: Arbeiten in Deutschland – Insider Guide 2026"
+vendor: "ErichWartenberg"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Profession & Job"]
+listed_since: "2025-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/642256?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/642256"
+language: "de"
+---
 # NEU: Arbeiten in Deutschland – Insider Guide 2026
 
 > Product ID `54463` · Digistore24 productId `642256` · [HTML profile page](../../produkte/neu-arbeiten-in-deutschland-insider-guide-2026-54463.html)

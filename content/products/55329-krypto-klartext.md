@@ -1,3 +1,24 @@
+---
+product_id: "55329"
+digistore24_product_id: 664155
+title: "Krypto Klartext"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/iyz4TXaypavXLpJFC?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/iyz4TXaypavXLpJFC"
+language: "de"
+---
 # Krypto Klartext
 
 > Product ID `55329` · Digistore24 productId `664155` · [HTML profile page](../../produkte/krypto-klartext-55329.html)

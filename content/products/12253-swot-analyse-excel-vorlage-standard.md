@@ -1,3 +1,24 @@
+---
+product_id: "12253"
+digistore24_product_id: 72157
+title: "SWOT-Analyse Excel-Vorlage Standard"
+vendor: "meckseo"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2016-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore"
+sales_page: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/"
+language: "de"
+---
 # SWOT-Analyse Excel-Vorlage Standard
 
 > Product ID `12253` · Digistore24 productId `72157` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-standard-12253.html)

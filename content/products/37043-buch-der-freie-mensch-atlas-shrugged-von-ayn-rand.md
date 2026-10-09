@@ -1,3 +1,24 @@
+---
+product_id: "37043"
+digistore24_product_id: 389617
+title: "Buch \"Der freie Mensch / Atlas Shrugged\" von Ayn Rand"
+vendor: "thinkum"
+product_type: "Book (printed)"
+price: 62.72
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2021-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.aynrand.jetzt/buch-der-freie-mensch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aynrand.jetzt/buch-der-freie-mensch"
+language: "de"
+---
 # Buch "Der freie Mensch / Atlas Shrugged" von Ayn Rand
 
 > Product ID `37043` · Digistore24 productId `389617` · [HTML profile page](../../produkte/buch-der-freie-mensch-atlas-shrugged-von-ayn-rand-37043.html)

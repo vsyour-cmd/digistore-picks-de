@@ -1,3 +1,24 @@
+---
+product_id: "49375"
+digistore24_product_id: 569319
+title: "Herzensklang de Pferde - Bachblüten Therapie für Pferde"
+vendor: "stable-stuff"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2024-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stable-stuff.com/bachblueten-fuer-pferde-herzensklang-der-pferde?aff=adminstore#aff=adminstore"
+sales_page: "https://stable-stuff.com/bachblueten-fuer-pferde-herzensklang-der-pferde"
+language: "de"
+---
 # Herzensklang de Pferde - Bachblüten Therapie für Pferde
 
 > Product ID `49375` · Digistore24 productId `569319` · [HTML profile page](../../produkte/herzensklang-de-pferde-bachbl-ten-therapie-f-r-pferde-49375.html)

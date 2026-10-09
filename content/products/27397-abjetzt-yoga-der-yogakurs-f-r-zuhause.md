@@ -1,3 +1,24 @@
+---
+product_id: "27397"
+digistore24_product_id: 245625
+title: "ABJETZT/YOGA - Der Yogakurs für Zuhause"
+vendor: "abjetzt-daag"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 33.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/245625/adminstore"
+sales_page: "https://abjetztyoga.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # ABJETZT/YOGA - Der Yogakurs für Zuhause
 
 > Product ID `27397` · Digistore24 productId `245625` · [HTML profile page](../../produkte/abjetzt-yoga-der-yogakurs-f-r-zuhause-27397.html)

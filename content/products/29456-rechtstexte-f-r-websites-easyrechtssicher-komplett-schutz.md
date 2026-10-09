@@ -1,3 +1,24 @@
+---
+product_id: "29456"
+digistore24_product_id: 223615
+title: "Rechtstexte für Websites – easyRechtssicher Komplett-Schutz"
+vendor: "Paragraf7"
+product_type: "Member area and video courses"
+price: 1446.2
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 18.9
+cart_conversion_pct: 12
+cancel_rate_pct: 2.7
+categories: ["Law & Justice"]
+listed_since: "2018-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://easyrechtssicher.de/produkte/datenschutz-generator/?aff=adminstore#aff=adminstore"
+sales_page: "https://easyrechtssicher.de/produkte/datenschutz-generator/"
+language: "de"
+---
 # Rechtstexte für Websites – easyRechtssicher Komplett-Schutz
 
 > Product ID `29456` · Digistore24 productId `223615` · [HTML profile page](../../produkte/rechtstexte-f-r-websites-easyrechtssicher-komplett-schutz-29456.html)

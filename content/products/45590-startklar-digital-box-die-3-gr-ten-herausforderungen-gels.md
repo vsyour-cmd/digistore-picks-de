@@ -1,3 +1,24 @@
+---
+product_id: "45590"
+digistore24_product_id: 519822
+title: "StartKlar Digital-Box - Die 3 größten Herausforderungen gels"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Startklar_Digital-Box?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Startklar_Digital-Box"
+language: "de"
+---
 # StartKlar Digital-Box - Die 3 größten Herausforderungen gels
 
 > Product ID `45590` · Digistore24 productId `519822` · [HTML profile page](../../produkte/startklar-digital-box-die-3-gr-ten-herausforderungen-gels-45590.html)

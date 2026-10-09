@@ -1,3 +1,24 @@
+---
+product_id: "51364"
+digistore24_product_id: 592116
+title: "eBook - Gesunde Ernährung mit Kindern"
+vendor: "Freiechtwunderbar"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink"]
+listed_since: "2025-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/592116?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/592116"
+language: "de"
+---
 # eBook - Gesunde Ernährung mit Kindern
 
 > Product ID `51364` · Digistore24 productId `592116` · [HTML profile page](../../produkte/ebook-gesunde-ern-hrung-mit-kindern-51364.html)

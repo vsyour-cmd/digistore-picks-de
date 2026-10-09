@@ -1,3 +1,24 @@
+---
+product_id: "56063"
+digistore24_product_id: 680060
+title: "Der Folgetrieb - So bleibt dein Hund freiwillig bei dir"
+vendor: "DJuentgen"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 15.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/680060?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/680060"
+language: "de"
+---
 # Der Folgetrieb - So bleibt dein Hund freiwillig bei dir
 
 > Product ID `56063` · Digistore24 productId `680060` · [HTML profile page](../../produkte/der-folgetrieb-so-bleibt-dein-hund-freiwillig-bei-dir-56063.html)

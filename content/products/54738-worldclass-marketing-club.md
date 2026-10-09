@@ -1,3 +1,24 @@
+---
+product_id: "54738"
+digistore24_product_id: 650688
+title: "Worldclass Marketing CLUB"
+vendor: "TheWolfofSales"
+product_type: "Member area and video courses"
+price: 1268.06
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 887.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2025-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/650688?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/650688"
+language: "de"
+---
 # Worldclass Marketing CLUB
 
 > Product ID `54738` · Digistore24 productId `650688` · [HTML profile page](../../produkte/worldclass-marketing-club-54738.html)

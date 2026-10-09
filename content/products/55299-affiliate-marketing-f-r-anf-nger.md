@@ -1,3 +1,24 @@
+---
+product_id: "55299"
+digistore24_product_id: 663035
+title: "Affiliate- Marketing für Anfänger"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 48
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-01-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/fbNbj8nb5cJA82Mgd?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/fbNbj8nb5cJA82Mgd"
+language: "de"
+---
 # Affiliate- Marketing für Anfänger
 
 > Product ID `55299` · Digistore24 productId `663035` · [HTML profile page](../../produkte/affiliate-marketing-f-r-anf-nger-55299.html)

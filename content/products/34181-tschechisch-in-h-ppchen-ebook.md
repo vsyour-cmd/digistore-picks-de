@@ -1,3 +1,24 @@
+---
+product_id: "34181"
+digistore24_product_id: 350016
+title: "Tschechisch in Häppchen - eBook"
+vendor: "linguatools"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2020-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tschechischblog.de/tschechisch-in-haeppchen-ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://tschechischblog.de/tschechisch-in-haeppchen-ebook"
+language: "de"
+---
 # Tschechisch in Häppchen - eBook
 
 > Product ID `34181` · Digistore24 productId `350016` · [HTML profile page](../../produkte/tschechisch-in-h-ppchen-ebook-34181.html)

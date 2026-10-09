@@ -1,3 +1,24 @@
+---
+product_id: "57495"
+digistore24_product_id: 711056
+title: "Digitales Marketing - Geld online verdienen Online Business"
+vendor: "FreedomBusinessSH3"
+product_type: "Member area and video courses"
+price: 375.08
+currency: "USD"
+affiliate_commission_pct: 57
+earnings_per_sale: 213.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-07-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.freedom-online-business.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freedom-online-business.de/"
+language: "de"
+---
 # Digitales Marketing - Geld online verdienen Online Business
 
 > Product ID `57495` · Digistore24 productId `711056` · [HTML profile page](../../produkte/digitales-marketing-geld-online-verdienen-online-business-57495.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55627"
+digistore24_product_id: 665463
+title: "Fit Fuel Premium App – Der digitale Personal Trainer"
+vendor: "Vali_572"
+product_type: "E-books"
+price: 15.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://daily-balance.at?aff=adminstore#aff=adminstore"
+sales_page: "https://daily-balance.at"
+language: "de"
+---
 # Fit Fuel Premium App – Der digitale Personal Trainer
 
 > Product ID `55627` · Digistore24 productId `665463` · [HTML profile page](../../produkte/fit-fuel-premium-app-der-digitale-personal-trainer-55627.html)

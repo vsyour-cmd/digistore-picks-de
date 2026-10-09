@@ -1,3 +1,24 @@
+---
+product_id: "16197"
+digistore24_product_id: 116853
+title: "Wohlstand Bundle – Wohlstand auf Knopfdruck anziehen"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Profession & Job"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/prosperity-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/prosperity-bundle/"
+language: "de"
+---
 # Wohlstand Bundle – Wohlstand auf Knopfdruck anziehen
 
 > Product ID `16197` · Digistore24 productId `116853` · [HTML profile page](../../produkte/wohlstand-bundle-wohlstand-auf-knopfdruck-anziehen-16197.html)

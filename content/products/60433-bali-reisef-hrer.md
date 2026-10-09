@@ -1,3 +1,24 @@
+---
+product_id: "60433"
+digistore24_product_id: 743944
+title: "Bali Reiseführer"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Travel & Culture"]
+listed_since: "2026-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/743944?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/743944"
+language: "de"
+---
 # Bali Reiseführer
 
 > Product ID `60433` · Digistore24 productId `743944` · [HTML profile page](../../produkte/bali-reisef-hrer-60433.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46012"
+digistore24_product_id: 527160
+title: "Gratis Isochrone Töne – Direkter Download"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 19
+cancel_rate_pct: 0.26
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2023-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/"
+language: "de"
+---
 # Gratis Isochrone Töne – Direkter Download
 
 > Product ID `46012` · Digistore24 productId `527160` · [HTML profile page](../../produkte/gratis-isochrone-t-ne-direkter-download-46012.html)

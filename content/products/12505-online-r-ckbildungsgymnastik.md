@@ -1,3 +1,24 @@
+---
+product_id: "12505"
+digistore24_product_id: 84939
+title: "Online Rückbildungsgymnastik"
+vendor: "marketingpro"
+product_type: "Downloads"
+price: 43.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.94
+cart_conversion_pct: 8
+cancel_rate_pct: 1.22
+categories: ["Health & Fitness"]
+listed_since: "2016-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://mami-first.de/lpg/?aff=adminstore#aff=adminstore"
+sales_page: "https://mami-first.de/lpg/"
+language: "de"
+---
 # Online Rückbildungsgymnastik
 
 > Product ID `12505` · Digistore24 productId `84939` · [HTML profile page](../../produkte/online-r-ckbildungsgymnastik-12505.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55694"
+digistore24_product_id: 638320
+title: "KI Fluencer"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 46.43
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 21.14
+cart_conversion_pct: 14
+cancel_rate_pct: 0.78
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kimate.de/kifvideo/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kimate.de/kifvideo/"
+language: "de"
+---
 # KI Fluencer
 
 > Product ID `55694` · Digistore24 productId `638320` · [HTML profile page](../../produkte/ki-fluencer-55694.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60191"
+digistore24_product_id: 732901
+title: "Digitale Ordnung für Dateien und E-Mails"
+vendor: "woitaskruederb3c5"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Office Organization"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung?aff=adminstore#aff=adminstore"
+sales_page: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung"
+language: "de"
+---
 # Digitale Ordnung für Dateien und E-Mails
 
 > Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../produkte/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)

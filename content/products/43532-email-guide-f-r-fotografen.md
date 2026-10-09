@@ -1,3 +1,24 @@
+---
+product_id: "43532"
+digistore24_product_id: 447443
+title: "EMAIL GUIDE für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 16.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/email-guide-by-julia-x-gil/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/email-guide-by-julia-x-gil/"
+language: "de"
+---
 # EMAIL GUIDE für Fotografen
 
 > Product ID `43532` · Digistore24 productId `447443` · [HTML profile page](../../produkte/email-guide-f-r-fotografen-43532.html)

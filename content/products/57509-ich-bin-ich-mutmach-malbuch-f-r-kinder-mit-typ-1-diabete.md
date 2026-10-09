@@ -1,3 +1,24 @@
+---
+product_id: "57509"
+digistore24_product_id: 710085
+title: "„Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Health & Fitness"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/"
+language: "de"
+---
 # „Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete
 
 > Product ID `57509` · Digistore24 productId `710085` · [HTML profile page](../../produkte/ich-bin-ich-mutmach-malbuch-f-r-kinder-mit-typ-1-diabete-57509.html)

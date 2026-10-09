@@ -1,3 +1,24 @@
+---
+product_id: "48755"
+digistore24_product_id: 556468
+title: "\"Dein KI-Business\" - Künstliche Intelligenz PRO - Videokurse"
+vendor: "O112358"
+product_type: "Member area and video courses"
+price: 374.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 187.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2024-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kuenstliche-intelligenz.pro?aff=adminstore#aff=adminstore"
+sales_page: "https://kuenstliche-intelligenz.pro"
+language: "de"
+---
 # "Dein KI-Business" - Künstliche Intelligenz PRO - Videokurse
 
 > Product ID `48755` · Digistore24 productId `556468` · [HTML profile page](../../produkte/dein-ki-business-k-nstliche-intelligenz-pro-videokurse-48755.html)

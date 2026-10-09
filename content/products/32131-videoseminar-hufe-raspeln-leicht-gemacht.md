@@ -1,3 +1,24 @@
+---
+product_id: "32131"
+digistore24_product_id: 232818
+title: "Videoseminar: Hufe raspeln leicht gemacht"
+vendor: "SandraFencl"
+product_type: "Downloads"
+price: 27.73
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2018-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/232818?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/232818"
+language: "de"
+---
 # Videoseminar: Hufe raspeln leicht gemacht
 
 > Product ID `32131` · Digistore24 productId `232818` · [HTML profile page](../../produkte/videoseminar-hufe-raspeln-leicht-gemacht-32131.html)

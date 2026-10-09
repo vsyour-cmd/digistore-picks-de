@@ -1,3 +1,24 @@
+---
+product_id: "48005"
+digistore24_product_id: 550528
+title: "Geld verdienen mit Youtube (Gratis Geschenk)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.5
+cart_conversion_pct: 32
+cancel_rate_pct: 2.26
+categories: ["Computer & Internet","Social Media"]
+listed_since: "2024-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/youtube-ki-money-profit?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/youtube-ki-money-profit"
+language: "de"
+---
 # Geld verdienen mit Youtube (Gratis Geschenk)
 
 > Product ID `48005` · Digistore24 productId `550528` · [HTML profile page](../../produkte/geld-verdienen-mit-youtube-gratis-geschenk-48005.html)

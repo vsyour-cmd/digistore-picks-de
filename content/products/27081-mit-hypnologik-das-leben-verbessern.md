@@ -1,3 +1,24 @@
+---
+product_id: "27081"
+digistore24_product_id: 248660
+title: "Mit Hypnologik das Leben verbessern"
+vendor: "Hypnologik"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.hypnologik.de/hypnosen-zum-download/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hypnologik.de/hypnosen-zum-download/"
+language: "de"
+---
 # Mit Hypnologik das Leben verbessern
 
 > Product ID `27081` · Digistore24 productId `248660` · [HTML profile page](../../produkte/mit-hypnologik-das-leben-verbessern-27081.html)

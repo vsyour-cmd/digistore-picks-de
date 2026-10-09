@@ -1,3 +1,24 @@
+---
+product_id: "56784"
+digistore24_product_id: 697117
+title: "Auditbericht-Template für ISO-Managementsysteme"
+vendor: "MSB-Bartels"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Project Management"]
+listed_since: "2026-06-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://msb-bup.de/service/?aff=adminstore#aff=adminstore"
+sales_page: "https://msb-bup.de/service/"
+language: "de"
+---
 # Auditbericht-Template für ISO-Managementsysteme
 
 > Product ID `56784` · Digistore24 productId `697117` · [HTML profile page](../../produkte/auditbericht-template-f-r-iso-managementsysteme-56784.html)

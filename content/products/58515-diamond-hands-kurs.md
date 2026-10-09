@@ -1,3 +1,24 @@
+---
+product_id: "58515"
+digistore24_product_id: 680424
+title: "Diamond Hands Kurs"
+vendor: "Loewin999"
+product_type: "Member area and video courses"
+price: 733.2
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 109.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marinathomsen.de/webinar?aff=adminstore#aff=adminstore"
+sales_page: "https://marinathomsen.de/webinar"
+language: "de"
+---
 # Diamond Hands Kurs
 
 > Product ID `58515` · Digistore24 productId `680424` · [HTML profile page](../../produkte/diamond-hands-kurs-58515.html)

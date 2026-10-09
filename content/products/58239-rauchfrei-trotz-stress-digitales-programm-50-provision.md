@@ -1,3 +1,24 @@
+---
+product_id: "58239"
+digistore24_product_id: 717828
+title: "Rauchfrei trotz Stress – digitales Programm + 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe"
+language: "de"
+---
 # Rauchfrei trotz Stress – digitales Programm + 50 % Provision
 
 > Product ID `58239` · Digistore24 productId `717828` · [HTML profile page](../../produkte/rauchfrei-trotz-stress-digitales-programm-50-provision-58239.html)

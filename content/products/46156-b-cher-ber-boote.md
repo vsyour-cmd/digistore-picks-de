@@ -1,3 +1,24 @@
+---
+product_id: "46156"
+digistore24_product_id: 468129
+title: "Bücher über Boote"
+vendor: "Yachtinside"
+product_type: "Book (printed)"
+price: 55.5
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 10.62
+cart_conversion_pct: 11
+cancel_rate_pct: 0.68
+categories: ["Education","Hobby & Craft","Travel & Culture"]
+listed_since: "2022-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://yachtinside.de/eundprint/?aff=adminstore#aff=adminstore"
+sales_page: "https://yachtinside.de/eundprint/"
+language: "de"
+---
 # Bücher über Boote
 
 > Product ID `46156` · Digistore24 productId `468129` · [HTML profile page](../../produkte/b-cher-ber-boote-46156.html)

@@ -1,3 +1,24 @@
+---
+product_id: "27738"
+digistore24_product_id: 222381
+title: "CFD Daytrading Signale"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 171.27
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 42.62
+cart_conversion_pct: 9
+cancel_rate_pct: 14.79
+categories: ["Trading Products"]
+listed_since: "2018-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/cfd-daytrading-handelssignale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/cfd-daytrading-handelssignale/"
+language: "de"
+---
 # CFD Daytrading Signale
 
 > Product ID `27738` · Digistore24 productId `222381` · [HTML profile page](../../produkte/cfd-daytrading-signale-27738.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42088"
+digistore24_product_id: 427128
+title: "COVID-Impfung Ausleitungs-VIDEO"
+vendor: "gsundsi"
+product_type: "Member area and video courses"
+price: 21.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.13
+cart_conversion_pct: 19
+cancel_rate_pct: 29.62
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-01-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/"
+language: "de"
+---
 # COVID-Impfung Ausleitungs-VIDEO
 
 > Product ID `42088` · Digistore24 productId `427128` · [HTML profile page](../../produkte/covid-impfung-ausleitungs-video-42088.html)

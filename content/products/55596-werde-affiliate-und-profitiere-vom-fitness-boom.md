@@ -1,3 +1,24 @@
+---
+product_id: "55596"
+digistore24_product_id: 667201
+title: "Werde Affiliate und profitiere vom Fitness-Boom"
+vendor: "purple-toaster110"
+product_type: "Downloads"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/667201?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/667201"
+language: "de"
+---
 # Werde Affiliate und profitiere vom Fitness-Boom
 
 > Product ID `55596` · Digistore24 productId `667201` · [HTML profile page](../../produkte/werde-affiliate-und-profitiere-vom-fitness-boom-55596.html)

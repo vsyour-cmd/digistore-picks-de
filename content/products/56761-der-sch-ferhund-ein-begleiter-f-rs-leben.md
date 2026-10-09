@@ -1,3 +1,24 @@
+---
+product_id: "56761"
+digistore24_product_id: 665663
+title: "Der Schäferhund ein Begleiter fürs Leben"
+vendor: "Towink"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Hobby & Craft","Profession & Job"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665663?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665663"
+language: "de"
+---
 # Der Schäferhund ein Begleiter fürs Leben
 
 > Product ID `56761` · Digistore24 productId `665663` · [HTML profile page](../../produkte/der-sch-ferhund-ein-begleiter-f-rs-leben-56761.html)

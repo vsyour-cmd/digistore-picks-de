@@ -1,3 +1,24 @@
+---
+product_id: "25913"
+digistore24_product_id: 58827
+title: "Körperfeldcoaching Clips - Körperintelligenz nutzen"
+vendor: "doitAkademie"
+product_type: "Member area and video courses"
+price: 214.22
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 426.84
+cart_conversion_pct: 4
+cancel_rate_pct: 10.43
+categories: ["Health & Fitness"]
+listed_since: "2015-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bodysense.de/koerperfeldcoaching-clips/?aff=adminstore#aff=adminstore"
+sales_page: "https://bodysense.de/koerperfeldcoaching-clips/"
+language: "de"
+---
 # Körperfeldcoaching Clips - Körperintelligenz nutzen
 
 > Product ID `25913` · Digistore24 productId `58827` · [HTML profile page](../../produkte/k-rperfeldcoaching-clips-k-rperintelligenz-nutzen-25913.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55518"
+digistore24_product_id: 557923
+title: "Closet Cleanse und  Style Transformation Kurs"
+vendor: "PersonalStylistSabine"
+product_type: "Member area and video courses"
+price: 158.84
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 23.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Fashion"]
+listed_since: "2024-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/557923?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/557923"
+language: "de"
+---
 # Closet Cleanse und  Style Transformation Kurs
 
 > Product ID `55518` · Digistore24 productId `557923` · [HTML profile page](../../produkte/closet-cleanse-und-style-transformation-kurs-55518.html)

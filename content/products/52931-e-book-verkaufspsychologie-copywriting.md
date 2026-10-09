@@ -1,3 +1,24 @@
+---
+product_id: "52931"
+digistore24_product_id: 619452
+title: "E-Book - Verkaufspsychologie + Copywriting"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Copywriting-E-Book?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Copywriting-E-Book"
+language: "de"
+---
 # E-Book - Verkaufspsychologie + Copywriting
 
 > Product ID `52931` · Digistore24 productId `619452` · [HTML profile page](../../produkte/e-book-verkaufspsychologie-copywriting-52931.html)

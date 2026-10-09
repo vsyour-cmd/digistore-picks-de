@@ -1,3 +1,24 @@
+---
+product_id: "38359"
+digistore24_product_id: 417403
+title: "HTML Online-Kurs für Einsteiger"
+vendor: "andreaspabst"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2021-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://onlinebusinessschmiede.apprex.net/courses/html-onlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinebusinessschmiede.apprex.net/courses/html-onlinekurs"
+language: "de"
+---
 # HTML Online-Kurs für Einsteiger
 
 > Product ID `38359` · Digistore24 productId `417403` · [HTML profile page](../../produkte/html-online-kurs-f-r-einsteiger-38359.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55523"
+digistore24_product_id: 663219
+title: "e-InvoicePro - das E-Rechnungstool"
+vendor: "Kaiwgt"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 16.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Office Organization"]
+listed_since: "2026-01-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/663219?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/663219"
+language: "de"
+---
 # e-InvoicePro - das E-Rechnungstool
 
 > Product ID `55523` · Digistore24 productId `663219` · [HTML profile page](../../produkte/e-invoicepro-das-e-rechnungstool-55523.html)

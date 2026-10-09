@@ -1,3 +1,24 @@
+---
+product_id: "57354"
+digistore24_product_id: 689114
+title: "Das Casting-Profil, das überzeugt — Fokus-Kurs"
+vendor: "silja3cbc"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 9.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.peoplecastagency.com/kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.peoplecastagency.com/kurs"
+language: "de"
+---
 # Das Casting-Profil, das überzeugt — Fokus-Kurs
 
 > Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../produkte/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)

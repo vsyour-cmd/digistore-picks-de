@@ -1,3 +1,24 @@
+---
+product_id: "55013"
+digistore24_product_id: 652004
+title: "Master Of Cashflow | Community Version"
+vendor: "Tim_Ecommerce"
+product_type: "Member area and video courses"
+price: 56.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 28.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2025-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652004?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652004"
+language: "de"
+---
 # Master Of Cashflow | Community Version
 
 > Product ID `55013` · Digistore24 productId `652004` · [HTML profile page](../../produkte/master-of-cashflow-community-version-55013.html)

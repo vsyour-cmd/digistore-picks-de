@@ -1,3 +1,24 @@
+---
+product_id: "22867"
+digistore24_product_id: 202329
+title: "Das Experten E-Book über Wasserfilter!"
+vendor: "H2O-Beratungscenter"
+product_type: "Downloads"
+price: 27.95
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 12.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://wasserfilter-doc.com/e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://wasserfilter-doc.com/e-book/"
+language: "de"
+---
 # Das Experten E-Book über Wasserfilter!
 
 > Product ID `22867` · Digistore24 productId `202329` · [HTML profile page](../../produkte/das-experten-e-book-ber-wasserfilter-22867.html)

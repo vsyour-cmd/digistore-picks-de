@@ -1,3 +1,24 @@
+---
+product_id: "56021"
+digistore24_product_id: 675154
+title: "Email Performance Club: 40% Abo Provision + 50-80% Upsells"
+vendor: "Chris-B"
+product_type: "Member area and video courses"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 31.52
+cart_conversion_pct: 5
+cancel_rate_pct: 5.55
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://chrisboenig.com/epc/?aff=adminstore#aff=adminstore"
+sales_page: "https://chrisboenig.com/epc/"
+language: "de"
+---
 # Email Performance Club: 40% Abo Provision + 50-80% Upsells
 
 > Product ID `56021` · Digistore24 productId `675154` · [HTML profile page](../../produkte/email-performance-club-40-abo-provision-50-80-upsells-56021.html)

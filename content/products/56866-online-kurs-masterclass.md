@@ -1,3 +1,24 @@
+---
+product_id: "56866"
+digistore24_product_id: 444328
+title: "Online Kurs Masterclass"
+vendor: "anchukoegl"
+product_type: "Member area and video courses"
+price: 2677.93
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 669.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://anchukoegl.com/obm-sonderpreis/?aff=adminstore#aff=adminstore"
+sales_page: "https://anchukoegl.com/obm-sonderpreis/"
+language: "de"
+---
 # Online Kurs Masterclass
 
 > Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)

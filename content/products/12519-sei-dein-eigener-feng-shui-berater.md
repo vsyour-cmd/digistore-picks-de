@@ -1,3 +1,24 @@
+---
+product_id: "12519"
+digistore24_product_id: 89821
+title: "Sei Dein eigener Feng Shui Berater"
+vendor: "Feng-Shui-Digital"
+product_type: "Member area and video courses"
+price: 169.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 84.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2016-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://feng-shui.de/feng-shui-workshop-online/?aff=adminstore#aff=adminstore"
+sales_page: "https://feng-shui.de/feng-shui-workshop-online/"
+language: "de"
+---
 # Sei Dein eigener Feng Shui Berater
 
 > Product ID `12519` · Digistore24 productId `89821` · [HTML profile page](../../produkte/sei-dein-eigener-feng-shui-berater-12519.html)

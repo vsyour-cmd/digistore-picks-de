@@ -1,3 +1,24 @@
+---
+product_id: "56791"
+digistore24_product_id: 697092
+title: "Der Ratgeber für PV und Wärmepumpe"
+vendor: "michaeljentkiewicz8e7c"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 11.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Home & Garden","Real Estate"]
+listed_since: "2026-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/697092?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/697092"
+language: "de"
+---
 # Der Ratgeber für PV und Wärmepumpe
 
 > Product ID `56791` · Digistore24 productId `697092` · [HTML profile page](../../produkte/der-ratgeber-f-r-pv-und-w-rmepumpe-56791.html)

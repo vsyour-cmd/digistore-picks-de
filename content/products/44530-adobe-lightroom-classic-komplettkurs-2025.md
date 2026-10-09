@@ -1,3 +1,24 @@
+---
+product_id: "44530"
+digistore24_product_id: 497054
+title: "Adobe Lightroom Classic - Komplettkurs 2025"
+vendor: "videotraining"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 112.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2023-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lightroomkurs.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lightroomkurs.com"
+language: "de"
+---
 # Adobe Lightroom Classic - Komplettkurs 2025
 
 > Product ID `44530` · Digistore24 productId `497054` · [HTML profile page](../../produkte/adobe-lightroom-classic-komplettkurs-2025-44530.html)

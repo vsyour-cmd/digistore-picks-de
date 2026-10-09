@@ -1,3 +1,24 @@
+---
+product_id: "48358"
+digistore24_product_id: 477488
+title: "Verstehe dein inneres Kind - Minikurs vom Psychologen"
+vendor: "RamonSchlemmbach"
+product_type: "Member area and video courses"
+price: 27.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.96
+cart_conversion_pct: 16
+cancel_rate_pct: 1.57
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2023-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/477488?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/477488"
+language: "de"
+---
 # Verstehe dein inneres Kind - Minikurs vom Psychologen
 
 > Product ID `48358` · Digistore24 productId `477488` · [HTML profile page](../../produkte/verstehe-dein-inneres-kind-minikurs-vom-psychologen-48358.html)

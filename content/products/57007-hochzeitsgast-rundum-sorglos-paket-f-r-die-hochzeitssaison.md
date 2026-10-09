@@ -1,3 +1,24 @@
+---
+product_id: "57007"
+digistore24_product_id: 699782
+title: "Hochzeitsgast-Rundum-Sorglos-Paket - für die Hochzeitssaison"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 7.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Fashion"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hochzeitszauberwelt.de/das-rundum-sorglos-paket-fuer-hochzeitsgaeste/?aff=adminstore#aff=adminstore"
+sales_page: "https://hochzeitszauberwelt.de/das-rundum-sorglos-paket-fuer-hochzeitsgaeste/"
+language: "de"
+---
 # Hochzeitsgast-Rundum-Sorglos-Paket - für die Hochzeitssaison
 
 > Product ID `57007` · Digistore24 productId `699782` · [HTML profile page](../../produkte/hochzeitsgast-rundum-sorglos-paket-f-r-die-hochzeitssaison-57007.html)

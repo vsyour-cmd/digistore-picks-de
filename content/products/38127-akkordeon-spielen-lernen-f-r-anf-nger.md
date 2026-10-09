@@ -1,3 +1,24 @@
+---
+product_id: "38127"
+digistore24_product_id: 13613
+title: "Akkordeon spielen lernen für Anfänger"
+vendor: "doormaker"
+product_type: "Member area and video courses"
+price: 552.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 276.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2013-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.onlinemusikschule.info/akkordeon-spielen-lernen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinemusikschule.info/akkordeon-spielen-lernen"
+language: "de"
+---
 # Akkordeon spielen lernen für Anfänger
 
 > Product ID `38127` · Digistore24 productId `13613` · [HTML profile page](../../produkte/akkordeon-spielen-lernen-f-r-anf-nger-38127.html)

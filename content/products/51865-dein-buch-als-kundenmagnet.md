@@ -1,3 +1,24 @@
+---
+product_id: "51865"
+digistore24_product_id: 601291
+title: "Dein Buch als Kundenmagnet"
+vendor: "onlineratgeber24"
+product_type: "Member area and video courses"
+price: 382.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 191.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing","Marketing Services"]
+listed_since: "2025-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.startimpulse.online/eigenes-buch-schreiben/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startimpulse.online/eigenes-buch-schreiben/"
+language: "de"
+---
 # Dein Buch als Kundenmagnet
 
 > Product ID `51865` · Digistore24 productId `601291` · [HTML profile page](../../produkte/dein-buch-als-kundenmagnet-51865.html)

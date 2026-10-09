@@ -1,3 +1,24 @@
+---
+product_id: "31800"
+digistore24_product_id: 472467
+title: "„Zurück zum Ursprung“ - Der einzigartige Onlinekurs"
+vendor: "phoenix999"
+product_type: "Member area and video courses"
+price: 241.11
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 31.73
+cart_conversion_pct: 23
+cancel_rate_pct: 3.56
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e"
+language: "de"
+---
 # „Zurück zum Ursprung“ - Der einzigartige Onlinekurs
 
 > Product ID `31800` · Digistore24 productId `472467` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-der-einzigartige-onlinekurs-31800.html)

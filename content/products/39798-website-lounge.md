@@ -1,3 +1,24 @@
+---
+product_id: "39798"
+digistore24_product_id: 433212
+title: "Website Lounge"
+vendor: "StefanieBlume"
+product_type: "Member area and video courses"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2022-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/433212?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/433212"
+language: "de"
+---
 # Website Lounge
 
 > Product ID `39798` · Digistore24 productId `433212` · [HTML profile page](../../produkte/website-lounge-39798.html)

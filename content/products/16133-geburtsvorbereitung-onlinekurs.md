@@ -1,3 +1,24 @@
+---
+product_id: "16133"
+digistore24_product_id: 81713
+title: "Geburtsvorbereitung Onlinekurs"
+vendor: "beermann"
+product_type: "Member area and video courses"
+price: 103.34
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 33.82
+cart_conversion_pct: 20
+cancel_rate_pct: 0.42
+categories: ["Health & Fitness"]
+listed_since: "2016-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.nadine-beermann.de/onlinekurs-gvb/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.nadine-beermann.de/onlinekurs-gvb/"
+language: "de"
+---
 # Geburtsvorbereitung Onlinekurs
 
 > Product ID `16133` · Digistore24 productId `81713` · [HTML profile page](../../produkte/geburtsvorbereitung-onlinekurs-16133.html)

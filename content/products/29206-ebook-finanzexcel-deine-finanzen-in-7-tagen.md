@@ -1,3 +1,24 @@
+---
+product_id: "29206"
+digistore24_product_id: 237430
+title: "eBook + Finanzexcel: Deine Finanzen in 7 Tagen"
+vendor: "geldschnurrbart"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2018-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://geldschnurrbart.de/ebook-deine_finanzen_in_7_tagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://geldschnurrbart.de/ebook-deine_finanzen_in_7_tagen/"
+language: "de"
+---
 # eBook + Finanzexcel: Deine Finanzen in 7 Tagen
 
 > Product ID `29206` · Digistore24 productId `237430` · [HTML profile page](../../produkte/ebook-finanzexcel-deine-finanzen-in-7-tagen-29206.html)

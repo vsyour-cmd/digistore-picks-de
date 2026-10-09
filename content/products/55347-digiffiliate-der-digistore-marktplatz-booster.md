@@ -1,3 +1,24 @@
+---
+product_id: "55347"
+digistore24_product_id: 659704
+title: "Digiffiliate – Der Digistore Marktplatz-Booster"
+vendor: "digiffiliateapp"
+product_type: "Software"
+price: 1.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.36
+cart_conversion_pct: 39
+cancel_rate_pct: 0
+categories: ["Software","Marketing Services"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://digiffiliate.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://digiffiliate.com/"
+language: "de"
+---
 # Digiffiliate – Der Digistore Marktplatz-Booster
 
 > Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../produkte/digiffiliate-der-digistore-marktplatz-booster-55347.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59529"
+digistore24_product_id: 692787
+title: "50% Provision: MicroTool ProzessLandkarte"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 215.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 107.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692787?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692787"
+language: "de"
+---
 # 50% Provision: MicroTool ProzessLandkarte
 
 > Product ID `59529` · Digistore24 productId `692787` · [HTML profile page](../../produkte/50-provision-microtool-prozesslandkarte-59529.html)

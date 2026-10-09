@@ -1,3 +1,24 @@
+---
+product_id: "32940"
+digistore24_product_id: 327139
+title: "Der vegane Meal Planner Guide (E-Book)"
+vendor: "Melanie341"
+product_type: "E-books"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-05-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://vegaliferocks.de/vegan-kochen-buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://vegaliferocks.de/vegan-kochen-buch/"
+language: "de"
+---
 # Der vegane Meal Planner Guide (E-Book)
 
 > Product ID `32940` · Digistore24 productId `327139` · [HTML profile page](../../produkte/der-vegane-meal-planner-guide-e-book-32940.html)

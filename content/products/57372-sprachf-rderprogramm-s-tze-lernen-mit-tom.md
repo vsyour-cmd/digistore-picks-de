@@ -1,3 +1,24 @@
+---
+product_id: "57372"
+digistore24_product_id: 681565
+title: "Sprachförderprogramm \"Sätze lernen mit Tom\""
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 200.23
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 20.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.coachy.net/lp/satze-lernen-mit-tom?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.coachy.net/lp/satze-lernen-mit-tom"
+language: "de"
+---
 # Sprachförderprogramm "Sätze lernen mit Tom"
 
 > Product ID `57372` · Digistore24 productId `681565` · [HTML profile page](../../produkte/sprachf-rderprogramm-s-tze-lernen-mit-tom-57372.html)

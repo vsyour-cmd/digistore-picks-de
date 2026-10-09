@@ -1,3 +1,24 @@
+---
+product_id: "8547"
+digistore24_product_id: 58215
+title: "Digistore Connect für Joomla!"
+vendor: "RolandSM"
+product_type: "Downloads"
+price: 55.59
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 11.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2015-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect?aff=adminstore#aff=adminstore"
+sales_page: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect"
+language: "de"
+---
 # Digistore Connect für Joomla!
 
 > Product ID `8547` · Digistore24 productId `58215` · [HTML profile page](../../produkte/digistore-connect-f-r-joomla-8547.html)

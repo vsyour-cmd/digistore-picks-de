@@ -1,3 +1,24 @@
+---
+product_id: "57648"
+digistore24_product_id: 713054
+title: "TikTok Marketing Leitfaden PLR"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/tiktokplr?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/tiktokplr"
+language: "de"
+---
 # TikTok Marketing Leitfaden PLR
 
 > Product ID `57648` · Digistore24 productId `713054` · [HTML profile page](../../produkte/tiktok-marketing-leitfaden-plr-57648.html)

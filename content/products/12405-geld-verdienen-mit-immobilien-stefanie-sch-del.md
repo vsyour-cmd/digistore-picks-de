@@ -1,3 +1,24 @@
+---
+product_id: "12405"
+digistore24_product_id: 80125
+title: "Geld verdienen mit Immobilien ( Stefanie Schädel)"
+vendor: "Jederkannimmobilien"
+product_type: "Member area and video courses"
+price: 250.98
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 82.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2016-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jeder-kann-immobilien.de/v/immobilienkauf/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jeder-kann-immobilien.de/v/immobilienkauf/"
+language: "de"
+---
 # Geld verdienen mit Immobilien ( Stefanie Schädel)
 
 > Product ID `12405` · Digistore24 productId `80125` · [HTML profile page](../../produkte/geld-verdienen-mit-immobilien-stefanie-sch-del-12405.html)

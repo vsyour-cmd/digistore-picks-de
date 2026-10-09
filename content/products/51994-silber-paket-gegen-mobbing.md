@@ -1,3 +1,24 @@
+---
+product_id: "51994"
+digistore24_product_id: 563850
+title: "Silber-Paket gegen Mobbing!"
+vendor: "walk-around-the-world"
+product_type: "Member area and video courses"
+price: 648.6
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 214.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2024-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://rinaldo-inabnit-5.mstrpages.com?aff=adminstore#aff=adminstore"
+sales_page: "https://rinaldo-inabnit-5.mstrpages.com"
+language: "de"
+---
 # Silber-Paket gegen Mobbing!
 
 > Product ID `51994` · Digistore24 productId `563850` · [HTML profile page](../../produkte/silber-paket-gegen-mobbing-51994.html)

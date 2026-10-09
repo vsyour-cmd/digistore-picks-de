@@ -1,3 +1,24 @@
+---
+product_id: "39832"
+digistore24_product_id: 439453
+title: "eBook Harz: Gold des Waldes"
+vendor: "ypsilon"
+product_type: "E-books"
+price: 18.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2022-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ousuca.com/buecher/harz-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://ousuca.com/buecher/harz-ebook/"
+language: "de"
+---
 # eBook Harz: Gold des Waldes
 
 > Product ID `39832` · Digistore24 productId `439453` · [HTML profile page](../../produkte/ebook-harz-gold-des-waldes-39832.html)

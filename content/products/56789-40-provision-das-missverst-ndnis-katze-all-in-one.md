@@ -1,3 +1,24 @@
+---
+product_id: "56789"
+digistore24_product_id: 677026
+title: "40% Provision: \"Das Missverständnis Katze\" – All-in-One...."
+vendor: "versteheninstitut-holzmann"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-06-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/677026?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/677026"
+language: "de"
+---
 # 40% Provision: "Das Missverständnis Katze" – All-in-One....
 
 > Product ID `56789` · Digistore24 productId `677026` · [HTML profile page](../../produkte/40-provision-das-missverst-ndnis-katze-all-in-one-56789.html)

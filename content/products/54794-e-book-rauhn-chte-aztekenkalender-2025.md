@@ -1,3 +1,24 @@
+---
+product_id: "54794"
+digistore24_product_id: 650073
+title: "E-Book Rauhnächte / Aztekenkalender 2025"
+vendor: "anetteheidel"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/650073?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/650073"
+language: "de"
+---
 # E-Book Rauhnächte / Aztekenkalender 2025
 
 > Product ID `54794` · Digistore24 productId `650073` · [HTML profile page](../../produkte/e-book-rauhn-chte-aztekenkalender-2025-54794.html)

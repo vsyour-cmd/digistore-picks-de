@@ -1,3 +1,24 @@
+---
+product_id: "58765"
+digistore24_product_id: 726814
+title: "30 Tage sichtbar – Social-Media-Contentplan für Anfänger"
+vendor: "JessiLL81"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/726814?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726814"
+language: "de"
+---
 # 30 Tage sichtbar – Social-Media-Contentplan für Anfänger
 
 > Product ID `58765` · Digistore24 productId `726814` · [HTML profile page](../../produkte/30-tage-sichtbar-social-media-contentplan-f-r-anf-nger-58765.html)

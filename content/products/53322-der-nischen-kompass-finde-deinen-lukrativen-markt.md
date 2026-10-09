@@ -1,3 +1,24 @@
+---
+product_id: "53322"
+digistore24_product_id: 626641
+title: "Der Nischen Kompass - Finde Deinen lukrativen Markt"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/Nischen-Kompass?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Nischen-Kompass"
+language: "de"
+---
 # Der Nischen Kompass - Finde Deinen lukrativen Markt
 
 > Product ID `53322` · Digistore24 productId `626641` · [HTML profile page](../../produkte/der-nischen-kompass-finde-deinen-lukrativen-markt-53322.html)

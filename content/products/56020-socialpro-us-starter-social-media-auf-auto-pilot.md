@@ -1,3 +1,24 @@
+---
+product_id: "56020"
+digistore24_product_id: 675783
+title: "SocialPro.us (Starter) Social Media auf Auto-Pilot"
+vendor: "nixotec"
+product_type: "Software"
+price: 74.95
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Software","Marketing Services"]
+listed_since: "2026-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/675783?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/675783"
+language: "de"
+---
 # SocialPro.us (Starter) Social Media auf Auto-Pilot
 
 > Product ID `56020` · Digistore24 productId `675783` · [HTML profile page](../../produkte/socialpro-us-starter-social-media-auf-auto-pilot-56020.html)

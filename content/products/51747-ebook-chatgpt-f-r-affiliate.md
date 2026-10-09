@@ -1,3 +1,24 @@
+---
+product_id: "51747"
+digistore24_product_id: 600517
+title: "eBook: ChatGPT für Affiliate"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-kotzur.de/chatgpt-fuer-affiliates/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/chatgpt-fuer-affiliates/"
+language: "de"
+---
 # eBook: ChatGPT für Affiliate
 
 > Product ID `51747` · Digistore24 productId `600517` · [HTML profile page](../../produkte/ebook-chatgpt-f-r-affiliate-51747.html)

@@ -1,3 +1,24 @@
+---
+product_id: "32353"
+digistore24_product_id: 348303
+title: "MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip"
+vendor: "australia1011"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pilates4life.lpages.co/menopower-69/?aff=adminstore#aff=adminstore"
+sales_page: "https://pilates4life.lpages.co/menopower-69/"
+language: "de"
+---
 # MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip
 
 > Product ID `32353` · Digistore24 productId `348303` · [HTML profile page](../../produkte/menopower-28-tage-intensiv-training-nach-dem-pareto-prinzip-32353.html)

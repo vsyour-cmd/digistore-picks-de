@@ -1,3 +1,24 @@
+---
+product_id: "58489"
+digistore24_product_id: 723302
+title: "Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/723302?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/723302"
+language: "de"
+---
 # Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund
 
 > Product ID `58489` · Digistore24 productId `723302` · [HTML profile page](../../produkte/toby-der-mutige-kleine-l-we-geschichten-und-malbuch-bund-58489.html)

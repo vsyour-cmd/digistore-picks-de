@@ -1,3 +1,24 @@
+---
+product_id: "57222"
+digistore24_product_id: 701981
+title: "Digitale Produkte verkaufen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/digitale-produkte-verkaufen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/digitale-produkte-verkaufen"
+language: "de"
+---
 # Digitale Produkte verkaufen
 
 > Product ID `57222` · Digistore24 productId `701981` · [HTML profile page](../../produkte/digitale-produkte-verkaufen-57222.html)

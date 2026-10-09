@@ -1,3 +1,24 @@
+---
+product_id: "39450"
+digistore24_product_id: 358850
+title: "Videokurs: Wirtschaft verstehen"
+vendor: "Staatenlos"
+product_type: "Downloads"
+price: 61.52
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 31.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/"
+language: "de"
+---
 # Videokurs: Wirtschaft verstehen
 
 > Product ID `39450` · Digistore24 productId `358850` · [HTML profile page](../../produkte/videokurs-wirtschaft-verstehen-39450.html)

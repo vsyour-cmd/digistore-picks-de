@@ -1,3 +1,24 @@
+---
+product_id: "56918"
+digistore24_product_id: 701347
+title: "So wirst du Top-Stimme auf LinkedIn"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-top-stimme-auf-linkedin?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-top-stimme-auf-linkedin"
+language: "de"
+---
 # So wirst du Top-Stimme auf LinkedIn
 
 > Product ID `56918` · Digistore24 productId `701347` · [HTML profile page](../../produkte/so-wirst-du-top-stimme-auf-linkedin-56918.html)

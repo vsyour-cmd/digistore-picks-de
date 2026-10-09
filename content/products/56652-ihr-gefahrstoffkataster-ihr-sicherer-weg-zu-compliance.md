@@ -1,3 +1,24 @@
+---
+product_id: "56652"
+digistore24_product_id: 694607
+title: "Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance"
+vendor: "PERSOFIT"
+product_type: "Remote service provided electronically"
+price: 2796.5
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 559.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Law & Justice"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694607?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694607"
+language: "de"
+---
 # Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance
 
 > Product ID `56652` · Digistore24 productId `694607` · [HTML profile page](../../produkte/ihr-gefahrstoffkataster-ihr-sicherer-weg-zu-compliance-56652.html)

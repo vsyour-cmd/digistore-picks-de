@@ -1,3 +1,24 @@
+---
+product_id: "37092"
+digistore24_product_id: 396927
+title: "Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox"
+vendor: "Uwi2016"
+product_type: "E-books"
+price: 4.46
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 3.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2021-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mhs-4-you.com/smoothies?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mhs-4-you.com/smoothies"
+language: "de"
+---
 # Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox
 
 > Product ID `37092` · Digistore24 productId `396927` · [HTML profile page](../../produkte/smoothies-gerichte-rezepte-und-mehr-zur-entgiftung-detox-37092.html)

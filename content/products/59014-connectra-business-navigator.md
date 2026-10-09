@@ -1,3 +1,24 @@
+---
+product_id: "59014"
+digistore24_product_id: 726562
+title: "Connectra Business Navigator"
+vendor: "steffsteffstein"
+product_type: "Member area and video courses"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 17.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Project Management"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://navigator.connectra.club?aff=adminstore#aff=adminstore"
+sales_page: "http://navigator.connectra.club"
+language: "de"
+---
 # Connectra Business Navigator
 
 > Product ID `59014` · Digistore24 productId `726562` · [HTML profile page](../../produkte/connectra-business-navigator-59014.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46668"
+digistore24_product_id: 529562
+title: "Verhandlungstraining - Der Beginn der Reise nachnordosten"
+vendor: "nachnordosten"
+product_type: "Seminar for business customers"
+price: 1221.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 244.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Personal Development"]
+listed_since: "2023-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nachnordosten.de/beginn-der-reise/?aff=adminstore#aff=adminstore"
+sales_page: "https://nachnordosten.de/beginn-der-reise/"
+language: "de"
+---
 # Verhandlungstraining - Der Beginn der Reise nachnordosten
 
 > Product ID `46668` · Digistore24 productId `529562` · [HTML profile page](../../produkte/verhandlungstraining-der-beginn-der-reise-nachnordosten-46668.html)

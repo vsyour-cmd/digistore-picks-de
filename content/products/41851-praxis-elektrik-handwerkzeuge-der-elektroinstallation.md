@@ -1,3 +1,24 @@
+---
+product_id: "41851"
+digistore24_product_id: 416568
+title: "Praxis Elektrik - Handwerkzeuge der Elektroinstallation"
+vendor: "elektricks"
+product_type: "E-books"
+price: 105.62
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.8
+cart_conversion_pct: 24
+cancel_rate_pct: 8.4
+categories: ["Education"]
+listed_since: "2021-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/?aff=adminstore#aff=adminstore"
+sales_page: "https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/"
+language: "de"
+---
 # Praxis Elektrik - Handwerkzeuge der Elektroinstallation
 
 > Product ID `41851` · Digistore24 productId `416568` · [HTML profile page](../../produkte/praxis-elektrik-handwerkzeuge-der-elektroinstallation-41851.html)

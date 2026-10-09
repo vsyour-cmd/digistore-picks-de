@@ -1,3 +1,24 @@
+---
+product_id: "57672"
+digistore24_product_id: 145327
+title: "PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)"
+vendor: "profitbiz"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 130.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Health & Fitness"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd?aff=adminstore#aff=adminstore"
+sales_page: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd"
+language: "de"
+---
 # PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)
 
 > Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)

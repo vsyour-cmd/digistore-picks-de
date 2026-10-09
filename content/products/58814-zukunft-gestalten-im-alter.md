@@ -1,3 +1,24 @@
+---
+product_id: "58814"
+digistore24_product_id: 727653
+title: "Zukunft gestalten im Alter"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727653?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727653"
+language: "de"
+---
 # Zukunft gestalten im Alter
 
 > Product ID `58814` · Digistore24 productId `727653` · [HTML profile page](../../produkte/zukunft-gestalten-im-alter-58814.html)

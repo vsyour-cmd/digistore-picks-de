@@ -1,3 +1,24 @@
+---
+product_id: "57027"
+digistore24_product_id: 702258
+title: "MPU nach Drogen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/mpu-nach-drogen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/mpu-nach-drogen"
+language: "de"
+---
 # MPU nach Drogen
 
 > Product ID `57027` · Digistore24 productId `702258` · [HTML profile page](../../produkte/mpu-nach-drogen-57027.html)

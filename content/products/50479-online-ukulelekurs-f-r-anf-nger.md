@@ -1,3 +1,24 @@
+---
+product_id: "50479"
+digistore24_product_id: 567423
+title: "Online-Ukulelekurs für Anfänger"
+vendor: "AvaMusik"
+product_type: "Member area and video courses"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 10.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Education"]
+listed_since: "2024-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore"
+sales_page: "https://ava-kirschstein.de/verkaufsseite/"
+language: "de"
+---
 # Online-Ukulelekurs für Anfänger
 
 > Product ID `50479` · Digistore24 productId `567423` · [HTML profile page](../../produkte/online-ukulelekurs-f-r-anf-nger-50479.html)

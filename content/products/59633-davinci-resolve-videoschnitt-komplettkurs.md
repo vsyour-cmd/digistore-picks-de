@@ -1,3 +1,24 @@
+---
+product_id: "59633"
+digistore24_product_id: 734137
+title: "DaVinci Resolve Videoschnitt Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film","Software"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734137?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734137"
+language: "de"
+---
 # DaVinci Resolve Videoschnitt Komplettkurs
 
 > Product ID `59633` · Digistore24 productId `734137` · [HTML profile page](../../produkte/davinci-resolve-videoschnitt-komplettkurs-59633.html)

@@ -1,3 +1,24 @@
+---
+product_id: "27030"
+digistore24_product_id: 216935
+title: "Excel-Vorlage für die DSGVO-Dokumentation"
+vendor: "oliengel"
+product_type: "Downloads"
+price: 390.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 117.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2018-04-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
+language: "de"
+---
 # Excel-Vorlage für die DSGVO-Dokumentation
 
 > Product ID `27030` · Digistore24 productId `216935` · [HTML profile page](../../produkte/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html)

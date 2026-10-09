@@ -1,3 +1,24 @@
+---
+product_id: "24087"
+digistore24_product_id: 193571
+title: "Noten-E-Book Gefühle ausdrücken"
+vendor: "musikbegeisterung"
+product_type: "Downloads"
+price: 15.88
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2018-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://musikbegeisterung.de/notenbuch-gefuehle/?aff=adminstore#aff=adminstore"
+sales_page: "http://musikbegeisterung.de/notenbuch-gefuehle/"
+language: "de"
+---
 # Noten-E-Book Gefühle ausdrücken
 
 > Product ID `24087` · Digistore24 productId `193571` · [HTML profile page](../../produkte/noten-e-book-gef-hle-ausdr-cken-24087.html)

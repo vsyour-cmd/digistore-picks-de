@@ -1,3 +1,24 @@
+---
+product_id: "51908"
+digistore24_product_id: 553772
+title: "Online-Kurs: GEHALTSSPRUNG für \"SIE\"!"
+vendor: "KarinSchwaer"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 139.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2024-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.piazzaformel.com/onlinekurs-gehaltsverhandlung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.piazzaformel.com/onlinekurs-gehaltsverhandlung/"
+language: "de"
+---
 # Online-Kurs: GEHALTSSPRUNG für "SIE"!
 
 > Product ID `51908` · Digistore24 productId `553772` · [HTML profile page](../../produkte/online-kurs-gehaltssprung-f-r-sie-51908.html)

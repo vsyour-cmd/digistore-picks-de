@@ -1,3 +1,24 @@
+---
+product_id: "27917"
+digistore24_product_id: 233809
+title: "Laufverletzungen vermeiden ab dem nächsten Training"
+vendor: "andreasvojta"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2018-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore"
+sales_page: "https://laufheld.com/fvv/0u-lm-vv-01/"
+language: "de"
+---
 # Laufverletzungen vermeiden ab dem nächsten Training
 
 > Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../produkte/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58891"
+digistore24_product_id: 728897
+title: "KI Social Media Agentur System"
+vendor: "gowxsese"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 30.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/728897?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/728897"
+language: "de"
+---
 # KI Social Media Agentur System
 
 > Product ID `58891` · Digistore24 productId `728897` · [HTML profile page](../../produkte/ki-social-media-agentur-system-58891.html)

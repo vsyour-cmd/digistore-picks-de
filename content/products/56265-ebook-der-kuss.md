@@ -1,3 +1,24 @@
+---
+product_id: "56265"
+digistore24_product_id: 682669
+title: "Ebook - Der Kuss"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682669?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682669"
+language: "de"
+---
 # Ebook - Der Kuss
 
 > Product ID `56265` · Digistore24 productId `682669` · [HTML profile page](../../produkte/ebook-der-kuss-56265.html)

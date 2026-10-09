@@ -1,3 +1,24 @@
+---
+product_id: "60176"
+digistore24_product_id: 610810
+title: "Online-Kurs \"Dein Leben nach der Krise\""
+vendor: "BLLcode25"
+product_type: "Member area and video courses"
+price: 332.22
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 33.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/610810?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/610810"
+language: "de"
+---
 # Online-Kurs "Dein Leben nach der Krise"
 
 > Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../produkte/online-kurs-dein-leben-nach-der-krise-60176.html)

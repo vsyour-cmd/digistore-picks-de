@@ -1,3 +1,24 @@
+---
+product_id: "56297"
+digistore24_product_id: 685159
+title: "Ebook - Die Kraft niemanden zu brauchen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 1.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685159?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685159"
+language: "de"
+---
 # Ebook - Die Kraft niemanden zu brauchen
 
 > Product ID `56297` · Digistore24 productId `685159` · [HTML profile page](../../produkte/ebook-die-kraft-niemanden-zu-brauchen-56297.html)

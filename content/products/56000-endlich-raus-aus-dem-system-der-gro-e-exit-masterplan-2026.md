@@ -1,3 +1,24 @@
+---
+product_id: "56000"
+digistore24_product_id: 651384
+title: "Endlich raus aus dem System: Der große Exit Masterplan 2026"
+vendor: "alohalearndigital"
+product_type: "Member area and video courses"
+price: 2344.91
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 654.15
+cart_conversion_pct: 7
+cancel_rate_pct: 7.15
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://nomadmaster.de/exit-masterplan?aff=adminstore#aff=adminstore"
+sales_page: "https://nomadmaster.de/exit-masterplan"
+language: "de"
+---
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
 > Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)

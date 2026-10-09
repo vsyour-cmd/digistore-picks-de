@@ -1,3 +1,24 @@
+---
+product_id: "58981"
+digistore24_product_id: 725138
+title: "FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität"
+vendor: "Tobias7812"
+product_type: "Downloads"
+price: 8.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725138?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725138"
+language: "de"
+---
 # FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität
 
 > Product ID `58981` · Digistore24 productId `725138` · [HTML profile page](../../produkte/finos-v1-9-9-der-9-no-brainer-f-r-finanz-souver-nit-t-58981.html)

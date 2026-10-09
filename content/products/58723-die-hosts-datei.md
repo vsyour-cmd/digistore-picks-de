@@ -1,3 +1,24 @@
+---
+product_id: "58723"
+digistore24_product_id: 716974
+title: "Die Hosts  Datei"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 8.46
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/hosts.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/hosts.php"
+language: "de"
+---
 # Die Hosts  Datei
 
 > Product ID `58723` · Digistore24 productId `716974` · [HTML profile page](../../produkte/die-hosts-datei-58723.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41941"
+digistore24_product_id: 421449
+title: "Silent Subliminals Selbstliebe - Kultiviere Liebe nach innen"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2021-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-selbstliebe/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-selbstliebe/"
+language: "de"
+---
 # Silent Subliminals Selbstliebe - Kultiviere Liebe nach innen
 
 > Product ID `41941` · Digistore24 productId `421449` · [HTML profile page](../../produkte/silent-subliminals-selbstliebe-kultiviere-liebe-nach-innen-41941.html)

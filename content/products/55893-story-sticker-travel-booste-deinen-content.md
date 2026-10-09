@@ -1,3 +1,24 @@
+---
+product_id: "55893"
+digistore24_product_id: 658183
+title: "Story Sticker TRAVEL - Booste Deinen Content!"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-12-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658183?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658183"
+language: "de"
+---
 # Story Sticker TRAVEL - Booste Deinen Content!
 
 > Product ID `55893` · Digistore24 productId `658183` · [HTML profile page](../../produkte/story-sticker-travel-booste-deinen-content-55893.html)

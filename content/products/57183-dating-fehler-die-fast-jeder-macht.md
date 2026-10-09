@@ -1,3 +1,24 @@
+---
+product_id: "57183"
+digistore24_product_id: 701941
+title: "Dating-Fehler, die fast jeder macht"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dating-fehler?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dating-fehler"
+language: "de"
+---
 # Dating-Fehler, die fast jeder macht
 
 > Product ID `57183` · Digistore24 productId `701941` · [HTML profile page](../../produkte/dating-fehler-die-fast-jeder-macht-57183.html)

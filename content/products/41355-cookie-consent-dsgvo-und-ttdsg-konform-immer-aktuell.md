@@ -1,3 +1,24 @@
+---
+product_id: "41355"
+digistore24_product_id: 462502
+title: "Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell"
+vendor: "KE6211806270"
+product_type: "Remote service provided electronically"
+price: 166.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 83.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2022-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://experteam.de/consent-management-platform?aff=adminstore#aff=adminstore"
+sales_page: "https://experteam.de/consent-management-platform"
+language: "de"
+---
 # Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell
 
 > Product ID `41355` · Digistore24 productId `462502` · [HTML profile page](../../produkte/cookie-consent-dsgvo-und-ttdsg-konform-immer-aktuell-41355.html)

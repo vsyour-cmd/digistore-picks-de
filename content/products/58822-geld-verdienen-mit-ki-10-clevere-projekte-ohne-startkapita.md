@@ -1,3 +1,24 @@
+---
+product_id: "58822"
+digistore24_product_id: 727505
+title: "Geld verdienen mit KI – 10 clevere Projekte ohne Startkapita"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727505?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727505"
+language: "de"
+---
 # Geld verdienen mit KI – 10 clevere Projekte ohne Startkapita
 
 > Product ID `58822` · Digistore24 productId `727505` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-10-clevere-projekte-ohne-startkapita-58822.html)

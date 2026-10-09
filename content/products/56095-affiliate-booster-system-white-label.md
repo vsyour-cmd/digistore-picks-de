@@ -1,3 +1,24 @@
+---
+product_id: "56095"
+digistore24_product_id: 677256
+title: "Affiliate Booster System (White-Label)"
+vendor: "MachtundNussbaumGbR"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-03-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.imhub.de/lp/affiliateboostersystem?aff=adminstore#aff=adminstore"
+sales_page: "https://www.imhub.de/lp/affiliateboostersystem"
+language: "de"
+---
 # Affiliate Booster System (White-Label)
 
 > Product ID `56095` · Digistore24 productId `677256` · [HTML profile page](../../produkte/affiliate-booster-system-white-label-56095.html)

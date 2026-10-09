@@ -1,3 +1,24 @@
+---
+product_id: "60129"
+digistore24_product_id: 733774
+title: "NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch"
+vendor: "norwegenkompass"
+product_type: "Member area and video courses"
+price: 50.34
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.nordakademi.no/norwegisch-lernen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.nordakademi.no/norwegisch-lernen"
+language: "de"
+---
 # NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch
 
 > Product ID `60129` · Digistore24 productId `733774` · [HTML profile page](../../produkte/nord-akademie-norsk-f-r-du-drar-norwegisch-auf-deutsch-60129.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54895"
+digistore24_product_id: 654497
+title: "Mahabharata (PDF und Ebook, epub)"
+vendor: "atmarama"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://atmarama.de/mbjuwel-ebook.html?aff=adminstore#aff=adminstore"
+sales_page: "https://atmarama.de/mbjuwel-ebook.html"
+language: "de"
+---
 # Mahabharata (PDF und Ebook, epub)
 
 > Product ID `54895` · Digistore24 productId `654497` · [HTML profile page](../../produkte/mahabharata-pdf-und-ebook-epub-54895.html)

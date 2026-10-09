@@ -1,3 +1,24 @@
+---
+product_id: "37052"
+digistore24_product_id: 387003
+title: "Natürlich Ayurveda - Der Ayurveda Onlinekurs"
+vendor: "tastykaty"
+product_type: "Member area and video courses"
+price: 271.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 81.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://na.tastykatykurse.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://na.tastykatykurse.de/"
+language: "de"
+---
 # Natürlich Ayurveda - Der Ayurveda Onlinekurs
 
 > Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../produkte/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)

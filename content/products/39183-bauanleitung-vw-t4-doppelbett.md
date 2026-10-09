@@ -1,3 +1,24 @@
+---
+product_id: "39183"
+digistore24_product_id: 389344
+title: "Bauanleitung - VW T4 Doppelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 20.4
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.15
+cart_conversion_pct: 2
+cancel_rate_pct: 3.19
+categories: ["Hobby & Craft"]
+listed_since: "2021-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/vw-t4?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/vw-t4"
+language: "de"
+---
 # Bauanleitung - VW T4 Doppelbett
 
 > Product ID `39183` · Digistore24 productId `389344` · [HTML profile page](../../produkte/bauanleitung-vw-t4-doppelbett-39183.html)

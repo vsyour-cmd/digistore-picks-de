@@ -1,3 +1,24 @@
+---
+product_id: "60061"
+digistore24_product_id: 716535
+title: "Social Media Masterclass FÜR FRAUEN"
+vendor: "resirandom"
+product_type: "Downloads"
+price: 89.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 26.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/716535?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/716535"
+language: "de"
+---
 # Social Media Masterclass FÜR FRAUEN
 
 > Product ID `60061` · Digistore24 productId `716535` · [HTML profile page](../../produkte/social-media-masterclass-f-r-frauen-60061.html)

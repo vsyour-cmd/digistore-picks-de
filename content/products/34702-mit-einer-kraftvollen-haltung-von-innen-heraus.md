@@ -1,3 +1,24 @@
+---
+product_id: "34702"
+digistore24_product_id: 353666
+title: "Mit einer kraftvollen Haltung von innen heraus!"
+vendor: "AlexandraLohr"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.bewusst-wirken.de/akademie/online-akademie/"
+language: "de"
+---
 # Mit einer kraftvollen Haltung von innen heraus!
 
 > Product ID `34702` · Digistore24 productId `353666` · [HTML profile page](../../produkte/mit-einer-kraftvollen-haltung-von-innen-heraus-34702.html)

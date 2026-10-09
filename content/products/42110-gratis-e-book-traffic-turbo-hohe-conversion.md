@@ -1,3 +1,24 @@
+---
+product_id: "42110"
+digistore24_product_id: 472968
+title: "GRATIS E-BOOK | Traffic Turbo | Hohe Conversion!"
+vendor: "CyrilCash"
+product_type: "E-books"
+price: 211.39
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 156.3
+cart_conversion_pct: 8
+cancel_rate_pct: 2.04
+categories: ["Computer & Internet"]
+listed_since: "2022-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://business-kickstart.de/trafficturbo/?aff=adminstore#aff=adminstore"
+sales_page: "https://business-kickstart.de/trafficturbo/"
+language: "de"
+---
 # GRATIS E-BOOK | Traffic Turbo | Hohe Conversion!
 
 > Product ID `42110` · Digistore24 productId `472968` · [HTML profile page](../../produkte/gratis-e-book-traffic-turbo-hohe-conversion-42110.html)

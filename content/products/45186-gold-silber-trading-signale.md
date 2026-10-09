@@ -1,3 +1,24 @@
+---
+product_id: "45186"
+digistore24_product_id: 507926
+title: "Gold/Silber Trading Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 136.56
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 39.14
+cart_conversion_pct: 8
+cancel_rate_pct: 12.44
+categories: ["Trading Products"]
+listed_since: "2023-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/gold-silber-handelssignale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/gold-silber-handelssignale/"
+language: "de"
+---
 # Gold/Silber Trading Signale
 
 > Product ID `45186` · Digistore24 productId `507926` · [HTML profile page](../../produkte/gold-silber-trading-signale-45186.html)

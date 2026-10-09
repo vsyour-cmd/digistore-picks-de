@@ -1,3 +1,24 @@
+---
+product_id: "50022"
+digistore24_product_id: 722703
+title: "Die Gesundheitsbibliothek"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 301.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 94.6
+cart_conversion_pct: 5
+cancel_rate_pct: 5.63
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/722703?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/722703"
+language: "de"
+---
 # Die Gesundheitsbibliothek
 
 > Product ID `50022` · Digistore24 productId `722703` · [HTML profile page](../../produkte/die-gesundheitsbibliothek-50022.html)

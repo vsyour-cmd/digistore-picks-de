@@ -1,3 +1,24 @@
+---
+product_id: "56410"
+digistore24_product_id: 688410
+title: "21 Tage Dopamin Detox Challenge by Bastian"
+vendor: "BastianBauer"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688410?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688410"
+language: "de"
+---
 # 21 Tage Dopamin Detox Challenge by Bastian
 
 > Product ID `56410` · Digistore24 productId `688410` · [HTML profile page](../../produkte/21-tage-dopamin-detox-challenge-by-bastian-56410.html)

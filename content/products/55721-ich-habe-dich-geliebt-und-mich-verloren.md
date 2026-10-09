@@ -1,3 +1,24 @@
+---
+product_id: "55721"
+digistore24_product_id: 671242
+title: "Ich habe dich geliebt und mich verloren"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 15.03
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671242?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671242"
+language: "de"
+---
 # Ich habe dich geliebt und mich verloren
 
 > Product ID `55721` · Digistore24 productId `671242` · [HTML profile page](../../produkte/ich-habe-dich-geliebt-und-mich-verloren-55721.html)

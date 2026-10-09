@@ -1,3 +1,24 @@
+---
+product_id: "60057"
+digistore24_product_id: 555866
+title: "Hypnose-Onlinekurs INNERES KIND HEILEN"
+vendor: "petanthony"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://shop.petanthony.com/online-kurse_inneres-kind-heilen_DS/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.petanthony.com/online-kurse_inneres-kind-heilen_DS/"
+language: "de"
+---
 # Hypnose-Onlinekurs INNERES KIND HEILEN
 
 > Product ID `60057` · Digistore24 productId `555866` · [HTML profile page](../../produkte/hypnose-onlinekurs-inneres-kind-heilen-60057.html)

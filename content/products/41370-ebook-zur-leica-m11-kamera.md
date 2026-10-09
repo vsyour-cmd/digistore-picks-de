@@ -1,3 +1,24 @@
+---
+product_id: "41370"
+digistore24_product_id: 450058
+title: "eBook zur Leica M11 Kamera"
+vendor: "birnbacherm"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2022-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/450058?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/450058"
+language: "de"
+---
 # eBook zur Leica M11 Kamera
 
 > Product ID `41370` · Digistore24 productId `450058` · [HTML profile page](../../produkte/ebook-zur-leica-m11-kamera-41370.html)

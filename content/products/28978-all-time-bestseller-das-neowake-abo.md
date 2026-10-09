@@ -1,3 +1,24 @@
+---
+product_id: "28978"
+digistore24_product_id: 263811
+title: "All Time Bestseller: Das neowake® Abo"
+vendor: "EnergeticTernity"
+product_type: "Member area and video courses"
+price: 169.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2019-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://neowake.de/jetzt-testen?aff=adminstore#aff=adminstore"
+sales_page: "https://neowake.de/jetzt-testen"
+language: "de"
+---
 # All Time Bestseller: Das neowake® Abo
 
 > Product ID `28978` · Digistore24 productId `263811` · [HTML profile page](../../produkte/all-time-bestseller-das-neowake-abo-28978.html)

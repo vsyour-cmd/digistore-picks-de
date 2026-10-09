@@ -1,3 +1,24 @@
+---
+product_id: "56848"
+digistore24_product_id: 698552
+title: "DBM - Dorn-Methode in der Praxis"
+vendor: "dornbreuss"
+product_type: "Member area and video courses"
+price: 18.61
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 13.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach"
+language: "de"
+---
 # DBM - Dorn-Methode in der Praxis
 
 > Product ID `56848` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-methode-in-der-praxis-56848.html)

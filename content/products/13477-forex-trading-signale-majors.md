@@ -1,3 +1,24 @@
+---
+product_id: "13477"
+digistore24_product_id: 52233
+title: "Forex Trading-Signale (Majors)"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 190.35
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 34.99
+cart_conversion_pct: 8
+cancel_rate_pct: 11.25
+categories: ["Trading Products"]
+listed_since: "2015-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/forex-signale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/forex-signale/"
+language: "de"
+---
 # Forex Trading-Signale (Majors)
 
 > Product ID `13477` · Digistore24 productId `52233` · [HTML profile page](../../produkte/forex-trading-signale-majors-13477.html)

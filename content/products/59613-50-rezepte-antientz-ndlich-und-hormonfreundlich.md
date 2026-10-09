@@ -1,3 +1,24 @@
+---
+product_id: "59613"
+digistore24_product_id: 734107
+title: "50 Rezepte - antientzündlich und hormonfreundlich"
+vendor: "natuerlich-hormonisch"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore"
+language: "de"
+---
 # 50 Rezepte - antientzündlich und hormonfreundlich
 
 > Product ID `59613` · Digistore24 productId `734107` · [HTML profile page](../../produkte/50-rezepte-antientz-ndlich-und-hormonfreundlich-59613.html)

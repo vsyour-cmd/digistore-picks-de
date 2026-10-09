@@ -1,3 +1,24 @@
+---
+product_id: "47010"
+digistore24_product_id: 258316
+title: "Neurostreams™ LABOR (Sammlung)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 149.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 74.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2019-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/labor/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/labor/"
+language: "de"
+---
 # Neurostreams™ LABOR (Sammlung)
 
 > Product ID `47010` · Digistore24 productId `258316` · [HTML profile page](../../produkte/neurostreams-labor-sammlung-47010.html)

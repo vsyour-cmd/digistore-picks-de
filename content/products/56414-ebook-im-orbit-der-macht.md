@@ -1,3 +1,24 @@
+---
+product_id: "56414"
+digistore24_product_id: 689382
+title: "Ebook - Im Orbit der Macht"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Green Products & Environmental Protection"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689382?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689382"
+language: "de"
+---
 # Ebook - Im Orbit der Macht
 
 > Product ID `56414` · Digistore24 productId `689382` · [HTML profile page](../../produkte/ebook-im-orbit-der-macht-56414.html)

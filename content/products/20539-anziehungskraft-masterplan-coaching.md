@@ -1,3 +1,24 @@
+---
+product_id: "20539"
+digistore24_product_id: 172975
+title: "Anziehungskraft-Masterplan-Coaching"
+vendor: "Erfolg-Intuitiv"
+product_type: "Member area and video courses"
+price: 29.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.86
+cart_conversion_pct: 19
+cancel_rate_pct: 6.02
+categories: ["Personal Development"]
+listed_since: "2017-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/"
+language: "de"
+---
 # Anziehungskraft-Masterplan-Coaching
 
 > Product ID `20539` · Digistore24 productId `172975` · [HTML profile page](../../produkte/anziehungskraft-masterplan-coaching-20539.html)

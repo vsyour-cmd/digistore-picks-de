@@ -1,3 +1,24 @@
+---
+product_id: "48566"
+digistore24_product_id: 559957
+title: "KI-generierte Musik vermarkten (30 Geschäftsideen)"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-musik-marketer-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-musik-marketer-frontend/"
+language: "de"
+---
 # KI-generierte Musik vermarkten (30 Geschäftsideen)
 
 > Product ID `48566` · Digistore24 productId `559957` · [HTML profile page](../../produkte/ki-generierte-musik-vermarkten-30-gesch-ftsideen-48566.html)

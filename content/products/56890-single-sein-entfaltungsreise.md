@@ -1,3 +1,24 @@
+---
+product_id: "56890"
+digistore24_product_id: 653344
+title: "Single-Sein Entfaltungsreise"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 65.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Personal Development"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/653344?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/653344"
+language: "de"
+---
 # Single-Sein Entfaltungsreise
 
 > Product ID `56890` · Digistore24 productId `653344` · [HTML profile page](../../produkte/single-sein-entfaltungsreise-56890.html)

@@ -1,3 +1,24 @@
+---
+product_id: "35306"
+digistore24_product_id: 416183
+title: "Die 12 erprobten Fragen zu Deinem Wunschkunden"
+vendor: "ChrisdaS"
+product_type: "Downloads"
+price: 23.47
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ad-campus.com/wunschkunde?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ad-campus.com/wunschkunde"
+language: "de"
+---
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
 > Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)

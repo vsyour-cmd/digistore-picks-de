@@ -1,3 +1,24 @@
+---
+product_id: "55134"
+digistore24_product_id: 658818
+title: "AI Avatar Studio Funnel"
+vendor: "paul-roth"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2026-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.growverse.de/funnels/ai-avatar/freebie?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.growverse.de/funnels/ai-avatar/freebie"
+language: "de"
+---
 # AI Avatar Studio Funnel
 
 > Product ID `55134` · Digistore24 productId `658818` · [HTML profile page](../../produkte/ai-avatar-studio-funnel-55134.html)

@@ -1,3 +1,24 @@
+---
+product_id: "21293"
+digistore24_product_id: 110755
+title: "Basis-Webinar Teil 1"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-12-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/Start/basis-webinar/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/Start/basis-webinar/"
+language: "de"
+---
 # Basis-Webinar Teil 1
 
 > Product ID `21293` · Digistore24 productId `110755` · [HTML profile page](../../produkte/basis-webinar-teil-1-21293.html)

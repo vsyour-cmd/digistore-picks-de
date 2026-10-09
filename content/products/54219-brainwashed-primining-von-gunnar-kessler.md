@@ -1,3 +1,24 @@
+---
+product_id: "54219"
+digistore24_product_id: 576787
+title: "Brainwashed Primining - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://brainwashed.de/bwp-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://brainwashed.de/bwp-7500/"
+language: "de"
+---
 # Brainwashed Primining - von Gunnar Kessler
 
 > Product ID `54219` · Digistore24 productId `576787` · [HTML profile page](../../produkte/brainwashed-primining-von-gunnar-kessler-54219.html)

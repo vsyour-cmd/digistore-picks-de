@@ -1,3 +1,24 @@
+---
+product_id: "13271"
+digistore24_product_id: 90385
+title: "Tinnitus Coach - das wirksame Selbsthilfeprogramm"
+vendor: "Institut_MH"
+product_type: "Downloads"
+price: 342
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 207.08
+cart_conversion_pct: 9
+cancel_rate_pct: 7.61
+categories: ["Health & Fitness"]
+listed_since: "2016-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://www.tinnitus-coach.eu?aff=adminstore#aff=adminstore"
+sales_page: "http://www.tinnitus-coach.eu"
+language: "de"
+---
 # Tinnitus Coach - das wirksame Selbsthilfeprogramm
 
 > Product ID `13271` · Digistore24 productId `90385` · [HTML profile page](../../produkte/tinnitus-coach-das-wirksame-selbsthilfeprogramm-13271.html)

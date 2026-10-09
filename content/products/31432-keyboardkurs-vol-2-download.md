@@ -1,3 +1,24 @@
+---
+product_id: "31432"
+digistore24_product_id: 95933
+title: "Keyboardkurs Vol. 2 / Download"
+vendor: "PeterNeuhof"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2016-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/"
+language: "de"
+---
 # Keyboardkurs Vol. 2 / Download
 
 > Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../produkte/keyboardkurs-vol-2-download-31432.html)

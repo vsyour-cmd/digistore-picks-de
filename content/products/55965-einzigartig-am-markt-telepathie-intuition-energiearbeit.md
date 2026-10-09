@@ -1,3 +1,24 @@
+---
+product_id: "55965"
+digistore24_product_id: 475969
+title: "Einzigartig am Markt Telepathie, Intuition, Energiearbeit"
+vendor: "TEMPELderTECHNIK"
+product_type: "Webinar"
+price: 158.62
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 23.02
+cart_conversion_pct: 11
+cancel_rate_pct: 3.55
+categories: ["Business & Investment","Education","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wakeup.tempeldertechnik.at/telepathiestarteuropa/?aff=adminstore#aff=adminstore"
+sales_page: "https://wakeup.tempeldertechnik.at/telepathiestarteuropa/"
+language: "de"
+---
 # Einzigartig am Markt Telepathie, Intuition, Energiearbeit
 
 > Product ID `55965` · Digistore24 productId `475969` · [HTML profile page](../../produkte/einzigartig-am-markt-telepathie-intuition-energiearbeit-55965.html)

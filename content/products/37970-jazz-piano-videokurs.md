@@ -1,3 +1,24 @@
+---
+product_id: "37970"
+digistore24_product_id: 402673
+title: "Jazz Piano Videokurs"
+vendor: "modernmusic"
+product_type: "Member area and video courses"
+price: 493.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 246.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.modern-music.org/jazz-piano-videokurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.modern-music.org/jazz-piano-videokurs"
+language: "de"
+---
 # Jazz Piano Videokurs
 
 > Product ID `37970` · Digistore24 productId `402673` · [HTML profile page](../../produkte/jazz-piano-videokurs-37970.html)

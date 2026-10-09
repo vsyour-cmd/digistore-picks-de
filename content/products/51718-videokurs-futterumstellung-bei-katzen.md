@@ -1,3 +1,24 @@
+---
+product_id: "51718"
+digistore24_product_id: 596333
+title: "Videokurs \"Futterumstellung bei Katzen\""
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/futterumstellung-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/futterumstellung-kurs"
+language: "de"
+---
 # Videokurs "Futterumstellung bei Katzen"
 
 > Product ID `51718` · Digistore24 productId `596333` · [HTML profile page](../../produkte/videokurs-futterumstellung-bei-katzen-51718.html)

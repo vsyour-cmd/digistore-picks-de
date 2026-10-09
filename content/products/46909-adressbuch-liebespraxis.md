@@ -1,3 +1,24 @@
+---
+product_id: "46909"
+digistore24_product_id: 535521
+title: "Adressbuch Liebespraxis"
+vendor: "FreimutSelbst"
+product_type: "E-books"
+price: 8.37
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Fun & Games","Health & Fitness"]
+listed_since: "2024-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore"
+sales_page: "https://freimutselbst.com/bookshop.html"
+language: "de"
+---
 # Adressbuch Liebespraxis
 
 > Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../produkte/adressbuch-liebespraxis-46909.html)

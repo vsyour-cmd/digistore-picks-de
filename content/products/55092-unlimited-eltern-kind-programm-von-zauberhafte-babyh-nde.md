@@ -1,3 +1,24 @@
+---
+product_id: "55092"
+digistore24_product_id: 451681
+title: "UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®"
+vendor: "KellyMalottke"
+product_type: "Member area and video courses"
+price: 122.65
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 146.58
+cart_conversion_pct: 8
+cancel_rate_pct: 4.39
+categories: ["Family & Children"]
+listed_since: "2022-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.zauberhafte-babyhaende.de/unlimited?aff=adminstore#aff=adminstore"
+sales_page: "https://go.zauberhafte-babyhaende.de/unlimited"
+language: "de"
+---
 # UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®
 
 > Product ID `55092` · Digistore24 productId `451681` · [HTML profile page](../../produkte/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html)

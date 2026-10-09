@@ -1,3 +1,24 @@
+---
+product_id: "56554"
+digistore24_product_id: 693330
+title: "Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/"
+language: "de"
+---
 # Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates
 
 > Product ID `56554` · Digistore24 productId `693330` · [HTML profile page](../../produkte/das-rauchfrei-notfallkit-50-provision-f-r-affiliates-56554.html)

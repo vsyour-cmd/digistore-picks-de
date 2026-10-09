@@ -1,3 +1,24 @@
+---
+product_id: "28500"
+digistore24_product_id: 266706
+title: "Online-Ausbildung \"Waldbaden und Naturtherapie\""
+vendor: "growstudio"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 55.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Home & Garden","Profession & Job"]
+listed_since: "2019-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ganzheitliche-heilung.de/waldbaden/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ganzheitliche-heilung.de/waldbaden/"
+language: "de"
+---
 # Online-Ausbildung "Waldbaden und Naturtherapie"
 
 > Product ID `28500` · Digistore24 productId `266706` · [HTML profile page](../../produkte/online-ausbildung-waldbaden-und-naturtherapie-28500.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48908"
+digistore24_product_id: 563518
+title: "White Label Kurs (PLR) - \"Online-Kurs erstellen + verkaufen\""
+vendor: "Institut-Dittrich"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 36.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2024-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://whitelabeloase.com/produkte/kurs-bundle-online-kurse-erstellen-und-vermarkten/?aff=adminstore#aff=adminstore"
+sales_page: "https://whitelabeloase.com/produkte/kurs-bundle-online-kurse-erstellen-und-vermarkten/"
+language: "de"
+---
 # White Label Kurs (PLR) - "Online-Kurs erstellen + verkaufen"
 
 > Product ID `48908` · Digistore24 productId `563518` · [HTML profile page](../../produkte/white-label-kurs-plr-online-kurs-erstellen-verkaufen-48908.html)

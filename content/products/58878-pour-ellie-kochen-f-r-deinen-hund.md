@@ -1,3 +1,24 @@
+---
+product_id: "58878"
+digistore24_product_id: 677048
+title: "Pour Ellie – Kochen für deinen Hund"
+vendor: "PourEllie"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/677048?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/677048"
+language: "de"
+---
 # Pour Ellie – Kochen für deinen Hund
 
 > Product ID `58878` · Digistore24 productId `677048` · [HTML profile page](../../produkte/pour-ellie-kochen-f-r-deinen-hund-58878.html)

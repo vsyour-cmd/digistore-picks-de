@@ -1,3 +1,24 @@
+---
+product_id: "51152"
+digistore24_product_id: 485114
+title: "Selbstgeführte Stadtrallye Lübeck | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2023-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-luebeck/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-luebeck/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Lübeck | Hint-Caching
 
 > Product ID `51152` · Digistore24 productId `485114` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-l-beck-hint-caching-51152.html)

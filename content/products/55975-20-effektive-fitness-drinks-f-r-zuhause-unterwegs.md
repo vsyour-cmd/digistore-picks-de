@@ -1,3 +1,24 @@
+---
+product_id: "55975"
+digistore24_product_id: 677845
+title: "20 effektive Fitness Drinks für Zuhause & Unterwegs"
+vendor: "Freifone"
+product_type: "E-books"
+price: 17.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Sport"]
+listed_since: "2026-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/20-fitness-drinks?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/20-fitness-drinks"
+language: "de"
+---
 # 20 effektive Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `55975` · Digistore24 productId `677845` · [HTML profile page](../../produkte/20-effektive-fitness-drinks-f-r-zuhause-unterwegs-55975.html)

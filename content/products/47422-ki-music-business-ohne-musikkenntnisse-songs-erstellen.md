@@ -1,3 +1,24 @@
+---
+product_id: "47422"
+digistore24_product_id: 542976
+title: "KI Music Business – Ohne Musikkenntnisse Songs erstellen"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-music-business-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-music-business-frontend/"
+language: "de"
+---
 # KI Music Business – Ohne Musikkenntnisse Songs erstellen
 
 > Product ID `47422` · Digistore24 productId `542976` · [HTML profile page](../../produkte/ki-music-business-ohne-musikkenntnisse-songs-erstellen-47422.html)

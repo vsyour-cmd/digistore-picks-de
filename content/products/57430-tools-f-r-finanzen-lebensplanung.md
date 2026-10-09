@@ -1,3 +1,24 @@
+---
+product_id: "57430"
+digistore24_product_id: 707716
+title: "Tools für Finanzen & Lebensplanung"
+vendor: "mcdekoi"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://smart-internet-marketing.de/finanzplaner/?aff=adminstore#aff=adminstore"
+sales_page: "https://smart-internet-marketing.de/finanzplaner/"
+language: "de"
+---
 # Tools für Finanzen & Lebensplanung
 
 > Product ID `57430` · Digistore24 productId `707716` · [HTML profile page](../../produkte/tools-f-r-finanzen-lebensplanung-57430.html)

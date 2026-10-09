@@ -1,3 +1,24 @@
+---
+product_id: "56837"
+digistore24_product_id: 696952
+title: "Praxiserprobte Checklisten für pflegende Angehörige"
+vendor: "PflegeKompassDigital"
+product_type: "Downloads"
+price: 14.09
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/696952?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/696952"
+language: "de"
+---
 # Praxiserprobte Checklisten für pflegende Angehörige
 
 > Product ID `56837` · Digistore24 productId `696952` · [HTML profile page](../../produkte/praxiserprobte-checklisten-f-r-pflegende-angeh-rige-56837.html)

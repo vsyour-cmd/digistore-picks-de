@@ -1,3 +1,24 @@
+---
+product_id: "23439"
+digistore24_product_id: 209825
+title: "Der Schritt-für-Schritt Generator für die DSGVO"
+vendor: "oliengel"
+product_type: "Downloads"
+price: 222.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 66.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2018-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
+language: "de"
+---
 # Der Schritt-für-Schritt Generator für die DSGVO
 
 > Product ID `23439` · Digistore24 productId `209825` · [HTML profile page](../../produkte/der-schritt-f-r-schritt-generator-f-r-die-dsgvo-23439.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56633"
+digistore24_product_id: 694254
+title: "Daten lesen, verstehen und auswerten für Lehrlinge/Azubis"
+vendor: "Mathecloud"
+product_type: "Member area and video courses"
+price: 36.03
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 28.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.e-ducation.cloud/course/daten-verstehen-auswerten?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/daten-verstehen-auswerten"
+language: "de"
+---
 # Daten lesen, verstehen und auswerten für Lehrlinge/Azubis
 
 > Product ID `56633` · Digistore24 productId `694254` · [HTML profile page](../../produkte/daten-lesen-verstehen-und-auswerten-f-r-lehrlinge-azubis-56633.html)

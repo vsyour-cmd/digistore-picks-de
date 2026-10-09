@@ -1,3 +1,24 @@
+---
+product_id: "25171"
+digistore24_product_id: 226193
+title: "Grammatik-Crashkurs für DaF/DaZ-Lehrende"
+vendor: "justynahaas"
+product_type: "Downloads"
+price: 130.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 39.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2018-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.justynahaas.eu/index.php?page_id=1236&aff=adminstore#aff=adminstore"
+sales_page: "http://www.justynahaas.eu/index.php?page_id=1236"
+language: "de"
+---
 # Grammatik-Crashkurs für DaF/DaZ-Lehrende
 
 > Product ID `25171` · Digistore24 productId `226193` · [HTML profile page](../../produkte/grammatik-crashkurs-f-r-daf-daz-lehrende-25171.html)

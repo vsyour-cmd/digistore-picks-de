@@ -1,3 +1,24 @@
+---
+product_id: "46435"
+digistore24_product_id: 485352
+title: "Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 23.48
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2023-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige?aff=adminstore#aff=adminstore"
+sales_page: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige"
+language: "de"
+---
 # Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg
 
 > Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../produkte/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)

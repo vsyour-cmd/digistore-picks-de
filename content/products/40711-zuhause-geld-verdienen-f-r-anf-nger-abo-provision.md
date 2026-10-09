@@ -1,3 +1,24 @@
+---
+product_id: "40711"
+digistore24_product_id: 453066
+title: "Zuhause Geld verdienen für Anfänger - Abo Provision!"
+vendor: "monetenwissen"
+product_type: "Member area and video courses"
+price: 22.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.47
+cart_conversion_pct: 19
+cancel_rate_pct: 2.66
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://moneten-wissen.de/zuhause-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://moneten-wissen.de/zuhause-geld-verdienen/"
+language: "de"
+---
 # Zuhause Geld verdienen für Anfänger - Abo Provision!
 
 > Product ID `40711` · Digistore24 productId `453066` · [HTML profile page](../../produkte/zuhause-geld-verdienen-f-r-anf-nger-abo-provision-40711.html)

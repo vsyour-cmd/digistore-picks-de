@@ -1,3 +1,24 @@
+---
+product_id: "43016"
+digistore24_product_id: 389396
+title: "KI-Kickstart für ChatGPT"
+vendor: "tombrigl"
+product_type: "Downloads"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 110.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2021-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ki-kickstart.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ki-kickstart.de"
+language: "de"
+---
 # KI-Kickstart für ChatGPT
 
 > Product ID `43016` · Digistore24 productId `389396` · [HTML profile page](../../produkte/ki-kickstart-f-r-chatgpt-43016.html)

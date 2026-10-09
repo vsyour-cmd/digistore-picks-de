@@ -1,3 +1,24 @@
+---
+product_id: "58464"
+digistore24_product_id: 691520
+title: "Zwischen Narben, Angst und Neubeginn"
+vendor: "kefleischer11733183"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://gluecks-scherben.de?aff=adminstore#aff=adminstore"
+sales_page: "https://gluecks-scherben.de"
+language: "de"
+---
 # Zwischen Narben, Angst und Neubeginn
 
 > Product ID `58464` · Digistore24 productId `691520` · [HTML profile page](../../produkte/zwischen-narben-angst-und-neubeginn-58464.html)

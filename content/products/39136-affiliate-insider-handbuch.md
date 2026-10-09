@@ -1,3 +1,24 @@
+---
+product_id: "39136"
+digistore24_product_id: 429459
+title: "Affiliate Insider Handbuch"
+vendor: "sattelitevendor"
+product_type: "Downloads"
+price: 68.74
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 66.62
+cart_conversion_pct: 8
+cancel_rate_pct: 0.96
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aiffilateinsider.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://aiffilateinsider.com/"
+language: "de"
+---
 # Affiliate Insider Handbuch
 
 > Product ID `39136` · Digistore24 productId `429459` · [HTML profile page](../../produkte/affiliate-insider-handbuch-39136.html)

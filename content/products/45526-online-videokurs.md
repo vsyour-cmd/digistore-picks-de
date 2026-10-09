@@ -1,3 +1,24 @@
+---
+product_id: "45526"
+digistore24_product_id: 517496
+title: "Online Videokurs"
+vendor: "Hunde-Menschen-Coaching"
+product_type: "Member area and video courses"
+price: 159.72
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 23.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2023-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis?aff=adminstore#aff=adminstore"
+sales_page: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis"
+language: "de"
+---
 # Online Videokurs
 
 > Product ID `45526` · Digistore24 productId `517496` · [HTML profile page](../../produkte/online-videokurs-45526.html)

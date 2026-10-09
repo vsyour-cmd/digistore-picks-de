@@ -1,3 +1,24 @@
+---
+product_id: "34430"
+digistore24_product_id: 330258
+title: "Super-Affiliate DNA"
+vendor: "startuprakete"
+product_type: "Audio book (download)"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://startuprakete.de/super-affiliate-dna/?aff=adminstore#aff=adminstore"
+sales_page: "https://startuprakete.de/super-affiliate-dna/"
+language: "de"
+---
 # Super-Affiliate DNA
 
 > Product ID `34430` · Digistore24 productId `330258` · [HTML profile page](../../produkte/super-affiliate-dna-34430.html)

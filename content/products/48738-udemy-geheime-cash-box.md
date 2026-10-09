@@ -1,3 +1,24 @@
+---
+product_id: "48738"
+digistore24_product_id: 562537
+title: "UDEMY - Geheime Cash Box"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 16.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/udemy-cash-box/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/udemy-cash-box/"
+language: "de"
+---
 # UDEMY - Geheime Cash Box
 
 > Product ID `48738` · Digistore24 productId `562537` · [HTML profile page](../../produkte/udemy-geheime-cash-box-48738.html)

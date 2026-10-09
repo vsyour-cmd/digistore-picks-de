@@ -1,3 +1,24 @@
+---
+product_id: "60365"
+digistore24_product_id: 741959
+title: "Heizung und Förderung leicht gemacht – mit Heizungs-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741959?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741959"
+language: "de"
+---
 # Heizung und Förderung leicht gemacht – mit Heizungs-Rechner
 
 > Product ID `60365` · Digistore24 productId `741959` · [HTML profile page](../../produkte/heizung-und-f-rderung-leicht-gemacht-mit-heizungs-rechner-60365.html)

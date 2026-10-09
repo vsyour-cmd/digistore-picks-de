@@ -1,3 +1,24 @@
+---
+product_id: "55870"
+digistore24_product_id: 661805
+title: "150 Seiten Wortsuchrätsel zum Ausdrucken"
+vendor: "businessregistra"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Marketing Services"]
+listed_since: "2026-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/661805?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/661805"
+language: "de"
+---
 # 150 Seiten Wortsuchrätsel zum Ausdrucken
 
 > Product ID `55870` · Digistore24 productId `661805` · [HTML profile page](../../produkte/150-seiten-wortsuchr-tsel-zum-ausdrucken-55870.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60328"
+digistore24_product_id: 741573
+title: "Witwenrente leicht gemacht – mit Witwenrenten-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741573?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741573"
+language: "de"
+---
 # Witwenrente leicht gemacht – mit Witwenrenten-Rechner
 
 > Product ID `60328` · Digistore24 productId `741573` · [HTML profile page](../../produkte/witwenrente-leicht-gemacht-mit-witwenrenten-rechner-60328.html)

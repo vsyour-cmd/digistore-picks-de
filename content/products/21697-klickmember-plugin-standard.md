@@ -1,3 +1,24 @@
+---
+product_id: "21697"
+digistore24_product_id: 174719
+title: "KlickMember Plugin Standard"
+vendor: "intellicon"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 36.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.klicksuite.de/bestellung/?product=174719&aff=adminstore#aff=adminstore"
+sales_page: "https://www.klicksuite.de/bestellung/?product=174719"
+language: "de"
+---
 # KlickMember Plugin Standard
 
 > Product ID `21697` · Digistore24 productId `174719` · [HTML profile page](../../produkte/klickmember-plugin-standard-21697.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56159"
+digistore24_product_id: 613500
+title: "Manychat Facebook Flow"
+vendor: "KundenFinder"
+product_type: "Software"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2025-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ocf.me/420293/492051?aff=adminstore#aff=adminstore"
+sales_page: "https://ocf.me/420293/492051"
+language: "de"
+---
 # Manychat Facebook Flow
 
 > Product ID `56159` · Digistore24 productId `613500` · [HTML profile page](../../produkte/manychat-facebook-flow-56159.html)

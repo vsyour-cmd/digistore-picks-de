@@ -1,3 +1,24 @@
+---
+product_id: "56468"
+digistore24_product_id: 686937
+title: "Trading Breathwork – Klar handeln statt emotional reagieren."
+vendor: "BeamdreamBreathworks"
+product_type: "Member area and video courses"
+price: 250.98
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 75.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-04-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tradingbreathwork.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tradingbreathwork.com"
+language: "de"
+---
 # Trading Breathwork – Klar handeln statt emotional reagieren.
 
 > Product ID `56468` · Digistore24 productId `686937` · [HTML profile page](../../produkte/trading-breathwork-klar-handeln-statt-emotional-reagieren-56468.html)

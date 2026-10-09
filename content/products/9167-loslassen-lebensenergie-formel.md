@@ -1,3 +1,24 @@
+---
+product_id: "9167"
+digistore24_product_id: 60947
+title: "Loslassen-Lebensenergie-Formel"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 24.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 50.54
+cart_conversion_pct: 18
+cancel_rate_pct: 4.58
+categories: ["Personal Development"]
+listed_since: "2015-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/energie-webinar/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/energie-webinar/"
+language: "de"
+---
 # Loslassen-Lebensenergie-Formel
 
 > Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)

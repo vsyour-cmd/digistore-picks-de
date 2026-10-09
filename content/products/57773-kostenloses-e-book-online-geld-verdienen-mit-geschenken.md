@@ -1,3 +1,24 @@
+---
+product_id: "57773"
+digistore24_product_id: 714939
+title: "Kostenloses E-Book: Online Geld verdienen mit Geschenken"
+vendor: "werni1"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt"
+language: "de"
+---
 # Kostenloses E-Book: Online Geld verdienen mit Geschenken
 
 > Product ID `57773` · Digistore24 productId `714939` · [HTML profile page](../../produkte/kostenloses-e-book-online-geld-verdienen-mit-geschenken-57773.html)

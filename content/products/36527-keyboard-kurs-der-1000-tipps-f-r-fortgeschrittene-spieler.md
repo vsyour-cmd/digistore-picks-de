@@ -1,3 +1,24 @@
+---
+product_id: "36527"
+digistore24_product_id: 13293
+title: "Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler"
+vendor: "doormaker"
+product_type: "Member area and video courses"
+price: 1060.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 530.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2013-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://onlinemusikschule.info/am-genos-keyboard-lernen-fortgeschritten-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinemusikschule.info/am-genos-keyboard-lernen-fortgeschritten-2/"
+language: "de"
+---
 # Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler
 
 > Product ID `36527` · Digistore24 productId `13293` · [HTML profile page](../../produkte/keyboard-kurs-der-1000-tipps-f-r-fortgeschrittene-spieler-36527.html)

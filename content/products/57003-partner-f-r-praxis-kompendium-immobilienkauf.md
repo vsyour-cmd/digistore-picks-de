@@ -1,3 +1,24 @@
+---
+product_id: "57003"
+digistore24_product_id: 700172
+title: "Partner für Praxis-Kompendium Immobilienkauf"
+vendor: "praxiskompendiume000"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://www.praxis-kompendium.de?aff=adminstore#aff=adminstore"
+sales_page: "http://www.praxis-kompendium.de"
+language: "de"
+---
 # Partner für Praxis-Kompendium Immobilienkauf
 
 > Product ID `57003` · Digistore24 productId `700172` · [HTML profile page](../../produkte/partner-f-r-praxis-kompendium-immobilienkauf-57003.html)

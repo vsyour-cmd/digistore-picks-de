@@ -1,3 +1,24 @@
+---
+product_id: "60260"
+digistore24_product_id: 740755
+title: "Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740755?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740755"
+language: "de"
+---
 # Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
 
 > Product ID `60260` · Digistore24 productId `740755` · [HTML profile page](../../produkte/arbeitsvertrag-leicht-gemacht-ratgeber-vertrags-check-60260.html)

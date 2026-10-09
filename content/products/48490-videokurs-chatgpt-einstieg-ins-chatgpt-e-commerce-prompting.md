@@ -1,3 +1,24 @@
+---
+product_id: "48490"
+digistore24_product_id: 558253
+title: "Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting"
+vendor: "umbrellatodayde"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/558253?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/558253"
+language: "de"
+---
 # Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting
 
 > Product ID `48490` · Digistore24 productId `558253` · [HTML profile page](../../produkte/videokurs-chatgpt-einstieg-ins-chatgpt-e-commerce-prompting-48490.html)

@@ -1,3 +1,24 @@
+---
+product_id: "12311"
+digistore24_product_id: 88413
+title: "Entspannungs- Komplettset - Autogenes Training"
+vendor: "AutogenesTraining"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2016-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.autogenes-training-coach.de/entspannungs-komplettpaket/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.autogenes-training-coach.de/entspannungs-komplettpaket/"
+language: "de"
+---
 # Entspannungs- Komplettset - Autogenes Training
 
 > Product ID `12311` · Digistore24 productId `88413` · [HTML profile page](../../produkte/entspannungs-komplettset-autogenes-training-12311.html)

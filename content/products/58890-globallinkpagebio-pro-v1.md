@@ -1,3 +1,24 @@
+---
+product_id: "58890"
+digistore24_product_id: 728515
+title: "GlobalLinkPageBio PRO –v1"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 29.05
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 14.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://globallinkpagebio-sales.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://globallinkpagebio-sales.netlify.app/"
+language: "de"
+---
 # GlobalLinkPageBio PRO –v1
 
 > Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../produkte/globallinkpagebio-pro-v1-58890.html)

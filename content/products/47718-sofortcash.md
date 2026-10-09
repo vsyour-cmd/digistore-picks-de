@@ -1,3 +1,24 @@
+---
+product_id: "47718"
+digistore24_product_id: 542435
+title: "SOFORTCASH"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 16.06
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 10.79
+cart_conversion_pct: 15
+cancel_rate_pct: 1.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kimate.de/sofortc/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kimate.de/sofortc/"
+language: "de"
+---
 # SOFORTCASH
 
 > Product ID `47718` · Digistore24 productId `542435` · [HTML profile page](../../produkte/sofortcash-47718.html)

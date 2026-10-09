@@ -1,3 +1,24 @@
+---
+product_id: "20759"
+digistore24_product_id: 134769
+title: "Überleben in der Krise"
+vendor: "am-publishing"
+product_type: "E-books"
+price: 31.05
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2017-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/134769?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/134769"
+language: "de"
+---
 # Überleben in der Krise
 
 > Product ID `20759` · Digistore24 productId `134769` · [HTML profile page](../../produkte/berleben-in-der-krise-20759.html)

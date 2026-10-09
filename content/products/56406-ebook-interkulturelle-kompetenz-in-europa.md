@@ -1,3 +1,24 @@
+---
+product_id: "56406"
+digistore24_product_id: 689299
+title: "Ebook - Interkulturelle Kompetenz in Europa"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Travel & Culture"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689299?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689299"
+language: "de"
+---
 # Ebook - Interkulturelle Kompetenz in Europa
 
 > Product ID `56406` · Digistore24 productId `689299` · [HTML profile page](../../produkte/ebook-interkulturelle-kompetenz-in-europa-56406.html)

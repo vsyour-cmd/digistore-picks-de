@@ -1,3 +1,24 @@
+---
+product_id: "54138"
+digistore24_product_id: 574613
+title: "Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich"
+vendor: "Hochzeitsplaza"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2024-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/574613?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/574613"
+language: "de"
+---
 # Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich
 
 > Product ID `54138` · Digistore24 productId `574613` · [HTML profile page](../../produkte/hochzeitsreden-zum-ehejubil-um-pers-nlich-und-unvergesslich-54138.html)

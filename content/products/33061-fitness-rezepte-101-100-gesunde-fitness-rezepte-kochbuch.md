@@ -1,3 +1,24 @@
+---
+product_id: "33061"
+digistore24_product_id: 330743
+title: "Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch"
+vendor: "Fittastetic"
+product_type: "E-books"
+price: 8.36
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fittastetic.com/gesund-essen-101-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://fittastetic.com/gesund-essen-101-ebook/"
+language: "de"
+---
 # Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch
 
 > Product ID `33061` · Digistore24 productId `330743` · [HTML profile page](../../produkte/fitness-rezepte-101-100-gesunde-fitness-rezepte-kochbuch-33061.html)

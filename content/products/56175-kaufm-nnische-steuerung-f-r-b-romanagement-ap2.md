@@ -1,3 +1,24 @@
+---
+product_id: "56175"
+digistore24_product_id: 682425
+title: "Kaufmännische Steuerung für Büromanagement (AP2)"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 70.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kaufmaennische-steuerung-af?aff=adminstore#aff=adminstore"
+sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kaufmaennische-steuerung-af"
+language: "de"
+---
 # Kaufmännische Steuerung für Büromanagement (AP2)
 
 > Product ID `56175` · Digistore24 productId `682425` · [HTML profile page](../../produkte/kaufm-nnische-steuerung-f-r-b-romanagement-ap2-56175.html)

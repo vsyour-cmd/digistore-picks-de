@@ -1,3 +1,24 @@
+---
+product_id: "51950"
+digistore24_product_id: 603276
+title: "SOS-Guide für stressige Tage"
+vendor: "Alanreib"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-03-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.andreasreibold.com/SOS-Guide/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.andreasreibold.com/SOS-Guide/"
+language: "de"
+---
 # SOS-Guide für stressige Tage
 
 > Product ID `51950` · Digistore24 productId `603276` · [HTML profile page](../../produkte/sos-guide-f-r-stressige-tage-51950.html)

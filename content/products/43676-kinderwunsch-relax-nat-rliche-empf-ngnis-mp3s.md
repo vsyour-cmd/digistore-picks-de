@@ -1,3 +1,24 @@
+---
+product_id: "43676"
+digistore24_product_id: 356906
+title: "Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)"
+vendor: "Kinderwunsch-Relax"
+product_type: "Downloads"
+price: 24.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.76
+cart_conversion_pct: 23
+cancel_rate_pct: 0.38
+categories: ["Family & Children"]
+listed_since: "2020-11-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm"
+language: "de"
+---
 # Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)
 
 > Product ID `43676` · Digistore24 productId `356906` · [HTML profile page](../../produkte/kinderwunsch-relax-nat-rliche-empf-ngnis-mp3s-43676.html)

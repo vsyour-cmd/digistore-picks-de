@@ -1,3 +1,24 @@
+---
+product_id: "38408"
+digistore24_product_id: 411785
+title: "Vermögensaufbau leicht gemacht - Das Buch"
+vendor: "informationsforum100"
+product_type: "Book (printed)"
+price: 6.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2021-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.claus-roppel-buch.de/buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.claus-roppel-buch.de/buch"
+language: "de"
+---
 # Vermögensaufbau leicht gemacht - Das Buch
 
 > Product ID `38408` · Digistore24 productId `411785` · [HTML profile page](../../produkte/verm-gensaufbau-leicht-gemacht-das-buch-38408.html)

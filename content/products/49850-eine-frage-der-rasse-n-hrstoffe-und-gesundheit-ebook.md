@@ -1,3 +1,24 @@
+---
+product_id: "49850"
+digistore24_product_id: 570504
+title: "Eine Frage der Rasse - Nährstoffe und Gesundheit eBook"
+vendor: "stable-stuff"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stable-stuff.com/pferde-herkunft-naehrstoffe-kraeuter/?aff=adminstore#aff=adminstore"
+sales_page: "https://stable-stuff.com/pferde-herkunft-naehrstoffe-kraeuter/"
+language: "de"
+---
 # Eine Frage der Rasse - Nährstoffe und Gesundheit eBook
 
 > Product ID `49850` · Digistore24 productId `570504` · [HTML profile page](../../produkte/eine-frage-der-rasse-n-hrstoffe-und-gesundheit-ebook-49850.html)

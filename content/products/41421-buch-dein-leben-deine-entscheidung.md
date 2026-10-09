@@ -1,3 +1,24 @@
+---
+product_id: "41421"
+digistore24_product_id: 449908
+title: "Buch \"DEIN LEBEN - DEINE ENTSCHEIDUNG\""
+vendor: "wipec100"
+product_type: "Book (printed)"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://wipec.de/buch-dein-leben-deine-entscheidung/?aff=adminstore#aff=adminstore"
+sales_page: "https://wipec.de/buch-dein-leben-deine-entscheidung/"
+language: "de"
+---
 # Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"
 
 > Product ID `41421` · Digistore24 productId `449908` · [HTML profile page](../../produkte/buch-dein-leben-deine-entscheidung-41421.html)

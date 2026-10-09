@@ -1,3 +1,24 @@
+---
+product_id: "54696"
+digistore24_product_id: 649735
+title: "Geld verdienen mit Pinterest – Dein klarer Start"
+vendor: "digitag"
+product_type: "E-books"
+price: 0.41
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 26
+cancel_rate_pct: 11.11
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2025-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.nebeneinkommenideen.de/geld-verdienen-mit-pinterest?aff=adminstore#aff=adminstore"
+sales_page: "https://www.nebeneinkommenideen.de/geld-verdienen-mit-pinterest"
+language: "de"
+---
 # Geld verdienen mit Pinterest – Dein klarer Start
 
 > Product ID `54696` · Digistore24 productId `649735` · [HTML profile page](../../produkte/geld-verdienen-mit-pinterest-dein-klarer-start-54696.html)

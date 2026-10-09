@@ -1,3 +1,24 @@
+---
+product_id: "56653"
+digistore24_product_id: 694585
+title: "Die Arbeitsschutzfalle – bereit für jede Prüfung"
+vendor: "PERSOFIT"
+product_type: "Downloads"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 21.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Law & Justice"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694585?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694585"
+language: "de"
+---
 # Die Arbeitsschutzfalle – bereit für jede Prüfung
 
 > Product ID `56653` · Digistore24 productId `694585` · [HTML profile page](../../produkte/die-arbeitsschutzfalle-bereit-f-r-jede-pr-fung-56653.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59640"
+digistore24_product_id: 734230
+title: "Wondershare Filmora Videoschnitt Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film","Social Media"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734230?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734230"
+language: "de"
+---
 # Wondershare Filmora Videoschnitt Komplettkurs
 
 > Product ID `59640` · Digistore24 productId `734230` · [HTML profile page](../../produkte/wondershare-filmora-videoschnitt-komplettkurs-59640.html)

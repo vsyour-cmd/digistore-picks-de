@@ -1,3 +1,24 @@
+---
+product_id: "59396"
+digistore24_product_id: 735085
+title: "BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision"
+vendor: "DerPate"
+product_type: "Downloads"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Hobby & Craft","Project Management"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinevorlagenkiste.de/baupaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinevorlagenkiste.de/baupaket/"
+language: "de"
+---
 # BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision
 
 > Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../produkte/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)

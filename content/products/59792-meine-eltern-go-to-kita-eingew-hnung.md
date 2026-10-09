@@ -1,3 +1,24 @@
+---
+product_id: "59792"
+digistore24_product_id: 737081
+title: "\"Meine Eltern go to Kita\"-Eingewöhnung"
+vendor: "shirakitaratgeber"
+product_type: "E-books"
+price: 18.81
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://kita-ratgeber-online.de?aff=adminstore#aff=adminstore"
+sales_page: "http://kita-ratgeber-online.de"
+language: "de"
+---
 # "Meine Eltern go to Kita"-Eingewöhnung
 
 > Product ID `59792` · Digistore24 productId `737081` · [HTML profile page](../../produkte/meine-eltern-go-to-kita-eingew-hnung-59792.html)

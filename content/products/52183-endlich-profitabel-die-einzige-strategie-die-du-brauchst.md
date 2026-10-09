@@ -1,3 +1,24 @@
+---
+product_id: "52183"
+digistore24_product_id: 608833
+title: "Endlich Profitabel – Die einzige Strategie, die du brauchst"
+vendor: "TS_BAN"
+product_type: "E-books"
+price: 14.59
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 6.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products","Finances"]
+listed_since: "2025-04-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/608833?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/608833"
+language: "de"
+---
 # Endlich Profitabel – Die einzige Strategie, die du brauchst
 
 > Product ID `52183` · Digistore24 productId `608833` · [HTML profile page](../../produkte/endlich-profitabel-die-einzige-strategie-die-du-brauchst-52183.html)

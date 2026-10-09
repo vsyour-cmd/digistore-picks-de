@@ -1,3 +1,24 @@
+---
+product_id: "57000"
+digistore24_product_id: 702939
+title: "Angst ist die wahre Pandemie"
+vendor: "Seelendank"
+product_type: "Downloads"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Politics & Economy","Personal Development"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/?aff=adminstore#aff=adminstore"
+sales_page: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/"
+language: "de"
+---
 # Angst ist die wahre Pandemie
 
 > Product ID `57000` · Digistore24 productId `702939` · [HTML profile page](../../produkte/angst-ist-die-wahre-pandemie-57000.html)

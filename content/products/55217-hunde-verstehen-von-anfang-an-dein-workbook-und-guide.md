@@ -1,3 +1,24 @@
+---
+product_id: "55217"
+digistore24_product_id: 661886
+title: "Hunde verstehen von Anfang an - Dein Workbook und Guide"
+vendor: "HundecoachWolfgangSiebel"
+product_type: "E-books"
+price: 29.22
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education"]
+listed_since: "2026-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.hunde-coach.com/hunde-verstehen-von-anfang-an-dein-digitaler-trainingsleitfaden-guide-fuer-eine-faire-hundeerziehung-dg/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hunde-coach.com/hunde-verstehen-von-anfang-an-dein-digitaler-trainingsleitfaden-guide-fuer-eine-faire-hundeerziehung-dg/"
+language: "de"
+---
 # Hunde verstehen von Anfang an - Dein Workbook und Guide
 
 > Product ID `55217` · Digistore24 productId `661886` · [HTML profile page](../../produkte/hunde-verstehen-von-anfang-an-dein-workbook-und-guide-55217.html)

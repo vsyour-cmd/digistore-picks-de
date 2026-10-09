@@ -1,3 +1,24 @@
+---
+product_id: "57135"
+digistore24_product_id: 701254
+title: "Auswandern nach Thailand - Planen"
+vendor: "auswandern-planen"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Travel & Culture"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://auswandern-planen.com?aff=adminstore#aff=adminstore"
+sales_page: "https://auswandern-planen.com"
+language: "de"
+---
 # Auswandern nach Thailand - Planen
 
 > Product ID `57135` · Digistore24 productId `701254` · [HTML profile page](../../produkte/auswandern-nach-thailand-planen-57135.html)

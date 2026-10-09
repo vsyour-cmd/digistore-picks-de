@@ -1,3 +1,24 @@
+---
+product_id: "56882"
+digistore24_product_id: 699870
+title: "Kongresspaket Unperfekt Starten"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 36.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/699870?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/699870"
+language: "de"
+---
 # Kongresspaket Unperfekt Starten
 
 > Product ID `56882` · Digistore24 productId `699870` · [HTML profile page](../../produkte/kongresspaket-unperfekt-starten-56882.html)

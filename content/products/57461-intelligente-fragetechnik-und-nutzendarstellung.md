@@ -1,3 +1,24 @@
+---
+product_id: "57461"
+digistore24_product_id: 707205
+title: "Intelligente Fragetechnik und Nutzendarstellung"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/einwaende-und-antworten-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/einwaende-und-antworten-lp/"
+language: "de"
+---
 # Intelligente Fragetechnik und Nutzendarstellung
 
 > Product ID `57461` · Digistore24 productId `707205` · [HTML profile page](../../produkte/intelligente-fragetechnik-und-nutzendarstellung-57461.html)

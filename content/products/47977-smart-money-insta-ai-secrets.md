@@ -1,3 +1,24 @@
+---
+product_id: "47977"
+digistore24_product_id: 538009
+title: "Smart Money - Insta AI Secrets"
+vendor: "ss-business"
+product_type: "E-books"
+price: 1.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://instabusiness.org/smart-money/?aff=adminstore#aff=adminstore"
+sales_page: "https://instabusiness.org/smart-money/"
+language: "de"
+---
 # Smart Money - Insta AI Secrets
 
 > Product ID `47977` · Digistore24 productId `538009` · [HTML profile page](../../produkte/smart-money-insta-ai-secrets-47977.html)

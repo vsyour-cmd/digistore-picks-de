@@ -1,3 +1,24 @@
+---
+product_id: "4179"
+digistore24_product_id: 12439
+title: "Wärmekissen Schnittmuster"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 2.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/"
+language: "de"
+---
 # Wärmekissen Schnittmuster
 
 > Product ID `4179` · Digistore24 productId `12439` · [HTML profile page](../../produkte/w-rmekissen-schnittmuster-4179.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59575"
+digistore24_product_id: 735858
+title: "Trauora: Web-App für die Feierplanung, 30 Prozent Provision"
+vendor: "delnexstudio"
+product_type: "Member area and video courses"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://trauora.de/?partner=1&aff=adminstore#aff=adminstore"
+sales_page: "https://trauora.de/?partner=1"
+language: "de"
+---
 # Trauora: Web-App für die Feierplanung, 30 Prozent Provision
 
 > Product ID `59575` · Digistore24 productId `735858` · [HTML profile page](../../produkte/trauora-web-app-f-r-die-feierplanung-30-prozent-provision-59575.html)

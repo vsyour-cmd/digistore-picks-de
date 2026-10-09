@@ -1,3 +1,24 @@
+---
+product_id: "56480"
+digistore24_product_id: 690188
+title: "Notfallplaner für Familien – Alle wichtigen Informationen fü"
+vendor: "KayKlostermann"
+product_type: "Downloads"
+price: 10.34
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kayroo-planer.my.canva.site/notfallplaner?aff=adminstore#aff=adminstore"
+sales_page: "https://kayroo-planer.my.canva.site/notfallplaner"
+language: "de"
+---
 # Notfallplaner für Familien – Alle wichtigen Informationen fü
 
 > Product ID `56480` · Digistore24 productId `690188` · [HTML profile page](../../produkte/notfallplaner-f-r-familien-alle-wichtigen-informationen-f-56480.html)

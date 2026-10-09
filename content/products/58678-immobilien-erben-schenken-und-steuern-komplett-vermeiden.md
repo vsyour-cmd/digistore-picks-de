@@ -1,3 +1,24 @@
+---
+product_id: "58678"
+digistore24_product_id: 733505
+title: "Immobilien: Erben, Schenken und Steuern komplett vermeiden"
+vendor: "ericpromm"
+product_type: "Downloads"
+price: 2345.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1172.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances","Real Estate"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://promm.de/nachfolge-workshop?aff=adminstore#aff=adminstore"
+sales_page: "https://promm.de/nachfolge-workshop"
+language: "de"
+---
 # Immobilien: Erben, Schenken und Steuern komplett vermeiden
 
 > Product ID `58678` · Digistore24 productId `733505` · [HTML profile page](../../produkte/immobilien-erben-schenken-und-steuern-komplett-vermeiden-58678.html)

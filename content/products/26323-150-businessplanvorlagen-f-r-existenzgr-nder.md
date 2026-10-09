@@ -1,3 +1,24 @@
+---
+product_id: "26323"
+digistore24_product_id: 240041
+title: "150 Businessplanvorlagen für Existenzgründer"
+vendor: "Gruenderplan"
+product_type: "Downloads"
+price: 69.88
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.39
+cart_conversion_pct: 15
+cancel_rate_pct: 4.49
+categories: ["Profession & Job"]
+listed_since: "2018-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege?aff=adminstore#aff=adminstore"
+sales_page: "https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege"
+language: "de"
+---
 # 150 Businessplanvorlagen für Existenzgründer
 
 > Product ID `26323` · Digistore24 productId `240041` · [HTML profile page](../../produkte/150-businessplanvorlagen-f-r-existenzgr-nder-26323.html)

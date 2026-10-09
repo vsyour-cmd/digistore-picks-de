@@ -1,3 +1,24 @@
+---
+product_id: "50631"
+digistore24_product_id: 560802
+title: "InstaIncome Academy - Online Einnahmen mit Stil"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/150-freebie-ideen?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/150-freebie-ideen"
+language: "de"
+---
 # InstaIncome Academy - Online Einnahmen mit Stil
 
 > Product ID `50631` · Digistore24 productId `560802` · [HTML profile page](../../produkte/instaincome-academy-online-einnahmen-mit-stil-50631.html)

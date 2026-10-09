@@ -1,3 +1,24 @@
+---
+product_id: "56982"
+digistore24_product_id: 701402
+title: "Mein erster Discord-Server"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/mein-erster-discord-server?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/mein-erster-discord-server"
+language: "de"
+---
 # Mein erster Discord-Server
 
 > Product ID `56982` · Digistore24 productId `701402` · [HTML profile page](../../produkte/mein-erster-discord-server-56982.html)

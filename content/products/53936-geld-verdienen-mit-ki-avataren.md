@@ -1,3 +1,24 @@
+---
+product_id: "53936"
+digistore24_product_id: 635236
+title: "Geld verdienen mit KI Avataren"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/kiavatarbusiness-q4-99/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/kiavatarbusiness-q4-99/"
+language: "de"
+---
 # Geld verdienen mit KI Avataren
 
 > Product ID `53936` · Digistore24 productId `635236` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-avataren-53936.html)

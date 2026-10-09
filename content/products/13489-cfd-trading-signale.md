@@ -1,3 +1,24 @@
+---
+product_id: "13489"
+digistore24_product_id: 66813
+title: "CFD Trading-Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 230.57
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 42.53
+cart_conversion_pct: 8
+cancel_rate_pct: 11.61
+categories: ["Trading Products"]
+listed_since: "2015-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/cfd-trading-signale-handelssignale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/cfd-trading-signale-handelssignale/"
+language: "de"
+---
 # CFD Trading-Signale
 
 > Product ID `13489` · Digistore24 productId `66813` · [HTML profile page](../../produkte/cfd-trading-signale-13489.html)

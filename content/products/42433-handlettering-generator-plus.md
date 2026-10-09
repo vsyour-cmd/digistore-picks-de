@@ -1,3 +1,24 @@
+---
+product_id: "42433"
+digistore24_product_id: 354191
+title: "Handlettering Generator Plus"
+vendor: "Timothy90"
+product_type: "Software"
+price: 56.4
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 18.96
+cart_conversion_pct: 34
+cancel_rate_pct: 0.69
+categories: ["Software"]
+listed_since: "2020-10-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://handletteringlernen.de/handlettering-generator-plus/?aff=adminstore#aff=adminstore"
+sales_page: "https://handletteringlernen.de/handlettering-generator-plus/"
+language: "de"
+---
 # Handlettering Generator Plus
 
 > Product ID `42433` · Digistore24 productId `354191` · [HTML profile page](../../produkte/handlettering-generator-plus-42433.html)

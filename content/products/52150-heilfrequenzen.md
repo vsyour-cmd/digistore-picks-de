@@ -1,3 +1,24 @@
+---
+product_id: "52150"
+digistore24_product_id: 608566
+title: "Heilfrequenzen"
+vendor: "Empfehlungsmeister"
+product_type: "E-books"
+price: 15.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://heilfrequenzen.empfehlungsmeister.com?aff=adminstore#aff=adminstore"
+sales_page: "http://heilfrequenzen.empfehlungsmeister.com"
+language: "de"
+---
 # Heilfrequenzen
 
 > Product ID `52150` · Digistore24 productId `608566` · [HTML profile page](../../produkte/heilfrequenzen-52150.html)

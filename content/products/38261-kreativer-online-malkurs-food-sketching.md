@@ -1,3 +1,24 @@
+---
+product_id: "38261"
+digistore24_product_id: 414062
+title: "Kreativer online Malkurs \"Food Sketching\""
+vendor: "kolibrischool"
+product_type: "Member area and video courses"
+price: 26.23
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2021-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore"
+sales_page: "https://kolibri-school.de/food-sketching-malen-lernen/"
+language: "de"
+---
 # Kreativer online Malkurs "Food Sketching"
 
 > Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../produkte/kreativer-online-malkurs-food-sketching-38261.html)

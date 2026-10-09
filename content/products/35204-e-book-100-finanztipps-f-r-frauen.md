@@ -1,3 +1,24 @@
+---
+product_id: "35204"
+digistore24_product_id: 358910
+title: "E-Book \"100 Finanztipps für Frauen\""
+vendor: "LauraKimKuhlemann"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://therichgirl.club/frauen-finanzen-buch-100-tipps/?aff=adminstore#aff=adminstore"
+sales_page: "https://therichgirl.club/frauen-finanzen-buch-100-tipps/"
+language: "de"
+---
 # E-Book "100 Finanztipps für Frauen"
 
 > Product ID `35204` · Digistore24 productId `358910` · [HTML profile page](../../produkte/e-book-100-finanztipps-f-r-frauen-35204.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52338"
+digistore24_product_id: 607924
+title: "PornExit Masterclass: Schluss mit Pornosucht"
+vendor: "NatureHeartAcademy"
+product_type: "Member area and video courses"
+price: 337.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 67.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.fabiankowallikacademy.de/start/pornexit-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fabiankowallikacademy.de/start/pornexit-masterclass/"
+language: "de"
+---
 # PornExit Masterclass: Schluss mit Pornosucht
 
 > Product ID `52338` · Digistore24 productId `607924` · [HTML profile page](../../produkte/pornexit-masterclass-schluss-mit-pornosucht-52338.html)

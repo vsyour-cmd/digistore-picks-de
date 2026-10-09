@@ -1,3 +1,24 @@
+---
+product_id: "33112"
+digistore24_product_id: 326806
+title: "Massage Triggerpunkt Behandlung"
+vendor: "UweGoy"
+product_type: "Member area and video courses"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 30.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-05-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://medios-seminare-online.de/triggerpunkt?aff=adminstore#aff=adminstore"
+sales_page: "https://medios-seminare-online.de/triggerpunkt"
+language: "de"
+---
 # Massage Triggerpunkt Behandlung
 
 > Product ID `33112` · Digistore24 productId `326806` · [HTML profile page](../../produkte/massage-triggerpunkt-behandlung-33112.html)

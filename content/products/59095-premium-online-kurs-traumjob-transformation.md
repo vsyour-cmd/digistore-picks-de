@@ -1,3 +1,24 @@
+---
+product_id: "59095"
+digistore24_product_id: 651818
+title: "Premium Online Kurs \"Traumjob Transformation\""
+vendor: "HeartfulMindset"
+product_type: "Member area and video courses"
+price: 589.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 235.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Personal Development"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.heartful-mindset.de/traumjob-transformation-1?aff=adminstore#aff=adminstore"
+sales_page: "https://www.heartful-mindset.de/traumjob-transformation-1"
+language: "de"
+---
 # Premium Online Kurs "Traumjob Transformation"
 
 > Product ID `59095` · Digistore24 productId `651818` · [HTML profile page](../../produkte/premium-online-kurs-traumjob-transformation-59095.html)

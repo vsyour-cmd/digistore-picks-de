@@ -1,3 +1,24 @@
+---
+product_id: "55717"
+digistore24_product_id: 670847
+title: "Beautybusiness Masterclass"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 56.4
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/670847?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/670847"
+language: "de"
+---
 # Beautybusiness Masterclass
 
 > Product ID `55717` · Digistore24 productId `670847` · [HTML profile page](../../produkte/beautybusiness-masterclass-55717.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60380"
+digistore24_product_id: 741181
+title: "Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushal"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741181?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741181"
+language: "de"
+---
 # Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushal
 
 > Product ID `60380` · Digistore24 productId `741181` · [HTML profile page](../../produkte/haushaltsbuch-und-sparen-leicht-gemacht-ratgeber-haushal-60380.html)

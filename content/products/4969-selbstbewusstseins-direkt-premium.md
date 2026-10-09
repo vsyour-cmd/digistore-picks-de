@@ -1,3 +1,24 @@
+---
+product_id: "4969"
+digistore24_product_id: 33459
+title: "Selbstbewusstseins-Direkt-Premium"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 92.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2014-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/"
+language: "de"
+---
 # Selbstbewusstseins-Direkt-Premium
 
 > Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../produkte/selbstbewusstseins-direkt-premium-4969.html)

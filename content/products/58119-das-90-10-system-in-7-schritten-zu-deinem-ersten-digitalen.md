@@ -1,3 +1,24 @@
+---
+product_id: "58119"
+digistore24_product_id: 718161
+title: "Das 90/10-System – In 7 Schritten zu deinem ersten digitalen"
+vendor: "rs-onlineagentur"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/90-10-system-band1-upsell"
+language: "de"
+---
 # Das 90/10-System – In 7 Schritten zu deinem ersten digitalen
 
 > Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../produkte/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33041"
+digistore24_product_id: 282515
+title: "KNX Programmierung - 8h Videokurs als Klickanleitung"
+vendor: "smarthomeknx"
+product_type: "Downloads"
+price: 238.07
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 75.05
+cart_conversion_pct: 13
+cancel_rate_pct: 4.84
+categories: ["Computer & Internet"]
+listed_since: "2019-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.smartest-home.com/knx-videokurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.smartest-home.com/knx-videokurs/"
+language: "de"
+---
 # KNX Programmierung - 8h Videokurs als Klickanleitung
 
 > Product ID `33041` · Digistore24 productId `282515` · [HTML profile page](../../produkte/knx-programmierung-8h-videokurs-als-klickanleitung-33041.html)

@@ -1,3 +1,24 @@
+---
+product_id: "34357"
+digistore24_product_id: 479067
+title: "Business Cash Box Abo + 150€ über Upsells verdienen"
+vendor: "Magnodesign"
+product_type: "Member area and video courses"
+price: 74.55
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 18.68
+cart_conversion_pct: 14
+cancel_rate_pct: 3.3
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-01-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.imparare.de/1c3cccfa1680?aff=adminstore#aff=adminstore"
+sales_page: "https://www.imparare.de/1c3cccfa1680"
+language: "de"
+---
 # Business Cash Box Abo + 150€ über Upsells verdienen
 
 > Product ID `34357` · Digistore24 productId `479067` · [HTML profile page](../../produkte/business-cash-box-abo-150-ber-upsells-verdienen-34357.html)

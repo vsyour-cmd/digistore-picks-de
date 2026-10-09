@@ -1,3 +1,24 @@
+---
+product_id: "57380"
+digistore24_product_id: 698461
+title: "Löwenkraftkinder"
+vendor: "ThomasTenkamp"
+product_type: "Member area and video courses"
+price: 465.3
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 186.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thomastenkamp.de/loewenkraftkinder?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thomastenkamp.de/loewenkraftkinder"
+language: "de"
+---
 # Löwenkraftkinder
 
 > Product ID `57380` · Digistore24 productId `698461` · [HTML profile page](../../produkte/l-wenkraftkinder-57380.html)

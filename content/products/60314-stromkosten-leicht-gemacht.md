@@ -1,3 +1,24 @@
+---
+product_id: "60314"
+digistore24_product_id: 708726
+title: "Stromkosten leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/708726?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/708726"
+language: "de"
+---
 # Stromkosten leicht gemacht
 
 > Product ID `60314` · Digistore24 productId `708726` · [HTML profile page](../../produkte/stromkosten-leicht-gemacht-60314.html)

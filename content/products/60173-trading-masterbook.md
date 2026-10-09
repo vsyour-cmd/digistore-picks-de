@@ -1,3 +1,24 @@
+---
+product_id: "60173"
+digistore24_product_id: 741558
+title: "Trading Masterbook"
+vendor: "LivioBirkhofer"
+product_type: "E-books"
+price: 312.58
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 78.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741558?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741558"
+language: "de"
+---
 # Trading Masterbook
 
 > Product ID `60173` · Digistore24 productId `741558` · [HTML profile page](../../produkte/trading-masterbook-60173.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54454"
+digistore24_product_id: 609765
+title: "4-Wochen-Money-Reset"
+vendor: "Glareena"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gluecksmomente-jeden-tag.com/money-reset?aff=adminstore#aff=adminstore"
+sales_page: "https://gluecksmomente-jeden-tag.com/money-reset"
+language: "de"
+---
 # 4-Wochen-Money-Reset
 
 > Product ID `54454` · Digistore24 productId `609765` · [HTML profile page](../../produkte/4-wochen-money-reset-54454.html)

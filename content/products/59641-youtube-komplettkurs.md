@@ -1,3 +1,24 @@
+---
+product_id: "59641"
+digistore24_product_id: 734231
+title: "Youtube Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Social Media"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734231?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734231"
+language: "de"
+---
 # Youtube Komplettkurs
 
 > Product ID `59641` · Digistore24 productId `734231` · [HTML profile page](../../produkte/youtube-komplettkurs-59641.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58444"
+digistore24_product_id: 711980
+title: "Social Money System"
+vendor: "AI-mazing"
+product_type: "Member area and video courses"
+price: 530.22
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 159.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software","Marketing Services"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ai-mazing.de/social-money-system/optin/?aff=adminstore#aff=adminstore"
+sales_page: "https://ai-mazing.de/social-money-system/optin/"
+language: "de"
+---
 # Social Money System
 
 > Product ID `58444` · Digistore24 productId `711980` · [HTML profile page](../../produkte/social-money-system-58444.html)

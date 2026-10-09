@@ -1,3 +1,24 @@
+---
+product_id: "39181"
+digistore24_product_id: 107607
+title: "121 Affiliate Marketing HACKZ"
+vendor: "sattelitevendor"
+product_type: "E-books"
+price: 3.37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.59
+cart_conversion_pct: 11
+cancel_rate_pct: 1.81
+categories: ["Online Marketing & E-Business"]
+listed_since: "2016-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://torstenjaeger.com/121affiliatehackz?aff=adminstore#aff=adminstore"
+sales_page: "https://torstenjaeger.com/121affiliatehackz"
+language: "de"
+---
 # 121 Affiliate Marketing HACKZ
 
 > Product ID `39181` · Digistore24 productId `107607` · [HTML profile page](../../produkte/121-affiliate-marketing-hackz-39181.html)

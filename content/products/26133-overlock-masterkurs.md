@@ -1,3 +1,24 @@
+---
+product_id: "26133"
+digistore24_product_id: 193615
+title: "Overlock Masterkurs"
+vendor: "DotsDesigns"
+product_type: "Member area and video courses"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.19
+cart_conversion_pct: 33
+cancel_rate_pct: 2.3
+categories: ["Hobby & Craft"]
+listed_since: "2018-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dots-designs.de/overlockkurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dots-designs.de/overlockkurs"
+language: "de"
+---
 # Overlock Masterkurs
 
 > Product ID `26133` · Digistore24 productId `193615` · [HTML profile page](../../produkte/overlock-masterkurs-26133.html)

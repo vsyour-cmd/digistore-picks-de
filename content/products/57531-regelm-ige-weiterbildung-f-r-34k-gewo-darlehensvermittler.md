@@ -1,3 +1,24 @@
+---
+product_id: "57531"
+digistore24_product_id: 711653
+title: "Regelmäßige Weiterbildung für § 34k GewO Darlehensvermittler"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 111.85
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-regelmaessige-weiterbildung-fuer-%c2%a7-34k-gewo-verbraucherdarlehensvermittlerinnen/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-regelmaessige-weiterbildung-fuer-%c2%a7-34k-gewo-verbraucherdarlehensvermittlerinnen/"
+language: "de"
+---
 # Regelmäßige Weiterbildung für § 34k GewO Darlehensvermittler
 
 > Product ID `57531` · Digistore24 productId `711653` · [HTML profile page](../../produkte/regelm-ige-weiterbildung-f-r-34k-gewo-darlehensvermittler-57531.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59320"
+digistore24_product_id: 722376
+title: "Rauchfrei ohne Druck | Personalisierte App + Guide"
+vendor: "daorauchfrei"
+product_type: "Software"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dao-methode.de?aff=adminstore#aff=adminstore"
+sales_page: "https://dao-methode.de"
+language: "de"
+---
 # Rauchfrei ohne Druck | Personalisierte App + Guide
 
 > Product ID `59320` · Digistore24 productId `722376` · [HTML profile page](../../produkte/rauchfrei-ohne-druck-personalisierte-app-guide-59320.html)

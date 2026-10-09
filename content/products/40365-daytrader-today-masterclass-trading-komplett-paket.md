@@ -1,3 +1,24 @@
+---
+product_id: "40365"
+digistore24_product_id: 429360
+title: "Daytrader Today Masterclass Trading Komplett Paket"
+vendor: "DaytraderToday"
+product_type: "Member area and video courses"
+price: 893.76
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 357.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2022-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://daytrader-today.coachy.net/lp/daytrader-today-masterclass-trading-komplett-paket/?aff=adminstore#aff=adminstore"
+sales_page: "https://daytrader-today.coachy.net/lp/daytrader-today-masterclass-trading-komplett-paket/"
+language: "de"
+---
 # Daytrader Today Masterclass Trading Komplett Paket
 
 > Product ID `40365` · Digistore24 productId `429360` · [HTML profile page](../../produkte/daytrader-today-masterclass-trading-komplett-paket-40365.html)

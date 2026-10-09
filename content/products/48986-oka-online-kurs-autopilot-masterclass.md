@@ -1,3 +1,24 @@
+---
+product_id: "48986"
+digistore24_product_id: 506187
+title: "OKA - Online Kurs Autopilot Masterclass"
+vendor: "MichoWorldwide"
+product_type: "Member area and video courses"
+price: 2250.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1125.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2023-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/506187?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/506187"
+language: "de"
+---
 # OKA - Online Kurs Autopilot Masterclass
 
 > Product ID `48986` · Digistore24 productId `506187` · [HTML profile page](../../produkte/oka-online-kurs-autopilot-masterclass-48986.html)

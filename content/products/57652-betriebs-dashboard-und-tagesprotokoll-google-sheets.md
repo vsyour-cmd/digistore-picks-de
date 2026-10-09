@@ -1,3 +1,24 @@
+---
+product_id: "57652"
+digistore24_product_id: 713823
+title: "Betriebs-Dashboard und Tagesprotokoll (Google Sheets)"
+vendor: "DeinKiService"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software","Marketing Services"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713823?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713823"
+language: "de"
+---
 # Betriebs-Dashboard und Tagesprotokoll (Google Sheets)
 
 > Product ID `57652` · Digistore24 productId `713823` · [HTML profile page](../../produkte/betriebs-dashboard-und-tagesprotokoll-google-sheets-57652.html)

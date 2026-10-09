@@ -1,3 +1,24 @@
+---
+product_id: "46119"
+digistore24_product_id: 526339
+title: "Money Magnet 2.0 - Einzigartige VSL im DACH Raum"
+vendor: "funnelprofits"
+product_type: "Member area and video courses"
+price: 63.78
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 40.69
+cart_conversion_pct: 12
+cancel_rate_pct: 8.44
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2023-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://moneymagnet.funnelcockpit.com/"
+language: "de"
+---
 # Money Magnet 2.0 - Einzigartige VSL im DACH Raum
 
 > Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../produkte/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)

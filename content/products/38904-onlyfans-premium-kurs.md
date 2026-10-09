@@ -1,3 +1,24 @@
+---
+product_id: "38904"
+digistore24_product_id: 422798
+title: "Onlyfans Premium Kurs"
+vendor: "MTernes"
+product_type: "Downloads"
+price: 140.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2022-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://prestige101.de/onlyfans-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://prestige101.de/onlyfans-kurs"
+language: "de"
+---
 # Onlyfans Premium Kurs
 
 > Product ID `38904` · Digistore24 productId `422798` · [HTML profile page](../../produkte/onlyfans-premium-kurs-38904.html)

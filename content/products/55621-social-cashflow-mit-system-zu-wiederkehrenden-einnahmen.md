@@ -1,3 +1,24 @@
+---
+product_id: "55621"
+digistore24_product_id: 668926
+title: "Social Cashflow – mit System zu wiederkehrenden Einnahmen"
+vendor: "werni1"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 53
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/Dv3857vCp42YKaNT8?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/Dv3857vCp42YKaNT8"
+language: "de"
+---
 # Social Cashflow – mit System zu wiederkehrenden Einnahmen
 
 > Product ID `55621` · Digistore24 productId `668926` · [HTML profile page](../../produkte/social-cashflow-mit-system-zu-wiederkehrenden-einnahmen-55621.html)

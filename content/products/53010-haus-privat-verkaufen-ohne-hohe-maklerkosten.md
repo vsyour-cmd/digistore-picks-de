@@ -1,3 +1,24 @@
+---
+product_id: "53010"
+digistore24_product_id: 621099
+title: "Haus privat verkaufen - ohne hohe Maklerkosten"
+vendor: "Jeanne70"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Real Estate","Sales Training"]
+listed_since: "2025-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/621099?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/621099"
+language: "de"
+---
 # Haus privat verkaufen - ohne hohe Maklerkosten
 
 > Product ID `53010` · Digistore24 productId `621099` · [HTML profile page](../../produkte/haus-privat-verkaufen-ohne-hohe-maklerkosten-53010.html)

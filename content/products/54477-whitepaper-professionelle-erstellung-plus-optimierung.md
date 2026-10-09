@@ -1,3 +1,24 @@
+---
+product_id: "54477"
+digistore24_product_id: 642742
+title: "Whitepaper Professionelle Erstellung plus Optimierung"
+vendor: "LidoConsultingAps"
+product_type: "Remote service provided electronically"
+price: 995.55
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 248.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Marketing Services"]
+listed_since: "2025-10-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/642742?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/642742"
+language: "de"
+---
 # Whitepaper Professionelle Erstellung plus Optimierung
 
 > Product ID `54477` · Digistore24 productId `642742` · [HTML profile page](../../produkte/whitepaper-professionelle-erstellung-plus-optimierung-54477.html)

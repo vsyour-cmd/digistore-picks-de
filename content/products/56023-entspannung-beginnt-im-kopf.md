@@ -1,3 +1,24 @@
+---
+product_id: "56023"
+digistore24_product_id: 678172
+title: "Entspannung beginnt im Kopf"
+vendor: "HeidiPro"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://hpheidi-hoeck.systeme.io/88c522d9?aff=adminstore#aff=adminstore"
+sales_page: "https://hpheidi-hoeck.systeme.io/88c522d9"
+language: "de"
+---
 # Entspannung beginnt im Kopf
 
 > Product ID `56023` · Digistore24 productId `678172` · [HTML profile page](../../produkte/entspannung-beginnt-im-kopf-56023.html)

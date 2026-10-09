@@ -1,3 +1,24 @@
+---
+product_id: "54690"
+digistore24_product_id: 649618
+title: "Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF"
+vendor: "Melliscolorworld"
+product_type: "Downloads"
+price: 14.62
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/649618?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/649618"
+language: "de"
+---
 # Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF
 
 > Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../produkte/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)

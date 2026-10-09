@@ -1,3 +1,24 @@
+---
+product_id: "57716"
+digistore24_product_id: 706444
+title: "Pflegegrad beantragen leicht gemacht"
+vendor: "PflegekommpassAutismusRecht"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Marketing Services"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/706444?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706444"
+language: "de"
+---
 # Pflegegrad beantragen leicht gemacht
 
 > Product ID `57716` · Digistore24 productId `706444` · [HTML profile page](../../produkte/pflegegrad-beantragen-leicht-gemacht-57716.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43131"
+digistore24_product_id: 451280
+title: "Laravel Onlinekurs"
+vendor: "andreaspabst"
+product_type: "Member area and video courses"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 49.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2022-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/451280?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/451280"
+language: "de"
+---
 # Laravel Onlinekurs
 
 > Product ID `43131` · Digistore24 productId `451280` · [HTML profile page](../../produkte/laravel-onlinekurs-43131.html)

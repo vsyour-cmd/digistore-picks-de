@@ -1,3 +1,24 @@
+---
+product_id: "55209"
+digistore24_product_id: 616652
+title: "Tierschutz-Guide – inkl. Großes Paket"
+vendor: "Tierheimsponsoring"
+product_type: "Downloads"
+price: 315.84
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 78.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Food & Drink"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/616652?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/616652"
+language: "de"
+---
 # Tierschutz-Guide – inkl. Großes Paket
 
 > Product ID `55209` · Digistore24 productId `616652` · [HTML profile page](../../produkte/tierschutz-guide-inkl-gro-es-paket-55209.html)

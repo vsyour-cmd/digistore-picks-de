@@ -1,3 +1,24 @@
+---
+product_id: "26143"
+digistore24_product_id: 247312
+title: "Rette deinen Rücken BASIC"
+vendor: "australia1011"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/?aff=adminstore#aff=adminstore"
+sales_page: "https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/"
+language: "de"
+---
 # Rette deinen Rücken BASIC
 
 > Product ID `26143` · Digistore24 productId `247312` · [HTML profile page](../../produkte/rette-deinen-r-cken-basic-26143.html)

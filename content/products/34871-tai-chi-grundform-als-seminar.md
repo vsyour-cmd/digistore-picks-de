@@ -1,3 +1,24 @@
+---
+product_id: "34871"
+digistore24_product_id: 354630
+title: "Tai Chi Grundform als Seminar"
+vendor: "WuWeiSchule"
+product_type: "Member area and video courses"
+price: 23.03
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2020-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.wuwei-schule.de/lp/tai-chi-basis/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wuwei-schule.de/lp/tai-chi-basis/"
+language: "de"
+---
 # Tai Chi Grundform als Seminar
 
 > Product ID `34871` · Digistore24 productId `354630` · [HTML profile page](../../produkte/tai-chi-grundform-als-seminar-34871.html)

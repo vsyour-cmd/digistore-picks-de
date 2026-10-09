@@ -1,3 +1,24 @@
+---
+product_id: "36680"
+digistore24_product_id: 382617
+title: "Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!"
+vendor: "Steuernaberlustig"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-04-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/"
+language: "de"
+---
 # Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!
 
 > Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../produkte/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)

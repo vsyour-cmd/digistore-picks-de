@@ -1,3 +1,24 @@
+---
+product_id: "55036"
+digistore24_product_id: 643829
+title: "1:1 Coaching / NeuroZen® Mentoring Paket \"BRILLIANT\""
+vendor: "OlgaHein"
+product_type: "Online coaching"
+price: 11803.28
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3540.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services"]
+listed_since: "2025-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://holistic-life.coachy.net/lp/1-1-coaching-brilliant/?aff=adminstore#aff=adminstore"
+sales_page: "https://holistic-life.coachy.net/lp/1-1-coaching-brilliant/"
+language: "de"
+---
 # 1:1 Coaching / NeuroZen® Mentoring Paket "BRILLIANT"
 
 > Product ID `55036` · Digistore24 productId `643829` · [HTML profile page](../../produkte/1-1-coaching-neurozen-mentoring-paket-brilliant-55036.html)

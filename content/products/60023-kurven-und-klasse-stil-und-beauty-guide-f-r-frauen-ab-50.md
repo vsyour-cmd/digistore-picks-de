@@ -1,3 +1,24 @@
+---
+product_id: "60023"
+digistore24_product_id: 719242
+title: "Kurven und Klasse – Stil- und Beauty-Guide für Frauen ab 50"
+vendor: "ITServiceMB"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kurven-klasse.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kurven-klasse.de/"
+language: "de"
+---
 # Kurven und Klasse – Stil- und Beauty-Guide für Frauen ab 50
 
 > Product ID `60023` · Digistore24 productId `719242` · [HTML profile page](../../produkte/kurven-und-klasse-stil-und-beauty-guide-f-r-frauen-ab-50-60023.html)

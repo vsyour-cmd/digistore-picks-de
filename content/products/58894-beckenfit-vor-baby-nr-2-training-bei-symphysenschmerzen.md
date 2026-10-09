@@ -1,3 +1,24 @@
+---
+product_id: "58894"
+digistore24_product_id: 710962
+title: "Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen"
+vendor: "vorbereitet-schwanger"
+product_type: "E-books"
+price: 29.16
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 11.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vorbereitet-schwanger.de/beckenfit/?aff=adminstore#aff=adminstore"
+sales_page: "https://vorbereitet-schwanger.de/beckenfit/"
+language: "de"
+---
 # Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen
 
 > Product ID `58894` · Digistore24 productId `710962` · [HTML profile page](../../produkte/beckenfit-vor-baby-nr-2-training-bei-symphysenschmerzen-58894.html)

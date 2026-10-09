@@ -1,3 +1,24 @@
+---
+product_id: "47181"
+digistore24_product_id: 538540
+title: "Traumjob Leitfaden"
+vendor: "Till-NiklasJacke"
+product_type: "E-books"
+price: 20.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2024-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.der-moeglich-macher.com/mein-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.der-moeglich-macher.com/mein-buch"
+language: "de"
+---
 # Traumjob Leitfaden
 
 > Product ID `47181` · Digistore24 productId `538540` · [HTML profile page](../../produkte/traumjob-leitfaden-47181.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41861"
+digistore24_product_id: 416910
+title: "Ayurveda für Anfänger | E-Book"
+vendor: "tastykaty"
+product_type: "E-books"
+price: 14.59
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/"
+language: "de"
+---
 # Ayurveda für Anfänger | E-Book
 
 > Product ID `41861` · Digistore24 productId `416910` · [HTML profile page](../../produkte/ayurveda-f-r-anf-nger-e-book-41861.html)

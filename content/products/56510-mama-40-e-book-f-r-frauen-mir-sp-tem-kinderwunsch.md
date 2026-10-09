@@ -1,3 +1,24 @@
+---
+product_id: "56510"
+digistore24_product_id: 683381
+title: "Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch"
+vendor: "diue40mama2232"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/683381?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/683381"
+language: "de"
+---
 # Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch
 
 > Product ID `56510` · Digistore24 productId `683381` · [HTML profile page](../../produkte/mama-40-e-book-f-r-frauen-mir-sp-tem-kinderwunsch-56510.html)

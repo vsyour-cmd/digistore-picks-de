@@ -1,3 +1,24 @@
+---
+product_id: "36852"
+digistore24_product_id: 392067
+title: "LA PALMA: La Palma Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.41
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 31
+cancel_rate_pct: 0.77
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2021-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/la-palma-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/la-palma-bildband/"
+language: "de"
+---
 # LA PALMA: La Palma Bildband [E-Book]
 
 > Product ID `36852` · Digistore24 productId `392067` · [HTML profile page](../../produkte/la-palma-la-palma-bildband-e-book-36852.html)

@@ -1,3 +1,24 @@
+---
+product_id: "27579"
+digistore24_product_id: 246171
+title: "Buch: Fermentieren - das große Handbuch!"
+vendor: "sauermachtgluecklich"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.fermentationsbuch.de/fermentieren-leicht-gemacht?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fermentationsbuch.de/fermentieren-leicht-gemacht"
+language: "de"
+---
 # Buch: Fermentieren - das große Handbuch!
 
 > Product ID `27579` · Digistore24 productId `246171` · [HTML profile page](../../produkte/buch-fermentieren-das-gro-e-handbuch-27579.html)

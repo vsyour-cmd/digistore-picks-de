@@ -1,3 +1,24 @@
+---
+product_id: "58811"
+digistore24_product_id: 537438
+title: "Praxisorientierter Affiliate-Marketing-Leitfaden"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/affiliate-marketing-Leitfaden-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/affiliate-marketing-Leitfaden-e-book/"
+language: "de"
+---
 # Praxisorientierter Affiliate-Marketing-Leitfaden
 
 > Product ID `58811` · Digistore24 productId `537438` · [HTML profile page](../../produkte/praxisorientierter-affiliate-marketing-leitfaden-58811.html)

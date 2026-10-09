@@ -1,3 +1,24 @@
+---
+product_id: "50397"
+digistore24_product_id: 23837
+title: "WiPeC-Academy und Community"
+vendor: "wipec100"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 8.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2014-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wipec.de/academy/?aff=adminstore#aff=adminstore"
+sales_page: "https://wipec.de/academy/"
+language: "de"
+---
 # WiPeC-Academy und Community
 
 > Product ID `50397` · Digistore24 productId `23837` · [HTML profile page](../../produkte/wipec-academy-und-community-50397.html)

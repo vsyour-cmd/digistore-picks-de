@@ -1,3 +1,24 @@
+---
+product_id: "57527"
+digistore24_product_id: 709291
+title: "Sachkundelehrgang · § 26a WEG zertifizierter Verwalter (IHK)"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/"
+language: "de"
+---
 # Sachkundelehrgang · § 26a WEG zertifizierter Verwalter (IHK)
 
 > Product ID `57527` · Digistore24 productId `709291` · [HTML profile page](../../produkte/sachkundelehrgang-26a-weg-zertifizierter-verwalter-ihk-57527.html)

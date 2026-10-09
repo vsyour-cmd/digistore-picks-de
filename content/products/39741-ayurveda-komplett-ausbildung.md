@@ -1,3 +1,24 @@
+---
+product_id: "39741"
+digistore24_product_id: 369670
+title: "Ayurveda-Komplett-Ausbildung"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 2368.8
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 710.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/"
+language: "de"
+---
 # Ayurveda-Komplett-Ausbildung
 
 > Product ID `39741` · Digistore24 productId `369670` · [HTML profile page](../../produkte/ayurveda-komplett-ausbildung-39741.html)

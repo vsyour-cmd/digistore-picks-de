@@ -1,3 +1,24 @@
+---
+product_id: "55511"
+digistore24_product_id: 662786
+title: "Vorstellungsgespräch souverän meistern"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Services"]
+listed_since: "2026-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/"
+language: "de"
+---
 # Vorstellungsgespräch souverän meistern
 
 > Product ID `55511` · Digistore24 productId `662786` · [HTML profile page](../../produkte/vorstellungsgespr-ch-souver-n-meistern-55511.html)

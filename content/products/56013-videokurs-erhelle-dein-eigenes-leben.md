@@ -1,3 +1,24 @@
+---
+product_id: "56013"
+digistore24_product_id: 676527
+title: "Videokurs: \"Erhelle dein eigenes Leben\"!"
+vendor: "ReinerKatzinger"
+product_type: "Member area and video courses"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.reinergeist.com/erhelledeineigenesLeben/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reinergeist.com/erhelledeineigenesLeben/"
+language: "de"
+---
 # Videokurs: "Erhelle dein eigenes Leben"!
 
 > Product ID `56013` · Digistore24 productId `676527` · [HTML profile page](../../produkte/videokurs-erhelle-dein-eigenes-leben-56013.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53815"
+digistore24_product_id: 632791
+title: "6000+ Aesthetic Faceless Videos - PLR/MRR"
+vendor: "thefemininebusiness"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media"]
+listed_since: "2025-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/632791?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/632791"
+language: "de"
+---
 # 6000+ Aesthetic Faceless Videos - PLR/MRR
 
 > Product ID `53815` · Digistore24 productId `632791` · [HTML profile page](../../produkte/6000-aesthetic-faceless-videos-plr-mrr-53815.html)

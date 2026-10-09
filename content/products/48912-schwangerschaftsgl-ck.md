@@ -1,3 +1,24 @@
+---
+product_id: "48912"
+digistore24_product_id: 564702
+title: "Schwangerschaftsglück"
+vendor: "MamaAlice"
+product_type: "E-books"
+price: 40.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Family & Children"]
+listed_since: "2024-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/564702?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/564702"
+language: "de"
+---
 # Schwangerschaftsglück
 
 > Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../produkte/schwangerschaftsgl-ck-48912.html)

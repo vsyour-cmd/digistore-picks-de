@@ -1,3 +1,24 @@
+---
+product_id: "51981"
+digistore24_product_id: 605448
+title: "Der perfekte Mindset Ratgeber"
+vendor: "gehtanders"
+product_type: "Member area and video courses"
+price: 27.53
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4
+cart_conversion_pct: 25
+cancel_rate_pct: 46.54
+categories: ["Health & Fitness","Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://passive-online-rente.de/mindsetratgeber/?aff=adminstore#aff=adminstore"
+sales_page: "https://passive-online-rente.de/mindsetratgeber/"
+language: "de"
+---
 # Der perfekte Mindset Ratgeber
 
 > Product ID `51981` · Digistore24 productId `605448` · [HTML profile page](../../produkte/der-perfekte-mindset-ratgeber-51981.html)

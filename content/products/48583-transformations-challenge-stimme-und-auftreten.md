@@ -1,3 +1,24 @@
+---
+product_id: "48583"
+digistore24_product_id: 559815
+title: "Transformations-Challenge: Stimme und Auftreten"
+vendor: "Stimmfluencer"
+product_type: "Telephone coaching"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2024-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.stimmfluencer.de/transformations-challenge?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimmfluencer.de/transformations-challenge"
+language: "de"
+---
 # Transformations-Challenge: Stimme und Auftreten
 
 > Product ID `48583` · Digistore24 productId `559815` · [HTML profile page](../../produkte/transformations-challenge-stimme-und-auftreten-48583.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56405"
+digistore24_product_id: 689177
+title: "Ebook - Die Anziehungskraft des deutschen Sozialsystems"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689177?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689177"
+language: "de"
+---
 # Ebook - Die Anziehungskraft des deutschen Sozialsystems
 
 > Product ID `56405` · Digistore24 productId `689177` · [HTML profile page](../../produkte/ebook-die-anziehungskraft-des-deutschen-sozialsystems-56405.html)

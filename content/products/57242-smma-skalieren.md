@@ -1,3 +1,24 @@
+---
+product_id: "57242"
+digistore24_product_id: 704220
+title: "SMMA skalieren"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/smma-skalieren?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/smma-skalieren"
+language: "de"
+---
 # SMMA skalieren
 
 > Product ID `57242` · Digistore24 productId `704220` · [HTML profile page](../../produkte/smma-skalieren-57242.html)

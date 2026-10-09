@@ -1,3 +1,24 @@
+---
+product_id: "59632"
+digistore24_product_id: 734136
+title: "DaVinci Resolve Audiobearbeitung Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Software"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734136?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734136"
+language: "de"
+---
 # DaVinci Resolve Audiobearbeitung Komplettkurs
 
 > Product ID `59632` · Digistore24 productId `734136` · [HTML profile page](../../produkte/davinci-resolve-audiobearbeitung-komplettkurs-59632.html)

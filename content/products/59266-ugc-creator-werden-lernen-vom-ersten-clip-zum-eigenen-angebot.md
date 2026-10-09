@@ -1,3 +1,24 @@
+---
+product_id: "59266"
+digistore24_product_id: 733894
+title: "UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einfachmitmatze.de/ugc/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/ugc/"
+language: "de"
+---
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
 > Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)

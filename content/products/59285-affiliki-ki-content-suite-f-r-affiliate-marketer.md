@@ -1,3 +1,24 @@
+---
+product_id: "59285"
+digistore24_product_id: 719411
+title: "AffiliKI – KI-Content-Suite für Affiliate-Marketer"
+vendor: "Elemweb"
+product_type: "Software"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 69.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliki.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliki.de/"
+language: "de"
+---
 # AffiliKI – KI-Content-Suite für Affiliate-Marketer
 
 > Product ID `59285` · Digistore24 productId `719411` · [HTML profile page](../../produkte/affiliki-ki-content-suite-f-r-affiliate-marketer-59285.html)

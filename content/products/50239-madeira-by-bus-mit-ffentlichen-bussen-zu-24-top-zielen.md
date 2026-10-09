@@ -1,3 +1,24 @@
+---
+product_id: "50239"
+digistore24_product_id: 569177
+title: "Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen"
+vendor: "madeira-bus"
+product_type: "E-books"
+price: 20.02
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.4
+cart_conversion_pct: 4
+cancel_rate_pct: 1.44
+categories: ["Travel & Culture"]
+listed_since: "2024-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.madeira-bus.com/pdf?aff=adminstore#aff=adminstore"
+sales_page: "https://www.madeira-bus.com/pdf"
+language: "de"
+---
 # Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen
 
 > Product ID `50239` · Digistore24 productId `569177` · [HTML profile page](../../produkte/madeira-by-bus-mit-ffentlichen-bussen-zu-24-top-zielen-50239.html)

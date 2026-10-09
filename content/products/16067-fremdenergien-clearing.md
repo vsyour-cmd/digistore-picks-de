@@ -1,3 +1,24 @@
+---
+product_id: "16067"
+digistore24_product_id: 113023
+title: "Fremdenergien Clearing"
+vendor: "Gehvoran"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2017-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.alexmiller.de/fremdenergien-clearing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.alexmiller.de/fremdenergien-clearing/"
+language: "de"
+---
 # Fremdenergien Clearing
 
 > Product ID `16067` · Digistore24 productId `113023` · [HTML profile page](../../produkte/fremdenergien-clearing-16067.html)

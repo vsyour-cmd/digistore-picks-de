@@ -1,3 +1,24 @@
+---
+product_id: "60430"
+digistore24_product_id: 743903
+title: "Wandern Auf Teneriffa Mit Kindern Für Anfänger"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Hobby & Craft","Travel & Culture"]
+listed_since: "2026-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/743903?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/743903"
+language: "de"
+---
 # Wandern Auf Teneriffa Mit Kindern Für Anfänger
 
 > Product ID `60430` · Digistore24 productId `743903` · [HTML profile page](../../produkte/wandern-auf-teneriffa-mit-kindern-f-r-anf-nger-60430.html)

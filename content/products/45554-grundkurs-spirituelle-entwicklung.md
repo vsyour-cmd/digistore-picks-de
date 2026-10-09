@@ -1,3 +1,24 @@
+---
+product_id: "45554"
+digistore24_product_id: 511224
+title: "Grundkurs spirituelle Entwicklung"
+vendor: "andyschwab"
+product_type: "Member area and video courses"
+price: 413.88
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 41.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://grundkurs.andyschwab.com/landing-page/?aff=adminstore#aff=adminstore"
+sales_page: "https://grundkurs.andyschwab.com/landing-page/"
+language: "de"
+---
 # Grundkurs spirituelle Entwicklung
 
 > Product ID `45554` · Digistore24 productId `511224` · [HTML profile page](../../produkte/grundkurs-spirituelle-entwicklung-45554.html)

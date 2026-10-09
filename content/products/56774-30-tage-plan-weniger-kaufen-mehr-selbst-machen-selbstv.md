@@ -1,3 +1,24 @@
+---
+product_id: "56774"
+digistore24_product_id: 696677
+title: "30-Tage-Plan „Weniger kaufen. Mehr selbst machen.\" — Selbstv"
+vendor: "ds24gug"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Home & Garden"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gsund-und-guad.com/30-tage-plan-selbstversorger-start?aff=adminstore#aff=adminstore"
+sales_page: "https://gsund-und-guad.com/30-tage-plan-selbstversorger-start"
+language: "de"
+---
 # 30-Tage-Plan „Weniger kaufen. Mehr selbst machen." — Selbstv
 
 > Product ID `56774` · Digistore24 productId `696677` · [HTML profile page](../../produkte/30-tage-plan-weniger-kaufen-mehr-selbst-machen-selbstv-56774.html)

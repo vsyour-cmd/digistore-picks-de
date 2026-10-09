@@ -1,3 +1,24 @@
+---
+product_id: "59717"
+digistore24_product_id: 652340
+title: "EU Green Claims – Umweltbehauptungen Compliance Pack"
+vendor: "MindshiftDigitalStudio"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652340?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652340"
+language: "de"
+---
 # EU Green Claims – Umweltbehauptungen Compliance Pack
 
 > Product ID `59717` · Digistore24 productId `652340` · [HTML profile page](../../produkte/eu-green-claims-umweltbehauptungen-compliance-pack-59717.html)

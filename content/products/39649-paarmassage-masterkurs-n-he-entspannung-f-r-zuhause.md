@@ -1,3 +1,24 @@
+---
+product_id: "39649"
+digistore24_product_id: 378688
+title: "Paarmassage Masterkurs – Nähe, Entspannung für Zuhause"
+vendor: "magoody"
+product_type: "Member area and video courses"
+price: 58.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 27.6
+cart_conversion_pct: 10
+cancel_rate_pct: 1.73
+categories: ["Health & Fitness"]
+listed_since: "2021-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://magoody.de/"
+language: "de"
+---
 # Paarmassage Masterkurs – Nähe, Entspannung für Zuhause
 
 > Product ID `39649` · Digistore24 productId `378688` · [HTML profile page](../../produkte/paarmassage-masterkurs-n-he-entspannung-f-r-zuhause-39649.html)

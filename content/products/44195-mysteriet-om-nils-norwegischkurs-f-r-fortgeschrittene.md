@@ -1,3 +1,24 @@
+---
+product_id: "44195"
+digistore24_product_id: 489138
+title: "Mysteriet om Nils – Norwegischkurs für Fortgeschrittene"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 234.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 70.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2023-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds"
+language: "de"
+---
 # Mysteriet om Nils – Norwegischkurs für Fortgeschrittene
 
 > Product ID `44195` · Digistore24 productId `489138` · [HTML profile page](../../produkte/mysteriet-om-nils-norwegischkurs-f-r-fortgeschrittene-44195.html)

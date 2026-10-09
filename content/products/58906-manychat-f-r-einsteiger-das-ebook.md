@@ -1,3 +1,24 @@
+---
+product_id: "58906"
+digistore24_product_id: 708959
+title: "ManyChat für Einsteiger - Das eBook"
+vendor: "KundenFinder"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manychatebook.dietlmeier.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://manychatebook.dietlmeier.de/"
+language: "de"
+---
 # ManyChat für Einsteiger - Das eBook
 
 > Product ID `58906` · Digistore24 productId `708959` · [HTML profile page](../../produkte/manychat-f-r-einsteiger-das-ebook-58906.html)

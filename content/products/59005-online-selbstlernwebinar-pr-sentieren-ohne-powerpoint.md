@@ -1,3 +1,24 @@
+---
+product_id: "59005"
+digistore24_product_id: 722837
+title: "Online Selbstlernwebinar: Präsentieren ohne PowerPoint"
+vendor: "mkconsultinghb"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Personal Development"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/722837?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722837"
+language: "de"
+---
 # Online Selbstlernwebinar: Präsentieren ohne PowerPoint
 
 > Product ID `59005` · Digistore24 productId `722837` · [HTML profile page](../../produkte/online-selbstlernwebinar-pr-sentieren-ohne-powerpoint-59005.html)

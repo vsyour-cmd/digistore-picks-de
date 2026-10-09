@@ -1,3 +1,24 @@
+---
+product_id: "55767"
+digistore24_product_id: 417751
+title: "Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige"
+vendor: "aktiv-entspannt-eifel"
+product_type: "E-books"
+price: 19.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore"
+sales_page: "https://natuerlich-einfach.de/stressbedingter-schwindel/"
+language: "de"
+---
 # Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige
 
 > Product ID `55767` · Digistore24 productId `417751` · [HTML profile page](../../produkte/stressbedingter-schwindel-ratgeber-betroffene-angeh-rige-55767.html)

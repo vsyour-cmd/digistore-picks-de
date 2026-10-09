@@ -1,3 +1,24 @@
+---
+product_id: "29908"
+digistore24_product_id: 285007
+title: "Gesund werden mit Heilpflanzen Teile 1 + 2 + 3"
+vendor: "aquarius"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://pflanzenmedizin.phytocontentus.eu/landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://pflanzenmedizin.phytocontentus.eu/landingpage/"
+language: "de"
+---
 # Gesund werden mit Heilpflanzen Teile 1 + 2 + 3
 
 > Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../produkte/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)

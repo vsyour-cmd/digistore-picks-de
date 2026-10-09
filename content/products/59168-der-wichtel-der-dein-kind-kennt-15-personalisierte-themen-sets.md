@@ -1,3 +1,24 @@
+---
+product_id: "59168"
+digistore24_product_id: 723173
+title: "Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets"
+vendor: "Anha13"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/ahliving-de-personalisierte-wichtelbriefe/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/ahliving-de-personalisierte-wichtelbriefe/"
+language: "de"
+---
 # Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets
 
 > Product ID `59168` · Digistore24 productId `723173` · [HTML profile page](../../produkte/der-wichtel-der-dein-kind-kennt-15-personalisierte-themen-sets-59168.html)

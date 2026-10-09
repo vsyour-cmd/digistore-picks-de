@@ -1,3 +1,24 @@
+---
+product_id: "56145"
+digistore24_product_id: 678103
+title: "Tab Editor Suite-Tabulator, MIDI, Ukulele Gitarre Bass mehr"
+vendor: "Musikbegleiter"
+product_type: "Downloads"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Software"]
+listed_since: "2026-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.musikbegleiter.de/tab-editor-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.musikbegleiter.de/tab-editor-ds"
+language: "de"
+---
 # Tab Editor Suite-Tabulator, MIDI, Ukulele Gitarre Bass mehr
 
 > Product ID `56145` · Digistore24 productId `678103` · [HTML profile page](../../produkte/tab-editor-suite-tabulator-midi-ukulele-gitarre-bass-mehr-56145.html)

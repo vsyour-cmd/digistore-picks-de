@@ -1,3 +1,24 @@
+---
+product_id: "57342"
+digistore24_product_id: 706807
+title: "Einwände als Chance nutzen – Das komplette Verkaufstraining-"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/einwaende-und-antworten-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/einwaende-und-antworten-lp/"
+language: "de"
+---
 # Einwände als Chance nutzen – Das komplette Verkaufstraining-
 
 > Product ID `57342` · Digistore24 productId `706807` · [HTML profile page](../../produkte/einw-nde-als-chance-nutzen-das-komplette-verkaufstraining-57342.html)

@@ -1,3 +1,24 @@
+---
+product_id: "15063"
+digistore24_product_id: 116113
+title: "Mit Spaß Englisch Lernen"
+vendor: "FlyCoach"
+product_type: "Downloads"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2017-01-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/?aff=adminstore#aff=adminstore"
+sales_page: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/"
+language: "de"
+---
 # Mit Spaß Englisch Lernen
 
 > Product ID `15063` · Digistore24 productId `116113` · [HTML profile page](../../produkte/mit-spa-englisch-lernen-15063.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48173"
+digistore24_product_id: 551300
+title: "Magic Profit 2.0 - Partnerprogramm"
+vendor: "funnelprofits"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 54.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://magicprofit.funnelcockpit.com/vsl02/?aff=adminstore#aff=adminstore"
+sales_page: "https://magicprofit.funnelcockpit.com/vsl02/"
+language: "de"
+---
 # Magic Profit 2.0 - Partnerprogramm
 
 > Product ID `48173` · Digistore24 productId `551300` · [HTML profile page](../../produkte/magic-profit-2-0-partnerprogramm-48173.html)

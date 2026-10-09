@@ -1,3 +1,24 @@
+---
+product_id: "31755"
+digistore24_product_id: 308316
+title: "Gitarre lernen online Masterplan"
+vendor: "Michigit"
+product_type: "Member area and video courses"
+price: 123.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 61.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.onlinegitarrelernen.com//gitarre-lernen-online-masterplan?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinegitarrelernen.com//gitarre-lernen-online-masterplan"
+language: "de"
+---
 # Gitarre lernen online Masterplan
 
 > Product ID `31755` · Digistore24 productId `308316` · [HTML profile page](../../produkte/gitarre-lernen-online-masterplan-31755.html)

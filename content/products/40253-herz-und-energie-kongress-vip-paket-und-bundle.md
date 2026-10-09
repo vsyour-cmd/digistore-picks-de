@@ -1,3 +1,24 @@
+---
+product_id: "40253"
+digistore24_product_id: 443717
+title: "Herz und Energie Kongress - VIP Paket und Bundle"
+vendor: "herzengel"
+product_type: "Member area and video courses"
+price: 108.1
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 10.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2022-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/443717?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/443717"
+language: "de"
+---
 # Herz und Energie Kongress - VIP Paket und Bundle
 
 > Product ID `40253` · Digistore24 productId `443717` · [HTML profile page](../../produkte/herz-und-energie-kongress-vip-paket-und-bundle-40253.html)

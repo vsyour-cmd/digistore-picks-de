@@ -1,3 +1,24 @@
+---
+product_id: "57355"
+digistore24_product_id: 707518
+title: "Absicherung und Versicherung"
+vendor: "buergelconsulting"
+product_type: "E-books"
+price: 29.22
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707518?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707518"
+language: "de"
+---
 # Absicherung und Versicherung
 
 > Product ID `57355` · Digistore24 productId `707518` · [HTML profile page](../../produkte/absicherung-und-versicherung-57355.html)

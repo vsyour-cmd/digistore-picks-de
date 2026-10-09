@@ -1,3 +1,24 @@
+---
+product_id: "42783"
+digistore24_product_id: 484335
+title: "246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig"
+vendor: "Chris-B"
+product_type: "Member area and video courses"
+price: 2.94
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 1.68
+cart_conversion_pct: 19
+cancel_rate_pct: 4.24
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://chrisboenig.com/246methode?aff=adminstore#aff=adminstore"
+sales_page: "https://chrisboenig.com/246methode"
+language: "de"
+---
 # 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig
 
 > Product ID `42783` · Digistore24 productId `484335` · [HTML profile page](../../produkte/246-am-tag-methode-2-0-verschenken-verdienen-chris-boenig-42783.html)

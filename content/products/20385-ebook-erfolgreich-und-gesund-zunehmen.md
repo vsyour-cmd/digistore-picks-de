@@ -1,3 +1,24 @@
+---
+product_id: "20385"
+digistore24_product_id: 176051
+title: "eBook - Erfolgreich und gesund Zunehmen"
+vendor: "chrille"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2017-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/"
+language: "de"
+---
 # eBook - Erfolgreich und gesund Zunehmen
 
 > Product ID `20385` · Digistore24 productId `176051` · [HTML profile page](../../produkte/ebook-erfolgreich-und-gesund-zunehmen-20385.html)

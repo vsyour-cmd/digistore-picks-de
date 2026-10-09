@@ -1,3 +1,24 @@
+---
+product_id: "56457"
+digistore24_product_id: 688830
+title: "Mathematik: Rechnen, Proportionalitäten, Algebra"
+vendor: "Mathecloud"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 54.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688830?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688830"
+language: "de"
+---
 # Mathematik: Rechnen, Proportionalitäten, Algebra
 
 > Product ID `56457` · Digistore24 productId `688830` · [HTML profile page](../../produkte/mathematik-rechnen-proportionalit-ten-algebra-56457.html)

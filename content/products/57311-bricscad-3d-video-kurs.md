@@ -1,3 +1,24 @@
+---
+product_id: "57311"
+digistore24_product_id: 536946
+title: "BricsCAD 3D Video-Kurs"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 66.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://cad-video.de/bricscad-3d-channel?aff=adminstore#aff=adminstore"
+sales_page: "https://cad-video.de/bricscad-3d-channel"
+language: "de"
+---
 # BricsCAD 3D Video-Kurs
 
 > Product ID `57311` · Digistore24 productId `536946` · [HTML profile page](../../produkte/bricscad-3d-video-kurs-57311.html)

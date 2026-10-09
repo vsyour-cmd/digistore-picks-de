@@ -1,3 +1,24 @@
+---
+product_id: "55225"
+digistore24_product_id: 660072
+title: "Ebook - beWerbung - Eignungsanalyse, SoftSkills, Telefonat"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-pe-sk-tel-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-pe-sk-tel-landingpage/"
+language: "de"
+---
 # Ebook - beWerbung - Eignungsanalyse, SoftSkills, Telefonat
 
 > Product ID `55225` · Digistore24 productId `660072` · [HTML profile page](../../produkte/ebook-bewerbung-eignungsanalyse-softskills-telefonat-55225.html)

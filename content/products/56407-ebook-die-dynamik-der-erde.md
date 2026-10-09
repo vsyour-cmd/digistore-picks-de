@@ -1,3 +1,24 @@
+---
+product_id: "56407"
+digistore24_product_id: 689303
+title: "Ebook - Die Dynamik der Erde"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Survival"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689303?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689303"
+language: "de"
+---
 # Ebook - Die Dynamik der Erde
 
 > Product ID `56407` · Digistore24 productId `689303` · [HTML profile page](../../produkte/ebook-die-dynamik-der-erde-56407.html)

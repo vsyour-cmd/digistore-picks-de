@@ -1,3 +1,24 @@
+---
+product_id: "55304"
+digistore24_product_id: 648512
+title: "Das 30-Minuten-System - Trading für Menschen mit wenig Zeit"
+vendor: "Your-Trading"
+product_type: "Member area and video courses"
+price: 444.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 222.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Services"]
+listed_since: "2025-11-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://your-trading.com/einstieg?aff=adminstore#aff=adminstore"
+sales_page: "https://your-trading.com/einstieg"
+language: "de"
+---
 # Das 30-Minuten-System - Trading für Menschen mit wenig Zeit
 
 > Product ID `55304` · Digistore24 productId `648512` · [HTML profile page](../../produkte/das-30-minuten-system-trading-f-r-menschen-mit-wenig-zeit-55304.html)

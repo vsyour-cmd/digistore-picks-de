@@ -1,3 +1,24 @@
+---
+product_id: "26261"
+digistore24_product_id: 212591
+title: "Build a Powerful Body"
+vendor: "raigeki-fitness"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 55.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://raigeki-fitness.de/build-a-powerful-body?aff=adminstore#aff=adminstore"
+sales_page: "https://raigeki-fitness.de/build-a-powerful-body"
+language: "de"
+---
 # Build a Powerful Body
 
 > Product ID `26261` · Digistore24 productId `212591` · [HTML profile page](../../produkte/build-a-powerful-body-26261.html)

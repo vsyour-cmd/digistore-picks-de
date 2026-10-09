@@ -1,3 +1,24 @@
+---
+product_id: "32521"
+digistore24_product_id: 322407
+title: "SWOT-Analyse Excel-Vorlage Premium"
+vendor: "meckseo"
+product_type: "Downloads"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore"
+sales_page: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/"
+language: "de"
+---
 # SWOT-Analyse Excel-Vorlage Premium
 
 > Product ID `32521` · Digistore24 productId `322407` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-premium-32521.html)

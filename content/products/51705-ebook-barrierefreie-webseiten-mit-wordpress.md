@@ -1,3 +1,24 @@
+---
+product_id: "51705"
+digistore24_product_id: 601199
+title: "eBOOK: Barrierefreie Webseiten mit WordPress"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Law & Justice","Online Marketing & E-Business"]
+listed_since: "2025-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/"
+language: "de"
+---
 # eBOOK: Barrierefreie Webseiten mit WordPress
 
 > Product ID `51705` · Digistore24 productId `601199` · [HTML profile page](../../produkte/ebook-barrierefreie-webseiten-mit-wordpress-51705.html)

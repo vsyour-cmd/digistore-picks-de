@@ -1,3 +1,24 @@
+---
+product_id: "42855"
+digistore24_product_id: 319463
+title: "Forex-Handelssystem BOSreversal"
+vendor: "topebooksdownload"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 30.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2020-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bos-trading-forum.de/bosreversal-forex-handelssystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://bos-trading-forum.de/bosreversal-forex-handelssystem/"
+language: "de"
+---
 # Forex-Handelssystem BOSreversal
 
 > Product ID `42855` · Digistore24 productId `319463` · [HTML profile page](../../produkte/forex-handelssystem-bosreversal-42855.html)

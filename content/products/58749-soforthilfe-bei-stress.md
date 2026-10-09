@@ -1,3 +1,24 @@
+---
+product_id: "58749"
+digistore24_product_id: 726273
+title: "Soforthilfe bei Stress"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726273?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726273"
+language: "de"
+---
 # Soforthilfe bei Stress
 
 > Product ID `58749` · Digistore24 productId `726273` · [HTML profile page](../../produkte/soforthilfe-bei-stress-58749.html)

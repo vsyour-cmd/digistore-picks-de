@@ -1,3 +1,24 @@
+---
+product_id: "4333"
+digistore24_product_id: 27609
+title: "Kühltasche Schnittmuster"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2014-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/kuehltasche-selber-naehen/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/kuehltasche-selber-naehen/"
+language: "de"
+---
 # Kühltasche Schnittmuster
 
 > Product ID `4333` · Digistore24 productId `27609` · [HTML profile page](../../produkte/k-hltasche-schnittmuster-4333.html)

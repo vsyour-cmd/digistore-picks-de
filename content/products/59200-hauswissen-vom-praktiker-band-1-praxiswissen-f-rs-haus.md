@@ -1,3 +1,24 @@
+---
+product_id: "59200"
+digistore24_product_id: 711257
+title: "Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus"
+vendor: "jrings30da"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://all-in-one-aw.de/hauswissen/?aff=adminstore#aff=adminstore"
+sales_page: "https://all-in-one-aw.de/hauswissen/"
+language: "de"
+---
 # Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus
 
 > Product ID `59200` · Digistore24 productId `711257` · [HTML profile page](../../produkte/hauswissen-vom-praktiker-band-1-praxiswissen-f-rs-haus-59200.html)

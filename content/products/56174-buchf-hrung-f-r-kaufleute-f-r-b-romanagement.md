@@ -1,3 +1,24 @@
+---
+product_id: "56174"
+digistore24_product_id: 682401
+title: "Buchführung für Kaufleute für Büromanagement"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-bueromanagement-ganz-einfach-af?aff=adminstore#aff=adminstore"
+sales_page: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-bueromanagement-ganz-einfach-af"
+language: "de"
+---
 # Buchführung für Kaufleute für Büromanagement
 
 > Product ID `56174` · Digistore24 productId `682401` · [HTML profile page](../../produkte/buchf-hrung-f-r-kaufleute-f-r-b-romanagement-56174.html)

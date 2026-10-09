@@ -1,3 +1,24 @@
+---
+product_id: "59279"
+digistore24_product_id: 729589
+title: "Online Business - Start System"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 121.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system"
+language: "de"
+---
 # Online Business - Start System
 
 > Product ID `59279` · Digistore24 productId `729589` · [HTML profile page](../../produkte/online-business-start-system-59279.html)

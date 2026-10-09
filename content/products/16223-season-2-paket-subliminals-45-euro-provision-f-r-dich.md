@@ -1,3 +1,24 @@
+---
+product_id: "16223"
+digistore24_product_id: 133191
+title: "Season 2 Paket (Subliminals) – 45 Euro Provision für dich!"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Profession & Job"]
+listed_since: "2017-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/season-2-paket/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/season-2-paket/"
+language: "de"
+---
 # Season 2 Paket (Subliminals) – 45 Euro Provision für dich!
 
 > Product ID `16223` · Digistore24 productId `133191` · [HTML profile page](../../produkte/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html)

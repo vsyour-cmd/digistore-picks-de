@@ -1,3 +1,24 @@
+---
+product_id: "46803"
+digistore24_product_id: 525619
+title: "Ki-Akademie"
+vendor: "botscaler"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 28.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2023-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.botscaler.de/bac-lp?aff=adminstore#aff=adminstore"
+sales_page: "https://www.botscaler.de/bac-lp"
+language: "de"
+---
 # Ki-Akademie
 
 > Product ID `46803` · Digistore24 productId `525619` · [HTML profile page](../../produkte/ki-akademie-46803.html)

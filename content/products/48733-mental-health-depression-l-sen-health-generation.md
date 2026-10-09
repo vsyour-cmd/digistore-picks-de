@@ -1,3 +1,24 @@
+---
+product_id: "48733"
+digistore24_product_id: 547957
+title: "Mental Health Depression lösen - health-generation"
+vendor: "Josef85"
+product_type: "Member area and video courses"
+price: 232.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 116.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.health-generation.com/salespage-mental-health-depression?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.health-generation.com/salespage-mental-health-depression"
+language: "de"
+---
 # Mental Health Depression lösen - health-generation
 
 > Product ID `48733` · Digistore24 productId `547957` · [HTML profile page](../../produkte/mental-health-depression-l-sen-health-generation-48733.html)

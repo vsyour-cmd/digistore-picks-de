@@ -1,3 +1,24 @@
+---
+product_id: "59821"
+digistore24_product_id: 725205
+title: "Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra"
+vendor: "stonebridge"
+product_type: "E-books"
+price: 21.24
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 14.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore"
+sales_page: "https://thailandratgeber.de/auswandern/"
+language: "de"
+---
 # Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra
 
 > Product ID `59821` · Digistore24 productId `725205` · [HTML profile page](../../produkte/auswandern-nach-thailand-das-handbuch-visum-steuern-kra-59821.html)

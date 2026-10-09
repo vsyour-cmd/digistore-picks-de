@@ -1,3 +1,24 @@
+---
+product_id: "40072"
+digistore24_product_id: 311659
+title: "Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 356.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 106.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen"
+language: "de"
+---
 # Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs
 
 > Product ID `40072` · Digistore24 productId `311659` · [HTML profile page](../../produkte/raus-aus-toxischen-beziehungen-hin-zur-liebe-onlinekurs-40072.html)

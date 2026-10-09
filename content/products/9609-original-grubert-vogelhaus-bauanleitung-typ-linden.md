@@ -1,3 +1,24 @@
+---
+product_id: "9609"
+digistore24_product_id: 62295
+title: "Original Grubert Vogelhaus Bauanleitung Typ \"Linden\""
+vendor: "spike76"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2015-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/?aff=adminstore#aff=adminstore"
+sales_page: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/"
+language: "de"
+---
 # Original Grubert Vogelhaus Bauanleitung Typ "Linden"
 
 > Product ID `9609` · Digistore24 productId `62295` · [HTML profile page](../../produkte/original-grubert-vogelhaus-bauanleitung-typ-linden-9609.html)

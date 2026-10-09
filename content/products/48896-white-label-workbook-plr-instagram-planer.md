@@ -1,3 +1,24 @@
+---
+product_id: "48896"
+digistore24_product_id: 561001
+title: "White Label Workbook (PLR) - \"Instagram Planer\""
+vendor: "Institut-Dittrich"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-07-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://whitelabeloase.com/produkte/workbook-instagram-planner/?aff=adminstore#aff=adminstore"
+sales_page: "https://whitelabeloase.com/produkte/workbook-instagram-planner/"
+language: "de"
+---
 # White Label Workbook (PLR) - "Instagram Planer"
 
 > Product ID `48896` · Digistore24 productId `561001` · [HTML profile page](../../produkte/white-label-workbook-plr-instagram-planer-48896.html)

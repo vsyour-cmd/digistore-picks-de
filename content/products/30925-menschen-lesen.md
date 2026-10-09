@@ -1,3 +1,24 @@
+---
+product_id: "30925"
+digistore24_product_id: 303030
+title: "Menschen lesen"
+vendor: "GRUENDERPILOT"
+product_type: "E-books"
+price: 70.05
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 17.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.profiling.me/buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profiling.me/buch"
+language: "de"
+---
 # Menschen lesen
 
 > Product ID `30925` · Digistore24 productId `303030` · [HTML profile page](../../produkte/menschen-lesen-30925.html)

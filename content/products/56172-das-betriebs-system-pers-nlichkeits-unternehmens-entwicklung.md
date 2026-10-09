@@ -1,3 +1,24 @@
+---
+product_id: "56172"
+digistore24_product_id: 650717
+title: "Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung"
+vendor: "improv34"
+product_type: "Member area and video courses"
+price: 2233.84
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 446.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://impruvement.com/challenge?aff=adminstore#aff=adminstore"
+sales_page: "https://impruvement.com/challenge"
+language: "de"
+---
 # Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung
 
 > Product ID `56172` · Digistore24 productId `650717` · [HTML profile page](../../produkte/das-betriebs-system-pers-nlichkeits-unternehmens-entwicklung-56172.html)

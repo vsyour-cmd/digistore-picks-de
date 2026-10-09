@@ -1,3 +1,24 @@
+---
+product_id: "49619"
+digistore24_product_id: 565522
+title: "EasyInsta Ai – Instagram-Content in Sekunden"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 117.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2024-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.easyinstaai.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.easyinstaai.com/"
+language: "de"
+---
 # EasyInsta Ai – Instagram-Content in Sekunden
 
 > Product ID `49619` · Digistore24 productId `565522` · [HTML profile page](../../produkte/easyinsta-ai-instagram-content-in-sekunden-49619.html)

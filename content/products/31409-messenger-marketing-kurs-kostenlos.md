@@ -1,3 +1,24 @@
+---
+product_id: "31409"
+digistore24_product_id: 305098
+title: "Messenger Marketing Kurs (Kostenlos)"
+vendor: "vladihartung"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://b-to-go.de/minikurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://b-to-go.de/minikurs/"
+language: "de"
+---
 # Messenger Marketing Kurs (Kostenlos)
 
 > Product ID `31409` · Digistore24 productId `305098` · [HTML profile page](../../produkte/messenger-marketing-kurs-kostenlos-31409.html)

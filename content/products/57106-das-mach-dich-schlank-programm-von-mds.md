@@ -1,3 +1,24 @@
+---
+product_id: "57106"
+digistore24_product_id: 328028
+title: "Das Mach dich schlank Programm von MDS"
+vendor: "produktmanagerin"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 26.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Marketing Services"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://mach-dich-schlank-programm.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://mach-dich-schlank-programm.com/"
+language: "de"
+---
 # Das Mach dich schlank Programm von MDS
 
 > Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../produkte/das-mach-dich-schlank-programm-von-mds-57106.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39210"
+digistore24_product_id: 430908
+title: "99 Gran Canaria Highlights [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.3
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.93
+cart_conversion_pct: 31
+cancel_rate_pct: 0.79
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2022-02-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/99-gran-canaria-highlights/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/99-gran-canaria-highlights/"
+language: "de"
+---
 # 99 Gran Canaria Highlights [E-Book]
 
 > Product ID `39210` · Digistore24 productId `430908` · [HTML profile page](../../produkte/99-gran-canaria-highlights-e-book-39210.html)

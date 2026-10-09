@@ -1,3 +1,24 @@
+---
+product_id: "57024"
+digistore24_product_id: 702255
+title: "Endlich zuckerfrei"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/endlich-zuckerfrei?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/endlich-zuckerfrei"
+language: "de"
+---
 # Endlich zuckerfrei
 
 > Product ID `57024` · Digistore24 productId `702255` · [HTML profile page](../../produkte/endlich-zuckerfrei-57024.html)

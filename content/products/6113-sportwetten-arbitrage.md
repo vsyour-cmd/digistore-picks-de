@@ -1,3 +1,24 @@
+---
+product_id: "6113"
+digistore24_product_id: 41057
+title: "SPORTWETTEN-ARBITRAGE"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.57
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Betting Systems"]
+listed_since: "2015-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-swa/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-swa/index.html"
+language: "de"
+---
 # SPORTWETTEN-ARBITRAGE
 
 > Product ID `6113` · Digistore24 productId `41057` · [HTML profile page](../../produkte/sportwetten-arbitrage-6113.html)

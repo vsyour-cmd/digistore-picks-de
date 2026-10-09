@@ -1,3 +1,24 @@
+---
+product_id: "40477"
+digistore24_product_id: 441716
+title: "E-Book: Smarthome Steuerung - Pimp your Fire Tablet"
+vendor: "neo12"
+product_type: "E-books"
+price: 5.21
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2022-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet?aff=adminstore#aff=adminstore"
+sales_page: "https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet"
+language: "de"
+---
 # E-Book: Smarthome Steuerung - Pimp your Fire Tablet
 
 > Product ID `40477` · Digistore24 productId `441716` · [HTML profile page](../../produkte/e-book-smarthome-steuerung-pimp-your-fire-tablet-40477.html)

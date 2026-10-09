@@ -1,3 +1,24 @@
+---
+product_id: "33257"
+digistore24_product_id: 333242
+title: "TikTok Marketing (deutsch)"
+vendor: "Monoly24"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2020-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/333242?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/333242"
+language: "de"
+---
 # TikTok Marketing (deutsch)
 
 > Product ID `33257` · Digistore24 productId `333242` · [HTML profile page](../../produkte/tiktok-marketing-deutsch-33257.html)

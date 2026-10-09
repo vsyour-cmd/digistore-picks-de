@@ -1,3 +1,24 @@
+---
+product_id: "59302"
+digistore24_product_id: 733066
+title: "52 Fragen zur Selbstreflexion – Digitales Workbook"
+vendor: "melanieschimmelpfenn5c4f"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733066?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733066"
+language: "de"
+---
 # 52 Fragen zur Selbstreflexion – Digitales Workbook
 
 > Product ID `59302` · Digistore24 productId `733066` · [HTML profile page](../../produkte/52-fragen-zur-selbstreflexion-digitales-workbook-59302.html)

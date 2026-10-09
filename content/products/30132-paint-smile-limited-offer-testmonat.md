@@ -1,3 +1,24 @@
+---
+product_id: "30132"
+digistore24_product_id: 258719
+title: "Paint & Smile LIMITED OFFER Testmonat"
+vendor: "paintandsmile"
+product_type: "Member area and video courses"
+price: 607.47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.74
+cart_conversion_pct: 14
+cancel_rate_pct: 2.99
+categories: ["Hobby & Craft"]
+listed_since: "2019-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.online-malkurs.com/limited-offer-testangebot/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.online-malkurs.com/limited-offer-testangebot/"
+language: "de"
+---
 # Paint & Smile LIMITED OFFER Testmonat
 
 > Product ID `30132` · Digistore24 productId `258719` · [HTML profile page](../../produkte/paint-smile-limited-offer-testmonat-30132.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58929"
+digistore24_product_id: 679080
+title: "MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision"
+vendor: "KevinRybak"
+product_type: "Member area and video courses"
+price: 262.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 78.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/679080?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679080"
+language: "de"
+---
 # MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision
 
 > Product ID `58929` · Digistore24 productId `679080` · [HTML profile page](../../produkte/mpu-mentor-selbstst-ndige-mpu-vorbereitung-30-provision-58929.html)

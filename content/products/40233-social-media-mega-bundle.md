@@ -1,3 +1,24 @@
+---
+product_id: "40233"
+digistore24_product_id: 445726
+title: "Social Media Mega Bundle"
+vendor: "CyrilCash"
+product_type: "Member area and video courses"
+price: 211.96
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 157.91
+cart_conversion_pct: 8
+cancel_rate_pct: 2.12
+categories: ["Services"]
+listed_since: "2022-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://business-kickstart.de/socialmedia-vorlagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://business-kickstart.de/socialmedia-vorlagen/"
+language: "de"
+---
 # Social Media Mega Bundle
 
 > Product ID `40233` · Digistore24 productId `445726` · [HTML profile page](../../produkte/social-media-mega-bundle-40233.html)

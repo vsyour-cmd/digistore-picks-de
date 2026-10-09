@@ -1,3 +1,24 @@
+---
+product_id: "60230"
+digistore24_product_id: 733111
+title: "WAWIKUKL 14-tägige Testversion"
+vendor: "kurtkloetzl0072f70"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Software"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/733111?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733111"
+language: "de"
+---
 # WAWIKUKL 14-tägige Testversion
 
 > Product ID `60230` · Digistore24 productId `733111` · [HTML profile page](../../produkte/wawikukl-14-t-gige-testversion-60230.html)

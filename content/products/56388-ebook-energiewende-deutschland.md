@@ -1,3 +1,24 @@
+---
+product_id: "56388"
+digistore24_product_id: 688738
+title: "Ebook - Energiewende Deutschland"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Politics & Economy"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688738?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688738"
+language: "de"
+---
 # Ebook - Energiewende Deutschland
 
 > Product ID `56388` · Digistore24 productId `688738` · [HTML profile page](../../produkte/ebook-energiewende-deutschland-56388.html)

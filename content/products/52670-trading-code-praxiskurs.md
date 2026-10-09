@@ -1,3 +1,24 @@
+---
+product_id: "52670"
+digistore24_product_id: 604570
+title: "Trading-Code Praxiskurs"
+vendor: "bsmllc"
+product_type: "Member area and video courses"
+price: 406.13
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 235.48
+cart_conversion_pct: 9
+cancel_rate_pct: 12.82
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2025-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dertradingcode.de/kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://dertradingcode.de/kurs/"
+language: "de"
+---
 # Trading-Code Praxiskurs
 
 > Product ID `52670` · Digistore24 productId `604570` · [HTML profile page](../../produkte/trading-code-praxiskurs-52670.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45564"
+digistore24_product_id: 519679
+title: "800 Headlines für dein Online Marketing"
+vendor: "iliasmak"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2023-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ilias-marketing.de/800-headlines-fuer-dein-online-marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/800-headlines-fuer-dein-online-marketing/"
+language: "de"
+---
 # 800 Headlines für dein Online Marketing
 
 > Product ID `45564` · Digistore24 productId `519679` · [HTML profile page](../../produkte/800-headlines-f-r-dein-online-marketing-45564.html)

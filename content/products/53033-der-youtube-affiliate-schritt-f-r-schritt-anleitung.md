@@ -1,3 +1,24 @@
+---
+product_id: "53033"
+digistore24_product_id: 621150
+title: "Der YouTube-Affiliate - Schritt für Schritt Anleitung"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2025-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/YouTube-Money?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/YouTube-Money"
+language: "de"
+---
 # Der YouTube-Affiliate - Schritt für Schritt Anleitung
 
 > Product ID `53033` · Digistore24 productId `621150` · [HTML profile page](../../produkte/der-youtube-affiliate-schritt-f-r-schritt-anleitung-53033.html)

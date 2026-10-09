@@ -1,3 +1,24 @@
+---
+product_id: "55852"
+digistore24_product_id: 674753
+title: "VERA-X AI-Business Engine™"
+vendor: "smartboostAI"
+product_type: "Remote service provided electronically"
+price: 13413.13
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4023.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Marketing Services"]
+listed_since: "2026-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/674753?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/674753"
+language: "de"
+---
 # VERA-X AI-Business Engine™
 
 > Product ID `55852` · Digistore24 productId `674753` · [HTML profile page](../../produkte/vera-x-ai-business-engine-55852.html)

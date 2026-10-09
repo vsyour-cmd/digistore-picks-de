@@ -1,3 +1,24 @@
+---
+product_id: "46994"
+digistore24_product_id: 529631
+title: "AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 167.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://affiliatebuddyai.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliatebuddyai.com/"
+language: "de"
+---
 # AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte
 
 > Product ID `46994` · Digistore24 productId `529631` · [HTML profile page](../../produkte/affiliate-buddy-ai-der-butler-f-r-deine-affiliateprojekte-46994.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57760"
+digistore24_product_id: 714312
+title: "Vom Vorsatz zum System"
+vendor: "mathiaswalecki190574dc"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Marketing Services"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system?aff=adminstore#aff=adminstore"
+sales_page: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system"
+language: "de"
+---
 # Vom Vorsatz zum System
 
 > Product ID `57760` · Digistore24 productId `714312` · [HTML profile page](../../produkte/vom-vorsatz-zum-system-57760.html)

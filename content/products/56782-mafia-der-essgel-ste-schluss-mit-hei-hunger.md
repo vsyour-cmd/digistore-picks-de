@@ -1,3 +1,24 @@
+---
+product_id: "56782"
+digistore24_product_id: 693031
+title: "MAFIA der Essgelüste –  Schluss mit Heißhunger"
+vendor: "infoea49"
+product_type: "Deliverable"
+price: 26.32
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-06-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693031?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693031"
+language: "de"
+---
 # MAFIA der Essgelüste –  Schluss mit Heißhunger
 
 > Product ID `56782` · Digistore24 productId `693031` · [HTML profile page](../../produkte/mafia-der-essgel-ste-schluss-mit-hei-hunger-56782.html)

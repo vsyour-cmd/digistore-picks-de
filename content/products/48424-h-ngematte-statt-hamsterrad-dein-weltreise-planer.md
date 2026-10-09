@@ -1,3 +1,24 @@
+---
+product_id: "48424"
+digistore24_product_id: 425343
+title: "Hängematte statt Hamsterrad - Dein Weltreise-Planer"
+vendor: "flipflopblog"
+product_type: "E-books"
+price: 12.02
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2022-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/425343?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/425343"
+language: "de"
+---
 # Hängematte statt Hamsterrad - Dein Weltreise-Planer
 
 > Product ID `48424` · Digistore24 productId `425343` · [HTML profile page](../../produkte/h-ngematte-statt-hamsterrad-dein-weltreise-planer-48424.html)

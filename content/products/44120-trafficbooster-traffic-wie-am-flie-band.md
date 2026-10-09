@@ -1,3 +1,24 @@
+---
+product_id: "44120"
+digistore24_product_id: 482088
+title: "TrafficBooster - Traffic wie am Fließband"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 261.98
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 138.95
+cart_conversion_pct: 3
+cancel_rate_pct: 1.61
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/trabovkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/trabovkslp/"
+language: "de"
+---
 # TrafficBooster - Traffic wie am Fließband
 
 > Product ID `44120` · Digistore24 productId `482088` · [HTML profile page](../../produkte/trafficbooster-traffic-wie-am-flie-band-44120.html)

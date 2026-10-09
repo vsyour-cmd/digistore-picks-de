@@ -1,3 +1,24 @@
+---
+product_id: "59241"
+digistore24_product_id: 731526
+title: "Büro im Griff"
+vendor: "sumsi204512"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Marketing Services"]
+listed_since: "2026-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/731526?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731526"
+language: "de"
+---
 # Büro im Griff
 
 > Product ID `59241` · Digistore24 productId `731526` · [HTML profile page](../../produkte/b-ro-im-griff-59241.html)

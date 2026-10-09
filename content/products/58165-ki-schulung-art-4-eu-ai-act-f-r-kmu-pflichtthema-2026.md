@@ -1,3 +1,24 @@
+---
+product_id: "58165"
+digistore24_product_id: 716903
+title: "KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026"
+vendor: "davidgonz13"
+product_type: "Member area and video courses"
+price: 446.32
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 178.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Education"]
+listed_since: "2026-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kadenzgroup.de?aff=adminstore#aff=adminstore"
+sales_page: "https://kadenzgroup.de"
+language: "de"
+---
 # KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026
 
 > Product ID `58165` · Digistore24 productId `716903` · [HTML profile page](../../produkte/ki-schulung-art-4-eu-ai-act-f-r-kmu-pflichtthema-2026-58165.html)

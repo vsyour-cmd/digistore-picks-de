@@ -1,3 +1,24 @@
+---
+product_id: "41724"
+digistore24_product_id: 435093
+title: "Kunden gewinnen mit Social Media auf Knopfdruck"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 12.44
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 9.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2022-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho"
+language: "de"
+---
 # Kunden gewinnen mit Social Media auf Knopfdruck
 
 > Product ID `41724` · Digistore24 productId `435093` · [HTML profile page](../../produkte/kunden-gewinnen-mit-social-media-auf-knopfdruck-41724.html)

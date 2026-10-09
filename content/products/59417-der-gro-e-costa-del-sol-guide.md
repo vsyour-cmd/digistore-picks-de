@@ -1,3 +1,24 @@
+---
+product_id: "59417"
+digistore24_product_id: 735052
+title: "Der große Costa-del-Sol-Guide"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735052?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735052"
+language: "de"
+---
 # Der große Costa-del-Sol-Guide
 
 > Product ID `59417` · Digistore24 productId `735052` · [HTML profile page](../../produkte/der-gro-e-costa-del-sol-guide-59417.html)

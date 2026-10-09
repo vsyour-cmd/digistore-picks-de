@@ -1,3 +1,24 @@
+---
+product_id: "54701"
+digistore24_product_id: 649926
+title: "PDF Profit Sprint: Erste Auszahlung in 21 Tagen"
+vendor: "Salessystem"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2025-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/649926?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/649926"
+language: "de"
+---
 # PDF Profit Sprint: Erste Auszahlung in 21 Tagen
 
 > Product ID `54701` · Digistore24 productId `649926` · [HTML profile page](../../produkte/pdf-profit-sprint-erste-auszahlung-in-21-tagen-54701.html)

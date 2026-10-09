@@ -1,3 +1,24 @@
+---
+product_id: "37462"
+digistore24_product_id: 364175
+title: "Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 297.04
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 89.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/"
+language: "de"
+---
 # Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga
 
 > Product ID `37462` · Digistore24 productId `364175` · [HTML profile page](../../produkte/kursleiter-ayurveda-babymassage-kumara-abhyanga-37462.html)

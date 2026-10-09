@@ -1,3 +1,24 @@
+---
+product_id: "46016"
+digistore24_product_id: 527159
+title: "18 Bestseller Silent Subliminals (756 Tracks) 50% Provision"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 19
+cancel_rate_pct: 0.26
+categories: ["Business & Investment","Health & Fitness","Personal Development"]
+listed_since: "2023-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/bestseller?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/bestseller"
+language: "de"
+---
 # 18 Bestseller Silent Subliminals (756 Tracks) 50% Provision
 
 > Product ID `46016` · Digistore24 productId `527159` · [HTML profile page](../../produkte/18-bestseller-silent-subliminals-756-tracks-50-provision-46016.html)

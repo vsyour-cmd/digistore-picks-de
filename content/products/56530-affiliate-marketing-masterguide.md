@@ -1,3 +1,24 @@
+---
+product_id: "56530"
+digistore24_product_id: 692634
+title: "Affiliate Marketing Masterguide"
+vendor: "MikeyBear12"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692634?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692634"
+language: "de"
+---
 # Affiliate Marketing Masterguide
 
 > Product ID `56530` · Digistore24 productId `692634` · [HTML profile page](../../produkte/affiliate-marketing-masterguide-56530.html)

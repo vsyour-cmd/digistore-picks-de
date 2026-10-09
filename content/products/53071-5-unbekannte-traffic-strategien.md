@@ -1,3 +1,24 @@
+---
+product_id: "53071"
+digistore24_product_id: 603631
+title: "5 unbekannte Traffic-Strategien"
+vendor: "digitag"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2025-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.nebeneinkommenideen.de/trafficstrategien-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.nebeneinkommenideen.de/trafficstrategien-ds"
+language: "de"
+---
 # 5 unbekannte Traffic-Strategien
 
 > Product ID `53071` · Digistore24 productId `603631` · [HTML profile page](../../produkte/5-unbekannte-traffic-strategien-53071.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56904"
+digistore24_product_id: 701340
+title: "Social-Media-E-Books: Profi-Ratgeber für jede Plattform – 50 % Provision"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-instagram?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-instagram"
+language: "de"
+---
 # Social-Media-E-Books: Profi-Ratgeber für jede Plattform – 50 % Provision
 
 > Product ID `56904` · Digistore24 productId `701340` · [HTML profile page](../../produkte/social-media-e-books-profi-ratgeber-f-r-jede-plattform-50-provision-56904.html)

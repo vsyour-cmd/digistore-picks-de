@@ -1,3 +1,24 @@
+---
+product_id: "54220"
+digistore24_product_id: 576777
+title: "Brainwashed Movie - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 56.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 35.2
+cart_conversion_pct: 29
+cancel_rate_pct: 8.41
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://brainwashed.de/bwm-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://brainwashed.de/bwm-7500/"
+language: "de"
+---
 # Brainwashed Movie - von Gunnar Kessler
 
 > Product ID `54220` · Digistore24 productId `576777` · [HTML profile page](../../produkte/brainwashed-movie-von-gunnar-kessler-54220.html)

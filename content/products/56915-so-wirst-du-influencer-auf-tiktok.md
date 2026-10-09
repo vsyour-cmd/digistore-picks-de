@@ -1,3 +1,24 @@
+---
+product_id: "56915"
+digistore24_product_id: 701343
+title: "So wirst du Influencer auf TikTok"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok"
+language: "de"
+---
 # So wirst du Influencer auf TikTok
 
 > Product ID `56915` · Digistore24 productId `701343` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-tiktok-56915.html)

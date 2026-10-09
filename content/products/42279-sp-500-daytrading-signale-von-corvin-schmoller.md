@@ -1,3 +1,24 @@
+---
+product_id: "42279"
+digistore24_product_id: 450197
+title: "SP 500 Daytrading Signale von Corvin Schmoller"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 190.35
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 25.68
+cart_conversion_pct: 8
+cancel_rate_pct: 11.25
+categories: ["Trading Products"]
+listed_since: "2022-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/sp-500-cfd-daytrading/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/sp-500-cfd-daytrading/"
+language: "de"
+---
 # SP 500 Daytrading Signale von Corvin Schmoller
 
 > Product ID `42279` · Digistore24 productId `450197` · [HTML profile page](../../produkte/sp-500-daytrading-signale-von-corvin-schmoller-42279.html)

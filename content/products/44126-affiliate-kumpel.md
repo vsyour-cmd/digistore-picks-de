@@ -1,3 +1,24 @@
+---
+product_id: "44126"
+digistore24_product_id: 470151
+title: "Affiliate Kumpel"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 279.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 24.86
+cart_conversion_pct: 3
+cancel_rate_pct: 1.65
+categories: ["Profession & Job"]
+listed_since: "2022-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.icbclub.de/affiliate-kumpel-deal?aff=adminstore#aff=adminstore"
+sales_page: "https://www.icbclub.de/affiliate-kumpel-deal"
+language: "de"
+---
 # Affiliate Kumpel
 
 > Product ID `44126` · Digistore24 productId `470151` · [HTML profile page](../../produkte/affiliate-kumpel-44126.html)

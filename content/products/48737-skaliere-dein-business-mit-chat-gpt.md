@@ -1,3 +1,24 @@
+---
+product_id: "48737"
+digistore24_product_id: 562679
+title: "Skaliere Dein Business mit Chat GPT"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0.28
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 2.72
+cart_conversion_pct: 54
+cancel_rate_pct: 7.46
+categories: ["Computer & Internet","Email Marketing"]
+listed_since: "2024-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/"
+language: "de"
+---
 # Skaliere Dein Business mit Chat GPT
 
 > Product ID `48737` · Digistore24 productId `562679` · [HTML profile page](../../produkte/skaliere-dein-business-mit-chat-gpt-48737.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57548"
+digistore24_product_id: 541445
+title: "Der Achillessehnen-Aktivplan vom Physiotherapeuten"
+vendor: "video-reha"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 23.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/541445?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/541445"
+language: "de"
+---
 # Der Achillessehnen-Aktivplan vom Physiotherapeuten
 
 > Product ID `57548` · Digistore24 productId `541445` · [HTML profile page](../../produkte/der-achillessehnen-aktivplan-vom-physiotherapeuten-57548.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57252"
+digistore24_product_id: 704230
+title: "Krypto-Strategien für Fortgeschrittene"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/krypto-strategien-fortgeschrittene?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/krypto-strategien-fortgeschrittene"
+language: "de"
+---
 # Krypto-Strategien für Fortgeschrittene
 
 > Product ID `57252` · Digistore24 productId `704230` · [HTML profile page](../../produkte/krypto-strategien-f-r-fortgeschrittene-57252.html)

@@ -1,3 +1,24 @@
+---
+product_id: "17739"
+digistore24_product_id: 148733
+title: "Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24"
+vendor: "gunkes"
+product_type: "Downloads"
+price: 44.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2017-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wasserauto24.net/?aff=adminstore#aff=adminstore"
+sales_page: "https://wasserauto24.net/"
+language: "de"
+---
 # Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24
 
 > Product ID `17739` · Digistore24 productId `148733` · [HTML profile page](../../produkte/spritverbrauch-jedes-autos-halbieren-dank-hho-wasserauto24-17739.html)

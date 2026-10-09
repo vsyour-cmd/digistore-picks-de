@@ -1,3 +1,24 @@
+---
+product_id: "35014"
+digistore24_product_id: 361856
+title: "Trinkwasser Basiswissen für Outdoor und Notsituationen"
+vendor: "ypsilon"
+product_type: "E-books"
+price: 23
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2020-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ousuca.com/buecher/trinkwasser/?aff=adminstore#aff=adminstore"
+sales_page: "https://ousuca.com/buecher/trinkwasser/"
+language: "de"
+---
 # Trinkwasser Basiswissen für Outdoor und Notsituationen
 
 > Product ID `35014` · Digistore24 productId `361856` · [HTML profile page](../../produkte/trinkwasser-basiswissen-f-r-outdoor-und-notsituationen-35014.html)

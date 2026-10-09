@@ -1,3 +1,24 @@
+---
+product_id: "55764"
+digistore24_product_id: 569395
+title: "Rauhnächte Workbook"
+vendor: "aktiv-entspannt-eifel"
+product_type: "E-books"
+price: 12.96
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.22
+cart_conversion_pct: 5
+cancel_rate_pct: 0.95
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/569395?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/569395"
+language: "de"
+---
 # Rauhnächte Workbook
 
 > Product ID `55764` · Digistore24 productId `569395` · [HTML profile page](../../produkte/rauhn-chte-workbook-55764.html)

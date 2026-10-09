@@ -1,3 +1,24 @@
+---
+product_id: "34113"
+digistore24_product_id: 346312
+title: "6D-Affirmationen - MLM - Erfolgs-Booster"
+vendor: "antomi"
+product_type: "Downloads"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 140.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://6d-affirmationen.de/network?aff=adminstore#aff=adminstore"
+sales_page: "https://6d-affirmationen.de/network"
+language: "de"
+---
 # 6D-Affirmationen - MLM - Erfolgs-Booster
 
 > Product ID `34113` · Digistore24 productId `346312` · [HTML profile page](../../produkte/6d-affirmationen-mlm-erfolgs-booster-34113.html)

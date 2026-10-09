@@ -1,3 +1,24 @@
+---
+product_id: "57757"
+digistore24_product_id: 694978
+title: "Raus aus der Angst – Onlinekurs gegen Angst"
+vendor: "coaching-am-meer"
+product_type: "Member area and video courses"
+price: 282
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694978?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694978"
+language: "de"
+---
 # Raus aus der Angst – Onlinekurs gegen Angst
 
 > Product ID `57757` · Digistore24 productId `694978` · [HTML profile page](../../produkte/raus-aus-der-angst-onlinekurs-gegen-angst-57757.html)

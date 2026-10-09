@@ -1,3 +1,24 @@
+---
+product_id: "44684"
+digistore24_product_id: 341132
+title: "Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen"
+vendor: "Deinechance"
+product_type: "Member area and video courses"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 110.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services","Software"]
+listed_since: "2020-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dejan-sekulic.com/durchbruch?aff=adminstore#aff=adminstore"
+sales_page: "https://dejan-sekulic.com/durchbruch"
+language: "de"
+---
 # Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen
 
 > Product ID `44684` · Digistore24 productId `341132` · [HTML profile page](../../produkte/der-kurs-f-r-potenzialentfaltung-und-mehr-selbstvertrauen-44684.html)

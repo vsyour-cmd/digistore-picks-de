@@ -1,3 +1,24 @@
+---
+product_id: "56357"
+digistore24_product_id: 687367
+title: "12 virale KI-Bild-Prompts"
+vendor: "nadine_business__reichweite"
+product_type: "E-books"
+price: 8.37
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Photography & Film"]
+listed_since: "2026-04-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687367?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687367"
+language: "de"
+---
 # 12 virale KI-Bild-Prompts
 
 > Product ID `56357` · Digistore24 productId `687367` · [HTML profile page](../../produkte/12-virale-ki-bild-prompts-56357.html)

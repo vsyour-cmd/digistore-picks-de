@@ -1,3 +1,24 @@
+---
+product_id: "47250"
+digistore24_product_id: 539446
+title: "Canva AI - Master Class"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/canva-ai/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/canva-ai/"
+language: "de"
+---
 # Canva AI - Master Class
 
 > Product ID `47250` · Digistore24 productId `539446` · [HTML profile page](../../produkte/canva-ai-master-class-47250.html)

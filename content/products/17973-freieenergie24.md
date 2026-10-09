@@ -1,3 +1,24 @@
+---
+product_id: "17973"
+digistore24_product_id: 151443
+title: "FreieEnergie24"
+vendor: "gunkes"
+product_type: "E-books"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2017-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://freieenergie24.com?aff=adminstore#aff=adminstore"
+sales_page: "https://freieenergie24.com"
+language: "de"
+---
 # FreieEnergie24
 
 > Product ID `17973` · Digistore24 productId `151443` · [HTML profile page](../../produkte/freieenergie24-17973.html)

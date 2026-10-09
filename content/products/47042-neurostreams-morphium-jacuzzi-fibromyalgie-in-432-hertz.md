@@ -1,3 +1,24 @@
+---
+product_id: "47042"
+digistore24_product_id: 250026
+title: "Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/labor/fibromyalgie-hilfe/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/labor/fibromyalgie-hilfe/"
+language: "de"
+---
 # Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz
 
 > Product ID `47042` · Digistore24 productId `250026` · [HTML profile page](../../produkte/neurostreams-morphium-jacuzzi-fibromyalgie-in-432-hertz-47042.html)

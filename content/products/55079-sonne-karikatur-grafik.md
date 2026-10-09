@@ -1,3 +1,24 @@
+---
+product_id: "55079"
+digistore24_product_id: 658510
+title: "Sonne Karikatur Grafik"
+vendor: "Karikaturen-Service"
+product_type: "Downloads"
+price: 2.82
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Travel & Culture","Marketing Services"]
+listed_since: "2026-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm"
+language: "de"
+---
 # Sonne Karikatur Grafik
 
 > Product ID `55079` · Digistore24 productId `658510` · [HTML profile page](../../produkte/sonne-karikatur-grafik-55079.html)

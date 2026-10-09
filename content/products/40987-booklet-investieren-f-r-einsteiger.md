@@ -1,3 +1,24 @@
+---
+product_id: "40987"
+digistore24_product_id: 446147
+title: "Booklet: Investieren für Einsteiger"
+vendor: "Staatenlos"
+product_type: "E-books"
+price: 7.48
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 5.22
+cart_conversion_pct: 31
+cancel_rate_pct: 0.22
+categories: ["Finances"]
+listed_since: "2022-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/"
+language: "de"
+---
 # Booklet: Investieren für Einsteiger
 
 > Product ID `40987` · Digistore24 productId `446147` · [HTML profile page](../../produkte/booklet-investieren-f-r-einsteiger-40987.html)

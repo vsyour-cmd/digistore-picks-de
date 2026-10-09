@@ -1,3 +1,24 @@
+---
+product_id: "51744"
+digistore24_product_id: 600134
+title: "eBook: WordPress Speed Booster"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/wordpress-speed-booster/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/wordpress-speed-booster/"
+language: "de"
+---
 # eBook: WordPress Speed Booster
 
 > Product ID `51744` · Digistore24 productId `600134` · [HTML profile page](../../produkte/ebook-wordpress-speed-booster-51744.html)

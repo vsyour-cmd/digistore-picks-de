@@ -1,3 +1,24 @@
+---
+product_id: "42298"
+digistore24_product_id: 470910
+title: "New Spirit for Money und Business VIP Paket und Bundle"
+vendor: "herzengel"
+product_type: "Member area and video courses"
+price: 100.58
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 10.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2022-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.newspiritkongress.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.newspiritkongress.de"
+language: "de"
+---
 # New Spirit for Money und Business VIP Paket und Bundle
 
 > Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../produkte/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)

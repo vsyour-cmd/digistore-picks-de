@@ -1,3 +1,24 @@
+---
+product_id: "59315"
+digistore24_product_id: 733145
+title: "Anti-Guru Startup Handbuch: Der ehrliche Bauplan"
+vendor: "stellenmanufaktur"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Profession & Job"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733145?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733145"
+language: "de"
+---
 # Anti-Guru Startup Handbuch: Der ehrliche Bauplan
 
 > Product ID `59315` · Digistore24 productId `733145` · [HTML profile page](../../produkte/anti-guru-startup-handbuch-der-ehrliche-bauplan-59315.html)

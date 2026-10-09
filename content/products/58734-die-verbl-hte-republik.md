@@ -1,3 +1,24 @@
+---
+product_id: "58734"
+digistore24_product_id: 723057
+title: "Die verblühte Republik"
+vendor: "Novaris_web"
+product_type: "Audio book (download)"
+price: 11.76
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/verbluehte_republik.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/verbluehte_republik.php"
+language: "de"
+---
 # Die verblühte Republik
 
 > Product ID `58734` · Digistore24 productId `723057` · [HTML profile page](../../produkte/die-verbl-hte-republik-58734.html)

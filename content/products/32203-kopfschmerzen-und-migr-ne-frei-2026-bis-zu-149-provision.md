@@ -1,3 +1,24 @@
+---
+product_id: "32203"
+digistore24_product_id: 309689
+title: "Kopfschmerzen und Migräne Frei 2026 bis zu 149€ Provision"
+vendor: "deinwissen"
+product_type: "Downloads"
+price: 9.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kopfschmerzen-migraene.funnelcockpit.com/start/?aff=adminstore#aff=adminstore"
+sales_page: "https://kopfschmerzen-migraene.funnelcockpit.com/start/"
+language: "de"
+---
 # Kopfschmerzen und Migräne Frei 2026 bis zu 149€ Provision
 
 > Product ID `32203` · Digistore24 productId `309689` · [HTML profile page](../../produkte/kopfschmerzen-und-migr-ne-frei-2026-bis-zu-149-provision-32203.html)

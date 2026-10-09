@@ -1,3 +1,24 @@
+---
+product_id: "51169"
+digistore24_product_id: 536804
+title: "Selbstgeführte Stadtrallye Wiesbaden | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2024-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-wiesbaden/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-wiesbaden/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Wiesbaden | Hint-Caching
 
 > Product ID `51169` · Digistore24 productId `536804` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-wiesbaden-hint-caching-51169.html)

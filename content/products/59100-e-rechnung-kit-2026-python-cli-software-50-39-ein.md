@@ -1,3 +1,24 @@
+---
+product_id: "59100"
+digistore24_product_id: 729781
+title: "E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein"
+vendor: "lvlBoZzlvl"
+product_type: "Software"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://e-rechnung-kit.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://e-rechnung-kit.pages.dev/"
+language: "de"
+---
 # E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein
 
 > Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../produkte/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)

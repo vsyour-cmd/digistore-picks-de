@@ -1,3 +1,24 @@
+---
+product_id: "59199"
+digistore24_product_id: 730665
+title: "Mind Hack Marketing – Marketing verstehen und gezielt einset"
+vendor: "olvixdigok8f53"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 22.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730665?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730665"
+language: "de"
+---
 # Mind Hack Marketing – Marketing verstehen und gezielt einset
 
 > Product ID `59199` · Digistore24 productId `730665` · [HTML profile page](../../produkte/mind-hack-marketing-marketing-verstehen-und-gezielt-einset-59199.html)

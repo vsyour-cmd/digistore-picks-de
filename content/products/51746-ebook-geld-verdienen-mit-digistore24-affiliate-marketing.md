@@ -1,3 +1,24 @@
+---
+product_id: "51746"
+digistore24_product_id: 600516
+title: "eBook: Geld verdienen mit Digistore24 - Affiliate Marketing"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/geld-verdienen-mit-digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/geld-verdienen-mit-digistore24"
+language: "de"
+---
 # eBook: Geld verdienen mit Digistore24 - Affiliate Marketing
 
 > Product ID `51746` · Digistore24 productId `600516` · [HTML profile page](../../produkte/ebook-geld-verdienen-mit-digistore24-affiliate-marketing-51746.html)

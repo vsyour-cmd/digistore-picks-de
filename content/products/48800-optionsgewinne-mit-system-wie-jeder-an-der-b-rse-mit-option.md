@@ -1,3 +1,24 @@
+---
+product_id: "48800"
+digistore24_product_id: 309523
+title: "Optionsgewinne mit System: Wie jeder an der Börse mit Option"
+vendor: "r2finance"
+product_type: "Book (printed)"
+price: 45.62
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.57
+cart_conversion_pct: 5
+cancel_rate_pct: 2.16
+categories: ["Business & Investment","Education","Trading Products"]
+listed_since: "2020-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://duo-strategie.com/buch-kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "https://duo-strategie.com/buch-kaufen/"
+language: "de"
+---
 # Optionsgewinne mit System: Wie jeder an der Börse mit Option
 
 > Product ID `48800` · Digistore24 productId `309523` · [HTML profile page](../../produkte/optionsgewinne-mit-system-wie-jeder-an-der-b-rse-mit-option-48800.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56053"
+digistore24_product_id: 678280
+title: "Süße Tiere Malbuch für Kinder – 105 Seiten PDF"
+vendor: "manuelcosta"
+product_type: "Downloads"
+price: 13.62
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2026-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ausmalbush24-de.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://ausmalbush24-de.netlify.app/"
+language: "de"
+---
 # Süße Tiere Malbuch für Kinder – 105 Seiten PDF
 
 > Product ID `56053` · Digistore24 productId `678280` · [HTML profile page](../../produkte/s-e-tiere-malbuch-f-r-kinder-105-seiten-pdf-56053.html)

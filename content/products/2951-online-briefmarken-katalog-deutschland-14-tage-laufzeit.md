@@ -1,3 +1,24 @@
+---
+product_id: "2951"
+digistore24_product_id: 87693
+title: "Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit"
+vendor: "abartl"
+product_type: "Software"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 1.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2016-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rund-um-briefmarken.de/lp-hp/?aff=adminstore#aff=adminstore"
+sales_page: "https://rund-um-briefmarken.de/lp-hp/"
+language: "de"
+---
 # Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit
 
 > Product ID `2951` · Digistore24 productId `87693` · [HTML profile page](../../produkte/online-briefmarken-katalog-deutschland-14-tage-laufzeit-2951.html)

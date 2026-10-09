@@ -1,3 +1,24 @@
+---
+product_id: "2901"
+digistore24_product_id: 23585
+title: "FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS"
+vendor: "joviojo"
+product_type: "Downloads"
+price: 37.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2014-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://pendelsystem.de?aff=adminstore#aff=adminstore"
+sales_page: "http://pendelsystem.de"
+language: "de"
+---
 # FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS
 
 > Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../produkte/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)

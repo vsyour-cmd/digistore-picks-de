@@ -1,3 +1,24 @@
+---
+product_id: "3247"
+digistore24_product_id: 23861
+title: "Video-Seminar \"Nichtraucher in 5 Stunden\""
+vendor: "bbGmbH"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 8.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2014-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucher-in-5-stunden.at/?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucher-in-5-stunden.at/"
+language: "de"
+---
 # Video-Seminar "Nichtraucher in 5 Stunden"
 
 > Product ID `3247` · Digistore24 productId `23861` · [HTML profile page](../../produkte/video-seminar-nichtraucher-in-5-stunden-3247.html)

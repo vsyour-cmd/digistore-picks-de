@@ -1,3 +1,24 @@
+---
+product_id: "60182"
+digistore24_product_id: 723647
+title: "Notfallmappe Digital – alles Wichtige für den Notfall"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 21.52
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Software"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/723647?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/723647"
+language: "de"
+---
 # Notfallmappe Digital – alles Wichtige für den Notfall
 
 > Product ID `60182` · Digistore24 productId `723647` · [HTML profile page](../../produkte/notfallmappe-digital-alles-wichtige-f-r-den-notfall-60182.html)

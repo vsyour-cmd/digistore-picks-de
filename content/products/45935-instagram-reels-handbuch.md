@@ -1,3 +1,24 @@
+---
+product_id: "45935"
+digistore24_product_id: 524437
+title: "Instagram Reels Handbuch"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2023-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/8EJShKhogjekqYQpR?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/8EJShKhogjekqYQpR"
+language: "de"
+---
 # Instagram Reels Handbuch
 
 > Product ID `45935` · Digistore24 productId `524437` · [HTML profile page](../../produkte/instagram-reels-handbuch-45935.html)

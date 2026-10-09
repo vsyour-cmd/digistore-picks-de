@@ -1,3 +1,24 @@
+---
+product_id: "4981"
+digistore24_product_id: 34111
+title: "Herren-Hemd"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2014-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/naehen-fuer-maenner/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/naehen-fuer-maenner/"
+language: "de"
+---
 # Herren-Hemd
 
 > Product ID `4981` · Digistore24 productId `34111` · [HTML profile page](../../produkte/herren-hemd-4981.html)

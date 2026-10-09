@@ -1,3 +1,24 @@
+---
+product_id: "57605"
+digistore24_product_id: 711958
+title: "Meisterbot"
+vendor: "Bazi24"
+product_type: "Software"
+price: 1786
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 535.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy","Software","Office Organization"]
+listed_since: "2026-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shoplife24.de?aff=adminstore#aff=adminstore"
+sales_page: "https://shoplife24.de"
+language: "de"
+---
 # Meisterbot
 
 > Product ID `57605` · Digistore24 productId `711958` · [HTML profile page](../../produkte/meisterbot-57605.html)

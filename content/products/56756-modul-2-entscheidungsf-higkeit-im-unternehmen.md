@@ -1,3 +1,24 @@
+---
+product_id: "56756"
+digistore24_product_id: 688214
+title: "Modul 2 – Entscheidungsfähigkeit im Unternehmen"
+vendor: "weipert-consulting-gmbh"
+product_type: "Downloads"
+price: 328.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 65.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Politics & Economy","Leadership & Management"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/?aff=adminstore#aff=adminstore"
+sales_page: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/"
+language: "de"
+---
 # Modul 2 – Entscheidungsfähigkeit im Unternehmen
 
 > Product ID `56756` · Digistore24 productId `688214` · [HTML profile page](../../produkte/modul-2-entscheidungsf-higkeit-im-unternehmen-56756.html)

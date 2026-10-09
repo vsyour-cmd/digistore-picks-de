@@ -1,3 +1,24 @@
+---
+product_id: "43529"
+digistore24_product_id: 327210
+title: "BUSINESS SCHOOL für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 2226.01
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 89.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/business-school/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/business-school/"
+language: "de"
+---
 # BUSINESS SCHOOL für Fotografen
 
 > Product ID `43529` · Digistore24 productId `327210` · [HTML profile page](../../produkte/business-school-f-r-fotografen-43529.html)

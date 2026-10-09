@@ -1,3 +1,24 @@
+---
+product_id: "55848"
+digistore24_product_id: 674258
+title: "Der Masterflow: Shopify-Produktseiten die verkaufen"
+vendor: "herkulez15df"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/674258?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/674258"
+language: "de"
+---
 # Der Masterflow: Shopify-Produktseiten die verkaufen
 
 > Product ID `55848` · Digistore24 productId `674258` · [HTML profile page](../../produkte/der-masterflow-shopify-produktseiten-die-verkaufen-55848.html)

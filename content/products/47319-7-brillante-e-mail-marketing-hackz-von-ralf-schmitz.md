@@ -1,3 +1,24 @@
+---
+product_id: "47319"
+digistore24_product_id: 310034
+title: "7 Brillante E-Mail Marketing Hackz von Ralf Schmitz"
+vendor: "RalfSchmitz"
+product_type: "Downloads"
+price: 0.01
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 0
+cart_conversion_pct: 44
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2020-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://emailmarketinghackz.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://emailmarketinghackz.com/"
+language: "de"
+---
 # 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz
 
 > Product ID `47319` · Digistore24 productId `310034` · [HTML profile page](../../produkte/7-brillante-e-mail-marketing-hackz-von-ralf-schmitz-47319.html)

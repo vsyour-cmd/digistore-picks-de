@@ -1,3 +1,24 @@
+---
+product_id: "42192"
+digistore24_product_id: 423798
+title: "Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar"
+vendor: "Bauprogramm"
+product_type: "Software"
+price: 320.99
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 77.46
+cart_conversion_pct: 40
+cancel_rate_pct: 4.14
+categories: ["Home & Garden","Software","Real Estate"]
+listed_since: "2022-01-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/423798/adminstore"
+sales_page: "https://www.bauprogramm.com/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar
 
 > Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../produkte/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)

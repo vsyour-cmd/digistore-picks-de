@@ -1,3 +1,24 @@
+---
+product_id: "26838"
+digistore24_product_id: 202689
+title: "Generationenberater"
+vendor: "verkaufsbegleiter"
+product_type: "Downloads"
+price: 100.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/202689?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/202689"
+language: "de"
+---
 # Generationenberater
 
 > Product ID `26838` · Digistore24 productId `202689` · [HTML profile page](../../produkte/generationenberater-26838.html)

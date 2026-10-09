@@ -1,3 +1,24 @@
+---
+product_id: "50017"
+digistore24_product_id: 608337
+title: "Lifestyle Rebell"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.28
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lifestylerebell.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lifestylerebell.de/"
+language: "de"
+---
 # Lifestyle Rebell
 
 > Product ID `50017` · Digistore24 productId `608337` · [HTML profile page](../../produkte/lifestyle-rebell-50017.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50532"
+digistore24_product_id: 568261
+title: "50 % Provision pro Sale – Entscheidungen als Chance"
+vendor: "Angelika-Traumerfuellerin"
+product_type: "Downloads"
+price: 11.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/568261?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/568261"
+language: "de"
+---
 # 50 % Provision pro Sale – Entscheidungen als Chance
 
 > Product ID `50532` · Digistore24 productId `568261` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungen-als-chance-50532.html)

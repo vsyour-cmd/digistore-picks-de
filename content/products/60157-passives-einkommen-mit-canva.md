@@ -1,3 +1,24 @@
+---
+product_id: "60157"
+digistore24_product_id: 705640
+title: "PASSIVES EINKOMMEN MIT CANVA"
+vendor: "CD-Business"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2026-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/705640?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/705640"
+language: "de"
+---
 # PASSIVES EINKOMMEN MIT CANVA
 
 > Product ID `60157` · Digistore24 productId `705640` · [HTML profile page](../../produkte/passives-einkommen-mit-canva-60157.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39686"
+digistore24_product_id: 425571
+title: "„Die Heilung des Schoßraumes, der Sexualorgane und der...“"
+vendor: "phoenix999"
+product_type: "Downloads"
+price: 464.68
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 73.38
+cart_conversion_pct: 23
+cancel_rate_pct: 2.86
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-goldemann.mykajabi.com/schossraum-e?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-goldemann.mykajabi.com/schossraum-e"
+language: "de"
+---
 # „Die Heilung des Schoßraumes, der Sexualorgane und der...“
 
 > Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../produkte/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)

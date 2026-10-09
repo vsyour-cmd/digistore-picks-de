@@ -1,3 +1,24 @@
+---
+product_id: "25755"
+digistore24_product_id: 228293
+title: "Pilates Beginner - Die Geheimwaffe der Stars"
+vendor: "Pilatesliebe"
+product_type: "Member area and video courses"
+price: 41.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://pilatesliebe.com/pilatesbeginner?aff=adminstore#aff=adminstore"
+sales_page: "https://pilatesliebe.com/pilatesbeginner"
+language: "de"
+---
 # Pilates Beginner - Die Geheimwaffe der Stars
 
 > Product ID `25755` · Digistore24 productId `228293` · [HTML profile page](../../produkte/pilates-beginner-die-geheimwaffe-der-stars-25755.html)

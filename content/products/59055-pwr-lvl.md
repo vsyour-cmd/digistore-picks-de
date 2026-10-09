@@ -1,3 +1,24 @@
+---
+product_id: "59055"
+digistore24_product_id: 728857
+title: "PWR-LVL -"
+vendor: "maxbuluc"
+product_type: "Member area and video courses"
+price: 655.18
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 360.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728857?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728857"
+language: "de"
+---
 # PWR-LVL -
 
 > Product ID `59055` · Digistore24 productId `728857` · [HTML profile page](../../produkte/pwr-lvl-59055.html)

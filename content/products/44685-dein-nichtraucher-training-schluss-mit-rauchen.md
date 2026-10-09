@@ -1,3 +1,24 @@
+---
+product_id: "44685"
+digistore24_product_id: 327046
+title: "Dein Nichtraucher Training - Schluss mit Rauchen"
+vendor: "Deinechance"
+product_type: "Member area and video courses"
+price: 197.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Sport"]
+listed_since: "2020-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://past-smoking.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://past-smoking.com/"
+language: "de"
+---
 # Dein Nichtraucher Training - Schluss mit Rauchen
 
 > Product ID `44685` · Digistore24 productId `327046` · [HTML profile page](../../produkte/dein-nichtraucher-training-schluss-mit-rauchen-44685.html)

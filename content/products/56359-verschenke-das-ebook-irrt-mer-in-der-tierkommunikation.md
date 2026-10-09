@@ -1,3 +1,24 @@
+---
+product_id: "56359"
+digistore24_product_id: 687840
+title: "VERSCHENKE das ebook Irrtümer in der Tierkommunikation"
+vendor: "Pia-Seelenwege"
+product_type: "E-books"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687840?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687840"
+language: "de"
+---
 # VERSCHENKE das ebook Irrtümer in der Tierkommunikation
 
 > Product ID `56359` · Digistore24 productId `687840` · [HTML profile page](../../produkte/verschenke-das-ebook-irrt-mer-in-der-tierkommunikation-56359.html)

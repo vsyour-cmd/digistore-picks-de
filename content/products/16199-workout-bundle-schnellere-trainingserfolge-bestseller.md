@@ -1,3 +1,24 @@
+---
+product_id: "16199"
+digistore24_product_id: 116859
+title: "Workout Bundle – Schnellere Trainingserfolge (Bestseller)"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.93
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Health & Fitness"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/workout-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/workout-bundle/"
+language: "de"
+---
 # Workout Bundle – Schnellere Trainingserfolge (Bestseller)
 
 > Product ID `16199` · Digistore24 productId `116859` · [HTML profile page](../../produkte/workout-bundle-schnellere-trainingserfolge-bestseller-16199.html)

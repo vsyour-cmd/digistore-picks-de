@@ -1,3 +1,24 @@
+---
+product_id: "55639"
+digistore24_product_id: 665920
+title: "Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)"
+vendor: "Freizeitblick"
+product_type: "Downloads"
+price: 15.88
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.freizeitblick.de/digitales-produkt-kartendeck-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freizeitblick.de/digitales-produkt-kartendeck-1/"
+language: "de"
+---
 # Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)
 
 > Product ID `55639` · Digistore24 productId `665920` · [HTML profile page](../../produkte/das-5-minuten-ausflugs-kartendeck-digitaler-download-55639.html)

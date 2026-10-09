@@ -1,3 +1,24 @@
+---
+product_id: "38287"
+digistore24_product_id: 411371
+title: "InstaBusiness - Geld verdienen mit Instagram"
+vendor: "ss-business"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2021-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.instabusiness.org/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.instabusiness.org/"
+language: "de"
+---
 # InstaBusiness - Geld verdienen mit Instagram
 
 > Product ID `38287` · Digistore24 productId `411371` · [HTML profile page](../../produkte/instabusiness-geld-verdienen-mit-instagram-38287.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51141"
+digistore24_product_id: 464087
+title: "Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-duesseldorf/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-duesseldorf/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching
 
 > Product ID `51141` · Digistore24 productId `464087` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-d-sseldorf-hint-caching-51141.html)

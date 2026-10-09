@@ -1,3 +1,24 @@
+---
+product_id: "56839"
+digistore24_product_id: 641950
+title: "Business Builder AI"
+vendor: "Robinfocke"
+product_type: "Software"
+price: 781.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 234.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-06-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://businessbuilderpro.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://businessbuilderpro.de/"
+language: "de"
+---
 # Business Builder AI
 
 > Product ID `56839` · Digistore24 productId `641950` · [HTML profile page](../../produkte/business-builder-ai-56839.html)

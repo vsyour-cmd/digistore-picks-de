@@ -1,3 +1,24 @@
+---
+product_id: "58223"
+digistore24_product_id: 710704
+title: "Jahrgang 1963-abschlagsfrei in Rente: Der Rentenratgeber"
+vendor: "StreetArtCompany"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/710704?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/710704"
+language: "de"
+---
 # Jahrgang 1963-abschlagsfrei in Rente: Der Rentenratgeber
 
 > Product ID `58223` · Digistore24 productId `710704` · [HTML profile page](../../produkte/jahrgang-1963-abschlagsfrei-in-rente-der-rentenratgeber-58223.html)

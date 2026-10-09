@@ -1,3 +1,24 @@
+---
+product_id: "56360"
+digistore24_product_id: 686195
+title: "Tischtennis-Turniersoftware (online) | TT-Match PRO"
+vendor: "linguatools"
+product_type: "Software"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Sport"]
+listed_since: "2026-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tt-match.net/de/sites/dg24_turnier-software?aff=adminstore#aff=adminstore"
+sales_page: "https://tt-match.net/de/sites/dg24_turnier-software"
+language: "de"
+---
 # Tischtennis-Turniersoftware (online) | TT-Match PRO
 
 > Product ID `56360` · Digistore24 productId `686195` · [HTML profile page](../../produkte/tischtennis-turniersoftware-online-tt-match-pro-56360.html)

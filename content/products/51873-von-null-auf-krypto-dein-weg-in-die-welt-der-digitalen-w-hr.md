@@ -1,3 +1,24 @@
+---
+product_id: "51873"
+digistore24_product_id: 604298
+title: "Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 17.76
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Education"]
+listed_since: "2025-03-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/604298?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/604298"
+language: "de"
+---
 # Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ
 
 > Product ID `51873` · Digistore24 productId `604298` · [HTML profile page](../../produkte/von-null-auf-krypto-dein-weg-in-die-welt-der-digitalen-w-hr-51873.html)

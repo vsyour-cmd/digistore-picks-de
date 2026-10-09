@@ -1,3 +1,24 @@
+---
+product_id: "37873"
+digistore24_product_id: 407028
+title: "Der Schlüpferstürmer"
+vendor: "benlindner"
+product_type: "Webinar"
+price: 4.7
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://frau-rumkriegen.de/schluepferstuermer/?aff=adminstore#aff=adminstore"
+sales_page: "https://frau-rumkriegen.de/schluepferstuermer/"
+language: "de"
+---
 # Der Schlüpferstürmer
 
 > Product ID `37873` · Digistore24 productId `407028` · [HTML profile page](../../produkte/der-schl-pferst-rmer-37873.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41380"
+digistore24_product_id: 459781
+title: "Genealogie Einsteigerheft"
+vendor: "MelanzDesign"
+product_type: "Deliverable"
+price: 8.37
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2022-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jugend-forscher.de/allgemein/heft-no-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://jugend-forscher.de/allgemein/heft-no-1/"
+language: "de"
+---
 # Genealogie Einsteigerheft
 
 > Product ID `41380` · Digistore24 productId `459781` · [HTML profile page](../../produkte/genealogie-einsteigerheft-41380.html)

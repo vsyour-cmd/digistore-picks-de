@@ -1,3 +1,24 @@
+---
+product_id: "58746"
+digistore24_product_id: 726201
+title: "Negative Gedanken loslassen"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726201?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726201"
+language: "de"
+---
 # Negative Gedanken loslassen
 
 > Product ID `58746` · Digistore24 productId `726201` · [HTML profile page](../../produkte/negative-gedanken-loslassen-58746.html)

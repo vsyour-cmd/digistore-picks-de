@@ -1,3 +1,24 @@
+---
+product_id: "59551"
+digistore24_product_id: 736195
+title: "Spanien mit dem Wohnmobil"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736195?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736195"
+language: "de"
+---
 # Spanien mit dem Wohnmobil
 
 > Product ID `59551` · Digistore24 productId `736195` · [HTML profile page](../../produkte/spanien-mit-dem-wohnmobil-59551.html)

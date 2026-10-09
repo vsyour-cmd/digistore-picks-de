@@ -1,3 +1,24 @@
+---
+product_id: "53485"
+digistore24_product_id: 629062
+title: "Affiliate Profits – Dein Affiliate-System"
+vendor: "Challenge24ST"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 20.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services"]
+listed_since: "2025-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stephantiegel.online/affiliate-profits?aff=adminstore#aff=adminstore"
+sales_page: "https://stephantiegel.online/affiliate-profits"
+language: "de"
+---
 # Affiliate Profits – Dein Affiliate-System
 
 > Product ID `53485` · Digistore24 productId `629062` · [HTML profile page](../../produkte/affiliate-profits-dein-affiliate-system-53485.html)

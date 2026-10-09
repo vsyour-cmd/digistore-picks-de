@@ -1,3 +1,24 @@
+---
+product_id: "38724"
+digistore24_product_id: 422496
+title: "Brot backen: 10 Rezepte ohne Backofen"
+vendor: "ypsilon"
+product_type: "E-books"
+price: 14.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2021-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/"
+language: "de"
+---
 # Brot backen: 10 Rezepte ohne Backofen
 
 > Product ID `38724` · Digistore24 productId `422496` · [HTML profile page](../../produkte/brot-backen-10-rezepte-ohne-backofen-38724.html)

@@ -1,3 +1,24 @@
+---
+product_id: "6055"
+digistore24_product_id: 40779
+title: "SPURLOS VERSCHWINDEN"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 14.5
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Law & Justice"]
+listed_since: "2015-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-spur/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-spur/index.html"
+language: "de"
+---
 # SPURLOS VERSCHWINDEN
 
 > Product ID `6055` · Digistore24 productId `40779` · [HTML profile page](../../produkte/spurlos-verschwinden-6055.html)

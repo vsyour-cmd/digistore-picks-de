@@ -1,3 +1,24 @@
+---
+product_id: "58750"
+digistore24_product_id: 726688
+title: "Lebenshilfe - Einfach besser Leben"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726688?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726688"
+language: "de"
+---
 # Lebenshilfe - Einfach besser Leben
 
 > Product ID `58750` · Digistore24 productId `726688` · [HTML profile page](../../produkte/lebenshilfe-einfach-besser-leben-58750.html)

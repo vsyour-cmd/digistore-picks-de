@@ -1,3 +1,24 @@
+---
+product_id: "59737"
+digistore24_product_id: 732235
+title: "GKG-3.A Wasser im Garten"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732235?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732235"
+language: "de"
+---
 # GKG-3.A Wasser im Garten
 
 > Product ID `59737` · Digistore24 productId `732235` · [HTML profile page](../../produkte/gkg-3-a-wasser-im-garten-59737.html)

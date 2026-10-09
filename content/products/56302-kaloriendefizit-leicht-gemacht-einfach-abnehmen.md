@@ -1,3 +1,24 @@
+---
+product_id: "56302"
+digistore24_product_id: 684873
+title: "Kaloriendefizit leicht gemacht - Einfach abnehmen"
+vendor: "Freifone"
+product_type: "E-books"
+price: 13.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/kaloriendefizit?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/kaloriendefizit"
+language: "de"
+---
 # Kaloriendefizit leicht gemacht - Einfach abnehmen
 
 > Product ID `56302` · Digistore24 productId `684873` · [HTML profile page](../../produkte/kaloriendefizit-leicht-gemacht-einfach-abnehmen-56302.html)

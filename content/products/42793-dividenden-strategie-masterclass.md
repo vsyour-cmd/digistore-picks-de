@@ -1,3 +1,24 @@
+---
+product_id: "42793"
+digistore24_product_id: 479897
+title: "Dividenden Strategie Masterclass"
+vendor: "DividendenBackpacker"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 56.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2023-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/479897?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/479897"
+language: "de"
+---
 # Dividenden Strategie Masterclass
 
 > Product ID `42793` · Digistore24 productId `479897` · [HTML profile page](../../produkte/dividenden-strategie-masterclass-42793.html)

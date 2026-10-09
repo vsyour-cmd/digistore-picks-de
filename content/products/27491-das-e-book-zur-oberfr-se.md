@@ -1,3 +1,24 @@
+---
+product_id: "27491"
+digistore24_product_id: 147941
+title: "Das E-Book zur Oberfräse"
+vendor: "lukasundandreas"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2017-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oberfraese-experten.de/oberfraese-handbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://oberfraese-experten.de/oberfraese-handbuch/"
+language: "de"
+---
 # Das E-Book zur Oberfräse
 
 > Product ID `27491` · Digistore24 productId `147941` · [HTML profile page](../../produkte/das-e-book-zur-oberfr-se-27491.html)

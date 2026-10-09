@@ -1,3 +1,24 @@
+---
+product_id: "55171"
+digistore24_product_id: 658523
+title: "BOA-Beauty Online Academy"
+vendor: "Vali_572"
+product_type: "Online coaching"
+price: 70.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 35.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing","Marketing Services"]
+listed_since: "2026-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://beauty-onlineacademy.at?aff=adminstore#aff=adminstore"
+sales_page: "https://beauty-onlineacademy.at"
+language: "de"
+---
 # BOA-Beauty Online Academy
 
 > Product ID `55171` · Digistore24 productId `658523` · [HTML profile page](../../produkte/boa-beauty-online-academy-55171.html)

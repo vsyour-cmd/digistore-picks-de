@@ -1,3 +1,24 @@
+---
+product_id: "57333"
+digistore24_product_id: 706662
+title: "Der Mitarbeiter-Code fürs Handwerk"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk"
+language: "de"
+---
 # Der Mitarbeiter-Code fürs Handwerk
 
 > Product ID `57333` · Digistore24 productId `706662` · [HTML profile page](../../produkte/der-mitarbeiter-code-f-rs-handwerk-57333.html)

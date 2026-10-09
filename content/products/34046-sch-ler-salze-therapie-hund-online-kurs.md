@@ -1,3 +1,24 @@
+---
+product_id: "34046"
+digistore24_product_id: 315812
+title: "Schüßler Salze Therapie Hund Online Kurs"
+vendor: "FortunaAcademy"
+product_type: "Downloads"
+price: 28.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.fortuna-academy.de/hund-schuessler-salze?aff=adminstore#aff=adminstore"
+sales_page: "http://www.fortuna-academy.de/hund-schuessler-salze"
+language: "de"
+---
 # Schüßler Salze Therapie Hund Online Kurs
 
 > Product ID `34046` · Digistore24 productId `315812` · [HTML profile page](../../produkte/sch-ler-salze-therapie-hund-online-kurs-34046.html)

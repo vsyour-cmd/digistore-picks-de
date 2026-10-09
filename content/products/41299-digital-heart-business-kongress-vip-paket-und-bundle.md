@@ -1,3 +1,24 @@
+---
+product_id: "41299"
+digistore24_product_id: 458710
+title: "Digital Heart Business Kongress - VIP Paket und Bundle"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 113.74
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 11.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digitalheartbusiness.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.digitalheartbusiness.de/"
+language: "de"
+---
 # Digital Heart Business Kongress - VIP Paket und Bundle
 
 > Product ID `41299` · Digistore24 productId `458710` · [HTML profile page](../../produkte/digital-heart-business-kongress-vip-paket-und-bundle-41299.html)

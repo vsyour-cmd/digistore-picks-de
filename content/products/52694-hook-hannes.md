@@ -1,3 +1,24 @@
+---
+product_id: "52694"
+digistore24_product_id: 615995
+title: "Hook Hannes"
+vendor: "ReneAktivNetz"
+product_type: "Downloads"
+price: 6.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.55
+cart_conversion_pct: 11
+cancel_rate_pct: 5.03
+categories: ["Business & Investment","Marketing Services"]
+listed_since: "2025-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kischmiede.funnelcockpit.com/hook-hannes/?aff=adminstore#aff=adminstore"
+sales_page: "https://kischmiede.funnelcockpit.com/hook-hannes/"
+language: "de"
+---
 # Hook Hannes
 
 > Product ID `52694` · Digistore24 productId `615995` · [HTML profile page](../../produkte/hook-hannes-52694.html)

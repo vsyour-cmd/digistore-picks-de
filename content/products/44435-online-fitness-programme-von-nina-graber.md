@@ -1,3 +1,24 @@
+---
+product_id: "44435"
+digistore24_product_id: 497041
+title: "Online Fitness Programme von Nina Graber"
+vendor: "NinaundSusannevendor"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper?aff=adminstore#aff=adminstore"
+sales_page: "https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper"
+language: "de"
+---
 # Online Fitness Programme von Nina Graber
 
 > Product ID `44435` · Digistore24 productId `497041` · [HTML profile page](../../produkte/online-fitness-programme-von-nina-graber-44435.html)

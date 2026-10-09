@@ -1,3 +1,24 @@
+---
+product_id: "50880"
+digistore24_product_id: 525933
+title: "Muster-Vorlage Sponsoren-Anschreiben"
+vendor: "andreaswillcom"
+product_type: "Downloads"
+price: 13.15
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport","Marketing Services"]
+listed_since: "2023-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/525933?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/525933"
+language: "de"
+---
 # Muster-Vorlage Sponsoren-Anschreiben
 
 > Product ID `50880` · Digistore24 productId `525933` · [HTML profile page](../../produkte/muster-vorlage-sponsoren-anschreiben-50880.html)

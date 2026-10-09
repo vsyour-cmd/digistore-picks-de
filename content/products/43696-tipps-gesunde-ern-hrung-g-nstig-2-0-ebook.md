@@ -1,3 +1,24 @@
+---
+product_id: "43696"
+digistore24_product_id: 495370
+title: "Tipps gesunde Ernährung günstig 2.0 (EBook)"
+vendor: "RSMedicalWorldwide"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/495370?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/495370"
+language: "de"
+---
 # Tipps gesunde Ernährung günstig 2.0 (EBook)
 
 > Product ID `43696` · Digistore24 productId `495370` · [HTML profile page](../../produkte/tipps-gesunde-ern-hrung-g-nstig-2-0-ebook-43696.html)

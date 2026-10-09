@@ -1,3 +1,24 @@
+---
+product_id: "25517"
+digistore24_product_id: 230747
+title: "Flugfunkkurs AZF Online-Kurs (Live)"
+vendor: "Fluglehrer"
+product_type: "Online coaching"
+price: 240.78
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 16
+cancel_rate_pct: 0.97
+categories: ["Education"]
+listed_since: "2018-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e?aff=adminstore#aff=adminstore"
+sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e"
+language: "de"
+---
 # Flugfunkkurs AZF Online-Kurs (Live)
 
 > Product ID `25517` · Digistore24 productId `230747` · [HTML profile page](../../produkte/flugfunkkurs-azf-online-kurs-live-25517.html)

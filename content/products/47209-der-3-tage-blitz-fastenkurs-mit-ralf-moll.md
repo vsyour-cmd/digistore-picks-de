@@ -1,3 +1,24 @@
+---
+product_id: "47209"
+digistore24_product_id: 368229
+title: "Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll"
+vendor: "RalfMollFastensuppen"
+product_type: "Webinar"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 7.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage"
+language: "de"
+---
 # Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll
 
 > Product ID `47209` · Digistore24 productId `368229` · [HTML profile page](../../produkte/der-3-tage-blitz-fastenkurs-mit-ralf-moll-47209.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57686"
+digistore24_product_id: 711304
+title: "130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben"
+vendor: "Jafmar"
+product_type: "Seminar for business customers"
+price: 653.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 145.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://september.hypnose-erfolg.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://september.hypnose-erfolg.de/"
+language: "de"
+---
 # 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben
 
 > Product ID `57686` · Digistore24 productId `711304` · [HTML profile page](../../produkte/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html)

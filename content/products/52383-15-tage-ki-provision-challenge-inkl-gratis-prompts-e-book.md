@@ -1,3 +1,24 @@
+---
+product_id: "52383"
+digistore24_product_id: 611531
+title: "15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.72
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 3.14
+cart_conversion_pct: 19
+cancel_rate_pct: 0.65
+categories: ["Computer & Internet","Software"]
+listed_since: "2025-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/15-tage-ki-provision-challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/15-tage-ki-provision-challenge/"
+language: "de"
+---
 # 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)
 
 > Product ID `52383` · Digistore24 productId `611531` · [HTML profile page](../../produkte/15-tage-ki-provision-challenge-inkl-gratis-prompts-e-book-52383.html)

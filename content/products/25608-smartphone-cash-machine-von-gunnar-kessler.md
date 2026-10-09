@@ -1,3 +1,24 @@
+---
+product_id: "25608"
+digistore24_product_id: 230451
+title: "Smartphone Cash Machine - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 183.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 111.09
+cart_conversion_pct: 7
+cancel_rate_pct: 19.44
+categories: ["Online Marketing & E-Business"]
+listed_since: "2018-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyeschufterei.de/smartphone-cash-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/smartphone-cash-7500/"
+language: "de"
+---
 # Smartphone Cash Machine - von Gunnar Kessler
 
 > Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html)

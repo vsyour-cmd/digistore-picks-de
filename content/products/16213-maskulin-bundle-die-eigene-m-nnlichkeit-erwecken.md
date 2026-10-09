@@ -1,3 +1,24 @@
+---
+product_id: "16213"
+digistore24_product_id: 133177
+title: "Maskulin Bundle – Die eigene Männlichkeit erwecken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2017-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/maskulin-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/maskulin-bundle/"
+language: "de"
+---
 # Maskulin Bundle – Die eigene Männlichkeit erwecken
 
 > Product ID `16213` · Digistore24 productId `133177` · [HTML profile page](../../produkte/maskulin-bundle-die-eigene-m-nnlichkeit-erwecken-16213.html)

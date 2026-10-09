@@ -1,3 +1,24 @@
+---
+product_id: "41232"
+digistore24_product_id: 444619
+title: "Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)"
+vendor: "wielandstolzenburg"
+product_type: "Online coaching"
+price: 169.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 50.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare"
+language: "de"
+---
 # Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)
 
 > Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../produkte/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)

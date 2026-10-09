@@ -1,3 +1,24 @@
+---
+product_id: "57811"
+digistore24_product_id: 705800
+title: "RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/RootGuide/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/RootGuide/"
+language: "de"
+---
 # RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen
 
 > Product ID `57811` · Digistore24 productId `705800` · [HTML profile page](../../produkte/rootguide-pflanzen-und-d-nger-kompass-mit-pflanzabst-nden-57811.html)

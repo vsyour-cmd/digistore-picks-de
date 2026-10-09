@@ -1,3 +1,24 @@
+---
+product_id: "59327"
+digistore24_product_id: 733257
+title: "Nie wieder \"Ich überleg's mir\""
+vendor: "ManfredKloos"
+product_type: "Downloads"
+price: 53.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 21.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore"
+sales_page: "https://manfredkloos.de/call-scripte-fuer-coaches"
+language: "de"
+---
 # Nie wieder "Ich überleg's mir"
 
 > Product ID `59327` · Digistore24 productId `733257` · [HTML profile page](../../produkte/nie-wieder-ich-berleg-s-mir-59327.html)

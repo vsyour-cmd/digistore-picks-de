@@ -1,3 +1,24 @@
+---
+product_id: "57047"
+digistore24_product_id: 698923
+title: "75% Prov | Higher Self Audios + Buch (€39)"
+vendor: "Nico1999"
+product_type: "Downloads"
+price: 131.6
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 98.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://de.highersync.com?aff=adminstore#aff=adminstore"
+sales_page: "https://de.highersync.com"
+language: "de"
+---
 # 75% Prov | Higher Self Audios + Buch (€39)
 
 > Product ID `57047` · Digistore24 productId `698923` · [HTML profile page](../../produkte/75-prov-higher-self-audios-buch-39-57047.html)

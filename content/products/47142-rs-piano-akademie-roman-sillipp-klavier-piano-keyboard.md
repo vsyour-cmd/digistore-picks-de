@@ -1,3 +1,24 @@
+---
+product_id: "47142"
+digistore24_product_id: 604618
+title: "RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)"
+vendor: "Roman_Sillipp"
+product_type: "Member area and video courses"
+price: 1308.48
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 654.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Fun & Games","Profession & Job"]
+listed_since: "2025-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://romansillipp.com/mitgliederbereich/kursvorstellung/kurs-a-grundlagenkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://romansillipp.com/mitgliederbereich/kursvorstellung/kurs-a-grundlagenkurs/"
+language: "de"
+---
 # RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)
 
 > Product ID `47142` · Digistore24 productId `604618` · [HTML profile page](../../produkte/rs-piano-akademie-roman-sillipp-klavier-piano-keyboard-47142.html)

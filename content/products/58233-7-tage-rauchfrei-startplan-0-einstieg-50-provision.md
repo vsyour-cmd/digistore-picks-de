@@ -1,3 +1,24 @@
+---
+product_id: "58233"
+digistore24_product_id: 717823
+title: "7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 184.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/7-tage-rauchfrei-startplan?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/7-tage-rauchfrei-startplan"
+language: "de"
+---
 # 7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision
 
 > Product ID `58233` · Digistore24 productId `717823` · [HTML profile page](../../produkte/7-tage-rauchfrei-startplan-0-einstieg-50-provision-58233.html)

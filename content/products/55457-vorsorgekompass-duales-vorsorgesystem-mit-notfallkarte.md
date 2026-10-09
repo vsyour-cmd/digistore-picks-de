@@ -1,3 +1,24 @@
+---
+product_id: "55457"
+digistore24_product_id: 662995
+title: "Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte"
+vendor: "Erinnerungsbotschafter"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 14.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-01-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore"
+sales_page: "https://erinnerungswerk.com/index.php?page_id=3581"
+language: "de"
+---
 # Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte
 
 > Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../produkte/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)

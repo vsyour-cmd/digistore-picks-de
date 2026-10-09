@@ -1,3 +1,24 @@
+---
+product_id: "55695"
+digistore24_product_id: 641364
+title: "SalesPage Masterclass"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 131.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.26
+cart_conversion_pct: 8
+cancel_rate_pct: 1.82
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/spmc/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/spmc/"
+language: "de"
+---
 # SalesPage Masterclass
 
 > Product ID `55695` · Digistore24 productId `641364` · [HTML profile page](../../produkte/salespage-masterclass-55695.html)

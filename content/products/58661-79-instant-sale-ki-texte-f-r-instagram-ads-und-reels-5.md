@@ -1,3 +1,24 @@
+---
+product_id: "58661"
+digistore24_product_id: 725148
+title: "79 € Instant-Sale: KI-Texte für Instagram, Ads und Reels – 5"
+vendor: "Vali_572"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Marketing Services"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://app.fit-fuel.at/content?aff=adminstore#aff=adminstore"
+sales_page: "https://app.fit-fuel.at/content"
+language: "de"
+---
 # 79 € Instant-Sale: KI-Texte für Instagram, Ads und Reels – 5
 
 > Product ID `58661` · Digistore24 productId `725148` · [HTML profile page](../../produkte/79-instant-sale-ki-texte-f-r-instagram-ads-und-reels-5-58661.html)

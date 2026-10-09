@@ -1,3 +1,24 @@
+---
+product_id: "16189"
+digistore24_product_id: 116833
+title: "Sleep Bundle – Schnell einschlafen und gesund durchschlafen"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Health & Fitness"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/sleep-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/sleep-bundle/"
+language: "de"
+---
 # Sleep Bundle – Schnell einschlafen und gesund durchschlafen
 
 > Product ID `16189` · Digistore24 productId `116833` · [HTML profile page](../../produkte/sleep-bundle-schnell-einschlafen-und-gesund-durchschlafen-16189.html)

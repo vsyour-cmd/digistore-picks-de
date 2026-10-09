@@ -1,3 +1,24 @@
+---
+product_id: "49779"
+digistore24_product_id: 572430
+title: "Rotweiler mit Muskeln - T-Shirt Design 14x18"
+vendor: "DanGraf"
+product_type: "Downloads"
+price: 1.79
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 0.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion","Photography & Film","Survival"]
+listed_since: "2024-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/572430?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/572430"
+language: "de"
+---
 # Rotweiler mit Muskeln - T-Shirt Design 14x18
 
 > Product ID `49779` · Digistore24 productId `572430` · [HTML profile page](../../produkte/rotweiler-mit-muskeln-t-shirt-design-14x18-49779.html)

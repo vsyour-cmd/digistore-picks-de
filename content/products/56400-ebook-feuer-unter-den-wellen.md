@@ -1,3 +1,24 @@
+---
+product_id: "56400"
+digistore24_product_id: 689158
+title: "Ebook - Feuer unter den Wellen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Travel & Culture"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689158?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689158"
+language: "de"
+---
 # Ebook - Feuer unter den Wellen
 
 > Product ID `56400` · Digistore24 productId `689158` · [HTML profile page](../../produkte/ebook-feuer-unter-den-wellen-56400.html)

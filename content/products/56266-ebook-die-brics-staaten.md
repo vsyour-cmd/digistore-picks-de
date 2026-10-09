@@ -1,3 +1,24 @@
+---
+product_id: "56266"
+digistore24_product_id: 676439
+title: "Ebook - Die BRICS Staaten"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/676439?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/676439"
+language: "de"
+---
 # Ebook - Die BRICS Staaten
 
 > Product ID `56266` · Digistore24 productId `676439` · [HTML profile page](../../produkte/ebook-die-brics-staaten-56266.html)

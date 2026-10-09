@@ -1,3 +1,24 @@
+---
+product_id: "56655"
+digistore24_product_id: 694521
+title: "Wie KI unser Leben verlängert – Die Zukunft der Gesundheit"
+vendor: "PERSOFIT"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Health & Fitness"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694521?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694521"
+language: "de"
+---
 # Wie KI unser Leben verlängert – Die Zukunft der Gesundheit
 
 > Product ID `56655` · Digistore24 productId `694521` · [HTML profile page](../../produkte/wie-ki-unser-leben-verl-ngert-die-zukunft-der-gesundheit-56655.html)

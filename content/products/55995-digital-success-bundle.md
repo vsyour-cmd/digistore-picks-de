@@ -1,3 +1,24 @@
+---
+product_id: "55995"
+digistore24_product_id: 678291
+title: "Digital Success Bundle"
+vendor: "Freifone"
+product_type: "E-books"
+price: 172.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/digital-success-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/digital-success-bundle"
+language: "de"
+---
 # Digital Success Bundle
 
 > Product ID `55995` · Digistore24 productId `678291` · [HTML profile page](../../produkte/digital-success-bundle-55995.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48141"
+digistore24_product_id: 545452
+title: "[NEUES KOSTENLOSES BUCH] Charismatic Leadership"
+vendor: "AFMedia"
+product_type: "Book (printed)"
+price: 17.25
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3.94
+cart_conversion_pct: 16
+cancel_rate_pct: 2.98
+categories: ["Business & Investment","Profession & Job","Leadership & Management"]
+listed_since: "2024-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/545452/?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/545452/"
+language: "de"
+---
 # [NEUES KOSTENLOSES BUCH] Charismatic Leadership
 
 > Product ID `48141` · Digistore24 productId `545452` · [HTML profile page](../../produkte/neues-kostenloses-buch-charismatic-leadership-48141.html)

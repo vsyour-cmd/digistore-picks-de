@@ -1,3 +1,24 @@
+---
+product_id: "55851"
+digistore24_product_id: 672302
+title: "Affirmationskarten-Set für Mamas"
+vendor: "HolistischMama"
+product_type: "Downloads"
+price: 17.85
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://holistischmama.de/affirmationskarten/?aff=adminstore#aff=adminstore"
+sales_page: "https://holistischmama.de/affirmationskarten/"
+language: "de"
+---
 # Affirmationskarten-Set für Mamas
 
 > Product ID `55851` · Digistore24 productId `672302` · [HTML profile page](../../produkte/affirmationskarten-set-f-r-mamas-55851.html)

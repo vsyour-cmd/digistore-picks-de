@@ -1,3 +1,24 @@
+---
+product_id: "27218"
+digistore24_product_id: 241171
+title: "Premium Silent Subliminals – Positive Transformation"
+vendor: "OKsuccess"
+product_type: "Downloads"
+price: 38.01
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.04
+cart_conversion_pct: 3
+cancel_rate_pct: 0.26
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2018-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brainfood4you.com/home?aff=adminstore#aff=adminstore"
+sales_page: "https://brainfood4you.com/home"
+language: "de"
+---
 # Premium Silent Subliminals – Positive Transformation
 
 > Product ID `27218` · Digistore24 productId `241171` · [HTML profile page](../../produkte/premium-silent-subliminals-positive-transformation-27218.html)

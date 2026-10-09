@@ -1,3 +1,24 @@
+---
+product_id: "57701"
+digistore24_product_id: 702613
+title: "Mealody – Kochen nach Gefühl: Die emotionale Rezept-App ohne"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 12.13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/Mealody/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/Mealody/"
+language: "de"
+---
 # Mealody – Kochen nach Gefühl: Die emotionale Rezept-App ohne
 
 > Product ID `57701` · Digistore24 productId `702613` · [HTML profile page](../../produkte/mealody-kochen-nach-gef-hl-die-emotionale-rezept-app-ohne-57701.html)

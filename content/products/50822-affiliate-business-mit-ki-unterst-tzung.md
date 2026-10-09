@@ -1,3 +1,24 @@
+---
+product_id: "50822"
+digistore24_product_id: 582043
+title: "Affiliate-Business mit KI-Unterstützung"
+vendor: "ReneAktivNetz"
+product_type: "E-books"
+price: 0.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.33
+cart_conversion_pct: 44
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/?aff=adminstore#aff=adminstore"
+sales_page: "https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/"
+language: "de"
+---
 # Affiliate-Business mit KI-Unterstützung
 
 > Product ID `50822` · Digistore24 productId `582043` · [HTML profile page](../../produkte/affiliate-business-mit-ki-unterst-tzung-50822.html)

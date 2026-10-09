@@ -1,3 +1,24 @@
+---
+product_id: "57601"
+digistore24_product_id: 710319
+title: "Schlafen mit Abendklarheit – PDF-Workbook"
+vendor: "mathiaswalecki190574dc"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/710319?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710319"
+language: "de"
+---
 # Schlafen mit Abendklarheit – PDF-Workbook
 
 > Product ID `57601` · Digistore24 productId `710319` · [HTML profile page](../../produkte/schlafen-mit-abendklarheit-pdf-workbook-57601.html)

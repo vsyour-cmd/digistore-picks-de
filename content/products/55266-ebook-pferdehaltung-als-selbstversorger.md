@@ -1,3 +1,24 @@
+---
+product_id: "55266"
+digistore24_product_id: 662781
+title: "eBook: Pferdehaltung als Selbstversorger"
+vendor: "Dreihundertsechziggradpferd"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://360gradpferd.de/pferdehaltung-als-selbstversorger/?aff=adminstore#aff=adminstore"
+sales_page: "https://360gradpferd.de/pferdehaltung-als-selbstversorger/"
+language: "de"
+---
 # eBook: Pferdehaltung als Selbstversorger
 
 > Product ID `55266` · Digistore24 productId `662781` · [HTML profile page](../../produkte/ebook-pferdehaltung-als-selbstversorger-55266.html)

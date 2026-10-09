@@ -1,3 +1,24 @@
+---
+product_id: "54066"
+digistore24_product_id: 494109
+title: "Onlinekurse erstellen Workbook"
+vendor: "Jyotima"
+product_type: "E-books"
+price: 45.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.05
+cart_conversion_pct: 4
+cancel_rate_pct: 0.86
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://jyotimaflak.com/onlinekursturbo/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/onlinekursturbo/"
+language: "de"
+---
 # Onlinekurse erstellen Workbook
 
 > Product ID `54066` · Digistore24 productId `494109` · [HTML profile page](../../produkte/onlinekurse-erstellen-workbook-54066.html)

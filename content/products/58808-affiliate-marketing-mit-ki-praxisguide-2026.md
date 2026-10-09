@@ -1,3 +1,24 @@
+---
+product_id: "58808"
+digistore24_product_id: 549560
+title: "Affiliate Marketing mit KI – Praxisguide 2026"
+vendor: "HB1976"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/affiliate-marketing-mit-ki?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/affiliate-marketing-mit-ki"
+language: "de"
+---
 # Affiliate Marketing mit KI – Praxisguide 2026
 
 > Product ID `58808` · Digistore24 productId `549560` · [HTML profile page](../../produkte/affiliate-marketing-mit-ki-praxisguide-2026-58808.html)

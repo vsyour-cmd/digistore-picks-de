@@ -1,3 +1,24 @@
+---
+product_id: "58546"
+digistore24_product_id: 695090
+title: "Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie"
+vendor: "floriankirch83e8"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dasschichtsystem.de/stufe1.html?aff=adminstore#aff=adminstore"
+sales_page: "https://dasschichtsystem.de/stufe1.html"
+language: "de"
+---
 # Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie
 
 > Product ID `58546` · Digistore24 productId `695090` · [HTML profile page](../../produkte/starter-guide-f-r-schichtarbeiter-schlaf-ern-hrung-energie-58546.html)

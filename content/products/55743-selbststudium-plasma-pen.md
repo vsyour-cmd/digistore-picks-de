@@ -1,3 +1,24 @@
+---
+product_id: "55743"
+digistore24_product_id: 671939
+title: "Selbststudium Plasma pen"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 32.9
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671939?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671939"
+language: "de"
+---
 # Selbststudium Plasma pen
 
 > Product ID `55743` · Digistore24 productId `671939` · [HTML profile page](../../produkte/selbststudium-plasma-pen-55743.html)

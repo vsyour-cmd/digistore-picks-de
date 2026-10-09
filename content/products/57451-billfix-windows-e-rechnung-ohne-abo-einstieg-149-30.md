@@ -1,3 +1,24 @@
+---
+product_id: "57451"
+digistore24_product_id: 708969
+title: "Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30"
+vendor: "pelcita"
+product_type: "Software"
+price: 222.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 66.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Finances"]
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.headuphigh.de/billfix?aff=adminstore#aff=adminstore"
+sales_page: "https://www.headuphigh.de/billfix"
+language: "de"
+---
 # Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30
 
 > Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../produkte/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)

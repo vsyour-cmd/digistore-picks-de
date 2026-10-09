@@ -1,3 +1,24 @@
+---
+product_id: "45036"
+digistore24_product_id: 509481
+title: "Trading - Emotion Control von manitYou"
+vendor: "manitYou"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 16.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Finances"]
+listed_since: "2023-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/509481/adminstore"
+sales_page: "https://www.manityou.com/emotion-control/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Trading - Emotion Control von manitYou
 
 > Product ID `45036` · Digistore24 productId `509481` · [HTML profile page](../../produkte/trading-emotion-control-von-manityou-45036.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59389"
+digistore24_product_id: 733947
+title: "Mini-Produkt-Ideenbibliothek – Digitale Produktideen"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://einfachmitmatze.de/mini-produkte-canva/zusatzpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/mini-produkte-canva/zusatzpaket/"
+language: "de"
+---
 # Mini-Produkt-Ideenbibliothek – Digitale Produktideen
 
 > Product ID `59389` · Digistore24 productId `733947` · [HTML profile page](../../produkte/mini-produkt-ideenbibliothek-digitale-produktideen-59389.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53175"
+digistore24_product_id: 598121
+title: "Das Partnerprogramm der FreiLern-Academy"
+vendor: "SunnySteiner"
+product_type: "Member area and video courses"
+price: 159.8
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/598121?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/598121"
+language: "de"
+---
 # Das Partnerprogramm der FreiLern-Academy
 
 > Product ID `53175` · Digistore24 productId `598121` · [HTML profile page](../../produkte/das-partnerprogramm-der-freilern-academy-53175.html)

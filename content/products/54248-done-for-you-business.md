@@ -1,3 +1,24 @@
+---
+product_id: "54248"
+digistore24_product_id: 586859
+title: "Done-for-you-Business"
+vendor: "digitalesonlinebusiness"
+product_type: "Remote service provided electronically"
+price: 570.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 171.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2024-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/?aff=adminstore#aff=adminstore"
+sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/"
+language: "de"
+---
 # Done-for-you-Business
 
 > Product ID `54248` · Digistore24 productId `586859` · [HTML profile page](../../produkte/done-for-you-business-54248.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56056"
+digistore24_product_id: 679624
+title: "ICH PRÜFE — Das Entscheidungs-Workbook (eBook)"
+vendor: "EHCA888"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Profession & Job"]
+listed_since: "2026-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://me-time.club/ich-pruefe-workbook/?aff=adminstore#aff=adminstore"
+sales_page: "https://me-time.club/ich-pruefe-workbook/"
+language: "de"
+---
 # ICH PRÜFE — Das Entscheidungs-Workbook (eBook)
 
 > Product ID `56056` · Digistore24 productId `679624` · [HTML profile page](../../produkte/ich-pr-fe-das-entscheidungs-workbook-ebook-56056.html)

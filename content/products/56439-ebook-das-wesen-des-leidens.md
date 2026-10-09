@@ -1,3 +1,24 @@
+---
+product_id: "56439"
+digistore24_product_id: 689699
+title: "Ebook - Das Wesen des Leidens"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689699?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689699"
+language: "de"
+---
 # Ebook - Das Wesen des Leidens
 
 > Product ID `56439` · Digistore24 productId `689699` · [HTML profile page](../../produkte/ebook-das-wesen-des-leidens-56439.html)

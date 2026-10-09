@@ -1,3 +1,24 @@
+---
+product_id: "30240"
+digistore24_product_id: 283972
+title: "Instagram Secrets"
+vendor: "diarat"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 23
+cancel_rate_pct: 1.42
+categories: ["Social Media"]
+listed_since: "2019-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://instagramsecrets.de?aff=adminstore#aff=adminstore"
+sales_page: "https://instagramsecrets.de"
+language: "de"
+---
 # Instagram Secrets
 
 > Product ID `30240` · Digistore24 productId `283972` · [HTML profile page](../../produkte/instagram-secrets-30240.html)

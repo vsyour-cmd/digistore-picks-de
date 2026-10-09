@@ -1,3 +1,24 @@
+---
+product_id: "54689"
+digistore24_product_id: 628355
+title: "Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 139.89
+cart_conversion_pct: 7
+cancel_rate_pct: 0.74
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.aivataracademy.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aivataracademy.com/"
+language: "de"
+---
 # Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare
 
 > Product ID `54689` · Digistore24 productId `628355` · [HTML profile page](../../produkte/aivatar-academy-die-nr-1-community-f-r-premium-ki-avatare-54689.html)

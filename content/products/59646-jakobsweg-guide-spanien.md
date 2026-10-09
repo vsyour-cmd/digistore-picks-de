@@ -1,3 +1,24 @@
+---
+product_id: "59646"
+digistore24_product_id: 736807
+title: "Jakobsweg-Guide Spanien"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736807?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736807"
+language: "de"
+---
 # Jakobsweg-Guide Spanien
 
 > Product ID `59646` · Digistore24 productId `736807` · [HTML profile page](../../produkte/jakobsweg-guide-spanien-59646.html)

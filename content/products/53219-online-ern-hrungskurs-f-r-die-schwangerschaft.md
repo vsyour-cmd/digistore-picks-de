@@ -1,3 +1,24 @@
+---
+product_id: "53219"
+digistore24_product_id: 575283
+title: "Online Ernährungskurs für die Schwangerschaft"
+vendor: "gesunderwachsen"
+product_type: "Member area and video courses"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 42.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2024-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/575283?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/575283"
+language: "de"
+---
 # Online Ernährungskurs für die Schwangerschaft
 
 > Product ID `53219` · Digistore24 productId `575283` · [HTML profile page](../../produkte/online-ern-hrungskurs-f-r-die-schwangerschaft-53219.html)

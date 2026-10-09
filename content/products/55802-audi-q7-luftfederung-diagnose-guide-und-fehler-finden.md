@@ -1,3 +1,24 @@
+---
+product_id: "55802"
+digistore24_product_id: 673947
+title: "Audi Q7 Luftfederung Diagnose Guide und Fehler finden"
+vendor: "infod31e"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/673947?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/673947"
+language: "de"
+---
 # Audi Q7 Luftfederung Diagnose Guide und Fehler finden
 
 > Product ID `55802` · Digistore24 productId `673947` · [HTML profile page](../../produkte/audi-q7-luftfederung-diagnose-guide-und-fehler-finden-55802.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58704"
+digistore24_product_id: 721464
+title: "Emotionale Blockaden lösen – Mehr innere Freiheit"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/721464?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/721464"
+language: "de"
+---
 # Emotionale Blockaden lösen – Mehr innere Freiheit
 
 > Product ID `58704` · Digistore24 productId `721464` · [HTML profile page](../../produkte/emotionale-blockaden-l-sen-mehr-innere-freiheit-58704.html)

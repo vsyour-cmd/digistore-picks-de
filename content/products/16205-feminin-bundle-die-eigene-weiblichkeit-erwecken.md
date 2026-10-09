@@ -1,3 +1,24 @@
+---
+product_id: "16205"
+digistore24_product_id: 133189
+title: "Feminin Bundle – Die eigene Weiblichkeit erwecken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2017-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/feminin-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/feminin-bundle/"
+language: "de"
+---
 # Feminin Bundle – Die eigene Weiblichkeit erwecken
 
 > Product ID `16205` · Digistore24 productId `133189` · [HTML profile page](../../produkte/feminin-bundle-die-eigene-weiblichkeit-erwecken-16205.html)

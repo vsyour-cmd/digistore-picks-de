@@ -1,3 +1,24 @@
+---
+product_id: "51170"
+digistore24_product_id: 423370
+title: "Selbstgeführte Stadtrallye Würzburg | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 32.45
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.04
+cart_conversion_pct: 10
+cancel_rate_pct: 1
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-wuerzburg/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-wuerzburg/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Würzburg | Hint-Caching
 
 > Product ID `51170` · Digistore24 productId `423370` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-w-rzburg-hint-caching-51170.html)

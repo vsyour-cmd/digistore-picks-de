@@ -1,3 +1,24 @@
+---
+product_id: "56422"
+digistore24_product_id: 684851
+title: "Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch"
+vendor: "DrBlokesch"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/?aff=adminstore#aff=adminstore"
+sales_page: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/"
+language: "de"
+---
 # Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch
 
 > Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../produkte/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)

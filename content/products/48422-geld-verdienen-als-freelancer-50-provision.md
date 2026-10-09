@@ -1,3 +1,24 @@
+---
+product_id: "48422"
+digistore24_product_id: 557124
+title: "Geld verdienen als Freelancer - 50 % Provision"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliate-university.de/geld-verdienen-als-freelancer-digi?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliate-university.de/geld-verdienen-als-freelancer-digi"
+language: "de"
+---
 # Geld verdienen als Freelancer - 50 % Provision
 
 > Product ID `48422` · Digistore24 productId `557124` · [HTML profile page](../../produkte/geld-verdienen-als-freelancer-50-provision-48422.html)

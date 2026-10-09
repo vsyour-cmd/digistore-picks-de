@@ -1,3 +1,24 @@
+---
+product_id: "58785"
+digistore24_product_id: 692790
+title: "50 % Provision: Führungs-Playbook für HR und Führungskräfte"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 215.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 107.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692790?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692790"
+language: "de"
+---
 # 50 % Provision: Führungs-Playbook für HR und Führungskräfte
 
 > Product ID `58785` · Digistore24 productId `692790` · [HTML profile page](../../produkte/50-provision-f-hrungs-playbook-f-r-hr-und-f-hrungskr-fte-58785.html)

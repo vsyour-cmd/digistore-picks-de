@@ -1,3 +1,24 @@
+---
+product_id: "57312"
+digistore24_product_id: 692331
+title: "High-Converting Audio-Programm - Raus aus dem inneren Chaos"
+vendor: "Pia-Seelenwege"
+product_type: "Downloads"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692331?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692331"
+language: "de"
+---
 # High-Converting Audio-Programm - Raus aus dem inneren Chaos
 
 > Product ID `57312` · Digistore24 productId `692331` · [HTML profile page](../../produkte/high-converting-audio-programm-raus-aus-dem-inneren-chaos-57312.html)

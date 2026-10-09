@@ -1,3 +1,24 @@
+---
+product_id: "52495"
+digistore24_product_id: 603489
+title: "Easy Affiliate Income System – Der ideale Einstieg"
+vendor: "spacedigital"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://bestager-affiliate.de?aff=adminstore#aff=adminstore"
+sales_page: "https://bestager-affiliate.de"
+language: "de"
+---
 # Easy Affiliate Income System – Der ideale Einstieg
 
 > Product ID `52495` · Digistore24 productId `603489` · [HTML profile page](../../produkte/easy-affiliate-income-system-der-ideale-einstieg-52495.html)

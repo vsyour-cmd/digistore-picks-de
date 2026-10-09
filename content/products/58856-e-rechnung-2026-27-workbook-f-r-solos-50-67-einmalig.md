@@ -1,3 +1,24 @@
+---
+product_id: "58856"
+digistore24_product_id: 728311
+title: "E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 70.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 35.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://finanzamt-klar.pages.dev?aff=adminstore#aff=adminstore"
+sales_page: "https://finanzamt-klar.pages.dev"
+language: "de"
+---
 # E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig
 
 > Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../produkte/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)

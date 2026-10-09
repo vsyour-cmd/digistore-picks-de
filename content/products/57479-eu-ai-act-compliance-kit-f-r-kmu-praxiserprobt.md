@@ -1,3 +1,24 @@
+---
+product_id: "57479"
+digistore24_product_id: 679113
+title: "EU AI-Act Compliance Kit für KMU (Praxiserprobt)"
+vendor: "maila7bf"
+product_type: "Downloads"
+price: 1400.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 420.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/679113?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679113"
+language: "de"
+---
 # EU AI-Act Compliance Kit für KMU (Praxiserprobt)
 
 > Product ID `57479` · Digistore24 productId `679113` · [HTML profile page](../../produkte/eu-ai-act-compliance-kit-f-r-kmu-praxiserprobt-57479.html)

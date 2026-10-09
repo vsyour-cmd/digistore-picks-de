@@ -1,3 +1,24 @@
+---
+product_id: "54459"
+digistore24_product_id: 574381
+title: "Secret KI-Tools – 24 unbekannte KI-Gamechanger"
+vendor: "yugeen77"
+product_type: "E-books"
+price: 3.02
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.13
+cart_conversion_pct: 2
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://secretkitools.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://secretkitools.ygn-onlinemarketing.de/"
+language: "de"
+---
 # Secret KI-Tools – 24 unbekannte KI-Gamechanger
 
 > Product ID `54459` · Digistore24 productId `574381` · [HTML profile page](../../produkte/secret-ki-tools-24-unbekannte-ki-gamechanger-54459.html)

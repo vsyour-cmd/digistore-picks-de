@@ -1,3 +1,24 @@
+---
+product_id: "57406"
+digistore24_product_id: 706672
+title: "MiLoG-Wächter — 30% Provision für Excel-Zeiterfassung"
+vendor: "martinburr1a63"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706672?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706672"
+language: "de"
+---
 # MiLoG-Wächter — 30% Provision für Excel-Zeiterfassung
 
 > Product ID `57406` · Digistore24 productId `706672` · [HTML profile page](../../produkte/milog-w-chter-30-provision-f-r-excel-zeiterfassung-57406.html)

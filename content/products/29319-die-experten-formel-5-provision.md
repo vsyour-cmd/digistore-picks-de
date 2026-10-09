@@ -1,3 +1,24 @@
+---
+product_id: "29319"
+digistore24_product_id: 272694
+title: "Die Experten Formel: 5€ Provision"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 909.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 31.84
+cart_conversion_pct: 9
+cancel_rate_pct: 6.98
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/272694/adminstore"
+sales_page: "https://start.gruender.de/expertenformel/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # Die Experten Formel: 5€ Provision
 
 > Product ID `29319` · Digistore24 productId `272694` · [HTML profile page](../../produkte/die-experten-formel-5-provision-29319.html)

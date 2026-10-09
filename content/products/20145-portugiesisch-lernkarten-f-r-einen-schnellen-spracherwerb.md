@@ -1,3 +1,24 @@
+---
+product_id: "20145"
+digistore24_product_id: 175237
+title: "Portugiesisch Lernkarten für einen schnellen Spracherwerb"
+vendor: "weable"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2017-10-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://stuffdesk.de/portugiesisch-lernkarten-kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "http://stuffdesk.de/portugiesisch-lernkarten-kaufen/"
+language: "de"
+---
 # Portugiesisch Lernkarten für einen schnellen Spracherwerb
 
 > Product ID `20145` · Digistore24 productId `175237` · [HTML profile page](../../produkte/portugiesisch-lernkarten-f-r-einen-schnellen-spracherwerb-20145.html)

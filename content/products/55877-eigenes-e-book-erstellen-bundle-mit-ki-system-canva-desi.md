@@ -1,3 +1,24 @@
+---
+product_id: "55877"
+digistore24_product_id: 675824
+title: "Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi"
+vendor: "JennyKlh"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/"
+language: "de"
+---
 # Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi
 
 > Product ID `55877` · Digistore24 productId `675824` · [HTML profile page](../../produkte/eigenes-e-book-erstellen-bundle-mit-ki-system-canva-desi-55877.html)

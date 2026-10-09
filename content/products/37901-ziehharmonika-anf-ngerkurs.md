@@ -1,3 +1,24 @@
+---
+product_id: "37901"
+digistore24_product_id: 404226
+title: "Ziehharmonika Anfängerkurs"
+vendor: "harmonicademy"
+product_type: "Member area and video courses"
+price: 202.48
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 72.7
+cart_conversion_pct: 6
+cancel_rate_pct: 5.61
+categories: ["Dancing & Music"]
+listed_since: "2021-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.harmonicademy.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.harmonicademy.com"
+language: "de"
+---
 # Ziehharmonika Anfängerkurs
 
 > Product ID `37901` · Digistore24 productId `404226` · [HTML profile page](../../produkte/ziehharmonika-anf-ngerkurs-37901.html)

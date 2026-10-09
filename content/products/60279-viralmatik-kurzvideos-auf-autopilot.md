@@ -1,3 +1,24 @@
+---
+product_id: "60279"
+digistore24_product_id: 730765
+title: "Viralmatik – Kurzvideos auf Autopilot"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 46.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://viralmatik.com?aff=adminstore#aff=adminstore"
+sales_page: "https://viralmatik.com"
+language: "de"
+---
 # Viralmatik – Kurzvideos auf Autopilot
 
 > Product ID `60279` · Digistore24 productId `730765` · [HTML profile page](../../produkte/viralmatik-kurzvideos-auf-autopilot-60279.html)

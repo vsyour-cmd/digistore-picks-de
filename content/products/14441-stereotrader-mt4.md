@@ -1,3 +1,24 @@
+---
+product_id: "14441"
+digistore24_product_id: 86375
+title: "StereoTrader MT4"
+vendor: "StereoTrader"
+product_type: "Downloads"
+price: 333.29
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 238.87
+cart_conversion_pct: 5
+cancel_rate_pct: 3.37
+categories: ["Trading Products"]
+listed_since: "2016-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/86375?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/86375"
+language: "de"
+---
 # StereoTrader MT4
 
 > Product ID `14441` · Digistore24 productId `86375` · [HTML profile page](../../produkte/stereotrader-mt4-14441.html)

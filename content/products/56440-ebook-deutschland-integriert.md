@@ -1,3 +1,24 @@
+---
+product_id: "56440"
+digistore24_product_id: 689700
+title: "Ebook - Deutschland integriert?"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice","Politics & Economy"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689700?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689700"
+language: "de"
+---
 # Ebook - Deutschland integriert?
 
 > Product ID `56440` · Digistore24 productId `689700` · [HTML profile page](../../produkte/ebook-deutschland-integriert-56440.html)

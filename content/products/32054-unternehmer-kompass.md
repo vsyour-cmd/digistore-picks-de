@@ -1,3 +1,24 @@
+---
+product_id: "32054"
+digistore24_product_id: 303498
+title: "Unternehmer Kompass"
+vendor: "FischerAcademy"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 140.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass?aff=adminstore#aff=adminstore"
+sales_page: "https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass"
+language: "de"
+---
 # Unternehmer Kompass
 
 > Product ID `32054` · Digistore24 productId `303498` · [HTML profile page](../../produkte/unternehmer-kompass-32054.html)

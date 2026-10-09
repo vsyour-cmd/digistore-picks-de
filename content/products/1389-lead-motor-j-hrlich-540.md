@@ -1,3 +1,24 @@
+---
+product_id: "1389"
+digistore24_product_id: 10373
+title: "Lead-Motor jährlich - 540€"
+vendor: "LeadMotor"
+product_type: "Downloads"
+price: 604.04
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 211.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2012-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lead-motor.com/online-schulung/?aff=adminstore#aff=adminstore"
+sales_page: "https://lead-motor.com/online-schulung/"
+language: "de"
+---
 # Lead-Motor jährlich - 540€
 
 > Product ID `1389` · Digistore24 productId `10373` · [HTML profile page](../../produkte/lead-motor-j-hrlich-540-1389.html)

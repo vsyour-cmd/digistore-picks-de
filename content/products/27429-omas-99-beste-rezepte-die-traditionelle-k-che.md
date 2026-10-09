@@ -1,3 +1,24 @@
+---
+product_id: "27429"
+digistore24_product_id: 252890
+title: "Omas 99 beste Rezepte! Die traditionelle Küche"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 8.36
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2018-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/252890?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/252890"
+language: "de"
+---
 # Omas 99 beste Rezepte! Die traditionelle Küche
 
 > Product ID `27429` · Digistore24 productId `252890` · [HTML profile page](../../produkte/omas-99-beste-rezepte-die-traditionelle-k-che-27429.html)

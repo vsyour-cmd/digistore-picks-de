@@ -1,3 +1,24 @@
+---
+product_id: "58430"
+digistore24_product_id: 717908
+title: "Vermeider Komplett Bundle"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 109.67
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 32.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/vermeider/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/vermeider/"
+language: "de"
+---
 # Vermeider Komplett Bundle
 
 > Product ID `58430` · Digistore24 productId `717908` · [HTML profile page](../../produkte/vermeider-komplett-bundle-58430.html)

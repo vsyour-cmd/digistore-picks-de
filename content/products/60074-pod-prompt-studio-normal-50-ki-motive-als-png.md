@@ -1,3 +1,24 @@
+---
+product_id: "60074"
+digistore24_product_id: 737772
+title: "POD Prompt Studio – Normal 50: KI-Motive als PNG"
+vendor: "gowxsese"
+product_type: "Software"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 1.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://dein-wunschdesign.de?aff=adminstore#aff=adminstore"
+sales_page: "https://dein-wunschdesign.de"
+language: "de"
+---
 # POD Prompt Studio – Normal 50: KI-Motive als PNG
 
 > Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../produkte/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56821"
+digistore24_product_id: 697887
+title: "Profitable Salespages mit Claude"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 55.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/"
+language: "de"
+---
 # Profitable Salespages mit Claude
 
 > Product ID `56821` · Digistore24 productId `697887` · [HTML profile page](../../produkte/profitable-salespages-mit-claude-56821.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60111"
+digistore24_product_id: 635118
+title: "Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision"
+vendor: "Baerenschmausi"
+product_type: "Deliverable"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 10.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://baerenschmausi.de/adventskalender?aff=adminstore#aff=adminstore"
+sales_page: "https://baerenschmausi.de/adventskalender"
+language: "de"
+---
 # Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision
 
 > Product ID `60111` · Digistore24 productId `635118` · [HTML profile page](../../produkte/familien-adventskalender-ohne-s-igkeiten-24-gemeinsame-erlebnisse-25-provision-60111.html)

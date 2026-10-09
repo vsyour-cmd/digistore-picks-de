@@ -1,3 +1,24 @@
+---
+product_id: "55153"
+digistore24_product_id: 660251
+title: "Zeichenmaterial für realistisches Zeichnen"
+vendor: "SchmidtsZeichenwelt"
+product_type: "Downloads"
+price: 4.7
+currency: "USD"
+affiliate_commission_pct: 41
+earnings_per_sale: 1.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmidtszeichenwelt.de/bleistifte-zeichnen-material/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmidtszeichenwelt.de/bleistifte-zeichnen-material/"
+language: "de"
+---
 # Zeichenmaterial für realistisches Zeichnen
 
 > Product ID `55153` · Digistore24 productId `660251` · [HTML profile page](../../produkte/zeichenmaterial-f-r-realistisches-zeichnen-55153.html)

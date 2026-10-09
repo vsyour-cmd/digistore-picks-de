@@ -1,3 +1,24 @@
+---
+product_id: "49115"
+digistore24_product_id: 566325
+title: "MET Einsteigerkurs. Gesundheit und Glück in deinem Leben"
+vendor: "franke2met"
+product_type: "Online coaching"
+price: 188.92
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 27.57
+cart_conversion_pct: 5
+cancel_rate_pct: 18.09
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2024-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore"
+sales_page: "https://franke-akademie.de/klopfen-sie-sich-frei/"
+language: "de"
+---
 # MET Einsteigerkurs. Gesundheit und Glück in deinem Leben
 
 > Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../produkte/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)

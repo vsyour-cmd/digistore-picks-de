@@ -1,3 +1,24 @@
+---
+product_id: "52640"
+digistore24_product_id: 611742
+title: "Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr"
+vendor: "ReneAktivNetz"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Marketing Services"]
+listed_since: "2025-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/"
+language: "de"
+---
 # Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr
 
 > Product ID `52640` · Digistore24 productId `611742` · [HTML profile page](../../produkte/affiliate-kickstart-7-gpts-f-r-content-funnel-und-mehr-52640.html)

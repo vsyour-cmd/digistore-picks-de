@@ -1,3 +1,24 @@
+---
+product_id: "29257"
+digistore24_product_id: 294832
+title: "SHAPE YOUR DIAMOND"
+vendor: "InaHaskic"
+product_type: "Member area and video courses"
+price: 958.8
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 287.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://diamondangel.de/shape-your-diamond/?aff=adminstore#aff=adminstore"
+sales_page: "https://diamondangel.de/shape-your-diamond/"
+language: "de"
+---
 # SHAPE YOUR DIAMOND
 
 > Product ID `29257` · Digistore24 productId `294832` · [HTML profile page](../../produkte/shape-your-diamond-29257.html)

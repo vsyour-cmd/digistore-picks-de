@@ -1,3 +1,24 @@
+---
+product_id: "30521"
+digistore24_product_id: 284857
+title: "Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD"
+vendor: "bodyLIFE"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cmd-kiefer.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://cmd-kiefer.de/"
+language: "de"
+---
 # Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD
 
 > Product ID `30521` · Digistore24 productId `284857` · [HTML profile page](../../produkte/selbsthilfe-onlinekurs-bei-kieferschmerzen-und-cmd-30521.html)

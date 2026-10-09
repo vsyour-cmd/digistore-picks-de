@@ -1,3 +1,24 @@
+---
+product_id: "29808"
+digistore24_product_id: 239771
+title: "DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS"
+vendor: "autoimmunportal"
+product_type: "Member area and video courses"
+price: 60.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.43
+cart_conversion_pct: 25
+cancel_rate_pct: 3.29
+categories: ["Profession & Job"]
+listed_since: "2018-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.medumio.de/hashimotokongress/premium-zugang/?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.medumio.de/hashimotokongress/premium-zugang/"
+language: "de"
+---
 # DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS
 
 > Product ID `29808` · Digistore24 productId `239771` · [HTML profile page](../../produkte/der-kostenlose-hashimoto-onlinekongress-29808.html)

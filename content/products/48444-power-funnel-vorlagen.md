@@ -1,3 +1,24 @@
+---
+product_id: "48444"
+digistore24_product_id: 557337
+title: "Power Funnel Vorlagen"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 1.12
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 0.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/funnelvorlagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/funnelvorlagen/"
+language: "de"
+---
 # Power Funnel Vorlagen
 
 > Product ID `48444` · Digistore24 productId `557337` · [HTML profile page](../../produkte/power-funnel-vorlagen-48444.html)

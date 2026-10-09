@@ -1,3 +1,24 @@
+---
+product_id: "54971"
+digistore24_product_id: 651698
+title: "EBook \"Das PC-Buch / Tipps und Tricks eines PC-Supporters\""
+vendor: "Gismon"
+product_type: "Downloads"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.code3175.com/daspcbuch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.code3175.com/daspcbuch"
+language: "de"
+---
 # EBook "Das PC-Buch / Tipps und Tricks eines PC-Supporters"
 
 > Product ID `54971` · Digistore24 productId `651698` · [HTML profile page](../../produkte/ebook-das-pc-buch-tipps-und-tricks-eines-pc-supporters-54971.html)

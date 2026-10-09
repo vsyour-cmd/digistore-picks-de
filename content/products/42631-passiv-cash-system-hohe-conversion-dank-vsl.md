@@ -1,3 +1,24 @@
+---
+product_id: "42631"
+digistore24_product_id: 478252
+title: "Passiv Cash System - Hohe Conversion dank VSL"
+vendor: "Moneycashnow"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://passiv-cash.funnelcockpit.com/vsl/?aff=adminstore#aff=adminstore"
+sales_page: "https://passiv-cash.funnelcockpit.com/vsl/"
+language: "de"
+---
 # Passiv Cash System - Hohe Conversion dank VSL
 
 > Product ID `42631` · Digistore24 productId `478252` · [HTML profile page](../../produkte/passiv-cash-system-hohe-conversion-dank-vsl-42631.html)

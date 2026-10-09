@@ -1,3 +1,24 @@
+---
+product_id: "59691"
+digistore24_product_id: 728739
+title: "CalisReneX – Calisthenics Anfänger-Guide"
+vendor: "calisrenex"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728739?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728739"
+language: "de"
+---
 # CalisReneX – Calisthenics Anfänger-Guide
 
 > Product ID `59691` · Digistore24 productId `728739` · [HTML profile page](../../produkte/calisrenex-calisthenics-anf-nger-guide-59691.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58512"
+digistore24_product_id: 720842
+title: "Business & Marketing Strategie Planer – Canva Vorlage"
+vendor: "windelbuendel"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kleingewerbe.my.canva.site/landingpage-business-marketing?aff=adminstore#aff=adminstore"
+sales_page: "https://kleingewerbe.my.canva.site/landingpage-business-marketing"
+language: "de"
+---
 # Business & Marketing Strategie Planer – Canva Vorlage
 
 > Product ID `58512` · Digistore24 productId `720842` · [HTML profile page](../../produkte/business-marketing-strategie-planer-canva-vorlage-58512.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55916"
+digistore24_product_id: 674898
+title: "50 Prozent Provision: Das 27.000 Euro Salat-Business"
+vendor: "infob1d6"
+product_type: "Member area and video courses"
+price: 504.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 252.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Hobby & Craft","Home & Garden"]
+listed_since: "2026-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.salad-cashflow.de/50m2-matrix-neu?aff=adminstore#aff=adminstore"
+sales_page: "https://www.salad-cashflow.de/50m2-matrix-neu"
+language: "de"
+---
 # 50 Prozent Provision: Das 27.000 Euro Salat-Business
 
 > Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../produkte/50-prozent-provision-das-27-000-euro-salat-business-55916.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45651"
+digistore24_product_id: 409953
+title: "All Styles Single-Monat der Social Dancing Academy"
+vendor: "DadoIbrakovic"
+product_type: "Member area and video courses"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 14.28
+cart_conversion_pct: 21
+cancel_rate_pct: 3.5
+categories: ["Dancing & Music"]
+listed_since: "2021-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore"
+sales_page: "https://socialdancingacademy.com/single-monat"
+language: "de"
+---
 # All Styles Single-Monat der Social Dancing Academy
 
 > Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../produkte/all-styles-single-monat-der-social-dancing-academy-45651.html)

@@ -1,3 +1,24 @@
+---
+product_id: "34052"
+digistore24_product_id: 316159
+title: "Schüßler Salze für das Pferd"
+vendor: "FortunaAcademy"
+product_type: "Downloads"
+price: 28.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.fortuna-academy.de/pferd-schuessler-salze?aff=adminstore#aff=adminstore"
+sales_page: "http://www.fortuna-academy.de/pferd-schuessler-salze"
+language: "de"
+---
 # Schüßler Salze für das Pferd
 
 > Product ID `34052` · Digistore24 productId `316159` · [HTML profile page](../../produkte/sch-ler-salze-f-r-das-pferd-34052.html)

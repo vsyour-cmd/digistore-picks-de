@@ -1,3 +1,24 @@
+---
+product_id: "47354"
+digistore24_product_id: 541768
+title: "YouTube - 24/7 Geldmaschine"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 0.1
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 3
+cart_conversion_pct: 47
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-03-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/youtube-content-maschine/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/youtube-content-maschine/"
+language: "de"
+---
 # YouTube - 24/7 Geldmaschine
 
 > Product ID `47354` · Digistore24 productId `541768` · [HTML profile page](../../produkte/youtube-24-7-geldmaschine-47354.html)

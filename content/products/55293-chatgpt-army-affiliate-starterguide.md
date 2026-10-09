@@ -1,3 +1,24 @@
+---
+product_id: "55293"
+digistore24_product_id: 648277
+title: "ChatGPT ARMY – Affiliate Starterguide"
+vendor: "werni1"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 53
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download?aff=adminstore#aff=adminstore"
+sales_page: "https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download"
+language: "de"
+---
 # ChatGPT ARMY – Affiliate Starterguide
 
 > Product ID `55293` · Digistore24 productId `648277` · [HTML profile page](../../produkte/chatgpt-army-affiliate-starterguide-55293.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57285"
+digistore24_product_id: 704262
+title: "Closing ohne Druck"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sales Training"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/closing-ohne-druck?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/closing-ohne-druck"
+language: "de"
+---
 # Closing ohne Druck
 
 > Product ID `57285` · Digistore24 productId `704262` · [HTML profile page](../../produkte/closing-ohne-druck-57285.html)

@@ -1,3 +1,24 @@
+---
+product_id: "32305"
+digistore24_product_id: 314566
+title: "DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten"
+vendor: "opticlix"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kaninchenstallwelt.de/kaninchen-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://kaninchenstallwelt.de/kaninchen-e-book/"
+language: "de"
+---
 # DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten
 
 > Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../produkte/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)

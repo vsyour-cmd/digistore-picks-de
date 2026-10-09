@@ -1,3 +1,24 @@
+---
+product_id: "37034"
+digistore24_product_id: 353628
+title: "Soccerkinetics Fußballbuch"
+vendor: "Soccerkinetics"
+product_type: "Book (printed)"
+price: 9.04
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 29
+cancel_rate_pct: 0.17
+categories: ["Sport"]
+listed_since: "2020-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://soccerkinetics.de/buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://soccerkinetics.de/buch/"
+language: "de"
+---
 # Soccerkinetics Fußballbuch
 
 > Product ID `37034` · Digistore24 productId `353628` · [HTML profile page](../../produkte/soccerkinetics-fu-ballbuch-37034.html)

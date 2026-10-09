@@ -1,3 +1,24 @@
+---
+product_id: "42133"
+digistore24_product_id: 467934
+title: "Der ultimative FOREX Trading Kurs: Währungshandel von A-Z"
+vendor: "LebensfrohLLC"
+product_type: "Member area and video courses"
+price: 555.94
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 111.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2022-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://christophneuwirth.com/lp/der-ultimative-forex-trading-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://christophneuwirth.com/lp/der-ultimative-forex-trading-kurs/"
+language: "de"
+---
 # Der ultimative FOREX Trading Kurs: Währungshandel von A-Z
 
 > Product ID `42133` · Digistore24 productId `467934` · [HTML profile page](../../produkte/der-ultimative-forex-trading-kurs-w-hrungshandel-von-a-z-42133.html)

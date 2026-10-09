@@ -1,3 +1,24 @@
+---
+product_id: "53233"
+digistore24_product_id: 624928
+title: "High-Ticket E-Book mit 40 % Provision: Psychologie + Design"
+vendor: "JumbMedia-Store"
+product_type: "E-books"
+price: 167.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 67.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-07-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/624928?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/624928"
+language: "de"
+---
 # High-Ticket E-Book mit 40 % Provision: Psychologie + Design
 
 > Product ID `53233` · Digistore24 productId `624928` · [HTML profile page](../../produkte/high-ticket-e-book-mit-40-provision-psychologie-design-53233.html)

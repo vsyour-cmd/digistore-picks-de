@@ -1,3 +1,24 @@
+---
+product_id: "30189"
+digistore24_product_id: 270885
+title: "Die Büro-Kaizen Akademie"
+vendor: "buero-kaizen"
+product_type: "Member area and video courses"
+price: 1285.35
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 86.17
+cart_conversion_pct: 9
+cancel_rate_pct: 6.83
+categories: ["Profession & Job"]
+listed_since: "2019-05-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/270885/adminstore"
+sales_page: "https://www.buero-kaizen.de/buerokaizenakademie/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Die Büro-Kaizen Akademie
 
 > Product ID `30189` · Digistore24 productId `270885` · [HTML profile page](../../produkte/die-b-ro-kaizen-akademie-30189.html)

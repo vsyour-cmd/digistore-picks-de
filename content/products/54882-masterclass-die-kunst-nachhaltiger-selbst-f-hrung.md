@@ -1,3 +1,24 @@
+---
+product_id: "54882"
+digistore24_product_id: 650117
+title: "Masterclass „Die Kunst nachhaltiger (Selbst)Führung“"
+vendor: "DariusGoetsch"
+product_type: "Member area and video courses"
+price: 234.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 93.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2025-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wald-fuehrung.de/masterclass-d?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wald-fuehrung.de/masterclass-d"
+language: "de"
+---
 # Masterclass „Die Kunst nachhaltiger (Selbst)Führung“
 
 > Product ID `54882` · Digistore24 productId `650117` · [HTML profile page](../../produkte/masterclass-die-kunst-nachhaltiger-selbst-f-hrung-54882.html)

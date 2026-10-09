@@ -1,3 +1,24 @@
+---
+product_id: "58748"
+digistore24_product_id: 726248
+title: "Selbstwertgefühl stärken"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726248?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726248"
+language: "de"
+---
 # Selbstwertgefühl stärken
 
 > Product ID `58748` · Digistore24 productId `726248` · [HTML profile page](../../produkte/selbstwertgef-hl-st-rken-58748.html)

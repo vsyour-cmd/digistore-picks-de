@@ -1,3 +1,24 @@
+---
+product_id: "42280"
+digistore24_product_id: 56109
+title: "Forex Trading Signale (Major + Minors)"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 451.2
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 43.85
+cart_conversion_pct: 7
+cancel_rate_pct: 11.14
+categories: ["Trading Products"]
+listed_since: "2015-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.kagels-trading.de/forex-signale?aff=adminstore#aff=adminstore"
+sales_page: "http://www.kagels-trading.de/forex-signale"
+language: "de"
+---
 # Forex Trading Signale (Major + Minors)
 
 > Product ID `42280` · Digistore24 productId `56109` · [HTML profile page](../../produkte/forex-trading-signale-major-minors-42280.html)

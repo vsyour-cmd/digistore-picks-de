@@ -1,3 +1,24 @@
+---
+product_id: "8619"
+digistore24_product_id: 58279
+title: "Zauberkurs für Kids"
+vendor: "Magingo"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2015-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/?aff=adminstore#aff=adminstore"
+sales_page: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/"
+language: "de"
+---
 # Zauberkurs für Kids
 
 > Product ID `8619` · Digistore24 productId `58279` · [HTML profile page](../../produkte/zauberkurs-f-r-kids-8619.html)

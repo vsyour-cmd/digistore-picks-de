@@ -1,3 +1,24 @@
+---
+product_id: "55239"
+digistore24_product_id: 659667
+title: "Brandschutzsystem für BSB / FaSi / Makler | 25% Provision"
+vendor: "HuggerRiskConsulting"
+product_type: "Downloads"
+price: 845.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 211.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Project Management"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hurico.de/brandschutz-manager-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://hurico.de/brandschutz-manager-system/"
+language: "de"
+---
 # Brandschutzsystem für BSB / FaSi / Makler | 25% Provision
 
 > Product ID `55239` · Digistore24 productId `659667` · [HTML profile page](../../produkte/brandschutzsystem-f-r-bsb-fasi-makler-25-provision-55239.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59077"
+digistore24_product_id: 730924
+title: "SKIN RESET Hautpflege verstehen Routine richtig aufbauen"
+vendor: "sinamir"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/730924?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730924"
+language: "de"
+---
 # SKIN RESET Hautpflege verstehen Routine richtig aufbauen
 
 > Product ID `59077` · Digistore24 productId `730924` · [HTML profile page](../../produkte/skin-reset-hautpflege-verstehen-routine-richtig-aufbauen-59077.html)

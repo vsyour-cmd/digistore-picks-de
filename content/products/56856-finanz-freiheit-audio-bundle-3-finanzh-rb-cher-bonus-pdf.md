@@ -1,3 +1,24 @@
+---
+product_id: "56856"
+digistore24_product_id: 699174
+title: "Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF"
+vendor: "AureliusKaneAudio75b1"
+product_type: "Audio book (download)"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Personal Development"]
+listed_since: "2026-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/699174?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/699174"
+language: "de"
+---
 # Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF
 
 > Product ID `56856` · Digistore24 productId `699174` · [HTML profile page](../../produkte/finanz-freiheit-audio-bundle-3-finanzh-rb-cher-bonus-pdf-56856.html)

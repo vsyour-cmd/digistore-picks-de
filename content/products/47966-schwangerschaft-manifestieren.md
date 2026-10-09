@@ -1,3 +1,24 @@
+---
+product_id: "47966"
+digistore24_product_id: 549121
+title: "Schwangerschaft manifestieren"
+vendor: "StephanieCekon"
+product_type: "Downloads"
+price: 51.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development"]
+listed_since: "2024-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kinderwunsch.stephaniecekon.com/motherhood-manifestation?aff=adminstore#aff=adminstore"
+sales_page: "https://kinderwunsch.stephaniecekon.com/motherhood-manifestation"
+language: "de"
+---
 # Schwangerschaft manifestieren
 
 > Product ID `47966` · Digistore24 productId `549121` · [HTML profile page](../../produkte/schwangerschaft-manifestieren-47966.html)

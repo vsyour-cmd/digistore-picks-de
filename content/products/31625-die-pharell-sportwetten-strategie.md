@@ -1,3 +1,24 @@
+---
+product_id: "31625"
+digistore24_product_id: 301360
+title: "Die Pharell Sportwetten Strategie"
+vendor: "Pharell"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2019-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://flopharell.com/onlinekurse/sportwetten?aff=adminstore#aff=adminstore"
+sales_page: "https://flopharell.com/onlinekurse/sportwetten"
+language: "de"
+---
 # Die Pharell Sportwetten Strategie
 
 > Product ID `31625` · Digistore24 productId `301360` · [HTML profile page](../../produkte/die-pharell-sportwetten-strategie-31625.html)

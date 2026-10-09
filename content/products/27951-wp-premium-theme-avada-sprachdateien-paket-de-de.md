@@ -1,3 +1,24 @@
+---
+product_id: "27951"
+digistore24_product_id: 252172
+title: "WP-Premium Theme - AVADA - Sprachdateien Paket de_De"
+vendor: "rfinke"
+product_type: "Downloads"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2018-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://optimize-speech.de/wp-theme-avada-in-deutsch/?aff=adminstore#aff=adminstore"
+sales_page: "https://optimize-speech.de/wp-theme-avada-in-deutsch/"
+language: "de"
+---
 # WP-Premium Theme - AVADA - Sprachdateien Paket de_De
 
 > Product ID `27951` · Digistore24 productId `252172` · [HTML profile page](../../produkte/wp-premium-theme-avada-sprachdateien-paket-de-de-27951.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55926"
+digistore24_product_id: 674609
+title: "KI Prompts für Social Media"
+vendor: "Siegertools"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 59
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2026-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-prompts-social.frankplewan.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-prompts-social.frankplewan.de/"
+language: "de"
+---
 # KI Prompts für Social Media
 
 > Product ID `55926` · Digistore24 productId `674609` · [HTML profile page](../../produkte/ki-prompts-f-r-social-media-55926.html)

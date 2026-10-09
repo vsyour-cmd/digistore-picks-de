@@ -1,3 +1,24 @@
+---
+product_id: "58685"
+digistore24_product_id: 719130
+title: "Sunny’s Keto Academy – Dein Keto Starter Guide"
+vendor: "nadinesunny"
+product_type: "E-books"
+price: 67.95
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 47.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/719130?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719130"
+language: "de"
+---
 # Sunny’s Keto Academy – Dein Keto Starter Guide
 
 > Product ID `58685` · Digistore24 productId `719130` · [HTML profile page](../../produkte/sunny-s-keto-academy-dein-keto-starter-guide-58685.html)

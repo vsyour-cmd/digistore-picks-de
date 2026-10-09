@@ -1,3 +1,24 @@
+---
+product_id: "58876"
+digistore24_product_id: 727344
+title: "Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden"
+vendor: "olasmartness90fa"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727344?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727344"
+language: "de"
+---
 # Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden
 
 > Product ID `58876` · Digistore24 productId `727344` · [HTML profile page](../../produkte/mit-herz-pflegen-ein-praktischer-und-emotionaler-leitfaden-58876.html)

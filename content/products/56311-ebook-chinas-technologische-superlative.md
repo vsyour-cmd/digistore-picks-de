@@ -1,3 +1,24 @@
+---
+product_id: "56311"
+digistore24_product_id: 685696
+title: "Ebook - Chinas technologische Superlative"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 5.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Politics & Economy"]
+listed_since: "2026-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685696?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685696"
+language: "de"
+---
 # Ebook - Chinas technologische Superlative
 
 > Product ID `56311` · Digistore24 productId `685696` · [HTML profile page](../../produkte/ebook-chinas-technologische-superlative-56311.html)

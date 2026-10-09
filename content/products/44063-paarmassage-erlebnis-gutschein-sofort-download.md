@@ -1,3 +1,24 @@
+---
+product_id: "44063"
+digistore24_product_id: 460409
+title: "Paarmassage Erlebnis-Gutschein (Sofort-Download)"
+vendor: "magoody"
+product_type: "Downloads"
+price: 58.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 27.6
+cart_conversion_pct: 10
+cancel_rate_pct: 1.73
+categories: ["Health & Fitness"]
+listed_since: "2022-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://magoody.de/"
+language: "de"
+---
 # Paarmassage Erlebnis-Gutschein (Sofort-Download)
 
 > Product ID `44063` · Digistore24 productId `460409` · [HTML profile page](../../produkte/paarmassage-erlebnis-gutschein-sofort-download-44063.html)

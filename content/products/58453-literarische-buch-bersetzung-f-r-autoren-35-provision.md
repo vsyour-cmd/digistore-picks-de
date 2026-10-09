@@ -1,3 +1,24 @@
+---
+product_id: "58453"
+digistore24_product_id: 721720
+title: "Literarische Buchübersetzung für Autoren | 35% Provision"
+vendor: "literaxis"
+product_type: "Remote service provided electronically"
+price: 96.41
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 33.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore"
+sales_page: "https://literaxis.com/de/pricing"
+language: "de"
+---
 # Literarische Buchübersetzung für Autoren | 35% Provision
 
 > Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../produkte/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)

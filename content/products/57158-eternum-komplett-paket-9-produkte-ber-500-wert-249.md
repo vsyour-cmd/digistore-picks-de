@@ -1,3 +1,24 @@
+---
+product_id: "57158"
+digistore24_product_id: 706619
+title: "ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €"
+vendor: "megareichtum"
+product_type: "Member area and video courses"
+price: 234.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 140.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eternumtech.eu/komplett-paket?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/komplett-paket"
+language: "de"
+---
 # ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €
 
 > Product ID `57158` · Digistore24 productId `706619` · [HTML profile page](../../produkte/eternum-komplett-paket-9-produkte-ber-500-wert-249-57158.html)

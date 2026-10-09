@@ -1,3 +1,24 @@
+---
+product_id: "30906"
+digistore24_product_id: 298769
+title: "US-Firmengründung speziell für Tax-Lien-Investoren"
+vendor: "floridagb"
+product_type: "Remote service provided electronically"
+price: 2796.5
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 699.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2019-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.florida-grundbesitz.com/firma/tax-lien/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.florida-grundbesitz.com/firma/tax-lien/"
+language: "de"
+---
 # US-Firmengründung speziell für Tax-Lien-Investoren
 
 > Product ID `30906` · Digistore24 productId `298769` · [HTML profile page](../../produkte/us-firmengr-ndung-speziell-f-r-tax-lien-investoren-30906.html)

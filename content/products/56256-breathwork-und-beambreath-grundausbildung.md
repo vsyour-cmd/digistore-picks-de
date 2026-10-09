@@ -1,3 +1,24 @@
+---
+product_id: "56256"
+digistore24_product_id: 552698
+title: "Breathwork und Beambreath Grundausbildung"
+vendor: "BeamdreamBreathworks"
+product_type: "Member area and video courses"
+price: 1177.82
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 172.29
+cart_conversion_pct: 17
+cancel_rate_pct: 2.7
+categories: ["Personal Development"]
+listed_since: "2024-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beamdream.com/breathwork-teacher-training?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beamdream.com/breathwork-teacher-training"
+language: "de"
+---
 # Breathwork und Beambreath Grundausbildung
 
 > Product ID `56256` · Digistore24 productId `552698` · [HTML profile page](../../produkte/breathwork-und-beambreath-grundausbildung-56256.html)

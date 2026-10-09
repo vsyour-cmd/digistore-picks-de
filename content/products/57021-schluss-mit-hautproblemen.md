@@ -1,3 +1,24 @@
+---
+product_id: "57021"
+digistore24_product_id: 702252
+title: "Schluss mit Hautproblemen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/schluss-mit-hautproblemen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/schluss-mit-hautproblemen"
+language: "de"
+---
 # Schluss mit Hautproblemen
 
 > Product ID `57021` · Digistore24 productId `702252` · [HTML profile page](../../produkte/schluss-mit-hautproblemen-57021.html)

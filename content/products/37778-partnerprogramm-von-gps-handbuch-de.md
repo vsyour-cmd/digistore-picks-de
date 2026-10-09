@@ -1,3 +1,24 @@
+---
+product_id: "37778"
+digistore24_product_id: 379427
+title: "Partnerprogramm von GPS-Handbuch.de"
+vendor: "Navigation-Professionell"
+product_type: "E-books"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.43
+cart_conversion_pct: 10
+cancel_rate_pct: 0.31
+categories: ["Hobby & Craft"]
+listed_since: "2021-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gps-handbuch.de/garmin-edge-1030-plus-ebook-anleitung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gps-handbuch.de/garmin-edge-1030-plus-ebook-anleitung/"
+language: "de"
+---
 # Partnerprogramm von GPS-Handbuch.de
 
 > Product ID `37778` · Digistore24 productId `379427` · [HTML profile page](../../produkte/partnerprogramm-von-gps-handbuch-de-37778.html)

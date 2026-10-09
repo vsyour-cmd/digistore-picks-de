@@ -1,3 +1,24 @@
+---
+product_id: "56939"
+digistore24_product_id: 701368
+title: "So wirst du auf Reddit sichtbar"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-auf-reddit-sichtbar?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-auf-reddit-sichtbar"
+language: "de"
+---
 # So wirst du auf Reddit sichtbar
 
 > Product ID `56939` · Digistore24 productId `701368` · [HTML profile page](../../produkte/so-wirst-du-auf-reddit-sichtbar-56939.html)

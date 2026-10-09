@@ -1,3 +1,24 @@
+---
+product_id: "57182"
+digistore24_product_id: 701940
+title: "Ist er/sie der/die Richtige?"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/ist-er-sie-der-richtige?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/ist-er-sie-der-richtige"
+language: "de"
+---
 # Ist er/sie der/die Richtige?
 
 > Product ID `57182` · Digistore24 productId `701940` · [HTML profile page](../../produkte/ist-er-sie-der-die-richtige-57182.html)

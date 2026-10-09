@@ -1,3 +1,24 @@
+---
+product_id: "57843"
+digistore24_product_id: 714561
+title: "Das 7-Tage-Hautcheck-Workbook"
+vendor: "info606c"
+product_type: "E-books"
+price: 8.36
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Skin Care"]
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jennifer-kemper.de/Das-Workbook/hautsystem-in-dein-7-tage-hautcheck-als-workbook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jennifer-kemper.de/Das-Workbook/hautsystem-in-dein-7-tage-hautcheck-als-workbook"
+language: "de"
+---
 # Das 7-Tage-Hautcheck-Workbook
 
 > Product ID `57843` · Digistore24 productId `714561` · [HTML profile page](../../produkte/das-7-tage-hautcheck-workbook-57843.html)

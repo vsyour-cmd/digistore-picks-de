@@ -1,3 +1,24 @@
+---
+product_id: "46082"
+digistore24_product_id: 524001
+title: "Der Lead-Magnet Architekt"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-schlinder.com/Lead-Magnet-Architekt?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Lead-Magnet-Architekt"
+language: "de"
+---
 # Der Lead-Magnet Architekt
 
 > Product ID `46082` · Digistore24 productId `524001` · [HTML profile page](../../produkte/der-lead-magnet-architekt-46082.html)

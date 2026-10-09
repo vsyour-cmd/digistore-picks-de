@@ -1,3 +1,24 @@
+---
+product_id: "56905"
+digistore24_product_id: 698004
+title: "Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete"
+vendor: "itsagoodlife365"
+product_type: "Member area and video courses"
+price: 61.05
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 45.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://book2profit.affilihub.de?aff=adminstore#aff=adminstore"
+sales_page: "https://book2profit.affilihub.de"
+language: "de"
+---
 # Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete
 
 > Product ID `56905` · Digistore24 productId `698004` · [HTML profile page](../../produkte/book2profit-ki-plattform-f-r-digitale-e-books-leadmagnete-56905.html)

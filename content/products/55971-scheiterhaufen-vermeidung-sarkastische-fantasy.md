@@ -1,3 +1,24 @@
+---
+product_id: "55971"
+digistore24_product_id: 677805
+title: "Scheiterhaufen‑Vermeidung – Sarkastische Fantasy"
+vendor: "JoeNoctis"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 6.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games"]
+listed_since: "2026-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/677805?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/677805"
+language: "de"
+---
 # Scheiterhaufen‑Vermeidung – Sarkastische Fantasy
 
 > Product ID `55971` · Digistore24 productId `677805` · [HTML profile page](../../produkte/scheiterhaufen-vermeidung-sarkastische-fantasy-55971.html)

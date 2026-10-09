@@ -1,3 +1,24 @@
+---
+product_id: "53873"
+digistore24_product_id: 626900
+title: "THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter"
+vendor: "ThomasYoung"
+product_type: "Member area and video courses"
+price: 658.14
+currency: "USD"
+affiliate_commission_pct: 18
+earnings_per_sale: 260.99
+cart_conversion_pct: 25
+cancel_rate_pct: 4.57
+categories: ["Spiri­tua­lity & Esotericism","Marketing Services"]
+listed_since: "2025-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thomasyoung.online/love?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thomasyoung.online/love"
+language: "de"
+---
 # THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter
 
 > Product ID `53873` · Digistore24 productId `626900` · [HTML profile page](../../produkte/the-power-of-love-i-der-heilige-pfad-der-13-clanm-tter-53873.html)

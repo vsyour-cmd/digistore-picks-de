@@ -1,3 +1,24 @@
+---
+product_id: "55622"
+digistore24_product_id: 563358
+title: "Verschenke E-Book und verdiene 50% am Upsell Funnel mit"
+vendor: "MSFS_2218"
+product_type: "E-books"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.79
+cart_conversion_pct: 36
+cancel_rate_pct: 0.11
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2024-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/die-macht-der-bilder/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/die-macht-der-bilder/"
+language: "de"
+---
 # Verschenke E-Book und verdiene 50% am Upsell Funnel mit
 
 > Product ID `55622` · Digistore24 productId `563358` · [HTML profile page](../../produkte/verschenke-e-book-und-verdiene-50-am-upsell-funnel-mit-55622.html)

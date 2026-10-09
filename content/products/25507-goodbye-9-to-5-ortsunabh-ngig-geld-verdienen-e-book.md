@@ -1,3 +1,24 @@
+---
+product_id: "25507"
+digistore24_product_id: 159259
+title: "Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
+listed_since: "2017-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/"
+language: "de"
+---
 # Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book]
 
 > Product ID `25507` · Digistore24 productId `159259` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-geld-verdienen-e-book-25507.html)

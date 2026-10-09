@@ -1,3 +1,24 @@
+---
+product_id: "57478"
+digistore24_product_id: 710042
+title: "Videokurs (Marketing-funnel inkl. Landingpage)"
+vendor: "worldxpb"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/710042?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710042"
+language: "de"
+---
 # Videokurs (Marketing-funnel inkl. Landingpage)
 
 > Product ID `57478` · Digistore24 productId `710042` · [HTML profile page](../../produkte/videokurs-marketing-funnel-inkl-landingpage-57478.html)

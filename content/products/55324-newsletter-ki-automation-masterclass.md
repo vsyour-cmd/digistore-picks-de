@@ -1,3 +1,24 @@
+---
+product_id: "55324"
+digistore24_product_id: 663491
+title: "Newsletter KI-Automation Masterclass"
+vendor: "CleverMangos"
+product_type: "Member area and video courses"
+price: 1365.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 546.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/663491?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/663491"
+language: "de"
+---
 # Newsletter KI-Automation Masterclass
 
 > Product ID `55324` · Digistore24 productId `663491` · [HTML profile page](../../produkte/newsletter-ki-automation-masterclass-55324.html)

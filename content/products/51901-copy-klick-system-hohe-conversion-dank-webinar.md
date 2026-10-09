@@ -1,3 +1,24 @@
+---
+product_id: "51901"
+digistore24_product_id: 525408
+title: "Copy Klick System - Hohe Conversion dank Webinar"
+vendor: "Moneycashnow"
+product_type: "Member area and video courses"
+price: 417.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 208.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digitale-profis.com/webinar-eintragung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.digitale-profis.com/webinar-eintragung/"
+language: "de"
+---
 # Copy Klick System - Hohe Conversion dank Webinar
 
 > Product ID `51901` · Digistore24 productId `525408` · [HTML profile page](../../produkte/copy-klick-system-hohe-conversion-dank-webinar-51901.html)

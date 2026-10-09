@@ -1,3 +1,24 @@
+---
+product_id: "56996"
+digistore24_product_id: 701416
+title: "So wirst du sichtbar auf Clubhouse"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-sichtbar-auf-clubhouse?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-sichtbar-auf-clubhouse"
+language: "de"
+---
 # So wirst du sichtbar auf Clubhouse
 
 > Product ID `56996` · Digistore24 productId `701416` · [HTML profile page](../../produkte/so-wirst-du-sichtbar-auf-clubhouse-56996.html)

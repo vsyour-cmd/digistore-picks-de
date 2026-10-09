@@ -1,3 +1,24 @@
+---
+product_id: "60307"
+digistore24_product_id: 651351
+title: "RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer"
+vendor: "jennifersubke"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/651351?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/651351"
+language: "de"
+---
 # RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
 
 > Product ID `60307` · Digistore24 productId `651351` · [HTML profile page](../../produkte/ruhefunken-5-tage-heilsame-regulation-mit-jennifer-60307.html)

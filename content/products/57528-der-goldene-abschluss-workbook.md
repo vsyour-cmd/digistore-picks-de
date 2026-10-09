@@ -1,3 +1,24 @@
+---
+product_id: "57528"
+digistore24_product_id: 710657
+title: "Der Goldene Abschluss - Workbook"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Sales Training"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/landingpage-der-goldene-abschluss/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/landingpage-der-goldene-abschluss/"
+language: "de"
+---
 # Der Goldene Abschluss - Workbook
 
 > Product ID `57528` · Digistore24 productId `710657` · [HTML profile page](../../produkte/der-goldene-abschluss-workbook-57528.html)

@@ -1,3 +1,24 @@
+---
+product_id: "25594"
+digistore24_product_id: 52367
+title: "Das Herz eines Mannes erobern [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2015-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/beziehungsratgeber-buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/beziehungsratgeber-buch/"
+language: "de"
+---
 # Das Herz eines Mannes erobern [E-Book]
 
 > Product ID `25594` · Digistore24 productId `52367` · [HTML profile page](../../produkte/das-herz-eines-mannes-erobern-e-book-25594.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56506"
+digistore24_product_id: 682122
+title: "Selbstständig als Sicherheitsfachkraft"
+vendor: "Ullertec"
+product_type: "E-books"
+price: 73.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Marketing Services"]
+listed_since: "2026-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/682122?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/682122"
+language: "de"
+---
 # Selbstständig als Sicherheitsfachkraft
 
 > Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../produkte/selbstst-ndig-als-sicherheitsfachkraft-56506.html)

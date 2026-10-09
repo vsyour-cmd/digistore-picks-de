@@ -1,3 +1,24 @@
+---
+product_id: "58716"
+digistore24_product_id: 719716
+title: "Fußreflexzonenmassage"
+vendor: "Novaris_web"
+product_type: "E-books"
+price: 18.66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/reflex.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/reflex.php"
+language: "de"
+---
 # Fußreflexzonenmassage
 
 > Product ID `58716` · Digistore24 productId `719716` · [HTML profile page](../../produkte/fu-reflexzonenmassage-58716.html)

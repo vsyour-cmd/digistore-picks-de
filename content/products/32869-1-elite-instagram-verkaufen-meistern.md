@@ -1,3 +1,24 @@
+---
+product_id: "32869"
+digistore24_product_id: 353302
+title: "1% ELITE | Instagram - Verkaufen meistern"
+vendor: "moserda"
+product_type: "Member area and video courses"
+price: 35.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.82
+cart_conversion_pct: 8
+cancel_rate_pct: 1.22
+categories: ["Profession & Job"]
+listed_since: "2020-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einprozentclub.com/elite2024/?aff=adminstore#aff=adminstore"
+sales_page: "https://einprozentclub.com/elite2024/"
+language: "de"
+---
 # 1% ELITE | Instagram - Verkaufen meistern
 
 > Product ID `32869` · Digistore24 productId `353302` · [HTML profile page](../../produkte/1-elite-instagram-verkaufen-meistern-32869.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56765"
+digistore24_product_id: 697070
+title: "Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop"
+vendor: "Seelendank"
+product_type: "Downloads"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://angstfrei.shop/produkt/die-12-ruhe-anker/?aff=adminstore#aff=adminstore"
+sales_page: "https://angstfrei.shop/produkt/die-12-ruhe-anker/"
+language: "de"
+---
 # Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop
 
 > Product ID `56765` · Digistore24 productId `697070` · [HTML profile page](../../produkte/die-12-ruhe-anker-mp3-e-book-karten-angstfrei-shop-56765.html)

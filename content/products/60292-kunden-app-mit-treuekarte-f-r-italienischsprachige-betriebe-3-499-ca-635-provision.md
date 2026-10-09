@@ -1,3 +1,24 @@
+---
+product_id: "60292"
+digistore24_product_id: 741552
+title: "Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision"
+vendor: "massarocalogero19976adc"
+product_type: "Remote service provided electronically"
+price: 3913.98
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 782.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.direzionex.com/offerta/app?aff=adminstore#aff=adminstore"
+sales_page: "https://www.direzionex.com/offerta/app"
+language: "de"
+---
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
 > Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../produkte/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)

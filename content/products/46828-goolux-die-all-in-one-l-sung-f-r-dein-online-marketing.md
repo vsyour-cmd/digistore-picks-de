@@ -1,3 +1,24 @@
+---
+product_id: "46828"
+digistore24_product_id: 504837
+title: "Goolux - Die All In One Lösung für Dein Online Marketing"
+vendor: "dooplix"
+product_type: "Software"
+price: 528.83
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 57.65
+cart_conversion_pct: 18
+cancel_rate_pct: 1.97
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2023-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://goolux24.com?aff=adminstore#aff=adminstore"
+sales_page: "https://goolux24.com"
+language: "de"
+---
 # Goolux - Die All In One Lösung für Dein Online Marketing
 
 > Product ID `46828` · Digistore24 productId `504837` · [HTML profile page](../../produkte/goolux-die-all-in-one-l-sung-f-r-dein-online-marketing-46828.html)

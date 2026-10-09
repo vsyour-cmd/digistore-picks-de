@@ -1,3 +1,24 @@
+---
+product_id: "35866"
+digistore24_product_id: 462653
+title: "Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit"
+vendor: "RalfMollFastensuppen"
+product_type: "Online coaching"
+price: 43.44
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 6.13
+cart_conversion_pct: 13
+cancel_rate_pct: 1.35
+categories: ["Health & Fitness"]
+listed_since: "2022-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/"
+language: "de"
+---
 # Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit
 
 > Product ID `35866` · Digistore24 productId `462653` · [HTML profile page](../../produkte/ralf-molls-onlinekurse-f-r-fasten-abnehmen-gesundheit-35866.html)

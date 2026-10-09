@@ -1,3 +1,24 @@
+---
+product_id: "56845"
+digistore24_product_id: 699384
+title: "DBM - Dorn-Methode Basiswissen"
+vendor: "dornbreuss"
+product_type: "Member area and video courses"
+price: 133.38
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 93.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Marketing Services"]
+listed_since: "2026-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-methode-basiswissen-ep?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/dbm-dorn-methode-basiswissen-ep"
+language: "de"
+---
 # DBM - Dorn-Methode Basiswissen
 
 > Product ID `56845` · Digistore24 productId `699384` · [HTML profile page](../../produkte/dbm-dorn-methode-basiswissen-56845.html)

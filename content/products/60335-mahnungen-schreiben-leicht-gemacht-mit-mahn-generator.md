@@ -1,3 +1,24 @@
+---
+product_id: "60335"
+digistore24_product_id: 741652
+title: "Mahnungen schreiben leicht gemacht – mit Mahn-Generator"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Office Organization"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741652?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741652"
+language: "de"
+---
 # Mahnungen schreiben leicht gemacht – mit Mahn-Generator
 
 > Product ID `60335` · Digistore24 productId `741652` · [HTML profile page](../../produkte/mahnungen-schreiben-leicht-gemacht-mit-mahn-generator-60335.html)

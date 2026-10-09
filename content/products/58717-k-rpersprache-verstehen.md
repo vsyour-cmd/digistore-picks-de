@@ -1,3 +1,24 @@
+---
+product_id: "58717"
+digistore24_product_id: 725280
+title: "Körpersprache verstehen"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 16.87
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/koerpersprache.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/koerpersprache.php"
+language: "de"
+---
 # Körpersprache verstehen
 
 > Product ID `58717` · Digistore24 productId `725280` · [HTML profile page](../../produkte/k-rpersprache-verstehen-58717.html)

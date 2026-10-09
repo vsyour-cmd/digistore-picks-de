@@ -1,3 +1,24 @@
+---
+product_id: "44317"
+digistore24_product_id: 475313
+title: "Profit Buddies Cash Club (einmalig im DACH Raum) | Partnerpr"
+vendor: "profitbuddies"
+product_type: "Online coaching"
+price: 324.39
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 88.81
+cart_conversion_pct: 5
+cancel_rate_pct: 1.07
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2022-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.profitbuddies.de/cash-club?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profitbuddies.de/cash-club"
+language: "de"
+---
 # Profit Buddies Cash Club (einmalig im DACH Raum) | Partnerpr
 
 > Product ID `44317` · Digistore24 productId `475313` · [HTML profile page](../../produkte/profit-buddies-cash-club-einmalig-im-dach-raum-partnerpr-44317.html)

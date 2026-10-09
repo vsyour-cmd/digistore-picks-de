@@ -1,3 +1,24 @@
+---
+product_id: "58990"
+digistore24_product_id: 730789
+title: "Wenn sich alles verändert"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 37.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Leadership & Management"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730789?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730789"
+language: "de"
+---
 # Wenn sich alles verändert
 
 > Product ID `58990` · Digistore24 productId `730789` · [HTML profile page](../../produkte/wenn-sich-alles-ver-ndert-58990.html)

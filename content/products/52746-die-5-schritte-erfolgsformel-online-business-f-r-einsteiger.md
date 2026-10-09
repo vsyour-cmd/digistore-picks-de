@@ -1,3 +1,24 @@
+---
+product_id: "52746"
+digistore24_product_id: 616407
+title: "Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger"
+vendor: "maikda"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA"
+language: "de"
+---
 # Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger
 
 > Product ID `52746` · Digistore24 productId `616407` · [HTML profile page](../../produkte/die-5-schritte-erfolgsformel-online-business-f-r-einsteiger-52746.html)

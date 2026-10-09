@@ -1,3 +1,24 @@
+---
+product_id: "60308"
+digistore24_product_id: 657115
+title: "WOLKENWEICH Begleitung - sicher, gehalten und genährt"
+vendor: "jennifersubke"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/657115?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/657115"
+language: "de"
+---
 # WOLKENWEICH Begleitung - sicher, gehalten und genährt
 
 > Product ID `60308` · Digistore24 productId `657115` · [HTML profile page](../../produkte/wolkenweich-begleitung-sicher-gehalten-und-gen-hrt-60308.html)

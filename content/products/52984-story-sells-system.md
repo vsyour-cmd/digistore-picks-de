@@ -1,3 +1,24 @@
+---
+product_id: "52984"
+digistore24_product_id: 618265
+title: "Story-Sells-System"
+vendor: "LauraTeresaG"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/618265?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/618265"
+language: "de"
+---
 # Story-Sells-System
 
 > Product ID `52984` · Digistore24 productId `618265` · [HTML profile page](../../produkte/story-sells-system-52984.html)

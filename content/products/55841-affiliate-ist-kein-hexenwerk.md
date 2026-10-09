@@ -1,3 +1,24 @@
+---
+product_id: "55841"
+digistore24_product_id: 674448
+title: "Affiliate ist kein Hexenwerk"
+vendor: "werni1"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.07
+cart_conversion_pct: 55
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/FzaqcuWo4AC9DSqeq?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/FzaqcuWo4AC9DSqeq"
+language: "de"
+---
 # Affiliate ist kein Hexenwerk
 
 > Product ID `55841` · Digistore24 productId `674448` · [HTML profile page](../../produkte/affiliate-ist-kein-hexenwerk-55841.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57133"
+digistore24_product_id: 703771
+title: "Spar-Masterplan – Der ultimative Finanzleitfaden"
+vendor: "StreetArtCompany"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Finances"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/703771?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/703771"
+language: "de"
+---
 # Spar-Masterplan – Der ultimative Finanzleitfaden
 
 > Product ID `57133` · Digistore24 productId `703771` · [HTML profile page](../../produkte/spar-masterplan-der-ultimative-finanzleitfaden-57133.html)

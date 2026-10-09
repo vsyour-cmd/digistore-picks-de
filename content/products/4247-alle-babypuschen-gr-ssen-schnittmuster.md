@@ -1,3 +1,24 @@
+---
+product_id: "4247"
+digistore24_product_id: 16315
+title: "Alle Babypuschen Grössen Schnittmuster"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 17.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/babypuschen-ganz-leicht-selber-naehen/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/babypuschen-ganz-leicht-selber-naehen/"
+language: "de"
+---
 # Alle Babypuschen Grössen Schnittmuster
 
 > Product ID `4247` · Digistore24 productId `16315` · [HTML profile page](../../produkte/alle-babypuschen-gr-ssen-schnittmuster-4247.html)

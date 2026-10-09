@@ -1,3 +1,24 @@
+---
+product_id: "56434"
+digistore24_product_id: 689587
+title: "Ebook - Die Heilkraft des Klangs"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689587?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689587"
+language: "de"
+---
 # Ebook - Die Heilkraft des Klangs
 
 > Product ID `56434` · Digistore24 productId `689587` · [HTML profile page](../../produkte/ebook-die-heilkraft-des-klangs-56434.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33984"
+digistore24_product_id: 275410
+title: "Smarte Medizin mit Dr. Dahlke und Dr. Hobert"
+vendor: "Ingohobert"
+product_type: "Member area and video courses"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 93.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ethnomed.de/smarte-medizin/?aff=adminstore#aff=adminstore"
+sales_page: "https://ethnomed.de/smarte-medizin/"
+language: "de"
+---
 # Smarte Medizin mit Dr. Dahlke und Dr. Hobert
 
 > Product ID `33984` · Digistore24 productId `275410` · [HTML profile page](../../produkte/smarte-medizin-mit-dr-dahlke-und-dr-hobert-33984.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59115"
+digistore24_product_id: 721750
+title: "KI-Praxis-Guide 50+ | 50 % Affiliate-Provision"
+vendor: "DiamondNetwork"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education"]
+listed_since: "2026-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/721750?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/721750"
+language: "de"
+---
 # KI-Praxis-Guide 50+ | 50 % Affiliate-Provision
 
 > Product ID `59115` · Digistore24 productId `721750` · [HTML profile page](../../produkte/ki-praxis-guide-50-50-affiliate-provision-59115.html)

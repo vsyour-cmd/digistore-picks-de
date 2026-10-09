@@ -1,3 +1,24 @@
+---
+product_id: "39191"
+digistore24_product_id: 407692
+title: "Traumberuf DJ - Von der Liebe zur Musik..."
+vendor: "DJRevolution"
+product_type: "Book (printed)"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/407692?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/407692"
+language: "de"
+---
 # Traumberuf DJ - Von der Liebe zur Musik...
 
 > Product ID `39191` · Digistore24 productId `407692` · [HTML profile page](../../produkte/traumberuf-dj-von-der-liebe-zur-musik-39191.html)

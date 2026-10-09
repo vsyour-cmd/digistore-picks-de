@@ -1,3 +1,24 @@
+---
+product_id: "56637"
+digistore24_product_id: 693418
+title: "Bewerbung + Interview – perfekt meistern!"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 37.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693418?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693418"
+language: "de"
+---
 # Bewerbung + Interview – perfekt meistern!
 
 > Product ID `56637` · Digistore24 productId `693418` · [HTML profile page](../../produkte/bewerbung-interview-perfekt-meistern-56637.html)

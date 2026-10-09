@@ -1,3 +1,24 @@
+---
+product_id: "42610"
+digistore24_product_id: 482002
+title: "Onlyfans das Buch"
+vendor: "Sht-corporation"
+product_type: "Member area and video courses"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.social-media-agentur-mv.de/Digitales-COACHING-PREISE/Onlinekurse-Social-Media-Produkte/Online-Geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.social-media-agentur-mv.de/Digitales-COACHING-PREISE/Onlinekurse-Social-Media-Produkte/Online-Geld-verdienen/"
+language: "de"
+---
 # Onlyfans das Buch
 
 > Product ID `42610` · Digistore24 productId `482002` · [HTML profile page](../../produkte/onlyfans-das-buch-42610.html)

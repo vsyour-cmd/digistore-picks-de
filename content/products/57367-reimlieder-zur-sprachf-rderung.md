@@ -1,3 +1,24 @@
+---
+product_id: "57367"
+digistore24_product_id: 676727
+title: "Reimlieder zur Sprachförderung"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 36.91
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.mydigibiz24.com/reimlieder?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/reimlieder"
+language: "de"
+---
 # Reimlieder zur Sprachförderung
 
 > Product ID `57367` · Digistore24 productId `676727` · [HTML profile page](../../produkte/reimlieder-zur-sprachf-rderung-57367.html)

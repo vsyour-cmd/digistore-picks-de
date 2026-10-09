@@ -1,3 +1,24 @@
+---
+product_id: "51134"
+digistore24_product_id: 581050
+title: "Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa"
+vendor: "weinand1986"
+product_type: "Downloads"
+price: 0.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 18
+cancel_rate_pct: 8.96
+categories: ["Education","Email Marketing","Profession & Job"]
+listed_since: "2024-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michelweinand.systeme.io/ace9a240?aff=adminstore#aff=adminstore"
+sales_page: "https://michelweinand.systeme.io/ace9a240"
+language: "de"
+---
 # Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa
 
 > Product ID `51134` · Digistore24 productId `581050` · [HTML profile page](../../produkte/affiliate-e-mail-power-paket-mehr-umsatz-mit-weniger-aufwa-51134.html)

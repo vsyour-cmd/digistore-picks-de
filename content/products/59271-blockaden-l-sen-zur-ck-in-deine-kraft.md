@@ -1,3 +1,24 @@
+---
+product_id: "59271"
+digistore24_product_id: 723885
+title: "Blockaden lösen - zurück in Deine Kraft"
+vendor: "StefanieLange"
+product_type: "E-books"
+price: 29.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://chakra-stark.de/blockaden-loesen/?aff=adminstore#aff=adminstore"
+sales_page: "https://chakra-stark.de/blockaden-loesen/"
+language: "de"
+---
 # Blockaden lösen - zurück in Deine Kraft
 
 > Product ID `59271` · Digistore24 productId `723885` · [HTML profile page](../../produkte/blockaden-l-sen-zur-ck-in-deine-kraft-59271.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60262"
+digistore24_product_id: 740794
+title: "Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740794?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740794"
+language: "de"
+---
 # Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
 
 > Product ID `60262` · Digistore24 productId `740794` · [HTML profile page](../../produkte/abmahnung-leicht-gemacht-ratgeber-abmahnungs-pr-fer-60262.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47566"
+digistore24_product_id: 545133
+title: "KI TEXT SERVICE"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Online Marketing & E-Business","Profession & Job","Services"]
+listed_since: "2024-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-textservice-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-textservice-frontend/"
+language: "de"
+---
 # KI TEXT SERVICE
 
 > Product ID `47566` · Digistore24 productId `545133` · [HTML profile page](../../produkte/ki-text-service-47566.html)

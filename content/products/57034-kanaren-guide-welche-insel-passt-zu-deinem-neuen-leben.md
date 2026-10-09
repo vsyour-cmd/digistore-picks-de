@@ -1,3 +1,24 @@
+---
+product_id: "57034"
+digistore24_product_id: 702482
+title: "Kanaren-Guide: Welche Insel passt zu deinem neuen Leben?"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/kanaren-welche-insel?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/kanaren-welche-insel"
+language: "de"
+---
 # Kanaren-Guide: Welche Insel passt zu deinem neuen Leben?
 
 > Product ID `57034` · Digistore24 productId `702482` · [HTML profile page](../../produkte/kanaren-guide-welche-insel-passt-zu-deinem-neuen-leben-57034.html)

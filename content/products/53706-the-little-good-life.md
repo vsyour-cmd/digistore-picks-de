@@ -1,3 +1,24 @@
+---
+product_id: "53706"
+digistore24_product_id: 631078
+title: "The Little Good Life"
+vendor: "TheLittleGoodLife"
+product_type: "Audio book (download)"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 2.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2025-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/631078/?campaignKey=allg&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/631078/?campaignKey=allg"
+language: "de"
+---
 # The Little Good Life
 
 > Product ID `53706` · Digistore24 productId `631078` · [HTML profile page](../../produkte/the-little-good-life-53706.html)

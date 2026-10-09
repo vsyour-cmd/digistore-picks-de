@@ -1,3 +1,24 @@
+---
+product_id: "55872"
+digistore24_product_id: 675218
+title: "2400+ Viral AI Reels Mega Bundle"
+vendor: "MoneyCreators"
+product_type: "Downloads"
+price: 10.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/viralreelpaket?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/viralreelpaket"
+language: "de"
+---
 # 2400+ Viral AI Reels Mega Bundle
 
 > Product ID `55872` · Digistore24 productId `675218` · [HTML profile page](../../produkte/2400-viral-ai-reels-mega-bundle-55872.html)

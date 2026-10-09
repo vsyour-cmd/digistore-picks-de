@@ -1,3 +1,24 @@
+---
+product_id: "9655"
+digistore24_product_id: 64997
+title: "Thai-Crashkurs - ab dem ersten Tag anwenden"
+vendor: "findsbesserraus"
+product_type: "Downloads"
+price: 20.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.62
+cart_conversion_pct: 1
+cancel_rate_pct: 1.97
+categories: ["Travel & Culture"]
+listed_since: "2015-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thailaendisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thailaendisch-fuer-reisende.de"
+language: "de"
+---
 # Thai-Crashkurs - ab dem ersten Tag anwenden
 
 > Product ID `9655` · Digistore24 productId `64997` · [HTML profile page](../../produkte/thai-crashkurs-ab-dem-ersten-tag-anwenden-9655.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28329"
+digistore24_product_id: 248911
+title: "maona.tv - Mitgliedschaft"
+vendor: "maonatvgmbh"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 15.2
+earnings_per_sale: 14.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2018-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.maona.tv/home-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.maona.tv/home-ds"
+language: "de"
+---
 # maona.tv - Mitgliedschaft
 
 > Product ID `28329` · Digistore24 productId `248911` · [HTML profile page](../../produkte/maona-tv-mitgliedschaft-28329.html)

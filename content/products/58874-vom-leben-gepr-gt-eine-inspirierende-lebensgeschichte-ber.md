@@ -1,3 +1,24 @@
+---
+product_id: "58874"
+digistore24_product_id: 727157
+title: "Vom Leben geprägt – Eine inspirierende Lebensgeschichte über"
+vendor: "olasmartness90fa"
+product_type: "E-books"
+price: 13.42
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727157?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727157"
+language: "de"
+---
 # Vom Leben geprägt – Eine inspirierende Lebensgeschichte über
 
 > Product ID `58874` · Digistore24 productId `727157` · [HTML profile page](../../produkte/vom-leben-gepr-gt-eine-inspirierende-lebensgeschichte-ber-58874.html)

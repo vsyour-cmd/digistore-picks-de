@@ -1,3 +1,24 @@
+---
+product_id: "32101"
+digistore24_product_id: 165221
+title: "Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]"
+vendor: "rheinrost"
+product_type: "Member area and video courses"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 164.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
+listed_since: "2017-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.unaufschiebbar.de/digitaler-nomade-werden/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/digitaler-nomade-werden/"
+language: "de"
+---
 # Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]
 
 > Product ID `32101` · Digistore24 productId `165221` · [HTML profile page](../../produkte/goodbye-9-to-5-digitaler-nomade-werden-premium-onlinekurs-32101.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55219"
+digistore24_product_id: 661749
+title: "Instagram Themepage Formel"
+vendor: "IGCLOSE"
+product_type: "Downloads"
+price: 18.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Social Media"]
+listed_since: "2026-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/661749?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/661749"
+language: "de"
+---
 # Instagram Themepage Formel
 
 > Product ID `55219` · Digistore24 productId `661749` · [HTML profile page](../../produkte/instagram-themepage-formel-55219.html)

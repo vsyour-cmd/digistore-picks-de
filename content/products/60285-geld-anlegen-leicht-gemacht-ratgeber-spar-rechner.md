@@ -1,3 +1,24 @@
+---
+product_id: "60285"
+digistore24_product_id: 741230
+title: "Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741230?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741230"
+language: "de"
+---
 # Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner
 
 > Product ID `60285` · Digistore24 productId `741230` · [HTML profile page](../../produkte/geld-anlegen-leicht-gemacht-ratgeber-spar-rechner-60285.html)

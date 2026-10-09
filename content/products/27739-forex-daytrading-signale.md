@@ -1,3 +1,24 @@
+---
+product_id: "27739"
+digistore24_product_id: 196689
+title: "Forex Daytrading Signale"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 254.32
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 79.31
+cart_conversion_pct: 5
+cancel_rate_pct: 10.51
+categories: ["Trading Products"]
+listed_since: "2018-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/forex-daytrading-live/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/forex-daytrading-live/"
+language: "de"
+---
 # Forex Daytrading Signale
 
 > Product ID `27739` · Digistore24 productId `196689` · [HTML profile page](../../produkte/forex-daytrading-signale-27739.html)

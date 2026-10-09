@@ -1,3 +1,24 @@
+---
+product_id: "56938"
+digistore24_product_id: 701373
+title: "Neukundengewinnung über Snapchat"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-snapchat?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-snapchat"
+language: "de"
+---
 # Neukundengewinnung über Snapchat
 
 > Product ID `56938` · Digistore24 productId `701373` · [HTML profile page](../../produkte/neukundengewinnung-ber-snapchat-56938.html)

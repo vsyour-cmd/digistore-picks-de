@@ -1,3 +1,24 @@
+---
+product_id: "57308"
+digistore24_product_id: 697436
+title: "Italiano Pro (Web-App / App)"
+vendor: "worldxpb"
+product_type: "Software"
+price: 14.09
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Travel & Culture"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/697436?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/697436"
+language: "de"
+---
 # Italiano Pro (Web-App / App)
 
 > Product ID `57308` · Digistore24 productId `697436` · [HTML profile page](../../produkte/italiano-pro-web-app-app-57308.html)

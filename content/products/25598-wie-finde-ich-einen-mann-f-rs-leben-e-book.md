@@ -1,3 +1,24 @@
+---
+product_id: "25598"
+digistore24_product_id: 88743
+title: "Wie finde ich einen Mann fürs Leben? [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2016-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/wie-finde-ich-einen-mann-fuers-leben/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/wie-finde-ich-einen-mann-fuers-leben/"
+language: "de"
+---
 # Wie finde ich einen Mann fürs Leben? [E-Book]
 
 > Product ID `25598` · Digistore24 productId `88743` · [HTML profile page](../../produkte/wie-finde-ich-einen-mann-f-rs-leben-e-book-25598.html)

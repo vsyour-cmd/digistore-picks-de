@@ -1,3 +1,24 @@
+---
+product_id: "56930"
+digistore24_product_id: 701362
+title: "Mein erster WhatsApp-Kanal"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/mein-erster-whatsapp-kanal?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/mein-erster-whatsapp-kanal"
+language: "de"
+---
 # Mein erster WhatsApp-Kanal
 
 > Product ID `56930` · Digistore24 productId `701362` · [HTML profile page](../../produkte/mein-erster-whatsapp-kanal-56930.html)

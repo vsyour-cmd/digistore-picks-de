@@ -1,3 +1,24 @@
+---
+product_id: "52814"
+digistore24_product_id: 609922
+title: "Profit Paket MoneyCreators"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 26.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.8
+cart_conversion_pct: 8
+cancel_rate_pct: 2.37
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/profitbundle?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/profitbundle"
+language: "de"
+---
 # Profit Paket MoneyCreators
 
 > Product ID `52814` · Digistore24 productId `609922` · [HTML profile page](../../produkte/profit-paket-moneycreators-52814.html)

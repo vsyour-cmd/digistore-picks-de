@@ -1,3 +1,24 @@
+---
+product_id: "8665"
+digistore24_product_id: 59641
+title: "Die Silberfisch-Formel"
+vendor: "mike_r"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2015-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://die-silberfisch-formel.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://die-silberfisch-formel.de/"
+language: "de"
+---
 # Die Silberfisch-Formel
 
 > Product ID `8665` · Digistore24 productId `59641` · [HTML profile page](../../produkte/die-silberfisch-formel-8665.html)

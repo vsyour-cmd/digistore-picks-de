@@ -1,3 +1,24 @@
+---
+product_id: "44779"
+digistore24_product_id: 423080
+title: "Videokurs: Sozialversicherung"
+vendor: "Steinkellner"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 36.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2022-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lern-impuls.at/sozialversicherung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lern-impuls.at/sozialversicherung/"
+language: "de"
+---
 # Videokurs: Sozialversicherung
 
 > Product ID `44779` · Digistore24 productId `423080` · [HTML profile page](../../produkte/videokurs-sozialversicherung-44779.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39914"
+digistore24_product_id: 439451
+title: "Digital Zeichnen Lernen Online-Kurs"
+vendor: "DrawTut"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 28.95
+cart_conversion_pct: 6
+cancel_rate_pct: 1.03
+categories: ["Hobby & Craft"]
+listed_since: "2022-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://drawtut.com/de/kurse/digitales-zeichnen/?aff=adminstore#aff=adminstore"
+sales_page: "https://drawtut.com/de/kurse/digitales-zeichnen/"
+language: "de"
+---
 # Digital Zeichnen Lernen Online-Kurs
 
 > Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)

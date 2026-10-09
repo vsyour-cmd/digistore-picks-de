@@ -1,3 +1,24 @@
+---
+product_id: "58809"
+digistore24_product_id: 537454
+title: "Traffic³ – 5 Trafficquellen für dein Online-Business"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/traffic-hoch3-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/traffic-hoch3-e-book/"
+language: "de"
+---
 # Traffic³ – 5 Trafficquellen für dein Online-Business
 
 > Product ID `58809` · Digistore24 productId `537454` · [HTML profile page](../../produkte/traffic-5-trafficquellen-f-r-dein-online-business-58809.html)

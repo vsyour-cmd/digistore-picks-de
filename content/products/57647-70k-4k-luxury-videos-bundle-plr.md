@@ -1,3 +1,24 @@
+---
+product_id: "57647"
+digistore24_product_id: 713047
+title: "70K 4K Luxury Videos Bundle + PLR"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/70kreels?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/70kreels"
+language: "de"
+---
 # 70K 4K Luxury Videos Bundle + PLR
 
 > Product ID `57647` · Digistore24 productId `713047` · [HTML profile page](../../produkte/70k-4k-luxury-videos-bundle-plr-57647.html)

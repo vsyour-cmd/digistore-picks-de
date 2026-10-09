@@ -1,3 +1,24 @@
+---
+product_id: "57109"
+digistore24_product_id: 702998
+title: "10 KI-Prompts für Business-Mamas - Copy-Paste Playbook"
+vendor: "carinabauer"
+product_type: "Downloads"
+price: 13.15
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Profession & Job"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/702998?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/702998"
+language: "de"
+---
 # 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook
 
 > Product ID `57109` · Digistore24 productId `702998` · [HTML profile page](../../produkte/10-ki-prompts-f-r-business-mamas-copy-paste-playbook-57109.html)

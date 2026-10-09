@@ -1,3 +1,24 @@
+---
+product_id: "21249"
+digistore24_product_id: 109343
+title: "GASTROWORKS Profi Speisekalkulation"
+vendor: "Gastroworks"
+product_type: "Downloads"
+price: 257.28
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 128.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2016-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://kochkralle.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://kochkralle.de/"
+language: "de"
+---
 # GASTROWORKS Profi Speisekalkulation
 
 > Product ID `21249` · Digistore24 productId `109343` · [HTML profile page](../../produkte/gastroworks-profi-speisekalkulation-21249.html)

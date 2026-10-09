@@ -1,3 +1,24 @@
+---
+product_id: "18839"
+digistore24_product_id: 153427
+title: "5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon"
+vendor: "ImmobilienTycoon"
+product_type: "Book (printed)"
+price: 31.31
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2017-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.immobilien-tycoon.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.immobilien-tycoon.com/"
+language: "de"
+---
 # 5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon
 
 > Product ID `18839` · Digistore24 productId `153427` · [HTML profile page](../../produkte/5-provision-pro-gratis-buchverkauf-immobilien-tycoon-18839.html)

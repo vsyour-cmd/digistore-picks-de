@@ -1,3 +1,24 @@
+---
+product_id: "59771"
+digistore24_product_id: 735661
+title: "Affiliate mit System"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 11.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/affiliatemitsystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/affiliatemitsystem/"
+language: "de"
+---
 # Affiliate mit System
 
 > Product ID `59771` · Digistore24 productId `735661` · [HTML profile page](../../produkte/affiliate-mit-system-59771.html)

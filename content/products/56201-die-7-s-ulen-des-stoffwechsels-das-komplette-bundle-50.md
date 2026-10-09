@@ -1,3 +1,24 @@
+---
+product_id: "56201"
+digistore24_product_id: 678558
+title: "Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%"
+vendor: "info4833"
+product_type: "E-books"
+price: 93.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2026-03-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/678558?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/678558"
+language: "de"
+---
 # Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%
 
 > Product ID `56201` · Digistore24 productId `678558` · [HTML profile page](../../produkte/die-7-s-ulen-des-stoffwechsels-das-komplette-bundle-50-56201.html)

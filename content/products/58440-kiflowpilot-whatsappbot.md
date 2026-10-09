@@ -1,3 +1,24 @@
+---
+product_id: "58440"
+digistore24_product_id: 714591
+title: "KiFlowPilot WhatsappBot"
+vendor: "SylviaBallheimer"
+product_type: "Software"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 36.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/714591?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/714591"
+language: "de"
+---
 # KiFlowPilot WhatsappBot
 
 > Product ID `58440` · Digistore24 productId `714591` · [HTML profile page](../../produkte/kiflowpilot-whatsappbot-58440.html)

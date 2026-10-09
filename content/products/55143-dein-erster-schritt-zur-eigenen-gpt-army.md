@@ -1,3 +1,24 @@
+---
+product_id: "55143"
+digistore24_product_id: 660001
+title: "Dein erster Schritt zur eigenen GPT Army"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.1
+cart_conversion_pct: 62
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/"
+language: "de"
+---
 # Dein erster Schritt zur eigenen GPT Army
 
 > Product ID `55143` · Digistore24 productId `660001` · [HTML profile page](../../produkte/dein-erster-schritt-zur-eigenen-gpt-army-55143.html)

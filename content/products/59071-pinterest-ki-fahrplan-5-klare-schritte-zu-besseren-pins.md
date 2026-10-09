@@ -1,3 +1,24 @@
+---
+product_id: "59071"
+digistore24_product_id: 729867
+title: "Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins"
+vendor: "mitti10"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pinterest-ki-fahrplan.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://pinterest-ki-fahrplan.netlify.app/"
+language: "de"
+---
 # Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins
 
 > Product ID `59071` · Digistore24 productId `729867` · [HTML profile page](../../produkte/pinterest-ki-fahrplan-5-klare-schritte-zu-besseren-pins-59071.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52717"
+digistore24_product_id: 615883
+title: "Wimpern und Browlifting Komplettschulung inkl Zertifikat"
+vendor: "Nadinesbeautyoasedeluxe"
+product_type: "Member area and video courses"
+price: 70.51
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 7.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-05-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/615883?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/615883"
+language: "de"
+---
 # Wimpern und Browlifting Komplettschulung inkl Zertifikat
 
 > Product ID `52717` · Digistore24 productId `615883` · [HTML profile page](../../produkte/wimpern-und-browlifting-komplettschulung-inkl-zertifikat-52717.html)

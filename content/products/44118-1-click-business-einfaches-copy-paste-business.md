@@ -1,3 +1,24 @@
+---
+product_id: "44118"
+digistore24_product_id: 482133
+title: "1 Click Business - Einfaches Copy-Paste Business"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 322.95
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 422.51
+cart_conversion_pct: 4
+cancel_rate_pct: 1.35
+categories: ["Business & Investment"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/cbwaff/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/cbwaff/"
+language: "de"
+---
 # 1 Click Business - Einfaches Copy-Paste Business
 
 > Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../produkte/1-click-business-einfaches-copy-paste-business-44118.html)

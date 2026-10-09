@@ -1,3 +1,24 @@
+---
+product_id: "50189"
+digistore24_product_id: 576914
+title: "FSK 18 Affiliate - Geldmaschine Erotik"
+vendor: "Spekulatius"
+product_type: "Downloads"
+price: 0.02
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 53
+cancel_rate_pct: 1.68
+categories: ["Dating, Relationships & Romance","Online Marketing & E-Business"]
+listed_since: "2024-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE"
+language: "de"
+---
 # FSK 18 Affiliate - Geldmaschine Erotik
 
 > Product ID `50189` · Digistore24 productId `576914` · [HTML profile page](../../produkte/fsk-18-affiliate-geldmaschine-erotik-50189.html)

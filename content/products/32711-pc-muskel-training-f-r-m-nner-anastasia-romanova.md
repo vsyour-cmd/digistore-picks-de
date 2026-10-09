@@ -1,3 +1,24 @@
+---
+product_id: "32711"
+digistore24_product_id: 325107
+title: "PC-Muskel-Training für Männer - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 79.59
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 25.43
+cart_conversion_pct: 13
+cancel_rate_pct: 4.95
+categories: ["Health & Fitness"]
+listed_since: "2020-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/produkte/penis-trainieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/produkte/penis-trainieren/"
+language: "de"
+---
 # PC-Muskel-Training für Männer - Anastasia Romanova
 
 > Product ID `32711` · Digistore24 productId `325107` · [HTML profile page](../../produkte/pc-muskel-training-f-r-m-nner-anastasia-romanova-32711.html)

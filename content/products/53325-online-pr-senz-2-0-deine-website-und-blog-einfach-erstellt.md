@@ -1,3 +1,24 @@
+---
+product_id: "53325"
+digistore24_product_id: 626644
+title: "Online Präsenz 2.0 - Deine Website und Blog einfach erstellt"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Online-Praesenz?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Online-Praesenz"
+language: "de"
+---
 # Online Präsenz 2.0 - Deine Website und Blog einfach erstellt
 
 > Product ID `53325` · Digistore24 productId `626644` · [HTML profile page](../../produkte/online-pr-senz-2-0-deine-website-und-blog-einfach-erstellt-53325.html)

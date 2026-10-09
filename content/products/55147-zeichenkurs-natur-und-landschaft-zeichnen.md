@@ -1,3 +1,24 @@
+---
+product_id: "55147"
+digistore24_product_id: 660274
+title: "Zeichenkurs Natur und Landschaft zeichnen"
+vendor: "SchmidtsZeichenwelt"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 23.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-natur-und-landschaft-zeichnen/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-natur-und-landschaft-zeichnen/"
+language: "de"
+---
 # Zeichenkurs Natur und Landschaft zeichnen
 
 > Product ID `55147` · Digistore24 productId `660274` · [HTML profile page](../../produkte/zeichenkurs-natur-und-landschaft-zeichnen-55147.html)

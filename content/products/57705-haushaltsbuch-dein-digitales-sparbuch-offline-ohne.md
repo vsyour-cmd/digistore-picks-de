@@ -1,3 +1,24 @@
+---
+product_id: "57705"
+digistore24_product_id: 703464
+title: "Haushaltsbuch – Dein digitales Sparbuch, offline & ohne"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 12.13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/Haushaltsbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/Haushaltsbuch/"
+language: "de"
+---
 # Haushaltsbuch – Dein digitales Sparbuch, offline & ohne
 
 > Product ID `57705` · Digistore24 productId `703464` · [HTML profile page](../../produkte/haushaltsbuch-dein-digitales-sparbuch-offline-ohne-57705.html)

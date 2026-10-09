@@ -1,3 +1,24 @@
+---
+product_id: "55384"
+digistore24_product_id: 663205
+title: "KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen"
+vendor: "OFFICIALDIGI24"
+product_type: "Downloads"
+price: 15.03
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 12.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Marketing Services"]
+listed_since: "2026-01-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/663205?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/663205"
+language: "de"
+---
 # KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen
 
 > Product ID `55384` · Digistore24 productId `663205` · [HTML profile page](../../produkte/ki-prompts-toolkit-2026-150-fertige-chatgpt-vorlagen-55384.html)

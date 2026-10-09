@@ -1,3 +1,24 @@
+---
+product_id: "16545"
+digistore24_product_id: 65687
+title: "Gartenhaus-Baupläne – Über 100 Modelle zum Selberbauen"
+vendor: "ccbvcc"
+product_type: "E-books"
+price: 32.48
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.94
+cart_conversion_pct: 16
+cancel_rate_pct: 0.86
+categories: ["Home & Garden"]
+listed_since: "2015-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/65687/adminstore"
+sales_page: "https://www.holz-bauplan.de/baupl%C3%A4ne/gartenh%C3%A4user/gartenhaus-1/#cc-m-product-11067971219"
+language: "de"
+---
 # Gartenhaus-Baupläne – Über 100 Modelle zum Selberbauen
 
 > Product ID `16545` · Digistore24 productId `65687` · [HTML profile page](../../produkte/gartenhaus-baupl-ne-ber-100-modelle-zum-selberbauen-16545.html)

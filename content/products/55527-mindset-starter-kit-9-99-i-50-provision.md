@@ -1,3 +1,24 @@
+---
+product_id: "55527"
+digistore24_product_id: 666694
+title: "Mindset-Starter-Kit (9,99€) I 50% Provision"
+vendor: "fromtiptotrip"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://lukasmahlmindset.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://lukasmahlmindset.com/"
+language: "de"
+---
 # Mindset-Starter-Kit (9,99€) I 50% Provision
 
 > Product ID `55527` · Digistore24 productId `666694` · [HTML profile page](../../produkte/mindset-starter-kit-9-99-i-50-provision-55527.html)

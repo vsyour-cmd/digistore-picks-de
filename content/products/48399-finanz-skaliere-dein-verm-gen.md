@@ -1,3 +1,24 @@
+---
+product_id: "48399"
+digistore24_product_id: 556138
+title: "Finanz - Skaliere Dein Vermögen"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 561.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 280.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2024-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://reich-in-rente.net/finanzwissen-masterkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://reich-in-rente.net/finanzwissen-masterkurs/"
+language: "de"
+---
 # Finanz - Skaliere Dein Vermögen
 
 > Product ID `48399` · Digistore24 productId `556138` · [HTML profile page](../../produkte/finanz-skaliere-dein-verm-gen-48399.html)

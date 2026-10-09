@@ -1,3 +1,24 @@
+---
+product_id: "35625"
+digistore24_product_id: 366886
+title: "Hundewissen Sachkunde - Der Digitale Hundeführerschein"
+vendor: "perrocc"
+product_type: "Member area and video courses"
+price: 56.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 16.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2021-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
+sales_page: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE"
+language: "de"
+---
 # Hundewissen Sachkunde - Der Digitale Hundeführerschein
 
 > Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../produkte/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)

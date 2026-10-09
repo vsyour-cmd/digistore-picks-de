@@ -1,3 +1,24 @@
+---
+product_id: "40070"
+digistore24_product_id: 396802
+title: "Visualisierungs-Checkliste-Videotraining"
+vendor: "Erfolg-Intuitiv"
+product_type: "Member area and video courses"
+price: 35.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.55
+cart_conversion_pct: 17
+cancel_rate_pct: 6.46
+categories: ["Personal Development"]
+listed_since: "2021-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/"
+language: "de"
+---
 # Visualisierungs-Checkliste-Videotraining
 
 > Product ID `40070` · Digistore24 productId `396802` · [HTML profile page](../../produkte/visualisierungs-checkliste-videotraining-40070.html)

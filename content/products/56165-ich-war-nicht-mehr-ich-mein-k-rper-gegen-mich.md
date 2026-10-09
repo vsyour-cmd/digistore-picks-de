@@ -1,3 +1,24 @@
+---
+product_id: "56165"
+digistore24_product_id: 672126
+title: "Ich war nicht mehr ich mein Körper gegen mich"
+vendor: "fantasticman36"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hormoncod.pages.dev?aff=adminstore#aff=adminstore"
+sales_page: "https://hormoncod.pages.dev"
+language: "de"
+---
 # Ich war nicht mehr ich mein Körper gegen mich
 
 > Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../produkte/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)

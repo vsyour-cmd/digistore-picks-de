@@ -1,3 +1,24 @@
+---
+product_id: "45073"
+digistore24_product_id: 511930
+title: "Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€"
+vendor: "TaurusTattooStuttgart"
+product_type: "In-person service"
+price: 140.54
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 65.02
+cart_conversion_pct: 7
+cancel_rate_pct: 6.26
+categories: ["Fashion"]
+listed_since: "2023-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/511930?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/511930"
+language: "de"
+---
 # Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€
 
 > Product ID `45073` · Digistore24 productId `511930` · [HTML profile page](../../produkte/tattoo-gutscheine-f-r-stuttgart-im-wert-von-50-bis-800-45073.html)

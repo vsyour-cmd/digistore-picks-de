@@ -1,3 +1,24 @@
+---
+product_id: "49261"
+digistore24_product_id: 562078
+title: "Markersignal-Training"
+vendor: "Carola-Zilm"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://carolazilm.com/effektives-training-mit-dem-markersignal?aff=adminstore#aff=adminstore"
+sales_page: "https://carolazilm.com/effektives-training-mit-dem-markersignal"
+language: "de"
+---
 # Markersignal-Training
 
 > Product ID `49261` · Digistore24 productId `562078` · [HTML profile page](../../produkte/markersignal-training-49261.html)

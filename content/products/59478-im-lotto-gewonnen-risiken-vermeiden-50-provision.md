@@ -1,3 +1,24 @@
+---
+product_id: "59478"
+digistore24_product_id: 735106
+title: "Im Lotto gewonnen? Risiken vermeiden – 50 % Provision"
+vendor: "meinradmueller"
+product_type: "E-books"
+price: 20.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://info333.de/millionen-was-nun/?aff=adminstore#aff=adminstore"
+sales_page: "https://info333.de/millionen-was-nun/"
+language: "de"
+---
 # Im Lotto gewonnen? Risiken vermeiden – 50 % Provision
 
 > Product ID `59478` · Digistore24 productId `735106` · [HTML profile page](../../produkte/im-lotto-gewonnen-risiken-vermeiden-50-provision-59478.html)

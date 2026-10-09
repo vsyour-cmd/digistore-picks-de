@@ -1,3 +1,24 @@
+---
+product_id: "56280"
+digistore24_product_id: 684494
+title: "Meine TikTok Shop Sperre: Fehler-Analyse"
+vendor: "servicehubde2479af"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684494?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684494"
+language: "de"
+---
 # Meine TikTok Shop Sperre: Fehler-Analyse
 
 > Product ID `56280` · Digistore24 productId `684494` · [HTML profile page](../../produkte/meine-tiktok-shop-sperre-fehler-analyse-56280.html)

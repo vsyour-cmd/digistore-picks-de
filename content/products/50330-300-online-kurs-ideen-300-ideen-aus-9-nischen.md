@@ -1,3 +1,24 @@
+---
+product_id: "50330"
+digistore24_product_id: 579061
+title: "300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/300-kurs-ideen?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/300-kurs-ideen"
+language: "de"
+---
 # 300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen
 
 > Product ID `50330` · Digistore24 productId `579061` · [HTML profile page](../../produkte/300-online-kurs-ideen-300-ideen-aus-9-nischen-50330.html)

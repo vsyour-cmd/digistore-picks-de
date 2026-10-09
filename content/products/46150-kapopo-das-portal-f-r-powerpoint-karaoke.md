@@ -1,3 +1,24 @@
+---
+product_id: "46150"
+digistore24_product_id: 477995
+title: "KAPOPO - Das Portal für PowerPoint Karaoke"
+vendor: "sndgmedia"
+product_type: "Member area and video courses"
+price: 33.56
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.59
+cart_conversion_pct: 36
+cancel_rate_pct: 0.83
+categories: ["Fun & Games","Software"]
+listed_since: "2023-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kapopo.de/preise/?aff=adminstore#aff=adminstore"
+sales_page: "https://kapopo.de/preise/"
+language: "de"
+---
 # KAPOPO - Das Portal für PowerPoint Karaoke
 
 > Product ID `46150` · Digistore24 productId `477995` · [HTML profile page](../../produkte/kapopo-das-portal-f-r-powerpoint-karaoke-46150.html)

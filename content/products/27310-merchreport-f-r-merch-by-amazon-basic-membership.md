@@ -1,3 +1,24 @@
+---
+product_id: "27310"
+digistore24_product_id: 248860
+title: "Merchreport für Merch by Amazon (Basic Membership)"
+vendor: "biedermann_klose"
+product_type: "Downloads"
+price: 132.89
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 26.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2018-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://merchreport.de?aff=adminstore#aff=adminstore"
+sales_page: "https://merchreport.de"
+language: "de"
+---
 # Merchreport für Merch by Amazon (Basic Membership)
 
 > Product ID `27310` · Digistore24 productId `248860` · [HTML profile page](../../produkte/merchreport-f-r-merch-by-amazon-basic-membership-27310.html)

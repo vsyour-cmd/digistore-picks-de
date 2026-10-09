@@ -1,3 +1,24 @@
+---
+product_id: "55277"
+digistore24_product_id: 660386
+title: "Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)"
+vendor: "KnappEDV"
+product_type: "Software"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-01-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.knapp-edv.de/dtpkalender?aff=adminstore#aff=adminstore"
+sales_page: "https://www.knapp-edv.de/dtpkalender"
+language: "de"
+---
 # Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)
 
 > Product ID `55277` · Digistore24 productId `660386` · [HTML profile page](../../produkte/excel-dtpkalender-add-in-privat-und-firmenlizenz-abo-55277.html)

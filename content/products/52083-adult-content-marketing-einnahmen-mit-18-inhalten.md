@@ -1,3 +1,24 @@
+---
+product_id: "52083"
+digistore24_product_id: 607124
+title: "Adult Content Marketing - Einnahmen mit 18+ Inhalten"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Adult-Content-Marketing?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Adult-Content-Marketing"
+language: "de"
+---
 # Adult Content Marketing - Einnahmen mit 18+ Inhalten
 
 > Product ID `52083` · Digistore24 productId `607124` · [HTML profile page](../../produkte/adult-content-marketing-einnahmen-mit-18-inhalten-52083.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45201"
+digistore24_product_id: 451065
+title: "spryfuel® Mitgliedschaft"
+vendor: "Insider-Media"
+product_type: "Member area and video courses"
+price: 267.9
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 93.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.spryfuel.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.spryfuel.com/"
+language: "de"
+---
 # spryfuel® Mitgliedschaft
 
 > Product ID `45201` · Digistore24 productId `451065` · [HTML profile page](../../produkte/spryfuel-mitgliedschaft-45201.html)

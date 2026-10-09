@@ -1,3 +1,24 @@
+---
+product_id: "59605"
+digistore24_product_id: 736580
+title: "Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 187.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://einfachmitmatze.de/online-business-starten/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/online-business-starten/"
+language: "de"
+---
 # Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision
 
 > Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../produkte/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)

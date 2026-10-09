@@ -1,3 +1,24 @@
+---
+product_id: "57251"
+digistore24_product_id: 704229
+title: "Krypto für Einsteiger"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/krypto-fuer-einsteiger?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/krypto-fuer-einsteiger"
+language: "de"
+---
 # Krypto für Einsteiger
 
 > Product ID `57251` · Digistore24 productId `704229` · [HTML profile page](../../produkte/krypto-f-r-einsteiger-57251.html)

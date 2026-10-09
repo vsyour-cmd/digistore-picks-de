@@ -1,3 +1,24 @@
+---
+product_id: "36624"
+digistore24_product_id: 388840
+title: "88 La Palma Highlights [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.42
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.93
+cart_conversion_pct: 34
+cancel_rate_pct: 0.83
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2021-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/88-la-palma-highlights/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/88-la-palma-highlights/"
+language: "de"
+---
 # 88 La Palma Highlights [E-Book]
 
 > Product ID `36624` · Digistore24 productId `388840` · [HTML profile page](../../produkte/88-la-palma-highlights-e-book-36624.html)

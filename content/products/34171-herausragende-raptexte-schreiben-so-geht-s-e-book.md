@@ -1,3 +1,24 @@
+---
+product_id: "34171"
+digistore24_product_id: 300907
+title: "Herausragende Raptexte schreiben - so geht's! [E-Book]"
+vendor: "Benjamin_Eidam"
+product_type: "Downloads"
+price: 14.05
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2019-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rap-text.com/rap-texte-schreiben?aff=adminstore#aff=adminstore"
+sales_page: "https://rap-text.com/rap-texte-schreiben"
+language: "de"
+---
 # Herausragende Raptexte schreiben - so geht's! [E-Book]
 
 > Product ID `34171` · Digistore24 productId `300907` · [HTML profile page](../../produkte/herausragende-raptexte-schreiben-so-geht-s-e-book-34171.html)

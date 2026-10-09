@@ -1,3 +1,24 @@
+---
+product_id: "59540"
+digistore24_product_id: 735681
+title: "Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision"
+vendor: "DerPate"
+product_type: "Downloads"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden","Real Estate"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/735681?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735681"
+language: "de"
+---
 # Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision
 
 > Product ID `59540` · Digistore24 productId `735681` · [HTML profile page](../../produkte/altbau-kompass-haus-pr-fen-sanierung-planen-50-provision-59540.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54375"
+digistore24_product_id: 641136
+title: "Prozessadaptik – Das KI-System für intelligente Automatisier"
+vendor: "Vires-Systems"
+product_type: "Downloads"
+price: 58.6
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 11.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/641136?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/641136"
+language: "de"
+---
 # Prozessadaptik – Das KI-System für intelligente Automatisier
 
 > Product ID `54375` · Digistore24 productId `641136` · [HTML profile page](../../produkte/prozessadaptik-das-ki-system-f-r-intelligente-automatisier-54375.html)

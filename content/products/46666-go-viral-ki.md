@@ -1,3 +1,24 @@
+---
+product_id: "46666"
+digistore24_product_id: 532250
+title: "GO Viral KI"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-01-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/viraler-ki-boost/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/viraler-ki-boost/"
+language: "de"
+---
 # GO Viral KI
 
 > Product ID `46666` · Digistore24 productId `532250` · [HTML profile page](../../produkte/go-viral-ki-46666.html)

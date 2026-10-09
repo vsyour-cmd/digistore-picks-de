@@ -1,3 +1,24 @@
+---
+product_id: "47208"
+digistore24_product_id: 462653
+title: "Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll"
+vendor: "RalfMollFastensuppen"
+product_type: "Online coaching"
+price: 36.37
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 5.97
+cart_conversion_pct: 15
+cancel_rate_pct: 3.8
+categories: ["Health & Fitness"]
+listed_since: "2022-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/"
+language: "de"
+---
 # Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll
 
 > Product ID `47208` · Digistore24 productId `462653` · [HTML profile page](../../produkte/der-10-tage-intervallfasten-kurs-mit-ralf-moll-47208.html)

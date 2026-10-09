@@ -1,3 +1,24 @@
+---
+product_id: "32161"
+digistore24_product_id: 316974
+title: "Zeichenschule für Kindergarten- und Vorschulkinder"
+vendor: "DrawTut"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://drawtut.com/de/kurse/kinder-vorschule/?aff=adminstore#aff=adminstore"
+sales_page: "https://drawtut.com/de/kurse/kinder-vorschule/"
+language: "de"
+---
 # Zeichenschule für Kindergarten- und Vorschulkinder
 
 > Product ID `32161` · Digistore24 productId `316974` · [HTML profile page](../../produkte/zeichenschule-f-r-kindergarten-und-vorschulkinder-32161.html)

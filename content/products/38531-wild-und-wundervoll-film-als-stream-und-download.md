@@ -1,3 +1,24 @@
+---
+product_id: "38531"
+digistore24_product_id: 417092
+title: "Wild und Wundervoll (Film als Stream und Download)"
+vendor: "wildundwundervoll"
+product_type: "Downloads"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2021-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinefilmschool.de/wildundwundervollfilm/"
+language: "de"
+---
 # Wild und Wundervoll (Film als Stream und Download)
 
 > Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../produkte/wild-und-wundervoll-film-als-stream-und-download-38531.html)

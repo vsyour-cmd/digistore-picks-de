@@ -1,3 +1,24 @@
+---
+product_id: "53596"
+digistore24_product_id: 627890
+title: "Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision"
+vendor: "jusaconsulting"
+product_type: "Member area and video courses"
+price: 241.43
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 71.28
+cart_conversion_pct: 7
+cancel_rate_pct: 7.53
+categories: ["Social Media"]
+listed_since: "2025-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://contentcreaitorclone.com/"
+language: "de"
+---
 # Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision
 
 > Product ID `53596` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creaitor-clone-ki-fotos-und-videos-70-provision-53596.html)

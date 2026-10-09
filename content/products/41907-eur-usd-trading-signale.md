@@ -1,3 +1,24 @@
+---
+product_id: "41907"
+digistore24_product_id: 62757
+title: "EUR/USD Trading Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 208.34
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 35.33
+cart_conversion_pct: 8
+cancel_rate_pct: 11.4
+categories: ["Trading Products"]
+listed_since: "2015-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/eur-usd-signale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/eur-usd-signale/"
+language: "de"
+---
 # EUR/USD Trading Signale
 
 > Product ID `41907` · Digistore24 productId `62757` · [HTML profile page](../../produkte/eur-usd-trading-signale-41907.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52015"
+digistore24_product_id: 601255
+title: "Schlangen als Haustier - Ratgeber"
+vendor: "NaranNelson"
+product_type: "E-books"
+price: 2.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Hobby & Craft"]
+listed_since: "2025-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/601255?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/601255"
+language: "de"
+---
 # Schlangen als Haustier - Ratgeber
 
 > Product ID `52015` · Digistore24 productId `601255` · [HTML profile page](../../produkte/schlangen-als-haustier-ratgeber-52015.html)

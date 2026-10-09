@@ -1,3 +1,24 @@
+---
+product_id: "56608"
+digistore24_product_id: 693005
+title: "Der Bezieungs Code"
+vendor: "medienversand2014"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://noebauerfxj.wixsite.com/beziehungs-code?aff=adminstore#aff=adminstore"
+sales_page: "https://noebauerfxj.wixsite.com/beziehungs-code"
+language: "de"
+---
 # Der Bezieungs Code
 
 > Product ID `56608` · Digistore24 productId `693005` · [HTML profile page](../../produkte/der-bezieungs-code-56608.html)

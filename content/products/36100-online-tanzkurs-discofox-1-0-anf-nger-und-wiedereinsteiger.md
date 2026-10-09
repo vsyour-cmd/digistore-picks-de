@@ -1,3 +1,24 @@
+---
+product_id: "36100"
+digistore24_product_id: 332807
+title: "ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER"
+vendor: "andyandkellykainz"
+product_type: "Member area and video courses"
+price: 14.7
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.58
+cart_conversion_pct: 10
+cancel_rate_pct: 2.26
+categories: ["Dancing & Music"]
+listed_since: "2020-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andyandkellykainz.com/pakete/?aff=adminstore#aff=adminstore"
+sales_page: "https://andyandkellykainz.com/pakete/"
+language: "de"
+---
 # ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER
 
 > Product ID `36100` · Digistore24 productId `332807` · [HTML profile page](../../produkte/online-tanzkurs-discofox-1-0-anf-nger-und-wiedereinsteiger-36100.html)

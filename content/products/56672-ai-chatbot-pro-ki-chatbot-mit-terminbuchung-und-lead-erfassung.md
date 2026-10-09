@@ -1,3 +1,24 @@
+---
+product_id: "56672"
+digistore24_product_id: 691074
+title: "AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung"
+vendor: "Dani2002"
+product_type: "Remote service provided electronically"
+price: 1398.25
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 279.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/691074?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/691074"
+language: "de"
+---
 # AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung
 
 > Product ID `56672` · Digistore24 productId `691074` · [HTML profile page](../../produkte/ai-chatbot-pro-ki-chatbot-mit-terminbuchung-und-lead-erfassung-56672.html)

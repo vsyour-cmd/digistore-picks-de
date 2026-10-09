@@ -1,3 +1,24 @@
+---
+product_id: "57409"
+digistore24_product_id: 708518
+title: "Frischer Atem beginnt heute – Ihr kompletter 30-Tag"
+vendor: "manuelcosta"
+product_type: "Downloads"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 52
+earnings_per_sale: 24.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Skin Care"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freshbreath-24-de.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://freshbreath-24-de.netlify.app/"
+language: "de"
+---
 # Frischer Atem beginnt heute – Ihr kompletter 30-Tag
 
 > Product ID `57409` · Digistore24 productId `708518` · [HTML profile page](../../produkte/frischer-atem-beginnt-heute-ihr-kompletter-30-tag-57409.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57092"
+digistore24_product_id: 629547
+title: "Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit"
+vendor: "manlex"
+product_type: "Member area and video courses"
+price: 235
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 82.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/629547?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/629547"
+language: "de"
+---
 # Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit
 
 > Product ID `57092` · Digistore24 productId `629547` · [HTML profile page](../../produkte/loslassen-in-4-stunden-dein-weg-zu-innerer-freiheit-57092.html)

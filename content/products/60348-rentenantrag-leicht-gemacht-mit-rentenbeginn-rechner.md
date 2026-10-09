@@ -1,3 +1,24 @@
+---
+product_id: "60348"
+digistore24_product_id: 741748
+title: "Rentenantrag leicht gemacht – mit Rentenbeginn-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741748?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741748"
+language: "de"
+---
 # Rentenantrag leicht gemacht – mit Rentenbeginn-Rechner
 
 > Product ID `60348` · Digistore24 productId `741748` · [HTML profile page](../../produkte/rentenantrag-leicht-gemacht-mit-rentenbeginn-rechner-60348.html)

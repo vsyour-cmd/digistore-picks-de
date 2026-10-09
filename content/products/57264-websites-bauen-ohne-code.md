@@ -1,3 +1,24 @@
+---
+product_id: "57264"
+digistore24_product_id: 704242
+title: "Websites bauen ohne Code"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/websites-ohne-code?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/websites-ohne-code"
+language: "de"
+---
 # Websites bauen ohne Code
 
 > Product ID `57264` · Digistore24 productId `704242` · [HTML profile page](../../produkte/websites-bauen-ohne-code-57264.html)

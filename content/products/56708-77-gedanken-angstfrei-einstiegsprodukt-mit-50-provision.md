@@ -1,3 +1,24 @@
+---
+product_id: "56708"
+digistore24_product_id: 695491
+title: "77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision"
+vendor: "Seelendank"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://angstfrei.shop/produkt/ebook-77-zitate-gedanken-impulse-gegen-angst/?aff=adminstore#aff=adminstore"
+sales_page: "https://angstfrei.shop/produkt/ebook-77-zitate-gedanken-impulse-gegen-angst/"
+language: "de"
+---
 # 77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision
 
 > Product ID `56708` · Digistore24 productId `695491` · [HTML profile page](../../produkte/77-gedanken-angstfrei-einstiegsprodukt-mit-50-provision-56708.html)

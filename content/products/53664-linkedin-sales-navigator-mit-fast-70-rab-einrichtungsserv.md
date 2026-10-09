@@ -1,3 +1,24 @@
+---
+product_id: "53664"
+digistore24_product_id: 631776
+title: "LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtungsserv"
+vendor: "It-und-voipshop-digital"
+product_type: "Remote service provided electronically"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 22.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Services"]
+listed_since: "2025-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/631776?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/631776"
+language: "de"
+---
 # LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtungsserv
 
 > Product ID `53664` · Digistore24 productId `631776` · [HTML profile page](../../produkte/linkedin-sales-navigator-mit-fast-70-rab-einrichtungsserv-53664.html)

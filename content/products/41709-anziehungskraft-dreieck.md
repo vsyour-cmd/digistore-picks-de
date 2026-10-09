@@ -1,3 +1,24 @@
+---
+product_id: "41709"
+digistore24_product_id: 280760
+title: "Anziehungskraft-Dreieck"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 29.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.86
+cart_conversion_pct: 19
+cancel_rate_pct: 6.02
+categories: ["Personal Development"]
+listed_since: "2019-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/anziehungskraft-dreieck/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/anziehungskraft-dreieck/"
+language: "de"
+---
 # Anziehungskraft-Dreieck
 
 > Product ID `41709` · Digistore24 productId `280760` · [HTML profile page](../../produkte/anziehungskraft-dreieck-41709.html)

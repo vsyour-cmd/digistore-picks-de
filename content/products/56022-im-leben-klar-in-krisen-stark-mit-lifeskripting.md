@@ -1,3 +1,24 @@
+---
+product_id: "56022"
+digistore24_product_id: 599232
+title: "Im Leben klar, in Krisen stark - mit LifeSkripting®"
+vendor: "LifeSkripting_"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 140.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dr-hegendoerfer.de/lifeskripting-selbstlernkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://dr-hegendoerfer.de/lifeskripting-selbstlernkurs/"
+language: "de"
+---
 # Im Leben klar, in Krisen stark - mit LifeSkripting®
 
 > Product ID `56022` · Digistore24 productId `599232` · [HTML profile page](../../produkte/im-leben-klar-in-krisen-stark-mit-lifeskripting-56022.html)

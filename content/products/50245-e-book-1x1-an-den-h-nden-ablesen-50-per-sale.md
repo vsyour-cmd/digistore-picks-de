@@ -1,3 +1,24 @@
+---
+product_id: "50245"
+digistore24_product_id: 576458
+title: "E-Book: 1x1 an den Händen ablesen - 50% per Sale"
+vendor: "sussiebe92"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2024-10-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://genialeinfachlernen.com/upsell1x1?aff=adminstore#aff=adminstore"
+sales_page: "https://genialeinfachlernen.com/upsell1x1"
+language: "de"
+---
 # E-Book: 1x1 an den Händen ablesen - 50% per Sale
 
 > Product ID `50245` · Digistore24 productId `576458` · [HTML profile page](../../produkte/e-book-1x1-an-den-h-nden-ablesen-50-per-sale-50245.html)

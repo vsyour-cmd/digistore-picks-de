@@ -1,3 +1,24 @@
+---
+product_id: "59385"
+digistore24_product_id: 733902
+title: "30 UGC-Skripte – Skriptbibliothek mit Matze"
+vendor: "einfachmitmatze"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einfachmitmatze.de/ugc/skriptbibliothek/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/ugc/skriptbibliothek/"
+language: "de"
+---
 # 30 UGC-Skripte – Skriptbibliothek mit Matze
 
 > Product ID `59385` · Digistore24 productId `733902` · [HTML profile page](../../produkte/30-ugc-skripte-skriptbibliothek-mit-matze-59385.html)

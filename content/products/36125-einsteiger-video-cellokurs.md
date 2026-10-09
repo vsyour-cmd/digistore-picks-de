@@ -1,3 +1,24 @@
+---
+product_id: "36125"
+digistore24_product_id: 378778
+title: "Einsteiger Video Cellokurs"
+vendor: "Klassikwelt"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 19.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cellocoach.de/einsteiger-video-cellokurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://cellocoach.de/einsteiger-video-cellokurs/"
+language: "de"
+---
 # Einsteiger Video Cellokurs
 
 > Product ID `36125` · Digistore24 productId `378778` · [HTML profile page](../../produkte/einsteiger-video-cellokurs-36125.html)

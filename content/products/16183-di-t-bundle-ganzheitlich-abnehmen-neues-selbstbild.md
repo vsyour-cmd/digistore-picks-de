@@ -1,3 +1,24 @@
+---
+product_id: "16183"
+digistore24_product_id: 116813
+title: "Diät Bundle - Ganzheitlich Abnehmen + neues Selbstbild"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Food & Drink"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/diet-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/diet-bundle/"
+language: "de"
+---
 # Diät Bundle - Ganzheitlich Abnehmen + neues Selbstbild
 
 > Product ID `16183` · Digistore24 productId `116813` · [HTML profile page](../../produkte/di-t-bundle-ganzheitlich-abnehmen-neues-selbstbild-16183.html)

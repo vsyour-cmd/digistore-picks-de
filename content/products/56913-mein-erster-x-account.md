@@ -1,3 +1,24 @@
+---
+product_id: "56913"
+digistore24_product_id: 701349
+title: "Mein erster X-Account"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/mein-erster-x-account?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/mein-erster-x-account"
+language: "de"
+---
 # Mein erster X-Account
 
 > Product ID `56913` · Digistore24 productId `701349` · [HTML profile page](../../produkte/mein-erster-x-account-56913.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56087"
+digistore24_product_id: 677013
+title: "Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose"
+vendor: "JacquelineSchott"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/677013?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/677013"
+language: "de"
+---
 # Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose
 
 > Product ID `56087` · Digistore24 productId `677013` · [HTML profile page](../../produkte/wenn-f-rsorge-alles-wird-hilfe-bei-demenz-diagnose-56087.html)

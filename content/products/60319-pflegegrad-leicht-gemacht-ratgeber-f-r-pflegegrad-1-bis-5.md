@@ -1,3 +1,24 @@
+---
+product_id: "60319"
+digistore24_product_id: 740161
+title: "Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740161?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740161"
+language: "de"
+---
 # Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5
 
 > Product ID `60319` · Digistore24 productId `740161` · [HTML profile page](../../produkte/pflegegrad-leicht-gemacht-ratgeber-f-r-pflegegrad-1-bis-5-60319.html)

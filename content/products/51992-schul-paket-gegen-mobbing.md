@@ -1,3 +1,24 @@
+---
+product_id: "51992"
+digistore24_product_id: 584787
+title: "Schul-Paket gegen Mobbing"
+vendor: "walk-around-the-world"
+product_type: "Member area and video courses"
+price: 4220.6
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 1392.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2024-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://rinaldo-inabnit-7.mstrpages.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://rinaldo-inabnit-7.mstrpages.com/"
+language: "de"
+---
 # Schul-Paket gegen Mobbing
 
 > Product ID `51992` · Digistore24 productId `584787` · [HTML profile page](../../produkte/schul-paket-gegen-mobbing-51992.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58928"
+digistore24_product_id: 727784
+title: "Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere"
+vendor: "maikheidemann2012"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Education"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/727784/adminstore"
+sales_page: "https://www.ac-kiamse.de/#aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere
 
 > Product ID `58928` · Digistore24 productId `727784` · [HTML profile page](../../produkte/mensch-und-ki-der-praxisnahe-einsteiger-guide-f-r-bessere-58928.html)

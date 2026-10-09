@@ -1,3 +1,24 @@
+---
+product_id: "50872"
+digistore24_product_id: 589109
+title: "Facebook Reichweiten Blueprint - Schritt für Schritt Guide"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Facebook-Blueprint?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Facebook-Blueprint"
+language: "de"
+---
 # Facebook Reichweiten Blueprint - Schritt für Schritt Guide
 
 > Product ID `50872` · Digistore24 productId `589109` · [HTML profile page](../../produkte/facebook-reichweiten-blueprint-schritt-f-r-schritt-guide-50872.html)

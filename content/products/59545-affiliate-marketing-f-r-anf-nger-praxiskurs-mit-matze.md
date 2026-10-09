@@ -1,3 +1,24 @@
+---
+product_id: "59545"
+digistore24_product_id: 736121
+title: "Affiliate Marketing für Anfänger – Praxiskurs mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736121?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736121"
+language: "de"
+---
 # Affiliate Marketing für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59545` · Digistore24 productId `736121` · [HTML profile page](../../produkte/affiliate-marketing-f-r-anf-nger-praxiskurs-mit-matze-59545.html)

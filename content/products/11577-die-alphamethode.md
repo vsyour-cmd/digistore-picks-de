@@ -1,3 +1,24 @@
+---
+product_id: "11577"
+digistore24_product_id: 54831
+title: "Die Alphamethode"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2015-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lerntipp.com/alphawellen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lerntipp.com/alphawellen"
+language: "de"
+---
 # Die Alphamethode
 
 > Product ID `11577` · Digistore24 productId `54831` · [HTML profile page](../../produkte/die-alphamethode-11577.html)

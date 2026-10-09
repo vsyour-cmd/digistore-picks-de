@@ -1,3 +1,24 @@
+---
+product_id: "47191"
+digistore24_product_id: 230767
+title: "No Brainer Club"
+vendor: "BullMarketsMedia"
+product_type: "E-books"
+price: 2603.09
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 486.39
+cart_conversion_pct: 2
+cancel_rate_pct: 0.82
+categories: ["Business & Investment"]
+listed_since: "2018-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.sharedeals.de/nobrainerclub/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sharedeals.de/nobrainerclub/"
+language: "de"
+---
 # No Brainer Club
 
 > Product ID `47191` · Digistore24 productId `230767` · [HTML profile page](../../produkte/no-brainer-club-47191.html)

@@ -1,3 +1,24 @@
+---
+product_id: "35457"
+digistore24_product_id: 349188
+title: "iPhone Fotokurs [Online-Kurs]"
+vendor: "rheinrost"
+product_type: "Member area and video courses"
+price: 15.85
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 6.63
+cart_conversion_pct: 28
+cancel_rate_pct: 1.02
+categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+listed_since: "2020-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/iphone-fotokurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/iphone-fotokurs/"
+language: "de"
+---
 # iPhone Fotokurs [Online-Kurs]
 
 > Product ID `35457` · Digistore24 productId `349188` · [HTML profile page](../../produkte/iphone-fotokurs-online-kurs-35457.html)

@@ -1,3 +1,24 @@
+---
+product_id: "12851"
+digistore24_product_id: 90663
+title: "Der Zielnavigator"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 100.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 50.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2016-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/zielnavigator-online-seminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/zielnavigator-online-seminar/"
+language: "de"
+---
 # Der Zielnavigator
 
 > Product ID `12851` · Digistore24 productId `90663` · [HTML profile page](../../produkte/der-zielnavigator-12851.html)

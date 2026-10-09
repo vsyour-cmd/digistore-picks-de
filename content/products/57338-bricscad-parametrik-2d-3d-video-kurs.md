@@ -1,3 +1,24 @@
+---
+product_id: "57338"
+digistore24_product_id: 537260
+title: "BricsCAD Parametrik 2D/3D Video-Kurs"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 22.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://cad-video.de/bricscad-parametrik-channel?aff=adminstore#aff=adminstore"
+sales_page: "https://cad-video.de/bricscad-parametrik-channel"
+language: "de"
+---
 # BricsCAD Parametrik 2D/3D Video-Kurs
 
 > Product ID `57338` · Digistore24 productId `537260` · [HTML profile page](../../produkte/bricscad-parametrik-2d-3d-video-kurs-57338.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28615"
+digistore24_product_id: 259648
+title: "Wecke den \"Optimisten\" in Deinem Hund - von Mirjam Cordt"
+vendor: "ZappZapp"
+product_type: "Online coaching"
+price: 184.71
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 55.4
+cart_conversion_pct: 13
+cancel_rate_pct: 2.83
+categories: ["Animals & Pets"]
+listed_since: "2019-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/wecke-den-optimisten-in-deinem-hund?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/wecke-den-optimisten-in-deinem-hund"
+language: "de"
+---
 # Wecke den "Optimisten" in Deinem Hund - von Mirjam Cordt
 
 > Product ID `28615` · Digistore24 productId `259648` · [HTML profile page](../../produkte/wecke-den-optimisten-in-deinem-hund-von-mirjam-cordt-28615.html)

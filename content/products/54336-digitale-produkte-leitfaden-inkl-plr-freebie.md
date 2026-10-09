@@ -1,3 +1,24 @@
+---
+product_id: "54336"
+digistore24_product_id: 639980
+title: "Digitale Produkte Leitfaden inkl. PLR (Freebie)"
+vendor: "MoneyCreators"
+product_type: "Downloads"
+price: 0.82
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.35
+cart_conversion_pct: 54
+cancel_rate_pct: 5.11
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/digiplrfreebie?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/digiplrfreebie"
+language: "de"
+---
 # Digitale Produkte Leitfaden inkl. PLR (Freebie)
 
 > Product ID `54336` · Digistore24 productId `639980` · [HTML profile page](../../produkte/digitale-produkte-leitfaden-inkl-plr-freebie-54336.html)

@@ -1,3 +1,24 @@
+---
+product_id: "37121"
+digistore24_product_id: 200735
+title: "Backlink-Setter"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2018-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/backlink-power-fuer-mehr-einnahmen-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/backlink-power-fuer-mehr-einnahmen-3/"
+language: "de"
+---
 # Backlink-Setter
 
 > Product ID `37121` · Digistore24 productId `200735` · [HTML profile page](../../produkte/backlink-setter-37121.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51419"
+digistore24_product_id: 597672
+title: "Starke Kinder stärken"
+vendor: "Mamipassion_Kerstin"
+product_type: "Downloads"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2025-02-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/597672?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/597672"
+language: "de"
+---
 # Starke Kinder stärken
 
 > Product ID `51419` · Digistore24 productId `597672` · [HTML profile page](../../produkte/starke-kinder-st-rken-51419.html)

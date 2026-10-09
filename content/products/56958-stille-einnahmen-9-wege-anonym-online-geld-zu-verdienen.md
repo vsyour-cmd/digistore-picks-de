@@ -1,3 +1,24 @@
+---
+product_id: "56958"
+digistore24_product_id: 701272
+title: "Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen"
+vendor: "MagicPotter"
+product_type: "E-books"
+price: 19.33
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 8.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/701272?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/701272"
+language: "de"
+---
 # Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen
 
 > Product ID `56958` · Digistore24 productId `701272` · [HTML profile page](../../produkte/stille-einnahmen-9-wege-anonym-online-geld-zu-verdienen-56958.html)

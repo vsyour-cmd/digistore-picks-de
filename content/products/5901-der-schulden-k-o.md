@@ -1,3 +1,24 @@
+---
+product_id: "5901"
+digistore24_product_id: 39737
+title: "DER SCHULDEN-K.o."
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.57
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Law & Justice"]
+listed_since: "2015-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/sko-digi/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/sko-digi/index.html"
+language: "de"
+---
 # DER SCHULDEN-K.o.
 
 > Product ID `5901` · Digistore24 productId `39737` · [HTML profile page](../../produkte/der-schulden-k-o-5901.html)

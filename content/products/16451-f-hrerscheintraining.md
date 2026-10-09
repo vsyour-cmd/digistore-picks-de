@@ -1,3 +1,24 @@
+---
+product_id: "16451"
+digistore24_product_id: 110413
+title: "Führerscheintraining"
+vendor: "UWimmer"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 13.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2016-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://fuehrerscheintraining.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://fuehrerscheintraining.de/"
+language: "de"
+---
 # Führerscheintraining
 
 > Product ID `16451` · Digistore24 productId `110413` · [HTML profile page](../../produkte/f-hrerscheintraining-16451.html)

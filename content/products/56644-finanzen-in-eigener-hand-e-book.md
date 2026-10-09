@@ -1,3 +1,24 @@
+---
+product_id: "56644"
+digistore24_product_id: 694925
+title: "Finanzen in eigener Hand (E-Book)"
+vendor: "worldxpb"
+product_type: "E-books"
+price: 22.26
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 11.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Finances"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694925?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694925"
+language: "de"
+---
 # Finanzen in eigener Hand (E-Book)
 
 > Product ID `56644` · Digistore24 productId `694925` · [HTML profile page](../../produkte/finanzen-in-eigener-hand-e-book-56644.html)

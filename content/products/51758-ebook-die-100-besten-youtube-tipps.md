@@ -1,3 +1,24 @@
+---
+product_id: "51758"
+digistore24_product_id: 601987
+title: "eBook: Die 100 besten Youtube Tipps"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/ebook-die-100-besten-youtube-tipps/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/ebook-die-100-besten-youtube-tipps/"
+language: "de"
+---
 # eBook: Die 100 besten Youtube Tipps
 
 > Product ID `51758` · Digistore24 productId `601987` · [HTML profile page](../../produkte/ebook-die-100-besten-youtube-tipps-51758.html)

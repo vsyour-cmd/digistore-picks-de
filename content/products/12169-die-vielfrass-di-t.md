@@ -1,3 +1,24 @@
+---
+product_id: "12169"
+digistore24_product_id: 87095
+title: "DIE VIELFRASS-DIÄT"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.04
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Health & Fitness"]
+listed_since: "2016-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-vd/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-vd/index.html"
+language: "de"
+---
 # DIE VIELFRASS-DIÄT
 
 > Product ID `12169` · Digistore24 productId `87095` · [HTML profile page](../../produkte/die-vielfrass-di-t-12169.html)

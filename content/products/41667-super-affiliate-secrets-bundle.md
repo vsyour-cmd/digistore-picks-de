@@ -1,3 +1,24 @@
+---
+product_id: "41667"
+digistore24_product_id: 364310
+title: "Super-Affiliate Secrets Bundle"
+vendor: "startuprakete"
+product_type: "Member area and video courses"
+price: 7.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 173.92
+cart_conversion_pct: 4
+cancel_rate_pct: 2.67
+categories: ["Computer & Internet"]
+listed_since: "2020-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://startuprakete.funnelcockpit.com/super-affiliate-secrets-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://startuprakete.funnelcockpit.com/super-affiliate-secrets-bundle/"
+language: "de"
+---
 # Super-Affiliate Secrets Bundle
 
 > Product ID `41667` · Digistore24 productId `364310` · [HTML profile page](../../produkte/super-affiliate-secrets-bundle-41667.html)

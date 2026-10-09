@@ -1,3 +1,24 @@
+---
+product_id: "21399"
+digistore24_product_id: 182603
+title: "SCHMERZFREIE SCHULTERN:  DEUTSCHLANDS ERSTE ONLINETHERAPIE"
+vendor: "bodyLIFE"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://schulter-schmerzfrei.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://schulter-schmerzfrei.de/"
+language: "de"
+---
 # SCHMERZFREIE SCHULTERN:  DEUTSCHLANDS ERSTE ONLINETHERAPIE
 
 > Product ID `21399` · Digistore24 productId `182603` · [HTML profile page](../../produkte/schmerzfreie-schultern-deutschlands-erste-onlinetherapie-21399.html)

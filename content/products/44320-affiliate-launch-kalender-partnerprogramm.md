@@ -1,3 +1,24 @@
+---
+product_id: "44320"
+digistore24_product_id: 500221
+title: "Affiliate Launch Kalender | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 5.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.profitbuddies.de/affiliate-launch-kalender?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profitbuddies.de/affiliate-launch-kalender"
+language: "de"
+---
 # Affiliate Launch Kalender | Partnerprogramm
 
 > Product ID `44320` · Digistore24 productId `500221` · [HTML profile page](../../produkte/affiliate-launch-kalender-partnerprogramm-44320.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54876"
+digistore24_product_id: 653546
+title: "LiRa Dashboard – Effizientes Offline-Fallmanagement"
+vendor: "LiraDigiPro"
+product_type: "Software"
+price: 75.2
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 26.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Software"]
+listed_since: "2025-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/653546?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/653546"
+language: "de"
+---
 # LiRa Dashboard – Effizientes Offline-Fallmanagement
 
 > Product ID `54876` · Digistore24 productId `653546` · [HTML profile page](../../produkte/lira-dashboard-effizientes-offline-fallmanagement-54876.html)

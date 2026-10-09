@@ -1,3 +1,24 @@
+---
+product_id: "36823"
+digistore24_product_id: 384858
+title: "Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer"
+vendor: "herozon"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://home.herozon.de/sexerfolgsgeheimnisse-sp?aff=adminstore#aff=adminstore"
+sales_page: "https://home.herozon.de/sexerfolgsgeheimnisse-sp"
+language: "de"
+---
 # Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer
 
 > Product ID `36823` · Digistore24 productId `384858` · [HTML profile page](../../produkte/das-sex-erfolgsgeheimnis-au-ergew-hnlicher-m-nner-36823.html)

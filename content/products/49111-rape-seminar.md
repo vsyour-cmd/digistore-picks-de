@@ -1,3 +1,24 @@
+---
+product_id: "49111"
+digistore24_product_id: 563103
+title: "Rape Seminar"
+vendor: "MDretreat"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2024-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dominichenry.systeme.io/offene-haende-a2413c09?aff=adminstore#aff=adminstore"
+sales_page: "https://dominichenry.systeme.io/offene-haende-a2413c09"
+language: "de"
+---
 # Rape Seminar
 
 > Product ID `49111` · Digistore24 productId `563103` · [HTML profile page](../../produkte/rape-seminar-49111.html)

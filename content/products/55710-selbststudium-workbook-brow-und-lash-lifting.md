@@ -1,3 +1,24 @@
+---
+product_id: "55710"
+digistore24_product_id: 667552
+title: "Selbststudium Workbook Brow und Lash Lifting"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/667552?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667552"
+language: "de"
+---
 # Selbststudium Workbook Brow und Lash Lifting
 
 > Product ID `55710` · Digistore24 productId `667552` · [HTML profile page](../../produkte/selbststudium-workbook-brow-und-lash-lifting-55710.html)

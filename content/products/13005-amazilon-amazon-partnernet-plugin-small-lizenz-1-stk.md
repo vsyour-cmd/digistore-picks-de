@@ -1,3 +1,24 @@
+---
+product_id: "13005"
+digistore24_product_id: 90363
+title: "Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)"
+vendor: "hinmed"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 5.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2016-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://amazilon.com/"
+language: "de"
+---
 # Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)
 
 > Product ID `13005` · Digistore24 productId `90363` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-small-lizenz-1-stk-13005.html)

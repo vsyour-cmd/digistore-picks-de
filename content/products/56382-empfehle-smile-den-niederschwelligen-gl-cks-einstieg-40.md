@@ -1,3 +1,24 @@
+---
+product_id: "56382"
+digistore24_product_id: 663444
+title: "Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%"
+vendor: "Magierschule"
+product_type: "Member area and video courses"
+price: 23.77
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.18
+cart_conversion_pct: 23
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://magierschule.de/smile-designe-dein-lebensglueck?aff=adminstore#aff=adminstore"
+sales_page: "https://magierschule.de/smile-designe-dein-lebensglueck"
+language: "de"
+---
 # Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%
 
 > Product ID `56382` · Digistore24 productId `663444` · [HTML profile page](../../produkte/empfehle-smile-den-niederschwelligen-gl-cks-einstieg-40-56382.html)

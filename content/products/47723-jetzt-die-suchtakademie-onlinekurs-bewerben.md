@@ -1,3 +1,24 @@
+---
+product_id: "47723"
+digistore24_product_id: 399868
+title: "Jetzt die Suchtakademie (Onlinekurs) bewerben"
+vendor: "livswach"
+product_type: "Member area and video courses"
+price: 573.41
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 114.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2021-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aufge-wacht.de/suchtakademie-online/?aff=adminstore#aff=adminstore"
+sales_page: "https://aufge-wacht.de/suchtakademie-online/"
+language: "de"
+---
 # Jetzt die Suchtakademie (Onlinekurs) bewerben
 
 > Product ID `47723` · Digistore24 productId `399868` · [HTML profile page](../../produkte/jetzt-die-suchtakademie-onlinekurs-bewerben-47723.html)

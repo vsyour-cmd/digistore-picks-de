@@ -1,3 +1,24 @@
+---
+product_id: "55879"
+digistore24_product_id: 673831
+title: "Geld verdienen mit KI und Social Media"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/673831?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/673831"
+language: "de"
+---
 # Geld verdienen mit KI und Social Media
 
 > Product ID `55879` · Digistore24 productId `673831` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-und-social-media-55879.html)

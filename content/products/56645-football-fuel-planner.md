@@ -1,3 +1,24 @@
+---
+product_id: "56645"
+digistore24_product_id: 689269
+title: "Football Fuel Planner"
+vendor: "JMFussballathletik"
+product_type: "Software"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://footballfuelplanner.com?aff=adminstore#aff=adminstore"
+sales_page: "https://footballfuelplanner.com"
+language: "de"
+---
 # Football Fuel Planner
 
 > Product ID `56645` · Digistore24 productId `689269` · [HTML profile page](../../produkte/football-fuel-planner-56645.html)

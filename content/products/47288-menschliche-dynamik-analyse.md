@@ -1,3 +1,24 @@
+---
+product_id: "47288"
+digistore24_product_id: 531838
+title: "Menschliche Dynamik​ - Analyse"
+vendor: "talent-score"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 23.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Sport"]
+listed_since: "2023-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://talentscore.de/menschliche-dynamik/?aff=adminstore#aff=adminstore"
+sales_page: "https://talentscore.de/menschliche-dynamik/"
+language: "de"
+---
 # Menschliche Dynamik​ - Analyse
 
 > Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../produkte/menschliche-dynamik-analyse-47288.html)

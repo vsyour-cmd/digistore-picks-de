@@ -1,3 +1,24 @@
+---
+product_id: "40766"
+digistore24_product_id: 453185
+title: "Der Headline Generator (Yellow-Press-Methode)"
+vendor: "carstenfeuerbach"
+product_type: "E-books"
+price: 0.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.22
+cart_conversion_pct: 51
+cancel_rate_pct: 4.26
+categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2022-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://carsten-feuerbach-3.mstrpages.com/headline-generator?aff=adminstore#aff=adminstore"
+sales_page: "https://carsten-feuerbach-3.mstrpages.com/headline-generator"
+language: "de"
+---
 # Der Headline Generator (Yellow-Press-Methode)
 
 > Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../produkte/der-headline-generator-yellow-press-methode-40766.html)

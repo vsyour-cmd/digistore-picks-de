@@ -1,3 +1,24 @@
+---
+product_id: "48990"
+digistore24_product_id: 558753
+title: "Leichtigkeit im Studium - Wohlbefinden für Studierende"
+vendor: "OKsuccess"
+product_type: "Downloads"
+price: 35.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.07
+cart_conversion_pct: 3
+cancel_rate_pct: 0.17
+categories: ["Education","Personal Development"]
+listed_since: "2024-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brainfood4you.com/lp-leichtigkeit-im-studium-album?aff=adminstore#aff=adminstore"
+sales_page: "https://brainfood4you.com/lp-leichtigkeit-im-studium-album"
+language: "de"
+---
 # Leichtigkeit im Studium - Wohlbefinden für Studierende
 
 > Product ID `48990` · Digistore24 productId `558753` · [HTML profile page](../../produkte/leichtigkeit-im-studium-wohlbefinden-f-r-studierende-48990.html)

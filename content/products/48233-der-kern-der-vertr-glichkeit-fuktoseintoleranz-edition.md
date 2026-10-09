@@ -1,3 +1,24 @@
+---
+product_id: "48233"
+digistore24_product_id: 722699
+title: "Der Kern der Verträglichkeit - Fuktoseintoleranz Edition"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 301.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 150.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/722699?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/722699"
+language: "de"
+---
 # Der Kern der Verträglichkeit - Fuktoseintoleranz Edition
 
 > Product ID `48233` · Digistore24 productId `722699` · [HTML profile page](../../produkte/der-kern-der-vertr-glichkeit-fuktoseintoleranz-edition-48233.html)

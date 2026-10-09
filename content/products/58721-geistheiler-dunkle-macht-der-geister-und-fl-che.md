@@ -1,3 +1,24 @@
+---
+product_id: "58721"
+digistore24_product_id: 716529
+title: "Geistheiler, dunkle Macht der Geister und Flüche."
+vendor: "Novaris_web"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Travel & Culture"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/gh.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/gh.php"
+language: "de"
+---
 # Geistheiler, dunkle Macht der Geister und Flüche.
 
 > Product ID `58721` · Digistore24 productId `716529` · [HTML profile page](../../produkte/geistheiler-dunkle-macht-der-geister-und-fl-che-58721.html)

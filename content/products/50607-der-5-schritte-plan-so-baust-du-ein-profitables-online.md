@@ -1,3 +1,24 @@
+---
+product_id: "50607"
+digistore24_product_id: 583877
+title: "Der 5-Schritte-Plan: So baust du ein profitables Online..."
+vendor: "Brauerbursch"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/KAEyxpcistHw2BFTX?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/KAEyxpcistHw2BFTX"
+language: "de"
+---
 # Der 5-Schritte-Plan: So baust du ein profitables Online...
 
 > Product ID `50607` · Digistore24 productId `583877` · [HTML profile page](../../produkte/der-5-schritte-plan-so-baust-du-ein-profitables-online-50607.html)

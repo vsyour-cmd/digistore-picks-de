@@ -1,3 +1,24 @@
+---
+product_id: "12971"
+digistore24_product_id: 91963
+title: "Die Perfekte Verkaufsmaschine"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 1.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.58
+cart_conversion_pct: 44
+cancel_rate_pct: 4.14
+categories: ["Online Marketing & E-Business"]
+listed_since: "2016-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://lp.larspilawski.de/die-automatische-verkaufsmaschine?aff=adminstore#aff=adminstore"
+sales_page: "http://lp.larspilawski.de/die-automatische-verkaufsmaschine"
+language: "de"
+---
 # Die Perfekte Verkaufsmaschine
 
 > Product ID `12971` · Digistore24 productId `91963` · [HTML profile page](../../produkte/die-perfekte-verkaufsmaschine-12971.html)

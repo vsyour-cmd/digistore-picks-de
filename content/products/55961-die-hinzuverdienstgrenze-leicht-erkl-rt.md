@@ -1,3 +1,24 @@
+---
+product_id: "55961"
+digistore24_product_id: 645534
+title: "Die Hinzuverdienstgrenze leicht erklärt"
+vendor: "verwitwet-leben"
+product_type: "Member area and video courses"
+price: 41.13
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 37.24
+cart_conversion_pct: 18
+cancel_rate_pct: 0.45
+categories: ["Business & Investment","Education"]
+listed_since: "2025-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/?aff=adminstore#aff=adminstore"
+sales_page: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/"
+language: "de"
+---
 # Die Hinzuverdienstgrenze leicht erklärt
 
 > Product ID `55961` · Digistore24 productId `645534` · [HTML profile page](../../produkte/die-hinzuverdienstgrenze-leicht-erkl-rt-55961.html)

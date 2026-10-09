@@ -1,3 +1,24 @@
+---
+product_id: "55514"
+digistore24_product_id: 654461
+title: "Das moderne Bewerbungshandbuch – Workbook und KI"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2025-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-landingpage1/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-landingpage1/"
+language: "de"
+---
 # Das moderne Bewerbungshandbuch – Workbook und KI
 
 > Product ID `55514` · Digistore24 productId `654461` · [HTML profile page](../../produkte/das-moderne-bewerbungshandbuch-workbook-und-ki-55514.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47024"
+digistore24_product_id: 21973
+title: "Neurostreams™ Wellness Walk"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.neurostreams.de/portfolio/stress-abbauen/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.neurostreams.de/portfolio/stress-abbauen/"
+language: "de"
+---
 # Neurostreams™ Wellness Walk
 
 > Product ID `47024` · Digistore24 productId `21973` · [HTML profile page](../../produkte/neurostreams-wellness-walk-47024.html)

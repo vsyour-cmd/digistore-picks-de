@@ -1,3 +1,24 @@
+---
+product_id: "44123"
+digistore24_product_id: 489323
+title: "Productivity Hacks - Produktiver und effektiver werden"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/prodhavkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/prodhavkslp/"
+language: "de"
+---
 # Productivity Hacks - Produktiver und effektiver werden
 
 > Product ID `44123` · Digistore24 productId `489323` · [HTML profile page](../../produkte/productivity-hacks-produktiver-und-effektiver-werden-44123.html)

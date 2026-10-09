@@ -1,3 +1,24 @@
+---
+product_id: "58359"
+digistore24_product_id: 721170
+title: "AssetKi Advisor – 30 % monatlich wiederkehrende Provision"
+vendor: "genion"
+product_type: "Software"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 100.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software","Real Estate"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://assetki.de/go/advisor?aff=adminstore#aff=adminstore"
+sales_page: "https://assetki.de/go/advisor"
+language: "de"
+---
 # AssetKi Advisor – 30 % monatlich wiederkehrende Provision
 
 > Product ID `58359` · Digistore24 productId `721170` · [HTML profile page](../../produkte/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html)

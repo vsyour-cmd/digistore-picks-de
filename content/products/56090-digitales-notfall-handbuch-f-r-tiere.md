@@ -1,3 +1,24 @@
+---
+product_id: "56090"
+digistore24_product_id: 679064
+title: "Digitales Notfall Handbuch für Tiere"
+vendor: "kathi468111de"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/679064?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679064"
+language: "de"
+---
 # Digitales Notfall Handbuch für Tiere
 
 > Product ID `56090` · Digistore24 productId `679064` · [HTML profile page](../../produkte/digitales-notfall-handbuch-f-r-tiere-56090.html)

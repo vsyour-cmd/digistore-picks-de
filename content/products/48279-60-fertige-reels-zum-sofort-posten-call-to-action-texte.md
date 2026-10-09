@@ -1,3 +1,24 @@
+---
+product_id: "48279"
+digistore24_product_id: 555231
+title: "60 fertige Reels zum sofort posten - Call to Action + Texte"
+vendor: "NiclasH"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Photography & Film"]
+listed_since: "2024-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/555231?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/555231"
+language: "de"
+---
 # 60 fertige Reels zum sofort posten - Call to Action + Texte
 
 > Product ID `48279` · Digistore24 productId `555231` · [HTML profile page](../../produkte/60-fertige-reels-zum-sofort-posten-call-to-action-texte-48279.html)

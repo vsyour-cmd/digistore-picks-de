@@ -1,3 +1,24 @@
+---
+product_id: "50473"
+digistore24_product_id: 578464
+title: "NextGenFusion - Expert"
+vendor: "NextGenFusion"
+product_type: "Member area and video courses"
+price: 192.7
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 86.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2024-11-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/578464?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/578464"
+language: "de"
+---
 # NextGenFusion - Expert
 
 > Product ID `50473` · Digistore24 productId `578464` · [HTML profile page](../../produkte/nextgenfusion-expert-50473.html)

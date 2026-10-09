@@ -1,3 +1,24 @@
+---
+product_id: "48072"
+digistore24_product_id: 546031
+title: "Das Million Euro Business"
+vendor: "Cleriker"
+product_type: "Member area and video courses"
+price: 937.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 468.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://los.larspilawski.de/5-schritte-zur-ersten-digitalen-million-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://los.larspilawski.de/5-schritte-zur-ersten-digitalen-million-ds"
+language: "de"
+---
 # Das Million Euro Business
 
 > Product ID `48072` · Digistore24 productId `546031` · [HTML profile page](../../produkte/das-million-euro-business-48072.html)

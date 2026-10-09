@@ -1,3 +1,24 @@
+---
+product_id: "60120"
+digistore24_product_id: 738864
+title: "Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)"
+vendor: "setwert"
+product_type: "Member area and video courses"
+price: 98.71
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 39.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://setwert.de/halteplan/?aff=adminstore#aff=adminstore"
+sales_page: "https://setwert.de/halteplan/"
+language: "de"
+---
 # Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)
 
 > Product ID `60120` · Digistore24 productId `738864` · [HTML profile page](../../produkte/setwert-halteplan-gewicht-halten-nach-dem-abnehmen-40-provision-60120.html)

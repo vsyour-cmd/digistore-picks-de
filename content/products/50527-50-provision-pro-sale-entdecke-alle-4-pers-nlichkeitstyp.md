@@ -1,3 +1,24 @@
+---
+product_id: "50527"
+digistore24_product_id: 582142
+title: "50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp"
+vendor: "Angelika-Traumerfuellerin"
+product_type: "Downloads"
+price: 65.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://seelengarten-phoenix.com/bundle-power-typen-paket?aff=adminstore#aff=adminstore"
+sales_page: "https://seelengarten-phoenix.com/bundle-power-typen-paket"
+language: "de"
+---
 # 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp
 
 > Product ID `50527` · Digistore24 productId `582142` · [HTML profile page](../../produkte/50-provision-pro-sale-entdecke-alle-4-pers-nlichkeitstyp-50527.html)

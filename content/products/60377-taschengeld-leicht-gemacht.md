@@ -1,3 +1,24 @@
+---
+product_id: "60377"
+digistore24_product_id: 742615
+title: "Taschengeld leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742615?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742615"
+language: "de"
+---
 # Taschengeld leicht gemacht
 
 > Product ID `60377` · Digistore24 productId `742615` · [HTML profile page](../../produkte/taschengeld-leicht-gemacht-60377.html)

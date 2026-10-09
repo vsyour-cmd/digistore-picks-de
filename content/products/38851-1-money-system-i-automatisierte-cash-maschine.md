@@ -1,3 +1,24 @@
+---
+product_id: "38851"
+digistore24_product_id: 326584
+title: "1% Money System I Automatisierte Cash Maschine"
+vendor: "moserda"
+product_type: "Member area and video courses"
+price: 35.9
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 98.46
+cart_conversion_pct: 8
+cancel_rate_pct: 1.26
+categories: ["Social Media"]
+listed_since: "2020-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einprozentclub.com/moneysystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://einprozentclub.com/moneysystem/"
+language: "de"
+---
 # 1% Money System I Automatisierte Cash Maschine
 
 > Product ID `38851` · Digistore24 productId `326584` · [HTML profile page](../../produkte/1-money-system-i-automatisierte-cash-maschine-38851.html)

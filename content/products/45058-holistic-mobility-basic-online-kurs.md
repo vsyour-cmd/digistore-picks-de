@@ -1,3 +1,24 @@
+---
+product_id: "45058"
+digistore24_product_id: 512313
+title: "Holistic Mobility BASIC [Online Kurs]"
+vendor: "timboettner"
+product_type: "Member area and video courses"
+price: 930.6
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 93.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/512313?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/512313"
+language: "de"
+---
 # Holistic Mobility BASIC [Online Kurs]
 
 > Product ID `45058` · Digistore24 productId `512313` · [HTML profile page](../../produkte/holistic-mobility-basic-online-kurs-45058.html)

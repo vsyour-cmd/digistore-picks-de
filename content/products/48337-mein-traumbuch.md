@@ -1,3 +1,24 @@
+---
+product_id: "48337"
+digistore24_product_id: 556195
+title: "Mein Traumbuch"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/556195?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/556195"
+language: "de"
+---
 # Mein Traumbuch
 
 > Product ID `48337` · Digistore24 productId `556195` · [HTML profile page](../../produkte/mein-traumbuch-48337.html)

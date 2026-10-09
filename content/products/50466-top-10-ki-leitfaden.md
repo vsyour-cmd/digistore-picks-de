@@ -1,3 +1,24 @@
+---
+product_id: "50466"
+digistore24_product_id: 579165
+title: "Top 10 KI Leitfaden"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 15.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93"
+language: "de"
+---
 # Top 10 KI Leitfaden
 
 > Product ID `50466` · Digistore24 productId `579165` · [HTML profile page](../../produkte/top-10-ki-leitfaden-50466.html)

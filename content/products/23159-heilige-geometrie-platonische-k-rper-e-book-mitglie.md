@@ -1,3 +1,24 @@
+---
+product_id: "23159"
+digistore24_product_id: 206741
+title: "Heilige Geometrie - Platonische Körper - E-Book      Mitglie"
+vendor: "AndreasBeutel"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2018-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/"
+language: "de"
+---
 # Heilige Geometrie - Platonische Körper - E-Book      Mitglie
 
 > Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../produkte/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)

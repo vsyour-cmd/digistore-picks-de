@@ -1,3 +1,24 @@
+---
+product_id: "59704"
+digistore24_product_id: 652374
+title: "EU AI Act – Datenherkunft und Trainingsdaten"
+vendor: "MindshiftDigitalStudio"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652374?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652374"
+language: "de"
+---
 # EU AI Act – Datenherkunft und Trainingsdaten
 
 > Product ID `59704` · Digistore24 productId `652374` · [HTML profile page](../../produkte/eu-ai-act-datenherkunft-und-trainingsdaten-59704.html)

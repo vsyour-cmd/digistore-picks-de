@@ -1,3 +1,24 @@
+---
+product_id: "41878"
+digistore24_product_id: 470337
+title: "Money Flow! 55 Ideen für passives Einkommen"
+vendor: "growstudio"
+product_type: "E-books"
+price: 13.59
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.businessheldinnen.com/money-flow-55-ideen-fuer-passives-einkommen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.businessheldinnen.com/money-flow-55-ideen-fuer-passives-einkommen/"
+language: "de"
+---
 # Money Flow! 55 Ideen für passives Einkommen
 
 > Product ID `41878` · Digistore24 productId `470337` · [HTML profile page](../../produkte/money-flow-55-ideen-f-r-passives-einkommen-41878.html)

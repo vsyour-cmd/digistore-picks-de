@@ -1,3 +1,24 @@
+---
+product_id: "58913"
+digistore24_product_id: 729732
+title: "Dein nächster Schritt - Bewerbung und Karrierewechsel"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Leadership & Management"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729732?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729732"
+language: "de"
+---
 # Dein nächster Schritt - Bewerbung und Karrierewechsel
 
 > Product ID `58913` · Digistore24 productId `729732` · [HTML profile page](../../produkte/dein-n-chster-schritt-bewerbung-und-karrierewechsel-58913.html)

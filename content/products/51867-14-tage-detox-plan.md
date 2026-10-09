@@ -1,3 +1,24 @@
+---
+product_id: "51867"
+digistore24_product_id: 601282
+title: "14 Tage Detox-Plan"
+vendor: "onlineratgeber24"
+product_type: "Member area and video courses"
+price: 261.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 130.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.startimpulse.online/14-tage-detox-plan/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startimpulse.online/14-tage-detox-plan/"
+language: "de"
+---
 # 14 Tage Detox-Plan
 
 > Product ID `51867` · Digistore24 productId `601282` · [HTML profile page](../../produkte/14-tage-detox-plan-51867.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44072"
+digistore24_product_id: 498994
+title: "Mit Lead Magneten Online Geld verdienen"
+vendor: "Spekulatius"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.62
+cart_conversion_pct: 39
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-05-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/mitleadmagnetgeldverdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/mitleadmagnetgeldverdienen/"
+language: "de"
+---
 # Mit Lead Magneten Online Geld verdienen
 
 > Product ID `44072` · Digistore24 productId `498994` · [HTML profile page](../../produkte/mit-lead-magneten-online-geld-verdienen-44072.html)

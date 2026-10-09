@@ -1,3 +1,24 @@
+---
+product_id: "52602"
+digistore24_product_id: 614461
+title: "E-Book - Nebenverdienst Online mit Affiliate-Marketing"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Nebenverdienst-Online?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Nebenverdienst-Online"
+language: "de"
+---
 # E-Book - Nebenverdienst Online mit Affiliate-Marketing
 
 > Product ID `52602` · Digistore24 productId `614461` · [HTML profile page](../../produkte/e-book-nebenverdienst-online-mit-affiliate-marketing-52602.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60055"
+digistore24_product_id: 738771
+title: "Deine Energie gehört dir"
+vendor: "entdeckerei"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738771?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738771"
+language: "de"
+---
 # Deine Energie gehört dir
 
 > Product ID `60055` · Digistore24 productId `738771` · [HTML profile page](../../produkte/deine-energie-geh-rt-dir-60055.html)

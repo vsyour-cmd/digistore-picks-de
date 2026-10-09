@@ -1,3 +1,24 @@
+---
+product_id: "15377"
+digistore24_product_id: 119253
+title: "KMM2016 Demenz - Digitales Kongresspaket"
+vendor: "AMMSpitz"
+product_type: "Member area and video courses"
+price: 117.46
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 52.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/"
+language: "de"
+---
 # KMM2016 Demenz - Digitales Kongresspaket
 
 > Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../produkte/kmm2016-demenz-digitales-kongresspaket-15377.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41339"
+digistore24_product_id: 460457
+title: "Insta Club"
+vendor: "CyrilCash"
+product_type: "Member area and video courses"
+price: 3
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 1.86
+cart_conversion_pct: 18
+cancel_rate_pct: 0.53
+categories: ["Education"]
+listed_since: "2022-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://business-kickstart.de/instaclub-24h-launch-2?aff=adminstore#aff=adminstore"
+sales_page: "https://business-kickstart.de/instaclub-24h-launch-2"
+language: "de"
+---
 # Insta Club
 
 > Product ID `41339` · Digistore24 productId `460457` · [HTML profile page](../../produkte/insta-club-41339.html)

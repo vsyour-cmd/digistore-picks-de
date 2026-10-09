@@ -1,3 +1,24 @@
+---
+product_id: "44111"
+digistore24_product_id: 500332
+title: "ALOE-VERA für meinen Hund"
+vendor: "chef63"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aloe-vera.funnelcockpit.com/hund/?aff=adminstore#aff=adminstore"
+sales_page: "https://aloe-vera.funnelcockpit.com/hund/"
+language: "de"
+---
 # ALOE-VERA für meinen Hund
 
 > Product ID `44111` · Digistore24 productId `500332` · [HTML profile page](../../produkte/aloe-vera-f-r-meinen-hund-44111.html)

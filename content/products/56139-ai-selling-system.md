@@ -1,3 +1,24 @@
+---
+product_id: "56139"
+digistore24_product_id: 679643
+title: "AI Selling System"
+vendor: "online-sales"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 19.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aiselling.de/system-freischalten?aff=adminstore#aff=adminstore"
+sales_page: "https://aiselling.de/system-freischalten"
+language: "de"
+---
 # AI Selling System
 
 > Product ID `56139` · Digistore24 productId `679643` · [HTML profile page](../../produkte/ai-selling-system-56139.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44765"
+digistore24_product_id: 507625
+title: "Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung"
+vendor: "DTNSCHTZ"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2023-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/507625?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/507625"
+language: "de"
+---
 # Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung
 
 > Product ID `44765` · Digistore24 productId `507625` · [HTML profile page](../../produkte/datenschutz-dsgvo-mitarbeiter-schulung-sensibilisierung-44765.html)

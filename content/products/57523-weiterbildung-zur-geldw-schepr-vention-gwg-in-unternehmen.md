@@ -1,3 +1,24 @@
+---
+product_id: "57523"
+digistore24_product_id: 711557
+title: "Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 16.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Law & Justice","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/"
+language: "de"
+---
 # Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen
 
 > Product ID `57523` · Digistore24 productId `711557` · [HTML profile page](../../produkte/weiterbildung-zur-geldw-schepr-vention-gwg-in-unternehmen-57523.html)

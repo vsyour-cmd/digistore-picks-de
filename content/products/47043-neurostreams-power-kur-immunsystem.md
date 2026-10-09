@@ -1,3 +1,24 @@
+---
+product_id: "47043"
+digistore24_product_id: 250028
+title: "Neurostreams™ Power-Kur Immunsystem"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.neurostreams.de/portfolio/immunsystem-wieder-aufbauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/portfolio/immunsystem-wieder-aufbauen/"
+language: "de"
+---
 # Neurostreams™ Power-Kur Immunsystem
 
 > Product ID `47043` · Digistore24 productId `250028` · [HTML profile page](../../produkte/neurostreams-power-kur-immunsystem-47043.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42814"
+digistore24_product_id: 484620
+title: "Insta Reel Bundle"
+vendor: "DigiInfoMichl"
+product_type: "Downloads"
+price: 0.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.13
+cart_conversion_pct: 51
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2023-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://insta-reels-bundle.digitalkigeldzauber.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://insta-reels-bundle.digitalkigeldzauber.de/"
+language: "de"
+---
 # Insta Reel Bundle
 
 > Product ID `42814` · Digistore24 productId `484620` · [HTML profile page](../../produkte/insta-reel-bundle-42814.html)

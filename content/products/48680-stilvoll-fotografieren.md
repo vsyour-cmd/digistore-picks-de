@@ -1,3 +1,24 @@
+---
+product_id: "48680"
+digistore24_product_id: 559832
+title: "Stilvoll Fotografieren"
+vendor: "ChristofArnold"
+product_type: "Book (printed)"
+price: 32.26
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3.98
+cart_conversion_pct: 27
+cancel_rate_pct: 0.61
+categories: ["Education","Photography & Film"]
+listed_since: "2024-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stilvollfotografieren.de/buchfunnel-startseite/?aff=adminstore#aff=adminstore"
+sales_page: "https://stilvollfotografieren.de/buchfunnel-startseite/"
+language: "de"
+---
 # Stilvoll Fotografieren
 
 > Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../produkte/stilvoll-fotografieren-48680.html)

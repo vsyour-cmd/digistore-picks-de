@@ -1,3 +1,24 @@
+---
+product_id: "57792"
+digistore24_product_id: 716154
+title: "Website-Check"
+vendor: "bites24"
+product_type: "Software"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Online Marketing & E-Business","Services"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/716154/adminstore"
+sales_page: "https://24things.de/website-check/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Website-Check
 
 > Product ID `57792` · Digistore24 productId `716154` · [HTML profile page](../../produkte/website-check-57792.html)

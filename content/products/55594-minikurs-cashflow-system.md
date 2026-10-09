@@ -1,3 +1,24 @@
+---
+product_id: "55594"
+digistore24_product_id: 643804
+title: "Minikurs Cashflow System"
+vendor: "Business_Kickstart"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.businesskickstart.de/instagram-30-tage-challenge?aff=adminstore#aff=adminstore"
+sales_page: "https://www.businesskickstart.de/instagram-30-tage-challenge"
+language: "de"
+---
 # Minikurs Cashflow System
 
 > Product ID `55594` · Digistore24 productId `643804` · [HTML profile page](../../produkte/minikurs-cashflow-system-55594.html)

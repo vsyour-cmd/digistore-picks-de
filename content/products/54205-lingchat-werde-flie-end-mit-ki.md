@@ -1,3 +1,24 @@
+---
+product_id: "54205"
+digistore24_product_id: 629110
+title: "LingChat – Werde fließend mit KI"
+vendor: "secondwavetech"
+product_type: "Software"
+price: 78.29
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Software"]
+listed_since: "2025-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lingchat.pro/dg_sale.html"
+language: "de"
+---
 # LingChat – Werde fließend mit KI
 
 > Product ID `54205` · Digistore24 productId `629110` · [HTML profile page](../../produkte/lingchat-werde-flie-end-mit-ki-54205.html)

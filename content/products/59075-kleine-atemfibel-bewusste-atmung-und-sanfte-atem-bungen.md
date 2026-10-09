@@ -1,3 +1,24 @@
+---
+product_id: "59075"
+digistore24_product_id: 731682
+title: "Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen"
+vendor: "gritboettcher2c4c"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://workbooks.bewusstseinsfibel.de/atemfibel?aff=adminstore#aff=adminstore"
+sales_page: "https://workbooks.bewusstseinsfibel.de/atemfibel"
+language: "de"
+---
 # Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen
 
 > Product ID `59075` · Digistore24 productId `731682` · [HTML profile page](../../produkte/kleine-atemfibel-bewusste-atmung-und-sanfte-atem-bungen-59075.html)

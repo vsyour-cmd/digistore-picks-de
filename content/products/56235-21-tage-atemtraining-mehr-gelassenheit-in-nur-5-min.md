@@ -1,3 +1,24 @@
+---
+product_id: "56235"
+digistore24_product_id: 444145
+title: "21-Tage Atemtraining – Mehr Gelassenheit in nur 5 Min"
+vendor: "LifeSkripting_"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/444145?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/444145"
+language: "de"
+---
 # 21-Tage Atemtraining – Mehr Gelassenheit in nur 5 Min
 
 > Product ID `56235` · Digistore24 productId `444145` · [HTML profile page](../../produkte/21-tage-atemtraining-mehr-gelassenheit-in-nur-5-min-56235.html)

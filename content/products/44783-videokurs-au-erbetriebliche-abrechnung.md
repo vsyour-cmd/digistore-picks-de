@@ -1,3 +1,24 @@
+---
+product_id: "44783"
+digistore24_product_id: 507243
+title: "Videokurs: Außerbetriebliche Abrechnung"
+vendor: "Steinkellner"
+product_type: "Member area and video courses"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 7.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2023-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lern-impuls.at/ausserbetriebliche-abrechnung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lern-impuls.at/ausserbetriebliche-abrechnung/"
+language: "de"
+---
 # Videokurs: Außerbetriebliche Abrechnung
 
 > Product ID `44783` · Digistore24 productId `507243` · [HTML profile page](../../produkte/videokurs-au-erbetriebliche-abrechnung-44783.html)

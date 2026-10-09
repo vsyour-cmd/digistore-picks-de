@@ -1,3 +1,24 @@
+---
+product_id: "60256"
+digistore24_product_id: 742665
+title: "Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742665?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742665"
+language: "de"
+---
 # Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
 
 > Product ID `60256` · Digistore24 productId `742665` · [HTML profile page](../../produkte/arbeitslosengeld-leicht-gemacht-ratgeber-alg-helfer-60256.html)

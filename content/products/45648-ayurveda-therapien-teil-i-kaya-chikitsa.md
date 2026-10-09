@@ -1,3 +1,24 @@
+---
+product_id: "45648"
+digistore24_product_id: 519048
+title: "Ayurveda Therapien Teil I / Kaya Chikitsa"
+vendor: "HarshaGramminger"
+product_type: "Member area and video courses"
+price: 2820
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 423
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Profession & Job"]
+listed_since: "2023-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/519048?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/519048"
+language: "de"
+---
 # Ayurveda Therapien Teil I / Kaya Chikitsa
 
 > Product ID `45648` · Digistore24 productId `519048` · [HTML profile page](../../produkte/ayurveda-therapien-teil-i-kaya-chikitsa-45648.html)

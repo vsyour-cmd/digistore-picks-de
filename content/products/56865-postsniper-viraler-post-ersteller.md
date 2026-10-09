@@ -1,3 +1,24 @@
+---
+product_id: "56865"
+digistore24_product_id: 700157
+title: "PostSniper - Viraler Post Ersteller"
+vendor: "zehnminutenteam"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 43.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://postsniper.de?aff=adminstore#aff=adminstore"
+sales_page: "https://postsniper.de"
+language: "de"
+---
 # PostSniper - Viraler Post Ersteller
 
 > Product ID `56865` · Digistore24 productId `700157` · [HTML profile page](../../produkte/postsniper-viraler-post-ersteller-56865.html)

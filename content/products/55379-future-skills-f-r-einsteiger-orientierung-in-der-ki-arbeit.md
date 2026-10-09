@@ -1,3 +1,24 @@
+---
+product_id: "55379"
+digistore24_product_id: 662143
+title: "Future Skills für Einsteiger – Orientierung in der KI-Arbeit"
+vendor: "SkillVibeCampus"
+product_type: "Downloads"
+price: 276.29
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 82.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.skillvibecampus.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.skillvibecampus.de"
+language: "de"
+---
 # Future Skills für Einsteiger – Orientierung in der KI-Arbeit
 
 > Product ID `55379` · Digistore24 productId `662143` · [HTML profile page](../../produkte/future-skills-f-r-einsteiger-orientierung-in-der-ki-arbeit-55379.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57153"
+digistore24_product_id: 647121
+title: "Easy Business Kickstart Kurs – 100 % Provision"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 15.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/easy-business-kickstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/easy-business-kickstart/"
+language: "de"
+---
 # Easy Business Kickstart Kurs – 100 % Provision
 
 > Product ID `57153` · Digistore24 productId `647121` · [HTML profile page](../../produkte/easy-business-kickstart-kurs-100-provision-57153.html)

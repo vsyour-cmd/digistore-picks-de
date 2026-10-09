@@ -1,3 +1,24 @@
+---
+product_id: "58215"
+digistore24_product_id: 689461
+title: "Kreative Content-Erstellung mit KI: In 7 Stunden zum eigenen"
+vendor: "annette99cf"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 112.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689461?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689461"
+language: "de"
+---
 # Kreative Content-Erstellung mit KI: In 7 Stunden zum eigenen
 
 > Product ID `58215` · Digistore24 productId `689461` · [HTML profile page](../../produkte/kreative-content-erstellung-mit-ki-in-7-stunden-zum-eigenen-58215.html)

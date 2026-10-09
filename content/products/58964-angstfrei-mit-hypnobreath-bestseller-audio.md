@@ -1,3 +1,24 @@
+---
+product_id: "58964"
+digistore24_product_id: 692857
+title: "Angstfrei mit Hypnobreath® – Bestseller-Audio"
+vendor: "MarkusNeff"
+product_type: "Member area and video courses"
+price: 47.72
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://markus-neff.app.mentortools.com/selbsthypnose-und-meditationen-verkauf?aff=adminstore#aff=adminstore"
+sales_page: "https://markus-neff.app.mentortools.com/selbsthypnose-und-meditationen-verkauf"
+language: "de"
+---
 # Angstfrei mit Hypnobreath® – Bestseller-Audio
 
 > Product ID `58964` · Digistore24 productId `692857` · [HTML profile page](../../produkte/angstfrei-mit-hypnobreath-bestseller-audio-58964.html)

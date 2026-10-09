@@ -1,3 +1,24 @@
+---
+product_id: "38188"
+digistore24_product_id: 412043
+title: "Online-Kurs: Grundlagen der Schüßler Salze (für Laien)"
+vendor: "thopuh"
+product_type: "Member area and video courses"
+price: 61.08
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.72
+cart_conversion_pct: 13
+cancel_rate_pct: 1.59
+categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2021-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.hallo-homoeopathie.de/grundkurs-schuessler-salze?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.hallo-homoeopathie.de/grundkurs-schuessler-salze"
+language: "de"
+---
 # Online-Kurs: Grundlagen der Schüßler Salze (für Laien)
 
 > Product ID `38188` · Digistore24 productId `412043` · [HTML profile page](../../produkte/online-kurs-grundlagen-der-sch-ler-salze-f-r-laien-38188.html)

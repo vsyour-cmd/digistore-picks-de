@@ -1,3 +1,24 @@
+---
+product_id: "59430"
+digistore24_product_id: 707850
+title: "Aktivierungsbibliothek für Seniorenbetreuung – 40 % Provision"
+vendor: "infoacca0"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 33.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silbernezukunft.de/aktivierungsbibliothekinfo/?aff=adminstore#aff=adminstore"
+sales_page: "https://silbernezukunft.de/aktivierungsbibliothekinfo/"
+language: "de"
+---
 # Aktivierungsbibliothek für Seniorenbetreuung – 40 % Provision
 
 > Product ID `59430` · Digistore24 productId `707850` · [HTML profile page](../../produkte/aktivierungsbibliothek-f-r-seniorenbetreuung-40-provision-59430.html)

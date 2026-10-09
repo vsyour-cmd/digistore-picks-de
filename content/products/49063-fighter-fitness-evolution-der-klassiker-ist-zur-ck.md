@@ -1,3 +1,24 @@
+---
+product_id: "49063"
+digistore24_product_id: 530236
+title: "Fighter-Fitness Evolution - Der Klassiker ist zurück"
+vendor: "FighterFitness"
+product_type: "Downloads"
+price: 46.95
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2023-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fighterfitness.de/fighter-fitness-evolution?aff=adminstore#aff=adminstore"
+sales_page: "https://fighterfitness.de/fighter-fitness-evolution"
+language: "de"
+---
 # Fighter-Fitness Evolution - Der Klassiker ist zurück
 
 > Product ID `49063` · Digistore24 productId `530236` · [HTML profile page](../../produkte/fighter-fitness-evolution-der-klassiker-ist-zur-ck-49063.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56385"
+digistore24_product_id: 688631
+title: "Ebook - Wölfe in Europa"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688631?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688631"
+language: "de"
+---
 # Ebook - Wölfe in Europa
 
 > Product ID `56385` · Digistore24 productId `688631` · [HTML profile page](../../produkte/ebook-w-lfe-in-europa-56385.html)

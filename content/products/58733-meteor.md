@@ -1,3 +1,24 @@
+---
+product_id: "58733"
+digistore24_product_id: 717233
+title: "METEOR"
+vendor: "Novaris_web"
+product_type: "Audio book (download)"
+price: 9.35
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://novaris.de.cool/meteor.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/meteor.php"
+language: "de"
+---
 # METEOR
 
 > Product ID `58733` · Digistore24 productId `717233` · [HTML profile page](../../produkte/meteor-58733.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60381"
+digistore24_product_id: 740720
+title: "Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740720?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740720"
+language: "de"
+---
 # Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
 
 > Product ID `60381` · Digistore24 productId `740720` · [HTML profile page](../../produkte/kredit-und-schufa-leicht-gemacht-ratgeber-kredit-rechner-60381.html)

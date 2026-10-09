@@ -1,3 +1,24 @@
+---
+product_id: "54699"
+digistore24_product_id: 616025
+title: "Elfenreise zu dir selbst"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 205.95
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 51.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/elfenreise-zu-dir-selbst?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/elfenreise-zu-dir-selbst"
+language: "de"
+---
 # Elfenreise zu dir selbst
 
 > Product ID `54699` · Digistore24 productId `616025` · [HTML profile page](../../produkte/elfenreise-zu-dir-selbst-54699.html)

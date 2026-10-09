@@ -1,3 +1,24 @@
+---
+product_id: "36033"
+digistore24_product_id: 378176
+title: "ALOE VERA - Allroundtalent für Mensch und Tier"
+vendor: "chef63"
+product_type: "E-books"
+price: 7.21
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aloe-vera.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://aloe-vera.funnelcockpit.com/"
+language: "de"
+---
 # ALOE VERA - Allroundtalent für Mensch und Tier
 
 > Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../produkte/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)

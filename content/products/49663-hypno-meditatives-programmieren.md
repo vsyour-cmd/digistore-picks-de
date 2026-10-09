@@ -1,3 +1,24 @@
+---
+product_id: "49663"
+digistore24_product_id: 116981
+title: "Hypno Meditatives Programmieren"
+vendor: "freedomacademy"
+product_type: "Downloads"
+price: 222.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 111.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2017-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.namastedolphins.de/einladung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.namastedolphins.de/einladung"
+language: "de"
+---
 # Hypno Meditatives Programmieren
 
 > Product ID `49663` · Digistore24 productId `116981` · [HTML profile page](../../produkte/hypno-meditatives-programmieren-49663.html)

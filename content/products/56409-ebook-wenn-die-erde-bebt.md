@@ -1,3 +1,24 @@
+---
+product_id: "56409"
+digistore24_product_id: 689314
+title: "Ebook - Wenn die Erde bebt"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Survival"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689314?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689314"
+language: "de"
+---
 # Ebook - Wenn die Erde bebt
 
 > Product ID `56409` · Digistore24 productId `689314` · [HTML profile page](../../produkte/ebook-wenn-die-erde-bebt-56409.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59568"
+digistore24_product_id: 735111
+title: "Der große Spanien-Guide gegen Hausbesetzung"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/735111?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735111"
+language: "de"
+---
 # Der große Spanien-Guide gegen Hausbesetzung
 
 > Product ID `59568` · Digistore24 productId `735111` · [HTML profile page](../../produkte/der-gro-e-spanien-guide-gegen-hausbesetzung-59568.html)

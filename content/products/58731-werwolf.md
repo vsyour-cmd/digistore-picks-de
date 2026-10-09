@@ -1,3 +1,24 @@
+---
+product_id: "58731"
+digistore24_product_id: 717607
+title: "WERWOLF"
+vendor: "Novaris_web"
+product_type: "Audio book (download)"
+price: 5.18
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/werwolf.php"
+language: "de"
+---
 # WERWOLF
 
 > Product ID `58731` · Digistore24 productId `717607` · [HTML profile page](../../produkte/werwolf-58731.html)

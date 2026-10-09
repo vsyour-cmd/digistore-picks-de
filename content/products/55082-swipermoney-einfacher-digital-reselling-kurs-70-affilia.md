@@ -1,3 +1,24 @@
+---
+product_id: "55082"
+digistore24_product_id: 655095
+title: "Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia"
+vendor: "IGCLOSE"
+product_type: "Downloads"
+price: 31.96
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 22.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2025-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/655095?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/655095"
+language: "de"
+---
 # Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia
 
 > Product ID `55082` · Digistore24 productId `655095` · [HTML profile page](../../produkte/swipermoney-einfacher-digital-reselling-kurs-70-affilia-55082.html)

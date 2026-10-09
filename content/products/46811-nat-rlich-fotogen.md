@@ -1,3 +1,24 @@
+---
+product_id: "46811"
+digistore24_product_id: 534351
+title: "NATÜRLICH FOTOGEN!"
+vendor: "IWEFST"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Personal Development","Photography & Film"]
+listed_since: "2024-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.isabellawirth.de/natuerlichfotogen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.isabellawirth.de/natuerlichfotogen/"
+language: "de"
+---
 # NATÜRLICH FOTOGEN!
 
 > Product ID `46811` · Digistore24 productId `534351` · [HTML profile page](../../produkte/nat-rlich-fotogen-46811.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46547"
+digistore24_product_id: 194275
+title: "Ethisch Geld anlegen: 35% Provision"
+vendor: "vaupel"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 16.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2018-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ethische-rendite.de/premiumbereich/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ethische-rendite.de/premiumbereich/"
+language: "de"
+---
 # Ethisch Geld anlegen: 35% Provision
 
 > Product ID `46547` · Digistore24 productId `194275` · [HTML profile page](../../produkte/ethisch-geld-anlegen-35-provision-46547.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36250"
+digistore24_product_id: 508432
+title: "Krypto Trading Akademie Master-Gewinn Online Ausbildung"
+vendor: "myworldofwealth"
+product_type: "Member area and video courses"
+price: 911.8
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 364.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2023-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/508432?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/508432"
+language: "de"
+---
 # Krypto Trading Akademie Master-Gewinn Online Ausbildung
 
 > Product ID `36250` · Digistore24 productId `508432` · [HTML profile page](../../produkte/krypto-trading-akademie-master-gewinn-online-ausbildung-36250.html)

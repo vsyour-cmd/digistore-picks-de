@@ -1,3 +1,24 @@
+---
+product_id: "39172"
+digistore24_product_id: 372710
+title: "Pilates-Präventionskurs als Onlinekurs"
+vendor: "KatiBloedorn"
+product_type: "Downloads"
+price: 56.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.25
+cart_conversion_pct: 23
+cancel_rate_pct: 4.17
+categories: ["Health & Fitness"]
+listed_since: "2021-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/"
+language: "de"
+---
 # Pilates-Präventionskurs als Onlinekurs
 
 > Product ID `39172` · Digistore24 productId `372710` · [HTML profile page](../../produkte/pilates-pr-ventionskurs-als-onlinekurs-39172.html)

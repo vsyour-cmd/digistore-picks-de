@@ -1,3 +1,24 @@
+---
+product_id: "53851"
+digistore24_product_id: 627053
+title: "Imagination | Geführte Meditation und Manifestationstechnik"
+vendor: "Matrixreport"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kevinmanke.com/imagination/?aff=adminstore#aff=adminstore"
+sales_page: "https://kevinmanke.com/imagination/"
+language: "de"
+---
 # Imagination | Geführte Meditation und Manifestationstechnik
 
 > Product ID `53851` · Digistore24 productId `627053` · [HTML profile page](../../produkte/imagination-gef-hrte-meditation-und-manifestationstechnik-53851.html)

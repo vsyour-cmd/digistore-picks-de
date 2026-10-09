@@ -1,3 +1,24 @@
+---
+product_id: "56445"
+digistore24_product_id: 689756
+title: "Auswanderplan – Thailand"
+vendor: "Freifone"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/auswanderplan-thailand?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/auswanderplan-thailand"
+language: "de"
+---
 # Auswanderplan – Thailand
 
 > Product ID `56445` · Digistore24 productId `689756` · [HTML profile page](../../produkte/auswanderplan-thailand-56445.html)

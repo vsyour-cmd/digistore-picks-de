@@ -1,3 +1,24 @@
+---
+product_id: "17765"
+digistore24_product_id: 150401
+title: "25+ EDU Quellen für Gratis* EDU Backlinks"
+vendor: "martingonev"
+product_type: "Downloads"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.martingonev.de/edu-trust-backlinks/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.martingonev.de/edu-trust-backlinks/"
+language: "de"
+---
 # 25+ EDU Quellen für Gratis* EDU Backlinks
 
 > Product ID `17765` · Digistore24 productId `150401` · [HTML profile page](../../produkte/25-edu-quellen-f-r-gratis-edu-backlinks-17765.html)

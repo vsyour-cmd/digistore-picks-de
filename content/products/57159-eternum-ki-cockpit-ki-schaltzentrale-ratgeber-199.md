@@ -1,3 +1,24 @@
+---
+product_id: "57159"
+digistore24_product_id: 706557
+title: "ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 €"
+vendor: "megareichtum"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 112.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eternumtech.eu/ki-cockpit?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/ki-cockpit"
+language: "de"
+---
 # ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 €
 
 > Product ID `57159` · Digistore24 productId `706557` · [HTML profile page](../../produkte/eternum-ki-cockpit-ki-schaltzentrale-ratgeber-199-57159.html)

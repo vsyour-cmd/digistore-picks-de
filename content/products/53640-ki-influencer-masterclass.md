@@ -1,3 +1,24 @@
+---
+product_id: "53640"
+digistore24_product_id: 628584
+title: "KI Influencer Masterclass"
+vendor: "MediaMende"
+product_type: "Member area and video courses"
+price: 5.82
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.03
+cart_conversion_pct: 12
+cancel_rate_pct: 1.2
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2025-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.avatare.io?aff=adminstore#aff=adminstore"
+sales_page: "https://www.avatare.io"
+language: "de"
+---
 # KI Influencer Masterclass
 
 > Product ID `53640` · Digistore24 productId `628584` · [HTML profile page](../../produkte/ki-influencer-masterclass-53640.html)

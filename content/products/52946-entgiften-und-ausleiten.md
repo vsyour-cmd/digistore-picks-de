@@ -1,3 +1,24 @@
+---
+product_id: "52946"
+digistore24_product_id: 620139
+title: "Entgiften und Ausleiten"
+vendor: "Impfausleitung"
+product_type: "E-books"
+price: 10.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://natürlicheentgiftung.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://natürlicheentgiftung.de/"
+language: "de"
+---
 # Entgiften und Ausleiten
 
 > Product ID `52946` · Digistore24 productId `620139` · [HTML profile page](../../produkte/entgiften-und-ausleiten-52946.html)

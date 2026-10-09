@@ -1,3 +1,24 @@
+---
+product_id: "32820"
+digistore24_product_id: 155867
+title: "Regenbogenbrücke - Sterbebegleitung bei deinem Tier"
+vendor: "Andrea1A"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2017-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/?aff=adminstore#aff=adminstore"
+sales_page: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/"
+language: "de"
+---
 # Regenbogenbrücke - Sterbebegleitung bei deinem Tier
 
 > Product ID `32820` · Digistore24 productId `155867` · [HTML profile page](../../produkte/regenbogenbr-cke-sterbebegleitung-bei-deinem-tier-32820.html)

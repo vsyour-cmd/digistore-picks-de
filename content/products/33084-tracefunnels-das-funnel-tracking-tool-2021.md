@@ -1,3 +1,24 @@
+---
+product_id: "33084"
+digistore24_product_id: 364920
+title: "TraceFunnels - Das Funnel Tracking Tool 2021"
+vendor: "TraceFunnels"
+product_type: "Member area and video courses"
+price: 186.81
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 56.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2020-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://tracefunnels.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://tracefunnels.com/"
+language: "de"
+---
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
 > Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)

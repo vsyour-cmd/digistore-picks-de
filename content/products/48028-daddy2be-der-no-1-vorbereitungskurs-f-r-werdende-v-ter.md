@@ -1,3 +1,24 @@
+---
+product_id: "48028"
+digistore24_product_id: 536014
+title: "Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!"
+vendor: "family2be"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 14.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2024-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://we4fam.de/daddy/?aff=adminstore#aff=adminstore"
+sales_page: "https://we4fam.de/daddy/"
+language: "de"
+---
 # Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!
 
 > Product ID `48028` · Digistore24 productId `536014` · [HTML profile page](../../produkte/daddy2be-der-no-1-vorbereitungskurs-f-r-werdende-v-ter-48028.html)

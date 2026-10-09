@@ -1,3 +1,24 @@
+---
+product_id: "56277"
+digistore24_product_id: 683234
+title: "Ebook - Wem nützt der Krieg - Teil 1 Ukraine"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2026-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/683234?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/683234"
+language: "de"
+---
 # Ebook - Wem nützt der Krieg - Teil 1 Ukraine
 
 > Product ID `56277` · Digistore24 productId `683234` · [HTML profile page](../../produkte/ebook-wem-n-tzt-der-krieg-teil-1-ukraine-56277.html)

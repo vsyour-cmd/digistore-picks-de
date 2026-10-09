@@ -1,3 +1,24 @@
+---
+product_id: "58112"
+digistore24_product_id: 717895
+title: "Digital reselling Erfolgsystem"
+vendor: "BastianBauer"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/717895?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717895"
+language: "de"
+---
 # Digital reselling Erfolgsystem
 
 > Product ID `58112` · Digistore24 productId `717895` · [HTML profile page](../../produkte/digital-reselling-erfolgsystem-58112.html)

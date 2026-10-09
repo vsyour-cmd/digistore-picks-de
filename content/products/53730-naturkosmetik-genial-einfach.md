@@ -1,3 +1,24 @@
+---
+product_id: "53730"
+digistore24_product_id: 525075
+title: "Naturkosmetik genial einfach"
+vendor: "Katharinaruehrt"
+product_type: "Member area and video courses"
+price: 80.52
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 34.24
+cart_conversion_pct: 8
+cancel_rate_pct: 1.54
+categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
+listed_since: "2023-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.katharinaruehrt.com/nkge-onlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.katharinaruehrt.com/nkge-onlinekurs"
+language: "de"
+---
 # Naturkosmetik genial einfach
 
 > Product ID `53730` · Digistore24 productId `525075` · [HTML profile page](../../produkte/naturkosmetik-genial-einfach-53730.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53821"
+digistore24_product_id: 633202
+title: "Brief an das Licht - ein Raum jenseits des Coachings"
+vendor: "digicube"
+product_type: "Online coaching"
+price: 41.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 12.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lanaprinzip.com/brief-an-das-licht/?aff=adminstore#aff=adminstore"
+sales_page: "https://lanaprinzip.com/brief-an-das-licht/"
+language: "de"
+---
 # Brief an das Licht - ein Raum jenseits des Coachings
 
 > Product ID `53821` · Digistore24 productId `633202` · [HTML profile page](../../produkte/brief-an-das-licht-ein-raum-jenseits-des-coachings-53821.html)

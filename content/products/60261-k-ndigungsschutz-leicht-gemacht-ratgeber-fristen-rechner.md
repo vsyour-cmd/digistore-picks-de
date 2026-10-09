@@ -1,3 +1,24 @@
+---
+product_id: "60261"
+digistore24_product_id: 740893
+title: "Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740893?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740893"
+language: "de"
+---
 # Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
 
 > Product ID `60261` · Digistore24 productId `740893` · [HTML profile page](../../produkte/k-ndigungsschutz-leicht-gemacht-ratgeber-fristen-rechner-60261.html)

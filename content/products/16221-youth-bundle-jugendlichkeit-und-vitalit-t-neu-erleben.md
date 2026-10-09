@@ -1,3 +1,24 @@
+---
+product_id: "16221"
+digistore24_product_id: 133187
+title: "Youth Bundle – Jugendlichkeit und Vitalität neu erleben"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Health & Fitness"]
+listed_since: "2017-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/youth-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/youth-bundle/"
+language: "de"
+---
 # Youth Bundle – Jugendlichkeit und Vitalität neu erleben
 
 > Product ID `16221` · Digistore24 productId `133187` · [HTML profile page](../../produkte/youth-bundle-jugendlichkeit-und-vitalit-t-neu-erleben-16221.html)

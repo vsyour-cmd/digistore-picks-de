@@ -1,3 +1,24 @@
+---
+product_id: "30078"
+digistore24_product_id: 288160
+title: "TubeNinja - Erfolgreich auf YouTube ohne Kamera"
+vendor: "Rules5Hacks"
+product_type: "Member area and video courses"
+price: 547.08
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 218.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://tubeninja.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://tubeninja.de/"
+language: "de"
+---
 # TubeNinja - Erfolgreich auf YouTube ohne Kamera
 
 > Product ID `30078` · Digistore24 productId `288160` · [HTML profile page](../../produkte/tubeninja-erfolgreich-auf-youtube-ohne-kamera-30078.html)

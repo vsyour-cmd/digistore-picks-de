@@ -1,3 +1,24 @@
+---
+product_id: "58303"
+digistore24_product_id: 710690
+title: "Trauerbegleitung für Witwen im DACH-Raum für Zuhause"
+vendor: "danachblog"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.danaheidrich.com/zuhause-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.danaheidrich.com/zuhause-kurs/"
+language: "de"
+---
 # Trauerbegleitung für Witwen im DACH-Raum für Zuhause
 
 > Product ID `58303` · Digistore24 productId `710690` · [HTML profile page](../../produkte/trauerbegleitung-f-r-witwen-im-dach-raum-f-r-zuhause-58303.html)

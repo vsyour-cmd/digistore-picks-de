@@ -1,3 +1,24 @@
+---
+product_id: "38190"
+digistore24_product_id: 368500
+title: "Online-Kurs: Homöopathie bei Schwangerschaftsbeschwerden"
+vendor: "thopuh"
+product_type: "Member area and video courses"
+price: 61.08
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 26.15
+cart_conversion_pct: 13
+cancel_rate_pct: 1.59
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2021-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-schwangerschaftsbeschwerden?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-schwangerschaftsbeschwerden"
+language: "de"
+---
 # Online-Kurs: Homöopathie bei Schwangerschaftsbeschwerden
 
 > Product ID `38190` · Digistore24 productId `368500` · [HTML profile page](../../produkte/online-kurs-hom-opathie-bei-schwangerschaftsbeschwerden-38190.html)

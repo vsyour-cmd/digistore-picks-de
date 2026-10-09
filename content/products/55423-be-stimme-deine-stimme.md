@@ -1,3 +1,24 @@
+---
+product_id: "55423"
+digistore24_product_id: 656139
+title: "Be (Stimme) deine Stimme"
+vendor: "Erfolg2026"
+product_type: "E-books"
+price: 57.09
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.96
+cart_conversion_pct: 4
+cancel_rate_pct: 5.22
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/656139?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/656139"
+language: "de"
+---
 # Be (Stimme) deine Stimme
 
 > Product ID `55423` · Digistore24 productId `656139` · [HTML profile page](../../produkte/be-stimme-deine-stimme-55423.html)

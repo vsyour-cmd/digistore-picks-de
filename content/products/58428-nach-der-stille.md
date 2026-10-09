@@ -1,3 +1,24 @@
+---
+product_id: "58428"
+digistore24_product_id: 711121
+title: "Nach der Stille"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/vermeider-nach-trennung/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/vermeider-nach-trennung/"
+language: "de"
+---
 # Nach der Stille
 
 > Product ID `58428` · Digistore24 productId `711121` · [HTML profile page](../../produkte/nach-der-stille-58428.html)

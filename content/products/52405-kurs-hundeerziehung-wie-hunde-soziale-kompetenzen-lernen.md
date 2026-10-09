@@ -1,3 +1,24 @@
+---
+product_id: "52405"
+digistore24_product_id: 611715
+title: "Kurs \"Hundeerziehung - Wie Hunde soziale Kompetenzen lernen\""
+vendor: "NinaNowak"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Finances","Marketing Services"]
+listed_since: "2025-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hundesozialisation.de/digistore24-hunde-sozialisieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hundesozialisation.de/digistore24-hunde-sozialisieren/"
+language: "de"
+---
 # Kurs "Hundeerziehung - Wie Hunde soziale Kompetenzen lernen"
 
 > Product ID `52405` · Digistore24 productId `611715` · [HTML profile page](../../produkte/kurs-hundeerziehung-wie-hunde-soziale-kompetenzen-lernen-52405.html)

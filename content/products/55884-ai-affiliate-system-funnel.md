@@ -1,3 +1,24 @@
+---
+product_id: "55884"
+digistore24_product_id: 666648
+title: "AI Affiliate System Funnel"
+vendor: "paul-roth"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 35
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.growverse.de/funnels/ai-affiliate-system/freebie/squeeze?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.growverse.de/funnels/ai-affiliate-system/freebie/squeeze"
+language: "de"
+---
 # AI Affiliate System Funnel
 
 > Product ID `55884` · Digistore24 productId `666648` · [HTML profile page](../../produkte/ai-affiliate-system-funnel-55884.html)

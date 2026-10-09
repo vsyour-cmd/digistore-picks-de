@@ -1,3 +1,24 @@
+---
+product_id: "58794"
+digistore24_product_id: 727017
+title: "50 Ideen gegen Langeweile – Kreative Kinder-Beschäftigungsbo"
+vendor: "mamaplaneinfach"
+product_type: "Downloads"
+price: 7.43
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/727017?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727017"
+language: "de"
+---
 # 50 Ideen gegen Langeweile – Kreative Kinder-Beschäftigungsbo
 
 > Product ID `58794` · Digistore24 productId `727017` · [HTML profile page](../../produkte/50-ideen-gegen-langeweile-kreative-kinder-besch-ftigungsbo-58794.html)

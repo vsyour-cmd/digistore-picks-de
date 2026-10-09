@@ -1,3 +1,24 @@
+---
+product_id: "50426"
+digistore24_product_id: 577631
+title: "Dein eigenes Online Business"
+vendor: "weinand1986"
+product_type: "E-books"
+price: 0.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.43
+cart_conversion_pct: 26
+cancel_rate_pct: 11.9
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2024-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/577631?voucher=sondernachlass&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/577631?voucher=sondernachlass"
+language: "de"
+---
 # Dein eigenes Online Business
 
 > Product ID `50426` · Digistore24 productId `577631` · [HTML profile page](../../produkte/dein-eigenes-online-business-50426.html)

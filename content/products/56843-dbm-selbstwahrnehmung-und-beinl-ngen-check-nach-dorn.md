@@ -1,3 +1,24 @@
+---
+product_id: "56843"
+digistore24_product_id: 698547
+title: "DBM - Selbstwahrnehmung und Beinlängen-Check nach Dorn"
+vendor: "dornbreuss"
+product_type: "Member area and video courses"
+price: 18.61
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 13.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://academy.e-ducation.cloud/course/dbm-selbstwahrnehmung-und-beinlaengen-check-nach-dorn-tw?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/dbm-selbstwahrnehmung-und-beinlaengen-check-nach-dorn-tw"
+language: "de"
+---
 # DBM - Selbstwahrnehmung und Beinlängen-Check nach Dorn
 
 > Product ID `56843` · Digistore24 productId `698547` · [HTML profile page](../../produkte/dbm-selbstwahrnehmung-und-beinl-ngen-check-nach-dorn-56843.html)

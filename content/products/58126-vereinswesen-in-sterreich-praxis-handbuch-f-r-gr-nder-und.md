@@ -1,3 +1,24 @@
+---
+product_id: "58126"
+digistore24_product_id: 718193
+title: "Vereinswesen in Österreich – Praxis-Handbuch für Gründer und"
+vendor: "affiliateds"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 17.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/718193?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/718193"
+language: "de"
+---
 # Vereinswesen in Österreich – Praxis-Handbuch für Gründer und
 
 > Product ID `58126` · Digistore24 productId `718193` · [HTML profile page](../../produkte/vereinswesen-in-sterreich-praxis-handbuch-f-r-gr-nder-und-58126.html)

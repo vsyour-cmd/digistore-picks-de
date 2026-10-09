@@ -1,3 +1,24 @@
+---
+product_id: "15389"
+digistore24_product_id: 122973
+title: "Hörbuch Börse und (Day) - Trading für Einsteiger"
+vendor: "Wirtschaftverstehen"
+product_type: "Downloads"
+price: 12.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2017-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/"
+language: "de"
+---
 # Hörbuch Börse und (Day) - Trading für Einsteiger
 
 > Product ID `15389` · Digistore24 productId `122973` · [HTML profile page](../../produkte/h-rbuch-b-rse-und-day-trading-f-r-einsteiger-15389.html)

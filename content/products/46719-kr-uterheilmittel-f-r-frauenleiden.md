@@ -1,3 +1,24 @@
+---
+product_id: "46719"
+digistore24_product_id: 532258
+title: "Kräuterheilmittel für Frauenleiden"
+vendor: "Bauchkompass"
+product_type: "E-books"
+price: 10.96
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 1.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Food Supplements"]
+listed_since: "2024-01-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/532258?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/532258"
+language: "de"
+---
 # Kräuterheilmittel für Frauenleiden
 
 > Product ID `46719` · Digistore24 productId `532258` · [HTML profile page](../../produkte/kr-uterheilmittel-f-r-frauenleiden-46719.html)

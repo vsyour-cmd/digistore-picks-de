@@ -1,3 +1,24 @@
+---
+product_id: "56275"
+digistore24_product_id: 680817
+title: "Ebook - Die Macht der Kundenzufriedenheit"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/680817?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/680817"
+language: "de"
+---
 # Ebook - Die Macht der Kundenzufriedenheit
 
 > Product ID `56275` · Digistore24 productId `680817` · [HTML profile page](../../produkte/ebook-die-macht-der-kundenzufriedenheit-56275.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60378"
+digistore24_product_id: 742649
+title: "Familienalltag leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742649?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742649"
+language: "de"
+---
 # Familienalltag leicht gemacht
 
 > Product ID `60378` · Digistore24 productId `742649` · [HTML profile page](../../produkte/familienalltag-leicht-gemacht-60378.html)

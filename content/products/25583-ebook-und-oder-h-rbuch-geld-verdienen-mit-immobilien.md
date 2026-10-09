@@ -1,3 +1,24 @@
+---
+product_id: "25583"
+digistore24_product_id: 162937
+title: "eBook und/oder Hörbuch \"Geld verdienen mit Immobilien\""
+vendor: "Jederkannimmobilien"
+product_type: "E-books"
+price: 20.59
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 6.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2017-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/"
+language: "de"
+---
 # eBook und/oder Hörbuch "Geld verdienen mit Immobilien"
 
 > Product ID `25583` · Digistore24 productId `162937` · [HTML profile page](../../produkte/ebook-und-oder-h-rbuch-geld-verdienen-mit-immobilien-25583.html)

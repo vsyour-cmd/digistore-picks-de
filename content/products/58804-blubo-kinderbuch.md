@@ -1,3 +1,24 @@
+---
+product_id: "58804"
+digistore24_product_id: 296797
+title: "Blubo Kinderbuch"
+vendor: "b2brand"
+product_type: "Book (printed)"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 0.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Marketing Services"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.blubo.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.blubo.de"
+language: "de"
+---
 # Blubo Kinderbuch
 
 > Product ID `58804` · Digistore24 productId `296797` · [HTML profile page](../../produkte/blubo-kinderbuch-58804.html)

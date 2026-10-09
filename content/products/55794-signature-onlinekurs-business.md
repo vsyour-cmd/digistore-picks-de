@@ -1,3 +1,24 @@
+---
+product_id: "55794"
+digistore24_product_id: 646623
+title: "Signature-Onlinekurs-Business"
+vendor: "rrwenda"
+product_type: "Member area and video courses"
+price: 1201.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 600.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://expertscalingsystem.ralfwenda.education/webinar-training/?aff=adminstore#aff=adminstore"
+sales_page: "https://expertscalingsystem.ralfwenda.education/webinar-training/"
+language: "de"
+---
 # Signature-Onlinekurs-Business
 
 > Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../produkte/signature-onlinekurs-business-55794.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51856"
+digistore24_product_id: 598709
+title: "Business Sofortstart"
+vendor: "digitalesonlinebusiness"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/business-sofortstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/business-sofortstart/"
+language: "de"
+---
 # Business Sofortstart
 
 > Product ID `51856` · Digistore24 productId `598709` · [HTML profile page](../../produkte/business-sofortstart-51856.html)

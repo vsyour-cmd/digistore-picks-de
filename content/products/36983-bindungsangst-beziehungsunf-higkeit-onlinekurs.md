@@ -1,3 +1,24 @@
+---
+product_id: "36983"
+digistore24_product_id: 392911
+title: "Bindungsangst / Beziehungsunfähigkeit - Onlinekurs"
+vendor: "wielandstolzenburg"
+product_type: "Member area and video courses"
+price: 507.6
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 203.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2021-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden"
+language: "de"
+---
 # Bindungsangst / Beziehungsunfähigkeit - Onlinekurs
 
 > Product ID `36983` · Digistore24 productId `392911` · [HTML profile page](../../produkte/bindungsangst-beziehungsunf-higkeit-onlinekurs-36983.html)

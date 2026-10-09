@@ -1,3 +1,24 @@
+---
+product_id: "37520"
+digistore24_product_id: 138033
+title: "Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 62.29
+cart_conversion_pct: 19
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2017-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/rife-frequencies-frequenztherapie/?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/rife-frequencies-frequenztherapie/"
+language: "de"
+---
 # Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision
 
 > Product ID `37520` · Digistore24 productId `138033` · [HTML profile page](../../produkte/rife-frequenzen-komplettpaket-5-5-gb-50-provision-37520.html)

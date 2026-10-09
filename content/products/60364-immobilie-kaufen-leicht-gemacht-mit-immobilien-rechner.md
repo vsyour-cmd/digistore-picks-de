@@ -1,3 +1,24 @@
+---
+product_id: "60364"
+digistore24_product_id: 741933
+title: "Immobilie kaufen leicht gemacht – mit Immobilien-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Real Estate"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741933?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741933"
+language: "de"
+---
 # Immobilie kaufen leicht gemacht – mit Immobilien-Rechner
 
 > Product ID `60364` · Digistore24 productId `741933` · [HTML profile page](../../produkte/immobilie-kaufen-leicht-gemacht-mit-immobilien-rechner-60364.html)

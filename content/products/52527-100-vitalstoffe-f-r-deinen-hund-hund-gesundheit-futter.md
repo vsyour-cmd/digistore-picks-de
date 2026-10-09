@@ -1,3 +1,24 @@
+---
+product_id: "52527"
+digistore24_product_id: 546521
+title: "100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter"
+vendor: "Loverie"
+product_type: "E-books"
+price: 41.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2024-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/?aff=adminstore#aff=adminstore"
+sales_page: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/"
+language: "de"
+---
 # 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter
 
 > Product ID `52527` · Digistore24 productId `546521` · [HTML profile page](../../produkte/100-vitalstoffe-f-r-deinen-hund-hund-gesundheit-futter-52527.html)

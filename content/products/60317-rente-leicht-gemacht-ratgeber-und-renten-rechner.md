@@ -1,3 +1,24 @@
+---
+product_id: "60317"
+digistore24_product_id: 708799
+title: "Rente leicht gemacht – Ratgeber und Renten-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/708799?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/708799"
+language: "de"
+---
 # Rente leicht gemacht – Ratgeber und Renten-Rechner
 
 > Product ID `60317` · Digistore24 productId `708799` · [HTML profile page](../../produkte/rente-leicht-gemacht-ratgeber-und-renten-rechner-60317.html)

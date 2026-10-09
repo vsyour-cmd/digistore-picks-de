@@ -1,3 +1,24 @@
+---
+product_id: "57197"
+digistore24_product_id: 701955
+title: "Körpersprache beim Flirten"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/koerpersprache-beim-flirten?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/koerpersprache-beim-flirten"
+language: "de"
+---
 # Körpersprache beim Flirten
 
 > Product ID `57197` · Digistore24 productId `701955` · [HTML profile page](../../produkte/k-rpersprache-beim-flirten-57197.html)

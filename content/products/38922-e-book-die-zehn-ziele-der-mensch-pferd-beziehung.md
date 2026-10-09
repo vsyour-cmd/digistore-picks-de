@@ -1,3 +1,24 @@
+---
+product_id: "38922"
+digistore24_product_id: 214963
+title: "E-Book \"Die zehn Ziele der Mensch-Pferd-Beziehung\""
+vendor: "Linnon"
+product_type: "E-books"
+price: 8.88
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2018-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.martinkreuzer.com/produkte/e-book-10-ziele/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.martinkreuzer.com/produkte/e-book-10-ziele/"
+language: "de"
+---
 # E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"
 
 > Product ID `38922` · Digistore24 productId `214963` · [HTML profile page](../../produkte/e-book-die-zehn-ziele-der-mensch-pferd-beziehung-38922.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36272"
+digistore24_product_id: 297768
+title: "Tinnitus 24 - Deine Lösung gegen Tinnitus"
+vendor: "kommzutom"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 17.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2019-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tinnitus24.de/home?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tinnitus24.de/home"
+language: "de"
+---
 # Tinnitus 24 - Deine Lösung gegen Tinnitus
 
 > Product ID `36272` · Digistore24 productId `297768` · [HTML profile page](../../produkte/tinnitus-24-deine-l-sung-gegen-tinnitus-36272.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47207"
+digistore24_product_id: 524155
+title: "Säuren/Basen-Gleichgewicht: Wie messen, wie regulieren"
+vendor: "JensBomholt"
+product_type: "Member area and video courses"
+price: 4.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/524155?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/524155"
+language: "de"
+---
 # Säuren/Basen-Gleichgewicht: Wie messen, wie regulieren
 
 > Product ID `47207` · Digistore24 productId `524155` · [HTML profile page](../../produkte/s-uren-basen-gleichgewicht-wie-messen-wie-regulieren-47207.html)

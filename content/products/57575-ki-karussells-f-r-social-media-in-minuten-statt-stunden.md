@@ -1,3 +1,24 @@
+---
+product_id: "57575"
+digistore24_product_id: 704143
+title: "KI-Karussells für Social Media – in Minuten statt Stunden"
+vendor: "Mabo1973"
+product_type: "Software"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2026-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/704143?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/704143"
+language: "de"
+---
 # KI-Karussells für Social Media – in Minuten statt Stunden
 
 > Product ID `57575` · Digistore24 productId `704143` · [HTML profile page](../../produkte/ki-karussells-f-r-social-media-in-minuten-statt-stunden-57575.html)

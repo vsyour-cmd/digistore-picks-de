@@ -1,3 +1,24 @@
+---
+product_id: "42218"
+digistore24_product_id: 474889
+title: "Geheimnisse und Tools der Super Affiliates (Geschenk)"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 1.57
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.36
+cart_conversion_pct: 26
+cancel_rate_pct: 0.7
+categories: ["Computer & Internet"]
+listed_since: "2022-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/tools-der-super-affiliates/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/tools-der-super-affiliates/"
+language: "de"
+---
 # Geheimnisse und Tools der Super Affiliates (Geschenk)
 
 > Product ID `42218` · Digistore24 productId `474889` · [HTML profile page](../../produkte/geheimnisse-und-tools-der-super-affiliates-geschenk-42218.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56415"
+digistore24_product_id: 689384
+title: "Ebook - Warum die Dümmsten die Macht übernehmen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy","Social Media"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689384?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689384"
+language: "de"
+---
 # Ebook - Warum die Dümmsten die Macht übernehmen
 
 > Product ID `56415` · Digistore24 productId `689384` · [HTML profile page](../../produkte/ebook-warum-die-d-mmsten-die-macht-bernehmen-56415.html)

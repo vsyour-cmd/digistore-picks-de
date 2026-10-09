@@ -1,3 +1,24 @@
+---
+product_id: "43531"
+digistore24_product_id: 461394
+title: "WEDDING MAGAZINE für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 136.09
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 21
+cancel_rate_pct: 2.28
+categories: ["Profession & Job"]
+listed_since: "2022-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/wedding-guide/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/wedding-guide/"
+language: "de"
+---
 # WEDDING MAGAZINE für Fotografen
 
 > Product ID `43531` · Digistore24 productId `461394` · [HTML profile page](../../produkte/wedding-magazine-f-r-fotografen-43531.html)

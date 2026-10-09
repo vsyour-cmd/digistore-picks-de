@@ -1,3 +1,24 @@
+---
+product_id: "28954"
+digistore24_product_id: 213283
+title: "Online-Videokurs für Nähanfänger"
+vendor: "fadenlauf"
+product_type: "Member area and video courses"
+price: 36.72
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.53
+cart_conversion_pct: 22
+cancel_rate_pct: 1.05
+categories: ["Hobby & Craft"]
+listed_since: "2018-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fadenlauf-naehschule.de/landingpage-anfaengerkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://fadenlauf-naehschule.de/landingpage-anfaengerkurs/"
+language: "de"
+---
 # Online-Videokurs für Nähanfänger
 
 > Product ID `28954` · Digistore24 productId `213283` · [HTML profile page](../../produkte/online-videokurs-f-r-n-hanf-nger-28954.html)

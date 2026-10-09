@@ -1,3 +1,24 @@
+---
+product_id: "40073"
+digistore24_product_id: 311670
+title: "NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://katja-amberg-shop.de/negativegefuehleaufloesen?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/negativegefuehleaufloesen"
+language: "de"
+---
 # NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg
 
 > Product ID `40073` · Digistore24 productId `311670` · [HTML profile page](../../produkte/negative-gef-hle-aufl-sen-meditation-katja-amberg-40073.html)

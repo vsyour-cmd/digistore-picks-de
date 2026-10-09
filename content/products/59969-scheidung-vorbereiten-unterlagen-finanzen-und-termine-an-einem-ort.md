@@ -1,3 +1,24 @@
+---
+product_id: "59969"
+digistore24_product_id: 737065
+title: "Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort"
+vendor: "bltsad"
+product_type: "Software"
+price: 939.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 375.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://assetshield-x.com/anti-rosenkrieg-kompass.html?aff=adminstore#aff=adminstore"
+sales_page: "https://assetshield-x.com/anti-rosenkrieg-kompass.html"
+language: "de"
+---
 # Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort
 
 > Product ID `59969` · Digistore24 productId `737065` · [HTML profile page](../../produkte/scheidung-vorbereiten-unterlagen-finanzen-und-termine-an-einem-ort-59969.html)

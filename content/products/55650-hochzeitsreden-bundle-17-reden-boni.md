@@ -1,3 +1,24 @@
+---
+product_id: "55650"
+digistore24_product_id: 669617
+title: "Hochzeitsreden Bundle - 17 Reden + Boni"
+vendor: "MadrigenumVerlag"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://madrigenum.dworak.name/nie-wieder-sprachlos-die-perfekte-hochzeitsrede-fuer-jeden-anlass-in-5-minuten-fertig-individualisiert/?aff=adminstore#aff=adminstore"
+sales_page: "https://madrigenum.dworak.name/nie-wieder-sprachlos-die-perfekte-hochzeitsrede-fuer-jeden-anlass-in-5-minuten-fertig-individualisiert/"
+language: "de"
+---
 # Hochzeitsreden Bundle - 17 Reden + Boni
 
 > Product ID `55650` · Digistore24 productId `669617` · [HTML profile page](../../produkte/hochzeitsreden-bundle-17-reden-boni-55650.html)

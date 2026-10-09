@@ -1,3 +1,24 @@
+---
+product_id: "60145"
+digistore24_product_id: 740971
+title: "Wandern im Bayerischen Wald mit Kindern"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Hobby & Craft","Travel & Culture"]
+listed_since: "2026-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740971?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740971"
+language: "de"
+---
 # Wandern im Bayerischen Wald mit Kindern
 
 > Product ID `60145` · Digistore24 productId `740971` · [HTML profile page](../../produkte/wandern-im-bayerischen-wald-mit-kindern-60145.html)

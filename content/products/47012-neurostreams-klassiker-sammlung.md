@@ -1,3 +1,24 @@
+---
+product_id: "47012"
+digistore24_product_id: 588998
+title: "Neurostreams™ KLASSIKER (Sammlung)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 97.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 48.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/klassiker/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/klassiker/"
+language: "de"
+---
 # Neurostreams™ KLASSIKER (Sammlung)
 
 > Product ID `47012` · Digistore24 productId `588998` · [HTML profile page](../../produkte/neurostreams-klassiker-sammlung-47012.html)

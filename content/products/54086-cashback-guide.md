@@ -1,3 +1,24 @@
+---
+product_id: "54086"
+digistore24_product_id: 636177
+title: "Cashback Guide"
+vendor: "Arsoda"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Social Media","Online Marketing"]
+listed_since: "2025-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/uDHpQxrY4cehyLesx?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/uDHpQxrY4cehyLesx"
+language: "de"
+---
 # Cashback Guide
 
 > Product ID `54086` · Digistore24 productId `636177` · [HTML profile page](../../produkte/cashback-guide-54086.html)

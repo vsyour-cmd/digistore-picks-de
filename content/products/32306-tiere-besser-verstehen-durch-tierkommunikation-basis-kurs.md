@@ -1,3 +1,24 @@
+---
+product_id: "32306"
+digistore24_product_id: 319374
+title: "Tiere besser verstehen durch Tierkommunikation Basis Kurs"
+vendor: "Andrea1A"
+product_type: "Member area and video courses"
+price: 441.85
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 110.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tierakademie.andrea-schaedel.de/lp/einstieg-in-die-tierkommunikation-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://tierakademie.andrea-schaedel.de/lp/einstieg-in-die-tierkommunikation-2/"
+language: "de"
+---
 # Tiere besser verstehen durch Tierkommunikation Basis Kurs
 
 > Product ID `32306` · Digistore24 productId `319374` · [HTML profile page](../../produkte/tiere-besser-verstehen-durch-tierkommunikation-basis-kurs-32306.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55037"
+digistore24_product_id: 644165
+title: "Ola`s Dankbarkeitsbuch - gedrucktes Buch"
+vendor: "OlgaHein"
+product_type: "Book (printed)"
+price: 23
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/?aff=adminstore#aff=adminstore"
+sales_page: "https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/"
+language: "de"
+---
 # Ola`s Dankbarkeitsbuch - gedrucktes Buch
 
 > Product ID `55037` · Digistore24 productId `644165` · [HTML profile page](../../produkte/ola-s-dankbarkeitsbuch-gedrucktes-buch-55037.html)

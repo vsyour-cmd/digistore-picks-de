@@ -1,3 +1,24 @@
+---
+product_id: "57134"
+digistore24_product_id: 704815
+title: "Elite Vision Das eBook"
+vendor: "BastianBauer"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/704815?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/704815"
+language: "de"
+---
 # Elite Vision Das eBook
 
 > Product ID `57134` · Digistore24 productId `704815` · [HTML profile page](../../produkte/elite-vision-das-ebook-57134.html)

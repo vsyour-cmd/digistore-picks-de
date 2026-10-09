@@ -1,3 +1,24 @@
+---
+product_id: "45409"
+digistore24_product_id: 506679
+title: "Die homöopathische Hausapotheke für Tiere"
+vendor: "PetraSchwarz"
+product_type: "Member area and video courses"
+price: 173.9
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 34.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2023-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26"
+language: "de"
+---
 # Die homöopathische Hausapotheke für Tiere
 
 > Product ID `45409` · Digistore24 productId `506679` · [HTML profile page](../../produkte/die-hom-opathische-hausapotheke-f-r-tiere-45409.html)

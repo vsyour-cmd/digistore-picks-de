@@ -1,3 +1,24 @@
+---
+product_id: "52172"
+digistore24_product_id: 608613
+title: "KI-Automatisierung für Affiliate-Marketer"
+vendor: "ReneAktivNetz"
+product_type: "E-books"
+price: 1.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 29
+cancel_rate_pct: 12.91
+categories: ["Business & Investment","Email Marketing"]
+listed_since: "2025-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-automatisierung-am/?aff=adminstore#aff=adminstore"
+sales_page: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-automatisierung-am/"
+language: "de"
+---
 # KI-Automatisierung für Affiliate-Marketer
 
 > Product ID `52172` · Digistore24 productId `608613` · [HTML profile page](../../produkte/ki-automatisierung-f-r-affiliate-marketer-52172.html)

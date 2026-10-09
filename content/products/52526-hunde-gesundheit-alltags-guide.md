@@ -1,3 +1,24 @@
+---
+product_id: "52526"
+digistore24_product_id: 612767
+title: "Hunde Gesundheit - Alltags Guide"
+vendor: "Loverie"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2025-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/?aff=adminstore#aff=adminstore"
+sales_page: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/"
+language: "de"
+---
 # Hunde Gesundheit - Alltags Guide
 
 > Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)

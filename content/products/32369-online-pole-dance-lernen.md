@@ -1,3 +1,24 @@
+---
+product_id: "32369"
+digistore24_product_id: 314238
+title: "Online Pole Dance lernen"
+vendor: "AerialAcademy"
+product_type: "Member area and video courses"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://aerialacademy.de/polesport-poledance/?aff=adminstore#aff=adminstore"
+sales_page: "https://aerialacademy.de/polesport-poledance/"
+language: "de"
+---
 # Online Pole Dance lernen
 
 > Product ID `32369` · Digistore24 productId `314238` · [HTML profile page](../../produkte/online-pole-dance-lernen-32369.html)

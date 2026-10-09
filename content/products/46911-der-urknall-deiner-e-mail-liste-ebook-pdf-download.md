@@ -1,3 +1,24 @@
+---
+product_id: "46911"
+digistore24_product_id: 535694
+title: "Der Urknall Deiner E-Mail-Liste eBook PDF-Download"
+vendor: "MarkoDorle"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2024-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://mariokozlowski2.funnelcockpit.com/sq2/?aff=adminstore#aff=adminstore"
+sales_page: "https://mariokozlowski2.funnelcockpit.com/sq2/"
+language: "de"
+---
 # Der Urknall Deiner E-Mail-Liste eBook PDF-Download
 
 > Product ID `46911` · Digistore24 productId `535694` · [HTML profile page](../../produkte/der-urknall-deiner-e-mail-liste-ebook-pdf-download-46911.html)

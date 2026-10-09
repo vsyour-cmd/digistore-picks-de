@@ -1,3 +1,24 @@
+---
+product_id: "25642"
+digistore24_product_id: 232178
+title: "Schlaf gut mit Chakra-Vokal-Klängen"
+vendor: "chakraklang"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2018-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.chakraklang.de/106-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.chakraklang.de/106-2/"
+language: "de"
+---
 # Schlaf gut mit Chakra-Vokal-Klängen
 
 > Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../produkte/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)

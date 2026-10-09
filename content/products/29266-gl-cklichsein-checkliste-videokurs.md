@@ -1,3 +1,24 @@
+---
+product_id: "29266"
+digistore24_product_id: 249553
+title: "Glücklichsein-Checkliste + Videokurs"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2018-11-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/"
+language: "de"
+---
 # Glücklichsein-Checkliste + Videokurs
 
 > Product ID `29266` · Digistore24 productId `249553` · [HTML profile page](../../produkte/gl-cklichsein-checkliste-videokurs-29266.html)

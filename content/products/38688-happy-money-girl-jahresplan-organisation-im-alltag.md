@@ -1,3 +1,24 @@
+---
+product_id: "38688"
+digistore24_product_id: 421775
+title: "Happy Money Girl Jahresplan - Organisation im Alltag"
+vendor: "NadjaHorlacher"
+product_type: "Member area and video courses"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://nadjahorlacher.com/nadjas-jahresplan/?aff=adminstore#aff=adminstore"
+sales_page: "https://nadjahorlacher.com/nadjas-jahresplan/"
+language: "de"
+---
 # Happy Money Girl Jahresplan - Organisation im Alltag
 
 > Product ID `38688` · Digistore24 productId `421775` · [HTML profile page](../../produkte/happy-money-girl-jahresplan-organisation-im-alltag-38688.html)

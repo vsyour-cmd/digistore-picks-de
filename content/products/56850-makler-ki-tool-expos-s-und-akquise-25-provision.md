@@ -1,3 +1,24 @@
+---
+product_id: "56850"
+digistore24_product_id: 696893
+title: "Makler KI-Tool – Exposés und Akquise | 25% Provision"
+vendor: "jan86e2"
+product_type: "Downloads"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 69.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zyntevo.de?aff=adminstore#aff=adminstore"
+sales_page: "https://zyntevo.de"
+language: "de"
+---
 # Makler KI-Tool – Exposés und Akquise | 25% Provision
 
 > Product ID `56850` · Digistore24 productId `696893` · [HTML profile page](../../produkte/makler-ki-tool-expos-s-und-akquise-25-provision-56850.html)

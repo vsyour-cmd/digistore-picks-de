@@ -1,3 +1,24 @@
+---
+product_id: "54488"
+digistore24_product_id: 642951
+title: "PR Paket für Unternehmen und Dienstleister B2B und B2C"
+vendor: "LidoConsultingAps"
+product_type: "Remote service provided electronically"
+price: 166.67
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 33.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Profession & Job","Marketing Services"]
+listed_since: "2025-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/642951?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/642951"
+language: "de"
+---
 # PR Paket für Unternehmen und Dienstleister B2B und B2C
 
 > Product ID `54488` · Digistore24 productId `642951` · [HTML profile page](../../produkte/pr-paket-f-r-unternehmen-und-dienstleister-b2b-und-b2c-54488.html)

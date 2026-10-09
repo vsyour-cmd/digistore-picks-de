@@ -1,3 +1,24 @@
+---
+product_id: "56943"
+digistore24_product_id: 701378
+title: "Mein erster Twitch-Stream"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/mein-erster-twitch-stream?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/mein-erster-twitch-stream"
+language: "de"
+---
 # Mein erster Twitch-Stream
 
 > Product ID `56943` · Digistore24 productId `701378` · [HTML profile page](../../produkte/mein-erster-twitch-stream-56943.html)

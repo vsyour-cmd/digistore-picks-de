@@ -1,3 +1,24 @@
+---
+product_id: "60041"
+digistore24_product_id: 10451
+title: "Laufband-Werbung auf 4 Werbeplattformen (7 Tage)"
+vendor: "kostenlos"
+product_type: "Remote service provided electronically"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 6.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Services","Marketing Services"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://maximails.de/laufband/?aff=adminstore#aff=adminstore"
+sales_page: "https://maximails.de/laufband/"
+language: "de"
+---
 # Laufband-Werbung auf 4 Werbeplattformen (7 Tage)
 
 > Product ID `60041` · Digistore24 productId `10451` · [HTML profile page](../../produkte/laufband-werbung-auf-4-werbeplattformen-7-tage-60041.html)

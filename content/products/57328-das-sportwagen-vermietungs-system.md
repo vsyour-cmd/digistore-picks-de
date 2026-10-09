@@ -1,3 +1,24 @@
+---
+product_id: "57328"
+digistore24_product_id: 706657
+title: "Das Sportwagen-Vermietungs-System"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/sportwagen-vermietungs-system?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/sportwagen-vermietungs-system"
+language: "de"
+---
 # Das Sportwagen-Vermietungs-System
 
 > Product ID `57328` · Digistore24 productId `706657` · [HTML profile page](../../produkte/das-sportwagen-vermietungs-system-57328.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46932"
+digistore24_product_id: 516399
+title: "Date mit deiner Zukunft"
+vendor: "RobertBoettcher"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 30.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2023-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://erfolgsfilm-boettcher.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolgsfilm-boettcher.de/"
+language: "de"
+---
 # Date mit deiner Zukunft
 
 > Product ID `46932` · Digistore24 productId `516399` · [HTML profile page](../../produkte/date-mit-deiner-zukunft-46932.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50018"
+digistore24_product_id: 632200
+title: "Cash Maximus Abo"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashmaximus.de/dergoldenebutton/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashmaximus.de/dergoldenebutton/"
+language: "de"
+---
 # Cash Maximus Abo
 
 > Product ID `50018` · Digistore24 productId `632200` · [HTML profile page](../../produkte/cash-maximus-abo-50018.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59973"
+digistore24_product_id: 738064
+title: "KI-Einkommenssystem 2026 – 89 €, 50 % Provision"
+vendor: "influexai"
+product_type: "Downloads"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/738064?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738064"
+language: "de"
+---
 # KI-Einkommenssystem 2026 – 89 €, 50 % Provision
 
 > Product ID `59973` · Digistore24 productId `738064` · [HTML profile page](../../produkte/ki-einkommenssystem-2026-89-50-provision-59973.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39553"
+digistore24_product_id: 382418
+title: "30+ kreative Fotoprojekte für beeindruckende Fotos"
+vendor: "like-fotode"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2021-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://like-foto.de/kreative-fotoideen-zum-nachmachen?aff=adminstore#aff=adminstore"
+sales_page: "https://like-foto.de/kreative-fotoideen-zum-nachmachen"
+language: "de"
+---
 # 30+ kreative Fotoprojekte für beeindruckende Fotos
 
 > Product ID `39553` · Digistore24 productId `382418` · [HTML profile page](../../produkte/30-kreative-fotoprojekte-f-r-beeindruckende-fotos-39553.html)

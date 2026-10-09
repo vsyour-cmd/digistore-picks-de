@@ -1,3 +1,24 @@
+---
+product_id: "45339"
+digistore24_product_id: 504248
+title: "Zencaptcha - Webseiten vor Bots und Spam schützen"
+vendor: "reflix"
+product_type: "Member area and video courses"
+price: 2246.6
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 561.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Software"]
+listed_since: "2023-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.zencaptcha.com/products?id=Enterprise&aff=adminstore#aff=adminstore"
+sales_page: "https://www.zencaptcha.com/products?id=Enterprise"
+language: "de"
+---
 # Zencaptcha - Webseiten vor Bots und Spam schützen
 
 > Product ID `45339` · Digistore24 productId `504248` · [HTML profile page](../../produkte/zencaptcha-webseiten-vor-bots-und-spam-sch-tzen-45339.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56654"
+digistore24_product_id: 694493
+title: "Der unterschätzte Tod im Betrieb Das gefährliche Spiel"
+vendor: "PERSOFIT"
+product_type: "E-books"
+price: 10.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Health & Fitness","Law & Justice"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694493?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694493"
+language: "de"
+---
 # Der unterschätzte Tod im Betrieb Das gefährliche Spiel
 
 > Product ID `56654` · Digistore24 productId `694493` · [HTML profile page](../../produkte/der-untersch-tzte-tod-im-betrieb-das-gef-hrliche-spiel-56654.html)

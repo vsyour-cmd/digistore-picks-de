@@ -1,3 +1,24 @@
+---
+product_id: "55997"
+digistore24_product_id: 672671
+title: "eBook - Malis Sommerglück: Malis erster Strandurlaub"
+vendor: "PETITOone"
+product_type: "E-books"
+price: 5.21
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 2.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Travel & Culture"]
+listed_since: "2026-03-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.petito.one/shop?aff=adminstore#aff=adminstore"
+sales_page: "https://www.petito.one/shop"
+language: "de"
+---
 # eBook - Malis Sommerglück: Malis erster Strandurlaub
 
 > Product ID `55997` · Digistore24 productId `672671` · [HTML profile page](../../produkte/ebook-malis-sommergl-ck-malis-erster-strandurlaub-55997.html)

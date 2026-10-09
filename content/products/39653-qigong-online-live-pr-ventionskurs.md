@@ -1,3 +1,24 @@
+---
+product_id: "39653"
+digistore24_product_id: 391836
+title: "Qigong Online Live Präventionskurs"
+vendor: "DirkOrt"
+product_type: "Member area and video courses"
+price: 103.4
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 35.3
+cart_conversion_pct: 6
+cancel_rate_pct: 4.65
+categories: ["Health & Fitness"]
+listed_since: "2021-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/"
+language: "de"
+---
 # Qigong Online Live Präventionskurs
 
 > Product ID `39653` · Digistore24 productId `391836` · [HTML profile page](../../produkte/qigong-online-live-pr-ventionskurs-39653.html)

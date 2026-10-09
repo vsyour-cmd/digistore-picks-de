@@ -1,3 +1,24 @@
+---
+product_id: "56755"
+digistore24_product_id: 669458
+title: "Modul 1 – Handlungsfähigkeit im Personalausfall"
+vendor: "weipert-consulting-gmbh"
+product_type: "Downloads"
+price: 234.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 46.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Politics & Economy","Leadership & Management"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/?aff=adminstore#aff=adminstore"
+sales_page: "https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/"
+language: "de"
+---
 # Modul 1 – Handlungsfähigkeit im Personalausfall
 
 > Product ID `56755` · Digistore24 productId `669458` · [HTML profile page](../../produkte/modul-1-handlungsf-higkeit-im-personalausfall-56755.html)

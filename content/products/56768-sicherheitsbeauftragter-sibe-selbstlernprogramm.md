@@ -1,3 +1,24 @@
+---
+product_id: "56768"
+digistore24_product_id: 697156
+title: "Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm"
+vendor: "PERSOFIT"
+product_type: "Remote service provided electronically"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Office Organization"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/697156?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/697156"
+language: "de"
+---
 # Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm
 
 > Product ID `56768` · Digistore24 productId `697156` · [HTML profile page](../../produkte/sicherheitsbeauftragter-sibe-selbstlernprogramm-56768.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58633"
+digistore24_product_id: 729609
+title: "Verschenke Instagram Cash Hack | 50% auf Upsells"
+vendor: "MSFS_2218"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://byebyehamsterrad.de/instagram-cash-hack/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/instagram-cash-hack/"
+language: "de"
+---
 # Verschenke Instagram Cash Hack | 50% auf Upsells
 
 > Product ID `58633` · Digistore24 productId `729609` · [HTML profile page](../../produkte/verschenke-instagram-cash-hack-50-auf-upsells-58633.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60113"
+digistore24_product_id: 740175
+title: "Aktiv und satt – 21-Tage-Fitnesschallenge mit Trainings- und"
+vendor: "selinascheerer934dbc"
+product_type: "E-books"
+price: 4.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 1.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740175?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740175"
+language: "de"
+---
 # Aktiv und satt – 21-Tage-Fitnesschallenge mit Trainings- und
 
 > Product ID `60113` · Digistore24 productId `740175` · [HTML profile page](../../produkte/aktiv-und-satt-21-tage-fitnesschallenge-mit-trainings-und-60113.html)

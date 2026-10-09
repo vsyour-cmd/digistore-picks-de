@@ -1,3 +1,24 @@
+---
+product_id: "56350"
+digistore24_product_id: 686663
+title: "Die Frau, die ihre Stimme erhebt - Audio Reise"
+vendor: "Wealthglitterqueen"
+product_type: "Downloads"
+price: 41.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686663?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686663"
+language: "de"
+---
 # Die Frau, die ihre Stimme erhebt - Audio Reise
 
 > Product ID `56350` · Digistore24 productId `686663` · [HTML profile page](../../produkte/die-frau-die-ihre-stimme-erhebt-audio-reise-56350.html)

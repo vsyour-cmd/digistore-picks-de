@@ -1,3 +1,24 @@
+---
+product_id: "58407"
+digistore24_product_id: 709737
+title: "KI Print-on-Demand System E-Book"
+vendor: "gowxsese"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 62.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2026-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/709737?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/709737"
+language: "de"
+---
 # KI Print-on-Demand System E-Book
 
 > Product ID `58407` · Digistore24 productId `709737` · [HTML profile page](../../produkte/ki-print-on-demand-system-e-book-58407.html)

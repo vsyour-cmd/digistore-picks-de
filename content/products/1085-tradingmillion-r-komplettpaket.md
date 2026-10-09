@@ -1,3 +1,24 @@
+---
+product_id: "1085"
+digistore24_product_id: 14723
+title: "Tradingmillionär Komplettpaket"
+vendor: "Corpmail"
+product_type: "Downloads"
+price: 337.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 168.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2013-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.tradingmillionaer.de?aff=adminstore#aff=adminstore"
+sales_page: "http://www.tradingmillionaer.de"
+language: "de"
+---
 # Tradingmillionär Komplettpaket
 
 > Product ID `1085` · Digistore24 productId `14723` · [HTML profile page](../../produkte/tradingmillion-r-komplettpaket-1085.html)

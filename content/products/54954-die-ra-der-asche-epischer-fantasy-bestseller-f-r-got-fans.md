@@ -1,3 +1,24 @@
+---
+product_id: "54954"
+digistore24_product_id: 655747
+title: "Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans"
+vendor: "Tits79"
+product_type: "E-books"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2025-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/655747?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/655747"
+language: "de"
+---
 # Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans
 
 > Product ID `54954` · Digistore24 productId `655747` · [HTML profile page](../../produkte/die-ra-der-asche-epischer-fantasy-bestseller-f-r-got-fans-54954.html)

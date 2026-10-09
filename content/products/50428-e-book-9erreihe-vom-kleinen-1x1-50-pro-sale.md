@@ -1,3 +1,24 @@
+---
+product_id: "50428"
+digistore24_product_id: 579741
+title: "E-Book 9erReihe vom kleinen 1x1 - 50% pro Sale"
+vendor: "sussiebe92"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2024-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://genialeinfachlernen.com/9erReihe?aff=adminstore#aff=adminstore"
+sales_page: "https://genialeinfachlernen.com/9erReihe"
+language: "de"
+---
 # E-Book 9erReihe vom kleinen 1x1 - 50% pro Sale
 
 > Product ID `50428` · Digistore24 productId `579741` · [HTML profile page](../../produkte/e-book-9erreihe-vom-kleinen-1x1-50-pro-sale-50428.html)

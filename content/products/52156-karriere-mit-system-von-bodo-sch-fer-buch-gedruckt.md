@@ -1,3 +1,24 @@
+---
+product_id: "52156"
+digistore24_product_id: 607895
+title: "Karriere mit System von Bodo Schäfer Buch (gedruckt)"
+vendor: "BodoSchaefer"
+product_type: "Book (printed)"
+price: 6.29
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.58
+cart_conversion_pct: 13
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2025-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buch.bodoschaefer.de/karriere-mit-system-aff/?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.bodoschaefer.de/karriere-mit-system-aff/"
+language: "de"
+---
 # Karriere mit System von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../produkte/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)

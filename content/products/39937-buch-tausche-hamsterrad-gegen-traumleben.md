@@ -1,3 +1,24 @@
+---
+product_id: "39937"
+digistore24_product_id: 378010
+title: "Buch | Tausche Hamsterrad gegen Traumleben"
+vendor: "jochenlilleike"
+product_type: "Book (printed)"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buch.berufungscode.com?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.berufungscode.com"
+language: "de"
+---
 # Buch | Tausche Hamsterrad gegen Traumleben
 
 > Product ID `39937` · Digistore24 productId `378010` · [HTML profile page](../../produkte/buch-tausche-hamsterrad-gegen-traumleben-39937.html)

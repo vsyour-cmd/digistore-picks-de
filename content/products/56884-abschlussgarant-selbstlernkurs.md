@@ -1,3 +1,24 @@
+---
+product_id: "56884"
+digistore24_product_id: 625312
+title: "Abschlussgarant Selbstlernkurs"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Sales Training"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/625312?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/625312"
+language: "de"
+---
 # Abschlussgarant Selbstlernkurs
 
 > Product ID `56884` · Digistore24 productId `625312` · [HTML profile page](../../produkte/abschlussgarant-selbstlernkurs-56884.html)

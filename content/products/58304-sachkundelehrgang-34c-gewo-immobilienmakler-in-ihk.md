@@ -1,3 +1,24 @@
+---
+product_id: "58304"
+digistore24_product_id: 721130
+title: "Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34c-gewo-immobilienmakler-in-ihk/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34c-gewo-immobilienmakler-in-ihk/"
+language: "de"
+---
 # Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)
 
 > Product ID `58304` · Digistore24 productId `721130` · [HTML profile page](../../produkte/sachkundelehrgang-34c-gewo-immobilienmakler-in-ihk-58304.html)

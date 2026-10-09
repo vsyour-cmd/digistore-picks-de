@@ -1,3 +1,24 @@
+---
+product_id: "41739"
+digistore24_product_id: 468518
+title: "Affiliate Partner, die Deine Produkte verkaufen!"
+vendor: "Spekulatius"
+product_type: "Downloads"
+price: 0.17
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 5.5
+cart_conversion_pct: 48
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/FNGNLgBvrxEwjMFk4?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/FNGNLgBvrxEwjMFk4"
+language: "de"
+---
 # Affiliate Partner, die Deine Produkte verkaufen!
 
 > Product ID `41739` · Digistore24 productId `468518` · [HTML profile page](../../produkte/affiliate-partner-die-deine-produkte-verkaufen-41739.html)

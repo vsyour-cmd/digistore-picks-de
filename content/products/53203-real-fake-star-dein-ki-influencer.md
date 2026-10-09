@@ -1,3 +1,24 @@
+---
+product_id: "53203"
+digistore24_product_id: 623906
+title: "Real Fake Star - Dein KI Influencer"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 43.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affinex.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://affinex.de/"
+language: "de"
+---
 # Real Fake Star - Dein KI Influencer
 
 > Product ID `53203` · Digistore24 productId `623906` · [HTML profile page](../../produkte/real-fake-star-dein-ki-influencer-53203.html)

@@ -1,3 +1,24 @@
+---
+product_id: "2247"
+digistore24_product_id: 19813
+title: "MagnetMotor24"
+vendor: "gunkes"
+product_type: "Downloads"
+price: 55.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2014-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://magnetmotor24.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://magnetmotor24.com/"
+language: "de"
+---
 # MagnetMotor24
 
 > Product ID `2247` · Digistore24 productId `19813` · [HTML profile page](../../produkte/magnetmotor24-2247.html)

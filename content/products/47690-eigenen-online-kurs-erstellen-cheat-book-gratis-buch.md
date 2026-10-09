@@ -1,3 +1,24 @@
+---
+product_id: "47690"
+digistore24_product_id: 546702
+title: "Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 0.88
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.34
+cart_conversion_pct: 36
+cancel_rate_pct: 1.68
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/mein-erster-online-kurs-cheat-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/mein-erster-online-kurs-cheat-book/"
+language: "de"
+---
 # Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)
 
 > Product ID `47690` · Digistore24 productId `546702` · [HTML profile page](../../produkte/eigenen-online-kurs-erstellen-cheat-book-gratis-buch-47690.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51109"
+digistore24_product_id: 562471
+title: "Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE"
+vendor: "BoudoirSecretsMasterclass"
+product_type: "Downloads"
+price: 70.4
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 17.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Software"]
+listed_since: "2024-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/562471?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/562471"
+language: "de"
+---
 # Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE
 
 > Product ID `51109` · Digistore24 productId `562471` · [HTML profile page](../../produkte/adobe-lightroom-presets-boudoir-secrets-masterclass-de-51109.html)

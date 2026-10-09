@@ -1,3 +1,24 @@
+---
+product_id: "56609"
+digistore24_product_id: 690595
+title: "50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte"
+vendor: "Seelendank"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://angstfrei.shop/produkt/band-1-bundle-die-angst-nicht-gut-genug-zu-sein/?aff=adminstore#aff=adminstore"
+sales_page: "https://angstfrei.shop/produkt/band-1-bundle-die-angst-nicht-gut-genug-zu-sein/"
+language: "de"
+---
 # 50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte
 
 > Product ID `56609` · Digistore24 productId `690595` · [HTML profile page](../../produkte/50-5-sub-40-hochrelevante-angst-frei-produkte-56609.html)

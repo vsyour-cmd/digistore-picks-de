@@ -1,3 +1,24 @@
+---
+product_id: "58738"
+digistore24_product_id: 725415
+title: "30 Tage Mamaentlastungsplaner"
+vendor: "mamaplaneinfach"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/725415?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725415"
+language: "de"
+---
 # 30 Tage Mamaentlastungsplaner
 
 > Product ID `58738` · Digistore24 productId `725415` · [HTML profile page](../../produkte/30-tage-mamaentlastungsplaner-58738.html)

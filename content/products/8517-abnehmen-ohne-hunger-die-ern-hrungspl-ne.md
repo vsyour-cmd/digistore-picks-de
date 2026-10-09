@@ -1,3 +1,24 @@
+---
+product_id: "8517"
+digistore24_product_id: 57899
+title: "Abnehmen ohne Hunger - Die Ernährungspläne"
+vendor: "owebsolution"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2015-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/57899?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/57899"
+language: "de"
+---
 # Abnehmen ohne Hunger - Die Ernährungspläne
 
 > Product ID `8517` · Digistore24 productId `57899` · [HTML profile page](../../produkte/abnehmen-ohne-hunger-die-ern-hrungspl-ne-8517.html)

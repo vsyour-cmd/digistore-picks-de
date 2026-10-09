@@ -1,3 +1,24 @@
+---
+product_id: "56771"
+digistore24_product_id: 689183
+title: "SIC - ImmoClear – Energetische Klärung für schnellere Immobi"
+vendor: "Immoclear"
+product_type: "Member area and video courses"
+price: 47.94
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 33.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Real Estate"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk"
+language: "de"
+---
 # SIC - ImmoClear – Energetische Klärung für schnellere Immobi
 
 > Product ID `56771` · Digistore24 productId `689183` · [HTML profile page](../../produkte/sic-immoclear-energetische-kl-rung-f-r-schnellere-immobi-56771.html)

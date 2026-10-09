@@ -1,3 +1,24 @@
+---
+product_id: "47017"
+digistore24_product_id: 66567
+title: "Neurostreams™ Quickies"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2015-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.neurostreams.de/portfolio/quickies/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.neurostreams.de/portfolio/quickies/"
+language: "de"
+---
 # Neurostreams™ Quickies
 
 > Product ID `47017` · Digistore24 productId `66567` · [HTML profile page](../../produkte/neurostreams-quickies-47017.html)

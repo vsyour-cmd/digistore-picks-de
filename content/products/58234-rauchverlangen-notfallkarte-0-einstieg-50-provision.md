@@ -1,3 +1,24 @@
+---
+product_id: "58234"
+digistore24_product_id: 717824
+title: "Rauchverlangen-Notfallkarte – 0 € Einstieg + 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/die-rauchverlangen-notfallkarte?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/die-rauchverlangen-notfallkarte"
+language: "de"
+---
 # Rauchverlangen-Notfallkarte – 0 € Einstieg + 50 % Provision
 
 > Product ID `58234` · Digistore24 productId `717824` · [HTML profile page](../../produkte/rauchverlangen-notfallkarte-0-einstieg-50-provision-58234.html)

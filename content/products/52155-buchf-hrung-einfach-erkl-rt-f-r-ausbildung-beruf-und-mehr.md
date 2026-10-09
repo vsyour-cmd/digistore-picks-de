@@ -1,3 +1,24 @@
+---
+product_id: "52155"
+digistore24_product_id: 607730
+title: "Buchführung einfach erklärt - für Ausbildung, Beruf und mehr"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 83.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.6
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/?aff=adminstore#aff=adminstore"
+sales_page: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/"
+language: "de"
+---
 # Buchführung einfach erklärt - für Ausbildung, Beruf und mehr
 
 > Product ID `52155` · Digistore24 productId `607730` · [HTML profile page](../../produkte/buchf-hrung-einfach-erkl-rt-f-r-ausbildung-beruf-und-mehr-52155.html)

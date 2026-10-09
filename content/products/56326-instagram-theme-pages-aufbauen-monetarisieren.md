@@ -1,3 +1,24 @@
+---
+product_id: "56326"
+digistore24_product_id: 686045
+title: "Instagram Theme Pages aufbauen & monetarisieren"
+vendor: "Freifone"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/instagram-theme-pages-monetarisieren?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/instagram-theme-pages-monetarisieren"
+language: "de"
+---
 # Instagram Theme Pages aufbauen & monetarisieren
 
 > Product ID `56326` · Digistore24 productId `686045` · [HTML profile page](../../produkte/instagram-theme-pages-aufbauen-monetarisieren-56326.html)

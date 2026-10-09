@@ -1,3 +1,24 @@
+---
+product_id: "56009"
+digistore24_product_id: 678396
+title: "Erfolgreicher Content Creator mit KI Teil 2"
+vendor: "Freifone"
+product_type: "E-books"
+price: 31.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-03-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2"
+language: "de"
+---
 # Erfolgreicher Content Creator mit KI Teil 2
 
 > Product ID `56009` · Digistore24 productId `678396` · [HTML profile page](../../produkte/erfolgreicher-content-creator-mit-ki-teil-2-56009.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54403"
+digistore24_product_id: 632019
+title: "Webseite 3-4Page erstellen mit 499 euro"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 558.18
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 139.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2025-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/"
+language: "de"
+---
 # Webseite 3-4Page erstellen mit 499 euro
 
 > Product ID `54403` · Digistore24 productId `632019` · [HTML profile page](../../produkte/webseite-3-4page-erstellen-mit-499-euro-54403.html)

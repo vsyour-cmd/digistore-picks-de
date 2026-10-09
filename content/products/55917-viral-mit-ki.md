@@ -1,3 +1,24 @@
+---
+product_id: "55917"
+digistore24_product_id: 676399
+title: "Viral mit KI"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN"
+language: "de"
+---
 # Viral mit KI
 
 > Product ID `55917` · Digistore24 productId `676399` · [HTML profile page](../../produkte/viral-mit-ki-55917.html)

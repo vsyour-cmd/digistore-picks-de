@@ -1,3 +1,24 @@
+---
+product_id: "48575"
+digistore24_product_id: 557043
+title: "Das perfekte Freebie - 17 Fehler vermeiden"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Das-Perfekte-Freebie?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Das-Perfekte-Freebie"
+language: "de"
+---
 # Das perfekte Freebie - 17 Fehler vermeiden
 
 > Product ID `48575` · Digistore24 productId `557043` · [HTML profile page](../../produkte/das-perfekte-freebie-17-fehler-vermeiden-48575.html)

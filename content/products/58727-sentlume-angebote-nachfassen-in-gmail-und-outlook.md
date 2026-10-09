@@ -1,3 +1,24 @@
+---
+product_id: "58727"
+digistore24_product_id: 724926
+title: "Sentlume – Angebote nachfassen in Gmail und Outlook"
+vendor: "enginucar"
+product_type: "Software"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 13.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Software"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sentlume.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://sentlume.pages.dev/"
+language: "de"
+---
 # Sentlume – Angebote nachfassen in Gmail und Outlook
 
 > Product ID `58727` · Digistore24 productId `724926` · [HTML profile page](../../produkte/sentlume-angebote-nachfassen-in-gmail-und-outlook-58727.html)

@@ -1,3 +1,24 @@
+---
+product_id: "24223"
+digistore24_product_id: 56501
+title: "Vegan Kickstarter E-Book"
+vendor: "chrisi20"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.6
+cart_conversion_pct: 4
+cancel_rate_pct: 2.46
+categories: ["Food & Drink"]
+listed_since: "2015-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/56501?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/56501"
+language: "de"
+---
 # Vegan Kickstarter E-Book
 
 > Product ID `24223` · Digistore24 productId `56501` · [HTML profile page](../../produkte/vegan-kickstarter-e-book-24223.html)

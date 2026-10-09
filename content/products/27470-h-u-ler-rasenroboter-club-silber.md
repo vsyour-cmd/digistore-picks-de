@@ -1,3 +1,24 @@
+---
+product_id: "27470"
+digistore24_product_id: 252623
+title: "Häußler Rasenroboter Club - SILBER"
+vendor: "haeussler"
+product_type: "Remote service provided electronically"
+price: 53.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2018-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robomaeher.de/blog/robomaeher-club/?aff=adminstore#aff=adminstore"
+sales_page: "https://robomaeher.de/blog/robomaeher-club/"
+language: "de"
+---
 # Häußler Rasenroboter Club - SILBER
 
 > Product ID `27470` · Digistore24 productId `252623` · [HTML profile page](../../produkte/h-u-ler-rasenroboter-club-silber-27470.html)

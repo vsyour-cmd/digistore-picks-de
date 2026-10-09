@@ -1,3 +1,24 @@
+---
+product_id: "47045"
+digistore24_product_id: 250035
+title: "Neurostreams™ Mini Alpha Siesta"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.neurostreams.de/portfolio/alpha-zustand-reset/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/portfolio/alpha-zustand-reset/"
+language: "de"
+---
 # Neurostreams™ Mini Alpha Siesta
 
 > Product ID `47045` · Digistore24 productId `250035` · [HTML profile page](../../produkte/neurostreams-mini-alpha-siesta-47045.html)

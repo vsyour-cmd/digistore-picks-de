@@ -1,3 +1,24 @@
+---
+product_id: "54649"
+digistore24_product_id: 647379
+title: "KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF-"
+vendor: "Unternehmensberatung_Springer"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/647379?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/647379"
+language: "de"
+---
 # KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF-
 
 > Product ID `54649` · Digistore24 productId `647379` · [HTML profile page](../../produkte/ki-praxisleitfaden-f-r-moderne-ausbildung-das-digitale-pdf-54649.html)

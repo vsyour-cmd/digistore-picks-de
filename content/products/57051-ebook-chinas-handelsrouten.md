@@ -1,3 +1,24 @@
+---
+product_id: "57051"
+digistore24_product_id: 703295
+title: "Ebook - Chinas Handelsrouten"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Politics & Economy"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/703295?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/703295"
+language: "de"
+---
 # Ebook - Chinas Handelsrouten
 
 > Product ID `57051` · Digistore24 productId `703295` · [HTML profile page](../../produkte/ebook-chinas-handelsrouten-57051.html)

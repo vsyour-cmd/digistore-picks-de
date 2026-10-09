@@ -1,3 +1,24 @@
+---
+product_id: "36794"
+digistore24_product_id: 391017
+title: "Goodbye 9 to 5 - Passives Einkommen [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.63
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 5.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
+listed_since: "2021-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/passives-einkommen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/passives-einkommen/"
+language: "de"
+---
 # Goodbye 9 to 5 - Passives Einkommen [E-Book]
 
 > Product ID `36794` · Digistore24 productId `391017` · [HTML profile page](../../produkte/goodbye-9-to-5-passives-einkommen-e-book-36794.html)

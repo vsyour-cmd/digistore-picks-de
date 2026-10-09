@@ -1,3 +1,24 @@
+---
+product_id: "58448"
+digistore24_product_id: 721041
+title: "ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei"
+vendor: "rs-onlineagentur"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rita-scheer.de/chatgpt-ohne-angst/?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/chatgpt-ohne-angst/"
+language: "de"
+---
 # ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei
 
 > Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../produkte/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)

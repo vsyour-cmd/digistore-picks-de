@@ -1,3 +1,24 @@
+---
+product_id: "45649"
+digistore24_product_id: 500407
+title: "Insta AI Copy Paste Business"
+vendor: "ss-business"
+product_type: "Member area and video courses"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 38.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2023-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/500407/adminstore"
+sales_page: "https://instabusiness.org/insta-ai-copy-paste-business/?afid=[AFFILIATE]"
+language: "de"
+---
 # Insta AI Copy Paste Business
 
 > Product ID `45649` · Digistore24 productId `500407` · [HTML profile page](../../produkte/insta-ai-copy-paste-business-45649.html)

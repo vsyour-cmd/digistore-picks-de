@@ -1,3 +1,24 @@
+---
+product_id: "57555"
+digistore24_product_id: 710228
+title: "Passives Einkommen ohne Social Media – Anfänger Guide"
+vendor: "soudmohsin68cc4f"
+product_type: "E-books"
+price: 37.13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/710228?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710228"
+language: "de"
+---
 # Passives Einkommen ohne Social Media – Anfänger Guide
 
 > Product ID `57555` · Digistore24 productId `710228` · [HTML profile page](../../produkte/passives-einkommen-ohne-social-media-anf-nger-guide-57555.html)

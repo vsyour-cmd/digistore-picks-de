@@ -1,3 +1,24 @@
+---
+product_id: "50603"
+digistore24_product_id: 583870
+title: "Dein Erfolgsleitfaden: In 5 Schritten zum profitablen..."
+vendor: "HermannJos"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/iwEdniEo5w5PTM28F?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/iwEdniEo5w5PTM28F"
+language: "de"
+---
 # Dein Erfolgsleitfaden: In 5 Schritten zum profitablen...
 
 > Product ID `50603` · Digistore24 productId `583870` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-in-5-schritten-zum-profitablen-50603.html)

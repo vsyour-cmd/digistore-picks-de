@@ -1,3 +1,24 @@
+---
+product_id: "50687"
+digistore24_product_id: 580246
+title: "KI Chart Stürmer"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 69.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 91.39
+cart_conversion_pct: 10
+cancel_rate_pct: 0.88
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kimate.de/kic-video/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kimate.de/kic-video/"
+language: "de"
+---
 # KI Chart Stürmer
 
 > Product ID `50687` · Digistore24 productId `580246` · [HTML profile page](../../produkte/ki-chart-st-rmer-50687.html)

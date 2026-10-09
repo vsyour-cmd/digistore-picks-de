@@ -1,3 +1,24 @@
+---
+product_id: "59104"
+digistore24_product_id: 598233
+title: "KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste"
+vendor: "EFFICAX"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 7.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.sanversity.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sanversity.de/"
+language: "de"
+---
 # KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste
 
 > Product ID `59104` · Digistore24 productId `598233` · [HTML profile page](../../produkte/ki-hype-e-book-100-midjourney-prompts-copy-paste-59104.html)

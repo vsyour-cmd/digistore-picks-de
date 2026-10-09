@@ -1,3 +1,24 @@
+---
+product_id: "51213"
+digistore24_product_id: 594364
+title: "Alle 4 Live-Sessions zum Vorteilspreis!"
+vendor: "user3968737"
+product_type: "Online coaching"
+price: 241.57
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 24.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Services"]
+listed_since: "2025-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/594364?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/594364"
+language: "de"
+---
 # Alle 4 Live-Sessions zum Vorteilspreis!
 
 > Product ID `51213` · Digistore24 productId `594364` · [HTML profile page](../../produkte/alle-4-live-sessions-zum-vorteilspreis-51213.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57780"
+digistore24_product_id: 712070
+title: "Selbstdenker-Kompass — Wenn deine besten Argumente scheitern"
+vendor: "Klartextkompass"
+product_type: "E-books"
+price: 39.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.klartext-kompass.de/selbstdenkerkompass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.klartext-kompass.de/selbstdenkerkompass/"
+language: "de"
+---
 # Selbstdenker-Kompass — Wenn deine besten Argumente scheitern
 
 > Product ID `57780` · Digistore24 productId `712070` · [HTML profile page](../../produkte/selbstdenker-kompass-wenn-deine-besten-argumente-scheitern-57780.html)

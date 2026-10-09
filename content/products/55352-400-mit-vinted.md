@@ -1,3 +1,24 @@
+---
+product_id: "55352"
+digistore24_product_id: 664228
+title: "400€ mit Vinted"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 55
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/WpPySR7YhhvSGLECR?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/WpPySR7YhhvSGLECR"
+language: "de"
+---
 # 400€ mit Vinted
 
 > Product ID `55352` · Digistore24 productId `664228` · [HTML profile page](../../produkte/400-mit-vinted-55352.html)

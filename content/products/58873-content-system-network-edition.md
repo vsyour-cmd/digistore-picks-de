@@ -1,3 +1,24 @@
+---
+product_id: "58873"
+digistore24_product_id: 728372
+title: "Content System – Network Edition"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 48.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/content-system-network-edition?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/content-system-network-edition"
+language: "de"
+---
 # Content System – Network Edition
 
 > Product ID `58873` · Digistore24 productId `728372` · [HTML profile page](../../produkte/content-system-network-edition-58873.html)

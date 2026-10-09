@@ -1,3 +1,24 @@
+---
+product_id: "58523"
+digistore24_product_id: 724898
+title: "Portugiesisch-Guide Deluxe"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724898?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724898"
+language: "de"
+---
 # Portugiesisch-Guide Deluxe
 
 > Product ID `58523` · Digistore24 productId `724898` · [HTML profile page](../../produkte/portugiesisch-guide-deluxe-58523.html)

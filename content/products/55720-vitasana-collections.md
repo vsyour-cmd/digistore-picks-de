@@ -1,3 +1,24 @@
+---
+product_id: "55720"
+digistore24_product_id: 663520
+title: "VitaSana Collections"
+vendor: "DS24-MySana"
+product_type: "Supplements - for slimming"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 31.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vitasanacollection.com/8-products-pdp?aff=adminstore#aff=adminstore"
+sales_page: "https://vitasanacollection.com/8-products-pdp"
+language: "de"
+---
 # VitaSana Collections
 
 > Product ID `55720` · Digistore24 productId `663520` · [HTML profile page](../../produkte/vitasana-collections-55720.html)

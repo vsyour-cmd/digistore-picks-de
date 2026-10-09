@@ -1,3 +1,24 @@
+---
+product_id: "43886"
+digistore24_product_id: 486982
+title: "FAHRER-UVV (ARBEITSSICHERHEIT)"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.57
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/fahrer-uvv/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/fahrer-uvv/"
+language: "de"
+---
 # FAHRER-UVV (ARBEITSSICHERHEIT)
 
 > Product ID `43886` · Digistore24 productId `486982` · [HTML profile page](../../produkte/fahrer-uvv-arbeitssicherheit-43886.html)

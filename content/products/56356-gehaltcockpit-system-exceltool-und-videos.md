@@ -1,3 +1,24 @@
+---
+product_id: "56356"
+digistore24_product_id: 679700
+title: "GehaltCockpit System | Exceltool und Videos"
+vendor: "NilsWarnecke"
+product_type: "Software"
+price: 23.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 78.56
+cart_conversion_pct: 7
+cancel_rate_pct: 4.95
+categories: ["Computer & Internet","Education","Profession & Job"]
+listed_since: "2026-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cashcockpit.de/gehaltcockpit-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://cashcockpit.de/gehaltcockpit-system/"
+language: "de"
+---
 # GehaltCockpit System | Exceltool und Videos
 
 > Product ID `56356` · Digistore24 productId `679700` · [HTML profile page](../../produkte/gehaltcockpit-system-exceltool-und-videos-56356.html)

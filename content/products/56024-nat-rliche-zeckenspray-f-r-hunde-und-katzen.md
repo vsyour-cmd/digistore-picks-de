@@ -1,3 +1,24 @@
+---
+product_id: "56024"
+digistore24_product_id: 674795
+title: "Natürliche Zeckenspray für Hunde und Katzen"
+vendor: "Futtermittel"
+product_type: "E-books"
+price: 5.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/674795?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/674795"
+language: "de"
+---
 # Natürliche Zeckenspray für Hunde und Katzen
 
 > Product ID `56024` · Digistore24 productId `674795` · [HTML profile page](../../produkte/nat-rliche-zeckenspray-f-r-hunde-und-katzen-56024.html)

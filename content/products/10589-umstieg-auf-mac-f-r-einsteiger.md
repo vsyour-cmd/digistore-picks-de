@@ -1,3 +1,24 @@
+---
+product_id: "10589"
+digistore24_product_id: 74657
+title: "Umstieg auf Mac für Einsteiger"
+vendor: "FIMA2011"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2016-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.umstiegaufmac.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.umstiegaufmac.de"
+language: "de"
+---
 # Umstieg auf Mac für Einsteiger
 
 > Product ID `10589` · Digistore24 productId `74657` · [HTML profile page](../../produkte/umstieg-auf-mac-f-r-einsteiger-10589.html)

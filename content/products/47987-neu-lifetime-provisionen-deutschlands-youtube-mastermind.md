@@ -1,3 +1,24 @@
+---
+product_id: "47987"
+digistore24_product_id: 554433
+title: "[NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind"
+vendor: "babba-media"
+product_type: "Member area and video courses"
+price: 262.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 104.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2024-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/554433?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/554433"
+language: "de"
+---
 # [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind
 
 > Product ID `47987` · Digistore24 productId `554433` · [HTML profile page](../../produkte/neu-lifetime-provisionen-deutschlands-youtube-mastermind-47987.html)

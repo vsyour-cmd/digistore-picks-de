@@ -1,3 +1,24 @@
+---
+product_id: "12659"
+digistore24_product_id: 64765
+title: "Superlerner Edukation"
+vendor: "Insider-Media"
+product_type: "Member area and video courses"
+price: 98.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2015-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lerntipp.com/superlerner-edukation?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lerntipp.com/superlerner-edukation"
+language: "de"
+---
 # Superlerner Edukation
 
 > Product ID `12659` · Digistore24 productId `64765` · [HTML profile page](../../produkte/superlerner-edukation-12659.html)

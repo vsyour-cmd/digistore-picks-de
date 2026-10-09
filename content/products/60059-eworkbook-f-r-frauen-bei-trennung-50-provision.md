@@ -1,3 +1,24 @@
+---
+product_id: "60059"
+digistore24_product_id: 689617
+title: "eWorkbook für Frauen bei Trennung / 50% Provision"
+vendor: "office1376"
+product_type: "E-books"
+price: 19.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/689617?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689617"
+language: "de"
+---
 # eWorkbook für Frauen bei Trennung / 50% Provision
 
 > Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../produkte/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)

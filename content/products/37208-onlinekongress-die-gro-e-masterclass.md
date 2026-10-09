@@ -1,3 +1,24 @@
+---
+product_id: "37208"
+digistore24_product_id: 356633
+title: "Onlinekongress • Die große Masterclass"
+vendor: "gdorsch"
+product_type: "Online coaching"
+price: 4474.4
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 335.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/356633?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/356633"
+language: "de"
+---
 # Onlinekongress • Die große Masterclass
 
 > Product ID `37208` · Digistore24 productId `356633` · [HTML profile page](../../produkte/onlinekongress-die-gro-e-masterclass-37208.html)

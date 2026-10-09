@@ -1,3 +1,24 @@
+---
+product_id: "48625"
+digistore24_product_id: 560802
+title: "150 Freebie Ideen + KI Prompt"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/150-freebie-ideen?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/150-freebie-ideen"
+language: "de"
+---
 # 150 Freebie Ideen + KI Prompt
 
 > Product ID `48625` · Digistore24 productId `560802` · [HTML profile page](../../produkte/150-freebie-ideen-ki-prompt-48625.html)

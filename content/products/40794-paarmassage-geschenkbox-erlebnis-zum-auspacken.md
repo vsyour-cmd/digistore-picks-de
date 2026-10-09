@@ -1,3 +1,24 @@
+---
+product_id: "40794"
+digistore24_product_id: 450935
+title: "Paarmassage Geschenkbox – Erlebnis zum Auspacken"
+vendor: "magoody"
+product_type: "Deliverable"
+price: 58.26
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 24.92
+cart_conversion_pct: 10
+cancel_rate_pct: 1.73
+categories: ["Health & Fitness"]
+listed_since: "2022-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://magoody.de/"
+language: "de"
+---
 # Paarmassage Geschenkbox – Erlebnis zum Auspacken
 
 > Product ID `40794` · Digistore24 productId `450935` · [HTML profile page](../../produkte/paarmassage-geschenkbox-erlebnis-zum-auspacken-40794.html)

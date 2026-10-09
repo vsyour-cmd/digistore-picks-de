@@ -1,3 +1,24 @@
+---
+product_id: "48214"
+digistore24_product_id: 467915
+title: "Kryptowährungen Komplettpaket"
+vendor: "LebensfrohLLC"
+product_type: "Member area and video courses"
+price: 555.94
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 166.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2022-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/"
+language: "de"
+---
 # Kryptowährungen Komplettpaket
 
 > Product ID `48214` · Digistore24 productId `467915` · [HTML profile page](../../produkte/kryptow-hrungen-komplettpaket-48214.html)

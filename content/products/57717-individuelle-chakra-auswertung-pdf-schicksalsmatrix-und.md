@@ -1,3 +1,24 @@
+---
+product_id: "57717"
+digistore24_product_id: 627902
+title: "Individuelle Chakra-Auswertung (PDF) | Schicksalsmatrix und"
+vendor: "codegbee"
+product_type: "Downloads"
+price: 31.02
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schicksalsmatrix-rechner.com/product/chakra-auswertung-individuell/?aff=adminstore#aff=adminstore"
+sales_page: "https://schicksalsmatrix-rechner.com/product/chakra-auswertung-individuell/"
+language: "de"
+---
 # Individuelle Chakra-Auswertung (PDF) | Schicksalsmatrix und
 
 > Product ID `57717` · Digistore24 productId `627902` · [HTML profile page](../../produkte/individuelle-chakra-auswertung-pdf-schicksalsmatrix-und-57717.html)

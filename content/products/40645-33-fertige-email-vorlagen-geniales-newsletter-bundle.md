@@ -1,3 +1,24 @@
+---
+product_id: "40645"
+digistore24_product_id: 449107
+title: "33 fertige Email-Vorlagen (geniales Newsletter-Bundle)"
+vendor: "dennistr1"
+product_type: "Downloads"
+price: 31.02
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinebusinesspilot.com/33-fertige-email-vorlagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinebusinesspilot.com/33-fertige-email-vorlagen/"
+language: "de"
+---
 # 33 fertige Email-Vorlagen (geniales Newsletter-Bundle)
 
 > Product ID `40645` · Digistore24 productId `449107` · [HTML profile page](../../produkte/33-fertige-email-vorlagen-geniales-newsletter-bundle-40645.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54867"
+digistore24_product_id: 558417
+title: "Aktien-Community sharedealsPlus"
+vendor: "BullMarketsMedia"
+product_type: "Member area and video courses"
+price: 112.24
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 17.08
+cart_conversion_pct: 2
+cancel_rate_pct: 2.39
+categories: ["Business & Investment","Finances"]
+listed_since: "2024-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.sharedeals.de/sdp-aktien-community/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sharedeals.de/sdp-aktien-community/"
+language: "de"
+---
 # Aktien-Community sharedealsPlus
 
 > Product ID `54867` · Digistore24 productId `558417` · [HTML profile page](../../produkte/aktien-community-sharedealsplus-54867.html)

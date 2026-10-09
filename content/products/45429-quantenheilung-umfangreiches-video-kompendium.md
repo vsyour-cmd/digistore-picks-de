@@ -1,3 +1,24 @@
+---
+product_id: "45429"
+digistore24_product_id: 511532
+title: "Quantenheilung - umfangreiches Video Kompendium"
+vendor: "bjheede"
+product_type: "Member area and video courses"
+price: 1054.68
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 316.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/?aff=adminstore#aff=adminstore"
+sales_page: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/"
+language: "de"
+---
 # Quantenheilung - umfangreiches Video Kompendium
 
 > Product ID `45429` · Digistore24 productId `511532` · [HTML profile page](../../produkte/quantenheilung-umfangreiches-video-kompendium-45429.html)

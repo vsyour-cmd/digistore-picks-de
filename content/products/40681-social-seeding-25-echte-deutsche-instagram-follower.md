@@ -1,3 +1,24 @@
+---
+product_id: "40681"
+digistore24_product_id: 339519
+title: "Social Seeding: 25 echte deutsche Instagram Follower"
+vendor: "red-e-commerce"
+product_type: "Remote service provided electronically"
+price: 5.55
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2020-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://xxlpromo.com/instagram-follower-kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "https://xxlpromo.com/instagram-follower-kaufen/"
+language: "de"
+---
 # Social Seeding: 25 echte deutsche Instagram Follower
 
 > Product ID `40681` · Digistore24 productId `339519` · [HTML profile page](../../produkte/social-seeding-25-echte-deutsche-instagram-follower-40681.html)

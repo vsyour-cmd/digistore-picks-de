@@ -1,3 +1,24 @@
+---
+product_id: "52980"
+digistore24_product_id: 620070
+title: "Windows 11 offline installieren (2025) – Kein TPM, kein K"
+vendor: "WindowsHandyTipps"
+product_type: "E-books"
+price: 8.26
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2025-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/620070?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/620070"
+language: "de"
+---
 # Windows 11 offline installieren (2025) – Kein TPM, kein K
 
 > Product ID `52980` · Digistore24 productId `620070` · [HTML profile page](../../produkte/windows-11-offline-installieren-2025-kein-tpm-kein-k-52980.html)

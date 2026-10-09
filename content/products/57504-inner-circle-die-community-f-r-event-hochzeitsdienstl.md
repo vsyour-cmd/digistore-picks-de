@@ -1,3 +1,24 @@
+---
+product_id: "57504"
+digistore24_product_id: 682814
+title: "Inner Circle - Die Community für Event-/Hochzeitsdienstl."
+vendor: "eventworker"
+product_type: "Member area and video courses"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 24.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.eventworker.net/inner-circle?aff=adminstore#aff=adminstore"
+sales_page: "https://www.eventworker.net/inner-circle"
+language: "de"
+---
 # Inner Circle - Die Community für Event-/Hochzeitsdienstl.
 
 > Product ID `57504` · Digistore24 productId `682814` · [HTML profile page](../../produkte/inner-circle-die-community-f-r-event-hochzeitsdienstl-57504.html)

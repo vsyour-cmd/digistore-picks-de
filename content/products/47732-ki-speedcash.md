@@ -1,3 +1,24 @@
+---
+product_id: "47732"
+digistore24_product_id: 540894
+title: "KI SpeedCash"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 322.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 124.78
+cart_conversion_pct: 10
+cancel_rate_pct: 0.92
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2024-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kimate.de/moca2vkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kimate.de/moca2vkslp/"
+language: "de"
+---
 # KI SpeedCash
 
 > Product ID `47732` · Digistore24 productId `540894` · [HTML profile page](../../produkte/ki-speedcash-47732.html)

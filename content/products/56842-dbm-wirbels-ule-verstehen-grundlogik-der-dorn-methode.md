@@ -1,3 +1,24 @@
+---
+product_id: "56842"
+digistore24_product_id: 698297
+title: "DBM - Wirbelsäule verstehen - Grundlogik der Dorn-Methode"
+vendor: "dornbreuss"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://success.e-ducation.cloud/vks-dbm-wirbelsaeule-verstehen-fb?aff=adminstore#aff=adminstore"
+sales_page: "https://success.e-ducation.cloud/vks-dbm-wirbelsaeule-verstehen-fb"
+language: "de"
+---
 # DBM - Wirbelsäule verstehen - Grundlogik der Dorn-Methode
 
 > Product ID `56842` · Digistore24 productId `698297` · [HTML profile page](../../produkte/dbm-wirbels-ule-verstehen-grundlogik-der-dorn-methode-56842.html)

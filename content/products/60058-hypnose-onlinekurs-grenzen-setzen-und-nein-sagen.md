@@ -1,3 +1,24 @@
+---
+product_id: "60058"
+digistore24_product_id: 570822
+title: "Hypnose-Onlinekurs Grenzen Setzen und Nein sagen"
+vendor: "petanthony"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/"
+language: "de"
+---
 # Hypnose-Onlinekurs Grenzen Setzen und Nein sagen
 
 > Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../produkte/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)

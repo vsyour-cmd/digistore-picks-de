@@ -1,3 +1,24 @@
+---
+product_id: "56150"
+digistore24_product_id: 681456
+title: "Verdiene 100% Provision auf Funnel Einstieg"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 10.32
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 1.45
+cart_conversion_pct: 35
+cancel_rate_pct: 4.82
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/easy-membership-kickstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/easy-membership-kickstart/"
+language: "de"
+---
 # Verdiene 100% Provision auf Funnel Einstieg
 
 > Product ID `56150` · Digistore24 productId `681456` · [HTML profile page](../../produkte/verdiene-100-provision-auf-funnel-einstieg-56150.html)

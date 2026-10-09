@@ -1,3 +1,24 @@
+---
+product_id: "58924"
+digistore24_product_id: 721062
+title: "50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz"
+vendor: "Feo-Media"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wattvoll.de/produkt/komplett-paket?aff=adminstore#aff=adminstore"
+sales_page: "https://wattvoll.de/produkt/komplett-paket"
+language: "de"
+---
 # 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz
 
 > Product ID `58924` · Digistore24 productId `721062` · [HTML profile page](../../produkte/50-auf-seri-se-pv-ratgeber-die-unbesetzte-solar-nische-im-marktplatz-58924.html)

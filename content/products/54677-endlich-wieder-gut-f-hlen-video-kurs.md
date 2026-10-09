@@ -1,3 +1,24 @@
+---
+product_id: "54677"
+digistore24_product_id: 649004
+title: "Endlich wieder gut fühlen - Video Kurs"
+vendor: "MarcWoche"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2025-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/649004?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/649004"
+language: "de"
+---
 # Endlich wieder gut fühlen - Video Kurs
 
 > Product ID `54677` · Digistore24 productId `649004` · [HTML profile page](../../produkte/endlich-wieder-gut-f-hlen-video-kurs-54677.html)

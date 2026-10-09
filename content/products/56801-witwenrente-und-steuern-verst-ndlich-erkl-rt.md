@@ -1,3 +1,24 @@
+---
+product_id: "56801"
+digistore24_product_id: 601112
+title: "Witwenrente und Steuern verständlich erklärt"
+vendor: "verwitwet-leben"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
+sales_page: "https://verwitwet-leben.de/berechnungshilfe/"
+language: "de"
+---
 # Witwenrente und Steuern verständlich erklärt
 
 > Product ID `56801` · Digistore24 productId `601112` · [HTML profile page](../../produkte/witwenrente-und-steuern-verst-ndlich-erkl-rt-56801.html)

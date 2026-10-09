@@ -1,3 +1,24 @@
+---
+product_id: "56859"
+digistore24_product_id: 700100
+title: "Dein entspannter Start  in die Welpenerziehung"
+vendor: "sortner1f14b"
+product_type: "E-books"
+price: 39.21
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 15.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Animals & Pets"]
+listed_since: "2026-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/700100?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/700100"
+language: "de"
+---
 # Dein entspannter Start  in die Welpenerziehung
 
 > Product ID `56859` · Digistore24 productId `700100` · [HTML profile page](../../produkte/dein-entspannter-start-in-die-welpenerziehung-56859.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55912"
+digistore24_product_id: 670079
+title: "HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit"
+vendor: "TanjaAmari"
+product_type: "Downloads"
+price: 31.02
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 7.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/670079?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/670079"
+language: "de"
+---
 # HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit
 
 > Product ID `55912` · Digistore24 productId `670079` · [HTML profile page](../../produkte/handy-code-7-tage-zu-mehr-fokus-und-digitaler-klarheit-55912.html)

@@ -1,3 +1,24 @@
+---
+product_id: "31940"
+digistore24_product_id: 314028
+title: "E-Book \"How to be rich: Geheimnisse der Millionäre\""
+vendor: "LauraKimKuhlemann"
+product_type: "E-books"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://therichgirl.club/geheimnisse-der-millionaere-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://therichgirl.club/geheimnisse-der-millionaere-ebook/"
+language: "de"
+---
 # E-Book "How to be rich: Geheimnisse der Millionäre"
 
 > Product ID `31940` · Digistore24 productId `314028` · [HTML profile page](../../produkte/e-book-how-to-be-rich-geheimnisse-der-million-re-31940.html)

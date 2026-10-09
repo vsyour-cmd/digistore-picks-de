@@ -1,3 +1,24 @@
+---
+product_id: "25317"
+digistore24_product_id: 211721
+title: "Online Hypnose Selbstheilungskräfte stärken"
+vendor: "manjushri"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 25.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-hypnose.eu/kurs-hypnose-selbstheilungskraefte-immunsystem-staerken-heilungsprozess/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-hypnose.eu/kurs-hypnose-selbstheilungskraefte-immunsystem-staerken-heilungsprozess/"
+language: "de"
+---
 # Online Hypnose Selbstheilungskräfte stärken
 
 > Product ID `25317` · Digistore24 productId `211721` · [HTML profile page](../../produkte/online-hypnose-selbstheilungskr-fte-st-rken-25317.html)

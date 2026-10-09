@@ -1,3 +1,24 @@
+---
+product_id: "49818"
+digistore24_product_id: 556574
+title: "Live-Retreat: Bindungsängste und Verlustängste auflösen"
+vendor: "jennifersubke"
+product_type: "Seminar/event for recreation"
+price: 3.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 286.64
+cart_conversion_pct: 16
+cancel_rate_pct: 7.05
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/556574?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/556574"
+language: "de"
+---
 # Live-Retreat: Bindungsängste und Verlustängste auflösen
 
 > Product ID `49818` · Digistore24 productId `556574` · [HTML profile page](../../produkte/live-retreat-bindungs-ngste-und-verlust-ngste-aufl-sen-49818.html)

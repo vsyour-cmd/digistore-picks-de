@@ -1,3 +1,24 @@
+---
+product_id: "58758"
+digistore24_product_id: 662692
+title: "Pour Ellie – Allergien und Unverträglichkeiten beim Hund"
+vendor: "PourEllie"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/662692?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/662692"
+language: "de"
+---
 # Pour Ellie – Allergien und Unverträglichkeiten beim Hund
 
 > Product ID `58758` · Digistore24 productId `662692` · [HTML profile page](../../produkte/pour-ellie-allergien-und-unvertr-glichkeiten-beim-hund-58758.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28322"
+digistore24_product_id: 263299
+title: "Audio Book Masterkurs"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 375.1
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 187.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lp.incomebutler.com/audio-book-masterkurs-vk-lp?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.incomebutler.com/audio-book-masterkurs-vk-lp"
+language: "de"
+---
 # Audio Book Masterkurs
 
 > Product ID `28322` · Digistore24 productId `263299` · [HTML profile page](../../produkte/audio-book-masterkurs-28322.html)

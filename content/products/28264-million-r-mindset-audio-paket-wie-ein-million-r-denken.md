@@ -1,3 +1,24 @@
+---
+product_id: "28264"
+digistore24_product_id: 250856
+title: "Millionär Mindset Audio Paket – Wie ein Millionär denken!"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Business & Investment"]
+listed_since: "2018-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/millionaer-mindset-tripwire/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/millionaer-mindset-tripwire/"
+language: "de"
+---
 # Millionär Mindset Audio Paket – Wie ein Millionär denken!
 
 > Product ID `28264` · Digistore24 productId `250856` · [HTML profile page](../../produkte/million-r-mindset-audio-paket-wie-ein-million-r-denken-28264.html)

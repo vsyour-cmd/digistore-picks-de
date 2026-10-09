@@ -1,3 +1,24 @@
+---
+product_id: "25810"
+digistore24_product_id: 445879
+title: "Der Network Marketing Autopilot - MLM"
+vendor: "teamlifebydesign"
+product_type: "Member area and video courses"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 19.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.wirbauendeinedownlineauf.de/inziders-ds-1?aff=adminstore#aff=adminstore"
+sales_page: "https://go.wirbauendeinedownlineauf.de/inziders-ds-1"
+language: "de"
+---
 # Der Network Marketing Autopilot - MLM
 
 > Product ID `25810` · Digistore24 productId `445879` · [HTML profile page](../../produkte/der-network-marketing-autopilot-mlm-25810.html)

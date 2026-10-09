@@ -1,3 +1,24 @@
+---
+product_id: "59642"
+digistore24_product_id: 736748
+title: "Babyzeichensprache Für Anfänger"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/736748?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736748"
+language: "de"
+---
 # Babyzeichensprache Für Anfänger
 
 > Product ID `59642` · Digistore24 productId `736748` · [HTML profile page](../../produkte/babyzeichensprache-f-r-anf-nger-59642.html)

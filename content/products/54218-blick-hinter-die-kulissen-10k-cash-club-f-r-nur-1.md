@@ -1,3 +1,24 @@
+---
+product_id: "54218"
+digistore24_product_id: 632954
+title: "Blick hinter die Kulissen – 10K Cash Club für nur 1€"
+vendor: "TheWolfofSales"
+product_type: "Member area and video courses"
+price: 0.94
+currency: "USD"
+affiliate_commission_pct: 1
+earnings_per_sale: 0.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/632954?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/632954"
+language: "de"
+---
 # Blick hinter die Kulissen – 10K Cash Club für nur 1€
 
 > Product ID `54218` · Digistore24 productId `632954` · [HTML profile page](../../produkte/blick-hinter-die-kulissen-10k-cash-club-f-r-nur-1-54218.html)

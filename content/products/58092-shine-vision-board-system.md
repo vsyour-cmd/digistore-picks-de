@@ -1,3 +1,24 @@
+---
+product_id: "58092"
+digistore24_product_id: 715760
+title: "Shine Vision Board System"
+vendor: "tmgpde"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://themindfulgrowthproject.de/vision-board-starter-kit/?aff=adminstore#aff=adminstore"
+sales_page: "https://themindfulgrowthproject.de/vision-board-starter-kit/"
+language: "de"
+---
 # Shine Vision Board System
 
 > Product ID `58092` · Digistore24 productId `715760` · [HTML profile page](../../produkte/shine-vision-board-system-58092.html)

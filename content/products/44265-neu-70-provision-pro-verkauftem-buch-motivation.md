@@ -1,3 +1,24 @@
+---
+product_id: "44265"
+digistore24_product_id: 456413
+title: "(Neu) 70% Provision pro verkauftem Buch! - Motivation"
+vendor: "Deinechance"
+product_type: "Book (printed)"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Home & Garden","Survival"]
+listed_since: "2022-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://dejansekulic.ch/glueck-gedrucktes-buch"
+language: "de"
+---
 # (Neu) 70% Provision pro verkauftem Buch! - Motivation
 
 > Product ID `44265` · Digistore24 productId `456413` · [HTML profile page](../../produkte/neu-70-provision-pro-verkauftem-buch-motivation-44265.html)

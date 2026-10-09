@@ -1,3 +1,24 @@
+---
+product_id: "35297"
+digistore24_product_id: 333131
+title: "Die Fettverbrennerformel Gratis Buch von MDS"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 31.54
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 20.08
+cart_conversion_pct: 27
+cancel_rate_pct: 12.24
+categories: ["Food & Drink"]
+listed_since: "2020-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://machdichschlank.info/die-fettverbrennerformel/?aff=adminstore#aff=adminstore"
+sales_page: "https://machdichschlank.info/die-fettverbrennerformel/"
+language: "de"
+---
 # Die Fettverbrennerformel Gratis Buch von MDS
 
 > Product ID `35297` · Digistore24 productId `333131` · [HTML profile page](../../produkte/die-fettverbrennerformel-gratis-buch-von-mds-35297.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58541"
+digistore24_product_id: 684871
+title: "Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs"
+vendor: "danielamokros"
+product_type: "Online coaching"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 9
+earnings_per_sale: 15.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+listed_since: "2026-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/684871?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/684871"
+language: "de"
+---
 # Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs
 
 > Product ID `58541` · Digistore24 productId `684871` · [HTML profile page](../../produkte/aufbaukurs-lernmethoden-zusatz-nach-grundlagenkurs-58541.html)

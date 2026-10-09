@@ -1,3 +1,24 @@
+---
+product_id: "58792"
+digistore24_product_id: 671225
+title: "Care4Cats Erste Hilfe und Pflege für Katzen"
+vendor: "aCATemy-Katzenschule-Petra-Ott"
+product_type: "Member area and video courses"
+price: 137.05
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 27.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Family & Children"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs"
+language: "de"
+---
 # Care4Cats Erste Hilfe und Pflege für Katzen
 
 > Product ID `58792` · Digistore24 productId `671225` · [HTML profile page](../../produkte/care4cats-erste-hilfe-und-pflege-f-r-katzen-58792.html)

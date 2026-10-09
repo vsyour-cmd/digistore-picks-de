@@ -1,3 +1,24 @@
+---
+product_id: "11007"
+digistore24_product_id: 74631
+title: "\"Energiebilder selber malen\" Online Videomalkurs \"Mandala\""
+vendor: "RaulFalco"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2016-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore"
+sales_page: "http://energiebilder-selber-malen.de/index.php?page_id=639"
+language: "de"
+---
 # "Energiebilder selber malen" Online Videomalkurs "Mandala"
 
 > Product ID `11007` · Digistore24 productId `74631` · [HTML profile page](../../produkte/energiebilder-selber-malen-online-videomalkurs-mandala-11007.html)

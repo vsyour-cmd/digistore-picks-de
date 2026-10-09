@@ -1,3 +1,24 @@
+---
+product_id: "59710"
+digistore24_product_id: 652453
+title: "EU AI Act – Deepfake und Synthetic Media"
+vendor: "MindshiftDigitalStudio"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652453?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652453"
+language: "de"
+---
 # EU AI Act – Deepfake und Synthetic Media
 
 > Product ID `59710` · Digistore24 productId `652453` · [HTML profile page](../../produkte/eu-ai-act-deepfake-und-synthetic-media-59710.html)

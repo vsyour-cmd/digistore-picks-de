@@ -1,3 +1,24 @@
+---
+product_id: "58751"
+digistore24_product_id: 727195
+title: "Minimalistisch Leben"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727195?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727195"
+language: "de"
+---
 # Minimalistisch Leben
 
 > Product ID `58751` · Digistore24 productId `727195` · [HTML profile page](../../produkte/minimalistisch-leben-58751.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56381"
+digistore24_product_id: 688503
+title: "Ebook - Dollar-Dominanz"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Politics & Economy"]
+listed_since: "2026-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688503?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688503"
+language: "de"
+---
 # Ebook - Dollar-Dominanz
 
 > Product ID `56381` · Digistore24 productId `688503` · [HTML profile page](../../produkte/ebook-dollar-dominanz-56381.html)

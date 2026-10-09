@@ -1,3 +1,24 @@
+---
+product_id: "56336"
+digistore24_product_id: 685988
+title: "Ebook - Ein langes und gutes Leben"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685988?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685988"
+language: "de"
+---
 # Ebook - Ein langes und gutes Leben
 
 > Product ID `56336` · Digistore24 productId `685988` · [HTML profile page](../../produkte/ebook-ein-langes-und-gutes-leben-56336.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58934"
+digistore24_product_id: 729268
+title: "Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 36.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pflegegrad-klar.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://pflegegrad-klar.pages.dev/"
+language: "de"
+---
 # Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig
 
 > Product ID `58934` · Digistore24 productId `729268` · [HTML profile page](../../produkte/pflegegrad-klar-2026-27-50-34-95-einmalig-58934.html)

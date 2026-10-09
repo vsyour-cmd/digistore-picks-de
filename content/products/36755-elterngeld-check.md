@@ -1,3 +1,24 @@
+---
+product_id: "36755"
+digistore24_product_id: 279016
+title: "Elterngeld-Check"
+vendor: "ElterngeldMedia"
+product_type: "Remote service provided electronically"
+price: 32.81
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2019-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://elterngeldcheck.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://elterngeldcheck.de/"
+language: "de"
+---
 # Elterngeld-Check
 
 > Product ID `36755` · Digistore24 productId `279016` · [HTML profile page](../../produkte/elterngeld-check-36755.html)

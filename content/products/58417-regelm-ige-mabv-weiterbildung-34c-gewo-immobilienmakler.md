@@ -1,3 +1,24 @@
+---
+product_id: "58417"
+digistore24_product_id: 709291
+title: "Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/"
+language: "de"
+---
 # Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler
 
 > Product ID `58417` · Digistore24 productId `709291` · [HTML profile page](../../produkte/regelm-ige-mabv-weiterbildung-34c-gewo-immobilienmakler-58417.html)

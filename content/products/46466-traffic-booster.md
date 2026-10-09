@@ -1,3 +1,24 @@
+---
+product_id: "46466"
+digistore24_product_id: 528770
+title: "Traffic Booster"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/Traffic-booster/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/Traffic-booster/"
+language: "de"
+---
 # Traffic Booster
 
 > Product ID `46466` · Digistore24 productId `528770` · [HTML profile page](../../produkte/traffic-booster-46466.html)

@@ -1,3 +1,24 @@
+---
+product_id: "32674"
+digistore24_product_id: 324309
+title: "Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Book (printed)"
+price: 2.39
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.46
+cart_conversion_pct: 39
+cancel_rate_pct: 4.72
+categories: ["Personal Development"]
+listed_since: "2020-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gelddasbuch.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://gelddasbuch.de/buchgeschenk-7500/"
+language: "de"
+---
 # Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler
 
 > Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../produkte/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47302"
+digistore24_product_id: 551034
+title: "Google Ads Leitfaden für Affiliates | Freebie"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.51
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2024-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/google-ads-leitfaden-deal/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/google-ads-leitfaden-deal/"
+language: "de"
+---
 # Google Ads Leitfaden für Affiliates | Freebie
 
 > Product ID `47302` · Digistore24 productId `551034` · [HTML profile page](../../produkte/google-ads-leitfaden-f-r-affiliates-freebie-47302.html)

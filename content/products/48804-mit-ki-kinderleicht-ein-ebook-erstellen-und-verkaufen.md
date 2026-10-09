@@ -1,3 +1,24 @@
+---
+product_id: "48804"
+digistore24_product_id: 563697
+title: "Mit KI kinderleicht ein eBook erstellen und verkaufen"
+vendor: "onlinemarketingwoman"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2024-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.online-marketing-woman.de/mit-chatgpt-kinderleicht-ein-ebook-schreiben-und-auf-amazon-verkaufen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.online-marketing-woman.de/mit-chatgpt-kinderleicht-ein-ebook-schreiben-und-auf-amazon-verkaufen"
+language: "de"
+---
 # Mit KI kinderleicht ein eBook erstellen und verkaufen
 
 > Product ID `48804` · Digistore24 productId `563697` · [HTML profile page](../../produkte/mit-ki-kinderleicht-ein-ebook-erstellen-und-verkaufen-48804.html)

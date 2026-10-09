@@ -1,3 +1,24 @@
+---
+product_id: "46937"
+digistore24_product_id: 289305
+title: "Business Playbook"
+vendor: "jonahstruck"
+product_type: "Member area and video courses"
+price: 1409.44
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 140.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Sales Training"]
+listed_since: "2019-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/289305?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/289305"
+language: "de"
+---
 # Business Playbook
 
 > Product ID `46937` · Digistore24 productId `289305` · [HTML profile page](../../produkte/business-playbook-46937.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47565"
+digistore24_product_id: 543528
+title: "Altersvorsorge 40+: Die geheime Affiliate Hoch Drei Formel"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-03-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/?aff=adminstore#aff=adminstore"
+sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/"
+language: "de"
+---
 # Altersvorsorge 40+: Die geheime Affiliate Hoch Drei Formel
 
 > Product ID `47565` · Digistore24 productId `543528` · [HTML profile page](../../produkte/altersvorsorge-40-die-geheime-affiliate-hoch-drei-formel-47565.html)

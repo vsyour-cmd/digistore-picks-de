@@ -1,3 +1,24 @@
+---
+product_id: "54406"
+digistore24_product_id: 643280
+title: "STayUnique CopyPower"
+vendor: "STayUnique-by-SindyTammer"
+product_type: "Downloads"
+price: 891.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 445.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
+listed_since: "2025-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://copypower.sindytammer.com/CopyPower/Entry?aff=adminstore#aff=adminstore"
+sales_page: "https://copypower.sindytammer.com/CopyPower/Entry"
+language: "de"
+---
 # STayUnique CopyPower
 
 > Product ID `54406` · Digistore24 productId `643280` · [HTML profile page](../../produkte/stayunique-copypower-54406.html)

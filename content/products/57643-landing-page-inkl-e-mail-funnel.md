@@ -1,3 +1,24 @@
+---
+product_id: "57643"
+digistore24_product_id: 712707
+title: "Landing-Page inkl. E-Mail-Funnel"
+vendor: "worldxpb"
+product_type: "Remote service provided electronically"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 42.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/712707?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/712707"
+language: "de"
+---
 # Landing-Page inkl. E-Mail-Funnel
 
 > Product ID `57643` · Digistore24 productId `712707` · [HTML profile page](../../produkte/landing-page-inkl-e-mail-funnel-57643.html)

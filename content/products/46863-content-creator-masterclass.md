@@ -1,3 +1,24 @@
+---
+product_id: "46863"
+digistore24_product_id: 535044
+title: "Content Creator Masterclass"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2024-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-schlinder.com/Content-Creator-Masterclass?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Content-Creator-Masterclass"
+language: "de"
+---
 # Content Creator Masterclass
 
 > Product ID `46863` · Digistore24 productId `535044` · [HTML profile page](../../produkte/content-creator-masterclass-46863.html)

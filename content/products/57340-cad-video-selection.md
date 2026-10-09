@@ -1,3 +1,24 @@
+---
+product_id: "57340"
+digistore24_product_id: 538322
+title: "CAD-Video Selection"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 1322.74
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 264.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/538322?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/538322"
+language: "de"
+---
 # CAD-Video Selection
 
 > Product ID `57340` · Digistore24 productId `538322` · [HTML profile page](../../produkte/cad-video-selection-57340.html)

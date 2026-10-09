@@ -1,3 +1,24 @@
+---
+product_id: "57249"
+digistore24_product_id: 704227
+title: "Instagram für Anfänger"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/instagram-fuer-anfaenger?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/instagram-fuer-anfaenger"
+language: "de"
+---
 # Instagram für Anfänger
 
 > Product ID `57249` · Digistore24 productId `704227` · [HTML profile page](../../produkte/instagram-f-r-anf-nger-57249.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55715"
+digistore24_product_id: 671753
+title: "Selbststudium Maderotherapie"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671753?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671753"
+language: "de"
+---
 # Selbststudium Maderotherapie
 
 > Product ID `55715` · Digistore24 productId `671753` · [HTML profile page](../../produkte/selbststudium-maderotherapie-55715.html)

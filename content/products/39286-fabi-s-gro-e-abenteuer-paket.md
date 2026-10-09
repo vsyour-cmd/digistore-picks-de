@@ -1,3 +1,24 @@
+---
+product_id: "39286"
+digistore24_product_id: 417859
+title: "FABI's große Abenteuer Paket"
+vendor: "FABISDESIGNkids"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 16.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2021-11-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fabisdesign-kids.com/de/fabis-grosse-abenteuer-paket-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://fabisdesign-kids.com/de/fabis-grosse-abenteuer-paket-lp/"
+language: "de"
+---
 # FABI's große Abenteuer Paket
 
 > Product ID `39286` · Digistore24 productId `417859` · [HTML profile page](../../produkte/fabi-s-gro-e-abenteuer-paket-39286.html)

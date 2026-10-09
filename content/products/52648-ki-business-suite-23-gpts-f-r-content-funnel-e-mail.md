@@ -1,3 +1,24 @@
+---
+product_id: "52648"
+digistore24_product_id: 615669
+title: "KI Business Suite, 23 GPTs für Content, Funnel, E-Mail"
+vendor: "ReneAktivNetz"
+product_type: "Member area and video courses"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Marketing Services"]
+listed_since: "2025-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kischmiede.funnelcockpit.com/ki-business-suite/?aff=adminstore#aff=adminstore"
+sales_page: "https://kischmiede.funnelcockpit.com/ki-business-suite/"
+language: "de"
+---
 # KI Business Suite, 23 GPTs für Content, Funnel, E-Mail
 
 > Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../produkte/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)

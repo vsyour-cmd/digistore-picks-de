@@ -1,3 +1,24 @@
+---
+product_id: "39273"
+digistore24_product_id: 423403
+title: "Youtube Shorts Affiliate Strategie"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 27.62
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 13.31
+cart_conversion_pct: 10
+cancel_rate_pct: 1.9
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://im-erfolgscenter.com/yt-shorts-strategie?aff=adminstore#aff=adminstore"
+sales_page: "https://im-erfolgscenter.com/yt-shorts-strategie"
+language: "de"
+---
 # Youtube Shorts Affiliate Strategie
 
 > Product ID `39273` · Digistore24 productId `423403` · [HTML profile page](../../produkte/youtube-shorts-affiliate-strategie-39273.html)

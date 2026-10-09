@@ -1,3 +1,24 @@
+---
+product_id: "16211"
+digistore24_product_id: 133181
+title: "Law of Attraction Bundle – Gesetz der Anziehung in Aktion"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2017-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/law-of-attraction-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/law-of-attraction-bundle/"
+language: "de"
+---
 # Law of Attraction Bundle – Gesetz der Anziehung in Aktion
 
 > Product ID `16211` · Digistore24 productId `133181` · [HTML profile page](../../produkte/law-of-attraction-bundle-gesetz-der-anziehung-in-aktion-16211.html)

@@ -1,3 +1,24 @@
+---
+product_id: "15571"
+digistore24_product_id: 125203
+title: "Bluesharp lernen - Melodiespiel und Bluesharptechniken ..."
+vendor: "Activent"
+product_type: "Member area and video courses"
+price: 140.91
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2017-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.bluesharplernen.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.bluesharplernen.com"
+language: "de"
+---
 # Bluesharp lernen - Melodiespiel und Bluesharptechniken ...
 
 > Product ID `15571` · Digistore24 productId `125203` · [HTML profile page](../../produkte/bluesharp-lernen-melodiespiel-und-bluesharptechniken-15571.html)

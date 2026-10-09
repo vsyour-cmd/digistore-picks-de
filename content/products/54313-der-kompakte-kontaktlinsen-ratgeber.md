@@ -1,3 +1,24 @@
+---
+product_id: "54313"
+digistore24_product_id: 638338
+title: "Der kompakte Kontaktlinsen Ratgeber"
+vendor: "Maddis"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kontaktlinsen-vergleichen.net/ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://kontaktlinsen-vergleichen.net/ebook/"
+language: "de"
+---
 # Der kompakte Kontaktlinsen Ratgeber
 
 > Product ID `54313` · Digistore24 productId `638338` · [HTML profile page](../../produkte/der-kompakte-kontaktlinsen-ratgeber-54313.html)

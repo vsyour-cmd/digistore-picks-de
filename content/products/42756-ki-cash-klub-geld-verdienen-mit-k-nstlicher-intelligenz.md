@@ -1,3 +1,24 @@
+---
+product_id: "42756"
+digistore24_product_id: 482586
+title: "KI Cash Klub - Geld verdienen mit künstlicher Intelligenz"
+vendor: "ss-business"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-02-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/482586/adminstore"
+sales_page: "https://florianschaefer.de/ki-cash-klub/?afid=[AFFILIATE]"
+language: "de"
+---
 # KI Cash Klub - Geld verdienen mit künstlicher Intelligenz
 
 > Product ID `42756` · Digistore24 productId `482586` · [HTML profile page](../../produkte/ki-cash-klub-geld-verdienen-mit-k-nstlicher-intelligenz-42756.html)

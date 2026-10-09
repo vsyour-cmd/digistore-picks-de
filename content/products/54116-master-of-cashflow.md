@@ -1,3 +1,24 @@
+---
+product_id: "54116"
+digistore24_product_id: 621232
+title: "Master Of Cashflow"
+vendor: "Tim_Ecommerce"
+product_type: "Online coaching"
+price: 1410
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 352.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/621232?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/621232"
+language: "de"
+---
 # Master Of Cashflow
 
 > Product ID `54116` · Digistore24 productId `621232` · [HTML profile page](../../produkte/master-of-cashflow-54116.html)

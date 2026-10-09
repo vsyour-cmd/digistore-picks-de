@@ -1,3 +1,24 @@
+---
+product_id: "22587"
+digistore24_product_id: 64947
+title: "Carport-Baupläne – Über 140 Modelle zum Selberbauen"
+vendor: "ccbvcc"
+product_type: "E-books"
+price: 23.05
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.51
+cart_conversion_pct: 14
+cancel_rate_pct: 0.35
+categories: ["Home & Garden"]
+listed_since: "2015-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/64947/adminstore"
+sales_page: "https://www.holz-bauplan.de/baupl%C3%A4ne/carports/carport-satteldach-1/#cc-m-product-11071424519"
+language: "de"
+---
 # Carport-Baupläne – Über 140 Modelle zum Selberbauen
 
 > Product ID `22587` · Digistore24 productId `64947` · [HTML profile page](../../produkte/carport-baupl-ne-ber-140-modelle-zum-selberbauen-22587.html)

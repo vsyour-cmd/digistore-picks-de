@@ -1,3 +1,24 @@
+---
+product_id: "57546"
+digistore24_product_id: 711579
+title: "HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner"
+vendor: "HRruns"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 27.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2026-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreasguenzel.coachy.net/lp/hr-manager-der-zukunft?aff=adminstore#aff=adminstore"
+sales_page: "https://andreasguenzel.coachy.net/lp/hr-manager-der-zukunft"
+language: "de"
+---
 # HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner
 
 > Product ID `57546` · Digistore24 productId `711579` · [HTML profile page](../../produkte/hr-manager-der-zukunft-vom-umsetzer-zum-sparringspartner-57546.html)

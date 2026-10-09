@@ -1,3 +1,24 @@
+---
+product_id: "11937"
+digistore24_product_id: 83121
+title: "Logbuch Segeln. Puro."
+vendor: "Ludwig-Brackmann"
+product_type: "Downloads"
+price: 2.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2016-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook?aff=adminstore#aff=adminstore"
+sales_page: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook"
+language: "de"
+---
 # Logbuch Segeln. Puro.
 
 > Product ID `11937` · Digistore24 productId `83121` · [HTML profile page](../../produkte/logbuch-segeln-puro-11937.html)

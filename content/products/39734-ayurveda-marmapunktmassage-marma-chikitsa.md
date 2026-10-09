@@ -1,3 +1,24 @@
+---
+product_id: "39734"
+digistore24_product_id: 369646
+title: "Ayurveda-Marmapunktmassage – Marma-Chikitsa"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 297.04
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 89.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/ayurveda-marmapunkt-massage/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/ayurveda-marmapunkt-massage/"
+language: "de"
+---
 # Ayurveda-Marmapunktmassage – Marma-Chikitsa
 
 > Product ID `39734` · Digistore24 productId `369646` · [HTML profile page](../../produkte/ayurveda-marmapunktmassage-marma-chikitsa-39734.html)

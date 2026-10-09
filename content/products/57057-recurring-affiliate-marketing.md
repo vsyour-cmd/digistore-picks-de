@@ -1,3 +1,24 @@
+---
+product_id: "57057"
+digistore24_product_id: 703383
+title: "Recurring Affiliate Marketing"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/recurring-affiliate-provisionen-aufstapeln?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/recurring-affiliate-provisionen-aufstapeln"
+language: "de"
+---
 # Recurring Affiliate Marketing
 
 > Product ID `57057` · Digistore24 productId `703383` · [HTML profile page](../../produkte/recurring-affiliate-marketing-57057.html)

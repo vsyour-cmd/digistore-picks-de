@@ -1,3 +1,24 @@
+---
+product_id: "38132"
+digistore24_product_id: 399693
+title: "KONFERENZ DER MENSCHEN - ABO (monatlich)"
+vendor: "PlanetSOL"
+product_type: "Downloads"
+price: 94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://konferenzdermenschen.com/konferenzpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://konferenzdermenschen.com/konferenzpaket/"
+language: "de"
+---
 # KONFERENZ DER MENSCHEN - ABO (monatlich)
 
 > Product ID `38132` · Digistore24 productId `399693` · [HTML profile page](../../produkte/konferenz-der-menschen-abo-monatlich-38132.html)

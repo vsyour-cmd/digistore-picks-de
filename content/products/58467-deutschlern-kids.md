@@ -1,3 +1,24 @@
+---
+product_id: "58467"
+digistore24_product_id: 722790
+title: "DeutschLern Kids"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://deutschlernerkids.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://deutschlernerkids.netlify.app/"
+language: "de"
+---
 # DeutschLern Kids
 
 > Product ID `58467` · Digistore24 productId `722790` · [HTML profile page](../../produkte/deutschlern-kids-58467.html)

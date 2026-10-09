@@ -1,3 +1,24 @@
+---
+product_id: "56004"
+digistore24_product_id: 674483
+title: "10 ungebaute SaaS-Ideen"
+vendor: "BeLitForYou"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.saas-vault.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.saas-vault.de"
+language: "de"
+---
 # 10 ungebaute SaaS-Ideen
 
 > Product ID `56004` · Digistore24 productId `674483` · [HTML profile page](../../produkte/10-ungebaute-saas-ideen-56004.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56857"
+digistore24_product_id: 688993
+title: "Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%"
+vendor: "travelmom89"
+product_type: "Member area and video courses"
+price: 187.96
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore"
+sales_page: "https://carolina-stephan.de/kinderwunsch/"
+language: "de"
+---
 # Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%
 
 > Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../produkte/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)

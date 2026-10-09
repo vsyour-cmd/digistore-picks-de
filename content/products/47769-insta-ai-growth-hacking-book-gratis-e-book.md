@@ -1,3 +1,24 @@
+---
+product_id: "47769"
+digistore24_product_id: 547995
+title: "Insta AI Growth Hacking Book (Gratis E-Book)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.28
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.43
+cart_conversion_pct: 33
+cancel_rate_pct: 2.2
+categories: ["Computer & Internet","Social Media"]
+listed_since: "2024-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/insta-ai-growth-hacking-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/insta-ai-growth-hacking-book/"
+language: "de"
+---
 # Insta AI Growth Hacking Book (Gratis E-Book)
 
 > Product ID `47769` · Digistore24 productId `547995` · [HTML profile page](../../produkte/insta-ai-growth-hacking-book-gratis-e-book-47769.html)

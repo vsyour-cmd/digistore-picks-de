@@ -1,3 +1,24 @@
+---
+product_id: "59703"
+digistore24_product_id: 652400
+title: "EU AI Act – Entscheidungen und Nutzerrechte"
+vendor: "MindshiftDigitalStudio"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652400?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652400"
+language: "de"
+---
 # EU AI Act – Entscheidungen und Nutzerrechte
 
 > Product ID `59703` · Digistore24 productId `652400` · [HTML profile page](../../produkte/eu-ai-act-entscheidungen-und-nutzerrechte-59703.html)

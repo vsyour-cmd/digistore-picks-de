@@ -1,3 +1,24 @@
+---
+product_id: "54444"
+digistore24_product_id: 641753
+title: "1 Millionen Views Partnerprogramm"
+vendor: "MediaMende"
+product_type: "Downloads"
+price: 72.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Social Media"]
+listed_since: "2025-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://www.viralclipz.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.viralclipz.de/"
+language: "de"
+---
 # 1 Millionen Views Partnerprogramm
 
 > Product ID `54444` · Digistore24 productId `641753` · [HTML profile page](../../produkte/1-millionen-views-partnerprogramm-54444.html)

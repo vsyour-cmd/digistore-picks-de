@@ -1,3 +1,24 @@
+---
+product_id: "59428"
+digistore24_product_id: 735324
+title: "Umzugklar: Umzugsplan, Kistenregister und Drucketiketten"
+vendor: "kiagent007"
+product_type: "Software"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Software"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735324?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735324"
+language: "de"
+---
 # Umzugklar: Umzugsplan, Kistenregister und Drucketiketten
 
 > Product ID `59428` · Digistore24 productId `735324` · [HTML profile page](../../produkte/umzugklar-umzugsplan-kistenregister-und-drucketiketten-59428.html)

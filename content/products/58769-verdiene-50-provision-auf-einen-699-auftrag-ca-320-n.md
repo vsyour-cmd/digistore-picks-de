@@ -1,3 +1,24 @@
+---
+product_id: "58769"
+digistore24_product_id: 726205
+title: "Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n"
+vendor: "info71bc"
+product_type: "Remote service provided electronically"
+price: 781.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 390.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
+listed_since: "2026-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726205?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726205"
+language: "de"
+---
 # Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n
 
 > Product ID `58769` · Digistore24 productId `726205` · [HTML profile page](../../produkte/verdiene-50-provision-auf-einen-699-auftrag-ca-320-n-58769.html)

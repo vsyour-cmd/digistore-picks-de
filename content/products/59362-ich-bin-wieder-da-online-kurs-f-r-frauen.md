@@ -1,3 +1,24 @@
+---
+product_id: "59362"
+digistore24_product_id: 734181
+title: "Ich bin wieder da – Online-Kurs für Frauen"
+vendor: "beatelindemann"
+product_type: "Member area and video courses"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 27.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://campus.beate-lindemann.de/lp/ich-bin-wieder-da?aff=adminstore#aff=adminstore"
+sales_page: "https://campus.beate-lindemann.de/lp/ich-bin-wieder-da"
+language: "de"
+---
 # Ich bin wieder da – Online-Kurs für Frauen
 
 > Product ID `59362` · Digistore24 productId `734181` · [HTML profile page](../../produkte/ich-bin-wieder-da-online-kurs-f-r-frauen-59362.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45925"
+digistore24_product_id: 522678
+title: "Sofort-Energie-Videotraining"
+vendor: "Erfolg-Intuitiv"
+product_type: "Member area and video courses"
+price: 32.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 17
+cancel_rate_pct: 6.47
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/"
+language: "de"
+---
 # Sofort-Energie-Videotraining
 
 > Product ID `45925` · Digistore24 productId `522678` · [HTML profile page](../../produkte/sofort-energie-videotraining-45925.html)

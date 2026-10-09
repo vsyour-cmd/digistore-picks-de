@@ -1,3 +1,24 @@
+---
+product_id: "45976"
+digistore24_product_id: 524999
+title: "KI Affiliate Code"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 357.2
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 151.55
+cart_conversion_pct: 11
+cancel_rate_pct: 0.75
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ki-affiliate-code.de/kacaff/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ki-affiliate-code.de/kacaff/"
+language: "de"
+---
 # KI Affiliate Code
 
 > Product ID `45976` · Digistore24 productId `524999` · [HTML profile page](../../produkte/ki-affiliate-code-45976.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53693"
+digistore24_product_id: 631792
+title: "Passives Einkommen 2025 - für Mütter, Rentner und Einsteiger"
+vendor: "SSchenk99"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Family & Children","Online Marketing"]
+listed_since: "2025-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/631792?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/631792"
+language: "de"
+---
 # Passives Einkommen 2025 - für Mütter, Rentner und Einsteiger
 
 > Product ID `53693` · Digistore24 productId `631792` · [HTML profile page](../../produkte/passives-einkommen-2025-f-r-m-tter-rentner-und-einsteiger-53693.html)

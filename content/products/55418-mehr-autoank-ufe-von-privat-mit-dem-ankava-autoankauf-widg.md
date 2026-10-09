@@ -1,3 +1,24 @@
+---
+product_id: "55418"
+digistore24_product_id: 663828
+title: "Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg"
+vendor: "Ankava"
+product_type: "Software"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Marketing Services"]
+listed_since: "2026-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ankava.de?aff=adminstore#aff=adminstore"
+sales_page: "https://ankava.de"
+language: "de"
+---
 # Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg
 
 > Product ID `55418` · Digistore24 productId `663828` · [HTML profile page](../../produkte/mehr-autoank-ufe-von-privat-mit-dem-ankava-autoankauf-widg-55418.html)

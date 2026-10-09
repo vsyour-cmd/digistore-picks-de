@@ -1,3 +1,24 @@
+---
+product_id: "40155"
+digistore24_product_id: 422425
+title: "Copy Trading Masterclass"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2021-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.incomebutler.com/copy-trading-masterclass-vkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.incomebutler.com/copy-trading-masterclass-vkslp/"
+language: "de"
+---
 # Copy Trading Masterclass
 
 > Product ID `40155` · Digistore24 productId `422425` · [HTML profile page](../../produkte/copy-trading-masterclass-40155.html)

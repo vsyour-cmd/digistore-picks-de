@@ -1,3 +1,24 @@
+---
+product_id: "15755"
+digistore24_product_id: 118627
+title: "UET - Ultra Effizientes Training"
+vendor: "bodyLIFE"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.uet-programm.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.uet-programm.de/"
+language: "de"
+---
 # UET - Ultra Effizientes Training
 
 > Product ID `15755` · Digistore24 productId `118627` · [HTML profile page](../../produkte/uet-ultra-effizientes-training-15755.html)

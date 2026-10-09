@@ -1,3 +1,24 @@
+---
+product_id: "57679"
+digistore24_product_id: 701772
+title: "KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten"
+vendor: "Mischki"
+product_type: "Software"
+price: 166.67
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 33.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ktr.rocks/?aff=adminstore#aff=adminstore"
+sales_page: "https://ktr.rocks/"
+language: "de"
+---
 # KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten
 
 > Product ID `57679` · Digistore24 productId `701772` · [HTML profile page](../../produkte/kip-mehr-umsatz-aus-bestehenden-klicktipp-kontakten-57679.html)

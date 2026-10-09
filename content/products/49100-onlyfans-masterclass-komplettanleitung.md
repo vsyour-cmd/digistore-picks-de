@@ -1,3 +1,24 @@
+---
+product_id: "49100"
+digistore24_product_id: 568075
+title: "OnlyFans Masterclass | Komplettanleitung"
+vendor: "sparweise"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.sparweise.de/onlyfans-masterclass-ebook-deutsch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sparweise.de/onlyfans-masterclass-ebook-deutsch/"
+language: "de"
+---
 # OnlyFans Masterclass | Komplettanleitung
 
 > Product ID `49100` · Digistore24 productId `568075` · [HTML profile page](../../produkte/onlyfans-masterclass-komplettanleitung-49100.html)

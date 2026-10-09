@@ -1,3 +1,24 @@
+---
+product_id: "26537"
+digistore24_product_id: 196471
+title: "Wie Sie Verkäufer machen (Download)"
+vendor: "saxerumberto"
+product_type: "Downloads"
+price: 87.42
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 30.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/?aff=adminstore#aff=adminstore"
+sales_page: "http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/"
+language: "de"
+---
 # Wie Sie Verkäufer machen (Download)
 
 > Product ID `26537` · Digistore24 productId `196471` · [HTML profile page](../../produkte/wie-sie-verk-ufer-machen-download-26537.html)

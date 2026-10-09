@@ -1,3 +1,24 @@
+---
+product_id: "33756"
+digistore24_product_id: 341390
+title: "Dein Erfolgsleitfaden - Instagram leicht gemacht"
+vendor: "TanjaV"
+product_type: "Member area and video courses"
+price: 28.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.98
+cart_conversion_pct: 29
+cancel_rate_pct: 1.5
+categories: ["Profession & Job"]
+listed_since: "2020-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ts-onlinemedia.de/dein-erfolgsleitfaden-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ts-onlinemedia.de/dein-erfolgsleitfaden-lp/"
+language: "de"
+---
 # Dein Erfolgsleitfaden - Instagram leicht gemacht
 
 > Product ID `33756` · Digistore24 productId `341390` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-instagram-leicht-gemacht-33756.html)

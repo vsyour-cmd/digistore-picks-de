@@ -1,3 +1,24 @@
+---
+product_id: "60351"
+digistore24_product_id: 741755
+title: "Betriebsrente und Riester leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741755?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741755"
+language: "de"
+---
 # Betriebsrente und Riester leicht gemacht
 
 > Product ID `60351` · Digistore24 productId `741755` · [HTML profile page](../../produkte/betriebsrente-und-riester-leicht-gemacht-60351.html)

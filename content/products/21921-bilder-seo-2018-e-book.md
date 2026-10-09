@@ -1,3 +1,24 @@
+---
+product_id: "21921"
+digistore24_product_id: 174383
+title: "Bilder SEO 2018 (E-Book)"
+vendor: "Missfeldt"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tagseoblog.de/bilder-seo-ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tagseoblog.de/bilder-seo-ebook"
+language: "de"
+---
 # Bilder SEO 2018 (E-Book)
 
 > Product ID `21921` · Digistore24 productId `174383` · [HTML profile page](../../produkte/bilder-seo-2018-e-book-21921.html)

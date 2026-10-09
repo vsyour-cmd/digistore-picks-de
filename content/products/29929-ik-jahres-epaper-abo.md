@@ -1,3 +1,24 @@
+---
+product_id: "29929"
+digistore24_product_id: 275358
+title: "IK-Jahres-ePaper-Abo"
+vendor: "IbizaKurier"
+product_type: "Downloads"
+price: 111.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 16
+cancel_rate_pct: 1.65
+categories: ["Travel & Culture"]
+listed_since: "2019-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ibizakurier.de/epaper/?aff=adminstore#aff=adminstore"
+sales_page: "https://ibizakurier.de/epaper/"
+language: "de"
+---
 # IK-Jahres-ePaper-Abo
 
 > Product ID `29929` · Digistore24 productId `275358` · [HTML profile page](../../produkte/ik-jahres-epaper-abo-29929.html)

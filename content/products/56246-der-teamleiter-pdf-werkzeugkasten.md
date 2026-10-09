@@ -1,3 +1,24 @@
+---
+product_id: "56246"
+digistore24_product_id: 684407
+title: "Der Teamleiter PDF Werkzeugkasten"
+vendor: "AT-Media"
+product_type: "Downloads"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 97.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2026-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://at-teamtools.de/teamleiter-werkzeugkasten/?aff=adminstore#aff=adminstore"
+sales_page: "https://at-teamtools.de/teamleiter-werkzeugkasten/"
+language: "de"
+---
 # Der Teamleiter PDF Werkzeugkasten
 
 > Product ID `56246` · Digistore24 productId `684407` · [HTML profile page](../../produkte/der-teamleiter-pdf-werkzeugkasten-56246.html)

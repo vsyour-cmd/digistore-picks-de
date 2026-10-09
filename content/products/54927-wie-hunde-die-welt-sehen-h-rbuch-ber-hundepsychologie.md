@@ -1,3 +1,24 @@
+---
+product_id: "54927"
+digistore24_product_id: 655417
+title: "Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie"
+vendor: "JR_Charlie"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://wie-ein-hund-die-welt-sieht.my.canva.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://wie-ein-hund-die-welt-sieht.my.canva.site/"
+language: "de"
+---
 # Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie
 
 > Product ID `54927` · Digistore24 productId `655417` · [HTML profile page](../../produkte/wie-hunde-die-welt-sehen-h-rbuch-ber-hundepsychologie-54927.html)

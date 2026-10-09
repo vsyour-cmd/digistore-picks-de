@@ -1,3 +1,24 @@
+---
+product_id: "58360"
+digistore24_product_id: 721417
+title: "50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs"
+vendor: "rs-onlineagentur"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://rita-scheer.de/50-pinterest-vorlagen/?aff=adminstore#aff=adminstore"
+sales_page: "http://rita-scheer.de/50-pinterest-vorlagen/"
+language: "de"
+---
 # 50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs
 
 > Product ID `58360` · Digistore24 productId `721417` · [HTML profile page](../../produkte/50-bearbeitbare-pinterest-vorlagen-ohne-kamera-und-designs-58360.html)

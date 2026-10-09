@@ -1,3 +1,24 @@
+---
+product_id: "33510"
+digistore24_product_id: 461682
+title: "[JETZT NEU] Buch Außergewöhnlich Erfolgreich 2"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 6.24
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.49
+cart_conversion_pct: 7
+cancel_rate_pct: 1.8
+categories: ["Personal Development"]
+listed_since: "2022-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/461682/adminstore"
+sales_page: "https://start.gruender.de/aussergewoehnlich-erfolgreich-2/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2
 
 > Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../produkte/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)

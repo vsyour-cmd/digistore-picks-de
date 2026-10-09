@@ -1,3 +1,24 @@
+---
+product_id: "35620"
+digistore24_product_id: 368232
+title: "Folge Deiner Seele"
+vendor: "elanrea"
+product_type: "Member area and video courses"
+price: 117.5
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2021-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/"
+language: "de"
+---
 # Folge Deiner Seele
 
 > Product ID `35620` · Digistore24 productId `368232` · [HTML profile page](../../produkte/folge-deiner-seele-35620.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57360"
+digistore24_product_id: 707933
+title: "Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 6.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Hobby & Craft"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/druckvorlagen-fuer-kinder/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/druckvorlagen-fuer-kinder/"
+language: "de"
+---
 # Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus
 
 > Product ID `57360` · Digistore24 productId `707933` · [HTML profile page](../../produkte/waldtier-lernvorlagen-f-r-vorschulkinder-30-seiten-zum-aus-57360.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28508"
+digistore24_product_id: 266561
+title: "Amazon KDP Starterkurs"
+vendor: "seotech"
+product_type: "Downloads"
+price: 1.87
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 1.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp"
+language: "de"
+---
 # Amazon KDP Starterkurs
 
 > Product ID `28508` · Digistore24 productId `266561` · [HTML profile page](../../produkte/amazon-kdp-starterkurs-28508.html)

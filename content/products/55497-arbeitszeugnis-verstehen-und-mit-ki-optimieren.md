@@ -1,3 +1,24 @@
+---
+product_id: "55497"
+digistore24_product_id: 665673
+title: "Arbeitszeugnis verstehen und mit KI optimieren"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Services"]
+listed_since: "2026-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/"
+language: "de"
+---
 # Arbeitszeugnis verstehen und mit KI optimieren
 
 > Product ID `55497` · Digistore24 productId `665673` · [HTML profile page](../../produkte/arbeitszeugnis-verstehen-und-mit-ki-optimieren-55497.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46427"
+digistore24_product_id: 491766
+title: "META ADS CLASS für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 459.93
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.6
+cart_conversion_pct: 11
+cancel_rate_pct: 1.06
+categories: ["Photography & Film","Profession & Job","Social Media"]
+listed_since: "2023-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/ads-class/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/ads-class/"
+language: "de"
+---
 # META ADS CLASS für Fotografen
 
 > Product ID `46427` · Digistore24 productId `491766` · [HTML profile page](../../produkte/meta-ads-class-f-r-fotografen-46427.html)

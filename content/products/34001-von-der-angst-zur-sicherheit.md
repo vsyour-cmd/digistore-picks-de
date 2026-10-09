@@ -1,3 +1,24 @@
+---
+product_id: "34001"
+digistore24_product_id: 315825
+title: "Von der ANGST zur SICHERHEIT"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 230.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 69.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://katja-amberg-shop.de/angst?aff=adminstore#aff=adminstore"
+sales_page: "https://katja-amberg-shop.de/angst"
+language: "de"
+---
 # Von der ANGST zur SICHERHEIT
 
 > Product ID `34001` · Digistore24 productId `315825` · [HTML profile page](../../produkte/von-der-angst-zur-sicherheit-34001.html)

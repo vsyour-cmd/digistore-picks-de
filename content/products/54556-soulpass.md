@@ -1,3 +1,24 @@
+---
+product_id: "54556"
+digistore24_product_id: 614409
+title: "soulPass"
+vendor: "soulINmenta"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://app.soul-in-menta.de/soulinmenta/soulpass?aff=adminstore#aff=adminstore"
+sales_page: "https://app.soul-in-menta.de/soulinmenta/soulpass"
+language: "de"
+---
 # soulPass
 
 > Product ID `54556` · Digistore24 productId `614409` · [HTML profile page](../../produkte/soulpass-54556.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59321"
+digistore24_product_id: 734403
+title: "90-Tage-Gründungssystem – Selbstständigkeit starten"
+vendor: "Medina88"
+product_type: "Downloads"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 187.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/734403?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734403"
+language: "de"
+---
 # 90-Tage-Gründungssystem – Selbstständigkeit starten
 
 > Product ID `59321` · Digistore24 productId `734403` · [HTML profile page](../../produkte/90-tage-gr-ndungssystem-selbstst-ndigkeit-starten-59321.html)

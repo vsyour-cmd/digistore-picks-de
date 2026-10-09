@@ -1,3 +1,24 @@
+---
+product_id: "32913"
+digistore24_product_id: 255194
+title: "Musik von Sayama - Richard Hiebinger"
+vendor: "sayamaapps"
+product_type: "Downloads"
+price: 18.11
+currency: "USD"
+affiliate_commission_pct: 33.3
+earnings_per_sale: 5.22
+cart_conversion_pct: 3
+cancel_rate_pct: 0.88
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.sayama-music.de/cd/herzschwingungen-venus/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sayama-music.de/cd/herzschwingungen-venus/"
+language: "de"
+---
 # Musik von Sayama - Richard Hiebinger
 
 > Product ID `32913` · Digistore24 productId `255194` · [HTML profile page](../../produkte/musik-von-sayama-richard-hiebinger-32913.html)

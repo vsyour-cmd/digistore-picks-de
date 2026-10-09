@@ -1,3 +1,24 @@
+---
+product_id: "50978"
+digistore24_product_id: 528231
+title: "EMF Elektrosmog-Strahlen + Fremdenergie Reinigung"
+vendor: "gsundsi"
+product_type: "Member area and video courses"
+price: 21.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.13
+cart_conversion_pct: 19
+cancel_rate_pct: 29.62
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/"
+language: "de"
+---
 # EMF Elektrosmog-Strahlen + Fremdenergie Reinigung
 
 > Product ID `50978` · Digistore24 productId `528231` · [HTML profile page](../../produkte/emf-elektrosmog-strahlen-fremdenergie-reinigung-50978.html)

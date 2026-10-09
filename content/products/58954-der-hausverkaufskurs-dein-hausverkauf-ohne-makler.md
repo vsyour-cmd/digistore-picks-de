@@ -1,3 +1,24 @@
+---
+product_id: "58954"
+digistore24_product_id: 729362
+title: "Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ..."
+vendor: "hausverkaufskurs"
+product_type: "Member area and video courses"
+price: 685.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 342.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Real Estate","Sales Training"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729362?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729362"
+language: "de"
+---
 # Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ...
 
 > Product ID `58954` · Digistore24 productId `729362` · [HTML profile page](../../produkte/der-hausverkaufskurs-dein-hausverkauf-ohne-makler-58954.html)

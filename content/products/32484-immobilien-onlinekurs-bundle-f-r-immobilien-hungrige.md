@@ -1,3 +1,24 @@
+---
+product_id: "32484"
+digistore24_product_id: 312437
+title: "Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige"
+vendor: "immlab"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://produkte.immlab.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://produkte.immlab.de/"
+language: "de"
+---
 # Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige
 
 > Product ID `32484` · Digistore24 productId `312437` · [HTML profile page](../../produkte/immobilien-onlinekurs-bundle-f-r-immobilien-hungrige-32484.html)

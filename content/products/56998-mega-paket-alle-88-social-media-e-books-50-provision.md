@@ -1,3 +1,24 @@
+---
+product_id: "56998"
+digistore24_product_id: 701425
+title: "Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 519.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 259.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/pakete/mega-paket?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/pakete/mega-paket"
+language: "de"
+---
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
 > Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59431"
+digistore24_product_id: 724814
+title: "Saffron Project Premium | Проект Шафран Премиум"
+vendor: "fafenrotirina9b234"
+product_type: "E-books"
+price: 559.3
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 55.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724814?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724814"
+language: "de"
+---
 # Saffron Project Premium | Проект Шафран Премиум
 
 > Product ID `59431` · Digistore24 productId `724814` · [HTML profile page](../../produkte/saffron-project-premium-59431.html)

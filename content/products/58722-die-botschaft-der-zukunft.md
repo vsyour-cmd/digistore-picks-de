@@ -1,3 +1,24 @@
+---
+product_id: "58722"
+digistore24_product_id: 720489
+title: "Die Botschaft der Zukunft"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://novaris.de.cool/botschaft.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/botschaft.php"
+language: "de"
+---
 # Die Botschaft der Zukunft
 
 > Product ID `58722` · Digistore24 productId `720489` · [HTML profile page](../../produkte/die-botschaft-der-zukunft-58722.html)

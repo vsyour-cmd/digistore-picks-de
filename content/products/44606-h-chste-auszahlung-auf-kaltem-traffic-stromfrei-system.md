@@ -1,3 +1,24 @@
+---
+product_id: "44606"
+digistore24_product_id: 465280
+title: "Höchste Auszahlung auf kaltem Traffic (Stromfrei System)"
+vendor: "system"
+product_type: "E-books"
+price: 968.22
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 58.27
+cart_conversion_pct: 5
+cancel_rate_pct: 8.48
+categories: ["Survival"]
+listed_since: "2022-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.digistore24.com/redir/465280/adminstore"
+sales_page: "https://stromfrei.org/ds/vsl-stromfrei-system-ds-fullsc-yt/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&tk=[TRACKINGKEY]"
+language: "de"
+---
 # Höchste Auszahlung auf kaltem Traffic (Stromfrei System)
 
 > Product ID `44606` · Digistore24 productId `465280` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-stromfrei-system-44606.html)

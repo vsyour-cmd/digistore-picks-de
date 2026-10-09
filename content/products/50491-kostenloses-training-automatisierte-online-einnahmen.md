@@ -1,3 +1,24 @@
+---
+product_id: "50491"
+digistore24_product_id: 571680
+title: "Kostenloses Training - Automatisierte Online-Einnahmen"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Online-Training?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Online-Training"
+language: "de"
+---
 # Kostenloses Training - Automatisierte Online-Einnahmen
 
 > Product ID `50491` · Digistore24 productId `571680` · [HTML profile page](../../produkte/kostenloses-training-automatisierte-online-einnahmen-50491.html)

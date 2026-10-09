@@ -1,3 +1,24 @@
+---
+product_id: "56389"
+digistore24_product_id: 688752
+title: "Ebook - Schatzschiffe"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688752?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688752"
+language: "de"
+---
 # Ebook - Schatzschiffe
 
 > Product ID `56389` · Digistore24 productId `688752` · [HTML profile page](../../produkte/ebook-schatzschiffe-56389.html)

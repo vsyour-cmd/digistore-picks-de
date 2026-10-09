@@ -1,3 +1,24 @@
+---
+product_id: "55133"
+digistore24_product_id: 657939
+title: "AI Product System Funnel"
+vendor: "paul-roth"
+product_type: "Downloads"
+price: 0.64
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.21
+cart_conversion_pct: 42
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.growverse.de/funnels/ai-product-system/freebie?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.growverse.de/funnels/ai-product-system/freebie"
+language: "de"
+---
 # AI Product System Funnel
 
 > Product ID `55133` · Digistore24 productId `657939` · [HTML profile page](../../produkte/ai-product-system-funnel-55133.html)

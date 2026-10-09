@@ -1,3 +1,24 @@
+---
+product_id: "56018"
+digistore24_product_id: 678953
+title: "Geistig fit bis ins hohe Alter - Die besten Strategien"
+vendor: "Freifone"
+product_type: "E-books"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/geistig-fit-bis-ins-hohe-alter?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/geistig-fit-bis-ins-hohe-alter"
+language: "de"
+---
 # Geistig fit bis ins hohe Alter - Die besten Strategien
 
 > Product ID `56018` · Digistore24 productId `678953` · [HTML profile page](../../produkte/geistig-fit-bis-ins-hohe-alter-die-besten-strategien-56018.html)

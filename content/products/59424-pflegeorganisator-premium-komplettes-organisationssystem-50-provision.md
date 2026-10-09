@@ -1,3 +1,24 @@
+---
+product_id: "59424"
+digistore24_product_id: 735273
+title: "Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision"
+vendor: "DerPate"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Office Organization"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinevorlagenkiste.de/pflegeorganisator/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinevorlagenkiste.de/pflegeorganisator/"
+language: "de"
+---
 # Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision
 
 > Product ID `59424` · Digistore24 productId `735273` · [HTML profile page](../../produkte/pflegeorganisator-premium-komplettes-organisationssystem-50-provision-59424.html)

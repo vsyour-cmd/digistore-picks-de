@@ -1,3 +1,24 @@
+---
+product_id: "58824"
+digistore24_product_id: 479638
+title: "E-Mail-Liste aufbauen – Praxisguide 2026"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/e-mail-liste-aufbauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/e-mail-liste-aufbauen/"
+language: "de"
+---
 # E-Mail-Liste aufbauen – Praxisguide 2026
 
 > Product ID `58824` · Digistore24 productId `479638` · [HTML profile page](../../produkte/e-mail-liste-aufbauen-praxisguide-2026-58824.html)

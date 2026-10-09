@@ -1,3 +1,24 @@
+---
+product_id: "44122"
+digistore24_product_id: 482093
+title: "Profit Maxima - Profite einfach steigern"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 261.98
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 151.17
+cart_conversion_pct: 3
+cancel_rate_pct: 1.6
+categories: ["Business & Investment"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/promaxvkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/promaxvkslp/"
+language: "de"
+---
 # Profit Maxima - Profite einfach steigern
 
 > Product ID `44122` · Digistore24 productId `482093` · [HTML profile page](../../produkte/profit-maxima-profite-einfach-steigern-44122.html)

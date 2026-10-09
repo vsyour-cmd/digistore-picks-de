@@ -1,3 +1,24 @@
+---
+product_id: "53132"
+digistore24_product_id: 603664
+title: "SlimPower – High Carb Low Fat für max. Abnehmerfolg!"
+vendor: "Bettina_Loeper"
+product_type: "E-books"
+price: 153.67
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 46.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/603664?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/603664"
+language: "de"
+---
 # SlimPower – High Carb Low Fat für max. Abnehmerfolg!
 
 > Product ID `53132` · Digistore24 productId `603664` · [HTML profile page](../../produkte/slimpower-high-carb-low-fat-f-r-max-abnehmerfolg-53132.html)

@@ -1,3 +1,24 @@
+---
+product_id: "3413"
+digistore24_product_id: 24859
+title: "60 Day Dream Body Programm"
+vendor: "gk-health"
+product_type: "Downloads"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2014-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://produkte.60daydreambody.com/abnehmenohnediaet/?aff=adminstore#aff=adminstore"
+sales_page: "https://produkte.60daydreambody.com/abnehmenohnediaet/"
+language: "de"
+---
 # 60 Day Dream Body Programm
 
 > Product ID `3413` · Digistore24 productId `24859` · [HTML profile page](../../produkte/60-day-dream-body-programm-3413.html)

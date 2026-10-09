@@ -1,3 +1,24 @@
+---
+product_id: "59780"
+digistore24_product_id: 735594
+title: "KDP Einsteigerkurs"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 2.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/kdpeinsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/kdpeinsteiger/"
+language: "de"
+---
 # KDP Einsteigerkurs
 
 > Product ID `59780` · Digistore24 productId `735594` · [HTML profile page](../../produkte/kdp-einsteigerkurs-59780.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59535"
+digistore24_product_id: 735706
+title: "Katzen-Erziehung leicht gemacht: Vom Problemverhalten zur ha"
+vendor: "nowdigitalproducts"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735706?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735706"
+language: "de"
+---
 # Katzen-Erziehung leicht gemacht: Vom Problemverhalten zur ha
 
 > Product ID `59535` · Digistore24 productId `735706` · [HTML profile page](../../produkte/katzen-erziehung-leicht-gemacht-vom-problemverhalten-zur-ha-59535.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53242"
+digistore24_product_id: 625071
+title: "Struktur schlägt Style – High-Ticket-PDF (40% Provision)"
+vendor: "JumbMedia-Store"
+product_type: "E-books"
+price: 167.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 67.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/625071?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/625071"
+language: "de"
+---
 # Struktur schlägt Style – High-Ticket-PDF (40% Provision)
 
 > Product ID `53242` · Digistore24 productId `625071` · [HTML profile page](../../produkte/struktur-schl-gt-style-high-ticket-pdf-40-provision-53242.html)

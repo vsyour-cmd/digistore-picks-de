@@ -1,3 +1,24 @@
+---
+product_id: "56441"
+digistore24_product_id: 689701
+title: "Ebook - Das ungelebte Leben"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689701?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689701"
+language: "de"
+---
 # Ebook - Das ungelebte Leben
 
 > Product ID `56441` · Digistore24 productId `689701` · [HTML profile page](../../produkte/ebook-das-ungelebte-leben-56441.html)

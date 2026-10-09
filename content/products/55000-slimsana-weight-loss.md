@@ -1,3 +1,24 @@
+---
+product_id: "55000"
+digistore24_product_id: 651454
+title: "SlimSana Weight Loss"
+vendor: "DS24-MySana"
+product_type: "Supplements - for slimming"
+price: 176.73
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 108.75
+cart_conversion_pct: 12
+cancel_rate_pct: 7.12
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myslimsana.com/slimsana-pdp-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://myslimsana.com/slimsana-pdp-fe"
+language: "de"
+---
 # SlimSana Weight Loss
 
 > Product ID `55000` · Digistore24 productId `651454` · [HTML profile page](../../produkte/slimsana-weight-loss-55000.html)

@@ -1,3 +1,24 @@
+---
+product_id: "27816"
+digistore24_product_id: 244291
+title: "Das Programm gegen Knieschmerzen"
+vendor: "bodyLIFE"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-10-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmerzen-im-knie.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmerzen-im-knie.de/"
+language: "de"
+---
 # Das Programm gegen Knieschmerzen
 
 > Product ID `27816` · Digistore24 productId `244291` · [HTML profile page](../../produkte/das-programm-gegen-knieschmerzen-27816.html)

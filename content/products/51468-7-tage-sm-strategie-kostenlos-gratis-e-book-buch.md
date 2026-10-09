@@ -1,3 +1,24 @@
+---
+product_id: "51468"
+digistore24_product_id: 594851
+title: "7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)"
+vendor: "plrpirat"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.plrpirat.de/7tsms?aff=adminstore#aff=adminstore"
+sales_page: "https://www.plrpirat.de/7tsms"
+language: "de"
+---
 # 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)
 
 > Product ID `51468` · Digistore24 productId `594851` · [HTML profile page](../../produkte/7-tage-sm-strategie-kostenlos-gratis-e-book-buch-51468.html)

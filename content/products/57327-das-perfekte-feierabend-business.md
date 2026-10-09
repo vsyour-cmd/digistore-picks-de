@@ -1,3 +1,24 @@
+---
+product_id: "57327"
+digistore24_product_id: 706656
+title: "Das perfekte Feierabend-Business"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/perfekte-feierabend-business?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/perfekte-feierabend-business"
+language: "de"
+---
 # Das perfekte Feierabend-Business
 
 > Product ID `57327` · Digistore24 productId `706656` · [HTML profile page](../../produkte/das-perfekte-feierabend-business-57327.html)

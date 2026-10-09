@@ -1,3 +1,24 @@
+---
+product_id: "33931"
+digistore24_product_id: 307047
+title: "Das Bargeldkomplott"
+vendor: "wertvollleben"
+product_type: "E-books"
+price: 17.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2020-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.wertvollleben.net/onlineshop/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wertvollleben.net/onlineshop/"
+language: "de"
+---
 # Das Bargeldkomplott
 
 > Product ID `33931` · Digistore24 productId `307047` · [HTML profile page](../../produkte/das-bargeldkomplott-33931.html)

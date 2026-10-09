@@ -1,3 +1,24 @@
+---
+product_id: "60265"
+digistore24_product_id: 741095
+title: "Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rec"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Finances"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741095?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741095"
+language: "de"
+---
 # Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rec
 
 > Product ID `60265` · Digistore24 productId `741095` · [HTML profile page](../../produkte/minijob-und-nebenjob-leicht-gemacht-ratgeber-minijob-rec-60265.html)

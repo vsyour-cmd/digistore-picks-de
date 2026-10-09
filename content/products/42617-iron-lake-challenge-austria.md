@@ -1,3 +1,24 @@
+---
+product_id: "42617"
+digistore24_product_id: 480932
+title: "Iron Lake Challenge Austria"
+vendor: "rockyourgoal"
+product_type: "Deliverable"
+price: 22.62
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.77
+cart_conversion_pct: 31
+cancel_rate_pct: 0.35
+categories: ["Health & Fitness"]
+listed_since: "2023-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rockyourgoal.de/iron-lake-challenge/austria?aff=adminstore#aff=adminstore"
+sales_page: "https://rockyourgoal.de/iron-lake-challenge/austria"
+language: "de"
+---
 # Iron Lake Challenge Austria
 
 > Product ID `42617` · Digistore24 productId `480932` · [HTML profile page](../../produkte/iron-lake-challenge-austria-42617.html)

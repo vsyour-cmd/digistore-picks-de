@@ -1,3 +1,24 @@
+---
+product_id: "16857"
+digistore24_product_id: 140951
+title: "Bewegen wie die Meister Teil 2"
+vendor: "EquilibriumState"
+product_type: "Downloads"
+price: 37.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore"
+sales_page: "http://es-welt.de/index.php?page_id=1308"
+language: "de"
+---
 # Bewegen wie die Meister Teil 2
 
 > Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../produkte/bewegen-wie-die-meister-teil-2-16857.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40574"
+digistore24_product_id: 451098
+title: "Happy Lead Partnerprogramm"
+vendor: "Robinfocke"
+product_type: "Software"
+price: 302.02
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 75.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2022-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/451098/adminstore"
+sales_page: "https://happylead.de?p=[AFFILIATE]"
+language: "de"
+---
 # Happy Lead Partnerprogramm
 
 > Product ID `40574` · Digistore24 productId `451098` · [HTML profile page](../../produkte/happy-lead-partnerprogramm-40574.html)

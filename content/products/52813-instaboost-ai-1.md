@@ -1,3 +1,24 @@
+---
+product_id: "52813"
+digistore24_product_id: 599898
+title: "InstaBoost AI (1€)"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 2.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.39
+cart_conversion_pct: 35
+cancel_rate_pct: 6.35
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/instaboostai?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/instaboostai"
+language: "de"
+---
 # InstaBoost AI (1€)
 
 > Product ID `52813` · Digistore24 productId `599898` · [HTML profile page](../../produkte/instaboost-ai-1-52813.html)

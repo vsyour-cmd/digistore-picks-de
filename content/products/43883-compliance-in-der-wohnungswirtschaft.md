@@ -1,3 +1,24 @@
+---
+product_id: "43883"
+digistore24_product_id: 486977
+title: "COMPLIANCE IN DER WOHNUNGSWIRTSCHAFT"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.57
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/compliance/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/compliance/"
+language: "de"
+---
 # COMPLIANCE IN DER WOHNUNGSWIRTSCHAFT
 
 > Product ID `43883` · Digistore24 productId `486977` · [HTML profile page](../../produkte/compliance-in-der-wohnungswirtschaft-43883.html)

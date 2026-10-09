@@ -1,3 +1,24 @@
+---
+product_id: "51046"
+digistore24_product_id: 567558
+title: "Die 7 Schritte Brooklyn-Strategie"
+vendor: "carstenfeuerbach"
+product_type: "E-books"
+price: 7.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.24
+cart_conversion_pct: 18
+cancel_rate_pct: 2.54
+categories: ["Education","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://q16jd1.eu-2.quentn-site.com/brooklyn-strategie-1?aff=adminstore#aff=adminstore"
+sales_page: "https://q16jd1.eu-2.quentn-site.com/brooklyn-strategie-1"
+language: "de"
+---
 # Die 7 Schritte Brooklyn-Strategie
 
 > Product ID `51046` · Digistore24 productId `567558` · [HTML profile page](../../produkte/die-7-schritte-brooklyn-strategie-51046.html)

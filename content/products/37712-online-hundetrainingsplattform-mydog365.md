@@ -1,3 +1,24 @@
+---
+product_id: "37712"
+digistore24_product_id: 361952
+title: "Online-Hundetrainingsplattform - mydog365"
+vendor: "mydog365"
+product_type: "Member area and video courses"
+price: 225.68
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.3
+cart_conversion_pct: 21
+cancel_rate_pct: 3.51
+categories: ["Animals & Pets"]
+listed_since: "2020-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mydog365.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://mydog365.de/"
+language: "de"
+---
 # Online-Hundetrainingsplattform - mydog365
 
 > Product ID `37712` · Digistore24 productId `361952` · [HTML profile page](../../produkte/online-hundetrainingsplattform-mydog365-37712.html)

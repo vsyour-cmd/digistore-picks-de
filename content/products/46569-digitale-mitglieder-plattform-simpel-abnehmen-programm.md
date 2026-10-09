@@ -1,3 +1,24 @@
+---
+product_id: "46569"
+digistore24_product_id: 411939
+title: "Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm"
+vendor: "programmschlank"
+product_type: "Member area and video courses"
+price: 56.36
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2021-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://simpelabnehmen.de/einmaliges-angebot-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://simpelabnehmen.de/einmaliges-angebot-2/"
+language: "de"
+---
 # Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm
 
 > Product ID `46569` · Digistore24 productId `411939` · [HTML profile page](../../produkte/digitale-mitglieder-plattform-simpel-abnehmen-programm-46569.html)

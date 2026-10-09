@@ -1,3 +1,24 @@
+---
+product_id: "54123"
+digistore24_product_id: 637140
+title: "Malbuch Welt der Einhörner und Feen für Kinder"
+vendor: "Arsoda"
+product_type: "Downloads"
+price: 1.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Social Media"]
+listed_since: "2025-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/637140/adminstore"
+sales_page: "https://page.funnelcockpit.com/GiD9isyQ7Yapbpb3P#aff=Arsoda&cam=CAMPAIGNKEY"
+language: "de"
+---
 # Malbuch Welt der Einhörner und Feen für Kinder
 
 > Product ID `54123` · Digistore24 productId `637140` · [HTML profile page](../../produkte/malbuch-welt-der-einh-rner-und-feen-f-r-kinder-54123.html)

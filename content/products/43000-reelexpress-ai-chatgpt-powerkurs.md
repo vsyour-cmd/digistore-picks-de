@@ -1,3 +1,24 @@
+---
+product_id: "43000"
+digistore24_product_id: 487019
+title: "ReelExpress Ai ChatGPT Powerkurs"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 82.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2023-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://reelexpress.ai/?aff=adminstore#aff=adminstore"
+sales_page: "https://reelexpress.ai/"
+language: "de"
+---
 # ReelExpress Ai ChatGPT Powerkurs
 
 > Product ID `43000` · Digistore24 productId `487019` · [HTML profile page](../../produkte/reelexpress-ai-chatgpt-powerkurs-43000.html)

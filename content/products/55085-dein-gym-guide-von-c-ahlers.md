@@ -1,3 +1,24 @@
+---
+product_id: "55085"
+digistore24_product_id: 658737
+title: "Dein GYM-Guide von C.Ahlers"
+vendor: "Chris_A"
+product_type: "Downloads"
+price: 46.95
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2026-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658737?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658737"
+language: "de"
+---
 # Dein GYM-Guide von C.Ahlers
 
 > Product ID `55085` · Digistore24 productId `658737` · [HTML profile page](../../produkte/dein-gym-guide-von-c-ahlers-55085.html)

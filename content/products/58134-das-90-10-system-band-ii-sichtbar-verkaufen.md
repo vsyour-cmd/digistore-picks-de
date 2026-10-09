@@ -1,3 +1,24 @@
+---
+product_id: "58134"
+digistore24_product_id: 718278
+title: "Das 90/10-System – Band II: Sichtbar verkaufen"
+vendor: "rs-onlineagentur"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/"
+language: "de"
+---
 # Das 90/10-System – Band II: Sichtbar verkaufen
 
 > Product ID `58134` · Digistore24 productId `718278` · [HTML profile page](../../produkte/das-90-10-system-band-ii-sichtbar-verkaufen-58134.html)

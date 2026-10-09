@@ -1,3 +1,24 @@
+---
+product_id: "55312"
+digistore24_product_id: 614195
+title: "Datenprognose (grafisch und tabellarisch)"
+vendor: "Prognose-kaufen"
+product_type: "Remote service provided electronically"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 42.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Services","Software"]
+listed_since: "2025-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/614195?voucher=PROGNOSEKAUFEN20&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/614195?voucher=PROGNOSEKAUFEN20"
+language: "de"
+---
 # Datenprognose (grafisch und tabellarisch)
 
 > Product ID `55312` · Digistore24 productId `614195` · [HTML profile page](../../produkte/datenprognose-grafisch-und-tabellarisch-55312.html)

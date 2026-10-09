@@ -1,3 +1,24 @@
+---
+product_id: "53881"
+digistore24_product_id: 633650
+title: "Videokurs \"Tipps für die ideale Katzenwohnung\""
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 20.68
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/ideale-katzenwohnung?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/ideale-katzenwohnung"
+language: "de"
+---
 # Videokurs "Tipps für die ideale Katzenwohnung"
 
 > Product ID `53881` · Digistore24 productId `633650` · [HTML profile page](../../produkte/videokurs-tipps-f-r-die-ideale-katzenwohnung-53881.html)

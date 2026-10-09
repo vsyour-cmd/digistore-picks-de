@@ -1,3 +1,24 @@
+---
+product_id: "59209"
+digistore24_product_id: 728427
+title: "NEXT CHAPTER – Berufliche Neuorientierung"
+vendor: "nextchapt"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dein-nextchapter.de/next-chapter?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dein-nextchapter.de/next-chapter"
+language: "de"
+---
 # NEXT CHAPTER – Berufliche Neuorientierung
 
 > Product ID `59209` · Digistore24 productId `728427` · [HTML profile page](../../produkte/next-chapter-berufliche-neuorientierung-59209.html)

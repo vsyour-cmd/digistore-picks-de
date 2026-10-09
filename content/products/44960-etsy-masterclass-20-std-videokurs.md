@@ -1,3 +1,24 @@
+---
+product_id: "44960"
+digistore24_product_id: 510068
+title: "Etsy Masterclass - 20 Std Videokurs"
+vendor: "CharlotteKster"
+product_type: "Member area and video courses"
+price: 322.28
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 71.18
+cart_conversion_pct: 14
+cancel_rate_pct: 6.63
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.lottismasterclass.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lottismasterclass.de"
+language: "de"
+---
 # Etsy Masterclass - 20 Std Videokurs
 
 > Product ID `44960` · Digistore24 productId `510068` · [HTML profile page](../../produkte/etsy-masterclass-20-std-videokurs-44960.html)

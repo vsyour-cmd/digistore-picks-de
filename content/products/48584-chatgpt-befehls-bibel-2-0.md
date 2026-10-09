@@ -1,3 +1,24 @@
+---
+product_id: "48584"
+digistore24_product_id: 553715
+title: "ChatGPT Befehls-Bibel 2.0"
+vendor: "ss-business"
+product_type: "E-books"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 38.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2024-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/?aff=adminstore#aff=adminstore"
+sales_page: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/"
+language: "de"
+---
 # ChatGPT Befehls-Bibel 2.0
 
 > Product ID `48584` · Digistore24 productId `553715` · [HTML profile page](../../produkte/chatgpt-befehls-bibel-2-0-48584.html)

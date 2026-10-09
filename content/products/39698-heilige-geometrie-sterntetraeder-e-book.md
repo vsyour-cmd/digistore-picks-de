@@ -1,3 +1,24 @@
+---
+product_id: "39698"
+digistore24_product_id: 278496
+title: "Heilige Geometrie - Sterntetraeder - E-Book"
+vendor: "AndreasBeutel"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2019-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://andreas-beutel.tv/den-sterntetraeder-bauen-und-selber-entdecken/?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-beutel.tv/den-sterntetraeder-bauen-und-selber-entdecken/"
+language: "de"
+---
 # Heilige Geometrie - Sterntetraeder - E-Book
 
 > Product ID `39698` · Digistore24 productId `278496` · [HTML profile page](../../produkte/heilige-geometrie-sterntetraeder-e-book-39698.html)

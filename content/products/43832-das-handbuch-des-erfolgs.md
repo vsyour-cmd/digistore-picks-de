@@ -1,3 +1,24 @@
+---
+product_id: "43832"
+digistore24_product_id: 487962
+title: "Das Handbuch des Erfolgs"
+vendor: "kohnlesoft"
+product_type: "E-books"
+price: 486.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.82
+cart_conversion_pct: 21
+cancel_rate_pct: 2.03
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/487962/adminstore"
+sales_page: "https://meine-radionik.de/landing-20.html?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]"
+language: "de"
+---
 # Das Handbuch des Erfolgs
 
 > Product ID `43832` · Digistore24 productId `487962` · [HTML profile page](../../produkte/das-handbuch-des-erfolgs-43832.html)

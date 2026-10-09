@@ -1,3 +1,24 @@
+---
+product_id: "59073"
+digistore24_product_id: 730924
+title: "SKIN 40+ RESET - Hautpflege ab 40 als digitaler PDF Guide"
+vendor: "sinamir"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/730924?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730924"
+language: "de"
+---
 # SKIN 40+ RESET - Hautpflege ab 40 als digitaler PDF Guide
 
 > Product ID `59073` · Digistore24 productId `730924` · [HTML profile page](../../produkte/skin-40-reset-hautpflege-ab-40-als-digitaler-pdf-guide-59073.html)

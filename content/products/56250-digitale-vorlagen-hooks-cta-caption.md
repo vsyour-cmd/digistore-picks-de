@@ -1,3 +1,24 @@
+---
+product_id: "56250"
+digistore24_product_id: 684317
+title: "Digitale Vorlagen HOOKS - CTA - CAPTION"
+vendor: "martinakocyigit2025"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing"]
+listed_since: "2026-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684317?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684317"
+language: "de"
+---
 # Digitale Vorlagen HOOKS - CTA - CAPTION
 
 > Product ID `56250` · Digistore24 productId `684317` · [HTML profile page](../../produkte/digitale-vorlagen-hooks-cta-caption-56250.html)

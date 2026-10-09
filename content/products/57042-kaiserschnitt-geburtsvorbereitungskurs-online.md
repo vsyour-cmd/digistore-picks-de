@@ -1,3 +1,24 @@
+---
+product_id: "57042"
+digistore24_product_id: 697364
+title: "Kaiserschnitt Geburtsvorbereitungskurs online"
+vendor: "bcamp8501"
+product_type: "Member area and video courses"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 65.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bauchgeburt.com/kaiserschnitt-geburtsvorbereitung/?aff=adminstore#aff=adminstore"
+sales_page: "https://bauchgeburt.com/kaiserschnitt-geburtsvorbereitung/"
+language: "de"
+---
 # Kaiserschnitt Geburtsvorbereitungskurs online
 
 > Product ID `57042` · Digistore24 productId `697364` · [HTML profile page](../../produkte/kaiserschnitt-geburtsvorbereitungskurs-online-57042.html)

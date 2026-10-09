@@ -1,3 +1,24 @@
+---
+product_id: "58728"
+digistore24_product_id: 720586
+title: "FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo"
+vendor: "thorstenbahrb86a"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://fuehrerschein-kompass.de/"
+language: "de"
+---
 # FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo
 
 > Product ID `58728` · Digistore24 productId `720586` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-plus-leitfaden-plus-praxis-vo-58728.html)

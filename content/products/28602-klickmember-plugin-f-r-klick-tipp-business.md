@@ -1,3 +1,24 @@
+---
+product_id: "28602"
+digistore24_product_id: 179949
+title: "KlickMember Plugin für Klick-Tipp (Business)"
+vendor: "intellicon"
+product_type: "Downloads"
+price: 205.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 61.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.klicksuite.de/bestellung/?product=179949&aff=adminstore#aff=adminstore"
+sales_page: "https://www.klicksuite.de/bestellung/?product=179949"
+language: "de"
+---
 # KlickMember Plugin für Klick-Tipp (Business)
 
 > Product ID `28602` · Digistore24 productId `179949` · [HTML profile page](../../produkte/klickmember-plugin-f-r-klick-tipp-business-28602.html)

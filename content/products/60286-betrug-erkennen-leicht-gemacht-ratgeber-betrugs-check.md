@@ -1,3 +1,24 @@
+---
+product_id: "60286"
+digistore24_product_id: 741235
+title: "Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741235?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741235"
+language: "de"
+---
 # Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
 
 > Product ID `60286` · Digistore24 productId `741235` · [HTML profile page](../../produkte/betrug-erkennen-leicht-gemacht-ratgeber-betrugs-check-60286.html)

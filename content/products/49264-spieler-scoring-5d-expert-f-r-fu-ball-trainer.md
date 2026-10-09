@@ -1,3 +1,24 @@
+---
+product_id: "49264"
+digistore24_product_id: 398020
+title: "Spieler Scoring 5D Expert für Fußball-Trainer"
+vendor: "talent-score"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 23.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Sport","Personal Development"]
+listed_since: "2021-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://talentscore.de/spieler-scoring-expert-versionen/?aff=adminstore#aff=adminstore"
+sales_page: "https://talentscore.de/spieler-scoring-expert-versionen/"
+language: "de"
+---
 # Spieler Scoring 5D Expert für Fußball-Trainer
 
 > Product ID `49264` · Digistore24 productId `398020` · [HTML profile page](../../produkte/spieler-scoring-5d-expert-f-r-fu-ball-trainer-49264.html)

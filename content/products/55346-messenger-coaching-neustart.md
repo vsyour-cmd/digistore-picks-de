@@ -1,3 +1,24 @@
+---
+product_id: "55346"
+digistore24_product_id: 626426
+title: "Messenger-Coaching \"Neustart\""
+vendor: "optima_gesundheitsberatung"
+product_type: "Telephone coaching"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 18.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://optima-gesundheitsberatung.de/messenger-coaching/?aff=adminstore#aff=adminstore"
+sales_page: "https://optima-gesundheitsberatung.de/messenger-coaching/"
+language: "de"
+---
 # Messenger-Coaching "Neustart"
 
 > Product ID `55346` · Digistore24 productId `626426` · [HTML profile page](../../produkte/messenger-coaching-neustart-55346.html)

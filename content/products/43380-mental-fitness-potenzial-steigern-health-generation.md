@@ -1,3 +1,24 @@
+---
+product_id: "43380"
+digistore24_product_id: 467235
+title: "Mental Fitness Potenzial steigern - health-generation"
+vendor: "Josef85"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-10-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.health-generation.com/mental-fitness-mental-stark?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.health-generation.com/mental-fitness-mental-stark"
+language: "de"
+---
 # Mental Fitness Potenzial steigern - health-generation
 
 > Product ID `43380` · Digistore24 productId `467235` · [HTML profile page](../../produkte/mental-fitness-potenzial-steigern-health-generation-43380.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56425"
+digistore24_product_id: 689476
+title: "Ebook - Duft der Erinnerung"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689476?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689476"
+language: "de"
+---
 # Ebook - Duft der Erinnerung
 
 > Product ID `56425` · Digistore24 productId `689476` · [HTML profile page](../../produkte/ebook-duft-der-erinnerung-56425.html)

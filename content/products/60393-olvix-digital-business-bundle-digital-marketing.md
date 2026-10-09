@@ -1,3 +1,24 @@
+---
+product_id: "60393"
+digistore24_product_id: 743202
+title: "OLVIX Digital Business Bundle – Digital + Marketing"
+vendor: "olvixdigok8f53"
+product_type: "Member area and video courses"
+price: 130.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 52.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/743202?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/743202"
+language: "de"
+---
 # OLVIX Digital Business Bundle – Digital + Marketing
 
 > Product ID `60393` · Digistore24 productId `743202` · [HTML profile page](../../produkte/olvix-digital-business-bundle-digital-marketing-60393.html)

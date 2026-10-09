@@ -1,3 +1,24 @@
+---
+product_id: "58141"
+digistore24_product_id: 718583
+title: "Online starten – Dein klarer 30-Tage-Fahrplan zum eigenen On"
+vendor: "rs-onlineagentur"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rita-scheer.de/online-starten-30-tage-plan/?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/online-starten-30-tage-plan/"
+language: "de"
+---
 # Online starten – Dein klarer 30-Tage-Fahrplan zum eigenen On
 
 > Product ID `58141` · Digistore24 productId `718583` · [HTML profile page](../../produkte/online-starten-dein-klarer-30-tage-fahrplan-zum-eigenen-on-58141.html)

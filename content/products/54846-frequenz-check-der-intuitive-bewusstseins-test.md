@@ -1,3 +1,24 @@
+---
+product_id: "54846"
+digistore24_product_id: 652397
+title: "Frequenz-Check – Der intuitive Bewusstseins-Test"
+vendor: "AndreasTauscher"
+product_type: "Member area and video courses"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-tauscher.coachy.net/lp/frequenz-check/?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-tauscher.coachy.net/lp/frequenz-check/"
+language: "de"
+---
 # Frequenz-Check – Der intuitive Bewusstseins-Test
 
 > Product ID `54846` · Digistore24 productId `652397` · [HTML profile page](../../produkte/frequenz-check-der-intuitive-bewusstseins-test-54846.html)

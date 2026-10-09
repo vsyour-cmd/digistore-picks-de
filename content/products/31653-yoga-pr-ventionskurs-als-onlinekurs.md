@@ -1,3 +1,24 @@
+---
+product_id: "31653"
+digistore24_product_id: 273107
+title: "Yoga-Präventionskurs als Onlinekurs"
+vendor: "KatiBloedorn"
+product_type: "Downloads"
+price: 57.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.75
+cart_conversion_pct: 23
+cancel_rate_pct: 3.06
+categories: ["Health & Fitness"]
+listed_since: "2019-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/"
+language: "de"
+---
 # Yoga-Präventionskurs als Onlinekurs
 
 > Product ID `31653` · Digistore24 productId `273107` · [HTML profile page](../../produkte/yoga-pr-ventionskurs-als-onlinekurs-31653.html)

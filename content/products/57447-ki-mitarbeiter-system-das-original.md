@@ -1,3 +1,24 @@
+---
+product_id: "57447"
+digistore24_product_id: 707215
+title: "KI-Mitarbeiter-System - Das Original"
+vendor: "rrwenda"
+product_type: "Member area and video courses"
+price: 265.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 132.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ralfwenda.education/ki-mitarbeiter-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://ralfwenda.education/ki-mitarbeiter-system/"
+language: "de"
+---
 # KI-Mitarbeiter-System - Das Original
 
 > Product ID `57447` · Digistore24 productId `707215` · [HTML profile page](../../produkte/ki-mitarbeiter-system-das-original-57447.html)

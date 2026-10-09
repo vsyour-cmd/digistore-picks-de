@@ -1,3 +1,24 @@
+---
+product_id: "29113"
+digistore24_product_id: 273833
+title: "Sprungkrafttraining Crashkurs für Volleyballer"
+vendor: "volleyballfreak"
+product_type: "Downloads"
+price: 3.75
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2019-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining?aff=adminstore#aff=adminstore"
+sales_page: "https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining"
+language: "de"
+---
 # Sprungkrafttraining Crashkurs für Volleyballer
 
 > Product ID `29113` · Digistore24 productId `273833` · [HTML profile page](../../produkte/sprungkrafttraining-crashkurs-f-r-volleyballer-29113.html)

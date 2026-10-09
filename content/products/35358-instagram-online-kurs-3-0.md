@@ -1,3 +1,24 @@
+---
+product_id: "35358"
+digistore24_product_id: 364829
+title: "Instagram online Kurs 3.0"
+vendor: "TanjaV"
+product_type: "Member area and video courses"
+price: 96.24
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 43.51
+cart_conversion_pct: 11
+cancel_rate_pct: 0.72
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://tanjavallee.de/instagramonlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://tanjavallee.de/instagramonlinekurs/"
+language: "de"
+---
 # Instagram online Kurs 3.0
 
 > Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)

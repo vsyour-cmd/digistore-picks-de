@@ -1,3 +1,24 @@
+---
+product_id: "35518"
+digistore24_product_id: 10761
+title: "Werbemail24 Jahres Goldmitgliedschaft Viralmailer"
+vendor: "kostenlos"
+product_type: "Member area and video courses"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 88.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2013-01-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://werbemail24.com?aff=adminstore#aff=adminstore"
+sales_page: "https://werbemail24.com"
+language: "de"
+---
 # Werbemail24 Jahres Goldmitgliedschaft Viralmailer
 
 > Product ID `35518` · Digistore24 productId `10761` · [HTML profile page](../../produkte/werbemail24-jahres-goldmitgliedschaft-viralmailer-35518.html)

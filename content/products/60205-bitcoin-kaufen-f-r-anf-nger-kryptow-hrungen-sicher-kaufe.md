@@ -1,3 +1,24 @@
+---
+product_id: "60205"
+digistore24_product_id: 703267
+title: "Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe"
+vendor: "smartfuchs"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/"
+language: "de"
+---
 # Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe
 
 > Product ID `60205` · Digistore24 productId `703267` · [HTML profile page](../../produkte/bitcoin-kaufen-f-r-anf-nger-kryptow-hrungen-sicher-kaufe-60205.html)

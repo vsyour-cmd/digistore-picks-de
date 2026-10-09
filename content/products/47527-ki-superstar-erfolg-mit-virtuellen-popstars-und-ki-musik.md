@@ -1,3 +1,24 @@
+---
+product_id: "47527"
+digistore24_product_id: 544225
+title: "KI SUPERSTAR - Erfolg mit virtuellen Popstars und KI-Musik"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-superstar-frontend-4/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-superstar-frontend-4/"
+language: "de"
+---
 # KI SUPERSTAR - Erfolg mit virtuellen Popstars und KI-Musik
 
 > Product ID `47527` · Digistore24 productId `544225` · [HTML profile page](../../produkte/ki-superstar-erfolg-mit-virtuellen-popstars-und-ki-musik-47527.html)

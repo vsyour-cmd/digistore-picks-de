@@ -1,3 +1,24 @@
+---
+product_id: "59383"
+digistore24_product_id: 732859
+title: "50 Pinterest-Nischenideen – Nischen-Kompass mit Matze"
+vendor: "einfachmitmatze"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/732859?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/732859"
+language: "de"
+---
 # 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59383` · Digistore24 productId `732859` · [HTML profile page](../../produkte/50-pinterest-nischenideen-nischen-kompass-mit-matze-59383.html)

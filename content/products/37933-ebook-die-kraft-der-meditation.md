@@ -1,3 +1,24 @@
+---
+product_id: "37933"
+digistore24_product_id: 408918
+title: "eBook - Die Kraft der Meditation"
+vendor: "hh-akademie"
+product_type: "E-books"
+price: 3.12
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 3.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/408918?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/408918"
+language: "de"
+---
 # eBook - Die Kraft der Meditation
 
 > Product ID `37933` · Digistore24 productId `408918` · [HTML profile page](../../produkte/ebook-die-kraft-der-meditation-37933.html)

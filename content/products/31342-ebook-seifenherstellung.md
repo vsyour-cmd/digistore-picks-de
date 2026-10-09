@@ -1,3 +1,24 @@
+---
+product_id: "31342"
+digistore24_product_id: 304586
+title: "Ebook Seifenherstellung"
+vendor: "Naturseife30"
+product_type: "E-books"
+price: 12.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://naturseife-und-kosmetik.de/anleitungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://naturseife-und-kosmetik.de/anleitungen/"
+language: "de"
+---
 # Ebook Seifenherstellung
 
 > Product ID `31342` · Digistore24 productId `304586` · [HTML profile page](../../produkte/ebook-seifenherstellung-31342.html)

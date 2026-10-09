@@ -1,3 +1,24 @@
+---
+product_id: "47019"
+digistore24_product_id: 21959
+title: "Neurostreams™ DNA Talk (in 432 Hertz)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/klassiker/dna-meditation-432hz/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/klassiker/dna-meditation-432hz/"
+language: "de"
+---
 # Neurostreams™ DNA Talk (in 432 Hertz)
 
 > Product ID `47019` · Digistore24 productId `21959` · [HTML profile page](../../produkte/neurostreams-dna-talk-in-432-hertz-47019.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50725"
+digistore24_product_id: 659605
+title: "FutureMate - Dein eigener KI Mitarbeiter"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.28
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Computer & Internet","Education","Profession & Job"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.andreaslangdigital.com/futuremate/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.andreaslangdigital.com/futuremate/"
+language: "de"
+---
 # FutureMate - Dein eigener KI Mitarbeiter
 
 > Product ID `50725` · Digistore24 productId `659605` · [HTML profile page](../../produkte/futuremate-dein-eigener-ki-mitarbeiter-50725.html)

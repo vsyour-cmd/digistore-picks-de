@@ -1,3 +1,24 @@
+---
+product_id: "37118"
+digistore24_product_id: 297539
+title: "Insta Easy - kostenloser Videokurs mit Upsells"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/297539?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/297539"
+language: "de"
+---
 # Insta Easy - kostenloser Videokurs mit Upsells
 
 > Product ID `37118` · Digistore24 productId `297539` · [HTML profile page](../../produkte/insta-easy-kostenloser-videokurs-mit-upsells-37118.html)

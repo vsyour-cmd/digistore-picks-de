@@ -1,3 +1,24 @@
+---
+product_id: "58940"
+digistore24_product_id: 668719
+title: "Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer"
+vendor: "DH1983"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 24.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ue40protokoll.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ue40protokoll.com/"
+language: "de"
+---
 # Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer
 
 > Product ID `58940` · Digistore24 productId `668719` · [HTML profile page](../../produkte/der-40-muskel-code-attraktiver-fitness-funnel-f-r-m-nner-58940.html)

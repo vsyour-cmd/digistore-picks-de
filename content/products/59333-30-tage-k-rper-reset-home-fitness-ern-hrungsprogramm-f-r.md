@@ -1,3 +1,24 @@
+---
+product_id: "59333"
+digistore24_product_id: 734087
+title: "30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für"
+vendor: "ersanfidan6767c470"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://koerperleveltwo.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://koerperleveltwo.netlify.app"
+language: "de"
+---
 # 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für
 
 > Product ID `59333` · Digistore24 productId `734087` · [HTML profile page](../../produkte/30-tage-k-rper-reset-home-fitness-ern-hrungsprogramm-f-r-59333.html)

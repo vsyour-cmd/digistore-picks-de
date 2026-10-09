@@ -1,3 +1,24 @@
+---
+product_id: "40538"
+digistore24_product_id: 450500
+title: "Notfallmappe / Vorsorgemappe XLS"
+vendor: "huestel"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2022-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://notfallmappe-xls.de/download-vorsorgemappe/?aff=adminstore#aff=adminstore"
+sales_page: "https://notfallmappe-xls.de/download-vorsorgemappe/"
+language: "de"
+---
 # Notfallmappe / Vorsorgemappe XLS
 
 > Product ID `40538` · Digistore24 productId `450500` · [HTML profile page](../../produkte/notfallmappe-vorsorgemappe-xls-40538.html)

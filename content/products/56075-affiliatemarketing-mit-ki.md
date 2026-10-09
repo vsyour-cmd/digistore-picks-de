@@ -1,3 +1,24 @@
+---
+product_id: "56075"
+digistore24_product_id: 661727
+title: "Affiliatemarketing mit KI"
+vendor: "rs-onlineagentur"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://ritascheer.online?aff=adminstore#aff=adminstore"
+sales_page: "http://ritascheer.online"
+language: "de"
+---
 # Affiliatemarketing mit KI
 
 > Product ID `56075` · Digistore24 productId `661727` · [HTML profile page](../../produkte/affiliatemarketing-mit-ki-56075.html)

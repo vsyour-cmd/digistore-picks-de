@@ -1,3 +1,24 @@
+---
+product_id: "57364"
+digistore24_product_id: 625138
+title: "misslogopage Magazin"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 8.89
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lexosophie.mydigibiz24.com/misslogopage-magazin?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/misslogopage-magazin"
+language: "de"
+---
 # misslogopage Magazin
 
 > Product ID `57364` · Digistore24 productId `625138` · [HTML profile page](../../produkte/misslogopage-magazin-57364.html)

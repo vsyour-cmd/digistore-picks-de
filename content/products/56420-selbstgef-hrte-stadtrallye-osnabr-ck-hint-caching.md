@@ -1,3 +1,24 @@
+---
+product_id: "56420"
+digistore24_product_id: 689211
+title: "Selbstgeführte Stadtrallye Osnabrück | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-osnabrueck/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-osnabrueck/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Osnabrück | Hint-Caching
 
 > Product ID `56420` · Digistore24 productId `689211` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-osnabr-ck-hint-caching-56420.html)

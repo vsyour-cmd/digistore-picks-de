@@ -1,3 +1,24 @@
+---
+product_id: "39852"
+digistore24_product_id: 371024
+title: "Einfach schlank! In 8 Schritten zur Wunschfigur"
+vendor: "wildkitchen"
+product_type: "Member area and video courses"
+price: 552.72
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 110.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wildkitchen.at/einfach-schlank-onlinekurs-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wildkitchen.at/einfach-schlank-onlinekurs-2/"
+language: "de"
+---
 # Einfach schlank! In 8 Schritten zur Wunschfigur
 
 > Product ID `39852` · Digistore24 productId `371024` · [HTML profile page](../../produkte/einfach-schlank-in-8-schritten-zur-wunschfigur-39852.html)

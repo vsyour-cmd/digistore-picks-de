@@ -1,3 +1,24 @@
+---
+product_id: "57016"
+digistore24_product_id: 702247
+title: "Auswandern nach Mallorca: Klartext"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/mallorca-job-wohnung-alltag?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/mallorca-job-wohnung-alltag"
+language: "de"
+---
 # Auswandern nach Mallorca: Klartext
 
 > Product ID `57016` · Digistore24 productId `702247` · [HTML profile page](../../produkte/auswandern-nach-mallorca-klartext-57016.html)

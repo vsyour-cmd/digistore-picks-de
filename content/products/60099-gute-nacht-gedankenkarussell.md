@@ -1,3 +1,24 @@
+---
+product_id: "60099"
+digistore24_product_id: 738790
+title: "Gute Nacht Gedankenkarussell"
+vendor: "AdrianaLichtenstein"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell?aff=adminstore#aff=adminstore"
+sales_page: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell"
+language: "de"
+---
 # Gute Nacht Gedankenkarussell
 
 > Product ID `60099` · Digistore24 productId `738790` · [HTML profile page](../../produkte/gute-nacht-gedankenkarussell-60099.html)

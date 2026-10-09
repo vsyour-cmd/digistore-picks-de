@@ -1,3 +1,24 @@
+---
+product_id: "32177"
+digistore24_product_id: 308794
+title: "[NEU] Passives Einkommen: Kickstart (aktueller Bestseller)"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 909.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 31.84
+cart_conversion_pct: 9
+cancel_rate_pct: 6.98
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/308794/adminstore"
+sales_page: "https://start.gruender.de/kickstart-buch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # [NEU] Passives Einkommen: Kickstart (aktueller Bestseller)
 
 > Product ID `32177` · Digistore24 productId `308794` · [HTML profile page](../../produkte/neu-passives-einkommen-kickstart-aktueller-bestseller-32177.html)

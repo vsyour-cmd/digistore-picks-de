@@ -1,3 +1,24 @@
+---
+product_id: "55867"
+digistore24_product_id: 675451
+title: "Ihre Immobilie als Renditebooster inkl. Potentialanalyse"
+vendor: "info8c24"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Green Products & Environmental Protection","Home & Garden"]
+listed_since: "2026-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/675451?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/675451"
+language: "de"
+---
 # Ihre Immobilie als Renditebooster inkl. Potentialanalyse
 
 > Product ID `55867` · Digistore24 productId `675451` · [HTML profile page](../../produkte/ihre-immobilie-als-renditebooster-inkl-potentialanalyse-55867.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56012"
+digistore24_product_id: 672238
+title: "Workbook: Erhelle deine Leben"
+vendor: "ReinerKatzinger"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.reinergeist.com/workbook-klarheit-freiheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reinergeist.com/workbook-klarheit-freiheit/"
+language: "de"
+---
 # Workbook: Erhelle deine Leben
 
 > Product ID `56012` · Digistore24 productId `672238` · [HTML profile page](../../produkte/workbook-erhelle-deine-leben-56012.html)

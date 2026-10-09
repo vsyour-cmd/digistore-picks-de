@@ -1,3 +1,24 @@
+---
+product_id: "56273"
+digistore24_product_id: 682373
+title: "Ebook - Die Macht der Gedanken"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682373?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682373"
+language: "de"
+---
 # Ebook - Die Macht der Gedanken
 
 > Product ID `56273` · Digistore24 productId `682373` · [HTML profile page](../../produkte/ebook-die-macht-der-gedanken-56273.html)

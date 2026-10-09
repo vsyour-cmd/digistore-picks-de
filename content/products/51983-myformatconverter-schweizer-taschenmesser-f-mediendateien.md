@@ -1,3 +1,24 @@
+---
+product_id: "51983"
+digistore24_product_id: 605870
+title: "MyFormatConverter - Schweizer Taschenmesser f. Mediendateien"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Photography & Film","Software"]
+listed_since: "2025-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/605870?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/605870"
+language: "de"
+---
 # MyFormatConverter - Schweizer Taschenmesser f. Mediendateien
 
 > Product ID `51983` · Digistore24 productId `605870` · [HTML profile page](../../produkte/myformatconverter-schweizer-taschenmesser-f-mediendateien-51983.html)

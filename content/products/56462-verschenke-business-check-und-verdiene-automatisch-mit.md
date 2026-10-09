@@ -1,3 +1,24 @@
+---
+product_id: "56462"
+digistore24_product_id: 689864
+title: "Verschenke Business Check und verdiene automatisch mit"
+vendor: "MSFS_2218"
+product_type: "E-books"
+price: 5.88
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.78
+cart_conversion_pct: 35
+cancel_rate_pct: 1.23
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/easy-business-der-5-stufen-business-check/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/easy-business-der-5-stufen-business-check/"
+language: "de"
+---
 # Verschenke Business Check und verdiene automatisch mit
 
 > Product ID `56462` · Digistore24 productId `689864` · [HTML profile page](../../produkte/verschenke-business-check-und-verdiene-automatisch-mit-56462.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52493"
+digistore24_product_id: 613510
+title: "Fantasie an – 50 Geschichten zum Mitgestalten"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Fun & Games"]
+listed_since: "2025-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/613510?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/613510"
+language: "de"
+---
 # Fantasie an – 50 Geschichten zum Mitgestalten
 
 > Product ID `52493` · Digistore24 productId `613510` · [HTML profile page](../../produkte/fantasie-an-50-geschichten-zum-mitgestalten-52493.html)

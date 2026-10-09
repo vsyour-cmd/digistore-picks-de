@@ -1,3 +1,24 @@
+---
+product_id: "42520"
+digistore24_product_id: 468911
+title: "Silent Subliminals Gold: Der Hit für alle Nischen!"
+vendor: "EnergeticTernity"
+product_type: "Member area and video courses"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2022-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://silent-subliminals.eu/?aff=adminstore#aff=adminstore"
+sales_page: "https://silent-subliminals.eu/"
+language: "de"
+---
 # Silent Subliminals Gold: Der Hit für alle Nischen!
 
 > Product ID `42520` · Digistore24 productId `468911` · [HTML profile page](../../produkte/silent-subliminals-gold-der-hit-f-r-alle-nischen-42520.html)

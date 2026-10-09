@@ -1,3 +1,24 @@
+---
+product_id: "45110"
+digistore24_product_id: 327088
+title: "\"Ein Hund Namens Money\" von Bodo Schäfer"
+vendor: "BodoSchaefer"
+product_type: "Book (printed)"
+price: 7.29
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 45
+cancel_rate_pct: 4.02
+categories: ["Family & Children","Personal Development"]
+listed_since: "2020-05-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buch.bodoschaefer.de/ein-hund-namens-money/?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.bodoschaefer.de/ein-hund-namens-money/"
+language: "de"
+---
 # "Ein Hund Namens Money" von Bodo Schäfer
 
 > Product ID `45110` · Digistore24 productId `327088` · [HTML profile page](../../produkte/ein-hund-namens-money-von-bodo-sch-fer-45110.html)

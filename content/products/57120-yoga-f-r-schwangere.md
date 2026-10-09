@@ -1,3 +1,24 @@
+---
+product_id: "57120"
+digistore24_product_id: 705010
+title: "Yoga für Schwangere"
+vendor: "ersanfidan6767c470"
+product_type: "Downloads"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Sport"]
+listed_since: "2026-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://yoga-erfidn-schwanger.lovable.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://yoga-erfidn-schwanger.lovable.app/"
+language: "de"
+---
 # Yoga für Schwangere
 
 > Product ID `57120` · Digistore24 productId `705010` · [HTML profile page](../../produkte/yoga-f-r-schwangere-57120.html)

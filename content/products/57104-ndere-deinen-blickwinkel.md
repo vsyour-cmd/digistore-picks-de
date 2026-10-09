@@ -1,3 +1,24 @@
+---
+product_id: "57104"
+digistore24_product_id: 676585
+title: "ändere deinen Blickwinkel"
+vendor: "ReinerKatzinger"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.reinergeist.com/blickwinkel/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reinergeist.com/blickwinkel/"
+language: "de"
+---
 # ändere deinen Blickwinkel
 
 > Product ID `57104` · Digistore24 productId `676585` · [HTML profile page](../../produkte/ndere-deinen-blickwinkel-57104.html)

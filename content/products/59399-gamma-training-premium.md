@@ -1,3 +1,24 @@
+---
+product_id: "59399"
+digistore24_product_id: 733217
+title: "Gamma-Training Premium"
+vendor: "AnandaBernstein"
+product_type: "Online coaching"
+price: 2538
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 559.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Marketing Services"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lebenimsein-institut.at/gamma-training.html?aff=adminstore#aff=adminstore"
+sales_page: "https://lebenimsein-institut.at/gamma-training.html"
+language: "de"
+---
 # Gamma-Training Premium
 
 > Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../produkte/gamma-training-premium-59399.html)

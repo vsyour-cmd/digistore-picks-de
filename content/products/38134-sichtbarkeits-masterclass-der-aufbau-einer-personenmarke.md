@@ -1,3 +1,24 @@
+---
+product_id: "38134"
+digistore24_product_id: 314882
+title: "Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke"
+vendor: "mdinet"
+product_type: "Member area and video courses"
+price: 239.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 119.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-03-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/"
+language: "de"
+---
 # Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke
 
 > Product ID `38134` · Digistore24 productId `314882` · [HTML profile page](../../produkte/sichtbarkeits-masterclass-der-aufbau-einer-personenmarke-38134.html)

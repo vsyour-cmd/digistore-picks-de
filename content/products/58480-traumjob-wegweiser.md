@@ -1,3 +1,24 @@
+---
+product_id: "58480"
+digistore24_product_id: 723177
+title: "Traumjob Wegweiser"
+vendor: "fdamberger246a843"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/723177?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/723177"
+language: "de"
+---
 # Traumjob Wegweiser
 
 > Product ID `58480` · Digistore24 productId `723177` · [HTML profile page](../../produkte/traumjob-wegweiser-58480.html)

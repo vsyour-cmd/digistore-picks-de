@@ -1,3 +1,24 @@
+---
+product_id: "59238"
+digistore24_product_id: 732911
+title: "Etsy für Einsteiger: Eigene digitale Produkte entwickeln"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einfachmitmatze.de/etsy/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/etsy/"
+language: "de"
+---
 # Etsy für Einsteiger: Eigene digitale Produkte entwickeln
 
 > Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../produkte/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)

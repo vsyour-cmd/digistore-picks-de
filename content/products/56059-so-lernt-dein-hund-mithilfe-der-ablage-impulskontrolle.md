@@ -1,3 +1,24 @@
+---
+product_id: "56059"
+digistore24_product_id: 680042
+title: "So lernt dein Hund mithilfe der Ablage Impulskontrolle"
+vendor: "DJuentgen"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 15.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/680042?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/680042"
+language: "de"
+---
 # So lernt dein Hund mithilfe der Ablage Impulskontrolle
 
 > Product ID `56059` · Digistore24 productId `680042` · [HTML profile page](../../produkte/so-lernt-dein-hund-mithilfe-der-ablage-impulskontrolle-56059.html)

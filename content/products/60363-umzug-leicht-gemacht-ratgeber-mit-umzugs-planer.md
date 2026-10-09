@@ -1,3 +1,24 @@
+---
+product_id: "60363"
+digistore24_product_id: 741926
+title: "Umzug leicht gemacht – Ratgeber mit Umzugs-Planer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741926?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741926"
+language: "de"
+---
 # Umzug leicht gemacht – Ratgeber mit Umzugs-Planer
 
 > Product ID `60363` · Digistore24 productId `741926` · [HTML profile page](../../produkte/umzug-leicht-gemacht-ratgeber-mit-umzugs-planer-60363.html)

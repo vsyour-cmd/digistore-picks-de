@@ -1,3 +1,24 @@
+---
+product_id: "50021"
+digistore24_product_id: 659614
+title: "Die Gefährlichen 10"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 141.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.73
+cart_conversion_pct: 5
+cancel_rate_pct: 5.85
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.zielgesundheit.de/diegefaehrlichen10/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.zielgesundheit.de/diegefaehrlichen10/"
+language: "de"
+---
 # Die Gefährlichen 10
 
 > Product ID `50021` · Digistore24 productId `659614` · [HTML profile page](../../produkte/die-gef-hrlichen-10-50021.html)

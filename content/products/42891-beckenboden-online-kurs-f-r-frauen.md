@@ -1,3 +1,24 @@
+---
+product_id: "42891"
+digistore24_product_id: 478436
+title: "\"Beckenboden-ONLINE\" Kurs für Frauen"
+vendor: "SilkeTiede"
+product_type: "Member area and video courses"
+price: 235
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/"
+language: "de"
+---
 # "Beckenboden-ONLINE" Kurs für Frauen
 
 > Product ID `42891` · Digistore24 productId `478436` · [HTML profile page](../../produkte/beckenboden-online-kurs-f-r-frauen-42891.html)

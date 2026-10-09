@@ -1,3 +1,24 @@
+---
+product_id: "47046"
+digistore24_product_id: 250024
+title: "Neurostreams™ Lebensfreude"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/portfolio/depression-hilfe/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/portfolio/depression-hilfe/"
+language: "de"
+---
 # Neurostreams™ Lebensfreude
 
 > Product ID `47046` · Digistore24 productId `250024` · [HTML profile page](../../produkte/neurostreams-lebensfreude-47046.html)

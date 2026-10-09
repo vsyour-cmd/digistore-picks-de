@@ -1,3 +1,24 @@
+---
+product_id: "55212"
+digistore24_product_id: 616656
+title: "Tierschutz-Guide – inkl. Premium Plus Paket"
+vendor: "Tierheimsponsoring"
+product_type: "Downloads"
+price: 473.76
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 118.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/616656?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/616656"
+language: "de"
+---
 # Tierschutz-Guide – inkl. Premium Plus Paket
 
 > Product ID `55212` · Digistore24 productId `616656` · [HTML profile page](../../produkte/tierschutz-guide-inkl-premium-plus-paket-55212.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57270"
+digistore24_product_id: 704248
+title: "High Ticket Closing"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sales Training"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/high-ticket-closing?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/high-ticket-closing"
+language: "de"
+---
 # High Ticket Closing
 
 > Product ID `57270` · Digistore24 productId `704248` · [HTML profile page](../../produkte/high-ticket-closing-57270.html)

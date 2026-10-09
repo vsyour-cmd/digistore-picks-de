@@ -1,3 +1,24 @@
+---
+product_id: "46737"
+digistore24_product_id: 415293
+title: "Buch Entschlüssle deinen HERZcode"
+vendor: "OneHeart4All"
+product_type: "Book (printed)"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2021-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/"
+language: "de"
+---
 # Buch Entschlüssle deinen HERZcode
 
 > Product ID `46737` · Digistore24 productId `415293` · [HTML profile page](../../produkte/buch-entschl-ssle-deinen-herzcode-46737.html)

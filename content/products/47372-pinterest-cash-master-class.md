@@ -1,3 +1,24 @@
+---
+product_id: "47372"
+digistore24_product_id: 541165
+title: "Pinterest Cash - Master Class"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 109.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/pinterest-ki-master-class/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/pinterest-ki-master-class/"
+language: "de"
+---
 # Pinterest Cash - Master Class
 
 > Product ID `47372` · Digistore24 productId `541165` · [HTML profile page](../../produkte/pinterest-cash-master-class-47372.html)

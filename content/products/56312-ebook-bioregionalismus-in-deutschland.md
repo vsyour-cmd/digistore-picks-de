@@ -1,3 +1,24 @@
+---
+product_id: "56312"
+digistore24_product_id: 685697
+title: "Ebook - Bioregionalismus in Deutschland"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2026-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685697?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685697"
+language: "de"
+---
 # Ebook - Bioregionalismus in Deutschland
 
 > Product ID `56312` · Digistore24 productId `685697` · [HTML profile page](../../produkte/ebook-bioregionalismus-in-deutschland-56312.html)

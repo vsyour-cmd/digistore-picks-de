@@ -1,3 +1,24 @@
+---
+product_id: "56555"
+digistore24_product_id: 693363
+title: "Der 14-Tage-Rauchfrei-Rettungsplan – 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/der-14-tage-rauchfrei-rettungsplan?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/der-14-tage-rauchfrei-rettungsplan"
+language: "de"
+---
 # Der 14-Tage-Rauchfrei-Rettungsplan – 50 % Provision
 
 > Product ID `56555` · Digistore24 productId `693363` · [HTML profile page](../../produkte/der-14-tage-rauchfrei-rettungsplan-50-provision-56555.html)

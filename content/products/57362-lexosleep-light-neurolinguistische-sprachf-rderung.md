@@ -1,3 +1,24 @@
+---
+product_id: "57362"
+digistore24_product_id: 670975
+title: "Lexosleep light - Neurolinguistische Sprachförderung"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 67.12
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-light-2?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/lexosleep-light-2"
+language: "de"
+---
 # Lexosleep light - Neurolinguistische Sprachförderung
 
 > Product ID `57362` · Digistore24 productId `670975` · [HTML profile page](../../produkte/lexosleep-light-neurolinguistische-sprachf-rderung-57362.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50964"
+digistore24_product_id: 590371
+title: "Leben und Arbeiten in Kroatien"
+vendor: "medienversand2014"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2025-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://noebauerfxj.wixsite.com/leben-kroatien?aff=adminstore#aff=adminstore"
+sales_page: "https://noebauerfxj.wixsite.com/leben-kroatien"
+language: "de"
+---
 # Leben und Arbeiten in Kroatien
 
 > Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../produkte/leben-und-arbeiten-in-kroatien-50964.html)

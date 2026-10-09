@@ -1,3 +1,24 @@
+---
+product_id: "36460"
+digistore24_product_id: 385485
+title: "Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen"
+vendor: "Chris-B"
+product_type: "Member area and video courses"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 27.46
+cart_conversion_pct: 5
+cancel_rate_pct: 0.97
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2021-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://chrisboenig.com/training?aff=adminstore#aff=adminstore"
+sales_page: "https://chrisboenig.com/training"
+language: "de"
+---
 # Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen
 
 > Product ID `36460` · Digistore24 productId `385485` · [HTML profile page](../../produkte/affiliate-trainingslager-2-0-chris-boenig-einfach-verdienen-36460.html)

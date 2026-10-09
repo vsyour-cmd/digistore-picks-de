@@ -1,3 +1,24 @@
+---
+product_id: "7849"
+digistore24_product_id: 97531
+title: "Wünsch dir was - aber richtig!"
+vendor: "Quanten-Resonanz"
+product_type: "Downloads"
+price: 96.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.35
+cart_conversion_pct: 18
+cancel_rate_pct: 8.81
+categories: ["Personal Development"]
+listed_since: "2016-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://quantenresonanz.de/gesetz-der-anziehung-webinar/?aff=adminstore#aff=adminstore"
+sales_page: "https://quantenresonanz.de/gesetz-der-anziehung-webinar/"
+language: "de"
+---
 # Wünsch dir was - aber richtig!
 
 > Product ID `7849` · Digistore24 productId `97531` · [HTML profile page](../../produkte/w-nsch-dir-was-aber-richtig-7849.html)

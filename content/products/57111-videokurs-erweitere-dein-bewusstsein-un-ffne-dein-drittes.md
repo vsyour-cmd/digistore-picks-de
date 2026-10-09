@@ -1,3 +1,24 @@
+---
+product_id: "57111"
+digistore24_product_id: 628795
+title: "Videokurs: Erweitere dein BewusstSEIN un öffne dein drittes"
+vendor: "KKSmith"
+product_type: "Downloads"
+price: 11.28
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/628795?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/628795"
+language: "de"
+---
 # Videokurs: Erweitere dein BewusstSEIN un öffne dein drittes
 
 > Product ID `57111` · Digistore24 productId `628795` · [HTML profile page](../../produkte/videokurs-erweitere-dein-bewusstsein-un-ffne-dein-drittes-57111.html)

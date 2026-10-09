@@ -1,3 +1,24 @@
+---
+product_id: "39343"
+digistore24_product_id: 432689
+title: "Ernährungsplan mit den leckersten Rezepte für die Keto Diät"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 25.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2022-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/"
+language: "de"
+---
 # Ernährungsplan mit den leckersten Rezepte für die Keto Diät
 
 > Product ID `39343` · Digistore24 productId `432689` · [HTML profile page](../../produkte/ern-hrungsplan-mit-den-leckersten-rezepte-f-r-die-keto-di-t-39343.html)

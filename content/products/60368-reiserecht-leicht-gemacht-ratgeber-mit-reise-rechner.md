@@ -1,3 +1,24 @@
+---
+product_id: "60368"
+digistore24_product_id: 741974
+title: "Reiserecht leicht gemacht – Ratgeber mit Reise-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741974?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741974"
+language: "de"
+---
 # Reiserecht leicht gemacht – Ratgeber mit Reise-Rechner
 
 > Product ID `60368` · Digistore24 productId `741974` · [HTML profile page](../../produkte/reiserecht-leicht-gemacht-ratgeber-mit-reise-rechner-60368.html)

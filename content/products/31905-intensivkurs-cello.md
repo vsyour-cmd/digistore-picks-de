@@ -1,3 +1,24 @@
+---
+product_id: "31905"
+digistore24_product_id: 387861
+title: "Intensivkurs Cello"
+vendor: "FelixSeiffert"
+product_type: "Member area and video courses"
+price: 366.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 183.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://bogenbalance.de/intensivkurs-cello-affiliate/?aff=adminstore#aff=adminstore"
+sales_page: "https://bogenbalance.de/intensivkurs-cello-affiliate/"
+language: "de"
+---
 # Intensivkurs Cello
 
 > Product ID `31905` · Digistore24 productId `387861` · [HTML profile page](../../produkte/intensivkurs-cello-31905.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43024"
+digistore24_product_id: 488196
+title: "Chatbot Business - Online erfolgreich mit ChatGPT"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/chatgpt-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/chatgpt-fe/"
+language: "de"
+---
 # Chatbot Business - Online erfolgreich mit ChatGPT
 
 > Product ID `43024` · Digistore24 productId `488196` · [HTML profile page](../../produkte/chatbot-business-online-erfolgreich-mit-chatgpt-43024.html)

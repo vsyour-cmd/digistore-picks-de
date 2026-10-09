@@ -1,3 +1,24 @@
+---
+product_id: "36299"
+digistore24_product_id: 377512
+title: "1x1 Floristik - Vielfalt der Sträuße"
+vendor: "Elobana"
+product_type: "Member area and video courses"
+price: 371.57
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 45.08
+cart_conversion_pct: 9
+cancel_rate_pct: 0.95
+categories: ["Education"]
+listed_since: "2021-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/?aff=adminstore#aff=adminstore"
+sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/"
+language: "de"
+---
 # 1x1 Floristik - Vielfalt der Sträuße
 
 > Product ID `36299` · Digistore24 productId `377512` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-str-u-e-36299.html)

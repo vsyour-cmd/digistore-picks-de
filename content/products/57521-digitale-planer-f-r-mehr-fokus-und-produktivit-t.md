@@ -1,3 +1,24 @@
+---
+product_id: "57521"
+digistore24_product_id: 711127
+title: "Digitale Planer für mehr Fokus und Produktivität"
+vendor: "nick4nders"
+product_type: "Downloads"
+price: 11.28
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/711127?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711127"
+language: "de"
+---
 # Digitale Planer für mehr Fokus und Produktivität
 
 > Product ID `57521` · Digistore24 productId `711127` · [HTML profile page](../../produkte/digitale-planer-f-r-mehr-fokus-und-produktivit-t-57521.html)

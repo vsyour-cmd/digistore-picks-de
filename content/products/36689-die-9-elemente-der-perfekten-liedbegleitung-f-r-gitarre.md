@@ -1,3 +1,24 @@
+---
+product_id: "36689"
+digistore24_product_id: 369487
+title: "Die 9 Elemente der perfekten Liedbegleitung für Gitarre"
+vendor: "BlueGecko"
+product_type: "Member area and video courses"
+price: 81.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 40.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/?aff=adminstore#aff=adminstore"
+sales_page: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/"
+language: "de"
+---
 # Die 9 Elemente der perfekten Liedbegleitung für Gitarre
 
 > Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../produkte/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)

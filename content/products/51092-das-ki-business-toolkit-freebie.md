@@ -1,3 +1,24 @@
+---
+product_id: "51092"
+digistore24_product_id: 590210
+title: "Das KI Business Toolkit (Freebie)"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 50
+cancel_rate_pct: 12.1
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/kitoolkit?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/kitoolkit"
+language: "de"
+---
 # Das KI Business Toolkit (Freebie)
 
 > Product ID `51092` · Digistore24 productId `590210` · [HTML profile page](../../produkte/das-ki-business-toolkit-freebie-51092.html)

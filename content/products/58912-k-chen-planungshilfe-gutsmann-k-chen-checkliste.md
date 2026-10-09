@@ -1,3 +1,24 @@
+---
+product_id: "58912"
+digistore24_product_id: 721184
+title: "Küchen Planungshilfe | Gutsmann Küchen-Checkliste"
+vendor: "kuechegutallesgut"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Services"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.gutsmann-kuechen.de/kuechenstudio/checkliste?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gutsmann-kuechen.de/kuechenstudio/checkliste"
+language: "de"
+---
 # Küchen Planungshilfe | Gutsmann Küchen-Checkliste
 
 > Product ID `58912` · Digistore24 productId `721184` · [HTML profile page](../../produkte/k-chen-planungshilfe-gutsmann-k-chen-checkliste-58912.html)

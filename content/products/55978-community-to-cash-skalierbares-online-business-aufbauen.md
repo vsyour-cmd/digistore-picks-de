@@ -1,3 +1,24 @@
+---
+product_id: "55978"
+digistore24_product_id: 677483
+title: "Community to Cash - Skalierbares Online Business aufbauen"
+vendor: "tinztwins"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.towardsfinance.de/l/community-to-cash/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.towardsfinance.de/l/community-to-cash/"
+language: "de"
+---
 # Community to Cash - Skalierbares Online Business aufbauen
 
 > Product ID `55978` · Digistore24 productId `677483` · [HTML profile page](../../produkte/community-to-cash-skalierbares-online-business-aufbauen-55978.html)

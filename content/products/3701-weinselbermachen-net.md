@@ -1,3 +1,24 @@
+---
+product_id: "3701"
+digistore24_product_id: 26423
+title: "WeinSelberMachen.net"
+vendor: "serfanoo"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2014-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.weinselbermachen.net?aff=adminstore#aff=adminstore"
+sales_page: "http://www.weinselbermachen.net"
+language: "de"
+---
 # WeinSelberMachen.net
 
 > Product ID `3701` · Digistore24 productId `26423` · [HTML profile page](../../produkte/weinselbermachen-net-3701.html)

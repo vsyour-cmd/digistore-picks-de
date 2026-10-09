@@ -1,3 +1,24 @@
+---
+product_id: "55526"
+digistore24_product_id: 667194
+title: "7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung"
+vendor: "HEART-RESET"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Personal Development"]
+listed_since: "2026-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/667194?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667194"
+language: "de"
+---
 # 7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung
 
 > Product ID `55526` · Digistore24 productId `667194` · [HTML profile page](../../produkte/7-tage-heart-reset-pdf-emotional-detox-nach-trennung-55526.html)

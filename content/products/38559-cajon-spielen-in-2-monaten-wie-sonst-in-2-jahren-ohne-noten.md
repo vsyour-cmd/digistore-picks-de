@@ -1,3 +1,24 @@
+---
+product_id: "38559"
+digistore24_product_id: 328707
+title: "Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten"
+vendor: "drum-online"
+product_type: "Downloads"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.einfach-trommeln-lernen.de/drum-online-shop?aff=adminstore#aff=adminstore"
+sales_page: "https://www.einfach-trommeln-lernen.de/drum-online-shop"
+language: "de"
+---
 # Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten
 
 > Product ID `38559` · Digistore24 productId `328707` · [HTML profile page](../../produkte/cajon-spielen-in-2-monaten-wie-sonst-in-2-jahren-ohne-noten-38559.html)

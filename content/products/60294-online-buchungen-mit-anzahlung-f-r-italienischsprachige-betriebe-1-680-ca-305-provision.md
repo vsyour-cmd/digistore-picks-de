@@ -1,3 +1,24 @@
+---
+product_id: "60294"
+digistore24_product_id: 741561
+title: "Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision"
+vendor: "massarocalogero19976adc"
+product_type: "Remote service provided electronically"
+price: 1879.25
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 375.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.direzionex.com/offerta/prenotazioni-con-caparra?aff=adminstore#aff=adminstore"
+sales_page: "https://www.direzionex.com/offerta/prenotazioni-con-caparra"
+language: "de"
+---
 # Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision
 
 > Product ID `60294` · Digistore24 productId `741561` · [HTML profile page](../../produkte/online-buchungen-mit-anzahlung-f-r-italienischsprachige-betriebe-1-680-ca-305-provision-60294.html)

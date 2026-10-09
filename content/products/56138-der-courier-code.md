@@ -1,3 +1,24 @@
+---
+product_id: "56138"
+digistore24_product_id: 668676
+title: "Der Courier Code"
+vendor: "OnboardSafari"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Travel & Culture"]
+listed_since: "2026-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.onboardsafari.de/couriercode?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onboardsafari.de/couriercode"
+language: "de"
+---
 # Der Courier Code
 
 > Product ID `56138` · Digistore24 productId `668676` · [HTML profile page](../../produkte/der-courier-code-56138.html)

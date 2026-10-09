@@ -1,3 +1,24 @@
+---
+product_id: "57674"
+digistore24_product_id: 705597
+title: "KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen"
+vendor: "ellai-llc"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 31.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.ellai.de/ki-influencer-system?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ellai.de/ki-influencer-system"
+language: "de"
+---
 # KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen
 
 > Product ID `57674` · Digistore24 productId `705597` · [HTML profile page](../../produkte/ki-influencer-system-geld-machen-ohne-sich-zu-zeigen-57674.html)

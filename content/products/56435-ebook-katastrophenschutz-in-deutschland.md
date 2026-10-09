@@ -1,3 +1,24 @@
+---
+product_id: "56435"
+digistore24_product_id: 689595
+title: "Ebook - Katastrophenschutz in Deutschland"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Law & Justice","Politics & Economy"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689595?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689595"
+language: "de"
+---
 # Ebook - Katastrophenschutz in Deutschland
 
 > Product ID `56435` · Digistore24 productId `689595` · [HTML profile page](../../produkte/ebook-katastrophenschutz-in-deutschland-56435.html)

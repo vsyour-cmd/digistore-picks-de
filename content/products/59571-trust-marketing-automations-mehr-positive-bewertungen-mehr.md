@@ -1,3 +1,24 @@
+---
+product_id: "59571"
+digistore24_product_id: 727806
+title: "Trust Marketing Automations: Mehr positive Bewertungen. Mehr"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 548.11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 164.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/bewertungskampagne-trustmarketing-reputationmarketing-1sprache-digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/bewertungskampagne-trustmarketing-reputationmarketing-1sprache-digistore/"
+language: "de"
+---
 # Trust Marketing Automations: Mehr positive Bewertungen. Mehr
 
 > Product ID `59571` · Digistore24 productId `727806` · [HTML profile page](../../produkte/trust-marketing-automations-mehr-positive-bewertungen-mehr-59571.html)

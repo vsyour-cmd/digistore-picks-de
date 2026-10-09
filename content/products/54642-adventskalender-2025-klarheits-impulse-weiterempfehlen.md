@@ -1,3 +1,24 @@
+---
+product_id: "54642"
+digistore24_product_id: 648171
+title: "Adventskalender 2025 – Klarheits-Impulse weiterempfehlen"
+vendor: "DrSilviaSchaefer"
+product_type: "Remote service provided electronically"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 0
+cart_conversion_pct: 58
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silviaschaefer.com/adventskalender?aff=adminstore#aff=adminstore"
+sales_page: "https://silviaschaefer.com/adventskalender"
+language: "de"
+---
 # Adventskalender 2025 – Klarheits-Impulse weiterempfehlen
 
 > Product ID `54642` · Digistore24 productId `648171` · [HTML profile page](../../produkte/adventskalender-2025-klarheits-impulse-weiterempfehlen-54642.html)

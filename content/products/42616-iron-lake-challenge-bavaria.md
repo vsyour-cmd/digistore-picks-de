@@ -1,3 +1,24 @@
+---
+product_id: "42616"
+digistore24_product_id: 476026
+title: "Iron Lake Challenge Bavaria"
+vendor: "rockyourgoal"
+product_type: "Deliverable"
+price: 22.62
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.66
+cart_conversion_pct: 31
+cancel_rate_pct: 0.35
+categories: ["Health & Fitness"]
+listed_since: "2022-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rockyourgoal.de/iron-lake-challenge/bavaria?aff=adminstore#aff=adminstore"
+sales_page: "https://rockyourgoal.de/iron-lake-challenge/bavaria"
+language: "de"
+---
 # Iron Lake Challenge Bavaria
 
 > Product ID `42616` · Digistore24 productId `476026` · [HTML profile page](../../produkte/iron-lake-challenge-bavaria-42616.html)

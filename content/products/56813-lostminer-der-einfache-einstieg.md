@@ -1,3 +1,24 @@
+---
+product_id: "56813"
+digistore24_product_id: 683766
+title: "Lostminer – Der einfache Einstieg"
+vendor: "Kerem88"
+product_type: "Software"
+price: 56.39
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances","Marketing Services"]
+listed_since: "2026-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://keremcapone.systeme.io/?aff=adminstore#aff=adminstore"
+sales_page: "https://keremcapone.systeme.io/"
+language: "de"
+---
 # Lostminer – Der einfache Einstieg
 
 > Product ID `56813` · Digistore24 productId `683766` · [HTML profile page](../../produkte/lostminer-der-einfache-einstieg-56813.html)

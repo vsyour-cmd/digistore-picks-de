@@ -1,3 +1,24 @@
+---
+product_id: "54850"
+digistore24_product_id: 646166
+title: "Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision"
+vendor: "onlinemarketingwoman"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2025-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.online-marketing-woman.de/61-der-ultimative-geo-leitfaden-anmeldung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.online-marketing-woman.de/61-der-ultimative-geo-leitfaden-anmeldung"
+language: "de"
+---
 # Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision
 
 > Product ID `54850` · Digistore24 productId `646166` · [HTML profile page](../../produkte/bewirb-den-ultimativen-geo-leitfaden-erhalte-50-provision-54850.html)

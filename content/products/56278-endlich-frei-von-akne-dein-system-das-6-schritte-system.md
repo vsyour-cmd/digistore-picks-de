@@ -1,3 +1,24 @@
+---
+product_id: "56278"
+digistore24_product_id: 164663
+title: "Endlich frei von Akne – Dein System | Das 6-Schritte-System"
+vendor: "skinbalance"
+product_type: "Member area and video courses"
+price: 188.98
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 57.41
+cart_conversion_pct: 14
+cancel_rate_pct: 3.23
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2017-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.drlaemmerhirt.com/produkt-dein-system?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.drlaemmerhirt.com/produkt-dein-system"
+language: "de"
+---
 # Endlich frei von Akne – Dein System | Das 6-Schritte-System
 
 > Product ID `56278` · Digistore24 productId `164663` · [HTML profile page](../../produkte/endlich-frei-von-akne-dein-system-das-6-schritte-system-56278.html)

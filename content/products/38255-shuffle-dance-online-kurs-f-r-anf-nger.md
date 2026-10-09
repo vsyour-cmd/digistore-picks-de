@@ -1,3 +1,24 @@
+---
+product_id: "38255"
+digistore24_product_id: 413659
+title: "Shuffle Dance Online Kurs - Für Anfänger"
+vendor: "shuffledancemunich"
+product_type: "Member area and video courses"
+price: 47.84
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 12.08
+cart_conversion_pct: 14
+cancel_rate_pct: 2.89
+categories: ["Dancing & Music"]
+listed_since: "2021-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs"
+language: "de"
+---
 # Shuffle Dance Online Kurs - Für Anfänger
 
 > Product ID `38255` · Digistore24 productId `413659` · [HTML profile page](../../produkte/shuffle-dance-online-kurs-f-r-anf-nger-38255.html)

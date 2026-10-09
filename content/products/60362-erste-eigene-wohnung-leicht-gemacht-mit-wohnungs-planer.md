@@ -1,3 +1,24 @@
+---
+product_id: "60362"
+digistore24_product_id: 741916
+title: "Erste eigene Wohnung leicht gemacht – mit Wohnungs-Planer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741916?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741916"
+language: "de"
+---
 # Erste eigene Wohnung leicht gemacht – mit Wohnungs-Planer
 
 > Product ID `60362` · Digistore24 productId `741916` · [HTML profile page](../../produkte/erste-eigene-wohnung-leicht-gemacht-mit-wohnungs-planer-60362.html)

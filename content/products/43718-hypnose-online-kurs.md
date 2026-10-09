@@ -1,3 +1,24 @@
+---
+product_id: "43718"
+digistore24_product_id: 493770
+title: "Hypnose Online Kurs"
+vendor: "Happiness4Senses"
+product_type: "Member area and video courses"
+price: 253.8
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 63.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.happiness-for-senses.com/mentaltrainer-landingpage-v3/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.happiness-for-senses.com/mentaltrainer-landingpage-v3/"
+language: "de"
+---
 # Hypnose Online Kurs
 
 > Product ID `43718` · Digistore24 productId `493770` · [HTML profile page](../../produkte/hypnose-online-kurs-43718.html)

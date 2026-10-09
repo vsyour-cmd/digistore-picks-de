@@ -1,3 +1,24 @@
+---
+product_id: "51503"
+digistore24_product_id: 508997
+title: "Heimatgeber Academy"
+vendor: "AndreHerrmann007"
+product_type: "Member area and video courses"
+price: 165.55
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 49.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Real Estate"]
+listed_since: "2023-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://heimatgeber.academy/gelbgurt?aff=adminstore#aff=adminstore"
+sales_page: "https://heimatgeber.academy/gelbgurt"
+language: "de"
+---
 # Heimatgeber Academy
 
 > Product ID `51503` · Digistore24 productId `508997` · [HTML profile page](../../produkte/heimatgeber-academy-51503.html)

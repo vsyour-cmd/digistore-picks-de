@@ -1,3 +1,24 @@
+---
+product_id: "59612"
+digistore24_product_id: 736655
+title: "Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 563.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 225.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://einfachmitmatze.de/social-media-megapaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/social-media-megapaket/"
+language: "de"
+---
 # Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %
 
 > Product ID `59612` · Digistore24 productId `736655` · [HTML profile page](../../produkte/social-media-auf-autopilot-mit-matze-7-kurse-90-tage-plan-40-59612.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59806"
+digistore24_product_id: 736759
+title: "Social Media Beratung"
+vendor: "DigitalIncomeDE"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736759?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736759"
+language: "de"
+---
 # Social Media Beratung
 
 > Product ID `59806` · Digistore24 productId `736759` · [HTML profile page](../../produkte/social-media-beratung-59806.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36522"
+digistore24_product_id: 384784
+title: "AZAV Online-Akademie - Prozesse in der AZAV"
+vendor: "UrsulaWienken"
+product_type: "Webinar"
+price: 149.46
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 44.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Leadership & Management"]
+listed_since: "2021-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore"
+sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren"
+language: "de"
+---
 # AZAV Online-Akademie - Prozesse in der AZAV
 
 > Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)

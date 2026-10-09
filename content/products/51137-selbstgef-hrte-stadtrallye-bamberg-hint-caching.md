@@ -1,3 +1,24 @@
+---
+product_id: "51137"
+digistore24_product_id: 423371
+title: "Selbstgeführte Stadtrallye Bamberg | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 34.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.03
+cart_conversion_pct: 8
+cancel_rate_pct: 1.13
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-bamberg/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-bamberg/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Bamberg | Hint-Caching
 
 > Product ID `51137` · Digistore24 productId `423371` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-bamberg-hint-caching-51137.html)

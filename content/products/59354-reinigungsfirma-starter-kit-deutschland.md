@@ -1,3 +1,24 @@
+---
+product_id: "59354"
+digistore24_product_id: 733311
+title: "Reinigungsfirma Starter-Kit Deutschland"
+vendor: "susannepirinis9e0f"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/733311?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733311"
+language: "de"
+---
 # Reinigungsfirma Starter-Kit Deutschland
 
 > Product ID `59354` · Digistore24 productId `733311` · [HTML profile page](../../produkte/reinigungsfirma-starter-kit-deutschland-59354.html)

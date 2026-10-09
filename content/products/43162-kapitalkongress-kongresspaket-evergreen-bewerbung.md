@@ -1,3 +1,24 @@
+---
+product_id: "43162"
+digistore24_product_id: 663277
+title: "Kapitalkongress Kongresspaket (Evergreen Bewerbung)"
+vendor: "einfachgeldanlegen"
+product_type: "Member area and video courses"
+price: 47.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.66
+cart_conversion_pct: 11
+cancel_rate_pct: 0.51
+categories: ["Business & Investment"]
+listed_since: "2026-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY?aff=adminstore"
+sales_page: "https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY"
+language: "de"
+---
 # Kapitalkongress Kongresspaket (Evergreen Bewerbung)
 
 > Product ID `43162` · Digistore24 productId `663277` · [HTML profile page](../../produkte/kapitalkongress-kongresspaket-evergreen-bewerbung-43162.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43530"
+digistore24_product_id: 474623
+title: "ALBUM CLASS für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 16.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/album-class/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/album-class/"
+language: "de"
+---
 # ALBUM CLASS für Fotografen
 
 > Product ID `43530` · Digistore24 productId `474623` · [HTML profile page](../../produkte/album-class-f-r-fotografen-43530.html)

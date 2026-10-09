@@ -1,3 +1,24 @@
+---
+product_id: "59311"
+digistore24_product_id: 734331
+title: "32 Mut- und Affirmationskarten für Kinder"
+vendor: "entdeckerei"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734331?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734331"
+language: "de"
+---
 # 32 Mut- und Affirmationskarten für Kinder
 
 > Product ID `59311` · Digistore24 productId `734331` · [HTML profile page](../../produkte/32-mut-und-affirmationskarten-f-r-kinder-59311.html)

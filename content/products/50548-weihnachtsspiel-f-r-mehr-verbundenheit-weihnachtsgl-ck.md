@@ -1,3 +1,24 @@
+---
+product_id: "50548"
+digistore24_product_id: 583074
+title: "Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück"
+vendor: "wiegehtliebe-de"
+product_type: "Downloads"
+price: 4.61
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
+listed_since: "2024-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/583074/adminstore"
+sales_page: "https://www.digistore24.com/product/583074?aff=[AFFILIATE]"
+language: "de"
+---
 # Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück
 
 > Product ID `50548` · Digistore24 productId `583074` · [HTML profile page](../../produkte/weihnachtsspiel-f-r-mehr-verbundenheit-weihnachtsgl-ck-50548.html)

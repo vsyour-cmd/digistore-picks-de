@@ -1,3 +1,24 @@
+---
+product_id: "54741"
+digistore24_product_id: 650523
+title: "Ultra bussines Pack"
+vendor: "Adem21"
+product_type: "Member area and video courses"
+price: 10.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services"]
+listed_since: "2025-11-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/650523?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/650523"
+language: "de"
+---
 # Ultra bussines Pack
 
 > Product ID `54741` · Digistore24 productId `650523` · [HTML profile page](../../produkte/ultra-bussines-pack-54741.html)

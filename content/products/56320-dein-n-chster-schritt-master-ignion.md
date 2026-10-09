@@ -1,3 +1,24 @@
+---
+product_id: "56320"
+digistore24_product_id: 681091
+title: "DEIN NÄCHSTER SCHRITT - MASTER IGNION"
+vendor: "JEMORIS"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jemoris.com/Vorverkaufsseite_E-Book.html?aff=adminstore#aff=adminstore"
+sales_page: "https://jemoris.com/Vorverkaufsseite_E-Book.html"
+language: "de"
+---
 # DEIN NÄCHSTER SCHRITT - MASTER IGNION
 
 > Product ID `56320` · Digistore24 productId `681091` · [HTML profile page](../../produkte/dein-n-chster-schritt-master-ignion-56320.html)

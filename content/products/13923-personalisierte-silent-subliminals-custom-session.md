@@ -1,3 +1,24 @@
+---
+product_id: "13923"
+digistore24_product_id: 295162
+title: "Personalisierte Silent Subliminals (Custom Session)"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.71
+cart_conversion_pct: 19
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Services"]
+listed_since: "2019-11-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/"
+language: "de"
+---
 # Personalisierte Silent Subliminals (Custom Session)
 
 > Product ID `13923` · Digistore24 productId `295162` · [HTML profile page](../../produkte/personalisierte-silent-subliminals-custom-session-13923.html)

@@ -1,3 +1,24 @@
+---
+product_id: "22777"
+digistore24_product_id: 199127
+title: "Das Bikini Bootcamp: Paket I"
+vendor: "bodyLIFE"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.das-bikini-bootcamp.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.das-bikini-bootcamp.de/"
+language: "de"
+---
 # Das Bikini Bootcamp: Paket I
 
 > Product ID `22777` · Digistore24 productId `199127` · [HTML profile page](../../produkte/das-bikini-bootcamp-paket-i-22777.html)

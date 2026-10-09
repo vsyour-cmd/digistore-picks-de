@@ -1,3 +1,24 @@
+---
+product_id: "1253"
+digistore24_product_id: 14285
+title: "Zielgruppenanalyse"
+vendor: "holgertiegel"
+product_type: "E-books"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 15.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2013-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.werbetexterservice.de/produkte/zielgruppenanalyse/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.werbetexterservice.de/produkte/zielgruppenanalyse/"
+language: "de"
+---
 # Zielgruppenanalyse
 
 > Product ID `1253` · Digistore24 productId `14285` · [HTML profile page](../../produkte/zielgruppenanalyse-1253.html)

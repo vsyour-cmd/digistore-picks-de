@@ -1,3 +1,24 @@
+---
+product_id: "57513"
+digistore24_product_id: 711207
+title: "75% Prov! Reality Architecture: Neuro-Manifestation E-Book"
+vendor: "Nico1999"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 18.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Finances","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://de.highersync.com/reality-architecture.html?aff=adminstore#aff=adminstore"
+sales_page: "https://de.highersync.com/reality-architecture.html"
+language: "de"
+---
 # 75% Prov! Reality Architecture: Neuro-Manifestation E-Book
 
 > Product ID `57513` · Digistore24 productId `711207` · [HTML profile page](../../produkte/75-prov-reality-architecture-neuro-manifestation-e-book-57513.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54790"
+digistore24_product_id: 651637
+title: "Google Ads Paket – Profitable Kampagnen einfach umsetzen"
+vendor: "GrowthMarket24"
+product_type: "E-books"
+price: 99.32
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 39.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Sales Training"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/651637?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/651637"
+language: "de"
+---
 # Google Ads Paket – Profitable Kampagnen einfach umsetzen
 
 > Product ID `54790` · Digistore24 productId `651637` · [HTML profile page](../../produkte/google-ads-paket-profitable-kampagnen-einfach-umsetzen-54790.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56870"
+digistore24_product_id: 699152
+title: "ETERNUM Instagram Growth Workbook – Nischenprodukt für Creat"
+vendor: "megareichtum"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 20.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2026-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://eternumtech.eu/system/einzelsysteme?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/system/einzelsysteme"
+language: "de"
+---
 # ETERNUM Instagram Growth Workbook – Nischenprodukt für Creat
 
 > Product ID `56870` · Digistore24 productId `699152` · [HTML profile page](../../produkte/eternum-instagram-growth-workbook-nischenprodukt-f-r-creat-56870.html)

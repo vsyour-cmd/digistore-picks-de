@@ -1,3 +1,24 @@
+---
+product_id: "56279"
+digistore24_product_id: 684848
+title: "Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me"
+vendor: "MagicPotter"
+product_type: "Downloads"
+price: 15.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Marketing Services"]
+listed_since: "2026-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684848?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684848"
+language: "de"
+---
 # Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me
 
 > Product ID `56279` · Digistore24 productId `684848` · [HTML profile page](../../produkte/der-gro-e-garten-malzauber-67-tier-abenteuer-f-r-kinder-me-56279.html)

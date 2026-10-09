@@ -1,3 +1,24 @@
+---
+product_id: "33936"
+digistore24_product_id: 336311
+title: "Pin dich Reich - Geld verdienen mit Pinterest"
+vendor: "AnnikaRojasGonzalez"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/336311?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/336311"
+language: "de"
+---
 # Pin dich Reich - Geld verdienen mit Pinterest
 
 > Product ID `33936` · Digistore24 productId `336311` · [HTML profile page](../../produkte/pin-dich-reich-geld-verdienen-mit-pinterest-33936.html)

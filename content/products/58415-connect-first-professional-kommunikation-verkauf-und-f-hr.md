@@ -1,3 +1,24 @@
+---
+product_id: "58415"
+digistore24_product_id: 723002
+title: "CONNECT FIRST Professional – Kommunikation, Verkauf und Führ"
+vendor: "fischerundreichfc38"
+product_type: "Member area and video courses"
+price: 984.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 344.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://connect-first-professional.akeshawarz22.chatgpt.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://connect-first-professional.akeshawarz22.chatgpt.site/"
+language: "de"
+---
 # CONNECT FIRST Professional – Kommunikation, Verkauf und Führ
 
 > Product ID `58415` · Digistore24 productId `723002` · [HTML profile page](../../produkte/connect-first-professional-kommunikation-verkauf-und-f-hr-58415.html)

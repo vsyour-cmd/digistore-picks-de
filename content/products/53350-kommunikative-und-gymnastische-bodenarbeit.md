@@ -1,3 +1,24 @@
+---
+product_id: "53350"
+digistore24_product_id: 521851
+title: "Kommunikative und gymnastische Bodenarbeit"
+vendor: "Horse-Balance"
+product_type: "Member area and video courses"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Animals & Pets"]
+listed_since: "2023-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/521851?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/521851"
+language: "de"
+---
 # Kommunikative und gymnastische Bodenarbeit
 
 > Product ID `53350` · Digistore24 productId `521851` · [HTML profile page](../../produkte/kommunikative-und-gymnastische-bodenarbeit-53350.html)

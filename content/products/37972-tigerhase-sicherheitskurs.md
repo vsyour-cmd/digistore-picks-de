@@ -1,3 +1,24 @@
+---
+product_id: "37972"
+digistore24_product_id: 406643
+title: "Tigerhase Sicherheitskurs"
+vendor: "tigerhase"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2021-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://werde.tigerhase.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://werde.tigerhase.com/"
+language: "de"
+---
 # Tigerhase Sicherheitskurs
 
 > Product ID `37972` · Digistore24 productId `406643` · [HTML profile page](../../produkte/tigerhase-sicherheitskurs-37972.html)

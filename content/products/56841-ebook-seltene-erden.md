@@ -1,3 +1,24 @@
+---
+product_id: "56841"
+digistore24_product_id: 699699
+title: "Ebook - Seltene Erden"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Politics & Economy"]
+listed_since: "2026-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/699699?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/699699"
+language: "de"
+---
 # Ebook - Seltene Erden
 
 > Product ID `56841` · Digistore24 productId `699699` · [HTML profile page](../../produkte/ebook-seltene-erden-56841.html)

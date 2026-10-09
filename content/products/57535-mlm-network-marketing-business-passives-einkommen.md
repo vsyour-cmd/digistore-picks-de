@@ -1,3 +1,24 @@
+---
+product_id: "57535"
+digistore24_product_id: 711804
+title: "MLM/Network-Marketing Business - Passives Einkommen"
+vendor: "FreedomBusinessSH3"
+product_type: "Member area and video courses"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.freedom-network-business.de/mlm-formel?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freedom-network-business.de/mlm-formel"
+language: "de"
+---
 # MLM/Network-Marketing Business - Passives Einkommen
 
 > Product ID `57535` · Digistore24 productId `711804` · [HTML profile page](../../produkte/mlm-network-marketing-business-passives-einkommen-57535.html)

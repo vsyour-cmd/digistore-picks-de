@@ -1,3 +1,24 @@
+---
+product_id: "48321"
+digistore24_product_id: 543980
+title: "High Frequency Kongress 3 - VIP Paket und Bundle"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 121.93
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/543980?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/543980"
+language: "de"
+---
 # High Frequency Kongress 3 - VIP Paket und Bundle
 
 > Product ID `48321` · Digistore24 productId `543980` · [HTML profile page](../../produkte/high-frequency-kongress-3-vip-paket-und-bundle-48321.html)

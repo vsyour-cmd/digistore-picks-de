@@ -1,3 +1,24 @@
+---
+product_id: "58732"
+digistore24_product_id: 717263
+title: "AUSGESETZT"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 11.23
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/ausgesetzt.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/ausgesetzt.php"
+language: "de"
+---
 # AUSGESETZT
 
 > Product ID `58732` · Digistore24 productId `717263` · [HTML profile page](../../produkte/ausgesetzt-58732.html)

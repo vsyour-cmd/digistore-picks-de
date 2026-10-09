@@ -1,3 +1,24 @@
+---
+product_id: "55102"
+digistore24_product_id: 330482
+title: "70 Aloe Vera Cocktailrezepte"
+vendor: "chef63"
+product_type: "E-books"
+price: 5.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 3.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://trafficstrategien.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://trafficstrategien.funnelcockpit.com/"
+language: "de"
+---
 # 70 Aloe Vera Cocktailrezepte
 
 > Product ID `55102` · Digistore24 productId `330482` · [HTML profile page](../../produkte/70-aloe-vera-cocktailrezepte-55102.html)

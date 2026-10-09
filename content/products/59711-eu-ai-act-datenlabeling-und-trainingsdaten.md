@@ -1,3 +1,24 @@
+---
+product_id: "59711"
+digistore24_product_id: 652461
+title: "EU AI Act – Datenlabeling und Trainingsdaten"
+vendor: "MindshiftDigitalStudio"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/652461?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/652461"
+language: "de"
+---
 # EU AI Act – Datenlabeling und Trainingsdaten
 
 > Product ID `59711` · Digistore24 productId `652461` · [HTML profile page](../../produkte/eu-ai-act-datenlabeling-und-trainingsdaten-59711.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57685"
+digistore24_product_id: 712902
+title: "Das Partnerprogramm der OGS. 50% Provision auf neue Member"
+vendor: "Onlinegeldschule"
+product_type: "Member area and video courses"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Social Media"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinegeldschule.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinegeldschule.com/"
+language: "de"
+---
 # Das Partnerprogramm der OGS. 50% Provision auf neue Member
 
 > Product ID `57685` · Digistore24 productId `712902` · [HTML profile page](../../produkte/das-partnerprogramm-der-ogs-50-provision-auf-neue-member-57685.html)

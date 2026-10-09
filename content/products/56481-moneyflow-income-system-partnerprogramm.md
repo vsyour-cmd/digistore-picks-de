@@ -1,3 +1,24 @@
+---
+product_id: "56481"
+digistore24_product_id: 620218
+title: "Moneyflow Income System | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 473.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 257.48
+cart_conversion_pct: 5
+cancel_rate_pct: 2.83
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/620218/adminstore"
+sales_page: "https://profitbuddies.de/mis-anmeldung?utm_source=aff&utm_content=[AFFILIATE]"
+language: "de"
+---
 # Moneyflow Income System | Partnerprogramm
 
 > Product ID `56481` · Digistore24 productId `620218` · [HTML profile page](../../produkte/moneyflow-income-system-partnerprogramm-56481.html)

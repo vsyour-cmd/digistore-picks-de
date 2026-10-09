@@ -1,3 +1,24 @@
+---
+product_id: "39447"
+digistore24_product_id: 234406
+title: "E-Book: Auswander Lexikon"
+vendor: "Staatenlos"
+product_type: "E-books"
+price: 15.05
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 1.94
+cart_conversion_pct: 29
+cancel_rate_pct: 1.38
+categories: ["Travel & Culture"]
+listed_since: "2018-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/"
+language: "de"
+---
 # E-Book: Auswander Lexikon
 
 > Product ID `39447` · Digistore24 productId `234406` · [HTML profile page](../../produkte/e-book-auswander-lexikon-39447.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47501"
+digistore24_product_id: 462309
+title: "Deeskalation und Selbstverteidigung - Texte, Audios, Videos"
+vendor: "VolkerHeckt"
+product_type: "Member area and video courses"
+price: 28.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Survival"]
+listed_since: "2022-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/462309?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/462309"
+language: "de"
+---
 # Deeskalation und Selbstverteidigung - Texte, Audios, Videos
 
 > Product ID `47501` · Digistore24 productId `462309` · [HTML profile page](../../produkte/deeskalation-und-selbstverteidigung-texte-audios-videos-47501.html)

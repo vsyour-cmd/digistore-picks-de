@@ -1,3 +1,24 @@
+---
+product_id: "48616"
+digistore24_product_id: 518862
+title: "Chakren-Energetik - Lichtvoll in die Zukunft"
+vendor: "Magierschule"
+product_type: "Member area and video courses"
+price: 258.5
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 85.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://magierschule.de/7Chakren?aff=adminstore#aff=adminstore"
+sales_page: "https://magierschule.de/7Chakren"
+language: "de"
+---
 # Chakren-Energetik - Lichtvoll in die Zukunft
 
 > Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../produkte/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)

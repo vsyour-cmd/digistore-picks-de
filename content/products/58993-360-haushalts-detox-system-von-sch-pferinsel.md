@@ -1,3 +1,24 @@
+---
+product_id: "58993"
+digistore24_product_id: 724764
+title: "360° Haushalts-Detox-System (von Schöpferinsel)"
+vendor: "liebe-leben"
+product_type: "E-books"
+price: 101.4
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 40.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://schoepferinsel.com/360-haushalts-detox-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://schoepferinsel.com/360-haushalts-detox-system/"
+language: "de"
+---
 # 360° Haushalts-Detox-System (von Schöpferinsel)
 
 > Product ID `58993` · Digistore24 productId `724764` · [HTML profile page](../../produkte/360-haushalts-detox-system-von-sch-pferinsel-58993.html)

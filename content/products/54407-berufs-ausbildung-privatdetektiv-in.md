@@ -1,3 +1,24 @@
+---
+product_id: "54407"
+digistore24_product_id: 632952
+title: "Berufs-Ausbildung Privatdetektiv/in"
+vendor: "LBBBildungsmanagement"
+product_type: "Member area and video courses"
+price: 488.79
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 97.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026"
+language: "de"
+---
 # Berufs-Ausbildung Privatdetektiv/in
 
 > Product ID `54407` · Digistore24 productId `632952` · [HTML profile page](../../produkte/berufs-ausbildung-privatdetektiv-in-54407.html)

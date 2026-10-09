@@ -1,3 +1,24 @@
+---
+product_id: "56027"
+digistore24_product_id: 650491
+title: "Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl"
+vendor: "Calls-und-Chats-26"
+product_type: "Member area and video courses"
+price: 1447.6
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 579.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-11-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/"
+language: "de"
+---
 # Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl
 
 > Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../produkte/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)

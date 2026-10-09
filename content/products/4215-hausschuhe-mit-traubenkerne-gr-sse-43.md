@@ -1,3 +1,24 @@
+---
+product_id: "4215"
+digistore24_product_id: 15355
+title: "Hausschuhe mit Traubenkerne Grösse: 43"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 3.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/"
+language: "de"
+---
 # Hausschuhe mit Traubenkerne Grösse: 43
 
 > Product ID `4215` · Digistore24 productId `15355` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-43-4215.html)

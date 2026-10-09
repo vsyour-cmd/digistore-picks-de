@@ -1,3 +1,24 @@
+---
+product_id: "60158"
+digistore24_product_id: 741338
+title: "RÜCKBILDUNG NACH DER GEBURT"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741338?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741338"
+language: "de"
+---
 # RÜCKBILDUNG NACH DER GEBURT
 
 > Product ID `60158` · Digistore24 productId `741338` · [HTML profile page](../../produkte/r-ckbildung-nach-der-geburt-60158.html)

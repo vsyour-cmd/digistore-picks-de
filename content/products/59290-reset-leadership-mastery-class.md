@@ -1,3 +1,24 @@
+---
+product_id: "59290"
+digistore24_product_id: 733557
+title: "reset Leadership Mastery Class"
+vendor: "sperber9a48"
+product_type: "Member area and video courses"
+price: 1316
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 263.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Leadership & Management"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733557?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733557"
+language: "de"
+---
 # reset Leadership Mastery Class
 
 > Product ID `59290` · Digistore24 productId `733557` · [HTML profile page](../../produkte/reset-leadership-mastery-class-59290.html)

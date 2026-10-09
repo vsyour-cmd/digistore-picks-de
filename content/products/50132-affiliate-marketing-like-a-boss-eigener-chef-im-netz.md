@@ -1,3 +1,24 @@
+---
+product_id: "50132"
+digistore24_product_id: 576515
+title: "Affiliate-Marketing like a BOSS - Eigener Chef im Netz"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Affiliatemarketing-Boss?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Affiliatemarketing-Boss"
+language: "de"
+---
 # Affiliate-Marketing like a BOSS - Eigener Chef im Netz
 
 > Product ID `50132` · Digistore24 productId `576515` · [HTML profile page](../../produkte/affiliate-marketing-like-a-boss-eigener-chef-im-netz-50132.html)

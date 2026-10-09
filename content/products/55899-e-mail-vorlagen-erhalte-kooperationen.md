@@ -1,3 +1,24 @@
+---
+product_id: "55899"
+digistore24_product_id: 658179
+title: "E-Mail Vorlagen - Erhalte Kooperationen!"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658179?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658179"
+language: "de"
+---
 # E-Mail Vorlagen - Erhalte Kooperationen!
 
 > Product ID `55899` · Digistore24 productId `658179` · [HTML profile page](../../produkte/e-mail-vorlagen-erhalte-kooperationen-55899.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57118"
+digistore24_product_id: 701298
+title: "Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)"
+vendor: "One-Balance-Media"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.one-balance-media.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.one-balance-media.de"
+language: "de"
+---
 # Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)
 
 > Product ID `57118` · Digistore24 productId `701298` · [HTML profile page](../../produkte/abnehmen-f-r-m-nner-ab-40-keto-reset-system-50-prov-57118.html)

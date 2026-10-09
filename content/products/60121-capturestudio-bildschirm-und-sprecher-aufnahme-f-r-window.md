@@ -1,3 +1,24 @@
+---
+product_id: "60121"
+digistore24_product_id: 740055
+title: "CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window"
+vendor: "inspiredsoftware"
+product_type: "Software"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 21.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.inspiredsoftware.de/go/capturestudio?aff=adminstore#aff=adminstore"
+sales_page: "https://www.inspiredsoftware.de/go/capturestudio"
+language: "de"
+---
 # CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window
 
 > Product ID `60121` · Digistore24 productId `740055` · [HTML profile page](../../produkte/capturestudio-bildschirm-und-sprecher-aufnahme-f-r-window-60121.html)

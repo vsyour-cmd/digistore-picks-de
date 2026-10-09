@@ -1,3 +1,24 @@
+---
+product_id: "34313"
+digistore24_product_id: 347602
+title: "Dein Weg zu mehr finanziellem Spielraum"
+vendor: "regson"
+product_type: "Book (printed)"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/347602/adminstore"
+sales_page: "https://www.gelderlebnisse.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Dein Weg zu mehr finanziellem Spielraum
 
 > Product ID `34313` · Digistore24 productId `347602` · [HTML profile page](../../produkte/dein-weg-zu-mehr-finanziellem-spielraum-34313.html)

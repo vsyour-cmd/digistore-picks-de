@@ -1,3 +1,24 @@
+---
+product_id: "26502"
+digistore24_product_id: 236650
+title: "Ready for Takeoff - Das Hörbuch für entspanntes Fliegen"
+vendor: "cockpitbuddy"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2018-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.cockpitbuddy.com/takeoff?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cockpitbuddy.com/takeoff"
+language: "de"
+---
 # Ready for Takeoff - Das Hörbuch für entspanntes Fliegen
 
 > Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../produkte/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)

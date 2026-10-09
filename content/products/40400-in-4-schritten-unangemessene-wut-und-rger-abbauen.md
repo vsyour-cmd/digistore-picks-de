@@ -1,3 +1,24 @@
+---
+product_id: "40400"
+digistore24_product_id: 436049
+title: "In 4 Schritten unangemessene Wut und Ärger abbauen"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/225-0-4-Schritte-gegen-Wut-und-Aerger.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/225-0-4-Schritte-gegen-Wut-und-Aerger.html"
+language: "de"
+---
 # In 4 Schritten unangemessene Wut und Ärger abbauen
 
 > Product ID `40400` · Digistore24 productId `436049` · [HTML profile page](../../produkte/in-4-schritten-unangemessene-wut-und-rger-abbauen-40400.html)

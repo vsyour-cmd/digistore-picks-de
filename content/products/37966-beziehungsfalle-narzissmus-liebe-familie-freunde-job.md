@@ -1,3 +1,24 @@
+---
+product_id: "37966"
+digistore24_product_id: 409756
+title: "Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job"
+vendor: "Loverie"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/"
+language: "de"
+---
 # Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job
 
 > Product ID `37966` · Digistore24 productId `409756` · [HTML profile page](../../produkte/beziehungsfalle-narzissmus-liebe-familie-freunde-job-37966.html)

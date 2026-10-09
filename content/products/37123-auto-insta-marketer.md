@@ -1,3 +1,24 @@
+---
+product_id: "37123"
+digistore24_product_id: 268789
+title: "Auto-Insta-Marketer"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 307.38
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 76.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/auto-insta-marketer/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/auto-insta-marketer/"
+language: "de"
+---
 # Auto-Insta-Marketer
 
 > Product ID `37123` · Digistore24 productId `268789` · [HTML profile page](../../produkte/auto-insta-marketer-37123.html)

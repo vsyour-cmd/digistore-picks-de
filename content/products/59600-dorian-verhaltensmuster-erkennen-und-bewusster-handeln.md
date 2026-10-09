@@ -1,3 +1,24 @@
+---
+product_id: "59600"
+digistore24_product_id: 731286
+title: "Dorian – Verhaltensmuster erkennen und bewusster handeln"
+vendor: "Doriansway"
+product_type: "Online coaching"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://doriansway.app/options/?aff=adminstore#aff=adminstore"
+sales_page: "https://doriansway.app/options/"
+language: "de"
+---
 # Dorian – Verhaltensmuster erkennen und bewusster handeln
 
 > Product ID `59600` · Digistore24 productId `731286` · [HTML profile page](../../produkte/dorian-verhaltensmuster-erkennen-und-bewusster-handeln-59600.html)

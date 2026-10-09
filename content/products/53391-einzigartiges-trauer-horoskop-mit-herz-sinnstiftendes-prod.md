@@ -1,3 +1,24 @@
+---
+product_id: "53391"
+digistore24_product_id: 627656
+title: "Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod"
+vendor: "danachblog"
+product_type: "Downloads"
+price: 61.36
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 15.79
+cart_conversion_pct: 11
+cancel_rate_pct: 4.09
+categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://seelenwegweiser-astro.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://seelenwegweiser-astro.com/"
+language: "de"
+---
 # Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod
 
 > Product ID `53391` · Digistore24 productId `627656` · [HTML profile page](../../produkte/einzigartiges-trauer-horoskop-mit-herz-sinnstiftendes-prod-53391.html)

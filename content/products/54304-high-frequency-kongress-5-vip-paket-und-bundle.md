@@ -1,3 +1,24 @@
+---
+product_id: "54304"
+digistore24_product_id: 631042
+title: "High Frequency Kongress 5 - VIP Paket und Bundle"
+vendor: "kongresshero"
+product_type: "Member area and video courses"
+price: 52.05
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 23.96
+cart_conversion_pct: 17
+cancel_rate_pct: 3.68
+categories: ["Profession & Job","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/631042?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/631042"
+language: "de"
+---
 # High Frequency Kongress 5 - VIP Paket und Bundle
 
 > Product ID `54304` · Digistore24 productId `631042` · [HTML profile page](../../produkte/high-frequency-kongress-5-vip-paket-und-bundle-54304.html)

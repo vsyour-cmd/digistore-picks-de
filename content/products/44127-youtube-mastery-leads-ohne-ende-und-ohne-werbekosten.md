@@ -1,3 +1,24 @@
+---
+product_id: "44127"
+digistore24_product_id: 482119
+title: "YouTube Mastery - Leads ohne Ende und ohne Werbekosten"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 261.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 186.56
+cart_conversion_pct: 3
+cancel_rate_pct: 1.76
+categories: ["Profession & Job"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/ytvkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/ytvkslp/"
+language: "de"
+---
 # YouTube Mastery - Leads ohne Ende und ohne Werbekosten
 
 > Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../produkte/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)

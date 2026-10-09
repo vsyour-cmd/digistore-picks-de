@@ -1,3 +1,24 @@
+---
+product_id: "60247"
+digistore24_product_id: 740967
+title: "GewerkFlow – 50 % Affiliate-Provision zum Start"
+vendor: "Gewerkflow"
+product_type: "Software"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://Gewerkflow.com?aff=adminstore#aff=adminstore"
+sales_page: "http://Gewerkflow.com"
+language: "de"
+---
 # GewerkFlow – 50 % Affiliate-Provision zum Start
 
 > Product ID `60247` · Digistore24 productId `740967` · [HTML profile page](../../produkte/gewerkflow-50-affiliate-provision-zum-start-60247.html)

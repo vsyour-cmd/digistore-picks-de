@@ -1,3 +1,24 @@
+---
+product_id: "54379"
+digistore24_product_id: 641151
+title: "Planungs-Bundle – Strukturiere dein KI-Universum in Minuten"
+vendor: "Vires-Systems"
+product_type: "Downloads"
+price: 63.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 12.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/641151?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/641151"
+language: "de"
+---
 # Planungs-Bundle – Strukturiere dein KI-Universum in Minuten
 
 > Product ID `54379` · Digistore24 productId `641151` · [HTML profile page](../../produkte/planungs-bundle-strukturiere-dein-ki-universum-in-minuten-54379.html)

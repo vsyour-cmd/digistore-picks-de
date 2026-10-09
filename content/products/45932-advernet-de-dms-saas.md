@@ -1,3 +1,24 @@
+---
+product_id: "45932"
+digistore24_product_id: 544850
+title: "Advernet.de DMS SaaS"
+vendor: "advernetde"
+product_type: "Remote service provided electronically"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Software"]
+listed_since: "2024-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.advernet.de/dms-saas.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advernet.de/dms-saas.html"
+language: "de"
+---
 # Advernet.de DMS SaaS
 
 > Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../produkte/advernet-de-dms-saas-45932.html)

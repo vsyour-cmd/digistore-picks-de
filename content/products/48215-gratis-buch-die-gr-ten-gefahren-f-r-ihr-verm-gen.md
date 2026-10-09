@@ -1,3 +1,24 @@
+---
+product_id: "48215"
+digistore24_product_id: 568935
+title: "Gratis-Buch: \"Die größten Gefahren für Ihr Vermögen\""
+vendor: "deutschesedelsteinhaus"
+product_type: "Book (printed)"
+price: 4.22
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 2.83
+cart_conversion_pct: 36
+cancel_rate_pct: 1.86
+categories: ["Business & Investment","Education"]
+listed_since: "2024-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://markusdan.com/neu/buch/spezialangebot/?aff=adminstore#aff=adminstore"
+sales_page: "https://markusdan.com/neu/buch/spezialangebot/"
+language: "de"
+---
 # Gratis-Buch: "Die größten Gefahren für Ihr Vermögen"
 
 > Product ID `48215` · Digistore24 productId `568935` · [HTML profile page](../../produkte/gratis-buch-die-gr-ten-gefahren-f-r-ihr-verm-gen-48215.html)

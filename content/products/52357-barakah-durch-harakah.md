@@ -1,3 +1,24 @@
+---
+product_id: "52357"
+digistore24_product_id: 607131
+title: "Barakah durch Harakah"
+vendor: "Indira_bdh"
+product_type: "Member area and video courses"
+price: 233.62
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 97.71
+cart_conversion_pct: 1
+cancel_rate_pct: 2.64
+categories: ["Education","Online Marketing"]
+listed_since: "2025-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/607131?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/607131"
+language: "de"
+---
 # Barakah durch Harakah
 
 > Product ID `52357` · Digistore24 productId `607131` · [HTML profile page](../../produkte/barakah-durch-harakah-52357.html)

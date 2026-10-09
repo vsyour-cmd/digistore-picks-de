@@ -1,3 +1,24 @@
+---
+product_id: "60274"
+digistore24_product_id: 742853
+title: "Weniger Ist Mehr"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742853?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742853"
+language: "de"
+---
 # Weniger Ist Mehr
 
 > Product ID `60274` · Digistore24 productId `742853` · [HTML profile page](../../produkte/weniger-ist-mehr-60274.html)

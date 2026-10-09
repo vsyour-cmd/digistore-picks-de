@@ -1,3 +1,24 @@
+---
+product_id: "47026"
+digistore24_product_id: 529264
+title: "Neurostreams™ in 432 Hertz"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2023-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/432-hz/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/432-hz/"
+language: "de"
+---
 # Neurostreams™ in 432 Hertz
 
 > Product ID `47026` · Digistore24 productId `529264` · [HTML profile page](../../produkte/neurostreams-in-432-hertz-47026.html)

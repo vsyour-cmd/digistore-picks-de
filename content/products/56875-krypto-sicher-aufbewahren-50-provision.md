@@ -1,3 +1,24 @@
+---
+product_id: "56875"
+digistore24_product_id: 699224
+title: "Krypto sicher aufbewahren — 50 % Provision"
+vendor: "germany4951"
+product_type: "E-books"
+price: 72.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet"]
+listed_since: "2026-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alarm.de/krypto-vermoegen-schuetzen-dein-krypto-vermoegen-ist-nur-so-sicher-wie-deine-vorbereitung/?aff=adminstore#aff=adminstore"
+sales_page: "https://alarm.de/krypto-vermoegen-schuetzen-dein-krypto-vermoegen-ist-nur-so-sicher-wie-deine-vorbereitung/"
+language: "de"
+---
 # Krypto sicher aufbewahren — 50 % Provision
 
 > Product ID `56875` · Digistore24 productId `699224` · [HTML profile page](../../produkte/krypto-sicher-aufbewahren-50-provision-56875.html)

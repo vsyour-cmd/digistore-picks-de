@@ -1,3 +1,24 @@
+---
+product_id: "30160"
+digistore24_product_id: 290630
+title: "Business to-go"
+vendor: "vladihartung"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2019-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://b-to-go.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://b-to-go.com/"
+language: "de"
+---
 # Business to-go
 
 > Product ID `30160` · Digistore24 productId `290630` · [HTML profile page](../../produkte/business-to-go-30160.html)

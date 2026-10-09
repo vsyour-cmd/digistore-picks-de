@@ -1,3 +1,24 @@
+---
+product_id: "54258"
+digistore24_product_id: 628002
+title: "Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision"
+vendor: "Sternenlichter"
+product_type: "Member area and video courses"
+price: 2.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 15
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/"
+language: "de"
+---
 # Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision
 
 > Product ID `54258` · Digistore24 productId `628002` · [HTML profile page](../../produkte/sofort-guide-innere-freiheit-mit-50-upsell-provision-54258.html)

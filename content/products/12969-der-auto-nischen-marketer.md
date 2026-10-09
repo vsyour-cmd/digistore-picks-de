@@ -1,3 +1,24 @@
+---
+product_id: "12969"
+digistore24_product_id: 78501
+title: "Der Auto-Nischen-Marketer"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2016-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/"
+language: "de"
+---
 # Der Auto-Nischen-Marketer
 
 > Product ID `12969` · Digistore24 productId `78501` · [HTML profile page](../../produkte/der-auto-nischen-marketer-12969.html)

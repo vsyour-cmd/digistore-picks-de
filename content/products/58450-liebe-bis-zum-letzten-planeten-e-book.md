@@ -1,3 +1,24 @@
+---
+product_id: "58450"
+digistore24_product_id: 723629
+title: "LIEBE BIS ZUM LETZTEN PLANETEN - E-Book"
+vendor: "JEMORIS"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html?aff=adminstore#aff=adminstore"
+sales_page: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html"
+language: "de"
+---
 # LIEBE BIS ZUM LETZTEN PLANETEN - E-Book
 
 > Product ID `58450` · Digistore24 productId `723629` · [HTML profile page](../../produkte/liebe-bis-zum-letzten-planeten-e-book-58450.html)

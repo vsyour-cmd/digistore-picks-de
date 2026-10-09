@@ -1,3 +1,24 @@
+---
+product_id: "59692"
+digistore24_product_id: 727975
+title: "25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst"
+vendor: "carstenfeuerbach"
+product_type: "Audio book (download)"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://25minuten.carstenfeuerbach.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://25minuten.carstenfeuerbach.com/"
+language: "de"
+---
 # 25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst
 
 > Product ID `59692` · Digistore24 productId `727975` · [HTML profile page](../../produkte/25-minuten-wie-du-dein-eigenes-h-rbuch-mit-ki-erstellst-59692.html)

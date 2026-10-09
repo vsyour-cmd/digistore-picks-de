@@ -1,3 +1,24 @@
+---
+product_id: "29773"
+digistore24_product_id: 255993
+title: "Anziehungskraft-Checkliste + Videokurs"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 29.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.86
+cart_conversion_pct: 19
+cancel_rate_pct: 6.03
+categories: ["Personal Development"]
+listed_since: "2019-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/anziehungskraft-checkliste-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/anziehungskraft-checkliste-2/"
+language: "de"
+---
 # Anziehungskraft-Checkliste + Videokurs
 
 > Product ID `29773` · Digistore24 productId `255993` · [HTML profile page](../../produkte/anziehungskraft-checkliste-videokurs-29773.html)

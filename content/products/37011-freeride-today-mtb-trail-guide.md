@@ -1,3 +1,24 @@
+---
+product_id: "37011"
+digistore24_product_id: 372605
+title: "Freeride.Today MTB Trail-Guide"
+vendor: "FreerideToday"
+product_type: "Member area and video courses"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2021-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://freeride.today/index.php?page_id=13133&aff=adminstore#aff=adminstore"
+sales_page: "https://freeride.today/index.php?page_id=13133"
+language: "de"
+---
 # Freeride.Today MTB Trail-Guide
 
 > Product ID `37011` · Digistore24 productId `372605` · [HTML profile page](../../produkte/freeride-today-mtb-trail-guide-37011.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59018"
+digistore24_product_id: 728238
+title: "Selbstdenker-Kompass — Das Hörbuch"
+vendor: "Klartextkompass"
+product_type: "Audio book (download)"
+price: 39.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.klartext-kompass.de/hoerbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.klartext-kompass.de/hoerbuch/"
+language: "de"
+---
 # Selbstdenker-Kompass — Das Hörbuch
 
 > Product ID `59018` · Digistore24 productId `728238` · [HTML profile page](../../produkte/selbstdenker-kompass-das-h-rbuch-59018.html)

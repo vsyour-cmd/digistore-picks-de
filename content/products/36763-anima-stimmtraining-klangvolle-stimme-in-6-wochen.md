@@ -1,3 +1,24 @@
+---
+product_id: "36763"
+digistore24_product_id: 257434
+title: "ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen"
+vendor: "hyperhertz"
+product_type: "Downloads"
+price: 271.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 81.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2019-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.stimme-veraendern.de/anima-stimmtraining-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimme-veraendern.de/anima-stimmtraining-onlinekurs/"
+language: "de"
+---
 # ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen
 
 > Product ID `36763` · Digistore24 productId `257434` · [HTML profile page](../../produkte/anima-stimmtraining-klangvolle-stimme-in-6-wochen-36763.html)

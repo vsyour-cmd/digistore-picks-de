@@ -1,3 +1,24 @@
+---
+product_id: "27794"
+digistore24_product_id: 256949
+title: "SEO selber machen - Suchmaschinenoptimierung für Unternehmer"
+vendor: "StefanieEngel"
+product_type: "Webinar"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 83.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/"
+language: "de"
+---
 # SEO selber machen - Suchmaschinenoptimierung für Unternehmer
 
 > Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../produkte/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)

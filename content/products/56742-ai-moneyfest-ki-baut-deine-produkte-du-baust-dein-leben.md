@@ -1,3 +1,24 @@
+---
+product_id: "56742"
+digistore24_product_id: 694733
+title: "AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |"
+vendor: "AIMONEYFEST"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/694733?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694733"
+language: "de"
+---
 # AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |
 
 > Product ID `56742` · Digistore24 productId `694733` · [HTML profile page](../../produkte/ai-moneyfest-ki-baut-deine-produkte-du-baust-dein-leben-56742.html)

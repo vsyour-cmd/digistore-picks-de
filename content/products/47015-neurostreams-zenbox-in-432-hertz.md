@@ -1,3 +1,24 @@
+---
+product_id: "47015"
+digistore24_product_id: 23883
+title: "Neurostreams™ ZenBox (in 432 Hertz)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/specials/zenbox/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/specials/zenbox/"
+language: "de"
+---
 # Neurostreams™ ZenBox (in 432 Hertz)
 
 > Product ID `47015` · Digistore24 productId `23883` · [HTML profile page](../../produkte/neurostreams-zenbox-in-432-hertz-47015.html)

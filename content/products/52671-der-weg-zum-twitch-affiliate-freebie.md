@@ -1,3 +1,24 @@
+---
+product_id: "52671"
+digistore24_product_id: 551034
+title: "Der Weg zum Twitch Affiliate (Freebie)"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.51
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/google-ads-leitfaden-deal/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/google-ads-leitfaden-deal/"
+language: "de"
+---
 # Der Weg zum Twitch Affiliate (Freebie)
 
 > Product ID `52671` · Digistore24 productId `551034` · [HTML profile page](../../produkte/der-weg-zum-twitch-affiliate-freebie-52671.html)

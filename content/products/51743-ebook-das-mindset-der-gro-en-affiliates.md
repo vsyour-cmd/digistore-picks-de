@@ -1,3 +1,24 @@
+---
+product_id: "51743"
+digistore24_product_id: 597886
+title: "eBook: Das Mindset der großen Affiliates"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/das-mindset-der-grossen-affiliates/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/das-mindset-der-grossen-affiliates/"
+language: "de"
+---
 # eBook: Das Mindset der großen Affiliates
 
 > Product ID `51743` · Digistore24 productId `597886` · [HTML profile page](../../produkte/ebook-das-mindset-der-gro-en-affiliates-51743.html)

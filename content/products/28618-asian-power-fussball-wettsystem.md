@@ -1,3 +1,24 @@
+---
+product_id: "28618"
+digistore24_product_id: 266994
+title: "Asian Power (Fussball) Wettsystem"
+vendor: "kwugge"
+product_type: "Member area and video courses"
+price: 183.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 91.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems","Fun & Games","Sport"]
+listed_since: "2019-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/"
+language: "de"
+---
 # Asian Power (Fussball) Wettsystem
 
 > Product ID `28618` · Digistore24 productId `266994` · [HTML profile page](../../produkte/asian-power-fussball-wettsystem-28618.html)

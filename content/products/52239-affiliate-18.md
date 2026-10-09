@@ -1,3 +1,24 @@
+---
+product_id: "52239"
+digistore24_product_id: 608162
+title: "Affiliate 18+"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 40
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/gaJerak6CekEB9e8z?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/gaJerak6CekEB9e8z"
+language: "de"
+---
 # Affiliate 18+
 
 > Product ID `52239` · Digistore24 productId `608162` · [HTML profile page](../../produkte/affiliate-18-52239.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57356"
+digistore24_product_id: 707524
+title: "Nie mehr Angst vor der Rente"
+vendor: "buergelconsulting"
+product_type: "E-books"
+price: 29.22
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707524?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707524"
+language: "de"
+---
 # Nie mehr Angst vor der Rente
 
 > Product ID `57356` · Digistore24 productId `707524` · [HTML profile page](../../produkte/nie-mehr-angst-vor-der-rente-57356.html)

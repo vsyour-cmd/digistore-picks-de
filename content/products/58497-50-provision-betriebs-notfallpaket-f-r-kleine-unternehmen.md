@@ -1,3 +1,24 @@
+---
+product_id: "58497"
+digistore24_product_id: 723941
+title: "50 % Provision: Betriebs-Notfallpaket für kleine Unternehmen"
+vendor: "dejo777"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.softpac.de/cms/betriebs-notfallpaket.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.softpac.de/cms/betriebs-notfallpaket.html"
+language: "de"
+---
 # 50 % Provision: Betriebs-Notfallpaket für kleine Unternehmen
 
 > Product ID `58497` · Digistore24 productId `723941` · [HTML profile page](../../produkte/50-provision-betriebs-notfallpaket-f-r-kleine-unternehmen-58497.html)

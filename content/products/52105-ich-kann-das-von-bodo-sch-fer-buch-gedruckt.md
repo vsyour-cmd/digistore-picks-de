@@ -1,3 +1,24 @@
+---
+product_id: "52105"
+digistore24_product_id: 606598
+title: "ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)"
+vendor: "BodoSchaefer"
+product_type: "Book (printed)"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.48
+cart_conversion_pct: 12
+cancel_rate_pct: 0.56
+categories: ["Marketing Services"]
+listed_since: "2025-04-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/"
+language: "de"
+---
 # ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../produkte/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)

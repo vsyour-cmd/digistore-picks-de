@@ -1,3 +1,24 @@
+---
+product_id: "45950"
+digistore24_product_id: 523668
+title: "Das Taschenbuch gegen negativen Gedanken"
+vendor: "Deinechance"
+product_type: "Book (printed)"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Profession & Job"]
+listed_since: "2023-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dejansekulic.ch/haut-ab-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://dejansekulic.ch/haut-ab-buch"
+language: "de"
+---
 # Das Taschenbuch gegen negativen Gedanken
 
 > Product ID `45950` · Digistore24 productId `523668` · [HTML profile page](../../produkte/das-taschenbuch-gegen-negativen-gedanken-45950.html)

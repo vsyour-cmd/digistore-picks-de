@@ -1,3 +1,24 @@
+---
+product_id: "36702"
+digistore24_product_id: 383261
+title: "Traffic Commando"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 25.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 155.07
+cart_conversion_pct: 10
+cancel_rate_pct: 2.03
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://traffic-commando.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://traffic-commando.com/"
+language: "de"
+---
 # Traffic Commando
 
 > Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../produkte/traffic-commando-36702.html)

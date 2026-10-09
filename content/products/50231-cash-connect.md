@@ -1,3 +1,24 @@
+---
+product_id: "50231"
+digistore24_product_id: 590709
+title: "Cash Connect"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 878.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashconnect.online/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashconnect.online/"
+language: "de"
+---
 # Cash Connect
 
 > Product ID `50231` · Digistore24 productId `590709` · [HTML profile page](../../produkte/cash-connect-50231.html)

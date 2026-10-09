@@ -1,3 +1,24 @@
+---
+product_id: "60228"
+digistore24_product_id: 733314
+title: "WAWIKUKL Artikelverwaltung Freischaltcode"
+vendor: "kurtkloetzl0072f70"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Software"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/733314?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733314"
+language: "de"
+---
 # WAWIKUKL Artikelverwaltung Freischaltcode
 
 > Product ID `60228` · Digistore24 productId `733314` · [HTML profile page](../../produkte/wawikukl-artikelverwaltung-freischaltcode-60228.html)

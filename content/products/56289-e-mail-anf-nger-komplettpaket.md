@@ -1,3 +1,24 @@
+---
+product_id: "56289"
+digistore24_product_id: 684474
+title: "E-Mail Anfänger - Komplettpaket"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 81.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 40.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://affiliate-macher.de/emailmarketingkurs?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliate-macher.de/emailmarketingkurs"
+language: "de"
+---
 # E-Mail Anfänger - Komplettpaket
 
 > Product ID `56289` · Digistore24 productId `684474` · [HTML profile page](../../produkte/e-mail-anf-nger-komplettpaket-56289.html)

@@ -1,3 +1,24 @@
+---
+product_id: "8651"
+digistore24_product_id: 47529
+title: "WordPress- und Joomla-Kurse von Oliver Pfeil"
+vendor: "opfeil"
+product_type: "E-books"
+price: 134.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16
+cart_conversion_pct: 10
+cancel_rate_pct: 4.28
+categories: ["Online Marketing & E-Business"]
+listed_since: "2015-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.oliverpfeil.de/produkte/wordpress-ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.oliverpfeil.de/produkte/wordpress-ebook"
+language: "de"
+---
 # WordPress- und Joomla-Kurse von Oliver Pfeil
 
 > Product ID `8651` · Digistore24 productId `47529` · [HTML profile page](../../produkte/wordpress-und-joomla-kurse-von-oliver-pfeil-8651.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57526"
+digistore24_product_id: 709299
+title: "Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 390.39
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 97.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Profession & Job","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34k-gewo-verbraucherdarlehensvermittler-in-ihk/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34k-gewo-verbraucherdarlehensvermittler-in-ihk/"
+language: "de"
+---
 # Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in
 
 > Product ID `57526` · Digistore24 productId `709299` · [HTML profile page](../../produkte/sachkundelehrgang-34k-gewo-darlehensvermittler-in-57526.html)

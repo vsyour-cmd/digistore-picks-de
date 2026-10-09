@@ -1,3 +1,24 @@
+---
+product_id: "37297"
+digistore24_product_id: 426964
+title: "Online Katzentraining mit Constance Böhle"
+vendor: "trafficoftrust"
+product_type: "Member area and video courses"
+price: 112.69
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 28.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2022-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://katzentraining.me?aff=adminstore#aff=adminstore"
+sales_page: "https://katzentraining.me"
+language: "de"
+---
 # Online Katzentraining mit Constance Böhle
 
 > Product ID `37297` · Digistore24 productId `426964` · [HTML profile page](../../produkte/online-katzentraining-mit-constance-b-hle-37297.html)

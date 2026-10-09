@@ -1,3 +1,24 @@
+---
+product_id: "42178"
+digistore24_product_id: 467097
+title: "Persönliche Finanzen"
+vendor: "LebensfrohLLC"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 55.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2022-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://christophneuwirth.com/lp/persoenliche-finanzen-die-anleitung-fuer-finanzielle-freiheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://christophneuwirth.com/lp/persoenliche-finanzen-die-anleitung-fuer-finanzielle-freiheit/"
+language: "de"
+---
 # Persönliche Finanzen
 
 > Product ID `42178` · Digistore24 productId `467097` · [HTML profile page](../../produkte/pers-nliche-finanzen-42178.html)

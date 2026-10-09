@@ -1,3 +1,24 @@
+---
+product_id: "56232"
+digistore24_product_id: 684108
+title: "Business starten leicht gemacht - Verdiene an den Ad On's"
+vendor: "Freifone"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/business-starten?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/business-starten"
+language: "de"
+---
 # Business starten leicht gemacht - Verdiene an den Ad On's
 
 > Product ID `56232` · Digistore24 productId `684108` · [HTML profile page](../../produkte/business-starten-leicht-gemacht-verdiene-an-den-ad-on-s-56232.html)

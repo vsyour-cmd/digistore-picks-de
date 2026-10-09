@@ -1,3 +1,24 @@
+---
+product_id: "59693"
+digistore24_product_id: 737348
+title: "Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen"
+vendor: "Anha13"
+product_type: "Remote service provided electronically"
+price: 12.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Hobby & Craft"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ahliving.de/adventskalender/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/adventskalender/"
+language: "de"
+---
 # Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen
 
 > Product ID `59693` · Digistore24 productId `737348` · [HTML profile page](../../produkte/herzens-adventskalender-24-pers-nliche-botschaften-3-t-rchen-gratis-testen-59693.html)

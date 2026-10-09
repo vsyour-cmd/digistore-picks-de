@@ -1,3 +1,24 @@
+---
+product_id: "60293"
+digistore24_product_id: 741560
+title: "Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision"
+vendor: "massarocalogero19976adc"
+product_type: "Remote service provided electronically"
+price: 3344.61
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 668.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.direzionex.com/offerta/sito-e-gestionale?aff=adminstore#aff=adminstore"
+sales_page: "https://www.direzionex.com/offerta/sito-e-gestionale"
+language: "de"
+---
 # Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision
 
 > Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../produkte/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)

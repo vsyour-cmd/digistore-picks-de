@@ -1,3 +1,24 @@
+---
+product_id: "59779"
+digistore24_product_id: 735601
+title: "Insta Durchstarten"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 30.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/nstaurchstarten/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/nstaurchstarten/"
+language: "de"
+---
 # Insta Durchstarten
 
 > Product ID `59779` · Digistore24 productId `735601` · [HTML profile page](../../produkte/insta-durchstarten-59779.html)

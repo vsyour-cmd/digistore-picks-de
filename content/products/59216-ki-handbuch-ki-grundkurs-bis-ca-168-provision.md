@@ -1,3 +1,24 @@
+---
+product_id: "59216"
+digistore24_product_id: 732943
+title: "KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision"
+vendor: "lunaboxbindik"
+product_type: "E-books"
+price: 52.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kikompass.cloud/?aff=adminstore#aff=adminstore"
+sales_page: "https://kikompass.cloud/"
+language: "de"
+---
 # KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision
 
 > Product ID `59216` · Digistore24 productId `732943` · [HTML profile page](../../produkte/ki-handbuch-ki-grundkurs-bis-ca-168-provision-59216.html)

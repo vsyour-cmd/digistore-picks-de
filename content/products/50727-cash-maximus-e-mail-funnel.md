@@ -1,3 +1,24 @@
+---
+product_id: "50727"
+digistore24_product_id: 569952
+title: "Cash Maximus + E-Mail Funnel"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashmaximus.de/mailkampagne/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashmaximus.de/mailkampagne/"
+language: "de"
+---
 # Cash Maximus + E-Mail Funnel
 
 > Product ID `50727` · Digistore24 productId `569952` · [HTML profile page](../../produkte/cash-maximus-e-mail-funnel-50727.html)

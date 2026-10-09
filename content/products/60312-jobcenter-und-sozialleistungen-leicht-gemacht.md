@@ -1,3 +1,24 @@
+---
+product_id: "60312"
+digistore24_product_id: 708655
+title: "Jobcenter und Sozialleistungen leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/708655?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/708655"
+language: "de"
+---
 # Jobcenter und Sozialleistungen leicht gemacht
 
 > Product ID `60312` · Digistore24 productId `708655` · [HTML profile page](../../produkte/jobcenter-und-sozialleistungen-leicht-gemacht-60312.html)

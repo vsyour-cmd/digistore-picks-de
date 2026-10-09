@@ -1,3 +1,24 @@
+---
+product_id: "59483"
+digistore24_product_id: 735782
+title: "Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger"
+vendor: "einfachmitmatze"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 20.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://einfachmitmatze.de/digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/digistore24/"
+language: "de"
+---
 # Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger
 
 > Product ID `59483` · Digistore24 productId `735782` · [HTML profile page](../../produkte/digistore24-mit-matze-pdf-praxiskurs-f-r-einsteiger-59483.html)

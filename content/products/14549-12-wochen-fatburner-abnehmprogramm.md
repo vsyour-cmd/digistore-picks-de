@@ -1,3 +1,24 @@
+---
+product_id: "14549"
+digistore24_product_id: 104181
+title: "12 Wochen Fatburner Abnehmprogramm"
+vendor: "amg-onlinekonzepte"
+product_type: "Downloads"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 20.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2016-11-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://fatburner-programm.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://fatburner-programm.de/"
+language: "de"
+---
 # 12 Wochen Fatburner Abnehmprogramm
 
 > Product ID `14549` · Digistore24 productId `104181` · [HTML profile page](../../produkte/12-wochen-fatburner-abnehmprogramm-14549.html)

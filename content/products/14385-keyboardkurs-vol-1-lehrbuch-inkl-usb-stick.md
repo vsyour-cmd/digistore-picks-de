@@ -1,3 +1,24 @@
+---
+product_id: "14385"
+digistore24_product_id: 95881
+title: "Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick"
+vendor: "PeterNeuhof"
+product_type: "Deliverable"
+price: 155.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 77.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2016-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.p-neuhof.de/keyboardkurs-vol/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.p-neuhof.de/keyboardkurs-vol/"
+language: "de"
+---
 # Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick
 
 > Product ID `14385` · Digistore24 productId `95881` · [HTML profile page](../../produkte/keyboardkurs-vol-1-lehrbuch-inkl-usb-stick-14385.html)

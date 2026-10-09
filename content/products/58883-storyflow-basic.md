@@ -1,3 +1,24 @@
+---
+product_id: "58883"
+digistore24_product_id: 720863
+title: "StoryFlow - Basic"
+vendor: "Verdienst-Kompass"
+product_type: "Software"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://story-flow-ai.de?aff=adminstore#aff=adminstore"
+sales_page: "https://story-flow-ai.de"
+language: "de"
+---
 # StoryFlow - Basic
 
 > Product ID `58883` · Digistore24 productId `720863` · [HTML profile page](../../produkte/storyflow-basic-58883.html)

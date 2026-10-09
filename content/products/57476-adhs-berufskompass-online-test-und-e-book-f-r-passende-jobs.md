@@ -1,3 +1,24 @@
+---
+product_id: "57476"
+digistore24_product_id: 708246
+title: "ADHS Berufskompass Online-Test und E-Book für passende Jobs"
+vendor: "Keto-Fasten"
+product_type: "Software"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://adhs-berufskompass.de?aff=adminstore#aff=adminstore"
+sales_page: "https://adhs-berufskompass.de"
+language: "de"
+---
 # ADHS Berufskompass Online-Test und E-Book für passende Jobs
 
 > Product ID `57476` · Digistore24 productId `708246` · [HTML profile page](../../produkte/adhs-berufskompass-online-test-und-e-book-f-r-passende-jobs-57476.html)

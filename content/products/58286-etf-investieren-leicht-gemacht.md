@@ -1,3 +1,24 @@
+---
+product_id: "58286"
+digistore24_product_id: 719452
+title: "ETF investieren. Leicht gemacht!"
+vendor: "EF_Intershop"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/719452?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719452"
+language: "de"
+---
 # ETF investieren. Leicht gemacht!
 
 > Product ID `58286` · Digistore24 productId `719452` · [HTML profile page](../../produkte/etf-investieren-leicht-gemacht-58286.html)

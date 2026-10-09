@@ -1,3 +1,24 @@
+---
+product_id: "57412"
+digistore24_product_id: 707990
+title: "Blackout- & Notfallplan für Familien – 32 Seiten PDF"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 6.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Survival"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/vorratsplan-notfallplan/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/vorratsplan-notfallplan/"
+language: "de"
+---
 # Blackout- & Notfallplan für Familien – 32 Seiten PDF
 
 > Product ID `57412` · Digistore24 productId `707990` · [HTML profile page](../../produkte/blackout-notfallplan-f-r-familien-32-seiten-pdf-57412.html)

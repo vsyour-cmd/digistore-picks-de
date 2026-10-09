@@ -1,3 +1,24 @@
+---
+product_id: "41958"
+digistore24_product_id: 472249
+title: "Super Affiliate + Geldmaschine Internet"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 0.08
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.88
+cart_conversion_pct: 64
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/GDbYAdCLk8zTGegEy?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/GDbYAdCLk8zTGegEy"
+language: "de"
+---
 # Super Affiliate + Geldmaschine Internet
 
 > Product ID `41958` · Digistore24 productId `472249` · [HTML profile page](../../produkte/super-affiliate-geldmaschine-internet-41958.html)

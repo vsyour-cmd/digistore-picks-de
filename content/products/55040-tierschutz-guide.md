@@ -1,3 +1,24 @@
+---
+product_id: "55040"
+digistore24_product_id: 614526
+title: "Tierschutz-Guide"
+vendor: "Tierheimsponsoring"
+product_type: "E-books"
+price: 87.81
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 21.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Food & Drink","Animals & Pets"]
+listed_since: "2025-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/614526?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/614526"
+language: "de"
+---
 # Tierschutz-Guide
 
 > Product ID `55040` · Digistore24 productId `614526` · [HTML profile page](../../produkte/tierschutz-guide-55040.html)

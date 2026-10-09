@@ -1,3 +1,24 @@
+---
+product_id: "56276"
+digistore24_product_id: 680822
+title: "Ebook - Multitasking"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/680822?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/680822"
+language: "de"
+---
 # Ebook - Multitasking
 
 > Product ID `56276` · Digistore24 productId `680822` · [HTML profile page](../../produkte/ebook-multitasking-56276.html)

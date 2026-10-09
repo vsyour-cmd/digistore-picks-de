@@ -1,3 +1,24 @@
+---
+product_id: "55618"
+digistore24_product_id: 668236
+title: "More than MONEY. More than HYPE."
+vendor: "MF-Digital-Solutions"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/668236?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/668236"
+language: "de"
+---
 # More than MONEY. More than HYPE.
 
 > Product ID `55618` · Digistore24 productId `668236` · [HTML profile page](../../produkte/more-than-money-more-than-hype-55618.html)

@@ -1,3 +1,24 @@
+---
+product_id: "25305"
+digistore24_product_id: 207977
+title: "Online Hypnose Abnehmen, mehr Motivation"
+vendor: "manjushri"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 25.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-03-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/"
+language: "de"
+---
 # Online Hypnose Abnehmen, mehr Motivation
 
 > Product ID `25305` · Digistore24 productId `207977` · [HTML profile page](../../produkte/online-hypnose-abnehmen-mehr-motivation-25305.html)

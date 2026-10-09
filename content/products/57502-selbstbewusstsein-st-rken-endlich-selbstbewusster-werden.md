@@ -1,3 +1,24 @@
+---
+product_id: "57502"
+digistore24_product_id: 711198
+title: "Selbstbewusstsein stärken - Endlich selbstbewusster werden"
+vendor: "FreedomBusinessSH3"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 53
+earnings_per_sale: 49.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://endlich-selbstbewusst-leben.de?aff=adminstore#aff=adminstore"
+sales_page: "https://endlich-selbstbewusst-leben.de"
+language: "de"
+---
 # Selbstbewusstsein stärken - Endlich selbstbewusster werden
 
 > Product ID `57502` · Digistore24 productId `711198` · [HTML profile page](../../produkte/selbstbewusstsein-st-rken-endlich-selbstbewusster-werden-57502.html)

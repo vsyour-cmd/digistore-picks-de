@@ -1,3 +1,24 @@
+---
+product_id: "52705"
+digistore24_product_id: 616090
+title: "KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 6.24
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.74
+cart_conversion_pct: 10
+cancel_rate_pct: 0.65
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2025-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.webpirat.de/passives-ki-affiliate-marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/passives-ki-affiliate-marketing/"
+language: "de"
+---
 # KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)
 
 > Product ID `52705` · Digistore24 productId `616090` · [HTML profile page](../../produkte/ki-affiliate-website-strategie-inkl-5-nischen-ideen-2025-52705.html)

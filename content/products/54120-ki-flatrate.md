@@ -1,3 +1,24 @@
+---
+product_id: "54120"
+digistore24_product_id: 634205
+title: "KI-Flatrate"
+vendor: "MibeneUG"
+product_type: "Online coaching"
+price: 1060.43
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 212.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Personal Development"]
+listed_since: "2025-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/634205?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/634205"
+language: "de"
+---
 # KI-Flatrate
 
 > Product ID `54120` · Digistore24 productId `634205` · [HTML profile page](../../produkte/ki-flatrate-54120.html)

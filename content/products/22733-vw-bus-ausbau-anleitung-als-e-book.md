@@ -1,3 +1,24 @@
+---
+product_id: "22733"
+digistore24_product_id: 200115
+title: "VW Bus Ausbau Anleitung als E-Book"
+vendor: "Lifetravellerz"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2018-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.lifetravellerz.com/ebook-vw-t5-ausbau-guide/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lifetravellerz.com/ebook-vw-t5-ausbau-guide/"
+language: "de"
+---
 # VW Bus Ausbau Anleitung als E-Book
 
 > Product ID `22733` · Digistore24 productId `200115` · [HTML profile page](../../produkte/vw-bus-ausbau-anleitung-als-e-book-22733.html)

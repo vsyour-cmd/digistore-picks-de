@@ -1,3 +1,24 @@
+---
+product_id: "58917"
+digistore24_product_id: 729669
+title: "eBook - Mit KI Ordnung schaffen"
+vendor: "dejo777"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.softpac.de/cms/D24-affiliate-ebook-mit-ki-ordnung-schaffen.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.softpac.de/cms/D24-affiliate-ebook-mit-ki-ordnung-schaffen.html"
+language: "de"
+---
 # eBook - Mit KI Ordnung schaffen
 
 > Product ID `58917` · Digistore24 productId `729669` · [HTML profile page](../../produkte/ebook-mit-ki-ordnung-schaffen-58917.html)

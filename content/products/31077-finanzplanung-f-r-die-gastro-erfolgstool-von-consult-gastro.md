@@ -1,3 +1,24 @@
+---
+product_id: "31077"
+digistore24_product_id: 192013
+title: "Finanzplanung für die Gastro- Erfolgstool von Consult Gastro"
+vendor: "Energiekur"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2018-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/192013?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/192013"
+language: "de"
+---
 # Finanzplanung für die Gastro- Erfolgstool von Consult Gastro
 
 > Product ID `31077` · Digistore24 productId `192013` · [HTML profile page](../../produkte/finanzplanung-f-r-die-gastro-erfolgstool-von-consult-gastro-31077.html)

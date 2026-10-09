@@ -1,3 +1,24 @@
+---
+product_id: "56509"
+digistore24_product_id: 687137
+title: "50% Provision: \"Einfach Canva!\" (No-Brainer + Upsells)"
+vendor: "SiNagel01"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-04-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://einfach-canva.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
+sales_page: "http://einfach-canva.dein-socialmedia-erfolg.de"
+language: "de"
+---
 # 50% Provision: "Einfach Canva!" (No-Brainer + Upsells)
 
 > Product ID `56509` · Digistore24 productId `687137` · [HTML profile page](../../produkte/50-provision-einfach-canva-no-brainer-upsells-56509.html)

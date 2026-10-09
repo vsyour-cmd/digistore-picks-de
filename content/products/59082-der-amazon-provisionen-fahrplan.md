@@ -1,3 +1,24 @@
+---
+product_id: "59082"
+digistore24_product_id: 731117
+title: "Der Amazon-Provisionen-Fahrplan"
+vendor: "torstendigital35b0"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/"
+language: "de"
+---
 # Der Amazon-Provisionen-Fahrplan
 
 > Product ID `59082` · Digistore24 productId `731117` · [HTML profile page](../../produkte/der-amazon-provisionen-fahrplan-59082.html)

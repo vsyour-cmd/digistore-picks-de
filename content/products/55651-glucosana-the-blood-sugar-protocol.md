@@ -1,3 +1,24 @@
+---
+product_id: "55651"
+digistore24_product_id: 668255
+title: "GlucoSana: The Blood Sugar Protocol"
+vendor: "DS24-MySana"
+product_type: "Supplements - health"
+price: 72.14
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 43.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myglucosana.com/glucosana-pdp-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://myglucosana.com/glucosana-pdp-fe"
+language: "de"
+---
 # GlucoSana: The Blood Sugar Protocol
 
 > Product ID `55651` · Digistore24 productId `668255` · [HTML profile page](../../produkte/glucosana-the-blood-sugar-protocol-55651.html)

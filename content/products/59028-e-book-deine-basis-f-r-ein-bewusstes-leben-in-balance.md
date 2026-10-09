@@ -1,3 +1,24 @@
+---
+product_id: "59028"
+digistore24_product_id: 731028
+title: "E-Book „Deine Basis für ein bewusstes Leben in Balance“"
+vendor: "SylviaMybestprojectisME"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/731028?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731028"
+language: "de"
+---
 # E-Book „Deine Basis für ein bewusstes Leben in Balance“
 
 > Product ID `59028` · Digistore24 productId `731028` · [HTML profile page](../../produkte/e-book-deine-basis-f-r-ein-bewusstes-leben-in-balance-59028.html)

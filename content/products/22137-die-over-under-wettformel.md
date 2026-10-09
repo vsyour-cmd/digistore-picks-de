@@ -1,3 +1,24 @@
+---
+product_id: "22137"
+digistore24_product_id: 195109
+title: "Die Over/Under Wettformel!"
+vendor: "ttservice"
+product_type: "Downloads"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2018-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.sportwetten-formel.gr8.com"
+language: "de"
+---
 # Die Over/Under Wettformel!
 
 > Product ID `22137` · Digistore24 productId `195109` · [HTML profile page](../../produkte/die-over-under-wettformel-22137.html)

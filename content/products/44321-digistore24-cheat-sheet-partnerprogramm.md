@@ -1,3 +1,24 @@
+---
+product_id: "44321"
+digistore24_product_id: 496588
+title: "Digistore24 Cheat Sheet | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Downloads"
+price: 0.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.28
+cart_conversion_pct: 35
+cancel_rate_pct: 0.41
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.profitbuddies.de/digistore24-cheat-sheet?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profitbuddies.de/digistore24-cheat-sheet"
+language: "de"
+---
 # Digistore24 Cheat Sheet | Partnerprogramm
 
 > Product ID `44321` · Digistore24 productId `496588` · [HTML profile page](../../produkte/digistore24-cheat-sheet-partnerprogramm-44321.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59289"
+digistore24_product_id: 732960
+title: "KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+"
+vendor: "MarkusGerbig"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Profession & Job","Software"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mg-wissen.de/buecher/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mg-wissen.de/buecher/"
+language: "de"
+---
 # KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+
 
 > Product ID `59289` · Digistore24 productId `732960` · [HTML profile page](../../produkte/ki-das-kann-ich-auch-der-ki-ratgeber-f-r-einsteiger-50-59289.html)

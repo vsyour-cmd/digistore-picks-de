@@ -1,3 +1,24 @@
+---
+product_id: "40912"
+digistore24_product_id: 456148
+title: "ABO Provision - Mit dem Smartphone Geld verdienen"
+vendor: "monetenwissen"
+product_type: "Downloads"
+price: 22.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.47
+cart_conversion_pct: 19
+cancel_rate_pct: 2.66
+categories: ["Profession & Job"]
+listed_since: "2022-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/"
+language: "de"
+---
 # ABO Provision - Mit dem Smartphone Geld verdienen
 
 > Product ID `40912` · Digistore24 productId `456148` · [HTML profile page](../../produkte/abo-provision-mit-dem-smartphone-geld-verdienen-40912.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58439"
+digistore24_product_id: 715295
+title: "MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich"
+vendor: "steffenhjgeissler7b27"
+product_type: "Member area and video courses"
+price: 548.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 219.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.aacco.info/mietfrei-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aacco.info/mietfrei-ds24"
+language: "de"
+---
 # MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich
 
 > Product ID `58439` · Digistore24 productId `715295` · [HTML profile page](../../produkte/mietfrei-endlich-eine-wohnung-endlich-sparen-ohne-verzich-58439.html)

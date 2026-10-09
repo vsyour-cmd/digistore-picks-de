@@ -1,3 +1,24 @@
+---
+product_id: "52447"
+digistore24_product_id: 613120
+title: "KI Musik Geld Maschine (2025)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 2.33
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 2.49
+cart_conversion_pct: 16
+cancel_rate_pct: 0.49
+categories: ["Computer & Internet","Software"]
+listed_since: "2025-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/ki-musik-geld-maschine/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/ki-musik-geld-maschine/"
+language: "de"
+---
 # KI Musik Geld Maschine (2025)
 
 > Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../produkte/ki-musik-geld-maschine-2025-52447.html)

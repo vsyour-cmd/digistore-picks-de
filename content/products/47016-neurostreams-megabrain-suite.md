@@ -1,3 +1,24 @@
+---
+product_id: "47016"
+digistore24_product_id: 24325
+title: "Neurostreams™ Megabrain Suite"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 53.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/specials/fokus-konzentration-intelligenz/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/specials/fokus-konzentration-intelligenz/"
+language: "de"
+---
 # Neurostreams™ Megabrain Suite
 
 > Product ID `47016` · Digistore24 productId `24325` · [HTML profile page](../../produkte/neurostreams-megabrain-suite-47016.html)

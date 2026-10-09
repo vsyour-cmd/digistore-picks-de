@@ -1,3 +1,24 @@
+---
+product_id: "37781"
+digistore24_product_id: 356056
+title: "Kreativer Malkurs für Kinder \"Bunte Tiere\""
+vendor: "kolibrischool"
+product_type: "Member area and video courses"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/?aff=adminstore#aff=adminstore"
+sales_page: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/"
+language: "de"
+---
 # Kreativer Malkurs für Kinder "Bunte Tiere"
 
 > Product ID `37781` · Digistore24 productId `356056` · [HTML profile page](../../produkte/kreativer-malkurs-f-r-kinder-bunte-tiere-37781.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45570"
+digistore24_product_id: 519906
+title: "Die Affiliate Marketing Tool Box"
+vendor: "iliasmak"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2023-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ilias-marketing.de/affiliate-marketing-toolbox/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/affiliate-marketing-toolbox/"
+language: "de"
+---
 # Die Affiliate Marketing Tool Box
 
 > Product ID `45570` · Digistore24 productId `519906` · [HTML profile page](../../produkte/die-affiliate-marketing-tool-box-45570.html)

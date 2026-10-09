@@ -1,3 +1,24 @@
+---
+product_id: "32435"
+digistore24_product_id: 320088
+title: "Schlaf im 21. Jahrhundert - eBook"
+vendor: "sleep-performance"
+product_type: "E-books"
+price: 6.22
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buch.schlafonaut.de/ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.schlafonaut.de/ebook"
+language: "de"
+---
 # Schlaf im 21. Jahrhundert - eBook
 
 > Product ID `32435` · Digistore24 productId `320088` · [HTML profile page](../../produkte/schlaf-im-21-jahrhundert-ebook-32435.html)

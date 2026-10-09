@@ -1,3 +1,24 @@
+---
+product_id: "16187"
+digistore24_product_id: 116827
+title: "Love Bundle – Die Liebe für sich selbst und für Andere"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/love-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/love-bundle/"
+language: "de"
+---
 # Love Bundle – Die Liebe für sich selbst und für Andere
 
 > Product ID `16187` · Digistore24 productId `116827` · [HTML profile page](../../produkte/love-bundle-die-liebe-f-r-sich-selbst-und-f-r-andere-16187.html)

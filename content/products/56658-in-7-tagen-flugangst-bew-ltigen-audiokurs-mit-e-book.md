@@ -1,3 +1,24 @@
+---
+product_id: "56658"
+digistore24_product_id: 694712
+title: "In 7 Tagen Flugangst bewältigen | Audiokurs mit E-Book"
+vendor: "PsycheVital"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Travel & Culture"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.loslassenlernen-online.de/flugangst-aufl%C3%B6sen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.loslassenlernen-online.de/flugangst-aufl%C3%B6sen/"
+language: "de"
+---
 # In 7 Tagen Flugangst bewältigen | Audiokurs mit E-Book
 
 > Product ID `56658` · Digistore24 productId `694712` · [HTML profile page](../../produkte/in-7-tagen-flugangst-bew-ltigen-audiokurs-mit-e-book-56658.html)

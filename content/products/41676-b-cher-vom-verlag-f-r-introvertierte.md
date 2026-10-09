@@ -1,3 +1,24 @@
+---
+product_id: "41676"
+digistore24_product_id: 418781
+title: "Bücher vom Verlag für Introvertierte"
+vendor: "RicardaColditz"
+product_type: "Book (printed)"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.verlag-colditz.de?aff=adminstore#aff=adminstore"
+sales_page: "http://www.verlag-colditz.de"
+language: "de"
+---
 # Bücher vom Verlag für Introvertierte
 
 > Product ID `41676` · Digistore24 productId `418781` · [HTML profile page](../../produkte/b-cher-vom-verlag-f-r-introvertierte-41676.html)

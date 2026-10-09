@@ -1,3 +1,24 @@
+---
+product_id: "47071"
+digistore24_product_id: 13185
+title: "Innere Kraft in stürmischen Zeiten"
+vendor: "changenow"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 95
+earnings_per_sale: 86.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2013-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore"
+sales_page: "https://event.webinarjam.com/register/18/y8y5nb1"
+language: "de"
+---
 # Innere Kraft in stürmischen Zeiten
 
 > Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../produkte/innere-kraft-in-st-rmischen-zeiten-47071.html)

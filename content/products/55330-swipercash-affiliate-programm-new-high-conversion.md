@@ -1,3 +1,24 @@
+---
+product_id: "55330"
+digistore24_product_id: 661750
+title: "Swipercash Affiliate Programm New High Conversion"
+vendor: "IGCLOSE"
+product_type: "Downloads"
+price: 31.96
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2026-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/661750?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/661750"
+language: "de"
+---
 # Swipercash Affiliate Programm New High Conversion
 
 > Product ID `55330` · Digistore24 productId `661750` · [HTML profile page](../../produkte/swipercash-affiliate-programm-new-high-conversion-55330.html)

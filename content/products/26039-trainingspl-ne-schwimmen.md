@@ -1,3 +1,24 @@
+---
+product_id: "26039"
+digistore24_product_id: 62339
+title: "Trainingspläne Schwimmen"
+vendor: "jschueren"
+product_type: "Downloads"
+price: 110.55
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 22.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2015-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/62339/adminstore"
+sales_page: "https://www.xn--kraulkraftverstrker-uwb.de/trainingsplaene-kraulschwimmen/#kraul={AFFILIATE}"
+language: "de"
+---
 # Trainingspläne Schwimmen
 
 > Product ID `26039` · Digistore24 productId `62339` · [HTML profile page](../../produkte/trainingspl-ne-schwimmen-26039.html)

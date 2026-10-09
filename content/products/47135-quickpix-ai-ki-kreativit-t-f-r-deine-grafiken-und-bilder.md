@@ -1,3 +1,24 @@
+---
+product_id: "47135"
+digistore24_product_id: 537143
+title: "QUICKPIX AI - \"KI\" Kreativität für deine Grafiken und Bilder"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 127.52
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 51.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.quickpixai.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.quickpixai.com/"
+language: "de"
+---
 # QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder
 
 > Product ID `47135` · Digistore24 productId `537143` · [HTML profile page](../../produkte/quickpix-ai-ki-kreativit-t-f-r-deine-grafiken-und-bilder-47135.html)

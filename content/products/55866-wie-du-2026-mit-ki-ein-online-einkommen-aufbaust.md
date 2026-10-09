@@ -1,3 +1,24 @@
+---
+product_id: "55866"
+digistore24_product_id: 675624
+title: "Wie du 2026 mit KI ein Online-Einkommen aufbaust"
+vendor: "MSY-COMMERCE-DE"
+product_type: "E-books"
+price: 83.58
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 50.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/675624?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/675624"
+language: "de"
+---
 # Wie du 2026 mit KI ein Online-Einkommen aufbaust
 
 > Product ID `55866` · Digistore24 productId `675624` · [HTML profile page](../../produkte/wie-du-2026-mit-ki-ein-online-einkommen-aufbaust-55866.html)

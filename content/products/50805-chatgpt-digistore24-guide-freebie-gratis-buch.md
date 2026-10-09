@@ -1,3 +1,24 @@
+---
+product_id: "50805"
+digistore24_product_id: 586949
+title: "ChatGPT & Digistore24 Guide (Freebie Gratis Buch)"
+vendor: "Digiportall"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://digiportale.de/chatgpt-digistore24-guide/?aff=adminstore#aff=adminstore"
+sales_page: "https://digiportale.de/chatgpt-digistore24-guide/"
+language: "de"
+---
 # ChatGPT & Digistore24 Guide (Freebie Gratis Buch)
 
 > Product ID `50805` · Digistore24 productId `586949` · [HTML profile page](../../produkte/chatgpt-digistore24-guide-freebie-gratis-buch-50805.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44092"
+digistore24_product_id: 296427
+title: "Seelische Vitaminspritze"
+vendor: "Deinechance"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Spiri­tua­lity & Esotericism"]
+listed_since: "2019-11-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.seelische-vitaminspritze.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.seelische-vitaminspritze.com/"
+language: "de"
+---
 # Seelische Vitaminspritze
 
 > Product ID `44092` · Digistore24 productId `296427` · [HTML profile page](../../produkte/seelische-vitaminspritze-44092.html)

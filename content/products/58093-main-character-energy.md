@@ -1,3 +1,24 @@
+---
+product_id: "58093"
+digistore24_product_id: 715773
+title: "Main Character Energy"
+vendor: "tmgpde"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://themindfulgrowthproject.de/main-character-energy/?aff=adminstore#aff=adminstore"
+sales_page: "https://themindfulgrowthproject.de/main-character-energy/"
+language: "de"
+---
 # Main Character Energy
 
 > Product ID `58093` · Digistore24 productId `715773` · [HTML profile page](../../produkte/main-character-energy-58093.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44597"
+digistore24_product_id: 500301
+title: "Kundenmagnet"
+vendor: "BusinessEmpowerment"
+product_type: "Member area and video courses"
+price: 119.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 59.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore"
+sales_page: "https://business-empowerment.eu/kurs-kundenmagnet/"
+language: "de"
+---
 # Kundenmagnet
 
 > Product ID `44597` · Digistore24 productId `500301` · [HTML profile page](../../produkte/kundenmagnet-44597.html)

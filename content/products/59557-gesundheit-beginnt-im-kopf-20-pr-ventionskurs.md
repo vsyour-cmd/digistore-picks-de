@@ -1,3 +1,24 @@
+---
+product_id: "59557"
+digistore24_product_id: 702652
+title: "Gesundheit beginnt im Kopf - §20 Präventionskurs"
+vendor: "glueckwaerts"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.glueckwaerts.com/os-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.glueckwaerts.com/os-ds"
+language: "de"
+---
 # Gesundheit beginnt im Kopf - §20 Präventionskurs
 
 > Product ID `59557` · Digistore24 productId `702652` · [HTML profile page](../../produkte/gesundheit-beginnt-im-kopf-20-pr-ventionskurs-59557.html)

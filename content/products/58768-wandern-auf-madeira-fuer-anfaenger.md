@@ -1,3 +1,24 @@
+---
+product_id: "58768"
+digistore24_product_id: 727517
+title: "Wandern auf Madeira fuer Anfaenger"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727517?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727517"
+language: "de"
+---
 # Wandern auf Madeira fuer Anfaenger
 
 > Product ID `58768` · Digistore24 productId `727517` · [HTML profile page](../../produkte/wandern-auf-madeira-fuer-anfaenger-58768.html)

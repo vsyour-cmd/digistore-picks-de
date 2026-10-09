@@ -1,3 +1,24 @@
+---
+product_id: "60135"
+digistore24_product_id: 740784
+title: "Easy Marketing VIP"
+vendor: "easymarketingccaf"
+product_type: "Downloads"
+price: 140.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740784?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740784"
+language: "de"
+---
 # Easy Marketing VIP
 
 > Product ID `60135` · Digistore24 productId `740784` · [HTML profile page](../../produkte/easy-marketing-vip-60135.html)

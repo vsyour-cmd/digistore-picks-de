@@ -1,3 +1,24 @@
+---
+product_id: "58985"
+digistore24_product_id: 730687
+title: "Endlich wieder durchatmen"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 49.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 24.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Leadership & Management","Personal Development"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730687?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730687"
+language: "de"
+---
 # Endlich wieder durchatmen
 
 > Product ID `58985` · Digistore24 productId `730687` · [HTML profile page](../../produkte/endlich-wieder-durchatmen-58985.html)

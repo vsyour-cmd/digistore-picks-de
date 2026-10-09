@@ -1,3 +1,24 @@
+---
+product_id: "60318"
+digistore24_product_id: 710296
+title: "Kündigung leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/710296?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710296"
+language: "de"
+---
 # Kündigung leicht gemacht
 
 > Product ID `60318` · Digistore24 productId `710296` · [HTML profile page](../../produkte/k-ndigung-leicht-gemacht-60318.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41946"
+digistore24_product_id: 462788
+title: "1-Klick Copy+Paste 100K Business | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 250.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 122.21
+cart_conversion_pct: 2
+cancel_rate_pct: 0.86
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2022-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/462788/adminstore"
+sales_page: "https://www.profitbuddies.de/1-klick-copy-paste-100k-business?utm_source=ds24-partner&utm_medium=affiliate&utm_campaign=100k-webinar&utm_content=[AFFILIATE]&aff=[AFFILIATE]"
+language: "de"
+---
 # 1-Klick Copy+Paste 100K Business | Partnerprogramm
 
 > Product ID `41946` · Digistore24 productId `462788` · [HTML profile page](../../produkte/1-klick-copy-paste-100k-business-partnerprogramm-41946.html)

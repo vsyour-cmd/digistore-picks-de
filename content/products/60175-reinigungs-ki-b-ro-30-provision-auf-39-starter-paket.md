@@ -1,3 +1,24 @@
+---
+product_id: "60175"
+digistore24_product_id: 732663
+title: "Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket"
+vendor: "handwerkerkibuero2026"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html?aff=adminstore#aff=adminstore"
+sales_page: "https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html"
+language: "de"
+---
 # Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
 > Product ID `60175` · Digistore24 productId `732663` · [HTML profile page](../../produkte/reinigungs-ki-b-ro-30-provision-auf-39-starter-paket-60175.html)

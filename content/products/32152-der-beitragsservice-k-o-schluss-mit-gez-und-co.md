@@ -1,3 +1,24 @@
+---
+product_id: "32152"
+digistore24_product_id: 304949
+title: "Der Beitragsservice K.O. - Schluss mit GEZ und Co.!"
+vendor: "SG1503"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 42
+earnings_per_sale: 8.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2020-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wissenmachtfrei.com/beitragsservice-gez.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wissenmachtfrei.com/beitragsservice-gez.html"
+language: "de"
+---
 # Der Beitragsservice K.O. - Schluss mit GEZ und Co.!
 
 > Product ID `32152` · Digistore24 productId `304949` · [HTML profile page](../../produkte/der-beitragsservice-k-o-schluss-mit-gez-und-co-32152.html)

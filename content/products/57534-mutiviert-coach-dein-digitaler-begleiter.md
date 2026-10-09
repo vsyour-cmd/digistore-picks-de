@@ -1,3 +1,24 @@
+---
+product_id: "57534"
+digistore24_product_id: 710169
+title: "MUTiviert Coach - Dein digitaler Begleiter"
+vendor: "coachd535"
+product_type: "Member area and video courses"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/710169?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710169"
+language: "de"
+---
 # MUTiviert Coach - Dein digitaler Begleiter
 
 > Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../produkte/mutiviert-coach-dein-digitaler-begleiter-57534.html)

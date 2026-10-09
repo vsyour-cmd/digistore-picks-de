@@ -1,3 +1,24 @@
+---
+product_id: "49971"
+digistore24_product_id: 574522
+title: "Online Business leicht gemacht"
+vendor: "werni1"
+product_type: "E-books"
+price: 0.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 31
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/g5QdYJvKzfEcG9Esk?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/g5QdYJvKzfEcG9Esk"
+language: "de"
+---
 # Online Business leicht gemacht
 
 > Product ID `49971` · Digistore24 productId `574522` · [HTML profile page](../../produkte/online-business-leicht-gemacht-49971.html)

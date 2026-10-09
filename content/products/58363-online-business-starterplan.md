@@ -1,3 +1,24 @@
+---
+product_id: "58363"
+digistore24_product_id: 721082
+title: "Online-Business Starterplan"
+vendor: "remotecreatorsclub"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 9.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2026-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.remotecreatorsclub.com/tools?aff=adminstore#aff=adminstore"
+sales_page: "https://www.remotecreatorsclub.com/tools"
+language: "de"
+---
 # Online-Business Starterplan
 
 > Product ID `58363` · Digistore24 productId `721082` · [HTML profile page](../../produkte/online-business-starterplan-58363.html)

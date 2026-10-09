@@ -1,3 +1,24 @@
+---
+product_id: "42986"
+digistore24_product_id: 327990
+title: "PlayersHUB Academy 6 Monats Paket"
+vendor: "playershub"
+product_type: "Member area and video courses"
+price: 118.54
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 14.34
+cart_conversion_pct: 17
+cancel_rate_pct: 1.74
+categories: ["Computer & Internet","Fun & Games"]
+listed_since: "2020-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lol.playershubacademy.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://lol.playershubacademy.de/"
+language: "de"
+---
 # PlayersHUB Academy 6 Monats Paket
 
 > Product ID `42986` · Digistore24 productId `327990` · [HTML profile page](../../produkte/playershub-academy-6-monats-paket-42986.html)

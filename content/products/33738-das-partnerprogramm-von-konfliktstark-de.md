@@ -1,3 +1,24 @@
+---
+product_id: "33738"
+digistore24_product_id: 118555
+title: "Das Partnerprogramm von \"KonfliktStark.de\""
+vendor: "christophmarkss"
+product_type: "Member area and video courses"
+price: 92.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2017-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://konfliktstark.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://konfliktstark.de/"
+language: "de"
+---
 # Das Partnerprogramm von "KonfliktStark.de"
 
 > Product ID `33738` · Digistore24 productId `118555` · [HTML profile page](../../produkte/das-partnerprogramm-von-konfliktstark-de-33738.html)

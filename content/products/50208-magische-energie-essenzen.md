@@ -1,3 +1,24 @@
+---
+product_id: "50208"
+digistore24_product_id: 575794
+title: "Magische Energie Essenzen"
+vendor: "JonathanDilas"
+product_type: "Remote service provided electronically"
+price: 312.09
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 109.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-10-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/"
+language: "de"
+---
 # Magische Energie Essenzen
 
 > Product ID `50208` · Digistore24 productId `575794` · [HTML profile page](../../produkte/magische-energie-essenzen-50208.html)

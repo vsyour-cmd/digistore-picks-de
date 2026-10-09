@@ -1,3 +1,24 @@
+---
+product_id: "37126"
+digistore24_product_id: 330267
+title: "200+ Pressemitteilungen veröffentlichen"
+vendor: "Cleriker"
+product_type: "Remote service provided electronically"
+price: 56.36
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2020-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/pressemitteilung-4-you/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/pressemitteilung-4-you/"
+language: "de"
+---
 # 200+ Pressemitteilungen veröffentlichen
 
 > Product ID `37126` · Digistore24 productId `330267` · [HTML profile page](../../produkte/200-pressemitteilungen-ver-ffentlichen-37126.html)

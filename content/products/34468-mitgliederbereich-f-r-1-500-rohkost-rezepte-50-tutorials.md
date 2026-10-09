@@ -1,3 +1,24 @@
+---
+product_id: "34468"
+digistore24_product_id: 152767
+title: "Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials"
+vendor: "createrawvision"
+product_type: "Downloads"
+price: 27.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://createrawvision.de/meine-40-roh-veganen-lieblingsgerichte-mit-genussgarantie/?aff=adminstore#aff=adminstore"
+sales_page: "http://createrawvision.de/meine-40-roh-veganen-lieblingsgerichte-mit-genussgarantie/"
+language: "de"
+---
 # Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials
 
 > Product ID `34468` · Digistore24 productId `152767` · [HTML profile page](../../produkte/mitgliederbereich-f-r-1-500-rohkost-rezepte-50-tutorials-34468.html)

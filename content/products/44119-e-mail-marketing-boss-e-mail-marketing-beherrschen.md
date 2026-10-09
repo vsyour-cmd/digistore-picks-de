@@ -1,3 +1,24 @@
+---
+product_id: "44119"
+digistore24_product_id: 482128
+title: "E-Mail-Marketing Boss - E-Mail-Marketing beherrschen"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 47.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.29
+cart_conversion_pct: 7
+cancel_rate_pct: 0.22
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/emmb-vkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/emmb-vkslp/"
+language: "de"
+---
 # E-Mail-Marketing Boss - E-Mail-Marketing beherrschen
 
 > Product ID `44119` · Digistore24 productId `482128` · [HTML profile page](../../produkte/e-mail-marketing-boss-e-mail-marketing-beherrschen-44119.html)

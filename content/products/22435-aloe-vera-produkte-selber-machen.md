@@ -1,3 +1,24 @@
+---
+product_id: "22435"
+digistore24_product_id: 196089
+title: "ALOE-VERA Produkte selber machen"
+vendor: "chef63"
+product_type: "Downloads"
+price: 6.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aloe-vera.funnelcockpit.com/produkte/?aff=adminstore#aff=adminstore"
+sales_page: "https://aloe-vera.funnelcockpit.com/produkte/"
+language: "de"
+---
 # ALOE-VERA Produkte selber machen
 
 > Product ID `22435` · Digistore24 productId `196089` · [HTML profile page](../../produkte/aloe-vera-produkte-selber-machen-22435.html)

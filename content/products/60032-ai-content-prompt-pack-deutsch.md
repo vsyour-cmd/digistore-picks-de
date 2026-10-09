@@ -1,3 +1,24 @@
+---
+product_id: "60032"
+digistore24_product_id: 738781
+title: "AI Content Prompt Pack (Deutsch)"
+vendor: "xarutacom"
+product_type: "E-books"
+price: 24.05
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 6.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/"
+language: "de"
+---
 # AI Content Prompt Pack (Deutsch)
 
 > Product ID `60032` · Digistore24 productId `738781` · [HTML profile page](../../produkte/ai-content-prompt-pack-deutsch-60032.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56911"
+digistore24_product_id: 701346
+title: "Erfolgreich als Coach mit LinkedIn"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin"
+language: "de"
+---
 # Erfolgreich als Coach mit LinkedIn
 
 > Product ID `56911` · Digistore24 productId `701346` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-linkedin-56911.html)

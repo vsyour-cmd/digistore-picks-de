@@ -1,3 +1,24 @@
+---
+product_id: "57339"
+digistore24_product_id: 655460
+title: "12 Power Prinzipien – Bob Proctor (The Secret)"
+vendor: "lsmedia"
+product_type: "Downloads"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 48.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.bobproctor.de/produkt/12-power-prinzipien/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.bobproctor.de/produkt/12-power-prinzipien/"
+language: "de"
+---
 # 12 Power Prinzipien – Bob Proctor (The Secret)
 
 > Product ID `57339` · Digistore24 productId `655460` · [HTML profile page](../../produkte/12-power-prinzipien-bob-proctor-the-secret-57339.html)

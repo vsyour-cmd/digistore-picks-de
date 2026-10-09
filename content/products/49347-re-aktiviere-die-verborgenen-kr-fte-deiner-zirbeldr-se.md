@@ -1,3 +1,24 @@
+---
+product_id: "49347"
+digistore24_product_id: 569534
+title: "(Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse"
+vendor: "Insider-Media"
+product_type: "Member area and video courses"
+price: 166.38
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 49.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://zirbeldruese.spryfuel.com/zirbeldrse-aktivieren-komplettkurs-3889?aff=adminstore#aff=adminstore"
+sales_page: "https://zirbeldruese.spryfuel.com/zirbeldrse-aktivieren-komplettkurs-3889"
+language: "de"
+---
 # (Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse
 
 > Product ID `49347` · Digistore24 productId `569534` · [HTML profile page](../../produkte/re-aktiviere-die-verborgenen-kr-fte-deiner-zirbeldr-se-49347.html)

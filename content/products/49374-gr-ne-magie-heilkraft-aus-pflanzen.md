@@ -1,3 +1,24 @@
+---
+product_id: "49374"
+digistore24_product_id: 569388
+title: "Grüne Magie - Heilkraft aus Pflanzen"
+vendor: "stable-stuff"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2024-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/"
+language: "de"
+---
 # Grüne Magie - Heilkraft aus Pflanzen
 
 > Product ID `49374` · Digistore24 productId `569388` · [HTML profile page](../../produkte/gr-ne-magie-heilkraft-aus-pflanzen-49374.html)

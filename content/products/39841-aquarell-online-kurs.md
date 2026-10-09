@@ -1,3 +1,24 @@
+---
+product_id: "39841"
+digistore24_product_id: 408366
+title: "Aquarell Online Kurs"
+vendor: "Timothy90"
+product_type: "Member area and video courses"
+price: 85.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.12
+cart_conversion_pct: 8
+cancel_rate_pct: 0.59
+categories: ["Hobby & Craft"]
+listed_since: "2021-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore"
+sales_page: "https://manylearn.com/kurse/aquarell-zauber"
+language: "de"
+---
 # Aquarell Online Kurs
 
 > Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../produkte/aquarell-online-kurs-39841.html)

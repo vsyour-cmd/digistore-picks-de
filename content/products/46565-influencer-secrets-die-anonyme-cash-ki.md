@@ -1,3 +1,24 @@
+---
+product_id: "46565"
+digistore24_product_id: 531287
+title: "Influencer Secrets - Die anonyme Cash KI"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 120.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/Influencer-ki/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/Influencer-ki/"
+language: "de"
+---
 # Influencer Secrets - Die anonyme Cash KI
 
 > Product ID `46565` · Digistore24 productId `531287` · [HTML profile page](../../produkte/influencer-secrets-die-anonyme-cash-ki-46565.html)

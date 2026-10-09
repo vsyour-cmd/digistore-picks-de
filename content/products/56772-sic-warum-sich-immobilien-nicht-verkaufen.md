@@ -1,3 +1,24 @@
+---
+product_id: "56772"
+digistore24_product_id: 692320
+title: "SIC - Warum sich Immobilien nicht verkaufen"
+vendor: "Immoclear"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Real Estate","Marketing Services"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen"
+language: "de"
+---
 # SIC - Warum sich Immobilien nicht verkaufen
 
 > Product ID `56772` · Digistore24 productId `692320` · [HTML profile page](../../produkte/sic-warum-sich-immobilien-nicht-verkaufen-56772.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43901"
+digistore24_product_id: 497278
+title: "Die besten 7 Online Marketing Tools der Profis"
+vendor: "werni1"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ru1gik.eu-1.quentn-site.com/7-online-marketing-tools?aff=adminstore#aff=adminstore"
+sales_page: "https://ru1gik.eu-1.quentn-site.com/7-online-marketing-tools"
+language: "de"
+---
 # Die besten 7 Online Marketing Tools der Profis
 
 > Product ID `43901` · Digistore24 productId `497278` · [HTML profile page](../../produkte/die-besten-7-online-marketing-tools-der-profis-43901.html)

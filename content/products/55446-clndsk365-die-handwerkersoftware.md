@@ -1,3 +1,24 @@
+---
+product_id: "55446"
+digistore24_product_id: 638846
+title: "CLNDSK365 - Die Handwerkersoftware"
+vendor: "Cleandesk365"
+product_type: "Software"
+price: 444.08
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 133.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Software"]
+listed_since: "2025-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638846?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638846"
+language: "de"
+---
 # CLNDSK365 - Die Handwerkersoftware
 
 > Product ID `55446` · Digistore24 productId `638846` · [HTML profile page](../../produkte/clndsk365-die-handwerkersoftware-55446.html)

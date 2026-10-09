@@ -1,3 +1,24 @@
+---
+product_id: "47951"
+digistore24_product_id: 544868
+title: "Das neue Buch: EnergieHypnose"
+vendor: "hh-akademie"
+product_type: "Book (printed)"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.57
+cart_conversion_pct: 10
+cancel_rate_pct: 0.47
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://energiehypnose.at?aff=adminstore#aff=adminstore"
+sales_page: "https://energiehypnose.at"
+language: "de"
+---
 # Das neue Buch: EnergieHypnose
 
 > Product ID `47951` · Digistore24 productId `544868` · [HTML profile page](../../produkte/das-neue-buch-energiehypnose-47951.html)

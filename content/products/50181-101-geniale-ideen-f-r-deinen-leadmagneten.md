@@ -1,3 +1,24 @@
+---
+product_id: "50181"
+digistore24_product_id: 571736
+title: "101 geniale Ideen für deinen Leadmagneten"
+vendor: "iliasmak"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2024-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ilias-marketing.de/101-gifdl/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/101-gifdl/"
+language: "de"
+---
 # 101 geniale Ideen für deinen Leadmagneten
 
 > Product ID `50181` · Digistore24 productId `571736` · [HTML profile page](../../produkte/101-geniale-ideen-f-r-deinen-leadmagneten-50181.html)

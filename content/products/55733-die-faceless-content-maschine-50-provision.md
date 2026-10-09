@@ -1,3 +1,24 @@
+---
+product_id: "55733"
+digistore24_product_id: 671416
+title: "Die Faceless Content Maschine – 50% Provision"
+vendor: "moritzfrowein97a1a2"
+product_type: "E-books"
+price: 41.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://e-bookshop.systeme.io/33d275d1?aff=adminstore#aff=adminstore"
+sales_page: "https://e-bookshop.systeme.io/33d275d1"
+language: "de"
+---
 # Die Faceless Content Maschine – 50% Provision
 
 > Product ID `55733` · Digistore24 productId `671416` · [HTML profile page](../../produkte/die-faceless-content-maschine-50-provision-55733.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55716"
+digistore24_product_id: 670803
+title: "Social Media Masterclass"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 56.4
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/670803?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/670803"
+language: "de"
+---
 # Social Media Masterclass
 
 > Product ID `55716` · Digistore24 productId `670803` · [HTML profile page](../../produkte/social-media-masterclass-55716.html)

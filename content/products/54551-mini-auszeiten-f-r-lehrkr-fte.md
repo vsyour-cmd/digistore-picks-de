@@ -1,3 +1,24 @@
+---
+product_id: "54551"
+digistore24_product_id: 644074
+title: "Mini-Auszeiten für Lehrkräfte"
+vendor: "Lehrkraftoase"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lehrkraftoase.de/e-books-fuer-dich/?aff=adminstore#aff=adminstore"
+sales_page: "https://lehrkraftoase.de/e-books-fuer-dich/"
+language: "de"
+---
 # Mini-Auszeiten für Lehrkräfte
 
 > Product ID `54551` · Digistore24 productId `644074` · [HTML profile page](../../produkte/mini-auszeiten-f-r-lehrkr-fte-54551.html)

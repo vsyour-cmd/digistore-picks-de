@@ -1,3 +1,24 @@
+---
+product_id: "12457"
+digistore24_product_id: 50399
+title: "Geldcoaching-Kurse Gesamtpaket PLUS"
+vendor: "AngelKing"
+product_type: "Member area and video courses"
+price: 104.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 52.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2015-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/"
+language: "de"
+---
 # Geldcoaching-Kurse Gesamtpaket PLUS
 
 > Product ID `12457` · Digistore24 productId `50399` · [HTML profile page](../../produkte/geldcoaching-kurse-gesamtpaket-plus-12457.html)

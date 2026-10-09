@@ -1,3 +1,24 @@
+---
+product_id: "59541"
+digistore24_product_id: 735885
+title: "Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision"
+vendor: "DerPate"
+product_type: "Downloads"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Health & Fitness"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinevorlagenkiste.de/ruhige-naechte/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinevorlagenkiste.de/ruhige-naechte/"
+language: "de"
+---
 # Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision
 
 > Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../produkte/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)

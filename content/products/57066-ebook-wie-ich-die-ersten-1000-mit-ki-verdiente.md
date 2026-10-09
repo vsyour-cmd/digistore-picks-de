@@ -1,3 +1,24 @@
+---
+product_id: "57066"
+digistore24_product_id: 703407
+title: "eBook - Wie ich die ersten 1000 € mit KI verdiente"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/erster-1000-euro-monat-ki?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/erster-1000-euro-monat-ki"
+language: "de"
+---
 # eBook - Wie ich die ersten 1000 € mit KI verdiente
 
 > Product ID `57066` · Digistore24 productId `703407` · [HTML profile page](../../produkte/ebook-wie-ich-die-ersten-1000-mit-ki-verdiente-57066.html)

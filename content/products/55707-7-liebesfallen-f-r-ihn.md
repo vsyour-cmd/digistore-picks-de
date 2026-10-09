@@ -1,3 +1,24 @@
+---
+product_id: "55707"
+digistore24_product_id: 670682
+title: "7 LIEBESFALLEN für IHN"
+vendor: "benjaminmeisebaf3"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Survival"]
+listed_since: "2026-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/670682?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/670682"
+language: "de"
+---
 # 7 LIEBESFALLEN für IHN
 
 > Product ID `55707` · Digistore24 productId `670682` · [HTML profile page](../../produkte/7-liebesfallen-f-r-ihn-55707.html)

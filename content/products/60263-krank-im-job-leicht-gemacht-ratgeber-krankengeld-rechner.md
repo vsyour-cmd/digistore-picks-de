@@ -1,3 +1,24 @@
+---
+product_id: "60263"
+digistore24_product_id: 740818
+title: "Krank im Job leicht gemacht – Ratgeber + Krankengeld-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Law & Justice","Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740818?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740818"
+language: "de"
+---
 # Krank im Job leicht gemacht – Ratgeber + Krankengeld-Rechner
 
 > Product ID `60263` · Digistore24 productId `740818` · [HTML profile page](../../produkte/krank-im-job-leicht-gemacht-ratgeber-krankengeld-rechner-60263.html)

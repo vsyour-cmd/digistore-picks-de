@@ -1,3 +1,24 @@
+---
+product_id: "60153"
+digistore24_product_id: 551627
+title: "Business Starter"
+vendor: "Kisman"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Services"]
+listed_since: "2026-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://viktor-kisman.com/business-starter-lp?aff=adminstore#aff=adminstore"
+sales_page: "https://viktor-kisman.com/business-starter-lp"
+language: "de"
+---
 # Business Starter
 
 > Product ID `60153` · Digistore24 productId `551627` · [HTML profile page](../../produkte/business-starter-60153.html)

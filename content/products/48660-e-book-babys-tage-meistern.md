@@ -1,3 +1,24 @@
+---
+product_id: "48660"
+digistore24_product_id: 449008
+title: "E-Book: \"Babys Tage meistern\""
+vendor: "babyschlummerland"
+product_type: "E-books"
+price: 28.59
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.38
+cart_conversion_pct: 8
+cancel_rate_pct: 1.86
+categories: ["Family & Children"]
+listed_since: "2022-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/"
+language: "de"
+---
 # E-Book: "Babys Tage meistern"
 
 > Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../produkte/e-book-babys-tage-meistern-48660.html)

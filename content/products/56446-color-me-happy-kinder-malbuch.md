@@ -1,3 +1,24 @@
+---
+product_id: "56446"
+digistore24_product_id: 689765
+title: "Color Me Happy - Kinder Malbuch"
+vendor: "Freifone"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/kids/color-me-happy?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/kids/color-me-happy"
+language: "de"
+---
 # Color Me Happy - Kinder Malbuch
 
 > Product ID `56446` · Digistore24 productId `689765` · [HTML profile page](../../produkte/color-me-happy-kinder-malbuch-56446.html)

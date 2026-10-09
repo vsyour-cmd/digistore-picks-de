@@ -1,3 +1,24 @@
+---
+product_id: "25163"
+digistore24_product_id: 217835
+title: "DSGVO Patron Classic Lizenz"
+vendor: "hinmed"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 7.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2018-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wpliftup.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://wpliftup.de/"
+language: "de"
+---
 # DSGVO Patron Classic Lizenz
 
 > Product ID `25163` · Digistore24 productId `217835` · [HTML profile page](../../produkte/dsgvo-patron-classic-lizenz-25163.html)

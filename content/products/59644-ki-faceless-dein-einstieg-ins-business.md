@@ -1,3 +1,24 @@
+---
+product_id: "59644"
+digistore24_product_id: 736777
+title: "KI Faceless dein Einstieg ins Business"
+vendor: "julianper2021776d"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736777?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736777"
+language: "de"
+---
 # KI Faceless dein Einstieg ins Business
 
 > Product ID `59644` · Digistore24 productId `736777` · [HTML profile page](../../produkte/ki-faceless-dein-einstieg-ins-business-59644.html)

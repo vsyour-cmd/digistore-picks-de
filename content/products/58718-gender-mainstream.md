@@ -1,3 +1,24 @@
+---
+product_id: "58718"
+digistore24_product_id: 716554
+title: "Gender Mainstream"
+vendor: "Novaris_web"
+product_type: "E-books"
+price: 8.26
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/gender.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/gender.php"
+language: "de"
+---
 # Gender Mainstream
 
 > Product ID `58718` · Digistore24 productId `716554` · [HTML profile page](../../produkte/gender-mainstream-58718.html)

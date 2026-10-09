@@ -1,3 +1,24 @@
+---
+product_id: "56094"
+digistore24_product_id: 679892
+title: "Grenzen setzen Bundle"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 104.43
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 25.48
+cart_conversion_pct: 7
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
+language: "de"
+---
 # Grenzen setzen Bundle
 
 > Product ID `56094` · Digistore24 productId `679892` · [HTML profile page](../../produkte/grenzen-setzen-bundle-56094.html)

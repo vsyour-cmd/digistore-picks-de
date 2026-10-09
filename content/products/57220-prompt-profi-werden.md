@@ -1,3 +1,24 @@
+---
+product_id: "57220"
+digistore24_product_id: 701978
+title: "Prompt-Profi werden"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/prompt-profi-werden?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/prompt-profi-werden"
+language: "de"
+---
 # Prompt-Profi werden
 
 > Product ID `57220` · Digistore24 productId `701978` · [HTML profile page](../../produkte/prompt-profi-werden-57220.html)

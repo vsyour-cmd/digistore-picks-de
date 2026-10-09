@@ -1,3 +1,24 @@
+---
+product_id: "51154"
+digistore24_product_id: 588746
+title: "Selbstgeführte Stadtrallye Magdeburg | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2025-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-magdeburg/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-magdeburg/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Magdeburg | Hint-Caching
 
 > Product ID `51154` · Digistore24 productId `588746` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-magdeburg-hint-caching-51154.html)

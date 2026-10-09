@@ -1,3 +1,24 @@
+---
+product_id: "56186"
+digistore24_product_id: 662904
+title: "Onlinekurs Lektinfreie Ernährung leichtgemacht!"
+vendor: "actrice21"
+product_type: "Member area and video courses"
+price: 128.78
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 32.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/"
+language: "de"
+---
 # Onlinekurs Lektinfreie Ernährung leichtgemacht!
 
 > Product ID `56186` · Digistore24 productId `662904` · [HTML profile page](../../produkte/onlinekurs-lektinfreie-ern-hrung-leichtgemacht-56186.html)

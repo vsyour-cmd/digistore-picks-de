@@ -1,3 +1,24 @@
+---
+product_id: "59401"
+digistore24_product_id: 732869
+title: "Der Perspektivwechsel - Premium"
+vendor: "AnandaBernstein"
+product_type: "Online coaching"
+price: 657.05
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 131.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Marketing Services"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html?aff=adminstore#aff=adminstore"
+sales_page: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html"
+language: "de"
+---
 # Der Perspektivwechsel - Premium
 
 > Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../produkte/der-perspektivwechsel-premium-59401.html)

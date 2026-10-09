@@ -1,3 +1,24 @@
+---
+product_id: "57381"
+digistore24_product_id: 708060
+title: "AI Email Manager: Gmail Notion Automatisierung"
+vendor: "DeinKiService"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Marketing Services"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/708060?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/708060"
+language: "de"
+---
 # AI Email Manager: Gmail Notion Automatisierung
 
 > Product ID `57381` · Digistore24 productId `708060` · [HTML profile page](../../produkte/ai-email-manager-gmail-notion-automatisierung-57381.html)

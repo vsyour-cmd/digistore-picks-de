@@ -1,3 +1,24 @@
+---
+product_id: "44521"
+digistore24_product_id: 181839
+title: "VA Online Kurs"
+vendor: "veru79"
+product_type: "Member area and video courses"
+price: 42.28
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 12.1
+cart_conversion_pct: 9
+cancel_rate_pct: 2.71
+categories: ["Education"]
+listed_since: "2017-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fernarbeit.net/virtueller-assistent-online-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://fernarbeit.net/virtueller-assistent-online-kurs/"
+language: "de"
+---
 # VA Online Kurs
 
 > Product ID `44521` · Digistore24 productId `181839` · [HTML profile page](../../produkte/va-online-kurs-44521.html)

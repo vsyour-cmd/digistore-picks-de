@@ -1,3 +1,24 @@
+---
+product_id: "52324"
+digistore24_product_id: 598313
+title: "Selbstgeführte Stadtrallye Verona | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2025-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-verona/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-verona/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Verona | Hint-Caching
 
 > Product ID `52324` · Digistore24 productId `598313` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-verona-hint-caching-52324.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55411"
+digistore24_product_id: 665348
+title: "Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst"
+vendor: "StudioSusi"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/665348?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665348"
+language: "de"
+---
 # Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst
 
 > Product ID `55411` · Digistore24 productId `665348` · [HTML profile page](../../produkte/zahnarzt-ohne-tr-nen-der-eltern-ratgeber-bei-zahnarztangst-55411.html)

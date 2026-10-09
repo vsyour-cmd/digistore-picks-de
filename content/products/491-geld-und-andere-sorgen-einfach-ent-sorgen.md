@@ -1,3 +1,24 @@
+---
+product_id: "491"
+digistore24_product_id: 11155
+title: "Geld- und andere Sorgen einfach ent-sorgen"
+vendor: "AngelKing"
+product_type: "Member area and video courses"
+price: 9.37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2013-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/"
+language: "de"
+---
 # Geld- und andere Sorgen einfach ent-sorgen
 
 > Product ID `491` · Digistore24 productId `11155` · [HTML profile page](../../produkte/geld-und-andere-sorgen-einfach-ent-sorgen-491.html)

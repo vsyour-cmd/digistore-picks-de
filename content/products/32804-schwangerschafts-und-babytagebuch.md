@@ -1,3 +1,24 @@
+---
+product_id: "32804"
+digistore24_product_id: 326981
+title: "Schwangerschafts- und Babytagebuch"
+vendor: "LaClaudineFotografie"
+product_type: "Deliverable"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.laclaudine-fotografie.de/schwangerschafts-babytagebuch/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.laclaudine-fotografie.de/schwangerschafts-babytagebuch/"
+language: "de"
+---
 # Schwangerschafts- und Babytagebuch
 
 > Product ID `32804` · Digistore24 productId `326981` · [HTML profile page](../../produkte/schwangerschafts-und-babytagebuch-32804.html)

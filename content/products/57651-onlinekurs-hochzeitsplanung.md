@@ -1,3 +1,24 @@
+---
+product_id: "57651"
+digistore24_product_id: 711585
+title: "Onlinekurs Hochzeitsplanung"
+vendor: "AnnieScholzEvents"
+product_type: "Member area and video courses"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 33.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/711585?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711585"
+language: "de"
+---
 # Onlinekurs Hochzeitsplanung
 
 > Product ID `57651` · Digistore24 productId `711585` · [HTML profile page](../../produkte/onlinekurs-hochzeitsplanung-57651.html)

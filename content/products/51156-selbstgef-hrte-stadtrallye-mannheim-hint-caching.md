@@ -1,3 +1,24 @@
+---
+product_id: "51156"
+digistore24_product_id: 464090
+title: "Selbstgeführte Stadtrallye Mannheim | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-mannheim/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-mannheim/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Mannheim | Hint-Caching
 
 > Product ID `51156` · Digistore24 productId `464090` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-mannheim-hint-caching-51156.html)

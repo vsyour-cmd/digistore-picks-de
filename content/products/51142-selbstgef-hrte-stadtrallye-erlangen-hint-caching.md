@@ -1,3 +1,24 @@
+---
+product_id: "51142"
+digistore24_product_id: 588747
+title: "Selbstgeführte Stadtrallye Erlangen | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2025-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-erlangen/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-erlangen/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Erlangen | Hint-Caching
 
 > Product ID `51142` · Digistore24 productId `588747` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-erlangen-hint-caching-51142.html)

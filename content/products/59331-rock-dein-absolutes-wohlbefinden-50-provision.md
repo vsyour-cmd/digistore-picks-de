@@ -1,3 +1,24 @@
+---
+product_id: "59331"
+digistore24_product_id: 532424
+title: "Rock dein absolutes Wohlbefinden - 50% Provision"
+vendor: "user2946083"
+product_type: "Webinar"
+price: 709.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 354.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Marketing Services"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/?aff=adminstore#aff=adminstore"
+sales_page: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/"
+language: "de"
+---
 # Rock dein absolutes Wohlbefinden - 50% Provision
 
 > Product ID `59331` · Digistore24 productId `532424` · [HTML profile page](../../produkte/rock-dein-absolutes-wohlbefinden-50-provision-59331.html)

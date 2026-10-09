@@ -1,3 +1,24 @@
+---
+product_id: "52084"
+digistore24_product_id: 566575
+title: "Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!"
+vendor: "KarineMastroleo"
+product_type: "Member area and video courses"
+price: 95.49
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 10.83
+cart_conversion_pct: 20
+cancel_rate_pct: 2.9
+categories: ["Animals & Pets"]
+listed_since: "2024-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/"
+language: "de"
+---
 # Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!
 
 > Product ID `52084` · Digistore24 productId `566575` · [HTML profile page](../../produkte/hundegruppen-im-gleichgewicht-dynamik-und-harmonie-f-rdern-52084.html)

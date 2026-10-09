@@ -1,3 +1,24 @@
+---
+product_id: "39593"
+digistore24_product_id: 431719
+title: "High Frequency Evergreen Kongress - VIP Paket und Bundle"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 110.92
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 55.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2022-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.highfrequencykongress.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.highfrequencykongress.de/"
+language: "de"
+---
 # High Frequency Evergreen Kongress - VIP Paket und Bundle
 
 > Product ID `39593` · Digistore24 productId `431719` · [HTML profile page](../../produkte/high-frequency-evergreen-kongress-vip-paket-und-bundle-39593.html)

@@ -1,3 +1,24 @@
+---
+product_id: "31654"
+digistore24_product_id: 307235
+title: "Nils (Norwegischkurs für Anfänger) Niveau A1/A2"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 303.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 63.41
+cart_conversion_pct: 4
+cancel_rate_pct: 1.14
+categories: ["Languages"]
+listed_since: "2020-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://skapago.coachy.net/lp/nils-norwegischkurs-fur-anfanger/?aff=adminstore#aff=adminstore"
+sales_page: "https://skapago.coachy.net/lp/nils-norwegischkurs-fur-anfanger/"
+language: "de"
+---
 # Nils (Norwegischkurs für Anfänger) Niveau A1/A2
 
 > Product ID `31654` · Digistore24 productId `307235` · [HTML profile page](../../produkte/nils-norwegischkurs-f-r-anf-nger-niveau-a1-a2-31654.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59959"
+digistore24_product_id: 671870
+title: "Teig-Architekt"
+vendor: "succeed"
+product_type: "Software"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 8.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Hobby & Craft","Software"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brotmitherz.de/brot-hydratationsrechner/?aff=adminstore#aff=adminstore"
+sales_page: "https://brotmitherz.de/brot-hydratationsrechner/"
+language: "de"
+---
 # Teig-Architekt
 
 > Product ID `59959` · Digistore24 productId `671870` · [HTML profile page](../../produkte/teig-architekt-59959.html)

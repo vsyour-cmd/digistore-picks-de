@@ -1,3 +1,24 @@
+---
+product_id: "35345"
+digistore24_product_id: 304721
+title: "Endlich rauchfrei - Mental Training"
+vendor: "OKsuccess"
+product_type: "Downloads"
+price: 38.01
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.91
+cart_conversion_pct: 3
+cancel_rate_pct: 0.26
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2020-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brainfood4you.com/lp-endlich-rauchfrei-album?aff=adminstore#aff=adminstore"
+sales_page: "https://brainfood4you.com/lp-endlich-rauchfrei-album"
+language: "de"
+---
 # Endlich rauchfrei - Mental Training
 
 > Product ID `35345` · Digistore24 productId `304721` · [HTML profile page](../../produkte/endlich-rauchfrei-mental-training-35345.html)

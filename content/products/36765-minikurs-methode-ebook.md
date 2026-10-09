@@ -1,3 +1,24 @@
+---
+product_id: "36765"
+digistore24_product_id: 391052
+title: "Minikurs-Methode, Ebook"
+vendor: "Jyotima"
+product_type: "E-books"
+price: 12.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jyotimaflak.com/minikursmethode/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/minikursmethode/"
+language: "de"
+---
 # Minikurs-Methode, Ebook
 
 > Product ID `36765` · Digistore24 productId `391052` · [HTML profile page](../../produkte/minikurs-methode-ebook-36765.html)

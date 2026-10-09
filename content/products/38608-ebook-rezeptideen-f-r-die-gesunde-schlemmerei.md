@@ -1,3 +1,24 @@
+---
+product_id: "38608"
+digistore24_product_id: 421370
+title: "eBook - Rezeptideen für die Gesunde Schlemmerei"
+vendor: "bebrave"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2021-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/421370?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/421370"
+language: "de"
+---
 # eBook - Rezeptideen für die Gesunde Schlemmerei
 
 > Product ID `38608` · Digistore24 productId `421370` · [HTML profile page](../../produkte/ebook-rezeptideen-f-r-die-gesunde-schlemmerei-38608.html)

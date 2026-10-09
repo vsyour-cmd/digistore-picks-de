@@ -1,3 +1,24 @@
+---
+product_id: "44324"
+digistore24_product_id: 499575
+title: "Die Manifestation von NeuLand​ + Die NeuLand Welle"
+vendor: "jwalaundkarlgamper"
+product_type: "Downloads"
+price: 921.2
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 184.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2023-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/499575?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/499575"
+language: "de"
+---
 # Die Manifestation von NeuLand​ + Die NeuLand Welle
 
 > Product ID `44324` · Digistore24 productId `499575` · [HTML profile page](../../produkte/die-manifestation-von-neuland-die-neuland-welle-44324.html)

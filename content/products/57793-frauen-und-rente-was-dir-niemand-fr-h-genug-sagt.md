@@ -1,3 +1,24 @@
+---
+product_id: "57793"
+digistore24_product_id: 708976
+title: "Frauen und Rente-Was dir niemand früh genug sagt"
+vendor: "StreetArtCompany"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/708976?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/708976"
+language: "de"
+---
 # Frauen und Rente-Was dir niemand früh genug sagt
 
 > Product ID `57793` · Digistore24 productId `708976` · [HTML profile page](../../produkte/frauen-und-rente-was-dir-niemand-fr-h-genug-sagt-57793.html)

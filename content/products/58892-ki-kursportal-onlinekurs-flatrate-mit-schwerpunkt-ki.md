@@ -1,3 +1,24 @@
+---
+product_id: "58892"
+digistore24_product_id: 727271
+title: "KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 18.8
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/"
+language: "de"
+---
 # KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI
 
 > Product ID `58892` · Digistore24 productId `727271` · [HTML profile page](../../produkte/ki-kursportal-onlinekurs-flatrate-mit-schwerpunkt-ki-58892.html)

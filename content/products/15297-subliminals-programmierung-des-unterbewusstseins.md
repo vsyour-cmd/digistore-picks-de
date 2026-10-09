@@ -1,3 +1,24 @@
+---
+product_id: "15297"
+digistore24_product_id: 143175
+title: "Subliminals: Programmierung des Unterbewusstseins"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2017-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/reality-shift-2-0/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/reality-shift-2-0/"
+language: "de"
+---
 # Subliminals: Programmierung des Unterbewusstseins
 
 > Product ID `15297` · Digistore24 productId `143175` · [HTML profile page](../../produkte/subliminals-programmierung-des-unterbewusstseins-15297.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57255"
+digistore24_product_id: 704233
+title: "Immobilien für Einsteiger"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Real Estate"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/immobilien-fuer-einsteiger?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/immobilien-fuer-einsteiger"
+language: "de"
+---
 # Immobilien für Einsteiger
 
 > Product ID `57255` · Digistore24 productId `704233` · [HTML profile page](../../produkte/immobilien-f-r-einsteiger-57255.html)

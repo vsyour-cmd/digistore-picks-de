@@ -1,3 +1,24 @@
+---
+product_id: "35874"
+digistore24_product_id: 375502
+title: "Survival Feuertechniken / Feuer machen wie ein Pro"
+vendor: "ypsilon"
+product_type: "E-books"
+price: 23
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2021-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ousuca.com/buecher/feuer-buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://ousuca.com/buecher/feuer-buch/"
+language: "de"
+---
 # Survival Feuertechniken / Feuer machen wie ein Pro
 
 > Product ID `35874` · Digistore24 productId `375502` · [HTML profile page](../../produkte/survival-feuertechniken-feuer-machen-wie-ein-pro-35874.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60347"
+digistore24_product_id: 741744
+title: "Pflege zu Hause leicht gemacht – mit Pflege-Budget-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741744?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741744"
+language: "de"
+---
 # Pflege zu Hause leicht gemacht – mit Pflege-Budget-Rechner
 
 > Product ID `60347` · Digistore24 productId `741744` · [HTML profile page](../../produkte/pflege-zu-hause-leicht-gemacht-mit-pflege-budget-rechner-60347.html)

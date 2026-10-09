@@ -1,3 +1,24 @@
+---
+product_id: "55477"
+digistore24_product_id: 660001
+title: "Deine GPT Geldmaschine"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.1
+cart_conversion_pct: 62
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/"
+language: "de"
+---
 # Deine GPT Geldmaschine
 
 > Product ID `55477` · Digistore24 productId `660001` · [HTML profile page](../../produkte/deine-gpt-geldmaschine-55477.html)

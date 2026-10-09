@@ -1,3 +1,24 @@
+---
+product_id: "31633"
+digistore24_product_id: 305926
+title: "Dankbarkeitstagebuch für Kinder"
+vendor: "LRoeck"
+product_type: "Book (printed)"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://happinessforkids.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://happinessforkids.de/"
+language: "de"
+---
 # Dankbarkeitstagebuch für Kinder
 
 > Product ID `31633` · Digistore24 productId `305926` · [HTML profile page](../../produkte/dankbarkeitstagebuch-f-r-kinder-31633.html)

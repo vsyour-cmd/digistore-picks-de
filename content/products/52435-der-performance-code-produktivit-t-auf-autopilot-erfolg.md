@@ -1,3 +1,24 @@
+---
+product_id: "52435"
+digistore24_product_id: 611450
+title: "Der Performance Code –  Produktivität auf Autopilot, Erfolg"
+vendor: "Snatchez"
+product_type: "Member area and video courses"
+price: 206.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 103.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2025-05-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/611450?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/611450"
+language: "de"
+---
 # Der Performance Code –  Produktivität auf Autopilot, Erfolg
 
 > Product ID `52435` · Digistore24 productId `611450` · [HTML profile page](../../produkte/der-performance-code-produktivit-t-auf-autopilot-erfolg-52435.html)

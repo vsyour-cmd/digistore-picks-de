@@ -1,3 +1,24 @@
+---
+product_id: "60373"
+digistore24_product_id: 742506
+title: "Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742506?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742506"
+language: "de"
+---
 # Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator
 
 > Product ID `60373` · Digistore24 productId `742506` · [HTML profile page](../../produkte/hausaufgaben-leicht-gemacht-lernplaner-mit-lern-generator-60373.html)

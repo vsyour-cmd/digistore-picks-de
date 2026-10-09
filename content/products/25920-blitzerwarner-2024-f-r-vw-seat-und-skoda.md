@@ -1,3 +1,24 @@
+---
+product_id: "25920"
+digistore24_product_id: 232026
+title: "Blitzerwarner 2024 (für VW, Seat und Skoda)"
+vendor: "Paisla"
+product_type: "Downloads"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 28.5
+earnings_per_sale: 5.65
+cart_conversion_pct: 21
+cancel_rate_pct: 4.94
+categories: ["Software"]
+listed_since: "2018-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.blitzerwarner.autoradio-info.de/go/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.blitzerwarner.autoradio-info.de/go/"
+language: "de"
+---
 # Blitzerwarner 2024 (für VW, Seat und Skoda)
 
 > Product ID `25920` · Digistore24 productId `232026` · [HTML profile page](../../produkte/blitzerwarner-2024-f-r-vw-seat-und-skoda-25920.html)

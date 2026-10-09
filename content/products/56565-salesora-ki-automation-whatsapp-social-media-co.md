@@ -1,3 +1,24 @@
+---
+product_id: "56565"
+digistore24_product_id: 693354
+title: "Salesora - KI-Automation - WhatsApp, Social Media & Co."
+vendor: "no-limit"
+product_type: "Software"
+price: 177.86
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 44.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ai.salesora.de/digi?aff=adminstore#aff=adminstore"
+sales_page: "https://ai.salesora.de/digi"
+language: "de"
+---
 # Salesora - KI-Automation - WhatsApp, Social Media & Co.
 
 > Product ID `56565` · Digistore24 productId `693354` · [HTML profile page](../../produkte/salesora-ki-automation-whatsapp-social-media-co-56565.html)

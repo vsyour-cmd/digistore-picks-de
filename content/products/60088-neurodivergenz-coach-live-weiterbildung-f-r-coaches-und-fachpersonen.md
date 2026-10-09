@@ -1,3 +1,24 @@
+---
+product_id: "60088"
+digistore24_product_id: 716420
+title: "Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
+vendor: "Neurotraining_Akademie"
+product_type: "Online coaching"
+price: 2591.58
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 259.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Personal Development"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://neurotraining-akademie.de/neurodivergenz-coach?aff=adminstore#aff=adminstore"
+sales_page: "https://neurotraining-akademie.de/neurodivergenz-coach"
+language: "de"
+---
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../produkte/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)

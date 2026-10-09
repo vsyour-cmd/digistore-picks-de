@@ -1,3 +1,24 @@
+---
+product_id: "47423"
+digistore24_product_id: 542837
+title: "KI Influencer - Perfekte Influencer durch Face Swapping"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-influencer-frontend?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-influencer-frontend"
+language: "de"
+---
 # KI Influencer - Perfekte Influencer durch Face Swapping
 
 > Product ID `47423` · Digistore24 productId `542837` · [HTML profile page](../../produkte/ki-influencer-perfekte-influencer-durch-face-swapping-47423.html)

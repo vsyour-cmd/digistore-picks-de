@@ -1,3 +1,24 @@
+---
+product_id: "18745"
+digistore24_product_id: 161633
+title: "Steuerfreiheit statt Steuerflucht, Seminar"
+vendor: "SG1503"
+product_type: "Seminar for business customers"
+price: 1409.06
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 234.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2017-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wissenmachtfrei.com/steuerfreiheit.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wissenmachtfrei.com/steuerfreiheit.html"
+language: "de"
+---
 # Steuerfreiheit statt Steuerflucht, Seminar
 
 > Product ID `18745` · Digistore24 productId `161633` · [HTML profile page](../../produkte/steuerfreiheit-statt-steuerflucht-seminar-18745.html)

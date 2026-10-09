@@ -1,3 +1,24 @@
+---
+product_id: "29190"
+digistore24_product_id: 274342
+title: "Into The Woods Lightroom Wedding Presets"
+vendor: "Creative4life"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2019-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://stefanundkai.de/verkaufsseite-presets/?aff=adminstore#aff=adminstore"
+sales_page: "https://stefanundkai.de/verkaufsseite-presets/"
+language: "de"
+---
 # Into The Woods Lightroom Wedding Presets
 
 > Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)

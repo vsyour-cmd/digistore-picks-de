@@ -1,3 +1,24 @@
+---
+product_id: "22445"
+digistore24_product_id: 198891
+title: "Heilige Geometrie - Materialkurs"
+vendor: "AndreasBeutel"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2018-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-beutel.tv/heilige-geometrie-materialkurs?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-beutel.tv/heilige-geometrie-materialkurs"
+language: "de"
+---
 # Heilige Geometrie - Materialkurs
 
 > Product ID `22445` · Digistore24 productId `198891` · [HTML profile page](../../produkte/heilige-geometrie-materialkurs-22445.html)

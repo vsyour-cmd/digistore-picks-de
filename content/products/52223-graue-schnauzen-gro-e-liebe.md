@@ -1,3 +1,24 @@
+---
+product_id: "52223"
+digistore24_product_id: 608625
+title: "Graue Schnauzen große Liebe"
+vendor: "Lauf-Stall"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/608625?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/608625"
+language: "de"
+---
 # Graue Schnauzen große Liebe
 
 > Product ID `52223` · Digistore24 productId `608625` · [HTML profile page](../../produkte/graue-schnauzen-gro-e-liebe-52223.html)

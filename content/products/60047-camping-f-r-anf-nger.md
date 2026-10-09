@@ -1,3 +1,24 @@
+---
+product_id: "60047"
+digistore24_product_id: 739013
+title: "Camping für Anfänger"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Travel & Culture"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/739013?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/739013"
+language: "de"
+---
 # Camping für Anfänger
 
 > Product ID `60047` · Digistore24 productId `739013` · [HTML profile page](../../produkte/camping-f-r-anf-nger-60047.html)

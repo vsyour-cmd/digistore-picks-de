@@ -1,3 +1,24 @@
+---
+product_id: "58518"
+digistore24_product_id: 724885
+title: "Englisch Guide de Luxe"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Leadership & Management"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724885?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724885"
+language: "de"
+---
 # Englisch Guide de Luxe
 
 > Product ID `58518` · Digistore24 productId `724885` · [HTML profile page](../../produkte/englisch-guide-de-luxe-58518.html)

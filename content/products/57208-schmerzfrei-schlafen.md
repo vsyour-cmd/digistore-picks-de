@@ -1,3 +1,24 @@
+---
+product_id: "57208"
+digistore24_product_id: 701967
+title: "Schmerzfrei schlafen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/schmerzfrei-schlafen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/schmerzfrei-schlafen"
+language: "de"
+---
 # Schmerzfrei schlafen
 
 > Product ID `57208` · Digistore24 productId `701967` · [HTML profile page](../../produkte/schmerzfrei-schlafen-57208.html)

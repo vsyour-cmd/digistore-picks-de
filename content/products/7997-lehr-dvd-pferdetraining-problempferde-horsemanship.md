@@ -1,3 +1,24 @@
+---
+product_id: "7997"
+digistore24_product_id: 53165
+title: "Lehr DVD Pferdetraining / Problempferde / Horsemanship"
+vendor: "Linnon"
+product_type: "Deliverable"
+price: 38.49
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2015-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.martinkreuzer.com/produkte/lehr-dvds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.martinkreuzer.com/produkte/lehr-dvds/"
+language: "de"
+---
 # Lehr DVD Pferdetraining / Problempferde / Horsemanship
 
 > Product ID `7997` · Digistore24 productId `53165` · [HTML profile page](../../produkte/lehr-dvd-pferdetraining-problempferde-horsemanship-7997.html)

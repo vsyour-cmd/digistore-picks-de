@@ -1,3 +1,24 @@
+---
+product_id: "52106"
+digistore24_product_id: 600240
+title: "Heimarbeit Paket - VSL der Geld in deine Tasche spült"
+vendor: "Moneycashnow"
+product_type: "Member area and video courses"
+price: 91.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 40.12
+cart_conversion_pct: 8
+cancel_rate_pct: 11.41
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://heimarbeit-taetigkeiten.funnelcockpit.com/heimarbeit-vsl-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://heimarbeit-taetigkeiten.funnelcockpit.com/heimarbeit-vsl-2/"
+language: "de"
+---
 # Heimarbeit Paket - VSL der Geld in deine Tasche spült
 
 > Product ID `52106` · Digistore24 productId `600240` · [HTML profile page](../../produkte/heimarbeit-paket-vsl-der-geld-in-deine-tasche-sp-lt-52106.html)

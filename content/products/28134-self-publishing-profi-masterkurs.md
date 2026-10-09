@@ -1,3 +1,24 @@
+---
+product_id: "28134"
+digistore24_product_id: 250395
+title: "Self Publishing Profi Masterkurs"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 575.92
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 230.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2018-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lp.incomebutler.com/self-publisher-profi-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.incomebutler.com/self-publisher-profi-masterkurs-vk-lp/"
+language: "de"
+---
 # Self Publishing Profi Masterkurs
 
 > Product ID `28134` · Digistore24 productId `250395` · [HTML profile page](../../produkte/self-publishing-profi-masterkurs-28134.html)

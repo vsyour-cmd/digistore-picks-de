@@ -1,3 +1,24 @@
+---
+product_id: "46927"
+digistore24_product_id: 499482
+title: "Frei Leben VIP Paket und Bundle"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 121.93
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/499482?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/499482"
+language: "de"
+---
 # Frei Leben VIP Paket und Bundle
 
 > Product ID `46927` · Digistore24 productId `499482` · [HTML profile page](../../produkte/frei-leben-vip-paket-und-bundle-46927.html)

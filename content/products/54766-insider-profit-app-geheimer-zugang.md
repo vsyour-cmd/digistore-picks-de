@@ -1,3 +1,24 @@
+---
+product_id: "54766"
+digistore24_product_id: 650659
+title: "Insider-Profit-App (geheimer Zugang)"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 0.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.01
+cart_conversion_pct: 54
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Finances"]
+listed_since: "2025-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/tanken?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/tanken"
+language: "de"
+---
 # Insider-Profit-App (geheimer Zugang)
 
 > Product ID `54766` · Digistore24 productId `650659` · [HTML profile page](../../produkte/insider-profit-app-geheimer-zugang-54766.html)

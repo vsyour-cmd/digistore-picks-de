@@ -1,3 +1,24 @@
+---
+product_id: "25511"
+digistore24_product_id: 161923
+title: "Goodbye 9 to 5 - ortsunabhängig Geld verdienen [Hörbuch]"
+vendor: "rheinrost"
+product_type: "Audio book (download)"
+price: 41.71
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 14.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
+listed_since: "2017-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/hoerbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/hoerbuch/"
+language: "de"
+---
 # Goodbye 9 to 5 - ortsunabhängig Geld verdienen [Hörbuch]
 
 > Product ID `25511` · Digistore24 productId `161923` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-geld-verdienen-h-rbuch-25511.html)

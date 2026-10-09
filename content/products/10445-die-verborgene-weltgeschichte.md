@@ -1,3 +1,24 @@
+---
+product_id: "10445"
+digistore24_product_id: 73653
+title: "Die verborgene Weltgeschichte"
+vendor: "RaGarve"
+product_type: "Member area and video courses"
+price: 377.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 74.51
+cart_conversion_pct: 14
+cancel_rate_pct: 6.38
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2016-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://raikgarve.de/geheimnissen-auf-der-spur/die-verborgene-weltgeschichte/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/geheimnissen-auf-der-spur/die-verborgene-weltgeschichte/"
+language: "de"
+---
 # Die verborgene Weltgeschichte
 
 > Product ID `10445` · Digistore24 productId `73653` · [HTML profile page](../../produkte/die-verborgene-weltgeschichte-10445.html)

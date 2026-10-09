@@ -1,3 +1,24 @@
+---
+product_id: "56197"
+digistore24_product_id: 681264
+title: "Die Magie der Worte – Premium-eBook für Affirmationen"
+vendor: "Motivation-Lebensfreude"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://motivation-lebensfreude.de/ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://motivation-lebensfreude.de/ebook/"
+language: "de"
+---
 # Die Magie der Worte – Premium-eBook für Affirmationen
 
 > Product ID `56197` · Digistore24 productId `681264` · [HTML profile page](../../produkte/die-magie-der-worte-premium-ebook-f-r-affirmationen-56197.html)

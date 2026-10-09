@@ -1,3 +1,24 @@
+---
+product_id: "53145"
+digistore24_product_id: 419785
+title: "Herzmagnet Workshop Bundle"
+vendor: "MariaBraunsdorf"
+product_type: "Downloads"
+price: 51.7
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 23.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2021-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/419785?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/419785"
+language: "de"
+---
 # Herzmagnet Workshop Bundle
 
 > Product ID `53145` · Digistore24 productId `419785` · [HTML profile page](../../produkte/herzmagnet-workshop-bundle-53145.html)

@@ -1,3 +1,24 @@
+---
+product_id: "19537"
+digistore24_product_id: 167361
+title: "Online Kurs - Entspannt fliegen bei Turbulenzen"
+vendor: "cockpitbuddy"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2017-10-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.cockpitbuddy.com/turbulenzen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cockpitbuddy.com/turbulenzen"
+language: "de"
+---
 # Online Kurs - Entspannt fliegen bei Turbulenzen
 
 > Product ID `19537` · Digistore24 productId `167361` · [HTML profile page](../../produkte/online-kurs-entspannt-fliegen-bei-turbulenzen-19537.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60130"
+digistore24_product_id: 733775
+title: "NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch"
+vendor: "norwegenkompass"
+product_type: "Member area and video courses"
+price: 121.93
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 36.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nordakademi.no?aff=adminstore#aff=adminstore"
+sales_page: "https://nordakademi.no"
+language: "de"
+---
 # NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch
 
 > Product ID `60130` · Digistore24 productId `733775` · [HTML profile page](../../produkte/nord-akademie-norsk-a1-norwegisch-auf-deutsch-60130.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58665"
+digistore24_product_id: 726045
+title: "PPWR Video-Guide für Handmade-Businesses – 50 % Provision"
+vendor: "petlovede"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Politics & Economy"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726045?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726045"
+language: "de"
+---
 # PPWR Video-Guide für Handmade-Businesses – 50 % Provision
 
 > Product ID `58665` · Digistore24 productId `726045` · [HTML profile page](../../produkte/ppwr-video-guide-f-r-handmade-businesses-50-provision-58665.html)

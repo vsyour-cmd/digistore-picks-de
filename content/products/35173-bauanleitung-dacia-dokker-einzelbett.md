@@ -1,3 +1,24 @@
+---
+product_id: "35173"
+digistore24_product_id: 340378
+title: "Bauanleitung - Dacia Dokker Einzelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/dacia-dokker?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/dacia-dokker"
+language: "de"
+---
 # Bauanleitung - Dacia Dokker Einzelbett
 
 > Product ID `35173` · Digistore24 productId `340378` · [HTML profile page](../../produkte/bauanleitung-dacia-dokker-einzelbett-35173.html)

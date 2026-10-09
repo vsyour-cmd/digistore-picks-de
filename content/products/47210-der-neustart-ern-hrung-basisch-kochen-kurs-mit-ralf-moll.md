@@ -1,3 +1,24 @@
+---
+product_id: "47210"
+digistore24_product_id: 531968
+title: "Der NEUSTART Ernährung Basisch-Kochen-Kurs mit Ralf Moll"
+vendor: "RalfMollFastensuppen"
+product_type: "Online coaching"
+price: 31.4
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.08
+cart_conversion_pct: 16
+cancel_rate_pct: 1.34
+categories: ["Health & Fitness"]
+listed_since: "2023-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-neustart2?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-neustart2"
+language: "de"
+---
 # Der NEUSTART Ernährung Basisch-Kochen-Kurs mit Ralf Moll
 
 > Product ID `47210` · Digistore24 productId `531968` · [HTML profile page](../../produkte/der-neustart-ern-hrung-basisch-kochen-kurs-mit-ralf-moll-47210.html)

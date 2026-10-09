@@ -1,3 +1,24 @@
+---
+product_id: "56660"
+digistore24_product_id: 694742
+title: "Mit deinem Hund innerer Ruhe finden | Audiokurs mit E-Book"
+vendor: "PsycheVital"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Animals & Pets"]
+listed_since: "2026-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.loslassenlernen-online.de/mit-deinem-hund-innere-ruhe-finden-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.loslassenlernen-online.de/mit-deinem-hund-innere-ruhe-finden-1/"
+language: "de"
+---
 # Mit deinem Hund innerer Ruhe finden | Audiokurs mit E-Book
 
 > Product ID `56660` · Digistore24 productId `694742` · [HTML profile page](../../produkte/mit-deinem-hund-innerer-ruhe-finden-audiokurs-mit-e-book-56660.html)

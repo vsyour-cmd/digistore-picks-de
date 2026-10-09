@@ -1,3 +1,24 @@
+---
+product_id: "55080"
+digistore24_product_id: 658579
+title: "Punker Karikatur Grafik"
+vendor: "Karikaturen-Service"
+product_type: "Downloads"
+price: 2.82
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Services","Marketing Services"]
+listed_since: "2026-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm"
+language: "de"
+---
 # Punker Karikatur Grafik
 
 > Product ID `55080` · Digistore24 productId `658579` · [HTML profile page](../../produkte/punker-karikatur-grafik-55080.html)

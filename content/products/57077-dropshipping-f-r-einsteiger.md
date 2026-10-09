@@ -1,3 +1,24 @@
+---
+product_id: "57077"
+digistore24_product_id: 703514
+title: "Dropshipping für Einsteiger"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dropshipping-fuer-einsteiger?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dropshipping-fuer-einsteiger"
+language: "de"
+---
 # Dropshipping für Einsteiger
 
 > Product ID `57077` · Digistore24 productId `703514` · [HTML profile page](../../produkte/dropshipping-f-r-einsteiger-57077.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50000"
+digistore24_product_id: 568077
+title: "Frei Leben Kongress 2"
+vendor: "kongresshero"
+product_type: "Member area and video courses"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/568077?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/568077"
+language: "de"
+---
 # Frei Leben Kongress 2
 
 > Product ID `50000` · Digistore24 productId `568077` · [HTML profile page](../../produkte/frei-leben-kongress-2-50000.html)

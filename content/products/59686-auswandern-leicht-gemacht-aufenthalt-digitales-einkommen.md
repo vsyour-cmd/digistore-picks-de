@@ -1,3 +1,24 @@
+---
+product_id: "59686"
+digistore24_product_id: 736764
+title: "Auswandern leicht gemacht: Aufenthalt  digitales Einkommen"
+vendor: "nowdigitalproducts"
+product_type: "Downloads"
+price: 271.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 108.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/736764?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736764"
+language: "de"
+---
 # Auswandern leicht gemacht: Aufenthalt  digitales Einkommen
 
 > Product ID `59686` · Digistore24 productId `736764` · [HTML profile page](../../produkte/auswandern-leicht-gemacht-aufenthalt-digitales-einkommen-59686.html)

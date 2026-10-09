@@ -1,3 +1,24 @@
+---
+product_id: "48363"
+digistore24_product_id: 556112
+title: "Booster-Kurs \"Welcher Hund passt zu mir?\""
+vendor: "NinaNowak"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Dating, Relationships & Romance","Personal Development"]
+listed_since: "2024-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/"
+language: "de"
+---
 # Booster-Kurs "Welcher Hund passt zu mir?"
 
 > Product ID `48363` · Digistore24 productId `556112` · [HTML profile page](../../produkte/booster-kurs-welcher-hund-passt-zu-mir-48363.html)

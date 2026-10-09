@@ -1,3 +1,24 @@
+---
+product_id: "59786"
+digistore24_product_id: 735275
+title: "E-Mails, die wirken"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 30.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/emdiwir/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/emdiwir/"
+language: "de"
+---
 # E-Mails, die wirken
 
 > Product ID `59786` · Digistore24 productId `735275` · [HTML profile page](../../produkte/e-mails-die-wirken-59786.html)

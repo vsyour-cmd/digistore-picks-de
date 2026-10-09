@@ -1,3 +1,24 @@
+---
+product_id: "33244"
+digistore24_product_id: 323049
+title: "Videokurs \"Herpes war gestern!\""
+vendor: "h2-akademie"
+product_type: "Member area and video courses"
+price: 163.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 81.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.herpes-guru.de/herpes-lm-startseite-produktseite/lm3-warum-es-lebensnotwendig-ist-das-immunsystem-gegen-herpesviren-auszubilden/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.herpes-guru.de/herpes-lm-startseite-produktseite/lm3-warum-es-lebensnotwendig-ist-das-immunsystem-gegen-herpesviren-auszubilden/"
+language: "de"
+---
 # Videokurs "Herpes war gestern!"
 
 > Product ID `33244` · Digistore24 productId `323049` · [HTML profile page](../../produkte/videokurs-herpes-war-gestern-33244.html)

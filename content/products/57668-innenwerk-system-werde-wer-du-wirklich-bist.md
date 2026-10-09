@@ -1,3 +1,24 @@
+---
+product_id: "57668"
+digistore24_product_id: 689739
+title: "InnenWerk-System – Werde, wer Du wirklich bist"
+vendor: "JuergenBraun-Mentoring"
+product_type: "Member area and video courses"
+price: 973.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 291.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Leadership & Management"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://innenwerk-system.systeme.io/?aff=adminstore#aff=adminstore"
+sales_page: "https://innenwerk-system.systeme.io/"
+language: "de"
+---
 # InnenWerk-System – Werde, wer Du wirklich bist
 
 > Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../produkte/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)

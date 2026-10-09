@@ -1,3 +1,24 @@
+---
+product_id: "34069"
+digistore24_product_id: 324895
+title: "Bauanleitung - VW Caddy Doppelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/vw-caddy?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/vw-caddy"
+language: "de"
+---
 # Bauanleitung - VW Caddy Doppelbett
 
 > Product ID `34069` · Digistore24 productId `324895` · [HTML profile page](../../produkte/bauanleitung-vw-caddy-doppelbett-34069.html)

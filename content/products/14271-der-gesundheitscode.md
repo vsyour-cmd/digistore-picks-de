@@ -1,3 +1,24 @@
+---
+product_id: "14271"
+digistore24_product_id: 109797
+title: "Der Gesundheitscode"
+vendor: "RaGarve"
+product_type: "Downloads"
+price: 289.25
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 59.98
+cart_conversion_pct: 21
+cancel_rate_pct: 7.28
+categories: ["Health & Fitness"]
+listed_since: "2016-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/"
+language: "de"
+---
 # Der Gesundheitscode
 
 > Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../produkte/der-gesundheitscode-14271.html)

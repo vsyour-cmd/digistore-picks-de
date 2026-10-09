@@ -1,3 +1,24 @@
+---
+product_id: "51591"
+digistore24_product_id: 596088
+title: "Die Cashflow Garten Community"
+vendor: "tippsnet"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.cashflow-garten.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashflow-garten.de/"
+language: "de"
+---
 # Die Cashflow Garten Community
 
 > Product ID `51591` · Digistore24 productId `596088` · [HTML profile page](../../produkte/die-cashflow-garten-community-51591.html)

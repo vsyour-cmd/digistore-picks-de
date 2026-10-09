@@ -1,3 +1,24 @@
+---
+product_id: "42845"
+digistore24_product_id: 481475
+title: "Unterbewusstsein-Erfolgs-Code"
+vendor: "Erfolg-Intuitiv"
+product_type: "Member area and video courses"
+price: 29.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.86
+cart_conversion_pct: 19
+cancel_rate_pct: 6.03
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/unterbewusstsein-erfolgs-code-online-seminar-vc/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/unterbewusstsein-erfolgs-code-online-seminar-vc/"
+language: "de"
+---
 # Unterbewusstsein-Erfolgs-Code
 
 > Product ID `42845` · Digistore24 productId `481475` · [HTML profile page](../../produkte/unterbewusstsein-erfolgs-code-42845.html)

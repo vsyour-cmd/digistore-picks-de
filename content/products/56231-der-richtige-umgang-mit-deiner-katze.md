@@ -1,3 +1,24 @@
+---
+product_id: "56231"
+digistore24_product_id: 684096
+title: "Der richtige Umgang mit deiner Katze"
+vendor: "Freifone"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/umgang-mit-katze?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/umgang-mit-katze"
+language: "de"
+---
 # Der richtige Umgang mit deiner Katze
 
 > Product ID `56231` · Digistore24 productId `684096` · [HTML profile page](../../produkte/der-richtige-umgang-mit-deiner-katze-56231.html)

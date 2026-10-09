@@ -1,3 +1,24 @@
+---
+product_id: "57330"
+digistore24_product_id: 706659
+title: "Das Luxusauto-Business"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/luxusauto-business?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/luxusauto-business"
+language: "de"
+---
 # Das Luxusauto-Business
 
 > Product ID `57330` · Digistore24 productId `706659` · [HTML profile page](../../produkte/das-luxusauto-business-57330.html)

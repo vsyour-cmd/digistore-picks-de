@@ -1,3 +1,24 @@
+---
+product_id: "55983"
+digistore24_product_id: 670575
+title: "EasyRadionik"
+vendor: "kohnlesoft"
+product_type: "Software"
+price: 486.57
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 50.16
+cart_conversion_pct: 21
+cancel_rate_pct: 2.03
+categories: ["Software","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/670575/adminstore"
+sales_page: "https://easyradionik.de/index.php?mtm_source=digistore24&mtm_medium=affiliate&mtm_campaign=dgs_[CAMPAIGNKEY]&mtm_content=aff_[AFFILIATE]"
+language: "de"
+---
 # EasyRadionik
 
 > Product ID `55983` · Digistore24 productId `670575` · [HTML profile page](../../produkte/easyradionik-55983.html)

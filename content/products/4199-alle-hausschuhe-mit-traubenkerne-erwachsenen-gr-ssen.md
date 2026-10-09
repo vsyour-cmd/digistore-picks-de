@@ -1,3 +1,24 @@
+---
+product_id: "4199"
+digistore24_product_id: 15333
+title: "Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 16.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/"
+language: "de"
+---
 # Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen
 
 > Product ID `4199` · Digistore24 productId `15333` · [HTML profile page](../../produkte/alle-hausschuhe-mit-traubenkerne-erwachsenen-gr-ssen-4199.html)

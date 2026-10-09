@@ -1,3 +1,24 @@
+---
+product_id: "46407"
+digistore24_product_id: 528239
+title: "[NEU} FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!"
+vendor: "rkovarik"
+product_type: "Audio book (download)"
+price: 19.33
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2023-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://femiotherik.de/digistore-partnerbereich/digi-horbuch-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-konnen/?aff=adminstore#aff=adminstore"
+sales_page: "https://femiotherik.de/digistore-partnerbereich/digi-horbuch-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-konnen/"
+language: "de"
+---
 # [NEU} FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!
 
 > Product ID `46407` · Digistore24 productId `528239` · [HTML profile page](../../produkte/neu-femiotherik-mentalkurs-bei-unerf-lltem-kinderwunsch-46407.html)

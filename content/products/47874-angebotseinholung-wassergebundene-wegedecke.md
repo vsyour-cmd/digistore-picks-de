@@ -1,3 +1,24 @@
+---
+product_id: "47874"
+digistore24_product_id: 498168
+title: "Angebotseinholung wassergebundene Wegedecke"
+vendor: "Volkmar1709"
+product_type: "Downloads"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2023-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.doityourself-gartenplanung.de/angebotseinholung-wassergebundene-wegedecke/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.doityourself-gartenplanung.de/angebotseinholung-wassergebundene-wegedecke/"
+language: "de"
+---
 # Angebotseinholung wassergebundene Wegedecke
 
 > Product ID `47874` · Digistore24 productId `498168` · [HTML profile page](../../produkte/angebotseinholung-wassergebundene-wegedecke-47874.html)

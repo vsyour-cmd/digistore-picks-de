@@ -1,3 +1,24 @@
+---
+product_id: "36219"
+digistore24_product_id: 350206
+title: "Buch Bist du auf stumm geschaltet?"
+vendor: "RuthTravitzky"
+product_type: "Book (printed)"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.stimmkraftmagie.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimmkraftmagie.de"
+language: "de"
+---
 # Buch Bist du auf stumm geschaltet?
 
 > Product ID `36219` · Digistore24 productId `350206` · [HTML profile page](../../produkte/buch-bist-du-auf-stumm-geschaltet-36219.html)

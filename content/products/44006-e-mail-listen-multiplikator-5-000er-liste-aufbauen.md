@@ -1,3 +1,24 @@
+---
+product_id: "44006"
+digistore24_product_id: 497391
+title: "E-Mail Listen Multiplikator - 5.000er Liste aufbauen"
+vendor: "ss-business"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/497391/adminstore"
+sales_page: "https://florianschaefer.de/e-mail-listen-multiplikator/?afid=[AFFILIATE]"
+language: "de"
+---
 # E-Mail Listen Multiplikator - 5.000er Liste aufbauen
 
 > Product ID `44006` · Digistore24 productId `497391` · [HTML profile page](../../produkte/e-mail-listen-multiplikator-5-000er-liste-aufbauen-44006.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56166"
+digistore24_product_id: 681858
+title: "Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 142.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 71.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Finances"]
+listed_since: "2026-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/finanz-boost-bundle-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/finanz-boost-bundle-ds24"
+language: "de"
+---
 # Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision
 
 > Product ID `56166` · Digistore24 productId `681858` · [HTML profile page](../../produkte/finanz-boost-bundle-5-produkt-funnel-50-provision-56166.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59324"
+digistore24_product_id: 732789
+title: "Nie wieder generische KI Prompts"
+vendor: "ManfredKloos"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 25.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://copykraft.de/ki-prompts?aff=adminstore#aff=adminstore"
+sales_page: "https://copykraft.de/ki-prompts"
+language: "de"
+---
 # Nie wieder generische KI Prompts
 
 > Product ID `59324` · Digistore24 productId `732789` · [HTML profile page](../../produkte/nie-wieder-generische-ki-prompts-59324.html)

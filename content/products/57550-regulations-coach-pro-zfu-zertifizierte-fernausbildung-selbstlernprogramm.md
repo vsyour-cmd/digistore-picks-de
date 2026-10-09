@@ -1,3 +1,24 @@
+---
+product_id: "57550"
+digistore24_product_id: 708735
+title: "Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)"
+vendor: "diepraxisfamily"
+product_type: "Member area and video courses"
+price: 8356.6
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 223.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/708735?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/708735"
+language: "de"
+---
 # Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)
 
 > Product ID `57550` · Digistore24 productId `708735` · [HTML profile page](../../produkte/regulations-coach-pro-zfu-zertifizierte-fernausbildung-selbstlernprogramm-57550.html)

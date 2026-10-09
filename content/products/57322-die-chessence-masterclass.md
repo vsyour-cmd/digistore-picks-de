@@ -1,3 +1,24 @@
+---
+product_id: "57322"
+digistore24_product_id: 606037
+title: "Die Chessence Masterclass"
+vendor: "Chessence"
+product_type: "Member area and video courses"
+price: 1033.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 309.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://chessence.de/masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://chessence.de/masterclass/"
+language: "de"
+---
 # Die Chessence Masterclass
 
 > Product ID `57322` · Digistore24 productId `606037` · [HTML profile page](../../produkte/die-chessence-masterclass-57322.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51374"
+digistore24_product_id: 596741
+title: "TikTok Reichweiten Workbook"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2025-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/TikTok-Workbook?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/TikTok-Workbook"
+language: "de"
+---
 # TikTok Reichweiten Workbook
 
 > Product ID `51374` · Digistore24 productId `596741` · [HTML profile page](../../produkte/tiktok-reichweiten-workbook-51374.html)

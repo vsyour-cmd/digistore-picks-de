@@ -1,3 +1,24 @@
+---
+product_id: "58479"
+digistore24_product_id: 723049
+title: "Ihr Weg zum Traumhaus"
+vendor: "fdamberger246a843"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/723049?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/723049"
+language: "de"
+---
 # Ihr Weg zum Traumhaus
 
 > Product ID `58479` · Digistore24 productId `723049` · [HTML profile page](../../produkte/ihr-weg-zum-traumhaus-58479.html)

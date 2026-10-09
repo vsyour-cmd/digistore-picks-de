@@ -1,3 +1,24 @@
+---
+product_id: "58317"
+digistore24_product_id: 680835
+title: "FIT AB 40 – Das große Fitness- und Gesundheits-Komplettpaket"
+vendor: "biagiobonsantodigistc180"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://mythos-40-warum.my.canva.site/green-color-blocks-software-development-business-website?aff=adminstore#aff=adminstore"
+sales_page: "https://mythos-40-warum.my.canva.site/green-color-blocks-software-development-business-website"
+language: "de"
+---
 # FIT AB 40 – Das große Fitness- und Gesundheits-Komplettpaket
 
 > Product ID `58317` · Digistore24 productId `680835` · [HTML profile page](../../produkte/fit-ab-40-das-gro-e-fitness-und-gesundheits-komplettpaket-58317.html)

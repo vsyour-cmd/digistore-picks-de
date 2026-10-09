@@ -1,3 +1,24 @@
+---
+product_id: "48403"
+digistore24_product_id: 462842
+title: "Coaching-Programm WINNER 1:1"
+vendor: "OneHeart4All"
+product_type: "Online coaching"
+price: 4350.32
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 335.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2022-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.christianrupp.ch/coaching-programm-winner/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.christianrupp.ch/coaching-programm-winner/"
+language: "de"
+---
 # Coaching-Programm WINNER 1:1
 
 > Product ID `48403` · Digistore24 productId `462842` · [HTML profile page](../../produkte/coaching-programm-winner-1-1-48403.html)

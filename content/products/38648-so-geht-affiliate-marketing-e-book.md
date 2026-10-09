@@ -1,3 +1,24 @@
+---
+product_id: "38648"
+digistore24_product_id: 421917
+title: "So geht Affiliate Marketing E-Book"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 22.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-12-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/fnY9qz75uA5hJaxwc?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/fnY9qz75uA5hJaxwc"
+language: "de"
+---
 # So geht Affiliate Marketing E-Book
 
 > Product ID `38648` · Digistore24 productId `421917` · [HTML profile page](../../produkte/so-geht-affiliate-marketing-e-book-38648.html)

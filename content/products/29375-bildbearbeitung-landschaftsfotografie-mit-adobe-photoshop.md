@@ -1,3 +1,24 @@
+---
+product_id: "29375"
+digistore24_product_id: 106293
+title: "Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop"
+vendor: "MatthiasHaltenhof"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2016-11-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/"
+language: "de"
+---
 # Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop
 
 > Product ID `29375` · Digistore24 productId `106293` · [HTML profile page](../../produkte/bildbearbeitung-landschaftsfotografie-mit-adobe-photoshop-29375.html)

@@ -1,3 +1,24 @@
+---
+product_id: "14751"
+digistore24_product_id: 112111
+title: "„Die 8 Tools die Dir Deine wildesten Träume verwirklichen“"
+vendor: "GTK-littlefreilich"
+product_type: "Downloads"
+price: 8.41
+currency: "USD"
+affiliate_commission_pct: 99
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2017-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitalmoneymaker.de/traumbeschleuniger-tb/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalmoneymaker.de/traumbeschleuniger-tb/"
+language: "de"
+---
 # „Die 8 Tools die Dir Deine wildesten Träume verwirklichen“
 
 > Product ID `14751` · Digistore24 productId `112111` · [HTML profile page](../../produkte/die-8-tools-die-dir-deine-wildesten-tr-ume-verwirklichen-14751.html)

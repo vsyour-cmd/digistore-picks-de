@@ -1,3 +1,24 @@
+---
+product_id: "59811"
+digistore24_product_id: 737931
+title: "Ruhe im Sturm"
+vendor: "sentinelsystem"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/737931?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/737931"
+language: "de"
+---
 # Ruhe im Sturm
 
 > Product ID `59811` · Digistore24 productId `737931` · [HTML profile page](../../produkte/ruhe-im-sturm-59811.html)

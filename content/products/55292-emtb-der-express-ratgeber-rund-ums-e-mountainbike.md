@@ -1,3 +1,24 @@
+---
+product_id: "55292"
+digistore24_product_id: 603807
+title: "eMTB – Der Express-Ratgeber rund ums E-Mountainbike"
+vendor: "bites24"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Hobby & Craft","Sport"]
+listed_since: "2025-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/603807?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/603807"
+language: "de"
+---
 # eMTB – Der Express-Ratgeber rund ums E-Mountainbike
 
 > Product ID `55292` · Digistore24 productId `603807` · [HTML profile page](../../produkte/emtb-der-express-ratgeber-rund-ums-e-mountainbike-55292.html)

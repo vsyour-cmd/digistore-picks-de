@@ -1,3 +1,24 @@
+---
+product_id: "28840"
+digistore24_product_id: 202589
+title: "E-Book: Komm zum Punkt! So drücken Sie sich klar aus"
+vendor: "ThiloBaum"
+product_type: "E-books"
+price: 6.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://klartextexperte.de/komm-zum-punkt/?aff=adminstore#aff=adminstore"
+sales_page: "https://klartextexperte.de/komm-zum-punkt/"
+language: "de"
+---
 # E-Book: Komm zum Punkt! So drücken Sie sich klar aus
 
 > Product ID `28840` · Digistore24 productId `202589` · [HTML profile page](../../produkte/e-book-komm-zum-punkt-so-dr-cken-sie-sich-klar-aus-28840.html)

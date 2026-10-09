@@ -1,3 +1,24 @@
+---
+product_id: "59167"
+digistore24_product_id: 718880
+title: "Adventszauber ohne Bastelstress – fertige Wichtelbriefe"
+vendor: "Anha13"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/wichteltuer-alternative/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/wichteltuer-alternative/"
+language: "de"
+---
 # Adventszauber ohne Bastelstress – fertige Wichtelbriefe
 
 > Product ID `59167` · Digistore24 productId `718880` · [HTML profile page](../../produkte/adventszauber-ohne-bastelstress-fertige-wichtelbriefe-59167.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56853"
+digistore24_product_id: 697963
+title: "5 rechtssichere Vorlagen für Bauherren – sofort einsetzbar"
+vendor: "infoc416"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://bauherren-paket.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://bauherren-paket.netlify.app/"
+language: "de"
+---
 # 5 rechtssichere Vorlagen für Bauherren – sofort einsetzbar
 
 > Product ID `56853` · Digistore24 productId `697963` · [HTML profile page](../../produkte/5-rechtssichere-vorlagen-f-r-bauherren-sofort-einsetzbar-56853.html)

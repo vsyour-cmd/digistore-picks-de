@@ -1,3 +1,24 @@
+---
+product_id: "41067"
+digistore24_product_id: 458319
+title: "Home Office -  Online Geld verdienen"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 52.17
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 41.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/bHKvmdgL9nMdtSxQe?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/bHKvmdgL9nMdtSxQe"
+language: "de"
+---
 # Home Office -  Online Geld verdienen
 
 > Product ID `41067` · Digistore24 productId `458319` · [HTML profile page](../../produkte/home-office-online-geld-verdienen-41067.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58160"
+digistore24_product_id: 667087
+title: "Tradingcode Signale"
+vendor: "bsmllc"
+product_type: "Member area and video courses"
+price: 563.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 225.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2026-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tradingcode.org/de/signals/lp/kursteilnehmer_start/?aff=adminstore#aff=adminstore"
+sales_page: "https://tradingcode.org/de/signals/lp/kursteilnehmer_start/"
+language: "de"
+---
 # Tradingcode Signale
 
 > Product ID `58160` · Digistore24 productId `667087` · [HTML profile page](../../produkte/tradingcode-signale-58160.html)

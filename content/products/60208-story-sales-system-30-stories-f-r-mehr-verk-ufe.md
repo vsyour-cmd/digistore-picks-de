@@ -1,3 +1,24 @@
+---
+product_id: "60208"
+digistore24_product_id: 719244
+title: "Story Sales System - 30 Stories für mehr Verkäufe."
+vendor: "elenalin"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Marketing Services"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/719244?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719244"
+language: "de"
+---
 # Story Sales System - 30 Stories für mehr Verkäufe.
 
 > Product ID `60208` · Digistore24 productId `719244` · [HTML profile page](../../produkte/story-sales-system-30-stories-f-r-mehr-verk-ufe-60208.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50261"
+digistore24_product_id: 537534
+title: "Affiliate Insights"
+vendor: "weinand1986"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 3.87
+cart_conversion_pct: 57
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore"
+sales_page: "https://michelweinand.systeme.io/affiliate-star"
+language: "de"
+---
 # Affiliate Insights
 
 > Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../produkte/affiliate-insights-50261.html)

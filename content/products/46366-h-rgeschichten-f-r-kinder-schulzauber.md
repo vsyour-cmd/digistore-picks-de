@@ -1,3 +1,24 @@
+---
+product_id: "46366"
+digistore24_product_id: 393341
+title: "Hörgeschichten für Kinder: Schulzauber"
+vendor: "kindimglueck"
+product_type: "Audio book (download)"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2021-06-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zauberohr.de/geschichte/schulzauber-hoerbuch-einschulung-kind/?aff=adminstore#aff=adminstore"
+sales_page: "https://zauberohr.de/geschichte/schulzauber-hoerbuch-einschulung-kind/"
+language: "de"
+---
 # Hörgeschichten für Kinder: Schulzauber
 
 > Product ID `46366` · Digistore24 productId `393341` · [HTML profile page](../../produkte/h-rgeschichten-f-r-kinder-schulzauber-46366.html)

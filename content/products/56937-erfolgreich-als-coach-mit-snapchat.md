@@ -1,3 +1,24 @@
+---
+product_id: "56937"
+digistore24_product_id: 701371
+title: "Erfolgreich als Coach mit Snapchat"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-snapchat?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-snapchat"
+language: "de"
+---
 # Erfolgreich als Coach mit Snapchat
 
 > Product ID `56937` · Digistore24 productId `701371` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-snapchat-56937.html)

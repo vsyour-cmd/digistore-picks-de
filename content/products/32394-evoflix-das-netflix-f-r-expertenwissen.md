@@ -1,3 +1,24 @@
+---
+product_id: "32394"
+digistore24_product_id: 299072
+title: "Evoflix - Das Netflix für Expertenwissen"
+vendor: "EvoflixClubStore"
+product_type: "Member area and video courses"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 6.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2019-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.evoflix.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.evoflix.de/"
+language: "de"
+---
 # Evoflix - Das Netflix für Expertenwissen
 
 > Product ID `32394` · Digistore24 productId `299072` · [HTML profile page](../../produkte/evoflix-das-netflix-f-r-expertenwissen-32394.html)

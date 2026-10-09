@@ -1,3 +1,24 @@
+---
+product_id: "58832"
+digistore24_product_id: 727349
+title: "StreamWriter Studio - Nie wieder für Musikstreaming bezahlen"
+vendor: "andrelobach79c7"
+product_type: "Software"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://streamwriter.studio/?aff=adminstore#aff=adminstore"
+sales_page: "https://streamwriter.studio/"
+language: "de"
+---
 # StreamWriter Studio - Nie wieder für Musikstreaming bezahlen
 
 > Product ID `58832` · Digistore24 productId `727349` · [HTML profile page](../../produkte/streamwriter-studio-nie-wieder-f-r-musikstreaming-bezahlen-58832.html)

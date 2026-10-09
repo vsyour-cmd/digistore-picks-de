@@ -1,3 +1,24 @@
+---
+product_id: "46348"
+digistore24_product_id: 516036
+title: "Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart"
+vendor: "meineMusikschule"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Education"]
+listed_since: "2023-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinemusikschule.net/kurse/akkordeon-masterclass-rondo-alla-turca/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinemusikschule.net/kurse/akkordeon-masterclass-rondo-alla-turca/"
+language: "de"
+---
 # Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart
 
 > Product ID `46348` · Digistore24 productId `516036` · [HTML profile page](../../produkte/akkordeon-masterclass-spiele-rondo-alla-turca-von-mozart-46348.html)

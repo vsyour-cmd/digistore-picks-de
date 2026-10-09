@@ -1,3 +1,24 @@
+---
+product_id: "55281"
+digistore24_product_id: 662782
+title: "AI Model Cash System"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 15.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/utgme8SJanh7EgQWf?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/utgme8SJanh7EgQWf"
+language: "de"
+---
 # AI Model Cash System
 
 > Product ID `55281` · Digistore24 productId `662782` · [HTML profile page](../../produkte/ai-model-cash-system-55281.html)

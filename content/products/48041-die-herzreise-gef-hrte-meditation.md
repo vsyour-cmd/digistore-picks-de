@@ -1,3 +1,24 @@
+---
+product_id: "48041"
+digistore24_product_id: 547234
+title: "Die Herzreise | Geführte Meditation"
+vendor: "Matrixreport"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.matrixreport.blog/die-herzreise/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.matrixreport.blog/die-herzreise/"
+language: "de"
+---
 # Die Herzreise | Geführte Meditation
 
 > Product ID `48041` · Digistore24 productId `547234` · [HTML profile page](../../produkte/die-herzreise-gef-hrte-meditation-48041.html)

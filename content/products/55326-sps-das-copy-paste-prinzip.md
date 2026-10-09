@@ -1,3 +1,24 @@
+---
+product_id: "55326"
+digistore24_product_id: 664061
+title: "SPS Das Copy-Paste Prinzip"
+vendor: "SalesPalsSystems"
+product_type: "Downloads"
+price: 258.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 129.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Social Media","Marketing Services"]
+listed_since: "2026-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/664061?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/664061"
+language: "de"
+---
 # SPS Das Copy-Paste Prinzip
 
 > Product ID `55326` · Digistore24 productId `664061` · [HTML profile page](../../produkte/sps-das-copy-paste-prinzip-55326.html)

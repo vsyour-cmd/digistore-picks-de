@@ -1,3 +1,24 @@
+---
+product_id: "59776"
+digistore24_product_id: 735622
+title: "Produktiver mit Struktur"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 14.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/prodmistr/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/prodmistr/"
+language: "de"
+---
 # Produktiver mit Struktur
 
 > Product ID `59776` · Digistore24 productId `735622` · [HTML profile page](../../produkte/produktiver-mit-struktur-59776.html)

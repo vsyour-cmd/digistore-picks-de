@@ -1,3 +1,24 @@
+---
+product_id: "58724"
+digistore24_product_id: 719960
+title: "Drei Ebenen des Wissens"
+vendor: "Novaris_web"
+product_type: "Audio book (download)"
+price: 13.02
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/3_ebenen.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/3_ebenen.php"
+language: "de"
+---
 # Drei Ebenen des Wissens
 
 > Product ID `58724` · Digistore24 productId `719960` · [HTML profile page](../../produkte/drei-ebenen-des-wissens-58724.html)

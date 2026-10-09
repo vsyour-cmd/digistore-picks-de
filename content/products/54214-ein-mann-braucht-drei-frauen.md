@@ -1,3 +1,24 @@
+---
+product_id: "54214"
+digistore24_product_id: 636585
+title: "Ein Mann braucht drei Frauen"
+vendor: "MS-9Falken"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2025-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636585?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636585"
+language: "de"
+---
 # Ein Mann braucht drei Frauen
 
 > Product ID `54214` · Digistore24 productId `636585` · [HTML profile page](../../produkte/ein-mann-braucht-drei-frauen-54214.html)

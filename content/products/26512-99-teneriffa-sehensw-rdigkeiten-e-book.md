@@ -1,3 +1,24 @@
+---
+product_id: "26512"
+digistore24_product_id: 240854
+title: "99 Teneriffa Sehenswürdigkeiten [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 17.33
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.89
+cart_conversion_pct: 21
+cancel_rate_pct: 1.58
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2018-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/99-teneriffa-sehenswuerdigkeiten/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/99-teneriffa-sehenswuerdigkeiten/"
+language: "de"
+---
 # 99 Teneriffa Sehenswürdigkeiten [E-Book]
 
 > Product ID `26512` · Digistore24 productId `240854` · [HTML profile page](../../produkte/99-teneriffa-sehensw-rdigkeiten-e-book-26512.html)

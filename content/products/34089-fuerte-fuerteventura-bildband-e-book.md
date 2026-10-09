@@ -1,3 +1,24 @@
+---
+product_id: "34089"
+digistore24_product_id: 93941
+title: "FUERTE: Fuerteventura Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 17.33
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.93
+cart_conversion_pct: 21
+cancel_rate_pct: 1.58
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2016-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/fuerteventura-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/fuerteventura-bildband/"
+language: "de"
+---
 # FUERTE: Fuerteventura Bildband [E-Book]
 
 > Product ID `34089` · Digistore24 productId `93941` · [HTML profile page](../../produkte/fuerte-fuerteventura-bildband-e-book-34089.html)

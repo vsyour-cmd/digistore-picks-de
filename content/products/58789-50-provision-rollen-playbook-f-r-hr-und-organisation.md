@@ -1,3 +1,24 @@
+---
+product_id: "58789"
+digistore24_product_id: 692789
+title: "50 % Provision: Rollen-Playbook für HR und Organisation"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 215.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 107.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692789?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692789"
+language: "de"
+---
 # 50 % Provision: Rollen-Playbook für HR und Organisation
 
 > Product ID `58789` · Digistore24 productId `692789` · [HTML profile page](../../produkte/50-provision-rollen-playbook-f-r-hr-und-organisation-58789.html)

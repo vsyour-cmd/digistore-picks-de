@@ -1,3 +1,24 @@
+---
+product_id: "59065"
+digistore24_product_id: 727264
+title: "Das ultimative Karriere Master-Kit für ärztliches Personal"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/aerztliches-personal/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/aerztliches-personal/"
+language: "de"
+---
 # Das ultimative Karriere Master-Kit für ärztliches Personal
 
 > Product ID `59065` · Digistore24 productId `727264` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-rztliches-personal-59065.html)

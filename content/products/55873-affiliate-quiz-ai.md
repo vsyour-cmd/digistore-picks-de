@@ -1,3 +1,24 @@
+---
+product_id: "55873"
+digistore24_product_id: 594310
+title: "Affiliate Quiz AI"
+vendor: "MoneyCreators"
+product_type: "Software"
+price: 8.01
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.67
+cart_conversion_pct: 15
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/homequiz?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/homequiz"
+language: "de"
+---
 # Affiliate Quiz AI
 
 > Product ID `55873` · Digistore24 productId `594310` · [HTML profile page](../../produkte/affiliate-quiz-ai-55873.html)

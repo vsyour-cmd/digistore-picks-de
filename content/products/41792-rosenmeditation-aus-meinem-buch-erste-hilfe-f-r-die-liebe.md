@@ -1,3 +1,24 @@
+---
+product_id: "41792"
+digistore24_product_id: 470139
+title: "Rosenmeditation aus meinem Buch Erste Hilfe für die Liebe"
+vendor: "go2msb"
+product_type: "Audio book (download)"
+price: 20.91
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2022-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/470139?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/470139"
+language: "de"
+---
 # Rosenmeditation aus meinem Buch Erste Hilfe für die Liebe
 
 > Product ID `41792` · Digistore24 productId `470139` · [HTML profile page](../../produkte/rosenmeditation-aus-meinem-buch-erste-hilfe-f-r-die-liebe-41792.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33676"
+digistore24_product_id: 313884
+title: "365 Beitragsideen für Social-Media"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2020-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://jyotimaflak.com/365beitragsideen/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/365beitragsideen/"
+language: "de"
+---
 # 365 Beitragsideen für Social-Media
 
 > Product ID `33676` · Digistore24 productId `313884` · [HTML profile page](../../produkte/365-beitragsideen-f-r-social-media-33676.html)

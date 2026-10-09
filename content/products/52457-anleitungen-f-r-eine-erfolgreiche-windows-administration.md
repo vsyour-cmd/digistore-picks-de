@@ -1,3 +1,24 @@
+---
+product_id: "52457"
+digistore24_product_id: 597498
+title: "Anleitungen für eine erfolgreiche Windows Administration"
+vendor: "MElsberger"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2025-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/597498?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/597498"
+language: "de"
+---
 # Anleitungen für eine erfolgreiche Windows Administration
 
 > Product ID `52457` · Digistore24 productId `597498` · [HTML profile page](../../produkte/anleitungen-f-r-eine-erfolgreiche-windows-administration-52457.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39569"
+digistore24_product_id: 436041
+title: "Die Grundlagen der Ketogenen Diät"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 20.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2022-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To"
+language: "de"
+---
 # Die Grundlagen der Ketogenen Diät
 
 > Product ID `39569` · Digistore24 productId `436041` · [HTML profile page](../../produkte/die-grundlagen-der-ketogenen-di-t-39569.html)

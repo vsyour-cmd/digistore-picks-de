@@ -1,3 +1,24 @@
+---
+product_id: "59825"
+digistore24_product_id: 735891
+title: "Das komplette Notion Business System für Selbständige"
+vendor: "Medina88"
+product_type: "E-books"
+price: 417.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 166.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Finances"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735891?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735891"
+language: "de"
+---
 # Das komplette Notion Business System für Selbständige
 
 > Product ID `59825` · Digistore24 productId `735891` · [HTML profile page](../../produkte/das-komplette-notion-business-system-f-r-selbst-ndige-59825.html)

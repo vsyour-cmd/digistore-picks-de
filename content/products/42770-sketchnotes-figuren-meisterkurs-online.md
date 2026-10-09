@@ -1,3 +1,24 @@
+---
+product_id: "42770"
+digistore24_product_id: 489975
+title: "Sketchnotes Figuren Meisterkurs (Online)"
+vendor: "cartoonsbyroth"
+product_type: "Member area and video courses"
+price: 503.37
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 125.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2023-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cartoonsbyroth.com/online-zeichenkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://cartoonsbyroth.com/online-zeichenkurs/"
+language: "de"
+---
 # Sketchnotes Figuren Meisterkurs (Online)
 
 > Product ID `42770` · Digistore24 productId `489975` · [HTML profile page](../../produkte/sketchnotes-figuren-meisterkurs-online-42770.html)

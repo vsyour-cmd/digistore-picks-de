@@ -1,3 +1,24 @@
+---
+product_id: "34137"
+digistore24_product_id: 339809
+title: "CreateRawVision Mitgliederbereich (Rohkost)"
+vendor: "createrawvision"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://createrawvision.de?aff=adminstore#aff=adminstore"
+sales_page: "https://createrawvision.de"
+language: "de"
+---
 # CreateRawVision Mitgliederbereich (Rohkost)
 
 > Product ID `34137` · Digistore24 productId `339809` · [HTML profile page](../../produkte/createrawvision-mitgliederbereich-rohkost-34137.html)

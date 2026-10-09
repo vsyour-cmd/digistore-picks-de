@@ -1,3 +1,24 @@
+---
+product_id: "54374"
+digistore24_product_id: 640720
+title: "Verkaufsseiten-Ersteller Pro"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 44.63
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 37.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://verkaufsseiten-ersteller-page.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://verkaufsseiten-ersteller-page.netlify.app/"
+language: "de"
+---
 # Verkaufsseiten-Ersteller Pro
 
 > Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../produkte/verkaufsseiten-ersteller-pro-54374.html)

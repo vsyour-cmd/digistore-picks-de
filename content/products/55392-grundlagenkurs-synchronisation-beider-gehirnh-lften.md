@@ -1,3 +1,24 @@
+---
+product_id: "55392"
+digistore24_product_id: 517322
+title: "Grundlagenkurs Synchronisation beider Gehirnhälften"
+vendor: "danielamokros"
+product_type: "Member area and video courses"
+price: 169.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 84.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2023-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/517322?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/517322"
+language: "de"
+---
 # Grundlagenkurs Synchronisation beider Gehirnhälften
 
 > Product ID `55392` · Digistore24 productId `517322` · [HTML profile page](../../produkte/grundlagenkurs-synchronisation-beider-gehirnh-lften-55392.html)

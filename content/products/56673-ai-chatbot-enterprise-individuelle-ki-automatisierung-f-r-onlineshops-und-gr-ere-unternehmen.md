@@ -1,3 +1,24 @@
+---
+product_id: "56673"
+digistore24_product_id: 691085
+title: "AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen"
+vendor: "Dani2002"
+product_type: "Remote service provided electronically"
+price: 2796.5
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 559.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/691085?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/691085"
+language: "de"
+---
 # AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen
 
 > Product ID `56673` · Digistore24 productId `691085` · [HTML profile page](../../produkte/ai-chatbot-enterprise-individuelle-ki-automatisierung-f-r-onlineshops-und-gr-ere-unternehmen-56673.html)

@@ -1,3 +1,24 @@
+---
+product_id: "26576"
+digistore24_product_id: 233950
+title: "Global Citizen Explorer Mitgliedschaft"
+vendor: "serfanoo"
+product_type: "Downloads"
+price: 1412.91
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 106.62
+cart_conversion_pct: 1
+cancel_rate_pct: 1.75
+categories: ["Business & Investment"]
+listed_since: "2018-07-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.globalcitizenexplorer.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.globalcitizenexplorer.com/"
+language: "de"
+---
 # Global Citizen Explorer Mitgliedschaft
 
 > Product ID `26576` · Digistore24 productId `233950` · [HTML profile page](../../produkte/global-citizen-explorer-mitgliedschaft-26576.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56709"
+digistore24_product_id: 695002
+title: "Die 7 Bausteine unabhängiger Kundengewinnung"
+vendor: "office0144"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/695002?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695002"
+language: "de"
+---
 # Die 7 Bausteine unabhängiger Kundengewinnung
 
 > Product ID `56709` · Digistore24 productId `695002` · [HTML profile page](../../produkte/die-7-bausteine-unabh-ngiger-kundengewinnung-56709.html)

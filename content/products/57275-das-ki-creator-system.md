@@ -1,3 +1,24 @@
+---
+product_id: "57275"
+digistore24_product_id: 704252
+title: "Das KI-Creator-System"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/ai-influencer-content-system?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/ai-influencer-content-system"
+language: "de"
+---
 # Das KI-Creator-System
 
 > Product ID `57275` · Digistore24 productId `704252` · [HTML profile page](../../produkte/das-ki-creator-system-57275.html)

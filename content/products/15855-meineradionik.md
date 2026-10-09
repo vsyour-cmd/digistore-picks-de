@@ -1,3 +1,24 @@
+---
+product_id: "15855"
+digistore24_product_id: 115687
+title: "MeineRadionik"
+vendor: "kohnlesoft"
+product_type: "Member area and video courses"
+price: 486.57
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 51.88
+cart_conversion_pct: 21
+cancel_rate_pct: 2.03
+categories: ["Software","Spiri­tua­lity & Esotericism"]
+listed_since: "2017-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/115687/adminstore"
+sales_page: "https://meine-radionik.de/?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]"
+language: "de"
+---
 # MeineRadionik
 
 > Product ID `15855` · Digistore24 productId `115687` · [HTML profile page](../../produkte/meineradionik-15855.html)

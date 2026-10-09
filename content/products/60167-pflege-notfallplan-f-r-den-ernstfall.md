@@ -1,3 +1,24 @@
+---
+product_id: "60167"
+digistore24_product_id: 740880
+title: "Pflege-Notfallplan – für den Ernstfall"
+vendor: "linalind1"
+product_type: "Downloads"
+price: 13.11
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740880?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740880"
+language: "de"
+---
 # Pflege-Notfallplan – für den Ernstfall
 
 > Product ID `60167` · Digistore24 productId `740880` · [HTML profile page](../../produkte/pflege-notfallplan-f-r-den-ernstfall-60167.html)

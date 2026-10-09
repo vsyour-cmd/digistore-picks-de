@@ -1,3 +1,24 @@
+---
+product_id: "38284"
+digistore24_product_id: 413924
+title: "Die 12 Archetypen in Socia-Media!"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 46.56
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 18.71
+cart_conversion_pct: 4
+cancel_rate_pct: 1.24
+categories: ["Social Media"]
+listed_since: "2021-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.jyotimaflak.com/archetypen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jyotimaflak.com/archetypen"
+language: "de"
+---
 # Die 12 Archetypen in Socia-Media!
 
 > Product ID `38284` · Digistore24 productId `413924` · [HTML profile page](../../produkte/die-12-archetypen-in-socia-media-38284.html)

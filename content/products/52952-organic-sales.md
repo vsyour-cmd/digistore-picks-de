@@ -1,3 +1,24 @@
+---
+product_id: "52952"
+digistore24_product_id: 599906
+title: "Organic Sales"
+vendor: "LauraTeresaG"
+product_type: "Member area and video courses"
+price: 610.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 305.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/599906?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/599906"
+language: "de"
+---
 # Organic Sales
 
 > Product ID `52952` · Digistore24 productId `599906` · [HTML profile page](../../produkte/organic-sales-52952.html)

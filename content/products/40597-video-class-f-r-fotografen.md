@@ -1,3 +1,24 @@
+---
+product_id: "40597"
+digistore24_product_id: 443396
+title: "VIDEO CLASS für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 383.78
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 15
+cancel_rate_pct: 2.52
+categories: ["Photography & Film"]
+listed_since: "2022-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/video-class/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/video-class/"
+language: "de"
+---
 # VIDEO CLASS für Fotografen
 
 > Product ID `40597` · Digistore24 productId `443396` · [HTML profile page](../../produkte/video-class-f-r-fotografen-40597.html)

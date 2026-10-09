@@ -1,3 +1,24 @@
+---
+product_id: "56869"
+digistore24_product_id: 699135
+title: "KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov"
+vendor: "megareichtum"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2026-06-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://eternumtech.eu/system/content-ignition-kit?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/system/content-ignition-kit"
+language: "de"
+---
 # KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov
 
 > Product ID `56869` · Digistore24 productId `699135` · [HTML profile page](../../produkte/ki-content-kit-low-ticket-hammer-17-50-prov-56869.html)

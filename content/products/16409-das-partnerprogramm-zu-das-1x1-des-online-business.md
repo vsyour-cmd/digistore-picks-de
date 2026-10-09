@@ -1,3 +1,24 @@
+---
+product_id: "16409"
+digistore24_product_id: 132909
+title: "Das Partnerprogramm zu \"Das 1x1 des Online Business\""
+vendor: "netdesign2014"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2017-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-marketing-site.de/1x1-des-online-business-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-marketing-site.de/1x1-des-online-business-landingpage/"
+language: "de"
+---
 # Das Partnerprogramm zu "Das 1x1 des Online Business"
 
 > Product ID `16409` · Digistore24 productId `132909` · [HTML profile page](../../produkte/das-partnerprogramm-zu-das-1x1-des-online-business-16409.html)

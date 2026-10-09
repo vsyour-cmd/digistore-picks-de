@@ -1,3 +1,24 @@
+---
+product_id: "52166"
+digistore24_product_id: 608744
+title: "15 Fitness Drinks für Zuhause & Unterwegs"
+vendor: "Freifone"
+product_type: "E-books"
+price: 13.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Sport"]
+listed_since: "2025-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/15-fitness-drinks?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/15-fitness-drinks"
+language: "de"
+---
 # 15 Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../produkte/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)

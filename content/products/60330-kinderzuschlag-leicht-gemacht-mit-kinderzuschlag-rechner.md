@@ -1,3 +1,24 @@
+---
+product_id: "60330"
+digistore24_product_id: 741587
+title: "Kinderzuschlag leicht gemacht – mit Kinderzuschlag-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741587?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741587"
+language: "de"
+---
 # Kinderzuschlag leicht gemacht – mit Kinderzuschlag-Rechner
 
 > Product ID `60330` · Digistore24 productId `741587` · [HTML profile page](../../produkte/kinderzuschlag-leicht-gemacht-mit-kinderzuschlag-rechner-60330.html)

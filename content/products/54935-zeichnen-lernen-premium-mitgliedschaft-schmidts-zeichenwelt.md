@@ -1,3 +1,24 @@
+---
+product_id: "54935"
+digistore24_product_id: 529678
+title: "Zeichnen lernen-Premium-Mitgliedschaft Schmidts Zeichenwelt"
+vendor: "SchmidtsZeichenwelt"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 32.29
+cart_conversion_pct: 3
+cancel_rate_pct: 2.38
+categories: ["Education","Hobby & Craft"]
+listed_since: "2023-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmidtszeichenwelt.de/akademie-schmidts-zeichenwelt-premium-mitgliedschaft/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmidtszeichenwelt.de/akademie-schmidts-zeichenwelt-premium-mitgliedschaft/"
+language: "de"
+---
 # Zeichnen lernen-Premium-Mitgliedschaft Schmidts Zeichenwelt
 
 > Product ID `54935` · Digistore24 productId `529678` · [HTML profile page](../../produkte/zeichnen-lernen-premium-mitgliedschaft-schmidts-zeichenwelt-54935.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56966"
+digistore24_product_id: 701333
+title: "Dein Start auf Social Media"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/dein-start-auf-social-media?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/dein-start-auf-social-media"
+language: "de"
+---
 # Dein Start auf Social Media
 
 > Product ID `56966` · Digistore24 productId `701333` · [HTML profile page](../../produkte/dein-start-auf-social-media-56966.html)

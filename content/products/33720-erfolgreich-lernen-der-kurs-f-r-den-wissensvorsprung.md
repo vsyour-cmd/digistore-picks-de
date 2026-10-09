@@ -1,3 +1,24 @@
+---
+product_id: "33720"
+digistore24_product_id: 319119
+title: "ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung"
+vendor: "krissmueller"
+product_type: "Member area and video courses"
+price: 41.77
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://erfolgreich-lernen.online/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolgreich-lernen.online/"
+language: "de"
+---
 # ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung
 
 > Product ID `33720` · Digistore24 productId `319119` · [HTML profile page](../../produkte/erfolgreich-lernen-der-kurs-f-r-den-wissensvorsprung-33720.html)

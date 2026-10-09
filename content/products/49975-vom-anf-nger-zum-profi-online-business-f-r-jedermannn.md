@@ -1,3 +1,24 @@
+---
+product_id: "49975"
+digistore24_product_id: 573840
+title: "Vom Anfänger zum Profi: Online-Business für Jedermannn"
+vendor: "quick-moneymaker"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2"
+language: "de"
+---
 # Vom Anfänger zum Profi: Online-Business für Jedermannn
 
 > Product ID `49975` · Digistore24 productId `573840` · [HTML profile page](../../produkte/vom-anf-nger-zum-profi-online-business-f-r-jedermannn-49975.html)

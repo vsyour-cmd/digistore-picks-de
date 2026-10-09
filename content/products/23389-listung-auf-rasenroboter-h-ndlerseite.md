@@ -1,3 +1,24 @@
+---
+product_id: "23389"
+digistore24_product_id: 191677
+title: "Listung auf Rasenroboter-Händlerseite"
+vendor: "mhaeussler"
+product_type: "Remote service provided electronically"
+price: 335.58
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 83.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2018-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://haeussler-marketing.de/listung-auf-haeussler-rasenroboter-haendlerseite/?aff=adminstore#aff=adminstore"
+sales_page: "http://haeussler-marketing.de/listung-auf-haeussler-rasenroboter-haendlerseite/"
+language: "de"
+---
 # Listung auf Rasenroboter-Händlerseite
 
 > Product ID `23389` · Digistore24 productId `191677` · [HTML profile page](../../produkte/listung-auf-rasenroboter-h-ndlerseite-23389.html)

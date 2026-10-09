@@ -1,3 +1,24 @@
+---
+product_id: "57768"
+digistore24_product_id: 715297
+title: "Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision"
+vendor: "thomasidziak3843"
+product_type: "E-books"
+price: 5.21
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 0.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/715297?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/715297"
+language: "de"
+---
 # Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision
 
 > Product ID `57768` · Digistore24 productId `715297` · [HTML profile page](../../produkte/finanz-kompass-f-r-selbstst-ndige-40-affiliate-provision-57768.html)

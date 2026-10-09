@@ -1,3 +1,24 @@
+---
+product_id: "47914"
+digistore24_product_id: 138897
+title: "5 Schritte zur eigenen E-Mail-Liste"
+vendor: "KundenFinder"
+product_type: "Online coaching"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2017-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://klick-jetzt-hier.net/441684/3116323/DS24?aff=adminstore#aff=adminstore"
+sales_page: "https://klick-jetzt-hier.net/441684/3116323/DS24"
+language: "de"
+---
 # 5 Schritte zur eigenen E-Mail-Liste
 
 > Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../produkte/5-schritte-zur-eigenen-e-mail-liste-47914.html)

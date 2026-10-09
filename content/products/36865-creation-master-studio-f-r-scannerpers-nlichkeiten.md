@@ -1,3 +1,24 @@
+---
+product_id: "36865"
+digistore24_product_id: 382195
+title: "Creation Master Studio - für Scannerpersönlichkeiten"
+vendor: "HolgerMarkgraf"
+product_type: "Member area and video courses"
+price: 276.29
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 110.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Project Management"]
+listed_since: "2021-04-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tausendsassaonlineschule.com/creation-studio?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tausendsassaonlineschule.com/creation-studio"
+language: "de"
+---
 # Creation Master Studio - für Scannerpersönlichkeiten
 
 > Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../produkte/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)

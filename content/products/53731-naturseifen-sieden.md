@@ -1,3 +1,24 @@
+---
+product_id: "53731"
+digistore24_product_id: 525809
+title: "Naturseifen sieden"
+vendor: "Katharinaruehrt"
+product_type: "Member area and video courses"
+price: 69.55
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.37
+cart_conversion_pct: 11
+cancel_rate_pct: 0.9
+categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
+listed_since: "2023-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.katharinaruehrt.com/seife-sieden?aff=adminstore#aff=adminstore"
+sales_page: "https://www.katharinaruehrt.com/seife-sieden"
+language: "de"
+---
 # Naturseifen sieden
 
 > Product ID `53731` · Digistore24 productId `525809` · [HTML profile page](../../produkte/naturseifen-sieden-53731.html)

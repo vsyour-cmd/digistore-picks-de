@@ -1,3 +1,24 @@
+---
+product_id: "59061"
+digistore24_product_id: 727270
+title: "Das ultimative Business KI-Masterkit"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://auranit.de/business-und-ki/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/business-und-ki/"
+language: "de"
+---
 # Das ultimative Business KI-Masterkit
 
 > Product ID `59061` · Digistore24 productId `727270` · [HTML profile page](../../produkte/das-ultimative-business-ki-masterkit-59061.html)

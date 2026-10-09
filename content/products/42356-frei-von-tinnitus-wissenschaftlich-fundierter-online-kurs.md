@@ -1,3 +1,24 @@
+---
+product_id: "42356"
+digistore24_product_id: 472214
+title: "Frei von Tinnitus - wissenschaftlich fundierter Online Kurs"
+vendor: "trafficoftrust"
+product_type: "Member area and video courses"
+price: 338.29
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 169.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2022-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://jetzt-tinnitus-loswerden.net?aff=adminstore#aff=adminstore"
+sales_page: "https://jetzt-tinnitus-loswerden.net"
+language: "de"
+---
 # Frei von Tinnitus - wissenschaftlich fundierter Online Kurs
 
 > Product ID `42356` · Digistore24 productId `472214` · [HTML profile page](../../produkte/frei-von-tinnitus-wissenschaftlich-fundierter-online-kurs-42356.html)

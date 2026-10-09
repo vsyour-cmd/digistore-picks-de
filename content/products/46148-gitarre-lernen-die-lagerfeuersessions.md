@@ -1,3 +1,24 @@
+---
+product_id: "46148"
+digistore24_product_id: 451458
+title: "Gitarre lernen: Die Lagerfeuersessions"
+vendor: "berkle"
+product_type: "Member area and video courses"
+price: 152.99
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 21.39
+cart_conversion_pct: 31
+cancel_rate_pct: 3.05
+categories: ["Dancing & Music","Education","Hobby & Craft"]
+listed_since: "2022-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.gitarrenbeginner.de/lagerfeuersessions/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gitarrenbeginner.de/lagerfeuersessions/"
+language: "de"
+---
 # Gitarre lernen: Die Lagerfeuersessions
 
 > Product ID `46148` · Digistore24 productId `451458` · [HTML profile page](../../produkte/gitarre-lernen-die-lagerfeuersessions-46148.html)

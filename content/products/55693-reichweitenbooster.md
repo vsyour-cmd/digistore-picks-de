@@ -1,3 +1,24 @@
+---
+product_id: "55693"
+digistore24_product_id: 595203
+title: "ReichweitenBooster"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 331.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 126.88
+cart_conversion_pct: 11
+cancel_rate_pct: 0.76
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/reichweitenbooster/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/reichweitenbooster/"
+language: "de"
+---
 # ReichweitenBooster
 
 > Product ID `55693` · Digistore24 productId `595203` · [HTML profile page](../../produkte/reichweitenbooster-55693.html)

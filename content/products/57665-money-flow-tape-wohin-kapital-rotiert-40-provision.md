@@ -1,3 +1,24 @@
+---
+product_id: "57665"
+digistore24_product_id: 712825
+title: "Money Flow Tape – Wohin Kapital rotiert · 40 % Provision"
+vendor: "pgventures"
+product_type: "Member area and video courses"
+price: 100.95
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 40.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products","Finances"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://indicator.trading/de/money-flow?aff=adminstore#aff=adminstore"
+sales_page: "https://indicator.trading/de/money-flow"
+language: "de"
+---
 # Money Flow Tape – Wohin Kapital rotiert · 40 % Provision
 
 > Product ID `57665` · Digistore24 productId `712825` · [HTML profile page](../../produkte/money-flow-tape-wohin-kapital-rotiert-40-provision-57665.html)

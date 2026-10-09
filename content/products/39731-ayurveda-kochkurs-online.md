@@ -1,3 +1,24 @@
+---
+product_id: "39731"
+digistore24_product_id: 364131
+title: "Ayurveda-Kochkurs Online"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 148.52
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 44.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/ayurveda-kochkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/ayurveda-kochkurs/"
+language: "de"
+---
 # Ayurveda-Kochkurs Online
 
 > Product ID `39731` · Digistore24 productId `364131` · [HTML profile page](../../produkte/ayurveda-kochkurs-online-39731.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53891"
+digistore24_product_id: 634543
+title: "KI Audio Business - Geld verdienen mit ElevenLabs"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/elevenlabs4-99/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/elevenlabs4-99/"
+language: "de"
+---
 # KI Audio Business - Geld verdienen mit ElevenLabs
 
 > Product ID `53891` · Digistore24 productId `634543` · [HTML profile page](../../produkte/ki-audio-business-geld-verdienen-mit-elevenlabs-53891.html)

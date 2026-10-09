@@ -1,3 +1,24 @@
+---
+product_id: "58136"
+digistore24_product_id: 711145
+title: "SESSA - Sleep Bundle"
+vendor: "ulrikelinke"
+product_type: "Member area and video courses"
+price: 126.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 63.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/711145?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711145"
+language: "de"
+---
 # SESSA - Sleep Bundle
 
 > Product ID `58136` · Digistore24 productId `711145` · [HTML profile page](../../produkte/sessa-sleep-bundle-58136.html)

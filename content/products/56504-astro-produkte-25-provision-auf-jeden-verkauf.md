@@ -1,3 +1,24 @@
+---
+product_id: "56504"
+digistore24_product_id: 691042
+title: "Astro-Produkte - 25% Provision auf jeden Verkauf"
+vendor: "Freifone"
+product_type: "Remote service provided electronically"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/astro?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/astro"
+language: "de"
+---
 # Astro-Produkte - 25% Provision auf jeden Verkauf
 
 > Product ID `56504` · Digistore24 productId `691042` · [HTML profile page](../../produkte/astro-produkte-25-provision-auf-jeden-verkauf-56504.html)

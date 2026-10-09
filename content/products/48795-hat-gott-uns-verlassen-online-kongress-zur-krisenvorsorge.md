@@ -1,3 +1,24 @@
+---
+product_id: "48795"
+digistore24_product_id: 527635
+title: "Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge"
+vendor: "naturheilzentrum"
+product_type: "Member area and video courses"
+price: 149.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 74.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/527635?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/527635"
+language: "de"
+---
 # Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge
 
 > Product ID `48795` · Digistore24 productId `527635` · [HTML profile page](../../produkte/hat-gott-uns-verlassen-online-kongress-zur-krisenvorsorge-48795.html)

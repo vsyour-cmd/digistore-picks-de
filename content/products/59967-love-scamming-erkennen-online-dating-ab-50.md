@@ -1,3 +1,24 @@
+---
+product_id: "59967"
+digistore24_product_id: 738058
+title: "Love-Scamming erkennen – Online-Dating ab 50"
+vendor: "ITServiceMB"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kurven-klasse.de/lovescam/"
+language: "de"
+---
 # Love-Scamming erkennen – Online-Dating ab 50
 
 > Product ID `59967` · Digistore24 productId `738058` · [HTML profile page](../../produkte/love-scamming-erkennen-online-dating-ab-50-59967.html)

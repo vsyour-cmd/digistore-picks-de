@@ -1,3 +1,24 @@
+---
+product_id: "45354"
+digistore24_product_id: 516474
+title: "Zettelkasten-Community - Membership"
+vendor: "StephanieSelmer"
+product_type: "Member area and video courses"
+price: 389.27
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 38.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2023-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/516474?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/516474"
+language: "de"
+---
 # Zettelkasten-Community - Membership
 
 > Product ID `45354` · Digistore24 productId `516474` · [HTML profile page](../../produkte/zettelkasten-community-membership-45354.html)

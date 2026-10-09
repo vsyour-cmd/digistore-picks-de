@@ -1,3 +1,24 @@
+---
+product_id: "6217"
+digistore24_product_id: 41759
+title: "Die Nierenstein-Formel"
+vendor: "mike_r"
+product_type: "E-books"
+price: 23.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2015-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://die-nierenstein-formel.com/?aff=adminstore#aff=adminstore"
+sales_page: "http://die-nierenstein-formel.com/"
+language: "de"
+---
 # Die Nierenstein-Formel
 
 > Product ID `6217` · Digistore24 productId `41759` · [HTML profile page](../../produkte/die-nierenstein-formel-6217.html)

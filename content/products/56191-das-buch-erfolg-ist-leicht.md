@@ -1,3 +1,24 @@
+---
+product_id: "56191"
+digistore24_product_id: 669017
+title: "Das Buch: Erfolg ist leicht"
+vendor: "BettinaPfeffer"
+product_type: "Book (printed)"
+price: 18.95
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.58
+cart_conversion_pct: 39
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolgistleicht.de?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolgistleicht.de"
+language: "de"
+---
 # Das Buch: Erfolg ist leicht
 
 > Product ID `56191` · Digistore24 productId `669017` · [HTML profile page](../../produkte/das-buch-erfolg-ist-leicht-56191.html)

@@ -1,3 +1,24 @@
+---
+product_id: "49001"
+digistore24_product_id: 549971
+title: "Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!"
+vendor: "FriederikeReuver"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 11.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2024-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/549971?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/549971"
+language: "de"
+---
 # Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!
 
 > Product ID `49001` · Digistore24 productId `549971` · [HTML profile page](../../produkte/dein-coaching-audiokurs-f-r-mehr-psychisches-wohlbefinden-49001.html)

@@ -1,3 +1,24 @@
+---
+product_id: "12183"
+digistore24_product_id: 87233
+title: "EU-Entschuldung in 3 Monaten"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.07
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Finances"]
+listed_since: "2016-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-eu-e/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-eu-e/index.html"
+language: "de"
+---
 # EU-Entschuldung in 3 Monaten
 
 > Product ID `12183` · Digistore24 productId `87233` · [HTML profile page](../../produkte/eu-entschuldung-in-3-monaten-12183.html)

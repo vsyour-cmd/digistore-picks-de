@@ -1,3 +1,24 @@
+---
+product_id: "55180"
+digistore24_product_id: 645643
+title: "Parkinson RESET dein Weg zu Stabilität, Energie, Freude"
+vendor: "Erfolg2026"
+product_type: "E-books"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/645643?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/645643"
+language: "de"
+---
 # Parkinson RESET dein Weg zu Stabilität, Energie, Freude
 
 > Product ID `55180` · Digistore24 productId `645643` · [HTML profile page](../../produkte/parkinson-reset-dein-weg-zu-stabilit-t-energie-freude-55180.html)

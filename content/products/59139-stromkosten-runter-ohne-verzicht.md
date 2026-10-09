@@ -1,3 +1,24 @@
+---
+product_id: "59139"
+digistore24_product_id: 732572
+title: "Stromkosten runter – ohne Verzicht"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2026-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/732572?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732572"
+language: "de"
+---
 # Stromkosten runter – ohne Verzicht
 
 > Product ID `59139` · Digistore24 productId `732572` · [HTML profile page](../../produkte/stromkosten-runter-ohne-verzicht-59139.html)

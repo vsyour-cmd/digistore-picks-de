@@ -1,3 +1,24 @@
+---
+product_id: "35168"
+digistore24_product_id: 330336
+title: "Bauanleitung - Mercedes Citan Kombibett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/citroen-berlingo-III?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/citroen-berlingo-III"
+language: "de"
+---
 # Bauanleitung - Mercedes Citan Kombibett
 
 > Product ID `35168` · Digistore24 productId `330336` · [HTML profile page](../../produkte/bauanleitung-mercedes-citan-kombibett-35168.html)

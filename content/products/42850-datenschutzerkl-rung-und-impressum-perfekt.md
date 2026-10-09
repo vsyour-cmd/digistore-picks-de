@@ -1,3 +1,24 @@
+---
+product_id: "42850"
+digistore24_product_id: 461891
+title: "Datenschutzerklärung und Impressum perfekt"
+vendor: "Interev"
+product_type: "Downloads"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 22.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://dsgvo-erklärung.de?aff=adminstore#aff=adminstore"
+sales_page: "https://dsgvo-erklärung.de"
+language: "de"
+---
 # Datenschutzerklärung und Impressum perfekt
 
 > Product ID `42850` · Digistore24 productId `461891` · [HTML profile page](../../produkte/datenschutzerkl-rung-und-impressum-perfekt-42850.html)

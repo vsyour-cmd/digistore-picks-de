@@ -1,3 +1,24 @@
+---
+product_id: "57761"
+digistore24_product_id: 712631
+title: "Skandinavisch einrichten leicht gemacht - Persönliche Ideen"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/712631?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/712631"
+language: "de"
+---
 # Skandinavisch einrichten leicht gemacht - Persönliche Ideen
 
 > Product ID `57761` · Digistore24 productId `712631` · [HTML profile page](../../produkte/skandinavisch-einrichten-leicht-gemacht-pers-nliche-ideen-57761.html)

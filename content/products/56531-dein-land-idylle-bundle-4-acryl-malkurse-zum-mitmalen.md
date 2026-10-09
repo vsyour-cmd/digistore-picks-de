@@ -1,3 +1,24 @@
+---
+product_id: "56531"
+digistore24_product_id: 649309
+title: "Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen"
+vendor: "liebezumleben"
+product_type: "Downloads"
+price: 79.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 39.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://malenmitanke.de/acrylmalkurs-landschaft-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://malenmitanke.de/acrylmalkurs-landschaft-bundle/"
+language: "de"
+---
 # Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen
 
 > Product ID `56531` · Digistore24 productId `649309` · [HTML profile page](../../produkte/dein-land-idylle-bundle-4-acryl-malkurse-zum-mitmalen-56531.html)

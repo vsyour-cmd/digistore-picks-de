@@ -1,3 +1,24 @@
+---
+product_id: "56669"
+digistore24_product_id: 689388
+title: "ADHS-Fokus-Test: Muster erkennen - Selbstreflexion"
+vendor: "Keto-Fasten"
+product_type: "Remote service provided electronically"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2026-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://adhs-online-test.de?aff=adminstore#aff=adminstore"
+sales_page: "https://adhs-online-test.de"
+language: "de"
+---
 # ADHS-Fokus-Test: Muster erkennen - Selbstreflexion
 
 > Product ID `56669` · Digistore24 productId `689388` · [HTML profile page](../../produkte/adhs-fokus-test-muster-erkennen-selbstreflexion-56669.html)

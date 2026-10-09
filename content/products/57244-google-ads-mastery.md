@@ -1,3 +1,24 @@
+---
+product_id: "57244"
+digistore24_product_id: 704222
+title: "Google Ads Mastery"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/google-ads-mastery?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/google-ads-mastery"
+language: "de"
+---
 # Google Ads Mastery
 
 > Product ID `57244` · Digistore24 productId `704222` · [HTML profile page](../../produkte/google-ads-mastery-57244.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33272"
+digistore24_product_id: 364116
+title: "Geburtsvorbereitungskurs Online"
+vendor: "ltcplus"
+product_type: "Member area and video courses"
+price: 27.98
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.13
+cart_conversion_pct: 31
+cancel_rate_pct: 0.98
+categories: ["Family & Children"]
+listed_since: "2020-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myhebamme24.de/gbk/?aff=adminstore#aff=adminstore"
+sales_page: "https://myhebamme24.de/gbk/"
+language: "de"
+---
 # Geburtsvorbereitungskurs Online
 
 > Product ID `33272` · Digistore24 productId `364116` · [HTML profile page](../../produkte/geburtsvorbereitungskurs-online-33272.html)

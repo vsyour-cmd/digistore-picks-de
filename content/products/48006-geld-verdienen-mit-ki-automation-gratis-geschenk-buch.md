@@ -1,3 +1,24 @@
+---
+product_id: "48006"
+digistore24_product_id: 550527
+title: "Geld verdienen mit KI Automation (Gratis Geschenk Buch)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.73
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.65
+cart_conversion_pct: 29
+cancel_rate_pct: 2.04
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/ai-money-automation-mastery?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/ai-money-automation-mastery"
+language: "de"
+---
 # Geld verdienen mit KI Automation (Gratis Geschenk Buch)
 
 > Product ID `48006` · Digistore24 productId `550527` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-automation-gratis-geschenk-buch-48006.html)

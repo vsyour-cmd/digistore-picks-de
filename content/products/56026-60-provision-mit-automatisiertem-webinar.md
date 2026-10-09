@@ -1,3 +1,24 @@
+---
+product_id: "56026"
+digistore24_product_id: 564175
+title: "60% Provision mit automatisiertem Webinar"
+vendor: "jessicabusse"
+product_type: "Member area and video courses"
+price: 349.69
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 209.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-chakra-seminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-chakra-seminar/"
+language: "de"
+---
 # 60% Provision mit automatisiertem Webinar
 
 > Product ID `56026` · Digistore24 productId `564175` · [HTML profile page](../../produkte/60-provision-mit-automatisiertem-webinar-56026.html)

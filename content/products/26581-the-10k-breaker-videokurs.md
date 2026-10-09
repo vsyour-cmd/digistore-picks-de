@@ -1,3 +1,24 @@
+---
+product_id: "26581"
+digistore24_product_id: 180303
+title: "The 10K Breaker Videokurs"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 937.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 468.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/10k-breaker-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/10k-breaker-system/"
+language: "de"
+---
 # The 10K Breaker Videokurs
 
 > Product ID `26581` · Digistore24 productId `180303` · [HTML profile page](../../produkte/the-10k-breaker-videokurs-26581.html)

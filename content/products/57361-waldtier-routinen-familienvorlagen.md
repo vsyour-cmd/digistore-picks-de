@@ -1,3 +1,24 @@
+---
+product_id: "57361"
+digistore24_product_id: 707943
+title: "Waldtier-Routinen & Familienvorlagen"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 6.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Hobby & Craft"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/routinen-vorlagen-fuer-kinder-zum-ausdrucken/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/routinen-vorlagen-fuer-kinder-zum-ausdrucken/"
+language: "de"
+---
 # Waldtier-Routinen & Familienvorlagen
 
 > Product ID `57361` · Digistore24 productId `707943` · [HTML profile page](../../produkte/waldtier-routinen-familienvorlagen-57361.html)

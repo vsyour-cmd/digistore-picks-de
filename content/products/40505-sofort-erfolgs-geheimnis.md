@@ -1,3 +1,24 @@
+---
+product_id: "40505"
+digistore24_product_id: 449302
+title: "Sofort-Erfolgs-Geheimnis"
+vendor: "CyrilCash"
+product_type: "E-books"
+price: 2.56
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 1.71
+cart_conversion_pct: 18
+cancel_rate_pct: 0.59
+categories: ["Education"]
+listed_since: "2022-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://business-kickstart.de/erfolgsgeheimnis-lp1/?aff=adminstore#aff=adminstore"
+sales_page: "https://business-kickstart.de/erfolgsgeheimnis-lp1/"
+language: "de"
+---
 # Sofort-Erfolgs-Geheimnis
 
 > Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../produkte/sofort-erfolgs-geheimnis-40505.html)

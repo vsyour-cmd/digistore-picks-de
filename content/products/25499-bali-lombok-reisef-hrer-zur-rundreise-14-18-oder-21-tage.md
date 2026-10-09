@@ -1,3 +1,24 @@
+---
+product_id: "25499"
+digistore24_product_id: 203221
+title: "Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2018-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/"
+language: "de"
+---
 # Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)
 
 > Product ID `25499` · Digistore24 productId `203221` · [HTML profile page](../../produkte/bali-lombok-reisef-hrer-zur-rundreise-14-18-oder-21-tage-25499.html)

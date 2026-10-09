@@ -1,3 +1,24 @@
+---
+product_id: "59707"
+digistore24_product_id: 701424
+title: "Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P"
+vendor: "pvamaxfe8b"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.code-content-ai.com/linux-statt-windows?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.code-content-ai.com/linux-statt-windows"
+language: "de"
+---
 # Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P
 
 > Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../produkte/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)

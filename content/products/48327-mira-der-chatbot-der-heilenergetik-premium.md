@@ -1,3 +1,24 @@
+---
+product_id: "48327"
+digistore24_product_id: 544220
+title: "Mira, der Chatbot der Heilenergetik - Premium"
+vendor: "StefanieMenzel"
+product_type: "Member area and video courses"
+price: 31.02
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.19
+cart_conversion_pct: 28
+cancel_rate_pct: 0.59
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fragdochmenzel.net/_premium_abo/?aff=adminstore#aff=adminstore"
+sales_page: "https://fragdochmenzel.net/_premium_abo/"
+language: "de"
+---
 # Mira, der Chatbot der Heilenergetik - Premium
 
 > Product ID `48327` · Digistore24 productId `544220` · [HTML profile page](../../produkte/mira-der-chatbot-der-heilenergetik-premium-48327.html)

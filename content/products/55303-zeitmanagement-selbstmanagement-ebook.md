@@ -1,3 +1,24 @@
+---
+product_id: "55303"
+digistore24_product_id: 660528
+title: "Zeitmanagement / Selbstmanagement ebook"
+vendor: "hartmut-sieck"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.79
+cart_conversion_pct: 31
+cancel_rate_pct: 6.24
+categories: ["Education","Profession & Job"]
+listed_since: "2026-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sieck-consulting.de/ebook-zeitmanagement/"
+language: "de"
+---
 # Zeitmanagement / Selbstmanagement ebook
 
 > Product ID `55303` · Digistore24 productId `660528` · [HTML profile page](../../produkte/zeitmanagement-selbstmanagement-ebook-55303.html)

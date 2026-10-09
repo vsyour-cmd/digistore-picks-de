@@ -1,3 +1,24 @@
+---
+product_id: "55642"
+digistore24_product_id: 634902
+title: "Introvertiert erfolgreich mit INTREX"
+vendor: "AndreasKott"
+product_type: "Online coaching"
+price: 1864.96
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 186.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Marketing Services"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://q90yu0.eu-3.quentn-site.com/intrex-11?aff=adminstore#aff=adminstore"
+sales_page: "https://q90yu0.eu-3.quentn-site.com/intrex-11"
+language: "de"
+---
 # Introvertiert erfolgreich mit INTREX
 
 > Product ID `55642` · Digistore24 productId `634902` · [HTML profile page](../../produkte/introvertiert-erfolgreich-mit-intrex-55642.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56070"
+digistore24_product_id: 680183
+title: "Deine Fitnessdrinks"
+vendor: "Freifone"
+product_type: "E-books"
+price: 5.21
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-03-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/deine-fitnessdrinks?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/deine-fitnessdrinks"
+language: "de"
+---
 # Deine Fitnessdrinks
 
 > Product ID `56070` · Digistore24 productId `680183` · [HTML profile page](../../produkte/deine-fitnessdrinks-56070.html)

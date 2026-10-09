@@ -1,3 +1,24 @@
+---
+product_id: "40353"
+digistore24_product_id: 447453
+title: "Network Marketing auf Autopilot - MLM"
+vendor: "teamlifebydesign"
+product_type: "E-books"
+price: 1.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://networkmarketingautopilot.de/aff-buch-audio-kostenlos/?aff=adminstore#aff=adminstore"
+sales_page: "https://networkmarketingautopilot.de/aff-buch-audio-kostenlos/"
+language: "de"
+---
 # Network Marketing auf Autopilot - MLM
 
 > Product ID `40353` · Digistore24 productId `447453` · [HTML profile page](../../produkte/network-marketing-auf-autopilot-mlm-40353.html)

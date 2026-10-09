@@ -1,3 +1,24 @@
+---
+product_id: "41597"
+digistore24_product_id: 281742
+title: "das E-Book: fotografieren lernen mit Erfolg"
+vendor: "axel-pr"
+product_type: "E-books"
+price: 10.34
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.33
+cart_conversion_pct: 13
+cancel_rate_pct: 0.41
+categories: ["Photography & Film"]
+listed_since: "2019-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.foto-kurs.com/ebook-fotografieren-lernen.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.foto-kurs.com/ebook-fotografieren-lernen.php"
+language: "de"
+---
 # das E-Book: fotografieren lernen mit Erfolg
 
 > Product ID `41597` · Digistore24 productId `281742` · [HTML profile page](../../produkte/das-e-book-fotografieren-lernen-mit-erfolg-41597.html)

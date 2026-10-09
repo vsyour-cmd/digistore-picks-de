@@ -1,3 +1,24 @@
+---
+product_id: "30438"
+digistore24_product_id: 289005
+title: "GELD: Monatsübersicht erstellen | Vorlage und Anleitung"
+vendor: "NilsWarnecke"
+product_type: "Software"
+price: 53.58
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 14.69
+cart_conversion_pct: 9
+cancel_rate_pct: 5.08
+categories: ["Education"]
+listed_since: "2019-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/?aff=adminstore#aff=adminstore"
+sales_page: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/"
+language: "de"
+---
 # GELD: Monatsübersicht erstellen | Vorlage und Anleitung
 
 > Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../produkte/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)

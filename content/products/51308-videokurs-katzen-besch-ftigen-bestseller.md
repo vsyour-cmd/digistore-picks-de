@@ -1,3 +1,24 @@
+---
+product_id: "51308"
+digistore24_product_id: 586551
+title: "Videokurs \"Katzen beschäftigen\" - Bestseller!"
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/katzen-beschaeftigen-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/katzen-beschaeftigen-kurs"
+language: "de"
+---
 # Videokurs "Katzen beschäftigen" - Bestseller!
 
 > Product ID `51308` · Digistore24 productId `586551` · [HTML profile page](../../produkte/videokurs-katzen-besch-ftigen-bestseller-51308.html)

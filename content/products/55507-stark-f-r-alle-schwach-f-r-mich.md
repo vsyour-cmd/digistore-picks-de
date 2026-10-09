@@ -1,3 +1,24 @@
+---
+product_id: "55507"
+digistore24_product_id: 667733
+title: "Stark für alle. Schwach für mich."
+vendor: "gbuiss"
+product_type: "E-books"
+price: 18.14
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 17.7
+cart_conversion_pct: 10
+cancel_rate_pct: 2.05
+categories: ["Personal Development"]
+listed_since: "2026-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/667733?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667733"
+language: "de"
+---
 # Stark für alle. Schwach für mich.
 
 > Product ID `55507` · Digistore24 productId `667733` · [HTML profile page](../../produkte/stark-f-r-alle-schwach-f-r-mich-55507.html)

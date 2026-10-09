@@ -1,3 +1,24 @@
+---
+product_id: "57359"
+digistore24_product_id: 705407
+title: "Süßes Waldtier-Malbuch für Kinder – 30 liebevolle Ausmalbild"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 6.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Hobby & Craft"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/waldtiere-ausmalbilder/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/waldtiere-ausmalbilder/"
+language: "de"
+---
 # Süßes Waldtier-Malbuch für Kinder – 30 liebevolle Ausmalbild
 
 > Product ID `57359` · Digistore24 productId `705407` · [HTML profile page](../../produkte/s-es-waldtier-malbuch-f-r-kinder-30-liebevolle-ausmalbild-57359.html)

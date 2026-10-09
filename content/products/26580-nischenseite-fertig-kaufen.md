@@ -1,3 +1,24 @@
+---
+product_id: "26580"
+digistore24_product_id: 170983
+title: "Nischenseite fertig kaufen"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 243.99
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 34.09
+cart_conversion_pct: 5
+cancel_rate_pct: 2.18
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://los.larspilawski.de/lars-baut-dir-deine-lukrative-nischenseite/?aff=adminstore#aff=adminstore"
+sales_page: "https://los.larspilawski.de/lars-baut-dir-deine-lukrative-nischenseite/"
+language: "de"
+---
 # Nischenseite fertig kaufen
 
 > Product ID `26580` · Digistore24 productId `170983` · [HTML profile page](../../produkte/nischenseite-fertig-kaufen-26580.html)

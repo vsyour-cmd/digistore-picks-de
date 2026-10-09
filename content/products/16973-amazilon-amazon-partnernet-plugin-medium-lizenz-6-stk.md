@@ -1,3 +1,24 @@
+---
+product_id: "16973"
+digistore24_product_id: 90365
+title: "Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)"
+vendor: "hinmed"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 13.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2016-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://amazilon.com/"
+language: "de"
+---
 # Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)
 
 > Product ID `16973` · Digistore24 productId `90365` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-medium-lizenz-6-stk-16973.html)

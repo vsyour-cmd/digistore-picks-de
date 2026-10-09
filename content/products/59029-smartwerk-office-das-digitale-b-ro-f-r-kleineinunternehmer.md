@@ -1,3 +1,24 @@
+---
+product_id: "59029"
+digistore24_product_id: 728452
+title: "SmartWerk Office – Das digitale Büro für Kleineinunternehmer"
+vendor: "jakklejo86c4"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 13.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Hobby & Craft"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728452?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728452"
+language: "de"
+---
 # SmartWerk Office – Das digitale Büro für Kleineinunternehmer
 
 > Product ID `59029` · Digistore24 productId `728452` · [HTML profile page](../../produkte/smartwerk-office-das-digitale-b-ro-f-r-kleineinunternehmer-59029.html)

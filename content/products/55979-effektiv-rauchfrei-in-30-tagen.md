@@ -1,3 +1,24 @@
+---
+product_id: "55979"
+digistore24_product_id: 677936
+title: "Effektiv Rauchfrei in 30 Tagen"
+vendor: "Freifone"
+product_type: "E-books"
+price: 104.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 52.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2026-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/rauchfrei-30-tagen?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/rauchfrei-30-tagen"
+language: "de"
+---
 # Effektiv Rauchfrei in 30 Tagen
 
 > Product ID `55979` · Digistore24 productId `677936` · [HTML profile page](../../produkte/effektiv-rauchfrei-in-30-tagen-55979.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58816"
+digistore24_product_id: 503378
+title: "9 Online-Business-Modelle im Überblick"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/9-online-business-modelle-im-ueberblick?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/9-online-business-modelle-im-ueberblick"
+language: "de"
+---
 # 9 Online-Business-Modelle im Überblick
 
 > Product ID `58816` · Digistore24 productId `503378` · [HTML profile page](../../produkte/9-online-business-modelle-im-berblick-58816.html)

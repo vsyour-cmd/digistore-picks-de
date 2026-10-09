@@ -1,3 +1,24 @@
+---
+product_id: "11531"
+digistore24_product_id: 78297
+title: "Reicher als die Geissens - 50% Provision auf alle Upsells"
+vendor: "AFMedia"
+product_type: "Book (printed)"
+price: 24.03
+currency: "USD"
+affiliate_commission_pct: 1
+earnings_per_sale: 2.73
+cart_conversion_pct: 17
+cancel_rate_pct: 18.84
+categories: ["Business & Investment"]
+listed_since: "2016-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://alex-fischer-duesseldorf.de/fnl/reicher-als-die-geissens/bestellen?aff=adminstore#aff=adminstore"
+sales_page: "https://alex-fischer-duesseldorf.de/fnl/reicher-als-die-geissens/bestellen"
+language: "de"
+---
 # Reicher als die Geissens - 50% Provision auf alle Upsells
 
 > Product ID `11531` · Digistore24 productId `78297` · [HTML profile page](../../produkte/reicher-als-die-geissens-50-provision-auf-alle-upsells-11531.html)

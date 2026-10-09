@@ -1,3 +1,24 @@
+---
+product_id: "55849"
+digistore24_product_id: 674178
+title: "Zeitgemäß bewerben - All-in-One - Das Sorglospaket"
+vendor: "Diveco"
+product_type: "E-books"
+price: 130.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 65.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/"
+language: "de"
+---
 # Zeitgemäß bewerben - All-in-One - Das Sorglospaket
 
 > Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../produkte/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)

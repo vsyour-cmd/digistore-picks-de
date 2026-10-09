@@ -1,3 +1,24 @@
+---
+product_id: "55152"
+digistore24_product_id: 643902
+title: "VoxelPrint Pro – 3D-Druck-Shop für WooCommerce"
+vendor: "VOUMEDIA"
+product_type: "Software"
+price: 1208.09
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 362.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Services","Software"]
+listed_since: "2025-10-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.voumedia.de/voxelprint-pro/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.voumedia.de/voxelprint-pro/"
+language: "de"
+---
 # VoxelPrint Pro – 3D-Druck-Shop für WooCommerce
 
 > Product ID `55152` · Digistore24 productId `643902` · [HTML profile page](../../produkte/voxelprint-pro-3d-druck-shop-f-r-woocommerce-55152.html)

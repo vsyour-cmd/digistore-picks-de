@@ -1,3 +1,24 @@
+---
+product_id: "54332"
+digistore24_product_id: 489492
+title: "Ziele mit Leichtigkeit erreichen"
+vendor: "lauraknillcoaching"
+product_type: "Member area and video courses"
+price: 65.8
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2023-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/489492?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/489492"
+language: "de"
+---
 # Ziele mit Leichtigkeit erreichen
 
 > Product ID `54332` · Digistore24 productId `489492` · [HTML profile page](../../produkte/ziele-mit-leichtigkeit-erreichen-54332.html)

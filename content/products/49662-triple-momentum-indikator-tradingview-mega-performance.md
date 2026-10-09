@@ -1,3 +1,24 @@
+---
+product_id: "49662"
+digistore24_product_id: 439414
+title: "Triple Momentum Indikator | TradingView | mega Performance"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 281.61
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 246.01
+cart_conversion_pct: 7
+cancel_rate_pct: 10.09
+categories: ["Trading Products"]
+listed_since: "2022-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/triple-momentum-trading-indikator/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/triple-momentum-trading-indikator/"
+language: "de"
+---
 # Triple Momentum Indikator | TradingView | mega Performance
 
 > Product ID `49662` · Digistore24 productId `439414` · [HTML profile page](../../produkte/triple-momentum-indikator-tradingview-mega-performance-49662.html)

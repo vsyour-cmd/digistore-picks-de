@@ -1,3 +1,24 @@
+---
+product_id: "57673"
+digistore24_product_id: 711211
+title: "Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige"
+vendor: "24kibibliotheker"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo"
+language: "de"
+---
 # Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige
 
 > Product ID `57673` · Digistore24 productId `711211` · [HTML profile page](../../produkte/ki-marketing-f-r-creator-anf-nger-erfahren-selbstst-ndige-57673.html)

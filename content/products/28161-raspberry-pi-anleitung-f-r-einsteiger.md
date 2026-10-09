@@ -1,3 +1,24 @@
+---
+product_id: "28161"
+digistore24_product_id: 260497
+title: "Raspberry Pi Anleitung für Einsteiger"
+vendor: "FIMA2011"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2019-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.raspi-config.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.raspi-config.de"
+language: "de"
+---
 # Raspberry Pi Anleitung für Einsteiger
 
 > Product ID `28161` · Digistore24 productId `260497` · [HTML profile page](../../produkte/raspberry-pi-anleitung-f-r-einsteiger-28161.html)

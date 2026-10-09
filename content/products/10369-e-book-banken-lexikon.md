@@ -1,3 +1,24 @@
+---
+product_id: "10369"
+digistore24_product_id: 72935
+title: "E-Book: Banken Lexikon"
+vendor: "Staatenlos"
+product_type: "E-books"
+price: 36.5
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 15.97
+cart_conversion_pct: 19
+cancel_rate_pct: 3.92
+categories: ["Business & Investment"]
+listed_since: "2016-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/banken-lexikon/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/banken-lexikon/"
+language: "de"
+---
 # E-Book: Banken Lexikon
 
 > Product ID `10369` · Digistore24 productId `72935` · [HTML profile page](../../produkte/e-book-banken-lexikon-10369.html)

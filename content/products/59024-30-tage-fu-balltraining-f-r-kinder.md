@@ -1,3 +1,24 @@
+---
+product_id: "59024"
+digistore24_product_id: 731192
+title: "30 Tage Fußballtraining für Kinder"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Sport"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/731192?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731192"
+language: "de"
+---
 # 30 Tage Fußballtraining für Kinder
 
 > Product ID `59024` · Digistore24 productId `731192` · [HTML profile page](../../produkte/30-tage-fu-balltraining-f-r-kinder-59024.html)

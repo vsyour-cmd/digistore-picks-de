@@ -1,3 +1,24 @@
+---
+product_id: "52152"
+digistore24_product_id: 648874
+title: "KI ganz leicht verstehen – Affiliate über Webinar"
+vendor: "Life-in-Balance"
+product_type: "Member area and video courses"
+price: 553.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 276.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education"]
+listed_since: "2025-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://22413.webinaris.co/32148/dieses_webinar_zeigt_dir_ki_so_einfach.html?mode=N&v=4&aff=adminstore#aff=adminstore"
+sales_page: "https://22413.webinaris.co/32148/dieses_webinar_zeigt_dir_ki_so_einfach.html?mode=N&v=4"
+language: "de"
+---
 # KI ganz leicht verstehen – Affiliate über Webinar
 
 > Product ID `52152` · Digistore24 productId `648874` · [HTML profile page](../../produkte/ki-ganz-leicht-verstehen-affiliate-ber-webinar-52152.html)

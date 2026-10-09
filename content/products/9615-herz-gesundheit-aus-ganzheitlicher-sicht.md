@@ -1,3 +1,24 @@
+---
+product_id: "9615"
+digistore24_product_id: 67593
+title: "HERZ Gesundheit aus ganzheitlicher Sicht"
+vendor: "RaGarve"
+product_type: "Downloads"
+price: 187.97
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 55.24
+cart_conversion_pct: 31
+cancel_rate_pct: 5.11
+categories: ["Health & Fitness"]
+listed_since: "2016-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/"
+language: "de"
+---
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
 > Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)

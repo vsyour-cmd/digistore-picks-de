@@ -1,3 +1,24 @@
+---
+product_id: "34286"
+digistore24_product_id: 350621
+title: "LANZAROTE: Lanzarote Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.6
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 31
+cancel_rate_pct: 0.69
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2020-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/lanzarote-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/lanzarote-bildband/"
+language: "de"
+---
 # LANZAROTE: Lanzarote Bildband [E-Book]
 
 > Product ID `34286` · Digistore24 productId `350621` · [HTML profile page](../../produkte/lanzarote-lanzarote-bildband-e-book-34286.html)

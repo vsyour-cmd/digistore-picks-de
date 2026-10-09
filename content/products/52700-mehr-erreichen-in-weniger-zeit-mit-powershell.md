@@ -1,3 +1,24 @@
+---
+product_id: "52700"
+digistore24_product_id: 615123
+title: "Mehr erreichen in weniger Zeit – mit PowerShell"
+vendor: "MElsberger"
+product_type: "E-books"
+price: 8.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education"]
+listed_since: "2025-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/615123?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/615123"
+language: "de"
+---
 # Mehr erreichen in weniger Zeit – mit PowerShell
 
 > Product ID `52700` · Digistore24 productId `615123` · [HTML profile page](../../produkte/mehr-erreichen-in-weniger-zeit-mit-powershell-52700.html)

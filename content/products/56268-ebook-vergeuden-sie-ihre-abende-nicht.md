@@ -1,3 +1,24 @@
+---
+product_id: "56268"
+digistore24_product_id: 682677
+title: "Ebook - Vergeuden Sie Ihre Abende nicht"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682677?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682677"
+language: "de"
+---
 # Ebook - Vergeuden Sie Ihre Abende nicht
 
 > Product ID `56268` · Digistore24 productId `682677` · [HTML profile page](../../produkte/ebook-vergeuden-sie-ihre-abende-nicht-56268.html)

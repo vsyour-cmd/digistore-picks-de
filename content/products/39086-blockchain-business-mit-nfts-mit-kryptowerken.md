@@ -1,3 +1,24 @@
+---
+product_id: "39086"
+digistore24_product_id: 429081
+title: "Blockchain Business mit NFTs (mit Kryptowerken)"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Business & Investment"]
+listed_since: "2022-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/nft-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/nft-fe/"
+language: "de"
+---
 # Blockchain Business mit NFTs (mit Kryptowerken)
 
 > Product ID `39086` · Digistore24 productId `429081` · [HTML profile page](../../produkte/blockchain-business-mit-nfts-mit-kryptowerken-39086.html)

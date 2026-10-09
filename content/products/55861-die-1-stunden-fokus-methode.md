@@ -1,3 +1,24 @@
+---
+product_id: "55861"
+digistore24_product_id: 674791
+title: "Die 1-Stunden-Fokus-Methode"
+vendor: "pgustke28d278"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/674791?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/674791"
+language: "de"
+---
 # Die 1-Stunden-Fokus-Methode
 
 > Product ID `55861` · Digistore24 productId `674791` · [HTML profile page](../../produkte/die-1-stunden-fokus-methode-55861.html)

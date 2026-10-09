@@ -1,3 +1,24 @@
+---
+product_id: "56377"
+digistore24_product_id: 686266
+title: "Spardosen GmbH selbstgemacht Video-Blueprint"
+vendor: "PecuniamConcepts"
+product_type: "Member area and video courses"
+price: 1115.24
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 278.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://spardosen-blueprint.tilda.ws/digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://spardosen-blueprint.tilda.ws/digistore24"
+language: "de"
+---
 # Spardosen GmbH selbstgemacht Video-Blueprint
 
 > Product ID `56377` · Digistore24 productId `686266` · [HTML profile page](../../produkte/spardosen-gmbh-selbstgemacht-video-blueprint-56377.html)

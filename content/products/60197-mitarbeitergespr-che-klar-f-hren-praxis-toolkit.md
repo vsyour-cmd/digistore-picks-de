@@ -1,3 +1,24 @@
+---
+product_id: "60197"
+digistore24_product_id: 742021
+title: "Mitarbeitergespräche klar führen – Praxis-Toolkit"
+vendor: "markplenert7400"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Leadership & Management"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://fuehrung.markplenert.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://fuehrung.markplenert.de/"
+language: "de"
+---
 # Mitarbeitergespräche klar führen – Praxis-Toolkit
 
 > Product ID `60197` · Digistore24 productId `742021` · [HTML profile page](../../produkte/mitarbeitergespr-che-klar-f-hren-praxis-toolkit-60197.html)

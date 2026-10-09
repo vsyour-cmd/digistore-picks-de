@@ -1,3 +1,24 @@
+---
+product_id: "60339"
+digistore24_product_id: 741705
+title: "Kaufvertrag leicht gemacht – mit Kaufvertrags-Generator"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741705?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741705"
+language: "de"
+---
 # Kaufvertrag leicht gemacht – mit Kaufvertrags-Generator
 
 > Product ID `60339` · Digistore24 productId `741705` · [HTML profile page](../../produkte/kaufvertrag-leicht-gemacht-mit-kaufvertrags-generator-60339.html)

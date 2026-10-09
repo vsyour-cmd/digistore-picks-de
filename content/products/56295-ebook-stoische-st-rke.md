@@ -1,3 +1,24 @@
+---
+product_id: "56295"
+digistore24_product_id: 685114
+title: "Ebook - Stoische Stärke"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685114?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685114"
+language: "de"
+---
 # Ebook - Stoische Stärke
 
 > Product ID `56295` · Digistore24 productId `685114` · [HTML profile page](../../produkte/ebook-stoische-st-rke-56295.html)

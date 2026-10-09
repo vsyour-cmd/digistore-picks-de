@@ -1,3 +1,24 @@
+---
+product_id: "56886"
+digistore24_product_id: 649955
+title: "Direkt-Vertrieb - Die König Disziplin"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 65.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Sales Training"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/649955?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/649955"
+language: "de"
+---
 # Direkt-Vertrieb - Die König Disziplin
 
 > Product ID `56886` · Digistore24 productId `649955` · [HTML profile page](../../produkte/direkt-vertrieb-die-k-nig-disziplin-56886.html)

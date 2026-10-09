@@ -1,3 +1,24 @@
+---
+product_id: "57169"
+digistore24_product_id: 705913
+title: "Digital-Simplify-Masterplan – Die ultimative Anleitung für d"
+vendor: "StreetArtCompany"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/705913?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/705913"
+language: "de"
+---
 # Digital-Simplify-Masterplan – Die ultimative Anleitung für d
 
 > Product ID `57169` · Digistore24 productId `705913` · [HTML profile page](../../produkte/digital-simplify-masterplan-die-ultimative-anleitung-f-r-d-57169.html)

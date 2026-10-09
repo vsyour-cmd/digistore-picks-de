@@ -1,3 +1,24 @@
+---
+product_id: "57529"
+digistore24_product_id: 711237
+title: "100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 21.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Health & Fitness"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/detox-style-smoothies/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/detox-style-smoothies/"
+language: "de"
+---
 # 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten
 
 > Product ID `57529` · Digistore24 productId `711237` · [HTML profile page](../../produkte/100-smoothie-rezepte-wochenpl-ne-einkaufslisten-57529.html)

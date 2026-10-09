@@ -1,3 +1,24 @@
+---
+product_id: "42894"
+digistore24_product_id: 358931
+title: "Steirische Harmonika Lernen mit Griffschrift"
+vendor: "MarcelWaldmann"
+product_type: "Member area and video courses"
+price: 140.91
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://musik-akademie.coachy.net/lp/musik-akademie/?aff=adminstore#aff=adminstore"
+sales_page: "https://musik-akademie.coachy.net/lp/musik-akademie/"
+language: "de"
+---
 # Steirische Harmonika Lernen mit Griffschrift
 
 > Product ID `42894` · Digistore24 productId `358931` · [HTML profile page](../../produkte/steirische-harmonika-lernen-mit-griffschrift-42894.html)

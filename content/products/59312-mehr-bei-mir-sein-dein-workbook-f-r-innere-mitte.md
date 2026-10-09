@@ -1,3 +1,24 @@
+---
+product_id: "59312"
+digistore24_product_id: 732995
+title: "Mehr bei mir sein – Dein Workbook für innere Mitte"
+vendor: "entdeckerei"
+product_type: "Downloads"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/732995?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732995"
+language: "de"
+---
 # Mehr bei mir sein – Dein Workbook für innere Mitte
 
 > Product ID `59312` · Digistore24 productId `732995` · [HTML profile page](../../produkte/mehr-bei-mir-sein-dein-workbook-f-r-innere-mitte-59312.html)

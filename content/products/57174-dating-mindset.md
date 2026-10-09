@@ -1,3 +1,24 @@
+---
+product_id: "57174"
+digistore24_product_id: 701936
+title: "Dating-Mindset"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dating-mindset?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dating-mindset"
+language: "de"
+---
 # Dating-Mindset
 
 > Product ID `57174` · Digistore24 productId `701936` · [HTML profile page](../../produkte/dating-mindset-57174.html)

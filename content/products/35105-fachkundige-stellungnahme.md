@@ -1,3 +1,24 @@
+---
+product_id: "35105"
+digistore24_product_id: 333355
+title: "Fachkundige Stellungnahme"
+vendor: "emilio78"
+product_type: "Remote service provided electronically"
+price: 107.9
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.67
+cart_conversion_pct: 33
+cancel_rate_pct: 5.05
+categories: ["Business & Investment","Profession & Job","Services"]
+listed_since: "2020-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/"
+language: "de"
+---
 # Fachkundige Stellungnahme
 
 > Product ID `35105` · Digistore24 productId `333355` · [HTML profile page](../../produkte/fachkundige-stellungnahme-35105.html)

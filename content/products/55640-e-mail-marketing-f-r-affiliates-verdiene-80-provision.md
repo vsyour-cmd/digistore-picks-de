@@ -1,3 +1,24 @@
+---
+product_id: "55640"
+digistore24_product_id: 667708
+title: "E-Mail Marketing für Affiliates - Verdiene 80% Provision"
+vendor: "onlinesuccess"
+product_type: "E-books"
+price: 1.04
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 0.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.online-starten.info/checkliste-email-marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.online-starten.info/checkliste-email-marketing/"
+language: "de"
+---
 # E-Mail Marketing für Affiliates - Verdiene 80% Provision
 
 > Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)

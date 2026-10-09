@@ -1,3 +1,24 @@
+---
+product_id: "24585"
+digistore24_product_id: 218797
+title: "Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand"
+vendor: "rekrutier"
+product_type: "Book (printed)"
+price: 16.75
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.04
+cart_conversion_pct: 12
+cancel_rate_pct: 0.95
+categories: ["Profession & Job"]
+listed_since: "2018-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.rekru-tier.de/buch-8020networker?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rekru-tier.de/buch-8020networker"
+language: "de"
+---
 # Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand
 
 > Product ID `24585` · Digistore24 productId `218797` · [HTML profile page](../../produkte/der-80-20-networker-mehr-erreichen-mit-weniger-aufwand-24585.html)

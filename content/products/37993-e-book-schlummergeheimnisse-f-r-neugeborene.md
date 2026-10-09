@@ -1,3 +1,24 @@
+---
+product_id: "37993"
+digistore24_product_id: 301611
+title: "E-Book: Schlummergeheimnisse für Neugeborene"
+vendor: "babyschlummerland"
+product_type: "E-books"
+price: 26.22
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.41
+cart_conversion_pct: 3
+cancel_rate_pct: 1.67
+categories: ["Family & Children"]
+listed_since: "2020-01-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/"
+language: "de"
+---
 # E-Book: Schlummergeheimnisse für Neugeborene
 
 > Product ID `37993` · Digistore24 productId `301611` · [HTML profile page](../../produkte/e-book-schlummergeheimnisse-f-r-neugeborene-37993.html)

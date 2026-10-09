@@ -1,3 +1,24 @@
+---
+product_id: "58130"
+digistore24_product_id: 717929
+title: "Verstehen statt verurteilen Ein Leben mit ADHS als Erwachsen"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Leadership & Management","Personal Development"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/717929?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717929"
+language: "de"
+---
 # Verstehen statt verurteilen Ein Leben mit ADHS als Erwachsen
 
 > Product ID `58130` · Digistore24 productId `717929` · [HTML profile page](../../produkte/verstehen-statt-verurteilen-ein-leben-mit-adhs-als-erwachsen-58130.html)

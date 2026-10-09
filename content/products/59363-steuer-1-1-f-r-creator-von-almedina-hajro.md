@@ -1,3 +1,24 @@
+---
+product_id: "59363"
+digistore24_product_id: 734859
+title: "Steuer 1×1 für Creator – von Almedina Hajro"
+vendor: "Medina88"
+product_type: "E-books"
+price: 417.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 166.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Social Media","Finances"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/734859?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734859"
+language: "de"
+---
 # Steuer 1×1 für Creator – von Almedina Hajro
 
 > Product ID `59363` · Digistore24 productId `734859` · [HTML profile page](../../produkte/steuer-1-1-f-r-creator-von-almedina-hajro-59363.html)

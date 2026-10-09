@@ -1,3 +1,24 @@
+---
+product_id: "25596"
+digistore24_product_id: 77817
+title: "Das große E-Book Beziehungspaket [E-Books]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2016-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/e-book-paket/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/e-book-paket/"
+language: "de"
+---
 # Das große E-Book Beziehungspaket [E-Books]
 
 > Product ID `25596` · Digistore24 productId `77817` · [HTML profile page](../../produkte/das-gro-e-e-book-beziehungspaket-e-books-25596.html)

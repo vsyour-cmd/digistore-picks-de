@@ -1,3 +1,24 @@
+---
+product_id: "53243"
+digistore24_product_id: 625074
+title: "„Die No-Go-Liste für Werber“ – Hochkonvertierendes PDF (40%)"
+vendor: "JumbMedia-Store"
+product_type: "E-books"
+price: 167.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 67.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/625074?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/625074"
+language: "de"
+---
 # „Die No-Go-Liste für Werber“ – Hochkonvertierendes PDF (40%)
 
 > Product ID `53243` · Digistore24 productId `625074` · [HTML profile page](../../produkte/die-no-go-liste-f-r-werber-hochkonvertierendes-pdf-40-53243.html)

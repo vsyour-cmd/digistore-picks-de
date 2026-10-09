@@ -1,3 +1,24 @@
+---
+product_id: "56878"
+digistore24_product_id: 691897
+title: "Money Mindset Membership"
+vendor: "Glareena"
+product_type: "Member area and video courses"
+price: 771.83
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 231.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-06-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gluecksmomente-jeden-tag.com/abo-dein-neustart?aff=adminstore#aff=adminstore"
+sales_page: "https://gluecksmomente-jeden-tag.com/abo-dein-neustart"
+language: "de"
+---
 # Money Mindset Membership
 
 > Product ID `56878` · Digistore24 productId `691897` · [HTML profile page](../../produkte/money-mindset-membership-56878.html)

@@ -1,3 +1,24 @@
+---
+product_id: "11859"
+digistore24_product_id: 83761
+title: "Jagen, Beute machen und Verdauen"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 14.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/Start/jagen_beute_machen/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/Start/jagen_beute_machen/"
+language: "de"
+---
 # Jagen, Beute machen und Verdauen
 
 > Product ID `11859` · Digistore24 productId `83761` · [HTML profile page](../../produkte/jagen-beute-machen-und-verdauen-11859.html)

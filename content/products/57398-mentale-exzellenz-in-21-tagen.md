@@ -1,3 +1,24 @@
+---
+product_id: "57398"
+digistore24_product_id: 683993
+title: "Mentale Exzellenz in 21 Tagen"
+vendor: "creators-academy"
+product_type: "Member area and video courses"
+price: 380.7
+currency: "USD"
+affiliate_commission_pct: 27
+earnings_per_sale: 102.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/683993/adminstore"
+sales_page: "https://www.jens-heuchemer.de/strunprov-webinar?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Mentale Exzellenz in 21 Tagen
 
 > Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../produkte/mentale-exzellenz-in-21-tagen-57398.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58550"
+digistore24_product_id: 723430
+title: "Websites & SEO für KMU weltweit: 30 % Provision"
+vendor: "astraios"
+product_type: "Remote service provided electronically"
+price: 1219.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 365.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://grodt.ch/ds24/?aff=adminstore#aff=adminstore"
+sales_page: "https://grodt.ch/ds24/"
+language: "de"
+---
 # Websites & SEO für KMU weltweit: 30 % Provision
 
 > Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../produkte/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)

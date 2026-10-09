@@ -1,3 +1,24 @@
+---
+product_id: "59659"
+digistore24_product_id: 735224
+title: "BookPilot - Automatisiert mit Kinderbüchern Geld verdienen"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 44.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Family & Children","Online Marketing & E-Business"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.book-pilot.app/bookpilot-drache?aff=adminstore#aff=adminstore"
+sales_page: "https://www.book-pilot.app/bookpilot-drache"
+language: "de"
+---
 # BookPilot - Automatisiert mit Kinderbüchern Geld verdienen
 
 > Product ID `59659` · Digistore24 productId `735224` · [HTML profile page](../../produkte/bookpilot-automatisiert-mit-kinderb-chern-geld-verdienen-59659.html)

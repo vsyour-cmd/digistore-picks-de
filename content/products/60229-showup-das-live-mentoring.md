@@ -1,3 +1,24 @@
+---
+product_id: "60229"
+digistore24_product_id: 742548
+title: "ShowUp - das Live-Mentoring"
+vendor: "businessdesignrocks"
+product_type: "Member area and video courses"
+price: 3579.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1789.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742548?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742548"
+language: "de"
+---
 # ShowUp - das Live-Mentoring
 
 > Product ID `60229` · Digistore24 productId `742548` · [HTML profile page](../../produkte/showup-das-live-mentoring-60229.html)

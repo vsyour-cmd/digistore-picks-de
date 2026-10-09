@@ -1,3 +1,24 @@
+---
+product_id: "54960"
+digistore24_product_id: 637958
+title: "Onlinekongress Entzündungen entschlüsseln"
+vendor: "IreneSmiatek"
+product_type: "Member area and video courses"
+price: 45.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 48.21
+cart_conversion_pct: 7
+cancel_rate_pct: 6.85
+categories: ["Health & Fitness"]
+listed_since: "2025-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite?aff=adminstore#aff=adminstore"
+sales_page: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite"
+language: "de"
+---
 # Onlinekongress Entzündungen entschlüsseln
 
 > Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../produkte/onlinekongress-entz-ndungen-entschl-sseln-54960.html)

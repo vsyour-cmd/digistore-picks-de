@@ -1,3 +1,24 @@
+---
+product_id: "56820"
+digistore24_product_id: 632734
+title: "[Live] Sportwetten mit KI | Software | +10% Conversion"
+vendor: "betrev"
+product_type: "Member area and video courses"
+price: 343.1
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 120.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems","Software","Sport"]
+listed_since: "2026-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.wettmatrix.com/online-training/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wettmatrix.com/online-training/"
+language: "de"
+---
 # [Live] Sportwetten mit KI | Software | +10% Conversion
 
 > Product ID `56820` · Digistore24 productId `632734` · [HTML profile page](../../produkte/live-sportwetten-mit-ki-software-10-conversion-56820.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58715"
+digistore24_product_id: 725449
+title: "Die Geschichte der O in Deutscher Sprache"
+vendor: "Novaris_web"
+product_type: "Audio book (download)"
+price: 17.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://novaris.de.cool/o.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/o.php"
+language: "de"
+---
 # Die Geschichte der O in Deutscher Sprache
 
 > Product ID `58715` · Digistore24 productId `725449` · [HTML profile page](../../produkte/die-geschichte-der-o-in-deutscher-sprache-58715.html)

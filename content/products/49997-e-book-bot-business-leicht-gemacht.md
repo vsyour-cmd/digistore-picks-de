@@ -1,3 +1,24 @@
+---
+product_id: "49997"
+digistore24_product_id: 573978
+title: "E-Book - Bot-Business leicht gemacht"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2024-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/BOT-Business?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/BOT-Business"
+language: "de"
+---
 # E-Book - Bot-Business leicht gemacht
 
 > Product ID `49997` · Digistore24 productId `573978` · [HTML profile page](../../produkte/e-book-bot-business-leicht-gemacht-49997.html)

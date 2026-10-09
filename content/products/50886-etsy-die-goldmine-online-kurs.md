@@ -1,3 +1,24 @@
+---
+product_id: "50886"
+digistore24_product_id: 588844
+title: "Etsy- Die Goldmine Online Kurs"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 0.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.63
+cart_conversion_pct: 29
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Online Marketing"]
+listed_since: "2024-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://book-pilot.app/etsy1euro?aff=adminstore#aff=adminstore"
+sales_page: "https://book-pilot.app/etsy1euro"
+language: "de"
+---
 # Etsy- Die Goldmine Online Kurs
 
 > Product ID `50886` · Digistore24 productId `588844` · [HTML profile page](../../produkte/etsy-die-goldmine-online-kurs-50886.html)

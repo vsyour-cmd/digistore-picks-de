@@ -1,3 +1,24 @@
+---
+product_id: "50617"
+digistore24_product_id: 578318
+title: "Overthinking stoppen - 21 Tage Anfänger Meditationskurs"
+vendor: "manlex"
+product_type: "Member area and video courses"
+price: 94
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 32.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.momentmeditation.de/lp/overthinking-stoppen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.momentmeditation.de/lp/overthinking-stoppen"
+language: "de"
+---
 # Overthinking stoppen - 21 Tage Anfänger Meditationskurs
 
 > Product ID `50617` · Digistore24 productId `578318` · [HTML profile page](../../produkte/overthinking-stoppen-21-tage-anf-nger-meditationskurs-50617.html)

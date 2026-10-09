@@ -1,3 +1,24 @@
+---
+product_id: "53013"
+digistore24_product_id: 614660
+title: "eBook Spanische Kurzgeschichten für Anfänger"
+vendor: "digiheini"
+product_type: "Downloads"
+price: 7.43
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2025-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/"
+language: "de"
+---
 # eBook Spanische Kurzgeschichten für Anfänger
 
 > Product ID `53013` · Digistore24 productId `614660` · [HTML profile page](../../produkte/ebook-spanische-kurzgeschichten-f-r-anf-nger-53013.html)

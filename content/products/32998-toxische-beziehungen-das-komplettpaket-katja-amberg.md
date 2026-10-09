@@ -1,3 +1,24 @@
+---
+product_id: "32998"
+digistore24_product_id: 322151
+title: "TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 117.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen?aff=adminstore#aff=adminstore"
+sales_page: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen"
+language: "de"
+---
 # TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg
 
 > Product ID `32998` · Digistore24 productId `322151` · [HTML profile page](../../produkte/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html)

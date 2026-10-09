@@ -1,3 +1,24 @@
+---
+product_id: "51755"
+digistore24_product_id: 601926
+title: "eBook: Die 100 besten Pinterest Tipps"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2025-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/die-100-besten-pinterest-tipps/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/die-100-besten-pinterest-tipps/"
+language: "de"
+---
 # eBook: Die 100 besten Pinterest Tipps
 
 > Product ID `51755` · Digistore24 productId `601926` · [HTML profile page](../../produkte/ebook-die-100-besten-pinterest-tipps-51755.html)

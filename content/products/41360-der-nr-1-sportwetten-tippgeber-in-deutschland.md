@@ -1,3 +1,24 @@
+---
+product_id: "41360"
+digistore24_product_id: 450204
+title: "Der Nr. 1 Sportwetten Tippgeber in Deutschland"
+vendor: "BelogoSports"
+product_type: "Telephone coaching"
+price: 322.28
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 194.35
+cart_conversion_pct: 7
+cancel_rate_pct: 1.75
+categories: ["Betting Systems"]
+listed_since: "2022-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/450204?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/450204"
+language: "de"
+---
 # Der Nr. 1 Sportwetten Tippgeber in Deutschland
 
 > Product ID `41360` · Digistore24 productId `450204` · [HTML profile page](../../produkte/der-nr-1-sportwetten-tippgeber-in-deutschland-41360.html)

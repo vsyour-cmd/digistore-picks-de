@@ -1,3 +1,24 @@
+---
+product_id: "52896"
+digistore24_product_id: 611742
+title: "KI-Business-Quiz"
+vendor: "ReneAktivNetz"
+product_type: "Member area and video courses"
+price: 2.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.07
+cart_conversion_pct: 18
+cancel_rate_pct: 5.21
+categories: ["Business & Investment","Email Marketing","Marketing Services"]
+listed_since: "2025-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/"
+language: "de"
+---
 # KI-Business-Quiz
 
 > Product ID `52896` · Digistore24 productId `611742` · [HTML profile page](../../produkte/ki-business-quiz-52896.html)

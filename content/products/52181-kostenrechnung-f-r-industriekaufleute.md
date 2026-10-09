@@ -1,3 +1,24 @@
+---
+product_id: "52181"
+digistore24_product_id: 607929
+title: "Kostenrechnung für Industriekaufleute"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-industriekaufleute-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
+sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-industriekaufleute-gaaanz-einfach-af"
+language: "de"
+---
 # Kostenrechnung für Industriekaufleute
 
 > Product ID `52181` · Digistore24 productId `607929` · [HTML profile page](../../produkte/kostenrechnung-f-r-industriekaufleute-52181.html)

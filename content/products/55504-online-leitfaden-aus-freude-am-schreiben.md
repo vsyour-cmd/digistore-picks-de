@@ -1,3 +1,24 @@
+---
+product_id: "55504"
+digistore24_product_id: 667437
+title: "Online-Leitfaden Aus Freude am Schreiben"
+vendor: "MadrigenumVerlag"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/?aff=adminstore#aff=adminstore"
+sales_page: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/"
+language: "de"
+---
 # Online-Leitfaden Aus Freude am Schreiben
 
 > Product ID `55504` · Digistore24 productId `667437` · [HTML profile page](../../produkte/online-leitfaden-aus-freude-am-schreiben-55504.html)

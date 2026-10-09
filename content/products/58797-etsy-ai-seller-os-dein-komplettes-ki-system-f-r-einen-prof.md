@@ -1,3 +1,24 @@
+---
+product_id: "58797"
+digistore24_product_id: 727306
+title: "Etsy AI Seller OS – dein komplettes KI-System für einen prof"
+vendor: "SellerAISystems"
+product_type: "Downloads"
+price: 13.62
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://seller-ai-systems.de/produkte/etsy-ai-seller-os/?aff=adminstore#aff=adminstore"
+sales_page: "https://seller-ai-systems.de/produkte/etsy-ai-seller-os/"
+language: "de"
+---
 # Etsy AI Seller OS – dein komplettes KI-System für einen prof
 
 > Product ID `58797` · Digistore24 productId `727306` · [HTML profile page](../../produkte/etsy-ai-seller-os-dein-komplettes-ki-system-f-r-einen-prof-58797.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38943"
+digistore24_product_id: 151651
+title: "LINKAUFBAU PRAXISHANDBUCH (eBook)"
+vendor: "martingonev"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2017-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.martingonev.de/1a-kostenlose-backlinks-starter/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.martingonev.de/1a-kostenlose-backlinks-starter/"
+language: "de"
+---
 # LINKAUFBAU PRAXISHANDBUCH (eBook)
 
 > Product ID `38943` · Digistore24 productId `151651` · [HTML profile page](../../produkte/linkaufbau-praxishandbuch-ebook-38943.html)

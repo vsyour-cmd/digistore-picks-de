@@ -1,3 +1,24 @@
+---
+product_id: "55302"
+digistore24_product_id: 619107
+title: "Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt"
+vendor: "SilviaGunsilius"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hypnocoach-online.de/mentaltraining-shop/nie-mehr-sprechangst-vor-gruppen.html?aff=adminstore#aff=adminstore"
+sales_page: "https://hypnocoach-online.de/mentaltraining-shop/nie-mehr-sprechangst-vor-gruppen.html"
+language: "de"
+---
 # Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt
 
 > Product ID `55302` · Digistore24 productId `619107` · [HTML profile page](../../produkte/lampenfieber-ad-souver-n-auftreten-wenn-es-drauf-ankommt-55302.html)

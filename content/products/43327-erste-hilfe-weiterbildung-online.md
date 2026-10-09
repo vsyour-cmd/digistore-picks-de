@@ -1,3 +1,24 @@
+---
+product_id: "43327"
+digistore24_product_id: 491936
+title: "Erste Hilfe Weiterbildung ONLINE"
+vendor: "RSMedicalWorldwide"
+product_type: "Downloads"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 8.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/491936?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/491936"
+language: "de"
+---
 # Erste Hilfe Weiterbildung ONLINE
 
 > Product ID `43327` · Digistore24 productId `491936` · [HTML profile page](../../produkte/erste-hilfe-weiterbildung-online-43327.html)

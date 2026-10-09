@@ -1,3 +1,24 @@
+---
+product_id: "36343"
+digistore24_product_id: 383424
+title: "Nichtraucher werden Online-Video-Kurs"
+vendor: "walter444"
+product_type: "Online coaching"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 69.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.123nichtraucher-werden.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.123nichtraucher-werden.de"
+language: "de"
+---
 # Nichtraucher werden Online-Video-Kurs
 
 > Product ID `36343` · Digistore24 productId `383424` · [HTML profile page](../../produkte/nichtraucher-werden-online-video-kurs-36343.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56456"
+digistore24_product_id: 688298
+title: "Gesamte Mathematik für Lehrlinge in der Berufsausbildung"
+vendor: "Mathecloud"
+product_type: "Member area and video courses"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 69.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.e-ducation.cloud/course/mathematik-fuer-deine-berufsausbildung/?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/mathematik-fuer-deine-berufsausbildung/"
+language: "de"
+---
 # Gesamte Mathematik für Lehrlinge in der Berufsausbildung
 
 > Product ID `56456` · Digistore24 productId `688298` · [HTML profile page](../../produkte/gesamte-mathematik-f-r-lehrlinge-in-der-berufsausbildung-56456.html)

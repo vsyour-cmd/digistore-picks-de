@@ -1,3 +1,24 @@
+---
+product_id: "53885"
+digistore24_product_id: 634143
+title: "Freiheitssystem Masterclass"
+vendor: "online-sales"
+product_type: "Member area and video courses"
+price: 338.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 203.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freiheitssystem.de/gratis-liveworkshop/"
+language: "de"
+---
 # Freiheitssystem Masterclass
 
 > Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../produkte/freiheitssystem-masterclass-53885.html)

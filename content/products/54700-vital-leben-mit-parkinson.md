@@ -1,3 +1,24 @@
+---
+product_id: "54700"
+digistore24_product_id: 648026
+title: "Vital Leben mit Parkinson"
+vendor: "Erfolg2026"
+product_type: "E-books"
+price: 52.17
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Services","Marketing Services"]
+listed_since: "2025-11-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/648026?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/648026"
+language: "de"
+---
 # Vital Leben mit Parkinson
 
 > Product ID `54700` · Digistore24 productId `648026` · [HTML profile page](../../produkte/vital-leben-mit-parkinson-54700.html)

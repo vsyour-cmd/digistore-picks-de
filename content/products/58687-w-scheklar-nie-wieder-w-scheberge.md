@@ -1,3 +1,24 @@
+---
+product_id: "58687"
+digistore24_product_id: 724373
+title: "Wäscheklar - Nie wieder Wäscheberge"
+vendor: "demedigital"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://digikru.de/waescheklar?aff=adminstore#aff=adminstore"
+sales_page: "https://digikru.de/waescheklar"
+language: "de"
+---
 # Wäscheklar - Nie wieder Wäscheberge
 
 > Product ID `58687` · Digistore24 productId `724373` · [HTML profile page](../../produkte/w-scheklar-nie-wieder-w-scheberge-58687.html)

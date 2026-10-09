@@ -1,3 +1,24 @@
+---
+product_id: "60104"
+digistore24_product_id: 735342
+title: "Cybersecurity-Grundlagen – Awareness-Mission"
+vendor: "paragamix"
+product_type: "Software"
+price: 2.23
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 0.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Leadership & Management"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.paragamix.com/cyber-security-basisschulung-nis2-iso27001.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.paragamix.com/cyber-security-basisschulung-nis2-iso27001.html"
+language: "de"
+---
 # Cybersecurity-Grundlagen – Awareness-Mission
 
 > Product ID `60104` · Digistore24 productId `735342` · [HTML profile page](../../produkte/cybersecurity-grundlagen-awareness-mission-60104.html)

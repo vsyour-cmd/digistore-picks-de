@@ -1,3 +1,24 @@
+---
+product_id: "59328"
+digistore24_product_id: 734170
+title: "Medienzeit ohne Streit – der Praxis-Guide für klare Regeln u"
+vendor: "MarkusGerbig"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.mg-wissen.de/medienzeit-ohne-streit/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mg-wissen.de/medienzeit-ohne-streit/"
+language: "de"
+---
 # Medienzeit ohne Streit – der Praxis-Guide für klare Regeln u
 
 > Product ID `59328` · Digistore24 productId `734170` · [HTML profile page](../../produkte/medienzeit-ohne-streit-der-praxis-guide-f-r-klare-regeln-u-59328.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55369"
+digistore24_product_id: 657635
+title: "Massage Gun beim Pferd richtig anwenden – Rückenbereich"
+vendor: "Faszienloesen"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2025-12-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.equinemassagegun.de/pferd-ruecken/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.equinemassagegun.de/pferd-ruecken/"
+language: "de"
+---
 # Massage Gun beim Pferd richtig anwenden – Rückenbereich
 
 > Product ID `55369` · Digistore24 productId `657635` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-r-ckenbereich-55369.html)

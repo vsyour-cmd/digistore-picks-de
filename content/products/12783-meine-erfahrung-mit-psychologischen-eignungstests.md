@@ -1,3 +1,24 @@
+---
+product_id: "12783"
+digistore24_product_id: 88083
+title: "Meine Erfahrung mit psychologischen Eignungstests"
+vendor: "ttiman"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2016-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com?aff=adminstore#aff=adminstore"
+sales_page: "http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com"
+language: "de"
+---
 # Meine Erfahrung mit psychologischen Eignungstests
 
 > Product ID `12783` · Digistore24 productId `88083` · [HTML profile page](../../produkte/meine-erfahrung-mit-psychologischen-eignungstests-12783.html)

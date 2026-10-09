@@ -1,3 +1,24 @@
+---
+product_id: "34020"
+digistore24_product_id: 346887
+title: "10 Booster Zutaten (E-Book)"
+vendor: "Melanie341"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 1.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/346887?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/346887"
+language: "de"
+---
 # 10 Booster Zutaten (E-Book)
 
 > Product ID `34020` · Digistore24 productId `346887` · [HTML profile page](../../produkte/10-booster-zutaten-e-book-34020.html)

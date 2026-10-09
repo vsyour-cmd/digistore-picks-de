@@ -1,3 +1,24 @@
+---
+product_id: "47661"
+digistore24_product_id: 546518
+title: "Onlinekurse mit KI erstellen und vermarkten"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/"
+language: "de"
+---
 # Onlinekurse mit KI erstellen und vermarkten
 
 > Product ID `47661` · Digistore24 productId `546518` · [HTML profile page](../../produkte/onlinekurse-mit-ki-erstellen-und-vermarkten-47661.html)

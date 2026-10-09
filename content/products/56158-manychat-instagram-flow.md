@@ -1,3 +1,24 @@
+---
+product_id: "56158"
+digistore24_product_id: 615398
+title: "Manychat Instagram Flow"
+vendor: "KundenFinder"
+product_type: "Software"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2025-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://meine-geldquelle.com/421998/2952306?aff=adminstore#aff=adminstore"
+sales_page: "https://meine-geldquelle.com/421998/2952306"
+language: "de"
+---
 # Manychat Instagram Flow
 
 > Product ID `56158` · Digistore24 productId `615398` · [HTML profile page](../../produkte/manychat-instagram-flow-56158.html)

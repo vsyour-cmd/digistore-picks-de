@@ -1,3 +1,24 @@
+---
+product_id: "59741"
+digistore24_product_id: 732243
+title: "GKG-3.E Ausstattung"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732243?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732243"
+language: "de"
+---
 # GKG-3.E Ausstattung
 
 > Product ID `59741` · Digistore24 productId `732243` · [HTML profile page](../../produkte/gkg-3-e-ausstattung-59741.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45557"
+digistore24_product_id: 519897
+title: "Traffic Rakete"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 15.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/oksP3Kyy3TLejEFHM?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/oksP3Kyy3TLejEFHM"
+language: "de"
+---
 # Traffic Rakete
 
 > Product ID `45557` · Digistore24 productId `519897` · [HTML profile page](../../produkte/traffic-rakete-45557.html)

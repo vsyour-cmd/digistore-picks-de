@@ -1,3 +1,24 @@
+---
+product_id: "57096"
+digistore24_product_id: 676905
+title: "Workbook-Bundle „Unterlagen-Check\""
+vendor: "Diveco"
+product_type: "E-books"
+price: 78.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 39.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/"
+language: "de"
+---
 # Workbook-Bundle „Unterlagen-Check"
 
 > Product ID `57096` · Digistore24 productId `676905` · [HTML profile page](../../produkte/workbook-bundle-unterlagen-check-57096.html)

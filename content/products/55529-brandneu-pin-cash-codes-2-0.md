@@ -1,3 +1,24 @@
+---
+product_id: "55529"
+digistore24_product_id: 641118
+title: "BRANDNEU - Pin-Cash Codes 2.0"
+vendor: "YannickBre"
+product_type: "Member area and video courses"
+price: 32.61
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 17.74
+cart_conversion_pct: 8
+cancel_rate_pct: 7.21
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.affiliate-akademie.com/pin-cash-codes-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.affiliate-akademie.com/pin-cash-codes-2/"
+language: "de"
+---
 # BRANDNEU - Pin-Cash Codes 2.0
 
 > Product ID `55529` · Digistore24 productId `641118` · [HTML profile page](../../produkte/brandneu-pin-cash-codes-2-0-55529.html)

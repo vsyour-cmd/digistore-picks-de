@@ -1,3 +1,24 @@
+---
+product_id: "38623"
+digistore24_product_id: 421214
+title: "Das \"Ultimate Social Media Bundle\""
+vendor: "DanielKocks"
+product_type: "Member area and video courses"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 16.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2021-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wie-online-geldverdienen.de/ultimate-social-media-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://wie-online-geldverdienen.de/ultimate-social-media-bundle/"
+language: "de"
+---
 # Das "Ultimate Social Media Bundle"
 
 > Product ID `38623` · Digistore24 productId `421214` · [HTML profile page](../../produkte/das-ultimate-social-media-bundle-38623.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45349"
+digistore24_product_id: 515148
+title: "Englisch lernen mit der Sprachblock-Methode"
+vendor: "Sprachheld"
+product_type: "Member area and video courses"
+price: 126.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 47.33
+cart_conversion_pct: 3
+cancel_rate_pct: 6.28
+categories: ["Languages"]
+listed_since: "2023-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sprachheld.de/12-wochen-englisch-challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sprachheld.de/12-wochen-englisch-challenge/"
+language: "de"
+---
 # Englisch lernen mit der Sprachblock-Methode
 
 > Product ID `45349` · Digistore24 productId `515148` · [HTML profile page](../../produkte/englisch-lernen-mit-der-sprachblock-methode-45349.html)

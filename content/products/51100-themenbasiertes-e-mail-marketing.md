@@ -1,3 +1,24 @@
+---
+product_id: "51100"
+digistore24_product_id: 592432
+title: "Themenbasiertes E-Mail-Marketing"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Themen-E-Mail?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Themen-E-Mail"
+language: "de"
+---
 # Themenbasiertes E-Mail-Marketing
 
 > Product ID `51100` · Digistore24 productId `592432` · [HTML profile page](../../produkte/themenbasiertes-e-mail-marketing-51100.html)

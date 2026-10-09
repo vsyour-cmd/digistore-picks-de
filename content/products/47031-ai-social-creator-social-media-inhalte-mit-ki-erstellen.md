@@ -1,3 +1,24 @@
+---
+product_id: "47031"
+digistore24_product_id: 529808
+title: "AI SOCIAL CREATOR - Social Media-Inhalte mit \"KI\" erstellen"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 110.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing"]
+listed_since: "2023-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.aisocialcreator.eu?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aisocialcreator.eu"
+language: "de"
+---
 # AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen
 
 > Product ID `47031` · Digistore24 productId `529808` · [HTML profile page](../../produkte/ai-social-creator-social-media-inhalte-mit-ki-erstellen-47031.html)

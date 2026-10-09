@@ -1,3 +1,24 @@
+---
+product_id: "47783"
+digistore24_product_id: 547805
+title: "KI Cash Secrets"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 0.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.38
+cart_conversion_pct: 40
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/"
+language: "de"
+---
 # KI Cash Secrets
 
 > Product ID `47783` · Digistore24 productId `547805` · [HTML profile page](../../produkte/ki-cash-secrets-47783.html)

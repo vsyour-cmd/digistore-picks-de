@@ -1,3 +1,24 @@
+---
+product_id: "33265"
+digistore24_product_id: 668972
+title: "BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !"
+vendor: "australia1011"
+product_type: "Downloads"
+price: 26.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.62
+cart_conversion_pct: 30
+cancel_rate_pct: 2.1
+categories: ["Health & Fitness"]
+listed_since: "2020-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/?aff=adminstore#aff=adminstore"
+sales_page: "https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/"
+language: "de"
+---
 # BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !
 
 > Product ID `33265` · Digistore24 productId `668972` · [HTML profile page](../../produkte/bauchtotal-28-tage-training-nach-dem-pareto-prinzip-33265.html)

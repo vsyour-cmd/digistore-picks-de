@@ -1,3 +1,24 @@
+---
+product_id: "27725"
+digistore24_product_id: 238483
+title: "Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)"
+vendor: "Kinderwunsch-Relax"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2018-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm"
+language: "de"
+---
 # Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)
 
 > Product ID `27725` · Digistore24 productId `238483` · [HTML profile page](../../produkte/kinderwunsch-relax-entspannt-schwanger-werden-mp3s-27725.html)

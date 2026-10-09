@@ -1,3 +1,24 @@
+---
+product_id: "57329"
+digistore24_product_id: 706658
+title: "Der Sportwagen-Händler"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/sportwagen-haendler?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/sportwagen-haendler"
+language: "de"
+---
 # Der Sportwagen-Händler
 
 > Product ID `57329` · Digistore24 productId `706658` · [HTML profile page](../../produkte/der-sportwagen-h-ndler-57329.html)

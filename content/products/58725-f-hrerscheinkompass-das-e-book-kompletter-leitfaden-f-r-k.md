@@ -1,3 +1,24 @@
+---
+product_id: "58725"
+digistore24_product_id: 720560
+title: "FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K"
+vendor: "thorstenbahrb86a"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://fuehrerschein-kompass.de/"
+language: "de"
+---
 # FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K
 
 > Product ID `58725` · Digistore24 productId `720560` · [HTML profile page](../../produkte/f-hrerscheinkompass-das-e-book-kompletter-leitfaden-f-r-k-58725.html)

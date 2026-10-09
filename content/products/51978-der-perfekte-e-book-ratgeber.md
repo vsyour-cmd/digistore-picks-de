@@ -1,3 +1,24 @@
+---
+product_id: "51978"
+digistore24_product_id: 604477
+title: "Der perfekte E-Book Ratgeber"
+vendor: "gehtanders"
+product_type: "Member area and video courses"
+price: 27.53
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4
+cart_conversion_pct: 25
+cancel_rate_pct: 46.54
+categories: ["Education","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://passive-online-rente.de/ebook-ratgeber/?aff=adminstore#aff=adminstore"
+sales_page: "https://passive-online-rente.de/ebook-ratgeber/"
+language: "de"
+---
 # Der perfekte E-Book Ratgeber
 
 > Product ID `51978` · Digistore24 productId `604477` · [HTML profile page](../../produkte/der-perfekte-e-book-ratgeber-51978.html)

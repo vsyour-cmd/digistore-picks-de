@@ -1,3 +1,24 @@
+---
+product_id: "41303"
+digistore24_product_id: 452314
+title: "7 Top Affiliatepartnerprogramme - Freebie"
+vendor: "Plebvin"
+product_type: "E-books"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.19
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2022-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.kb-om.com/7-top-affiliate-partner-ebook-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kb-om.com/7-top-affiliate-partner-ebook-ds24"
+language: "de"
+---
 # 7 Top Affiliatepartnerprogramme - Freebie
 
 > Product ID `41303` · Digistore24 productId `452314` · [HTML profile page](../../produkte/7-top-affiliatepartnerprogramme-freebie-41303.html)

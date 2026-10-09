@@ -1,3 +1,24 @@
+---
+product_id: "41939"
+digistore24_product_id: 421455
+title: "Silent Subliminals Gesundheit - Deine Vitalität stärken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Health & Fitness"]
+listed_since: "2021-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/"
+language: "de"
+---
 # Silent Subliminals Gesundheit - Deine Vitalität stärken
 
 > Product ID `41939` · Digistore24 productId `421455` · [HTML profile page](../../produkte/silent-subliminals-gesundheit-deine-vitalit-t-st-rken-41939.html)

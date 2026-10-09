@@ -1,3 +1,24 @@
+---
+product_id: "52413"
+digistore24_product_id: 606065
+title: "Neurostreams™ CHAKRA"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 88.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 44.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/chakra?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/chakra"
+language: "de"
+---
 # Neurostreams™ CHAKRA
 
 > Product ID `52413` · Digistore24 productId `606065` · [HTML profile page](../../produkte/neurostreams-chakra-52413.html)

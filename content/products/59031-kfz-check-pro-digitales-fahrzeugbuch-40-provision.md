@@ -1,3 +1,24 @@
+---
+product_id: "59031"
+digistore24_product_id: 731276
+title: "KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision"
+vendor: "KFZCHECKPRO"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 11.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/731276?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731276"
+language: "de"
+---
 # KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision
 
 > Product ID `59031` · Digistore24 productId `731276` · [HTML profile page](../../produkte/kfz-check-pro-digitales-fahrzeugbuch-40-provision-59031.html)

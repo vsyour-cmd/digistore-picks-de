@@ -1,3 +1,24 @@
+---
+product_id: "58846"
+digistore24_product_id: 702149
+title: "254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)"
+vendor: "Soundart"
+product_type: "Audio book (download)"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 33.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/702149?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/702149"
+language: "de"
+---
 # 254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)
 
 > Product ID `58846` · Digistore24 productId `702149` · [HTML profile page](../../produkte/254-h-rgeschichten-f-r-kinder-26-std-h-rbuch-download-58846.html)

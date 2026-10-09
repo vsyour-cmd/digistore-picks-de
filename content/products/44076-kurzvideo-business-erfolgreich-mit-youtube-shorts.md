@@ -1,3 +1,24 @@
+---
+product_id: "44076"
+digistore24_product_id: 500115
+title: "Kurzvideo Business - Erfolgreich mit YouTube Shorts"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/shorts-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/shorts-fe/"
+language: "de"
+---
 # Kurzvideo Business - Erfolgreich mit YouTube Shorts
 
 > Product ID `44076` · Digistore24 productId `500115` · [HTML profile page](../../produkte/kurzvideo-business-erfolgreich-mit-youtube-shorts-44076.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55751"
+digistore24_product_id: 651543
+title: "600+ Viral Motivation Reels [MRR & PLR]"
+vendor: "MagicPotter"
+product_type: "Downloads"
+price: 22.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/651543?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/651543"
+language: "de"
+---
 # 600+ Viral Motivation Reels [MRR & PLR]
 
 > Product ID `55751` · Digistore24 productId `651543` · [HTML profile page](../../produkte/600-viral-motivation-reels-mrr-plr-55751.html)

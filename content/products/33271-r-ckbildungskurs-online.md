@@ -1,3 +1,24 @@
+---
+product_id: "33271"
+digistore24_product_id: 325957
+title: "Rückbildungskurs Online"
+vendor: "ltcplus"
+product_type: "Member area and video courses"
+price: 27.98
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.13
+cart_conversion_pct: 31
+cancel_rate_pct: 0.98
+categories: ["Health & Fitness"]
+listed_since: "2020-05-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myhebamme24.de/rueckbildungskurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://myhebamme24.de/rueckbildungskurs/"
+language: "de"
+---
 # Rückbildungskurs Online
 
 > Product ID `33271` · Digistore24 productId `325957` · [HTML profile page](../../produkte/r-ckbildungskurs-online-33271.html)

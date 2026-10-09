@@ -1,3 +1,24 @@
+---
+product_id: "39448"
+digistore24_product_id: 289503
+title: "E-Book: Firmen Lexikon"
+vendor: "Staatenlos"
+product_type: "E-books"
+price: 49.22
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 25.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2019-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/firmen-lexikon/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/firmen-lexikon/"
+language: "de"
+---
 # E-Book: Firmen Lexikon
 
 > Product ID `39448` · Digistore24 productId `289503` · [HTML profile page](../../produkte/e-book-firmen-lexikon-39448.html)

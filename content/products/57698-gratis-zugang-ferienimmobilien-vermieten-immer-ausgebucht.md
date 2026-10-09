@@ -1,3 +1,24 @@
+---
+product_id: "57698"
+digistore24_product_id: 714393
+title: "Gratis Zugang - Ferienimmobilien vermieten, immer ausgebucht"
+vendor: "Empfehlungsnetzwerk-huckschlag"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Hotels & Gastronomy"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://0cn.de/ferienimmobilien?aff=adminstore#aff=adminstore"
+sales_page: "https://0cn.de/ferienimmobilien"
+language: "de"
+---
 # Gratis Zugang - Ferienimmobilien vermieten, immer ausgebucht
 
 > Product ID `57698` · Digistore24 productId `714393` · [HTML profile page](../../produkte/gratis-zugang-ferienimmobilien-vermieten-immer-ausgebucht-57698.html)

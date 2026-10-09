@@ -1,3 +1,24 @@
+---
+product_id: "48417"
+digistore24_product_id: 228247
+title: "Super Affiliate System - 50% Provision"
+vendor: "pixonmedia"
+product_type: "Member area and video courses"
+price: 548.11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 164.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
+listed_since: "2018-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://forenmax.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://forenmax.de/"
+language: "de"
+---
 # Super Affiliate System - 50% Provision
 
 > Product ID `48417` · Digistore24 productId `228247` · [HTML profile page](../../produkte/super-affiliate-system-50-provision-48417.html)

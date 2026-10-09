@@ -1,3 +1,24 @@
+---
+product_id: "44101"
+digistore24_product_id: 497890
+title: "Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion"
+vendor: "sattelitevendor"
+product_type: "Software"
+price: 262.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 104.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.avatarspeakpro.com/go/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.avatarspeakpro.com/go/"
+language: "de"
+---
 # Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion
 
 > Product ID `44101` · Digistore24 productId `497890` · [HTML profile page](../../produkte/avatar-speak-pro-lebensechte-kiavatare-f-r-mehr-conversion-44101.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54868"
+digistore24_product_id: 651085
+title: "Schlank mit Verstand für Frauen ab 40"
+vendor: "SabineGnech"
+product_type: "Downloads"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 55.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2025-11-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/651085?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/651085"
+language: "de"
+---
 # Schlank mit Verstand für Frauen ab 40
 
 > Product ID `54868` · Digistore24 productId `651085` · [HTML profile page](../../produkte/schlank-mit-verstand-f-r-frauen-ab-40-54868.html)

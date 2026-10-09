@@ -1,3 +1,24 @@
+---
+product_id: "36315"
+digistore24_product_id: 369918
+title: "Die feurigen 77 Vertriebstipps - Uwe Rieder"
+vendor: "UweRieder"
+product_type: "E-books"
+price: 4.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.55
+cart_conversion_pct: 32
+cancel_rate_pct: 0.46
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps"
+language: "de"
+---
 # Die feurigen 77 Vertriebstipps - Uwe Rieder
 
 > Product ID `36315` · Digistore24 productId `369918` · [HTML profile page](../../produkte/die-feurigen-77-vertriebstipps-uwe-rieder-36315.html)

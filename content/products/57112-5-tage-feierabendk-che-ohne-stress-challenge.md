@@ -1,3 +1,24 @@
+---
+product_id: "57112"
+digistore24_product_id: 695812
+title: "5 Tage Feierabendküche ohne Stress Challenge"
+vendor: "pakohli8ptrick"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 55.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.patrickkohli.com/challenge1/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.patrickkohli.com/challenge1/"
+language: "de"
+---
 # 5 Tage Feierabendküche ohne Stress Challenge
 
 > Product ID `57112` · Digistore24 productId `695812` · [HTML profile page](../../produkte/5-tage-feierabendk-che-ohne-stress-challenge-57112.html)

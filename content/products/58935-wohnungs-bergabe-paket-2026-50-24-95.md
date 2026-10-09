@@ -1,3 +1,24 @@
+---
+product_id: "58935"
+digistore24_product_id: 728861
+title: "Wohnungsübergabe-Paket 2026 — 50 %, 24,95 €"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wohnungsuebergabe.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://wohnungsuebergabe.pages.dev/"
+language: "de"
+---
 # Wohnungsübergabe-Paket 2026 — 50 %, 24,95 €
 
 > Product ID `58935` · Digistore24 productId `728861` · [HTML profile page](../../produkte/wohnungs-bergabe-paket-2026-50-24-95-58935.html)

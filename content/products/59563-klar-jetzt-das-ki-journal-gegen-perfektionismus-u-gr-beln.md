@@ -1,3 +1,24 @@
+---
+product_id: "59563"
+digistore24_product_id: 736066
+title: "KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln"
+vendor: "klarjetzt"
+product_type: "Software"
+price: 84.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 25.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://klar.jetzt?aff=adminstore#aff=adminstore"
+sales_page: "https://klar.jetzt"
+language: "de"
+---
 # KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln
 
 > Product ID `59563` · Digistore24 productId `736066` · [HTML profile page](../../produkte/klar-jetzt-das-ki-journal-gegen-perfektionismus-u-gr-beln-59563.html)

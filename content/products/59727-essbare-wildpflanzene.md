@@ -1,3 +1,24 @@
+---
+product_id: "59727"
+digistore24_product_id: 737425
+title: "Essbare Wildpflanzene"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Hobby & Craft","Survival"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/737425?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/737425"
+language: "de"
+---
 # Essbare Wildpflanzene
 
 > Product ID `59727` · Digistore24 productId `737425` · [HTML profile page](../../produkte/essbare-wildpflanzene-59727.html)

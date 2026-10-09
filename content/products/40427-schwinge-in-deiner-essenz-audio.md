@@ -1,3 +1,24 @@
+---
+product_id: "40427"
+digistore24_product_id: 448788
+title: "Schwinge in deiner Essenz - Audio"
+vendor: "allsenses"
+product_type: "Downloads"
+price: 70.51
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 14.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.allsenses.de/produkt/transformation-essenzatem-lange-version/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.allsenses.de/produkt/transformation-essenzatem-lange-version/"
+language: "de"
+---
 # Schwinge in deiner Essenz - Audio
 
 > Product ID `40427` · Digistore24 productId `448788` · [HTML profile page](../../produkte/schwinge-in-deiner-essenz-audio-40427.html)

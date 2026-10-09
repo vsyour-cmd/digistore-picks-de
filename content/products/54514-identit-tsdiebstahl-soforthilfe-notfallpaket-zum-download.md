@@ -1,3 +1,24 @@
+---
+product_id: "54514"
+digistore24_product_id: 644072
+title: "Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download"
+vendor: "ID-Service"
+product_type: "Downloads"
+price: 45.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Law & Justice","Personal Development"]
+listed_since: "2025-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://identitaetsdiebstahl-direkthilfe.de/soforthilfe/?aff=adminstore#aff=adminstore"
+sales_page: "https://identitaetsdiebstahl-direkthilfe.de/soforthilfe/"
+language: "de"
+---
 # Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download
 
 > Product ID `54514` · Digistore24 productId `644072` · [HTML profile page](../../produkte/identit-tsdiebstahl-soforthilfe-notfallpaket-zum-download-54514.html)

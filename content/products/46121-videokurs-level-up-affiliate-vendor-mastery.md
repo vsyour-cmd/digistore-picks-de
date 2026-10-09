@@ -1,3 +1,24 @@
+---
+product_id: "46121"
+digistore24_product_id: 521838
+title: "Videokurs: Level Up Affiliate - Vendor Mastery"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.71
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2023-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/"
+language: "de"
+---
 # Videokurs: Level Up Affiliate - Vendor Mastery
 
 > Product ID `46121` · Digistore24 productId `521838` · [HTML profile page](../../produkte/videokurs-level-up-affiliate-vendor-mastery-46121.html)

@@ -1,3 +1,24 @@
+---
+product_id: "20857"
+digistore24_product_id: 180001
+title: "Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 67.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 24.72
+cart_conversion_pct: 14
+cancel_rate_pct: 1.9
+categories: ["Dancing & Music"]
+listed_since: "2017-11-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.gitarrenvideounterricht.de/kurse/finger-fitness/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.gitarrenvideounterricht.de/kurse/finger-fitness/"
+language: "de"
+---
 # Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)
 
 > Product ID `20857` · Digistore24 productId `180001` · [HTML profile page](../../produkte/finger-fitness-50-bungen-in-50-tagen-video-gitarrenkurs-20857.html)

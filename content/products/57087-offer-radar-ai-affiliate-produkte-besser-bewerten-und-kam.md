@@ -1,3 +1,24 @@
+---
+product_id: "57087"
+digistore24_product_id: 703396
+title: "Offer Radar AI™ – Affiliate-Produkte besser bewerten und Kam"
+vendor: "smartboostAI"
+product_type: "Software"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 63.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Marketing Services"]
+listed_since: "2026-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://ai-agent-business.com/offer-radar-ai-start?aff=adminstore#aff=adminstore"
+sales_page: "http://ai-agent-business.com/offer-radar-ai-start"
+language: "de"
+---
 # Offer Radar AI™ – Affiliate-Produkte besser bewerten und Kam
 
 > Product ID `57087` · Digistore24 productId `703396` · [HTML profile page](../../produkte/offer-radar-ai-affiliate-produkte-besser-bewerten-und-kam-57087.html)

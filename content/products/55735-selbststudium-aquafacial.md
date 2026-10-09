@@ -1,3 +1,24 @@
+---
+product_id: "55735"
+digistore24_product_id: 671750
+title: "Selbststudium Aquafacial"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 28.2
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671750?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671750"
+language: "de"
+---
 # Selbststudium Aquafacial
 
 > Product ID `55735` · Digistore24 productId `671750` · [HTML profile page](../../produkte/selbststudium-aquafacial-55735.html)

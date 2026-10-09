@@ -1,3 +1,24 @@
+---
+product_id: "45050"
+digistore24_product_id: 512053
+title: "Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi"
+vendor: "MSchlinder"
+product_type: "E-books"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2023-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/Roadmap-Socialmedia?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Roadmap-Socialmedia"
+language: "de"
+---
 # Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi
 
 > Product ID `45050` · Digistore24 productId `512053` · [HTML profile page](../../produkte/roadmap-schritt-f-r-schritt-zum-socialmedia-marketing-profi-45050.html)

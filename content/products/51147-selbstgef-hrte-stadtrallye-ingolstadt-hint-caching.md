@@ -1,3 +1,24 @@
+---
+product_id: "51147"
+digistore24_product_id: 364011
+title: "Selbstgeführte Stadtrallye Ingolstadt | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 28.56
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.67
+cart_conversion_pct: 11
+cancel_rate_pct: 5.46
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2020-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-ingolstadt/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-ingolstadt/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Ingolstadt | Hint-Caching
 
 > Product ID `51147` · Digistore24 productId `364011` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-ingolstadt-hint-caching-51147.html)

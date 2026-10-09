@@ -1,3 +1,24 @@
+---
+product_id: "30387"
+digistore24_product_id: 294993
+title: "DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner"
+vendor: "martinredet"
+product_type: "Downloads"
+price: 149.46
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 59.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2019-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.martinredet.de/trauredner-vertrag-vorlage?aff=adminstore#aff=adminstore"
+sales_page: "http://www.martinredet.de/trauredner-vertrag-vorlage"
+language: "de"
+---
 # DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner
 
 > Product ID `30387` · Digistore24 productId `294993` · [HTML profile page](../../produkte/der-mustervertrag-eine-vertragsvorlage-f-r-trauredner-30387.html)

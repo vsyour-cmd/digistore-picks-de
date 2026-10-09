@@ -1,3 +1,24 @@
+---
+product_id: "35233"
+digistore24_product_id: 350097
+title: "Skizzen Video-Kurs und eBook"
+vendor: "DrawTut"
+product_type: "Member area and video courses"
+price: 37.73
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.38
+cart_conversion_pct: 6
+cancel_rate_pct: 1.69
+categories: ["Hobby & Craft"]
+listed_since: "2020-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://drawtut.com/de/kurse/skizzen/?aff=adminstore#aff=adminstore"
+sales_page: "https://drawtut.com/de/kurse/skizzen/"
+language: "de"
+---
 # Skizzen Video-Kurs und eBook
 
 > Product ID `35233` · Digistore24 productId `350097` · [HTML profile page](../../produkte/skizzen-video-kurs-und-ebook-35233.html)

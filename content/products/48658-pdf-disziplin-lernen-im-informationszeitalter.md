@@ -1,3 +1,24 @@
+---
+product_id: "48658"
+digistore24_product_id: 559429
+title: "PDF - Disziplin lernen im Informationszeitalter"
+vendor: "kristallmann_philipp"
+product_type: "E-books"
+price: 3.39
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 0.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/559429?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/559429"
+language: "de"
+---
 # PDF - Disziplin lernen im Informationszeitalter
 
 > Product ID `48658` · Digistore24 productId `559429` · [HTML profile page](../../produkte/pdf-disziplin-lernen-im-informationszeitalter-48658.html)

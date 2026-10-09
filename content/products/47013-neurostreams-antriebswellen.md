@@ -1,3 +1,24 @@
+---
+product_id: "47013"
+digistore24_product_id: 24675
+title: "Neurostreams™ Antriebswellen"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.neurostreams.de/portfolio/antriebswellen?aff=adminstore#aff=adminstore"
+sales_page: "http://www.neurostreams.de/portfolio/antriebswellen"
+language: "de"
+---
 # Neurostreams™ Antriebswellen
 
 > Product ID `47013` · Digistore24 productId `24675` · [HTML profile page](../../produkte/neurostreams-antriebswellen-47013.html)

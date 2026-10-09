@@ -1,3 +1,24 @@
+---
+product_id: "55686"
+digistore24_product_id: 595164
+title: "Story Mastery"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 335.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 136.8
+cart_conversion_pct: 10
+cancel_rate_pct: 0.83
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/story-mastery/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/story-mastery/"
+language: "de"
+---
 # Story Mastery
 
 > Product ID `55686` · Digistore24 productId `595164` · [HTML profile page](../../produkte/story-mastery-55686.html)

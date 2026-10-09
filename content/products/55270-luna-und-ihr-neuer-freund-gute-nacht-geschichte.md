@@ -1,3 +1,24 @@
+---
+product_id: "55270"
+digistore24_product_id: 642306
+title: "Luna und ihr neuer Freund - Gute-Nacht-Geschichte"
+vendor: "Cleverkopf"
+product_type: "Downloads"
+price: 9.37
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2025-10-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/642306?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/642306"
+language: "de"
+---
 # Luna und ihr neuer Freund - Gute-Nacht-Geschichte
 
 > Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../produkte/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54949"
+digistore24_product_id: 656265
+title: "Zeichenkurs „Vom Anfänger zum Meister\" Realistisch zeichnen"
+vendor: "SchmidtsZeichenwelt"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 122.91
+cart_conversion_pct: 3
+cancel_rate_pct: 2.38
+categories: ["Education","Hobby & Craft"]
+listed_since: "2025-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-vom-anfaenger-zum-meister/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-vom-anfaenger-zum-meister/"
+language: "de"
+---
 # Zeichenkurs „Vom Anfänger zum Meister" Realistisch zeichnen
 
 > Product ID `54949` · Digistore24 productId `656265` · [HTML profile page](../../produkte/zeichenkurs-vom-anf-nger-zum-meister-realistisch-zeichnen-54949.html)

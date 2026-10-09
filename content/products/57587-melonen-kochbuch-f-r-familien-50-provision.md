@@ -1,3 +1,24 @@
+---
+product_id: "57587"
+digistore24_product_id: 711404
+title: "Melonen - Kochbuch für Familien  - 50 % Provision"
+vendor: "wildandfreefamily"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink"]
+listed_since: "2026-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://wildfree-melonen-kochbuch.netlify.app/"
+language: "de"
+---
 # Melonen - Kochbuch für Familien  - 50 % Provision
 
 > Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../produkte/melonen-kochbuch-f-r-familien-50-provision-57587.html)

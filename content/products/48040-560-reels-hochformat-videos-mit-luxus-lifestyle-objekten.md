@@ -1,3 +1,24 @@
+---
+product_id: "48040"
+digistore24_product_id: 551106
+title: "560+ Reels (Hochformat Videos) mit Luxus Lifestyle Objekten"
+vendor: "webpirat"
+product_type: "Downloads"
+price: 1.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.45
+cart_conversion_pct: 20
+cancel_rate_pct: 1.88
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/551106?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/551106"
+language: "de"
+---
 # 560+ Reels (Hochformat Videos) mit Luxus Lifestyle Objekten
 
 > Product ID `48040` · Digistore24 productId `551106` · [HTML profile page](../../produkte/560-reels-hochformat-videos-mit-luxus-lifestyle-objekten-48040.html)

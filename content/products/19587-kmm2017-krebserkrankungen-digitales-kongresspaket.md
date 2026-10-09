@@ -1,3 +1,24 @@
+---
+product_id: "19587"
+digistore24_product_id: 164085
+title: "KMM2017 Krebserkrankungen - Digitales Kongresspaket"
+vendor: "AMMSpitz"
+product_type: "Member area and video courses"
+price: 122.16
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 54.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/"
+language: "de"
+---
 # KMM2017 Krebserkrankungen - Digitales Kongresspaket
 
 > Product ID `19587` · Digistore24 productId `164085` · [HTML profile page](../../produkte/kmm2017-krebserkrankungen-digitales-kongresspaket-19587.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53076"
+digistore24_product_id: 622102
+title: "Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk"
+vendor: "SOMEONMARKETING"
+product_type: "Downloads"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.someonmarketing.com/sichtbarkeits-plan/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.someonmarketing.com/sichtbarkeits-plan/"
+language: "de"
+---
 # Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk
 
 > Product ID `53076` · Digistore24 productId `622102` · [HTML profile page](../../produkte/mehr-kunden-in-90-tagen-sichtbarkeits-plan-f-rs-handwerk-53076.html)

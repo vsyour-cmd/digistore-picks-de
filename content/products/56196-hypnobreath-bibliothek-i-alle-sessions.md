@@ -1,3 +1,24 @@
+---
+product_id: "56196"
+digistore24_product_id: 682175
+title: "Hypnobreath Bibliothek I Alle Sessions"
+vendor: "fabianries"
+product_type: "Member area and video courses"
+price: 373.18
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 88.06
+cart_conversion_pct: 4
+cancel_rate_pct: 2.87
+categories: ["Personal Development"]
+listed_since: "2026-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hypnobreath.de/kurse?aff=adminstore#aff=adminstore"
+sales_page: "https://hypnobreath.de/kurse"
+language: "de"
+---
 # Hypnobreath Bibliothek I Alle Sessions
 
 > Product ID `56196` · Digistore24 productId `682175` · [HTML profile page](../../produkte/hypnobreath-bibliothek-i-alle-sessions-56196.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38375"
+digistore24_product_id: 416536
+title: "7Onliners - Die Affiliate Cash Maschine"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 398.22
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 119.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://7onliners.com?aff=adminstore#aff=adminstore"
+sales_page: "https://7onliners.com"
+language: "de"
+---
 # 7Onliners - Die Affiliate Cash Maschine
 
 > Product ID `38375` · Digistore24 productId `416536` · [HTML profile page](../../produkte/7onliners-die-affiliate-cash-maschine-38375.html)

@@ -1,3 +1,24 @@
+---
+product_id: "29088"
+digistore24_product_id: 198057
+title: "Online Audio Kurs"
+vendor: "glueckswissenschaften"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 28.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.glueckswissenschaften.de/jetzt-kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.glueckswissenschaften.de/jetzt-kaufen/"
+language: "de"
+---
 # Online Audio Kurs
 
 > Product ID `29088` · Digistore24 productId `198057` · [HTML profile page](../../produkte/online-audio-kurs-29088.html)

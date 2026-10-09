@@ -1,3 +1,24 @@
+---
+product_id: "54564"
+digistore24_product_id: 634779
+title: "1:1 Coaching / NeuroZen® Mentoring Paket \"Gold\""
+vendor: "OlgaHein"
+product_type: "Online coaching"
+price: 5580.27
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1116.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://holistic-life.coachy.net/lp/1-1-coaching-gold-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://holistic-life.coachy.net/lp/1-1-coaching-gold-1/"
+language: "de"
+---
 # 1:1 Coaching / NeuroZen® Mentoring Paket "Gold"
 
 > Product ID `54564` · Digistore24 productId `634779` · [HTML profile page](../../produkte/1-1-coaching-neurozen-mentoring-paket-gold-54564.html)

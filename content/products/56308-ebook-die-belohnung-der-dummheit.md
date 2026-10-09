@@ -1,3 +1,24 @@
+---
+product_id: "56308"
+digistore24_product_id: 685628
+title: "Ebook - Die Belohnung der Dummheit"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685628?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685628"
+language: "de"
+---
 # Ebook - Die Belohnung der Dummheit
 
 > Product ID `56308` · Digistore24 productId `685628` · [HTML profile page](../../produkte/ebook-die-belohnung-der-dummheit-56308.html)

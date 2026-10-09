@@ -1,3 +1,24 @@
+---
+product_id: "42295"
+digistore24_product_id: 471435
+title: "Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating"
+vendor: "wielandstolzenburg"
+product_type: "Online coaching"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2022-11-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kurse.wielandstolzenburg.de/lp/singleletter?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.wielandstolzenburg.de/lp/singleletter"
+language: "de"
+---
 # Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating
 
 > Product ID `42295` · Digistore24 productId `471435` · [HTML profile page](../../produkte/singleletter-der-3monatige-e-mail-kurs-f-r-singles-dating-42295.html)

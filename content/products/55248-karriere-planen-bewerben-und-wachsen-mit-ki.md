@@ -1,3 +1,24 @@
+---
+product_id: "55248"
+digistore24_product_id: 662111
+title: "Karriere planen, bewerben und wachsen – mit KI"
+vendor: "JoergJanssen_KI"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2026-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ai-tribe.de/ki-karriere-kick-onlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://ai-tribe.de/ki-karriere-kick-onlinekurs"
+language: "de"
+---
 # Karriere planen, bewerben und wachsen – mit KI
 
 > Product ID `55248` · Digistore24 productId `662111` · [HTML profile page](../../produkte/karriere-planen-bewerben-und-wachsen-mit-ki-55248.html)

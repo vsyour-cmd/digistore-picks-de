@@ -1,3 +1,24 @@
+---
+product_id: "44674"
+digistore24_product_id: 425615
+title: "Hacking-Akademie"
+vendor: "ciregrebma"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 84.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2022-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/425615?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/425615"
+language: "de"
+---
 # Hacking-Akademie
 
 > Product ID `44674` · Digistore24 productId `425615` · [HTML profile page](../../produkte/hacking-akademie-44674.html)

@@ -1,3 +1,24 @@
+---
+product_id: "25783"
+digistore24_product_id: 234171
+title: "Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess"
+vendor: "RaGarve"
+product_type: "Downloads"
+price: 286.25
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 56.95
+cart_conversion_pct: 19
+cancel_rate_pct: 7.28
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2018-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/der-weg-zu-wahrer-selbst-erkenntnis/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/beziehung-zu-dir-selbst/der-weg-zu-wahrer-selbst-erkenntnis/"
+language: "de"
+---
 # Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess
 
 > Product ID `25783` · Digistore24 productId `234171` · [HTML profile page](../../produkte/das-phaenomen-leben-als-wahrer-selbst-erkenntnisprozess-25783.html)

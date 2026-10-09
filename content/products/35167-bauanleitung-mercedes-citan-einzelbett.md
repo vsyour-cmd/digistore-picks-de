@@ -1,3 +1,24 @@
+---
+product_id: "35167"
+digistore24_product_id: 328646
+title: "Bauanleitung - Mercedes Citan Einzelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/mercedes-citan?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/mercedes-citan"
+language: "de"
+---
 # Bauanleitung - Mercedes Citan Einzelbett
 
 > Product ID `35167` · Digistore24 productId `328646` · [HTML profile page](../../produkte/bauanleitung-mercedes-citan-einzelbett-35167.html)

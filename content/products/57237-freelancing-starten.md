@@ -1,3 +1,24 @@
+---
+product_id: "57237"
+digistore24_product_id: 704215
+title: "Freelancing starten"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/freelancing-starten?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/freelancing-starten"
+language: "de"
+---
 # Freelancing starten
 
 > Product ID `57237` · Digistore24 productId `704215` · [HTML profile page](../../produkte/freelancing-starten-57237.html)

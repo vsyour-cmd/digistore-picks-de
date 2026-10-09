@@ -1,3 +1,24 @@
+---
+product_id: "52739"
+digistore24_product_id: 611563
+title: "SchlafKompass Baby Schlafcoaching"
+vendor: "Traumwerkstatt-Schlafberatung"
+product_type: "Member area and video courses"
+price: 141
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 14.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2025-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://traumwerkstatt-schlafberatung.de/schlafkompass/?aff=adminstore#aff=adminstore"
+sales_page: "https://traumwerkstatt-schlafberatung.de/schlafkompass/"
+language: "de"
+---
 # SchlafKompass Baby Schlafcoaching
 
 > Product ID `52739` · Digistore24 productId `611563` · [HTML profile page](../../produkte/schlafkompass-baby-schlafcoaching-52739.html)

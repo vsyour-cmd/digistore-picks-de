@@ -1,3 +1,24 @@
+---
+product_id: "56659"
+digistore24_product_id: 694698
+title: "Wenn dein Hund gehen musste | Audiopaket mit E-Book"
+vendor: "PsycheVital"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Personal Development"]
+listed_since: "2026-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/"
+language: "de"
+---
 # Wenn dein Hund gehen musste | Audiopaket mit E-Book
 
 > Product ID `56659` · Digistore24 productId `694698` · [HTML profile page](../../produkte/wenn-dein-hund-gehen-musste-audiopaket-mit-e-book-56659.html)

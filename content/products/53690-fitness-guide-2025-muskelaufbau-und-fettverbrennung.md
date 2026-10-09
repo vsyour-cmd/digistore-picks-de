@@ -1,3 +1,24 @@
+---
+product_id: "53690"
+digistore24_product_id: 630728
+title: "Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung"
+vendor: "Hustler_academy"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 15.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport","Marketing Services"]
+listed_since: "2025-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://hustlersacademys.my.canva.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://hustlersacademys.my.canva.site/"
+language: "de"
+---
 # Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung
 
 > Product ID `53690` · Digistore24 productId `630728` · [HTML profile page](../../produkte/fitness-guide-2025-muskelaufbau-und-fettverbrennung-53690.html)

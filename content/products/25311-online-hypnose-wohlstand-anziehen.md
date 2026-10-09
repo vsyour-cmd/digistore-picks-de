@@ -1,3 +1,24 @@
+---
+product_id: "25311"
+digistore24_product_id: 211711
+title: "Online Hypnose Wohlstand anziehen"
+vendor: "manjushri"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 25.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/"
+language: "de"
+---
 # Online Hypnose Wohlstand anziehen
 
 > Product ID `25311` · Digistore24 productId `211711` · [HTML profile page](../../produkte/online-hypnose-wohlstand-anziehen-25311.html)

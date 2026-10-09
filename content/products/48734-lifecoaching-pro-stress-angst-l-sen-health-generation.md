@@ -1,3 +1,24 @@
+---
+product_id: "48734"
+digistore24_product_id: 547958
+title: "LifeCoaching Pro Stress, Angst lösen - health-generation"
+vendor: "Josef85"
+product_type: "Member area and video courses"
+price: 232.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 116.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.health-generation.com/salespage-lifecoachingpro-stress?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.health-generation.com/salespage-lifecoachingpro-stress"
+language: "de"
+---
 # LifeCoaching Pro Stress, Angst lösen - health-generation
 
 > Product ID `48734` · Digistore24 productId `547958` · [HTML profile page](../../produkte/lifecoaching-pro-stress-angst-l-sen-health-generation-48734.html)

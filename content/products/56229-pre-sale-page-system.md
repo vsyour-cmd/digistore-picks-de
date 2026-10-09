@@ -1,3 +1,24 @@
+---
+product_id: "56229"
+digistore24_product_id: 683570
+title: "Pre-Sale Page System"
+vendor: "MachtundNussbaumGbR"
+product_type: "Software"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Software"]
+listed_since: "2026-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.imhub.de/lp/presalepagesystem?aff=adminstore#aff=adminstore"
+sales_page: "https://www.imhub.de/lp/presalepagesystem"
+language: "de"
+---
 # Pre-Sale Page System
 
 > Product ID `56229` · Digistore24 productId `683570` · [HTML profile page](../../produkte/pre-sale-page-system-56229.html)

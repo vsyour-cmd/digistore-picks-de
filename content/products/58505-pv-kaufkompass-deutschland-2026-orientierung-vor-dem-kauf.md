@@ -1,3 +1,24 @@
+---
+product_id: "58505"
+digistore24_product_id: 724620
+title: "PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf"
+vendor: "SmartAffiliates32"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Finances"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724620?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724620"
+language: "de"
+---
 # PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf
 
 > Product ID `58505` · Digistore24 productId `724620` · [HTML profile page](../../produkte/pv-kaufkompass-deutschland-2026-orientierung-vor-dem-kauf-58505.html)

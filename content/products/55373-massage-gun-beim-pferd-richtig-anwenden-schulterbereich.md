@@ -1,3 +1,24 @@
+---
+product_id: "55373"
+digistore24_product_id: 661228
+title: "Massage Gun beim Pferd richtig anwenden – Schulterbereich"
+vendor: "Faszienloesen"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Animals & Pets"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.equinemassagegun.de/pferd-schulter/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.equinemassagegun.de/pferd-schulter/"
+language: "de"
+---
 # Massage Gun beim Pferd richtig anwenden – Schulterbereich
 
 > Product ID `55373` · Digistore24 productId `661228` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-schulterbereich-55373.html)

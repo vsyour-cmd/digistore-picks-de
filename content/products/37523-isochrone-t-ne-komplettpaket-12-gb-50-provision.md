@@ -1,3 +1,24 @@
+---
+product_id: "37523"
+digistore24_product_id: 526536
+title: "Isochrone Töne Komplettpaket (12 GB) – 50% Provision"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.44
+cart_conversion_pct: 19
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2019-11-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/brainwave-quickies-entrainment-audio-mp3-downloads/?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/brainwave-quickies-entrainment-audio-mp3-downloads/"
+language: "de"
+---
 # Isochrone Töne Komplettpaket (12 GB) – 50% Provision
 
 > Product ID `37523` · Digistore24 productId `526536` · [HTML profile page](../../produkte/isochrone-t-ne-komplettpaket-12-gb-50-provision-37523.html)

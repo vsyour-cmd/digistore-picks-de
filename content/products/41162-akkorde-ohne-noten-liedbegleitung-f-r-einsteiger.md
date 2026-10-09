@@ -1,3 +1,24 @@
+---
+product_id: "41162"
+digistore24_product_id: 349935
+title: "Akkorde ohne Noten - Liedbegleitung für Einsteiger"
+vendor: "Guitarschool"
+product_type: "Member area and video courses"
+price: 85.17
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.88
+cart_conversion_pct: 19
+cancel_rate_pct: 7.13
+categories: ["Education","Hobby & Craft"]
+listed_since: "2020-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.guitarschool.at/akkorde-lernen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.guitarschool.at/akkorde-lernen/"
+language: "de"
+---
 # Akkorde ohne Noten - Liedbegleitung für Einsteiger
 
 > Product ID `41162` · Digistore24 productId `349935` · [HTML profile page](../../produkte/akkorde-ohne-noten-liedbegleitung-f-r-einsteiger-41162.html)

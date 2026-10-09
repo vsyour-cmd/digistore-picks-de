@@ -1,3 +1,24 @@
+---
+product_id: "50529"
+digistore24_product_id: 582138
+title: "50 % Provision pro Sale –„Macher-Typ“-Paket!"
+vendor: "Angelika-Traumerfuellerin"
+product_type: "Downloads"
+price: 16.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore"
+sales_page: "https://seelengarten-phoenix.com/bundle-kreativer"
+language: "de"
+---
 # 50 % Provision pro Sale –„Macher-Typ“-Paket!
 
 > Product ID `50529` · Digistore24 productId `582138` · [HTML profile page](../../produkte/50-provision-pro-sale-macher-typ-paket-50529.html)

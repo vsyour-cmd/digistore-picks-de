@@ -1,3 +1,24 @@
+---
+product_id: "59293"
+digistore24_product_id: 727810
+title: "Passives Einkommen mit Dividenden – Einsteiger-Kurs"
+vendor: "FinanzKalkuel"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 84.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://finanzkalkuel.de/dividenden-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://finanzkalkuel.de/dividenden-kurs/"
+language: "de"
+---
 # Passives Einkommen mit Dividenden – Einsteiger-Kurs
 
 > Product ID `59293` · Digistore24 productId `727810` · [HTML profile page](../../produkte/passives-einkommen-mit-dividenden-einsteiger-kurs-59293.html)

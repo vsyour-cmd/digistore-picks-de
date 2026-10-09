@@ -1,3 +1,24 @@
+---
+product_id: "59416"
+digistore24_product_id: 735068
+title: "Der große Costa Blanca Guide"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/735068?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735068"
+language: "de"
+---
 # Der große Costa Blanca Guide
 
 > Product ID `59416` · Digistore24 productId `735068` · [HTML profile page](../../produkte/der-gro-e-costa-blanca-guide-59416.html)

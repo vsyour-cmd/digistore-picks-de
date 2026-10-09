@@ -1,3 +1,24 @@
+---
+product_id: "44177"
+digistore24_product_id: 394183
+title: "Buch - Sei Du Selbst sonst lebst du Andere"
+vendor: "healthandwealth"
+product_type: "Book (printed)"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5"
+language: "de"
+---
 # Buch - Sei Du Selbst sonst lebst du Andere
 
 > Product ID `44177` · Digistore24 productId `394183` · [HTML profile page](../../produkte/buch-sei-du-selbst-sonst-lebst-du-andere-44177.html)

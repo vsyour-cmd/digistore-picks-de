@@ -1,3 +1,24 @@
+---
+product_id: "29825"
+digistore24_product_id: 284013
+title: "Sportwetten-mit-Kopf Premiumservice"
+vendor: "ms120512"
+product_type: "Member area and video courses"
+price: 394.8
+currency: "USD"
+affiliate_commission_pct: 19
+earnings_per_sale: 75.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2019-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sportwetten-mit-kopf.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://sportwetten-mit-kopf.de/"
+language: "de"
+---
 # Sportwetten-mit-Kopf Premiumservice
 
 > Product ID `29825` · Digistore24 productId `284013` · [HTML profile page](../../produkte/sportwetten-mit-kopf-premiumservice-29825.html)

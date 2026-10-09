@@ -1,3 +1,24 @@
+---
+product_id: "55918"
+digistore24_product_id: 676406
+title: "Streaming Cashflow"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 53
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/NZ5ozmhfW6BSTmYkM?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/NZ5ozmhfW6BSTmYkM"
+language: "de"
+---
 # Streaming Cashflow
 
 > Product ID `55918` · Digistore24 productId `676406` · [HTML profile page](../../produkte/streaming-cashflow-55918.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38798"
+digistore24_product_id: 423293
+title: "Liköre selber machen - EBook"
+vendor: "alchef12"
+product_type: "E-books"
+price: 8.36
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2022-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/"
+language: "de"
+---
 # Liköre selber machen - EBook
 
 > Product ID `38798` · Digistore24 productId `423293` · [HTML profile page](../../produkte/lik-re-selber-machen-ebook-38798.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59558"
+digistore24_product_id: 736264
+title: "LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 52.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://life-06-ege.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://life-06-ege.pages.dev/"
+language: "de"
+---
 # LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)
 
 > Product ID `59558` · Digistore24 productId `736264` · [HTML profile page](../../produkte/life-06-life-profil-gesamtsystem-pdf-workbook-59558.html)

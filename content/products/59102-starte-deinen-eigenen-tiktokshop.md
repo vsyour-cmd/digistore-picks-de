@@ -1,3 +1,24 @@
+---
+product_id: "59102"
+digistore24_product_id: 725197
+title: "Starte Deinen eigenen TikTokShop"
+vendor: "B8Luise"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/725197?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725197"
+language: "de"
+---
 # Starte Deinen eigenen TikTokShop
 
 > Product ID `59102` · Digistore24 productId `725197` · [HTML profile page](../../produkte/starte-deinen-eigenen-tiktokshop-59102.html)

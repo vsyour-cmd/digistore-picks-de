@@ -1,3 +1,24 @@
+---
+product_id: "55200"
+digistore24_product_id: 621434
+title: "Tage der Entscheidung"
+vendor: "Joerg-Loehr-ET"
+product_type: "Seminar/event for recreation"
+price: 2107.44
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 559.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Marketing Services"]
+listed_since: "2025-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://partner.joerg-loehr.com/seminare/tagederentscheidung?aff=adminstore#aff=adminstore"
+sales_page: "https://partner.joerg-loehr.com/seminare/tagederentscheidung"
+language: "de"
+---
 # Tage der Entscheidung
 
 > Product ID `55200` · Digistore24 productId `621434` · [HTML profile page](../../produkte/tage-der-entscheidung-55200.html)

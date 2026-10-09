@@ -1,3 +1,24 @@
+---
+product_id: "25861"
+digistore24_product_id: 235358
+title: "222 Lombok und Bali Highlights [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 5.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2018-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/222-lombok-bali-highlights/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/222-lombok-bali-highlights/"
+language: "de"
+---
 # 222 Lombok und Bali Highlights [E-Book]
 
 > Product ID `25861` · Digistore24 productId `235358` · [HTML profile page](../../produkte/222-lombok-und-bali-highlights-e-book-25861.html)

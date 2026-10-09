@@ -1,3 +1,24 @@
+---
+product_id: "59375"
+digistore24_product_id: 734991
+title: "UGC-Angebotsrechner und Projektplaner – mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/734991?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734991"
+language: "de"
+---
 # UGC-Angebotsrechner und Projektplaner – mit Matze
 
 > Product ID `59375` · Digistore24 productId `734991` · [HTML profile page](../../produkte/ugc-angebotsrechner-und-projektplaner-mit-matze-59375.html)

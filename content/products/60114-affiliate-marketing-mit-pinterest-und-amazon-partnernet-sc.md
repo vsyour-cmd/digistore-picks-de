@@ -1,3 +1,24 @@
+---
+product_id: "60114"
+digistore24_product_id: 739579
+title: "Affiliate Marketing mit Pinterest und Amazon PartnerNet – Sc"
+vendor: "selinascheerer934dbc"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/739579?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/739579"
+language: "de"
+---
 # Affiliate Marketing mit Pinterest und Amazon PartnerNet – Sc
 
 > Product ID `60114` · Digistore24 productId `739579` · [HTML profile page](../../produkte/affiliate-marketing-mit-pinterest-und-amazon-partnernet-sc-60114.html)

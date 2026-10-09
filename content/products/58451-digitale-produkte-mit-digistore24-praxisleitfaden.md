@@ -1,3 +1,24 @@
+---
+product_id: "58451"
+digistore24_product_id: 718575
+title: "Digitale Produkte mit Digistore24 – Praxisleitfaden"
+vendor: "infoamvezde"
+product_type: "E-books"
+price: 61.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 30.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Marketing Services"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/718575?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718575"
+language: "de"
+---
 # Digitale Produkte mit Digistore24 – Praxisleitfaden
 
 > Product ID `58451` · Digistore24 productId `718575` · [HTML profile page](../../produkte/digitale-produkte-mit-digistore24-praxisleitfaden-58451.html)

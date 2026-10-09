@@ -1,3 +1,24 @@
+---
+product_id: "55129"
+digistore24_product_id: 658591
+title: "Reicher als Dein Algorithmus - Die Systematik des passiven.."
+vendor: "JustSmileHere"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/658591?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/658591"
+language: "de"
+---
 # Reicher als Dein Algorithmus - Die Systematik des passiven..
 
 > Product ID `55129` · Digistore24 productId `658591` · [HTML profile page](../../produkte/reicher-als-dein-algorithmus-die-systematik-des-passiven-55129.html)

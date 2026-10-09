@@ -1,3 +1,24 @@
+---
+product_id: "34592"
+digistore24_product_id: 353359
+title: "\"1x1 Floristik - Querbeet für Einsteiger\""
+vendor: "Elobana"
+product_type: "Member area and video courses"
+price: 130.76
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.12
+cart_conversion_pct: 13
+cancel_rate_pct: 0.72
+categories: ["Home & Garden"]
+listed_since: "2020-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/"
+language: "de"
+---
 # "1x1 Floristik - Querbeet für Einsteiger"
 
 > Product ID `34592` · Digistore24 productId `353359` · [HTML profile page](../../produkte/1x1-floristik-querbeet-f-r-einsteiger-34592.html)

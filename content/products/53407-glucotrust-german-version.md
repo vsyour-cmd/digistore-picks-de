@@ -1,3 +1,24 @@
+---
+product_id: "53407"
+digistore24_product_id: 600906
+title: "GlucoTrust German Version"
+vendor: "DS24-J2021"
+product_type: "Supplements - health"
+price: 202.16
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 133.28
+cart_conversion_pct: 12
+cancel_rate_pct: 9.47
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myvitalletter.com/tsl-ds24-irl-0?aff=adminstore#aff=adminstore"
+sales_page: "https://myvitalletter.com/tsl-ds24-irl-0"
+language: "de"
+---
 # GlucoTrust German Version
 
 > Product ID `53407` · Digistore24 productId `600906` · [HTML profile page](../../produkte/glucotrust-german-version-53407.html)

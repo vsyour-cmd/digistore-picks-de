@@ -1,3 +1,24 @@
+---
+product_id: "58875"
+digistore24_product_id: 686410
+title: "Pour Ellie – BARF verstehen und richtig umsetzen"
+vendor: "PourEllie"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686410?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686410"
+language: "de"
+---
 # Pour Ellie – BARF verstehen und richtig umsetzen
 
 > Product ID `58875` · Digistore24 productId `686410` · [HTML profile page](../../produkte/pour-ellie-barf-verstehen-und-richtig-umsetzen-58875.html)

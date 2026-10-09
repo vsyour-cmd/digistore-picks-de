@@ -1,3 +1,24 @@
+---
+product_id: "5465"
+digistore24_product_id: 37771
+title: "E-Book \"Mentale und emotionale Power\""
+vendor: "juergenzwickel"
+product_type: "Downloads"
+price: 18.51
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2014-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.691108.juergenzwickel.com/ebookvk?aff=adminstore#aff=adminstore"
+sales_page: "http://www.691108.juergenzwickel.com/ebookvk"
+language: "de"
+---
 # E-Book "Mentale und emotionale Power"
 
 > Product ID `5465` · Digistore24 productId `37771` · [HTML profile page](../../produkte/e-book-mentale-und-emotionale-power-5465.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43059"
+digistore24_product_id: 349272
+title: "Der Instant Change Anwendungs-Abend"
+vendor: "Weinstock777"
+product_type: "Webinar"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.instant-change.com/de/anwendungsabend/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.instant-change.com/de/anwendungsabend/"
+language: "de"
+---
 # Der Instant Change Anwendungs-Abend
 
 > Product ID `43059` · Digistore24 productId `349272` · [HTML profile page](../../produkte/der-instant-change-anwendungs-abend-43059.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50959"
+digistore24_product_id: 590509
+title: "Print on Demand, Verkaufen auf Etsy und Amazon, POD"
+vendor: "Cansoul"
+product_type: "Downloads"
+price: 23.5
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing"]
+listed_since: "2025-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/590509?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/590509"
+language: "de"
+---
 # Print on Demand, Verkaufen auf Etsy und Amazon, POD
 
 > Product ID `50959` · Digistore24 productId `590509` · [HTML profile page](../../produkte/print-on-demand-verkaufen-auf-etsy-und-amazon-pod-50959.html)

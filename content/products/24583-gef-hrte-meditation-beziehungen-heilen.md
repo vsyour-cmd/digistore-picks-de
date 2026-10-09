@@ -1,3 +1,24 @@
+---
+product_id: "24583"
+digistore24_product_id: 222585
+title: "geführte Meditation: Beziehungen heilen"
+vendor: "Ninuschka"
+product_type: "Downloads"
+price: 15.13
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2018-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungs-paarberatung-dresden.de/shop/"
+language: "de"
+---
 # geführte Meditation: Beziehungen heilen
 
 > Product ID `24583` · Digistore24 productId `222585` · [HTML profile page](../../produkte/gef-hrte-meditation-beziehungen-heilen-24583.html)

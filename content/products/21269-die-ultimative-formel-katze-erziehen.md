@@ -1,3 +1,24 @@
+---
+product_id: "21269"
+digistore24_product_id: 91417
+title: "Die ultimative Formel... Katze erziehen"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meine-katze-erziehen.com/katze-erziehen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meine-katze-erziehen.com/katze-erziehen/"
+language: "de"
+---
 # Die ultimative Formel... Katze erziehen
 
 > Product ID `21269` · Digistore24 productId `91417` · [HTML profile page](../../produkte/die-ultimative-formel-katze-erziehen-21269.html)

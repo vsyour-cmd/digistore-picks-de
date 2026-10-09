@@ -1,3 +1,24 @@
+---
+product_id: "54694"
+digistore24_product_id: 643414
+title: "Erwecke deine Elfenkraft"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 29.27
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/erwecke-deine-elfenkraft-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/erwecke-deine-elfenkraft-ds"
+language: "de"
+---
 # Erwecke deine Elfenkraft
 
 > Product ID `54694` · Digistore24 productId `643414` · [HTML profile page](../../produkte/erwecke-deine-elfenkraft-54694.html)

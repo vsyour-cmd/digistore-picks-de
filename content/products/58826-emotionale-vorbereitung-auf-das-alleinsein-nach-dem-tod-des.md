@@ -1,3 +1,24 @@
+---
+product_id: "58826"
+digistore24_product_id: 727959
+title: "Emotionale Vorbereitung auf das Alleinsein nach dem Tod des"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727959?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727959"
+language: "de"
+---
 # Emotionale Vorbereitung auf das Alleinsein nach dem Tod des
 
 > Product ID `58826` · Digistore24 productId `727959` · [HTML profile page](../../produkte/emotionale-vorbereitung-auf-das-alleinsein-nach-dem-tod-des-58826.html)

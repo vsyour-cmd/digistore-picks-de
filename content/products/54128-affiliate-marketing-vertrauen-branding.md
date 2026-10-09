@@ -1,3 +1,24 @@
+---
+product_id: "54128"
+digistore24_product_id: 634705
+title: "Affiliate Marketing: Vertrauen & Branding"
+vendor: "CashUnity"
+product_type: "E-books"
+price: 0.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.71
+cart_conversion_pct: 28
+cancel_rate_pct: 3.6
+categories: ["Business & Investment"]
+listed_since: "2025-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cash-unity.de/branding-vertrauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cash-unity.de/branding-vertrauen/"
+language: "de"
+---
 # Affiliate Marketing: Vertrauen & Branding
 
 > Product ID `54128` · Digistore24 productId `634705` · [HTML profile page](../../produkte/affiliate-marketing-vertrauen-branding-54128.html)

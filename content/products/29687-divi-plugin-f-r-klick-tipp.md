@@ -1,3 +1,24 @@
+---
+product_id: "29687"
+digistore24_product_id: 96601
+title: "Divi Plugin für Klick-Tipp"
+vendor: "intellicon"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2016-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore"
+sales_page: "https://www.klicksuite.de/bestellung/?product=96601"
+language: "de"
+---
 # Divi Plugin für Klick-Tipp
 
 > Product ID `29687` · Digistore24 productId `96601` · [HTML profile page](../../produkte/divi-plugin-f-r-klick-tipp-29687.html)

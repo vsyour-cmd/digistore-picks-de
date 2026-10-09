@@ -1,3 +1,24 @@
+---
+product_id: "28904"
+digistore24_product_id: 270579
+title: "Der Udemy Code (228 Seiten E-Book)"
+vendor: "Abhaker"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2019-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sebastian-gloeckner-bonn.de/der-udemy-code/?aff=adminstore#aff=adminstore"
+sales_page: "https://sebastian-gloeckner-bonn.de/der-udemy-code/"
+language: "de"
+---
 # Der Udemy Code (228 Seiten E-Book)
 
 > Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../produkte/der-udemy-code-228-seiten-e-book-28904.html)

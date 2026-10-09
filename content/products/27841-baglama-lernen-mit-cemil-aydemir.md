@@ -1,3 +1,24 @@
+---
+product_id: "27841"
+digistore24_product_id: 394006
+title: "Baglama lernen mit Cemil Aydemir"
+vendor: "meineMusikschule"
+product_type: "Member area and video courses"
+price: 111.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 144.66
+cart_conversion_pct: 20
+cancel_rate_pct: 9.92
+categories: ["Dancing & Music"]
+listed_since: "2021-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinemusikschule.net/kurse/baglama/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinemusikschule.net/kurse/baglama/"
+language: "de"
+---
 # Baglama lernen mit Cemil Aydemir
 
 > Product ID `27841` · Digistore24 productId `394006` · [HTML profile page](../../produkte/baglama-lernen-mit-cemil-aydemir-27841.html)

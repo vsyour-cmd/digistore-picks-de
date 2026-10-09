@@ -1,3 +1,24 @@
+---
+product_id: "36078"
+digistore24_product_id: 350964
+title: "Innere Stärke dank Resilienz - ZPP Präventionskurs"
+vendor: "glueckwaerts"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2020-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.glueckwaerts.com/ok-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.glueckwaerts.com/ok-ds"
+language: "de"
+---
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
 > Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../produkte/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)

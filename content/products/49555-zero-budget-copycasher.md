@@ -1,3 +1,24 @@
+---
+product_id: "49555"
+digistore24_product_id: 567551
+title: "Zero Budget CopyCasher"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 3.96
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.16
+cart_conversion_pct: 16
+cancel_rate_pct: 0.82
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/ZBCC?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/ZBCC"
+language: "de"
+---
 # Zero Budget CopyCasher
 
 > Product ID `49555` · Digistore24 productId `567551` · [HTML profile page](../../produkte/zero-budget-copycasher-49555.html)

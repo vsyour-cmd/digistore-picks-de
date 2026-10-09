@@ -1,3 +1,24 @@
+---
+product_id: "60026"
+digistore24_product_id: 738285
+title: "Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Home & Garden"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.einfachhaltbar.de/vom-beet-ins-vorratsregal/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.einfachhaltbar.de/vom-beet-ins-vorratsregal/"
+language: "de"
+---
 # Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar
 
 > Product ID `60026` · Digistore24 productId `738285` · [HTML profile page](../../produkte/vom-beet-ins-vorratsregal-ernte-verarbeiten-mit-einfach-haltbar-60026.html)

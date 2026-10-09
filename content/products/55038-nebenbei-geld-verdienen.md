@@ -1,3 +1,24 @@
+---
+product_id: "55038"
+digistore24_product_id: 635744
+title: "Nebenbei Geld verdienen"
+vendor: "ekke-hard"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/635744?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/635744"
+language: "de"
+---
 # Nebenbei Geld verdienen
 
 > Product ID `55038` · Digistore24 productId `635744` · [HTML profile page](../../produkte/nebenbei-geld-verdienen-55038.html)

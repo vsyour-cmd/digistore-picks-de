@@ -1,3 +1,24 @@
+---
+product_id: "40986"
+digistore24_product_id: 461920
+title: "E-Books: Lexika Sammlung"
+vendor: "Staatenlos"
+product_type: "E-books"
+price: 123.77
+currency: "USD"
+affiliate_commission_pct: 51
+earnings_per_sale: 55.01
+cart_conversion_pct: 19
+cancel_rate_pct: 4.52
+categories: ["Finances"]
+listed_since: "2022-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://staatenlos.ch/firma-gruenden/lexika-sammlung/?aff=adminstore#aff=adminstore"
+sales_page: "https://staatenlos.ch/firma-gruenden/lexika-sammlung/"
+language: "de"
+---
 # E-Books: Lexika Sammlung
 
 > Product ID `40986` · Digistore24 productId `461920` · [HTML profile page](../../produkte/e-books-lexika-sammlung-40986.html)

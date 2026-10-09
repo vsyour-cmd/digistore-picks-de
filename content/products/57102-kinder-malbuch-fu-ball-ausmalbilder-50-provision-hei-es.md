@@ -1,3 +1,24 @@
+---
+product_id: "57102"
+digistore24_product_id: 703474
+title: "Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes"
+vendor: "manuelcosta"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Sport"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fussballcoloring.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://fussballcoloring.netlify.app/"
+language: "de"
+---
 # Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes
 
 > Product ID `57102` · Digistore24 productId `703474` · [HTML profile page](../../produkte/kinder-malbuch-fu-ball-ausmalbilder-50-provision-hei-es-57102.html)

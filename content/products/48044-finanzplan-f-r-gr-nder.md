@@ -1,3 +1,24 @@
+---
+product_id: "48044"
+digistore24_product_id: 551046
+title: "Finanzplan für Gründer"
+vendor: "Spekulatius"
+product_type: "Downloads"
+price: 0.1
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 2.84
+cart_conversion_pct: 52
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2024-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/finanzplan/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/finanzplan/"
+language: "de"
+---
 # Finanzplan für Gründer
 
 > Product ID `48044` · Digistore24 productId `551046` · [HTML profile page](../../produkte/finanzplan-f-r-gr-nder-48044.html)

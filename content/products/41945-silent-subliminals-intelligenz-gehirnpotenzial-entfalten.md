@@ -1,3 +1,24 @@
+---
+product_id: "41945"
+digistore24_product_id: 421432
+title: "Silent Subliminals Intelligenz: Gehirnpotenzial entfalten"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Education"]
+listed_since: "2021-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-intelligenz/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-intelligenz/"
+language: "de"
+---
 # Silent Subliminals Intelligenz: Gehirnpotenzial entfalten
 
 > Product ID `41945` · Digistore24 productId `421432` · [HTML profile page](../../produkte/silent-subliminals-intelligenz-gehirnpotenzial-entfalten-41945.html)

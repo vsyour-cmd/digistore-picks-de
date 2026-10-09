@@ -1,3 +1,24 @@
+---
+product_id: "60298"
+digistore24_product_id: 741567
+title: "Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision"
+vendor: "massarocalogero19976adc"
+product_type: "Remote service provided electronically"
+price: 548.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 109.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.direzionex.com/offerta/landing-page?aff=adminstore#aff=adminstore"
+sales_page: "https://www.direzionex.com/offerta/landing-page"
+language: "de"
+---
 # Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision
 
 > Product ID `60298` · Digistore24 productId `741567` · [HTML profile page](../../produkte/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html)

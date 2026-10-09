@@ -1,3 +1,24 @@
+---
+product_id: "25560"
+digistore24_product_id: 209277
+title: "Hormon-Yoga und Kinderwunsch nach Sharada Devi©"
+vendor: "YogaCircleBerlin"
+product_type: "Downloads"
+price: 33.56
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2018-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://yogacircle-berlin.de/video-hormonyoga-nach-sharada-devi/?aff=adminstore#aff=adminstore"
+sales_page: "https://yogacircle-berlin.de/video-hormonyoga-nach-sharada-devi/"
+language: "de"
+---
 # Hormon-Yoga und Kinderwunsch nach Sharada Devi©
 
 > Product ID `25560` · Digistore24 productId `209277` · [HTML profile page](../../produkte/hormon-yoga-und-kinderwunsch-nach-sharada-devi-25560.html)

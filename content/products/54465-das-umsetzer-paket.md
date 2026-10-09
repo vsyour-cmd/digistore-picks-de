@@ -1,3 +1,24 @@
+---
+product_id: "54465"
+digistore24_product_id: 641153
+title: "Das Umsetzer-Paket"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Umsetzer-Paket?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Umsetzer-Paket"
+language: "de"
+---
 # Das Umsetzer-Paket
 
 > Product ID `54465` · Digistore24 productId `641153` · [HTML profile page](../../produkte/das-umsetzer-paket-54465.html)

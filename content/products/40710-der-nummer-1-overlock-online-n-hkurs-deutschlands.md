@@ -1,3 +1,24 @@
+---
+product_id: "40710"
+digistore24_product_id: 292094
+title: "Der Nummer 1 Overlock Online Nähkurs Deutschlands"
+vendor: "creatory"
+product_type: "Member area and video courses"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 18.29
+cart_conversion_pct: 53
+cancel_rate_pct: 2.99
+categories: ["Hobby & Craft"]
+listed_since: "2019-10-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.overlocknaehmaschine.info/overlock-naehkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.overlocknaehmaschine.info/overlock-naehkurs/"
+language: "de"
+---
 # Der Nummer 1 Overlock Online Nähkurs Deutschlands
 
 > Product ID `40710` · Digistore24 productId `292094` · [HTML profile page](../../produkte/der-nummer-1-overlock-online-n-hkurs-deutschlands-40710.html)

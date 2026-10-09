@@ -1,3 +1,24 @@
+---
+product_id: "28047"
+digistore24_product_id: 258330
+title: "WOWING"
+vendor: "pspbiz"
+product_type: "Downloads"
+price: 670.04
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 134.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2019-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wowing.com?aff=adminstore#aff=adminstore"
+sales_page: "https://wowing.com"
+language: "de"
+---
 # WOWING
 
 > Product ID `28047` · Digistore24 productId `258330` · [HTML profile page](../../produkte/wowing-28047.html)

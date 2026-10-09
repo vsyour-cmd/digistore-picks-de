@@ -1,3 +1,24 @@
+---
+product_id: "59254"
+digistore24_product_id: 727290
+title: "Finanz-Organisator – KI sortiert deine Rechnungen und Belege automatisch"
+vendor: "SilunaGmbH"
+product_type: "Downloads"
+price: 22.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sfo.siluna.li/lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://sfo.siluna.li/lp/"
+language: "de"
+---
 # Finanz-Organisator – KI sortiert deine Rechnungen und Belege automatisch
 
 > Product ID `59254` · Digistore24 productId `727290` · [HTML profile page](../../produkte/finanz-organisator-ki-sortiert-deine-rechnungen-und-belege-automatisch-59254.html)

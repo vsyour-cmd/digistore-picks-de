@@ -1,3 +1,24 @@
+---
+product_id: "33337"
+digistore24_product_id: 334681
+title: "\"Schluß mit schlechten Preisen und Abschlüssen\""
+vendor: "dealwinner"
+product_type: "Webinar"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sales Training"]
+listed_since: "2020-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N&aff=adminstore#aff=adminstore"
+sales_page: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N"
+language: "de"
+---
 # "Schluß mit schlechten Preisen und Abschlüssen"
 
 > Product ID `33337` · Digistore24 productId `334681` · [HTML profile page](../../produkte/schlu-mit-schlechten-preisen-und-abschl-ssen-33337.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47290"
+digistore24_product_id: 484846
+title: "Mission: Goodlife Free plus Shipping - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Book (printed)"
+price: 2.43
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3.68
+cart_conversion_pct: 38
+cancel_rate_pct: 1.77
+categories: ["Personal Development"]
+listed_since: "2023-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://missiongoodlife.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://missiongoodlife.de/buchgeschenk-7500/"
+language: "de"
+---
 # Mission: Goodlife Free plus Shipping - von Gunnar Kessler
 
 > Product ID `47290` · Digistore24 productId `484846` · [HTML profile page](../../produkte/mission-goodlife-free-plus-shipping-von-gunnar-kessler-47290.html)

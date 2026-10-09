@@ -1,3 +1,24 @@
+---
+product_id: "57800"
+digistore24_product_id: 716190
+title: "Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan"
+vendor: "webtrafficde"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://success.webtraffic.de/ebooks/claude_canva/?aff=adminstore#aff=adminstore"
+sales_page: "https://success.webtraffic.de/ebooks/claude_canva/"
+language: "de"
+---
 # Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan
 
 > Product ID `57800` · Digistore24 productId `716190` · [HTML profile page](../../produkte/dein-erstes-ebook-mit-claude-und-canva-14-tage-fahrplan-57800.html)

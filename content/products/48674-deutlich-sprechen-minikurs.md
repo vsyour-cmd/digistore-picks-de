@@ -1,3 +1,24 @@
+---
+product_id: "48674"
+digistore24_product_id: 561632
+title: "Deutlich sprechen - Minikurs"
+vendor: "Stimmfluencer"
+product_type: "Downloads"
+price: 20.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2024-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.stimmfluencer.de/minikurse?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimmfluencer.de/minikurse"
+language: "de"
+---
 # Deutlich sprechen - Minikurs
 
 > Product ID `48674` · Digistore24 productId `561632` · [HTML profile page](../../produkte/deutlich-sprechen-minikurs-48674.html)

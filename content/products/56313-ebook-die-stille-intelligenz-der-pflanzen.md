@@ -1,3 +1,24 @@
+---
+product_id: "56313"
+digistore24_product_id: 685698
+title: "Ebook - Die stille Intelligenz der Pflanzen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 5.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685698?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685698"
+language: "de"
+---
 # Ebook - Die stille Intelligenz der Pflanzen
 
 > Product ID `56313` · Digistore24 productId `685698` · [HTML profile page](../../produkte/ebook-die-stille-intelligenz-der-pflanzen-56313.html)

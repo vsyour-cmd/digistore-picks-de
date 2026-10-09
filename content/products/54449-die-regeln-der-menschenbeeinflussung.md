@@ -1,3 +1,24 @@
+---
+product_id: "54449"
+digistore24_product_id: 642378
+title: "Die Regeln der Menschenbeeinflussung"
+vendor: "hansenconsulting"
+product_type: "E-books"
+price: 9.93
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2025-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/642378?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/642378"
+language: "de"
+---
 # Die Regeln der Menschenbeeinflussung
 
 > Product ID `54449` · Digistore24 productId `642378` · [HTML profile page](../../produkte/die-regeln-der-menschenbeeinflussung-54449.html)

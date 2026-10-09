@@ -1,3 +1,24 @@
+---
+product_id: "55964"
+digistore24_product_id: 672563
+title: "Das große Mentoring Paket für Hinterbliebene"
+vendor: "verwitwet-leben"
+product_type: "Online coaching"
+price: 41.13
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 142.76
+cart_conversion_pct: 18
+cancel_rate_pct: 0.45
+categories: ["Business & Investment","Education"]
+listed_since: "2026-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/672563/adminstore"
+sales_page: "https://verwitwet-leben.de/individuelles-mentoring/#anker-1"
+language: "de"
+---
 # Das große Mentoring Paket für Hinterbliebene
 
 > Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)

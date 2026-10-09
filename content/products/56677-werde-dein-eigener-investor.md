@@ -1,3 +1,24 @@
+---
+product_id: "56677"
+digistore24_product_id: 695272
+title: "Werde dein eigener Investor"
+vendor: "mkomischke88b2"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances"]
+listed_since: "2026-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695272?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695272"
+language: "de"
+---
 # Werde dein eigener Investor
 
 > Product ID `56677` · Digistore24 productId `695272` · [HTML profile page](../../produkte/werde-dein-eigener-investor-56677.html)

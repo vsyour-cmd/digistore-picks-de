@@ -1,3 +1,24 @@
+---
+product_id: "46544"
+digistore24_product_id: 520506
+title: "Digitale Barrierefreiheit für Designer*innen"
+vendor: "GehirngerechtDigitalGmbH"
+product_type: "Member area and video courses"
+price: 272.6
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 68.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2023-10-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/?aff=adminstore#aff=adminstore"
+sales_page: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/"
+language: "de"
+---
 # Digitale Barrierefreiheit für Designer*innen
 
 > Product ID `46544` · Digistore24 productId `520506` · [HTML profile page](../../produkte/digitale-barrierefreiheit-f-r-designer-innen-46544.html)

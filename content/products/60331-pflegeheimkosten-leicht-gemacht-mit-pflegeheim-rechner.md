@@ -1,3 +1,24 @@
+---
+product_id: "60331"
+digistore24_product_id: 741599
+title: "Pflegeheimkosten leicht gemacht – mit Pflegeheim-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741599?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741599"
+language: "de"
+---
 # Pflegeheimkosten leicht gemacht – mit Pflegeheim-Rechner
 
 > Product ID `60331` · Digistore24 productId `741599` · [HTML profile page](../../produkte/pflegeheimkosten-leicht-gemacht-mit-pflegeheim-rechner-60331.html)

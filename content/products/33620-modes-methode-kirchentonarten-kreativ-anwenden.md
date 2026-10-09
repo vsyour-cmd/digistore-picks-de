@@ -1,3 +1,24 @@
+---
+product_id: "33620"
+digistore24_product_id: 309932
+title: "Modes-Methode - Kirchentonarten kreativ anwenden"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 101.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 26.47
+cart_conversion_pct: 17
+cancel_rate_pct: 2.66
+categories: ["Dancing & Music"]
+listed_since: "2020-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gitarrenvideounterricht.de/kurse/modes-methode/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gitarrenvideounterricht.de/kurse/modes-methode/"
+language: "de"
+---
 # Modes-Methode - Kirchentonarten kreativ anwenden
 
 > Product ID `33620` · Digistore24 productId `309932` · [HTML profile page](../../produkte/modes-methode-kirchentonarten-kreativ-anwenden-33620.html)

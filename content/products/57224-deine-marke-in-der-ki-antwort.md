@@ -1,3 +1,24 @@
+---
+product_id: "57224"
+digistore24_product_id: 701983
+title: "Deine Marke in der KI-Antwort"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/marke-in-der-ki-antwort?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/marke-in-der-ki-antwort"
+language: "de"
+---
 # Deine Marke in der KI-Antwort
 
 > Product ID `57224` · Digistore24 productId `701983` · [HTML profile page](../../produkte/deine-marke-in-der-ki-antwort-57224.html)

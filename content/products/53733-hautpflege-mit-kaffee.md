@@ -1,3 +1,24 @@
+---
+product_id: "53733"
+digistore24_product_id: 529405
+title: "Hautpflege mit Kaffee"
+vendor: "Katharinaruehrt"
+product_type: "Member area and video courses"
+price: 69.55
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.28
+cart_conversion_pct: 8
+cancel_rate_pct: 1.54
+categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
+listed_since: "2023-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.katharinaruehrt.com/hautpflege-mit-kaffee?aff=adminstore#aff=adminstore"
+sales_page: "https://www.katharinaruehrt.com/hautpflege-mit-kaffee"
+language: "de"
+---
 # Hautpflege mit Kaffee
 
 > Product ID `53733` · Digistore24 productId `529405` · [HTML profile page](../../produkte/hautpflege-mit-kaffee-53733.html)

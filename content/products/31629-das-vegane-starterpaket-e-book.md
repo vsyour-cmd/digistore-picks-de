@@ -1,3 +1,24 @@
+---
+product_id: "31629"
+digistore24_product_id: 301508
+title: "Das vegane Starterpaket (E-Book)"
+vendor: "Melanie341"
+product_type: "E-books"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore"
+sales_page: "https://vegaliferocks.de/der-vegane-starterguide/"
+language: "de"
+---
 # Das vegane Starterpaket (E-Book)
 
 > Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../produkte/das-vegane-starterpaket-e-book-31629.html)

@@ -1,3 +1,24 @@
+---
+product_id: "30554"
+digistore24_product_id: 287998
+title: "neowake® Meditations Album Source Code - zu verschenken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://neowake.de/source-code/?aff=adminstore#aff=adminstore"
+sales_page: "https://neowake.de/source-code/"
+language: "de"
+---
 # neowake® Meditations Album Source Code - zu verschenken
 
 > Product ID `30554` · Digistore24 productId `287998` · [HTML profile page](../../produkte/neowake-meditations-album-source-code-zu-verschenken-30554.html)

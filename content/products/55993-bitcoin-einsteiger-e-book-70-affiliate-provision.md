@@ -1,3 +1,24 @@
+---
+product_id: "55993"
+digistore24_product_id: 674475
+title: "Bitcoin Einsteiger E-Book – 70 % Affiliate Provision"
+vendor: "gluecksschmiedef9e2"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 21.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances"]
+listed_since: "2026-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/674475?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/674475"
+language: "de"
+---
 # Bitcoin Einsteiger E-Book – 70 % Affiliate Provision
 
 > Product ID `55993` · Digistore24 productId `674475` · [HTML profile page](../../produkte/bitcoin-einsteiger-e-book-70-affiliate-provision-55993.html)

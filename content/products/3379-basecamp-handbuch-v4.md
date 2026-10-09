@@ -1,3 +1,24 @@
+---
+product_id: "3379"
+digistore24_product_id: 12747
+title: "BaseCamp Handbuch V4"
+vendor: "MBMweb"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://basecamphandbuch.de?aff=adminstore#aff=adminstore"
+sales_page: "http://basecamphandbuch.de"
+language: "de"
+---
 # BaseCamp Handbuch V4
 
 > Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../produkte/basecamp-handbuch-v4-3379.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59970"
+digistore24_product_id: 738079
+title: "Online Business Blueprint – Kurs für 97 €, 50 % Provision"
+vendor: "influexai"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/738079?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738079"
+language: "de"
+---
 # Online Business Blueprint – Kurs für 97 €, 50 % Provision
 
 > Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../produkte/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38896"
+digistore24_product_id: 252196
+title: "WELPENZEIT - Schritt für Schritt zum tollen Hund"
+vendor: "ddsteffi"
+product_type: "Member area and video courses"
+price: 105.79
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 28.41
+cart_conversion_pct: 13
+cancel_rate_pct: 0.4
+categories: ["Animals & Pets"]
+listed_since: "2018-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hundeerziehung-hundepension.de/9wzvk7ytt?aff=adminstore#aff=adminstore"
+sales_page: "https://hundeerziehung-hundepension.de/9wzvk7ytt"
+language: "de"
+---
 # WELPENZEIT - Schritt für Schritt zum tollen Hund
 
 > Product ID `38896` · Digistore24 productId `252196` · [HTML profile page](../../produkte/welpenzeit-schritt-f-r-schritt-zum-tollen-hund-38896.html)

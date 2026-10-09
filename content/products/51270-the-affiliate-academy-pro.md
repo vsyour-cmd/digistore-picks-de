@@ -1,3 +1,24 @@
+---
+product_id: "51270"
+digistore24_product_id: 583561
+title: "The Affiliate Academy Pro"
+vendor: "marketingmarko"
+product_type: "Member area and video courses"
+price: 1409.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 284.19
+cart_conversion_pct: 3
+cancel_rate_pct: 9.28
+categories: ["Business & Investment","Social Media"]
+listed_since: "2024-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.theaffiliateacademy.de/taapro/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.theaffiliateacademy.de/taapro/"
+language: "de"
+---
 # The Affiliate Academy Pro
 
 > Product ID `51270` · Digistore24 productId `583561` · [HTML profile page](../../produkte/the-affiliate-academy-pro-51270.html)

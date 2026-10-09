@@ -1,3 +1,24 @@
+---
+product_id: "17449"
+digistore24_product_id: 66335
+title: "ActiveBrain Akademie"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 15.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2015-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lerntipp.com/gehirnfitness?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lerntipp.com/gehirnfitness"
+language: "de"
+---
 # ActiveBrain Akademie
 
 > Product ID `17449` · Digistore24 productId `66335` · [HTML profile page](../../produkte/activebrain-akademie-17449.html)

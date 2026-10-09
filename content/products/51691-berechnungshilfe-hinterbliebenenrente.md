@@ -1,3 +1,24 @@
+---
+product_id: "51691"
+digistore24_product_id: 601112
+title: "Berechnungshilfe Hinterbliebenenrente"
+vendor: "verwitwet-leben"
+product_type: "Downloads"
+price: 41.13
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.62
+cart_conversion_pct: 19
+cancel_rate_pct: 0.45
+categories: ["Education","Profession & Job","Finances"]
+listed_since: "2025-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
+sales_page: "https://verwitwet-leben.de/berechnungshilfe/"
+language: "de"
+---
 # Berechnungshilfe Hinterbliebenenrente
 
 > Product ID `51691` · Digistore24 productId `601112` · [HTML profile page](../../produkte/berechnungshilfe-hinterbliebenenrente-51691.html)

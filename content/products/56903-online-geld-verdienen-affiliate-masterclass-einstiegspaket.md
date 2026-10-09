@@ -1,3 +1,24 @@
+---
+product_id: "56903"
+digistore24_product_id: 696728
+title: "Online Geld verdienen - Affiliate Masterclass Einstiegspaket"
+vendor: "Profi10"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/696728?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/696728"
+language: "de"
+---
 # Online Geld verdienen - Affiliate Masterclass Einstiegspaket
 
 > Product ID `56903` · Digistore24 productId `696728` · [HTML profile page](../../produkte/online-geld-verdienen-affiliate-masterclass-einstiegspaket-56903.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44775"
+digistore24_product_id: 414286
+title: "Videokurs: Einführung in die Personalverrechnung"
+vendor: "Steinkellner"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 36.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2021-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/"
+language: "de"
+---
 # Videokurs: Einführung in die Personalverrechnung
 
 > Product ID `44775` · Digistore24 productId `414286` · [HTML profile page](../../produkte/videokurs-einf-hrung-in-die-personalverrechnung-44775.html)

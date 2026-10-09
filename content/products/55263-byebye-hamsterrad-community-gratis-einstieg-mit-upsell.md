@@ -1,3 +1,24 @@
+---
+product_id: "55263"
+digistore24_product_id: 653336
+title: "ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 6.51
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 0.11
+cart_conversion_pct: 39
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/Member/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/Member/"
+language: "de"
+---
 # ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell
 
 > Product ID `55263` · Digistore24 productId `653336` · [HTML profile page](../../produkte/byebye-hamsterrad-community-gratis-einstieg-mit-upsell-55263.html)

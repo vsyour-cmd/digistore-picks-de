@@ -1,3 +1,24 @@
+---
+product_id: "55688"
+digistore24_product_id: 595188
+title: "IG Automation"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 331.24
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 124
+cart_conversion_pct: 11
+cancel_rate_pct: 0.77
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/ig-automation/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/ig-automation/"
+language: "de"
+---
 # IG Automation
 
 > Product ID `55688` · Digistore24 productId `595188` · [HTML profile page](../../produkte/ig-automation-55688.html)

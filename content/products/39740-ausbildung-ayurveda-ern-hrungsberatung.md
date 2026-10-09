@@ -1,3 +1,24 @@
+---
+product_id: "39740"
+digistore24_product_id: 369652
+title: "Ausbildung: Ayurveda-Ernährungsberatung"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 1336.68
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 401.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/ayurveda-ernaehrungsberatung/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/ayurveda-ernaehrungsberatung/"
+language: "de"
+---
 # Ausbildung: Ayurveda-Ernährungsberatung
 
 > Product ID `39740` · Digistore24 productId `369652` · [HTML profile page](../../produkte/ausbildung-ayurveda-ern-hrungsberatung-39740.html)

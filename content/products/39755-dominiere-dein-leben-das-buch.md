@@ -1,3 +1,24 @@
+---
+product_id: "39755"
+digistore24_product_id: 382593
+title: "Dominiere dein Leben - Das Buch"
+vendor: "Erschaffedichneu"
+product_type: "Book (printed)"
+price: 23.09
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.73
+cart_conversion_pct: 22
+cancel_rate_pct: 2.98
+categories: ["Personal Development"]
+listed_since: "2021-04-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://erschaffedichneu.com/dominiere-gratis?aff=adminstore#aff=adminstore"
+sales_page: "https://erschaffedichneu.com/dominiere-gratis"
+language: "de"
+---
 # Dominiere dein Leben - Das Buch
 
 > Product ID `39755` · Digistore24 productId `382593` · [HTML profile page](../../produkte/dominiere-dein-leben-das-buch-39755.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40644"
+digistore24_product_id: 360118
+title: "eBook - Kreative Projekte mit Epoxidharz für Einsteiger"
+vendor: "acrylgiessen"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/"
+language: "de"
+---
 # eBook - Kreative Projekte mit Epoxidharz für Einsteiger
 
 > Product ID `40644` · Digistore24 productId `360118` · [HTML profile page](../../produkte/ebook-kreative-projekte-mit-epoxidharz-f-r-einsteiger-40644.html)

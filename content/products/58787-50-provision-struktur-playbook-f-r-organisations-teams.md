@@ -1,3 +1,24 @@
+---
+product_id: "58787"
+digistore24_product_id: 692786
+title: "50 % Provision: Struktur-Playbook für Organisations-Teams"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 215.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 107.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692786?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692786"
+language: "de"
+---
 # 50 % Provision: Struktur-Playbook für Organisations-Teams
 
 > Product ID `58787` · Digistore24 productId `692786` · [HTML profile page](../../produkte/50-provision-struktur-playbook-f-r-organisations-teams-58787.html)

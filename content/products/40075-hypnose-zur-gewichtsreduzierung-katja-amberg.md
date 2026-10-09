@@ -1,3 +1,24 @@
+---
+product_id: "40075"
+digistore24_product_id: 308411
+title: "HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 1.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://katja-amberg-shop.de/gewichtsreduzierung?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/gewichtsreduzierung"
+language: "de"
+---
 # HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg
 
 > Product ID `40075` · Digistore24 productId `308411` · [HTML profile page](../../produkte/hypnose-zur-gewichtsreduzierung-katja-amberg-40075.html)

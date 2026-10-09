@@ -1,3 +1,24 @@
+---
+product_id: "40527"
+digistore24_product_id: 368373
+title: "ClickSummits - All-In-One Kongress Software"
+vendor: "clicksummits"
+product_type: "Software"
+price: 879.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 152.52
+cart_conversion_pct: 37
+cancel_rate_pct: 3.67
+categories: ["Software"]
+listed_since: "2021-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://clicksummits.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://clicksummits.com/"
+language: "de"
+---
 # ClickSummits - All-In-One Kongress Software
 
 > Product ID `40527` · Digistore24 productId `368373` · [HTML profile page](../../produkte/clicksummits-all-in-one-kongress-software-40527.html)

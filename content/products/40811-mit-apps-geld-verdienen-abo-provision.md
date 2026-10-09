@@ -1,3 +1,24 @@
+---
+product_id: "40811"
+digistore24_product_id: 454379
+title: "Mit Apps Geld verdienen - Abo Provision!"
+vendor: "monetenwissen"
+product_type: "Downloads"
+price: 22.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.47
+cart_conversion_pct: 19
+cancel_rate_pct: 2.66
+categories: ["Education"]
+listed_since: "2022-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/"
+language: "de"
+---
 # Mit Apps Geld verdienen - Abo Provision!
 
 > Product ID `40811` · Digistore24 productId `454379` · [HTML profile page](../../produkte/mit-apps-geld-verdienen-abo-provision-40811.html)

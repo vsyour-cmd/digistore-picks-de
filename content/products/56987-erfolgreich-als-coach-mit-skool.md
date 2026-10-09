@@ -1,3 +1,24 @@
+---
+product_id: "56987"
+digistore24_product_id: 701407
+title: "Erfolgreich als Coach mit Skool"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool"
+language: "de"
+---
 # Erfolgreich als Coach mit Skool
 
 > Product ID `56987` · Digistore24 productId `701407` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-skool-56987.html)

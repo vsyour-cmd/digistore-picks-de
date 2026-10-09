@@ -1,3 +1,24 @@
+---
+product_id: "59598"
+digistore24_product_id: 736508
+title: "Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi"
+vendor: "MarkusGerbig"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/"
+language: "de"
+---
 # Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi
 
 > Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../produkte/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)

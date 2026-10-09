@@ -1,3 +1,24 @@
+---
+product_id: "57113"
+digistore24_product_id: 700947
+title: "Mein Wochenplaner - Gerichte planen, smarter einkaufen"
+vendor: "pakohli8ptrick"
+product_type: "Member area and video courses"
+price: 72.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wochenplaner.patrickkohli.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://wochenplaner.patrickkohli.com/"
+language: "de"
+---
 # Mein Wochenplaner - Gerichte planen, smarter einkaufen
 
 > Product ID `57113` · Digistore24 productId `700947` · [HTML profile page](../../produkte/mein-wochenplaner-gerichte-planen-smarter-einkaufen-57113.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57573"
+digistore24_product_id: 712352
+title: "74Seiten XXL Malbuch: Deutsche Nationalmannschaft"
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 11.49
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Fun & Games","Sport"]
+listed_since: "2026-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://74seitenxxlmalbuchdeutsche.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://74seitenxxlmalbuchdeutsche.netlify.app/"
+language: "de"
+---
 # 74Seiten XXL Malbuch: Deutsche Nationalmannschaft
 
 > Product ID `57573` · Digistore24 productId `712352` · [HTML profile page](../../produkte/74seiten-xxl-malbuch-deutsche-nationalmannschaft-57573.html)

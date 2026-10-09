@@ -1,3 +1,24 @@
+---
+product_id: "56965"
+digistore24_product_id: 701283
+title: "Neukundengewinnung über YouTube"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-youtube?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-youtube"
+language: "de"
+---
 # Neukundengewinnung über YouTube
 
 > Product ID `56965` · Digistore24 productId `701283` · [HTML profile page](../../produkte/neukundengewinnung-ber-youtube-56965.html)

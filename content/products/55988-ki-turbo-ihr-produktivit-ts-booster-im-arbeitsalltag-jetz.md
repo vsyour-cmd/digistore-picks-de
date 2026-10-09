@@ -1,3 +1,24 @@
+---
+product_id: "55988"
+digistore24_product_id: 678181
+title: "KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz"
+vendor: "KI-Turbo"
+product_type: "E-books"
+price: 13.54
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Profession & Job","Office Organization"]
+listed_since: "2026-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/678181?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/678181"
+language: "de"
+---
 # KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz
 
 > Product ID `55988` · Digistore24 productId `678181` · [HTML profile page](../../produkte/ki-turbo-ihr-produktivit-ts-booster-im-arbeitsalltag-jetz-55988.html)

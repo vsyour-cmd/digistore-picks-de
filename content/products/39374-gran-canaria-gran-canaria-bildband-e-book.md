@@ -1,3 +1,24 @@
+---
+product_id: "39374"
+digistore24_product_id: 432682
+title: "GRAN CANARIA: Gran Canaria Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.3
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 31
+cancel_rate_pct: 0.79
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2022-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/gran-canaria-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/gran-canaria-bildband/"
+language: "de"
+---
 # GRAN CANARIA: Gran Canaria Bildband [E-Book]
 
 > Product ID `39374` · Digistore24 productId `432682` · [HTML profile page](../../produkte/gran-canaria-gran-canaria-bildband-e-book-39374.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58443"
+digistore24_product_id: 706244
+title: "Die Landingpage-Formel"
+vendor: "ManfredKloos"
+product_type: "Downloads"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 21.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing","Marketing Services"]
+listed_since: "2026-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://copykraft.de/landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://copykraft.de/landingpage/"
+language: "de"
+---
 # Die Landingpage-Formel
 
 > Product ID `58443` · Digistore24 productId `706244` · [HTML profile page](../../produkte/die-landingpage-formel-58443.html)

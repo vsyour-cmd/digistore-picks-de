@@ -1,3 +1,24 @@
+---
+product_id: "57740"
+digistore24_product_id: 709841
+title: "BeatNews.de Pro-Abo – 40 % Provision dauerhaft"
+vendor: "beatnews"
+product_type: "Member area and video courses"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://beatnews.de/pro?aff=adminstore#aff=adminstore"
+sales_page: "https://beatnews.de/pro"
+language: "de"
+---
 # BeatNews.de Pro-Abo – 40 % Provision dauerhaft
 
 > Product ID `57740` · Digistore24 productId `709841` · [HTML profile page](../../produkte/beatnews-de-pro-abo-40-provision-dauerhaft-57740.html)

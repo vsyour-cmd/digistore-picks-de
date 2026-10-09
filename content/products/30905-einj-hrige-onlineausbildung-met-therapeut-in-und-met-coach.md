@@ -1,3 +1,24 @@
+---
+product_id: "30905"
+digistore24_product_id: 289048
+title: "Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach"
+vendor: "franke2met"
+product_type: "Online coaching"
+price: 2420.72
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 8.53
+cart_conversion_pct: 6
+cancel_rate_pct: 2.71
+categories: ["Education"]
+listed_since: "2019-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://franke-akademie.de/ausbildung-zum-met-therapeutin/?aff=adminstore#aff=adminstore"
+sales_page: "https://franke-akademie.de/ausbildung-zum-met-therapeutin/"
+language: "de"
+---
 # Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach
 
 > Product ID `30905` · Digistore24 productId `289048` · [HTML profile page](../../produkte/einj-hrige-onlineausbildung-met-therapeut-in-und-met-coach-30905.html)

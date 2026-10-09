@@ -1,3 +1,24 @@
+---
+product_id: "60060"
+digistore24_product_id: 735356
+title: "Cyberrisiken für Geschäftsleitungen – Awareness-Mission"
+vendor: "paragamix"
+product_type: "Software"
+price: 2.23
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 0.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Leadership & Management"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.paragamix.com/nis2-management-schulung.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.paragamix.com/nis2-management-schulung.html"
+language: "de"
+---
 # Cyberrisiken für Geschäftsleitungen – Awareness-Mission
 
 > Product ID `60060` · Digistore24 productId `735356` · [HTML profile page](../../produkte/cyberrisiken-f-r-gesch-ftsleitungen-awareness-mission-60060.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46314"
+digistore24_product_id: 360334
+title: "Hörgeschichte für Kinder: Die Zauberwelle"
+vendor: "kindimglueck"
+product_type: "Audio book (download)"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2020-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zauberohr.de/geschichte/zauberwelle-kinder-hoergeschichte/?aff=adminstore#aff=adminstore"
+sales_page: "https://zauberohr.de/geschichte/zauberwelle-kinder-hoergeschichte/"
+language: "de"
+---
 # Hörgeschichte für Kinder: Die Zauberwelle
 
 > Product ID `46314` · Digistore24 productId `360334` · [HTML profile page](../../produkte/h-rgeschichte-f-r-kinder-die-zauberwelle-46314.html)

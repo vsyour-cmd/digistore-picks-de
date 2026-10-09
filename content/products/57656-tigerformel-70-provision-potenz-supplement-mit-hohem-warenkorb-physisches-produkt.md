@@ -1,3 +1,24 @@
+---
+product_id: "57656"
+digistore24_product_id: 225242
+title: "TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)"
+vendor: "profitbiz"
+product_type: "Supplements - for slimming"
+price: 187.13
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 130.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://nie-wieder-impotenz.com/video/?aff=adminstore#aff=adminstore"
+sales_page: "https://nie-wieder-impotenz.com/video/"
+language: "de"
+---
 # TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)
 
 > Product ID `57656` · Digistore24 productId `225242` · [HTML profile page](../../produkte/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html)

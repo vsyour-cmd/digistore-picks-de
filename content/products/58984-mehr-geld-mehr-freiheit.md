@@ -1,3 +1,24 @@
+---
+product_id: "58984"
+digistore24_product_id: 730690
+title: "Mehr Geld mehr Freiheit"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 49.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 24.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730690?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730690"
+language: "de"
+---
 # Mehr Geld mehr Freiheit
 
 > Product ID `58984` · Digistore24 productId `730690` · [HTML profile page](../../produkte/mehr-geld-mehr-freiheit-58984.html)

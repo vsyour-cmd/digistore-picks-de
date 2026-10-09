@@ -1,3 +1,24 @@
+---
+product_id: "51934"
+digistore24_product_id: 598311
+title: "Selbstgeführte Stadtrallye Mailand | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2025-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-mailand/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-mailand/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Mailand | Hint-Caching
 
 > Product ID `51934` · Digistore24 productId `598311` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-mailand-hint-caching-51934.html)

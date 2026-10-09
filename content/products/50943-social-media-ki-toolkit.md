@@ -1,3 +1,24 @@
+---
+product_id: "50943"
+digistore24_product_id: 590279
+title: "Social-Media KI Toolkit"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Social-Media-KI-Toolkit?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Social-Media-KI-Toolkit"
+language: "de"
+---
 # Social-Media KI Toolkit
 
 > Product ID `50943` · Digistore24 productId `590279` · [HTML profile page](../../produkte/social-media-ki-toolkit-50943.html)

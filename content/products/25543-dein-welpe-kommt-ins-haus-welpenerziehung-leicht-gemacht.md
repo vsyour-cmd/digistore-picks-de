@@ -1,3 +1,24 @@
+---
+product_id: "25543"
+digistore24_product_id: 231757
+title: "Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2018-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/"
+language: "de"
+---
 # Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht
 
 > Product ID `25543` · Digistore24 productId `231757` · [HTML profile page](../../produkte/dein-welpe-kommt-ins-haus-welpenerziehung-leicht-gemacht-25543.html)

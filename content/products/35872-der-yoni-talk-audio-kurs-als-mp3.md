@@ -1,3 +1,24 @@
+---
+product_id: "35872"
+digistore24_product_id: 339401
+title: "Der Yoni-Talk (Audio-Kurs als mp3)"
+vendor: "Nhanga"
+product_type: "Downloads"
+price: 23.5
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2020-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nhanga.de/audio-kurse/yoni-talk/?aff=adminstore#aff=adminstore"
+sales_page: "https://nhanga.de/audio-kurse/yoni-talk/"
+language: "de"
+---
 # Der Yoni-Talk (Audio-Kurs als mp3)
 
 > Product ID `35872` · Digistore24 productId `339401` · [HTML profile page](../../produkte/der-yoni-talk-audio-kurs-als-mp3-35872.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40154"
+digistore24_product_id: 435409
+title: "Cashflow Wheel"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 0.94
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2022-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.cashflowwheel.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashflowwheel.de/"
+language: "de"
+---
 # Cashflow Wheel
 
 > Product ID `40154` · Digistore24 productId `435409` · [HTML profile page](../../produkte/cashflow-wheel-40154.html)

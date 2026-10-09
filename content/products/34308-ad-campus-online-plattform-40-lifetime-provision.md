@@ -1,3 +1,24 @@
+---
+product_id: "34308"
+digistore24_product_id: 295505
+title: "Ad Campus Online Plattform - 40% Lifetime Provision"
+vendor: "ChrisdaS"
+product_type: "Member area and video courses"
+price: 84.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 33.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2019-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ad-campus.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ad-campus.de"
+language: "de"
+---
 # Ad Campus Online Plattform - 40% Lifetime Provision
 
 > Product ID `34308` · Digistore24 productId `295505` · [HTML profile page](../../produkte/ad-campus-online-plattform-40-lifetime-provision-34308.html)

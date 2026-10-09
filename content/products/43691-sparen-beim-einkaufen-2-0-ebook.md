@@ -1,3 +1,24 @@
+---
+product_id: "43691"
+digistore24_product_id: 495400
+title: "Sparen beim Einkaufen 2.0 (EBook)"
+vendor: "RSMedicalWorldwide"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2023-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/495400?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/495400"
+language: "de"
+---
 # Sparen beim Einkaufen 2.0 (EBook)
 
 > Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../produkte/sparen-beim-einkaufen-2-0-ebook-43691.html)

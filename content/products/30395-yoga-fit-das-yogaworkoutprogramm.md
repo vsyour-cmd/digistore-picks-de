@@ -1,3 +1,24 @@
+---
+product_id: "30395"
+digistore24_product_id: 274760
+title: "Yoga Fit - Das Yogaworkoutprogramm"
+vendor: "andrea-szodruch"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://simsix.lpages.co/yoga-fit/?aff=adminstore#aff=adminstore"
+sales_page: "https://simsix.lpages.co/yoga-fit/"
+language: "de"
+---
 # Yoga Fit - Das Yogaworkoutprogramm
 
 > Product ID `30395` · Digistore24 productId `274760` · [HTML profile page](../../produkte/yoga-fit-das-yogaworkoutprogramm-30395.html)

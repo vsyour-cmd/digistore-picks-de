@@ -1,3 +1,24 @@
+---
+product_id: "56115"
+digistore24_product_id: 680855
+title: "Premiumangebot Entspannung beginnt im Kopf"
+vendor: "HeidiPro"
+product_type: "Telephone coaching"
+price: 417.36
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 125.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Marketing Services"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://hpheidi-hoeck.systeme.io/a9b7945e?aff=adminstore#aff=adminstore"
+sales_page: "https://hpheidi-hoeck.systeme.io/a9b7945e"
+language: "de"
+---
 # Premiumangebot Entspannung beginnt im Kopf
 
 > Product ID `56115` · Digistore24 productId `680855` · [HTML profile page](../../produkte/premiumangebot-entspannung-beginnt-im-kopf-56115.html)

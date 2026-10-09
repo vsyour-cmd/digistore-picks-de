@@ -1,3 +1,24 @@
+---
+product_id: "57676"
+digistore24_product_id: 712540
+title: "Reklamationsmanagement - Workbook"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Services"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/712540?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/712540"
+language: "de"
+---
 # Reklamationsmanagement - Workbook
 
 > Product ID `57676` · Digistore24 productId `712540` · [HTML profile page](../../produkte/reklamationsmanagement-workbook-57676.html)

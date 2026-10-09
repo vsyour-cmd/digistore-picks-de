@@ -1,3 +1,24 @@
+---
+product_id: "57337"
+digistore24_product_id: 536952
+title: "BricsCAD Blechkonstruktion Video-Kurs"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 423.95
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 84.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://cad-video.de/bricscad-blechkonstruktion-channel?aff=adminstore#aff=adminstore"
+sales_page: "https://cad-video.de/bricscad-blechkonstruktion-channel"
+language: "de"
+---
 # BricsCAD Blechkonstruktion Video-Kurs
 
 > Product ID `57337` · Digistore24 productId `536952` · [HTML profile page](../../produkte/bricscad-blechkonstruktion-video-kurs-57337.html)

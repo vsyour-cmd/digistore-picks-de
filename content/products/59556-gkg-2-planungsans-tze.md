@@ -1,3 +1,24 @@
+---
+product_id: "59556"
+digistore24_product_id: 732155
+title: "GKG-2 Planungsansätze"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 56.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732155?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732155"
+language: "de"
+---
 # GKG-2 Planungsansätze
 
 > Product ID `59556` · Digistore24 productId `732155` · [HTML profile page](../../produkte/gkg-2-planungsans-tze-59556.html)

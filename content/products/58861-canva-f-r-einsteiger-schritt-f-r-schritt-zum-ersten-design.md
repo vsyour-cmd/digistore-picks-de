@@ -1,3 +1,24 @@
+---
+product_id: "58861"
+digistore24_product_id: 727952
+title: "Canva für Einsteiger - Schritt für Schritt zum ersten Design"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media","Online Marketing"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design"
+language: "de"
+---
 # Canva für Einsteiger - Schritt für Schritt zum ersten Design
 
 > Product ID `58861` · Digistore24 productId `727952` · [HTML profile page](../../produkte/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-design-58861.html)

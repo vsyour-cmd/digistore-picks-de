@@ -1,3 +1,24 @@
+---
+product_id: "56010"
+digistore24_product_id: 468413
+title: "Selbstführung – die wichtigste Kompetenz der Zukunft!"
+vendor: "LifeSkripting_"
+product_type: "Book (printed)"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/468413?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/468413"
+language: "de"
+---
 # Selbstführung – die wichtigste Kompetenz der Zukunft!
 
 > Product ID `56010` · Digistore24 productId `468413` · [HTML profile page](../../produkte/selbstf-hrung-die-wichtigste-kompetenz-der-zukunft-56010.html)

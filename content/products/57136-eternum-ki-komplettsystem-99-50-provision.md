@@ -1,3 +1,24 @@
+---
+product_id: "57136"
+digistore24_product_id: 705615
+title: "ETERNUM KI-Komplettsystem – 99 € | 50 % Provision"
+vendor: "megareichtum"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 55.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eternumtech.eu/ki-komplettsystem?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/ki-komplettsystem"
+language: "de"
+---
 # ETERNUM KI-Komplettsystem – 99 € | 50 % Provision
 
 > Product ID `57136` · Digistore24 productId `705615` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-99-50-provision-57136.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56773"
+digistore24_product_id: 692449
+title: "SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob"
+vendor: "Immoclear"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Real Estate"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob"
+language: "de"
+---
 # SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob
 
 > Product ID `56773` · Digistore24 productId `692449` · [HTML profile page](../../produkte/sic-syst-ursachenanalyse-von-verkaufsstagnation-bei-immob-56773.html)

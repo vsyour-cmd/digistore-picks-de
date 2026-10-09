@@ -1,3 +1,24 @@
+---
+product_id: "47021"
+digistore24_product_id: 21971
+title: "Neurostreams™ DELTA Frischzellenkur"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://neurostreams.de/produkte/klassiker/delta-wellen?aff=adminstore#aff=adminstore"
+sales_page: "http://neurostreams.de/produkte/klassiker/delta-wellen"
+language: "de"
+---
 # Neurostreams™ DELTA Frischzellenkur
 
 > Product ID `47021` · Digistore24 productId `21971` · [HTML profile page](../../produkte/neurostreams-delta-frischzellenkur-47021.html)

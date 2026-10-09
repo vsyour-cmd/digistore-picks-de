@@ -1,3 +1,24 @@
+---
+product_id: "50232"
+digistore24_product_id: 563094
+title: "Cash Maximus VSL"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 314.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 157.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashmaximus.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashmaximus.de/"
+language: "de"
+---
 # Cash Maximus VSL
 
 > Product ID `50232` · Digistore24 productId `563094` · [HTML profile page](../../produkte/cash-maximus-vsl-50232.html)

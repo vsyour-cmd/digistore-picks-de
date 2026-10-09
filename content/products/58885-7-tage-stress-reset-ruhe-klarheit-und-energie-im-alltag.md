@@ -1,3 +1,24 @@
+---
+product_id: "58885"
+digistore24_product_id: 645388
+title: "7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag"
+vendor: "callidus"
+product_type: "Member area and video courses"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.callidus-am.de/stress-reset-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.callidus-am.de/stress-reset-kurs/"
+language: "de"
+---
 # 7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag
 
 > Product ID `58885` · Digistore24 productId `645388` · [HTML profile page](../../produkte/7-tage-stress-reset-ruhe-klarheit-und-energie-im-alltag-58885.html)

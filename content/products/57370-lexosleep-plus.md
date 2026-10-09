@@ -1,3 +1,24 @@
+---
+product_id: "57370"
+digistore24_product_id: 643769
+title: "Lexosleep plus"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 755.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 75.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-plus-2?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/lexosleep-plus-2"
+language: "de"
+---
 # Lexosleep plus
 
 > Product ID `57370` · Digistore24 productId `643769` · [HTML profile page](../../produkte/lexosleep-plus-57370.html)

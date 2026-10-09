@@ -1,3 +1,24 @@
+---
+product_id: "33528"
+digistore24_product_id: 244166
+title: "megamemory Gedächtnistraining Videokurs von Gregor Staub"
+vendor: "megamemory"
+product_type: "Downloads"
+price: 239.7
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 47.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2018-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/244166?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/244166"
+language: "de"
+---
 # megamemory Gedächtnistraining Videokurs von Gregor Staub
 
 > Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../produkte/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)

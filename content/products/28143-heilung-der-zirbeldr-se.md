@@ -1,3 +1,24 @@
+---
+product_id: "28143"
+digistore24_product_id: 260302
+title: "Heilung der Zirbeldrüse"
+vendor: "Musik-Apotheke"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.compose-media.de/heilung-der-zirbeldruese/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.compose-media.de/heilung-der-zirbeldruese/"
+language: "de"
+---
 # Heilung der Zirbeldrüse
 
 > Product ID `28143` · Digistore24 productId `260302` · [HTML profile page](../../produkte/heilung-der-zirbeldr-se-28143.html)

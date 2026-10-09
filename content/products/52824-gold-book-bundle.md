@@ -1,3 +1,24 @@
+---
+product_id: "52824"
+digistore24_product_id: 616962
+title: "Gold Book Bundle"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/gold-book-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/gold-book-bundle"
+language: "de"
+---
 # Gold Book Bundle
 
 > Product ID `52824` · Digistore24 productId `616962` · [HTML profile page](../../produkte/gold-book-bundle-52824.html)

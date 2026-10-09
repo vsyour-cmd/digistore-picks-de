@@ -1,3 +1,24 @@
+---
+product_id: "47323"
+digistore24_product_id: 537341
+title: "Erlebt Event Premium Membership"
+vendor: "ErlebtEvent"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 22.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erlebt-event.de/membership/?aff=adminstore#aff=adminstore"
+sales_page: "https://erlebt-event.de/membership/"
+language: "de"
+---
 # Erlebt Event Premium Membership
 
 > Product ID `47323` · Digistore24 productId `537341` · [HTML profile page](../../produkte/erlebt-event-premium-membership-47323.html)

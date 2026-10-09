@@ -1,3 +1,24 @@
+---
+product_id: "32893"
+digistore24_product_id: 98523
+title: "99 Lanzarote Highlights [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 17.33
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.89
+cart_conversion_pct: 21
+cancel_rate_pct: 1.58
+categories: ["Languages","Social Media","Travel & Culture"]
+listed_since: "2016-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/99-lanzarote-highlights/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/99-lanzarote-highlights/"
+language: "de"
+---
 # 99 Lanzarote Highlights [E-Book]
 
 > Product ID `32893` · Digistore24 productId `98523` · [HTML profile page](../../produkte/99-lanzarote-highlights-e-book-32893.html)

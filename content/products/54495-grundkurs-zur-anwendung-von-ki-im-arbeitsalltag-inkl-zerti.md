@@ -1,3 +1,24 @@
+---
+product_id: "54495"
+digistore24_product_id: 643686
+title: "Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti"
+vendor: "NEXperts"
+product_type: "Member area and video courses"
+price: 186.12
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 55.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Personal Development"]
+listed_since: "2025-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112&aff=adminstore#aff=adminstore"
+sales_page: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112"
+language: "de"
+---
 # Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti
 
 > Product ID `54495` · Digistore24 productId `643686` · [HTML profile page](../../produkte/grundkurs-zur-anwendung-von-ki-im-arbeitsalltag-inkl-zerti-54495.html)

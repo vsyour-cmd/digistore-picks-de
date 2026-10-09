@@ -1,3 +1,24 @@
+---
+product_id: "60239"
+digistore24_product_id: 737329
+title: "Fit unterwegs – 4-Wochen-Workoutplan für Reisende"
+vendor: "blitzferien"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Travel & Culture"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://blitzferien.de/fit-unterwegs/?aff=adminstore#aff=adminstore"
+sales_page: "https://blitzferien.de/fit-unterwegs/"
+language: "de"
+---
 # Fit unterwegs – 4-Wochen-Workoutplan für Reisende
 
 > Product ID `60239` · Digistore24 productId `737329` · [HTML profile page](../../produkte/fit-unterwegs-4-wochen-workoutplan-f-r-reisende-60239.html)

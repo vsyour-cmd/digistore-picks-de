@@ -1,3 +1,24 @@
+---
+product_id: "55996"
+digistore24_product_id: 674138
+title: "Magnetic Manifestation Club (MMC)"
+vendor: "adminf873"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.einfachmanifestieren.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.einfachmanifestieren.de/"
+language: "de"
+---
 # Magnetic Manifestation Club (MMC)
 
 > Product ID `55996` · Digistore24 productId `674138` · [HTML profile page](../../produkte/magnetic-manifestation-club-mmc-55996.html)

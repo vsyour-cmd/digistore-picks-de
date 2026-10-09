@@ -1,3 +1,24 @@
+---
+product_id: "57254"
+digistore24_product_id: 704232
+title: "Dividenden-Strategie"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dividenden-strategie?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dividenden-strategie"
+language: "de"
+---
 # Dividenden-Strategie
 
 > Product ID `57254` · Digistore24 productId `704232` · [HTML profile page](../../produkte/dividenden-strategie-57254.html)

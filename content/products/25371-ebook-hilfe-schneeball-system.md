@@ -1,3 +1,24 @@
+---
+product_id: "25371"
+digistore24_product_id: 215533
+title: "Ebook „HILFE!! SCHNEEBALL SYSTEM!“"
+vendor: "Image2success"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.image2success.biz/ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.image2success.biz/ebook"
+language: "de"
+---
 # Ebook „HILFE!! SCHNEEBALL SYSTEM!“
 
 > Product ID `25371` · Digistore24 productId `215533` · [HTML profile page](../../produkte/ebook-hilfe-schneeball-system-25371.html)

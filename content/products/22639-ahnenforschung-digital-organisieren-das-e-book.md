@@ -1,3 +1,24 @@
+---
+product_id: "22639"
+digistore24_product_id: 198697
+title: "Ahnenforschung digital organisieren - das e-Book"
+vendor: "tiamana"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.32
+cart_conversion_pct: 10
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2018-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://welt-der-vorfahren.de/ahnenforschung-digital-organisieren-e-book/?cam=ds24-marktplatz&aff=adminstore#aff=adminstore"
+sales_page: "http://welt-der-vorfahren.de/ahnenforschung-digital-organisieren-e-book/?cam=ds24-marktplatz"
+language: "de"
+---
 # Ahnenforschung digital organisieren - das e-Book
 
 > Product ID `22639` · Digistore24 productId `198697` · [HTML profile page](../../produkte/ahnenforschung-digital-organisieren-das-e-book-22639.html)

@@ -1,3 +1,24 @@
+---
+product_id: "18357"
+digistore24_product_id: 59099
+title: "Info-Mitgliedschaft"
+vendor: "Biogasmotoren"
+product_type: "Member area and video courses"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2015-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ig-biogasmotoren.de/mitgliederbereich-dgm/verkaufsseite?aff=adminstore#aff=adminstore"
+sales_page: "https://ig-biogasmotoren.de/mitgliederbereich-dgm/verkaufsseite"
+language: "de"
+---
 # Info-Mitgliedschaft
 
 > Product ID `18357` · Digistore24 productId `59099` · [HTML profile page](../../produkte/info-mitgliedschaft-18357.html)

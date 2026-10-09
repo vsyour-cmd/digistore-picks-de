@@ -1,3 +1,24 @@
+---
+product_id: "39697"
+digistore24_product_id: 437776
+title: "Heilige Geometrie - Zeichen- und Bastelkurs Torus"
+vendor: "AndreasBeutel"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2022-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-beutel.tv/wir-malen-einen-torus/?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-beutel.tv/wir-malen-einen-torus/"
+language: "de"
+---
 # Heilige Geometrie - Zeichen- und Bastelkurs Torus
 
 > Product ID `39697` · Digistore24 productId `437776` · [HTML profile page](../../produkte/heilige-geometrie-zeichen-und-bastelkurs-torus-39697.html)

@@ -1,3 +1,24 @@
+---
+product_id: "29273"
+digistore24_product_id: 265593
+title: "Online Kurs: Home Staging Starter - Heike Uhlemann"
+vendor: "HomeStagingDE"
+product_type: "Member area and video courses"
+price: 1788.64
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 357.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2019-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.staging-akademie.de/homestaging-experte/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.staging-akademie.de/homestaging-experte/"
+language: "de"
+---
 # Online Kurs: Home Staging Starter - Heike Uhlemann
 
 > Product ID `29273` · Digistore24 productId `265593` · [HTML profile page](../../produkte/online-kurs-home-staging-starter-heike-uhlemann-29273.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58408"
+digistore24_product_id: 722910
+title: "AnkerMomente – Coaching für erwerbstätige Mütter"
+vendor: "contact9d29"
+product_type: "Online coaching"
+price: 282.42
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 28.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2026-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/722910?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722910"
+language: "de"
+---
 # AnkerMomente – Coaching für erwerbstätige Mütter
 
 > Product ID `58408` · Digistore24 productId `722910` · [HTML profile page](../../produkte/ankermomente-coaching-f-r-erwerbst-tige-m-tter-58408.html)

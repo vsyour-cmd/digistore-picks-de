@@ -1,3 +1,24 @@
+---
+product_id: "55341"
+digistore24_product_id: 663853
+title: "Affiliate Marketing Hörbuch – Dein 30-Tage-Start"
+vendor: "werni1"
+product_type: "Audio book (download)"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/YyP5EsCJSXJbycWSP?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/YyP5EsCJSXJbycWSP"
+language: "de"
+---
 # Affiliate Marketing Hörbuch – Dein 30-Tage-Start
 
 > Product ID `55341` · Digistore24 productId `663853` · [HTML profile page](../../produkte/affiliate-marketing-h-rbuch-dein-30-tage-start-55341.html)

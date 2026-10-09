@@ -1,3 +1,24 @@
+---
+product_id: "3983"
+digistore24_product_id: 25521
+title: "EasyActivePlus-Kurs"
+vendor: "crack1967"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2014-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://easyactiveplus.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://easyactiveplus.de/"
+language: "de"
+---
 # EasyActivePlus-Kurs
 
 > Product ID `3983` · Digistore24 productId `25521` · [HTML profile page](../../produkte/easyactiveplus-kurs-3983.html)

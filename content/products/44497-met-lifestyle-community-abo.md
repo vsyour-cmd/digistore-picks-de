@@ -1,3 +1,24 @@
+---
+product_id: "44497"
+digistore24_product_id: 276341
+title: "MET lifestyle-Community Abo"
+vendor: "franke2met"
+product_type: "Member area and video courses"
+price: 230.43
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.54
+cart_conversion_pct: 43
+cancel_rate_pct: 0.47
+categories: ["Education"]
+listed_since: "2019-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://franke-akademie.de/metlifestyle-community-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://franke-akademie.de/metlifestyle-community-2/"
+language: "de"
+---
 # MET lifestyle-Community Abo
 
 > Product ID `44497` · Digistore24 productId `276341` · [HTML profile page](../../produkte/met-lifestyle-community-abo-44497.html)

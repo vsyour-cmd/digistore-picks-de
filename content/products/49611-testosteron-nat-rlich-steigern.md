@@ -1,3 +1,24 @@
+---
+product_id: "49611"
+digistore24_product_id: 554727
+title: "Testosteron natürlich steigern"
+vendor: "optima_gesundheitsberatung"
+product_type: "E-books"
+price: 3.96
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-05-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://optima-gesundheitsberatung.de/shop/?aff=adminstore#aff=adminstore"
+sales_page: "https://optima-gesundheitsberatung.de/shop/"
+language: "de"
+---
 # Testosteron natürlich steigern
 
 > Product ID `49611` · Digistore24 productId `554727` · [HTML profile page](../../produkte/testosteron-nat-rlich-steigern-49611.html)

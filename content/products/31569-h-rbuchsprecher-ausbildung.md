@@ -1,3 +1,24 @@
+---
+product_id: "31569"
+digistore24_product_id: 500683
+title: "Hörbuchsprecher Ausbildung"
+vendor: "Bloggerherz"
+product_type: "Member area and video courses"
+price: 437.93
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 607.69
+cart_conversion_pct: 3
+cancel_rate_pct: 2.65
+categories: ["Services"]
+listed_since: "2023-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://hoerbuchsprecher-werden.onepage.me/?aff=adminstore#aff=adminstore"
+sales_page: "https://hoerbuchsprecher-werden.onepage.me/"
+language: "de"
+---
 # Hörbuchsprecher Ausbildung
 
 > Product ID `31569` · Digistore24 productId `500683` · [HTML profile page](../../produkte/h-rbuchsprecher-ausbildung-31569.html)

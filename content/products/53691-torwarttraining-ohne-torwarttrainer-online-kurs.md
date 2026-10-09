@@ -1,3 +1,24 @@
+---
+product_id: "53691"
+digistore24_product_id: 611167
+title: "Torwarttraining ohne Torwarttrainer - Online-Kurs"
+vendor: "kowerk"
+product_type: "Member area and video courses"
+price: 49.98
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.57
+cart_conversion_pct: 4
+cancel_rate_pct: 0
+categories: ["Sport","Food Supplements"]
+listed_since: "2025-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/611167/?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/611167/"
+language: "de"
+---
 # Torwarttraining ohne Torwarttrainer - Online-Kurs
 
 > Product ID `53691` · Digistore24 productId `611167` · [HTML profile page](../../produkte/torwarttraining-ohne-torwarttrainer-online-kurs-53691.html)

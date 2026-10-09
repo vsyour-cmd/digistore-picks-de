@@ -1,3 +1,24 @@
+---
+product_id: "55320"
+digistore24_product_id: 571318
+title: "Ki Affiliate Guide (Freebie)"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 0.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.07
+cart_conversion_pct: 45
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2024-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/ki-affiliate-guide?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/ki-affiliate-guide"
+language: "de"
+---
 # Ki Affiliate Guide (Freebie)
 
 > Product ID `55320` · Digistore24 productId `571318` · [HTML profile page](../../produkte/ki-affiliate-guide-freebie-55320.html)

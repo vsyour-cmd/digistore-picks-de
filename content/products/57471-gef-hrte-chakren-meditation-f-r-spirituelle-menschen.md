@@ -1,3 +1,24 @@
+---
+product_id: "57471"
+digistore24_product_id: 527524
+title: "Geführte Chakren Meditation für spirituelle Menschen"
+vendor: "gesundergeist"
+product_type: "Downloads"
+price: 11.28
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michaelrepkowsky.grweb.site/chakren-meditation?aff=adminstore#aff=adminstore"
+sales_page: "https://michaelrepkowsky.grweb.site/chakren-meditation"
+language: "de"
+---
 # Geführte Chakren Meditation für spirituelle Menschen
 
 > Product ID `57471` · Digistore24 productId `527524` · [HTML profile page](../../produkte/gef-hrte-chakren-meditation-f-r-spirituelle-menschen-57471.html)

@@ -1,3 +1,24 @@
+---
+product_id: "22211"
+digistore24_product_id: 195957
+title: "Hörbuch \"Erfolgsgeheimnissen auf der Spur\""
+vendor: "Wirtschaftverstehen"
+product_type: "Downloads"
+price: 9.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2018-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg"
+language: "de"
+---
 # Hörbuch "Erfolgsgeheimnissen auf der Spur"
 
 > Product ID `22211` · Digistore24 productId `195957` · [HTML profile page](../../produkte/h-rbuch-erfolgsgeheimnissen-auf-der-spur-22211.html)

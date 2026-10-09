@@ -1,3 +1,24 @@
+---
+product_id: "46236"
+digistore24_product_id: 532685
+title: "KI Kurzvideo erstellen. Für YouTube, TikTok und Instagram"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/kis-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/kis-frontend/"
+language: "de"
+---
 # KI Kurzvideo erstellen. Für YouTube, TikTok und Instagram
 
 > Product ID `46236` · Digistore24 productId `532685` · [HTML profile page](../../produkte/ki-kurzvideo-erstellen-f-r-youtube-tiktok-und-instagram-46236.html)

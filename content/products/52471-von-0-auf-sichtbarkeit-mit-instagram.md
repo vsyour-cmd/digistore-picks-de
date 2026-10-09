@@ -1,3 +1,24 @@
+---
+product_id: "52471"
+digistore24_product_id: 608751
+title: "von 0 auf Sichtbarkeit - mit Instagram"
+vendor: "AnneWuensche"
+product_type: "Member area and video courses"
+price: 45.88
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.73
+cart_conversion_pct: 2
+cancel_rate_pct: 3.64
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/608751?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/608751"
+language: "de"
+---
 # von 0 auf Sichtbarkeit - mit Instagram
 
 > Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../produkte/von-0-auf-sichtbarkeit-mit-instagram-52471.html)

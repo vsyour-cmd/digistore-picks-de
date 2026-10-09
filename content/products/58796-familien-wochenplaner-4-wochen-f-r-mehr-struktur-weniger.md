@@ -1,3 +1,24 @@
+---
+product_id: "58796"
+digistore24_product_id: 726990
+title: "Familien-Wochenplaner – 4 Wochen für mehr Struktur, weniger"
+vendor: "mamaplaneinfach"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Marketing Services"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/726990?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726990"
+language: "de"
+---
 # Familien-Wochenplaner – 4 Wochen für mehr Struktur, weniger
 
 > Product ID `58796` · Digistore24 productId `726990` · [HTML profile page](../../produkte/familien-wochenplaner-4-wochen-f-r-mehr-struktur-weniger-58796.html)

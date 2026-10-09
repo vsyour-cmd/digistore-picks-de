@@ -1,3 +1,24 @@
+---
+product_id: "49982"
+digistore24_product_id: 574531
+title: "Minikurse: Tiefer | Lauter sprechen | Langsam sprechen"
+vendor: "Stimmfluencer"
+product_type: "Downloads"
+price: 20.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2024-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.stimmfluencer.de/minikurse?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimmfluencer.de/minikurse"
+language: "de"
+---
 # Minikurse: Tiefer | Lauter sprechen | Langsam sprechen
 
 > Product ID `49982` · Digistore24 productId `574531` · [HTML profile page](../../produkte/minikurse-tiefer-lauter-sprechen-langsam-sprechen-49982.html)

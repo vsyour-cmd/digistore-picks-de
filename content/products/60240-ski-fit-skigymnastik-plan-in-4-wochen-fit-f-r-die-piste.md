@@ -1,3 +1,24 @@
+---
+product_id: "60240"
+digistore24_product_id: 737391
+title: "Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste"
+vendor: "blitzferien"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://blitzferien.de/ski-fit/?aff=adminstore#aff=adminstore"
+sales_page: "https://blitzferien.de/ski-fit/"
+language: "de"
+---
 # Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
 
 > Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../produkte/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)

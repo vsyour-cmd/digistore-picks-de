@@ -1,3 +1,24 @@
+---
+product_id: "59998"
+digistore24_product_id: 729177
+title: "Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e"
+vendor: "carstenfeuerbach"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kampagne24.com/sales-spielbericht?aff=adminstore#aff=adminstore"
+sales_page: "https://kampagne24.com/sales-spielbericht"
+language: "de"
+---
 # Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e
 
 > Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../produkte/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)

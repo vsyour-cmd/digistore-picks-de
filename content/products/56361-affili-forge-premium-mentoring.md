@@ -1,3 +1,24 @@
+---
+product_id: "56361"
+digistore24_product_id: 679185
+title: "Affili Forge Premium Mentoring"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 1107.41
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 332.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/masterclass-anmeldung?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/masterclass-anmeldung"
+language: "de"
+---
 # Affili Forge Premium Mentoring
 
 > Product ID `56361` · Digistore24 productId `679185` · [HTML profile page](../../produkte/affili-forge-premium-mentoring-56361.html)

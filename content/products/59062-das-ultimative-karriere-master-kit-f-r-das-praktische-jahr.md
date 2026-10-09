@@ -1,3 +1,24 @@
+---
+product_id: "59062"
+digistore24_product_id: 727269
+title: "Das ultimative Karriere Master-Kit für das praktische Jahr"
+vendor: "VeloxForge"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/praktisches-jahr/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/praktisches-jahr/"
+language: "de"
+---
 # Das ultimative Karriere Master-Kit für das praktische Jahr
 
 > Product ID `59062` · Digistore24 productId `727269` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-das-praktische-jahr-59062.html)

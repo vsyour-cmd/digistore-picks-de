@@ -1,3 +1,24 @@
+---
+product_id: "60404"
+digistore24_product_id: 708614
+title: "10 Motive in 3 Schritten zeichnen"
+vendor: "SchmidtsZeichenwelt"
+product_type: "Downloads"
+price: 4.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schmidtszeichenwelt.de/zeichnen-lernen-10-motive/?aff=adminstore#aff=adminstore"
+sales_page: "https://schmidtszeichenwelt.de/zeichnen-lernen-10-motive/"
+language: "de"
+---
 # 10 Motive in 3 Schritten zeichnen
 
 > Product ID `60404` · Digistore24 productId `708614` · [HTML profile page](../../produkte/10-motive-in-3-schritten-zeichnen-60404.html)

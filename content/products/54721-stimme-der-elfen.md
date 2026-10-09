@@ -1,3 +1,24 @@
+---
+product_id: "54721"
+digistore24_product_id: 615057
+title: "Stimme der Elfen"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/stimme-der-elfe-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/stimme-der-elfe-ds"
+language: "de"
+---
 # Stimme der Elfen
 
 > Product ID `54721` · Digistore24 productId `615057` · [HTML profile page](../../produkte/stimme-der-elfen-54721.html)

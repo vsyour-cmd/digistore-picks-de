@@ -1,3 +1,24 @@
+---
+product_id: "55667"
+digistore24_product_id: 670155
+title: "Elektromobilität im Alltag – 5 Jahre echte Erfahrungen"
+vendor: "wallerjung"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Social Media","Travel & Culture"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/670155?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/670155"
+language: "de"
+---
 # Elektromobilität im Alltag – 5 Jahre echte Erfahrungen
 
 > Product ID `55667` · Digistore24 productId `670155` · [HTML profile page](../../produkte/elektromobilit-t-im-alltag-5-jahre-echte-erfahrungen-55667.html)

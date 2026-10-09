@@ -1,3 +1,24 @@
+---
+product_id: "58904"
+digistore24_product_id: 366081
+title: "THE FUTURE SELF"
+vendor: "Soulset"
+product_type: "Downloads"
+price: 208.67
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 156.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/366081?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/366081"
+language: "de"
+---
 # THE FUTURE SELF
 
 > Product ID `58904` · Digistore24 productId `366081` · [HTML profile page](../../produkte/the-future-self-58904.html)

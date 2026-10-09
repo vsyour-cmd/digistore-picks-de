@@ -1,3 +1,24 @@
+---
+product_id: "39379"
+digistore24_product_id: 422668
+title: "NFT Akademie Grundkurs - From Zero To Moon"
+vendor: "NFTAkademie"
+product_type: "Member area and video courses"
+price: 561.18
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 140.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2021-12-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nft-akademie.com/nft-akademie-grundkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://nft-akademie.com/nft-akademie-grundkurs/"
+language: "de"
+---
 # NFT Akademie Grundkurs - From Zero To Moon
 
 > Product ID `39379` · Digistore24 productId `422668` · [HTML profile page](../../produkte/nft-akademie-grundkurs-from-zero-to-moon-39379.html)

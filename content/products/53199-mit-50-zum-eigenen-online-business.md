@@ -1,3 +1,24 @@
+---
+product_id: "53199"
+digistore24_product_id: 624013
+title: "Mit 50+ zum eigenen Online-Business"
+vendor: "Slickback"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://blogfy.de/page/229?aff=adminstore#aff=adminstore"
+sales_page: "https://blogfy.de/page/229"
+language: "de"
+---
 # Mit 50+ zum eigenen Online-Business
 
 > Product ID `53199` · Digistore24 productId `624013` · [HTML profile page](../../produkte/mit-50-zum-eigenen-online-business-53199.html)

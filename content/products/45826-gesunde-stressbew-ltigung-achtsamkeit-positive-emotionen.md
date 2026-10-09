@@ -1,3 +1,24 @@
+---
+product_id: "45826"
+digistore24_product_id: 474857
+title: "Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen"
+vendor: "LUMEUS"
+product_type: "Member area and video courses"
+price: 20.62
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.11
+cart_conversion_pct: 11
+cancel_rate_pct: 2.73
+categories: ["Health & Fitness"]
+listed_since: "2022-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/474857/?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/474857/"
+language: "de"
+---
 # Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen
 
 > Product ID `45826` · Digistore24 productId `474857` · [HTML profile page](../../produkte/gesunde-stressbew-ltigung-achtsamkeit-positive-emotionen-45826.html)

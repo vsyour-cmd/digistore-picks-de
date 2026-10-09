@@ -1,3 +1,24 @@
+---
+product_id: "52079"
+digistore24_product_id: 605665
+title: "Erotik als Business – Der Einsteiger-Guide"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/erotik-nische-ratgeber?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/erotik-nische-ratgeber"
+language: "de"
+---
 # Erotik als Business – Der Einsteiger-Guide
 
 > Product ID `52079` · Digistore24 productId `605665` · [HTML profile page](../../produkte/erotik-als-business-der-einsteiger-guide-52079.html)

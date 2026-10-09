@@ -1,3 +1,24 @@
+---
+product_id: "46464"
+digistore24_product_id: 528498
+title: "Biogas im Garten - Bauanleitung für Selbstversorger"
+vendor: "gehtanders"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
+listed_since: "2023-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://geheimnisfreieenergie.de/biogas-dig/?aff=adminstore#aff=adminstore"
+sales_page: "https://geheimnisfreieenergie.de/biogas-dig/"
+language: "de"
+---
 # Biogas im Garten - Bauanleitung für Selbstversorger
 
 > Product ID `46464` · Digistore24 productId `528498` · [HTML profile page](../../produkte/biogas-im-garten-bauanleitung-f-r-selbstversorger-46464.html)

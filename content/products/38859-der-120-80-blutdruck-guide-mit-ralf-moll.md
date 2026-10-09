@@ -1,3 +1,24 @@
+---
+product_id: "38859"
+digistore24_product_id: 398128
+title: "Der 120/80-Blutdruck-Guide mit Ralf Moll"
+vendor: "RalfMollFastensuppen"
+product_type: "Online coaching"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/"
+language: "de"
+---
 # Der 120/80-Blutdruck-Guide mit Ralf Moll
 
 > Product ID `38859` · Digistore24 productId `398128` · [HTML profile page](../../produkte/der-120-80-blutdruck-guide-mit-ralf-moll-38859.html)

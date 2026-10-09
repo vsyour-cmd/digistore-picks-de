@@ -1,3 +1,24 @@
+---
+product_id: "41128"
+digistore24_product_id: 459068
+title: "Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch"
+vendor: "isidde"
+product_type: "Audio book (download)"
+price: 19.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2022-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/459068?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/459068"
+language: "de"
+---
 # Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch
 
 > Product ID `41128` · Digistore24 productId `459068` · [HTML profile page](../../produkte/gesund-und-gl-cklich-lter-werden-ruediger-dahlke-h-rbuch-41128.html)

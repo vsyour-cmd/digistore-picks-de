@@ -1,3 +1,24 @@
+---
+product_id: "45514"
+digistore24_product_id: 518108
+title: "SucceX Business - Erfolg auf der Microblogging-Plattform X"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2023-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/succex-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/succex-fe/"
+language: "de"
+---
 # SucceX Business - Erfolg auf der Microblogging-Plattform X
 
 > Product ID `45514` · Digistore24 productId `518108` · [HTML profile page](../../produkte/succex-business-erfolg-auf-der-microblogging-plattform-x-45514.html)

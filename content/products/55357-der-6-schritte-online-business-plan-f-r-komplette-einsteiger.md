@@ -1,3 +1,24 @@
+---
+product_id: "55357"
+digistore24_product_id: 663356
+title: "Der 6-Schritte Online-Business-Plan für komplette Einsteiger"
+vendor: "SD-Lifestyle"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.onlinebusiness-anleitung.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinebusiness-anleitung.de/"
+language: "de"
+---
 # Der 6-Schritte Online-Business-Plan für komplette Einsteiger
 
 > Product ID `55357` · Digistore24 productId `663356` · [HTML profile page](../../produkte/der-6-schritte-online-business-plan-f-r-komplette-einsteiger-55357.html)

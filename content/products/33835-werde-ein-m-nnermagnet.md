@@ -1,3 +1,24 @@
+---
+product_id: "33835"
+digistore24_product_id: 341493
+title: "WERDE EIN MÄNNERMAGNET"
+vendor: "florianknoll"
+product_type: "E-books"
+price: 36.53
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 27.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2020-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.werde-ein-maennermagnet.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.werde-ein-maennermagnet.com"
+language: "de"
+---
 # WERDE EIN MÄNNERMAGNET
 
 > Product ID `33835` · Digistore24 productId `341493` · [HTML profile page](../../produkte/werde-ein-m-nnermagnet-33835.html)

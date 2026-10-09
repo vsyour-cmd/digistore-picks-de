@@ -1,3 +1,24 @@
+---
+product_id: "55105"
+digistore24_product_id: 653727
+title: "Digitale Bachblüten – ein weltweit neuartiges Produkt"
+vendor: "AquaLunaris"
+product_type: "Downloads"
+price: 32.85
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aqualunaris.de/digitale-bachblueten-mischung-039-notfalltropfen/?aff=adminstore#aff=adminstore"
+sales_page: "https://aqualunaris.de/digitale-bachblueten-mischung-039-notfalltropfen/"
+language: "de"
+---
 # Digitale Bachblüten – ein weltweit neuartiges Produkt
 
 > Product ID `55105` · Digistore24 productId `653727` · [HTML profile page](../../produkte/digitale-bachbl-ten-ein-weltweit-neuartiges-produkt-55105.html)

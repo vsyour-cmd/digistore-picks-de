@@ -1,3 +1,24 @@
+---
+product_id: "51146"
+digistore24_product_id: 536119
+title: "Selbstgeführte Stadtrallye Heilbronn | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2024-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-heilbronn/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-heilbronn/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Heilbronn | Hint-Caching
 
 > Product ID `51146` · Digistore24 productId `536119` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-heilbronn-hint-caching-51146.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56245"
+digistore24_product_id: 667607
+title: "Hör auf zu warten – das ist der echte Dualseelenprozess"
+vendor: "SabineBartl"
+product_type: "E-books"
+price: 23
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/667607?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667607"
+language: "de"
+---
 # Hör auf zu warten – das ist der echte Dualseelenprozess
 
 > Product ID `56245` · Digistore24 productId `667607` · [HTML profile page](../../produkte/h-r-auf-zu-warten-das-ist-der-echte-dualseelenprozess-56245.html)

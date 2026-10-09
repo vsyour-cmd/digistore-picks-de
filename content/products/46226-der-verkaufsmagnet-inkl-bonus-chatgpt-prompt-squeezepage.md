@@ -1,3 +1,24 @@
+---
+product_id: "46226"
+digistore24_product_id: 527997
+title: "Der Verkaufsmagnet inkl. Bonus ChatGPT Prompt SqueezePage"
+vendor: "kpsecrets"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing"]
+listed_since: "2023-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/527997?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/527997"
+language: "de"
+---
 # Der Verkaufsmagnet inkl. Bonus ChatGPT Prompt SqueezePage
 
 > Product ID `46226` · Digistore24 productId `527997` · [HTML profile page](../../produkte/der-verkaufsmagnet-inkl-bonus-chatgpt-prompt-squeezepage-46226.html)

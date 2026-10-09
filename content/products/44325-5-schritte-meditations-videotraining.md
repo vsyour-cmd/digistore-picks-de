@@ -1,3 +1,24 @@
+---
+product_id: "44325"
+digistore24_product_id: 501143
+title: "5-Schritte-Meditations-Videotraining"
+vendor: "Erfolg-Intuitiv"
+product_type: "Member area and video courses"
+price: 32.64
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 17
+cancel_rate_pct: 6.36
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-05-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/meditation-anleitung-videotraining/?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/meditation-anleitung-videotraining/"
+language: "de"
+---
 # 5-Schritte-Meditations-Videotraining
 
 > Product ID `44325` · Digistore24 productId `501143` · [HTML profile page](../../produkte/5-schritte-meditations-videotraining-44325.html)

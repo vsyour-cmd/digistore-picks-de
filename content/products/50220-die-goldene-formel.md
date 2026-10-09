@@ -1,3 +1,24 @@
+---
+product_id: "50220"
+digistore24_product_id: 572251
+title: "Die goldene Formel"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://billionenmarkt.com/breakingnews7?aff=adminstore#aff=adminstore"
+sales_page: "https://billionenmarkt.com/breakingnews7"
+language: "de"
+---
 # Die goldene Formel
 
 > Product ID `50220` · Digistore24 productId `572251` · [HTML profile page](../../produkte/die-goldene-formel-50220.html)

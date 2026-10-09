@@ -1,3 +1,24 @@
+---
+product_id: "56267"
+digistore24_product_id: 682542
+title: "Ebook - Die Seele der Katzen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 5.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682542?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682542"
+language: "de"
+---
 # Ebook - Die Seele der Katzen
 
 > Product ID `56267` · Digistore24 productId `682542` · [HTML profile page](../../produkte/ebook-die-seele-der-katzen-56267.html)

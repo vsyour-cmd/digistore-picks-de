@@ -1,3 +1,24 @@
+---
+product_id: "57603"
+digistore24_product_id: 707365
+title: "Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz"
+vendor: "mathiaswalecki190574dc"
+product_type: "Downloads"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707365?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707365"
+language: "de"
+---
 # Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz
 
 > Product ID `57603` · Digistore24 productId `707365` · [HTML profile page](../../produkte/paket-3-pdf-workbooks-gespr-che-ruhe-und-distanz-57603.html)

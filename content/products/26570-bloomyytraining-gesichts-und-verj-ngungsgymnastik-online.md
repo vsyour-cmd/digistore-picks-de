@@ -1,3 +1,24 @@
+---
+product_id: "26570"
+digistore24_product_id: 240803
+title: "Bloomyytraining Gesichts- und Verjüngungsgymnastik online"
+vendor: "bloomyycom"
+product_type: "Member area and video courses"
+price: 1919.48
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 383.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bloomyytraining.coachy.net/lp/bloomyys-beauty-und-facelift-studio?aff=adminstore#aff=adminstore"
+sales_page: "https://bloomyytraining.coachy.net/lp/bloomyys-beauty-und-facelift-studio"
+language: "de"
+---
 # Bloomyytraining Gesichts- und Verjüngungsgymnastik online
 
 > Product ID `26570` · Digistore24 productId `240803` · [HTML profile page](../../produkte/bloomyytraining-gesichts-und-verj-ngungsgymnastik-online-26570.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59425"
+digistore24_product_id: 735303
+title: "Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen"
+vendor: "kiagent007"
+product_type: "Software"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Project Management"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735303?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735303"
+language: "de"
+---
 # Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen
 
 > Product ID `59425` · Digistore24 productId `735303` · [HTML profile page](../../produkte/projektpreis-projekte-kalkulieren-puffer-und-marge-verstehen-59425.html)

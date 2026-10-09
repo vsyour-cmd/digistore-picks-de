@@ -1,3 +1,24 @@
+---
+product_id: "39076"
+digistore24_product_id: 426640
+title: "Kinderbuch - Familie ist besonders, einzigartig, ganz normal"
+vendor: "franziboerner"
+product_type: "Book (printed)"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2022-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.franziboerner.de?aff=adminstore#aff=adminstore"
+sales_page: "http://www.franziboerner.de"
+language: "de"
+---
 # Kinderbuch - Familie ist besonders, einzigartig, ganz normal
 
 > Product ID `39076` · Digistore24 productId `426640` · [HTML profile page](../../produkte/kinderbuch-familie-ist-besonders-einzigartig-ganz-normal-39076.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53275"
+digistore24_product_id: 578289
+title: "55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer"
+vendor: "kukkltd"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 21.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2024-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://danieldirks.com/der-weg-zum-geld-vsl?aff=adminstore#aff=adminstore"
+sales_page: "https://danieldirks.com/der-weg-zum-geld-vsl"
+language: "de"
+---
 # 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer
 
 > Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../produkte/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)

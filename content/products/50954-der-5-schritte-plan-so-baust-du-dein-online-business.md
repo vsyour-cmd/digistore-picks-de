@@ -1,3 +1,24 @@
+---
+product_id: "50954"
+digistore24_product_id: 589441
+title: "Der 5 Schritte Plan: So baust du dein Online Business"
+vendor: "funnelzon"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/nbSXRKsiihQ7Wyoov?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/nbSXRKsiihQ7Wyoov"
+language: "de"
+---
 # Der 5 Schritte Plan: So baust du dein Online Business
 
 > Product ID `50954` · Digistore24 productId `589441` · [HTML profile page](../../produkte/der-5-schritte-plan-so-baust-du-dein-online-business-50954.html)

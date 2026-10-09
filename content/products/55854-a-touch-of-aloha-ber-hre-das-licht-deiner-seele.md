@@ -1,3 +1,24 @@
+---
+product_id: "55854"
+digistore24_product_id: 668372
+title: "A TOUCH OF ALOHA - Berühre das Licht deiner Seele"
+vendor: "ThomasYoung"
+product_type: "Member area and video courses"
+price: 942.02
+currency: "USD"
+affiliate_commission_pct: 18
+earnings_per_sale: 370.8
+cart_conversion_pct: 13
+cancel_rate_pct: 3.69
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thomasyoung.online/aloha?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thomasyoung.online/aloha"
+language: "de"
+---
 # A TOUCH OF ALOHA - Berühre das Licht deiner Seele
 
 > Product ID `55854` · Digistore24 productId `668372` · [HTML profile page](../../produkte/a-touch-of-aloha-ber-hre-das-licht-deiner-seele-55854.html)

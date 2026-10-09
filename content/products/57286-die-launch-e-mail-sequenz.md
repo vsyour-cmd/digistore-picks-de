@@ -1,3 +1,24 @@
+---
+product_id: "57286"
+digistore24_product_id: 704263
+title: "Die Launch-E-Mail-Sequenz"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/launch-email-sequenz?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/launch-email-sequenz"
+language: "de"
+---
 # Die Launch-E-Mail-Sequenz
 
 > Product ID `57286` · Digistore24 productId `704263` · [HTML profile page](../../produkte/die-launch-e-mail-sequenz-57286.html)

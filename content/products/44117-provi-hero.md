@@ -1,3 +1,24 @@
+---
+product_id: "44117"
+digistore24_product_id: 481172
+title: "Provi Hero"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 261.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.05
+cart_conversion_pct: 3
+cancel_rate_pct: 1.61
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/ph?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/ph"
+language: "de"
+---
 # Provi Hero
 
 > Product ID `44117` · Digistore24 productId `481172` · [HTML profile page](../../produkte/provi-hero-44117.html)

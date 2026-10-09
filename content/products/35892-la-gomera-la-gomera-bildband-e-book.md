@@ -1,3 +1,24 @@
+---
+product_id: "35892"
+digistore24_product_id: 375691
+title: "LA GOMERA: La Gomera Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.66
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 30
+cancel_rate_pct: 0.69
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2021-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/la-gomera-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/la-gomera-bildband/"
+language: "de"
+---
 # LA GOMERA: La Gomera Bildband [E-Book]
 
 > Product ID `35892` · Digistore24 productId `375691` · [HTML profile page](../../produkte/la-gomera-la-gomera-bildband-e-book-35892.html)

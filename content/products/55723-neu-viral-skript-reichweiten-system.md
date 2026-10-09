@@ -1,3 +1,24 @@
+---
+product_id: "55723"
+digistore24_product_id: 660725
+title: "[NEU] Viral Skript™ - Reichweiten System"
+vendor: "zedkev"
+product_type: "Software"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.48
+cart_conversion_pct: 7
+cancel_rate_pct: 5.9
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-01-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://viralskript.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://viralskript.de/"
+language: "de"
+---
 # [NEU] Viral Skript™ - Reichweiten System
 
 > Product ID `55723` · Digistore24 productId `660725` · [HTML profile page](../../produkte/neu-viral-skript-reichweiten-system-55723.html)

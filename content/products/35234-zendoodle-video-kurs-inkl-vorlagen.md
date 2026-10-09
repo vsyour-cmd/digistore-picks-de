@@ -1,3 +1,24 @@
+---
+product_id: "35234"
+digistore24_product_id: 362835
+title: "Zendoodle Video-Kurs inkl. Vorlagen"
+vendor: "DrawTut"
+product_type: "Member area and video courses"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://drawtut.com/de/kurse/zendoodles/?aff=adminstore#aff=adminstore"
+sales_page: "https://drawtut.com/de/kurse/zendoodles/"
+language: "de"
+---
 # Zendoodle Video-Kurs inkl. Vorlagen
 
 > Product ID `35234` · Digistore24 productId `362835` · [HTML profile page](../../produkte/zendoodle-video-kurs-inkl-vorlagen-35234.html)

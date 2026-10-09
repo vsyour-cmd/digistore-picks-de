@@ -1,3 +1,24 @@
+---
+product_id: "5987"
+digistore24_product_id: 40363
+title: "URLAUB ZUM NULLTARIF"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.57
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Travel & Culture"]
+listed_since: "2015-01-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-uzn/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-uzn/index.html"
+language: "de"
+---
 # URLAUB ZUM NULLTARIF
 
 > Product ID `5987` · Digistore24 productId `40363` · [HTML profile page](../../produkte/urlaub-zum-nulltarif-5987.html)

@@ -1,3 +1,24 @@
+---
+product_id: "26206"
+digistore24_product_id: 167027
+title: "Schluss mit Sodbrennen (Reflux)"
+vendor: "Sanariver"
+product_type: "Downloads"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 41.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.refluxgate.de/schluss-mit-sodbrennen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.refluxgate.de/schluss-mit-sodbrennen"
+language: "de"
+---
 # Schluss mit Sodbrennen (Reflux)
 
 > Product ID `26206` · Digistore24 productId `167027` · [HTML profile page](../../produkte/schluss-mit-sodbrennen-reflux-26206.html)

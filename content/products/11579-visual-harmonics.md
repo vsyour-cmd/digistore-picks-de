@@ -1,3 +1,24 @@
+---
+product_id: "11579"
+digistore24_product_id: 65549
+title: "Visual Harmonics"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 28.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2015-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lerntipp.com/visualharmonics?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lerntipp.com/visualharmonics"
+language: "de"
+---
 # Visual Harmonics
 
 > Product ID `11579` · Digistore24 productId `65549` · [HTML profile page](../../produkte/visual-harmonics-11579.html)

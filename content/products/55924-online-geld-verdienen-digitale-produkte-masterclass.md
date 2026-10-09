@@ -1,3 +1,24 @@
+---
+product_id: "55924"
+digistore24_product_id: 658891
+title: "Online Geld verdienen - Digitale Produkte Masterclass"
+vendor: "Profi10"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/658891?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/658891"
+language: "de"
+---
 # Online Geld verdienen - Digitale Produkte Masterclass
 
 > Product ID `55924` · Digistore24 productId `658891` · [HTML profile page](../../produkte/online-geld-verdienen-digitale-produkte-masterclass-55924.html)

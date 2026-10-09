@@ -1,3 +1,24 @@
+---
+product_id: "39559"
+digistore24_product_id: 203235
+title: "„Zähne - Verbindung zum Leben“"
+vendor: "phoenix999"
+product_type: "Downloads"
+price: 998.06
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 329.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2018-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreas-goldemann.mykajabi.com/zzu-zahnedition-e?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-goldemann.mykajabi.com/zzu-zahnedition-e"
+language: "de"
+---
 # „Zähne - Verbindung zum Leben“
 
 > Product ID `39559` · Digistore24 productId `203235` · [HTML profile page](../../produkte/z-hne-verbindung-zum-leben-39559.html)

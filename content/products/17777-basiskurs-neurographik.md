@@ -1,3 +1,24 @@
+---
+product_id: "17777"
+digistore24_product_id: 150465
+title: "Basiskurs Neurographik"
+vendor: "motivation-art"
+product_type: "Member area and video courses"
+price: 183.3
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 33.4
+cart_conversion_pct: 11
+cancel_rate_pct: 1.08
+categories: ["Personal Development"]
+listed_since: "2017-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://motivation-art.de/einfuehrung-in-die-neurographik/?aff=adminstore#aff=adminstore"
+sales_page: "http://motivation-art.de/einfuehrung-in-die-neurographik/"
+language: "de"
+---
 # Basiskurs Neurographik
 
 > Product ID `17777` · Digistore24 productId `150465` · [HTML profile page](../../produkte/basiskurs-neurographik-17777.html)

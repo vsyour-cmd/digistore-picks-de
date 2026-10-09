@@ -1,3 +1,24 @@
+---
+product_id: "56624"
+digistore24_product_id: 693278
+title: "Commission Kickstart: In 30 Tagen zur ersten Affiliate-Provi"
+vendor: "DS-AffiliateSolution"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 21.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/4ZBTMEP2xZE2TPxEY?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/4ZBTMEP2xZE2TPxEY"
+language: "de"
+---
 # Commission Kickstart: In 30 Tagen zur ersten Affiliate-Provi
 
 > Product ID `56624` · Digistore24 productId `693278` · [HTML profile page](../../produkte/commission-kickstart-in-30-tagen-zur-ersten-affiliate-provi-56624.html)

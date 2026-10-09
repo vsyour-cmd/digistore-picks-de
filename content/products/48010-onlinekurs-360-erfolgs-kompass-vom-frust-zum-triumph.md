@@ -1,3 +1,24 @@
+---
+product_id: "48010"
+digistore24_product_id: 548110
+title: "Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!"
+vendor: "experten-tools"
+product_type: "Member area and video courses"
+price: 75.1
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 11.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Profession & Job"]
+listed_since: "2024-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://expertentools.shop/360-erfolgskompass/?aff=adminstore#aff=adminstore"
+sales_page: "https://expertentools.shop/360-erfolgskompass/"
+language: "de"
+---
 # Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!
 
 > Product ID `48010` · Digistore24 productId `548110` · [HTML profile page](../../produkte/onlinekurs-360-erfolgs-kompass-vom-frust-zum-triumph-48010.html)

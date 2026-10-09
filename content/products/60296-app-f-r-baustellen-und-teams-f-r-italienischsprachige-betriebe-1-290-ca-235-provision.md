@@ -1,3 +1,24 @@
+---
+product_id: "60296"
+digistore24_product_id: 741563
+title: "App für Baustellen und Teams für italienischsprachige Betriebe: 1.290 €, ca. 235 € Provision"
+vendor: "massarocalogero19976adc"
+product_type: "Remote service provided electronically"
+price: 1442.99
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 288.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.direzionex.com/offerta/squadre-e-cantieri?aff=adminstore#aff=adminstore"
+sales_page: "https://www.direzionex.com/offerta/squadre-e-cantieri"
+language: "de"
+---
 # App für Baustellen und Teams für italienischsprachige Betriebe: 1.290 €, ca. 235 € Provision
 
 > Product ID `60296` · Digistore24 productId `741563` · [HTML profile page](../../produkte/app-f-r-baustellen-und-teams-f-r-italienischsprachige-betriebe-1-290-ca-235-provision-60296.html)

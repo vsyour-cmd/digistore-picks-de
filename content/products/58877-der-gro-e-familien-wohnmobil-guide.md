@@ -1,3 +1,24 @@
+---
+product_id: "58877"
+digistore24_product_id: 711041
+title: "Der große Familien-Wohnmobil-Guide"
+vendor: "FranziskaVockrodt"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Travel & Culture"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/711041?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711041"
+language: "de"
+---
 # Der große Familien-Wohnmobil-Guide
 
 > Product ID `58877` · Digistore24 productId `711041` · [HTML profile page](../../produkte/der-gro-e-familien-wohnmobil-guide-58877.html)

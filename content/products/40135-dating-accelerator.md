@@ -1,3 +1,24 @@
+---
+product_id: "40135"
+digistore24_product_id: 443639
+title: "Dating Accelerator"
+vendor: "herozon"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/443639?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/443639"
+language: "de"
+---
 # Dating Accelerator
 
 > Product ID `40135` · Digistore24 productId `443639` · [HTML profile page](../../produkte/dating-accelerator-40135.html)

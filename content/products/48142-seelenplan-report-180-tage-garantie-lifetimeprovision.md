@@ -1,3 +1,24 @@
+---
+product_id: "48142"
+digistore24_product_id: 510260
+title: "Seelenplan Report: 180 Tage Garantie, Lifetimeprovision"
+vendor: "GeorgMartinka"
+product_type: "E-books"
+price: 32.72
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 4.71
+cart_conversion_pct: 37
+cancel_rate_pct: 4.35
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2023-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://sandrahirsch.com/seelenplan?aff=adminstore#aff=adminstore"
+sales_page: "https://sandrahirsch.com/seelenplan"
+language: "de"
+---
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
 > Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../produkte/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)

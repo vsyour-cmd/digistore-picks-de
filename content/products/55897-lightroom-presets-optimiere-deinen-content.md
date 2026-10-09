@@ -1,3 +1,24 @@
+---
+product_id: "55897"
+digistore24_product_id: 658181
+title: "Lightroom Presets - Optimiere Deinen Content!"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-12-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658181?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658181"
+language: "de"
+---
 # Lightroom Presets - Optimiere Deinen Content!
 
 > Product ID `55897` · Digistore24 productId `658181` · [HTML profile page](../../produkte/lightroom-presets-optimiere-deinen-content-55897.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60236"
+digistore24_product_id: 738365
+title: "30 Tage Social-Media-Inhalte für Friseursalons und Barbersho"
+vendor: "vibes87"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738365?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738365"
+language: "de"
+---
 # 30 Tage Social-Media-Inhalte für Friseursalons und Barbersho
 
 > Product ID `60236` · Digistore24 productId `738365` · [HTML profile page](../../produkte/30-tage-social-media-inhalte-f-r-friseursalons-und-barbersho-60236.html)

@@ -1,3 +1,24 @@
+---
+product_id: "5245"
+digistore24_product_id: 55161
+title: "Spanisch ohne Vorkenntnisse direkt anwenden"
+vendor: "findsbesserraus"
+product_type: "Downloads"
+price: 20.64
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2015-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.spanisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.spanisch-fuer-reisende.de"
+language: "de"
+---
 # Spanisch ohne Vorkenntnisse direkt anwenden
 
 > Product ID `5245` · Digistore24 productId `55161` · [HTML profile page](../../produkte/spanisch-ohne-vorkenntnisse-direkt-anwenden-5245.html)

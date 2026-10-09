@@ -1,3 +1,24 @@
+---
+product_id: "52028"
+digistore24_product_id: 601680
+title: "Entgiftung und Darmsanierung Masterclass"
+vendor: "NatureHeartAcademy"
+product_type: "Member area and video courses"
+price: 89.66
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 64.73
+cart_conversion_pct: 30
+cancel_rate_pct: 7.61
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.fabiankowallikacademy.de/start/entgiftung-und-darmsanierung-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fabiankowallikacademy.de/start/entgiftung-und-darmsanierung-masterclass/"
+language: "de"
+---
 # Entgiftung und Darmsanierung Masterclass
 
 > Product ID `52028` · Digistore24 productId `601680` · [HTML profile page](../../produkte/entgiftung-und-darmsanierung-masterclass-52028.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40608"
+digistore24_product_id: 447671
+title: "Hundeschule / Hundetraining - Mit Hunden sprechen"
+vendor: "frohehunde"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2022-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://frohehunde.de/der-umgang-mit-dem-hund-ueber-die-koerpersprache/?aff=adminstore#aff=adminstore"
+sales_page: "https://frohehunde.de/der-umgang-mit-dem-hund-ueber-die-koerpersprache/"
+language: "de"
+---
 # Hundeschule / Hundetraining - Mit Hunden sprechen
 
 > Product ID `40608` · Digistore24 productId `447671` · [HTML profile page](../../produkte/hundeschule-hundetraining-mit-hunden-sprechen-40608.html)

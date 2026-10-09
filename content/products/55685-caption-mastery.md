@@ -1,3 +1,24 @@
+---
+product_id: "55685"
+digistore24_product_id: 595163
+title: "Caption Mastery"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 336.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 114.07
+cart_conversion_pct: 11
+cancel_rate_pct: 0.75
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/caption-mastery/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/caption-mastery/"
+language: "de"
+---
 # Caption Mastery
 
 > Product ID `55685` · Digistore24 productId `595163` · [HTML profile page](../../produkte/caption-mastery-55685.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56216"
+digistore24_product_id: 553895
+title: "Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)"
+vendor: "SabineQigong"
+product_type: "Member area and video courses"
+price: 553.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 276.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-04-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2?aff=adminstore#aff=adminstore"
+sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2"
+language: "de"
+---
 # Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)
 
 > Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../produkte/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)

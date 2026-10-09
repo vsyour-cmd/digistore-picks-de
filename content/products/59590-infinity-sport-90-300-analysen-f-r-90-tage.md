@@ -1,3 +1,24 @@
+---
+product_id: "59590"
+digistore24_product_id: 736381
+title: "INFINITY SPORT 90 – 300 Analysen für 90 Tage"
+vendor: "uweboehle47cf"
+product_type: "Software"
+price: 110.92
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
+sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
+language: "de"
+---
 # INFINITY SPORT 90 – 300 Analysen für 90 Tage
 
 > Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../produkte/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)

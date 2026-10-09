@@ -1,3 +1,24 @@
+---
+product_id: "54127"
+digistore24_product_id: 634986
+title: "Affiliate Marketing: Storytelling-Formel"
+vendor: "CashUnity"
+product_type: "E-books"
+price: 0.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.67
+cart_conversion_pct: 33
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cash-unity.de/storytelling-affiliate-marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cash-unity.de/storytelling-affiliate-marketing/"
+language: "de"
+---
 # Affiliate Marketing: Storytelling-Formel
 
 > Product ID `54127` · Digistore24 productId `634986` · [HTML profile page](../../produkte/affiliate-marketing-storytelling-formel-54127.html)

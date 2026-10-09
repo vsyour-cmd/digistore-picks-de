@@ -1,3 +1,24 @@
+---
+product_id: "54481"
+digistore24_product_id: 640932
+title: "Fortbildung (Dr. M. Wengenroth) \"Erschöpfung und Entzündung\""
+vendor: "MartinaWengenroth"
+product_type: "Member area and video courses"
+price: 387.99
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 1.12
+cart_conversion_pct: 2
+cancel_rate_pct: 3.2
+categories: ["Health & Fitness"]
+listed_since: "2025-10-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung?aff=adminstore#aff=adminstore"
+sales_page: "https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung"
+language: "de"
+---
 # Fortbildung (Dr. M. Wengenroth) "Erschöpfung und Entzündung"
 
 > Product ID `54481` · Digistore24 productId `640932` · [HTML profile page](../../produkte/fortbildung-dr-m-wengenroth-ersch-pfung-und-entz-ndung-54481.html)

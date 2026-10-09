@@ -1,3 +1,24 @@
+---
+product_id: "56983"
+digistore24_product_id: 701403
+title: "Erfolgreich als Coach mit Discord"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord"
+language: "de"
+---
 # Erfolgreich als Coach mit Discord
 
 > Product ID `56983` · Digistore24 productId `701403` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-discord-56983.html)

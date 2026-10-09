@@ -1,3 +1,24 @@
+---
+product_id: "51167"
+digistore24_product_id: 423116
+title: "Selbstgeführte Stadtrallye Ulm | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 25.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.98
+cart_conversion_pct: 10
+cancel_rate_pct: 1.75
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-ulm/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-ulm/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Ulm | Hint-Caching
 
 > Product ID `51167` · Digistore24 productId `423116` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-ulm-hint-caching-51167.html)

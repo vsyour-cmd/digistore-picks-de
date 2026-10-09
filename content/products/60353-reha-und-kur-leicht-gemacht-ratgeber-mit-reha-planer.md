@@ -1,3 +1,24 @@
+---
+product_id: "60353"
+digistore24_product_id: 741761
+title: "Reha und Kur leicht gemacht – Ratgeber mit Reha-Planer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741761?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741761"
+language: "de"
+---
 # Reha und Kur leicht gemacht – Ratgeber mit Reha-Planer
 
 > Product ID `60353` · Digistore24 productId `741761` · [HTML profile page](../../produkte/reha-und-kur-leicht-gemacht-ratgeber-mit-reha-planer-60353.html)

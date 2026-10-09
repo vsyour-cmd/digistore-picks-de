@@ -1,3 +1,24 @@
+---
+product_id: "34809"
+digistore24_product_id: 358906
+title: "Globales Erwachen der Menschheit"
+vendor: "RaGarve"
+product_type: "Member area and video courses"
+price: 308.8
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 63.4
+cart_conversion_pct: 13
+cancel_rate_pct: 6.29
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2020-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/"
+language: "de"
+---
 # Globales Erwachen der Menschheit
 
 > Product ID `34809` · Digistore24 productId `358906` · [HTML profile page](../../produkte/globales-erwachen-der-menschheit-34809.html)

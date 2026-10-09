@@ -1,3 +1,24 @@
+---
+product_id: "58908"
+digistore24_product_id: 725694
+title: "Auswandern und B2B-Freelancing in der EU"
+vendor: "info269b"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725694?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725694"
+language: "de"
+---
 # Auswandern und B2B-Freelancing in der EU
 
 > Product ID `58908` · Digistore24 productId `725694` · [HTML profile page](../../produkte/auswandern-und-b2b-freelancing-in-der-eu-58908.html)

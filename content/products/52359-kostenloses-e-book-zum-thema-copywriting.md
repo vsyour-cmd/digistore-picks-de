@@ -1,3 +1,24 @@
+---
+product_id: "52359"
+digistore24_product_id: 611125
+title: "Kostenloses E-Book zum Thema Copywriting"
+vendor: "JK-Buisness-Marketing"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/611125?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/611125"
+language: "de"
+---
 # Kostenloses E-Book zum Thema Copywriting
 
 > Product ID `52359` · Digistore24 productId `611125` · [HTML profile page](../../produkte/kostenloses-e-book-zum-thema-copywriting-52359.html)

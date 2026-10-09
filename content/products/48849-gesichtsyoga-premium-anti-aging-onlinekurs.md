@@ -1,3 +1,24 @@
+---
+product_id: "48849"
+digistore24_product_id: 563631
+title: "Gesichtsyoga Premium Anti-Aging Onlinekurs"
+vendor: "Guitarschool"
+product_type: "Member area and video courses"
+price: 375.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 37.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Services","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gesichtsyoga.net/onlinekurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gesichtsyoga.net/onlinekurs"
+language: "de"
+---
 # Gesichtsyoga Premium Anti-Aging Onlinekurs
 
 > Product ID `48849` · Digistore24 productId `563631` · [HTML profile page](../../produkte/gesichtsyoga-premium-anti-aging-onlinekurs-48849.html)

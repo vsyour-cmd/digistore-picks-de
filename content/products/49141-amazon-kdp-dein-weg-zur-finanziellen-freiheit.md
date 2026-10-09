@@ -1,3 +1,24 @@
+---
+product_id: "49141"
+digistore24_product_id: 564511
+title: "AMAZON KDP - Dein Weg zur finanziellen Freiheit"
+vendor: "AnneWuensche"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.44
+cart_conversion_pct: 2
+cancel_rate_pct: 6.13
+categories: ["Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/564511?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/564511"
+language: "de"
+---
 # AMAZON KDP - Dein Weg zur finanziellen Freiheit
 
 > Product ID `49141` · Digistore24 productId `564511` · [HTML profile page](../../produkte/amazon-kdp-dein-weg-zur-finanziellen-freiheit-49141.html)

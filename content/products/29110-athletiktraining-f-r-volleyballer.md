@@ -1,3 +1,24 @@
+---
+product_id: "29110"
+digistore24_product_id: 274234
+title: "Athletiktraining für Volleyballer"
+vendor: "volleyballfreak"
+product_type: "Downloads"
+price: 14.09
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2019-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.volleyballfreak.de/athletikkurs-fuer-volleyballer?aff=adminstore#aff=adminstore"
+sales_page: "https://www.volleyballfreak.de/athletikkurs-fuer-volleyballer"
+language: "de"
+---
 # Athletiktraining für Volleyballer
 
 > Product ID `29110` · Digistore24 productId `274234` · [HTML profile page](../../produkte/athletiktraining-f-r-volleyballer-29110.html)

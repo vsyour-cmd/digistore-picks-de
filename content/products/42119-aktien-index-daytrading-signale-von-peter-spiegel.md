@@ -1,3 +1,24 @@
+---
+product_id: "42119"
+digistore24_product_id: 467093
+title: "Aktien-Index Daytrading Signale von Peter Spiegel"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 190.35
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 92.06
+cart_conversion_pct: 8
+cancel_rate_pct: 11.3
+categories: ["Trading Products"]
+listed_since: "2022-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/index-daytrading-peter-spiegel/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/index-daytrading-peter-spiegel/"
+language: "de"
+---
 # Aktien-Index Daytrading Signale von Peter Spiegel
 
 > Product ID `42119` · Digistore24 productId `467093` · [HTML profile page](../../produkte/aktien-index-daytrading-signale-von-peter-spiegel-42119.html)

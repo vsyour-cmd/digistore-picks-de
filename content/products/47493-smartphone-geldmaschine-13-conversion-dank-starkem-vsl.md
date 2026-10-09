@@ -1,3 +1,24 @@
+---
+product_id: "47493"
+digistore24_product_id: 525405
+title: "Smartphone Geldmaschine - 13% Conversion dank starkem VSL"
+vendor: "Moneycashnow"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2023-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://lukessbusiness.systeme.io/geldmaschine-vsl?aff=adminstore#aff=adminstore"
+sales_page: "https://lukessbusiness.systeme.io/geldmaschine-vsl"
+language: "de"
+---
 # Smartphone Geldmaschine - 13% Conversion dank starkem VSL
 
 > Product ID `47493` · Digistore24 productId `525405` · [HTML profile page](../../produkte/smartphone-geldmaschine-13-conversion-dank-starkem-vsl-47493.html)

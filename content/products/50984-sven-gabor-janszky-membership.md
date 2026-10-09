@@ -1,3 +1,24 @@
+---
+product_id: "50984"
+digistore24_product_id: 574211
+title: "Sven Gabor Janszky - Membership"
+vendor: "SvenGaborJanszky"
+product_type: "Member area and video courses"
+price: 1115.01
+currency: "USD"
+affiliate_commission_pct: 47.5
+earnings_per_sale: 419.12
+cart_conversion_pct: 7
+cancel_rate_pct: 4.91
+categories: ["Education","Personal Development"]
+listed_since: "2024-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/574211?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/574211"
+language: "de"
+---
 # Sven Gabor Janszky - Membership
 
 > Product ID `50984` · Digistore24 productId `574211` · [HTML profile page](../../produkte/sven-gabor-janszky-membership-50984.html)

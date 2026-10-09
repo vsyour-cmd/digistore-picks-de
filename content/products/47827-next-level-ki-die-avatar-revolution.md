@@ -1,3 +1,24 @@
+---
+product_id: "47827"
+digistore24_product_id: 543066
+title: "NEXT LEVEL KI - Die Avatar Revolution"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/avatar-ki/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/avatar-ki/"
+language: "de"
+---
 # NEXT LEVEL KI - Die Avatar Revolution
 
 > Product ID `47827` · Digistore24 productId `543066` · [HTML profile page](../../produkte/next-level-ki-die-avatar-revolution-47827.html)

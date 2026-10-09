@@ -1,3 +1,24 @@
+---
+product_id: "56364"
+digistore24_product_id: 687973
+title: "Ebook - Mentale Stärke ist leise"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687973?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687973"
+language: "de"
+---
 # Ebook - Mentale Stärke ist leise
 
 > Product ID `56364` · Digistore24 productId `687973` · [HTML profile page](../../produkte/ebook-mentale-st-rke-ist-leise-56364.html)

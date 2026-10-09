@@ -1,3 +1,24 @@
+---
+product_id: "54660"
+digistore24_product_id: 648703
+title: "Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis"
+vendor: "liebezumleben"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Hobby & Craft"]
+listed_since: "2025-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://malenmitanke.de/acrylmalkurs-meer-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://malenmitanke.de/acrylmalkurs-meer-bundle/"
+language: "de"
+---
 # Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis
 
 > Product ID `54660` · Digistore24 productId `648703` · [HTML profile page](../../produkte/die-grosse-meer-auszeit-4-acryl-kurse-zum-spar-preis-54660.html)

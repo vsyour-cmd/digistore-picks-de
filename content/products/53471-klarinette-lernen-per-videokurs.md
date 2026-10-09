@@ -1,3 +1,24 @@
+---
+product_id: "53471"
+digistore24_product_id: 510473
+title: "Klarinette lernen per Videokurs"
+vendor: "VSclarinet"
+product_type: "Member area and video courses"
+price: 74.83
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.89
+cart_conversion_pct: 29
+cancel_rate_pct: 2.79
+categories: ["Education"]
+listed_since: "2023-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/"
+language: "de"
+---
 # Klarinette lernen per Videokurs
 
 > Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../produkte/klarinette-lernen-per-videokurs-53471.html)

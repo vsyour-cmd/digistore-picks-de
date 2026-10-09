@@ -1,3 +1,24 @@
+---
+product_id: "54698"
+digistore24_product_id: 615316
+title: "Nächte voller Magie"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/naechte-voller-magie-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/naechte-voller-magie-ds"
+language: "de"
+---
 # Nächte voller Magie
 
 > Product ID `54698` · Digistore24 productId `615316` · [HTML profile page](../../produkte/n-chte-voller-magie-54698.html)

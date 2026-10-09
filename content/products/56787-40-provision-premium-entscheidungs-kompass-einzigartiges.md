@@ -1,3 +1,24 @@
+---
+product_id: "56787"
+digistore24_product_id: 677086
+title: "40% Provision: Premium Entscheidungs-Kompass – Einzigartiges"
+vendor: "versteheninstitut-holzmann"
+product_type: "E-books"
+price: 134.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 53.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-06-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/677086?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/677086"
+language: "de"
+---
 # 40% Provision: Premium Entscheidungs-Kompass – Einzigartiges
 
 > Product ID `56787` · Digistore24 productId `677086` · [HTML profile page](../../produkte/40-provision-premium-entscheidungs-kompass-einzigartiges-56787.html)

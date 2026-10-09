@@ -1,3 +1,24 @@
+---
+product_id: "46377"
+digistore24_product_id: 528752
+title: "Mindset Shift Abnehmen - health-generation Mindset-Training"
+vendor: "Josef85"
+product_type: "Member area and video courses"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 69.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.health-generation.com/abnehmen-coaching?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.health-generation.com/abnehmen-coaching"
+language: "de"
+---
 # Mindset Shift Abnehmen - health-generation Mindset-Training
 
 > Product ID `46377` · Digistore24 productId `528752` · [HTML profile page](../../produkte/mindset-shift-abnehmen-health-generation-mindset-training-46377.html)

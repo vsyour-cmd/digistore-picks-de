@@ -1,3 +1,24 @@
+---
+product_id: "57100"
+digistore24_product_id: 704859
+title: "KI-Prompt-Generator für deutsche Selbstständige"
+vendor: "fantasticman36"
+product_type: "Remote service provided electronically"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://promptforge-salespage.pages.dev?aff=adminstore#aff=adminstore"
+sales_page: "https://promptforge-salespage.pages.dev"
+language: "de"
+---
 # KI-Prompt-Generator für deutsche Selbstständige
 
 > Product ID `57100` · Digistore24 productId `704859` · [HTML profile page](../../produkte/ki-prompt-generator-f-r-deutsche-selbstst-ndige-57100.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58628"
+digistore24_product_id: 611508
+title: "Kita-Ideen Paket"
+vendor: "AndiS411"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://kindergarten-lieder.de/kita-ideen-paket/?aff=adminstore#aff=adminstore"
+sales_page: "https://kindergarten-lieder.de/kita-ideen-paket/"
+language: "de"
+---
 # Kita-Ideen Paket
 
 > Product ID `58628` · Digistore24 productId `611508` · [HTML profile page](../../produkte/kita-ideen-paket-58628.html)

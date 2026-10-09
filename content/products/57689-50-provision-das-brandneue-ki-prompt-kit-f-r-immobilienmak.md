@@ -1,3 +1,24 @@
+---
+product_id: "57689"
+digistore24_product_id: 714395
+title: "50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak"
+vendor: "Besten"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Real Estate","Marketing Services"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/714395?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/714395"
+language: "de"
+---
 # 50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak
 
 > Product ID `57689` · Digistore24 productId `714395` · [HTML profile page](../../produkte/50-provision-das-brandneue-ki-prompt-kit-f-r-immobilienmak-57689.html)

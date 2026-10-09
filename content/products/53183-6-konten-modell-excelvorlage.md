@@ -1,3 +1,24 @@
+---
+product_id: "53183"
+digistore24_product_id: 623771
+title: "6-Konten-Modell Excelvorlage"
+vendor: "NilsWarnecke"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.94
+cart_conversion_pct: 5
+cancel_rate_pct: 4.08
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2025-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/?aff=adminstore#aff=adminstore"
+sales_page: "https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/"
+language: "de"
+---
 # 6-Konten-Modell Excelvorlage
 
 > Product ID `53183` · Digistore24 productId `623771` · [HTML profile page](../../produkte/6-konten-modell-excelvorlage-53183.html)

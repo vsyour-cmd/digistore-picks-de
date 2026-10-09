@@ -1,3 +1,24 @@
+---
+product_id: "57547"
+digistore24_product_id: 711783
+title: "Employer Branding – Außen sichtbar. Innen wirksam."
+vendor: "HRruns"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 19.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2026-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore"
+sales_page: "https://andreasguenzel.coachy.net/lp/employer-branding/"
+language: "de"
+---
 # Employer Branding – Außen sichtbar. Innen wirksam.
 
 > Product ID `57547` · Digistore24 productId `711783` · [HTML profile page](../../produkte/employer-branding-au-en-sichtbar-innen-wirksam-57547.html)

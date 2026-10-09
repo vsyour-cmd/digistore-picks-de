@@ -1,3 +1,24 @@
+---
+product_id: "44576"
+digistore24_product_id: 502221
+title: "KI Affiliate Marketer"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-06-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/kia-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/kia-fe/"
+language: "de"
+---
 # KI Affiliate Marketer
 
 > Product ID `44576` · Digistore24 productId `502221` · [HTML profile page](../../produkte/ki-affiliate-marketer-44576.html)

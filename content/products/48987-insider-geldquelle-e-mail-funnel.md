@@ -1,3 +1,24 @@
+---
+product_id: "48987"
+digistore24_product_id: 572144
+title: "Insider Geldquelle + E-Mail Funnel"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.28
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://geldquelle2023.funnelcockpit.com/unendliche-mailkampagne/?aff=adminstore#aff=adminstore"
+sales_page: "https://geldquelle2023.funnelcockpit.com/unendliche-mailkampagne/"
+language: "de"
+---
 # Insider Geldquelle + E-Mail Funnel
 
 > Product ID `48987` · Digistore24 productId `572144` · [HTML profile page](../../produkte/insider-geldquelle-e-mail-funnel-48987.html)

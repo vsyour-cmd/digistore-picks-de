@@ -1,3 +1,24 @@
+---
+product_id: "41611"
+digistore24_product_id: 432922
+title: "Ideale Steife - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 42.13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 28.02
+cart_conversion_pct: 11
+cancel_rate_pct: 3.57
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/produkte/ideale-steife/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/produkte/ideale-steife/"
+language: "de"
+---
 # Ideale Steife - Anastasia Romanova
 
 > Product ID `41611` · Digistore24 productId `432922` · [HTML profile page](../../produkte/ideale-steife-anastasia-romanova-41611.html)

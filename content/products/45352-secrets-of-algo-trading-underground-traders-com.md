@@ -1,3 +1,24 @@
+---
+product_id: "45352"
+digistore24_product_id: 502326
+title: "SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM"
+vendor: "UGT2022"
+product_type: "Member area and video courses"
+price: 357.19
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 281.85
+cart_conversion_pct: 2
+cancel_rate_pct: 1.93
+categories: ["Trading Products"]
+listed_since: "2023-06-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://underground-traders.com/secrets-of-algotrading/?aff=adminstore#aff=adminstore"
+sales_page: "https://underground-traders.com/secrets-of-algotrading/"
+language: "de"
+---
 # SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM
 
 > Product ID `45352` · Digistore24 productId `502326` · [HTML profile page](../../produkte/secrets-of-algo-trading-underground-traders-com-45352.html)

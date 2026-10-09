@@ -1,3 +1,24 @@
+---
+product_id: "43266"
+digistore24_product_id: 490909
+title: "Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv"
+vendor: "isidde"
+product_type: "Online coaching"
+price: 1704.75
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 340.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/"
+language: "de"
+---
 # Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv
 
 > Product ID `43266` · Digistore24 productId `490909` · [HTML profile page](../../produkte/sprecher-werden-in-1-jahr-zum-profisprecher-intensiv-43266.html)

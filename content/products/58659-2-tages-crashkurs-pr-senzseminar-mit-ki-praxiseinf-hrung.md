@@ -1,3 +1,24 @@
+---
+product_id: "58659"
+digistore24_product_id: 724343
+title: "2-Tages-Crashkurs-Präsenzseminar mit KI-Praxiseinführung"
+vendor: "Arndt-Timo_Niggemeyer"
+product_type: "Seminar for business customers"
+price: 1117.48
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 223.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Personal Development","Profession & Job"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://granit-strategie.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://granit-strategie.de/"
+language: "de"
+---
 # 2-Tages-Crashkurs-Präsenzseminar mit KI-Praxiseinführung
 
 > Product ID `58659` · Digistore24 productId `724343` · [HTML profile page](../../produkte/2-tages-crashkurs-pr-senzseminar-mit-ki-praxiseinf-hrung-58659.html)

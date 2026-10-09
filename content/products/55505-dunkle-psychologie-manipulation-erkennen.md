@@ -1,3 +1,24 @@
+---
+product_id: "55505"
+digistore24_product_id: 667705
+title: "Dunkle Psychologie - Manipulation erkennen"
+vendor: "gbuiss"
+product_type: "E-books"
+price: 18.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.7
+cart_conversion_pct: 10
+cancel_rate_pct: 2.05
+categories: ["Personal Development"]
+listed_since: "2026-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/667705?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667705"
+language: "de"
+---
 # Dunkle Psychologie - Manipulation erkennen
 
 > Product ID `55505` · Digistore24 productId `667705` · [HTML profile page](../../produkte/dunkle-psychologie-manipulation-erkennen-55505.html)

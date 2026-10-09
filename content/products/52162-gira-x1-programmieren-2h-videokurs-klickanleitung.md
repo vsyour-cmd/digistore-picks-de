@@ -1,3 +1,24 @@
+---
+product_id: "52162"
+digistore24_product_id: 303866
+title: "Gira X1 programmieren - 2h Videokurs Klickanleitung"
+vendor: "smarthomeknx"
+product_type: "Downloads"
+price: 238.07
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 47.61
+cart_conversion_pct: 13
+cancel_rate_pct: 4.84
+categories: ["Computer & Internet"]
+listed_since: "2020-01-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/"
+language: "de"
+---
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
 > Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)

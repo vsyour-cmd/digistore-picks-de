@@ -1,3 +1,24 @@
+---
+product_id: "55982"
+digistore24_product_id: 665191
+title: "Klartraum Guide - Lerne deine Träume zu steuern"
+vendor: "Profi10"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/665191?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/665191"
+language: "de"
+---
 # Klartraum Guide - Lerne deine Träume zu steuern
 
 > Product ID `55982` · Digistore24 productId `665191` · [HTML profile page](../../produkte/klartraum-guide-lerne-deine-tr-ume-zu-steuern-55982.html)

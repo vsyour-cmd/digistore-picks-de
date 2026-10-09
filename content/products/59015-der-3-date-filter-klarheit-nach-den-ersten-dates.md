@@ -1,3 +1,24 @@
+---
+product_id: "59015"
+digistore24_product_id: 711057
+title: "Der 3-Date-Filter – Klarheit nach den ersten Dates"
+vendor: "artigital"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://artigital.de/der-3-date-filter/?aff=adminstore#aff=adminstore"
+sales_page: "https://artigital.de/der-3-date-filter/"
+language: "de"
+---
 # Der 3-Date-Filter – Klarheit nach den ersten Dates
 
 > Product ID `59015` · Digistore24 productId `711057` · [HTML profile page](../../produkte/der-3-date-filter-klarheit-nach-den-ersten-dates-59015.html)

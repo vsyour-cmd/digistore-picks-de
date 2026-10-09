@@ -1,3 +1,24 @@
+---
+product_id: "54626"
+digistore24_product_id: 647082
+title: "KI Handwerker"
+vendor: "ReneAktivNetz"
+product_type: "E-books"
+price: 1.15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.97
+cart_conversion_pct: 26
+cancel_rate_pct: 7.2
+categories: ["Email Marketing","Profession & Job","Marketing Services"]
+listed_since: "2025-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore"
+sales_page: "https://kischmiede.funnelcockpit.com/ki-handwerker/"
+language: "de"
+---
 # KI Handwerker
 
 > Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../produkte/ki-handwerker-54626.html)

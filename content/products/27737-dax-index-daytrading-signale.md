@@ -1,3 +1,24 @@
+---
+product_id: "27737"
+digistore24_product_id: 190945
+title: "DAX Index Daytrading Signale"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 254.32
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 40.65
+cart_conversion_pct: 5
+cancel_rate_pct: 10.51
+categories: ["Trading Products"]
+listed_since: "2018-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/dax-future-daytrading-live-trading-signale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/dax-future-daytrading-live-trading-signale/"
+language: "de"
+---
 # DAX Index Daytrading Signale
 
 > Product ID `27737` · Digistore24 productId `190945` · [HTML profile page](../../produkte/dax-index-daytrading-signale-27737.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54693"
+digistore24_product_id: 615032
+title: "Selbstachtung Neuanfang"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds"
+language: "de"
+---
 # Selbstachtung Neuanfang
 
 > Product ID `54693` · Digistore24 productId `615032` · [HTML profile page](../../produkte/selbstachtung-neuanfang-54693.html)

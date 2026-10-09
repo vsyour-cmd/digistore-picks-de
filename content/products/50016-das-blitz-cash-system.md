@@ -1,3 +1,24 @@
+---
+product_id: "50016"
+digistore24_product_id: 572139
+title: "Das Blitz Cash System"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.andreaslangdigital.com/dasblitzcashsystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.andreaslangdigital.com/dasblitzcashsystem/"
+language: "de"
+---
 # Das Blitz Cash System
 
 > Product ID `50016` · Digistore24 productId `572139` · [HTML profile page](../../produkte/das-blitz-cash-system-50016.html)

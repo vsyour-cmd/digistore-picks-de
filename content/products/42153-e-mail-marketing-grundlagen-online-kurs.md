@@ -1,3 +1,24 @@
+---
+product_id: "42153"
+digistore24_product_id: 474841
+title: "E-Mail Marketing Grundlagen Online Kurs"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 0.4
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.07
+cart_conversion_pct: 21
+cancel_rate_pct: 0.64
+categories: ["Email Marketing"]
+listed_since: "2022-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/webpirat-membership/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/webpirat-membership/"
+language: "de"
+---
 # E-Mail Marketing Grundlagen Online Kurs
 
 > Product ID `42153` · Digistore24 productId `474841` · [HTML profile page](../../produkte/e-mail-marketing-grundlagen-online-kurs-42153.html)

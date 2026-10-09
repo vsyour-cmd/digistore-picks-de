@@ -1,3 +1,24 @@
+---
+product_id: "56046"
+digistore24_product_id: 679337
+title: "Heilpraktikerausbildung - Online-Akademie"
+vendor: "info8293"
+product_type: "Online coaching"
+price: 2650.8
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 795.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/679337?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679337"
+language: "de"
+---
 # Heilpraktikerausbildung - Online-Akademie
 
 > Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../produkte/heilpraktikerausbildung-online-akademie-56046.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60361"
+digistore24_product_id: 741901
+title: "BAföG leicht gemacht – Ratgeber mit BAföG-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741901?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741901"
+language: "de"
+---
 # BAföG leicht gemacht – Ratgeber mit BAföG-Rechner
 
 > Product ID `60361` · Digistore24 productId `741901` · [HTML profile page](../../produkte/baf-g-leicht-gemacht-ratgeber-mit-baf-g-rechner-60361.html)

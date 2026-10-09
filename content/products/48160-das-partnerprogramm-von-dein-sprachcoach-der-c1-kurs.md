@@ -1,3 +1,24 @@
+---
+product_id: "48160"
+digistore24_product_id: 551151
+title: "Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs"
+vendor: "DeinSprachcoach"
+product_type: "Member area and video courses"
+price: 268.05
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 104.89
+cart_conversion_pct: 4
+cancel_rate_pct: 2.13
+categories: ["Education"]
+listed_since: "2024-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dein-sprachcoach.de/c1-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://dein-sprachcoach.de/c1-kurs/"
+language: "de"
+---
 # Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
 
 > Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)

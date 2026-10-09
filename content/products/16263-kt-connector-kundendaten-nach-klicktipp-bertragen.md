@@ -1,3 +1,24 @@
+---
+product_id: "16263"
+digistore24_product_id: 394588
+title: "KT Connector / Kundendaten nach KlickTipp übertragen"
+vendor: "rabatt"
+product_type: "Remote service provided electronically"
+price: 134.23
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 26.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2021-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://kt-connector.de?aff=adminstore#aff=adminstore"
+sales_page: "https://kt-connector.de"
+language: "de"
+---
 # KT Connector / Kundendaten nach KlickTipp übertragen
 
 > Product ID `16263` · Digistore24 productId `394588` · [HTML profile page](../../produkte/kt-connector-kundendaten-nach-klicktipp-bertragen-16263.html)

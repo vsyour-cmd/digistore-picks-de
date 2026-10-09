@@ -1,3 +1,24 @@
+---
+product_id: "53353"
+digistore24_product_id: 623457
+title: "Erste Hilfe einfach gemacht"
+vendor: "bestlifeproducts"
+product_type: "Member area and video courses"
+price: 18.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Profession & Job","Services"]
+listed_since: "2025-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/623457?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/623457"
+language: "de"
+---
 # Erste Hilfe einfach gemacht
 
 > Product ID `53353` · Digistore24 productId `623457` · [HTML profile page](../../produkte/erste-hilfe-einfach-gemacht-53353.html)

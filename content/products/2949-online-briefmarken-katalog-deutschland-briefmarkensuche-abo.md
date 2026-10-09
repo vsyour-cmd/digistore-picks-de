@@ -1,3 +1,24 @@
+---
+product_id: "2949"
+digistore24_product_id: 15007
+title: "Online Briefmarken Katalog Deutschland Briefmarkensuche Abo"
+vendor: "abartl"
+product_type: "Software"
+price: 8.45
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rund-um-briefmarken.de/lp-hp/?aff=adminstore#aff=adminstore"
+sales_page: "https://rund-um-briefmarken.de/lp-hp/"
+language: "de"
+---
 # Online Briefmarken Katalog Deutschland Briefmarkensuche Abo
 
 > Product ID `2949` · Digistore24 productId `15007` · [HTML profile page](../../produkte/online-briefmarken-katalog-deutschland-briefmarkensuche-abo-2949.html)

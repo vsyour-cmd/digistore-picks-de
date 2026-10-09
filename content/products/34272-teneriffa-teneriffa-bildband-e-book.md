@@ -1,3 +1,24 @@
+---
+product_id: "34272"
+digistore24_product_id: 350433
+title: "TENERIFFA: Teneriffa Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 14.54
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 31
+cancel_rate_pct: 0.7
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2020-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/teneriffa-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/teneriffa-bildband/"
+language: "de"
+---
 # TENERIFFA: Teneriffa Bildband [E-Book]
 
 > Product ID `34272` · Digistore24 productId `350433` · [HTML profile page](../../produkte/teneriffa-teneriffa-bildband-e-book-34272.html)

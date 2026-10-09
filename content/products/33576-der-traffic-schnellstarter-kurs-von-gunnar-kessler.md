@@ -1,3 +1,24 @@
+---
+product_id: "33576"
+digistore24_product_id: 349057
+title: "Der Traffic Schnellstarter Kurs - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 34.52
+cart_conversion_pct: 7
+cancel_rate_pct: 19.29
+categories: ["Profession & Job"]
+listed_since: "2020-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyeschufterei.de/tssk-7511/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/tssk-7511/"
+language: "de"
+---
 # Der Traffic Schnellstarter Kurs - von Gunnar Kessler
 
 > Product ID `33576` · Digistore24 productId `349057` · [HTML profile page](../../produkte/der-traffic-schnellstarter-kurs-von-gunnar-kessler-33576.html)

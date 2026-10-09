@@ -1,3 +1,24 @@
+---
+product_id: "40332"
+digistore24_product_id: 442666
+title: "Affiliate-Marketing A-Z der Gurus"
+vendor: "ss-business"
+product_type: "E-books"
+price: 49.88
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.11
+cart_conversion_pct: 10
+cancel_rate_pct: 2.32
+categories: ["Computer & Internet"]
+listed_since: "2022-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://florianschaefer.de/affiliate-marketing-a-z/?aff=adminstore#aff=adminstore"
+sales_page: "https://florianschaefer.de/affiliate-marketing-a-z/"
+language: "de"
+---
 # Affiliate-Marketing A-Z der Gurus
 
 > Product ID `40332` · Digistore24 productId `442666` · [HTML profile page](../../produkte/affiliate-marketing-a-z-der-gurus-40332.html)

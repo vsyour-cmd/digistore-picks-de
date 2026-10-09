@@ -1,3 +1,24 @@
+---
+product_id: "47774"
+digistore24_product_id: 264869
+title: "Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten"
+vendor: "growstudio"
+product_type: "Member area and video courses"
+price: 417.36
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 125.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2019-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.businessheldinnen.com/onlinebusinessheldin/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.businessheldinnen.com/onlinebusinessheldin/"
+language: "de"
+---
 # Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten
 
 > Product ID `47774` · Digistore24 productId `264869` · [HTML profile page](../../produkte/onlinebusiness-heldin-dein-onlinebusiness-in-3-monaten-47774.html)

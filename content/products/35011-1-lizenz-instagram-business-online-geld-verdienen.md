@@ -1,3 +1,24 @@
+---
+product_id: "35011"
+digistore24_product_id: 352052
+title: "1% Lizenz | Instagram - Business - Online Geld verdienen"
+vendor: "moserda"
+product_type: "Member area and video courses"
+price: 35.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 28.62
+cart_conversion_pct: 8
+cancel_rate_pct: 1.22
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einprozentclub.com/LP-Lizenz/?aff=adminstore#aff=adminstore"
+sales_page: "https://einprozentclub.com/LP-Lizenz/"
+language: "de"
+---
 # 1% Lizenz | Instagram - Business - Online Geld verdienen
 
 > Product ID `35011` · Digistore24 productId `352052` · [HTML profile page](../../produkte/1-lizenz-instagram-business-online-geld-verdienen-35011.html)

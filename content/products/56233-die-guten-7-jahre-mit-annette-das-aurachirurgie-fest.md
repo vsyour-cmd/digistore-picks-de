@@ -1,3 +1,24 @@
+---
+product_id: "56233"
+digistore24_product_id: 695423
+title: "DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest"
+vendor: "mindstream"
+product_type: "Telephone coaching"
+price: 124.16
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 41.21
+cart_conversion_pct: 2
+cancel_rate_pct: 0
+categories: ["Personal Development","Personal Development","Marketing Services"]
+listed_since: "2026-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695423?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695423"
+language: "de"
+---
 # DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest
 
 > Product ID `56233` · Digistore24 productId `695423` · [HTML profile page](../../produkte/die-guten-7-jahre-mit-annette-das-aurachirurgie-fest-56233.html)

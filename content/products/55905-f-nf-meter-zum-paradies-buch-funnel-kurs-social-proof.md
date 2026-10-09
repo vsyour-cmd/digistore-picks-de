@@ -1,3 +1,24 @@
+---
+product_id: "55905"
+digistore24_product_id: 656397
+title: "Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof"
+vendor: "fuenfmeterzumparadies"
+product_type: "Book (printed)"
+price: 28.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.23
+cart_conversion_pct: 15
+cancel_rate_pct: 4.16
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/"
+language: "de"
+---
 # Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof
 
 > Product ID `55905` · Digistore24 productId `656397` · [HTML profile page](../../produkte/f-nf-meter-zum-paradies-buch-funnel-kurs-social-proof-55905.html)

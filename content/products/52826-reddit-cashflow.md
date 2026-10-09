@@ -1,3 +1,24 @@
+---
+product_id: "52826"
+digistore24_product_id: 614011
+title: "Reddit Cashflow"
+vendor: "Verdienst-Kompass"
+product_type: "E-books"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.08
+cart_conversion_pct: 56
+cancel_rate_pct: 7.42
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2025-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://lp-mircodigital.de/rc/freebie?aff=adminstore#aff=adminstore"
+sales_page: "http://lp-mircodigital.de/rc/freebie"
+language: "de"
+---
 # Reddit Cashflow
 
 > Product ID `52826` · Digistore24 productId `614011` · [HTML profile page](../../produkte/reddit-cashflow-52826.html)

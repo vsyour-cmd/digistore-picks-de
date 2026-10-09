@@ -1,3 +1,24 @@
+---
+product_id: "57260"
+digistore24_product_id: 704238
+title: "Deinen ersten Newsletter starten"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/ersten-newsletter-starten?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/ersten-newsletter-starten"
+language: "de"
+---
 # Deinen ersten Newsletter starten
 
 > Product ID `57260` · Digistore24 productId `704238` · [HTML profile page](../../produkte/deinen-ersten-newsletter-starten-57260.html)

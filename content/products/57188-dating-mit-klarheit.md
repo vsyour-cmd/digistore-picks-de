@@ -1,3 +1,24 @@
+---
+product_id: "57188"
+digistore24_product_id: 701946
+title: "Dating mit Klarheit"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dating-mit-klarheit?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dating-mit-klarheit"
+language: "de"
+---
 # Dating mit Klarheit
 
 > Product ID `57188` · Digistore24 productId `701946` · [HTML profile page](../../produkte/dating-mit-klarheit-57188.html)

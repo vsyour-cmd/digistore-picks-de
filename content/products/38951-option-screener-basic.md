@@ -1,3 +1,24 @@
+---
+product_id: "38951"
+digistore24_product_id: 426567
+title: "Option Screener Basic"
+vendor: "mc_fireman"
+product_type: "Member area and video courses"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 93.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2022-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.tradesscanner.com//product_info.php?id=10&aff=adminstore#aff=adminstore"
+sales_page: "https://www.tradesscanner.com//product_info.php?id=10"
+language: "de"
+---
 # Option Screener Basic
 
 > Product ID `38951` · Digistore24 productId `426567` · [HTML profile page](../../produkte/option-screener-basic-38951.html)

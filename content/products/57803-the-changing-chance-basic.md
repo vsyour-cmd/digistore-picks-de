@@ -1,3 +1,24 @@
+---
+product_id: "57803"
+digistore24_product_id: 714637
+title: "The Changing Chance Basic"
+vendor: "TheChangingChance"
+product_type: "Member area and video courses"
+price: 120.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 48.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thechangingchance.de/index.html?aff=adminstore#aff=adminstore"
+sales_page: "https://thechangingchance.de/index.html"
+language: "de"
+---
 # The Changing Chance Basic
 
 > Product ID `57803` · Digistore24 productId `714637` · [HTML profile page](../../produkte/the-changing-chance-basic-57803.html)

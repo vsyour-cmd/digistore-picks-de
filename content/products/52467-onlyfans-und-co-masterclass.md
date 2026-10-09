@@ -1,3 +1,24 @@
+---
+product_id: "52467"
+digistore24_product_id: 578122
+title: "OnlyFans und Co. Masterclass"
+vendor: "AnneWuensche"
+product_type: "Member area and video courses"
+price: 43.75
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.53
+cart_conversion_pct: 3
+cancel_rate_pct: 5.35
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-10-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/578122?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/578122"
+language: "de"
+---
 # OnlyFans und Co. Masterclass
 
 > Product ID `52467` · Digistore24 productId `578122` · [HTML profile page](../../produkte/onlyfans-und-co-masterclass-52467.html)

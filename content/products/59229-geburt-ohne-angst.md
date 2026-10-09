@@ -1,3 +1,24 @@
+---
+product_id: "59229"
+digistore24_product_id: 733139
+title: "Geburt ohne Angst"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Health & Fitness"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733139?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733139"
+language: "de"
+---
 # Geburt ohne Angst
 
 > Product ID `59229` · Digistore24 productId `733139` · [HTML profile page](../../produkte/geburt-ohne-angst-59229.html)

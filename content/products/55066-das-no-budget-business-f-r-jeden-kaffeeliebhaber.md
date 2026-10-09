@@ -1,3 +1,24 @@
+---
+product_id: "55066"
+digistore24_product_id: 657831
+title: "Das „No-Budget“ Business für jeden Kaffeeliebhaber."
+vendor: "Rosi47"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Food & Drink","Online Marketing & E-Business"]
+listed_since: "2025-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cobyspartnerebook.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://cobyspartnerebook.netlify.app"
+language: "de"
+---
 # Das „No-Budget“ Business für jeden Kaffeeliebhaber.
 
 > Product ID `55066` · Digistore24 productId `657831` · [HTML profile page](../../produkte/das-no-budget-business-f-r-jeden-kaffeeliebhaber-55066.html)

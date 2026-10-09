@@ -1,3 +1,24 @@
+---
+product_id: "52082"
+digistore24_product_id: 564188
+title: "Online Kurs Mehrere Hunde"
+vendor: "KarineMastroleo"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 61.12
+cart_conversion_pct: 12
+cancel_rate_pct: 2.11
+categories: ["Animals & Pets"]
+listed_since: "2024-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.mehrerehunde-einteam.de/mehrerehunde-einteam/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mehrerehunde-einteam.de/mehrerehunde-einteam/"
+language: "de"
+---
 # Online Kurs Mehrere Hunde
 
 > Product ID `52082` · Digistore24 productId `564188` · [HTML profile page](../../produkte/online-kurs-mehrere-hunde-52082.html)

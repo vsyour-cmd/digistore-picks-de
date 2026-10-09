@@ -1,3 +1,24 @@
+---
+product_id: "54835"
+digistore24_product_id: 652892
+title: "4 Blog-Artikel 88€ / Monat + Bilder erstellen"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 98.44
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 29.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/blog-artikel-erstellen-posten-guenstig-99euro-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/blog-artikel-erstellen-posten-guenstig-99euro-digistore24/"
+language: "de"
+---
 # 4 Blog-Artikel 88€ / Monat + Bilder erstellen
 
 > Product ID `54835` · Digistore24 productId `652892` · [HTML profile page](../../produkte/4-blog-artikel-88-monat-bilder-erstellen-54835.html)

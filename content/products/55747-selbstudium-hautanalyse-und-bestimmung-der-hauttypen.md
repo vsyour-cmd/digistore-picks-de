@@ -1,3 +1,24 @@
+---
+product_id: "55747"
+digistore24_product_id: 671945
+title: "Selbstudium Hautanalyse und Bestimmung der Hauttypen"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 28.2
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671945?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671945"
+language: "de"
+---
 # Selbstudium Hautanalyse und Bestimmung der Hauttypen
 
 > Product ID `55747` · Digistore24 productId `671945` · [HTML profile page](../../produkte/selbstudium-hautanalyse-und-bestimmung-der-hauttypen-55747.html)

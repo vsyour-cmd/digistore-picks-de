@@ -1,3 +1,24 @@
+---
+product_id: "50723"
+digistore24_product_id: 659609
+title: "Die Kraft der Ernährung"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 141.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.73
+cart_conversion_pct: 5
+cancel_rate_pct: 5.85
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.zielgesundheit.de/diekraftderernaehrung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.zielgesundheit.de/diekraftderernaehrung/"
+language: "de"
+---
 # Die Kraft der Ernährung
 
 > Product ID `50723` · Digistore24 productId `659609` · [HTML profile page](../../produkte/die-kraft-der-ern-hrung-50723.html)

@@ -1,3 +1,24 @@
+---
+product_id: "30318"
+digistore24_product_id: 292330
+title: "UMBAUHELD UNI MITGLIEDERBEREICH"
+vendor: "Kamille69"
+product_type: "Member area and video courses"
+price: 157.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 78.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2019-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7"
+language: "de"
+---
 # UMBAUHELD UNI MITGLIEDERBEREICH
 
 > Product ID `30318` · Digistore24 productId `292330` · [HTML profile page](../../produkte/umbauheld-uni-mitgliederbereich-30318.html)

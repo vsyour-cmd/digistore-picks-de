@@ -1,3 +1,24 @@
+---
+product_id: "59720"
+digistore24_product_id: 734498
+title: "Online Hormonkurs: PMS verstehen - natürlich handeln"
+vendor: "natuerlich-hormonisch"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 139.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://www.natuerlich-hormonisch.de/pms-onlinekurs-digistore?aff=adminstore#aff=adminstore"
+sales_page: "http://www.natuerlich-hormonisch.de/pms-onlinekurs-digistore"
+language: "de"
+---
 # Online Hormonkurs: PMS verstehen - natürlich handeln
 
 > Product ID `59720` · Digistore24 productId `734498` · [HTML profile page](../../produkte/online-hormonkurs-pms-verstehen-nat-rlich-handeln-59720.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57477"
+digistore24_product_id: 710046
+title: "30% Provision für Scroll-Stopp Fast: Die 14-Tage Handy-Chall"
+vendor: "Tipp-Meister"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Social Media"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://scrolll-stop-fast.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "http://scrolll-stop-fast.netlify.app"
+language: "de"
+---
 # 30% Provision für Scroll-Stopp Fast: Die 14-Tage Handy-Chall
 
 > Product ID `57477` · Digistore24 productId `710046` · [HTML profile page](../../produkte/30-provision-f-r-scroll-stopp-fast-die-14-tage-handy-chall-57477.html)

@@ -1,3 +1,24 @@
+---
+product_id: "39979"
+digistore24_product_id: 424136
+title: "Selbstliebe - Online Kurs mit Pavlina Klemm"
+vendor: "ChannelingKongress"
+product_type: "Member area and video courses"
+price: 196.99
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 40.62
+cart_conversion_pct: 9
+cancel_rate_pct: 1.6
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://selbstliebe-onlinekurs.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://selbstliebe-onlinekurs.de/"
+language: "de"
+---
 # Selbstliebe - Online Kurs mit Pavlina Klemm
 
 > Product ID `39979` · Digistore24 productId `424136` · [HTML profile page](../../produkte/selbstliebe-online-kurs-mit-pavlina-klemm-39979.html)

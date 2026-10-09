@@ -1,3 +1,24 @@
+---
+product_id: "41610"
+digistore24_product_id: 342251
+title: "Mehr Ausdauer - länger durchhalten - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 42.13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 45.86
+cart_conversion_pct: 11
+cancel_rate_pct: 3.57
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2020-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/mehrausdauer/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/mehrausdauer/"
+language: "de"
+---
 # Mehr Ausdauer - länger durchhalten - Anastasia Romanova
 
 > Product ID `41610` · Digistore24 productId `342251` · [HTML profile page](../../produkte/mehr-ausdauer-l-nger-durchhalten-anastasia-romanova-41610.html)

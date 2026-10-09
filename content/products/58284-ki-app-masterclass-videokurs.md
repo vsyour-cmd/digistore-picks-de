@@ -1,3 +1,24 @@
+---
+product_id: "58284"
+digistore24_product_id: 719640
+title: "KI-App Masterclass (Videokurs)"
+vendor: "worldxpb"
+product_type: "Downloads"
+price: 94
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Marketing Services"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/719640?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719640"
+language: "de"
+---
 # KI-App Masterclass (Videokurs)
 
 > Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../produkte/ki-app-masterclass-videokurs-58284.html)

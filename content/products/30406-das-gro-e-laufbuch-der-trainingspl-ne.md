@@ -1,3 +1,24 @@
+---
+product_id: "30406"
+digistore24_product_id: 290934
+title: "Das große Laufbuch der Trainingspläne"
+vendor: "HDsports"
+product_type: "E-books"
+price: 33.35
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2019-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hdsports.at/literatur/trainingsplaene-fuer-laeufer-und-laeuferinnen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hdsports.at/literatur/trainingsplaene-fuer-laeufer-und-laeuferinnen"
+language: "de"
+---
 # Das große Laufbuch der Trainingspläne
 
 > Product ID `30406` · Digistore24 productId `290934` · [HTML profile page](../../produkte/das-gro-e-laufbuch-der-trainingspl-ne-30406.html)

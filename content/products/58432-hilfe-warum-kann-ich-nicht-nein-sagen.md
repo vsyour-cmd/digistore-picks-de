@@ -1,3 +1,24 @@
+---
+product_id: "58432"
+digistore24_product_id: 677497
+title: "Hilfe! Warum kann ich nicht Nein sagen?"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
+language: "de"
+---
 # Hilfe! Warum kann ich nicht Nein sagen?
 
 > Product ID `58432` · Digistore24 productId `677497` · [HTML profile page](../../produkte/hilfe-warum-kann-ich-nicht-nein-sagen-58432.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55697"
+digistore24_product_id: 641365
+title: "Content Profit System"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 123.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.28
+cart_conversion_pct: 7
+cancel_rate_pct: 0.78
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/csps/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/csps/"
+language: "de"
+---
 # Content Profit System
 
 > Product ID `55697` · Digistore24 productId `641365` · [HTML profile page](../../produkte/content-profit-system-55697.html)

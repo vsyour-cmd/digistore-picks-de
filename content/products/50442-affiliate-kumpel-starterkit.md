@@ -1,3 +1,24 @@
+---
+product_id: "50442"
+digistore24_product_id: 555447
+title: "Affiliate Kumpel Starterkit"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/affiliate-starterkit/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/affiliate-starterkit/"
+language: "de"
+---
 # Affiliate Kumpel Starterkit
 
 > Product ID `50442` · Digistore24 productId `555447` · [HTML profile page](../../produkte/affiliate-kumpel-starterkit-50442.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44155"
+digistore24_product_id: 488370
+title: "Microsoft Excel für Auswertung, Präsentation, Pivot"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.65
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/"
+language: "de"
+---
 # Microsoft Excel für Auswertung, Präsentation, Pivot
 
 > Product ID `44155` · Digistore24 productId `488370` · [HTML profile page](../../produkte/microsoft-excel-f-r-auswertung-pr-sentation-pivot-44155.html)

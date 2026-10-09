@@ -1,3 +1,24 @@
+---
+product_id: "57525"
+digistore24_product_id: 709305
+title: "Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter"
+vendor: "sachkundeak"
+product_type: "Member area and video courses"
+price: 111.85
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Personal Development"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/?aff=adminstore#aff=adminstore"
+sales_page: "https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/"
+language: "de"
+---
 # Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter
 
 > Product ID `57525` · Digistore24 productId `709305` · [HTML profile page](../../produkte/regelm-ige-mabv-weiterbildung-f-r-wohn-immobilien-verwalter-57525.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55339"
+digistore24_product_id: 664290
+title: "Email Klick Tipp Marketing Automations: Smarte Kampagnen und"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 145.42
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 43.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/130euro-monat-2stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/130euro-monat-2stunde-automat-diensleistungen-digistore24/"
+language: "de"
+---
 # Email Klick Tipp Marketing Automations: Smarte Kampagnen und
 
 > Product ID `55339` · Digistore24 productId `664290` · [HTML profile page](../../produkte/email-klick-tipp-marketing-automations-smarte-kampagnen-und-55339.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48631"
+digistore24_product_id: 131441
+title: "Die schönsten Regengeräusche [MP3s]"
+vendor: "rheinrost"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2017-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://regengeraeusche.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://regengeraeusche.de/"
+language: "de"
+---
 # Die schönsten Regengeräusche [MP3s]
 
 > Product ID `48631` · Digistore24 productId `131441` · [HTML profile page](../../produkte/die-sch-nsten-regenger-usche-mp3s-48631.html)

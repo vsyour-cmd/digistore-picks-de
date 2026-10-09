@@ -1,3 +1,24 @@
+---
+product_id: "32098"
+digistore24_product_id: 310994
+title: "Schnell Abnehmen und gesund abnehmen bis Wunschgewicht"
+vendor: "FreedomBusinessSH3"
+product_type: "E-books"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 21.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-03-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://abnehmen-bis-wunschgewicht.de?aff=adminstore#aff=adminstore"
+sales_page: "https://abnehmen-bis-wunschgewicht.de"
+language: "de"
+---
 # Schnell Abnehmen und gesund abnehmen bis Wunschgewicht
 
 > Product ID `32098` · Digistore24 productId `310994` · [HTML profile page](../../produkte/schnell-abnehmen-und-gesund-abnehmen-bis-wunschgewicht-32098.html)

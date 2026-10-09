@@ -1,3 +1,24 @@
+---
+product_id: "56098"
+digistore24_product_id: 680578
+title: "Dein Mindset – Mentale Stärke trifft Fitness"
+vendor: "Freifone"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/dein-mindset?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/dein-mindset"
+language: "de"
+---
 # Dein Mindset – Mentale Stärke trifft Fitness
 
 > Product ID `56098` · Digistore24 productId `680578` · [HTML profile page](../../produkte/dein-mindset-mentale-st-rke-trifft-fitness-56098.html)

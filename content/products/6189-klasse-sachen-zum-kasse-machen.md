@@ -1,3 +1,24 @@
+---
+product_id: "6189"
+digistore24_product_id: 41469
+title: "Klasse Sachen zum Kasse machen"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 14.5
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Profession & Job"]
+listed_since: "2015-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-ks1-2/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-ks1-2/index.html"
+language: "de"
+---
 # Klasse Sachen zum Kasse machen
 
 > Product ID `6189` · Digistore24 productId `41469` · [HTML profile page](../../produkte/klasse-sachen-zum-kasse-machen-6189.html)

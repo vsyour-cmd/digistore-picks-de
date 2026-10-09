@@ -1,3 +1,24 @@
+---
+product_id: "12289"
+digistore24_product_id: 436380
+title: "Ahnenforschung in Polen dank Internet leicht gemacht"
+vendor: "amanka"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2022-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.ahnenforschunginpolen.eu/buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ahnenforschunginpolen.eu/buch/"
+language: "de"
+---
 # Ahnenforschung in Polen dank Internet leicht gemacht
 
 > Product ID `12289` · Digistore24 productId `436380` · [HTML profile page](../../produkte/ahnenforschung-in-polen-dank-internet-leicht-gemacht-12289.html)

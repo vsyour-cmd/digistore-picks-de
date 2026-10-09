@@ -1,3 +1,24 @@
+---
+product_id: "57201"
+digistore24_product_id: 701959
+title: "Kommunikation in der Kennenlernphase"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/kommunikation-kennenlernphase?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/kommunikation-kennenlernphase"
+language: "de"
+---
 # Kommunikation in der Kennenlernphase
 
 > Product ID `57201` · Digistore24 productId `701959` · [HTML profile page](../../produkte/kommunikation-in-der-kennenlernphase-57201.html)

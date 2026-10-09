@@ -1,3 +1,24 @@
+---
+product_id: "46816"
+digistore24_product_id: 525719
+title: "Dienstplan: Effiziente Schichtplanung mit Excel"
+vendor: "CemisCode"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Software"]
+listed_since: "2023-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.cemiscode.com/dienstplan/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cemiscode.com/dienstplan/"
+language: "de"
+---
 # Dienstplan: Effiziente Schichtplanung mit Excel
 
 > Product ID `46816` · Digistore24 productId `525719` · [HTML profile page](../../produkte/dienstplan-effiziente-schichtplanung-mit-excel-46816.html)

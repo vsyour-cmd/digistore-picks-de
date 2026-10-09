@@ -1,3 +1,24 @@
+---
+product_id: "31341"
+digistore24_product_id: 286659
+title: "Der ultimative 90 Tagesplan - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "E-books"
+price: 32.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.75
+cart_conversion_pct: 30
+cancel_rate_pct: 9.06
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyeschufterei.de/90-tageplan-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/90-tageplan-7500/"
+language: "de"
+---
 # Der ultimative 90 Tagesplan - von Gunnar Kessler
 
 > Product ID `31341` · Digistore24 productId `286659` · [HTML profile page](../../produkte/der-ultimative-90-tagesplan-von-gunnar-kessler-31341.html)

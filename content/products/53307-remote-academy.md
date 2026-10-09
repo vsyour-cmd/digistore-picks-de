@@ -1,3 +1,24 @@
+---
+product_id: "53307"
+digistore24_product_id: 556810
+title: "Remote Academy"
+vendor: "SocialUpMedia"
+product_type: "Member area and video courses"
+price: 28.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Marketing Services"]
+listed_since: "2024-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/556810?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/556810"
+language: "de"
+---
 # Remote Academy
 
 > Product ID `53307` · Digistore24 productId `556810` · [HTML profile page](../../produkte/remote-academy-53307.html)

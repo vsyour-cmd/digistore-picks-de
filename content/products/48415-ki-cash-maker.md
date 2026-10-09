@@ -1,3 +1,24 @@
+---
+product_id: "48415"
+digistore24_product_id: 557038
+title: "KI Cash Maker"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/ki-cashmaker/?aff=adminstore#aff=adminstore"
+sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/ki-cashmaker/"
+language: "de"
+---
 # KI Cash Maker
 
 > Product ID `48415` · Digistore24 productId `557038` · [HTML profile page](../../produkte/ki-cash-maker-48415.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38598"
+digistore24_product_id: 419814
+title: "[NEU] Verschenke das Online Business Praxishandbuch"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 11.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 8.36
+cart_conversion_pct: 8
+cancel_rate_pct: 1.9
+categories: ["Business & Investment"]
+listed_since: "2021-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/419814/adminstore"
+sales_page: "https://www.thomasklussmann.de/buch/praxishandbuch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # [NEU] Verschenke das Online Business Praxishandbuch
 
 > Product ID `38598` · Digistore24 productId `419814` · [HTML profile page](../../produkte/neu-verschenke-das-online-business-praxishandbuch-38598.html)

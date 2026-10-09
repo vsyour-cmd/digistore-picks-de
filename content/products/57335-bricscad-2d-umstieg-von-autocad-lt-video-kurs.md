@@ -1,3 +1,24 @@
+---
+product_id: "57335"
+digistore24_product_id: 568921
+title: "BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 66.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://cad-video.de/umstieg-von-autocad-zu-bcad?aff=adminstore#aff=adminstore"
+sales_page: "https://cad-video.de/umstieg-von-autocad-zu-bcad"
+language: "de"
+---
 # BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs
 
 > Product ID `57335` · Digistore24 productId `568921` · [HTML profile page](../../produkte/bricscad-2d-umstieg-von-autocad-lt-video-kurs-57335.html)

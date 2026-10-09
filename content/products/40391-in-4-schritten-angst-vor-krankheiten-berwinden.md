@@ -1,3 +1,24 @@
+---
+product_id: "40391"
+digistore24_product_id: 436651
+title: "In 4 Schritten Angst vor Krankheiten überwinden"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/221-0-4-Schritte-gegen-Angst-vor-Krankheiten.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/221-0-4-Schritte-gegen-Angst-vor-Krankheiten.html"
+language: "de"
+---
 # In 4 Schritten Angst vor Krankheiten überwinden
 
 > Product ID `40391` · Digistore24 productId `436651` · [HTML profile page](../../produkte/in-4-schritten-angst-vor-krankheiten-berwinden-40391.html)

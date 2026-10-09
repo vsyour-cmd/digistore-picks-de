@@ -1,3 +1,24 @@
+---
+product_id: "50985"
+digistore24_product_id: 588893
+title: "KI-Kompendium: Die Plattform für die KI-Praxis"
+vendor: "MibeneUG"
+product_type: "Member area and video courses"
+price: 558.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 111.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Profession & Job"]
+listed_since: "2025-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/588893?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/588893"
+language: "de"
+---
 # KI-Kompendium: Die Plattform für die KI-Praxis
 
 > Product ID `50985` · Digistore24 productId `588893` · [HTML profile page](../../produkte/ki-kompendium-die-plattform-f-r-die-ki-praxis-50985.html)

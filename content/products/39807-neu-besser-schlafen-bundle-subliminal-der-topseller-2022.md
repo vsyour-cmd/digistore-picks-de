@@ -1,3 +1,24 @@
+---
+product_id: "39807"
+digistore24_product_id: 363375
+title: "NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022"
+vendor: "seiwunderbar"
+product_type: "Downloads"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/?aff=adminstore#aff=adminstore"
+sales_page: "https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/"
+language: "de"
+---
 # NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022
 
 > Product ID `39807` · Digistore24 productId `363375` · [HTML profile page](../../produkte/neu-besser-schlafen-bundle-subliminal-der-topseller-2022-39807.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48381"
+digistore24_product_id: 536891
+title: "[NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt)"
+vendor: "Erschaffedichneu"
+product_type: "Book (printed)"
+price: 10.41
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.85
+cart_conversion_pct: 11
+cancel_rate_pct: 0.86
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2024-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://erschaffedichneu.com/feinsamkeit?aff=adminstore#aff=adminstore"
+sales_page: "https://erschaffedichneu.com/feinsamkeit"
+language: "de"
+---
 # [NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt)
 
 > Product ID `48381` · Digistore24 productId `536891` · [HTML profile page](../../produkte/neu-fuck-einsamkeit-zu-verschenken-buch-gedruckt-48381.html)

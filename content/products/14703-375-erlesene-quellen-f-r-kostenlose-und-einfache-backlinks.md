@@ -1,3 +1,24 @@
+---
+product_id: "14703"
+digistore24_product_id: 111745
+title: "375+ Erlesene Quellen für kostenlose und einfache Backlinks"
+vendor: "martingonev"
+product_type: "Downloads"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.martingonev.de/1a-kostenlose-backlinks/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.martingonev.de/1a-kostenlose-backlinks/"
+language: "de"
+---
 # 375+ Erlesene Quellen für kostenlose und einfache Backlinks
 
 > Product ID `14703` · Digistore24 productId `111745` · [HTML profile page](../../produkte/375-erlesene-quellen-f-r-kostenlose-und-einfache-backlinks-14703.html)

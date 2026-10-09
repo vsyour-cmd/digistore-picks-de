@@ -1,3 +1,24 @@
+---
+product_id: "58241"
+digistore24_product_id: 717831
+title: "Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/das-rauchfrei-starterpaket?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/das-rauchfrei-starterpaket"
+language: "de"
+---
 # Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision
 
 > Product ID `58241` · Digistore24 productId `717831` · [HTML profile page](../../produkte/rauchfrei-starterpaket-komplettpaket-50-provision-58241.html)

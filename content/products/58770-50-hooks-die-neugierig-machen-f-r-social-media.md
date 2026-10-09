@@ -1,3 +1,24 @@
+---
+product_id: "58770"
+digistore24_product_id: 727608
+title: "50 Hooks, die neugierig machen – für Social Media"
+vendor: "JessiLL81"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727608?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727608"
+language: "de"
+---
 # 50 Hooks, die neugierig machen – für Social Media
 
 > Product ID `58770` · Digistore24 productId `727608` · [HTML profile page](../../produkte/50-hooks-die-neugierig-machen-f-r-social-media-58770.html)

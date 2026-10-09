@@ -1,3 +1,24 @@
+---
+product_id: "46414"
+digistore24_product_id: 463928
+title: "Auswandern nach Kroatien"
+vendor: "medienversand2014"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2022-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://noebauerfxj.wixsite.com/kroatien1?aff=adminstore#aff=adminstore"
+sales_page: "https://noebauerfxj.wixsite.com/kroatien1"
+language: "de"
+---
 # Auswandern nach Kroatien
 
 > Product ID `46414` · Digistore24 productId `463928` · [HTML profile page](../../produkte/auswandern-nach-kroatien-46414.html)

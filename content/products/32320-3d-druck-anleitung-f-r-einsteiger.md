@@ -1,3 +1,24 @@
+---
+product_id: "32320"
+digistore24_product_id: 320187
+title: "3D-Druck Anleitung für Einsteiger"
+vendor: "FIMA2011"
+product_type: "Downloads"
+price: 26.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2020-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.3ddruckerlernen.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.3ddruckerlernen.de"
+language: "de"
+---
 # 3D-Druck Anleitung für Einsteiger
 
 > Product ID `32320` · Digistore24 productId `320187` · [HTML profile page](../../produkte/3d-druck-anleitung-f-r-einsteiger-32320.html)

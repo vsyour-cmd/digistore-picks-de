@@ -1,3 +1,24 @@
+---
+product_id: "47526"
+digistore24_product_id: 526446
+title: "NFT & Web3 Masterclass"
+vendor: "NFTAkademie"
+product_type: "Member area and video courses"
+price: 3349.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1674.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Finances"]
+listed_since: "2023-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/?aff=adminstore#aff=adminstore"
+sales_page: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/"
+language: "de"
+---
 # NFT & Web3 Masterclass
 
 > Product ID `47526` · Digistore24 productId `526446` · [HTML profile page](../../produkte/nft-web3-masterclass-47526.html)

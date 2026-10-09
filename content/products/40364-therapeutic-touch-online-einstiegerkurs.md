@@ -1,3 +1,24 @@
+---
+product_id: "40364"
+digistore24_product_id: 447934
+title: "THERAPEUTIC TOUCH Online-Einstiegerkurs"
+vendor: "TT-Coach"
+product_type: "Member area and video courses"
+price: 197.4
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 49.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2022-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/"
+language: "de"
+---
 # THERAPEUTIC TOUCH Online-Einstiegerkurs
 
 > Product ID `40364` · Digistore24 productId `447934` · [HTML profile page](../../produkte/therapeutic-touch-online-einstiegerkurs-40364.html)

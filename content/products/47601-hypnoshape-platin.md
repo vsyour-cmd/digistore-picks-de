@@ -1,3 +1,24 @@
+---
+product_id: "47601"
+digistore24_product_id: 473710
+title: "Hypnoshape - Platin"
+vendor: "Glowing_Media"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Services"]
+listed_since: "2022-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/473710?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/473710"
+language: "de"
+---
 # Hypnoshape - Platin
 
 > Product ID `47601` · Digistore24 productId `473710` · [HTML profile page](../../produkte/hypnoshape-platin-47601.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56141"
+digistore24_product_id: 680962
+title: "1000€ Notfallpuffer Blueprint | 5-Produkte | 50% Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Finances"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24"
+language: "de"
+---
 # 1000€ Notfallpuffer Blueprint | 5-Produkte | 50% Provision
 
 > Product ID `56141` · Digistore24 productId `680962` · [HTML profile page](../../produkte/1000-notfallpuffer-blueprint-5-produkte-50-provision-56141.html)

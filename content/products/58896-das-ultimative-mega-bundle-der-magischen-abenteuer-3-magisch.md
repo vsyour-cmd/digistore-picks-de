@@ -1,3 +1,24 @@
+---
+product_id: "58896"
+digistore24_product_id: 728676
+title: "Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 15.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728676?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728676"
+language: "de"
+---
 # Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch
 
 > Product ID `58896` · Digistore24 productId `728676` · [HTML profile page](../../produkte/das-ultimative-mega-bundle-der-magischen-abenteuer-3-magisch-58896.html)

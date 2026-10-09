@@ -1,3 +1,24 @@
+---
+product_id: "57176"
+digistore24_product_id: 701932
+title: "Die ersten 90 Tage"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/erste-90-tage?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/erste-90-tage"
+language: "de"
+---
 # Die ersten 90 Tage
 
 > Product ID `57176` · Digistore24 productId `701932` · [HTML profile page](../../produkte/die-ersten-90-tage-57176.html)

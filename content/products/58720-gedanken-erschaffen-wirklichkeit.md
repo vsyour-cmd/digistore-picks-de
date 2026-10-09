@@ -1,3 +1,24 @@
+---
+product_id: "58720"
+digistore24_product_id: 716175
+title: "Gedanken erschaffen Wirklichkeit"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/gedanken.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/gedanken.php"
+language: "de"
+---
 # Gedanken erschaffen Wirklichkeit
 
 > Product ID `58720` · Digistore24 productId `716175` · [HTML profile page](../../produkte/gedanken-erschaffen-wirklichkeit-58720.html)

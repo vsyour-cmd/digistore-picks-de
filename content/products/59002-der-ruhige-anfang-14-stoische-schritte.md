@@ -1,3 +1,24 @@
+---
+product_id: "59002"
+digistore24_product_id: 725967
+title: "Der ruhige Anfang – 14 stoische Schritte"
+vendor: "urkraftmindset"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://urkraftmindset.ch/der-ruhige-anfang?aff=adminstore#aff=adminstore"
+sales_page: "https://urkraftmindset.ch/der-ruhige-anfang"
+language: "de"
+---
 # Der ruhige Anfang – 14 stoische Schritte
 
 > Product ID `59002` · Digistore24 productId `725967` · [HTML profile page](../../produkte/der-ruhige-anfang-14-stoische-schritte-59002.html)

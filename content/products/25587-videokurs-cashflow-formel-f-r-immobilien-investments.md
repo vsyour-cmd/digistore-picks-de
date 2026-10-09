@@ -1,3 +1,24 @@
+---
+product_id: "25587"
+digistore24_product_id: 363165
+title: "Videokurs \"Cashflow-Formel für Immobilien-Investments\""
+vendor: "Jederkannimmobilien"
+product_type: "Member area and video courses"
+price: 478.46
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 143.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/"
+language: "de"
+---
 # Videokurs "Cashflow-Formel für Immobilien-Investments"
 
 > Product ID `25587` · Digistore24 productId `363165` · [HTML profile page](../../produkte/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html)

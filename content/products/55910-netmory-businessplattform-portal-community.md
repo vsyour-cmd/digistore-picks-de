@@ -1,3 +1,24 @@
+---
+product_id: "55910"
+digistore24_product_id: 670531
+title: "NETMORY | Businessplattform - Portal & Community"
+vendor: "NETMORY"
+product_type: "Member area and video courses"
+price: 103.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 62.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-02-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://netmory.de?aff=adminstore#aff=adminstore"
+sales_page: "https://netmory.de"
+language: "de"
+---
 # NETMORY | Businessplattform - Portal & Community
 
 > Product ID `55910` · Digistore24 productId `670531` · [HTML profile page](../../produkte/netmory-businessplattform-portal-community-55910.html)

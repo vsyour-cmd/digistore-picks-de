@@ -1,3 +1,24 @@
+---
+product_id: "48347"
+digistore24_product_id: 554153
+title: "Handpan Training Cards"
+vendor: "Kirchhofer"
+product_type: "Downloads"
+price: 27.53
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.9
+cart_conversion_pct: 5
+cancel_rate_pct: 2.01
+categories: ["Dancing & Music","Fun & Games","Hobby & Craft"]
+listed_since: "2024-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/554153?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/554153"
+language: "de"
+---
 # Handpan Training Cards
 
 > Product ID `48347` · Digistore24 productId `554153` · [HTML profile page](../../produkte/handpan-training-cards-48347.html)

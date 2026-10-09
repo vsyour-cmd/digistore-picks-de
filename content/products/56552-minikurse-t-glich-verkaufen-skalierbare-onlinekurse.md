@@ -1,3 +1,24 @@
+---
+product_id: "56552"
+digistore24_product_id: 688026
+title: "Minikurse täglich verkaufen, skalierbare Onlinekurse"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 63.76
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://jyotimaflak.com/minikurs-hotcake/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/minikurs-hotcake/"
+language: "de"
+---
 # Minikurse täglich verkaufen, skalierbare Onlinekurse
 
 > Product ID `56552` · Digistore24 productId `688026` · [HTML profile page](../../produkte/minikurse-t-glich-verkaufen-skalierbare-onlinekurse-56552.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53538"
+digistore24_product_id: 629052
+title: "Affiliate Startplan – Erfolgreich starten"
+vendor: "Challenge24ST"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 0
+cart_conversion_pct: 44
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services"]
+listed_since: "2025-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stephantiegel.online?aff=adminstore#aff=adminstore"
+sales_page: "https://stephantiegel.online"
+language: "de"
+---
 # Affiliate Startplan – Erfolgreich starten
 
 > Product ID `53538` · Digistore24 productId `629052` · [HTML profile page](../../produkte/affiliate-startplan-erfolgreich-starten-53538.html)

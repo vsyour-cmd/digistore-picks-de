@@ -1,3 +1,24 @@
+---
+product_id: "56264"
+digistore24_product_id: 682394
+title: "System-Exit- Masterclass Kurs"
+vendor: "kuerschnermarketinga439"
+product_type: "Member area and video courses"
+price: 978.54
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 587.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Services"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://system-exit.mydigibiz24.com/system-exit-verkauf?aff=adminstore#aff=adminstore"
+sales_page: "https://system-exit.mydigibiz24.com/system-exit-verkauf"
+language: "de"
+---
 # System-Exit- Masterclass Kurs
 
 > Product ID `56264` · Digistore24 productId `682394` · [HTML profile page](../../produkte/system-exit-masterclass-kurs-56264.html)

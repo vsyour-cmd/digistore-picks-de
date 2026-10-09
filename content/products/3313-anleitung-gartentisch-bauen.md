@@ -1,3 +1,24 @@
+---
+product_id: "3313"
+digistore24_product_id: 25429
+title: "Anleitung Gartentisch bauen"
+vendor: "hinmed"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2014-05-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.gartentisch-bauen.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.gartentisch-bauen.de/"
+language: "de"
+---
 # Anleitung Gartentisch bauen
 
 > Product ID `3313` · Digistore24 productId `25429` · [HTML profile page](../../produkte/anleitung-gartentisch-bauen-3313.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44445"
+digistore24_product_id: 501740
+title: "for men only \"Beckenboden-ONLINE Männer\""
+vendor: "SilkeTiede"
+product_type: "Member area and video courses"
+price: 235
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-maenner/?aff=adminstore#aff=adminstore"
+sales_page: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-maenner/"
+language: "de"
+---
 # for men only "Beckenboden-ONLINE Männer"
 
 > Product ID `44445` · Digistore24 productId `501740` · [HTML profile page](../../produkte/for-men-only-beckenboden-online-m-nner-44445.html)

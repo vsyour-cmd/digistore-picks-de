@@ -1,3 +1,24 @@
+---
+product_id: "55804"
+digistore24_product_id: 671103
+title: "AUDI Q7 4L FACELIFT CONVERSION GUIDE"
+vendor: "infod31e"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2026-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671103?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671103"
+language: "de"
+---
 # AUDI Q7 4L FACELIFT CONVERSION GUIDE
 
 > Product ID `55804` · Digistore24 productId `671103` · [HTML profile page](../../produkte/audi-q7-4l-facelift-conversion-guide-55804.html)

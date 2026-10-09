@@ -1,3 +1,24 @@
+---
+product_id: "18129"
+digistore24_product_id: 154051
+title: "Neurobäume"
+vendor: "motivation-art"
+product_type: "Member area and video courses"
+price: 277.3
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 30.95
+cart_conversion_pct: 11
+cancel_rate_pct: 1.08
+categories: ["Personal Development"]
+listed_since: "2017-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore"
+sales_page: "http://motivation-art.de/neurobaeume"
+language: "de"
+---
 # Neurobäume
 
 > Product ID `18129` · Digistore24 productId `154051` · [HTML profile page](../../produkte/neurob-ume-18129.html)

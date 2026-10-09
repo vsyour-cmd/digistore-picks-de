@@ -1,3 +1,24 @@
+---
+product_id: "41304"
+digistore24_product_id: 460665
+title: "Vendor Sofort-Start Anleitung - Freebie"
+vendor: "Plebvin"
+product_type: "E-books"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.09
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2022-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.kb-om.com/der-weg-zum-affiliate-millionaer-ebook-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kb-om.com/der-weg-zum-affiliate-millionaer-ebook-ds24"
+language: "de"
+---
 # Vendor Sofort-Start Anleitung - Freebie
 
 > Product ID `41304` · Digistore24 productId `460665` · [HTML profile page](../../produkte/vendor-sofort-start-anleitung-freebie-41304.html)

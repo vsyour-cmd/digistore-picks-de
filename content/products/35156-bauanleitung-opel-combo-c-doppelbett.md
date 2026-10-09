@@ -1,3 +1,24 @@
+---
+product_id: "35156"
+digistore24_product_id: 325098
+title: "Bauanleitung - Opel Combo C Doppelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-05-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/opel-combo-c?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/opel-combo-c"
+language: "de"
+---
 # Bauanleitung - Opel Combo C Doppelbett
 
 > Product ID `35156` · Digistore24 productId `325098` · [HTML profile page](../../produkte/bauanleitung-opel-combo-c-doppelbett-35156.html)

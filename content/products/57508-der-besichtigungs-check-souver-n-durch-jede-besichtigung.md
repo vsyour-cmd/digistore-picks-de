@@ -1,3 +1,24 @@
+---
+product_id: "57508"
+digistore24_product_id: 705881
+title: "Der Besichtigungs-Check: Souverän durch jede Besichtigung"
+vendor: "bujocee4"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Real Estate"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://besichtigungs-check.de?aff=adminstore#aff=adminstore"
+sales_page: "https://besichtigungs-check.de"
+language: "de"
+---
 # Der Besichtigungs-Check: Souverän durch jede Besichtigung
 
 > Product ID `57508` · Digistore24 productId `705881` · [HTML profile page](../../produkte/der-besichtigungs-check-souver-n-durch-jede-besichtigung-57508.html)

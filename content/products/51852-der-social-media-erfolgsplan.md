@@ -1,3 +1,24 @@
+---
+product_id: "51852"
+digistore24_product_id: 300338
+title: "Der Social Media Erfolgsplan"
+vendor: "onlineratgeber24"
+product_type: "Member area and video courses"
+price: 446.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 223.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2019-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.startimpulse.online/social-media-erfolgsplan?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startimpulse.online/social-media-erfolgsplan"
+language: "de"
+---
 # Der Social Media Erfolgsplan
 
 > Product ID `51852` · Digistore24 productId `300338` · [HTML profile page](../../produkte/der-social-media-erfolgsplan-51852.html)

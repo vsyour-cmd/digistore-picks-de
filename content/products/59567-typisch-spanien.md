@@ -1,3 +1,24 @@
+---
+product_id: "59567"
+digistore24_product_id: 736359
+title: "Typisch Spanien"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736359?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736359"
+language: "de"
+---
 # Typisch Spanien
 
 > Product ID `59567` · Digistore24 productId `736359` · [HTML profile page](../../produkte/typisch-spanien-59567.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36572"
+digistore24_product_id: 323603
+title: "Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'"
+vendor: "modernmusic"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.modern-music.org/klavierspielen-auf-knopfdruck?aff=adminstore#aff=adminstore"
+sales_page: "https://www.modern-music.org/klavierspielen-auf-knopfdruck"
+language: "de"
+---
 # Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'
 
 > Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../produkte/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)

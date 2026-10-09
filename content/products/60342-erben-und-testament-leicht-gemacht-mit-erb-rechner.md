@@ -1,3 +1,24 @@
+---
+product_id: "60342"
+digistore24_product_id: 741722
+title: "Erben und Testament leicht gemacht – mit Erb-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741722?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741722"
+language: "de"
+---
 # Erben und Testament leicht gemacht – mit Erb-Rechner
 
 > Product ID `60342` · Digistore24 productId `741722` · [HTML profile page](../../produkte/erben-und-testament-leicht-gemacht-mit-erb-rechner-60342.html)

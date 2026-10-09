@@ -1,3 +1,24 @@
+---
+product_id: "57029"
+digistore24_product_id: 702260
+title: "MPU-Idiotentest-Fragen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/mpu-fragen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/mpu-fragen"
+language: "de"
+---
 # MPU-Idiotentest-Fragen
 
 > Product ID `57029` · Digistore24 productId `702260` · [HTML profile page](../../produkte/mpu-idiotentest-fragen-57029.html)

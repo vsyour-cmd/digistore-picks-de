@@ -1,3 +1,24 @@
+---
+product_id: "60039"
+digistore24_product_id: 632057
+title: "Female Health Akademie"
+vendor: "JohannaKlatt"
+product_type: "Member area and video courses"
+price: 745.42
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 223.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Services"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hcjohannaklatt.com?aff=adminstore#aff=adminstore"
+sales_page: "https://hcjohannaklatt.com"
+language: "de"
+---
 # Female Health Akademie
 
 > Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../produkte/female-health-akademie-60039.html)

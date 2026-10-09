@@ -1,3 +1,24 @@
+---
+product_id: "56309"
+digistore24_product_id: 685624
+title: "Ebook - Die Komfortfalle"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/685624?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/685624"
+language: "de"
+---
 # Ebook - Die Komfortfalle
 
 > Product ID `56309` · Digistore24 productId `685624` · [HTML profile page](../../produkte/ebook-die-komfortfalle-56309.html)

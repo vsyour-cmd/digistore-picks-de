@@ -1,3 +1,24 @@
+---
+product_id: "53149"
+digistore24_product_id: 621331
+title: "Die Essenz des Atems"
+vendor: "MyhappyCoach"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://muttererde-transformation-days.net/?aff=adminstore#aff=adminstore"
+sales_page: "https://muttererde-transformation-days.net/"
+language: "de"
+---
 # Die Essenz des Atems
 
 > Product ID `53149` · Digistore24 productId `621331` · [HTML profile page](../../produkte/die-essenz-des-atems-53149.html)

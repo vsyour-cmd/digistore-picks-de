@@ -1,3 +1,24 @@
+---
+product_id: "60025"
+digistore24_product_id: 549134
+title: "Hypnose-Onlinekurs Bruxismus überwinden"
+vendor: "petanthony"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/"
+language: "de"
+---
 # Hypnose-Onlinekurs Bruxismus überwinden
 
 > Product ID `60025` · Digistore24 productId `549134` · [HTML profile page](../../produkte/hypnose-onlinekurs-bruxismus-berwinden-60025.html)

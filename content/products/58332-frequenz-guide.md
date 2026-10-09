@@ -1,3 +1,24 @@
+---
+product_id: "58332"
+digistore24_product_id: 638011
+title: "Frequenz-Guide"
+vendor: "Empfehlungsmeister"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://frequenzguide.empfehlungsmeister.com?aff=adminstore#aff=adminstore"
+sales_page: "https://frequenzguide.empfehlungsmeister.com"
+language: "de"
+---
 # Frequenz-Guide
 
 > Product ID `58332` · Digistore24 productId `638011` · [HTML profile page](../../produkte/frequenz-guide-58332.html)

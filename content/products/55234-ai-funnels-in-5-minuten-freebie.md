@@ -1,3 +1,24 @@
+---
+product_id: "55234"
+digistore24_product_id: 661679
+title: "AI Funnels in 5 Minuten (Freebie)"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0.02
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.01
+cart_conversion_pct: 58
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/"
+language: "de"
+---
 # AI Funnels in 5 Minuten (Freebie)
 
 > Product ID `55234` · Digistore24 productId `661679` · [HTML profile page](../../produkte/ai-funnels-in-5-minuten-freebie-55234.html)

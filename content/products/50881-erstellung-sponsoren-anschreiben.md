@@ -1,3 +1,24 @@
+---
+product_id: "50881"
+digistore24_product_id: 536184
+title: "Erstellung Sponsoren-Anschreiben"
+vendor: "andreaswillcom"
+product_type: "Remote service provided electronically"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 9.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport","Marketing Services"]
+listed_since: "2024-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/536184?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/536184"
+language: "de"
+---
 # Erstellung Sponsoren-Anschreiben
 
 > Product ID `50881` · Digistore24 productId `536184` · [HTML profile page](../../produkte/erstellung-sponsoren-anschreiben-50881.html)

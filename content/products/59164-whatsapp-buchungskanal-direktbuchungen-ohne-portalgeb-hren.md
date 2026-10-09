@@ -1,3 +1,24 @@
+---
+product_id: "59164"
+digistore24_product_id: 711408
+title: "WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren"
+vendor: "Anha13"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/whatsapp-buchungskanal-ferienwohnung/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/whatsapp-buchungskanal-ferienwohnung/"
+language: "de"
+---
 # WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren
 
 > Product ID `59164` · Digistore24 productId `711408` · [HTML profile page](../../produkte/whatsapp-buchungskanal-direktbuchungen-ohne-portalgeb-hren-59164.html)

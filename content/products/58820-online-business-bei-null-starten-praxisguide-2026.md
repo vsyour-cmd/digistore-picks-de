@@ -1,3 +1,24 @@
+---
+product_id: "58820"
+digistore24_product_id: 494495
+title: "Online-Business bei Null starten – Praxisguide 2026"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/online-business-bei-null-starten?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/online-business-bei-null-starten"
+language: "de"
+---
 # Online-Business bei Null starten – Praxisguide 2026
 
 > Product ID `58820` · Digistore24 productId `494495` · [HTML profile page](../../produkte/online-business-bei-null-starten-praxisguide-2026-58820.html)

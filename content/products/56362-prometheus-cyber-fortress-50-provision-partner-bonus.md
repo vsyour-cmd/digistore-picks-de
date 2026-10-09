@@ -1,3 +1,24 @@
+---
+product_id: "56362"
+digistore24_product_id: 679015
+title: "PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus"
+vendor: "Marius3"
+product_type: "Remote service provided electronically"
+price: 937.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 468.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Marketing Services"]
+listed_since: "2026-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/?aff=adminstore#aff=adminstore"
+sales_page: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/"
+language: "de"
+---
 # PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus
 
 > Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../produkte/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)

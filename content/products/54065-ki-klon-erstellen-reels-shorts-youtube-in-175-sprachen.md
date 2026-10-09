@@ -1,3 +1,24 @@
+---
+product_id: "54065"
+digistore24_product_id: 635001
+title: "Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 201.94
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 24.89
+cart_conversion_pct: 6
+cancel_rate_pct: 0.95
+categories: ["Computer & Internet","Social Media"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.jyotimaflak.com/aivideos?aff=adminstore#aff=adminstore"
+sales_page: "http://www.jyotimaflak.com/aivideos"
+language: "de"
+---
 # Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen
 
 > Product ID `54065` · Digistore24 productId `635001` · [HTML profile page](../../produkte/ki-klon-erstellen-reels-shorts-youtube-in-175-sprachen-54065.html)

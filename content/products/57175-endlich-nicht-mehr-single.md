@@ -1,3 +1,24 @@
+---
+product_id: "57175"
+digistore24_product_id: 701931
+title: "Endlich nicht mehr Single"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single"
+language: "de"
+---
 # Endlich nicht mehr Single
 
 > Product ID `57175` · Digistore24 productId `701931` · [HTML profile page](../../produkte/endlich-nicht-mehr-single-57175.html)

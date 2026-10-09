@@ -1,3 +1,24 @@
+---
+product_id: "53880"
+digistore24_product_id: 596322
+title: "Videokurs \"Gesundheitsvorsorge bei Katzen\""
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/gesundheitsvorsorge-katzen?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/gesundheitsvorsorge-katzen"
+language: "de"
+---
 # Videokurs "Gesundheitsvorsorge bei Katzen"
 
 > Product ID `53880` · Digistore24 productId `596322` · [HTML profile page](../../produkte/videokurs-gesundheitsvorsorge-bei-katzen-53880.html)

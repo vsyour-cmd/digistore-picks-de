@@ -1,3 +1,24 @@
+---
+product_id: "58351"
+digistore24_product_id: 720608
+title: "Grenzen-Kurs für Coaches, Berater und Unternehmer"
+vendor: "beatelindemann"
+product_type: "Member area and video courses"
+price: 420.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 168.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beate-lindemann.systeme.io/klare-grenzen?aff=adminstore#aff=adminstore"
+sales_page: "https://beate-lindemann.systeme.io/klare-grenzen"
+language: "de"
+---
 # Grenzen-Kurs für Coaches, Berater und Unternehmer
 
 > Product ID `58351` · Digistore24 productId `720608` · [HTML profile page](../../produkte/grenzen-kurs-f-r-coaches-berater-und-unternehmer-58351.html)

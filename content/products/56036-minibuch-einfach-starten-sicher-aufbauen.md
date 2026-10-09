@@ -1,3 +1,24 @@
+---
+product_id: "56036"
+digistore24_product_id: 666542
+title: "Minibuch: Einfach starten - sicher aufbauen"
+vendor: "digitalesonlinebusiness"
+product_type: "E-books"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.juergen-luber.com/minibuch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.juergen-luber.com/minibuch"
+language: "de"
+---
 # Minibuch: Einfach starten - sicher aufbauen
 
 > Product ID `56036` · Digistore24 productId `666542` · [HTML profile page](../../produkte/minibuch-einfach-starten-sicher-aufbauen-56036.html)

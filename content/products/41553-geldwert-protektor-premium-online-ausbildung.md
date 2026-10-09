@@ -1,3 +1,24 @@
+---
+product_id: "41553"
+digistore24_product_id: 455291
+title: "Geldwert-Protektor Premium Online Ausbildung"
+vendor: "myworldofwealth"
+product_type: "Member area and video courses"
+price: 584.04
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 146.97
+cart_conversion_pct: 3
+cancel_rate_pct: 2.78
+categories: ["Business & Investment","Survival"]
+listed_since: "2022-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://webinare.forexfreiheit.com/geldwert-protektor/?aff=adminstore#aff=adminstore"
+sales_page: "https://webinare.forexfreiheit.com/geldwert-protektor/"
+language: "de"
+---
 # Geldwert-Protektor Premium Online Ausbildung
 
 > Product ID `41553` · Digistore24 productId `455291` · [HTML profile page](../../produkte/geldwert-protektor-premium-online-ausbildung-41553.html)

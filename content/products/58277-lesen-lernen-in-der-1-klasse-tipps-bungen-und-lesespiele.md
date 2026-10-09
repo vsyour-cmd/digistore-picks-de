@@ -1,3 +1,24 @@
+---
+product_id: "58277"
+digistore24_product_id: 713986
+title: "Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele"
+vendor: "Grundschulabitur"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713986?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713986"
+language: "de"
+---
 # Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele
 
 > Product ID `58277` · Digistore24 productId `713986` · [HTML profile page](../../produkte/lesen-lernen-in-der-1-klasse-tipps-bungen-und-lesespiele-58277.html)

@@ -1,3 +1,24 @@
+---
+product_id: "10633"
+digistore24_product_id: 20609
+title: "100 Mailingtexte Vorlagen"
+vendor: "rnabenhauer"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 12.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2014-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://100mailings.presalesmarketing.com/?aff=adminstore#aff=adminstore"
+sales_page: "http://100mailings.presalesmarketing.com/"
+language: "de"
+---
 # 100 Mailingtexte Vorlagen
 
 > Product ID `10633` · Digistore24 productId `20609` · [HTML profile page](../../produkte/100-mailingtexte-vorlagen-10633.html)

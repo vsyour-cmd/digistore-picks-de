@@ -1,3 +1,24 @@
+---
+product_id: "55692"
+digistore24_product_id: 595207
+title: "AI Mastery"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 331.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 124.79
+cart_conversion_pct: 10
+cancel_rate_pct: 0.77
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/ai-mastery/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/ai-mastery/"
+language: "de"
+---
 # AI Mastery
 
 > Product ID `55692` · Digistore24 productId `595207` · [HTML profile page](../../produkte/ai-mastery-55692.html)

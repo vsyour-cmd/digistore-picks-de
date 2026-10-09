@@ -1,3 +1,24 @@
+---
+product_id: "35702"
+digistore24_product_id: 362085
+title: "Einblick in die Pferdepsyche"
+vendor: "ChristianeGoebel"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://christiane-goebel.de/Unterricht-und-Kurse/Einblick-in-die-Pferdepsyche/?aff=adminstore#aff=adminstore"
+sales_page: "https://christiane-goebel.de/Unterricht-und-Kurse/Einblick-in-die-Pferdepsyche/"
+language: "de"
+---
 # Einblick in die Pferdepsyche
 
 > Product ID `35702` · Digistore24 productId `362085` · [HTML profile page](../../produkte/einblick-in-die-pferdepsyche-35702.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41245"
+digistore24_product_id: 307364
+title: "Ebook DIY Kosmetik"
+vendor: "Naturseife30"
+product_type: "E-books"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://naturseife-und-kosmetik.de/diy-kosmetik-ebook-kosmetik-selber-machen/?aff=adminstore#aff=adminstore"
+sales_page: "https://naturseife-und-kosmetik.de/diy-kosmetik-ebook-kosmetik-selber-machen/"
+language: "de"
+---
 # Ebook DIY Kosmetik
 
 > Product ID `41245` · Digistore24 productId `307364` · [HTML profile page](../../produkte/ebook-diy-kosmetik-41245.html)

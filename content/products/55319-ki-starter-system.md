@@ -1,3 +1,24 @@
+---
+product_id: "55319"
+digistore24_product_id: 586966
+title: "KI Starter System"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/ki-starter-system?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/ki-starter-system"
+language: "de"
+---
 # KI Starter System
 
 > Product ID `55319` · Digistore24 productId `586966` · [HTML profile page](../../produkte/ki-starter-system-55319.html)

@@ -1,3 +1,24 @@
+---
+product_id: "34362"
+digistore24_product_id: 416536
+title: "Torsten Jaeger Partnerprogramm"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 70.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 69.63
+cart_conversion_pct: 8
+cancel_rate_pct: 1.87
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://7onliners.com?aff=adminstore#aff=adminstore"
+sales_page: "https://7onliners.com"
+language: "de"
+---
 # Torsten Jaeger Partnerprogramm
 
 > Product ID `34362` · Digistore24 productId `416536` · [HTML profile page](../../produkte/torsten-jaeger-partnerprogramm-34362.html)

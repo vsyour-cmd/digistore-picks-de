@@ -1,3 +1,24 @@
+---
+product_id: "58819"
+digistore24_product_id: 727650
+title: "Rückkehr der Schatten"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727650?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727650"
+language: "de"
+---
 # Rückkehr der Schatten
 
 > Product ID `58819` · Digistore24 productId `727650` · [HTML profile page](../../produkte/r-ckkehr-der-schatten-58819.html)

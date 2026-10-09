@@ -1,3 +1,24 @@
+---
+product_id: "58210"
+digistore24_product_id: 712064
+title: "Das Farbrad in bewegung bringen"
+vendor: "FiaBiba"
+product_type: "Member area and video courses"
+price: 122.2
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/712064?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/712064"
+language: "de"
+---
 # Das Farbrad in bewegung bringen
 
 > Product ID `58210` · Digistore24 productId `712064` · [HTML profile page](../../produkte/das-farbrad-in-bewegung-bringen-58210.html)

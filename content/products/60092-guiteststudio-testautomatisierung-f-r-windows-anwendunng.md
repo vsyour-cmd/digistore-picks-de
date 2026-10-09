@@ -1,3 +1,24 @@
+---
+product_id: "60092"
+digistore24_product_id: 737377
+title: "GUITestStudio – Testautomatisierung für Windows-Anwendunng"
+vendor: "inspiredsoftware"
+product_type: "Software"
+price: 781.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 312.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.inspiredsoftware.de/go/guiteststudio?aff=adminstore#aff=adminstore"
+sales_page: "https://www.inspiredsoftware.de/go/guiteststudio"
+language: "de"
+---
 # GUITestStudio – Testautomatisierung für Windows-Anwendunng
 
 > Product ID `60092` · Digistore24 productId `737377` · [HTML profile page](../../produkte/guiteststudio-testautomatisierung-f-r-windows-anwendunng-60092.html)

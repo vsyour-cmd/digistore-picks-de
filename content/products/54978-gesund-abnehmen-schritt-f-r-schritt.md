@@ -1,3 +1,24 @@
+---
+product_id: "54978"
+digistore24_product_id: 656794
+title: "Gesund abnehmen Schritt für schritt"
+vendor: "xeymen"
+product_type: "Downloads"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Sport"]
+listed_since: "2025-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/656794?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/656794"
+language: "de"
+---
 # Gesund abnehmen Schritt für schritt
 
 > Product ID `54978` · Digistore24 productId `656794` · [HTML profile page](../../produkte/gesund-abnehmen-schritt-f-r-schritt-54978.html)

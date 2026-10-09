@@ -1,3 +1,24 @@
+---
+product_id: "59736"
+digistore24_product_id: 732161
+title: "GKG-BUNDLE 1+2+2.A Planungspaket"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 262.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 104.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732161?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732161"
+language: "de"
+---
 # GKG-BUNDLE 1+2+2.A Planungspaket
 
 > Product ID `59736` · Digistore24 productId `732161` · [HTML profile page](../../produkte/gkg-bundle-1-2-2-a-planungspaket-59736.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33621"
+digistore24_product_id: 354869
+title: "1% CLUB | Instagram - Business - Online Geld verdienen"
+vendor: "moserda"
+product_type: "Member area and video courses"
+price: 35.9
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 17.98
+cart_conversion_pct: 8
+cancel_rate_pct: 1.26
+categories: ["Social Media"]
+listed_since: "2020-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einprozentclub.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://einprozentclub.com/"
+language: "de"
+---
 # 1% CLUB | Instagram - Business - Online Geld verdienen
 
 > Product ID `33621` · Digistore24 productId `354869` · [HTML profile page](../../produkte/1-club-instagram-business-online-geld-verdienen-33621.html)

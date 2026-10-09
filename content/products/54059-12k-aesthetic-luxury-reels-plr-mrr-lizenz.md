@@ -1,3 +1,24 @@
+---
+product_id: "54059"
+digistore24_product_id: 634096
+title: "12K Aesthetic Luxury Reels + PLR/MRR Lizenz"
+vendor: "MoneyCreators"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Social Media","Online Marketing"]
+listed_since: "2025-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/12kreels?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/12kreels"
+language: "de"
+---
 # 12K Aesthetic Luxury Reels + PLR/MRR Lizenz
 
 > Product ID `54059` · Digistore24 productId `634096` · [HTML profile page](../../produkte/12k-aesthetic-luxury-reels-plr-mrr-lizenz-54059.html)

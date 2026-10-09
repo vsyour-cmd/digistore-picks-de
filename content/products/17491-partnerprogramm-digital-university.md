@@ -1,3 +1,24 @@
+---
+product_id: "17491"
+digistore24_product_id: 147033
+title: "Partnerprogramm \"Digital University\""
+vendor: "netdesign2014"
+product_type: "Member area and video courses"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 234.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2017-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-marketing-site.de/digital-university-business/"
+language: "de"
+---
 # Partnerprogramm "Digital University"
 
 > Product ID `17491` · Digistore24 productId `147033` · [HTML profile page](../../produkte/partnerprogramm-digital-university-17491.html)

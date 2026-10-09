@@ -1,3 +1,24 @@
+---
+product_id: "40397"
+digistore24_product_id: 436116
+title: "In 4 Schritten sexuelle Probleme abbauen"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/230-0-4-Schritte-gegen-sexuelle-Probleme.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/230-0-4-Schritte-gegen-sexuelle-Probleme.html"
+language: "de"
+---
 # In 4 Schritten sexuelle Probleme abbauen
 
 > Product ID `40397` · Digistore24 productId `436116` · [HTML profile page](../../produkte/in-4-schritten-sexuelle-probleme-abbauen-40397.html)

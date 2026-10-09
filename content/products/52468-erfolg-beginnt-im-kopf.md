@@ -1,3 +1,24 @@
+---
+product_id: "52468"
+digistore24_product_id: 585631
+title: "Erfolg beginnt im Kopf"
+vendor: "AnneWuensche"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.4
+cart_conversion_pct: 1
+cancel_rate_pct: 6.52
+categories: ["Personal Development"]
+listed_since: "2024-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/585631?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/585631"
+language: "de"
+---
 # Erfolg beginnt im Kopf
 
 > Product ID `52468` · Digistore24 productId `585631` · [HTML profile page](../../produkte/erfolg-beginnt-im-kopf-52468.html)

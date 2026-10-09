@@ -1,3 +1,24 @@
+---
+product_id: "27427"
+digistore24_product_id: 252613
+title: "Abnehmen mit Essen! Wer will schon eine Diät..."
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 8.36
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2018-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/252613?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/252613"
+language: "de"
+---
 # Abnehmen mit Essen! Wer will schon eine Diät...
 
 > Product ID `27427` · Digistore24 productId `252613` · [HTML profile page](../../produkte/abnehmen-mit-essen-wer-will-schon-eine-di-t-27427.html)

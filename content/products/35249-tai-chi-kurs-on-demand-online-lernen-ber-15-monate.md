@@ -1,3 +1,24 @@
+---
+product_id: "35249"
+digistore24_product_id: 351146
+title: "Tai Chi Kurs on demand - online lernen über 15 Monate"
+vendor: "WuWeiSchule"
+product_type: "Member area and video courses"
+price: 23.03
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2020-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.wuwei-schule.de/lp/tai-chi/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wuwei-schule.de/lp/tai-chi/"
+language: "de"
+---
 # Tai Chi Kurs on demand - online lernen über 15 Monate
 
 > Product ID `35249` · Digistore24 productId `351146` · [HTML profile page](../../produkte/tai-chi-kurs-on-demand-online-lernen-ber-15-monate-35249.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44404"
+digistore24_product_id: 435091
+title: "15 Abnehm-Tipps für den Alltag"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2022-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/cWH7eKtkes2snMa9M?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/cWH7eKtkes2snMa9M"
+language: "de"
+---
 # 15 Abnehm-Tipps für den Alltag
 
 > Product ID `44404` · Digistore24 productId `435091` · [HTML profile page](../../produkte/15-abnehm-tipps-f-r-den-alltag-44404.html)

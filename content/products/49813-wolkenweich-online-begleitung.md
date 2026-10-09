@@ -1,3 +1,24 @@
+---
+product_id: "49813"
+digistore24_product_id: 552961
+title: "Wolkenweich Online-Begleitung"
+vendor: "jennifersubke"
+product_type: "Member area and video courses"
+price: 3.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1090.95
+cart_conversion_pct: 16
+cancel_rate_pct: 7.05
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://jennifersubke.de/wolkenweich?aff=adminstore#aff=adminstore"
+sales_page: "https://jennifersubke.de/wolkenweich"
+language: "de"
+---
 # Wolkenweich Online-Begleitung
 
 > Product ID `49813` · Digistore24 productId `552961` · [HTML profile page](../../produkte/wolkenweich-online-begleitung-49813.html)

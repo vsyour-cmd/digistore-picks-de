@@ -1,3 +1,24 @@
+---
+product_id: "27753"
+digistore24_product_id: 256260
+title: "Golf Trainingspläne vom Pro"
+vendor: "hinmed"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 12.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2019-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.golf-trainingsplan.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.golf-trainingsplan.de/"
+language: "de"
+---
 # Golf Trainingspläne vom Pro
 
 > Product ID `27753` · Digistore24 productId `256260` · [HTML profile page](../../produkte/golf-trainingspl-ne-vom-pro-27753.html)

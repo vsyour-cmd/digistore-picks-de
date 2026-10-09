@@ -1,3 +1,24 @@
+---
+product_id: "30311"
+digistore24_product_id: 253102
+title: "Premium Mastermind Coaching - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 504.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 151.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2018-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gunnarkesslerwebinar.de/pmc-workshop-1400/?aff=adminstore#aff=adminstore"
+sales_page: "https://gunnarkesslerwebinar.de/pmc-workshop-1400/"
+language: "de"
+---
 # Premium Mastermind Coaching - von Gunnar Kessler
 
 > Product ID `30311` · Digistore24 productId `253102` · [HTML profile page](../../produkte/premium-mastermind-coaching-von-gunnar-kessler-30311.html)

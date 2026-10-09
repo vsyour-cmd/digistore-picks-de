@@ -1,3 +1,24 @@
+---
+product_id: "27420"
+digistore24_product_id: 251596
+title: "Steuer Guide Zypern"
+vendor: "BSHoldingLTD"
+product_type: "Downloads"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2018-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bs-holding.limited/steuer-guide-zypern/?aff=adminstore#aff=adminstore"
+sales_page: "https://bs-holding.limited/steuer-guide-zypern/"
+language: "de"
+---
 # Steuer Guide Zypern
 
 > Product ID `27420` · Digistore24 productId `251596` · [HTML profile page](../../produkte/steuer-guide-zypern-27420.html)

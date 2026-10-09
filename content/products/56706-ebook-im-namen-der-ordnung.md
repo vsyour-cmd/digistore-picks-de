@@ -1,3 +1,24 @@
+---
+product_id: "56706"
+digistore24_product_id: 695782
+title: "Ebook - Im Namen der Ordnung"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Politics & Economy"]
+listed_since: "2026-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695782?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695782"
+language: "de"
+---
 # Ebook - Im Namen der Ordnung
 
 > Product ID `56706` · Digistore24 productId `695782` · [HTML profile page](../../produkte/ebook-im-namen-der-ordnung-56706.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58867"
+digistore24_product_id: 728740
+title: "30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 28.16
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 11.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten"
+language: "de"
+---
 # 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten
 
 > Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../produkte/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)

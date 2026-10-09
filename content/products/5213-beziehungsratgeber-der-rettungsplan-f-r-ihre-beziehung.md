@@ -1,3 +1,24 @@
+---
+product_id: "5213"
+digistore24_product_id: 35629
+title: "Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung"
+vendor: "uepselon"
+product_type: "Downloads"
+price: 18.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2014-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.beziehungs-retter.de/der-aktuelle-beziehungsratgeber/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.beziehungs-retter.de/der-aktuelle-beziehungsratgeber/"
+language: "de"
+---
 # Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung
 
 > Product ID `5213` · Digistore24 productId `35629` · [HTML profile page](../../produkte/beziehungsratgeber-der-rettungsplan-f-r-ihre-beziehung-5213.html)

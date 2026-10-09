@@ -1,3 +1,24 @@
+---
+product_id: "59744"
+digistore24_product_id: 732395
+title: "GKG-3.A WR Wasserrechner einzeln"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 25.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732395?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732395"
+language: "de"
+---
 # GKG-3.A WR Wasserrechner einzeln
 
 > Product ID `59744` · Digistore24 productId `732395` · [HTML profile page](../../produkte/gkg-3-a-wr-wasserrechner-einzeln-59744.html)

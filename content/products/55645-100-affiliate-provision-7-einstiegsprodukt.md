@@ -1,3 +1,24 @@
+---
+product_id: "55645"
+digistore24_product_id: 659820
+title: "100% AFFILIATE PROVISION – 7€ EINSTIEGSPRODUKT"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 5.49
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.1
+cart_conversion_pct: 39
+cancel_rate_pct: 0.19
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/easy-sales-page-kickstart/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/easy-sales-page-kickstart/"
+language: "de"
+---
 # 100% AFFILIATE PROVISION – 7€ EINSTIEGSPRODUKT
 
 > Product ID `55645` · Digistore24 productId `659820` · [HTML profile page](../../produkte/100-affiliate-provision-7-einstiegsprodukt-55645.html)

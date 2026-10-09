@@ -1,3 +1,24 @@
+---
+product_id: "38021"
+digistore24_product_id: 388540
+title: "Hundeführerschein Basic"
+vendor: "perrocc"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2021-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://perrocc.coachy.net/lp/hundewissen-kompakt/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
+sales_page: "https://perrocc.coachy.net/lp/hundewissen-kompakt/?aff=AFFILIATE"
+language: "de"
+---
 # Hundeführerschein Basic
 
 > Product ID `38021` · Digistore24 productId `388540` · [HTML profile page](../../produkte/hundef-hrerschein-basic-38021.html)

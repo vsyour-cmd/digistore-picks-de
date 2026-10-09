@@ -1,3 +1,24 @@
+---
+product_id: "53879"
+digistore24_product_id: 596326
+title: "Videokurs \"Mäkelige Katzen verstehen und gekonnt überzeugen\""
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/maekelige-katzen-ueberzeugen?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/maekelige-katzen-ueberzeugen"
+language: "de"
+---
 # Videokurs "Mäkelige Katzen verstehen und gekonnt überzeugen"
 
 > Product ID `53879` · Digistore24 productId `596326` · [HTML profile page](../../produkte/videokurs-m-kelige-katzen-verstehen-und-gekonnt-berzeugen-53879.html)

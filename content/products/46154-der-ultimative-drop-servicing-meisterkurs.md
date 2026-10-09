@@ -1,3 +1,24 @@
+---
+product_id: "46154"
+digistore24_product_id: 514121
+title: "Der Ultimative Drop Servicing Meisterkurs"
+vendor: "LebensfrohLLC"
+product_type: "Member area and video courses"
+price: 1115.24
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 223.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://christophneuwirth.com/lp/der-ultimative-drop-servicing-meisterkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://christophneuwirth.com/lp/der-ultimative-drop-servicing-meisterkurs/"
+language: "de"
+---
 # Der Ultimative Drop Servicing Meisterkurs
 
 > Product ID `46154` · Digistore24 productId `514121` · [HTML profile page](../../produkte/der-ultimative-drop-servicing-meisterkurs-46154.html)

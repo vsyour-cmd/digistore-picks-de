@@ -1,3 +1,24 @@
+---
+product_id: "55664"
+digistore24_product_id: 670242
+title: "Der Interview-Kompass für das Vorstellungsgespräch"
+vendor: "Diveco"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Marketing Services"]
+listed_since: "2026-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-der-interview-kompass-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-der-interview-kompass-landingpage/"
+language: "de"
+---
 # Der Interview-Kompass für das Vorstellungsgespräch
 
 > Product ID `55664` · Digistore24 productId `670242` · [HTML profile page](../../produkte/der-interview-kompass-f-r-das-vorstellungsgespr-ch-55664.html)

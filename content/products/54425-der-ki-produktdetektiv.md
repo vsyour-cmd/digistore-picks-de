@@ -1,3 +1,24 @@
+---
+product_id: "54425"
+digistore24_product_id: 640465
+title: "Der KI-Produktdetektiv"
+vendor: "Mlaschitza"
+product_type: "Software"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2025-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://suite.mlaschitza.com/produktdetektiv/lp?aff=adminstore#aff=adminstore"
+sales_page: "https://suite.mlaschitza.com/produktdetektiv/lp"
+language: "de"
+---
 # Der KI-Produktdetektiv
 
 > Product ID `54425` · Digistore24 productId `640465` · [HTML profile page](../../produkte/der-ki-produktdetektiv-54425.html)

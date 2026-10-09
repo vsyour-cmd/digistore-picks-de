@@ -1,3 +1,24 @@
+---
+product_id: "53285"
+digistore24_product_id: 621180
+title: "Ayurveda-Verdauungstypen-Test inkl. E-Book"
+vendor: "Eliane_Duerst"
+product_type: "E-books"
+price: 5.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://elianeduerst-ayurveda.ch/ebook-dosha-test/?aff=adminstore#aff=adminstore"
+sales_page: "https://elianeduerst-ayurveda.ch/ebook-dosha-test/"
+language: "de"
+---
 # Ayurveda-Verdauungstypen-Test inkl. E-Book
 
 > Product ID `53285` · Digistore24 productId `621180` · [HTML profile page](../../produkte/ayurveda-verdauungstypen-test-inkl-e-book-53285.html)

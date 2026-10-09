@@ -1,3 +1,24 @@
+---
+product_id: "54450"
+digistore24_product_id: 642395
+title: "Elternschaft im digitalen Zeitalter"
+vendor: "AspireVerse"
+product_type: "E-books"
+price: 26.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://parentingds.aspireonecs.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://parentingds.aspireonecs.com/"
+language: "de"
+---
 # Elternschaft im digitalen Zeitalter
 
 > Product ID `54450` · Digistore24 productId `642395` · [HTML profile page](../../produkte/elternschaft-im-digitalen-zeitalter-54450.html)

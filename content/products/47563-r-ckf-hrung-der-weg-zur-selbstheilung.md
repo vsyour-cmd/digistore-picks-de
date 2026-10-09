@@ -1,3 +1,24 @@
+---
+product_id: "47563"
+digistore24_product_id: 531731
+title: "Rückführung - Der Weg zur Selbstheilung"
+vendor: "ElenaSeeKraft"
+product_type: "Book (printed)"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services"]
+listed_since: "2023-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://vrf-rueckfuehrung.de/"
+language: "de"
+---
 # Rückführung - Der Weg zur Selbstheilung
 
 > Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../produkte/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)

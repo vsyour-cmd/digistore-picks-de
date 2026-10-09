@@ -1,3 +1,24 @@
+---
+product_id: "38668"
+digistore24_product_id: 372820
+title: "Gitarrenschule ohne Noten"
+vendor: "Re19Ma"
+product_type: "Downloads"
+price: 11.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.66
+cart_conversion_pct: 18
+cancel_rate_pct: 1.55
+categories: ["Education"]
+listed_since: "2021-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.guitar-tv.de/Produkte3/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.guitar-tv.de/Produkte3/"
+language: "de"
+---
 # Gitarrenschule ohne Noten
 
 > Product ID `38668` · Digistore24 productId `372820` · [HTML profile page](../../produkte/gitarrenschule-ohne-noten-38668.html)

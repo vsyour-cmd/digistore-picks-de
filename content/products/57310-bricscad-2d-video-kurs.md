@@ -1,3 +1,24 @@
+---
+product_id: "57310"
+digistore24_product_id: 531911
+title: "BricsCAD 2D Video-Kurs"
+vendor: "CADDeutschland"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 66.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cad-video.de/bricscad-2d-channel?aff=adminstore#aff=adminstore"
+sales_page: "https://cad-video.de/bricscad-2d-channel"
+language: "de"
+---
 # BricsCAD 2D Video-Kurs
 
 > Product ID `57310` · Digistore24 productId `531911` · [HTML profile page](../../produkte/bricscad-2d-video-kurs-57310.html)

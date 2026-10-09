@@ -1,3 +1,24 @@
+---
+product_id: "8407"
+digistore24_product_id: 44951
+title: "Sync Your Mind For Success - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2015-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://byebyeschufterei.de/sync-your-mind-for-success-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/sync-your-mind-for-success-7500/"
+language: "de"
+---
 # Sync Your Mind For Success - von Gunnar Kessler
 
 > Product ID `8407` · Digistore24 productId `44951` · [HTML profile page](../../produkte/sync-your-mind-for-success-von-gunnar-kessler-8407.html)

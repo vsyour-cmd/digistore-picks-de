@@ -1,3 +1,24 @@
+---
+product_id: "60249"
+digistore24_product_id: 741140
+title: "GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision"
+vendor: "Gewerkflow"
+product_type: "Software"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gewerkflow.com/GewerkMobil?aff=adminstore#aff=adminstore"
+sales_page: "https://gewerkflow.com/GewerkMobil"
+language: "de"
+---
 # GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision
 
 > Product ID `60249` · Digistore24 productId `741140` · [HTML profile page](../../produkte/gewerkmobil-autohaussoftware-mit-50-affiliate-provision-60249.html)

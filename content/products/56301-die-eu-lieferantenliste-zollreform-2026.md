@@ -1,3 +1,24 @@
+---
+product_id: "56301"
+digistore24_product_id: 678210
+title: "Die EU Lieferantenliste - Zollreform 2026"
+vendor: "MarionFaber"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 25.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dropshipeu.com?aff=adminstore#aff=adminstore"
+sales_page: "https://dropshipeu.com"
+language: "de"
+---
 # Die EU Lieferantenliste - Zollreform 2026
 
 > Product ID `56301` · Digistore24 productId `678210` · [HTML profile page](../../produkte/die-eu-lieferantenliste-zollreform-2026-56301.html)

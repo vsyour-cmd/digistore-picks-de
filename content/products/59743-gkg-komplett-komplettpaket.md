@@ -1,3 +1,24 @@
+---
+product_id: "59743"
+digistore24_product_id: 732246
+title: "GKG-KOMPLETT Komplettpaket"
+vendor: "unew_m8"
+product_type: "E-books"
+price: 678.48
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 271.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732246?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732246"
+language: "de"
+---
 # GKG-KOMPLETT Komplettpaket
 
 > Product ID `59743` · Digistore24 productId `732246` · [HTML profile page](../../produkte/gkg-komplett-komplettpaket-59743.html)

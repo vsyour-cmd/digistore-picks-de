@@ -1,3 +1,24 @@
+---
+product_id: "53103"
+digistore24_product_id: 621529
+title: "Pinterest Cashcode"
+vendor: "Verdienst-Kompass"
+product_type: "Downloads"
+price: 0.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.19
+cart_conversion_pct: 48
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://lp-mircodigital.de/pc/freebie?aff=adminstore#aff=adminstore"
+sales_page: "http://lp-mircodigital.de/pc/freebie"
+language: "de"
+---
 # Pinterest Cashcode
 
 > Product ID `53103` · Digistore24 productId `621529` · [HTML profile page](../../produkte/pinterest-cashcode-53103.html)

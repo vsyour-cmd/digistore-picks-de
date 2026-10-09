@@ -1,3 +1,24 @@
+---
+product_id: "56424"
+digistore24_product_id: 689474
+title: "Ebook - Achtsam durch den Tag"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689474?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689474"
+language: "de"
+---
 # Ebook - Achtsam durch den Tag
 
 > Product ID `56424` · Digistore24 productId `689474` · [HTML profile page](../../produkte/ebook-achtsam-durch-den-tag-56424.html)

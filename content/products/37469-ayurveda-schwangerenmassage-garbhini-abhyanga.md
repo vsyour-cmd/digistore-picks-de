@@ -1,3 +1,24 @@
+---
+product_id: "37469"
+digistore24_product_id: 364181
+title: "Ayurveda-Schwangerenmassage – Garbhini-Abhyanga"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 297.04
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 89.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/schwangerenmassage/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/schwangerenmassage/"
+language: "de"
+---
 # Ayurveda-Schwangerenmassage – Garbhini-Abhyanga
 
 > Product ID `37469` · Digistore24 productId `364181` · [HTML profile page](../../produkte/ayurveda-schwangerenmassage-garbhini-abhyanga-37469.html)

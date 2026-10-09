@@ -1,3 +1,24 @@
+---
+product_id: "60283"
+digistore24_product_id: 741215
+title: "Konto und Bank leicht gemacht – Ratgeber + Konto-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741215?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741215"
+language: "de"
+---
 # Konto und Bank leicht gemacht – Ratgeber + Konto-Rechner
 
 > Product ID `60283` · Digistore24 productId `741215` · [HTML profile page](../../produkte/konto-und-bank-leicht-gemacht-ratgeber-konto-rechner-60283.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57446"
+digistore24_product_id: 593965
+title: "Fumarexin®-Schulung für Therapeuten"
+vendor: "Heike1704"
+product_type: "Member area and video courses"
+price: 178.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 53.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/593965?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/593965"
+language: "de"
+---
 # Fumarexin®-Schulung für Therapeuten
 
 > Product ID `57446` · Digistore24 productId `593965` · [HTML profile page](../../produkte/fumarexin-schulung-f-r-therapeuten-57446.html)

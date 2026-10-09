@@ -1,3 +1,24 @@
+---
+product_id: "57231"
+digistore24_product_id: 704209
+title: "Dein erstes E-Book auf Amazon"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/erstes-ebook-amazon-kdp?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/erstes-ebook-amazon-kdp"
+language: "de"
+---
 # Dein erstes E-Book auf Amazon
 
 > Product ID `57231` · Digistore24 productId `704209` · [HTML profile page](../../produkte/dein-erstes-e-book-auf-amazon-57231.html)

@@ -1,3 +1,24 @@
+---
+product_id: "37444"
+digistore24_product_id: 402815
+title: "Dein Minikurs in 24h!"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 46.56
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.75
+cart_conversion_pct: 4
+cancel_rate_pct: 1.21
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jyotimaflak.com/minikurs-in-24h/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/minikurs-in-24h/"
+language: "de"
+---
 # Dein Minikurs in 24h!
 
 > Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../produkte/dein-minikurs-in-24h-37444.html)

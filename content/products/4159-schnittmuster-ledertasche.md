@@ -1,3 +1,24 @@
+---
+product_id: "4159"
+digistore24_product_id: 11816
+title: "Schnittmuster Ledertasche"
+vendor: "DotsDesigns"
+product_type: "Downloads"
+price: 5.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2013-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dots-designs.de/naehkurs-ledertasche/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dots-designs.de/naehkurs-ledertasche/"
+language: "de"
+---
 # Schnittmuster Ledertasche
 
 > Product ID `4159` · Digistore24 productId `11816` · [HTML profile page](../../produkte/schnittmuster-ledertasche-4159.html)

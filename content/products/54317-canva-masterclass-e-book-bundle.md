@@ -1,3 +1,24 @@
+---
+product_id: "54317"
+digistore24_product_id: 640205
+title: "Canva Masterclass E-Book Bundle"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 11.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2025-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/640205?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640205"
+language: "de"
+---
 # Canva Masterclass E-Book Bundle
 
 > Product ID `54317` · Digistore24 productId `640205` · [HTML profile page](../../produkte/canva-masterclass-e-book-bundle-54317.html)

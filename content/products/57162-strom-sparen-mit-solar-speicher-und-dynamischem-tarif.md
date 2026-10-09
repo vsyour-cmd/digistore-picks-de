@@ -1,3 +1,24 @@
+---
+product_id: "57162"
+digistore24_product_id: 699090
+title: "Strom sparen mit Solar, Speicher und dynamischem Tarif"
+vendor: "cihanoezkaya8087"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden","Finances"]
+listed_since: "2026-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://cihanoezkaya.de?aff=adminstore#aff=adminstore"
+sales_page: "http://cihanoezkaya.de"
+language: "de"
+---
 # Strom sparen mit Solar, Speicher und dynamischem Tarif
 
 > Product ID `57162` · Digistore24 productId `699090` · [HTML profile page](../../produkte/strom-sparen-mit-solar-speicher-und-dynamischem-tarif-57162.html)

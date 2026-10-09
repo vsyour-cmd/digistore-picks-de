@@ -1,3 +1,24 @@
+---
+product_id: "56107"
+digistore24_product_id: 679530
+title: "Digitale Vorlagen Wochenplaner für Kinder"
+vendor: "martinakocyigit2025"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/679530?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679530"
+language: "de"
+---
 # Digitale Vorlagen Wochenplaner für Kinder
 
 > Product ID `56107` · Digistore24 productId `679530` · [HTML profile page](../../produkte/digitale-vorlagen-wochenplaner-f-r-kinder-56107.html)

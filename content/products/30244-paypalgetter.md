@@ -1,3 +1,24 @@
+---
+product_id: "30244"
+digistore24_product_id: 291390
+title: "PaypalGetter"
+vendor: "kalilasoft"
+product_type: "Software"
+price: 4.61
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 1.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-10-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.kalilasoft.de/paypalgetter/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.kalilasoft.de/paypalgetter/"
+language: "de"
+---
 # PaypalGetter
 
 > Product ID `30244` · Digistore24 productId `291390` · [HTML profile page](../../produkte/paypalgetter-30244.html)

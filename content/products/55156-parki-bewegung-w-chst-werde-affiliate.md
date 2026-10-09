@@ -1,3 +1,24 @@
+---
+product_id: "55156"
+digistore24_product_id: 658975
+title: "Parki-Bewegung wächst – werde Affiliate."
+vendor: "Erfolg2026"
+product_type: "E-books"
+price: 52.17
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658975?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658975"
+language: "de"
+---
 # Parki-Bewegung wächst – werde Affiliate.
 
 > Product ID `55156` · Digistore24 productId `658975` · [HTML profile page](../../produkte/parki-bewegung-w-chst-werde-affiliate-55156.html)

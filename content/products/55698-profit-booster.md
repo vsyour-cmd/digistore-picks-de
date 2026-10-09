@@ -1,3 +1,24 @@
+---
+product_id: "55698"
+digistore24_product_id: 641366
+title: "Profit Booster"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 243.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 74.47
+cart_conversion_pct: 10
+cancel_rate_pct: 0.75
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/boost/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/boost/"
+language: "de"
+---
 # Profit Booster
 
 > Product ID `55698` · Digistore24 productId `641366` · [HTML profile page](../../produkte/profit-booster-55698.html)

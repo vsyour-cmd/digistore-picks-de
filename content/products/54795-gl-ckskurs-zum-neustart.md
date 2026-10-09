@@ -1,3 +1,24 @@
+---
+product_id: "54795"
+digistore24_product_id: 548922
+title: "Glückskurs zum Neustart"
+vendor: "anetteheidel"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 37.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Marketing Services"]
+listed_since: "2024-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://anetteheidel.com/angebote/onlinekurs-deine-beste-zeit/?aff=adminstore#aff=adminstore"
+sales_page: "https://anetteheidel.com/angebote/onlinekurs-deine-beste-zeit/"
+language: "de"
+---
 # Glückskurs zum Neustart
 
 > Product ID `54795` · Digistore24 productId `548922` · [HTML profile page](../../produkte/gl-ckskurs-zum-neustart-54795.html)

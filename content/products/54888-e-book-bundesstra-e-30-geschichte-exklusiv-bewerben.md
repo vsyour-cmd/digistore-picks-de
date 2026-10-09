@@ -1,3 +1,24 @@
+---
+product_id: "54888"
+digistore24_product_id: 654604
+title: "E-Book Bundesstraße 30 – Geschichte exklusiv bewerben"
+vendor: "erit-tibi"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2025-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html"
+language: "de"
+---
 # E-Book Bundesstraße 30 – Geschichte exklusiv bewerben
 
 > Product ID `54888` · Digistore24 productId `654604` · [HTML profile page](../../produkte/e-book-bundesstra-e-30-geschichte-exklusiv-bewerben-54888.html)

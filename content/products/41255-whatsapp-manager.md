@@ -1,3 +1,24 @@
+---
+product_id: "41255"
+digistore24_product_id: 456259
+title: "WhatsApp Manager"
+vendor: "Cleriker"
+product_type: "Member area and video courses"
+price: 937.19
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 281.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2022-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://los.larspilawski.de/durchstarten-mit-dem-whatsapp-manager/?aff=adminstore#aff=adminstore"
+sales_page: "https://los.larspilawski.de/durchstarten-mit-dem-whatsapp-manager/"
+language: "de"
+---
 # WhatsApp Manager
 
 > Product ID `41255` · Digistore24 productId `456259` · [HTML profile page](../../produkte/whatsapp-manager-41255.html)

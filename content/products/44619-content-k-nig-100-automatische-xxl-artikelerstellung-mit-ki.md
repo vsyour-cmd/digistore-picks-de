@@ -1,3 +1,24 @@
+---
+product_id: "44619"
+digistore24_product_id: 540204
+title: "Content König-100% automatische XXL-Artikelerstellung mit KI"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 70.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://contentkoenig.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://contentkoenig.com/"
+language: "de"
+---
 # Content König-100% automatische XXL-Artikelerstellung mit KI
 
 > Product ID `44619` · Digistore24 productId `540204` · [HTML profile page](../../produkte/content-k-nig-100-automatische-xxl-artikelerstellung-mit-ki-44619.html)

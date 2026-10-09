@@ -1,3 +1,24 @@
+---
+product_id: "53195"
+digistore24_product_id: 264931
+title: "Neurostreams™ ALLES ( Premium USB-Stick)"
+vendor: "newdimension"
+product_type: "Deliverable"
+price: 318.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 159.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2019-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/neurostreams-alles?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/neurostreams-alles"
+language: "de"
+---
 # Neurostreams™ ALLES ( Premium USB-Stick)
 
 > Product ID `53195` · Digistore24 productId `264931` · [HTML profile page](../../produkte/neurostreams-alles-premium-usb-stick-53195.html)

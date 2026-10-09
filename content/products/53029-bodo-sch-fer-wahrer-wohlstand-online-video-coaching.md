@@ -1,3 +1,24 @@
+---
+product_id: "53029"
+digistore24_product_id: 619337
+title: "Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)"
+vendor: "BodoSchaefer"
+product_type: "Member area and video courses"
+price: 608.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 121.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2025-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://millionaer7.de/wahrer-wohlstand-aff/?aff=adminstore#aff=adminstore"
+sales_page: "https://millionaer7.de/wahrer-wohlstand-aff/"
+language: "de"
+---
 # Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)
 
 > Product ID `53029` · Digistore24 productId `619337` · [HTML profile page](../../produkte/bodo-sch-fer-wahrer-wohlstand-online-video-coaching-53029.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59971"
+digistore24_product_id: 738051
+title: "KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision"
+vendor: "influexai"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/738051?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738051"
+language: "de"
+---
 # KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision
 
 > Product ID `59971` · Digistore24 productId `738051` · [HTML profile page](../../produkte/ki-social-media-f-r-betriebe-onlinekurs-f-r-99-50-provision-59971.html)

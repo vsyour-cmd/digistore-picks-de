@@ -1,3 +1,24 @@
+---
+product_id: "39738"
+digistore24_product_id: 364188
+title: "Gesundheitsvorsorge mit Ayurveda"
+vendor: "Ayurvedaschule"
+product_type: "Member area and video courses"
+price: 146.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 43.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schule-fuer-ayurveda.de/gesundheitsvorsorge-mit-ayurveda/?aff=adminstore#aff=adminstore"
+sales_page: "https://schule-fuer-ayurveda.de/gesundheitsvorsorge-mit-ayurveda/"
+language: "de"
+---
 # Gesundheitsvorsorge mit Ayurveda
 
 > Product ID `39738` · Digistore24 productId `364188` · [HTML profile page](../../produkte/gesundheitsvorsorge-mit-ayurveda-39738.html)

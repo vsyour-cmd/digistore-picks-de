@@ -1,3 +1,24 @@
+---
+product_id: "47606"
+digistore24_product_id: 468689
+title: "Funnel Money Booster | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 2.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.56
+cart_conversion_pct: 20
+cancel_rate_pct: 0.24
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2022-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/468689/adminstore"
+sales_page: "https://www.profitbuddies.de/funnel-money-booster?voucher=FMB-Special&aff=[AFFILIATE]"
+language: "de"
+---
 # Funnel Money Booster | Partnerprogramm
 
 > Product ID `47606` · Digistore24 productId `468689` · [HTML profile page](../../produkte/funnel-money-booster-partnerprogramm-47606.html)

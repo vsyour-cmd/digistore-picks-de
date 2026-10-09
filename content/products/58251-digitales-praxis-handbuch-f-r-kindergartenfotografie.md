@@ -1,3 +1,24 @@
+---
+product_id: "58251"
+digistore24_product_id: 719271
+title: "Digitales Praxis-Handbuch für Kindergartenfotografie"
+vendor: "proleitfaden"
+product_type: "Downloads"
+price: 135.36
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 27.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Photography & Film","Profession & Job"]
+listed_since: "2026-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/719271?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719271"
+language: "de"
+---
 # Digitales Praxis-Handbuch für Kindergartenfotografie
 
 > Product ID `58251` · Digistore24 productId `719271` · [HTML profile page](../../produkte/digitales-praxis-handbuch-f-r-kindergartenfotografie-58251.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57677"
+digistore24_product_id: 713274
+title: "Mehr Leben. Mehr Erfolg."
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Sales Training"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713274?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713274"
+language: "de"
+---
 # Mehr Leben. Mehr Erfolg.
 
 > Product ID `57677` · Digistore24 productId `713274` · [HTML profile page](../../produkte/mehr-leben-mehr-erfolg-57677.html)

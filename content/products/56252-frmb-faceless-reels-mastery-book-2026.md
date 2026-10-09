@@ -1,3 +1,24 @@
+---
+product_id: "56252"
+digistore24_product_id: 683957
+title: "FRMB - Faceless Reels Mastery Book 2026"
+vendor: "yugeen77"
+product_type: "E-books"
+price: 1.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.56
+cart_conversion_pct: 40
+cancel_rate_pct: 10.97
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://faceless.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://faceless.ygn-onlinemarketing.de/"
+language: "de"
+---
 # FRMB - Faceless Reels Mastery Book 2026
 
 > Product ID `56252` · Digistore24 productId `683957` · [HTML profile page](../../produkte/frmb-faceless-reels-mastery-book-2026-56252.html)

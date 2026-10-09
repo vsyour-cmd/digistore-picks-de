@@ -1,3 +1,24 @@
+---
+product_id: "55176"
+digistore24_product_id: 554813
+title: "GPT Assist Builder"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 43.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-05-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cash4lead.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://cash4lead.de/"
+language: "de"
+---
 # GPT Assist Builder
 
 > Product ID `55176` · Digistore24 productId `554813` · [HTML profile page](../../produkte/gpt-assist-builder-55176.html)

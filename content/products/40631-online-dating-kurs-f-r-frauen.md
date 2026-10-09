@@ -1,3 +1,24 @@
+---
+product_id: "40631"
+digistore24_product_id: 305200
+title: "Online Dating Kurs für Frauen"
+vendor: "PetraSerena"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2020-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.soulmatecoaching.de/online-dating-queen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.soulmatecoaching.de/online-dating-queen/"
+language: "de"
+---
 # Online Dating Kurs für Frauen
 
 > Product ID `40631` · Digistore24 productId `305200` · [HTML profile page](../../produkte/online-dating-kurs-f-r-frauen-40631.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43803"
+digistore24_product_id: 489462
+title: "Hypnose Online Kurs ABO 27 EUR/mtl"
+vendor: "Happiness4Senses"
+product_type: "Member area and video courses"
+price: 253.8
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 63.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/"
+language: "de"
+---
 # Hypnose Online Kurs ABO 27 EUR/mtl
 
 > Product ID `43803` · Digistore24 productId `489462` · [HTML profile page](../../produkte/hypnose-online-kurs-abo-27-eur-mtl-43803.html)

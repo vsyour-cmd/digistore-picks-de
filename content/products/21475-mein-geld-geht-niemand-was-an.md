@@ -1,3 +1,24 @@
+---
+product_id: "21475"
+digistore24_product_id: 187671
+title: "Mein Geld geht niemand was an"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 14.5
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Profession & Job"]
+listed_since: "2017-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-mg/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-mg/index.html"
+language: "de"
+---
 # Mein Geld geht niemand was an
 
 > Product ID `21475` · Digistore24 productId `187671` · [HTML profile page](../../produkte/mein-geld-geht-niemand-was-an-21475.html)

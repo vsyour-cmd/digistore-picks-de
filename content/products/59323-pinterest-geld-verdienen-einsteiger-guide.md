@@ -1,3 +1,24 @@
+---
+product_id: "59323"
+digistore24_product_id: 732868
+title: "Pinterest Geld verdienen – Einsteiger-Guide"
+vendor: "Medina88"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/732868?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/732868"
+language: "de"
+---
 # Pinterest Geld verdienen – Einsteiger-Guide
 
 > Product ID `59323` · Digistore24 productId `732868` · [HTML profile page](../../produkte/pinterest-geld-verdienen-einsteiger-guide-59323.html)

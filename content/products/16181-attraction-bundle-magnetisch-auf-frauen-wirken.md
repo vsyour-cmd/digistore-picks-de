@@ -1,3 +1,24 @@
+---
+product_id: "16181"
+digistore24_product_id: 115391
+title: "Attraction Bundle – Magnetisch auf Frauen wirken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2017-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/attraction-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/attraction-bundle/"
+language: "de"
+---
 # Attraction Bundle – Magnetisch auf Frauen wirken
 
 > Product ID `16181` · Digistore24 productId `115391` · [HTML profile page](../../produkte/attraction-bundle-magnetisch-auf-frauen-wirken-16181.html)

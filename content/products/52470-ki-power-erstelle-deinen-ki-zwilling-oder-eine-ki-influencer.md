@@ -1,3 +1,24 @@
+---
+product_id: "52470"
+digistore24_product_id: 611383
+title: "KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer"
+vendor: "AnneWuensche"
+product_type: "Member area and video courses"
+price: 48.37
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.57
+cart_conversion_pct: 2
+cancel_rate_pct: 5.01
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-05-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/611383?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/611383"
+language: "de"
+---
 # KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer
 
 > Product ID `52470` · Digistore24 productId `611383` · [HTML profile page](../../produkte/ki-power-erstelle-deinen-ki-zwilling-oder-eine-ki-influencer-52470.html)

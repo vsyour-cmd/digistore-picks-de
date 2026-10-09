@@ -1,3 +1,24 @@
+---
+product_id: "38929"
+digistore24_product_id: 426468
+title: "Landingpage Textvorlage"
+vendor: "Jyotima"
+product_type: "E-books"
+price: 45.87
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.06
+cart_conversion_pct: 4
+cancel_rate_pct: 1.23
+categories: ["Profession & Job"]
+listed_since: "2022-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jyotimaflak.com/landingpagebauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jyotimaflak.com/landingpagebauen/"
+language: "de"
+---
 # Landingpage Textvorlage
 
 > Product ID `38929` · Digistore24 productId `426468` · [HTML profile page](../../produkte/landingpage-textvorlage-38929.html)

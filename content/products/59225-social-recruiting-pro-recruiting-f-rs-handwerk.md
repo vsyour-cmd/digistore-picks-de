@@ -1,3 +1,24 @@
+---
+product_id: "59225"
+digistore24_product_id: 412270
+title: "Social Recruiting Pro | Recruiting fürs Handwerk"
+vendor: "SOMEONMARKETING"
+product_type: "Remote service provided electronically"
+price: 2785.31
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 417.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Marketing Services"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://someonmarketing.com/social-media-betreuung/?aff=adminstore#aff=adminstore"
+sales_page: "https://someonmarketing.com/social-media-betreuung/"
+language: "de"
+---
 # Social Recruiting Pro | Recruiting fürs Handwerk
 
 > Product ID `59225` · Digistore24 productId `412270` · [HTML profile page](../../produkte/social-recruiting-pro-recruiting-f-rs-handwerk-59225.html)

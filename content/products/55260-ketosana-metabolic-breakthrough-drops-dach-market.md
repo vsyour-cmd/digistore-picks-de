@@ -1,3 +1,24 @@
+---
+product_id: "55260"
+digistore24_product_id: 661129
+title: "KetoSana - Metabolic Breakthrough Drops (DACH Market)"
+vendor: "DS24-MySana"
+product_type: "Supplements - for slimming"
+price: 188.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 128.91
+cart_conversion_pct: 20
+cancel_rate_pct: 6.47
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myketosana.com/ketosana-pdp-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://myketosana.com/ketosana-pdp-fe"
+language: "de"
+---
 # KetoSana - Metabolic Breakthrough Drops (DACH Market)
 
 > Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)

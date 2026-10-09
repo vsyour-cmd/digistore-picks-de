@@ -1,3 +1,24 @@
+---
+product_id: "51980"
+digistore24_product_id: 518666
+title: "Photomizer 3 Premium - Bildbearbeitungsprogramm"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film","Social Media","Software"]
+listed_since: "2023-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/518666"
+language: "de"
+---
 # Photomizer 3 Premium - Bildbearbeitungsprogramm
 
 > Product ID `51980` · Digistore24 productId `518666` · [HTML profile page](../../produkte/photomizer-3-premium-bildbearbeitungsprogramm-51980.html)

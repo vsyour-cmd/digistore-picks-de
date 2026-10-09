@@ -1,3 +1,24 @@
+---
+product_id: "59166"
+digistore24_product_id: 723183
+title: "Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan"
+vendor: "Anha13"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/weihnachtswichtel-streiche-wichteltuer-wichtelstreiche/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/weihnachtswichtel-streiche-wichteltuer-wichtelstreiche/"
+language: "de"
+---
 # Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan
 
 > Product ID `59166` · Digistore24 productId `723183` · [HTML profile page](../../produkte/der-entspannte-wichtel-fertiger-24-tage-wichtelplan-59166.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46891"
+digistore24_product_id: 535689
+title: "KI-Kurs Architekt - Kurse mit 100% KI erstellen"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-schlinder.com/KI-KursLab365?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/KI-KursLab365"
+language: "de"
+---
 # KI-Kurs Architekt - Kurse mit 100% KI erstellen
 
 > Product ID `46891` · Digistore24 productId `535689` · [HTML profile page](../../produkte/ki-kurs-architekt-kurse-mit-100-ki-erstellen-46891.html)

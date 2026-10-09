@@ -1,3 +1,24 @@
+---
+product_id: "59419"
+digistore24_product_id: 735238
+title: "Der große Spanien-Überlebensguide"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735238?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735238"
+language: "de"
+---
 # Der große Spanien-Überlebensguide
 
 > Product ID `59419` · Digistore24 productId `735238` · [HTML profile page](../../produkte/der-gro-e-spanien-berlebensguide-59419.html)

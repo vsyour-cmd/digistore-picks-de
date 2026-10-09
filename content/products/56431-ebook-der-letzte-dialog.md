@@ -1,3 +1,24 @@
+---
+product_id: "56431"
+digistore24_product_id: 689559
+title: "Ebook - Der letzte Dialog"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689559?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689559"
+language: "de"
+---
 # Ebook - Der letzte Dialog
 
 > Product ID `56431` · Digistore24 productId `689559` · [HTML profile page](../../produkte/ebook-der-letzte-dialog-56431.html)

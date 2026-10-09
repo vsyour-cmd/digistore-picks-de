@@ -1,3 +1,24 @@
+---
+product_id: "59358"
+digistore24_product_id: 515016
+title: "Hypnose-Onlinekurs Mindful Eating"
+vendor: "petanthony"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://shop.petanthony.com/online-kurse_mindful-eating_DS/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.petanthony.com/online-kurse_mindful-eating_DS/"
+language: "de"
+---
 # Hypnose-Onlinekurs Mindful Eating
 
 > Product ID `59358` · Digistore24 productId `515016` · [HTML profile page](../../produkte/hypnose-onlinekurs-mindful-eating-59358.html)

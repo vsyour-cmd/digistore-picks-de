@@ -1,3 +1,24 @@
+---
+product_id: "52417"
+digistore24_product_id: 598310
+title: "Selbstgeführte Stadtrallye Bukarest | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2025-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-bukarest/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-bukarest/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Bukarest | Hint-Caching
 
 > Product ID `52417` · Digistore24 productId `598310` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-bukarest-hint-caching-52417.html)

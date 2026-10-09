@@ -1,3 +1,24 @@
+---
+product_id: "47041"
+digistore24_product_id: 250037
+title: "Neurostreams™ Rückkehr nach Eden"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/labor/gegen-ruhelosigkeit/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/labor/gegen-ruhelosigkeit/"
+language: "de"
+---
 # Neurostreams™ Rückkehr nach Eden
 
 > Product ID `47041` · Digistore24 productId `250037` · [HTML profile page](../../produkte/neurostreams-r-ckkehr-nach-eden-47041.html)

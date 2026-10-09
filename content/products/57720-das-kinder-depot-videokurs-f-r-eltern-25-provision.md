@@ -1,3 +1,24 @@
+---
+product_id: "57720"
+digistore24_product_id: 674625
+title: "Das Kinder-Depot – Videokurs für Eltern | 25 % Provision"
+vendor: "meyermatthias75a7be"
+product_type: "Member area and video courses"
+price: 608.19
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 152.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Finances"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.das-kinder-depot.de/challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.das-kinder-depot.de/challenge/"
+language: "de"
+---
 # Das Kinder-Depot – Videokurs für Eltern | 25 % Provision
 
 > Product ID `57720` · Digistore24 productId `674625` · [HTML profile page](../../produkte/das-kinder-depot-videokurs-f-r-eltern-25-provision-57720.html)

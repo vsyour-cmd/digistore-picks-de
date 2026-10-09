@@ -1,3 +1,24 @@
+---
+product_id: "55309"
+digistore24_product_id: 603639
+title: "Let's Meditate Meditationskurs mit Britta Kunst"
+vendor: "BrittaKunst"
+product_type: "Member area and video courses"
+price: 177.66
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 44.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://britta-kunst.app.mentortools.com/lets-meditate?aff=adminstore#aff=adminstore"
+sales_page: "https://britta-kunst.app.mentortools.com/lets-meditate"
+language: "de"
+---
 # Let's Meditate Meditationskurs mit Britta Kunst
 
 > Product ID `55309` · Digistore24 productId `603639` · [HTML profile page](../../produkte/let-s-meditate-meditationskurs-mit-britta-kunst-55309.html)

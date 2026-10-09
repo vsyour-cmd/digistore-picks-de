@@ -1,3 +1,24 @@
+---
+product_id: "38151"
+digistore24_product_id: 410602
+title: "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden"
+vendor: "Thuphi888"
+product_type: "Webinar"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 139.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2021-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore"
+sales_page: "https://spirit-food.com/klarer-verstand/"
+language: "de"
+---
 # Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden
 
 > Product ID `38151` · Digistore24 productId `410602` · [HTML profile page](../../produkte/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53313"
+digistore24_product_id: 553233
+title: "Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs"
+vendor: "optandoakademie"
+product_type: "Member area and video courses"
+price: 81.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 40.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Survival"]
+listed_since: "2024-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore"
+sales_page: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/"
+language: "de"
+---
 # Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs
 
 > Product ID `53313` · Digistore24 productId `553233` · [HTML profile page](../../produkte/bis-der-notarzt-kommt-einzigartiger-kinder-notfall-kurs-53313.html)

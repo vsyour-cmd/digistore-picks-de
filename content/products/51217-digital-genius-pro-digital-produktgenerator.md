@@ -1,3 +1,24 @@
+---
+product_id: "51217"
+digistore24_product_id: 593791
+title: "Digital Genius Pro - Digital-Produktgenerator"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Digital-Genius-Pro?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Digital-Genius-Pro"
+language: "de"
+---
 # Digital Genius Pro - Digital-Produktgenerator
 
 > Product ID `51217` · Digistore24 productId `593791` · [HTML profile page](../../produkte/digital-genius-pro-digital-produktgenerator-51217.html)

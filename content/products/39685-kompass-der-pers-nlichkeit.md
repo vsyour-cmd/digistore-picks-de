@@ -1,3 +1,24 @@
+---
+product_id: "39685"
+digistore24_product_id: 429538
+title: "Kompass der Persönlichkeit"
+vendor: "TJakobs"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/geheimnis-deines-typs/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/beziehung-zu-dir-selbst/geheimnis-deines-typs/"
+language: "de"
+---
 # Kompass der Persönlichkeit
 
 > Product ID `39685` · Digistore24 productId `429538` · [HTML profile page](../../produkte/kompass-der-pers-nlichkeit-39685.html)

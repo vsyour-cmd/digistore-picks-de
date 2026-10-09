@@ -1,3 +1,24 @@
+---
+product_id: "54889"
+digistore24_product_id: 589577
+title: "Vom Träumer zum Könner"
+vendor: "IMCoachingTraining"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Leadership & Management"]
+listed_since: "2025-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/589577?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/589577"
+language: "de"
+---
 # Vom Träumer zum Könner
 
 > Product ID `54889` · Digistore24 productId `589577` · [HTML profile page](../../produkte/vom-tr-umer-zum-k-nner-54889.html)

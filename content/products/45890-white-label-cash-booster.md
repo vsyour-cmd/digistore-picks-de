@@ -1,3 +1,24 @@
+---
+product_id: "45890"
+digistore24_product_id: 523975
+title: "White Label - Cash Booster"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 15.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-11-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/white-label-up-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/white-label-up-2/"
+language: "de"
+---
 # White Label - Cash Booster
 
 > Product ID `45890` · Digistore24 productId `523975` · [HTML profile page](../../produkte/white-label-cash-booster-45890.html)

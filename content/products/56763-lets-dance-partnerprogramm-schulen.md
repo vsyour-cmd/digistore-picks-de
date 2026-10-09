@@ -1,3 +1,24 @@
+---
+product_id: "56763"
+digistore24_product_id: 693092
+title: "Lets-Dance - Partnerprogramm Schulen"
+vendor: "Laphosio"
+product_type: "Member area and video courses"
+price: 795.32
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 238.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/693092/adminstore"
+sales_page: "https://lets-dance.net/premium-sales-schools?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "de"
+---
 # Lets-Dance - Partnerprogramm Schulen
 
 > Product ID `56763` · Digistore24 productId `693092` · [HTML profile page](../../produkte/lets-dance-partnerprogramm-schulen-56763.html)

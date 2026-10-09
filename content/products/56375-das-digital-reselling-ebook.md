@@ -1,3 +1,24 @@
+---
+product_id: "56375"
+digistore24_product_id: 688002
+title: "Das Digital Reselling Ebook"
+vendor: "BastianBauer"
+product_type: "E-books"
+price: 25.6
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688002?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688002"
+language: "de"
+---
 # Das Digital Reselling Ebook
 
 > Product ID `56375` · Digistore24 productId `688002` · [HTML profile page](../../produkte/das-digital-reselling-ebook-56375.html)

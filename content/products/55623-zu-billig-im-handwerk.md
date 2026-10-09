@@ -1,3 +1,24 @@
+---
+product_id: "55623"
+digistore24_product_id: 667257
+title: "Zu billig im Handwerk?"
+vendor: "Rudkad"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/667257?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/667257"
+language: "de"
+---
 # Zu billig im Handwerk?
 
 > Product ID `55623` · Digistore24 productId `667257` · [HTML profile page](../../produkte/zu-billig-im-handwerk-55623.html)

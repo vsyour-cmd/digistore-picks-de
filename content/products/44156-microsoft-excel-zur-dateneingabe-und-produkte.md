@@ -1,3 +1,24 @@
+---
+product_id: "44156"
+digistore24_product_id: 488368
+title: "Microsoft Excel zur Dateneingabe und Produkte"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.65
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-2/"
+language: "de"
+---
 # Microsoft Excel zur Dateneingabe und Produkte
 
 > Product ID `44156` · Digistore24 productId `488368` · [HTML profile page](../../produkte/microsoft-excel-zur-dateneingabe-und-produkte-44156.html)

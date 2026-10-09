@@ -1,3 +1,24 @@
+---
+product_id: "59561"
+digistore24_product_id: 736276
+title: "CONTROL Series Komplett — 6 Workbooks (01–06)"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 208.04
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 62.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://control-bundle.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://control-bundle.pages.dev/"
+language: "de"
+---
 # CONTROL Series Komplett — 6 Workbooks (01–06)
 
 > Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../produkte/control-series-komplett-6-workbooks-01-06-59561.html)

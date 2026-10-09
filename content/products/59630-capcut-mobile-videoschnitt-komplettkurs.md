@@ -1,3 +1,24 @@
+---
+product_id: "59630"
+digistore24_product_id: 734135
+title: "CapCut Mobile Videoschnitt Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Photography & Film","Social Media"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734135?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734135"
+language: "de"
+---
 # CapCut Mobile Videoschnitt Komplettkurs
 
 > Product ID `59630` · Digistore24 productId `734135` · [HTML profile page](../../produkte/capcut-mobile-videoschnitt-komplettkurs-59630.html)

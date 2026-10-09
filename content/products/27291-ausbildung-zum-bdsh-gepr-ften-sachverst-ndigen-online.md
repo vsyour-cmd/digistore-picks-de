@@ -1,3 +1,24 @@
+---
+product_id: "27291"
+digistore24_product_id: 247449
+title: "Ausbildung zum BDSH-geprüften Sachverständigen - Online"
+vendor: "michaelbandt"
+product_type: "Downloads"
+price: 1930.83
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 7
+cancel_rate_pct: 3.87
+categories: ["Profession & Job"]
+listed_since: "2018-11-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://bisw.de/Sachverstaendiger-Homeseminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://bisw.de/Sachverstaendiger-Homeseminar/"
+language: "de"
+---
 # Ausbildung zum BDSH-geprüften Sachverständigen - Online
 
 > Product ID `27291` · Digistore24 productId `247449` · [HTML profile page](../../produkte/ausbildung-zum-bdsh-gepr-ften-sachverst-ndigen-online-27291.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45042"
+digistore24_product_id: 475255
+title: "So besteht jede/r die Theorieprüfung"
+vendor: "Verkehrsguru"
+product_type: "Member area and video courses"
+price: 35.82
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 15.83
+cart_conversion_pct: 5
+cancel_rate_pct: 3.13
+categories: ["Education"]
+listed_since: "2022-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/475255?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/475255"
+language: "de"
+---
 # So besteht jede/r die Theorieprüfung
 
 > Product ID `45042` · Digistore24 productId `475255` · [HTML profile page](../../produkte/so-besteht-jede-r-die-theoriepr-fung-45042.html)

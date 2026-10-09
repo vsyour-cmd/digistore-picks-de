@@ -1,3 +1,24 @@
+---
+product_id: "23707"
+digistore24_product_id: 209613
+title: "Jazzakkorde für Gitarre"
+vendor: "musiklehrer"
+product_type: "Downloads"
+price: 83.1
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 16.24
+cart_conversion_pct: 15
+cancel_rate_pct: 2.88
+categories: ["Dancing & Music"]
+listed_since: "2018-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/"
+language: "de"
+---
 # Jazzakkorde für Gitarre
 
 > Product ID `23707` · Digistore24 productId `209613` · [HTML profile page](../../produkte/jazzakkorde-f-r-gitarre-23707.html)

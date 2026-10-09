@@ -1,3 +1,24 @@
+---
+product_id: "53787"
+digistore24_product_id: 633236
+title: "Starter Guide 2025 Der Weg von einem Niemand zum Investor"
+vendor: "claritydigital"
+product_type: "E-books"
+price: 155.77
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 70.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Finances"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633236?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633236"
+language: "de"
+---
 # Starter Guide 2025 Der Weg von einem Niemand zum Investor
 
 > Product ID `53787` · Digistore24 productId `633236` · [HTML profile page](../../produkte/starter-guide-2025-der-weg-von-einem-niemand-zum-investor-53787.html)

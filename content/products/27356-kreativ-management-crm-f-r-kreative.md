@@ -1,3 +1,24 @@
+---
+product_id: "27356"
+digistore24_product_id: 498058
+title: "Kreativ.Management - CRM für Kreative"
+vendor: "Hochzeitmanagement"
+product_type: "Software"
+price: 825.96
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 48.67
+cart_conversion_pct: 33
+cancel_rate_pct: 2.76
+categories: ["Business & Investment","Computer & Internet","Software"]
+listed_since: "2023-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://kreativ.management?aff=adminstore#aff=adminstore"
+sales_page: "https://kreativ.management"
+language: "de"
+---
 # Kreativ.Management - CRM für Kreative
 
 > Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../produkte/kreativ-management-crm-f-r-kreative-27356.html)

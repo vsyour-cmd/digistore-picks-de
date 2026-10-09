@@ -1,3 +1,24 @@
+---
+product_id: "58889"
+digistore24_product_id: 729163
+title: "Overlock-Grundlagen für Anfänger"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 14.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729163?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729163"
+language: "de"
+---
 # Overlock-Grundlagen für Anfänger
 
 > Product ID `58889` · Digistore24 productId `729163` · [HTML profile page](../../produkte/overlock-grundlagen-f-r-anf-nger-58889.html)

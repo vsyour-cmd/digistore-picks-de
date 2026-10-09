@@ -1,3 +1,24 @@
+---
+product_id: "45510"
+digistore24_product_id: 517855
+title: "Super Affiliate Plan"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 10.75
+cart_conversion_pct: 41
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R"
+language: "de"
+---
 # Super Affiliate Plan
 
 > Product ID `45510` · Digistore24 productId `517855` · [HTML profile page](../../produkte/super-affiliate-plan-45510.html)

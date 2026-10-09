@@ -1,3 +1,24 @@
+---
+product_id: "48736"
+digistore24_product_id: 561894
+title: "Chat GPT - Dein Anfänger Guide"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 0.41
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.54
+cart_conversion_pct: 50
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing"]
+listed_since: "2024-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/"
+language: "de"
+---
 # Chat GPT - Dein Anfänger Guide
 
 > Product ID `48736` · Digistore24 productId `561894` · [HTML profile page](../../produkte/chat-gpt-dein-anf-nger-guide-48736.html)

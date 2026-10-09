@@ -1,3 +1,24 @@
+---
+product_id: "40721"
+digistore24_product_id: 453210
+title: "Der Aktien Crashkurs"
+vendor: "Pharell"
+product_type: "Member area and video courses"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2022-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aktiencrashkurs.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://aktiencrashkurs.de/"
+language: "de"
+---
 # Der Aktien Crashkurs
 
 > Product ID `40721` · Digistore24 productId `453210` · [HTML profile page](../../produkte/der-aktien-crashkurs-40721.html)

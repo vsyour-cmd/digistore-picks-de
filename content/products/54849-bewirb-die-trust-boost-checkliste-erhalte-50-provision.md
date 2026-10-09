@@ -1,3 +1,24 @@
+---
+product_id: "54849"
+digistore24_product_id: 640065
+title: "Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision."
+vendor: "onlinemarketingwoman"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2025-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung"
+language: "de"
+---
 # Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision.
 
 > Product ID `54849` · Digistore24 productId `640065` · [HTML profile page](../../produkte/bewirb-die-trust-boost-checkliste-erhalte-50-provision-54849.html)

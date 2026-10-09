@@ -1,3 +1,24 @@
+---
+product_id: "55321"
+digistore24_product_id: 605495
+title: "Das LaunchReady System"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/launchready?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/launchready"
+language: "de"
+---
 # Das LaunchReady System
 
 > Product ID `55321` · Digistore24 productId `605495` · [HTML profile page](../../produkte/das-launchready-system-55321.html)

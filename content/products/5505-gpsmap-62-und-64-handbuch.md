@@ -1,3 +1,24 @@
+---
+product_id: "5505"
+digistore24_product_id: 36863
+title: "GPSMAP 62 und 64 Handbuch"
+vendor: "MBMweb"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2014-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/"
+language: "de"
+---
 # GPSMAP 62 und 64 Handbuch
 
 > Product ID `5505` · Digistore24 productId `36863` · [HTML profile page](../../produkte/gpsmap-62-und-64-handbuch-5505.html)

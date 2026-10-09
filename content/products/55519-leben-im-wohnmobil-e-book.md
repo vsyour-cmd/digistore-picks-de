@@ -1,3 +1,24 @@
+---
+product_id: "55519"
+digistore24_product_id: 667281
+title: "Leben im Wohnmobil E-Book"
+vendor: "travel-writer"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Travel & Culture"]
+listed_since: "2026-02-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/667281?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667281"
+language: "de"
+---
 # Leben im Wohnmobil E-Book
 
 > Product ID `55519` · Digistore24 productId `667281` · [HTML profile page](../../produkte/leben-im-wohnmobil-e-book-55519.html)

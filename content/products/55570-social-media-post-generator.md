@@ -1,3 +1,24 @@
+---
+product_id: "55570"
+digistore24_product_id: 668180
+title: "Social Media Post Generator"
+vendor: "DaveCrypto"
+product_type: "Software"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Marketing Services"]
+listed_since: "2026-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/668180?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/668180"
+language: "de"
+---
 # Social Media Post Generator
 
 > Product ID `55570` · Digistore24 productId `668180` · [HTML profile page](../../produkte/social-media-post-generator-55570.html)

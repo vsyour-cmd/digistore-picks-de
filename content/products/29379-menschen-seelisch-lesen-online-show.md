@@ -1,3 +1,24 @@
+---
+product_id: "29379"
+digistore24_product_id: 13857
+title: "Menschen seelisch lesen Online-Show"
+vendor: "elisette"
+product_type: "Remote service provided electronically"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 22.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2013-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.healing-harmony.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.healing-harmony.com"
+language: "de"
+---
 # Menschen seelisch lesen Online-Show
 
 > Product ID `29379` · Digistore24 productId `13857` · [HTML profile page](../../produkte/menschen-seelisch-lesen-online-show-29379.html)

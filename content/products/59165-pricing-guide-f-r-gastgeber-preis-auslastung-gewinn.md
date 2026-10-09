@@ -1,3 +1,24 @@
+---
+product_id: "59165"
+digistore24_product_id: 706785
+title: "Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn"
+vendor: "Anha13"
+product_type: "E-books"
+price: 24.05
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/"
+language: "de"
+---
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
 > Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)

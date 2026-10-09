@@ -1,3 +1,24 @@
+---
+product_id: "58224"
+digistore24_product_id: 719101
+title: "Content Cashflow – 90 Tage Content. Fertig geplant."
+vendor: "rs-onlineagentur"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://rita-scheer.de/content-cashflow-90-tage-content/?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/content-cashflow-90-tage-content/"
+language: "de"
+---
 # Content Cashflow – 90 Tage Content. Fertig geplant.
 
 > Product ID `58224` · Digistore24 productId `719101` · [HTML profile page](../../produkte/content-cashflow-90-tage-content-fertig-geplant-58224.html)

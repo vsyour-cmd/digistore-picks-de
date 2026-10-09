@@ -1,3 +1,24 @@
+---
+product_id: "38677"
+digistore24_product_id: 422227
+title: "E-Book: Von Introvertiert zu Extrovertiert"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 20.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-12-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL"
+language: "de"
+---
 # E-Book: Von Introvertiert zu Extrovertiert
 
 > Product ID `38677` · Digistore24 productId `422227` · [HTML profile page](../../produkte/e-book-von-introvertiert-zu-extrovertiert-38677.html)

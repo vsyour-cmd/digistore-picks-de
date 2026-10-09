@@ -1,3 +1,24 @@
+---
+product_id: "58237"
+digistore24_product_id: 720197
+title: "99 Keto-Rezepte"
+vendor: "KevinShop"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gesundleben.info/99-keto-rezepte/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben.info/99-keto-rezepte/"
+language: "de"
+---
 # 99 Keto-Rezepte
 
 > Product ID `58237` · Digistore24 productId `720197` · [HTML profile page](../../produkte/99-keto-rezepte-58237.html)

@@ -1,3 +1,24 @@
+---
+product_id: "14745"
+digistore24_product_id: 164599
+title: "EGroupware - Das Online Teamwork Tool"
+vendor: "egroupware"
+product_type: "Downloads"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 55.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2017-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.egroupware.org/de/preise?aff=adminstore#aff=adminstore"
+sales_page: "https://www.egroupware.org/de/preise"
+language: "de"
+---
 # EGroupware - Das Online Teamwork Tool
 
 > Product ID `14745` · Digistore24 productId `164599` · [HTML profile page](../../produkte/egroupware-das-online-teamwork-tool-14745.html)

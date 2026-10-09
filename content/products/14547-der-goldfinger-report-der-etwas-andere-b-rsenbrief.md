@@ -1,3 +1,24 @@
+---
+product_id: "14547"
+digistore24_product_id: 78137
+title: "Der Goldfinger Report™ - Der etwas andere Börsenbrief!"
+vendor: "Goldfinger23"
+product_type: "Downloads"
+price: 75.15
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 30.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2016-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.goldfinger-report.com/de/subscribe/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.goldfinger-report.com/de/subscribe/"
+language: "de"
+---
 # Der Goldfinger Report™ - Der etwas andere Börsenbrief!
 
 > Product ID `14547` · Digistore24 productId `78137` · [HTML profile page](../../produkte/der-goldfinger-report-der-etwas-andere-b-rsenbrief-14547.html)

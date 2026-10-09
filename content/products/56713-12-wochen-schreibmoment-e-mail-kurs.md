@@ -1,3 +1,24 @@
+---
+product_id: "56713"
+digistore24_product_id: 695576
+title: "12 Wochen Schreibmoment - E-Mail-Kurs"
+vendor: "Heike1704"
+product_type: "Remote service provided electronically"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 25.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft","Personal Development"]
+listed_since: "2026-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695576?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695576"
+language: "de"
+---
 # 12 Wochen Schreibmoment - E-Mail-Kurs
 
 > Product ID `56713` · Digistore24 productId `695576` · [HTML profile page](../../produkte/12-wochen-schreibmoment-e-mail-kurs-56713.html)

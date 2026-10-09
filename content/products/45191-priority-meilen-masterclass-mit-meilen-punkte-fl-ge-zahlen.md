@@ -1,3 +1,24 @@
+---
+product_id: "45191"
+digistore24_product_id: 515126
+title: "Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen"
+vendor: "FinestAudience"
+product_type: "Member area and video courses"
+price: 370.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 185.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Travel & Culture","Online Marketing"]
+listed_since: "2023-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.priority-meilen.de/pmm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.priority-meilen.de/pmm"
+language: "de"
+---
 # Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen
 
 > Product ID `45191` · Digistore24 productId `515126` · [HTML profile page](../../produkte/priority-meilen-masterclass-mit-meilen-punkte-fl-ge-zahlen-45191.html)

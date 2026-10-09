@@ -1,3 +1,24 @@
+---
+product_id: "32010"
+digistore24_product_id: 306828
+title: "Ideenreiche Frisuren - das Bundle"
+vendor: "LaurieMakeupArtist"
+product_type: "Downloads"
+price: 136.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren?aff=adminstore#aff=adminstore"
+sales_page: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren"
+language: "de"
+---
 # Ideenreiche Frisuren - das Bundle
 
 > Product ID `32010` · Digistore24 productId `306828` · [HTML profile page](../../produkte/ideenreiche-frisuren-das-bundle-32010.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56482"
+digistore24_product_id: 688723
+title: "RISE Academy – Entfalte dein volles Potenzial"
+vendor: "riseby2souls1mission"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 45.22
+cart_conversion_pct: 46
+cancel_rate_pct: 0.63
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://2souls1mission.com?aff=adminstore#aff=adminstore"
+sales_page: "https://2souls1mission.com"
+language: "de"
+---
 # RISE Academy – Entfalte dein volles Potenzial
 
 > Product ID `56482` · Digistore24 productId `688723` · [HTML profile page](../../produkte/rise-academy-entfalte-dein-volles-potenzial-56482.html)

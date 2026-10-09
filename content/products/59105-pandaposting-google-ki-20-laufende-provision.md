@@ -1,3 +1,24 @@
+---
+product_id: "59105"
+digistore24_product_id: 731479
+title: "PandaPosting – Google- & KI – 20 % laufende Provision"
+vendor: "Digitelli_GmbH"
+product_type: "Software"
+price: 200.23
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 40.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Marketing Services"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pandaposting.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://pandaposting.de/"
+language: "de"
+---
 # PandaPosting – Google- & KI – 20 % laufende Provision
 
 > Product ID `59105` · Digistore24 productId `731479` · [HTML profile page](../../produkte/pandaposting-google-ki-20-laufende-provision-59105.html)

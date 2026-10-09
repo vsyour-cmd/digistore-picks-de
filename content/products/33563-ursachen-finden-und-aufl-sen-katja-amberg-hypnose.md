@@ -1,3 +1,24 @@
+---
+product_id: "33563"
+digistore24_product_id: 310603
+title: "Ursachen finden und auflösen | Katja Amberg | Hypnose"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 123.14
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://katja-amberg-shop.de/ursachenfindenundaufloesen?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/ursachenfindenundaufloesen"
+language: "de"
+---
 # Ursachen finden und auflösen | Katja Amberg | Hypnose
 
 > Product ID `33563` · Digistore24 productId `310603` · [HTML profile page](../../produkte/ursachen-finden-und-aufl-sen-katja-amberg-hypnose-33563.html)

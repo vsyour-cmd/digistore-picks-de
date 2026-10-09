@@ -1,3 +1,24 @@
+---
+product_id: "59735"
+digistore24_product_id: 732158
+title: "GKG-2.A Der Garten-Kalkulator"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732158?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732158"
+language: "de"
+---
 # GKG-2.A Der Garten-Kalkulator
 
 > Product ID `59735` · Digistore24 productId `732158` · [HTML profile page](../../produkte/gkg-2-a-der-garten-kalkulator-59735.html)

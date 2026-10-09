@@ -1,3 +1,24 @@
+---
+product_id: "48338"
+digistore24_product_id: 556189
+title: "Mein erstes Ausmalbuch - Entdecke die Farben"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Hobby & Craft"]
+listed_since: "2024-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/556189?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/556189"
+language: "de"
+---
 # Mein erstes Ausmalbuch - Entdecke die Farben
 
 > Product ID `48338` · Digistore24 productId `556189` · [HTML profile page](../../produkte/mein-erstes-ausmalbuch-entdecke-die-farben-48338.html)

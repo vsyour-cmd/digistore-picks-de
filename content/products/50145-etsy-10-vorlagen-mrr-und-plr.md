@@ -1,3 +1,24 @@
+---
+product_id: "50145"
+digistore24_product_id: 576551
+title: "Etsy - 10 Vorlagen (MRR und PLR)"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2024-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/576551?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/576551"
+language: "de"
+---
 # Etsy - 10 Vorlagen (MRR und PLR)
 
 > Product ID `50145` · Digistore24 productId `576551` · [HTML profile page](../../produkte/etsy-10-vorlagen-mrr-und-plr-50145.html)

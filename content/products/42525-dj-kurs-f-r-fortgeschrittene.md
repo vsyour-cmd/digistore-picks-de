@@ -1,3 +1,24 @@
+---
+product_id: "42525"
+digistore24_product_id: 476406
+title: "DJ Kurs für Fortgeschrittene"
+vendor: "djmikehoffmann"
+product_type: "Member area and video courses"
+price: 94
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 23.49
+cart_conversion_pct: 10
+cancel_rate_pct: 4.91
+categories: ["Education"]
+listed_since: "2022-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.djmikehoffmann.de/552/dj-kurs.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.djmikehoffmann.de/552/dj-kurs.html"
+language: "de"
+---
 # DJ Kurs für Fortgeschrittene
 
 > Product ID `42525` · Digistore24 productId `476406` · [HTML profile page](../../produkte/dj-kurs-f-r-fortgeschrittene-42525.html)

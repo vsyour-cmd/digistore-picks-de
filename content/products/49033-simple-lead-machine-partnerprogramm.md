@@ -1,3 +1,24 @@
+---
+product_id: "49033"
+digistore24_product_id: 506275
+title: "Simple Lead Machine | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 188.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 141.98
+cart_conversion_pct: 1
+cancel_rate_pct: 2.38
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2023-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/506275/adminstore"
+sales_page: "https://www.profitbuddies.de/slm-wj-oi?utm_source=ds24-partner&utm_medium=affiliate&utm_campaign=slm-webinar&utm_content=[AFFILIATE]&aff=[AFFILIATE]"
+language: "de"
+---
 # Simple Lead Machine | Partnerprogramm
 
 > Product ID `49033` · Digistore24 productId `506275` · [HTML profile page](../../produkte/simple-lead-machine-partnerprogramm-49033.html)

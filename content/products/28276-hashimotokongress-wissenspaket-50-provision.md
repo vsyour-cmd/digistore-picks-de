@@ -1,3 +1,24 @@
+---
+product_id: "28276"
+digistore24_product_id: 239771
+title: "Hashimotokongress Wissenspaket 50% Provision"
+vendor: "autoimmunportal"
+product_type: "Member area and video courses"
+price: 60.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.43
+cart_conversion_pct: 25
+cancel_rate_pct: 3.29
+categories: ["Health & Fitness"]
+listed_since: "2018-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.medumio.de/hashimotokongress/premium-zugang/?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.medumio.de/hashimotokongress/premium-zugang/"
+language: "de"
+---
 # Hashimotokongress Wissenspaket 50% Provision
 
 > Product ID `28276` · Digistore24 productId `239771` · [HTML profile page](../../produkte/hashimotokongress-wissenspaket-50-provision-28276.html)

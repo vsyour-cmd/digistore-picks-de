@@ -1,3 +1,24 @@
+---
+product_id: "36790"
+digistore24_product_id: 409831
+title: "Telegram Newsletter Business"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/tnb-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/tnb-fe/"
+language: "de"
+---
 # Telegram Newsletter Business
 
 > Product ID `36790` · Digistore24 productId `409831` · [HTML profile page](../../produkte/telegram-newsletter-business-36790.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47158"
+digistore24_product_id: 488621
+title: "Digital Heart Business Academy ABO"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 5.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://dhba.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://dhba.funnelcockpit.com/"
+language: "de"
+---
 # Digital Heart Business Academy ABO
 
 > Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../produkte/digital-heart-business-academy-abo-47158.html)

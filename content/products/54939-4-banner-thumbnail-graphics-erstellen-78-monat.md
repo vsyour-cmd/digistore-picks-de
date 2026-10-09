@@ -1,3 +1,24 @@
+---
+product_id: "54939"
+digistore24_product_id: 655974
+title: "4 Banner-Thumbnail-Graphics erstellen 78€ / Monat"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 87.25
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 26.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2025-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/banner-thumbnails-graphic-erstellen-guenstig-60euro-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/banner-thumbnails-graphic-erstellen-guenstig-60euro-digistore24/"
+language: "de"
+---
 # 4 Banner-Thumbnail-Graphics erstellen 78€ / Monat
 
 > Product ID `54939` · Digistore24 productId `655974` · [HTML profile page](../../produkte/4-banner-thumbnail-graphics-erstellen-78-monat-54939.html)

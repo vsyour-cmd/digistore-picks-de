@@ -1,3 +1,24 @@
+---
+product_id: "58719"
+digistore24_product_id: 716901
+title: "Dunkle Psychologie"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 13.69
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/psycho.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/psycho.php"
+language: "de"
+---
 # Dunkle Psychologie
 
 > Product ID `58719` · Digistore24 productId `716901` · [HTML profile page](../../produkte/dunkle-psychologie-58719.html)

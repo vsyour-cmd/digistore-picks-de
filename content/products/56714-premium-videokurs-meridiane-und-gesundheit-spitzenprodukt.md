@@ -1,3 +1,24 @@
+---
+product_id: "56714"
+digistore24_product_id: 605434
+title: "Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)"
+vendor: "SabineQigong"
+product_type: "Member area and video courses"
+price: 444.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 222.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851?aff=adminstore#aff=adminstore"
+sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851"
+language: "de"
+---
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
 > Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)

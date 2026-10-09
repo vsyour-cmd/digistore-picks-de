@@ -1,3 +1,24 @@
+---
+product_id: "24425"
+digistore24_product_id: 415216
+title: "Devodix Poster"
+vendor: "Robinfocke"
+product_type: "Software"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 49.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2021-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://devodix.com?aff=adminstore#aff=adminstore"
+sales_page: "https://devodix.com"
+language: "de"
+---
 # Devodix Poster
 
 > Product ID `24425` · Digistore24 productId `415216` · [HTML profile page](../../produkte/devodix-poster-24425.html)

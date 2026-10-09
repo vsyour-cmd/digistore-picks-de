@@ -1,3 +1,24 @@
+---
+product_id: "57390"
+digistore24_product_id: 699084
+title: "Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision"
+vendor: "megareichtum"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/699084?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/699084"
+language: "de"
+---
 # Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision
 
 > Product ID `57390` · Digistore24 productId `699084` · [HTML profile page](../../produkte/google-review-response-kit-bewertungen-souver-n-beantworten-50-provision-57390.html)

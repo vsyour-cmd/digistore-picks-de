@@ -1,3 +1,24 @@
+---
+product_id: "57785"
+digistore24_product_id: 715168
+title: "Dogs with Lifestyle® Luxury Journal"
+vendor: "dogswithlifestyle"
+product_type: "E-books"
+price: 72.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Marketing Services"]
+listed_since: "2026-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://dogswithlifestyle.com/luxury-journal?aff=adminstore#aff=adminstore"
+sales_page: "https://dogswithlifestyle.com/luxury-journal"
+language: "de"
+---
 # Dogs with Lifestyle® Luxury Journal
 
 > Product ID `57785` · Digistore24 productId `715168` · [HTML profile page](../../produkte/dogs-with-lifestyle-luxury-journal-57785.html)

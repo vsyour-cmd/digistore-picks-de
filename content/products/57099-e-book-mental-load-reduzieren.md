@@ -1,3 +1,24 @@
+---
+product_id: "57099"
+digistore24_product_id: 571500
+title: "E-Book - Mental Load reduzieren"
+vendor: "SandraMahrhofer"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/571500?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/571500"
+language: "de"
+---
 # E-Book - Mental Load reduzieren
 
 > Product ID `57099` · Digistore24 productId `571500` · [HTML profile page](../../produkte/e-book-mental-load-reduzieren-57099.html)

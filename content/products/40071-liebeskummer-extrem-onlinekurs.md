@@ -1,3 +1,24 @@
+---
+product_id: "40071"
+digistore24_product_id: 308228
+title: "Liebeskummer Extrem! | Onlinekurs"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 337.46
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 118.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/liebeskummerextrem"
+language: "de"
+---
 # Liebeskummer Extrem! | Onlinekurs
 
 > Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../produkte/liebeskummer-extrem-onlinekurs-40071.html)

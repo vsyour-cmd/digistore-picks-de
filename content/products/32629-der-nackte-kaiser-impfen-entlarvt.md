@@ -1,3 +1,24 @@
+---
+product_id: "32629"
+digistore24_product_id: 323967
+title: "Der nackte Kaiser - Impfen entlarvt"
+vendor: "SG1503"
+product_type: "E-books"
+price: 24.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.wissenmachtfrei.com/das-impfen-und-der-tod.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wissenmachtfrei.com/das-impfen-und-der-tod.html"
+language: "de"
+---
 # Der nackte Kaiser - Impfen entlarvt
 
 > Product ID `32629` · Digistore24 productId `323967` · [HTML profile page](../../produkte/der-nackte-kaiser-impfen-entlarvt-32629.html)

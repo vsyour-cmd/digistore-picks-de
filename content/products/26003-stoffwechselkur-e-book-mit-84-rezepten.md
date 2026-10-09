@@ -1,3 +1,24 @@
+---
+product_id: "26003"
+digistore24_product_id: 215171
+title: "Stoffwechselkur E-Book mit 84 Rezepten"
+vendor: "Evergreenverlag"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kur.meinstoffwechsel.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://kur.meinstoffwechsel.com/"
+language: "de"
+---
 # Stoffwechselkur E-Book mit 84 Rezepten
 
 > Product ID `26003` · Digistore24 productId `215171` · [HTML profile page](../../produkte/stoffwechselkur-e-book-mit-84-rezepten-26003.html)

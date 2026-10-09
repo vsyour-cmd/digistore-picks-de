@@ -1,3 +1,24 @@
+---
+product_id: "58729"
+digistore24_product_id: 720601
+title: "FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera"
+vendor: "thorstenbahrb86a"
+product_type: "Telephone coaching"
+price: 262.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 52.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://fuehrerschein-kompass.de/"
+language: "de"
+---
 # FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera
 
 > Product ID `58729` · Digistore24 productId `720601` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-persoenlich-persoenliche-bera-58729.html)

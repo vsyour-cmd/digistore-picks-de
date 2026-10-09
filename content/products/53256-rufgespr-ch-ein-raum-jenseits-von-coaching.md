@@ -1,3 +1,24 @@
+---
+product_id: "53256"
+digistore24_product_id: 604159
+title: "Rufgespräch – ein Raum jenseits von Coaching"
+vendor: "digicube"
+product_type: "Online coaching"
+price: 101.52
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 30.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lanaprinzip.com/rufgespraech/?aff=adminstore#aff=adminstore"
+sales_page: "https://lanaprinzip.com/rufgespraech/"
+language: "de"
+---
 # Rufgespräch – ein Raum jenseits von Coaching
 
 > Product ID `53256` · Digistore24 productId `604159` · [HTML profile page](../../produkte/rufgespr-ch-ein-raum-jenseits-von-coaching-53256.html)

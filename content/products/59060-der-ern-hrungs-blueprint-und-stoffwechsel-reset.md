@@ -1,3 +1,24 @@
+---
+product_id: "59060"
+digistore24_product_id: 727614
+title: "Der Ernährungs-Blueprint und Stoffwechsel-Reset"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/ernaehrungs-blueprint/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/ernaehrungs-blueprint/"
+language: "de"
+---
 # Der Ernährungs-Blueprint und Stoffwechsel-Reset
 
 > Product ID `59060` · Digistore24 productId `727614` · [HTML profile page](../../produkte/der-ern-hrungs-blueprint-und-stoffwechsel-reset-59060.html)

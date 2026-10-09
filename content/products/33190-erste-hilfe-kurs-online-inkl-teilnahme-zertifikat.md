@@ -1,3 +1,24 @@
+---
+product_id: "33190"
+digistore24_product_id: 276717
+title: "Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat"
+vendor: "G250273"
+product_type: "Member area and video courses"
+price: 39.48
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 12.33
+cart_conversion_pct: 17
+cancel_rate_pct: 2.81
+categories: ["Education","Health & Fitness","Online Marketing & E-Business"]
+listed_since: "2019-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://erste-hilfe-kurs-online.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://erste-hilfe-kurs-online.de/"
+language: "de"
+---
 # Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat
 
 > Product ID `33190` · Digistore24 productId `276717` · [HTML profile page](../../produkte/erste-hilfe-kurs-online-inkl-teilnahme-zertifikat-33190.html)

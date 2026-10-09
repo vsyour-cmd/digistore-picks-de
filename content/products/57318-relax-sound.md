@@ -1,3 +1,24 @@
+---
+product_id: "57318"
+digistore24_product_id: 706371
+title: "Relax sound"
+vendor: "worldxpb"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 1.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706371?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706371"
+language: "de"
+---
 # Relax sound
 
 > Product ID `57318` · Digistore24 productId `706371` · [HTML profile page](../../produkte/relax-sound-57318.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33790"
+digistore24_product_id: 309651
+title: "TradingView Indikator | SwingCatcher"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 65.74
+cart_conversion_pct: 2
+cancel_rate_pct: 3.42
+categories: ["Trading Products"]
+listed_since: "2020-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/tradingview-directional-swing-catcher/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/tradingview-directional-swing-catcher/"
+language: "de"
+---
 # TradingView Indikator | SwingCatcher
 
 > Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../produkte/tradingview-indikator-swingcatcher-33790.html)

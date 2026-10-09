@@ -1,3 +1,24 @@
+---
+product_id: "52412"
+digistore24_product_id: 526403
+title: "Bodo Schäfer AUFBRUCH 2026 VIP-Ticket"
+vendor: "BodoSchaefer"
+product_type: "Online coaching"
+price: 49.15
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 32.07
+cart_conversion_pct: 2
+cancel_rate_pct: 2.34
+categories: ["Education"]
+listed_since: "2023-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://aufbruch7.de/aff/?aff=adminstore#aff=adminstore"
+sales_page: "https://aufbruch7.de/aff/"
+language: "de"
+---
 # Bodo Schäfer AUFBRUCH 2026 VIP-Ticket
 
 > Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../produkte/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)

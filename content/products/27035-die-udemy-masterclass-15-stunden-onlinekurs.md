@@ -1,3 +1,24 @@
+---
+product_id: "27035"
+digistore24_product_id: 184381
+title: "Die Udemy Masterclass (15 Stunden Onlinekurs)"
+vendor: "Abhaker"
+product_type: "Member area and video courses"
+price: 535.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 267.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2017-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/"
+language: "de"
+---
 # Die Udemy Masterclass (15 Stunden Onlinekurs)
 
 > Product ID `27035` · Digistore24 productId `184381` · [HTML profile page](../../produkte/die-udemy-masterclass-15-stunden-onlinekurs-27035.html)

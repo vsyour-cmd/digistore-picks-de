@@ -1,3 +1,24 @@
+---
+product_id: "56351"
+digistore24_product_id: 686408
+title: "Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation"
+vendor: "Pia-Seelenwege"
+product_type: "Downloads"
+price: 56.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 28.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Animals & Pets"]
+listed_since: "2026-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686408?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686408"
+language: "de"
+---
 # Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation
 
 > Product ID `56351` · Digistore24 productId `686408` · [HTML profile page](../../produkte/euer-seelenweg-11-audio-meditationen-zur-tierkommunikation-56351.html)

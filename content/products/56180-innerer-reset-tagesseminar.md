@@ -1,3 +1,24 @@
+---
+product_id: "56180"
+digistore24_product_id: 652044
+title: "Innerer Reset - Tagesseminar"
+vendor: "hh-akademie"
+product_type: "Seminar for business customers"
+price: 164
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 17.23
+cart_conversion_pct: 8
+cancel_rate_pct: 4.87
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/652044?voucher=IRMC&aff=adminstore"
+sales_page: "https://www.digistore24.com/product/652044?voucher=IRMC"
+language: "de"
+---
 # Innerer Reset - Tagesseminar
 
 > Product ID `56180` · Digistore24 productId `652044` · [HTML profile page](../../produkte/innerer-reset-tagesseminar-56180.html)

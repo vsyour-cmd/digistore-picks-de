@@ -1,3 +1,24 @@
+---
+product_id: "57481"
+digistore24_product_id: 710082
+title: "Der 5-Stunden-Nebenjob"
+vendor: "Caffiliate"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/710082?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/710082"
+language: "de"
+---
 # Der 5-Stunden-Nebenjob
 
 > Product ID `57481` · Digistore24 productId `710082` · [HTML profile page](../../produkte/der-5-stunden-nebenjob-57481.html)

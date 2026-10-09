@@ -1,3 +1,24 @@
+---
+product_id: "56182"
+digistore24_product_id: 581072
+title: "Intensiv Practitioner - 6 Tage am Stück"
+vendor: "hh-akademie"
+product_type: "Seminar for business customers"
+price: 5558.51
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 555.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2024-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/581072?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/581072"
+language: "de"
+---
 # Intensiv Practitioner - 6 Tage am Stück
 
 > Product ID `56182` · Digistore24 productId `581072` · [HTML profile page](../../produkte/intensiv-practitioner-6-tage-am-st-ck-56182.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53519"
+digistore24_product_id: 628412
+title: "Ayurveda-Lehrbuch Ebook (PDF und EPUP)"
+vendor: "atmarama"
+product_type: "E-books"
+price: 18.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://atmarama.de/al-ebook.html?aff=adminstore#aff=adminstore"
+sales_page: "https://atmarama.de/al-ebook.html"
+language: "de"
+---
 # Ayurveda-Lehrbuch Ebook (PDF und EPUP)
 
 > Product ID `53519` · Digistore24 productId `628412` · [HTML profile page](../../produkte/ayurveda-lehrbuch-ebook-pdf-und-epup-53519.html)

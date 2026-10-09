@@ -1,3 +1,24 @@
+---
+product_id: "54890"
+digistore24_product_id: 571730
+title: "Dateimanager für Profis: Operation Center 2025 Premium"
+vendor: "JMMGComm"
+product_type: "Software"
+price: 33.12
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.64
+cart_conversion_pct: 16
+cancel_rate_pct: 2.17
+categories: ["Software"]
+listed_since: "2024-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/571730?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/571730"
+language: "de"
+---
 # Dateimanager für Profis: Operation Center 2025 Premium
 
 > Product ID `54890` · Digistore24 productId `571730` · [HTML profile page](../../produkte/dateimanager-f-r-profis-operation-center-2025-premium-54890.html)

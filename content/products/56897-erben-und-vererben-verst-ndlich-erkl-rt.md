@@ -1,3 +1,24 @@
+---
+product_id: "56897"
+digistore24_product_id: 697599
+title: "Erben und Vererben verständlich erklärt"
+vendor: "Rechtsanwaltskanzlei-Guenther"
+product_type: "Downloads"
+price: 14.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Law & Justice"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kanzlei-guenther.de/downloads/?aff=adminstore#aff=adminstore"
+sales_page: "https://kanzlei-guenther.de/downloads/"
+language: "de"
+---
 # Erben und Vererben verständlich erklärt
 
 > Product ID `56897` · Digistore24 productId `697599` · [HTML profile page](../../produkte/erben-und-vererben-verst-ndlich-erkl-rt-56897.html)

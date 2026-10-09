@@ -1,3 +1,24 @@
+---
+product_id: "58244"
+digistore24_product_id: 693344
+title: "Social Cashflow für Instagram, Facebook Tiktok"
+vendor: "rs-onlineagentur"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rita-scheer.de/social-cashflow?aff=adminstore#aff=adminstore"
+sales_page: "https://rita-scheer.de/social-cashflow"
+language: "de"
+---
 # Social Cashflow für Instagram, Facebook Tiktok
 
 > Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../produkte/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)

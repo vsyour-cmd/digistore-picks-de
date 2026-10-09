@@ -1,3 +1,24 @@
+---
+product_id: "25604"
+digistore24_product_id: 217161
+title: "8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 11.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2018-04-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/8-erfolgs-bausteine-fuer-eine-glueckliche-partnerschaft/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/8-erfolgs-bausteine-fuer-eine-glueckliche-partnerschaft/"
+language: "de"
+---
 # 8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo
 
 > Product ID `25604` · Digistore24 productId `217161` · [HTML profile page](../../produkte/8-erfolgs-bausteine-f-r-eine-gl-ckliche-partnerschaft-e-boo-25604.html)

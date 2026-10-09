@@ -1,3 +1,24 @@
+---
+product_id: "52519"
+digistore24_product_id: 602426
+title: "Webinaris - High-Ticket-Provisionen und passives Einkommen"
+vendor: "Webinaris"
+product_type: "Member area and video courses"
+price: 1198.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 599.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2025-03-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://webinaris.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://webinaris.com/"
+language: "de"
+---
 # Webinaris - High-Ticket-Provisionen und passives Einkommen
 
 > Product ID `52519` · Digistore24 productId `602426` · [HTML profile page](../../produkte/webinaris-high-ticket-provisionen-und-passives-einkommen-52519.html)

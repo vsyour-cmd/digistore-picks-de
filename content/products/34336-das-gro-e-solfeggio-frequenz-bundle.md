@@ -1,3 +1,24 @@
+---
+product_id: "34336"
+digistore24_product_id: 305026
+title: "Das große Solfeggio-Frequenz Bundle"
+vendor: "Michalis"
+product_type: "Downloads"
+price: 17.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.67
+cart_conversion_pct: 8
+cancel_rate_pct: 0.66
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2020-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.solfeggio-frequenzen.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.solfeggio-frequenzen.com/"
+language: "de"
+---
 # Das große Solfeggio-Frequenz Bundle
 
 > Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../produkte/das-gro-e-solfeggio-frequenz-bundle-34336.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58815"
+digistore24_product_id: 727652
+title: "Digitaler Neustart mit 50+"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727652?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727652"
+language: "de"
+---
 # Digitaler Neustart mit 50+
 
 > Product ID `58815` · Digistore24 productId `727652` · [HTML profile page](../../produkte/digitaler-neustart-mit-50-58815.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47773"
+digistore24_product_id: 411279
+title: "Onlinekurs \"Achtsamkeit und MBSR\""
+vendor: "growstudio"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2021-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/"
+language: "de"
+---
 # Onlinekurs "Achtsamkeit und MBSR"
 
 > Product ID `47773` · Digistore24 productId `411279` · [HTML profile page](../../produkte/onlinekurs-achtsamkeit-und-mbsr-47773.html)

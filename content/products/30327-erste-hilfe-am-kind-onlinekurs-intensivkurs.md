@@ -1,3 +1,24 @@
+---
+product_id: "30327"
+digistore24_product_id: 293192
+title: "Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs"
+vendor: "ZartesGlueck"
+product_type: "Remote service provided electronically"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 6.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/?aff=adminstore#aff=adminstore"
+sales_page: "https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/"
+language: "de"
+---
 # Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs
 
 > Product ID `30327` · Digistore24 productId `293192` · [HTML profile page](../../produkte/erste-hilfe-am-kind-onlinekurs-intensivkurs-30327.html)

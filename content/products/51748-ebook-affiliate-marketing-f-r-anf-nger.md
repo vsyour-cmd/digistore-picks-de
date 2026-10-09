@@ -1,3 +1,24 @@
+---
+product_id: "51748"
+digistore24_product_id: 600768
+title: "eBook: Affiliate Marketing für Anfänger"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/affiliate-marketing-fuer-anfaenger/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/affiliate-marketing-fuer-anfaenger/"
+language: "de"
+---
 # eBook: Affiliate Marketing für Anfänger
 
 > Product ID `51748` · Digistore24 productId `600768` · [HTML profile page](../../produkte/ebook-affiliate-marketing-f-r-anf-nger-51748.html)

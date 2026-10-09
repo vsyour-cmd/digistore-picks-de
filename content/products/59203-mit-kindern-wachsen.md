@@ -1,3 +1,24 @@
+---
+product_id: "59203"
+digistore24_product_id: 728038
+title: "Mit Kindern wachsen"
+vendor: "wissenskind"
+product_type: "E-books"
+price: 5.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Marketing Services"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://mit-kinder-wachsen.my.canva.site/"
+language: "de"
+---
 # Mit Kindern wachsen
 
 > Product ID `59203` · Digistore24 productId `728038` · [HTML profile page](../../produkte/mit-kindern-wachsen-59203.html)

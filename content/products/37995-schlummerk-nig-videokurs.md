@@ -1,3 +1,24 @@
+---
+product_id: "37995"
+digistore24_product_id: 299926
+title: "Schlummerkönig-Videokurs"
+vendor: "babyschlummerland"
+product_type: "Member area and video courses"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 53.96
+cart_conversion_pct: 24
+cancel_rate_pct: 4.23
+categories: ["Family & Children"]
+listed_since: "2019-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.babyschlummerland.de/schlummerkoenig/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.babyschlummerland.de/schlummerkoenig/"
+language: "de"
+---
 # Schlummerkönig-Videokurs
 
 > Product ID `37995` · Digistore24 productId `299926` · [HTML profile page](../../produkte/schlummerk-nig-videokurs-37995.html)

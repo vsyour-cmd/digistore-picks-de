@@ -1,3 +1,24 @@
+---
+product_id: "44152"
+digistore24_product_id: 488373
+title: "Microsoft Teams im Unternehmen"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.65
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/ms-teams/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/ms-teams/"
+language: "de"
+---
 # Microsoft Teams im Unternehmen
 
 > Product ID `44152` · Digistore24 productId `488373` · [HTML profile page](../../produkte/microsoft-teams-im-unternehmen-44152.html)

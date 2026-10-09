@@ -1,3 +1,24 @@
+---
+product_id: "58211"
+digistore24_product_id: 714898
+title: "Farbkraft für deine Praxis"
+vendor: "FiaBiba"
+product_type: "Member area and video courses"
+price: 235
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.embodiedcoloracademy.de/farbkraft-praxis.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.embodiedcoloracademy.de/farbkraft-praxis.html"
+language: "de"
+---
 # Farbkraft für deine Praxis
 
 > Product ID `58211` · Digistore24 productId `714898` · [HTML profile page](../../produkte/farbkraft-f-r-deine-praxis-58211.html)

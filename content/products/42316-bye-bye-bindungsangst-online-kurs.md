@@ -1,3 +1,24 @@
+---
+product_id: "42316"
+digistore24_product_id: 464686
+title: "Bye Bye Bindungsangst Online Kurs"
+vendor: "saschajurek"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.saschajurek.de/coreoffer-produkt-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.saschajurek.de/coreoffer-produkt-2/"
+language: "de"
+---
 # Bye Bye Bindungsangst Online Kurs
 
 > Product ID `42316` · Digistore24 productId `464686` · [HTML profile page](../../produkte/bye-bye-bindungsangst-online-kurs-42316.html)

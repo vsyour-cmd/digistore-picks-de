@@ -1,3 +1,24 @@
+---
+product_id: "42152"
+digistore24_product_id: 474841
+title: "Affiliate Marketing Tools und Gratis Online Kurse (Geschenk)"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 0.4
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.07
+cart_conversion_pct: 21
+cancel_rate_pct: 0.64
+categories: ["Computer & Internet"]
+listed_since: "2022-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/webpirat-membership/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/webpirat-membership/"
+language: "de"
+---
 # Affiliate Marketing Tools und Gratis Online Kurse (Geschenk)
 
 > Product ID `42152` · Digistore24 productId `474841` · [HTML profile page](../../produkte/affiliate-marketing-tools-und-gratis-online-kurse-geschenk-42152.html)

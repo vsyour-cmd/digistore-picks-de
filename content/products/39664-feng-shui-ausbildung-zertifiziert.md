@@ -1,3 +1,24 @@
+---
+product_id: "39664"
+digistore24_product_id: 422725
+title: "Feng Shui Ausbildung, Zertifiziert"
+vendor: "Feng-Shui-Digital"
+product_type: "Distance learning (Germany)"
+price: 2932.8
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 313.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-01-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://feng-shui.de/feng-shui-online/?aff=adminstore#aff=adminstore"
+sales_page: "https://feng-shui.de/feng-shui-online/"
+language: "de"
+---
 # Feng Shui Ausbildung, Zertifiziert
 
 > Product ID `39664` · Digistore24 productId `422725` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-39664.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57019"
+digistore24_product_id: 702250
+title: "Neurodermitis im Griff"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/neurodermitis-im-griff?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/neurodermitis-im-griff"
+language: "de"
+---
 # Neurodermitis im Griff
 
 > Product ID `57019` · Digistore24 productId `702250` · [HTML profile page](../../produkte/neurodermitis-im-griff-57019.html)

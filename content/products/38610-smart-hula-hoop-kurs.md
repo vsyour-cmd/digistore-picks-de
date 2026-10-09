@@ -1,3 +1,24 @@
+---
+product_id: "38610"
+digistore24_product_id: 404895
+title: "Smart Hula Hoop Kurs"
+vendor: "MichaelRolle"
+product_type: "Member area and video courses"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/"
+language: "de"
+---
 # Smart Hula Hoop Kurs
 
 > Product ID `38610` · Digistore24 productId `404895` · [HTML profile page](../../produkte/smart-hula-hoop-kurs-38610.html)

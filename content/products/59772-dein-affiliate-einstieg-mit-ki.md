@@ -1,3 +1,24 @@
+---
+product_id: "59772"
+digistore24_product_id: 735639
+title: "Dein Affiliate-Einstieg mit KI"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 20.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/affeinmki/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/affeinmki/"
+language: "de"
+---
 # Dein Affiliate-Einstieg mit KI
 
 > Product ID `59772` · Digistore24 productId `735639` · [HTML profile page](../../produkte/dein-affiliate-einstieg-mit-ki-59772.html)

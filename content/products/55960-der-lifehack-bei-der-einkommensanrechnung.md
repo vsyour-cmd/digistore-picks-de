@@ -1,3 +1,24 @@
+---
+product_id: "55960"
+digistore24_product_id: 664496
+title: "Der Lifehack bei der Einkommensanrechnung"
+vendor: "verwitwet-leben"
+product_type: "Member area and video courses"
+price: 46.02
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 37.41
+cart_conversion_pct: 23
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/?aff=adminstore#aff=adminstore"
+sales_page: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/"
+language: "de"
+---
 # Der Lifehack bei der Einkommensanrechnung
 
 > Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../produkte/der-lifehack-bei-der-einkommensanrechnung-55960.html)

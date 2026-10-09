@@ -1,3 +1,24 @@
+---
+product_id: "35894"
+digistore24_product_id: 371975
+title: "TikTok Secrets"
+vendor: "diarat"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 24
+cancel_rate_pct: 1.37
+categories: ["Social Media"]
+listed_since: "2021-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tiktoksecrets.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://tiktoksecrets.de/"
+language: "de"
+---
 # TikTok Secrets
 
 > Product ID `35894` · Digistore24 productId `371975` · [HTML profile page](../../produkte/tiktok-secrets-35894.html)

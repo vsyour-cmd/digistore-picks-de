@@ -1,3 +1,24 @@
+---
+product_id: "58736"
+digistore24_product_id: 726315
+title: "Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie"
+vendor: "stellenmanufaktur"
+product_type: "E-books"
+price: 22.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Social Media","Online Marketing"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726315?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726315"
+language: "de"
+---
 # Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie
 
 > Product ID `58736` · Digistore24 productId `726315` · [HTML profile page](../../produkte/affiliate-marketing-2-0-entkomme-dem-preiskampf-und-dominie-58736.html)

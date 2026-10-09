@@ -1,3 +1,24 @@
+---
+product_id: "57483"
+digistore24_product_id: 687839
+title: "Noluvira - Dein AI Dating Coach"
+vendor: "Mowiho"
+product_type: "Software"
+price: 252.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 101.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Software"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.noluvira.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noluvira.com/"
+language: "de"
+---
 # Noluvira - Dein AI Dating Coach
 
 > Product ID `57483` · Digistore24 productId `687839` · [HTML profile page](../../produkte/noluvira-dein-ai-dating-coach-57483.html)

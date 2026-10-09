@@ -1,3 +1,24 @@
+---
+product_id: "37799"
+digistore24_product_id: 395155
+title: "TRACTATIS Planungstafel"
+vendor: "spotonline"
+product_type: "Member area and video courses"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2021-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.tractatis.com/kaufen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tractatis.com/kaufen"
+language: "de"
+---
 # TRACTATIS Planungstafel
 
 > Product ID `37799` · Digistore24 productId `395155` · [HTML profile page](../../produkte/tractatis-planungstafel-37799.html)

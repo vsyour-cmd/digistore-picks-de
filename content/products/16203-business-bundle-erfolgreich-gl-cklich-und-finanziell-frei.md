@@ -1,3 +1,24 @@
+---
+product_id: "16203"
+digistore24_product_id: 133099
+title: "Business Bundle – Erfolgreich, glücklich und finanziell frei"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Business & Investment"]
+listed_since: "2017-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/business-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/business-bundle/"
+language: "de"
+---
 # Business Bundle – Erfolgreich, glücklich und finanziell frei
 
 > Product ID `16203` · Digistore24 productId `133099` · [HTML profile page](../../produkte/business-bundle-erfolgreich-gl-cklich-und-finanziell-frei-16203.html)

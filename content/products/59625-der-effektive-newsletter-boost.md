@@ -1,3 +1,24 @@
+---
+product_id: "59625"
+digistore24_product_id: 734234
+title: "Der effektive Newsletter Boost"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734234?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734234"
+language: "de"
+---
 # Der effektive Newsletter Boost
 
 > Product ID `59625` · Digistore24 productId `734234` · [HTML profile page](../../produkte/der-effektive-newsletter-boost-59625.html)

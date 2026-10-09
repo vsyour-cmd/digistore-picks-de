@@ -1,3 +1,24 @@
+---
+product_id: "53497"
+digistore24_product_id: 629200
+title: "Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen"
+vendor: "Freifone"
+product_type: "E-books"
+price: 34.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2025-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/zurueck-ins-herz?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/zurueck-ins-herz"
+language: "de"
+---
 # Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen
 
 > Product ID `53497` · Digistore24 productId `629200` · [HTML profile page](../../produkte/zur-ck-ins-herz-ex-partner-garantiert-zur-ckzugewinnen-53497.html)

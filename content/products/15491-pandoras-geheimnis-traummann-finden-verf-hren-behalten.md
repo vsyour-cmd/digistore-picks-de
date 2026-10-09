@@ -1,3 +1,24 @@
+---
+product_id: "15491"
+digistore24_product_id: 98885
+title: "Pandoras Geheimnis - Traummann finden, verführen, behalten"
+vendor: "PetraSerena"
+product_type: "E-books"
+price: 41.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2016-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.soulmatecoaching.de/pandoras-geheimnis/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.soulmatecoaching.de/pandoras-geheimnis/"
+language: "de"
+---
 # Pandoras Geheimnis - Traummann finden, verführen, behalten
 
 > Product ID `15491` · Digistore24 productId `98885` · [HTML profile page](../../produkte/pandoras-geheimnis-traummann-finden-verf-hren-behalten-15491.html)

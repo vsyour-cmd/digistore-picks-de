@@ -1,3 +1,24 @@
+---
+product_id: "33587"
+digistore24_product_id: 338420
+title: "Webinar Checkliste"
+vendor: "JBDMarketing"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2020-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/?aff=adminstore#aff=adminstore"
+sales_page: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/"
+language: "de"
+---
 # Webinar Checkliste
 
 > Product ID `33587` · Digistore24 productId `338420` · [HTML profile page](../../produkte/webinar-checkliste-33587.html)

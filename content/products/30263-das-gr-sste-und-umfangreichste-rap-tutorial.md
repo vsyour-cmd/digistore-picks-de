@@ -1,3 +1,24 @@
+---
+product_id: "30263"
+digistore24_product_id: 277027
+title: "Das grösste und umfangreichste RAP-TUTORIAL"
+vendor: "jayjiggy"
+product_type: "Member area and video courses"
+price: 138.3
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 48.68
+cart_conversion_pct: 14
+cancel_rate_pct: 1.99
+categories: ["Education"]
+listed_since: "2019-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rap-tutorial.de/kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "https://rap-tutorial.de/kaufen/"
+language: "de"
+---
 # Das grösste und umfangreichste RAP-TUTORIAL
 
 > Product ID `30263` · Digistore24 productId `277027` · [HTML profile page](../../produkte/das-gr-sste-und-umfangreichste-rap-tutorial-30263.html)

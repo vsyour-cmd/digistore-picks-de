@@ -1,3 +1,24 @@
+---
+product_id: "57687"
+digistore24_product_id: 676517
+title: "Praxisleitfaden: Bewerbungen im Marketing"
+vendor: "Impulsklar"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.impulsklar.de/marketing-bewerbungen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.impulsklar.de/marketing-bewerbungen"
+language: "de"
+---
 # Praxisleitfaden: Bewerbungen im Marketing
 
 > Product ID `57687` · Digistore24 productId `676517` · [HTML profile page](../../produkte/praxisleitfaden-bewerbungen-im-marketing-57687.html)

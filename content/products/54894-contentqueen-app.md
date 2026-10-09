@@ -1,3 +1,24 @@
+---
+product_id: "54894"
+digistore24_product_id: 654671
+title: "Contentqueen app"
+vendor: "JuliaSievers"
+product_type: "Software"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 23.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.contentqueen.app?aff=adminstore#aff=adminstore"
+sales_page: "https://www.contentqueen.app"
+language: "de"
+---
 # Contentqueen app
 
 > Product ID `54894` · Digistore24 productId `654671` · [HTML profile page](../../produkte/contentqueen-app-54894.html)

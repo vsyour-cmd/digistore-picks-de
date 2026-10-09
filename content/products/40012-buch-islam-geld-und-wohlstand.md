@@ -1,3 +1,24 @@
+---
+product_id: "40012"
+digistore24_product_id: 439162
+title: "Buch: Islam, Geld und Wohlstand"
+vendor: "IslamGeldWohlstand"
+product_type: "Book (printed)"
+price: 31.15
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/439162?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/439162"
+language: "de"
+---
 # Buch: Islam, Geld und Wohlstand
 
 > Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../produkte/buch-islam-geld-und-wohlstand-40012.html)

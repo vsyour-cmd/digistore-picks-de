@@ -1,3 +1,24 @@
+---
+product_id: "57325"
+digistore24_product_id: 706654
+title: "Leben ohne festen Wohnsitz"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz"
+language: "de"
+---
 # Leben ohne festen Wohnsitz
 
 > Product ID `57325` · Digistore24 productId `706654` · [HTML profile page](../../produkte/leben-ohne-festen-wohnsitz-57325.html)

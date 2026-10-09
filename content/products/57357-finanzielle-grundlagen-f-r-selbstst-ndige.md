@@ -1,3 +1,24 @@
+---
+product_id: "57357"
+digistore24_product_id: 707219
+title: "Finanzielle Grundlagen für Selbstständige"
+vendor: "buergelconsulting"
+product_type: "E-books"
+price: 39.68
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707219?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707219"
+language: "de"
+---
 # Finanzielle Grundlagen für Selbstständige
 
 > Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../produkte/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)

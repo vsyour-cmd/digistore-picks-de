@@ -1,3 +1,24 @@
+---
+product_id: "56397"
+digistore24_product_id: 689066
+title: "Ebook - Demokratie - Demokratisch zerstört"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Politics & Economy"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689066?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689066"
+language: "de"
+---
 # Ebook - Demokratie - Demokratisch zerstört
 
 > Product ID `56397` · Digistore24 productId `689066` · [HTML profile page](../../produkte/ebook-demokratie-demokratisch-zerst-rt-56397.html)

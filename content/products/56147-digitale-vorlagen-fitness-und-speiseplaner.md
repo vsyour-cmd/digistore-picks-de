@@ -1,3 +1,24 @@
+---
+product_id: "56147"
+digistore24_product_id: 680026
+title: "Digitale Vorlagen Fitness und Speiseplaner"
+vendor: "martinakocyigit2025"
+product_type: "Downloads"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/680026?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/680026"
+language: "de"
+---
 # Digitale Vorlagen Fitness und Speiseplaner
 
 > Product ID `56147` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlagen-fitness-und-speiseplaner-56147.html)

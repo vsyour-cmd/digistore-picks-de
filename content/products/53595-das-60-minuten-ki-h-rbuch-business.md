@@ -1,3 +1,24 @@
+---
+product_id: "53595"
+digistore24_product_id: 631079
+title: "Das 60-Minuten KI Hörbuch-Business"
+vendor: "webpirat"
+product_type: "E-books"
+price: 3.88
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 2.29
+cart_conversion_pct: 16
+cancel_rate_pct: 3.27
+categories: ["Business & Investment","Computer & Internet","Dancing & Music"]
+listed_since: "2025-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/60-minuten-ki-hoerbuch-business/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/60-minuten-ki-hoerbuch-business/"
+language: "de"
+---
 # Das 60-Minuten KI Hörbuch-Business
 
 > Product ID `53595` · Digistore24 productId `631079` · [HTML profile page](../../produkte/das-60-minuten-ki-h-rbuch-business-53595.html)

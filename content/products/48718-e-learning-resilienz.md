@@ -1,3 +1,24 @@
+---
+product_id: "48718"
+digistore24_product_id: 550000
+title: "E-Learning Resilienz"
+vendor: "Nedler"
+product_type: "Member area and video courses"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 22.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2024-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/550000?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/550000"
+language: "de"
+---
 # E-Learning Resilienz
 
 > Product ID `48718` · Digistore24 productId `550000` · [HTML profile page](../../produkte/e-learning-resilienz-48718.html)

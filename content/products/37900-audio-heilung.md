@@ -1,3 +1,24 @@
+---
+product_id: "37900"
+digistore24_product_id: 110115
+title: "Audio Heilung"
+vendor: "doitAkademie"
+product_type: "Downloads"
+price: 849.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 281.52
+cart_conversion_pct: 2
+cancel_rate_pct: 9.97
+categories: ["Personal Development"]
+listed_since: "2016-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://bodysense.de/koerperfeldcoaching-audio/?aff=adminstore#aff=adminstore"
+sales_page: "https://bodysense.de/koerperfeldcoaching-audio/"
+language: "de"
+---
 # Audio Heilung
 
 > Product ID `37900` · Digistore24 productId `110115` · [HTML profile page](../../produkte/audio-heilung-37900.html)

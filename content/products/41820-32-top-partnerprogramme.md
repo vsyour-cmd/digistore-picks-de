@@ -1,3 +1,24 @@
+---
+product_id: "41820"
+digistore24_product_id: 464029
+title: "32 Top Partnerprogramme"
+vendor: "iliasmak"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.ilias-marketing.de/dein-partnerprogramm-seite?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/dein-partnerprogramm-seite"
+language: "de"
+---
 # 32 Top Partnerprogramme
 
 > Product ID `41820` · Digistore24 productId `464029` · [HTML profile page](../../produkte/32-top-partnerprogramme-41820.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59059"
+digistore24_product_id: 729012
+title: "Self-Care und Habit-Tracking Journal"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/landingpage-self-care-habit-tracking/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/landingpage-self-care-habit-tracking/"
+language: "de"
+---
 # Self-Care und Habit-Tracking Journal
 
 > Product ID `59059` · Digistore24 productId `729012` · [HTML profile page](../../produkte/self-care-und-habit-tracking-journal-59059.html)

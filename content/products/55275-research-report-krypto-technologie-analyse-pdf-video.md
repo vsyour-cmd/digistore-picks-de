@@ -1,3 +1,24 @@
+---
+product_id: "55275"
+digistore24_product_id: 656511
+title: "Research Report - Krypto Technologie Analyse (PDF+Video)"
+vendor: "BelowGoodLife"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 30.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://researchreport.onepage.me/?aff=adminstore#aff=adminstore"
+sales_page: "https://researchreport.onepage.me/"
+language: "de"
+---
 # Research Report - Krypto Technologie Analyse (PDF+Video)
 
 > Product ID `55275` · Digistore24 productId `656511` · [HTML profile page](../../produkte/research-report-krypto-technologie-analyse-pdf-video-55275.html)

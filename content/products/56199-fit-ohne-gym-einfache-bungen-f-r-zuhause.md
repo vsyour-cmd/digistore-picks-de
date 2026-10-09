@@ -1,3 +1,24 @@
+---
+product_id: "56199"
+digistore24_product_id: 683333
+title: "Fit ohne Gym - Einfache Übungen für Zuhause"
+vendor: "Freifone"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2026-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/fit-ohne-gym?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/fit-ohne-gym"
+language: "de"
+---
 # Fit ohne Gym - Einfache Übungen für Zuhause
 
 > Product ID `56199` · Digistore24 productId `683333` · [HTML profile page](../../produkte/fit-ohne-gym-einfache-bungen-f-r-zuhause-56199.html)

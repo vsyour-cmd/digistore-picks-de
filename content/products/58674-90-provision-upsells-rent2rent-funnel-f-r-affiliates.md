@@ -1,3 +1,24 @@
+---
+product_id: "58674"
+digistore24_product_id: 628360
+title: "90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates"
+vendor: "ericpromm"
+product_type: "Book (printed)"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 6.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Real Estate"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://promm.de/buch?aff=adminstore#aff=adminstore"
+sales_page: "https://promm.de/buch"
+language: "de"
+---
 # 90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates
 
 > Product ID `58674` · Digistore24 productId `628360` · [HTML profile page](../../produkte/90-provision-upsells-rent2rent-funnel-f-r-affiliates-58674.html)

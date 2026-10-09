@@ -1,3 +1,24 @@
+---
+product_id: "47178"
+digistore24_product_id: 538504
+title: "Digital Album \"Love and Light\" - high energy healing music"
+vendor: "HighEnergyTransformation"
+product_type: "Downloads"
+price: 17.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.christopheckhardt.com/love-and-light?aff=[affiliate]&aff=adminstore#aff=adminstore"
+sales_page: "https://www.christopheckhardt.com/love-and-light?aff=[affiliate]"
+language: "de"
+---
 # Digital Album "Love and Light" - high energy healing music
 
 > Product ID `47178` · Digistore24 productId `538504` · [HTML profile page](../../produkte/digital-album-love-and-light-high-energy-healing-music-47178.html)

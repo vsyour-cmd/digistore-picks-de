@@ -1,3 +1,24 @@
+---
+product_id: "56749"
+digistore24_product_id: 696225
+title: "CyberShield Executive System"
+vendor: "dealpromo1217"
+product_type: "Downloads"
+price: 3360.82
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 168.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Services"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/696225?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/696225"
+language: "de"
+---
 # CyberShield Executive System
 
 > Product ID `56749` · Digistore24 productId `696225` · [HTML profile page](../../produkte/cybershield-executive-system-56749.html)

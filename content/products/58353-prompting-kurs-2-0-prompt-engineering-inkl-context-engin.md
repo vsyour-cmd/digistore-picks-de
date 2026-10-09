@@ -1,3 +1,24 @@
+---
+product_id: "58353"
+digistore24_product_id: 686091
+title: "Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin."
+vendor: "annette99cf"
+product_type: "Member area and video courses"
+price: 328.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 131.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Profession & Job"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686091?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686091"
+language: "de"
+---
 # Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.
 
 > Product ID `58353` · Digistore24 productId `686091` · [HTML profile page](../../produkte/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html)

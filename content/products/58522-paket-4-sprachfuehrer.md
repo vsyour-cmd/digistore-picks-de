@@ -1,3 +1,24 @@
+---
+product_id: "58522"
+digistore24_product_id: 724901
+title: "paket_4_sprachfuehrer"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Leadership & Management"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724901?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724901"
+language: "de"
+---
 # paket_4_sprachfuehrer
 
 > Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../produkte/paket-4-sprachfuehrer-58522.html)

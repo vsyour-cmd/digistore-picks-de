@@ -1,3 +1,24 @@
+---
+product_id: "52062"
+digistore24_product_id: 601695
+title: "Starte Facebook und Instagram Ads"
+vendor: "FinestAudience"
+product_type: "Member area and video courses"
+price: 65.27
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 469.9
+cart_conversion_pct: 2
+cancel_rate_pct: 6.76
+categories: ["Online Marketing"]
+listed_since: "2025-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://adsmastery.de/fb-ig-ads/?aff=adminstore#aff=adminstore"
+sales_page: "https://adsmastery.de/fb-ig-ads/"
+language: "de"
+---
 # Starte Facebook und Instagram Ads
 
 > Product ID `52062` · Digistore24 productId `601695` · [HTML profile page](../../produkte/starte-facebook-und-instagram-ads-52062.html)

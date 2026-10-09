@@ -1,3 +1,24 @@
+---
+product_id: "41763"
+digistore24_product_id: 305512
+title: "Durchstarter Programm - Rein in die Selbstständigkeit"
+vendor: "coach-felix"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-01-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://felix.team/gruenderpaket?aff=adminstore#aff=adminstore"
+sales_page: "https://felix.team/gruenderpaket"
+language: "de"
+---
 # Durchstarter Programm - Rein in die Selbstständigkeit
 
 > Product ID `41763` · Digistore24 productId `305512` · [HTML profile page](../../produkte/durchstarter-programm-rein-in-die-selbstst-ndigkeit-41763.html)

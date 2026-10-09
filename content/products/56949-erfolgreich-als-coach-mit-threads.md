@@ -1,3 +1,24 @@
+---
+product_id: "56949"
+digistore24_product_id: 701383
+title: "Erfolgreich als Coach mit Threads"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-threads?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-threads"
+language: "de"
+---
 # Erfolgreich als Coach mit Threads
 
 > Product ID `56949` · Digistore24 productId `701383` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-threads-56949.html)

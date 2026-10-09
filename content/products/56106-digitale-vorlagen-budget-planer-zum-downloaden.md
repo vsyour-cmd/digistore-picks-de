@@ -1,3 +1,24 @@
+---
+product_id: "56106"
+digistore24_product_id: 679557
+title: "Digitale Vorlagen Budget Planer zum Downloaden"
+vendor: "martinakocyigit2025"
+product_type: "Downloads"
+price: 7.52
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/679557?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/679557"
+language: "de"
+---
 # Digitale Vorlagen Budget Planer zum Downloaden
 
 > Product ID `56106` · Digistore24 productId `679557` · [HTML profile page](../../produkte/digitale-vorlagen-budget-planer-zum-downloaden-56106.html)

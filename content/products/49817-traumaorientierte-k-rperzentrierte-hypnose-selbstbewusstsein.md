@@ -1,3 +1,24 @@
+---
+product_id: "49817"
+digistore24_product_id: 567073
+title: "Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein"
+vendor: "jennifersubke"
+product_type: "Downloads"
+price: 3.77
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 11.02
+cart_conversion_pct: 16
+cancel_rate_pct: 7.05
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/567073?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/567073"
+language: "de"
+---
 # Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein
 
 > Product ID `49817` · Digistore24 productId `567073` · [HTML profile page](../../produkte/traumaorientierte-k-rperzentrierte-hypnose-selbstbewusstsein-49817.html)

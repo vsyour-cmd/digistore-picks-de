@@ -1,3 +1,24 @@
+---
+product_id: "57041"
+digistore24_product_id: 686568
+title: "KapitelZwei"
+vendor: "KapitelZwei"
+product_type: "Member area and video courses"
+price: 249.47
+currency: "USD"
+affiliate_commission_pct: 59.5
+earnings_per_sale: 148.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686568?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686568"
+language: "de"
+---
 # KapitelZwei
 
 > Product ID `57041` · Digistore24 productId `686568` · [HTML profile page](../../produkte/kapitelzwei-57041.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58726"
+digistore24_product_id: 717239
+title: "Psychologie der Massen"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 8.41
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Politics & Economy"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://novaris.de.cool/massenpsyche.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/massenpsyche.php"
+language: "de"
+---
 # Psychologie der Massen
 
 > Product ID `58726` · Digistore24 productId `717239` · [HTML profile page](../../produkte/psychologie-der-massen-58726.html)

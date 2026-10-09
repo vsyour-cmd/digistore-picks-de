@@ -1,3 +1,24 @@
+---
+product_id: "44423"
+digistore24_product_id: 466465
+title: "FABI's Kreativclub \"Video\""
+vendor: "FABISDESIGNkids"
+product_type: "Member area and video courses"
+price: 197.4
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 71.13
+cart_conversion_pct: 25
+cancel_rate_pct: 1.8
+categories: ["Family & Children"]
+listed_since: "2022-10-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/?aff=adminstore#aff=adminstore"
+sales_page: "https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/"
+language: "de"
+---
 # FABI's Kreativclub "Video"
 
 > Product ID `44423` · Digistore24 productId `466465` · [HTML profile page](../../produkte/fabi-s-kreativclub-video-44423.html)

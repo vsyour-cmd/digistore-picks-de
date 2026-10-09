@@ -1,3 +1,24 @@
+---
+product_id: "58975"
+digistore24_product_id: 730592
+title: "Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P"
+vendor: "ammadi83"
+product_type: "Downloads"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 6.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Travel & Culture"]
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730592?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730592"
+language: "de"
+---
 # Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P
 
 > Product ID `58975` · Digistore24 productId `730592` · [HTML profile page](../../produkte/haus-kaufen-in-spanien-unter-150-000-ratgeber-praxis-p-58975.html)

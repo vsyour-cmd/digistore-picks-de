@@ -1,3 +1,24 @@
+---
+product_id: "53451"
+digistore24_product_id: 628538
+title: "Die 3-Fragen-Zielgruppenformel für Affiliates!"
+vendor: "Siegertools"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media"]
+listed_since: "2025-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/628538?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/628538"
+language: "de"
+---
 # Die 3-Fragen-Zielgruppenformel für Affiliates!
 
 > Product ID `53451` · Digistore24 productId `628538` · [HTML profile page](../../produkte/die-3-fragen-zielgruppenformel-f-r-affiliates-53451.html)

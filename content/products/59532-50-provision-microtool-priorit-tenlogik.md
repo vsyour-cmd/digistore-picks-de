@@ -1,3 +1,24 @@
+---
+product_id: "59532"
+digistore24_product_id: 692792
+title: "50% Provision: MicroTool PrioritätenLogik"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 215.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 107.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692792?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692792"
+language: "de"
+---
 # 50% Provision: MicroTool PrioritätenLogik
 
 > Product ID `59532` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-microtool-priorit-tenlogik-59532.html)

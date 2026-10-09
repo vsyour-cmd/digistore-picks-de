@@ -1,3 +1,24 @@
+---
+product_id: "44159"
+digistore24_product_id: 488339
+title: "Microsoft Word für Einsteiger"
+vendor: "Trainstitute"
+product_type: "Member area and video courses"
+price: 23.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.65
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2023-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://video-schulungen.de/courses/ms-word/?aff=adminstore#aff=adminstore"
+sales_page: "https://video-schulungen.de/courses/ms-word/"
+language: "de"
+---
 # Microsoft Word für Einsteiger
 
 > Product ID `44159` · Digistore24 productId `488339` · [HTML profile page](../../produkte/microsoft-word-f-r-einsteiger-44159.html)

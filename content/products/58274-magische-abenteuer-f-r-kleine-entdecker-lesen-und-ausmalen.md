@@ -1,3 +1,24 @@
+---
+product_id: "58274"
+digistore24_product_id: 703626
+title: "Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/703626?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/703626"
+language: "de"
+---
 # Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen
 
 > Product ID `58274` · Digistore24 productId `703626` · [HTML profile page](../../produkte/magische-abenteuer-f-r-kleine-entdecker-lesen-und-ausmalen-58274.html)

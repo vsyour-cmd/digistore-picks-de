@@ -1,3 +1,24 @@
+---
+product_id: "59481"
+digistore24_product_id: 730606
+title: "Digitalisierungsfahrplan für KMU"
+vendor: "kontakta101"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online"
+language: "de"
+---
 # Digitalisierungsfahrplan für KMU
 
 > Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../produkte/digitalisierungsfahrplan-f-r-kmu-59481.html)

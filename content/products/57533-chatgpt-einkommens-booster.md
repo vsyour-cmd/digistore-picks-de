@@ -1,3 +1,24 @@
+---
+product_id: "57533"
+digistore24_product_id: 711522
+title: "ChatGPT Einkommens-Booster"
+vendor: "Caffiliate"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-07-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/711522?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711522"
+language: "de"
+---
 # ChatGPT Einkommens-Booster
 
 > Product ID `57533` · Digistore24 productId `711522` · [HTML profile page](../../produkte/chatgpt-einkommens-booster-57533.html)

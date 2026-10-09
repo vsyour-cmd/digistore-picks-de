@@ -1,3 +1,24 @@
+---
+product_id: "45864"
+digistore24_product_id: 523793
+title: "Die 7 goldenen To-Do´s der Super-Affiliates"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://affiliforge.net/die-7-goldenen-to-dos?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/die-7-goldenen-to-dos"
+language: "de"
+---
 # Die 7 goldenen To-Do´s der Super-Affiliates
 
 > Product ID `45864` · Digistore24 productId `523793` · [HTML profile page](../../produkte/die-7-goldenen-to-do-s-der-super-affiliates-45864.html)

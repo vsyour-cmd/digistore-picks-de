@@ -1,3 +1,24 @@
+---
+product_id: "29571"
+digistore24_product_id: 276887
+title: "Du und Dein Herdenschutzhund - glücklich verbunden"
+vendor: "ZappZapp"
+product_type: "Webinar"
+price: 541.44
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 162.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2019-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund"
+language: "de"
+---
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
 > Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)

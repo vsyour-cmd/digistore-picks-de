@@ -1,3 +1,24 @@
+---
+product_id: "56484"
+digistore24_product_id: 690735
+title: "Haushaltsbuch Excel für Privatpersonen"
+vendor: "BloomGeneration"
+product_type: "Downloads"
+price: 7.43
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/690735?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/690735"
+language: "de"
+---
 # Haushaltsbuch Excel für Privatpersonen
 
 > Product ID `56484` · Digistore24 productId `690735` · [HTML profile page](../../produkte/haushaltsbuch-excel-f-r-privatpersonen-56484.html)

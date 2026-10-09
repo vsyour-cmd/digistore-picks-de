@@ -1,3 +1,24 @@
+---
+product_id: "55061"
+digistore24_product_id: 651221
+title: "Punktgenau Akupressur + Akupunktur – Fundiert, Alltag"
+vendor: "live-natural-life"
+product_type: "Member area and video courses"
+price: 346.86
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 114.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-11-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://punktgenau-akupressur.de/akupressur-online-kurs.html?aff=adminstore#aff=adminstore"
+sales_page: "https://punktgenau-akupressur.de/akupressur-online-kurs.html"
+language: "de"
+---
 # Punktgenau Akupressur + Akupunktur – Fundiert, Alltag
 
 > Product ID `55061` · Digistore24 productId `651221` · [HTML profile page](../../produkte/punktgenau-akupressur-akupunktur-fundiert-alltag-55061.html)

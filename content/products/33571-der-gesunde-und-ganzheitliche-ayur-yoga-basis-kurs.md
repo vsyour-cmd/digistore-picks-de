@@ -1,3 +1,24 @@
+---
+product_id: "33571"
+digistore24_product_id: 337818
+title: "Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs"
+vendor: "RaymondRittiner"
+product_type: "Member area and video courses"
+price: 86.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 50.81
+cart_conversion_pct: 13
+cancel_rate_pct: 3.1
+categories: ["Health & Fitness"]
+listed_since: "2020-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://go.ayuryoga.ch?aff=adminstore#aff=adminstore"
+sales_page: "https://go.ayuryoga.ch"
+language: "de"
+---
 # Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs
 
 > Product ID `33571` · Digistore24 productId `337818` · [HTML profile page](../../produkte/der-gesunde-und-ganzheitliche-ayur-yoga-basis-kurs-33571.html)

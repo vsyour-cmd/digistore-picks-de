@@ -1,3 +1,24 @@
+---
+product_id: "58498"
+digistore24_product_id: 718693
+title: "Workshop-Bundle: Vom Funktionieren zur Selbstverbindung"
+vendor: "empathiemitherz"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://empathiemitherz.de/workshops/?aff=adminstore#aff=adminstore"
+sales_page: "https://empathiemitherz.de/workshops/"
+language: "de"
+---
 # Workshop-Bundle: Vom Funktionieren zur Selbstverbindung
 
 > Product ID `58498` · Digistore24 productId `718693` · [HTML profile page](../../produkte/workshop-bundle-vom-funktionieren-zur-selbstverbindung-58498.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55183"
+digistore24_product_id: 655964
+title: "Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs"
+vendor: "HundundDu"
+product_type: "E-books"
+price: 26.13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://willkommen.hund-und-du.de/Minikurs_Aufmerksamkeitsbooster/Fokus?aff=adminstore#aff=adminstore"
+sales_page: "https://willkommen.hund-und-du.de/Minikurs_Aufmerksamkeitsbooster/Fokus"
+language: "de"
+---
 # Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs
 
 > Product ID `55183` · Digistore24 productId `655964` · [HTML profile page](../../produkte/mehr-aufmerksamkeit-beim-hund-einfacher-14-tage-mini-kurs-55183.html)

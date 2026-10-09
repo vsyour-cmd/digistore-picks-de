@@ -1,3 +1,24 @@
+---
+product_id: "39075"
+digistore24_product_id: 427805
+title: "Mit kleinen Kursen große Kunden gewinnen!"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 45.87
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 43.21
+cart_conversion_pct: 4
+cancel_rate_pct: 1.35
+categories: ["Social Media"]
+listed_since: "2022-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jyotimaflak.com/minikurs-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jyotimaflak.com/minikurs-masterclass/"
+language: "de"
+---
 # Mit kleinen Kursen große Kunden gewinnen!
 
 > Product ID `39075` · Digistore24 productId `427805` · [HTML profile page](../../produkte/mit-kleinen-kursen-gro-e-kunden-gewinnen-39075.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52407"
+digistore24_product_id: 607268
+title: "YouTube Short Traffic Booster"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2025-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw"
+language: "de"
+---
 # YouTube Short Traffic Booster
 
 > Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../produkte/youtube-short-traffic-booster-52407.html)

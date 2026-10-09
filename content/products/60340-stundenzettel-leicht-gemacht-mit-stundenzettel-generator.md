@@ -1,3 +1,24 @@
+---
+product_id: "60340"
+digistore24_product_id: 741715
+title: "Stundenzettel leicht gemacht – mit Stundenzettel-Generator"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Office Organization"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741715?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741715"
+language: "de"
+---
 # Stundenzettel leicht gemacht – mit Stundenzettel-Generator
 
 > Product ID `60340` · Digistore24 productId `741715` · [HTML profile page](../../produkte/stundenzettel-leicht-gemacht-mit-stundenzettel-generator-60340.html)

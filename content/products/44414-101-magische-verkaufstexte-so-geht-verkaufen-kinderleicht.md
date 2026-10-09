@@ -1,3 +1,24 @@
+---
+product_id: "44414"
+digistore24_product_id: 504054
+title: "101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 7.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Marketing Services"]
+listed_since: "2023-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/504054?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/504054"
+language: "de"
+---
 # 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!
 
 > Product ID `44414` · Digistore24 productId `504054` · [HTML profile page](../../produkte/101-magische-verkaufstexte-so-geht-verkaufen-kinderleicht-44414.html)

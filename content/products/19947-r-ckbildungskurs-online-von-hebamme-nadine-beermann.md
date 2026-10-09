@@ -1,3 +1,24 @@
+---
+product_id: "19947"
+digistore24_product_id: 152971
+title: "Rückbildungskurs Online von Hebamme Nadine Beermann"
+vendor: "beermann"
+product_type: "Member area and video courses"
+price: 77.55
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 26.38
+cart_conversion_pct: 20
+cancel_rate_pct: 0.34
+categories: ["Health & Fitness"]
+listed_since: "2017-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.nadine-beermann.de/onlinekurs-rb/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.nadine-beermann.de/onlinekurs-rb/"
+language: "de"
+---
 # Rückbildungskurs Online von Hebamme Nadine Beermann
 
 > Product ID `19947` · Digistore24 productId `152971` · [HTML profile page](../../produkte/r-ckbildungskurs-online-von-hebamme-nadine-beermann-19947.html)

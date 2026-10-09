@@ -1,3 +1,24 @@
+---
+product_id: "41940"
+digistore24_product_id: 448781
+title: "Silent Subliminals Selbstbewusstsein - Für mentale Stärke"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Personal Development"]
+listed_since: "2022-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-selbstbewusstsein/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-selbstbewusstsein/"
+language: "de"
+---
 # Silent Subliminals Selbstbewusstsein - Für mentale Stärke
 
 > Product ID `41940` · Digistore24 productId `448781` · [HTML profile page](../../produkte/silent-subliminals-selbstbewusstsein-f-r-mentale-st-rke-41940.html)

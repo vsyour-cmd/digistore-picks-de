@@ -1,3 +1,24 @@
+---
+product_id: "44919"
+digistore24_product_id: 509677
+title: "Online Business mit Google Bard"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/bard-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/bard-fe/"
+language: "de"
+---
 # Online Business mit Google Bard
 
 > Product ID `44919` · Digistore24 productId `509677` · [HTML profile page](../../produkte/online-business-mit-google-bard-44919.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53395"
+digistore24_product_id: 627702
+title: "Gewinnbringende Newsletter - Schritt für Schritt Anleitung"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Gewinnbringende-Newsletter?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Gewinnbringende-Newsletter"
+language: "de"
+---
 # Gewinnbringende Newsletter - Schritt für Schritt Anleitung
 
 > Product ID `53395` · Digistore24 productId `627702` · [HTML profile page](../../produkte/gewinnbringende-newsletter-schritt-f-r-schritt-anleitung-53395.html)

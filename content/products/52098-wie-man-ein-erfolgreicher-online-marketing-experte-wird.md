@@ -1,3 +1,24 @@
+---
+product_id: "52098"
+digistore24_product_id: 607645
+title: "Wie man ein erfolgreicher Online Marketing Experte wird"
+vendor: "Freifone"
+product_type: "E-books"
+price: 52.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/online-marketing-experte?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/online-marketing-experte"
+language: "de"
+---
 # Wie man ein erfolgreicher Online Marketing Experte wird
 
 > Product ID `52098` · Digistore24 productId `607645` · [HTML profile page](../../produkte/wie-man-ein-erfolgreicher-online-marketing-experte-wird-52098.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28649"
+digistore24_product_id: 267322
+title: "Das RESET 6 Wochen Schulterprogramm"
+vendor: "myreset"
+product_type: "E-books"
+price: 66.15
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.57
+cart_conversion_pct: 29
+cancel_rate_pct: 0.05
+categories: ["Sport"]
+listed_since: "2019-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://my-reset.com/schulterprogramm?aff=adminstore#aff=adminstore"
+sales_page: "http://my-reset.com/schulterprogramm"
+language: "de"
+---
 # Das RESET 6 Wochen Schulterprogramm
 
 > Product ID `28649` · Digistore24 productId `267322` · [HTML profile page](../../produkte/das-reset-6-wochen-schulterprogramm-28649.html)

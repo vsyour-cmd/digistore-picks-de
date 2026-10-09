@@ -1,3 +1,24 @@
+---
+product_id: "27248"
+digistore24_product_id: 218775
+title: "KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket"
+vendor: "AMMSpitz"
+product_type: "Member area and video courses"
+price: 136.27
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 61.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/"
+language: "de"
+---
 # KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket
 
 > Product ID `27248` · Digistore24 productId `218775` · [HTML profile page](../../produkte/kmm2018-autoimmunerkrankungen-digitales-kongresspaket-27248.html)

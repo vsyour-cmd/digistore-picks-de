@@ -1,3 +1,24 @@
+---
+product_id: "47967"
+digistore24_product_id: 548337
+title: "DIE Meditation für die weibliche Fruchtbarkeit"
+vendor: "StephanieCekon"
+product_type: "Downloads"
+price: 35.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development"]
+listed_since: "2024-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kinderwunsch.stephaniecekon.com/fertility-flow?aff=adminstore#aff=adminstore"
+sales_page: "https://kinderwunsch.stephaniecekon.com/fertility-flow"
+language: "de"
+---
 # DIE Meditation für die weibliche Fruchtbarkeit
 
 > Product ID `47967` · Digistore24 productId `548337` · [HTML profile page](../../produkte/die-meditation-f-r-die-weibliche-fruchtbarkeit-47967.html)

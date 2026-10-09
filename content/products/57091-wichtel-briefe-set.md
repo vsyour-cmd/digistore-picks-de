@@ -1,3 +1,24 @@
+---
+product_id: "57091"
+digistore24_product_id: 698672
+title: "Wichtel Briefe Set"
+vendor: "MaRa01"
+product_type: "Downloads"
+price: 12.13
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fraueinfach.com/wichtel-briefe-set?aff=adminstore#aff=adminstore"
+sales_page: "https://fraueinfach.com/wichtel-briefe-set"
+language: "de"
+---
 # Wichtel Briefe Set
 
 > Product ID `57091` · Digistore24 productId `698672` · [HTML profile page](../../produkte/wichtel-briefe-set-57091.html)

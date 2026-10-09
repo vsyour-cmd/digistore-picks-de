@@ -1,3 +1,24 @@
+---
+product_id: "55396"
+digistore24_product_id: 663881
+title: "Katzenhumor - Minka und Leos verrückter Alltag"
+vendor: "werni1"
+product_type: "Audio book (download)"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa"
+language: "de"
+---
 # Katzenhumor - Minka und Leos verrückter Alltag
 
 > Product ID `55396` · Digistore24 productId `663881` · [HTML profile page](../../produkte/katzenhumor-minka-und-leos-verr-ckter-alltag-55396.html)

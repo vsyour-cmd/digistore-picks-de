@@ -1,3 +1,24 @@
+---
+product_id: "59977"
+digistore24_product_id: 737331
+title: "Instagram Reel Cover Pack (German)"
+vendor: "xarutacom"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/reel-cover-starter-pack-de/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/reel-cover-starter-pack-de/"
+language: "de"
+---
 # Instagram Reel Cover Pack (German)
 
 > Product ID `59977` · Digistore24 productId `737331` · [HTML profile page](../../produkte/instagram-reel-cover-pack-german-59977.html)

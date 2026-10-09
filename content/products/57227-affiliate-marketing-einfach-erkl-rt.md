@@ -1,3 +1,24 @@
+---
+product_id: "57227"
+digistore24_product_id: 704205
+title: "Affiliate Marketing einfach erklärt"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/affiliate-marketing-einfach-erklaert?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/affiliate-marketing-einfach-erklaert"
+language: "de"
+---
 # Affiliate Marketing einfach erklärt
 
 > Product ID `57227` · Digistore24 productId `704205` · [HTML profile page](../../produkte/affiliate-marketing-einfach-erkl-rt-57227.html)

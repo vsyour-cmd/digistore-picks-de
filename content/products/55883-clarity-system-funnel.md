@@ -1,3 +1,24 @@
+---
+product_id: "55883"
+digistore24_product_id: 669477
+title: "Clarity System Funnel"
+vendor: "paul-roth"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.growverse.de/funnels/clarity-system/freebie?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.growverse.de/funnels/clarity-system/freebie"
+language: "de"
+---
 # Clarity System Funnel
 
 > Product ID `55883` · Digistore24 productId `669477` · [HTML profile page](../../produkte/clarity-system-funnel-55883.html)

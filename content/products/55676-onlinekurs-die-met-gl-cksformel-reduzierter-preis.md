@@ -1,3 +1,24 @@
+---
+product_id: "55676"
+digistore24_product_id: 38851
+title: "Onlinekurs \"Die MET-Glücksformel\"-reduzierter Preis"
+vendor: "franke2met"
+product_type: "Member area and video courses"
+price: 94.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 25.88
+cart_conversion_pct: 32
+cancel_rate_pct: 3.75
+categories: ["Health & Fitness"]
+listed_since: "2014-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://franke-akademie.de/met-gluecksformel-instagram?aff=adminstore#aff=adminstore"
+sales_page: "https://franke-akademie.de/met-gluecksformel-instagram"
+language: "de"
+---
 # Onlinekurs "Die MET-Glücksformel"-reduzierter Preis
 
 > Product ID `55676` · Digistore24 productId `38851` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-reduzierter-preis-55676.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57097"
+digistore24_product_id: 671182
+title: "Workbook Feedback E-Mail"
+vendor: "Diveco"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Marketing Services"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heinzbader.com/workbook-feedback-email-landingpage/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/workbook-feedback-email-landingpage/"
+language: "de"
+---
 # Workbook Feedback E-Mail
 
 > Product ID `57097` · Digistore24 productId `671182` · [HTML profile page](../../produkte/workbook-feedback-e-mail-57097.html)

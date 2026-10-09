@@ -1,3 +1,24 @@
+---
+product_id: "57735"
+digistore24_product_id: 695863
+title: "100-Tage-Workbook für einen guten Übergang in den Ruhestand"
+vendor: "ruhestandmitplan"
+product_type: "Downloads"
+price: 22.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ruhestand-mit-plan.com/100-tage-plan?aff=adminstore#aff=adminstore"
+sales_page: "https://ruhestand-mit-plan.com/100-tage-plan"
+language: "de"
+---
 # 100-Tage-Workbook für einen guten Übergang in den Ruhestand
 
 > Product ID `57735` · Digistore24 productId `695863` · [HTML profile page](../../produkte/100-tage-workbook-f-r-einen-guten-bergang-in-den-ruhestand-57735.html)

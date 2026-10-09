@@ -1,3 +1,24 @@
+---
+product_id: "55233"
+digistore24_product_id: 662151
+title: "Lernstrategien mit KI – Bessere Noten für Schüler"
+vendor: "digiknowledge"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 70.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digiknowledge.net/lernstrategien-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.digiknowledge.net/lernstrategien-2/"
+language: "de"
+---
 # Lernstrategien mit KI – Bessere Noten für Schüler
 
 > Product ID `55233` · Digistore24 productId `662151` · [HTML profile page](../../produkte/lernstrategien-mit-ki-bessere-noten-f-r-sch-ler-55233.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44562"
+digistore24_product_id: 504419
+title: "1000 YouTube Abos Training: Spielend Verdienen! Chris Boenig"
+vendor: "Chris-B"
+product_type: "Member area and video courses"
+price: 6.51
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 77.69
+cart_conversion_pct: 5
+cancel_rate_pct: 5.35
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2023-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://chrisboenig.com/youtubetrainingup/?aff=adminstore#aff=adminstore"
+sales_page: "https://chrisboenig.com/youtubetrainingup/"
+language: "de"
+---
 # 1000 YouTube Abos Training: Spielend Verdienen! Chris Boenig
 
 > Product ID `44562` · Digistore24 productId `504419` · [HTML profile page](../../produkte/1000-youtube-abos-training-spielend-verdienen-chris-boenig-44562.html)

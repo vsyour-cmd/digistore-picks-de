@@ -1,3 +1,24 @@
+---
+product_id: "37475"
+digistore24_product_id: 335967
+title: "Kreativer online Malkurs für Kinder \"Sommer Motive\""
+vendor: "kolibrischool"
+product_type: "Member area and video courses"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore"
+sales_page: "https://kolibri-school.de/sommer-motive"
+language: "de"
+---
 # Kreativer online Malkurs für Kinder "Sommer Motive"
 
 > Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../produkte/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)

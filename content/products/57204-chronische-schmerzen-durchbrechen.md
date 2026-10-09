@@ -1,3 +1,24 @@
+---
+product_id: "57204"
+digistore24_product_id: 701962
+title: "Chronische Schmerzen durchbrechen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/chronische-schmerzen-durchbrechen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/chronische-schmerzen-durchbrechen"
+language: "de"
+---
 # Chronische Schmerzen durchbrechen
 
 > Product ID `57204` · Digistore24 productId `701962` · [HTML profile page](../../produkte/chronische-schmerzen-durchbrechen-57204.html)

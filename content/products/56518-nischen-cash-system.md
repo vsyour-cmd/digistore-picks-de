@@ -1,3 +1,24 @@
+---
+product_id: "56518"
+digistore24_product_id: 687990
+title: "Nischen Cash System"
+vendor: "privat16850fc2"
+product_type: "Member area and video courses"
+price: 22.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.onlinebusiness-wissen.de/nischencashsystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinebusiness-wissen.de/nischencashsystem/"
+language: "de"
+---
 # Nischen Cash System
 
 > Product ID `56518` · Digistore24 productId `687990` · [HTML profile page](../../produkte/nischen-cash-system-56518.html)

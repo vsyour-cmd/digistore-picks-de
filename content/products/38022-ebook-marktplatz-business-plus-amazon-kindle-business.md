@@ -1,3 +1,24 @@
+---
+product_id: "38022"
+digistore24_product_id: 410768
+title: "eBook Marktplatz Business PLUS + (Amazon Kindle Business)"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/akb-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/akb-fe/"
+language: "de"
+---
 # eBook Marktplatz Business PLUS + (Amazon Kindle Business)
 
 > Product ID `38022` · Digistore24 productId `410768` · [HTML profile page](../../produkte/ebook-marktplatz-business-plus-amazon-kindle-business-38022.html)

@@ -1,3 +1,24 @@
+---
+product_id: "16191"
+digistore24_product_id: 116843
+title: "Socializing Bundle – Charismatisch und selbstbewusst werden"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/socializing-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/socializing-bundle/"
+language: "de"
+---
 # Socializing Bundle – Charismatisch und selbstbewusst werden
 
 > Product ID `16191` · Digistore24 productId `116843` · [HTML profile page](../../produkte/socializing-bundle-charismatisch-und-selbstbewusst-werden-16191.html)

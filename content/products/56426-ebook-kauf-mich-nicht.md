@@ -1,3 +1,24 @@
+---
+product_id: "56426"
+digistore24_product_id: 689548
+title: "Ebook - Kauf mich nicht"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Personal Development"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689548?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689548"
+language: "de"
+---
 # Ebook - Kauf mich nicht
 
 > Product ID `56426` · Digistore24 productId `689548` · [HTML profile page](../../produkte/ebook-kauf-mich-nicht-56426.html)

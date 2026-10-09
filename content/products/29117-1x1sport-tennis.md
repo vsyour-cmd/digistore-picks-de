@@ -1,3 +1,24 @@
+---
+product_id: "29117"
+digistore24_product_id: 266796
+title: "1x1SPORT Tennis"
+vendor: "einsxeins"
+product_type: "Downloads"
+price: 18.32
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.1x1sport.de/videos/kreatives-tennistraining-fuer-kinder-aufschlag-volley/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.1x1sport.de/videos/kreatives-tennistraining-fuer-kinder-aufschlag-volley/"
+language: "de"
+---
 # 1x1SPORT Tennis
 
 > Product ID `29117` · Digistore24 productId `266796` · [HTML profile page](../../produkte/1x1sport-tennis-29117.html)

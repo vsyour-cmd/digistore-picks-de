@@ -1,3 +1,24 @@
+---
+product_id: "37405"
+digistore24_product_id: 360014
+title: "Bachblüten für Tiere Online Kurs"
+vendor: "Andrea1A"
+product_type: "Member area and video courses"
+price: 111.86
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tierakademie.andrea-schaedel.de/lp/bachblueten?aff=adminstore#aff=adminstore"
+sales_page: "https://tierakademie.andrea-schaedel.de/lp/bachblueten"
+language: "de"
+---
 # Bachblüten für Tiere Online Kurs
 
 > Product ID `37405` · Digistore24 productId `360014` · [HTML profile page](../../produkte/bachbl-ten-f-r-tiere-online-kurs-37405.html)

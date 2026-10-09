@@ -1,3 +1,24 @@
+---
+product_id: "58986"
+digistore24_product_id: 730681
+title: "Wenn der Kopf anders tickt"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 37.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Leadership & Management"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730681?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730681"
+language: "de"
+---
 # Wenn der Kopf anders tickt
 
 > Product ID `58986` · Digistore24 productId `730681` · [HTML profile page](../../produkte/wenn-der-kopf-anders-tickt-58986.html)

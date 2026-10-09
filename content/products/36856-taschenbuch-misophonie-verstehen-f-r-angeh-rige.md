@@ -1,3 +1,24 @@
+---
+product_id: "36856"
+digistore24_product_id: 428113
+title: "Taschenbuch \"Misophonie verstehen für Angehörige\""
+vendor: "patrickc"
+product_type: "Book (printed)"
+price: 21.64
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.36
+cart_conversion_pct: 10
+cancel_rate_pct: 1.04
+categories: ["Personal Development"]
+listed_since: "2022-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.misophonie-buch.de/misophonie-verstehen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.misophonie-buch.de/misophonie-verstehen"
+language: "de"
+---
 # Taschenbuch "Misophonie verstehen für Angehörige"
 
 > Product ID `36856` · Digistore24 productId `428113` · [HTML profile page](../../produkte/taschenbuch-misophonie-verstehen-f-r-angeh-rige-36856.html)

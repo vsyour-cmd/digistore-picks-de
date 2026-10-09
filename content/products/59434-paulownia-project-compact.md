@@ -1,3 +1,24 @@
+---
+product_id: "59434"
+digistore24_product_id: 724786
+title: "Paulownia Project Compact | Проект Павловния Компакт"
+vendor: "fafenrotirina9b234"
+product_type: "E-books"
+price: 559.3
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 55.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724786?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724786"
+language: "de"
+---
 # Paulownia Project Compact | Проект Павловния Компакт
 
 > Product ID `59434` · Digistore24 productId `724786` · [HTML profile page](../../produkte/paulownia-project-compact-59434.html)

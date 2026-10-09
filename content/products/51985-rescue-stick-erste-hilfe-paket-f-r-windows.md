@@ -1,3 +1,24 @@
+---
+product_id: "51985"
+digistore24_product_id: 518675
+title: "Rescue Stick - Erste Hilfe Paket für Windows"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Hobby & Craft","Software"]
+listed_since: "2023-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/518675?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/518675"
+language: "de"
+---
 # Rescue Stick - Erste Hilfe Paket für Windows
 
 > Product ID `51985` · Digistore24 productId `518675` · [HTML profile page](../../produkte/rescue-stick-erste-hilfe-paket-f-r-windows-51985.html)

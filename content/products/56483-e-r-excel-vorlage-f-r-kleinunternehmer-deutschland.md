@@ -1,3 +1,24 @@
+---
+product_id: "56483"
+digistore24_product_id: 690545
+title: "EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)"
+vendor: "BloomGeneration"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-05-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/690545?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/690545"
+language: "de"
+---
 # EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)
 
 > Product ID `56483` · Digistore24 productId `690545` · [HTML profile page](../../produkte/e-r-excel-vorlage-f-r-kleinunternehmer-deutschland-56483.html)

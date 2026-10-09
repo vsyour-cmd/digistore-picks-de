@@ -1,3 +1,24 @@
+---
+product_id: "49784"
+digistore24_product_id: 571310
+title: "Mit Umfragen lukrativ Geld verdienen"
+vendor: "tippsnet"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 10.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://umfragen.geld-verdienen.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://umfragen.geld-verdienen.de/"
+language: "de"
+---
 # Mit Umfragen lukrativ Geld verdienen
 
 > Product ID `49784` · Digistore24 productId `571310` · [HTML profile page](../../produkte/mit-umfragen-lukrativ-geld-verdienen-49784.html)

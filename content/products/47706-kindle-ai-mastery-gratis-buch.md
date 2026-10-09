@@ -1,3 +1,24 @@
+---
+product_id: "47706"
+digistore24_product_id: 546701
+title: "Kindle AI Mastery - Gratis Buch"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.07
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.43
+cart_conversion_pct: 37
+cancel_rate_pct: 2.7
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/kindle-ai-mastery/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/kindle-ai-mastery/"
+language: "de"
+---
 # Kindle AI Mastery - Gratis Buch
 
 > Product ID `47706` · Digistore24 productId `546701` · [HTML profile page](../../produkte/kindle-ai-mastery-gratis-buch-47706.html)

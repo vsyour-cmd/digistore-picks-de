@@ -1,3 +1,24 @@
+---
+product_id: "59179"
+digistore24_product_id: 730831
+title: "Der Weg zum Traumhaus"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/730831?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730831"
+language: "de"
+---
 # Der Weg zum Traumhaus
 
 > Product ID `59179` · Digistore24 productId `730831` · [HTML profile page](../../produkte/der-weg-zum-traumhaus-59179.html)

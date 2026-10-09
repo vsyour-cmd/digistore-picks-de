@@ -1,3 +1,24 @@
+---
+product_id: "38509"
+digistore24_product_id: 417713
+title: "Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen"
+vendor: "OKsuccess"
+product_type: "Downloads"
+price: 38.01
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.24
+cart_conversion_pct: 3
+cancel_rate_pct: 0.26
+categories: ["Home & Garden","Spiri­tua­lity & Esotericism"]
+listed_since: "2021-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle"
+language: "de"
+---
 # Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen
 
 > Product ID `38509` · Digistore24 productId `417713` · [HTML profile page](../../produkte/happy-plant-happy-me-kl-nge-die-pflanzen-gl-cklich-machen-38509.html)

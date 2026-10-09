@@ -1,3 +1,24 @@
+---
+product_id: "51463"
+digistore24_product_id: 598878
+title: "KI-Prompts Cheat Sheet Lite"
+vendor: "ReneAktivNetz"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 41
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media","Online Marketing"]
+listed_since: "2025-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/?aff=adminstore#aff=adminstore"
+sales_page: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/"
+language: "de"
+---
 # KI-Prompts Cheat Sheet Lite
 
 > Product ID `51463` · Digistore24 productId `598878` · [HTML profile page](../../produkte/ki-prompts-cheat-sheet-lite-51463.html)

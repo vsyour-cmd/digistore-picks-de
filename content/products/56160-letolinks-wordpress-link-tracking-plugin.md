@@ -1,3 +1,24 @@
+---
+product_id: "56160"
+digistore24_product_id: 658205
+title: "LetoLinks – WordPress Link-Tracking-Plugin"
+vendor: "tlmedia"
+product_type: "Software"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2025-12-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://letoforge.com/plugins/letolinks/?aff=adminstore#aff=adminstore"
+sales_page: "https://letoforge.com/plugins/letolinks/"
+language: "de"
+---
 # LetoLinks – WordPress Link-Tracking-Plugin
 
 > Product ID `56160` · Digistore24 productId `658205` · [HTML profile page](../../produkte/letolinks-wordpress-link-tracking-plugin-56160.html)

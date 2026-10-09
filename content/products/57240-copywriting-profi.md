@@ -1,3 +1,24 @@
+---
+product_id: "57240"
+digistore24_product_id: 704218
+title: "Copywriting Profi"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/copywriting-profi?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/copywriting-profi"
+language: "de"
+---
 # Copywriting Profi
 
 > Product ID `57240` · Digistore24 productId `704218` · [HTML profile page](../../produkte/copywriting-profi-57240.html)

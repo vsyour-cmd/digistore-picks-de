@@ -1,3 +1,24 @@
+---
+product_id: "55476"
+digistore24_product_id: 667023
+title: "Erinnerungen verblassen – Ihre Autobiografie bleibt"
+vendor: "MadrigenumVerlag"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://madrigenum.dworak.name/autobiografie-schreiben-schritt-fuer-schritt-zur-eigenen-lebensgeschichte/?aff=adminstore#aff=adminstore"
+sales_page: "http://madrigenum.dworak.name/autobiografie-schreiben-schritt-fuer-schritt-zur-eigenen-lebensgeschichte/"
+language: "de"
+---
 # Erinnerungen verblassen – Ihre Autobiografie bleibt
 
 > Product ID `55476` · Digistore24 productId `667023` · [HTML profile page](../../produkte/erinnerungen-verblassen-ihre-autobiografie-bleibt-55476.html)

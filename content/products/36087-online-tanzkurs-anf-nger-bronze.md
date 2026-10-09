@@ -1,3 +1,24 @@
+---
+product_id: "36087"
+digistore24_product_id: 356950
+title: "ONLINE TANZKURS ANFÄNGER/BRONZE"
+vendor: "andyandkellykainz"
+product_type: "Member area and video courses"
+price: 32.81
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-11-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andyandkellykainz.com/bronze-tanzkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://andyandkellykainz.com/bronze-tanzkurs/"
+language: "de"
+---
 # ONLINE TANZKURS ANFÄNGER/BRONZE
 
 > Product ID `36087` · Digistore24 productId `356950` · [HTML profile page](../../produkte/online-tanzkurs-anf-nger-bronze-36087.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42812"
+digistore24_product_id: 485059
+title: "Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch"
+vendor: "isidde"
+product_type: "Audio book (download)"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2023-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download?aff=adminstore#aff=adminstore"
+sales_page: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download"
+language: "de"
+---
 # Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch
 
 > Product ID `42812` · Digistore24 productId `485059` · [HTML profile page](../../produkte/mattias-desmet-die-psychologie-des-totalitarismus-h-rbuch-42812.html)

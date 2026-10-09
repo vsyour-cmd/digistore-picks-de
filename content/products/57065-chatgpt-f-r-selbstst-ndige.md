@@ -1,3 +1,24 @@
+---
+product_id: "57065"
+digistore24_product_id: 703406
+title: "ChatGPT für Selbstständige"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/chatgpt-fuer-selbststaendige?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/chatgpt-fuer-selbststaendige"
+language: "de"
+---
 # ChatGPT für Selbstständige
 
 > Product ID `57065` · Digistore24 productId `703406` · [HTML profile page](../../produkte/chatgpt-f-r-selbstst-ndige-57065.html)

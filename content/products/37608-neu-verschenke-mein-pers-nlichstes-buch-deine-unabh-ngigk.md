@@ -1,3 +1,24 @@
+---
+product_id: "37608"
+digistore24_product_id: 402184
+title: "[NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 6.34
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.49
+cart_conversion_pct: 8
+cancel_rate_pct: 2.53
+categories: ["Personal Development"]
+listed_since: "2021-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/402184/adminstore"
+sales_page: "https://www.thomasklussmann.de/buch/unabhaengigkeitserklaerung/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk
 
 > Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../produkte/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)

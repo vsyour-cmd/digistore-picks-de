@@ -1,3 +1,24 @@
+---
+product_id: "55254"
+digistore24_product_id: 659437
+title: "Innere Klarheit - Alte Denkmuster loslassen (Onlinekurs)"
+vendor: "Zaza2025"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://emrah-yildiz.app.mentortools.com/alte-denkmuster-loslassen-dein-weg-zu-innerer-klarheit?aff=adminstore#aff=adminstore"
+sales_page: "https://emrah-yildiz.app.mentortools.com/alte-denkmuster-loslassen-dein-weg-zu-innerer-klarheit"
+language: "de"
+---
 # Innere Klarheit - Alte Denkmuster loslassen (Onlinekurs)
 
 > Product ID `55254` · Digistore24 productId `659437` · [HTML profile page](../../produkte/innere-klarheit-alte-denkmuster-loslassen-onlinekurs-55254.html)

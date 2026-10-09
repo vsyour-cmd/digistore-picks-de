@@ -1,3 +1,24 @@
+---
+product_id: "12585"
+digistore24_product_id: 90941
+title: "Artgerechte Beschäftigung - Reizangel Webinar"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/Start/reizangel/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/Start/reizangel/"
+language: "de"
+---
 # Artgerechte Beschäftigung - Reizangel Webinar
 
 > Product ID `12585` · Digistore24 productId `90941` · [HTML profile page](../../produkte/artgerechte-besch-ftigung-reizangel-webinar-12585.html)

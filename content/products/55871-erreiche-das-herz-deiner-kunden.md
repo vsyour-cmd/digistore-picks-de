@@ -1,3 +1,24 @@
+---
+product_id: "55871"
+digistore24_product_id: 675733
+title: "Erreiche das Herz deiner Kunden"
+vendor: "werni1"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ"
+language: "de"
+---
 # Erreiche das Herz deiner Kunden
 
 > Product ID `55871` · Digistore24 productId `675733` · [HTML profile page](../../produkte/erreiche-das-herz-deiner-kunden-55871.html)

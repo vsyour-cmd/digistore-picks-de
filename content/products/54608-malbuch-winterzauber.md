@@ -1,3 +1,24 @@
+---
+product_id: "54608"
+digistore24_product_id: 647186
+title: "Malbuch - Winterzauber"
+vendor: "Bo3y87"
+product_type: "E-books"
+price: 5.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Fun & Games"]
+listed_since: "2025-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/647186?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/647186"
+language: "de"
+---
 # Malbuch - Winterzauber
 
 > Product ID `54608` · Digistore24 productId `647186` · [HTML profile page](../../produkte/malbuch-winterzauber-54608.html)

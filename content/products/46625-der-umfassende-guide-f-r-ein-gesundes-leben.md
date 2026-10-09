@@ -1,3 +1,24 @@
+---
+product_id: "46625"
+digistore24_product_id: 531073
+title: "Der umfassende Guide für ein gesundes Leben"
+vendor: "linus2023"
+product_type: "E-books"
+price: 13.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2023-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/531073?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/531073"
+language: "de"
+---
 # Der umfassende Guide für ein gesundes Leben
 
 > Product ID `46625` · Digistore24 productId `531073` · [HTML profile page](../../produkte/der-umfassende-guide-f-r-ein-gesundes-leben-46625.html)

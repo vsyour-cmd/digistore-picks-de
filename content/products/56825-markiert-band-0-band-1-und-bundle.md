@@ -1,3 +1,24 @@
+---
+product_id: "56825"
+digistore24_product_id: 694775
+title: "„Markiert“ – Band 0, Band 1 und Bundle"
+vendor: "Niux489"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694775?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694775"
+language: "de"
+---
 # „Markiert“ – Band 0, Band 1 und Bundle
 
 > Product ID `56825` · Digistore24 productId `694775` · [HTML profile page](../../produkte/markiert-band-0-band-1-und-bundle-56825.html)

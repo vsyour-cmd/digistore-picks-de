@@ -1,3 +1,24 @@
+---
+product_id: "56142"
+digistore24_product_id: 676422
+title: "Linkfuse Partnerprogramm"
+vendor: "Hermas"
+product_type: "Software"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 163.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://linkfuse.de?aff=adminstore#aff=adminstore"
+sales_page: "https://linkfuse.de"
+language: "de"
+---
 # Linkfuse Partnerprogramm
 
 > Product ID `56142` · Digistore24 productId `676422` · [HTML profile page](../../produkte/linkfuse-partnerprogramm-56142.html)

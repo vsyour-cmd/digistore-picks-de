@@ -1,3 +1,24 @@
+---
+product_id: "55365"
+digistore24_product_id: 592495
+title: "FlyCalm Ultimate – Der Komplettkurs gegen Flugangst"
+vendor: "SkyCair"
+product_type: "Member area and video courses"
+price: 244.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 122.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Travel & Culture"]
+listed_since: "2025-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.skycair.com/ultimate?aff=adminstore#aff=adminstore"
+sales_page: "https://www.skycair.com/ultimate"
+language: "de"
+---
 # FlyCalm Ultimate – Der Komplettkurs gegen Flugangst
 
 > Product ID `55365` · Digistore24 productId `592495` · [HTML profile page](../../produkte/flycalm-ultimate-der-komplettkurs-gegen-flugangst-55365.html)

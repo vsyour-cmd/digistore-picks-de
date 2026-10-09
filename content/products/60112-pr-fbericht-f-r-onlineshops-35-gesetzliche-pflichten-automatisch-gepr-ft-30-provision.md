@@ -1,3 +1,24 @@
+---
+product_id: "60112"
+digistore24_product_id: 732126
+title: "Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision"
+vendor: "rechtsklar24"
+product_type: "Remote service provided electronically"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rechtsklar24.de/pruefbericht.html?aff=adminstore#aff=adminstore"
+sales_page: "https://rechtsklar24.de/pruefbericht.html"
+language: "de"
+---
 # Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision
 
 > Product ID `60112` · Digistore24 productId `732126` · [HTML profile page](../../produkte/pr-fbericht-f-r-onlineshops-35-gesetzliche-pflichten-automatisch-gepr-ft-30-provision-60112.html)

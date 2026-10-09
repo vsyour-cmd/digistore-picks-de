@@ -1,3 +1,24 @@
+---
+product_id: "50229"
+digistore24_product_id: 734233
+title: "Online Geld verdienen mit amazon KDP"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734233?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734233"
+language: "de"
+---
 # Online Geld verdienen mit amazon KDP
 
 > Product ID `50229` · Digistore24 productId `734233` · [HTML profile page](../../produkte/online-geld-verdienen-mit-amazon-kdp-50229.html)

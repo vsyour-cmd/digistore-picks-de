@@ -1,3 +1,24 @@
+---
+product_id: "56220"
+digistore24_product_id: 679666
+title: "CashCockpit - Das GeldKontroll-System | Exceltool und Videos"
+vendor: "NilsWarnecke"
+product_type: "Software"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 78.72
+cart_conversion_pct: 5
+cancel_rate_pct: 4.89
+categories: ["Education","Family & Children","Home & Garden"]
+listed_since: "2026-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/"
+language: "de"
+---
 # CashCockpit - Das GeldKontroll-System | Exceltool und Videos
 
 > Product ID `56220` · Digistore24 productId `679666` · [HTML profile page](../../produkte/cashcockpit-das-geldkontroll-system-exceltool-und-videos-56220.html)

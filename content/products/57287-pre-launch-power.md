@@ -1,3 +1,24 @@
+---
+product_id: "57287"
+digistore24_product_id: 704264
+title: "Pre-Launch-Power"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/pre-launch-aufbauen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/pre-launch-aufbauen"
+language: "de"
+---
 # Pre-Launch-Power
 
 > Product ID `57287` · Digistore24 productId `704264` · [HTML profile page](../../produkte/pre-launch-power-57287.html)

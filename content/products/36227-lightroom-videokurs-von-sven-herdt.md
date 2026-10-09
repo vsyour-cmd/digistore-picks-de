@@ -1,3 +1,24 @@
+---
+product_id: "36227"
+digistore24_product_id: 381498
+title: "Lightroom Videokurs von Sven Herdt"
+vendor: "SvenHerdt"
+product_type: "Downloads"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 12.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2021-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://svenherdt.com/lightroom-videokurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://svenherdt.com/lightroom-videokurs/"
+language: "de"
+---
 # Lightroom Videokurs von Sven Herdt
 
 > Product ID `36227` · Digistore24 productId `381498` · [HTML profile page](../../produkte/lightroom-videokurs-von-sven-herdt-36227.html)

@@ -1,3 +1,24 @@
+---
+product_id: "7837"
+digistore24_product_id: 52623
+title: "Zaubertricks lernen - Grundkurs Karten"
+vendor: "Magingo"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2015-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ich-lerne-zaubern.de/kartenzauberei-teil-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://ich-lerne-zaubern.de/kartenzauberei-teil-1/"
+language: "de"
+---
 # Zaubertricks lernen - Grundkurs Karten
 
 > Product ID `7837` · Digistore24 productId `52623` · [HTML profile page](../../produkte/zaubertricks-lernen-grundkurs-karten-7837.html)

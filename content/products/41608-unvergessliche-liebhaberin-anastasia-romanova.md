@@ -1,3 +1,24 @@
+---
+product_id: "41608"
+digistore24_product_id: 333761
+title: "Unvergessliche Liebhaberin - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 29.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2020-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/produkte/unvergessliche-liebhaberin/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/produkte/unvergessliche-liebhaberin/"
+language: "de"
+---
 # Unvergessliche Liebhaberin - Anastasia Romanova
 
 > Product ID `41608` · Digistore24 productId `333761` · [HTML profile page](../../produkte/unvergessliche-liebhaberin-anastasia-romanova-41608.html)

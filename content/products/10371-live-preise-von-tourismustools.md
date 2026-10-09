@@ -1,3 +1,24 @@
+---
+product_id: "10371"
+digistore24_product_id: 72877
+title: "Live-Preise von TourismusTools"
+vendor: "patrickfederhen"
+product_type: "Downloads"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 55.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2016-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://tourismustools.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://tourismustools.de/"
+language: "de"
+---
 # Live-Preise von TourismusTools
 
 > Product ID `10371` · Digistore24 productId `72877` · [HTML profile page](../../produkte/live-preise-von-tourismustools-10371.html)

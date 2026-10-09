@@ -1,3 +1,24 @@
+---
+product_id: "53708"
+digistore24_product_id: 630271
+title: "Finde dich selbst Kongress"
+vendor: "DeliaV"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.finde-dich-selbst-kongress.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.finde-dich-selbst-kongress.com/"
+language: "de"
+---
 # Finde dich selbst Kongress
 
 > Product ID `53708` · Digistore24 productId `630271` · [HTML profile page](../../produkte/finde-dich-selbst-kongress-53708.html)

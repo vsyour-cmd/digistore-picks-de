@@ -107,6 +107,8 @@ function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonL
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${canonical}">
 ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${esc(ogImg)}">` : '<meta name="twitter:card" content="summary">'}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="alternate" type="application/atom+xml" title="Blog feed" href="${rel}/feed.xml">
 <link rel="stylesheet" href="${rel}/assets/style.css">
 <link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
 <link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">
@@ -114,6 +116,7 @@ ${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
+<a class="skip-link" href="#main">Zum Inhalt springen</a>
 <header class="site"><div class="wrap">
   <a class="brand" href="${rel}/index.html">${SITE_NAME}<span></span></a>
   <nav class="cats">
@@ -124,7 +127,7 @@ ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`
     <a href="${rel}/datenschutz.html">Datenschutz</a>
   </nav>
 </div></header>
-<main class="wrap">
+<main id="main" class="wrap">
 ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
@@ -410,6 +413,8 @@ ${enList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks/r
 <span class="cta-note">Affiliate-Link (Werbung) — wir verdienen ggf. eine Provision, ohne Mehrkosten für Sie.</span></p>
 </div>`;
 
+    const stickyCta = `<div class="sticky-cta"><div class="sc-info"><span class="sc-price">${money(p.price, p.currency)}</span><span class="sc-note">über Digistore24 · Werbung</span></div><a class="cta" href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">Zur Verkaufsseite</a></div>`;
+
     const body = `
 <h1>${esc(p.label)}</h1>
 <p class="sub">Produktprofil · Marktplatz-Daten ${datemark(DATA.scrapedAt)} · Verkaufsseiten-Recherche ${datemark(DATA.researchedAt) || "—"} · Kategorien: ${cats || "Ohne Kategorie"}</p>
@@ -471,7 +476,9 @@ ${sourcesBlock(p)}
 
 ${methodBox}
 
-${interactionBlock}`;
+${interactionBlock}
+
+${stickyCta}`;
 
     const jsonLd = [
       {

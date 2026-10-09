@@ -1,3 +1,24 @@
+---
+product_id: "55691"
+digistore24_product_id: 595196
+title: "IG Content BootCamp"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 331.24
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 118.92
+cart_conversion_pct: 11
+cancel_rate_pct: 0.77
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/ig-content-bootcamp/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/ig-content-bootcamp/"
+language: "de"
+---
 # IG Content BootCamp
 
 > Product ID `55691` · Digistore24 productId `595196` · [HTML profile page](../../produkte/ig-content-bootcamp-55691.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55768"
+digistore24_product_id: 605375
+title: "Raus aus der Erschöpfung - mehr Energie + Leichtigkeit"
+vendor: "aktiv-entspannt-eifel"
+product_type: "E-books"
+price: 13.07
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://natuerlich-einfach.de/erschoepfung-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://natuerlich-einfach.de/erschoepfung-ebook/"
+language: "de"
+---
 # Raus aus der Erschöpfung - mehr Energie + Leichtigkeit
 
 > Product ID `55768` · Digistore24 productId `605375` · [HTML profile page](../../produkte/raus-aus-der-ersch-pfung-mehr-energie-leichtigkeit-55768.html)

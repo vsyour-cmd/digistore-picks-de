@@ -1,3 +1,24 @@
+---
+product_id: "38594"
+digistore24_product_id: 415828
+title: "Die 66 besten Low Carb Rezepte Gratis Buch von MDS"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 6.95
+cart_conversion_pct: 34
+cancel_rate_pct: 12.33
+categories: ["Food & Drink"]
+listed_since: "2021-11-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://machdichschlank.info/66-low-carb-rezepte/?aff=adminstore#aff=adminstore"
+sales_page: "https://machdichschlank.info/66-low-carb-rezepte/"
+language: "de"
+---
 # Die 66 besten Low Carb Rezepte Gratis Buch von MDS
 
 > Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../produkte/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)

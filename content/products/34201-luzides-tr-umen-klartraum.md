@@ -1,3 +1,24 @@
+---
+product_id: "34201"
+digistore24_product_id: 349290
+title: "Luzides Träumen – Klartraum"
+vendor: "Dreamworld"
+product_type: "Member area and video courses"
+price: 112.8
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 22.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamworld.coachy.net/"
+language: "de"
+---
 # Luzides Träumen – Klartraum
 
 > Product ID `34201` · Digistore24 productId `349290` · [HTML profile page](../../produkte/luzides-tr-umen-klartraum-34201.html)

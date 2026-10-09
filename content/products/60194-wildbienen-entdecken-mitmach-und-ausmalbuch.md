@@ -1,3 +1,24 @@
+---
+product_id: "60194"
+digistore24_product_id: 741971
+title: "Wildbienen entdecken – Mitmach- und  Ausmalbuch"
+vendor: "ITServiceMB"
+product_type: "E-books"
+price: 13.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Family & Children","Home & Garden"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://kurven-klasse.de/biene/?aff=adminstore#aff=adminstore"
+sales_page: "https://kurven-klasse.de/biene/"
+language: "de"
+---
 # Wildbienen entdecken – Mitmach- und  Ausmalbuch
 
 > Product ID `60194` · Digistore24 productId `741971` · [HTML profile page](../../produkte/wildbienen-entdecken-mitmach-und-ausmalbuch-60194.html)

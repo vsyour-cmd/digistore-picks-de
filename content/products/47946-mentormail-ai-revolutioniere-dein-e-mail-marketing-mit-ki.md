@@ -1,3 +1,24 @@
+---
+product_id: "47946"
+digistore24_product_id: 548161
+title: "MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit \"KI\""
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 204.84
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 58.2
+cart_conversion_pct: 5
+cancel_rate_pct: 2.12
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.mentormailai.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mentormailai.com/"
+language: "de"
+---
 # MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit "KI"
 
 > Product ID `47946` · Digistore24 productId `548161` · [HTML profile page](../../produkte/mentormail-ai-revolutioniere-dein-e-mail-marketing-mit-ki-47946.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54484"
+digistore24_product_id: 643989
+title: "Die geheimen Methoden von Betrügern im Einzelhandel"
+vendor: "ebeconnect"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Services"]
+listed_since: "2025-10-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://checkout-ds24.com/product/643989?aff=adminstore"
+sales_page: "http://checkout-ds24.com/product/643989"
+language: "de"
+---
 # Die geheimen Methoden von Betrügern im Einzelhandel
 
 > Product ID `54484` · Digistore24 productId `643989` · [HTML profile page](../../produkte/die-geheimen-methoden-von-betr-gern-im-einzelhandel-54484.html)

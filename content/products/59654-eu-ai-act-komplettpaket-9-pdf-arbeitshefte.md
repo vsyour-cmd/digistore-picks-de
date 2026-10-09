@@ -1,3 +1,24 @@
+---
+product_id: "59654"
+digistore24_product_id: 733579
+title: "EU AI Act Komplettpaket – 9 PDF-Arbeitshefte"
+vendor: "MindshiftDigitalStudio"
+product_type: "E-books"
+price: 93.05
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733579?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733579"
+language: "de"
+---
 # EU AI Act Komplettpaket – 9 PDF-Arbeitshefte
 
 > Product ID `59654` · Digistore24 productId `733579` · [HTML profile page](../../produkte/eu-ai-act-komplettpaket-9-pdf-arbeitshefte-59654.html)

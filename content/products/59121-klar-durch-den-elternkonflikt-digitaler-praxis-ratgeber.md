@@ -1,3 +1,24 @@
+---
+product_id: "59121"
+digistore24_product_id: 731129
+title: "Klar durch den Elternkonflikt – digitaler Praxis-Ratgeber"
+vendor: "filizosburg0761"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2026-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/731129?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731129"
+language: "de"
+---
 # Klar durch den Elternkonflikt – digitaler Praxis-Ratgeber
 
 > Product ID `59121` · Digistore24 productId `731129` · [HTML profile page](../../produkte/klar-durch-den-elternkonflikt-digitaler-praxis-ratgeber-59121.html)

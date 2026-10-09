@@ -1,3 +1,24 @@
+---
+product_id: "56374"
+digistore24_product_id: 687952
+title: "Symbole des Goldenen Zeitalters - Kartenset"
+vendor: "Spiritual-Power"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687952?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687952"
+language: "de"
+---
 # Symbole des Goldenen Zeitalters - Kartenset
 
 > Product ID `56374` · Digistore24 productId `687952` · [HTML profile page](../../produkte/symbole-des-goldenen-zeitalters-kartenset-56374.html)

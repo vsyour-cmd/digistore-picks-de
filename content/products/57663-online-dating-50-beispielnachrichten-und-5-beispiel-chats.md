@@ -1,3 +1,24 @@
+---
+product_id: "57663"
+digistore24_product_id: 713101
+title: "Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats"
+vendor: "MF-Digital-Solutions"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713101?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713101"
+language: "de"
+---
 # Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats
 
 > Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../produkte/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)

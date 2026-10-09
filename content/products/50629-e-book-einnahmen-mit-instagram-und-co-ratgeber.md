@@ -1,3 +1,24 @@
+---
+product_id: "50629"
+digistore24_product_id: 584716
+title: "E-Book - Einnahmen mit Instagram und Co - Ratgeber"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2024-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/Einkommen-Instagram-Co?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Einkommen-Instagram-Co"
+language: "de"
+---
 # E-Book - Einnahmen mit Instagram und Co - Ratgeber
 
 > Product ID `50629` · Digistore24 productId `584716` · [HTML profile page](../../produkte/e-book-einnahmen-mit-instagram-und-co-ratgeber-50629.html)

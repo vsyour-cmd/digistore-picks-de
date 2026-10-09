@@ -1,3 +1,24 @@
+---
+product_id: "40930"
+digistore24_product_id: 456396
+title: "Facebook Marketing Secrets"
+vendor: "Spekulatius"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 8.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam"
+language: "de"
+---
 # Facebook Marketing Secrets
 
 > Product ID `40930` · Digistore24 productId `456396` · [HTML profile page](../../produkte/facebook-marketing-secrets-40930.html)

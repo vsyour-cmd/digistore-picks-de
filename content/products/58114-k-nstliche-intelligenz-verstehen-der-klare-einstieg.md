@@ -1,3 +1,24 @@
+---
+product_id: "58114"
+digistore24_product_id: 717798
+title: "Künstliche Intelligenz verstehen der klare Einstieg"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/717798?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717798"
+language: "de"
+---
 # Künstliche Intelligenz verstehen der klare Einstieg
 
 > Product ID `58114` · Digistore24 productId `717798` · [HTML profile page](../../produkte/k-nstliche-intelligenz-verstehen-der-klare-einstieg-58114.html)

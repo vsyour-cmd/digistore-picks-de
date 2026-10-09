@@ -1,3 +1,24 @@
+---
+product_id: "58485"
+digistore24_product_id: 528000
+title: "Optin Pilot Software"
+vendor: "fmd2039"
+product_type: "Member area and video courses"
+price: 664.45
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 299
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2026-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://glulando.de/optinpilot/?aff=adminstore#aff=adminstore"
+sales_page: "https://glulando.de/optinpilot/"
+language: "de"
+---
 # Optin Pilot Software
 
 > Product ID `58485` · Digistore24 productId `528000` · [HTML profile page](../../produkte/optin-pilot-software-58485.html)

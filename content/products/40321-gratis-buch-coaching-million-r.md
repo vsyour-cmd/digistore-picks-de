@@ -1,3 +1,24 @@
+---
+product_id: "40321"
+digistore24_product_id: 445024
+title: "[GRATIS BUCH] COACHING MILLIONÄR"
+vendor: "masterminds"
+product_type: "Book (printed)"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2022-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.javidhoffmann.de/gratis-buch"
+language: "de"
+---
 # [GRATIS BUCH] COACHING MILLIONÄR
 
 > Product ID `40321` · Digistore24 productId `445024` · [HTML profile page](../../produkte/gratis-buch-coaching-million-r-40321.html)

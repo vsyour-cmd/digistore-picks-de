@@ -1,3 +1,24 @@
+---
+product_id: "44016"
+digistore24_product_id: 498008
+title: "Affiliate Marketing - Mega Bundle"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.04
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2023-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/affiliate-marketing-das-mega-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/affiliate-marketing-das-mega-bundle/"
+language: "de"
+---
 # Affiliate Marketing - Mega Bundle
 
 > Product ID `44016` · Digistore24 productId `498008` · [HTML profile page](../../produkte/affiliate-marketing-mega-bundle-44016.html)

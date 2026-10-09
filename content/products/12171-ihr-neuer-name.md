@@ -1,3 +1,24 @@
+---
+product_id: "12171"
+digistore24_product_id: 87093
+title: "IHR NEUER NAME"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.93
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Law & Justice"]
+listed_since: "2016-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-neuer-name/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-neuer-name/index.html"
+language: "de"
+---
 # IHR NEUER NAME
 
 > Product ID `12171` · Digistore24 productId `87093` · [HTML profile page](../../produkte/ihr-neuer-name-12171.html)

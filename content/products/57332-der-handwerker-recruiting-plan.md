@@ -1,3 +1,24 @@
+---
+product_id: "57332"
+digistore24_product_id: 706661
+title: "Der Handwerker-Recruiting-Plan"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan"
+language: "de"
+---
 # Der Handwerker-Recruiting-Plan
 
 > Product ID `57332` · Digistore24 productId `706661` · [HTML profile page](../../produkte/der-handwerker-recruiting-plan-57332.html)

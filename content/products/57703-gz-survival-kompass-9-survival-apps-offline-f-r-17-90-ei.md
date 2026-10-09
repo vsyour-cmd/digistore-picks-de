@@ -1,3 +1,24 @@
+---
+product_id: "57703"
+digistore24_product_id: 702688
+title: "GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 16.82
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/Survival-Kompass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/Survival-Kompass/"
+language: "de"
+---
 # GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei
 
 > Product ID `57703` · Digistore24 productId `702688` · [HTML profile page](../../produkte/gz-survival-kompass-9-survival-apps-offline-f-r-17-90-ei-57703.html)

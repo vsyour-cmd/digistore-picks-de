@@ -1,3 +1,24 @@
+---
+product_id: "58287"
+digistore24_product_id: 717833
+title: "Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 71.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 35.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/das-rauchfrei-stabilitaetspaket?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/das-rauchfrei-stabilitaetspaket"
+language: "de"
+---
 # Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi
 
 > Product ID `58287` · Digistore24 productId `717833` · [HTML profile page](../../produkte/rauchfrei-stabilit-tspaket-68-inhalt-f-r-39-50-provi-58287.html)

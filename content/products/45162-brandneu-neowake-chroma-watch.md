@@ -1,3 +1,24 @@
+---
+product_id: "45162"
+digistore24_product_id: 419952
+title: "Brandneu: neowake®Chroma Watch"
+vendor: "EnergeticTernity"
+product_type: "Deliverable"
+price: 284.01
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 108.44
+cart_conversion_pct: 8
+cancel_rate_pct: 2.29
+categories: ["Health & Fitness"]
+listed_since: "2021-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/419952?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/419952"
+language: "de"
+---
 # Brandneu: neowake®Chroma Watch
 
 > Product ID `45162` · Digistore24 productId `419952` · [HTML profile page](../../produkte/brandneu-neowake-chroma-watch-45162.html)

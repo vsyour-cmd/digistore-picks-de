@@ -1,3 +1,24 @@
+---
+product_id: "52695"
+digistore24_product_id: 609576
+title: "Affirmationskarten für Kinder – Digitaler Download"
+vendor: "veganundfrei"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development"]
+listed_since: "2025-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zeitzumfeiern.de/affirmationskarten-fuer-kinder/?aff=adminstore#aff=adminstore"
+sales_page: "https://zeitzumfeiern.de/affirmationskarten-fuer-kinder/"
+language: "de"
+---
 # Affirmationskarten für Kinder – Digitaler Download
 
 > Product ID `52695` · Digistore24 productId `609576` · [HTML profile page](../../produkte/affirmationskarten-f-r-kinder-digitaler-download-52695.html)

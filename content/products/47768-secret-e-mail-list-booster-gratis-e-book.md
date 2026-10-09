@@ -1,3 +1,24 @@
+---
+product_id: "47768"
+digistore24_product_id: 547986
+title: "Secret E-Mail List Booster (Gratis E-Book)"
+vendor: "webpirat"
+product_type: "E-books"
+price: 1.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.48
+cart_conversion_pct: 30
+cancel_rate_pct: 2.29
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/secret-e-mail-list-booster/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/secret-e-mail-list-booster/"
+language: "de"
+---
 # Secret E-Mail List Booster (Gratis E-Book)
 
 > Product ID `47768` · Digistore24 productId `547986` · [HTML profile page](../../produkte/secret-e-mail-list-booster-gratis-e-book-47768.html)

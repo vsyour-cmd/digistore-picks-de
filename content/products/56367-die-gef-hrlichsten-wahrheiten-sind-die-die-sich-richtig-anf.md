@@ -1,3 +1,24 @@
+---
+product_id: "56367"
+digistore24_product_id: 687847
+title: "DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF"
+vendor: "SabineBartl"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/687847?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687847"
+language: "de"
+---
 # DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF
 
 > Product ID `56367` · Digistore24 productId `687847` · [HTML profile page](../../produkte/die-gef-hrlichsten-wahrheiten-sind-die-die-sich-richtig-anf-56367.html)

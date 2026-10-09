@@ -1,3 +1,24 @@
+---
+product_id: "47020"
+digistore24_product_id: 21779
+title: "Neurostreams™ Flow trifft Genie"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.neurostreams.de/portfolio/im-flow/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.neurostreams.de/portfolio/im-flow/"
+language: "de"
+---
 # Neurostreams™ Flow trifft Genie
 
 > Product ID `47020` · Digistore24 productId `21779` · [HTML profile page](../../produkte/neurostreams-flow-trifft-genie-47020.html)

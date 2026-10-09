@@ -1,3 +1,24 @@
+---
+product_id: "56401"
+digistore24_product_id: 689162
+title: "Ebook - Das geheime Netzwerk der Meere"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Travel & Culture"]
+listed_since: "2026-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689162?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689162"
+language: "de"
+---
 # Ebook - Das geheime Netzwerk der Meere
 
 > Product ID `56401` · Digistore24 productId `689162` · [HTML profile page](../../produkte/ebook-das-geheime-netzwerk-der-meere-56401.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51123"
+digistore24_product_id: 433657
+title: "Selbstgeführte Stadtrallye Augsburg | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.12
+cart_conversion_pct: 11
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-augsburg/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-augsburg/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Augsburg | Hint-Caching
 
 > Product ID `51123` · Digistore24 productId `433657` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-augsburg-hint-caching-51123.html)

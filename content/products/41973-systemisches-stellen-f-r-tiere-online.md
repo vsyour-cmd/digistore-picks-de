@@ -1,3 +1,24 @@
+---
+product_id: "41973"
+digistore24_product_id: 389151
+title: "Systemisches Stellen für Tiere Online"
+vendor: "Andrea1A"
+product_type: "Member area and video courses"
+price: 438.98
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 109.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2021-05-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tierakademie.andrea-schaedel.de/lp/systemisches-tierstellen?aff=adminstore#aff=adminstore"
+sales_page: "https://tierakademie.andrea-schaedel.de/lp/systemisches-tierstellen"
+language: "de"
+---
 # Systemisches Stellen für Tiere Online
 
 > Product ID `41973` · Digistore24 productId `389151` · [HTML profile page](../../produkte/systemisches-stellen-f-r-tiere-online-41973.html)

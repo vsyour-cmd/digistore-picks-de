@@ -1,3 +1,24 @@
+---
+product_id: "53611"
+digistore24_product_id: 628818
+title: "Der Einsteigerkurs: Geld verdienen mit Social Media"
+vendor: "reneryllmarketing"
+product_type: "Member area and video courses"
+price: 72.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 28.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2025-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.reneryll.de/anleitung-ansehen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reneryll.de/anleitung-ansehen/"
+language: "de"
+---
 # Der Einsteigerkurs: Geld verdienen mit Social Media
 
 > Product ID `53611` · Digistore24 productId `628818` · [HTML profile page](../../produkte/der-einsteigerkurs-geld-verdienen-mit-social-media-53611.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55963"
+digistore24_product_id: 686387
+title: "Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)"
+vendor: "verwitwet-leben"
+product_type: "Online coaching"
+price: 41.13
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 66.66
+cart_conversion_pct: 18
+cancel_rate_pct: 0.45
+categories: ["Business & Investment","Education"]
+listed_since: "2025-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/?aff=adminstore#aff=adminstore"
+sales_page: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/"
+language: "de"
+---
 # Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)
 
 > Product ID `55963` · Digistore24 productId `686387` · [HTML profile page](../../produkte/individuelles-mentoring-zur-hinterbliebenenrente-60-min-55963.html)

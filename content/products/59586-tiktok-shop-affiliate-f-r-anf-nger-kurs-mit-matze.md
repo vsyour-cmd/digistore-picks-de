@@ -1,3 +1,24 @@
+---
+product_id: "59586"
+digistore24_product_id: 736413
+title: "TikTok Shop Affiliate für Anfänger – Kurs mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736413?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736413"
+language: "de"
+---
 # TikTok Shop Affiliate für Anfänger – Kurs mit Matze
 
 > Product ID `59586` · Digistore24 productId `736413` · [HTML profile page](../../produkte/tiktok-shop-affiliate-f-r-anf-nger-kurs-mit-matze-59586.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60376"
+digistore24_product_id: 742582
+title: "Adventskalender leicht gemacht – E-Book zum Ausdrucken"
+vendor: "ratgeberleichtgemacht"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742582?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742582"
+language: "de"
+---
 # Adventskalender leicht gemacht – E-Book zum Ausdrucken
 
 > Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../produkte/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)

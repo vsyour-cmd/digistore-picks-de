@@ -1,3 +1,24 @@
+---
+product_id: "57130"
+digistore24_product_id: 701812
+title: "Digitales Essen & Food Porn"
+vendor: "That-Clicks"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ebooks.that-clicks.de/buecher/digitales-essen-und-food-porn?aff=adminstore#aff=adminstore"
+sales_page: "https://ebooks.that-clicks.de/buecher/digitales-essen-und-food-porn"
+language: "de"
+---
 # Digitales Essen & Food Porn
 
 > Product ID `57130` · Digistore24 productId `701812` · [HTML profile page](../../produkte/digitales-essen-food-porn-57130.html)

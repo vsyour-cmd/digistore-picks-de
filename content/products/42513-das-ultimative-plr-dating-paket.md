@@ -1,3 +1,24 @@
+---
+product_id: "42513"
+digistore24_product_id: 142235
+title: "Das ultimative PLR Dating Paket"
+vendor: "DIEPRODUKTION"
+product_type: "Downloads"
+price: 205.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 102.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2017-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/142235?aff=adminstore"
+sales_page: "https://www.digistore24.com/redir/142235"
+language: "de"
+---
 # Das ultimative PLR Dating Paket
 
 > Product ID `42513` · Digistore24 productId `142235` · [HTML profile page](../../produkte/das-ultimative-plr-dating-paket-42513.html)

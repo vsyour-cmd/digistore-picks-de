@@ -1,3 +1,24 @@
+---
+product_id: "55701"
+digistore24_product_id: 516161
+title: "KI Flow"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 268.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 87.07
+cart_conversion_pct: 11
+cancel_rate_pct: 0.79
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2023-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kimate.de/flow/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kimate.de/flow/"
+language: "de"
+---
 # KI Flow
 
 > Product ID `55701` · Digistore24 productId `516161` · [HTML profile page](../../produkte/ki-flow-55701.html)

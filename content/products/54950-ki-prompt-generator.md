@@ -1,3 +1,24 @@
+---
+product_id: "54950"
+digistore24_product_id: 656123
+title: "KI Prompt Generator"
+vendor: "DaveCrypto"
+product_type: "Downloads"
+price: 8.46
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/656123?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/656123"
+language: "de"
+---
 # KI Prompt Generator
 
 > Product ID `54950` · Digistore24 productId `656123` · [HTML profile page](../../produkte/ki-prompt-generator-54950.html)

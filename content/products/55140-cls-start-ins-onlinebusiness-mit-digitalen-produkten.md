@@ -1,3 +1,24 @@
+---
+product_id: "55140"
+digistore24_product_id: 657175
+title: "CLS Start ins Onlinebusiness mit digitalen Produkten"
+vendor: "CleanLearn"
+product_type: "Member area and video courses"
+price: 2820
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 223.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Marketing Services"]
+listed_since: "2025-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.cleanlearn.de/startedeinonlinebusiness-dae8c16e?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cleanlearn.de/startedeinonlinebusiness-dae8c16e"
+language: "de"
+---
 # CLS Start ins Onlinebusiness mit digitalen Produkten
 
 > Product ID `55140` · Digistore24 productId `657175` · [HTML profile page](../../produkte/cls-start-ins-onlinebusiness-mit-digitalen-produkten-55140.html)

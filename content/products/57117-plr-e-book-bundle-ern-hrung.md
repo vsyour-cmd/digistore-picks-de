@@ -1,3 +1,24 @@
+---
+product_id: "57117"
+digistore24_product_id: 699700
+title: "PLR-E-Book-Bundle-Ernährung"
+vendor: "onlineratgeber24"
+product_type: "Member area and video courses"
+price: 222.6
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 43.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/"
+language: "de"
+---
 # PLR-E-Book-Bundle-Ernährung
 
 > Product ID `57117` · Digistore24 productId `699700` · [HTML profile page](../../produkte/plr-e-book-bundle-ern-hrung-57117.html)

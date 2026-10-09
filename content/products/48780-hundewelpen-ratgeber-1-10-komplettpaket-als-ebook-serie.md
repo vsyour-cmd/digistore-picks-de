@@ -1,3 +1,24 @@
+---
+product_id: "48780"
+digistore24_product_id: 555560
+title: "Hundewelpen-Ratgeber 1 - 10 (Komplettpaket als eBook-Serie)"
+vendor: "The_Lucky_Rebel"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hundewelpen-ratgeber.de/ratgeberpaket?aff=adminstore#aff=adminstore"
+sales_page: "https://hundewelpen-ratgeber.de/ratgeberpaket"
+language: "de"
+---
 # Hundewelpen-Ratgeber 1 - 10 (Komplettpaket als eBook-Serie)
 
 > Product ID `48780` · Digistore24 productId `555560` · [HTML profile page](../../produkte/hundewelpen-ratgeber-1-10-komplettpaket-als-ebook-serie-48780.html)

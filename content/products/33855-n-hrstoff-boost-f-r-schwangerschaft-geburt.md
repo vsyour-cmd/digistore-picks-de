@@ -1,3 +1,24 @@
+---
+product_id: "33855"
+digistore24_product_id: 331999
+title: "Nährstoff-Boost für Schwangerschaft & Geburt"
+vendor: "CleverMom"
+product_type: "E-books"
+price: 9.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://clevermom.de/schwangerschaft-naehstoffboost/?aff=adminstore#aff=adminstore"
+sales_page: "https://clevermom.de/schwangerschaft-naehstoffboost/"
+language: "de"
+---
 # Nährstoff-Boost für Schwangerschaft & Geburt
 
 > Product ID `33855` · Digistore24 productId `331999` · [HTML profile page](../../produkte/n-hrstoff-boost-f-r-schwangerschaft-geburt-33855.html)

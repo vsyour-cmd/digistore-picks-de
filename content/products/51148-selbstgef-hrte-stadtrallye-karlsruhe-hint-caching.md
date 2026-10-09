@@ -1,3 +1,24 @@
+---
+product_id: "51148"
+digistore24_product_id: 433660
+title: "Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 28.46
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.12
+cart_conversion_pct: 9
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-karlsruhe/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-karlsruhe/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching
 
 > Product ID `51148` · Digistore24 productId `433660` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-karlsruhe-hint-caching-51148.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56450"
+digistore24_product_id: 689835
+title: "Thumbnail Mastery"
+vendor: "Freifone"
+product_type: "E-books"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/thumbnail-mastery?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/thumbnail-mastery"
+language: "de"
+---
 # Thumbnail Mastery
 
 > Product ID `56450` · Digistore24 productId `689835` · [HTML profile page](../../produkte/thumbnail-mastery-56450.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58425"
+digistore24_product_id: 721582
+title: "Vom Konflikt zu mehr Verbindung"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/e-books/"
+language: "de"
+---
 # Vom Konflikt zu mehr Verbindung
 
 > Product ID `58425` · Digistore24 productId `721582` · [HTML profile page](../../produkte/vom-konflikt-zu-mehr-verbindung-58425.html)

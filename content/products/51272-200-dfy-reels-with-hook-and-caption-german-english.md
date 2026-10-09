@@ -1,3 +1,24 @@
+---
+product_id: "51272"
+digistore24_product_id: 594738
+title: "200 DFY Reels with Hook and Caption(German-English)"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 32.41
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 22.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/594738?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/594738"
+language: "de"
+---
 # 200 DFY Reels with Hook and Caption(German-English)
 
 > Product ID `51272` · Digistore24 productId `594738` · [HTML profile page](../../produkte/200-dfy-reels-with-hook-and-caption-german-english-51272.html)

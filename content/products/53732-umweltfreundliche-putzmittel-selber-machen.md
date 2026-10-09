@@ -1,3 +1,24 @@
+---
+product_id: "53732"
+digistore24_product_id: 525811
+title: "Umweltfreundliche Putzmittel selber machen"
+vendor: "Katharinaruehrt"
+product_type: "Member area and video courses"
+price: 69.55
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.28
+cart_conversion_pct: 8
+cancel_rate_pct: 1.54
+categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
+listed_since: "2023-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.katharinaruehrt.com/putzmittel-selber-machen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.katharinaruehrt.com/putzmittel-selber-machen"
+language: "de"
+---
 # Umweltfreundliche Putzmittel selber machen
 
 > Product ID `53732` · Digistore24 productId `525811` · [HTML profile page](../../produkte/umweltfreundliche-putzmittel-selber-machen-53732.html)

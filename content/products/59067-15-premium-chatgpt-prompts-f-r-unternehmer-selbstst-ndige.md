@@ -1,3 +1,24 @@
+---
+product_id: "59067"
+digistore24_product_id: 730823
+title: "15 Premium ChatGPT-Prompts für Unternehmer,Selbstständige"
+vendor: "norialo"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://norialo.de/product/chatgpt-prompts-fuer-unternehmer/?aff=adminstore#aff=adminstore"
+sales_page: "https://norialo.de/product/chatgpt-prompts-fuer-unternehmer/"
+language: "de"
+---
 # 15 Premium ChatGPT-Prompts für Unternehmer,Selbstständige
 
 > Product ID `59067` · Digistore24 productId `730823` · [HTML profile page](../../produkte/15-premium-chatgpt-prompts-f-r-unternehmer-selbstst-ndige-59067.html)

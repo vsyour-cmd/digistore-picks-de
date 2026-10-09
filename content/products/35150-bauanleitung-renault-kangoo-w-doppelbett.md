@@ -1,3 +1,24 @@
+---
+product_id: "35150"
+digistore24_product_id: 328645
+title: "Bauanleitung - Renault Kangoo W Doppelbett"
+vendor: "mobilesbett"
+product_type: "E-books"
+price: 30.26
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 11.95
+cart_conversion_pct: 1
+cancel_rate_pct: 3.32
+categories: ["Hobby & Craft"]
+listed_since: "2020-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mobiles-bett.de/renault-kangoo-w?aff=adminstore#aff=adminstore"
+sales_page: "https://mobiles-bett.de/renault-kangoo-w"
+language: "de"
+---
 # Bauanleitung - Renault Kangoo W Doppelbett
 
 > Product ID `35150` · Digistore24 productId `328645` · [HTML profile page](../../produkte/bauanleitung-renault-kangoo-w-doppelbett-35150.html)

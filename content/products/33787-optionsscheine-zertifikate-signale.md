@@ -1,3 +1,24 @@
+---
+product_id: "33787"
+digistore24_product_id: 264879
+title: "Optionsscheine & Zertifikate Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 207.58
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 64.06
+cart_conversion_pct: 6
+cancel_rate_pct: 8.42
+categories: ["Trading Products"]
+listed_since: "2019-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/knock-out-handelssignale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/knock-out-handelssignale/"
+language: "de"
+---
 # Optionsscheine & Zertifikate Signale
 
 > Product ID `33787` · Digistore24 productId `264879` · [HTML profile page](../../produkte/optionsscheine-zertifikate-signale-33787.html)

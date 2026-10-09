@@ -1,3 +1,24 @@
+---
+product_id: "57570"
+digistore24_product_id: 712420
+title: "BÜRO-STRUKTUR MIT KI - Das Copy u. Paste E-Book"
+vendor: "ErfolgsSpurSolutions"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 16.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Office Organization"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/712420?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/712420"
+language: "de"
+---
 # BÜRO-STRUKTUR MIT KI - Das Copy u. Paste E-Book
 
 > Product ID `57570` · Digistore24 productId `712420` · [HTML profile page](../../produkte/b-ro-struktur-mit-ki-das-copy-u-paste-e-book-57570.html)

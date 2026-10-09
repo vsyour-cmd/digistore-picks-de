@@ -1,3 +1,24 @@
+---
+product_id: "40004"
+digistore24_product_id: 442573
+title: "TikTok Geld Geheimnis"
+vendor: "CyrilCash"
+product_type: "E-books"
+price: 207.12
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 152.9
+cart_conversion_pct: 8
+cancel_rate_pct: 2.03
+categories: ["Social Media"]
+listed_since: "2022-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://social.business-kickstart.de/tgg/?aff=adminstore#aff=adminstore"
+sales_page: "https://social.business-kickstart.de/tgg/"
+language: "de"
+---
 # TikTok Geld Geheimnis
 
 > Product ID `40004` · Digistore24 productId `442573` · [HTML profile page](../../produkte/tiktok-geld-geheimnis-40004.html)

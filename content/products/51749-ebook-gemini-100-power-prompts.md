@@ -1,3 +1,24 @@
+---
+product_id: "51749"
+digistore24_product_id: 600996
+title: "eBook: Gemini - 100+ Power Prompts"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/gemini-100-power-prompts/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/gemini-100-power-prompts/"
+language: "de"
+---
 # eBook: Gemini - 100+ Power Prompts
 
 > Product ID `51749` · Digistore24 productId `600996` · [HTML profile page](../../produkte/ebook-gemini-100-power-prompts-51749.html)

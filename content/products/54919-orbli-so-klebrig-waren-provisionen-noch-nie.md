@@ -1,3 +1,24 @@
+---
+product_id: "54919"
+digistore24_product_id: 649949
+title: "Orbli – So klebrig waren Provisionen noch nie!"
+vendor: "Orbli-GmbH"
+product_type: "Remote service provided electronically"
+price: 408.29
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 122.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Marketing Services"]
+listed_since: "2025-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.orbli.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.orbli.de/"
+language: "de"
+---
 # Orbli – So klebrig waren Provisionen noch nie!
 
 > Product ID `54919` · Digistore24 productId `649949` · [HTML profile page](../../produkte/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html)

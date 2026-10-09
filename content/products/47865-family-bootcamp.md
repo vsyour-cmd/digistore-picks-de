@@ -1,3 +1,24 @@
+---
+product_id: "47865"
+digistore24_product_id: 530328
+title: "Family Bootcamp"
+vendor: "flavioni"
+product_type: "Online coaching"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 13.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Profession & Job"]
+listed_since: "2023-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/530328?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/530328"
+language: "de"
+---
 # Family Bootcamp
 
 > Product ID `47865` · Digistore24 productId `530328` · [HTML profile page](../../produkte/family-bootcamp-47865.html)

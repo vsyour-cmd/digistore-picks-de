@@ -1,3 +1,24 @@
+---
+product_id: "59699"
+digistore24_product_id: 649025
+title: "100 MedTech Master-Prompts für AI Act und MDR/IVDR"
+vendor: "MindshiftDigitalStudio"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/649025?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/649025"
+language: "de"
+---
 # 100 MedTech Master-Prompts für AI Act und MDR/IVDR
 
 > Product ID `59699` · Digistore24 productId `649025` · [HTML profile page](../../produkte/100-medtech-master-prompts-f-r-ai-act-und-mdr-ivdr-59699.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38143"
+digistore24_product_id: 280180
+title: "Paarungszeit - Erobert Eure Lust zurück!"
+vendor: "Kama44"
+product_type: "Downloads"
+price: 148.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 74.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2019-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.die-sexualitaet.de/paarungszeit-replay?aff=adminstore#aff=adminstore"
+sales_page: "https://www.die-sexualitaet.de/paarungszeit-replay"
+language: "de"
+---
 # Paarungszeit - Erobert Eure Lust zurück!
 
 > Product ID `38143` · Digistore24 productId `280180` · [HTML profile page](../../produkte/paarungszeit-erobert-eure-lust-zur-ck-38143.html)

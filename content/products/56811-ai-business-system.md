@@ -1,3 +1,24 @@
+---
+product_id: "56811"
+digistore24_product_id: 676251
+title: "AI- Business System™"
+vendor: "smartboostAI"
+product_type: "Member area and video courses"
+price: 941.88
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 470.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Services"]
+listed_since: "2026-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://ai-agent-business.com/ai-business-system?aff=adminstore#aff=adminstore"
+sales_page: "http://ai-agent-business.com/ai-business-system"
+language: "de"
+---
 # AI- Business System™
 
 > Product ID `56811` · Digistore24 productId `676251` · [HTML profile page](../../produkte/ai-business-system-56811.html)

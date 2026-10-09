@@ -1,3 +1,24 @@
+---
+product_id: "59639"
+digistore24_product_id: 734143
+title: "Windows 11 Komplettkurs für Einsteiger"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Software"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734143?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734143"
+language: "de"
+---
 # Windows 11 Komplettkurs für Einsteiger
 
 > Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../produkte/windows-11-komplettkurs-f-r-einsteiger-59639.html)

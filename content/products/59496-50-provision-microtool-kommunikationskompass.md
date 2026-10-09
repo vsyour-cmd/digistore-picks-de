@@ -1,3 +1,24 @@
+---
+product_id: "59496"
+digistore24_product_id: 735941
+title: "50% Provision: MicroTool KommunikationsKompass"
+vendor: "ralph70eb"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735941?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735941"
+language: "de"
+---
 # 50% Provision: MicroTool KommunikationsKompass
 
 > Product ID `59496` · Digistore24 productId `735941` · [HTML profile page](../../produkte/50-provision-microtool-kommunikationskompass-59496.html)

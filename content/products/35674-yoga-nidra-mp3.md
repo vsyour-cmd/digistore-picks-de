@@ -1,3 +1,24 @@
+---
+product_id: "35674"
+digistore24_product_id: 66237
+title: "Yoga Nidra MP3"
+vendor: "ReginaPotocnik"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2015-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.go-rosa.com/shop/yoga-nidra-mp3/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.go-rosa.com/shop/yoga-nidra-mp3/"
+language: "de"
+---
 # Yoga Nidra MP3
 
 > Product ID `35674` · Digistore24 productId `66237` · [HTML profile page](../../produkte/yoga-nidra-mp3-35674.html)

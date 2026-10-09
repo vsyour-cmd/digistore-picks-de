@@ -1,3 +1,24 @@
+---
+product_id: "52282"
+digistore24_product_id: 607734
+title: "Mini Krafttraining - Maxi Hundespaß"
+vendor: "Lauf-Stall"
+product_type: "Downloads"
+price: 16.91
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/607734?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/607734"
+language: "de"
+---
 # Mini Krafttraining - Maxi Hundespaß
 
 > Product ID `52282` · Digistore24 productId `607734` · [HTML profile page](../../produkte/mini-krafttraining-maxi-hundespa-52282.html)

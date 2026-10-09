@@ -1,3 +1,24 @@
+---
+product_id: "45040"
+digistore24_product_id: 495580
+title: "ChatGPT - Daily Prompts"
+vendor: "sattelitevendor"
+product_type: "Remote service provided electronically"
+price: 224.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.33
+cart_conversion_pct: 8
+cancel_rate_pct: 2.13
+categories: ["Online Marketing & E-Business","Profession & Job","Online Marketing"]
+listed_since: "2023-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.aiinzider.com/daily-prompts/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aiinzider.com/daily-prompts/"
+language: "de"
+---
 # ChatGPT - Daily Prompts
 
 > Product ID `45040` · Digistore24 productId `495580` · [HTML profile page](../../produkte/chatgpt-daily-prompts-45040.html)

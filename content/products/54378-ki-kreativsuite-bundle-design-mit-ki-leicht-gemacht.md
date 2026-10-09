@@ -1,3 +1,24 @@
+---
+product_id: "54378"
+digistore24_product_id: 641150
+title: "KI-KreativSuite Bundle – Design mit KI leicht gemacht"
+vendor: "Vires-Systems"
+product_type: "Software"
+price: 84.54
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 16.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/641150?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/641150"
+language: "de"
+---
 # KI-KreativSuite Bundle – Design mit KI leicht gemacht
 
 > Product ID `54378` · Digistore24 productId `641150` · [HTML profile page](../../produkte/ki-kreativsuite-bundle-design-mit-ki-leicht-gemacht-54378.html)

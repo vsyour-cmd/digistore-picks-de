@@ -1,3 +1,24 @@
+---
+product_id: "35733"
+digistore24_product_id: 373521
+title: "Wie glänze ich in Interviews?"
+vendor: "stumpfine"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://petrastumpf.at/?aff=adminstore#aff=adminstore"
+sales_page: "https://petrastumpf.at/"
+language: "de"
+---
 # Wie glänze ich in Interviews?
 
 > Product ID `35733` · Digistore24 productId `373521` · [HTML profile page](../../produkte/wie-gl-nze-ich-in-interviews-35733.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41740"
+digistore24_product_id: 468511
+title: "Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst"
+vendor: "Spekulatius"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 4.23
+cart_conversion_pct: 33
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT"
+language: "de"
+---
 # Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst
 
 > Product ID `41740` · Digistore24 productId `468511` · [HTML profile page](../../produkte/affiliate-marketing-wie-du-ohne-eigene-waren-geld-verdienst-41740.html)

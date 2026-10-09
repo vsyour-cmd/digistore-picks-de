@@ -1,3 +1,24 @@
+---
+product_id: "56458"
+digistore24_product_id: 688847
+title: "Mathematik: Grössen, Geometrie, Daten"
+vendor: "Mathecloud"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 54.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://academy.e-ducation.cloud/course/groessen-geometrie-und-daten?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.e-ducation.cloud/course/groessen-geometrie-und-daten"
+language: "de"
+---
 # Mathematik: Grössen, Geometrie, Daten
 
 > Product ID `56458` · Digistore24 productId `688847` · [HTML profile page](../../produkte/mathematik-gr-ssen-geometrie-daten-56458.html)

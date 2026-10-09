@@ -1,3 +1,24 @@
+---
+product_id: "9399"
+digistore24_product_id: 57475
+title: "Videokurs Energiebild malen \"Level 1 - Die Blume des Lebens\""
+vendor: "RaulFalco"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 19.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2015-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/?aff=adminstore#aff=adminstore"
+sales_page: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/"
+language: "de"
+---
 # Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"
 
 > Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../produkte/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)

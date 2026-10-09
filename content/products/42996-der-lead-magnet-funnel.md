@@ -1,3 +1,24 @@
+---
+product_id: "42996"
+digistore24_product_id: 488388
+title: "Der Lead Magnet Funnel"
+vendor: "iliasmak"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2023-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.ilias-marketing.de/der-lead-magnet-funnel/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/der-lead-magnet-funnel/"
+language: "de"
+---
 # Der Lead Magnet Funnel
 
 > Product ID `42996` · Digistore24 productId `488388` · [HTML profile page](../../produkte/der-lead-magnet-funnel-42996.html)

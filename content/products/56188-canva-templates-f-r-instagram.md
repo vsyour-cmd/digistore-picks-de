@@ -1,3 +1,24 @@
+---
+product_id: "56188"
+digistore24_product_id: 682474
+title: "Canva Templates für Instagram"
+vendor: "momentwelt"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://marketingatelier.online/templates/?aff=adminstore#aff=adminstore"
+sales_page: "https://marketingatelier.online/templates/"
+language: "de"
+---
 # Canva Templates für Instagram
 
 > Product ID `56188` · Digistore24 productId `682474` · [HTML profile page](../../produkte/canva-templates-f-r-instagram-56188.html)

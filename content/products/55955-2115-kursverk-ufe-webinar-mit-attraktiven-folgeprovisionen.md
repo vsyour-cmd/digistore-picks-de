@@ -1,3 +1,24 @@
+---
+product_id: "55955"
+digistore24_product_id: 662545
+title: "2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.85
+cart_conversion_pct: 35
+cancel_rate_pct: 1.34
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyehamsterrad.de/masterclass-2115/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/masterclass-2115/"
+language: "de"
+---
 # 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen
 
 > Product ID `55955` · Digistore24 productId `662545` · [HTML profile page](../../produkte/2115-kursverk-ufe-webinar-mit-attraktiven-folgeprovisionen-55955.html)

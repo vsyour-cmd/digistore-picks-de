@@ -1,3 +1,24 @@
+---
+product_id: "54233"
+digistore24_product_id: 639110
+title: "Digitale Identität und CBDCs – Der stille Umbau der Freiheit"
+vendor: "vkomjagin"
+product_type: "E-books"
+price: 10.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2025-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/639110?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639110"
+language: "de"
+---
 # Digitale Identität und CBDCs – Der stille Umbau der Freiheit
 
 > Product ID `54233` · Digistore24 productId `639110` · [HTML profile page](../../produkte/digitale-identit-t-und-cbdcs-der-stille-umbau-der-freiheit-54233.html)

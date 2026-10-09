@@ -1,3 +1,24 @@
+---
+product_id: "55237"
+digistore24_product_id: 662440
+title: "GirlsMoney new checkout"
+vendor: "IGCLOSE"
+product_type: "Downloads"
+price: 40.42
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2026-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/662440?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/662440"
+language: "de"
+---
 # GirlsMoney new checkout
 
 > Product ID `55237` · Digistore24 productId `662440` · [HTML profile page](../../produkte/girlsmoney-new-checkout-55237.html)

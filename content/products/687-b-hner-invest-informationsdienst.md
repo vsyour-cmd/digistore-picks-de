@@ -1,3 +1,24 @@
+---
+product_id: "687"
+digistore24_product_id: 12187
+title: "Bühner Invest Informationsdienst"
+vendor: "agebue"
+product_type: "Downloads"
+price: 375.06
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 131.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2013-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://buehner-invest.com?aff=adminstore#aff=adminstore"
+sales_page: "http://buehner-invest.com"
+language: "de"
+---
 # Bühner Invest Informationsdienst
 
 > Product ID `687` · Digistore24 productId `12187` · [HTML profile page](../../produkte/b-hner-invest-informationsdienst-687.html)

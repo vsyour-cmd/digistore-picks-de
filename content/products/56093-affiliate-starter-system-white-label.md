@@ -1,3 +1,24 @@
+---
+product_id: "56093"
+digistore24_product_id: 676679
+title: "Affiliate Starter System (White-Label)"
+vendor: "MachtundNussbaumGbR"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.imhub.de/lp/affiliatestartersystem?aff=adminstore#aff=adminstore"
+sales_page: "https://www.imhub.de/lp/affiliatestartersystem"
+language: "de"
+---
 # Affiliate Starter System (White-Label)
 
 > Product ID `56093` · Digistore24 productId `676679` · [HTML profile page](../../produkte/affiliate-starter-system-white-label-56093.html)

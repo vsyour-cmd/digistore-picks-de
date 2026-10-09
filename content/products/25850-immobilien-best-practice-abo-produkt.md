@@ -1,3 +1,24 @@
+---
+product_id: "25850"
+digistore24_product_id: 232841
+title: "Immobilien Best Practice - Abo-Produkt"
+vendor: "Jederkannimmobilien"
+product_type: "Member area and video courses"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 5.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2018-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.jeder-kann-immobilien.de/v/immobilien-best-practice/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jeder-kann-immobilien.de/v/immobilien-best-practice/"
+language: "de"
+---
 # Immobilien Best Practice - Abo-Produkt
 
 > Product ID `25850` · Digistore24 productId `232841` · [HTML profile page](../../produkte/immobilien-best-practice-abo-produkt-25850.html)

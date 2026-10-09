@@ -1,3 +1,24 @@
+---
+product_id: "37090"
+digistore24_product_id: 396921
+title: "E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung"
+vendor: "Uwi2016"
+product_type: "E-books"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 8.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2021-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mhs-4-you.com/entgiftungsplan?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mhs-4-you.com/entgiftungsplan"
+language: "de"
+---
 # E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung
 
 > Product ID `37090` · Digistore24 productId `396921` · [HTML profile page](../../produkte/e-book-zur-entgiftung-selbstheilung-gesundheit-ern-hrung-37090.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50235"
+digistore24_product_id: 722700
+title: "Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 301.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 150.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/722700?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/722700"
+language: "de"
+---
 # Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs
 
 > Product ID `50235` · Digistore24 productId `722700` · [HTML profile page](../../produkte/das-vergessene-organ-exokrine-pankreasinsuffizienz-kurs-50235.html)

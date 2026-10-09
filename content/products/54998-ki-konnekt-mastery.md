@@ -1,3 +1,24 @@
+---
+product_id: "54998"
+digistore24_product_id: 654019
+title: "KI Konnekt - Mastery"
+vendor: "jan133"
+product_type: "Member area and video courses"
+price: 115.62
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 57.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ki-konnekt.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ki-konnekt.com/"
+language: "de"
+---
 # KI Konnekt - Mastery
 
 > Product ID `54998` · Digistore24 productId `654019` · [HTML profile page](../../produkte/ki-konnekt-mastery-54998.html)

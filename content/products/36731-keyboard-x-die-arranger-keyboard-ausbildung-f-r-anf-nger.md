@@ -1,3 +1,24 @@
+---
+product_id: "36731"
+digistore24_product_id: 12411
+title: "KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger"
+vendor: "doormaker"
+product_type: "Member area and video courses"
+price: 1218.24
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 609.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2013-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://www.onlinemusikschule.info/keyboard-spielen-lernen?aff=adminstore#aff=adminstore"
+sales_page: "http://www.onlinemusikschule.info/keyboard-spielen-lernen"
+language: "de"
+---
 # KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger
 
 > Product ID `36731` · Digistore24 productId `12411` · [HTML profile page](../../produkte/keyboard-x-die-arranger-keyboard-ausbildung-f-r-anf-nger-36731.html)

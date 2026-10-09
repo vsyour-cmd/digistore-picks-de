@@ -1,3 +1,24 @@
+---
+product_id: "37643"
+digistore24_product_id: 349840
+title: "Verkaufen mit Herz"
+vendor: "ThomasHammer"
+product_type: "Book (printed)"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.verkaufenmitherzthomas.de/buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.verkaufenmitherzthomas.de/buch"
+language: "de"
+---
 # Verkaufen mit Herz
 
 > Product ID `37643` · Digistore24 productId `349840` · [HTML profile page](../../produkte/verkaufen-mit-herz-37643.html)

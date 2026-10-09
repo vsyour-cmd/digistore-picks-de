@@ -1,3 +1,24 @@
+---
+product_id: "58920"
+digistore24_product_id: 729747
+title: "Feine Antennen – Hochsensibilität verstehen"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Leadership & Management","Personal Development"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729747?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729747"
+language: "de"
+---
 # Feine Antennen – Hochsensibilität verstehen
 
 > Product ID `58920` · Digistore24 productId `729747` · [HTML profile page](../../produkte/feine-antennen-hochsensibilit-t-verstehen-58920.html)

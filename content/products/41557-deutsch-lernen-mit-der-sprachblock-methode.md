@@ -1,3 +1,24 @@
+---
+product_id: "41557"
+digistore24_product_id: 312567
+title: "Deutsch lernen mit der Sprachblock-Methode"
+vendor: "Sprachheld"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2020-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sprachheld.de/deutsch-challenge-deu/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sprachheld.de/deutsch-challenge-deu/"
+language: "de"
+---
 # Deutsch lernen mit der Sprachblock-Methode
 
 > Product ID `41557` · Digistore24 productId `312567` · [HTML profile page](../../produkte/deutsch-lernen-mit-der-sprachblock-methode-41557.html)

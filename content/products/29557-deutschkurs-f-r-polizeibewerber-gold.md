@@ -1,3 +1,24 @@
+---
+product_id: "29557"
+digistore24_product_id: 346980
+title: "Deutschkurs für Polizeibewerber - Gold"
+vendor: "master-your-life"
+product_type: "Member area and video courses"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 233.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.master-your-police-german.ch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.master-your-police-german.ch"
+language: "de"
+---
 # Deutschkurs für Polizeibewerber - Gold
 
 > Product ID `29557` · Digistore24 productId `346980` · [HTML profile page](../../produkte/deutschkurs-f-r-polizeibewerber-gold-29557.html)

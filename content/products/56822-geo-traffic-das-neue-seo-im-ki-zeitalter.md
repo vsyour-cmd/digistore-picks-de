@@ -1,3 +1,24 @@
+---
+product_id: "56822"
+digistore24_product_id: 698057
+title: "GEO Traffic - Das neue SEO im KI-Zeitalter"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 55.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/?page_id=8273&preview=true&aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/?page_id=8273&preview=true"
+language: "de"
+---
 # GEO Traffic - Das neue SEO im KI-Zeitalter
 
 > Product ID `56822` · Digistore24 productId `698057` · [HTML profile page](../../produkte/geo-traffic-das-neue-seo-im-ki-zeitalter-56822.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52881"
+digistore24_product_id: 610784
+title: "Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern"
+vendor: "ChannelingKongress"
+product_type: "Member area and video courses"
+price: 168.83
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 52.59
+cart_conversion_pct: 12
+cancel_rate_pct: 1.07
+categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore"
+sales_page: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/"
+language: "de"
+---
 # Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
 
 > Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../produkte/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)

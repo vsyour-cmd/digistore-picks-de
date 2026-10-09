@@ -1,3 +1,24 @@
+---
+product_id: "58898"
+digistore24_product_id: 728480
+title: "50 % Provision: RESONANZ Praxisguide Online-Reputation"
+vendor: "firmenresonanz"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://resonanz.firmenresonanz.de?aff=adminstore#aff=adminstore"
+sales_page: "https://resonanz.firmenresonanz.de"
+language: "de"
+---
 # 50 % Provision: RESONANZ Praxisguide Online-Reputation
 
 > Product ID `58898` · Digistore24 productId `728480` · [HTML profile page](../../produkte/50-provision-resonanz-praxisguide-online-reputation-58898.html)

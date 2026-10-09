@@ -1,3 +1,24 @@
+---
+product_id: "25491"
+digistore24_product_id: 230707
+title: "Flugfunkkurs BZF I Online-Kurs (Live)"
+vendor: "Fluglehrer"
+product_type: "Online coaching"
+price: 198.91
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.34
+cart_conversion_pct: 21
+cancel_rate_pct: 1.55
+categories: ["Education"]
+listed_since: "2018-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en?aff=adminstore#aff=adminstore"
+sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en"
+language: "de"
+---
 # Flugfunkkurs BZF I Online-Kurs (Live)
 
 > Product ID `25491` · Digistore24 productId `230707` · [HTML profile page](../../produkte/flugfunkkurs-bzf-i-online-kurs-live-25491.html)

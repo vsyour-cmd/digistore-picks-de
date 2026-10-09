@@ -1,3 +1,24 @@
+---
+product_id: "23043"
+digistore24_product_id: 205801
+title: "Pentatonik-Workshop (Videokurs für Gitarristen)"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 101.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 23.88
+cart_conversion_pct: 17
+cancel_rate_pct: 2.66
+categories: ["Dancing & Music"]
+listed_since: "2018-03-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gitarrenvideounterricht.de/kurse/pentatonik/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gitarrenvideounterricht.de/kurse/pentatonik/"
+language: "de"
+---
 # Pentatonik-Workshop (Videokurs für Gitarristen)
 
 > Product ID `23043` · Digistore24 productId `205801` · [HTML profile page](../../produkte/pentatonik-workshop-videokurs-f-r-gitarristen-23043.html)

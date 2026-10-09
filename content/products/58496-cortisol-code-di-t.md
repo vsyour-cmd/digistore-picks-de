@@ -1,3 +1,24 @@
+---
+product_id: "58496"
+digistore24_product_id: 723860
+title: "Cortisol-Code-Diät"
+vendor: "mutpunkt-pro"
+product_type: "Member area and video courses"
+price: 12.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Health & Fitness"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/723860?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/723860"
+language: "de"
+---
 # Cortisol-Code-Diät
 
 > Product ID `58496` · Digistore24 productId `723860` · [HTML profile page](../../produkte/cortisol-code-di-t-58496.html)

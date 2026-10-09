@@ -1,3 +1,24 @@
+---
+product_id: "18241"
+digistore24_product_id: 150669
+title: "Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)"
+vendor: "lighthouse"
+product_type: "Downloads"
+price: 85.91
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 39.98
+cart_conversion_pct: 12
+cancel_rate_pct: 3.49
+categories: ["Education"]
+listed_since: "2017-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore"
+sales_page: "http://nageldesign-online-ausbildung.de"
+language: "de"
+---
 # Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)
 
 > Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../produkte/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)

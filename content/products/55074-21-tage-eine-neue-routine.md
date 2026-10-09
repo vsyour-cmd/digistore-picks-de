@@ -1,3 +1,24 @@
+---
+product_id: "55074"
+digistore24_product_id: 658216
+title: "21 Tage Eine neue Routine"
+vendor: "Niux489"
+product_type: "Downloads"
+price: 26.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-12-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://niux.my.canva.site/21-tage-eine-neue-routine?aff=adminstore#aff=adminstore"
+sales_page: "https://niux.my.canva.site/21-tage-eine-neue-routine"
+language: "de"
+---
 # 21 Tage Eine neue Routine
 
 > Product ID `55074` · Digistore24 productId `658216` · [HTML profile page](../../produkte/21-tage-eine-neue-routine-55074.html)

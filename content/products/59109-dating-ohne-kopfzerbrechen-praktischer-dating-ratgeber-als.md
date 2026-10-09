@@ -1,3 +1,24 @@
+---
+product_id: "59109"
+digistore24_product_id: 731017
+title: "Dating ohne Kopfzerbrechen – Praktischer Dating-Ratgeber als"
+vendor: "baerkevin89dd3b"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/731017?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731017"
+language: "de"
+---
 # Dating ohne Kopfzerbrechen – Praktischer Dating-Ratgeber als
 
 > Product ID `59109` · Digistore24 productId `731017` · [HTML profile page](../../produkte/dating-ohne-kopfzerbrechen-praktischer-dating-ratgeber-als-59109.html)

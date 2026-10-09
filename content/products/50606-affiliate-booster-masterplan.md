@@ -1,3 +1,24 @@
+---
+product_id: "50606"
+digistore24_product_id: 583879
+title: "Affiliate Booster Masterplan"
+vendor: "Brauerbursch"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-12-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/mQuAQJFXMnpvXRFtx?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/mQuAQJFXMnpvXRFtx"
+language: "de"
+---
 # Affiliate Booster Masterplan
 
 > Product ID `50606` · Digistore24 productId `583879` · [HTML profile page](../../produkte/affiliate-booster-masterplan-50606.html)

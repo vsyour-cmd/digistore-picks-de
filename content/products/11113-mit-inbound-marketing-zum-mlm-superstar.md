@@ -1,3 +1,24 @@
+---
+product_id: "11113"
+digistore24_product_id: 71693
+title: "Mit Inbound-Marketing zum MLM-Superstar"
+vendor: "insidertipp"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 50.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2016-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://mlm-inboundprofi.de/vk2/?aff=adminstore#aff=adminstore"
+sales_page: "http://mlm-inboundprofi.de/vk2/"
+language: "de"
+---
 # Mit Inbound-Marketing zum MLM-Superstar
 
 > Product ID `11113` · Digistore24 productId `71693` · [HTML profile page](../../produkte/mit-inbound-marketing-zum-mlm-superstar-11113.html)

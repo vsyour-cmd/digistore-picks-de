@@ -1,3 +1,24 @@
+---
+product_id: "56656"
+digistore24_product_id: 694518
+title: "Kollaps mit Ansage – Warum unser System ins Wanken gerät"
+vendor: "PERSOFIT"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Politics & Economy"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694518?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694518"
+language: "de"
+---
 # Kollaps mit Ansage – Warum unser System ins Wanken gerät
 
 > Product ID `56656` · Digistore24 productId `694518` · [HTML profile page](../../produkte/kollaps-mit-ansage-warum-unser-system-ins-wanken-ger-t-56656.html)

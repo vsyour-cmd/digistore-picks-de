@@ -1,3 +1,24 @@
+---
+product_id: "58631"
+digistore24_product_id: 724354
+title: "ContentPlan 30"
+vendor: "rs-onlineagentur"
+product_type: "Software"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724354?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724354"
+language: "de"
+---
 # ContentPlan 30
 
 > Product ID `58631` · Digistore24 productId `724354` · [HTML profile page](../../produkte/contentplan-30-58631.html)

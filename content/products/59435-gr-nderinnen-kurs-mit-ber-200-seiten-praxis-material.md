@@ -1,3 +1,24 @@
+---
+product_id: "59435"
+digistore24_product_id: 735383
+title: "Gründerinnen-Kurs mit über 200 Seiten Praxis-Material"
+vendor: "infoacca0"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 16.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/?aff=adminstore#aff=adminstore"
+sales_page: "https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/"
+language: "de"
+---
 # Gründerinnen-Kurs mit über 200 Seiten Praxis-Material
 
 > Product ID `59435` · Digistore24 productId `735383` · [HTML profile page](../../produkte/gr-nderinnen-kurs-mit-ber-200-seiten-praxis-material-59435.html)

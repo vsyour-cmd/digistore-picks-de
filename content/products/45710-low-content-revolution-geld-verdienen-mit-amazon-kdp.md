@@ -1,3 +1,24 @@
+---
+product_id: "45710"
+digistore24_product_id: 513325
+title: "Low Content Revolution - Geld verdienen mit Amazon KDP"
+vendor: "nomadpublishing"
+product_type: "Member area and video courses"
+price: 1199.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 251.95
+cart_conversion_pct: 8
+cancel_rate_pct: 10.93
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2023-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lowcontent.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://lowcontent.de/"
+language: "de"
+---
 # Low Content Revolution - Geld verdienen mit Amazon KDP
 
 > Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../produkte/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)

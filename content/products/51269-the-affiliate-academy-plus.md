@@ -1,3 +1,24 @@
+---
+product_id: "51269"
+digistore24_product_id: 583562
+title: "The Affiliate Academy Plus"
+vendor: "marketingmarko"
+product_type: "Member area and video courses"
+price: 376
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 120.39
+cart_conversion_pct: 3
+cancel_rate_pct: 9.28
+categories: ["Business & Investment","Social Media"]
+listed_since: "2024-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.theaffiliateacademy.de/taaplus+/"
+language: "de"
+---
 # The Affiliate Academy Plus
 
 > Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../produkte/the-affiliate-academy-plus-51269.html)

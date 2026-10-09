@@ -1,3 +1,24 @@
+---
+product_id: "57697"
+digistore24_product_id: 714186
+title: "Wiederkehrende Provision mit der Platin-Mitgliedschaft"
+vendor: "MSFS_2218"
+product_type: "Member area and video courses"
+price: 469.06
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 70.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://byebyehamsterrad.de/platin-mitgliedschaft/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyehamsterrad.de/platin-mitgliedschaft/"
+language: "de"
+---
 # Wiederkehrende Provision mit der Platin-Mitgliedschaft
 
 > Product ID `57697` · Digistore24 productId `714186` · [HTML profile page](../../produkte/wiederkehrende-provision-mit-der-platin-mitgliedschaft-57697.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43415"
+digistore24_product_id: 220553
+title: "Magnetmotor fertig kaufen Komplettpaket 2026 -275€ Provision"
+vendor: "deinwissen"
+product_type: "Downloads"
+price: 35.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.9
+cart_conversion_pct: 3
+cancel_rate_pct: 7.97
+categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
+listed_since: "2018-05-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://magnetmotor4u.funnelcockpit.com/magnetmotor-kaufen/?aff=adminstore#aff=adminstore"
+sales_page: "https://magnetmotor4u.funnelcockpit.com/magnetmotor-kaufen/"
+language: "de"
+---
 # Magnetmotor fertig kaufen Komplettpaket 2026 -275€ Provision
 
 > Product ID `43415` · Digistore24 productId `220553` · [HTML profile page](../../produkte/magnetmotor-fertig-kaufen-komplettpaket-2026-275-provision-43415.html)

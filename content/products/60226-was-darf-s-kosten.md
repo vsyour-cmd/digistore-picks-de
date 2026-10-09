@@ -1,3 +1,24 @@
+---
+product_id: "60226"
+digistore24_product_id: 742563
+title: "Was darf´s kosten?"
+vendor: "businessdesignrocks"
+product_type: "Member area and video courses"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 21.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742563?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742563"
+language: "de"
+---
 # Was darf´s kosten?
 
 > Product ID `60226` · Digistore24 productId `742563` · [HTML profile page](../../produkte/was-darf-s-kosten-60226.html)

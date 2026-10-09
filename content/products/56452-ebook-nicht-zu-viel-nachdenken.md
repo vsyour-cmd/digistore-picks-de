@@ -1,3 +1,24 @@
+---
+product_id: "56452"
+digistore24_product_id: 689859
+title: "Ebook - Nicht zu viel nachdenken"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689859?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689859"
+language: "de"
+---
 # Ebook - Nicht zu viel nachdenken
 
 > Product ID `56452` · Digistore24 productId `689859` · [HTML profile page](../../produkte/ebook-nicht-zu-viel-nachdenken-56452.html)

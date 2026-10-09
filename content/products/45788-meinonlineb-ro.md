@@ -1,3 +1,24 @@
+---
+product_id: "45788"
+digistore24_product_id: 99407
+title: "meinOnlineBüro"
+vendor: "rbirgmeier"
+product_type: "Remote service provided electronically"
+price: 783.02
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 313.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2016-10-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.meinonlinebuero.de/features-und-preise-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinonlinebuero.de/features-und-preise-3/"
+language: "de"
+---
 # meinOnlineBüro
 
 > Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../produkte/meinonlineb-ro-45788.html)

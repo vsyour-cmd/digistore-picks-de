@@ -1,3 +1,24 @@
+---
+product_id: "28955"
+digistore24_product_id: 269463
+title: "Digitale Dominanz Buch - 5€ Provision"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2019-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/269463/adminstore"
+sales_page: "https://www.die-contra.de/digitale-dominanz-buch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
+language: "de"
+---
 # Digitale Dominanz Buch - 5€ Provision
 
 > Product ID `28955` · Digistore24 productId `269463` · [HTML profile page](../../produkte/digitale-dominanz-buch-5-provision-28955.html)

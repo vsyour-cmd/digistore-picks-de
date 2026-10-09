@@ -1,3 +1,24 @@
+---
+product_id: "38504"
+digistore24_product_id: 368033
+title: "Liebeskummer stoppen | Hypnose Audio"
+vendor: "HypnoseC"
+product_type: "Downloads"
+price: 24.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://rdmmdl.wixsite.com/liebeskummer-stoppen?aff=adminstore#aff=adminstore"
+sales_page: "https://rdmmdl.wixsite.com/liebeskummer-stoppen"
+language: "de"
+---
 # Liebeskummer stoppen | Hypnose Audio
 
 > Product ID `38504` · Digistore24 productId `368033` · [HTML profile page](../../produkte/liebeskummer-stoppen-hypnose-audio-38504.html)

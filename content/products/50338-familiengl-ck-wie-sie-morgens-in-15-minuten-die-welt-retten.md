@@ -1,3 +1,24 @@
+---
+product_id: "50338"
+digistore24_product_id: 577855
+title: "Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!"
+vendor: "AndreaHeinemannDigital"
+product_type: "E-books"
+price: 6.7
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/577855?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/577855"
+language: "de"
+---
 # Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!
 
 > Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../produkte/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)

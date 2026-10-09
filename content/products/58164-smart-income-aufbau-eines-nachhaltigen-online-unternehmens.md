@@ -1,3 +1,24 @@
+---
+product_id: "58164"
+digistore24_product_id: 717957
+title: "SMART INCOME, Aufbau eines nachhaltigen online Unternehmens"
+vendor: "Simex20"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
+listed_since: "2026-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/717957?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717957"
+language: "de"
+---
 # SMART INCOME, Aufbau eines nachhaltigen online Unternehmens
 
 > Product ID `58164` · Digistore24 productId `717957` · [HTML profile page](../../produkte/smart-income-aufbau-eines-nachhaltigen-online-unternehmens-58164.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55626"
+digistore24_product_id: 669162
+title: "Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni"
+vendor: "MadrigenumVerlag"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/?aff=adminstore#aff=adminstore"
+sales_page: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/"
+language: "de"
+---
 # Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni
 
 > Product ID `55626` · Digistore24 productId `669162` · [HTML profile page](../../produkte/vom-ersten-segen-bis-zum-letzten-geleit-6-reden-3-boni-55626.html)

@@ -1,3 +1,24 @@
+---
+product_id: "35509"
+digistore24_product_id: 368076
+title: "Reflux Sodbrennen - Das Buch"
+vendor: "partner17"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 5.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.reflux-kliniken.de/das_buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reflux-kliniken.de/das_buch/"
+language: "de"
+---
 # Reflux Sodbrennen - Das Buch
 
 > Product ID `35509` · Digistore24 productId `368076` · [HTML profile page](../../produkte/reflux-sodbrennen-das-buch-35509.html)

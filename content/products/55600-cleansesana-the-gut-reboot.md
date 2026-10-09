@@ -1,3 +1,24 @@
+---
+product_id: "55600"
+digistore24_product_id: 665412
+title: "CleanseSana: The Gut \"Reboot\""
+vendor: "DS24-MySana"
+product_type: "Supplements - health"
+price: 158.34
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 106.57
+cart_conversion_pct: 19
+cancel_rate_pct: 5.15
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cleansesana.com/cleansesana-pdp-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://cleansesana.com/cleansesana-pdp-fe"
+language: "de"
+---
 # CleanseSana: The Gut "Reboot"
 
 > Product ID `55600` · Digistore24 productId `665412` · [HTML profile page](../../produkte/cleansesana-the-gut-reboot-55600.html)

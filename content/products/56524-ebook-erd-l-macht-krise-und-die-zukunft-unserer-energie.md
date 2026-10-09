@@ -1,3 +1,24 @@
+---
+product_id: "56524"
+digistore24_product_id: 692340
+title: "Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Politics & Economy"]
+listed_since: "2026-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/692340?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/692340"
+language: "de"
+---
 # Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie
 
 > Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../produkte/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)

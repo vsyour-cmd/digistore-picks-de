@@ -1,3 +1,24 @@
+---
+product_id: "48988"
+digistore24_product_id: 659619
+title: "Pain Zero - Verspannungskopfschmerzen in den Griff kriegen"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 301.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 94.6
+cart_conversion_pct: 5
+cancel_rate_pct: 5.63
+categories: ["Health & Fitness","Sport"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/659619?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/659619"
+language: "de"
+---
 # Pain Zero - Verspannungskopfschmerzen in den Griff kriegen
 
 > Product ID `48988` · Digistore24 productId `659619` · [HTML profile page](../../produkte/pain-zero-verspannungskopfschmerzen-in-den-griff-kriegen-48988.html)

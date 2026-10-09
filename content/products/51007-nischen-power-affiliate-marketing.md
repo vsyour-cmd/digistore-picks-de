@@ -1,3 +1,24 @@
+---
+product_id: "51007"
+digistore24_product_id: 590936
+title: "Nischen-Power Affiliate Marketing"
+vendor: "CashUnity"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.22
+cart_conversion_pct: 41
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2025-01-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cash-unity.de/nischenpower/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cash-unity.de/nischenpower/"
+language: "de"
+---
 # Nischen-Power Affiliate Marketing
 
 > Product ID `51007` · Digistore24 productId `590936` · [HTML profile page](../../produkte/nischen-power-affiliate-marketing-51007.html)

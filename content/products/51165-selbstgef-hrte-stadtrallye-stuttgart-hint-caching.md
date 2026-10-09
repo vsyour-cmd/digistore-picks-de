@@ -1,3 +1,24 @@
+---
+product_id: "51165"
+digistore24_product_id: 433662
+title: "Selbstgeführte Stadtrallye Stuttgart | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.32
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.08
+cart_conversion_pct: 9
+cancel_rate_pct: 0.6
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-stuttgart/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-stuttgart/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Stuttgart | Hint-Caching
 
 > Product ID `51165` · Digistore24 productId `433662` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-stuttgart-hint-caching-51165.html)

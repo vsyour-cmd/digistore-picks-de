@@ -1,3 +1,24 @@
+---
+product_id: "59445"
+digistore24_product_id: 726292
+title: "INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung"
+vendor: "uweboehle47cf"
+product_type: "Software"
+price: 32.81
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 11.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
+sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
+language: "de"
+---
 # INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung
 
 > Product ID `59445` · Digistore24 productId `726292` · [HTML profile page](../../produkte/infinity-sport-pro-ki-sportcoach-f-r-training-und-ern-hrung-59445.html)

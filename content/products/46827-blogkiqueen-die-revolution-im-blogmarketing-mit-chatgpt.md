@@ -1,3 +1,24 @@
+---
+product_id: "46827"
+digistore24_product_id: 516555
+title: "BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT"
+vendor: "stepi007"
+product_type: "Member area and video courses"
+price: 89.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 44.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2023-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://blogkiqueen.de?aff=adminstore#aff=adminstore"
+sales_page: "https://blogkiqueen.de"
+language: "de"
+---
 # BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT
 
 > Product ID `46827` · Digistore24 productId `516555` · [HTML profile page](../../produkte/blogkiqueen-die-revolution-im-blogmarketing-mit-chatgpt-46827.html)

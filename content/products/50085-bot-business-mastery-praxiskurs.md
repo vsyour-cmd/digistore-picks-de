@@ -1,3 +1,24 @@
+---
+product_id: "50085"
+digistore24_product_id: 574111
+title: "Bot-Business Mastery - Praxiskurs"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 143.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 71.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Bot-Mastery?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Bot-Mastery"
+language: "de"
+---
 # Bot-Business Mastery - Praxiskurs
 
 > Product ID `50085` · Digistore24 productId `574111` · [HTML profile page](../../produkte/bot-business-mastery-praxiskurs-50085.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33342"
+digistore24_product_id: 253064
+title: "Die Mobility-Lösung (Mobility Warm-ups)"
+vendor: "Sukopp"
+product_type: "Downloads"
+price: 72.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/253064?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/253064"
+language: "de"
+---
 # Die Mobility-Lösung (Mobility Warm-ups)
 
 > Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../produkte/die-mobility-l-sung-mobility-warm-ups-33342.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60016"
+digistore24_product_id: 738557
+title: "Der ultimative christliche Suno AI Prompt Guide"
+vendor: "Daniyel-Ela"
+product_type: "E-books"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 9.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738557?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738557"
+language: "de"
+---
 # Der ultimative christliche Suno AI Prompt Guide
 
 > Product ID `60016` · Digistore24 productId `738557` · [HTML profile page](../../produkte/der-ultimative-christliche-suno-ai-prompt-guide-60016.html)

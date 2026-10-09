@@ -1,3 +1,24 @@
+---
+product_id: "60309"
+digistore24_product_id: 742029
+title: "Grundsteuer leicht gemacht – mit Grundsteuer-Rechner"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742029?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742029"
+language: "de"
+---
 # Grundsteuer leicht gemacht – mit Grundsteuer-Rechner
 
 > Product ID `60309` · Digistore24 productId `742029` · [HTML profile page](../../produkte/grundsteuer-leicht-gemacht-mit-grundsteuer-rechner-60309.html)

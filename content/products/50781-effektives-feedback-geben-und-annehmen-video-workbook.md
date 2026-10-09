@@ -1,3 +1,24 @@
+---
+product_id: "50781"
+digistore24_product_id: 586705
+title: "Effektives Feedback geben und annehmen – Video + Workbook"
+vendor: "PFEOS-Kraemer"
+product_type: "Member area and video courses"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2024-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/586705?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/586705"
+language: "de"
+---
 # Effektives Feedback geben und annehmen – Video + Workbook
 
 > Product ID `50781` · Digistore24 productId `586705` · [HTML profile page](../../produkte/effektives-feedback-geben-und-annehmen-video-workbook-50781.html)

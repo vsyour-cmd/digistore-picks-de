@@ -1,3 +1,24 @@
+---
+product_id: "48910"
+digistore24_product_id: 564083
+title: "Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas"
+vendor: "aufderSonnenseite"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Sport"]
+listed_since: "2024-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://yoga-tenerife.com/de/yoga-online/?aff=adminstore#aff=adminstore"
+sales_page: "https://yoga-tenerife.com/de/yoga-online/"
+language: "de"
+---
 # Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas
 
 > Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../produkte/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)

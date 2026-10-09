@@ -1,3 +1,24 @@
+---
+product_id: "44015"
+digistore24_product_id: 537368
+title: "Affiliate Starter Bundle | Freebie-Bundle"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.51
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2024-02-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/affiliate-marketing-das-starter-bundle-special/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/affiliate-marketing-das-starter-bundle-special/"
+language: "de"
+---
 # Affiliate Starter Bundle | Freebie-Bundle
 
 > Product ID `44015` · Digistore24 productId `537368` · [HTML profile page](../../produkte/affiliate-starter-bundle-freebie-bundle-44015.html)

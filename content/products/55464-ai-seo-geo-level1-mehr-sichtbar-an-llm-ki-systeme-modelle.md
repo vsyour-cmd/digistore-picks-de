@@ -1,3 +1,24 @@
+---
+product_id: "55464"
+digistore24_product_id: 666030
+title: "AI SEO GEO \"Level1\". Mehr Sichtbar an LLM KI-Systeme Modelle"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 167.79
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 50.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2026-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/"
+language: "de"
+---
 # AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle
 
 > Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../produkte/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)

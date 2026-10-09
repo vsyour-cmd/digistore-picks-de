@@ -1,3 +1,24 @@
+---
+product_id: "35263"
+digistore24_product_id: 362814
+title: "Prime Time Tipps Fussball Analysen"
+vendor: "Primetimetipps"
+product_type: "Member area and video courses"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 131.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2020-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://primetimetipps.de?aff=adminstore#aff=adminstore"
+sales_page: "https://primetimetipps.de"
+language: "de"
+---
 # Prime Time Tipps Fussball Analysen
 
 > Product ID `35263` · Digistore24 productId `362814` · [HTML profile page](../../produkte/prime-time-tipps-fussball-analysen-35263.html)

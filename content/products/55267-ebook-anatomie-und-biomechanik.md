@@ -1,3 +1,24 @@
+---
+product_id: "55267"
+digistore24_product_id: 642294
+title: "eBook: Anatomie und Biomechanik"
+vendor: "Dreihundertsechziggradpferd"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-10-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://360gradpferd.de/workbook-anatomie-biomechanik/?aff=adminstore#aff=adminstore"
+sales_page: "https://360gradpferd.de/workbook-anatomie-biomechanik/"
+language: "de"
+---
 # eBook: Anatomie und Biomechanik
 
 > Product ID `55267` · Digistore24 productId `642294` · [HTML profile page](../../produkte/ebook-anatomie-und-biomechanik-55267.html)

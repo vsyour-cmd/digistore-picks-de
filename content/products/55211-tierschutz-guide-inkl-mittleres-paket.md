@@ -1,3 +1,24 @@
+---
+product_id: "55211"
+digistore24_product_id: 616650
+title: "Tierschutz-Guide – inkl. Mittleres Paket"
+vendor: "Tierheimsponsoring"
+product_type: "Downloads"
+price: 236.87
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 59.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/616650?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/616650"
+language: "de"
+---
 # Tierschutz-Guide – inkl. Mittleres Paket
 
 > Product ID `55211` · Digistore24 productId `616650` · [HTML profile page](../../produkte/tierschutz-guide-inkl-mittleres-paket-55211.html)

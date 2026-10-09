@@ -1,3 +1,24 @@
+---
+product_id: "28036"
+digistore24_product_id: 238872
+title: "Unkraut im Rasen erfolgreich entfernen"
+vendor: "RasenExperte"
+product_type: "E-books"
+price: 13.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2018-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/"
+language: "de"
+---
 # Unkraut im Rasen erfolgreich entfernen
 
 > Product ID `28036` · Digistore24 productId `238872` · [HTML profile page](../../produkte/unkraut-im-rasen-erfolgreich-entfernen-28036.html)

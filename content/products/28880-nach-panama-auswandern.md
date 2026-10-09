@@ -1,3 +1,24 @@
+---
+product_id: "28880"
+digistore24_product_id: 242028
+title: "Nach Panama Auswandern"
+vendor: "serfanoo"
+product_type: "Downloads"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 13.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2018-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.globalcitizenexplorer.com/index.php?page_id=676&aff=adminstore#aff=adminstore"
+sales_page: "https://www.globalcitizenexplorer.com/index.php?page_id=676"
+language: "de"
+---
 # Nach Panama Auswandern
 
 > Product ID `28880` · Digistore24 productId `242028` · [HTML profile page](../../produkte/nach-panama-auswandern-28880.html)

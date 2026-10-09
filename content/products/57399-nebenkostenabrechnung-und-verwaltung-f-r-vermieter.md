@@ -1,3 +1,24 @@
+---
+product_id: "57399"
+digistore24_product_id: 687248
+title: "Nebenkostenabrechnung und -verwaltung für Vermieter"
+vendor: "PanoramaBizz"
+product_type: "Software"
+price: 75.1
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Real Estate"]
+listed_since: "2026-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nebenkosten-guru.de?aff=adminstore#aff=adminstore"
+sales_page: "https://nebenkosten-guru.de"
+language: "de"
+---
 # Nebenkostenabrechnung und -verwaltung für Vermieter
 
 > Product ID `57399` · Digistore24 productId `687248` · [HTML profile page](../../produkte/nebenkostenabrechnung-und-verwaltung-f-r-vermieter-57399.html)

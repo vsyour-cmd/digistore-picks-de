@@ -1,3 +1,24 @@
+---
+product_id: "44129"
+digistore24_product_id: 482124
+title: "Instagram Boss - Insta Cashmaschine aufbauen"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 258.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 51.88
+cart_conversion_pct: 3
+cancel_rate_pct: 1.59
+categories: ["Social Media"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/igbossvkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/igbossvkslp/"
+language: "de"
+---
 # Instagram Boss - Insta Cashmaschine aufbauen
 
 > Product ID `44129` · Digistore24 productId `482124` · [HTML profile page](../../produkte/instagram-boss-insta-cashmaschine-aufbauen-44129.html)

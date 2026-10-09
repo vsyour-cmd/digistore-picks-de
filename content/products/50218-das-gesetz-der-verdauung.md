@@ -1,3 +1,24 @@
+---
+product_id: "50218"
+digistore24_product_id: 572157
+title: "Das Gesetz der Verdauung"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 148.8
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 94.6
+cart_conversion_pct: 5
+cancel_rate_pct: 5.63
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://billionenmarkt.com/lp-direct?group=affiliates&aff=adminstore#aff=adminstore"
+sales_page: "https://billionenmarkt.com/lp-direct?group=affiliates"
+language: "de"
+---
 # Das Gesetz der Verdauung
 
 > Product ID `50218` · Digistore24 productId `572157` · [HTML profile page](../../produkte/das-gesetz-der-verdauung-50218.html)

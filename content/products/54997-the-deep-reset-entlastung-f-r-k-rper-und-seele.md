@@ -1,3 +1,24 @@
+---
+product_id: "54997"
+digistore24_product_id: 655261
+title: "The Deep Reset - Entlastung für Körper und Seele"
+vendor: "ErikaSchmid"
+product_type: "Downloads"
+price: 20.83
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.67
+cart_conversion_pct: 3
+cancel_rate_pct: 4.51
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/655261?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/655261"
+language: "de"
+---
 # The Deep Reset - Entlastung für Körper und Seele
 
 > Product ID `54997` · Digistore24 productId `655261` · [HTML profile page](../../produkte/the-deep-reset-entlastung-f-r-k-rper-und-seele-54997.html)

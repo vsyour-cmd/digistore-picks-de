@@ -1,3 +1,24 @@
+---
+product_id: "57463"
+digistore24_product_id: 708878
+title: "Rücken- und Nacken-Schmerzen: 7-Minuten-Plan für Viel-Sitzer"
+vendor: "Seelendank"
+product_type: "E-books"
+price: 5.21
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2026-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buerostuhl.kaufen/der-sitz-reset?aff=adminstore#aff=adminstore"
+sales_page: "https://buerostuhl.kaufen/der-sitz-reset"
+language: "de"
+---
 # Rücken- und Nacken-Schmerzen: 7-Minuten-Plan für Viel-Sitzer
 
 > Product ID `57463` · Digistore24 productId `708878` · [HTML profile page](../../produkte/r-cken-und-nacken-schmerzen-7-minuten-plan-f-r-viel-sitzer-57463.html)

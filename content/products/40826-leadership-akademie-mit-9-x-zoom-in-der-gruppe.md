@@ -1,3 +1,24 @@
+---
+product_id: "40826"
+digistore24_product_id: 401127
+title: "Leadership-Akademie mit 9 x Zoom in der Gruppe"
+vendor: "MENSCHLICHERFOLGREICH"
+product_type: "Member area and video courses"
+price: 2483.29
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 248.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://online-akademie.angela-dietz.de/?page_id=7960&aff=adminstore#aff=adminstore"
+sales_page: "https://online-akademie.angela-dietz.de/?page_id=7960"
+language: "de"
+---
 # Leadership-Akademie mit 9 x Zoom in der Gruppe
 
 > Product ID `40826` · Digistore24 productId `401127` · [HTML profile page](../../produkte/leadership-akademie-mit-9-x-zoom-in-der-gruppe-40826.html)

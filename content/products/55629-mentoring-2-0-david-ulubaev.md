@@ -1,3 +1,24 @@
+---
+product_id: "55629"
+digistore24_product_id: 666768
+title: "Mentoring 2.0 - David Ulubaev"
+vendor: "DavidUlubaev"
+product_type: "Online coaching"
+price: 531.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 225.67
+cart_conversion_pct: 85.7
+cancel_rate_pct: 6.22
+categories: ["Personal Development"]
+listed_since: "2026-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/666768?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/666768"
+language: "de"
+---
 # Mentoring 2.0 - David Ulubaev
 
 > Product ID `55629` · Digistore24 productId `666768` · [HTML profile page](../../produkte/mentoring-2-0-david-ulubaev-55629.html)

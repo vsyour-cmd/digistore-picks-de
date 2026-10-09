@@ -1,3 +1,24 @@
+---
+product_id: "31967"
+digistore24_product_id: 278845
+title: "Bestseller: CAJON ONLINE-KURS - Die Krendl Technik"
+vendor: "martin0852"
+product_type: "Member area and video courses"
+price: 135.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 74.16
+cart_conversion_pct: 6
+cancel_rate_pct: 1.82
+categories: ["Dancing & Music"]
+listed_since: "2019-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/278845?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/278845"
+language: "de"
+---
 # Bestseller: CAJON ONLINE-KURS - Die Krendl Technik
 
 > Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../produkte/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)

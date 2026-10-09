@@ -1,3 +1,24 @@
+---
+product_id: "56507"
+digistore24_product_id: 691097
+title: "50% Provision: \"Deine Nische\" (No-Brainer + Upsells)"
+vendor: "SiNagel01"
+product_type: "E-books"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-05-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://deine-nische.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
+sales_page: "http://deine-nische.dein-socialmedia-erfolg.de"
+language: "de"
+---
 # 50% Provision: "Deine Nische" (No-Brainer + Upsells)
 
 > Product ID `56507` · Digistore24 productId `691097` · [HTML profile page](../../produkte/50-provision-deine-nische-no-brainer-upsells-56507.html)

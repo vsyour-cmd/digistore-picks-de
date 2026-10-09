@@ -1,3 +1,24 @@
+---
+product_id: "59582"
+digistore24_product_id: 736407
+title: "Landingpage erstellen für Anfänger – Praxiskurs mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736407?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736407"
+language: "de"
+---
 # Landingpage erstellen für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59582` · Digistore24 productId `736407` · [HTML profile page](../../produkte/landingpage-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59582.html)

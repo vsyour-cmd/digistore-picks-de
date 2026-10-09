@@ -1,3 +1,24 @@
+---
+product_id: "59722"
+digistore24_product_id: 719976
+title: "Der teuerste Zahn deines Lebens"
+vendor: "SocratesDentalAcademy"
+product_type: "Member area and video courses"
+price: 176.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 88.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://socratesdentalacademy.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://socratesdentalacademy.de/"
+language: "de"
+---
 # Der teuerste Zahn deines Lebens
 
 > Product ID `59722` · Digistore24 productId `719976` · [HTML profile page](../../produkte/der-teuerste-zahn-deines-lebens-59722.html)

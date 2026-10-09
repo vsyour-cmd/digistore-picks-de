@@ -1,3 +1,24 @@
+---
+product_id: "38589"
+digistore24_product_id: 411373
+title: "Rette deinen Rücken®"
+vendor: "australia1011"
+product_type: "Downloads"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 60.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/?aff=adminstore#aff=adminstore"
+sales_page: "https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/"
+language: "de"
+---
 # Rette deinen Rücken®
 
 > Product ID `38589` · Digistore24 productId `411373` · [HTML profile page](../../produkte/rette-deinen-r-cken-38589.html)

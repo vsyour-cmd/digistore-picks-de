@@ -1,3 +1,24 @@
+---
+product_id: "55308"
+digistore24_product_id: 663868
+title: "SalesPals Systems - All-In Class"
+vendor: "SalesPalsSystems"
+product_type: "Telephone coaching"
+price: 43.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 21.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Sales Training","Marketing Services"]
+listed_since: "2026-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/663868?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/663868"
+language: "de"
+---
 # SalesPals Systems - All-In Class
 
 > Product ID `55308` · Digistore24 productId `663868` · [HTML profile page](../../produkte/salespals-systems-all-in-class-55308.html)

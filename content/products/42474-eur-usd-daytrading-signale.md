@@ -1,3 +1,24 @@
+---
+product_id: "42474"
+digistore24_product_id: 477373
+title: "EUR/USD Daytrading Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 223.78
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 35.84
+cart_conversion_pct: 7
+cancel_rate_pct: 11.33
+categories: ["Trading Products"]
+listed_since: "2023-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/eurusd-daytrading-signale/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/eurusd-daytrading-signale/"
+language: "de"
+---
 # EUR/USD Daytrading Signale
 
 > Product ID `42474` · Digistore24 productId `477373` · [HTML profile page](../../produkte/eur-usd-daytrading-signale-42474.html)

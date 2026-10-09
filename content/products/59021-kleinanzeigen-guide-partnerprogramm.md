@@ -1,3 +1,24 @@
+---
+product_id: "59021"
+digistore24_product_id: 713278
+title: "Kleinanzeigen Guide: Partnerprogramm"
+vendor: "EberleConsulting"
+product_type: "Downloads"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Marketing Services"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://consulting-eberle.de/kleinanzeigen-guide/?aff=adminstore#aff=adminstore"
+sales_page: "https://consulting-eberle.de/kleinanzeigen-guide/"
+language: "de"
+---
 # Kleinanzeigen Guide: Partnerprogramm
 
 > Product ID `59021` · Digistore24 productId `713278` · [HTML profile page](../../produkte/kleinanzeigen-guide-partnerprogramm-59021.html)

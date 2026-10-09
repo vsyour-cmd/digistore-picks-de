@@ -1,3 +1,24 @@
+---
+product_id: "26041"
+digistore24_product_id: 158729
+title: "Die Startrampe von Jakob Hager"
+vendor: "jhackr"
+product_type: "Downloads"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/158729?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/158729"
+language: "de"
+---
 # Die Startrampe von Jakob Hager
 
 > Product ID `26041` · Digistore24 productId `158729` · [HTML profile page](../../produkte/die-startrampe-von-jakob-hager-26041.html)

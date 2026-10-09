@@ -1,3 +1,24 @@
+---
+product_id: "55210"
+digistore24_product_id: 616648
+title: "Tierschutz-Guide – inkl. Kleines Paket"
+vendor: "Tierheimsponsoring"
+product_type: "Downloads"
+price: 157.92
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 39.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/616648?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/616648"
+language: "de"
+---
 # Tierschutz-Guide – inkl. Kleines Paket
 
 > Product ID `55210` · Digistore24 productId `616648` · [HTML profile page](../../produkte/tierschutz-guide-inkl-kleines-paket-55210.html)

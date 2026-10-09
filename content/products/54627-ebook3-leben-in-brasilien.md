@@ -1,3 +1,24 @@
+---
+product_id: "54627"
+digistore24_product_id: 647208
+title: "eBook3 – Leben in Brasilien"
+vendor: "Hei-Mel"
+product_type: "E-books"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 4.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Personal Development","Travel & Culture"]
+listed_since: "2025-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marilia.de/brasilien/ebook3-leben-in-brasilien/?aff=adminstore#aff=adminstore"
+sales_page: "https://marilia.de/brasilien/ebook3-leben-in-brasilien/"
+language: "de"
+---
 # eBook3 – Leben in Brasilien
 
 > Product ID `54627` · Digistore24 productId `647208` · [HTML profile page](../../produkte/ebook3-leben-in-brasilien-54627.html)

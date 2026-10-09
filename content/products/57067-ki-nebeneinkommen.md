@@ -1,3 +1,24 @@
+---
+product_id: "57067"
+digistore24_product_id: 703408
+title: "KI-Nebeneinkommen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle"
+language: "de"
+---
 # KI-Nebeneinkommen
 
 > Product ID `57067` · Digistore24 productId `703408` · [HTML profile page](../../produkte/ki-nebeneinkommen-57067.html)

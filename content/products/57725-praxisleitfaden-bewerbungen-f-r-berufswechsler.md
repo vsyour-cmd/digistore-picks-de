@@ -1,3 +1,24 @@
+---
+product_id: "57725"
+digistore24_product_id: 689817
+title: "Praxisleitfaden: Bewerbungen für Berufswechsler"
+vendor: "Impulsklar"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.impulsklar.de/berufswechsler-bewerbungen-ratgeber?aff=adminstore#aff=adminstore"
+sales_page: "https://www.impulsklar.de/berufswechsler-bewerbungen-ratgeber"
+language: "de"
+---
 # Praxisleitfaden: Bewerbungen für Berufswechsler
 
 > Product ID `57725` · Digistore24 productId `689817` · [HTML profile page](../../produkte/praxisleitfaden-bewerbungen-f-r-berufswechsler-57725.html)

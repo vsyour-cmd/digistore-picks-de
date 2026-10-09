@@ -1,3 +1,24 @@
+---
+product_id: "50531"
+digistore24_product_id: 568264
+title: "50 % Provision pro Sale –„Entscheidungstagebuch“!"
+vendor: "Angelika-Traumerfuellerin"
+product_type: "Downloads"
+price: 7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/568264?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/568264"
+language: "de"
+---
 # 50 % Provision pro Sale –„Entscheidungstagebuch“!
 
 > Product ID `50531` · Digistore24 productId `568264` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungstagebuch-50531.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40296"
+digistore24_product_id: 295701
+title: "Digital Lettering Kurs"
+vendor: "Timothy90"
+product_type: "Member area and video courses"
+price: 76.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.38
+cart_conversion_pct: 23
+cancel_rate_pct: 0.39
+categories: ["Hobby & Craft"]
+listed_since: "2019-11-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manylearn.com/kurse/digital-lettering-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://manylearn.com/kurse/digital-lettering-kurs"
+language: "de"
+---
 # Digital Lettering Kurs
 
 > Product ID `40296` · Digistore24 productId `295701` · [HTML profile page](../../produkte/digital-lettering-kurs-40296.html)

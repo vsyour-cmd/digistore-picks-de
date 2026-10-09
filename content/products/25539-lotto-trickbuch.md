@@ -1,3 +1,24 @@
+---
+product_id: "25539"
+digistore24_product_id: 231553
+title: "Lotto Trickbuch"
+vendor: "lottotrickbuch"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 44.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2018-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://lotto-trickbuch.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://lotto-trickbuch.de/"
+language: "de"
+---
 # Lotto Trickbuch
 
 > Product ID `25539` · Digistore24 productId `231553` · [HTML profile page](../../produkte/lotto-trickbuch-25539.html)

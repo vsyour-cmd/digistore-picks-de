@@ -1,3 +1,24 @@
+---
+product_id: "55524"
+digistore24_product_id: 662706
+title: "Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke"
+vendor: "Kaiwgt"
+product_type: "Downloads"
+price: 37.55
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 5.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Marketing Services"]
+listed_since: "2026-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/662706?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/662706"
+language: "de"
+---
 # Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke
 
 > Product ID `55524` · Digistore24 productId `662706` · [HTML profile page](../../produkte/auftragsverwaltung-f-r-goldschmiede-juweliere-und-handwerke-55524.html)

@@ -1,3 +1,24 @@
+---
+product_id: "23299"
+digistore24_product_id: 81835
+title: "14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen"
+vendor: "spamenow"
+product_type: "Member area and video courses"
+price: 120.51
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 30.75
+cart_conversion_pct: 5
+cancel_rate_pct: 2.08
+categories: ["Health & Fitness"]
+listed_since: "2016-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.14-tage-intensiv-programm.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.14-tage-intensiv-programm.de/"
+language: "de"
+---
 # 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen
 
 > Product ID `23299` · Digistore24 productId `81835` · [HTML profile page](../../produkte/14-tage-intensiv-programm-bis-10-kg-abnehmen-in-14-tagen-23299.html)

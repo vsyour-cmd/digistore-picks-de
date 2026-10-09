@@ -1,3 +1,24 @@
+---
+product_id: "59032"
+digistore24_product_id: 728123
+title: "Hunter Disk Cleaner Pro Lizenzschlüssel"
+vendor: "workflowtech"
+product_type: "Software"
+price: 12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hunterdiskcleaner.com/de-de/pro.html?aff=adminstore#aff=adminstore"
+sales_page: "https://hunterdiskcleaner.com/de-de/pro.html"
+language: "de"
+---
 # Hunter Disk Cleaner Pro Lizenzschlüssel
 
 > Product ID `59032` · Digistore24 productId `728123` · [HTML profile page](../../produkte/hunter-disk-cleaner-pro-lizenzschl-ssel-59032.html)

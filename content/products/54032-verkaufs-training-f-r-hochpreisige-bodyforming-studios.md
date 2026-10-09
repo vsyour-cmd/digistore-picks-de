@@ -1,3 +1,24 @@
+---
+product_id: "54032"
+digistore24_product_id: 616449
+title: "Verkaufs-Training für hochpreisige Bodyforming-Studios"
+vendor: "annaschmidthaler"
+product_type: "Member area and video courses"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 198.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Sales Training"]
+listed_since: "2025-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/"
+language: "de"
+---
 # Verkaufs-Training für hochpreisige Bodyforming-Studios
 
 > Product ID `54032` · Digistore24 productId `616449` · [HTML profile page](../../produkte/verkaufs-training-f-r-hochpreisige-bodyforming-studios-54032.html)

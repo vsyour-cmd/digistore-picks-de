@@ -1,3 +1,24 @@
+---
+product_id: "38015"
+digistore24_product_id: 407027
+title: "DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN"
+vendor: "HarshaGramminger"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/"
+language: "de"
+---
 # DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN
 
 > Product ID `38015` · Digistore24 productId `407027` · [HTML profile page](../../produkte/detox-your-life-vital-gesund-in-7-tagen-38015.html)

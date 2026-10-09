@@ -1,3 +1,24 @@
+---
+product_id: "40388"
+digistore24_product_id: 436672
+title: "In 4 Schritten Depressionen überwinden"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/200-0-4-Schritte-gegen-Depression.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/200-0-4-Schritte-gegen-Depression.html"
+language: "de"
+---
 # In 4 Schritten Depressionen überwinden
 
 > Product ID `40388` · Digistore24 productId `436672` · [HTML profile page](../../produkte/in-4-schritten-depressionen-berwinden-40388.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59570"
+digistore24_product_id: 736397
+title: "Entdecke deinen weiblichen Zyklus bewusster"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 14.05
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung"
+language: "de"
+---
 # Entdecke deinen weiblichen Zyklus bewusster
 
 > Product ID `59570` · Digistore24 productId `736397` · [HTML profile page](../../produkte/entdecke-deinen-weiblichen-zyklus-bewusster-59570.html)

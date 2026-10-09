@@ -1,3 +1,24 @@
+---
+product_id: "60122"
+digistore24_product_id: 740513
+title: "Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm"
+vendor: "Marketing17"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 9.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden","Marketing Services"]
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://haus-energieberater.de/erst-planen-dann-sanieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://haus-energieberater.de/erst-planen-dann-sanieren/"
+language: "de"
+---
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
 > Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../produkte/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)

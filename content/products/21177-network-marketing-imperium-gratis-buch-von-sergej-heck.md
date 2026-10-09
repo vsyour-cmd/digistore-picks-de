@@ -1,3 +1,24 @@
+---
+product_id: "21177"
+digistore24_product_id: 177621
+title: "\"Network Marketing Imperium\" Gratis Buch von Sergej Heck"
+vendor: "sheck88"
+product_type: "Book (printed)"
+price: 7.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2017-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buch.sergejheck.de/buch-bestellseite?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.sergejheck.de/buch-bestellseite"
+language: "de"
+---
 # "Network Marketing Imperium" Gratis Buch von Sergej Heck
 
 > Product ID `21177` · Digistore24 productId `177621` · [HTML profile page](../../produkte/network-marketing-imperium-gratis-buch-von-sergej-heck-21177.html)

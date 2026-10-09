@@ -1,3 +1,24 @@
+---
+product_id: "52597"
+digistore24_product_id: 607228
+title: "KI Speed Business – Werde Partner und profitiere doppelt"
+vendor: "powerupbusiness"
+product_type: "Member area and video courses"
+price: 303.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 553.83
+cart_conversion_pct: 14
+cancel_rate_pct: 2.08
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/607228/adminstore"
+sales_page: "https://kispeedbusiness.com?utm_source=[AFFILIATE]&utm_medium=affiliate"
+language: "de"
+---
 # KI Speed Business – Werde Partner und profitiere doppelt
 
 > Product ID `52597` · Digistore24 productId `607228` · [HTML profile page](../../produkte/ki-speed-business-werde-partner-und-profitiere-doppelt-52597.html)

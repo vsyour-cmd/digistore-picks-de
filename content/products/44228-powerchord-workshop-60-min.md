@@ -1,3 +1,24 @@
+---
+product_id: "44228"
+digistore24_product_id: 501781
+title: "Powerchord-Workshop (60 min)"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 73.25
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 13.47
+cart_conversion_pct: 17
+cancel_rate_pct: 2.58
+categories: ["Dancing & Music"]
+listed_since: "2023-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/?aff=adminstore#aff=adminstore"
+sales_page: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/"
+language: "de"
+---
 # Powerchord-Workshop (60 min)
 
 > Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../produkte/powerchord-workshop-60-min-44228.html)

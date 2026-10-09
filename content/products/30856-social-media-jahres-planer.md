@@ -1,3 +1,24 @@
+---
+product_id: "30856"
+digistore24_product_id: 298305
+title: "Social Media Jahres Planer"
+vendor: "sattelitevendor"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2019-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://torstenjaeger.com/socialmediajahresplaner?aff=adminstore#aff=adminstore"
+sales_page: "https://torstenjaeger.com/socialmediajahresplaner"
+language: "de"
+---
 # Social Media Jahres Planer
 
 > Product ID `30856` · Digistore24 productId `298305` · [HTML profile page](../../produkte/social-media-jahres-planer-30856.html)

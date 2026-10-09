@@ -1,3 +1,24 @@
+---
+product_id: "45674"
+digistore24_product_id: 521235
+title: "Affiliate Traffic-Guide (Freebie)"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.04
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2023-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.kb-om.com/traffic-guide-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kb-om.com/traffic-guide-ds24"
+language: "de"
+---
 # Affiliate Traffic-Guide (Freebie)
 
 > Product ID `45674` · Digistore24 productId `521235` · [HTML profile page](../../produkte/affiliate-traffic-guide-freebie-45674.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47880"
+digistore24_product_id: 548132
+title: "Social Media FUN Paket"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Social-Media-FUN-Paket?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Social-Media-FUN-Paket"
+language: "de"
+---
 # Social Media FUN Paket
 
 > Product ID `47880` · Digistore24 productId `548132` · [HTML profile page](../../produkte/social-media-fun-paket-47880.html)

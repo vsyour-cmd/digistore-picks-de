@@ -1,3 +1,24 @@
+---
+product_id: "51759"
+digistore24_product_id: 601991
+title: "Die ultimative Foren Liste: 500 deutschsprachige Foren"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/die-ultimative-foren-liste?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/die-ultimative-foren-liste"
+language: "de"
+---
 # Die ultimative Foren Liste: 500 deutschsprachige Foren
 
 > Product ID `51759` · Digistore24 productId `601991` · [HTML profile page](../../produkte/die-ultimative-foren-liste-500-deutschsprachige-foren-51759.html)

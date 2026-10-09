@@ -1,3 +1,24 @@
+---
+product_id: "40659"
+digistore24_product_id: 450943
+title: "Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)"
+vendor: "wiegehtliebe-de"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
+listed_since: "2022-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://melli-seedorf.de/stadt-land-glueckstraining?aff=adminstore#aff=adminstore"
+sales_page: "https://melli-seedorf.de/stadt-land-glueckstraining"
+language: "de"
+---
 # Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)
 
 > Product ID `40659` · Digistore24 productId `450943` · [HTML profile page](../../produkte/geniale-spielvorlage-stadt-land-gl-ckstraining-pdf-png-40659.html)

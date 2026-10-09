@@ -1,3 +1,24 @@
+---
+product_id: "1597"
+digistore24_product_id: 13203
+title: "Handbuch des Heilmagnetismus"
+vendor: "Elisabeth"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2013-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.heilmagnetismus-info.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.heilmagnetismus-info.de"
+language: "de"
+---
 # Handbuch des Heilmagnetismus
 
 > Product ID `1597` · Digistore24 productId `13203` · [HTML profile page](../../produkte/handbuch-des-heilmagnetismus-1597.html)

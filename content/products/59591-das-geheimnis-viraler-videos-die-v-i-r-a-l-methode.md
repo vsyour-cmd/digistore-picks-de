@@ -1,3 +1,24 @@
+---
+product_id: "59591"
+digistore24_product_id: 736441
+title: "Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode"
+vendor: "webtrafficde"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilinative.de/ebooks/viral-videos/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilinative.de/ebooks/viral-videos/"
+language: "de"
+---
 # Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode
 
 > Product ID `59591` · Digistore24 productId `736441` · [HTML profile page](../../produkte/das-geheimnis-viraler-videos-die-v-i-r-a-l-methode-59591.html)

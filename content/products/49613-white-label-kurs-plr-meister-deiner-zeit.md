@@ -1,3 +1,24 @@
+---
+product_id: "49613"
+digistore24_product_id: 571183
+title: "White Label Kurs (PLR) - \"Meister deiner Zeit\""
+vendor: "Institut-Dittrich"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 36.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2024-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://whitelabeloase.com/produkte/kurs-bundle-meister-deiner-zeit/?aff=adminstore#aff=adminstore"
+sales_page: "https://whitelabeloase.com/produkte/kurs-bundle-meister-deiner-zeit/"
+language: "de"
+---
 # White Label Kurs (PLR) - "Meister deiner Zeit"
 
 > Product ID `49613` · Digistore24 productId `571183` · [HTML profile page](../../produkte/white-label-kurs-plr-meister-deiner-zeit-49613.html)

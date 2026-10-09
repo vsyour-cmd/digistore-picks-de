@@ -1,3 +1,24 @@
+---
+product_id: "58907"
+digistore24_product_id: 728106
+title: "Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten"
+vendor: "JuergenBraun-Mentoring"
+product_type: "Member area and video courses"
+price: 1107.41
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 332.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Office Organization"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lehrgang.uhrwerk-prinzip.com/lehrgang?aff=adminstore#aff=adminstore"
+sales_page: "https://lehrgang.uhrwerk-prinzip.com/lehrgang"
+language: "de"
+---
 # Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten
 
 > Product ID `58907` · Digistore24 productId `728106` · [HTML profile page](../../produkte/das-uhrwerk-prinzip-vom-nadel-hr-zum-architekten-58907.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33530"
+digistore24_product_id: 319140
+title: "Praxis Elektrik - das einzigartige Elektrik eBook"
+vendor: "elektricks"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.59
+cart_conversion_pct: 25
+cancel_rate_pct: 6.15
+categories: ["Education"]
+listed_since: "2020-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elektricks.com/praxis-elektrik-fachbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://elektricks.com/praxis-elektrik-fachbuch/"
+language: "de"
+---
 # Praxis Elektrik - das einzigartige Elektrik eBook
 
 > Product ID `33530` · Digistore24 productId `319140` · [HTML profile page](../../produkte/praxis-elektrik-das-einzigartige-elektrik-ebook-33530.html)

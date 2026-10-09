@@ -1,3 +1,24 @@
+---
+product_id: "534"
+digistore24_product_id: 11200
+title: "Heilung finanzieller Traumata u. a. alter Wunden"
+vendor: "AngelKing"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2013-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/11200?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/11200"
+language: "de"
+---
 # Heilung finanzieller Traumata u. a. alter Wunden
 
 > Product ID `534` · Digistore24 productId `11200` · [HTML profile page](../../produkte/heilung-finanzieller-traumata-u-a-alter-wunden-534.html)

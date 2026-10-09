@@ -1,3 +1,24 @@
+---
+product_id: "56892"
+digistore24_product_id: 666963
+title: "Menschen lesen. Beeindrucken. Gewinnen."
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 65.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Sales Training"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/666963?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/666963"
+language: "de"
+---
 # Menschen lesen. Beeindrucken. Gewinnen.
 
 > Product ID `56892` · Digistore24 productId `666963` · [HTML profile page](../../produkte/menschen-lesen-beeindrucken-gewinnen-56892.html)

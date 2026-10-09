@@ -1,3 +1,24 @@
+---
+product_id: "54686"
+digistore24_product_id: 639678
+title: "Rauchfrei ohne Extra-Kilos – E-Book"
+vendor: "VerenaSwoboda"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://verenasholisticworld.my.canva.site/rauchfreiohneextrakilos?aff=adminstore#aff=adminstore"
+sales_page: "https://verenasholisticworld.my.canva.site/rauchfreiohneextrakilos"
+language: "de"
+---
 # Rauchfrei ohne Extra-Kilos – E-Book
 
 > Product ID `54686` · Digistore24 productId `639678` · [HTML profile page](../../produkte/rauchfrei-ohne-extra-kilos-e-book-54686.html)

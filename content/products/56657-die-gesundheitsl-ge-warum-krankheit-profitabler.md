@@ -1,3 +1,24 @@
+---
+product_id: "56657"
+digistore24_product_id: 694506
+title: "Die Gesundheitslüge – Warum Krankheit profitabler"
+vendor: "PERSOFIT"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694506?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694506"
+language: "de"
+---
 # Die Gesundheitslüge – Warum Krankheit profitabler
 
 > Product ID `56657` · Digistore24 productId `694506` · [HTML profile page](../../produkte/die-gesundheitsl-ge-warum-krankheit-profitabler-56657.html)

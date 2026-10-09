@@ -1,3 +1,24 @@
+---
+product_id: "35137"
+digistore24_product_id: 314832
+title: "Chakra Mandala Malbuch und Praxislehre - eBook"
+vendor: "AnjaZawadzki"
+product_type: "E-books"
+price: 7.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-03-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/?aff=adminstore#aff=adminstore"
+sales_page: "https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/"
+language: "de"
+---
 # Chakra Mandala Malbuch und Praxislehre - eBook
 
 > Product ID `35137` · Digistore24 productId `314832` · [HTML profile page](../../produkte/chakra-mandala-malbuch-und-praxislehre-ebook-35137.html)

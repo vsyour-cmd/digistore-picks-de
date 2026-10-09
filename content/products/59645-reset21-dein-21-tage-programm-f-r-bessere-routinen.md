@@ -1,3 +1,24 @@
+---
+product_id: "59645"
+digistore24_product_id: 736794
+title: "RESET21 – Dein 21-Tage-Programm für bessere Routinen"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 75.15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen"
+language: "de"
+---
 # RESET21 – Dein 21-Tage-Programm für bessere Routinen
 
 > Product ID `59645` · Digistore24 productId `736794` · [HTML profile page](../../produkte/reset21-dein-21-tage-programm-f-r-bessere-routinen-59645.html)

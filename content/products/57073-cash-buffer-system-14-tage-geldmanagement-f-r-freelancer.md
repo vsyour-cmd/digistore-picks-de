@@ -1,3 +1,24 @@
+---
+product_id: "57073"
+digistore24_product_id: 701528
+title: "Cash-Buffer System — 14-Tage Geldmanagement für Freelancer"
+vendor: "akonfin"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 7.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Finances"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.akonfin.de/produkte/cash-buffer-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.akonfin.de/produkte/cash-buffer-system/"
+language: "de"
+---
 # Cash-Buffer System — 14-Tage Geldmanagement für Freelancer
 
 > Product ID `57073` · Digistore24 productId `701528` · [HTML profile page](../../produkte/cash-buffer-system-14-tage-geldmanagement-f-r-freelancer-57073.html)

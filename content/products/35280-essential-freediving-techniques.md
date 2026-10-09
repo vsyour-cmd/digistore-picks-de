@@ -1,3 +1,24 @@
+---
+product_id: "35280"
+digistore24_product_id: 356494
+title: "Essential Freediving Techniques"
+vendor: "SOjstersek"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2020-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.freitauchen-lernen.com/essentielle-techniken/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freitauchen-lernen.com/essentielle-techniken/"
+language: "de"
+---
 # Essential Freediving Techniques
 
 > Product ID `35280` · Digistore24 productId `356494` · [HTML profile page](../../produkte/essential-freediving-techniques-35280.html)

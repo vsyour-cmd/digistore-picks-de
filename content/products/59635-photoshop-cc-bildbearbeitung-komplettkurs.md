@@ -1,3 +1,24 @@
+---
+product_id: "59635"
+digistore24_product_id: 734140
+title: "Photoshop CC Bildbearbeitung Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film","Software"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734140?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734140"
+language: "de"
+---
 # Photoshop CC Bildbearbeitung Komplettkurs
 
 > Product ID `59635` · Digistore24 productId `734140` · [HTML profile page](../../produkte/photoshop-cc-bildbearbeitung-komplettkurs-59635.html)

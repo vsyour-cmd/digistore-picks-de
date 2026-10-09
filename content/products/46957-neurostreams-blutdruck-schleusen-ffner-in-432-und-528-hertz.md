@@ -1,3 +1,24 @@
+---
+product_id: "46957"
+digistore24_product_id: 227473
+title: "Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Home & Garden"]
+listed_since: "2018-06-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/"
+language: "de"
+---
 # Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz
 
 > Product ID `46957` · Digistore24 productId `227473` · [HTML profile page](../../produkte/neurostreams-blutdruck-schleusen-ffner-in-432-und-528-hertz-46957.html)

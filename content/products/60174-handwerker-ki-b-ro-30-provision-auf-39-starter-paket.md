@@ -1,3 +1,24 @@
+---
+product_id: "60174"
+digistore24_product_id: 726272
+title: "Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket"
+vendor: "handwerkerkibuero2026"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://amtsbuechler-digital.de/handwerker-ki-buero-v1-0.html?v=20260915&aff=adminstore#aff=adminstore"
+sales_page: "https://amtsbuechler-digital.de/handwerker-ki-buero-v1-0.html?v=20260915"
+language: "de"
+---
 # Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
 > Product ID `60174` · Digistore24 productId `726272` · [HTML profile page](../../produkte/handwerker-ki-b-ro-30-provision-auf-39-starter-paket-60174.html)

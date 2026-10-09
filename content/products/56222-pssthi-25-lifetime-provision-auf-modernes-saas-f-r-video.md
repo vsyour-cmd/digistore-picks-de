@@ -1,3 +1,24 @@
+---
+product_id: "56222"
+digistore24_product_id: 683899
+title: "pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video"
+vendor: "mxxt11"
+product_type: "Software"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-04-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://pssthi.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://pssthi.com/"
+language: "de"
+---
 # pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video
 
 > Product ID `56222` · Digistore24 productId `683899` · [HTML profile page](../../produkte/pssthi-25-lifetime-provision-auf-modernes-saas-f-r-video-56222.html)

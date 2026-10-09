@@ -1,3 +1,24 @@
+---
+product_id: "60190"
+digistore24_product_id: 731830
+title: "MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot"
+vendor: "smartboostAI"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://robertschumacher.io/app?aff=adminstore#aff=adminstore"
+sales_page: "https://robertschumacher.io/app"
+language: "de"
+---
 # MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot
 
 > Product ID `60190` · Digistore24 productId `731830` · [HTML profile page](../../produkte/mehr-verkaufen-durch-weniger-posten-digitales-angebot-60190.html)

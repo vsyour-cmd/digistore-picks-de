@@ -1,3 +1,24 @@
+---
+product_id: "59818"
+digistore24_product_id: 737979
+title: "Wandern im Harz mit Kindern"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Travel & Culture"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/737979?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/737979"
+language: "de"
+---
 # Wandern im Harz mit Kindern
 
 > Product ID `59818` · Digistore24 productId `737979` · [HTML profile page](../../produkte/wandern-im-harz-mit-kindern-59818.html)

@@ -1,3 +1,24 @@
+---
+product_id: "22947"
+digistore24_product_id: 203735
+title: "Gitarre spielen nach Noten (Videokurs)"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 101.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 26.47
+cart_conversion_pct: 17
+cancel_rate_pct: 2.66
+categories: ["Dancing & Music"]
+listed_since: "2018-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/"
+language: "de"
+---
 # Gitarre spielen nach Noten (Videokurs)
 
 > Product ID `22947` · Digistore24 productId `203735` · [HTML profile page](../../produkte/gitarre-spielen-nach-noten-videokurs-22947.html)

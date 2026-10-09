@@ -1,3 +1,24 @@
+---
+product_id: "59295"
+digistore24_product_id: 734161
+title: "Was Frauen wollen – und wie du es ihnen geben"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734161?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734161"
+language: "de"
+---
 # Was Frauen wollen – und wie du es ihnen geben
 
 > Product ID `59295` · Digistore24 productId `734161` · [HTML profile page](../../produkte/was-frauen-wollen-und-wie-du-es-ihnen-geben-59295.html)

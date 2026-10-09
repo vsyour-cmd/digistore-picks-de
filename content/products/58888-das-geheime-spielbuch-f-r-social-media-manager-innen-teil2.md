@@ -1,3 +1,24 @@
+---
+product_id: "58888"
+digistore24_product_id: 728339
+title: "Das geheime Spielbuch für Social Media Manager:innen – Teil2"
+vendor: "Medina88"
+product_type: "E-books"
+price: 208.04
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 62.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/728339?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/728339"
+language: "de"
+---
 # Das geheime Spielbuch für Social Media Manager:innen – Teil2
 
 > Product ID `58888` · Digistore24 productId `728339` · [HTML profile page](../../produkte/das-geheime-spielbuch-f-r-social-media-manager-innen-teil2-58888.html)

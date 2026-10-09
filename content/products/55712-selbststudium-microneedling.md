@@ -1,3 +1,24 @@
+---
+product_id: "55712"
+digistore24_product_id: 669897
+title: "Selbststudium Microneedling"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/669897?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/669897"
+language: "de"
+---
 # Selbststudium Microneedling
 
 > Product ID `55712` · Digistore24 productId `669897` · [HTML profile page](../../produkte/selbststudium-microneedling-55712.html)

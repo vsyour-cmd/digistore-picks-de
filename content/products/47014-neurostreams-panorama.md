@@ -1,3 +1,24 @@
+---
+product_id: "47014"
+digistore24_product_id: 247293
+title: "Neurostreams™ Panorama"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 10.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2018-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/specials/panorama/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/specials/panorama/"
+language: "de"
+---
 # Neurostreams™ Panorama
 
 > Product ID `47014` · Digistore24 productId `247293` · [HTML profile page](../../produkte/neurostreams-panorama-47014.html)

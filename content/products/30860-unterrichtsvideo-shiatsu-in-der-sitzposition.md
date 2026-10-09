@@ -1,3 +1,24 @@
+---
+product_id: "30860"
+digistore24_product_id: 297717
+title: "Unterrichtsvideo \"Shiatsu in der Sitzposition\""
+vendor: "shiatsuart"
+product_type: "Downloads"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.shiatsu.de/muenchen/node/909?aff=adminstore#aff=adminstore"
+sales_page: "https://www.shiatsu.de/muenchen/node/909"
+language: "de"
+---
 # Unterrichtsvideo "Shiatsu in der Sitzposition"
 
 > Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../produkte/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)

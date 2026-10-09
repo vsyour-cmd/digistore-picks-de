@@ -1,3 +1,24 @@
+---
+product_id: "55779"
+digistore24_product_id: 669894
+title: "Skin Glow Masterclass"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/669894?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/669894"
+language: "de"
+---
 # Skin Glow Masterclass
 
 > Product ID `55779` · Digistore24 productId `669894` · [HTML profile page](../../produkte/skin-glow-masterclass-55779.html)

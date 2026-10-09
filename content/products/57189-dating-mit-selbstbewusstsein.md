@@ -1,3 +1,24 @@
+---
+product_id: "57189"
+digistore24_product_id: 701947
+title: "Dating mit Selbstbewusstsein"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein"
+language: "de"
+---
 # Dating mit Selbstbewusstsein
 
 > Product ID `57189` · Digistore24 productId `701947` · [HTML profile page](../../produkte/dating-mit-selbstbewusstsein-57189.html)

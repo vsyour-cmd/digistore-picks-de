@@ -1,3 +1,24 @@
+---
+product_id: "50784"
+digistore24_product_id: 586934
+title: "Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb"
+vendor: "PFEOS-Kraemer"
+product_type: "Member area and video courses"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2024-12-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/586934?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/586934"
+language: "de"
+---
 # Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb
 
 > Product ID `50784` · Digistore24 productId `586934` · [HTML profile page](../../produkte/das-f-hrungsdreieck-k-nnen-wollen-d-rfen-video-und-workb-50784.html)

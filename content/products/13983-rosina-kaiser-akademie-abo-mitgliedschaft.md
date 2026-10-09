@@ -1,3 +1,24 @@
+---
+product_id: "13983"
+digistore24_product_id: 100605
+title: "Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)"
+vendor: "rosinakaiser"
+product_type: "Member area and video courses"
+price: 544.62
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 47.12
+cart_conversion_pct: 4
+cancel_rate_pct: 2.99
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2016-10-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rosinakaiser.de/webinar"
+language: "de"
+---
 # Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)
 
 > Product ID `13983` · Digistore24 productId `100605` · [HTML profile page](../../produkte/rosina-kaiser-akademie-abo-mitgliedschaft-13983.html)

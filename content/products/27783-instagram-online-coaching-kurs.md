@@ -1,3 +1,24 @@
+---
+product_id: "27783"
+digistore24_product_id: 257135
+title: "Instagram Online Coaching Kurs"
+vendor: "TanjaV"
+product_type: "Downloads"
+price: 28.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.98
+cart_conversion_pct: 29
+cancel_rate_pct: 1.5
+categories: ["Social Media"]
+listed_since: "2019-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/"
+language: "de"
+---
 # Instagram Online Coaching Kurs
 
 > Product ID `27783` · Digistore24 productId `257135` · [HTML profile page](../../produkte/instagram-online-coaching-kurs-27783.html)

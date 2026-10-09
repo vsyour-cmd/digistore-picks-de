@@ -1,3 +1,24 @@
+---
+product_id: "31623"
+digistore24_product_id: 308550
+title: "Organizer: Gartenplaner für Selbstversorger"
+vendor: "BiotopicaFarm"
+product_type: "E-books"
+price: 12.49
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2020-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/"
+language: "de"
+---
 # Organizer: Gartenplaner für Selbstversorger
 
 > Product ID `31623` · Digistore24 productId `308550` · [HTML profile page](../../produkte/organizer-gartenplaner-f-r-selbstversorger-31623.html)

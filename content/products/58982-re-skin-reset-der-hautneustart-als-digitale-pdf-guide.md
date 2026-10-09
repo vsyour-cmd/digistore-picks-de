@@ -1,3 +1,24 @@
+---
+product_id: "58982"
+digistore24_product_id: 730548
+title: "RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide"
+vendor: "sinamir"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/730548?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730548"
+language: "de"
+---
 # RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide
 
 > Product ID `58982` · Digistore24 productId `730548` · [HTML profile page](../../produkte/re-skin-reset-der-hautneustart-als-digitale-pdf-guide-58982.html)

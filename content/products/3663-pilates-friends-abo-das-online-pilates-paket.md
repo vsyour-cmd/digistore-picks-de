@@ -1,3 +1,24 @@
+---
+product_id: "3663"
+digistore24_product_id: 23599
+title: "Pilates&Friends Abo - Das Online Pilates Paket"
+vendor: "rudingo"
+product_type: "Member area and video courses"
+price: 405.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 214.97
+cart_conversion_pct: 15
+cancel_rate_pct: 0.71
+categories: ["Health & Fitness","Sport"]
+listed_since: "2014-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://pilatesandfriends.com/abo?aff=adminstore#aff=adminstore"
+sales_page: "https://pilatesandfriends.com/abo"
+language: "de"
+---
 # Pilates&Friends Abo - Das Online Pilates Paket
 
 > Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)

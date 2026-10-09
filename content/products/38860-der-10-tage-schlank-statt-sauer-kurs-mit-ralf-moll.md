@@ -1,3 +1,24 @@
+---
+product_id: "38860"
+digistore24_product_id: 422975
+title: "Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll"
+vendor: "RalfMollFastensuppen"
+product_type: "Online coaching"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 12
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2022-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/?aff=adminstore#aff=adminstore"
+sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/"
+language: "de"
+---
 # Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll
 
 > Product ID `38860` · Digistore24 productId `422975` · [HTML profile page](../../produkte/der-10-tage-schlank-statt-sauer-kurs-mit-ralf-moll-38860.html)

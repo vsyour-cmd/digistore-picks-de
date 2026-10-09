@@ -1,3 +1,24 @@
+---
+product_id: "40076"
+digistore24_product_id: 310527
+title: "ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose"
+vendor: "Mariposa75"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2020-02-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://katja-amberg-shop.de/entscheidungshilfe?aff=adminstore#aff=adminstore"
+sales_page: "http://katja-amberg-shop.de/entscheidungshilfe"
+language: "de"
+---
 # ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose
 
 > Product ID `40076` · Digistore24 productId `310527` · [HTML profile page](../../produkte/entscheidungshilfe-finde-deinen-richtigen-weg-hypnose-40076.html)

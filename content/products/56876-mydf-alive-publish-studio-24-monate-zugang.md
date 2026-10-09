@@ -1,3 +1,24 @@
+---
+product_id: "56876"
+digistore24_product_id: 682622
+title: "MyDF-Alive Publish Studio-24 Monate Zugang"
+vendor: "Selfrealization"
+product_type: "Software"
+price: 375.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 112.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Online Marketing"]
+listed_since: "2026-06-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://mydayflow-ai.com/preise?aff=adminstore#aff=adminstore"
+sales_page: "https://mydayflow-ai.com/preise"
+language: "de"
+---
 # MyDF-Alive Publish Studio-24 Monate Zugang
 
 > Product ID `56876` · Digistore24 productId `682622` · [HTML profile page](../../produkte/mydf-alive-publish-studio-24-monate-zugang-56876.html)

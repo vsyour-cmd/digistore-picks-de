@@ -1,3 +1,24 @@
+---
+product_id: "38189"
+digistore24_product_id: 410820
+title: "Online-Kurs: Homöopathie für Babys und Kleinkinder"
+vendor: "thopuh"
+product_type: "Member area and video courses"
+price: 61.08
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 26.15
+cart_conversion_pct: 13
+cancel_rate_pct: 1.59
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2021-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern"
+language: "de"
+---
 # Online-Kurs: Homöopathie für Babys und Kleinkinder
 
 > Product ID `38189` · Digistore24 productId `410820` · [HTML profile page](../../produkte/online-kurs-hom-opathie-f-r-babys-und-kleinkinder-38189.html)

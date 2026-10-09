@@ -1,3 +1,24 @@
+---
+product_id: "54331"
+digistore24_product_id: 485187
+title: "Dein Inselmoment für Zuhause"
+vendor: "lauraknillcoaching"
+product_type: "Online coaching"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2023-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/485187?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/485187"
+language: "de"
+---
 # Dein Inselmoment für Zuhause
 
 > Product ID `54331` · Digistore24 productId `485187` · [HTML profile page](../../produkte/dein-inselmoment-f-r-zuhause-54331.html)

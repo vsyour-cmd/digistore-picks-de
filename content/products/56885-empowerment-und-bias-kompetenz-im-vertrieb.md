@@ -1,3 +1,24 @@
+---
+product_id: "56885"
+digistore24_product_id: 640958
+title: "Empowerment und Bias-Kompetenz im Vertrieb"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 65.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Sales Training"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640958?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640958"
+language: "de"
+---
 # Empowerment und Bias-Kompetenz im Vertrieb
 
 > Product ID `56885` · Digistore24 productId `640958` · [HTML profile page](../../produkte/empowerment-und-bias-kompetenz-im-vertrieb-56885.html)

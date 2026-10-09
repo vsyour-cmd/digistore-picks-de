@@ -1,3 +1,24 @@
+---
+product_id: "11043"
+digistore24_product_id: 59355
+title: "Online-Video-Kurs \"Sprache professionell aufnehmen\" 2019"
+vendor: "isidde"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2015-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.isid.de/sprachaufnahme/"
+language: "de"
+---
 # Online-Video-Kurs "Sprache professionell aufnehmen" 2019
 
 > Product ID `11043` · Digistore24 productId `59355` · [HTML profile page](../../produkte/online-video-kurs-sprache-professionell-aufnehmen-2019-11043.html)

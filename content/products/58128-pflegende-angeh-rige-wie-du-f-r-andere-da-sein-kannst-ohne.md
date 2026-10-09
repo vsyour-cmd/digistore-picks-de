@@ -1,3 +1,24 @@
+---
+product_id: "58128"
+digistore24_product_id: 717925
+title: "Pflegende Angehörige Wie du für andere da sein kannst, ohne"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/717925?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717925"
+language: "de"
+---
 # Pflegende Angehörige Wie du für andere da sein kannst, ohne
 
 > Product ID `58128` · Digistore24 productId `717925` · [HTML profile page](../../produkte/pflegende-angeh-rige-wie-du-f-r-andere-da-sein-kannst-ohne-58128.html)

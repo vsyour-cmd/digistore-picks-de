@@ -1,3 +1,24 @@
+---
+product_id: "59057"
+digistore24_product_id: 727256
+title: "Das ultimative Karriere Master-Kit für Pflegefachkräfte"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/pflegefachkraefte/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/pflegefachkraefte/"
+language: "de"
+---
 # Das ultimative Karriere Master-Kit für Pflegefachkräfte
 
 > Product ID `59057` · Digistore24 productId `727256` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-pflegefachkr-fte-59057.html)

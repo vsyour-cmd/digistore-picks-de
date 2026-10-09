@@ -1,3 +1,24 @@
+---
+product_id: "44823"
+digistore24_product_id: 508793
+title: "Kontakt findet an der Grenze statt"
+vendor: "MirjamBuchmann"
+product_type: "E-books"
+price: 20.38
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2023-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/508793?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/508793"
+language: "de"
+---
 # Kontakt findet an der Grenze statt
 
 > Product ID `44823` · Digistore24 productId `508793` · [HTML profile page](../../produkte/kontakt-findet-an-der-grenze-statt-44823.html)

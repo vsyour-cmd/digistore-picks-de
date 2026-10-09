@@ -1,3 +1,24 @@
+---
+product_id: "14123"
+digistore24_product_id: 227813
+title: "LingoClick - der 1-Klick-Übersetzer"
+vendor: "schleinzer"
+product_type: "Software"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2018-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lingo.click/?digistore24&aff=adminstore#aff=adminstore"
+sales_page: "https://lingo.click/?digistore24"
+language: "de"
+---
 # LingoClick - der 1-Klick-Übersetzer
 
 > Product ID `14123` · Digistore24 productId `227813` · [HTML profile page](../../produkte/lingoclick-der-1-klick-bersetzer-14123.html)

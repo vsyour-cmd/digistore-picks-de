@@ -1,3 +1,24 @@
+---
+product_id: "56029"
+digistore24_product_id: 679284
+title: "Low Budget Küche - Kochen trotz wenig Geld"
+vendor: "Freifone"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Health & Fitness"]
+listed_since: "2026-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/low-budget-kuche?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/low-budget-kuche"
+language: "de"
+---
 # Low Budget Küche - Kochen trotz wenig Geld
 
 > Product ID `56029` · Digistore24 productId `679284` · [HTML profile page](../../produkte/low-budget-k-che-kochen-trotz-wenig-geld-56029.html)

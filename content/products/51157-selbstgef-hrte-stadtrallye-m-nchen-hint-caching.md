@@ -1,3 +1,24 @@
+---
+product_id: "51157"
+digistore24_product_id: 433661
+title: "Selbstgeführte Stadtrallye München | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-muenchen/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-muenchen/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye München | Hint-Caching
 
 > Product ID `51157` · Digistore24 productId `433661` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-m-nchen-hint-caching-51157.html)

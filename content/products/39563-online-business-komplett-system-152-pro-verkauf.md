@@ -1,3 +1,24 @@
+---
+product_id: "39563"
+digistore24_product_id: 435384
+title: "Online Business Komplett System | 152€ pro Verkauf!"
+vendor: "CyrilCash"
+product_type: "Member area and video courses"
+price: 97.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 152.45
+cart_conversion_pct: 8
+cancel_rate_pct: 9.56
+categories: ["Education"]
+listed_since: "2022-03-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://business-kickstart.de/obks-v2/?aff=adminstore#aff=adminstore"
+sales_page: "https://business-kickstart.de/obks-v2/"
+language: "de"
+---
 # Online Business Komplett System | 152€ pro Verkauf!
 
 > Product ID `39563` · Digistore24 productId `435384` · [HTML profile page](../../produkte/online-business-komplett-system-152-pro-verkauf-39563.html)

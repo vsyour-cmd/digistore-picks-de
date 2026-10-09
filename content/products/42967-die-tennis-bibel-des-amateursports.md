@@ -1,3 +1,24 @@
+---
+product_id: "42967"
+digistore24_product_id: 488060
+title: "Die Tennis Bibel des Amateursports"
+vendor: "Ronny84"
+product_type: "E-books"
+price: 36.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Hobby & Craft","Sport"]
+listed_since: "2023-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
+sales_page: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE"
+language: "de"
+---
 # Die Tennis Bibel des Amateursports
 
 > Product ID `42967` · Digistore24 productId `488060` · [HTML profile page](../../produkte/die-tennis-bibel-des-amateursports-42967.html)

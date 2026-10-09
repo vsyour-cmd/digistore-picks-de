@@ -1,3 +1,24 @@
+---
+product_id: "45581"
+digistore24_product_id: 519840
+title: "Die Macht von ChatGPT - Perfekte Prompts für deinen Content"
+vendor: "sattelitevendor"
+product_type: "Member area and video courses"
+price: 115.97
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 44.13
+cart_conversion_pct: 12
+cancel_rate_pct: 3.53
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2023-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ki-ideenfabrik.com/start?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-ideenfabrik.com/start"
+language: "de"
+---
 # Die Macht von ChatGPT - Perfekte Prompts für deinen Content
 
 > Product ID `45581` · Digistore24 productId `519840` · [HTML profile page](../../produkte/die-macht-von-chatgpt-perfekte-prompts-f-r-deinen-content-45581.html)

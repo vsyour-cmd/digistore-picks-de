@@ -1,3 +1,24 @@
+---
+product_id: "2313"
+digistore24_product_id: 21781
+title: "Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten"
+vendor: "keinepanikattacken"
+product_type: "Downloads"
+price: 31.96
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2014-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://mein-abnehmblog.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://mein-abnehmblog.de/"
+language: "de"
+---
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
 > Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)

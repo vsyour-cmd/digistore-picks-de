@@ -1,3 +1,24 @@
+---
+product_id: "36096"
+digistore24_product_id: 324765
+title: "VIP ONLINE DANCE ACADEMY ABO"
+vendor: "andyandkellykainz"
+product_type: "Member area and video courses"
+price: 32.81
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 4.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andyandkellykainz.com/vip-academy/?aff=adminstore#aff=adminstore"
+sales_page: "https://andyandkellykainz.com/vip-academy/"
+language: "de"
+---
 # VIP ONLINE DANCE ACADEMY ABO
 
 > Product ID `36096` · Digistore24 productId `324765` · [HTML profile page](../../produkte/vip-online-dance-academy-abo-36096.html)

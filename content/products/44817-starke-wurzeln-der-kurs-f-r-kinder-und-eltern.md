@@ -1,3 +1,24 @@
+---
+product_id: "44817"
+digistore24_product_id: 396831
+title: "Starke Wurzeln-Der Kurs für Kinder und Eltern"
+vendor: "YesOnline"
+product_type: "Member area and video courses"
+price: 247.22
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 74.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2021-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.yes-onlinekurs.ch/lp/starke-wurzeln/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.yes-onlinekurs.ch/lp/starke-wurzeln/"
+language: "de"
+---
 # Starke Wurzeln-Der Kurs für Kinder und Eltern
 
 > Product ID `44817` · Digistore24 productId `396831` · [HTML profile page](../../produkte/starke-wurzeln-der-kurs-f-r-kinder-und-eltern-44817.html)

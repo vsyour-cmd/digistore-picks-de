@@ -1,3 +1,24 @@
+---
+product_id: "56432"
+digistore24_product_id: 689563
+title: "Ebook - Forensik - heute und morgen"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 7.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689563?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689563"
+language: "de"
+---
 # Ebook - Forensik - heute und morgen
 
 > Product ID `56432` · Digistore24 productId `689563` · [HTML profile page](../../produkte/ebook-forensik-heute-und-morgen-56432.html)

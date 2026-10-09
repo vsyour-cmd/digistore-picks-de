@@ -1,3 +1,24 @@
+---
+product_id: "43632"
+digistore24_product_id: 495128
+title: "Entkomme dem Hamsterrad"
+vendor: "HolzJunge"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/rSiL7K5swDsEvHjuC?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/rSiL7K5swDsEvHjuC"
+language: "de"
+---
 # Entkomme dem Hamsterrad
 
 > Product ID `43632` · Digistore24 productId `495128` · [HTML profile page](../../produkte/entkomme-dem-hamsterrad-43632.html)

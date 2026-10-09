@@ -1,3 +1,24 @@
+---
+product_id: "49077"
+digistore24_product_id: 566922
+title: "Elternförderprogramm"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 749.46
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 74.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2024-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.mydigibiz24.com/lexosophie-elterncoaching-2?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/lexosophie-elterncoaching-2"
+language: "de"
+---
 # Elternförderprogramm
 
 > Product ID `49077` · Digistore24 productId `566922` · [HTML profile page](../../produkte/elternf-rderprogramm-49077.html)

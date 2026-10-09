@@ -1,3 +1,24 @@
+---
+product_id: "54778"
+digistore24_product_id: 647324
+title: "Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12."
+vendor: "pulsingearth"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2025-11-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pulsing-earth.com/schlaf-online-kongress/?aff=adminstore#aff=adminstore"
+sales_page: "https://pulsing-earth.com/schlaf-online-kongress/"
+language: "de"
+---
 # Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.
 
 > Product ID `54778` · Digistore24 productId `647324` · [HTML profile page](../../produkte/schlaf-die-essenz-online-kongress-ab-7-12-bis-16-12-54778.html)

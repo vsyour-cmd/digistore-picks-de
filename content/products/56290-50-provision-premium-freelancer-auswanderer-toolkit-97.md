@@ -1,3 +1,24 @@
+---
+product_id: "56290"
+digistore24_product_id: 684867
+title: "50% Provision: Premium Freelancer Auswanderer Toolkit (97€)"
+vendor: "matze2307"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Travel & Culture"]
+listed_since: "2026-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bohle-digital.systeme.io/freelancer-toolkit/?aff=adminstore#aff=adminstore"
+sales_page: "https://bohle-digital.systeme.io/freelancer-toolkit/"
+language: "de"
+---
 # 50% Provision: Premium Freelancer Auswanderer Toolkit (97€)
 
 > Product ID `56290` · Digistore24 productId `684867` · [HTML profile page](../../produkte/50-provision-premium-freelancer-auswanderer-toolkit-97-56290.html)

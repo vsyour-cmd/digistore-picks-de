@@ -1,3 +1,24 @@
+---
+product_id: "57059"
+digistore24_product_id: 703384
+title: "Das Stammkunden-Prinzip im Affiliate Marketing"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/lifetime-prinzip-affiliate-marketing?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/lifetime-prinzip-affiliate-marketing"
+language: "de"
+---
 # Das Stammkunden-Prinzip im Affiliate Marketing
 
 > Product ID `57059` · Digistore24 productId `703384` · [HTML profile page](../../produkte/das-stammkunden-prinzip-im-affiliate-marketing-57059.html)

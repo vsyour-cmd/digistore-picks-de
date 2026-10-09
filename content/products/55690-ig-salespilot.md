@@ -1,3 +1,24 @@
+---
+product_id: "55690"
+digistore24_product_id: 595193
+title: "IG SalesPilot"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 310.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 111.21
+cart_conversion_pct: 10
+cancel_rate_pct: 0.77
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/ig-salespilot/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/ig-salespilot/"
+language: "de"
+---
 # IG SalesPilot
 
 > Product ID `55690` · Digistore24 productId `595193` · [HTML profile page](../../produkte/ig-salespilot-55690.html)

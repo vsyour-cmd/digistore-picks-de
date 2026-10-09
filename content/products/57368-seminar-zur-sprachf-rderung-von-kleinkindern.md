@@ -1,3 +1,24 @@
+---
+product_id: "57368"
+digistore24_product_id: 703375
+title: "Seminar zur Sprachförderung von Kleinkindern"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 671.16
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 67.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/703375?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/703375"
+language: "de"
+---
 # Seminar zur Sprachförderung von Kleinkindern
 
 > Product ID `57368` · Digistore24 productId `703375` · [HTML profile page](../../produkte/seminar-zur-sprachf-rderung-von-kleinkindern-57368.html)

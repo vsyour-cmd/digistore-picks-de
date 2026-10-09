@@ -1,3 +1,24 @@
+---
+product_id: "56200"
+digistore24_product_id: 683531
+title: "Fitness Bundle - Deine 4 eBooks zum Erfolg"
+vendor: "Freifone"
+product_type: "E-books"
+price: 62.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2026-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designs-nf.com/ebooks/fitness-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://designs-nf.com/ebooks/fitness-bundle"
+language: "de"
+---
 # Fitness Bundle - Deine 4 eBooks zum Erfolg
 
 > Product ID `56200` · Digistore24 productId `683531` · [HTML profile page](../../produkte/fitness-bundle-deine-4-ebooks-zum-erfolg-56200.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57074"
+digistore24_product_id: 682173
+title: "„Echte Energie. Echter Genuss.\" – 50 % Provision auf einen E"
+vendor: "ak2210"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/682173?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/682173"
+language: "de"
+---
 # „Echte Energie. Echter Genuss." – 50 % Provision auf einen E
 
 > Product ID `57074` · Digistore24 productId `682173` · [HTML profile page](../../produkte/echte-energie-echter-genuss-50-provision-auf-einen-e-57074.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54768"
+digistore24_product_id: 651091
+title: "Dein Notfall-Dossier – Die persönliche Notfallmappe"
+vendor: "dd530xd"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Law & Justice","Services"]
+listed_since: "2025-11-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/651091?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/651091"
+language: "de"
+---
 # Dein Notfall-Dossier – Die persönliche Notfallmappe
 
 > Product ID `54768` · Digistore24 productId `651091` · [HTML profile page](../../produkte/dein-notfall-dossier-die-pers-nliche-notfallmappe-54768.html)

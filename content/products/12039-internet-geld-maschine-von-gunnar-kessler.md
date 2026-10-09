@@ -1,3 +1,24 @@
+---
+product_id: "12039"
+digistore24_product_id: 79507
+title: "Internet Geld Maschine - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 751.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 375.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2016-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyeschufterei.de/internet-geld-maschine-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/internet-geld-maschine-7500/"
+language: "de"
+---
 # Internet Geld Maschine - von Gunnar Kessler
 
 > Product ID `12039` · Digistore24 productId `79507` · [HTML profile page](../../produkte/internet-geld-maschine-von-gunnar-kessler-12039.html)

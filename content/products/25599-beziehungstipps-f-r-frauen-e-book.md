@@ -1,3 +1,24 @@
+---
+product_id: "25599"
+digistore24_product_id: 88745
+title: "Beziehungstipps für Frauen [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2016-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/"
+language: "de"
+---
 # Beziehungstipps für Frauen [E-Book]
 
 > Product ID `25599` · Digistore24 productId `88745` · [HTML profile page](../../produkte/beziehungstipps-f-r-frauen-e-book-25599.html)

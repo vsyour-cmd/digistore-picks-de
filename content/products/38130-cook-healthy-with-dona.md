@@ -1,3 +1,24 @@
+---
+product_id: "38130"
+digistore24_product_id: 409253
+title: "COOK HEALTHY WITH DONA"
+vendor: "Liridonasuljevic"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2021-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://stayhealthywithdona.com/cook-healthy-with-dona?aff=adminstore#aff=adminstore"
+sales_page: "https://stayhealthywithdona.com/cook-healthy-with-dona"
+language: "de"
+---
 # COOK HEALTHY WITH DONA
 
 > Product ID `38130` · Digistore24 productId `409253` · [HTML profile page](../../produkte/cook-healthy-with-dona-38130.html)

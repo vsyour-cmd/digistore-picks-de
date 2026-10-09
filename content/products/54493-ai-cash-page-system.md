@@ -1,3 +1,24 @@
+---
+product_id: "54493"
+digistore24_product_id: 642877
+title: "AI Cash Page System"
+vendor: "CashUnity"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 71.29
+cart_conversion_pct: 7
+cancel_rate_pct: 5.14
+categories: ["Computer & Internet","Profession & Job","Online Marketing"]
+listed_since: "2025-10-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ai-cash-page-system-dd.24-7-ai-cash-system.academy/?aff=adminstore#aff=adminstore"
+sales_page: "https://ai-cash-page-system-dd.24-7-ai-cash-system.academy/"
+language: "de"
+---
 # AI Cash Page System
 
 > Product ID `54493` · Digistore24 productId `642877` · [HTML profile page](../../produkte/ai-cash-page-system-54493.html)

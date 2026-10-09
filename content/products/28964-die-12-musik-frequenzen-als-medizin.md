@@ -1,3 +1,24 @@
+---
+product_id: "28964"
+digistore24_product_id: 584114
+title: "Die 12 Musik-Frequenzen als Medizin"
+vendor: "Musik-Apotheke"
+product_type: "Downloads"
+price: 54.36
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.71
+cart_conversion_pct: 15
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2024-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/"
+language: "de"
+---
 # Die 12 Musik-Frequenzen als Medizin
 
 > Product ID `28964` · Digistore24 productId `584114` · [HTML profile page](../../produkte/die-12-musik-frequenzen-als-medizin-28964.html)

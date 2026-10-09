@@ -1,3 +1,24 @@
+---
+product_id: "60212"
+digistore24_product_id: 739008
+title: "Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision"
+vendor: "info0eba"
+product_type: "E-books"
+price: 18.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Law & Justice","Real Estate"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/?aff=adminstore#aff=adminstore"
+sales_page: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/"
+language: "de"
+---
 # Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision
 
 > Product ID `60212` · Digistore24 productId `739008` · [HTML profile page](../../produkte/alte-heizung-was-jetzt-ratgeber-zum-neuen-heizungsgesetz-gmodg-50-provision-60212.html)

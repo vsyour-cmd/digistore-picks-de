@@ -1,3 +1,24 @@
+---
+product_id: "58871"
+digistore24_product_id: 727941
+title: "Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag"
+vendor: "jaqui19926004"
+product_type: "Downloads"
+price: 14.05
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/dein-praktischer-stressmanagement-planer?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-richtig-nutzen.my.canva.site/dein-praktischer-stressmanagement-planer"
+language: "de"
+---
 # Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag
 
 > Product ID `58871` · Digistore24 productId `727941` · [HTML profile page](../../produkte/stressmanagement-planer-mehr-ruhe-und-klarheit-im-alltag-58871.html)

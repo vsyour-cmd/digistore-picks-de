@@ -1,3 +1,24 @@
+---
+product_id: "59437"
+digistore24_product_id: 735393
+title: "Erfolg Als Mann"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735393?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735393"
+language: "de"
+---
 # Erfolg Als Mann
 
 > Product ID `59437` · Digistore24 productId `735393` · [HTML profile page](../../produkte/erfolg-als-mann-59437.html)

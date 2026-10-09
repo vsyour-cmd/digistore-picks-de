@@ -1,3 +1,24 @@
+---
+product_id: "56598"
+digistore24_product_id: 500873
+title: "Hypnose-Onlinekurs Blockadenlösung"
+vendor: "petanthony"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 11.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://shop.petanthony.com/online-kurse_blockadenloesung_DS/?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.petanthony.com/online-kurse_blockadenloesung_DS/"
+language: "de"
+---
 # Hypnose-Onlinekurs Blockadenlösung
 
 > Product ID `56598` · Digistore24 productId `500873` · [HTML profile page](../../produkte/hypnose-onlinekurs-blockadenl-sung-56598.html)

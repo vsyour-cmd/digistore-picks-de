@@ -1,3 +1,24 @@
+---
+product_id: "37996"
+digistore24_product_id: 410761
+title: "BIG GIG BUSINESS - Einkommen als Fiverr-Freelancer"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Services"]
+listed_since: "2021-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/bgb-fe/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/bgb-fe/"
+language: "de"
+---
 # BIG GIG BUSINESS - Einkommen als Fiverr-Freelancer
 
 > Product ID `37996` · Digistore24 productId `410761` · [HTML profile page](../../produkte/big-gig-business-einkommen-als-fiverr-freelancer-37996.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59497"
+digistore24_product_id: 732143
+title: "GKG-1 Grundlagenermittlung"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732143?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732143"
+language: "de"
+---
 # GKG-1 Grundlagenermittlung
 
 > Product ID `59497` · Digistore24 productId `732143` · [HTML profile page](../../produkte/gkg-1-grundlagenermittlung-59497.html)

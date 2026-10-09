@@ -1,3 +1,24 @@
+---
+product_id: "40426"
+digistore24_product_id: 378787
+title: "Kuhwede Look - Bildbearbeitung auf Profiniveau"
+vendor: "KuhwedeMedia"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2021-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fotogrow.de/kuhwedelook/?aff=adminstore#aff=adminstore"
+sales_page: "https://fotogrow.de/kuhwedelook/"
+language: "de"
+---
 # Kuhwede Look - Bildbearbeitung auf Profiniveau
 
 > Product ID `40426` · Digistore24 productId `378787` · [HTML profile page](../../produkte/kuhwede-look-bildbearbeitung-auf-profiniveau-40426.html)

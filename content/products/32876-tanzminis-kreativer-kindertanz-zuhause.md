@@ -1,3 +1,24 @@
+---
+product_id: "32876"
+digistore24_product_id: 324193
+title: "Tanzminis - Kreativer Kindertanz zuhause"
+vendor: "tanzminis"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2020-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.tanzminis.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tanzminis.de"
+language: "de"
+---
 # Tanzminis - Kreativer Kindertanz zuhause
 
 > Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../produkte/tanzminis-kreativer-kindertanz-zuhause-32876.html)

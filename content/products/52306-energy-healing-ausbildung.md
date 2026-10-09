@@ -1,3 +1,24 @@
+---
+product_id: "52306"
+digistore24_product_id: 605258
+title: "Energy Healing Ausbildung"
+vendor: "reichl"
+product_type: "Downloads"
+price: 1870.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 217.6
+cart_conversion_pct: 5
+cancel_rate_pct: 1.19
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2025-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.energy-healing.bayern/ausbildung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.energy-healing.bayern/ausbildung"
+language: "de"
+---
 # Energy Healing Ausbildung
 
 > Product ID `52306` · Digistore24 productId `605258` · [HTML profile page](../../produkte/energy-healing-ausbildung-52306.html)

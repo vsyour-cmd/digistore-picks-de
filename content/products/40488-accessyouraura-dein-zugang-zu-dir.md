@@ -1,3 +1,24 @@
+---
+product_id: "40488"
+digistore24_product_id: 435775
+title: "AccessyourAura- dein Zugang zu dir"
+vendor: "MargitLohninger"
+product_type: "Book (printed)"
+price: 16.21
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.6
+cart_conversion_pct: 32
+cancel_rate_pct: 3.4
+categories: ["Personal Development"]
+listed_since: "2022-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buch.accessyouraura.com/aya-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.accessyouraura.com/aya-buch"
+language: "de"
+---
 # AccessyourAura- dein Zugang zu dir
 
 > Product ID `40488` · Digistore24 productId `435775` · [HTML profile page](../../produkte/accessyouraura-dein-zugang-zu-dir-40488.html)

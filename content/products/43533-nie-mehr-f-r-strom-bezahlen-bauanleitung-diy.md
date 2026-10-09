@@ -1,3 +1,24 @@
+---
+product_id: "43533"
+digistore24_product_id: 492908
+title: "Nie mehr für Strom bezahlen! - Bauanleitung DIY"
+vendor: "gehtanders"
+product_type: "E-books"
+price: 12.17
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.33
+cart_conversion_pct: 28
+cancel_rate_pct: 10.03
+categories: ["Green Products & Environmental Protection","Hobby & Craft"]
+listed_since: "2023-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore"
+sales_page: "https://geheimnisfreieenergie.de/magnetpolgenerator/"
+language: "de"
+---
 # Nie mehr für Strom bezahlen! - Bauanleitung DIY
 
 > Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../produkte/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)

@@ -1,3 +1,24 @@
+---
+product_id: "10719"
+digistore24_product_id: 64911
+title: "Traffic & Conversion Bomber"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 54.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2015-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/traffic-conversion-bomber/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/traffic-conversion-bomber/"
+language: "de"
+---
 # Traffic & Conversion Bomber
 
 > Product ID `10719` · Digistore24 productId `64911` · [HTML profile page](../../produkte/traffic-conversion-bomber-10719.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59377"
+digistore24_product_id: 735001
+title: "Social Media für Hundesalons – 30 Tage Content"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735001?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735001"
+language: "de"
+---
 # Social Media für Hundesalons – 30 Tage Content
 
 > Product ID `59377` · Digistore24 productId `735001` · [HTML profile page](../../produkte/social-media-f-r-hundesalons-30-tage-content-59377.html)

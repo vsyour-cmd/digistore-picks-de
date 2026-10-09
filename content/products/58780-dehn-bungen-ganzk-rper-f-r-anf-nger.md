@@ -1,3 +1,24 @@
+---
+product_id: "58780"
+digistore24_product_id: 727681
+title: "Dehnübungen Ganzkörper für Anfänger"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727681?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727681"
+language: "de"
+---
 # Dehnübungen Ganzkörper für Anfänger
 
 > Product ID `58780` · Digistore24 productId `727681` · [HTML profile page](../../produkte/dehn-bungen-ganzk-rper-f-r-anf-nger-58780.html)

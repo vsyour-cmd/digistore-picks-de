@@ -1,3 +1,24 @@
+---
+product_id: "16717"
+digistore24_product_id: 132869
+title: "Wie kann ich mit meinem DIY-Blog Geld verdienen?"
+vendor: "kreativlaborberlin"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2017-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.kreativlaborberlin.de/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kreativlaborberlin.de/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen/"
+language: "de"
+---
 # Wie kann ich mit meinem DIY-Blog Geld verdienen?
 
 > Product ID `16717` · Digistore24 productId `132869` · [HTML profile page](../../produkte/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen-16717.html)

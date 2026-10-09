@@ -1,3 +1,24 @@
+---
+product_id: "60054"
+digistore24_product_id: 738953
+title: "Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer"
+vendor: "Marketing17"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://haus-energieberater.de/sanierungsangebote-vergleichen/?aff=adminstore#aff=adminstore"
+sales_page: "https://haus-energieberater.de/sanierungsangebote-vergleichen/"
+language: "de"
+---
 # Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer
 
 > Product ID `60054` · Digistore24 productId `738953` · [HTML profile page](../../produkte/sanierungsangebote-vergleichen-ratgeber-f-r-hauseigent-mer-60054.html)

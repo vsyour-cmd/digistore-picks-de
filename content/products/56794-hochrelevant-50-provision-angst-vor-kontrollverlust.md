@@ -1,3 +1,24 @@
+---
+product_id: "56794"
+digistore24_product_id: 691014
+title: "Hochrelevant + 50% Provision: Angst vor Kontrollverlust"
+vendor: "Seelendank"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://angstfrei.shop/produkt/band-9-bundle-die-angst-vor-kontrollverlust/?aff=adminstore#aff=adminstore"
+sales_page: "https://angstfrei.shop/produkt/band-9-bundle-die-angst-vor-kontrollverlust/"
+language: "de"
+---
 # Hochrelevant + 50% Provision: Angst vor Kontrollverlust
 
 > Product ID `56794` · Digistore24 productId `691014` · [HTML profile page](../../produkte/hochrelevant-50-provision-angst-vor-kontrollverlust-56794.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44518"
+digistore24_product_id: 183927
+title: "Wohnmobil Selbstausbauen online Kurs"
+vendor: "MBMweb"
+product_type: "Member area and video courses"
+price: 49.73
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 27.11
+cart_conversion_pct: 9
+cancel_rate_pct: 2.18
+categories: ["Hobby & Craft"]
+listed_since: "2017-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://womoselbstausbauen.com/vk1/?aff=adminstore#aff=adminstore"
+sales_page: "https://womoselbstausbauen.com/vk1/"
+language: "de"
+---
 # Wohnmobil Selbstausbauen online Kurs
 
 > Product ID `44518` · Digistore24 productId `183927` · [HTML profile page](../../produkte/wohnmobil-selbstausbauen-online-kurs-44518.html)

@@ -1,3 +1,24 @@
+---
+product_id: "35950"
+digistore24_product_id: 356369
+title: "Dein Superfan-Funnel"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 69.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 20.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-11-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jyotimaflak.com/superfan-funnel/?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/superfan-funnel/"
+language: "de"
+---
 # Dein Superfan-Funnel
 
 > Product ID `35950` · Digistore24 productId `356369` · [HTML profile page](../../produkte/dein-superfan-funnel-35950.html)

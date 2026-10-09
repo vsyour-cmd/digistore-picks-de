@@ -1,3 +1,24 @@
+---
+product_id: "54803"
+digistore24_product_id: 649034
+title: "70% Provision und Conversions ohne Ende  Project Profit X"
+vendor: "funnelprofits"
+product_type: "Member area and video courses"
+price: 77.36
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 77.24
+cart_conversion_pct: 11
+cancel_rate_pct: 10.92
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.projectprofitx.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.projectprofitx.com/"
+language: "de"
+---
 # 70% Provision und Conversions ohne Ende  Project Profit X
 
 > Product ID `54803` · Digistore24 productId `649034` · [HTML profile page](../../produkte/70-provision-und-conversions-ohne-ende-project-profit-x-54803.html)

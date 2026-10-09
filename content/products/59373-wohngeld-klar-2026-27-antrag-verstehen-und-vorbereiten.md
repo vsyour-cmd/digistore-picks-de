@@ -1,3 +1,24 @@
+---
+product_id: "59373"
+digistore24_product_id: 733172
+title: "Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 41.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wohngeld-klar.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://wohngeld-klar.pages.dev/"
+language: "de"
+---
 # Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten
 
 > Product ID `59373` · Digistore24 productId `733172` · [HTML profile page](../../produkte/wohngeld-klar-2026-27-antrag-verstehen-und-vorbereiten-59373.html)

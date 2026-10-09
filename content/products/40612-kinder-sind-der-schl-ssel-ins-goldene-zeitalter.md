@@ -1,3 +1,24 @@
+---
+product_id: "40612"
+digistore24_product_id: 452041
+title: "Kinder sind der Schlüssel ins Goldene Zeitalter"
+vendor: "RaGarve"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 69.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2022-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://raikgarve.de/kinder-sind-unsere-zukunft/schluessel-ins-goldene-zeitalter/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/kinder-sind-unsere-zukunft/schluessel-ins-goldene-zeitalter/"
+language: "de"
+---
 # Kinder sind der Schlüssel ins Goldene Zeitalter
 
 > Product ID `40612` · Digistore24 productId `452041` · [HTML profile page](../../produkte/kinder-sind-der-schl-ssel-ins-goldene-zeitalter-40612.html)

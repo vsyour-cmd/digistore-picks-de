@@ -1,3 +1,24 @@
+---
+product_id: "57037"
+digistore24_product_id: 671247
+title: "Sabines Qigong-Abo mit kostenloser Probewoche als Freebie"
+vendor: "SabineQigong"
+product_type: "Member area and video courses"
+price: 91.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 45.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore"
+sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo"
+language: "de"
+---
 # Sabines Qigong-Abo mit kostenloser Probewoche als Freebie
 
 > Product ID `57037` · Digistore24 productId `671247` · [HTML profile page](../../produkte/sabines-qigong-abo-mit-kostenloser-probewoche-als-freebie-57037.html)

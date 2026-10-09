@@ -1,3 +1,24 @@
+---
+product_id: "52918"
+digistore24_product_id: 609640
+title: "Webseite in 48 – Webseiten-Paket zum Upload"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 83.29
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 128.99
+cart_conversion_pct: 4
+cancel_rate_pct: 0.81
+categories: ["Computer & Internet","Online Marketing"]
+listed_since: "2025-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://jyotimaflak.com/webseitein48h?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/webseitein48h"
+language: "de"
+---
 # Webseite in 48 – Webseiten-Paket zum Upload
 
 > Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)

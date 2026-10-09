@@ -1,3 +1,24 @@
+---
+product_id: "52163"
+digistore24_product_id: 360643
+title: "KNX Wetterstation programmieren - 2h Videokurs Klickanleit."
+vendor: "smarthomeknx"
+product_type: "Downloads"
+price: 238.07
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 40.38
+cart_conversion_pct: 13
+cancel_rate_pct: 4.84
+categories: ["Marketing Services"]
+listed_since: "2020-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/"
+language: "de"
+---
 # KNX Wetterstation programmieren - 2h Videokurs Klickanleit.
 
 > Product ID `52163` · Digistore24 productId `360643` · [HTML profile page](../../produkte/knx-wetterstation-programmieren-2h-videokurs-klickanleit-52163.html)

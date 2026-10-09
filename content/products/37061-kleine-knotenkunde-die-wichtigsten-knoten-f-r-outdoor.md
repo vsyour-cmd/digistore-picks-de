@@ -1,3 +1,24 @@
+---
+product_id: "37061"
+digistore24_product_id: 396755
+title: "Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor"
+vendor: "ypsilon"
+product_type: "E-books"
+price: 14.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2021-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ousuca.com/buecher/knotenbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://ousuca.com/buecher/knotenbuch/"
+language: "de"
+---
 # Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor
 
 > Product ID `37061` · Digistore24 productId `396755` · [HTML profile page](../../produkte/kleine-knotenkunde-die-wichtigsten-knoten-f-r-outdoor-37061.html)

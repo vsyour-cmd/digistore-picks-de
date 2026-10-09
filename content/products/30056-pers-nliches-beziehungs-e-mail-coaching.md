@@ -1,3 +1,24 @@
+---
+product_id: "30056"
+digistore24_product_id: 155861
+title: "Persönliches Beziehungs-E-Mail Coaching"
+vendor: "rheinrost"
+product_type: "Online coaching"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 9.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2017-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beziehungsratgeber.net/shop/beziehungsberatung/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beziehungsratgeber.net/shop/beziehungsberatung/"
+language: "de"
+---
 # Persönliches Beziehungs-E-Mail Coaching
 
 > Product ID `30056` · Digistore24 productId `155861` · [HTML profile page](../../produkte/pers-nliches-beziehungs-e-mail-coaching-30056.html)

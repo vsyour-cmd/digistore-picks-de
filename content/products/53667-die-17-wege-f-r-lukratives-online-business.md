@@ -1,3 +1,24 @@
+---
+product_id: "53667"
+digistore24_product_id: 631469
+title: "Die 17 Wege für lukratives Online-Business"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://affiliforge.net/17-effektive-Wege?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/17-effektive-Wege"
+language: "de"
+---
 # Die 17 Wege für lukratives Online-Business
 
 > Product ID `53667` · Digistore24 productId `631469` · [HTML profile page](../../produkte/die-17-wege-f-r-lukratives-online-business-53667.html)

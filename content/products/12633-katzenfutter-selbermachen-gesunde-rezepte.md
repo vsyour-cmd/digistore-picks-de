@@ -1,3 +1,24 @@
+---
+product_id: "12633"
+digistore24_product_id: 91407
+title: "Katzenfutter Selbermachen - Gesunde Rezepte"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 17.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/"
+language: "de"
+---
 # Katzenfutter Selbermachen - Gesunde Rezepte
 
 > Product ID `12633` · Digistore24 productId `91407` · [HTML profile page](../../produkte/katzenfutter-selbermachen-gesunde-rezepte-12633.html)

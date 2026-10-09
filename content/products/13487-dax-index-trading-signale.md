@@ -1,3 +1,24 @@
+---
+product_id: "13487"
+digistore24_product_id: 55185
+title: "DAX-Index Trading Signale"
+vendor: "kagels-trading"
+product_type: "Remote service provided electronically"
+price: 190.35
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 89.73
+cart_conversion_pct: 8
+cancel_rate_pct: 11.25
+categories: ["Trading Products"]
+listed_since: "2015-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/"
+language: "de"
+---
 # DAX-Index Trading Signale
 
 > Product ID `13487` · Digistore24 productId `55185` · [HTML profile page](../../produkte/dax-index-trading-signale-13487.html)

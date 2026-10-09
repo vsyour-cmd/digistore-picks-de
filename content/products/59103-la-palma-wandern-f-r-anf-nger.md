@@ -1,3 +1,24 @@
+---
+product_id: "59103"
+digistore24_product_id: 731803
+title: "La Palma Wandern für Anfänger"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/731803?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731803"
+language: "de"
+---
 # La Palma Wandern für Anfänger
 
 > Product ID `59103` · Digistore24 productId `731803` · [HTML profile page](../../produkte/la-palma-wandern-f-r-anf-nger-59103.html)

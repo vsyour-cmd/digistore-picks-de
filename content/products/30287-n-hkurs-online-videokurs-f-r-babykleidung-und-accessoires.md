@@ -1,3 +1,24 @@
+---
+product_id: "30287"
+digistore24_product_id: 276286
+title: "Nähkurs: Online-Videokurs für Babykleidung und -accessoires"
+vendor: "fadenlauf"
+product_type: "Member area and video courses"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2019-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fadenlauf-naehschule.de/landingpage-babykurs//?aff=adminstore#aff=adminstore"
+sales_page: "https://fadenlauf-naehschule.de/landingpage-babykurs//"
+language: "de"
+---
 # Nähkurs: Online-Videokurs für Babykleidung und -accessoires
 
 > Product ID `30287` · Digistore24 productId `276286` · [HTML profile page](../../produkte/n-hkurs-online-videokurs-f-r-babykleidung-und-accessoires-30287.html)

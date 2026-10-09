@@ -1,3 +1,24 @@
+---
+product_id: "59379"
+digistore24_product_id: 735004
+title: "Teamleiter-Startpaket Kundenservice – 30-Tage-Plan"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Leadership & Management"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735004?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735004"
+language: "de"
+---
 # Teamleiter-Startpaket Kundenservice – 30-Tage-Plan
 
 > Product ID `59379` · Digistore24 productId `735004` · [HTML profile page](../../produkte/teamleiter-startpaket-kundenservice-30-tage-plan-59379.html)

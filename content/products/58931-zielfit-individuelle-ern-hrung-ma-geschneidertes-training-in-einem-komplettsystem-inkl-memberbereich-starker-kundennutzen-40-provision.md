@@ -1,3 +1,24 @@
+---
+product_id: "58931"
+digistore24_product_id: 727105
+title: "Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision"
+vendor: "Zielfit"
+product_type: "Remote service provided electronically"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 67.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Sport"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zielfit-pt.com/partner/?aff=adminstore#aff=adminstore"
+sales_page: "https://zielfit-pt.com/partner/"
+language: "de"
+---
 # Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision
 
 > Product ID `58931` · Digistore24 productId `727105` · [HTML profile page](../../produkte/zielfit-individuelle-ern-hrung-ma-geschneidertes-training-in-einem-komplettsystem-inkl-memberbereich-starker-kundennutzen-40-provision-58931.html)

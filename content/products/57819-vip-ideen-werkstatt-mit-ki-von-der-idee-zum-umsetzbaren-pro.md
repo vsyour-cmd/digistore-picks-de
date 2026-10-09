@@ -1,3 +1,24 @@
+---
+product_id: "57819"
+digistore24_product_id: 715316
+title: "VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro"
+vendor: "Goldfrau"
+product_type: "Online coaching"
+price: 805.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 241.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2026-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ki-werkstatt.sinneskraft.de/angebot.html?aff=adminstore#aff=adminstore"
+sales_page: "https://ki-werkstatt.sinneskraft.de/angebot.html"
+language: "de"
+---
 # VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro
 
 > Product ID `57819` · Digistore24 productId `715316` · [HTML profile page](../../produkte/vip-ideen-werkstatt-mit-ki-von-der-idee-zum-umsetzbaren-pro-57819.html)

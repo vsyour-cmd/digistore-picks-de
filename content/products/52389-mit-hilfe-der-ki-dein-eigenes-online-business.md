@@ -1,3 +1,24 @@
+---
+product_id: "52389"
+digistore24_product_id: 551627
+title: "Mit Hilfe der KI dein eigenes Online Business"
+vendor: "Kisman"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business"]
+listed_since: "2024-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://viktor-kisman.com/business-starter-lp?aff=adminstore#aff=adminstore"
+sales_page: "https://viktor-kisman.com/business-starter-lp"
+language: "de"
+---
 # Mit Hilfe der KI dein eigenes Online Business
 
 > Product ID `52389` · Digistore24 productId `551627` · [HTML profile page](../../produkte/mit-hilfe-der-ki-dein-eigenes-online-business-52389.html)

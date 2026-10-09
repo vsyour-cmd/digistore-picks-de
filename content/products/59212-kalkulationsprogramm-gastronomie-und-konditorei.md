@@ -1,3 +1,24 @@
+---
+product_id: "59212"
+digistore24_product_id: 532231
+title: "Kalkulationsprogramm Gastronomie und Konditorei"
+vendor: "szkubidoo"
+product_type: "Software"
+price: 324.39
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 50.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Software"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://rezeptrechner.de/preise?aff=adminstore#aff=adminstore"
+sales_page: "https://rezeptrechner.de/preise"
+language: "de"
+---
 # Kalkulationsprogramm Gastronomie und Konditorei
 
 > Product ID `59212` · Digistore24 productId `532231` · [HTML profile page](../../produkte/kalkulationsprogramm-gastronomie-und-konditorei-59212.html)

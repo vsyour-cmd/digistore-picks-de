@@ -1,3 +1,24 @@
+---
+product_id: "42072"
+digistore24_product_id: 472315
+title: "Einfach visualisieren am Flipchart"
+vendor: "JoergSchmidt"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 44.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2022-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://einfach-visualisieren.coachy.net/lp/einfach-visualisieren-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfach-visualisieren.coachy.net/lp/einfach-visualisieren-kurs/"
+language: "de"
+---
 # Einfach visualisieren am Flipchart
 
 > Product ID `42072` · Digistore24 productId `472315` · [HTML profile page](../../produkte/einfach-visualisieren-am-flipchart-42072.html)

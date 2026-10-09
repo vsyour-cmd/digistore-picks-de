@@ -1,3 +1,24 @@
+---
+product_id: "31407"
+digistore24_product_id: 303609
+title: "Die Rettungsweste für dein Geld - Onlinekurs"
+vendor: "locos2000"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 139.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/?aff=adminstore#aff=adminstore"
+sales_page: "https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/"
+language: "de"
+---
 # Die Rettungsweste für dein Geld - Onlinekurs
 
 > Product ID `31407` · Digistore24 productId `303609` · [HTML profile page](../../produkte/die-rettungsweste-f-r-dein-geld-onlinekurs-31407.html)

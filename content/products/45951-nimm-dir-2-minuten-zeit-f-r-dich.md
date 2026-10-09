@@ -1,3 +1,24 @@
+---
+product_id: "45951"
+digistore24_product_id: 523760
+title: "Nimm dir 2 Minuten Zeit - für DICH!"
+vendor: "Deinechance"
+product_type: "Book (printed)"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Home & Garden","Profession & Job"]
+listed_since: "2023-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit"
+language: "de"
+---
 # Nimm dir 2 Minuten Zeit - für DICH!
 
 > Product ID `45951` · Digistore24 productId `523760` · [HTML profile page](../../produkte/nimm-dir-2-minuten-zeit-f-r-dich-45951.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53400"
+digistore24_product_id: 627448
+title: "Verdiene bis zu 70 % Provision – Digitales E-Book"
+vendor: "Pjamagold"
+product_type: "E-books"
+price: 15.68
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/627448?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/627448"
+language: "de"
+---
 # Verdiene bis zu 70 % Provision – Digitales E-Book
 
 > Product ID `53400` · Digistore24 productId `627448` · [HTML profile page](../../produkte/verdiene-bis-zu-70-provision-digitales-e-book-53400.html)

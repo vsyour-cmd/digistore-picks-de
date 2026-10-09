@@ -1,3 +1,24 @@
+---
+product_id: "52307"
+digistore24_product_id: 610471
+title: "Ratgeber Wechseljahre Komplettpaket"
+vendor: "BackstageMarketing"
+product_type: "E-books"
+price: 22.32
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 16.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://reivita.de/wechseljahre-report/?aff=adminstore#aff=adminstore"
+sales_page: "https://reivita.de/wechseljahre-report/"
+language: "de"
+---
 # Ratgeber Wechseljahre Komplettpaket
 
 > Product ID `52307` · Digistore24 productId `610471` · [HTML profile page](../../produkte/ratgeber-wechseljahre-komplettpaket-52307.html)

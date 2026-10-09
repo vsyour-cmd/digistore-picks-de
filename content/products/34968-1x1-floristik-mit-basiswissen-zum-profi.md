@@ -1,3 +1,24 @@
+---
+product_id: "34968"
+digistore24_product_id: 352496
+title: "1x1 Floristik - Mit Basiswissen zum Profi"
+vendor: "Elobana"
+product_type: "Member area and video courses"
+price: 127.3
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 18.13
+cart_conversion_pct: 13
+cancel_rate_pct: 0.67
+categories: ["Education"]
+listed_since: "2020-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/?aff=adminstore#aff=adminstore"
+sales_page: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/"
+language: "de"
+---
 # 1x1 Floristik - Mit Basiswissen zum Profi
 
 > Product ID `34968` · Digistore24 productId `352496` · [HTML profile page](../../produkte/1x1-floristik-mit-basiswissen-zum-profi-34968.html)

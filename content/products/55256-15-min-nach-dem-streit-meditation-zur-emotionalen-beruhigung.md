@@ -1,3 +1,24 @@
+---
+product_id: "55256"
+digistore24_product_id: 662640
+title: "15 Min nach dem Streit:Meditation zur emotionalen Beruhigung"
+vendor: "PaarpsychologieHamburg"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-01-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/662640?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/662640"
+language: "de"
+---
 # 15 Min nach dem Streit:Meditation zur emotionalen Beruhigung
 
 > Product ID `55256` · Digistore24 productId `662640` · [HTML profile page](../../produkte/15-min-nach-dem-streit-meditation-zur-emotionalen-beruhigung-55256.html)

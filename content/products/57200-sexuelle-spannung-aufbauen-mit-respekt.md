@@ -1,3 +1,24 @@
+---
+product_id: "57200"
+digistore24_product_id: 701958
+title: "Sexuelle Spannung aufbauen mit Respekt"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/spannung-mit-respekt?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/spannung-mit-respekt"
+language: "de"
+---
 # Sexuelle Spannung aufbauen mit Respekt
 
 > Product ID `57200` · Digistore24 productId `701958` · [HTML profile page](../../produkte/sexuelle-spannung-aufbauen-mit-respekt-57200.html)

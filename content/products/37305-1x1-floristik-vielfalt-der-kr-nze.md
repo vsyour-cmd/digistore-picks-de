@@ -1,3 +1,24 @@
+---
+product_id: "37305"
+digistore24_product_id: 385243
+title: "1x1 Floristik - Vielfalt der Kränze"
+vendor: "Elobana"
+product_type: "Member area and video courses"
+price: 371.57
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 45.08
+cart_conversion_pct: 9
+cancel_rate_pct: 0.95
+categories: ["Education"]
+listed_since: "2021-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/?aff=adminstore#aff=adminstore"
+sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/"
+language: "de"
+---
 # 1x1 Floristik - Vielfalt der Kränze
 
 > Product ID `37305` · Digistore24 productId `385243` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-kr-nze-37305.html)

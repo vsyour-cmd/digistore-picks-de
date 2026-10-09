@@ -1,3 +1,24 @@
+---
+product_id: "52196"
+digistore24_product_id: 602187
+title: "Influencer und Content Creator Kurs"
+vendor: "NatureHeartAcademy"
+product_type: "Member area and video courses"
+price: 935.3
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 187.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Social Media"]
+listed_since: "2025-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.fabiankowallikacademy.de/start/influencer-und-content-creator-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fabiankowallikacademy.de/start/influencer-und-content-creator-kurs/"
+language: "de"
+---
 # Influencer und Content Creator Kurs
 
 > Product ID `52196` · Digistore24 productId `602187` · [HTML profile page](../../produkte/influencer-und-content-creator-kurs-52196.html)

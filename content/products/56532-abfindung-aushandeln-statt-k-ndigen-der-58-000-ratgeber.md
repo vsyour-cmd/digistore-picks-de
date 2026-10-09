@@ -1,3 +1,24 @@
+---
+product_id: "56532"
+digistore24_product_id: 691820
+title: "Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber"
+vendor: "abfindung_ratgeber"
+product_type: "E-books"
+price: 62.62
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Profession & Job"]
+listed_since: "2026-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://abfindung-ratgeber.de?aff=adminstore#aff=adminstore"
+sales_page: "https://abfindung-ratgeber.de"
+language: "de"
+---
 # Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber
 
 > Product ID `56532` · Digistore24 productId `691820` · [HTML profile page](../../produkte/abfindung-aushandeln-statt-k-ndigen-der-58-000-ratgeber-56532.html)

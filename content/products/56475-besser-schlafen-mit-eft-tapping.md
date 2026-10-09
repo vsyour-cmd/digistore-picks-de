@@ -1,3 +1,24 @@
+---
+product_id: "56475"
+digistore24_product_id: 664052
+title: "Besser schlafen mit EFT Tapping"
+vendor: "AdrianaLichtenstein"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 111.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping?aff=adminstore#aff=adminstore"
+sales_page: "https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping"
+language: "de"
+---
 # Besser schlafen mit EFT Tapping
 
 > Product ID `56475` · Digistore24 productId `664052` · [HTML profile page](../../produkte/besser-schlafen-mit-eft-tapping-56475.html)

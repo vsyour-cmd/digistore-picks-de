@@ -1,3 +1,24 @@
+---
+product_id: "26298"
+digistore24_product_id: 100331
+title: "Analysesoftware zur Altersvorsorge und Absicherung"
+vendor: "verkaufsbegleiter"
+product_type: "Downloads"
+price: 371.3
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 37.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2016-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://www.igmw.com/shopVI/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.igmw.com/shopVI/"
+language: "de"
+---
 # Analysesoftware zur Altersvorsorge und Absicherung
 
 > Product ID `26298` · Digistore24 productId `100331` · [HTML profile page](../../produkte/analysesoftware-zur-altersvorsorge-und-absicherung-26298.html)

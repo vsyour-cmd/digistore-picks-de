@@ -1,3 +1,24 @@
+---
+product_id: "50450"
+digistore24_product_id: 580214
+title: "Online Business für Jedermann"
+vendor: "perform"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/pf7d6wNZ2AyBunrSM?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/pf7d6wNZ2AyBunrSM"
+language: "de"
+---
 # Online Business für Jedermann
 
 > Product ID `50450` · Digistore24 productId `580214` · [HTML profile page](../../produkte/online-business-f-r-jedermann-50450.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53718"
+digistore24_product_id: 620915
+title: "designdeinverein.de – Einfaches Vereins-Branding für Social"
+vendor: "agemcymedia"
+product_type: "Remote service provided electronically"
+price: 393.86
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 78.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport","Marketing Services"]
+listed_since: "2025-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://designdeinverein.de/pakete/?aff=adminstore#aff=adminstore"
+sales_page: "https://designdeinverein.de/pakete/"
+language: "de"
+---
 # designdeinverein.de – Einfaches Vereins-Branding für Social
 
 > Product ID `53718` · Digistore24 productId `620915` · [HTML profile page](../../produkte/designdeinverein-de-einfaches-vereins-branding-f-r-social-53718.html)

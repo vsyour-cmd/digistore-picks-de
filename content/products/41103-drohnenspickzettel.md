@@ -1,3 +1,24 @@
+---
+product_id: "41103"
+digistore24_product_id: 458745
+title: "Drohnenspickzettel"
+vendor: "EliasO"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film"]
+listed_since: "2022-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://eliasobersteiner.wixsite.com/meinewebsite/drohnenspickzettel-digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://eliasobersteiner.wixsite.com/meinewebsite/drohnenspickzettel-digistore"
+language: "de"
+---
 # Drohnenspickzettel
 
 > Product ID `41103` · Digistore24 productId `458745` · [HTML profile page](../../produkte/drohnenspickzettel-41103.html)

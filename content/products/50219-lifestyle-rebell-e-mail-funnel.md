@@ -1,3 +1,24 @@
+---
+product_id: "50219"
+digistore24_product_id: 572143
+title: "Lifestyle Rebell + E-Mail Funnel"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.28
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lifestylerebell.de/Mailkampagne/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lifestylerebell.de/Mailkampagne/"
+language: "de"
+---
 # Lifestyle Rebell + E-Mail Funnel
 
 > Product ID `50219` · Digistore24 productId `572143` · [HTML profile page](../../produkte/lifestyle-rebell-e-mail-funnel-50219.html)

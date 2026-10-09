@@ -1,3 +1,24 @@
+---
+product_id: "54800"
+digistore24_product_id: 651840
+title: "Die „Elite“ Der Aton-Kult"
+vendor: "Axel-Schoenfelder"
+product_type: "E-books"
+price: 58.95
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 20.97
+cart_conversion_pct: 2
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Politics & Economy"]
+listed_since: "2025-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/651840?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/651840"
+language: "de"
+---
 # Die „Elite“ Der Aton-Kult
 
 > Product ID `54800` · Digistore24 productId `651840` · [HTML profile page](../../produkte/die-elite-der-aton-kult-54800.html)

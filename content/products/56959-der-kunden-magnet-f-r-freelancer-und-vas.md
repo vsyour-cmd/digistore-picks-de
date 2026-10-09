@@ -1,3 +1,24 @@
+---
+product_id: "56959"
+digistore24_product_id: 700739
+title: "Der Kunden Magnet für Freelancer und VAs"
+vendor: "freelancerkitools"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freelancer-ki-tools.de/kunden-magnet/?aff=adminstore#aff=adminstore"
+sales_page: "https://freelancer-ki-tools.de/kunden-magnet/"
+language: "de"
+---
 # Der Kunden Magnet für Freelancer und VAs
 
 > Product ID `56959` · Digistore24 productId `700739` · [HTML profile page](../../produkte/der-kunden-magnet-f-r-freelancer-und-vas-56959.html)

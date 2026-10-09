@@ -1,3 +1,24 @@
+---
+product_id: "60323"
+digistore24_product_id: 741274
+title: "Vermietung in der Steuererklärung leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741274?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741274"
+language: "de"
+---
 # Vermietung in der Steuererklärung leicht gemacht
 
 > Product ID `60323` · Digistore24 productId `741274` · [HTML profile page](../../produkte/vermietung-in-der-steuererkl-rung-leicht-gemacht-60323.html)

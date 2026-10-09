@@ -1,3 +1,24 @@
+---
+product_id: "22591"
+digistore24_product_id: 65971
+title: "Provision mit Spielturm- u. Spielhaus-Bauplänen"
+vendor: "ccbvcc"
+product_type: "E-books"
+price: 18.07
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.34
+cart_conversion_pct: 21
+cancel_rate_pct: 1.33
+categories: ["Family & Children","Hobby & Craft","Home & Garden"]
+listed_since: "2015-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/65971/adminstore"
+sales_page: "https://www.holz-bauplan.de/baupl%C3%A4ne/spielt%C3%BCrme/spielturm-2/#cc-m-product-11074512719"
+language: "de"
+---
 # Provision mit Spielturm- u. Spielhaus-Bauplänen
 
 > Product ID `22591` · Digistore24 productId `65971` · [HTML profile page](../../produkte/provision-mit-spielturm-u-spielhaus-baupl-nen-22591.html)

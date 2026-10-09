@@ -1,3 +1,24 @@
+---
+product_id: "60389"
+digistore24_product_id: 743098
+title: "DARMGESUNDHEIT IM ALLTAG"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/743098?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/743098"
+language: "de"
+---
 # DARMGESUNDHEIT IM ALLTAG
 
 > Product ID `60389` · Digistore24 productId `743098` · [HTML profile page](../../produkte/darmgesundheit-im-alltag-60389.html)

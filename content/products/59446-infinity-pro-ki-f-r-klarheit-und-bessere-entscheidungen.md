@@ -1,3 +1,24 @@
+---
+product_id: "59446"
+digistore24_product_id: 723849
+title: "INFINITY PRO KI für Klarheit und bessere Entscheidungen"
+vendor: "uweboehle47cf"
+product_type: "Software"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php?aff=adminstore#aff=adminstore"
+sales_page: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php"
+language: "de"
+---
 # INFINITY PRO KI für Klarheit und bessere Entscheidungen
 
 > Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../produkte/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)

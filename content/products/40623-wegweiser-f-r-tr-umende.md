@@ -1,3 +1,24 @@
+---
+product_id: "40623"
+digistore24_product_id: 426584
+title: "Wegweiser für Träumende"
+vendor: "GeromeEhrler"
+product_type: "Book (printed)"
+price: 26.28
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.18
+cart_conversion_pct: 20
+cancel_rate_pct: 5.46
+categories: ["Profession & Job"]
+listed_since: "2022-01-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gerome-ehrler.com/bestseller-buch?aff=adminstore#aff=adminstore"
+sales_page: "https://gerome-ehrler.com/bestseller-buch"
+language: "de"
+---
 # Wegweiser für Träumende
 
 > Product ID `40623` · Digistore24 productId `426584` · [HTML profile page](../../produkte/wegweiser-f-r-tr-umende-40623.html)

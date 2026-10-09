@@ -1,3 +1,24 @@
+---
+product_id: "38048"
+digistore24_product_id: 405536
+title: "Happy Money Girl \"Starter\""
+vendor: "NadjaHorlacher"
+product_type: "Member area and video courses"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://nadjahorlacher.com/happy-money-girl-starter/?aff=adminstore#aff=adminstore"
+sales_page: "https://nadjahorlacher.com/happy-money-girl-starter/"
+language: "de"
+---
 # Happy Money Girl "Starter"
 
 > Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../produkte/happy-money-girl-starter-38048.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45474"
+digistore24_product_id: 527124
+title: "Gratis Chakren & Solfeggio Set (3 Moods) Sofort-Download"
+vendor: "mldesign"
+product_type: "Downloads"
+price: 0.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 19
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/?aff=adminstore#aff=adminstore"
+sales_page: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/"
+language: "de"
+---
 # Gratis Chakren & Solfeggio Set (3 Moods) Sofort-Download
 
 > Product ID `45474` · Digistore24 productId `527124` · [HTML profile page](../../produkte/gratis-chakren-solfeggio-set-3-moods-sofort-download-45474.html)

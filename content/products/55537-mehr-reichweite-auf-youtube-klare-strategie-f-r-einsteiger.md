@@ -1,3 +1,24 @@
+---
+product_id: "55537"
+digistore24_product_id: 667997
+title: "Mehr Reichweite auf YouTube – klare Strategie für Einsteiger"
+vendor: "werni1"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 58
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/J5YsjP34xx2Docqow?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/J5YsjP34xx2Docqow"
+language: "de"
+---
 # Mehr Reichweite auf YouTube – klare Strategie für Einsteiger
 
 > Product ID `55537` · Digistore24 productId `667997` · [HTML profile page](../../produkte/mehr-reichweite-auf-youtube-klare-strategie-f-r-einsteiger-55537.html)

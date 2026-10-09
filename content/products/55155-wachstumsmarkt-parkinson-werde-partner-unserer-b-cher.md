@@ -1,3 +1,24 @@
+---
+product_id: "55155"
+digistore24_product_id: 654187
+title: "Wachstumsmarkt Parkinson – werde Partner unserer Bücher."
+vendor: "Erfolg2026"
+product_type: "E-books"
+price: 62.62
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 12.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/654187?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/654187"
+language: "de"
+---
 # Wachstumsmarkt Parkinson – werde Partner unserer Bücher.
 
 > Product ID `55155` · Digistore24 productId `654187` · [HTML profile page](../../produkte/wachstumsmarkt-parkinson-werde-partner-unserer-b-cher-55155.html)

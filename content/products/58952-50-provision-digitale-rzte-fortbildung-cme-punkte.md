@@ -1,3 +1,24 @@
+---
+product_id: "58952"
+digistore24_product_id: 726221
+title: "50% Provision: Digitale Ärzte-Fortbildung CME-Punkte"
+vendor: "Evident-Bildung"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 70.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Profession & Job"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cura-mind.de/bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://cura-mind.de/bundle"
+language: "de"
+---
 # 50% Provision: Digitale Ärzte-Fortbildung CME-Punkte
 
 > Product ID `58952` · Digistore24 productId `726221` · [HTML profile page](../../produkte/50-provision-digitale-rzte-fortbildung-cme-punkte-58952.html)

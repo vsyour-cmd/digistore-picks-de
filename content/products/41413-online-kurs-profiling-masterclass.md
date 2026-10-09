@@ -1,3 +1,24 @@
+---
+product_id: "41413"
+digistore24_product_id: 438749
+title: "Online-Kurs: Profiling Masterclass"
+vendor: "GRUENDERPILOT"
+product_type: "Member area and video courses"
+price: 940
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 235.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.profiling.me/masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profiling.me/masterclass/"
+language: "de"
+---
 # Online-Kurs: Profiling Masterclass
 
 > Product ID `41413` · Digistore24 productId `438749` · [HTML profile page](../../produkte/online-kurs-profiling-masterclass-41413.html)

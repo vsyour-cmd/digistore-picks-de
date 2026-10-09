@@ -1,3 +1,24 @@
+---
+product_id: "20203"
+digistore24_product_id: 131511
+title: "Online Nackt Yoga mit Elke"
+vendor: "Nacktyoga-mit-Elke"
+product_type: "Member area and video courses"
+price: 403.49
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 25.05
+cart_conversion_pct: 5
+cancel_rate_pct: 2.63
+categories: ["Health & Fitness"]
+listed_since: "2017-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://nacktyoga.net/mitgliedschaft/?aff=adminstore#aff=adminstore"
+sales_page: "https://nacktyoga.net/mitgliedschaft/"
+language: "de"
+---
 # Online Nackt Yoga mit Elke
 
 > Product ID `20203` · Digistore24 productId `131511` · [HTML profile page](../../produkte/online-nackt-yoga-mit-elke-20203.html)

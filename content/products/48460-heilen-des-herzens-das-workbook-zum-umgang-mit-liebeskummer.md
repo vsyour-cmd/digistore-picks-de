@@ -1,3 +1,24 @@
+---
+product_id: "48460"
+digistore24_product_id: 553571
+title: "Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER"
+vendor: "MeinGedankenzimmer"
+product_type: "E-books"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2024-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.meingedankenzimmer.de/heilen-des-herzens-ein-workbook-zum-umgang-mit-liebeskummer?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meingedankenzimmer.de/heilen-des-herzens-ein-workbook-zum-umgang-mit-liebeskummer"
+language: "de"
+---
 # Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER
 
 > Product ID `48460` · Digistore24 productId `553571` · [HTML profile page](../../produkte/heilen-des-herzens-das-workbook-zum-umgang-mit-liebeskummer-48460.html)

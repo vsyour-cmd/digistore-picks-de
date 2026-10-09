@@ -1,3 +1,24 @@
+---
+product_id: "47022"
+digistore24_product_id: 21941
+title: "Neurostreams™ Co-Creation Galaxie"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2014-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.neurostreams.de/portfolio/autosuggestion/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.neurostreams.de/portfolio/autosuggestion/"
+language: "de"
+---
 # Neurostreams™ Co-Creation Galaxie
 
 > Product ID `47022` · Digistore24 productId `21941` · [HTML profile page](../../produkte/neurostreams-co-creation-galaxie-47022.html)

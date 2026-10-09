@@ -1,3 +1,24 @@
+---
+product_id: "26995"
+digistore24_product_id: 250950
+title: "TOP Provision! E-Mail Insider BUCH - 5€/BUCH"
+vendor: "renerink"
+product_type: "Book (printed)"
+price: 22.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2018-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://rene-rink.com/E-Mail-Insider?aff=adminstore#aff=adminstore"
+sales_page: "https://rene-rink.com/E-Mail-Insider"
+language: "de"
+---
 # TOP Provision! E-Mail Insider BUCH - 5€/BUCH
 
 > Product ID `26995` · Digistore24 productId `250950` · [HTML profile page](../../produkte/top-provision-e-mail-insider-buch-5-buch-26995.html)

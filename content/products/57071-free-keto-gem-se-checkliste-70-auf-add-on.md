@@ -1,3 +1,24 @@
+---
+product_id: "57071"
+digistore24_product_id: 674681
+title: "Free Keto Gemüse Checkliste 70% auf Add-on"
+vendor: "Ketogen-Ratgeber"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ketogen-ratgeber.de/keto-check-gemuese/?aff=adminstore#aff=adminstore"
+sales_page: "https://ketogen-ratgeber.de/keto-check-gemuese/"
+language: "de"
+---
 # Free Keto Gemüse Checkliste 70% auf Add-on
 
 > Product ID `57071` · Digistore24 productId `674681` · [HTML profile page](../../produkte/free-keto-gem-se-checkliste-70-auf-add-on-57071.html)

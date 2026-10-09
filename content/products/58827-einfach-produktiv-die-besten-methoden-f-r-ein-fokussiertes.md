@@ -1,3 +1,24 @@
+---
+product_id: "58827"
+digistore24_product_id: 727962
+title: "Einfach produktiv – Die besten Methoden für ein fokussiertes"
+vendor: "autorpetermeurerausdemahrtal"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727962?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727962"
+language: "de"
+---
 # Einfach produktiv – Die besten Methoden für ein fokussiertes
 
 > Product ID `58827` · Digistore24 productId `727962` · [HTML profile page](../../produkte/einfach-produktiv-die-besten-methoden-f-r-ein-fokussiertes-58827.html)

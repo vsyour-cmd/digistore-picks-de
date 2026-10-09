@@ -1,3 +1,24 @@
+---
+product_id: "56161"
+digistore24_product_id: 672188
+title: "7 Tage Rückverbindung - 5 Minuten Nervensystemregulation"
+vendor: "NaturFreude"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/672188?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/672188"
+language: "de"
+---
 # 7 Tage Rückverbindung - 5 Minuten Nervensystemregulation
 
 > Product ID `56161` · Digistore24 productId `672188` · [HTML profile page](../../produkte/7-tage-r-ckverbindung-5-minuten-nervensystemregulation-56161.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55084"
+digistore24_product_id: 658682
+title: "Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30"
+vendor: "Sparwerk96"
+product_type: "Downloads"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Services"]
+listed_since: "2026-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658682?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658682"
+language: "de"
+---
 # Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30
 
 > Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../produkte/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)

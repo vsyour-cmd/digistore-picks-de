@@ -1,3 +1,24 @@
+---
+product_id: "45274"
+digistore24_product_id: 347596
+title: "Birkenbihl Sprachkurs Englisch Einsteiger"
+vendor: "birkenbihltv"
+product_type: "Member area and video courses"
+price: 189.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 40.31
+cart_conversion_pct: 9
+cancel_rate_pct: 0.22
+categories: ["Education","Personal Development"]
+listed_since: "2020-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.klarsicht-verlag.de/news/original-birkenbihl-sprachkurs-englisch-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.klarsicht-verlag.de/news/original-birkenbihl-sprachkurs-englisch-fuer-einsteiger/"
+language: "de"
+---
 # Birkenbihl Sprachkurs Englisch Einsteiger
 
 > Product ID `45274` · Digistore24 productId `347596` · [HTML profile page](../../produkte/birkenbihl-sprachkurs-englisch-einsteiger-45274.html)

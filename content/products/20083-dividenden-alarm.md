@@ -1,3 +1,24 @@
+---
+product_id: "20083"
+digistore24_product_id: 174217
+title: "Dividenden-Alarm"
+vendor: "WebValley"
+product_type: "Downloads"
+price: 331.62
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 92.75
+cart_conversion_pct: 24
+cancel_rate_pct: 0.17
+categories: ["Business & Investment"]
+listed_since: "2017-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://reich-mit-plan.de/dividendenstrategie-dividenden-alarm?aff=adminstore#aff=adminstore"
+sales_page: "https://reich-mit-plan.de/dividendenstrategie-dividenden-alarm"
+language: "de"
+---
 # Dividenden-Alarm
 
 > Product ID `20083` · Digistore24 productId `174217` · [HTML profile page](../../produkte/dividenden-alarm-20083.html)

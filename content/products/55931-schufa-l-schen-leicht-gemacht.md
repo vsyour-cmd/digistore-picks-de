@@ -1,3 +1,24 @@
+---
+product_id: "55931"
+digistore24_product_id: 649929
+title: "Schufa löschen leicht gemacht"
+vendor: "AffiliateEvangelist"
+product_type: "Downloads"
+price: 27.95
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.82
+cart_conversion_pct: 19
+cancel_rate_pct: 1.06
+categories: ["Business & Investment","Politics & Economy"]
+listed_since: "2025-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://schufa-booster.mrschuldenfrei.de?aff=adminstore#aff=adminstore"
+sales_page: "https://schufa-booster.mrschuldenfrei.de"
+language: "de"
+---
 # Schufa löschen leicht gemacht
 
 > Product ID `55931` · Digistore24 productId `649929` · [HTML profile page](../../produkte/schufa-l-schen-leicht-gemacht-55931.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60053"
+digistore24_product_id: 738826
+title: "Excel für den Vertrieb"
+vendor: "AlcaAzar5f7"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/738826?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738826"
+language: "de"
+---
 # Excel für den Vertrieb
 
 > Product ID `60053` · Digistore24 productId `738826` · [HTML profile page](../../produkte/excel-f-r-den-vertrieb-60053.html)

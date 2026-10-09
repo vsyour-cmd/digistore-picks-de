@@ -1,3 +1,24 @@
+---
+product_id: "16957"
+digistore24_product_id: 273637
+title: "Verkaufsschlager: Easy Income System - von Gunnar Kessler"
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 138.93
+cart_conversion_pct: 11
+cancel_rate_pct: 27.12
+categories: ["Profession & Job"]
+listed_since: "2019-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://byebyeschufterei.de/eis-7500/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/eis-7500/"
+language: "de"
+---
 # Verkaufsschlager: Easy Income System - von Gunnar Kessler
 
 > Product ID `16957` · Digistore24 productId `273637` · [HTML profile page](../../produkte/verkaufsschlager-easy-income-system-von-gunnar-kessler-16957.html)

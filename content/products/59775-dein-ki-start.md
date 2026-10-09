@@ -1,3 +1,24 @@
+---
+product_id: "59775"
+digistore24_product_id: 735628
+title: "Dein KI-Start"
+vendor: "ima806"
+product_type: "Member area and video courses"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 2.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://markwart-academy.de/deinkistart/?aff=adminstore#aff=adminstore"
+sales_page: "https://markwart-academy.de/deinkistart/"
+language: "de"
+---
 # Dein KI-Start
 
 > Product ID `59775` · Digistore24 productId `735628` · [HTML profile page](../../produkte/dein-ki-start-59775.html)

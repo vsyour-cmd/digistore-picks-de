@@ -1,3 +1,24 @@
+---
+product_id: "34480"
+digistore24_product_id: 280929
+title: "„Heile-Dein-Herz“-7-Tage-Online-Training"
+vendor: "Katerina_DLK"
+product_type: "Member area and video courses"
+price: 288.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 86.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2019-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/?aff=adminstore#aff=adminstore"
+sales_page: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/"
+language: "de"
+---
 # „Heile-Dein-Herz“-7-Tage-Online-Training
 
 > Product ID `34480` · Digistore24 productId `280929` · [HTML profile page](../../produkte/heile-dein-herz-7-tage-online-training-34480.html)

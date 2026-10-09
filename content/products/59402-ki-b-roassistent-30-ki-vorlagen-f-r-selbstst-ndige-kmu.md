@@ -1,3 +1,24 @@
+---
+product_id: "59402"
+digistore24_product_id: 734669
+title: "KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU"
+vendor: "norialo"
+product_type: "E-books"
+price: 41.71
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 16.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://norialo.de/produkt/ki-bueroassistent/?aff=adminstore#aff=adminstore"
+sales_page: "https://norialo.de/produkt/ki-bueroassistent/"
+language: "de"
+---
 # KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU
 
 > Product ID `59402` · Digistore24 productId `734669` · [HTML profile page](../../produkte/ki-b-roassistent-30-ki-vorlagen-f-r-selbstst-ndige-kmu-59402.html)

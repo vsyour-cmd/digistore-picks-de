@@ -1,3 +1,24 @@
+---
+product_id: "40607"
+digistore24_product_id: 416984
+title: "DER DIGITAL CODE"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 512.3
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 51.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2021-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://digitalcode.funnelcockpit.com/lpor/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalcode.funnelcockpit.com/lpor/"
+language: "de"
+---
 # DER DIGITAL CODE
 
 > Product ID `40607` · Digistore24 productId `416984` · [HTML profile page](../../produkte/der-digital-code-40607.html)

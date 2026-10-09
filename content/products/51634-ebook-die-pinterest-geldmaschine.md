@@ -1,3 +1,24 @@
+---
+product_id: "51634"
+digistore24_product_id: 596477
+title: "eBook „Die Pinterest Geldmaschine“"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/ebook-pinterest/?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/ebook-pinterest/"
+language: "de"
+---
 # eBook „Die Pinterest Geldmaschine“
 
 > Product ID `51634` · Digistore24 productId `596477` · [HTML profile page](../../produkte/ebook-die-pinterest-geldmaschine-51634.html)

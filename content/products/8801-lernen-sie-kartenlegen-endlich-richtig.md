@@ -1,3 +1,24 @@
+---
+product_id: "8801"
+digistore24_product_id: 61745
+title: "Lernen Sie Kartenlegen endlich richtig"
+vendor: "maren_giertz"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2015-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/"
+language: "de"
+---
 # Lernen Sie Kartenlegen endlich richtig
 
 > Product ID `8801` · Digistore24 productId `61745` · [HTML profile page](../../produkte/lernen-sie-kartenlegen-endlich-richtig-8801.html)

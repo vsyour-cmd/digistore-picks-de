@@ -1,3 +1,24 @@
+---
+product_id: "59063"
+digistore24_product_id: 727266
+title: "Das Karriere Master-Kit für die medizinische Doktorarbeit"
+vendor: "VeloxForge"
+product_type: "Downloads"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/medizinische-doktorarbeit/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/medizinische-doktorarbeit/"
+language: "de"
+---
 # Das Karriere Master-Kit für die medizinische Doktorarbeit
 
 > Product ID `59063` · Digistore24 productId `727266` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-die-medizinische-doktorarbeit-59063.html)

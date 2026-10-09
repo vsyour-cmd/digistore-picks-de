@@ -1,3 +1,24 @@
+---
+product_id: "46977"
+digistore24_product_id: 533821
+title: "ClicksLog Professional - Dokumentieren wie von selbst"
+vendor: "Cridal"
+product_type: "Software"
+price: 313.21
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 46.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2024-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/533821?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/533821"
+language: "de"
+---
 # ClicksLog Professional - Dokumentieren wie von selbst
 
 > Product ID `46977` · Digistore24 productId `533821` · [HTML profile page](../../produkte/clickslog-professional-dokumentieren-wie-von-selbst-46977.html)

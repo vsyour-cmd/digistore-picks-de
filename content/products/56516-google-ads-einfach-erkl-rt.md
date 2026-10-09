@@ -1,3 +1,24 @@
+---
+product_id: "56516"
+digistore24_product_id: 688319
+title: "Google Ads einfach erklärt"
+vendor: "privat16850fc2"
+product_type: "Member area and video courses"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.onlinebusiness-wissen.de/google-ads-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.onlinebusiness-wissen.de/google-ads-kurs/"
+language: "de"
+---
 # Google Ads einfach erklärt
 
 > Product ID `56516` · Digistore24 productId `688319` · [HTML profile page](../../produkte/google-ads-einfach-erkl-rt-56516.html)

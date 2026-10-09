@@ -1,3 +1,24 @@
+---
+product_id: "20955"
+digistore24_product_id: 144229
+title: "VIDEOKURS \"Seife einfach selber machen\""
+vendor: "aditsbest"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2017-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://seifen-tutorials.de/?aff=adminstore#aff=adminstore"
+sales_page: "http://seifen-tutorials.de/"
+language: "de"
+---
 # VIDEOKURS "Seife einfach selber machen"
 
 > Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../produkte/videokurs-seife-einfach-selber-machen-20955.html)

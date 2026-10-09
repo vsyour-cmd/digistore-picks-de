@@ -1,3 +1,24 @@
+---
+product_id: "50487"
+digistore24_product_id: 581795
+title: "MADEIRA: Madeira Bildband [E-Book]"
+vendor: "rheinrost"
+product_type: "E-books"
+price: 13.09
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.95
+cart_conversion_pct: 43
+cancel_rate_pct: 0.94
+categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+listed_since: "2024-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/madeira-bildband/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/madeira-bildband/"
+language: "de"
+---
 # MADEIRA: Madeira Bildband [E-Book]
 
 > Product ID `50487` · Digistore24 productId `581795` · [HTML profile page](../../produkte/madeira-madeira-bildband-e-book-50487.html)

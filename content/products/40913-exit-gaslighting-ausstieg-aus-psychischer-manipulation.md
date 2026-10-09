@@ -1,3 +1,24 @@
+---
+product_id: "40913"
+digistore24_product_id: 455087
+title: "Exit Gaslighting - Ausstieg aus psychischer Manipulation"
+vendor: "psySOULogy"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/455087?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/455087"
+language: "de"
+---
 # Exit Gaslighting - Ausstieg aus psychischer Manipulation
 
 > Product ID `40913` · Digistore24 productId `455087` · [HTML profile page](../../produkte/exit-gaslighting-ausstieg-aus-psychischer-manipulation-40913.html)

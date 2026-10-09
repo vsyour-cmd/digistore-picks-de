@@ -1,3 +1,24 @@
+---
+product_id: "57052"
+digistore24_product_id: 702019
+title: "AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung"
+vendor: "svenpetercontacteb58"
+product_type: "Member area and video courses"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 35.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Law & Justice"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ai-kompetenz-kit.de/kit?aff=adminstore#aff=adminstore"
+sales_page: "https://ai-kompetenz-kit.de/kit"
+language: "de"
+---
 # AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung
 
 > Product ID `57052` · Digistore24 productId `702019` · [HTML profile page](../../produkte/ai-kompetenz-kit-eu-ai-act-artikel-4-schulung-57052.html)

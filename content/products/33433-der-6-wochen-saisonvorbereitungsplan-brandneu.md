@@ -1,3 +1,24 @@
+---
+product_id: "33433"
+digistore24_product_id: 225984
+title: "Der 6 Wochen Saisonvorbereitungsplan Brandneu"
+vendor: "fussballtraining-renno"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 14.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2018-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/"
+language: "de"
+---
 # Der 6 Wochen Saisonvorbereitungsplan Brandneu
 
 > Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../produkte/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)

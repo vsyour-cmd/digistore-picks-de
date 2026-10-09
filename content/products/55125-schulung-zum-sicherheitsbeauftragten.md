@@ -1,3 +1,24 @@
+---
+product_id: "55125"
+digistore24_product_id: 659261
+title: "Schulung zum Sicherheitsbeauftragten"
+vendor: "SifAmed"
+product_type: "Remote service provided electronically"
+price: 272.6
+currency: "USD"
+affiliate_commission_pct: 5
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/659261?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/659261"
+language: "de"
+---
 # Schulung zum Sicherheitsbeauftragten
 
 > Product ID `55125` · Digistore24 productId `659261` · [HTML profile page](../../produkte/schulung-zum-sicherheitsbeauftragten-55125.html)

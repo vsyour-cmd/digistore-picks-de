@@ -1,3 +1,24 @@
+---
+product_id: "57404"
+digistore24_product_id: 708578
+title: "ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige"
+vendor: "megareichtum"
+product_type: "Downloads"
+price: 196.46
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 117.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Social Media","Marketing Services"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eternumtech.eu/ki-komplettsystem-gold?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/ki-komplettsystem-gold"
+language: "de"
+---
 # ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige
 
 > Product ID `57404` · Digistore24 productId `708578` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-gold-5-ki-ratgeber-f-r-einsteige-57404.html)

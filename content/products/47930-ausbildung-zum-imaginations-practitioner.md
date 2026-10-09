@@ -1,3 +1,24 @@
+---
+product_id: "47930"
+digistore24_product_id: 708069
+title: "Ausbildung zum Imaginations- Practitioner"
+vendor: "Challengefacingde"
+product_type: "Member area and video courses"
+price: 3270.29
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 559.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2024-04-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner?aff=adminstore#aff=adminstore"
+sales_page: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner"
+language: "de"
+---
 # Ausbildung zum Imaginations- Practitioner
 
 > Product ID `47930` · Digistore24 productId `708069` · [HTML profile page](../../produkte/ausbildung-zum-imaginations-practitioner-47930.html)

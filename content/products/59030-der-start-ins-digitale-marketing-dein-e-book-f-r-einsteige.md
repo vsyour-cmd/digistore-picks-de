@@ -1,3 +1,24 @@
+---
+product_id: "59030"
+digistore24_product_id: 730724
+title: "Der Start ins Digitale Marketing – Dein E-Book für Einsteige"
+vendor: "torstendigital35b0"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Marketing Services"]
+listed_since: "2026-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/"
+language: "de"
+---
 # Der Start ins Digitale Marketing – Dein E-Book für Einsteige
 
 > Product ID `59030` · Digistore24 productId `730724` · [HTML profile page](../../produkte/der-start-ins-digitale-marketing-dein-e-book-f-r-einsteige-59030.html)

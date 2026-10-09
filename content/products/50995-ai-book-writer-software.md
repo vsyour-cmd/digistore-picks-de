@@ -1,3 +1,24 @@
+---
+product_id: "50995"
+digistore24_product_id: 590928
+title: "AI Book Writer Software"
+vendor: "buerger"
+product_type: "Software"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.aibookwriter.de/de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aibookwriter.de/de"
+language: "de"
+---
 # AI Book Writer Software
 
 > Product ID `50995` · Digistore24 productId `590928` · [HTML profile page](../../produkte/ai-book-writer-software-50995.html)

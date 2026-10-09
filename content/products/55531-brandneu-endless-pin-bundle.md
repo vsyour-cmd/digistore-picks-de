@@ -1,3 +1,24 @@
+---
+product_id: "55531"
+digistore24_product_id: 585267
+title: "BRANDNEU - Endless Pin-Bundle"
+vendor: "YannickBre"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 37.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.affiliate-akademie.com/endless-pin-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.affiliate-akademie.com/endless-pin-bundle/"
+language: "de"
+---
 # BRANDNEU - Endless Pin-Bundle
 
 > Product ID `55531` · Digistore24 productId `585267` · [HTML profile page](../../produkte/brandneu-endless-pin-bundle-55531.html)

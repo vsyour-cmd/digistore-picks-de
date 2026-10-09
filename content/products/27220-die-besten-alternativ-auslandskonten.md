@@ -1,3 +1,24 @@
+---
+product_id: "27220"
+digistore24_product_id: 250456
+title: "Die besten Alternativ-Auslandskonten"
+vendor: "BIGbenn1"
+product_type: "Downloads"
+price: 24.96
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.57
+cart_conversion_pct: 8
+cancel_rate_pct: 2.93
+categories: ["Education"]
+listed_since: "2018-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.benn-verlag.de/digi-aak/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://www.benn-verlag.de/digi-aak/index.html"
+language: "de"
+---
 # Die besten Alternativ-Auslandskonten
 
 > Product ID `27220` · Digistore24 productId `250456` · [HTML profile page](../../produkte/die-besten-alternativ-auslandskonten-27220.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57241"
+digistore24_product_id: 704219
+title: "Deine erste Social Media Agentur"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/erste-social-media-agentur?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/erste-social-media-agentur"
+language: "de"
+---
 # Deine erste Social Media Agentur
 
 > Product ID `57241` · Digistore24 productId `704219` · [HTML profile page](../../produkte/deine-erste-social-media-agentur-57241.html)

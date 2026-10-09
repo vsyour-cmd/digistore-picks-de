@@ -1,3 +1,24 @@
+---
+product_id: "56670"
+digistore24_product_id: 695398
+title: "Der Patient als Geschäftsmodell"
+vendor: "PERSOFIT"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Politics & Economy"]
+listed_since: "2026-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695398?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695398"
+language: "de"
+---
 # Der Patient als Geschäftsmodell
 
 > Product ID `56670` · Digistore24 productId `695398` · [HTML profile page](../../produkte/der-patient-als-gesch-ftsmodell-56670.html)

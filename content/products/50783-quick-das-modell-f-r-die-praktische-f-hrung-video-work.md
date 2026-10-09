@@ -1,3 +1,24 @@
+---
+product_id: "50783"
+digistore24_product_id: 586708
+title: "Quick – Das Modell für die praktische Führung – Video + Work"
+vendor: "PFEOS-Kraemer"
+product_type: "Member area and video courses"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Leadership & Management"]
+listed_since: "2024-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/586708?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/586708"
+language: "de"
+---
 # Quick – Das Modell für die praktische Führung – Video + Work
 
 > Product ID `50783` · Digistore24 productId `586708` · [HTML profile page](../../produkte/quick-das-modell-f-r-die-praktische-f-hrung-video-work-50783.html)

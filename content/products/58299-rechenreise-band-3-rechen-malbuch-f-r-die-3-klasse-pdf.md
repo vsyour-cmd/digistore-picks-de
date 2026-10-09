@@ -1,3 +1,24 @@
+---
+product_id: "58299"
+digistore24_product_id: 720424
+title: "Rechenreise Band 3 – Rechen-Malbuch für die 3. Klasse (PDF)"
+vendor: "silviodante"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/720424?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/720424"
+language: "de"
+---
 # Rechenreise Band 3 – Rechen-Malbuch für die 3. Klasse (PDF)
 
 > Product ID `58299` · Digistore24 productId `720424` · [HTML profile page](../../produkte/rechenreise-band-3-rechen-malbuch-f-r-die-3-klasse-pdf-58299.html)

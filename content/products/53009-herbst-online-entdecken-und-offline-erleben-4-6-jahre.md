@@ -1,3 +1,24 @@
+---
+product_id: "53009"
+digistore24_product_id: 616678
+title: "Herbst online entdecken und offline erleben (4–6 Jahre)"
+vendor: "IsabellFa"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Hobby & Craft"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/616678?voucher=Herbst&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/616678?voucher=Herbst"
+language: "de"
+---
 # Herbst online entdecken und offline erleben (4–6 Jahre)
 
 > Product ID `53009` · Digistore24 productId `616678` · [HTML profile page](../../produkte/herbst-online-entdecken-und-offline-erleben-4-6-jahre-53009.html)

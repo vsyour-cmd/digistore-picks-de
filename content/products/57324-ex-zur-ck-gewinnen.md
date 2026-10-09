@@ -1,3 +1,24 @@
+---
+product_id: "57324"
+digistore24_product_id: 706653
+title: "Ex zurück gewinnen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/ex-zurueck-gewinnen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/ex-zurueck-gewinnen"
+language: "de"
+---
 # Ex zurück gewinnen
 
 > Product ID `57324` · Digistore24 productId `706653` · [HTML profile page](../../produkte/ex-zur-ck-gewinnen-57324.html)

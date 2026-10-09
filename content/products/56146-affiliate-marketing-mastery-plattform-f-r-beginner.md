@@ -1,3 +1,24 @@
+---
+product_id: "56146"
+digistore24_product_id: 680361
+title: "Affiliate Marketing Mastery Plattform für Beginner"
+vendor: "itsagoodlife365"
+product_type: "Member area and video courses"
+price: 0.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.17
+cart_conversion_pct: 59
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://affiliate-mastery.affilihub.de?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliate-mastery.affilihub.de"
+language: "de"
+---
 # Affiliate Marketing Mastery Plattform für Beginner
 
 > Product ID `56146` · Digistore24 productId `680361` · [HTML profile page](../../produkte/affiliate-marketing-mastery-plattform-f-r-beginner-56146.html)

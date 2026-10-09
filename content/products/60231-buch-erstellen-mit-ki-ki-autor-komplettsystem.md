@@ -1,3 +1,24 @@
+---
+product_id: "60231"
+digistore24_product_id: 734491
+title: "Buch erstellen mit KI – KI-Autor Komplettsystem"
+vendor: "BroLimits"
+product_type: "Member area and video courses"
+price: 140.06
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 55.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Software"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://buch-erstellen-mit-ki.de/mitglied-werden/?aff=adminstore#aff=adminstore"
+sales_page: "https://buch-erstellen-mit-ki.de/mitglied-werden/"
+language: "de"
+---
 # Buch erstellen mit KI – KI-Autor Komplettsystem
 
 > Product ID `60231` · Digistore24 productId `734491` · [HTML profile page](../../produkte/buch-erstellen-mit-ki-ki-autor-komplettsystem-60231.html)

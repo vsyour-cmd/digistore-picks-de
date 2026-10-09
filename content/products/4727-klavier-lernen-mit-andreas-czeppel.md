@@ -1,3 +1,24 @@
+---
+product_id: "4727"
+digistore24_product_id: 394354
+title: "Klavier lernen mit Andreas Czeppel"
+vendor: "meineMusikschule"
+product_type: "Member area and video courses"
+price: 346.86
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 138.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinemusikschule.net/kurse/klavier/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinemusikschule.net/kurse/klavier/"
+language: "de"
+---
 # Klavier lernen mit Andreas Czeppel
 
 > Product ID `4727` · Digistore24 productId `394354` · [HTML profile page](../../produkte/klavier-lernen-mit-andreas-czeppel-4727.html)

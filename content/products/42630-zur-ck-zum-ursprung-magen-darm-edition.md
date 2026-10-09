@@ -1,3 +1,24 @@
+---
+product_id: "42630"
+digistore24_product_id: 450636
+title: "„Zurück zum Ursprung - Magen Darm Edition“"
+vendor: "phoenix999"
+product_type: "Member area and video courses"
+price: 429.17
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 126.99
+cart_conversion_pct: 17
+cancel_rate_pct: 2.38
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2022-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e?aff=adminstore#aff=adminstore"
+sales_page: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e"
+language: "de"
+---
 # „Zurück zum Ursprung - Magen Darm Edition“
 
 > Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html)

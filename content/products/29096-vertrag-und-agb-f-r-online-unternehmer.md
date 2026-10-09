@@ -1,3 +1,24 @@
+---
+product_id: "29096"
+digistore24_product_id: 174749
+title: "Vertrag und AGB für Online Unternehmer"
+vendor: "Paragraf7"
+product_type: "Downloads"
+price: 890.77
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 83.98
+cart_conversion_pct: 6
+cancel_rate_pct: 4.74
+categories: ["Law & Justice"]
+listed_since: "2017-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/?aff=adminstore#aff=adminstore"
+sales_page: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/"
+language: "de"
+---
 # Vertrag und AGB für Online Unternehmer
 
 > Product ID `29096` · Digistore24 productId `174749` · [HTML profile page](../../produkte/vertrag-und-agb-f-r-online-unternehmer-29096.html)

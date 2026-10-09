@@ -1,3 +1,24 @@
+---
+product_id: "58549"
+digistore24_product_id: 725318
+title: "ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi"
+vendor: "stellenmanufaktur"
+product_type: "Member area and video courses"
+price: 22.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725318?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725318"
+language: "de"
+---
 # ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi
 
 > Product ID `58549` · Digistore24 productId `725318` · [HTML profile page](../../produkte/scalebase-die-impact-lounge-dein-exklusiver-hub-f-r-busi-58549.html)

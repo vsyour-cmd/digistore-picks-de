@@ -1,3 +1,24 @@
+---
+product_id: "36961"
+digistore24_product_id: 394565
+title: "Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 78.6
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.88
+cart_conversion_pct: 16
+cancel_rate_pct: 2.63
+categories: ["Dancing & Music"]
+listed_since: "2021-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gitarrenvideounterricht.de/kurse/blues-ratgeber/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gitarrenvideounterricht.de/kurse/blues-ratgeber/"
+language: "de"
+---
 # Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre
 
 > Product ID `36961` · Digistore24 productId `394565` · [HTML profile page](../../produkte/blues-ratgeber-begleitung-und-solospiel-auf-der-e-gitarre-36961.html)

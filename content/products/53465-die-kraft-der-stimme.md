@@ -1,3 +1,24 @@
+---
+product_id: "53465"
+digistore24_product_id: 628698
+title: "Die Kraft der Stimme"
+vendor: "freies-bewusstsein"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://freies-bewusstsein.de/kraft-der-stimme/?aff=adminstore#aff=adminstore"
+sales_page: "https://freies-bewusstsein.de/kraft-der-stimme/"
+language: "de"
+---
 # Die Kraft der Stimme
 
 > Product ID `53465` · Digistore24 productId `628698` · [HTML profile page](../../produkte/die-kraft-der-stimme-53465.html)

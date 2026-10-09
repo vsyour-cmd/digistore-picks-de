@@ -1,3 +1,24 @@
+---
+product_id: "56665"
+digistore24_product_id: 530810
+title: "9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI"
+vendor: "ScheutzConsulting"
+product_type: "Member area and video courses"
+price: 23.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/"
+language: "de"
+---
 # 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI
 
 > Product ID `56665` · Digistore24 productId `530810` · [HTML profile page](../../produkte/9-steps-ahead-einladung-statt-abasagen-bewerbung-mit-ki-56665.html)

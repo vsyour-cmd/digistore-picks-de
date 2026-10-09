@@ -1,3 +1,24 @@
+---
+product_id: "59636"
+digistore24_product_id: 734141
+title: "Photoshop CC Designer Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Photography & Film"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734141?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734141"
+language: "de"
+---
 # Photoshop CC Designer Komplettkurs
 
 > Product ID `59636` · Digistore24 productId `734141` · [HTML profile page](../../produkte/photoshop-cc-designer-komplettkurs-59636.html)

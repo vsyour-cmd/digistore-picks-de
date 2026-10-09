@@ -1,3 +1,24 @@
+---
+product_id: "58118"
+digistore24_product_id: 717920
+title: "Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/717920?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717920"
+language: "de"
+---
 # Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang
 
 > Product ID `58118` · Digistore24 productId `717920` · [HTML profile page](../../produkte/ruhig-durch-den-sturm-ein-warmherziger-begleiter-gegen-ang-58118.html)

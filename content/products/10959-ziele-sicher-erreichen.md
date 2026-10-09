@@ -1,3 +1,24 @@
+---
+product_id: "10959"
+digistore24_product_id: 68903
+title: "Ziele sicher erreichen!"
+vendor: "ellingm"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 6.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2016-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/"
+language: "de"
+---
 # Ziele sicher erreichen!
 
 > Product ID `10959` · Digistore24 productId `68903` · [HTML profile page](../../produkte/ziele-sicher-erreichen-10959.html)

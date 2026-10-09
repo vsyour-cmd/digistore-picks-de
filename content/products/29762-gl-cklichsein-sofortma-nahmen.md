@@ -1,3 +1,24 @@
+---
+product_id: "29762"
+digistore24_product_id: 245692
+title: "Glücklichsein-Sofortmaßnahmen"
+vendor: "Erfolg-Intuitiv"
+product_type: "Downloads"
+price: 8.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.17
+cart_conversion_pct: 23
+cancel_rate_pct: 6.3
+categories: ["Personal Development"]
+listed_since: "2018-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://erfolg-intuitiv.de/gluecklichsein-sofortmassnahmen?aff=adminstore#aff=adminstore"
+sales_page: "https://erfolg-intuitiv.de/gluecklichsein-sofortmassnahmen"
+language: "de"
+---
 # Glücklichsein-Sofortmaßnahmen
 
 > Product ID `29762` · Digistore24 productId `245692` · [HTML profile page](../../produkte/gl-cklichsein-sofortma-nahmen-29762.html)

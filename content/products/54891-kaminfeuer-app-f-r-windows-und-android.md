@@ -1,3 +1,24 @@
+---
+product_id: "54891"
+digistore24_product_id: 571616
+title: "Kaminfeuer-App für Windows und Android"
+vendor: "JMMGComm"
+product_type: "Software"
+price: 14.09
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2024-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/571616?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/571616"
+language: "de"
+---
 # Kaminfeuer-App für Windows und Android
 
 > Product ID `54891` · Digistore24 productId `571616` · [HTML profile page](../../produkte/kaminfeuer-app-f-r-windows-und-android-54891.html)

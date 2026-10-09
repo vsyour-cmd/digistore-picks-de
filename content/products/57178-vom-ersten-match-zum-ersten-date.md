@@ -1,3 +1,24 @@
+---
+product_id: "57178"
+digistore24_product_id: 701934
+title: "Vom ersten Match zum ersten Date"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/vom-match-zum-date?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/vom-match-zum-date"
+language: "de"
+---
 # Vom ersten Match zum ersten Date
 
 > Product ID `57178` · Digistore24 productId `701934` · [HTML profile page](../../produkte/vom-ersten-match-zum-ersten-date-57178.html)

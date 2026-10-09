@@ -1,3 +1,24 @@
+---
+product_id: "50448"
+digistore24_product_id: 570011
+title: "Visitenseite | Onepager-Website für 299 €"
+vendor: "janschulzesiebert"
+product_type: "Remote service provided electronically"
+price: 452.9
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 14
+cancel_rate_pct: 9.85
+categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
+listed_since: "2024-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://visitenseite.de/angebot?aff=adminstore#aff=adminstore"
+sales_page: "https://visitenseite.de/angebot"
+language: "de"
+---
 # Visitenseite | Onepager-Website für 299 €
 
 > Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../produkte/visitenseite-onepager-website-f-r-299-50448.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43385"
+digistore24_product_id: 482699
+title: "Mein Beckenbodenworkout"
+vendor: "buggyFit"
+product_type: "Online coaching"
+price: 127.95
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0
+cart_conversion_pct: 13
+cancel_rate_pct: 2.77
+categories: ["Health & Fitness"]
+listed_since: "2023-02-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/482699/?voucher=Meinbeckenboden23&aff=adminstore"
+sales_page: "https://www.digistore24.com/product/482699/?voucher=Meinbeckenboden23"
+language: "de"
+---
 # Mein Beckenbodenworkout
 
 > Product ID `43385` · Digistore24 productId `482699` · [HTML profile page](../../produkte/mein-beckenbodenworkout-43385.html)

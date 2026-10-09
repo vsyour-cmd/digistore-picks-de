@@ -1,3 +1,24 @@
+---
+product_id: "44644"
+digistore24_product_id: 506983
+title: "Affiliate Marketing - Geldverdienen für Jedermann"
+vendor: "geldhuepfer"
+product_type: "E-books"
+price: 2.08
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 0.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2023-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/506983?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/506983"
+language: "de"
+---
 # Affiliate Marketing - Geldverdienen für Jedermann
 
 > Product ID `44644` · Digistore24 productId `506983` · [HTML profile page](../../produkte/affiliate-marketing-geldverdienen-f-r-jedermann-44644.html)

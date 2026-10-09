@@ -1,3 +1,24 @@
+---
+product_id: "57791"
+digistore24_product_id: 716036
+title: "Top 10-High Protein Mahlzeiten (E-Book)"
+vendor: "worldxpb"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/716036?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/716036"
+language: "de"
+---
 # Top 10-High Protein Mahlzeiten (E-Book)
 
 > Product ID `57791` · Digistore24 productId `716036` · [HTML profile page](../../produkte/top-10-high-protein-mahlzeiten-e-book-57791.html)

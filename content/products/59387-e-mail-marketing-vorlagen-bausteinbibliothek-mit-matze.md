@@ -1,3 +1,24 @@
+---
+product_id: "59387"
+digistore24_product_id: 733943
+title: "E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/"
+language: "de"
+---
 # E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze
 
 > Product ID `59387` · Digistore24 productId `733943` · [HTML profile page](../../produkte/e-mail-marketing-vorlagen-bausteinbibliothek-mit-matze-59387.html)

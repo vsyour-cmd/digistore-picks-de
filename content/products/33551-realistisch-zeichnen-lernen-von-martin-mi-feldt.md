@@ -1,3 +1,24 @@
+---
+product_id: "33551"
+digistore24_product_id: 335392
+title: "Realistisch Zeichnen lernen von Martin Mißfeldt"
+vendor: "Missfeldt"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2020-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.martin-missfeldt.de/realistisch-zeichnen-lernen.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.martin-missfeldt.de/realistisch-zeichnen-lernen.php"
+language: "de"
+---
 # Realistisch Zeichnen lernen von Martin Mißfeldt
 
 > Product ID `33551` · Digistore24 productId `335392` · [HTML profile page](../../produkte/realistisch-zeichnen-lernen-von-martin-mi-feldt-33551.html)

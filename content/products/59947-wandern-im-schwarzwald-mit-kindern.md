@@ -1,3 +1,24 @@
+---
+product_id: "59947"
+digistore24_product_id: 738069
+title: "Wandern im Schwarzwald mit Kindern"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Hobby & Craft","Travel & Culture"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738069?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738069"
+language: "de"
+---
 # Wandern im Schwarzwald mit Kindern
 
 > Product ID `59947` · Digistore24 productId `738069` · [HTML profile page](../../produkte/wandern-im-schwarzwald-mit-kindern-59947.html)

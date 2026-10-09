@@ -1,3 +1,24 @@
+---
+product_id: "32094"
+digistore24_product_id: 313967
+title: "Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer"
+vendor: "trafficoftrust"
+product_type: "Member area and video courses"
+price: 376
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 62.38
+cart_conversion_pct: 14
+cancel_rate_pct: 3.7
+categories: ["Animals & Pets"]
+listed_since: "2020-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hundetraining.me?aff=adminstore#aff=adminstore"
+sales_page: "https://hundetraining.me"
+language: "de"
+---
 # Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer
 
 > Product ID `32094` · Digistore24 productId `313967` · [HTML profile page](../../produkte/hundeschule-mit-martin-r-tter-dogs-trainerin-conny-sporrer-32094.html)

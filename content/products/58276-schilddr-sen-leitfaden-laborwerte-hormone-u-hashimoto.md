@@ -1,3 +1,24 @@
+---
+product_id: "58276"
+digistore24_product_id: 715776
+title: "Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto"
+vendor: "infoaae9"
+product_type: "E-books"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heilpraktiker-emden.de/gesundheits-leitfaeden/?aff=adminstore#aff=adminstore"
+sales_page: "https://heilpraktiker-emden.de/gesundheits-leitfaeden/"
+language: "de"
+---
 # Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto
 
 > Product ID `58276` · Digistore24 productId `715776` · [HTML profile page](../../produkte/schilddr-sen-leitfaden-laborwerte-hormone-u-hashimoto-58276.html)

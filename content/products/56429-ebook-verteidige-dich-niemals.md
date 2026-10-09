@@ -1,3 +1,24 @@
+---
+product_id: "56429"
+digistore24_product_id: 689556
+title: "Ebook - Verteidige dich niemals"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689556?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689556"
+language: "de"
+---
 # Ebook - Verteidige dich niemals
 
 > Product ID `56429` · Digistore24 productId `689556` · [HTML profile page](../../produkte/ebook-verteidige-dich-niemals-56429.html)

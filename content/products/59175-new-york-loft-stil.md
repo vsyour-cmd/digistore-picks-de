@@ -1,3 +1,24 @@
+---
+product_id: "59175"
+digistore24_product_id: 726402
+title: "New York Loft-Stil"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726402?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726402"
+language: "de"
+---
 # New York Loft-Stil
 
 > Product ID `59175` · Digistore24 productId `726402` · [HTML profile page](../../produkte/new-york-loft-stil-59175.html)

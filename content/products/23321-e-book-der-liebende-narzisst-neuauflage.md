@@ -1,3 +1,24 @@
+---
+product_id: "23321"
+digistore24_product_id: 201545
+title: "E-Book: \"Der liebende Narzisst\" - Neuauflage"
+vendor: "Morpheus"
+product_type: "Downloads"
+price: 23.46
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 9.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2018-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.der-liebende-narzisst.de/de/komplettpaket?aff=adminstore#aff=adminstore"
+sales_page: "https://www.der-liebende-narzisst.de/de/komplettpaket"
+language: "de"
+---
 # E-Book: "Der liebende Narzisst" - Neuauflage
 
 > Product ID `23321` · Digistore24 productId `201545` · [HTML profile page](../../produkte/e-book-der-liebende-narzisst-neuauflage-23321.html)

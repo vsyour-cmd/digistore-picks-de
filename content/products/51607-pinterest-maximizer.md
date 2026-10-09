@@ -1,3 +1,24 @@
+---
+product_id: "51607"
+digistore24_product_id: 599845
+title: "Pinterest Maximizer"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2025-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Pinterest-Maximizer?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Pinterest-Maximizer"
+language: "de"
+---
 # Pinterest Maximizer
 
 > Product ID `51607` · Digistore24 productId `599845` · [HTML profile page](../../produkte/pinterest-maximizer-51607.html)

@@ -1,3 +1,24 @@
+---
+product_id: "44516"
+digistore24_product_id: 505169
+title: "E-Book- Warum werde ich auf FB und Insta gesperrt?"
+vendor: "MSchlinder"
+product_type: "E-books"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Social Media"]
+listed_since: "2023-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/FB-Sperre?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/FB-Sperre"
+language: "de"
+---
 # E-Book- Warum werde ich auf FB und Insta gesperrt?
 
 > Product ID `44516` · Digistore24 productId `505169` · [HTML profile page](../../produkte/e-book-warum-werde-ich-auf-fb-und-insta-gesperrt-44516.html)

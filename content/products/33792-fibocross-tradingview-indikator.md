@@ -1,3 +1,24 @@
+---
+product_id: "33792"
+digistore24_product_id: 305369
+title: "FiboCross | TradingView Indikator"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 61.68
+cart_conversion_pct: 5
+cancel_rate_pct: 10.59
+categories: ["Trading Products"]
+listed_since: "2020-01-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/"
+language: "de"
+---
 # FiboCross | TradingView Indikator
 
 > Product ID `33792` · Digistore24 productId `305369` · [HTML profile page](../../produkte/fibocross-tradingview-indikator-33792.html)

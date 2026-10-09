@@ -1,3 +1,24 @@
+---
+product_id: "44854"
+digistore24_product_id: 509254
+title: "Das Lifetime-Partnerprogramm von Coaching24"
+vendor: "zielgruppe"
+product_type: "Remote service provided electronically"
+price: 2796.5
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 279.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2023-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.zielgruppe.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.zielgruppe.de/"
+language: "de"
+---
 # Das Lifetime-Partnerprogramm von Coaching24
 
 > Product ID `44854` · Digistore24 productId `509254` · [HTML profile page](../../produkte/das-lifetime-partnerprogramm-von-coaching24-44854.html)

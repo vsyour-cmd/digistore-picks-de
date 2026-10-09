@@ -1,3 +1,24 @@
+---
+product_id: "60325"
+digistore24_product_id: 741332
+title: "Grundsicherung im Alter leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741332?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741332"
+language: "de"
+---
 # Grundsicherung im Alter leicht gemacht
 
 > Product ID `60325` · Digistore24 productId `741332` · [HTML profile page](../../produkte/grundsicherung-im-alter-leicht-gemacht-60325.html)

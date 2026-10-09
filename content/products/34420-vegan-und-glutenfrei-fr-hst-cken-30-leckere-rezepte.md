@@ -1,3 +1,24 @@
+---
+product_id: "34420"
+digistore24_product_id: 352781
+title: "Vegan und glutenfrei Frühstücken - 30 leckere Rezepte"
+vendor: "tastykaty"
+product_type: "E-books"
+price: 12.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tastykaty.de/vegan-glutenfrei-fruehstuecken-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://tastykaty.de/vegan-glutenfrei-fruehstuecken-e-book/"
+language: "de"
+---
 # Vegan und glutenfrei Frühstücken - 30 leckere Rezepte
 
 > Product ID `34420` · Digistore24 productId `352781` · [HTML profile page](../../produkte/vegan-und-glutenfrei-fr-hst-cken-30-leckere-rezepte-34420.html)

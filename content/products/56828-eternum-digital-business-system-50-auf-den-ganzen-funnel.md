@@ -1,3 +1,24 @@
+---
+product_id: "56828"
+digistore24_product_id: 699040
+title: "ETERNUM Digital Business System – 50% auf den ganzen Funnel"
+vendor: "megareichtum"
+product_type: "Downloads"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 26.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eternumtech.eu/system?aff=adminstore#aff=adminstore"
+sales_page: "https://eternumtech.eu/system"
+language: "de"
+---
 # ETERNUM Digital Business System – 50% auf den ganzen Funnel
 
 > Product ID `56828` · Digistore24 productId `699040` · [HTML profile page](../../produkte/eternum-digital-business-system-50-auf-den-ganzen-funnel-56828.html)

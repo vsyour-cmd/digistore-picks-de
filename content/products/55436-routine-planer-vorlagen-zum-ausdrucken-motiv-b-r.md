@@ -1,3 +1,24 @@
+---
+product_id: "55436"
+digistore24_product_id: 665654
+title: "Routine Planer Vorlagen zum Ausdrucken Motiv Bär"
+vendor: "JohannaBuegler"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Social Media"]
+listed_since: "2026-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665654?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665654"
+language: "de"
+---
 # Routine Planer Vorlagen zum Ausdrucken Motiv Bär
 
 > Product ID `55436` · Digistore24 productId `665654` · [HTML profile page](../../produkte/routine-planer-vorlagen-zum-ausdrucken-motiv-b-r-55436.html)

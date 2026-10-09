@@ -1,3 +1,24 @@
+---
+product_id: "58402"
+digistore24_product_id: 663320
+title: "Slow Breathing — Teacher Modul für Nervensystemregulation"
+vendor: "BeamdreamBreathworks"
+product_type: "Member area and video courses"
+price: 394.8
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 39.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beamdream.com/relax-breathwork-ausbildung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beamdream.com/relax-breathwork-ausbildung"
+language: "de"
+---
 # Slow Breathing — Teacher Modul für Nervensystemregulation
 
 > Product ID `58402` · Digistore24 productId `663320` · [HTML profile page](../../produkte/slow-breathing-teacher-modul-f-r-nervensystemregulation-58402.html)

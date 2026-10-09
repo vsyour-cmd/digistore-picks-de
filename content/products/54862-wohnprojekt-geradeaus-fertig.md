@@ -1,3 +1,24 @@
+---
+product_id: "54862"
+digistore24_product_id: 653624
+title: "Wohnprojekt. Geradeaus. Fertig."
+vendor: "BaukeinScheiss"
+product_type: "Telephone coaching"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 95
+earnings_per_sale: 88.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Leadership & Management","Project Management","Real Estate"]
+listed_since: "2025-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.hofmann-projektmanagement.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hofmann-projektmanagement.com/"
+language: "de"
+---
 # Wohnprojekt. Geradeaus. Fertig.
 
 > Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../produkte/wohnprojekt-geradeaus-fertig-54862.html)

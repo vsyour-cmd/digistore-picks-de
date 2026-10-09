@@ -1,3 +1,24 @@
+---
+product_id: "59371"
+digistore24_product_id: 734882
+title: "MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 62.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://money-03.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://money-03.pages.dev/"
+language: "de"
+---
 # MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)
 
 > Product ID `59371` · Digistore24 productId `734882` · [HTML profile page](../../produkte/money-geldregeln-f-r-ki-agenten-control-series-59371.html)

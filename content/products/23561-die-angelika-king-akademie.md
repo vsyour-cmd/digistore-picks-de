@@ -1,3 +1,24 @@
+---
+product_id: "23561"
+digistore24_product_id: 209737
+title: "Die Angelika King Akademie"
+vendor: "AngelKing"
+product_type: "Member area and video courses"
+price: 1094.16
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 328.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2018-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/209737?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/209737"
+language: "de"
+---
 # Die Angelika King Akademie
 
 > Product ID `23561` · Digistore24 productId `209737` · [HTML profile page](../../produkte/die-angelika-king-akademie-23561.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52703"
+digistore24_product_id: 528446
+title: "Horse Agility Grundkurs"
+vendor: "Horse-Balance"
+product_type: "Member area and video courses"
+price: 141
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 14.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Animals & Pets"]
+listed_since: "2023-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/528446?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/528446"
+language: "de"
+---
 # Horse Agility Grundkurs
 
 > Product ID `52703` · Digistore24 productId `528446` · [HTML profile page](../../produkte/horse-agility-grundkurs-52703.html)

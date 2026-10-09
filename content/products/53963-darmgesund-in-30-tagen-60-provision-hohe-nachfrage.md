@@ -1,3 +1,24 @@
+---
+product_id: "53963"
+digistore24_product_id: 634974
+title: "Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage"
+vendor: "Hei-Mel"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/?aff=adminstore#aff=adminstore"
+sales_page: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/"
+language: "de"
+---
 # Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage
 
 > Product ID `53963` · Digistore24 productId `634974` · [HTML profile page](../../produkte/darmgesund-in-30-tagen-60-provision-hohe-nachfrage-53963.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56179"
+digistore24_product_id: 575305
+title: "Wochenendseminar EnergieHypnose"
+vendor: "hh-akademie"
+product_type: "Seminar for business customers"
+price: 742.94
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 64.89
+cart_conversion_pct: 3
+cancel_rate_pct: 4.27
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/575305?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/575305"
+language: "de"
+---
 # Wochenendseminar EnergieHypnose
 
 > Product ID `56179` · Digistore24 productId `575305` · [HTML profile page](../../produkte/wochenendseminar-energiehypnose-56179.html)

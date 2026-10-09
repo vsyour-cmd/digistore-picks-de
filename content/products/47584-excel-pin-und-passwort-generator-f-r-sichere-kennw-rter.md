@@ -1,3 +1,24 @@
+---
+product_id: "47584"
+digistore24_product_id: 488581
+title: "Excel PIN- und Passwort-Generator für sichere Kennwörter"
+vendor: "amexio"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2023-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/488581?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/488581"
+language: "de"
+---
 # Excel PIN- und Passwort-Generator für sichere Kennwörter
 
 > Product ID `47584` · Digistore24 productId `488581` · [HTML profile page](../../produkte/excel-pin-und-passwort-generator-f-r-sichere-kennw-rter-47584.html)

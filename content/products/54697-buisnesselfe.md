@@ -1,3 +1,24 @@
+---
+product_id: "54697"
+digistore24_product_id: 616060
+title: "BuisnessElfe"
+vendor: "DreamElfe"
+product_type: "E-books"
+price: 205.95
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 41.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dreamelfes-buisness.systeme.io/business-elfe-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://dreamelfes-buisness.systeme.io/business-elfe-ds"
+language: "de"
+---
 # BuisnessElfe
 
 > Product ID `54697` · Digistore24 productId `616060` · [HTML profile page](../../produkte/buisnesselfe-54697.html)

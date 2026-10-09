@@ -1,3 +1,24 @@
+---
+product_id: "58424"
+digistore24_product_id: 695513
+title: "Was ich wirklich brauche"
+vendor: "SinaDieterle"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beziehungscoach-online.de/deine-beduerfnisse/?aff=adminstore#aff=adminstore"
+sales_page: "https://beziehungscoach-online.de/deine-beduerfnisse/"
+language: "de"
+---
 # Was ich wirklich brauche
 
 > Product ID `58424` · Digistore24 productId `695513` · [HTML profile page](../../produkte/was-ich-wirklich-brauche-58424.html)

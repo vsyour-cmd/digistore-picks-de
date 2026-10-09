@@ -1,3 +1,24 @@
+---
+product_id: "56236"
+digistore24_product_id: 412211
+title: "Selbstführung to go – für Eltern. Gelassener in 7 Einheiten."
+vendor: "LifeSkripting_"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 13.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development"]
+listed_since: "2021-10-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/412211/?email=katrin@dr-hegendoerfer.de&aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/412211/?email=katrin@dr-hegendoerfer.de"
+language: "de"
+---
 # Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.
 
 > Product ID `56236` · Digistore24 productId `412211` · [HTML profile page](../../produkte/selbstf-hrung-to-go-f-r-eltern-gelassener-in-7-einheiten-56236.html)

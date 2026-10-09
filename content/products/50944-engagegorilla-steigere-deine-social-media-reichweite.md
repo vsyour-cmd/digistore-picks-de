@@ -1,3 +1,24 @@
+---
+product_id: "50944"
+digistore24_product_id: 586333
+title: "EngageGorilla - Steigere deine Social Media Reichweite"
+vendor: "sattelitevendor"
+product_type: "Software"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 27.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2024-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/586333/adminstore"
+sales_page: "https://www.engagegorilla.com/?utm_source=[AFFILIATE]&utm_medium={{field_15190}}"
+language: "de"
+---
 # EngageGorilla - Steigere deine Social Media Reichweite
 
 > Product ID `50944` · Digistore24 productId `586333` · [HTML profile page](../../produkte/engagegorilla-steigere-deine-social-media-reichweite-50944.html)

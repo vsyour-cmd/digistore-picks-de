@@ -1,3 +1,24 @@
+---
+product_id: "56770"
+digistore24_product_id: 689970
+title: "Ihr KI-Sprachagent. Rund um die Uhr verfügbar."
+vendor: "Chainpaysolutions"
+product_type: "Remote service provided electronically"
+price: 55.92
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 19.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://spreka.ai/digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://spreka.ai/digistore"
+language: "de"
+---
 # Ihr KI-Sprachagent. Rund um die Uhr verfügbar.
 
 > Product ID `56770` · Digistore24 productId `689970` · [HTML profile page](../../produkte/ihr-ki-sprachagent-rund-um-die-uhr-verf-gbar-56770.html)

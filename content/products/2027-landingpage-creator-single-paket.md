@@ -1,3 +1,24 @@
+---
+product_id: "2027"
+digistore24_product_id: 20925
+title: "Landingpage-Creator Single Paket"
+vendor: "VersArzt"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2014-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.dortmund-internetmarketing.de/landingpage-creator/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.dortmund-internetmarketing.de/landingpage-creator/"
+language: "de"
+---
 # Landingpage-Creator Single Paket
 
 > Product ID `2027` · Digistore24 productId `20925` · [HTML profile page](../../produkte/landingpage-creator-single-paket-2027.html)

@@ -1,3 +1,24 @@
+---
+product_id: "20875"
+digistore24_product_id: 116929
+title: "Babysitter-Kurs: \"Pädagogisch qualifizierte Person\""
+vendor: "IT-Projekte"
+product_type: "Downloads"
+price: 184.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 92.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2017-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.abc-kinderbetreuung.at/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.abc-kinderbetreuung.at/"
+language: "de"
+---
 # Babysitter-Kurs: "Pädagogisch qualifizierte Person"
 
 > Product ID `20875` · Digistore24 productId `116929` · [HTML profile page](../../produkte/babysitter-kurs-p-dagogisch-qualifizierte-person-20875.html)

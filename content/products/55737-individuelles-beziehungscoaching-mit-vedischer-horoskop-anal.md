@@ -1,3 +1,24 @@
+---
+product_id: "55737"
+digistore24_product_id: 663079
+title: "Individuelles Beziehungscoaching mit vedischer Horoskop-Anal"
+vendor: "HeidiPro"
+product_type: "Telephone coaching"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 56.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Services"]
+listed_since: "2026-01-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://hpheidi-hoeck.systeme.io/e143f52a?aff=adminstore#aff=adminstore"
+sales_page: "https://hpheidi-hoeck.systeme.io/e143f52a"
+language: "de"
+---
 # Individuelles Beziehungscoaching mit vedischer Horoskop-Anal
 
 > Product ID `55737` · Digistore24 productId `663079` · [HTML profile page](../../produkte/individuelles-beziehungscoaching-mit-vedischer-horoskop-anal-55737.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60352"
+digistore24_product_id: 741756
+title: "Wohnen im Alter leicht gemacht – Ratgeber mit Wohn-Check"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741756?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741756"
+language: "de"
+---
 # Wohnen im Alter leicht gemacht – Ratgeber mit Wohn-Check
 
 > Product ID `60352` · Digistore24 productId `741756` · [HTML profile page](../../produkte/wohnen-im-alter-leicht-gemacht-ratgeber-mit-wohn-check-60352.html)

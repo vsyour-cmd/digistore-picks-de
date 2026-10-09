@@ -1,3 +1,24 @@
+---
+product_id: "30158"
+digistore24_product_id: 52357
+title: "Vietnamesisch Crashkurs für interessierte Reisende"
+vendor: "findsbesserraus"
+product_type: "Downloads"
+price: 20.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.62
+cart_conversion_pct: 1
+cancel_rate_pct: 1.97
+categories: ["Travel & Culture"]
+listed_since: "2015-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.vietnamesisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.vietnamesisch-fuer-reisende.de"
+language: "de"
+---
 # Vietnamesisch Crashkurs für interessierte Reisende
 
 > Product ID `30158` · Digistore24 productId `52357` · [HTML profile page](../../produkte/vietnamesisch-crashkurs-f-r-interessierte-reisende-30158.html)

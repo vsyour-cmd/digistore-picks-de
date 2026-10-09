@@ -1,3 +1,24 @@
+---
+product_id: "43350"
+digistore24_product_id: 447740
+title: "PIP BOOSTER - *Exklusiv* Partner von UNDERGROUND-TRADERS.COM"
+vendor: "UGT2022"
+product_type: "Software"
+price: 357.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 294.81
+cart_conversion_pct: 2
+cancel_rate_pct: 1.93
+categories: ["Trading Products"]
+listed_since: "2022-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://underground-traders.com/pip-booster-de/?aff=adminstore#aff=adminstore"
+sales_page: "https://underground-traders.com/pip-booster-de/"
+language: "de"
+---
 # PIP BOOSTER - *Exklusiv* Partner von UNDERGROUND-TRADERS.COM
 
 > Product ID `43350` · Digistore24 productId `447740` · [HTML profile page](../../produkte/pip-booster-exklusiv-partner-von-underground-traders-com-43350.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47007"
+digistore24_product_id: 614344
+title: "Neurostreams™ ALLES ( Download)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 140.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/produkte/neurostreams-alles/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/produkte/neurostreams-alles/"
+language: "de"
+---
 # Neurostreams™ ALLES ( Download)
 
 > Product ID `47007` · Digistore24 productId `614344` · [HTML profile page](../../produkte/neurostreams-alles-download-47007.html)

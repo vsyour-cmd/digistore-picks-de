@@ -1,3 +1,24 @@
+---
+product_id: "55422"
+digistore24_product_id: 665433
+title: "Selbstgeführte Stadtrallye Jena | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-jena/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-jena/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Jena | Hint-Caching
 
 > Product ID `55422` · Digistore24 productId `665433` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-jena-hint-caching-55422.html)

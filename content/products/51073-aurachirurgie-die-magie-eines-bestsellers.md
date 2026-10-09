@@ -1,3 +1,24 @@
+---
+product_id: "51073"
+digistore24_product_id: 587210
+title: "Aurachirurgie - die Magie eines Bestsellers"
+vendor: "mindstream"
+product_type: "Book (printed)"
+price: 321.25
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 13.03
+cart_conversion_pct: 8
+cancel_rate_pct: 1.5
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2024-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/587210?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/587210"
+language: "de"
+---
 # Aurachirurgie - die Magie eines Bestsellers
 
 > Product ID `51073` · Digistore24 productId `587210` · [HTML profile page](../../produkte/aurachirurgie-die-magie-eines-bestsellers-51073.html)

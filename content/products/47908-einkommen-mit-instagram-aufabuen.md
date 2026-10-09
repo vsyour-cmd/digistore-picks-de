@@ -1,3 +1,24 @@
+---
+product_id: "47908"
+digistore24_product_id: 548768
+title: "Einkommen mit Instagram aufabuen"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/Instagram-Strategie?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Instagram-Strategie"
+language: "de"
+---
 # Einkommen mit Instagram aufabuen
 
 > Product ID `47908` · Digistore24 productId `548768` · [HTML profile page](../../produkte/einkommen-mit-instagram-aufabuen-47908.html)

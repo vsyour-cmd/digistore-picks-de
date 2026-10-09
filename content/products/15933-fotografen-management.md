@@ -1,3 +1,24 @@
+---
+product_id: "15933"
+digistore24_product_id: 127933
+title: "Fotografen.Management"
+vendor: "ThomasAmmermueller"
+product_type: "Downloads"
+price: 201.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 40.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2017-03-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://fotografen.management/?aff=adminstore#aff=adminstore"
+sales_page: "https://fotografen.management/"
+language: "de"
+---
 # Fotografen.Management
 
 > Product ID `15933` · Digistore24 productId `127933` · [HTML profile page](../../produkte/fotografen-management-15933.html)

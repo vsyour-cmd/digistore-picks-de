@@ -1,3 +1,24 @@
+---
+product_id: "60227"
+digistore24_product_id: 734333
+title: "Wenn Familie und Business in einem Kopf wohnen"
+vendor: "businessdesignrocks"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Family & Children","Personal Development"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734333?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734333"
+language: "de"
+---
 # Wenn Familie und Business in einem Kopf wohnen
 
 > Product ID `60227` · Digistore24 productId `734333` · [HTML profile page](../../produkte/wenn-familie-und-business-in-einem-kopf-wohnen-60227.html)

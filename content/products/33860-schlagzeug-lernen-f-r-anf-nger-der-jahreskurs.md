@@ -1,3 +1,24 @@
+---
+product_id: "33860"
+digistore24_product_id: 330335
+title: "Schlagzeug lernen für Anfänger - der Jahreskurs"
+vendor: "RudiHein"
+product_type: "Member area and video courses"
+price: 282
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 84.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2020-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/?aff=adminstore#aff=adminstore"
+sales_page: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/"
+language: "de"
+---
 # Schlagzeug lernen für Anfänger - der Jahreskurs
 
 > Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../produkte/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)

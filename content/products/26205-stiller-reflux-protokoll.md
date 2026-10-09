@@ -1,3 +1,24 @@
+---
+product_id: "26205"
+digistore24_product_id: 151257
+title: "Stiller Reflux Protokoll"
+vendor: "Sanariver"
+product_type: "Downloads"
+price: 114.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.91
+cart_conversion_pct: 21
+cancel_rate_pct: 14.86
+categories: ["Health & Fitness"]
+listed_since: "2017-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.refluxgate.de/stiller-reflux-protokoll?aff=adminstore#aff=adminstore"
+sales_page: "https://www.refluxgate.de/stiller-reflux-protokoll"
+language: "de"
+---
 # Stiller Reflux Protokoll
 
 > Product ID `26205` · Digistore24 productId `151257` · [HTML profile page](../../produkte/stiller-reflux-protokoll-26205.html)

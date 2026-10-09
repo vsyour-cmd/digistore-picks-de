@@ -1,3 +1,24 @@
+---
+product_id: "23809"
+digistore24_product_id: 206935
+title: "Lecker Abnehmen - Das Komplettprogramm"
+vendor: "Abnehmprofis"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-03-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://leckerabnehmen.com/komplettprogramm/?aff=adminstore#aff=adminstore"
+sales_page: "http://leckerabnehmen.com/komplettprogramm/"
+language: "de"
+---
 # Lecker Abnehmen - Das Komplettprogramm
 
 > Product ID `23809` · Digistore24 productId `206935` · [HTML profile page](../../produkte/lecker-abnehmen-das-komplettprogramm-23809.html)

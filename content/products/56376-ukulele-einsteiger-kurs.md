@@ -1,3 +1,24 @@
+---
+product_id: "56376"
+digistore24_product_id: 687223
+title: "Ukulele Einsteiger-Kurs"
+vendor: "Musikbegleiter"
+product_type: "Member area and video courses"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Education","Software"]
+listed_since: "2026-04-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.musikbegleiter.de/einsteiger-kurs-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://www.musikbegleiter.de/einsteiger-kurs-ds"
+language: "de"
+---
 # Ukulele Einsteiger-Kurs
 
 > Product ID `56376` · Digistore24 productId `687223` · [HTML profile page](../../produkte/ukulele-einsteiger-kurs-56376.html)

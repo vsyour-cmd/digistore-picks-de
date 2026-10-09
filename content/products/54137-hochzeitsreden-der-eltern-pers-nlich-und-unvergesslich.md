@@ -1,3 +1,24 @@
+---
+product_id: "54137"
+digistore24_product_id: 574637
+title: "Hochzeitsreden der Eltern: Persönlich und Unvergesslich"
+vendor: "Hochzeitsplaza"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2024-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/574637?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/574637"
+language: "de"
+---
 # Hochzeitsreden der Eltern: Persönlich und Unvergesslich
 
 > Product ID `54137` · Digistore24 productId `574637` · [HTML profile page](../../produkte/hochzeitsreden-der-eltern-pers-nlich-und-unvergesslich-54137.html)

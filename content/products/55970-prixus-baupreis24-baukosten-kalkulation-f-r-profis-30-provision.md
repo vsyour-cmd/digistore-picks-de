@@ -1,3 +1,24 @@
+---
+product_id: "55970"
+digistore24_product_id: 676553
+title: "PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision"
+vendor: "PRIXUS-UG"
+product_type: "Software"
+price: 75.1
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 22.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Real Estate"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/676553?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/676553"
+language: "de"
+---
 # PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision
 
 > Product ID `55970` · Digistore24 productId `676553` · [HTML profile page](../../produkte/prixus-baupreis24-baukosten-kalkulation-f-r-profis-30-provision-55970.html)

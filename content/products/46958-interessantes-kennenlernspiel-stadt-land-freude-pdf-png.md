@@ -1,3 +1,24 @@
+---
+product_id: "46958"
+digistore24_product_id: 535532
+title: "interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG"
+vendor: "wiegehtliebe-de"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
+listed_since: "2024-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://melli-seedorf.de/stadt-land-glueckstraining/?aff=adminstore#aff=adminstore"
+sales_page: "https://melli-seedorf.de/stadt-land-glueckstraining/"
+language: "de"
+---
 # interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG
 
 > Product ID `46958` · Digistore24 productId `535532` · [HTML profile page](../../produkte/interessantes-kennenlernspiel-stadt-land-freude-pdf-png-46958.html)

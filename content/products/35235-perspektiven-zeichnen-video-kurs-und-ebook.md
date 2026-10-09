@@ -1,3 +1,24 @@
+---
+product_id: "35235"
+digistore24_product_id: 358149
+title: "Perspektiven Zeichnen Video-Kurs und eBook"
+vendor: "DrawTut"
+product_type: "Member area and video courses"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.08
+cart_conversion_pct: 7
+cancel_rate_pct: 0.22
+categories: ["Profession & Job"]
+listed_since: "2020-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://drawtut.com/de/kurse/perspektiven/?aff=adminstore#aff=adminstore"
+sales_page: "https://drawtut.com/de/kurse/perspektiven/"
+language: "de"
+---
 # Perspektiven Zeichnen Video-Kurs und eBook
 
 > Product ID `35235` · Digistore24 productId `358149` · [HTML profile page](../../produkte/perspektiven-zeichnen-video-kurs-und-ebook-35235.html)

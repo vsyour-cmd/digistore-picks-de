@@ -1,3 +1,24 @@
+---
+product_id: "9127"
+digistore24_product_id: 112097
+title: "VIP ELITE JahresCoaching - SONDERAKTION"
+vendor: "vipdigi"
+product_type: "Remote service provided electronically"
+price: 3948
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 789.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2017-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.focusing-power.com/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.focusing-power.com/"
+language: "de"
+---
 # VIP ELITE JahresCoaching - SONDERAKTION
 
 > Product ID `9127` · Digistore24 productId `112097` · [HTML profile page](../../produkte/vip-elite-jahrescoaching-sonderaktion-9127.html)

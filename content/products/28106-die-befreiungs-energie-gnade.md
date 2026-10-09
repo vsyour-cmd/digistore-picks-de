@@ -1,3 +1,24 @@
+---
+product_id: "28106"
+digistore24_product_id: 260422
+title: "Die Befreiungs-Energie Gnade"
+vendor: "Musik-Apotheke"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-02-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.compose-media.de/die-befreiungsenergie-gnade-musik-fuer-die-seele/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.compose-media.de/die-befreiungsenergie-gnade-musik-fuer-die-seele/"
+language: "de"
+---
 # Die Befreiungs-Energie Gnade
 
 > Product ID `28106` · Digistore24 productId `260422` · [HTML profile page](../../produkte/die-befreiungs-energie-gnade-28106.html)

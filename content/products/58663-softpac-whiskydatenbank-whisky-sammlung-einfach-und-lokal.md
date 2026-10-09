@@ -1,3 +1,24 @@
+---
+product_id: "58663"
+digistore24_product_id: 726000
+title: "SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal"
+vendor: "dejo777"
+product_type: "Software"
+price: 56.31
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 16.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Software"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.softpac.de/ekp/wdb/index.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.softpac.de/ekp/wdb/index.html"
+language: "de"
+---
 # SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal
 
 > Product ID `58663` · Digistore24 productId `726000` · [HTML profile page](../../produkte/softpac-whiskydatenbank-whisky-sammlung-einfach-und-lokal-58663.html)

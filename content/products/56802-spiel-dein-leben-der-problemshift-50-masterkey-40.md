@@ -1,3 +1,24 @@
+---
+product_id: "56802"
+digistore24_product_id: 695292
+title: "Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)"
+vendor: "infonewlifegamesccfe"
+product_type: "E-books"
+price: 993.15
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 397.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
+listed_since: "2026-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/695292?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/695292"
+language: "de"
+---
 # Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)
 
 > Product ID `56802` · Digistore24 productId `695292` · [HTML profile page](../../produkte/spiel-dein-leben-der-problemshift-50-masterkey-40-56802.html)

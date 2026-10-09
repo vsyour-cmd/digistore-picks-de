@@ -1,3 +1,24 @@
+---
+product_id: "56542"
+digistore24_product_id: 668995
+title: "STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P"
+vendor: "DEKAYLLC"
+product_type: "Member area and video courses"
+price: 44.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://startklar.idsystem.net/Startklar/?aff=adminstore#aff=adminstore"
+sales_page: "https://startklar.idsystem.net/Startklar/"
+language: "de"
+---
 # STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P
 
 > Product ID `56542` · Digistore24 productId `668995` · [HTML profile page](../../produkte/startklar-dein-erster-mini-funnel-dein-erstes-digitales-p-56542.html)

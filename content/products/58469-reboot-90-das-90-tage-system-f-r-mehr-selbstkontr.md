@@ -1,3 +1,24 @@
+---
+product_id: "58469"
+digistore24_product_id: 722055
+title: "REBOOT 90 – Das 90-Tage-System für mehr Selbstkontr"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 17.85
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Health & Fitness"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/722055?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722055"
+language: "de"
+---
 # REBOOT 90 – Das 90-Tage-System für mehr Selbstkontr
 
 > Product ID `58469` · Digistore24 productId `722055` · [HTML profile page](../../produkte/reboot-90-das-90-tage-system-f-r-mehr-selbstkontr-58469.html)

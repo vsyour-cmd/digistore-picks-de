@@ -1,3 +1,24 @@
+---
+product_id: "54423"
+digistore24_product_id: 640917
+title: "Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen"
+vendor: "MS_Dynamics"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-10-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640917?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640917"
+language: "de"
+---
 # Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen
 
 > Product ID `54423` · Digistore24 productId `640917` · [HTML profile page](../../produkte/notfallsanit-ter-100-pr-fungsfragen-mit-erkl-rungen-54423.html)

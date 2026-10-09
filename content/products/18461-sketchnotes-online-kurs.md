@@ -1,3 +1,24 @@
+---
+product_id: "18461"
+digistore24_product_id: 111195
+title: "Sketchnotes Online Kurs"
+vendor: "Timothy90"
+product_type: "Member area and video courses"
+price: 83.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.28
+cart_conversion_pct: 9
+cancel_rate_pct: 0.56
+categories: ["Education","Hobby & Craft","Profession & Job"]
+listed_since: "2016-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sketchnotes.com/sketchnotes-online-kurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://sketchnotes.com/sketchnotes-online-kurs/"
+language: "de"
+---
 # Sketchnotes Online Kurs
 
 > Product ID `18461` · Digistore24 productId `111195` · [HTML profile page](../../produkte/sketchnotes-online-kurs-18461.html)

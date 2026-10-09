@@ -1,3 +1,24 @@
+---
+product_id: "51702"
+digistore24_product_id: 497952
+title: "Digital Superhero"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 342.91
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 278.05
+cart_conversion_pct: 10
+cancel_rate_pct: 0.68
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2023-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.incomebutler.com/dshot/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.incomebutler.com/dshot/"
+language: "de"
+---
 # Digital Superhero
 
 > Product ID `51702` · Digistore24 productId `497952` · [HTML profile page](../../produkte/digital-superhero-51702.html)

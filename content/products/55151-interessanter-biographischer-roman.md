@@ -1,3 +1,24 @@
+---
+product_id: "55151"
+digistore24_product_id: 658840
+title: "Interessanter biographischer Roman"
+vendor: "ekke-hard"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Travel & Culture"]
+listed_since: "2026-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/658840?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/658840"
+language: "de"
+---
 # Interessanter biographischer Roman
 
 > Product ID `55151` · Digistore24 productId `658840` · [HTML profile page](../../produkte/interessanter-biographischer-roman-55151.html)

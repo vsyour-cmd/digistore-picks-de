@@ -1,3 +1,24 @@
+---
+product_id: "58709"
+digistore24_product_id: 652421
+title: "Zertifizierter Katzenverhaltensberater / Katzencoach"
+vendor: "aCATemy-Katzenschule-Petra-Ott"
+product_type: "Member area and video courses"
+price: 1316
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 263.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Profession & Job"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen?aff=adminstore#aff=adminstore"
+sales_page: "https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen"
+language: "de"
+---
 # Zertifizierter Katzenverhaltensberater / Katzencoach
 
 > Product ID `58709` · Digistore24 productId `652421` · [HTML profile page](../../produkte/zertifizierter-katzenverhaltensberater-katzencoach-58709.html)

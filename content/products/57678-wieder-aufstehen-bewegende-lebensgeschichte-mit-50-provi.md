@@ -1,3 +1,24 @@
+---
+product_id: "57678"
+digistore24_product_id: 681444
+title: "Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi"
+vendor: "Weisskopfadler2013"
+product_type: "Downloads"
+price: 12.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/681444?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/681444"
+language: "de"
+---
 # Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi
 
 > Product ID `57678` · Digistore24 productId `681444` · [HTML profile page](../../produkte/wieder-aufstehen-bewegende-lebensgeschichte-mit-50-provi-57678.html)

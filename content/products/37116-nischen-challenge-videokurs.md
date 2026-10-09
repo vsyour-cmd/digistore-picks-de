@@ -1,3 +1,24 @@
+---
+product_id: "37116"
+digistore24_product_id: 155549
+title: "Nischen-Challenge - Videokurs"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 232.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 116.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2017-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/nischen-challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/nischen-challenge/"
+language: "de"
+---
 # Nischen-Challenge - Videokurs
 
 > Product ID `37116` · Digistore24 productId `155549` · [HTML profile page](../../produkte/nischen-challenge-videokurs-37116.html)

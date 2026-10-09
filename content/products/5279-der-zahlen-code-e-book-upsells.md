@@ -1,3 +1,24 @@
+---
+product_id: "5279"
+digistore24_product_id: 28579
+title: "der Zahlen-Code (E-Book + Upsells)"
+vendor: "rosinakaiser"
+product_type: "Downloads"
+price: 669.08
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 43.52
+cart_conversion_pct: 4
+cancel_rate_pct: 2.09
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2014-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code"
+language: "de"
+---
 # der Zahlen-Code (E-Book + Upsells)
 
 > Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../produkte/der-zahlen-code-e-book-upsells-5279.html)

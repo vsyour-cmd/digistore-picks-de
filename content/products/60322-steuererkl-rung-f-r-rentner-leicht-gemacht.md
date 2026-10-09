@@ -1,3 +1,24 @@
+---
+product_id: "60322"
+digistore24_product_id: 741244
+title: "Steuererklärung für Rentner leicht gemacht"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741244?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741244"
+language: "de"
+---
 # Steuererklärung für Rentner leicht gemacht
 
 > Product ID `60322` · Digistore24 productId `741244` · [HTML profile page](../../produkte/steuererkl-rung-f-r-rentner-leicht-gemacht-60322.html)

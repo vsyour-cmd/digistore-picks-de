@@ -1,3 +1,24 @@
+---
+product_id: "39364"
+digistore24_product_id: 433358
+title: "Bewerbung - Vorstellungsgespräch"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://heinzbader.com/bewerbung-vorstellungsgespraech-kurs-8-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/bewerbung-vorstellungsgespraech-kurs-8-lp/"
+language: "de"
+---
 # Bewerbung - Vorstellungsgespräch
 
 > Product ID `39364` · Digistore24 productId `433358` · [HTML profile page](../../produkte/bewerbung-vorstellungsgespr-ch-39364.html)

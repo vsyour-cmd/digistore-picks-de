@@ -1,3 +1,24 @@
+---
+product_id: "43130"
+digistore24_product_id: 445691
+title: "Vue JS Onlinekurs"
+vendor: "andreaspabst"
+product_type: "Member area and video courses"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 49.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2022-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/445691?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/445691"
+language: "de"
+---
 # Vue JS Onlinekurs
 
 > Product ID `43130` · Digistore24 productId `445691` · [HTML profile page](../../produkte/vue-js-onlinekurs-43130.html)

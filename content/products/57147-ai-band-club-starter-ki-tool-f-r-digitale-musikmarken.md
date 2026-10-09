@@ -1,3 +1,24 @@
+---
+product_id: "57147"
+digistore24_product_id: 704756
+title: "AI Band Club™ Starter– KI-Tool für digitale Musikmarken"
+vendor: "smartboostAI"
+product_type: "Software"
+price: 197.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 59.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Marketing Services"]
+listed_since: "2026-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://aibandclub.com/ai-band-club-starter-upsell?aff=adminstore#aff=adminstore"
+sales_page: "https://aibandclub.com/ai-band-club-starter-upsell"
+language: "de"
+---
 # AI Band Club™ Starter– KI-Tool für digitale Musikmarken
 
 > Product ID `57147` · Digistore24 productId `704756` · [HTML profile page](../../produkte/ai-band-club-starter-ki-tool-f-r-digitale-musikmarken-57147.html)

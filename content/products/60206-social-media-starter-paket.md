@@ -1,3 +1,24 @@
+---
+product_id: "60206"
+digistore24_product_id: 741265
+title: "Social Media Starter Paket"
+vendor: "DigitalIncomeDE"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741265?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741265"
+language: "de"
+---
 # Social Media Starter Paket
 
 > Product ID `60206` · Digistore24 productId `741265` · [HTML profile page](../../produkte/social-media-starter-paket-60206.html)

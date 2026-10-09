@@ -1,3 +1,24 @@
+---
+product_id: "51745"
+digistore24_product_id: 600135
+title: "eBook: Geld verdienen mit Copecart"
+vendor: "pixonmedia"
+product_type: "Member area and video courses"
+price: 9.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/geld-verdienen-mit-copecart?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/geld-verdienen-mit-copecart"
+language: "de"
+---
 # eBook: Geld verdienen mit Copecart
 
 > Product ID `51745` · Digistore24 productId `600135` · [HTML profile page](../../produkte/ebook-geld-verdienen-mit-copecart-51745.html)

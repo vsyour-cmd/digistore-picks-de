@@ -1,3 +1,24 @@
+---
+product_id: "50618"
+digistore24_product_id: 571579
+title: "spryfuel® ResonanceX - Der beste Frequenz-Kopfhörer"
+vendor: "Insider-Media"
+product_type: "Deliverable"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 41.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Skin Care"]
+listed_since: "2024-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.spryfuel.com/frequenz-kopfhoerer/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.spryfuel.com/frequenz-kopfhoerer/"
+language: "de"
+---
 # spryfuel® ResonanceX - Der beste Frequenz-Kopfhörer
 
 > Product ID `50618` · Digistore24 productId `571579` · [HTML profile page](../../produkte/spryfuel-resonancex-der-beste-frequenz-kopfh-rer-50618.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59222"
+digistore24_product_id: 728953
+title: "Metaleve Germany"
+vendor: "DS24-nordinary"
+product_type: "Supplements - health"
+price: 127.23
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 76.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://metaleve.com/home-page-de/?aff=adminstore#aff=adminstore"
+sales_page: "https://metaleve.com/home-page-de/"
+language: "de"
+---
 # Metaleve Germany
 
 > Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../produkte/metaleve-germany-59222.html)

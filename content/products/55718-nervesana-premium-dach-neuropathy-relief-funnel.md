@@ -1,3 +1,24 @@
+---
+product_id: "55718"
+digistore24_product_id: 670068
+title: "NerveSana - Premium DACH Neuropathy Relief Funnel"
+vendor: "DS24-MySana"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nervesana.com/nervesana-pdp-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://nervesana.com/nervesana-pdp-fe"
+language: "de"
+---
 # NerveSana - Premium DACH Neuropathy Relief Funnel
 
 > Product ID `55718` · Digistore24 productId `670068` · [HTML profile page](../../produkte/nervesana-premium-dach-neuropathy-relief-funnel-55718.html)

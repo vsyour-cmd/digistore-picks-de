@@ -1,3 +1,24 @@
+---
+product_id: "59433"
+digistore24_product_id: 724801
+title: "​Paulownia Project Premium | Проект Павловния Премиум"
+vendor: "fafenrotirina9b234"
+product_type: "E-books"
+price: 1677.9
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 167.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724801?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724801"
+language: "de"
+---
 # ​Paulownia Project Premium | Проект Павловния Премиум
 
 > Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../produkte/paulownia-project-premium-59433.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36052"
+digistore24_product_id: 375951
+title: "Das Wunder gegen Nierensteine"
+vendor: "Mindtrack"
+product_type: "Downloads"
+price: 18.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://nierenstein-wunder.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://nierenstein-wunder.de/"
+language: "de"
+---
 # Das Wunder gegen Nierensteine
 
 > Product ID `36052` · Digistore24 productId `375951` · [HTML profile page](../../produkte/das-wunder-gegen-nierensteine-36052.html)

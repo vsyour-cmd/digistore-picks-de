@@ -1,3 +1,24 @@
+---
+product_id: "57482"
+digistore24_product_id: 710090
+title: "Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +"
+vendor: "Herzenswelt"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 13.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games","Hobby & Craft"]
+listed_since: "2026-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://gesundleben360.de/mein-buntes-rollstuhl-malbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://gesundleben360.de/mein-buntes-rollstuhl-malbuch/"
+language: "de"
+---
 # Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +
 
 > Product ID `57482` · Digistore24 productId `710090` · [HTML profile page](../../produkte/inklusives-rollstuhl-malbuch-f-r-kinder-30-ausmalbilder-57482.html)

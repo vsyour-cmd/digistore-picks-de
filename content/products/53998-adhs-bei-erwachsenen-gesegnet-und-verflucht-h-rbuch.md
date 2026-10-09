@@ -1,3 +1,24 @@
+---
+product_id: "53998"
+digistore24_product_id: 634968
+title: "ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch"
+vendor: "Keto-Fasten"
+product_type: "Audio book (download)"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/"
+language: "de"
+---
 # ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch
 
 > Product ID `53998` · Digistore24 productId `634968` · [HTML profile page](../../produkte/adhs-bei-erwachsenen-gesegnet-und-verflucht-h-rbuch-53998.html)

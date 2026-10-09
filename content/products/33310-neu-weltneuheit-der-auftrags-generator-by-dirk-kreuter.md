@@ -1,3 +1,24 @@
+---
+product_id: "33310"
+digistore24_product_id: 323519
+title: "Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter"
+vendor: "Act_by_Dirk_Kreuter"
+product_type: "Software"
+price: 222.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 111.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/323519?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/323519"
+language: "de"
+---
 # Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter
 
 > Product ID `33310` · Digistore24 productId `323519` · [HTML profile page](../../produkte/neu-weltneuheit-der-auftrags-generator-by-dirk-kreuter-33310.html)

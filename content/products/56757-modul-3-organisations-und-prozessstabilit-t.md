@@ -1,3 +1,24 @@
+---
+product_id: "56757"
+digistore24_product_id: 696891
+title: "Modul 3 – Organisations- und Prozessstabilität"
+vendor: "weipert-consulting-gmbh"
+product_type: "Downloads"
+price: 328.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 65.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2026-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/?aff=adminstore#aff=adminstore"
+sales_page: "https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/"
+language: "de"
+---
 # Modul 3 – Organisations- und Prozessstabilität
 
 > Product ID `56757` · Digistore24 productId `696891` · [HTML profile page](../../produkte/modul-3-organisations-und-prozessstabilit-t-56757.html)

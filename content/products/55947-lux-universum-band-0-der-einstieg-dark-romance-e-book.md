@@ -1,3 +1,24 @@
+---
+product_id: "55947"
+digistore24_product_id: 670033
+title: "Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book"
+vendor: "Niux489"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 2.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/670033?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/670033"
+language: "de"
+---
 # Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book
 
 > Product ID `55947` · Digistore24 productId `670033` · [HTML profile page](../../produkte/lux-universum-band-0-der-einstieg-dark-romance-e-book-55947.html)

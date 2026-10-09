@@ -1,3 +1,24 @@
+---
+product_id: "58548"
+digistore24_product_id: 715806
+title: "Bangkok Bier und Gitterstäbe"
+vendor: "Novaris_web"
+product_type: "Downloads"
+price: 8.26
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/bbg.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/bbg.php"
+language: "de"
+---
 # Bangkok Bier und Gitterstäbe
 
 > Product ID `58548` · Digistore24 productId `715806` · [HTML profile page](../../produkte/bangkok-bier-und-gitterst-be-58548.html)

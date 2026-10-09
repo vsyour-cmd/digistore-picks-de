@@ -1,3 +1,24 @@
+---
+product_id: "59064"
+digistore24_product_id: 727265
+title: "Das Karriere Master-Kit für das praktische Jahr im Ausland"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 82.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/praktisches-jahr-im-ausland/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/praktisches-jahr-im-ausland/"
+language: "de"
+---
 # Das Karriere Master-Kit für das praktische Jahr im Ausland
 
 > Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)

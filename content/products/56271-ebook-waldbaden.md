@@ -1,3 +1,24 @@
+---
+product_id: "56271"
+digistore24_product_id: 682538
+title: "Ebook - Waldbaden"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682538?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682538"
+language: "de"
+---
 # Ebook - Waldbaden
 
 > Product ID `56271` · Digistore24 productId `682538` · [HTML profile page](../../produkte/ebook-waldbaden-56271.html)

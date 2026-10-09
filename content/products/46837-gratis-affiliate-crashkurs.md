@@ -1,3 +1,24 @@
+---
+product_id: "46837"
+digistore24_product_id: 533098
+title: "GRATIS Affiliate Crashkurs"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-schlinder.com/Affiliatecrashkurs?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Affiliatecrashkurs"
+language: "de"
+---
 # GRATIS Affiliate Crashkurs
 
 > Product ID `46837` · Digistore24 productId `533098` · [HTML profile page](../../produkte/gratis-affiliate-crashkurs-46837.html)

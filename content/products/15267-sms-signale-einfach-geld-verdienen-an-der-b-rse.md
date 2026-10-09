@@ -1,3 +1,24 @@
+---
+product_id: "15267"
+digistore24_product_id: 99275
+title: "SMS-Signale - einfach Geld verdienen an der Börse"
+vendor: "samuelwartmann"
+product_type: "E-books"
+price: 1353.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.61
+cart_conversion_pct: 17
+cancel_rate_pct: 1.49
+categories: ["Business & Investment"]
+listed_since: "2016-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sms-signale.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sms-signale.de/"
+language: "de"
+---
 # SMS-Signale - einfach Geld verdienen an der Börse
 
 > Product ID `15267` · Digistore24 productId `99275` · [HTML profile page](../../produkte/sms-signale-einfach-geld-verdienen-an-der-b-rse-15267.html)

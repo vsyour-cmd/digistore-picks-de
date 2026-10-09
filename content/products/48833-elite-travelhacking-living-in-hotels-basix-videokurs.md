@@ -1,3 +1,24 @@
+---
+product_id: "48833"
+digistore24_product_id: 553720
+title: "Elite travelhacking - Living in Hotels BasiX Videokurs"
+vendor: "Business2travel"
+product_type: "Member area and video courses"
+price: 87.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 92.83
+cart_conversion_pct: 14
+cancel_rate_pct: 1.19
+categories: ["Education","Hotels & Gastronomy","Travel & Culture"]
+listed_since: "2024-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elitetravelhacking.de/basix?aff=adminstore#aff=adminstore"
+sales_page: "https://elitetravelhacking.de/basix"
+language: "de"
+---
 # Elite travelhacking - Living in Hotels BasiX Videokurs
 
 > Product ID `48833` · Digistore24 productId `553720` · [HTML profile page](../../produkte/elite-travelhacking-living-in-hotels-basix-videokurs-48833.html)

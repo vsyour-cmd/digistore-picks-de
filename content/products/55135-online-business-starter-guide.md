@@ -1,3 +1,24 @@
+---
+product_id: "55135"
+digistore24_product_id: 658902
+title: "Online Business Starter-Guide"
+vendor: "DigiHeld"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing"]
+listed_since: "2026-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://internet-online-geldverdienen.de/e-book_kaufen.html?aff=adminstore#aff=adminstore"
+sales_page: "https://internet-online-geldverdienen.de/e-book_kaufen.html"
+language: "de"
+---
 # Online Business Starter-Guide
 
 > Product ID `55135` · Digistore24 productId `658902` · [HTML profile page](../../produkte/online-business-starter-guide-55135.html)

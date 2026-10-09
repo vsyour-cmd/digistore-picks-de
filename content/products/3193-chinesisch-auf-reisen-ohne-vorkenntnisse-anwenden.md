@@ -1,3 +1,24 @@
+---
+product_id: "3193"
+digistore24_product_id: 24897
+title: "Chinesisch auf Reisen ohne Vorkenntnisse anwenden"
+vendor: "findsbesserraus"
+product_type: "Downloads"
+price: 20.64
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2014-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.chinesisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.chinesisch-fuer-reisende.de"
+language: "de"
+---
 # Chinesisch auf Reisen ohne Vorkenntnisse anwenden
 
 > Product ID `3193` · Digistore24 productId `24897` · [HTML profile page](../../produkte/chinesisch-auf-reisen-ohne-vorkenntnisse-anwenden-3193.html)

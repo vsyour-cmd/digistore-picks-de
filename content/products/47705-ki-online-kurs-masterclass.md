@@ -1,3 +1,24 @@
+---
+product_id: "47705"
+digistore24_product_id: 546649
+title: "KI Online Kurs Masterclass"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 0.88
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.34
+cart_conversion_pct: 36
+cancel_rate_pct: 1.05
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.webpirat.de/ki-online-kurs-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.webpirat.de/ki-online-kurs-masterclass/"
+language: "de"
+---
 # KI Online Kurs Masterclass
 
 > Product ID `47705` · Digistore24 productId `546649` · [HTML profile page](../../produkte/ki-online-kurs-masterclass-47705.html)

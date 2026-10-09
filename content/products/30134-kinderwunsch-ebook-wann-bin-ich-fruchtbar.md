@@ -1,3 +1,24 @@
+---
+product_id: "30134"
+digistore24_product_id: 164435
+title: "Kinderwunsch eBook - WANN BIN ICH FRUCHTBAR?"
+vendor: "wombaider"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2017-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://entdeckedeinefruchtbarkeit.com/ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://entdeckedeinefruchtbarkeit.com/ebook"
+language: "de"
+---
 # Kinderwunsch eBook - WANN BIN ICH FRUCHTBAR?
 
 > Product ID `30134` · Digistore24 productId `164435` · [HTML profile page](../../produkte/kinderwunsch-ebook-wann-bin-ich-fruchtbar-30134.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55732"
+digistore24_product_id: 666803
+title: "Innere Muster erkennen - lebendige Beziehungen wählen"
+vendor: "HeidiPro"
+product_type: "Member area and video courses"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-02-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://hpheidi-hoeck.systeme.io/ad12725c?aff=adminstore#aff=adminstore"
+sales_page: "https://hpheidi-hoeck.systeme.io/ad12725c"
+language: "de"
+---
 # Innere Muster erkennen - lebendige Beziehungen wählen
 
 > Product ID `55732` · Digistore24 productId `666803` · [HTML profile page](../../produkte/innere-muster-erkennen-lebendige-beziehungen-w-hlen-55732.html)

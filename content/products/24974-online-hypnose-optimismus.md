@@ -1,3 +1,24 @@
+---
+product_id: "24974"
+digistore24_product_id: 211703
+title: "Online Hypnose Optimismus"
+vendor: "manjushri"
+product_type: "Downloads"
+price: 42.31
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 25.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2018-03-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online-hypnose.eu/kurs-hypnose-lebensfreude-positives-denken/?aff=adminstore#aff=adminstore"
+sales_page: "https://online-hypnose.eu/kurs-hypnose-lebensfreude-positives-denken/"
+language: "de"
+---
 # Online Hypnose Optimismus
 
 > Product ID `24974` · Digistore24 productId `211703` · [HTML profile page](../../produkte/online-hypnose-optimismus-24974.html)

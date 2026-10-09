@@ -1,3 +1,24 @@
+---
+product_id: "50413"
+digistore24_product_id: 568194
+title: "Meta Ads Elite"
+vendor: "Homer25"
+product_type: "Member area and video courses"
+price: 107.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 53.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.jonasklaholz.de/"
+language: "de"
+---
 # Meta Ads Elite
 
 > Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../produkte/meta-ads-elite-50413.html)

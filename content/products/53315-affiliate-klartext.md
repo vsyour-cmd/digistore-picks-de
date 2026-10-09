@@ -1,3 +1,24 @@
+---
+product_id: "53315"
+digistore24_product_id: 624283
+title: "Affiliate Klartext"
+vendor: "iliasmak"
+product_type: "E-books"
+price: 0.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.02
+cart_conversion_pct: 51
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.ilias-marketing.de/affiliate-klartext/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ilias-marketing.de/affiliate-klartext/"
+language: "de"
+---
 # Affiliate Klartext
 
 > Product ID `53315` · Digistore24 productId `624283` · [HTML profile page](../../produkte/affiliate-klartext-53315.html)

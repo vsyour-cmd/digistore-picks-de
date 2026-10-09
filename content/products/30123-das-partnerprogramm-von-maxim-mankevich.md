@@ -1,3 +1,24 @@
+---
+product_id: "30123"
+digistore24_product_id: 325707
+title: "Das Partnerprogramm von Maxim Mankevich"
+vendor: "Koepfe-der-Genies"
+product_type: "Member area and video courses"
+price: 276.12
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 63.47
+cart_conversion_pct: 1
+cancel_rate_pct: 7.32
+categories: ["Personal Development"]
+listed_since: "2020-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.maximmankevich.com/soulmaster?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.maximmankevich.com/soulmaster"
+language: "de"
+---
 # Das Partnerprogramm von Maxim Mankevich
 
 > Product ID `30123` · Digistore24 productId `325707` · [HTML profile page](../../produkte/das-partnerprogramm-von-maxim-mankevich-30123.html)

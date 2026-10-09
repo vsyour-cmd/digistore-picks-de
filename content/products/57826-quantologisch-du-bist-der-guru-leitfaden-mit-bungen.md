@@ -1,3 +1,24 @@
+---
+product_id: "57826"
+digistore24_product_id: 716171
+title: "Quantologisch Du bist der Guru (Leitfaden mit Übungen)"
+vendor: "praxiswulfsmoorf724"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 15.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Personal Development","Marketing Services"]
+listed_since: "2026-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/"
+language: "de"
+---
 # Quantologisch Du bist der Guru (Leitfaden mit Übungen)
 
 > Product ID `57826` · Digistore24 productId `716171` · [HTML profile page](../../produkte/quantologisch-du-bist-der-guru-leitfaden-mit-bungen-57826.html)

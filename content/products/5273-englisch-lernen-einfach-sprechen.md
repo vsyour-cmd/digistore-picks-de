@@ -1,3 +1,24 @@
+---
+product_id: "5273"
+digistore24_product_id: 35449
+title: "Englisch lernen - Einfach sprechen!"
+vendor: "Natural-Learning"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 19.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2014-10-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.natural-language-system.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.natural-language-system.de"
+language: "de"
+---
 # Englisch lernen - Einfach sprechen!
 
 > Product ID `5273` · Digistore24 productId `35449` · [HTML profile page](../../produkte/englisch-lernen-einfach-sprechen-5273.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40441"
+digistore24_product_id: 300847
+title: "Astrologiewissen kurz erklärt!"
+vendor: "andreaswinter"
+product_type: "Downloads"
+price: 27.73
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2019-12-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.keine-angst-vor-sternzeichen.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.keine-angst-vor-sternzeichen.de"
+language: "de"
+---
 # Astrologiewissen kurz erklärt!
 
 > Product ID `40441` · Digistore24 productId `300847` · [HTML profile page](../../produkte/astrologiewissen-kurz-erkl-rt-40441.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56307"
+digistore24_product_id: 684128
+title: "Starke Gedanken: Mentale Gesundheit für Männer in Krisenzeiten"
+vendor: "DomkeMedia"
+product_type: "E-books"
+price: 20.9
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 9.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://domke24.com/starke-gedanken/?aff=adminstore#aff=adminstore"
+sales_page: "https://domke24.com/starke-gedanken/"
+language: "de"
+---
 # Starke Gedanken: Mentale Gesundheit für Männer in Krisenzeiten
 
 > Product ID `56307` · Digistore24 productId `684128` · [HTML profile page](../../produkte/starke-gedanken-mentale-gesundheit-f-r-m-nner-in-krisenzeiten-56307.html)

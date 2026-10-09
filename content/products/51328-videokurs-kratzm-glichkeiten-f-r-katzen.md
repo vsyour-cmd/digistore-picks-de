@@ -1,3 +1,24 @@
+---
+product_id: "51328"
+digistore24_product_id: 586552
+title: "Videokurs \"Kratzmöglichkeiten für Katzen\""
+vendor: "MiriamKnischewski"
+product_type: "Member area and video courses"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://shop.katzen-fieber.de/kratzmoebel-kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.katzen-fieber.de/kratzmoebel-kurs"
+language: "de"
+---
 # Videokurs "Kratzmöglichkeiten für Katzen"
 
 > Product ID `51328` · Digistore24 productId `586552` · [HTML profile page](../../produkte/videokurs-kratzm-glichkeiten-f-r-katzen-51328.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48989"
+digistore24_product_id: 659362
+title: "Der Herr des Geistes"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 141.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.73
+cart_conversion_pct: 5
+cancel_rate_pct: 5.85
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.zielgesundheit.de/derherrdesgeistes/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.zielgesundheit.de/derherrdesgeistes/"
+language: "de"
+---
 # Der Herr des Geistes
 
 > Product ID `48989` · Digistore24 productId `659362` · [HTML profile page](../../produkte/der-herr-des-geistes-48989.html)

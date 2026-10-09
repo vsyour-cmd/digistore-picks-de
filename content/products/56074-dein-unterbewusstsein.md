@@ -1,3 +1,24 @@
+---
+product_id: "56074"
+digistore24_product_id: 620855
+title: "Dein Unterbewusstsein"
+vendor: "CarstenTeich"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 18.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.carstenteich.com/unterbewusstsein/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.carstenteich.com/unterbewusstsein/"
+language: "de"
+---
 # Dein Unterbewusstsein
 
 > Product ID `56074` · Digistore24 productId `620855` · [HTML profile page](../../produkte/dein-unterbewusstsein-56074.html)

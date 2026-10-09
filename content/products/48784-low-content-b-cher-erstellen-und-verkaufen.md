@@ -1,3 +1,24 @@
+---
+product_id: "48784"
+digistore24_product_id: 557396
+title: "Low Content Bücher erstellen und verkaufen"
+vendor: "Jyotima"
+product_type: "Member area and video courses"
+price: 224.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 59.25
+cart_conversion_pct: 8
+cancel_rate_pct: 0.68
+categories: ["Education","Hobby & Craft","Online Marketing & E-Business"]
+listed_since: "2024-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jyotimaflak.com/lowcontent?aff=adminstore#aff=adminstore"
+sales_page: "https://jyotimaflak.com/lowcontent"
+language: "de"
+---
 # Low Content Bücher erstellen und verkaufen
 
 > Product ID `48784` · Digistore24 productId `557396` · [HTML profile page](../../produkte/low-content-b-cher-erstellen-und-verkaufen-48784.html)

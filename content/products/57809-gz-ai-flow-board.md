@@ -1,3 +1,24 @@
+---
+product_id: "57809"
+digistore24_product_id: 709579
+title: "GZ-AI. FLOW Board"
+vendor: "gzaistacks2aae"
+product_type: "Software"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Office Organization"]
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.gz-ai-stacks.de/Flow-Board/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.gz-ai-stacks.de/Flow-Board/"
+language: "de"
+---
 # GZ-AI. FLOW Board
 
 > Product ID `57809` · Digistore24 productId `709579` · [HTML profile page](../../produkte/gz-ai-flow-board-57809.html)

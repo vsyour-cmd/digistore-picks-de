@@ -1,3 +1,24 @@
+---
+product_id: "49816"
+digistore24_product_id: 566548
+title: "Traumaorientierte Körperzentrierte Hypnose zum Thema Angst"
+vendor: "jennifersubke"
+product_type: "Downloads"
+price: 3.77
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 11.02
+cart_conversion_pct: 16
+cancel_rate_pct: 7.05
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/566548?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/566548"
+language: "de"
+---
 # Traumaorientierte Körperzentrierte Hypnose zum Thema Angst
 
 > Product ID `49816` · Digistore24 productId `566548` · [HTML profile page](../../produkte/traumaorientierte-k-rperzentrierte-hypnose-zum-thema-angst-49816.html)

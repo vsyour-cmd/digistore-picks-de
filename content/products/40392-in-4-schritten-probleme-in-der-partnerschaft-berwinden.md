@@ -1,3 +1,24 @@
+---
+product_id: "40392"
+digistore24_product_id: 442578
+title: "In 4 Schritten Probleme in der Partnerschaft überwinden"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/238-0-Partnerprobleme.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/238-0-Partnerprobleme.html"
+language: "de"
+---
 # In 4 Schritten Probleme in der Partnerschaft überwinden
 
 > Product ID `40392` · Digistore24 productId `442578` · [HTML profile page](../../produkte/in-4-schritten-probleme-in-der-partnerschaft-berwinden-40392.html)

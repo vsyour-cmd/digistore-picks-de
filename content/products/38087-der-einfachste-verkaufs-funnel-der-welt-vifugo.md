@@ -1,3 +1,24 @@
+---
+product_id: "38087"
+digistore24_product_id: 376915
+title: "Der einfachste Verkaufs-Funnel der Welt (vifugo)"
+vendor: "vifugo"
+product_type: "Member area and video courses"
+price: 1131.23
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 187.97
+cart_conversion_pct: 11
+cancel_rate_pct: 2.48
+categories: ["Software"]
+listed_since: "2021-03-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.vifugo.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.vifugo.com"
+language: "de"
+---
 # Der einfachste Verkaufs-Funnel der Welt (vifugo)
 
 > Product ID `38087` · Digistore24 productId `376915` · [HTML profile page](../../produkte/der-einfachste-verkaufs-funnel-der-welt-vifugo-38087.html)

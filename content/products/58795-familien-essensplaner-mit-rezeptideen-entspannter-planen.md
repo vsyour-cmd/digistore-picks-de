@@ -1,3 +1,24 @@
+---
+product_id: "58795"
+digistore24_product_id: 727010
+title: "Familien-Essensplaner mit Rezeptideen – Entspannter planen,"
+vendor: "mamaplaneinfach"
+product_type: "Downloads"
+price: 10.25
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Marketing Services"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/727010?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727010"
+language: "de"
+---
 # Familien-Essensplaner mit Rezeptideen – Entspannter planen,
 
 > Product ID `58795` · Digistore24 productId `727010` · [HTML profile page](../../produkte/familien-essensplaner-mit-rezeptideen-entspannter-planen-58795.html)

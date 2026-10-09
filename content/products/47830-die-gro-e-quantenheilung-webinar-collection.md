@@ -1,3 +1,24 @@
+---
+product_id: "47830"
+digistore24_product_id: 511963
+title: "Die große Quantenheilung Webinar Collection"
+vendor: "bjheede"
+product_type: "Member area and video courses"
+price: 620.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 186.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://matrix-inform.com/seminare/themenseminare/die-grosse-matrix-inform-webinar-collection/?aff=adminstore#aff=adminstore"
+sales_page: "https://matrix-inform.com/seminare/themenseminare/die-grosse-matrix-inform-webinar-collection/"
+language: "de"
+---
 # Die große Quantenheilung Webinar Collection
 
 > Product ID `47830` · Digistore24 productId `511963` · [HTML profile page](../../produkte/die-gro-e-quantenheilung-webinar-collection-47830.html)

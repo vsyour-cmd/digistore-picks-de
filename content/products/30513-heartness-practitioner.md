@@ -1,3 +1,24 @@
+---
+product_id: "30513"
+digistore24_product_id: 293858
+title: "Heartness Practitioner"
+vendor: "heartness"
+product_type: "Member area and video courses"
+price: 232.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 46.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2019-11-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://academy.heartness.info/heartness-practitioner-bestellung/?aff=adminstore#aff=adminstore"
+sales_page: "https://academy.heartness.info/heartness-practitioner-bestellung/"
+language: "de"
+---
 # Heartness Practitioner
 
 > Product ID `30513` · Digistore24 productId `293858` · [HTML profile page](../../produkte/heartness-practitioner-30513.html)

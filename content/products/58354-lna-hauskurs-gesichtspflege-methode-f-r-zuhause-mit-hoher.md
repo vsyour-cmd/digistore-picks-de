@@ -1,3 +1,24 @@
+---
+product_id: "58354"
+digistore24_product_id: 715479
+title: "LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher"
+vendor: "L-N-Academy"
+product_type: "Member area and video courses"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Skin Care"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.l-n-a.com/lna-hauskurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.l-n-a.com/lna-hauskurs"
+language: "de"
+---
 # LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher
 
 > Product ID `58354` · Digistore24 productId `715479` · [HTML profile page](../../produkte/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58881"
+digistore24_product_id: 670737
+title: "Pour Ellie – Bedarfsdeckende Rezepte für Hunde"
+vendor: "PourEllie"
+product_type: "Downloads"
+price: 40.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 16.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/670737?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/670737"
+language: "de"
+---
 # Pour Ellie – Bedarfsdeckende Rezepte für Hunde
 
 > Product ID `58881` · Digistore24 productId `670737` · [HTML profile page](../../produkte/pour-ellie-bedarfsdeckende-rezepte-f-r-hunde-58881.html)

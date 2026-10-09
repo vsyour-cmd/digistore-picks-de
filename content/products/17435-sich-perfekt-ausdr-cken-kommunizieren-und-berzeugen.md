@@ -1,3 +1,24 @@
+---
+product_id: "17435"
+digistore24_product_id: 24459
+title: "Sich perfekt ausdrücken, kommunizieren und überzeugen"
+vendor: "Insider-Media"
+product_type: "Downloads"
+price: 28.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 8.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2014-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lerntipp.com/usb-komm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lerntipp.com/usb-komm"
+language: "de"
+---
 # Sich perfekt ausdrücken, kommunizieren und überzeugen
 
 > Product ID `17435` · Digistore24 productId `24459` · [HTML profile page](../../produkte/sich-perfekt-ausdr-cken-kommunizieren-und-berzeugen-17435.html)

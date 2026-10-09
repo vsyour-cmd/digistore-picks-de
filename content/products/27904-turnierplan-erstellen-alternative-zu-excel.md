@@ -1,3 +1,24 @@
+---
+product_id: "27904"
+digistore24_product_id: 289633
+title: "Turnierplan erstellen - Alternative zu Excel"
+vendor: "d548251"
+product_type: "Software"
+price: 77.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 55.48
+cart_conversion_pct: 28
+cancel_rate_pct: 0.77
+categories: ["Software","Sport","Project Management"]
+listed_since: "2019-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/289633/adminstore"
+sales_page: "https://www.meinspielplan.de?aff=[AFFILIATE]"
+language: "de"
+---
 # Turnierplan erstellen - Alternative zu Excel
 
 > Product ID `27904` · Digistore24 productId `289633` · [HTML profile page](../../produkte/turnierplan-erstellen-alternative-zu-excel-27904.html)

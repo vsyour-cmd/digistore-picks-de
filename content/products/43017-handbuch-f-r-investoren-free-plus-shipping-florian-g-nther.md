@@ -1,3 +1,24 @@
+---
+product_id: "43017"
+digistore24_product_id: 384285
+title: "Handbuch für Investoren Free plus Shipping - Florian Günther"
+vendor: "einfachgeldanlegen"
+product_type: "Book (printed)"
+price: 6.47
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 2.25
+cart_conversion_pct: 45
+cancel_rate_pct: 0.59
+categories: ["Business & Investment"]
+listed_since: "2021-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://investorenausbildung.de/finanzbuch-500/?aff=adminstore#aff=adminstore"
+sales_page: "https://investorenausbildung.de/finanzbuch-500/"
+language: "de"
+---
 # Handbuch für Investoren Free plus Shipping - Florian Günther
 
 > Product ID `43017` · Digistore24 productId `384285` · [HTML profile page](../../produkte/handbuch-f-r-investoren-free-plus-shipping-florian-g-nther-43017.html)

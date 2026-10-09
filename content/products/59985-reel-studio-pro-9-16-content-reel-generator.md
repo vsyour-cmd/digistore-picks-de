@@ -1,3 +1,24 @@
+---
+product_id: "59985"
+digistore24_product_id: 735317
+title: "Reel Studio Pro © - 9:16 Content & Reel-Generator"
+vendor: "remotecreator"
+product_type: "Software"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 61.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alex1.work/reel-studio-pro?aff=adminstore#aff=adminstore"
+sales_page: "https://alex1.work/reel-studio-pro"
+language: "de"
+---
 # Reel Studio Pro © - 9:16 Content & Reel-Generator
 
 > Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../produkte/reel-studio-pro-9-16-content-reel-generator-59985.html)

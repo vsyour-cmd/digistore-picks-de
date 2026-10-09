@@ -1,3 +1,24 @@
+---
+product_id: "51140"
+digistore24_product_id: 408936
+title: "Selbstgeführte Stadtrallye Dresden | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 9.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2021-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-dresden/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-dresden/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Dresden | Hint-Caching
 
 > Product ID `51140` · Digistore24 productId `408936` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-dresden-hint-caching-51140.html)

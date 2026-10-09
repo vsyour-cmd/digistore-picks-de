@@ -1,3 +1,24 @@
+---
+product_id: "58886"
+digistore24_product_id: 709550
+title: "Callis Gesundheits-Kompass: Kinderbücher für den Alltag"
+vendor: "callidus"
+product_type: "Downloads"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.callidus-am.de/kinderbuch/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.callidus-am.de/kinderbuch/"
+language: "de"
+---
 # Callis Gesundheits-Kompass: Kinderbücher für den Alltag
 
 > Product ID `58886` · Digistore24 productId `709550` · [HTML profile page](../../produkte/callis-gesundheits-kompass-kinderb-cher-f-r-den-alltag-58886.html)

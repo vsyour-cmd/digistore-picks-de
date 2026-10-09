@@ -1,3 +1,24 @@
+---
+product_id: "35834"
+digistore24_product_id: 362484
+title: "App Cash System"
+vendor: "CyrilCash"
+product_type: "Member area and video courses"
+price: 219.12
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 155.44
+cart_conversion_pct: 8
+cancel_rate_pct: 2.03
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2020-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://app-cash-system.de/start-vsl-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://app-cash-system.de/start-vsl-1/"
+language: "de"
+---
 # App Cash System
 
 > Product ID `35834` · Digistore24 productId `362484` · [HTML profile page](../../produkte/app-cash-system-35834.html)

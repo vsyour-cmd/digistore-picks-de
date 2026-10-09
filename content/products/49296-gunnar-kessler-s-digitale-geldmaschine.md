@@ -1,3 +1,24 @@
+---
+product_id: "49296"
+digistore24_product_id: 714148
+title: "Gunnar Kessler's \"Digitale Geldmaschine\""
+vendor: "GTK-littlefreilich"
+product_type: "Member area and video courses"
+price: 185.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 175.66
+cart_conversion_pct: 10
+cancel_rate_pct: 16.58
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://byebyeschufterei.de/dgm-7512/?aff=adminstore#aff=adminstore"
+sales_page: "https://byebyeschufterei.de/dgm-7512/"
+language: "de"
+---
 # Gunnar Kessler's "Digitale Geldmaschine"
 
 > Product ID `49296` · Digistore24 productId `714148` · [HTML profile page](../../produkte/gunnar-kessler-s-digitale-geldmaschine-49296.html)

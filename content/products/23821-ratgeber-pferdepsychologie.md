@@ -1,3 +1,24 @@
+---
+product_id: "23821"
+digistore24_product_id: 55535
+title: "Ratgeber \"PFERDEPSYCHOLOGIE\""
+vendor: "Linnon"
+product_type: "Book (printed)"
+price: 77.36
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.11
+cart_conversion_pct: 11
+cancel_rate_pct: 2.21
+categories: ["Animals & Pets"]
+listed_since: "2015-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer?aff=adminstore#aff=adminstore"
+sales_page: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer"
+language: "de"
+---
 # Ratgeber "PFERDEPSYCHOLOGIE"
 
 > Product ID `23821` · Digistore24 productId `55535` · [HTML profile page](../../produkte/ratgeber-pferdepsychologie-23821.html)

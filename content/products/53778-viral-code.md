@@ -1,3 +1,24 @@
+---
+product_id: "53778"
+digistore24_product_id: 630852
+title: "Viral Code"
+vendor: "LauraTeresaG"
+product_type: "Downloads"
+price: 20.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Marketing Services"]
+listed_since: "2025-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/630852?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/630852"
+language: "de"
+---
 # Viral Code
 
 > Product ID `53778` · Digistore24 productId `630852` · [HTML profile page](../../produkte/viral-code-53778.html)

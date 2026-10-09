@@ -1,3 +1,24 @@
+---
+product_id: "56437"
+digistore24_product_id: 689638
+title: "Ebook - Die verlorene Verbindung"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689638?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689638"
+language: "de"
+---
 # Ebook - Die verlorene Verbindung
 
 > Product ID `56437` · Digistore24 productId `689638` · [HTML profile page](../../produkte/ebook-die-verlorene-verbindung-56437.html)

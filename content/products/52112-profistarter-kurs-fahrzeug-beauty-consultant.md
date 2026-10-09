@@ -1,3 +1,24 @@
+---
+product_id: "52112"
+digistore24_product_id: 607630
+title: "Profistarter Kurs: Fahrzeug-Beauty Consultant"
+vendor: "jan133"
+product_type: "Member area and video courses"
+price: 183.3
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 64.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2025-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.profistarter.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profistarter.de"
+language: "de"
+---
 # Profistarter Kurs: Fahrzeug-Beauty Consultant
 
 > Product ID `52112` · Digistore24 productId `607630` · [HTML profile page](../../produkte/profistarter-kurs-fahrzeug-beauty-consultant-52112.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52361"
+digistore24_product_id: 609924
+title: "5-min Leitfaden: Dein eigener Online Kurs (Freebie)"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 0.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.16
+cart_conversion_pct: 55
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing"]
+listed_since: "2025-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vierstelligimmonat.de/5min?aff=adminstore#aff=adminstore"
+sales_page: "https://vierstelligimmonat.de/5min"
+language: "de"
+---
 # 5-min Leitfaden: Dein eigener Online Kurs (Freebie)
 
 > Product ID `52361` · Digistore24 productId `609924` · [HTML profile page](../../produkte/5-min-leitfaden-dein-eigener-online-kurs-freebie-52361.html)

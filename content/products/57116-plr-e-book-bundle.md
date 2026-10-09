@@ -1,3 +1,24 @@
+---
+product_id: "57116"
+digistore24_product_id: 683631
+title: "PLR-E-Book-Bundle"
+vendor: "onlineratgeber24"
+product_type: "Member area and video courses"
+price: 333.34
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 54.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Marketing Services"]
+listed_since: "2026-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.startimpulse.online/bundle-plr-business/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startimpulse.online/bundle-plr-business/"
+language: "de"
+---
 # PLR-E-Book-Bundle
 
 > Product ID `57116` · Digistore24 productId `683631` · [HTML profile page](../../produkte/plr-e-book-bundle-57116.html)

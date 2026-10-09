@@ -1,3 +1,24 @@
+---
+product_id: "55922"
+digistore24_product_id: 659279
+title: "Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision"
+vendor: "Result13"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 140.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-01-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/659279?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/659279"
+language: "de"
+---
 # Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision
 
 > Product ID `55922` · Digistore24 productId `659279` · [HTML profile page](../../produkte/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html)

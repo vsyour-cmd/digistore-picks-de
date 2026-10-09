@@ -1,3 +1,24 @@
+---
+product_id: "58757"
+digistore24_product_id: 658898
+title: "Pour Ellie – Futterklarheit: Basis-Kurs Hundeernährung"
+vendor: "PourEllie"
+product_type: "Member area and video courses"
+price: 185.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 74.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658898?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658898"
+language: "de"
+---
 # Pour Ellie – Futterklarheit: Basis-Kurs Hundeernährung
 
 > Product ID `58757` · Digistore24 productId `658898` · [HTML profile page](../../produkte/pour-ellie-futterklarheit-basis-kurs-hundeern-hrung-58757.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48614"
+digistore24_product_id: 560561
+title: "Stimmig starten: Minikurs Stimmtraining"
+vendor: "Stimmfluencer"
+product_type: "Downloads"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2024-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.stimmfluencer.de/stimmig-starten-minikurs?aff=adminstore#aff=adminstore"
+sales_page: "https://www.stimmfluencer.de/stimmig-starten-minikurs"
+language: "de"
+---
 # Stimmig starten: Minikurs Stimmtraining
 
 > Product ID `48614` · Digistore24 productId `560561` · [HTML profile page](../../produkte/stimmig-starten-minikurs-stimmtraining-48614.html)

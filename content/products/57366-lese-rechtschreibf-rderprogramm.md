@@ -1,3 +1,24 @@
+---
+product_id: "57366"
+digistore24_product_id: 680632
+title: "Lese-Rechtschreibförderprogramm"
+vendor: "KerstinSchimkus"
+product_type: "Downloads"
+price: 197.99
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 19.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lexosophie.mydigibiz24.com/lexoschool-hefte?aff=adminstore#aff=adminstore"
+sales_page: "https://lexosophie.mydigibiz24.com/lexoschool-hefte"
+language: "de"
+---
 # Lese-Rechtschreibförderprogramm
 
 > Product ID `57366` · Digistore24 productId `680632` · [HTML profile page](../../produkte/lese-rechtschreibf-rderprogramm-57366.html)

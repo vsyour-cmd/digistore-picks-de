@@ -1,3 +1,24 @@
+---
+product_id: "50780"
+digistore24_product_id: 561506
+title: "Mein Tier hat Krebs -was jetzt?"
+vendor: "PetraSchwarz"
+product_type: "Member area and video courses"
+price: 40.88
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Health & Fitness"]
+listed_since: "2024-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier"
+language: "de"
+---
 # Mein Tier hat Krebs -was jetzt?
 
 > Product ID `50780` · Digistore24 productId `561506` · [HTML profile page](../../produkte/mein-tier-hat-krebs-was-jetzt-50780.html)

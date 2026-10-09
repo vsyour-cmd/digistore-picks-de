@@ -1,3 +1,24 @@
+---
+product_id: "48653"
+digistore24_product_id: 561243
+title: "Online Business Webseiten erstellen - über 8h Std. Videokurs"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 71.27
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 13.57
+cart_conversion_pct: 6
+cancel_rate_pct: 4.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/online-business-webseiten-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/online-business-webseiten-2/"
+language: "de"
+---
 # Online Business Webseiten erstellen - über 8h Std. Videokurs
 
 > Product ID `48653` · Digistore24 productId `561243` · [HTML profile page](../../produkte/online-business-webseiten-erstellen-ber-8h-std-videokurs-48653.html)

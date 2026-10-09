@@ -1,3 +1,24 @@
+---
+product_id: "60119"
+digistore24_product_id: 740180
+title: "Easy Marketing PRO"
+vendor: "easymarketingccaf"
+product_type: "Downloads"
+price: 75.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740180?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740180"
+language: "de"
+---
 # Easy Marketing PRO
 
 > Product ID `60119` · Digistore24 productId `740180` · [HTML profile page](../../produkte/easy-marketing-pro-60119.html)

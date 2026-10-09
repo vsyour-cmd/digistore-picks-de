@@ -1,3 +1,24 @@
+---
+product_id: "39104"
+digistore24_product_id: 429003
+title: "Fragetechnik im Verkauf - Kurs 1"
+vendor: "Diveco"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2022-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://heinzbader.com/fragetechnik-kurs1-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://heinzbader.com/fragetechnik-kurs1-lp/"
+language: "de"
+---
 # Fragetechnik im Verkauf - Kurs 1
 
 > Product ID `39104` · Digistore24 productId `429003` · [HTML profile page](../../produkte/fragetechnik-im-verkauf-kurs-1-39104.html)

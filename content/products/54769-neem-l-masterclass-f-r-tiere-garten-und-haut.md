@@ -1,3 +1,24 @@
+---
+product_id: "54769"
+digistore24_product_id: 621615
+title: "Neemöl Masterclass – Für Tiere, Garten und Haut"
+vendor: "dd530xd"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness","Home & Garden"]
+listed_since: "2025-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/621615?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/621615"
+language: "de"
+---
 # Neemöl Masterclass – Für Tiere, Garten und Haut
 
 > Product ID `54769` · Digistore24 productId `621615` · [HTML profile page](../../produkte/neem-l-masterclass-f-r-tiere-garten-und-haut-54769.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55739"
+digistore24_product_id: 670959
+title: "Storycodes - Die Architektur hinter täglichen Story-Sales"
+vendor: "JessicaJanzen"
+product_type: "Member area and video courses"
+price: 281.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 140.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/670959?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/670959"
+language: "de"
+---
 # Storycodes - Die Architektur hinter täglichen Story-Sales
 
 > Product ID `55739` · Digistore24 productId `670959` · [HTML profile page](../../produkte/storycodes-die-architektur-hinter-t-glichen-story-sales-55739.html)

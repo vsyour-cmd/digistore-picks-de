@@ -1,3 +1,24 @@
+---
+product_id: "36760"
+digistore24_product_id: 376616
+title: "In 7 Schritten zu Ihrer feurigen Positionierung"
+vendor: "UweRieder"
+product_type: "E-books"
+price: 4.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.55
+cart_conversion_pct: 32
+cancel_rate_pct: 0.46
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung?aff=adminstore#aff=adminstore"
+sales_page: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung"
+language: "de"
+---
 # In 7 Schritten zu Ihrer feurigen Positionierung
 
 > Product ID `36760` · Digistore24 productId `376616` · [HTML profile page](../../produkte/in-7-schritten-zu-ihrer-feurigen-positionierung-36760.html)

@@ -1,3 +1,24 @@
+---
+product_id: "22531"
+digistore24_product_id: 199683
+title: "Liedbegleitung für Einsteiger (Video-Gitarrenkurs)"
+vendor: "musiklehrer"
+product_type: "Member area and video courses"
+price: 101.64
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 71.59
+cart_conversion_pct: 17
+cancel_rate_pct: 2.66
+categories: ["Dancing & Music"]
+listed_since: "2018-02-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger?aff=adminstore#aff=adminstore"
+sales_page: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger"
+language: "de"
+---
 # Liedbegleitung für Einsteiger (Video-Gitarrenkurs)
 
 > Product ID `22531` · Digistore24 productId `199683` · [HTML profile page](../../produkte/liedbegleitung-f-r-einsteiger-video-gitarrenkurs-22531.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46997"
+digistore24_product_id: 535516
+title: "Goldener Ruhestand"
+vendor: "herbal"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2024-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hubertpuehringer.com/goldenerruhestand/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hubertpuehringer.com/goldenerruhestand/"
+language: "de"
+---
 # Goldener Ruhestand
 
 > Product ID `46997` · Digistore24 productId `535516` · [HTML profile page](../../produkte/goldener-ruhestand-46997.html)

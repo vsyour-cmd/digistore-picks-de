@@ -1,3 +1,24 @@
+---
+product_id: "60355"
+digistore24_product_id: 741775
+title: "Patientenrechte leicht gemacht – mit Patienten-Briefen"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741775?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741775"
+language: "de"
+---
 # Patientenrechte leicht gemacht – mit Patienten-Briefen
 
 > Product ID `60355` · Digistore24 productId `741775` · [HTML profile page](../../produkte/patientenrechte-leicht-gemacht-mit-patienten-briefen-60355.html)

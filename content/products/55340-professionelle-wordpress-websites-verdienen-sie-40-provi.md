@@ -1,3 +1,24 @@
+---
+product_id: "55340"
+digistore24_product_id: 661606
+title: "Professionelle WordPress Websites – Verdienen Sie 40 % Provi"
+vendor: "ClickserviceGmbH"
+product_type: "Remote service provided electronically"
+price: 1107.41
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 442.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Software"]
+listed_since: "2026-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/661606?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/661606"
+language: "de"
+---
 # Professionelle WordPress Websites – Verdienen Sie 40 % Provi
 
 > Product ID `55340` · Digistore24 productId `661606` · [HTML profile page](../../produkte/professionelle-wordpress-websites-verdienen-sie-40-provi-55340.html)

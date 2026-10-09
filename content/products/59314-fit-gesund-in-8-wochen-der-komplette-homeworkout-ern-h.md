@@ -1,3 +1,24 @@
+---
+product_id: "59314"
+digistore24_product_id: 731441
+title: "Fit  Gesund in 8 Wochen: Der komplette Homeworkout-  Ernäh"
+vendor: "nowdigitalproducts"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/731441?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/731441"
+language: "de"
+---
 # Fit  Gesund in 8 Wochen: Der komplette Homeworkout-  Ernäh
 
 > Product ID `59314` · Digistore24 productId `731441` · [HTML profile page](../../produkte/fit-gesund-in-8-wochen-der-komplette-homeworkout-ern-h-59314.html)

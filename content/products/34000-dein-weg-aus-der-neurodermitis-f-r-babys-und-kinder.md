@@ -1,3 +1,24 @@
+---
+product_id: "34000"
+digistore24_product_id: 347010
+title: "Dein Weg aus der Neurodermitis - für Babys und Kinder"
+vendor: "Vitalfit24"
+product_type: "Webinar"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 24.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jacqueline-glaetsch-hoffmann.coachy.net/lp/dein-weg-aus-der-neurodermitis/?aff=adminstore#aff=adminstore"
+sales_page: "https://jacqueline-glaetsch-hoffmann.coachy.net/lp/dein-weg-aus-der-neurodermitis/"
+language: "de"
+---
 # Dein Weg aus der Neurodermitis - für Babys und Kinder
 
 > Product ID `34000` · Digistore24 productId `347010` · [HTML profile page](../../produkte/dein-weg-aus-der-neurodermitis-f-r-babys-und-kinder-34000.html)

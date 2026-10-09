@@ -1,3 +1,24 @@
+---
+product_id: "56366"
+digistore24_product_id: 687566
+title: "Alle 7 Hauptchakren auf einen Blick"
+vendor: "Spiritual-Power"
+product_type: "Downloads"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 5.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687566?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687566"
+language: "de"
+---
 # Alle 7 Hauptchakren auf einen Blick
 
 > Product ID `56366` · Digistore24 productId `687566` · [HTML profile page](../../produkte/alle-7-hauptchakren-auf-einen-blick-56366.html)

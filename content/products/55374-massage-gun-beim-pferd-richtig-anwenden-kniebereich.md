@@ -1,3 +1,24 @@
+---
+product_id: "55374"
+digistore24_product_id: 661234
+title: "Massage Gun beim Pferd richtig anwenden – Kniebereich"
+vendor: "Faszienloesen"
+product_type: "Member area and video courses"
+price: 33.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Health & Fitness"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.equinemassagegun.de/pferd-knie-hinterhand/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.equinemassagegun.de/pferd-knie-hinterhand/"
+language: "de"
+---
 # Massage Gun beim Pferd richtig anwenden – Kniebereich
 
 > Product ID `55374` · Digistore24 productId `661234` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-kniebereich-55374.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50191"
+digistore24_product_id: 576941
+title: "FSK 18 KI - Adult Secrets"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 119.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 59.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/adultaffiliate/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/adultaffiliate/"
+language: "de"
+---
 # FSK 18 KI - Adult Secrets
 
 > Product ID `50191` · Digistore24 productId `576941` · [HTML profile page](../../produkte/fsk-18-ki-adult-secrets-50191.html)

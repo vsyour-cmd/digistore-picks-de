@@ -1,3 +1,24 @@
+---
+product_id: "60304"
+digistore24_product_id: 742141
+title: "Digitales Krimidiner - Wer hat den Keks geklaut?"
+vendor: "krimery"
+product_type: "Software"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Fun & Games"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.digistore24.com/redir/742141/adminstore"
+sales_page: "https://krimery.de/angebot/wer-hat-den-keks-geklaut?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&ds24tr=[TRACKINGKEY]"
+language: "de"
+---
 # Digitales Krimidiner - Wer hat den Keks geklaut?
 
 > Product ID `60304` · Digistore24 productId `742141` · [HTML profile page](../../produkte/digitales-krimidiner-wer-hat-den-keks-geklaut-60304.html)

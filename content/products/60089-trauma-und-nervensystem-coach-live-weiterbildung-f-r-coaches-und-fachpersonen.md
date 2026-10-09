@@ -1,3 +1,24 @@
+---
+product_id: "60089"
+digistore24_product_id: 681025
+title: "Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
+vendor: "Neurotraining_Akademie"
+product_type: "Online coaching"
+price: 3099.18
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 309.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Personal Development"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://neurotraining-akademie.de/trauma-programm?aff=adminstore#aff=adminstore"
+sales_page: "https://neurotraining-akademie.de/trauma-programm"
+language: "de"
+---
 # Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../produkte/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)

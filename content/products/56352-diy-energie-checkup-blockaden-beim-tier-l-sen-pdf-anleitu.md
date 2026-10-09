@@ -1,3 +1,24 @@
+---
+product_id: "56352"
+digistore24_product_id: 686756
+title: "DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu"
+vendor: "Pia-Seelenwege"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/686756?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/686756"
+language: "de"
+---
 # DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu
 
 > Product ID `56352` · Digistore24 productId `686756` · [HTML profile page](../../produkte/diy-energie-checkup-blockaden-beim-tier-l-sen-pdf-anleitu-56352.html)

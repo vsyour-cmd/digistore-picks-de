@@ -1,3 +1,24 @@
+---
+product_id: "53161"
+digistore24_product_id: 560236
+title: "Marmelade ohne Gelierzucker kochen"
+vendor: "FrauInga"
+product_type: "E-books"
+price: 8.26
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2024-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker?aff=adminstore#aff=adminstore"
+sales_page: "https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker"
+language: "de"
+---
 # Marmelade ohne Gelierzucker kochen
 
 > Product ID `53161` · Digistore24 productId `560236` · [HTML profile page](../../produkte/marmelade-ohne-gelierzucker-kochen-53161.html)

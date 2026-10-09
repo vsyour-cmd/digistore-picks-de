@@ -1,3 +1,24 @@
+---
+product_id: "14395"
+digistore24_product_id: 71639
+title: "JoomISP für Joomla!"
+vendor: "RolandSM"
+product_type: "Downloads"
+price: 256.94
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 51.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2016-02-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://joomisp.de/de?aff=adminstore#aff=adminstore"
+sales_page: "https://joomisp.de/de"
+language: "de"
+---
 # JoomISP für Joomla!
 
 > Product ID `14395` · Digistore24 productId `71639` · [HTML profile page](../../produkte/joomisp-f-r-joomla-14395.html)

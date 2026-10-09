@@ -1,3 +1,24 @@
+---
+product_id: "54780"
+digistore24_product_id: 650787
+title: "Eshop und Webseite: Pflege - Betreuung - Unterstützung \" Bas"
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 162.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 48.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Marketing Services"]
+listed_since: "2025-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-pflege-unterstuetzung-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/webseite-eshop-pflege-unterstuetzung-guenstig-digistore24-landing/"
+language: "de"
+---
 # Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas
 
 > Product ID `54780` · Digistore24 productId `650787` · [HTML profile page](../../produkte/eshop-und-webseite-pflege-betreuung-unterst-tzung-bas-54780.html)

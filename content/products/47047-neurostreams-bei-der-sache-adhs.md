@@ -1,3 +1,24 @@
+---
+product_id: "47047"
+digistore24_product_id: 250020
+title: "Neurostreams™ Bei der Sache (ADHS)"
+vendor: "newdimension"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2018-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.neurostreams.de/portfolio/adhs-isochrone-toene/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.neurostreams.de/portfolio/adhs-isochrone-toene/"
+language: "de"
+---
 # Neurostreams™ Bei der Sache (ADHS)
 
 > Product ID `47047` · Digistore24 productId `250020` · [HTML profile page](../../produkte/neurostreams-bei-der-sache-adhs-47047.html)

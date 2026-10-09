@@ -1,3 +1,24 @@
+---
+product_id: "56274"
+digistore24_product_id: 680814
+title: "Ebook - KI im E-Commerce"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/680814?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/680814"
+language: "de"
+---
 # Ebook - KI im E-Commerce
 
 > Product ID `56274` · Digistore24 productId `680814` · [HTML profile page](../../produkte/ebook-ki-im-e-commerce-56274.html)

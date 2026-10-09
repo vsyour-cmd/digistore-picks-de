@@ -1,3 +1,24 @@
+---
+product_id: "59629"
+digistore24_product_id: 733809
+title: "Adobe Illustrator Designer Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Software"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/733809?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/733809"
+language: "de"
+---
 # Adobe Illustrator Designer Komplettkurs
 
 > Product ID `59629` · Digistore24 productId `733809` · [HTML profile page](../../produkte/adobe-illustrator-designer-komplettkurs-59629.html)

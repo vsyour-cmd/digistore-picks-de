@@ -1,3 +1,24 @@
+---
+product_id: "22977"
+digistore24_product_id: 201793
+title: "Messerkampf Gesamtkurs"
+vendor: "Wu-TeAkademie"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 27.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2018-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://martialarts-online.funnelcockpit.com/knife1/?aff=adminstore#aff=adminstore"
+sales_page: "https://martialarts-online.funnelcockpit.com/knife1/"
+language: "de"
+---
 # Messerkampf Gesamtkurs
 
 > Product ID `22977` · Digistore24 productId `201793` · [HTML profile page](../../produkte/messerkampf-gesamtkurs-22977.html)

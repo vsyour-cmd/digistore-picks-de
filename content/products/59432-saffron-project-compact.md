@@ -1,3 +1,24 @@
+---
+product_id: "59432"
+digistore24_product_id: 724803
+title: "​Saffron Project Compact | Проект Шафран Компакт"
+vendor: "fafenrotirina9b234"
+product_type: "E-books"
+price: 559.3
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 55.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724803?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724803"
+language: "de"
+---
 # ​Saffron Project Compact | Проект Шафран Компакт
 
 > Product ID `59432` · Digistore24 productId `724803` · [HTML profile page](../../produkte/saffron-project-compact-59432.html)

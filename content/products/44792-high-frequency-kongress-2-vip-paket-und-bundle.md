@@ -1,3 +1,24 @@
+---
+product_id: "44792"
+digistore24_product_id: 499480
+title: "High Frequency Kongress 2 - VIP Paket und Bundle"
+vendor: "cduffner"
+product_type: "Member area and video courses"
+price: 121.93
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/499480?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/499480"
+language: "de"
+---
 # High Frequency Kongress 2 - VIP Paket und Bundle
 
 > Product ID `44792` · Digistore24 productId `499480` · [HTML profile page](../../produkte/high-frequency-kongress-2-vip-paket-und-bundle-44792.html)

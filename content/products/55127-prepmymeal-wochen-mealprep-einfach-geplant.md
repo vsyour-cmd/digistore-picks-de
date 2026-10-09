@@ -1,3 +1,24 @@
+---
+product_id: "55127"
+digistore24_product_id: 659489
+title: "PrepMyMeal – Wochen-Mealprep einfach geplant"
+vendor: "Sparwerk96"
+product_type: "Downloads"
+price: 7.05
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-01-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/659489?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/659489"
+language: "de"
+---
 # PrepMyMeal – Wochen-Mealprep einfach geplant
 
 > Product ID `55127` · Digistore24 productId `659489` · [HTML profile page](../../produkte/prepmymeal-wochen-mealprep-einfach-geplant-55127.html)

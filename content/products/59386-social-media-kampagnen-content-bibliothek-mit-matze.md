@@ -1,3 +1,24 @@
+---
+product_id: "59386"
+digistore24_product_id: 733941
+title: "Social-Media-Kampagnen – Content-Bibliothek mit Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://einfachmitmatze.de/social-media-autopilot/zusatzpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/social-media-autopilot/zusatzpaket/"
+language: "de"
+---
 # Social-Media-Kampagnen – Content-Bibliothek mit Matze
 
 > Product ID `59386` · Digistore24 productId `733941` · [HTML profile page](../../produkte/social-media-kampagnen-content-bibliothek-mit-matze-59386.html)

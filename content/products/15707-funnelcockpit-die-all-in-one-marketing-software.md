@@ -1,3 +1,24 @@
+---
+product_id: "15707"
+digistore24_product_id: 98201
+title: "FunnelCockpit - Die All-In-One Marketing Software"
+vendor: "justviral"
+product_type: "Software"
+price: 811.45
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 290.99
+cart_conversion_pct: 8
+cancel_rate_pct: 1.86
+categories: ["Software"]
+listed_since: "2016-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://funnelcockpit.com/"
+language: "de"
+---
 # FunnelCockpit - Die All-In-One Marketing Software
 
 > Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../produkte/funnelcockpit-die-all-in-one-marketing-software-15707.html)

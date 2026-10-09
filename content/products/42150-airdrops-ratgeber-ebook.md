@@ -1,3 +1,24 @@
+---
+product_id: "42150"
+digistore24_product_id: 467099
+title: "Airdrops Ratgeber eBook"
+vendor: "LebensfrohLLC"
+product_type: "E-books"
+price: 50.34
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2022-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/467099?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/467099"
+language: "de"
+---
 # Airdrops Ratgeber eBook
 
 > Product ID `42150` · Digistore24 productId `467099` · [HTML profile page](../../produkte/airdrops-ratgeber-ebook-42150.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54121"
+digistore24_product_id: 636229
+title: "KI im HR – Zukunft gestalten Strategien, Prompts und Praxis"
+vendor: "HRruns"
+product_type: "Member area and video courses"
+price: 46.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 27.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2025-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://andreasguenzel.coachy.net/lp/ki-hr-runs?aff=adminstore#aff=adminstore"
+sales_page: "https://andreasguenzel.coachy.net/lp/ki-hr-runs"
+language: "de"
+---
 # KI im HR – Zukunft gestalten Strategien, Prompts und Praxis
 
 > Product ID `54121` · Digistore24 productId `636229` · [HTML profile page](../../produkte/ki-im-hr-zukunft-gestalten-strategien-prompts-und-praxis-54121.html)

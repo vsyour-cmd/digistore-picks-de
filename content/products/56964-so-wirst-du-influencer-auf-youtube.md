@@ -1,3 +1,24 @@
+---
+product_id: "56964"
+digistore24_product_id: 701282
+title: "So wirst du Influencer auf YouTube"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-youtube?aff=adminstore#aff=adminstore"
+sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-youtube"
+language: "de"
+---
 # So wirst du Influencer auf YouTube
 
 > Product ID `56964` · Digistore24 productId `701282` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-youtube-56964.html)

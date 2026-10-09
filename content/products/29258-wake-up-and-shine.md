@@ -1,3 +1,24 @@
+---
+product_id: "29258"
+digistore24_product_id: 392852
+title: "WAKE UP AND SHINE"
+vendor: "InaHaskic"
+product_type: "Member area and video courses"
+price: 188.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 94.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2021-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://diamondangel.de/wake-up-and-shine/?aff=adminstore#aff=adminstore"
+sales_page: "https://diamondangel.de/wake-up-and-shine/"
+language: "de"
+---
 # WAKE UP AND SHINE
 
 > Product ID `29258` · Digistore24 productId `392852` · [HTML profile page](../../produkte/wake-up-and-shine-29258.html)

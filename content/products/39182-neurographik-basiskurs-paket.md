@@ -1,3 +1,24 @@
+---
+product_id: "39182"
+digistore24_product_id: 430705
+title: "NeuroGraphik® Basiskurs-Paket"
+vendor: "freies-bewusstsein"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freies-bewusstsein.de/neurographik/?aff=adminstore#aff=adminstore"
+sales_page: "https://freies-bewusstsein.de/neurographik/"
+language: "de"
+---
 # NeuroGraphik® Basiskurs-Paket
 
 > Product ID `39182` · Digistore24 productId `430705` · [HTML profile page](../../produkte/neurographik-basiskurs-paket-39182.html)

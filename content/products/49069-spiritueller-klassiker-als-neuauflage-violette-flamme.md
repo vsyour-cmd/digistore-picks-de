@@ -1,3 +1,24 @@
+---
+product_id: "49069"
+digistore24_product_id: 549833
+title: "Spiritueller Klassiker als Neuauflage \"Violette Flamme\""
+vendor: "Magierschule"
+product_type: "Member area and video courses"
+price: 51.7
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 20.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://magierschule.de/violette-flamme/?aff=adminstore#aff=adminstore"
+sales_page: "https://magierschule.de/violette-flamme/"
+language: "de"
+---
 # Spiritueller Klassiker als Neuauflage "Violette Flamme"
 
 > Product ID `49069` · Digistore24 productId `549833` · [HTML profile page](../../produkte/spiritueller-klassiker-als-neuauflage-violette-flamme-49069.html)

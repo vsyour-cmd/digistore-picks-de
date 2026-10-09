@@ -1,3 +1,24 @@
+---
+product_id: "58810"
+digistore24_product_id: 537451
+title: "Online-Business nebenberuflich aufbauen – Praxisguide 2026"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/online-business-nebenberuflich-aufbauen?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/online-business-nebenberuflich-aufbauen"
+language: "de"
+---
 # Online-Business nebenberuflich aufbauen – Praxisguide 2026
 
 > Product ID `58810` · Digistore24 productId `537451` · [HTML profile page](../../produkte/online-business-nebenberuflich-aufbauen-praxisguide-2026-58810.html)

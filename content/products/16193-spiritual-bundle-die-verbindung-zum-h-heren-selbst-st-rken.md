@@ -1,3 +1,24 @@
+---
+product_id: "16193"
+digistore24_product_id: 116847
+title: "Spiritual Bundle – Die Verbindung zum höheren Selbst stärken"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/spiritual-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/spiritual-bundle/"
+language: "de"
+---
 # Spiritual Bundle – Die Verbindung zum höheren Selbst stärken
 
 > Product ID `16193` · Digistore24 productId `116847` · [HTML profile page](../../produkte/spiritual-bundle-die-verbindung-zum-h-heren-selbst-st-rken-16193.html)

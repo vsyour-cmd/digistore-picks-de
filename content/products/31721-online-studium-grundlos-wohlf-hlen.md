@@ -1,3 +1,24 @@
+---
+product_id: "31721"
+digistore24_product_id: 241880
+title: "Online-Studium: \"Grundlos Wohlfühlen\""
+vendor: "commedi"
+product_type: "Member area and video courses"
+price: 683.74
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 167.69
+cart_conversion_pct: 12
+cancel_rate_pct: 1.43
+categories: ["Education","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2018-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.praesenzmedizin.de/grundlos-wohlfuehlen-das-studium?aff=adminstore#aff=adminstore"
+sales_page: "https://www.praesenzmedizin.de/grundlos-wohlfuehlen-das-studium"
+language: "de"
+---
 # Online-Studium: "Grundlos Wohlfühlen"
 
 > Product ID `31721` · Digistore24 productId `241880` · [HTML profile page](../../produkte/online-studium-grundlos-wohlf-hlen-31721.html)

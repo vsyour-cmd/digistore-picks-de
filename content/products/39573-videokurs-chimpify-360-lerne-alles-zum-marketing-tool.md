@@ -1,3 +1,24 @@
+---
+product_id: "39573"
+digistore24_product_id: 399782
+title: "Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool"
+vendor: "janschulzesiebert"
+product_type: "Member area and video courses"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 27.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2021-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.inboundly.de/kurs-chimpify-360/"
+language: "de"
+---
 # Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool
 
 > Product ID `39573` · Digistore24 productId `399782` · [HTML profile page](../../produkte/videokurs-chimpify-360-lerne-alles-zum-marketing-tool-39573.html)

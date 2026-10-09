@@ -1,3 +1,24 @@
+---
+product_id: "38505"
+digistore24_product_id: 391233
+title: "Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss"
+vendor: "HypnoseC"
+product_type: "Downloads"
+price: 28.2
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 15.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://rdmmdl.wixsite.com/hypnose-hilft?aff=adminstore#aff=adminstore"
+sales_page: "https://rdmmdl.wixsite.com/hypnose-hilft"
+language: "de"
+---
 # Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss
 
 > Product ID `38505` · Digistore24 productId `391233` · [HTML profile page](../../produkte/hypnose-audio-ejaculatio-praecox-vorzeitigem-samenerguss-38505.html)

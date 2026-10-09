@@ -1,3 +1,24 @@
+---
+product_id: "58847"
+digistore24_product_id: 711087
+title: "Mini-Schlaf-Guide"
+vendor: "markuskorn5700"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.mini-guides.info?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mini-guides.info"
+language: "de"
+---
 # Mini-Schlaf-Guide
 
 > Product ID `58847` · Digistore24 productId `711087` · [HTML profile page](../../produkte/mini-schlaf-guide-58847.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56217"
+digistore24_product_id: 624511
+title: "Reverse Aging: Die Sanduhr zurückdrehen - 40% Provision"
+vendor: "MarcelHama"
+product_type: "E-books"
+price: 13.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.reverse-aging-buch.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.reverse-aging-buch.de"
+language: "de"
+---
 # Reverse Aging: Die Sanduhr zurückdrehen - 40% Provision
 
 > Product ID `56217` · Digistore24 productId `624511` · [HTML profile page](../../produkte/reverse-aging-die-sanduhr-zur-ckdrehen-40-provision-56217.html)

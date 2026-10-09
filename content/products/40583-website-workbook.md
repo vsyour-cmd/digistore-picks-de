@@ -1,3 +1,24 @@
+---
+product_id: "40583"
+digistore24_product_id: 421769
+title: "Website Workbook"
+vendor: "ThomasMohr"
+product_type: "E-books"
+price: 16.75
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2021-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/421769?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/421769"
+language: "de"
+---
 # Website Workbook
 
 > Product ID `40583` · Digistore24 productId `421769` · [HTML profile page](../../produkte/website-workbook-40583.html)

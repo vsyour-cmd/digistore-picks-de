@@ -1,3 +1,24 @@
+---
+product_id: "48063"
+digistore24_product_id: 431398
+title: "Nischenseiten Kickstarter Workbook"
+vendor: "affiliateschool_de"
+product_type: "E-books"
+price: 26.09
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2022-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/"
+language: "de"
+---
 # Nischenseiten Kickstarter Workbook
 
 > Product ID `48063` · Digistore24 productId `431398` · [HTML profile page](../../produkte/nischenseiten-kickstarter-workbook-48063.html)

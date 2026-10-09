@@ -1,3 +1,24 @@
+---
+product_id: "44729"
+digistore24_product_id: 506727
+title: "Tipps zur artgerechten Haltung von Katze, Hund und Pferd"
+vendor: "arcohero"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2023-07-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://tipps-tierhaltung.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://tipps-tierhaltung.funnelcockpit.com/"
+language: "de"
+---
 # Tipps zur artgerechten Haltung von Katze, Hund und Pferd
 
 > Product ID `44729` · Digistore24 productId `506727` · [HTML profile page](../../produkte/tipps-zur-artgerechten-haltung-von-katze-hund-und-pferd-44729.html)

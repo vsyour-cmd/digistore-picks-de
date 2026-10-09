@@ -1,3 +1,24 @@
+---
+product_id: "35354"
+digistore24_product_id: 349940
+title: "Buch: Sie sind ein Glückspilz"
+vendor: "Lichtkraftquelle"
+product_type: "Book (printed)"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 16
+earnings_per_sale: 2.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2020-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.akademie-fsl.de/buch-glueckspilz-349940/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.akademie-fsl.de/buch-glueckspilz-349940/"
+language: "de"
+---
 # Buch: Sie sind ein Glückspilz
 
 > Product ID `35354` · Digistore24 productId `349940` · [HTML profile page](../../produkte/buch-sie-sind-ein-gl-ckspilz-35354.html)

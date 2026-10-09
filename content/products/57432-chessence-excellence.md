@@ -1,3 +1,24 @@
+---
+product_id: "57432"
+digistore24_product_id: 471279
+title: "Chessence Excellence"
+vendor: "Chessence"
+product_type: "Member area and video courses"
+price: 121.26
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 36.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://chessence.de/excellence/?aff=adminstore#aff=adminstore"
+sales_page: "https://chessence.de/excellence/"
+language: "de"
+---
 # Chessence Excellence
 
 > Product ID `57432` · Digistore24 productId `471279` · [HTML profile page](../../produkte/chessence-excellence-57432.html)

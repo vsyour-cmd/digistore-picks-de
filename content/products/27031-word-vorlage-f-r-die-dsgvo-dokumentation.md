@@ -1,3 +1,24 @@
+---
+product_id: "27031"
+digistore24_product_id: 240342
+title: "Word-Vorlage für die DSGVO-Dokumentation"
+vendor: "oliengel"
+product_type: "Downloads"
+price: 390.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 117.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2018-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
+language: "de"
+---
 # Word-Vorlage für die DSGVO-Dokumentation
 
 > Product ID `27031` · Digistore24 productId `240342` · [HTML profile page](../../produkte/word-vorlage-f-r-die-dsgvo-dokumentation-27031.html)

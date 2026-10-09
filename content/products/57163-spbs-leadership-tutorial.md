@@ -1,3 +1,24 @@
+---
+product_id: "57163"
+digistore24_product_id: 703031
+title: "SPBS Leadership Tutorial"
+vendor: "SPBS-Business"
+product_type: "Downloads"
+price: 112.71
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 11.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/703031?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/703031"
+language: "de"
+---
 # SPBS Leadership Tutorial
 
 > Product ID `57163` · Digistore24 productId `703031` · [HTML profile page](../../produkte/spbs-leadership-tutorial-57163.html)

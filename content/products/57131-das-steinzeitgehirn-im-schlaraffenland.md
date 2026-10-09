@@ -1,3 +1,24 @@
+---
+product_id: "57131"
+digistore24_product_id: 701491
+title: "Das Steinzeitgehirn im Schlaraffenland"
+vendor: "That-Clicks"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland?aff=adminstore#aff=adminstore"
+sales_page: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland"
+language: "de"
+---
 # Das Steinzeitgehirn im Schlaraffenland
 
 > Product ID `57131` · Digistore24 productId `701491` · [HTML profile page](../../produkte/das-steinzeitgehirn-im-schlaraffenland-57131.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42900"
+digistore24_product_id: 464835
+title: "Affiliate Tool - Premium Kit - FREEBIE"
+vendor: "Plebvin"
+product_type: "E-books"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.48
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/affiliate-tool-premium-kit/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/affiliate-tool-premium-kit/"
+language: "de"
+---
 # Affiliate Tool - Premium Kit - FREEBIE
 
 > Product ID `42900` · Digistore24 productId `464835` · [HTML profile page](../../produkte/affiliate-tool-premium-kit-freebie-42900.html)

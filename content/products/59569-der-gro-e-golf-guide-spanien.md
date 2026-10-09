@@ -1,3 +1,24 @@
+---
+product_id: "59569"
+digistore24_product_id: 736361
+title: "Der große Golf-Guide Spanien"
+vendor: "blockchainmediagroupes"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/736361?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736361"
+language: "de"
+---
 # Der große Golf-Guide Spanien
 
 > Product ID `59569` · Digistore24 productId `736361` · [HTML profile page](../../produkte/der-gro-e-golf-guide-spanien-59569.html)

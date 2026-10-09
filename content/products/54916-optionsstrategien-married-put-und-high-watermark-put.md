@@ -1,3 +1,24 @@
+---
+product_id: "54916"
+digistore24_product_id: 621710
+title: "Optionsstrategien Married Put und High Watermark Put"
+vendor: "sicheresdepot"
+product_type: "Seminar for business customers"
+price: 3759.06
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 375.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Trading Products","Finances"]
+listed_since: "2025-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sicheres-depot.de/sicheres-depot-praesenz-seminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://sicheres-depot.de/sicheres-depot-praesenz-seminar/"
+language: "de"
+---
 # Optionsstrategien Married Put und High Watermark Put
 
 > Product ID `54916` · Digistore24 productId `621710` · [HTML profile page](../../produkte/optionsstrategien-married-put-und-high-watermark-put-54916.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47099"
+digistore24_product_id: 569953
+title: "Cash Connect + E-Mail Funnel"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 878.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashconnect.online/Mailkampagne/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashconnect.online/Mailkampagne/"
+language: "de"
+---
 # Cash Connect + E-Mail Funnel
 
 > Product ID `47099` · Digistore24 productId `569953` · [HTML profile page](../../produkte/cash-connect-e-mail-funnel-47099.html)

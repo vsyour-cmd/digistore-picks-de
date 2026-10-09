@@ -1,3 +1,24 @@
+---
+product_id: "59448"
+digistore24_product_id: 735538
+title: "Zeit Im Griff"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735538?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735538"
+language: "de"
+---
 # Zeit Im Griff
 
 > Product ID `59448` · Digistore24 productId `735538` · [HTML profile page](../../produkte/zeit-im-griff-59448.html)

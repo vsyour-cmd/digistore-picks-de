@@ -1,3 +1,24 @@
+---
+product_id: "58818"
+digistore24_product_id: 496241
+title: "Praxisorientierten Funnel-Guide für Einsteiger"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/leadmagnet-und-erster-funnel-in-10-schritten-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/leadmagnet-und-erster-funnel-in-10-schritten-lp/"
+language: "de"
+---
 # Praxisorientierten Funnel-Guide für Einsteiger
 
 > Product ID `58818` · Digistore24 productId `496241` · [HTML profile page](../../produkte/praxisorientierten-funnel-guide-f-r-einsteiger-58818.html)

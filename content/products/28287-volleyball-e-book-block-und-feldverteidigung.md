@@ -1,3 +1,24 @@
+---
+product_id: "28287"
+digistore24_product_id: 262572
+title: "Volleyball-E-Book: Block- und Feldverteidigung"
+vendor: "volleyballfreak"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2019-03-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung?aff=adminstore#aff=adminstore"
+sales_page: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung"
+language: "de"
+---
 # Volleyball-E-Book: Block- und Feldverteidigung
 
 > Product ID `28287` · Digistore24 productId `262572` · [HTML profile page](../../produkte/volleyball-e-book-block-und-feldverteidigung-28287.html)

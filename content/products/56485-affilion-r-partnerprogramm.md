@@ -1,3 +1,24 @@
+---
+product_id: "56485"
+digistore24_product_id: 652688
+title: "Affilionär | Partnerprogramm"
+vendor: "profitbuddies"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 28.33
+cart_conversion_pct: 7
+cancel_rate_pct: 18.73
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.profitbuddies.de/affilionaer-starter?aff=adminstore#aff=adminstore"
+sales_page: "https://www.profitbuddies.de/affilionaer-starter"
+language: "de"
+---
 # Affilionär | Partnerprogramm
 
 > Product ID `56485` · Digistore24 productId `652688` · [HTML profile page](../../produkte/affilion-r-partnerprogramm-56485.html)

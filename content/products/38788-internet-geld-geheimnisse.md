@@ -1,3 +1,24 @@
+---
+product_id: "38788"
+digistore24_product_id: 422807
+title: "Internet Geld Geheimnisse"
+vendor: "CyrilCash"
+product_type: "Downloads"
+price: 207.91
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 151.95
+cart_conversion_pct: 8
+cancel_rate_pct: 2.04
+categories: ["Computer & Internet"]
+listed_since: "2022-01-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://app-cash-system.de/social/?aff=adminstore#aff=adminstore"
+sales_page: "https://app-cash-system.de/social/"
+language: "de"
+---
 # Internet Geld Geheimnisse
 
 > Product ID `38788` · Digistore24 productId `422807` · [HTML profile page](../../produkte/internet-geld-geheimnisse-38788.html)

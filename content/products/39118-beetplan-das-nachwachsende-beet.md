@@ -1,3 +1,24 @@
+---
+product_id: "39118"
+digistore24_product_id: 380867
+title: "Beetplan „Das Nachwachsende Beet“"
+vendor: "meine-ernte"
+product_type: "Downloads"
+price: 5.55
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2021-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meine-ernte.shop/beetplan-das-nachwachsende-beet-ds24/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meine-ernte.shop/beetplan-das-nachwachsende-beet-ds24/"
+language: "de"
+---
 # Beetplan „Das Nachwachsende Beet“
 
 > Product ID `39118` · Digistore24 productId `380867` · [HTML profile page](../../produkte/beetplan-das-nachwachsende-beet-39118.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43527"
+digistore24_product_id: 281004
+title: "POSING CLASS für Fotografen"
+vendor: "juliaundgil"
+product_type: "Member area and video courses"
+price: 184.87
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.46
+cart_conversion_pct: 16
+cancel_rate_pct: 3.96
+categories: ["Profession & Job"]
+listed_since: "2019-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://juliaandgil.education/live-shoots-workshop/?aff=adminstore#aff=adminstore"
+sales_page: "https://juliaandgil.education/live-shoots-workshop/"
+language: "de"
+---
 # POSING CLASS für Fotografen
 
 > Product ID `43527` · Digistore24 productId `281004` · [HTML profile page](../../produkte/posing-class-f-r-fotografen-43527.html)

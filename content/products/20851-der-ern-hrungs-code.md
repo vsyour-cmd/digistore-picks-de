@@ -1,3 +1,24 @@
+---
+product_id: "20851"
+digistore24_product_id: 180839
+title: "Der Ernährungs-Code"
+vendor: "RaGarve"
+product_type: "Downloads"
+price: 121.17
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 29.96
+cart_conversion_pct: 36
+cancel_rate_pct: 9.2
+categories: ["Health & Fitness"]
+listed_since: "2017-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-fatalen-irrtuemer-der-modernen-ernaehrung/?aff=adminstore#aff=adminstore"
+sales_page: "https://raikgarve.de/irrtuemer-der-medizin/die-fatalen-irrtuemer-der-modernen-ernaehrung/"
+language: "de"
+---
 # Der Ernährungs-Code
 
 > Product ID `20851` · Digistore24 productId `180839` · [HTML profile page](../../produkte/der-ern-hrungs-code-20851.html)

@@ -1,3 +1,24 @@
+---
+product_id: "28041"
+digistore24_product_id: 259134
+title: "Lerny.de - dein eigener Mitgliederbereich"
+vendor: "webagentur"
+product_type: "Downloads"
+price: 684.58
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 171.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2019-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lerny.de?aff=adminstore#aff=adminstore"
+sales_page: "https://lerny.de"
+language: "de"
+---
 # Lerny.de - dein eigener Mitgliederbereich
 
 > Product ID `28041` · Digistore24 productId `259134` · [HTML profile page](../../produkte/lerny-de-dein-eigener-mitgliederbereich-28041.html)

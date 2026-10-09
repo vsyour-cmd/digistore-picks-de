@@ -1,3 +1,24 @@
+---
+product_id: "60244"
+digistore24_product_id: 725874
+title: "DIE SEELE AMERIKAS I Das Grosse Experiment"
+vendor: "ThomasYoung"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 83.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thomasyoung.online/masterclass-dsa?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thomasyoung.online/masterclass-dsa"
+language: "de"
+---
 # DIE SEELE AMERIKAS I Das Grosse Experiment
 
 > Product ID `60244` · Digistore24 productId `725874` · [HTML profile page](../../produkte/die-seele-amerikas-i-das-grosse-experiment-60244.html)

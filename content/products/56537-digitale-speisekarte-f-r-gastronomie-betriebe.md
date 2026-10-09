@@ -1,3 +1,24 @@
+---
+product_id: "56537"
+digistore24_product_id: 692801
+title: "Digitale Speisekarte für Gastronomie Betriebe"
+vendor: "BizzRocker"
+product_type: "Software"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy","Services"]
+listed_since: "2026-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digitale-speisekarte.info?aff=adminstore#aff=adminstore"
+sales_page: "https://www.digitale-speisekarte.info"
+language: "de"
+---
 # Digitale Speisekarte für Gastronomie Betriebe
 
 > Product ID `56537` · Digistore24 productId `692801` · [HTML profile page](../../produkte/digitale-speisekarte-f-r-gastronomie-betriebe-56537.html)

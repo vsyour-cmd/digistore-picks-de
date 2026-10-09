@@ -1,3 +1,24 @@
+---
+product_id: "58544"
+digistore24_product_id: 701097
+title: "MomentumOS"
+vendor: "momentumOS"
+product_type: "E-books"
+price: 51.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2026-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://signals.risserd.com/momentumos/?aff=adminstore#aff=adminstore"
+sales_page: "http://signals.risserd.com/momentumos/"
+language: "de"
+---
 # MomentumOS
 
 > Product ID `58544` · Digistore24 productId `701097` · [HTML profile page](../../produkte/momentumos-58544.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60052"
+digistore24_product_id: 738768
+title: "30 Reels in 3 Stunden"
+vendor: "AlcaAzar5f7"
+product_type: "Downloads"
+price: 15.98
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://nine-to-never.systeme.io/03642f79?aff=adminstore#aff=adminstore"
+sales_page: "http://nine-to-never.systeme.io/03642f79"
+language: "de"
+---
 # 30 Reels in 3 Stunden
 
 > Product ID `60052` · Digistore24 productId `738768` · [HTML profile page](../../produkte/30-reels-in-3-stunden-60052.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60036"
+digistore24_product_id: 738823
+title: "Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu"
+vendor: "MarkusGerbig"
+product_type: "E-books"
+price: 31.35
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Profession & Job"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mg-wissen.de/berufswahl/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mg-wissen.de/berufswahl/"
+language: "de"
+---
 # Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu
 
 > Product ID `60036` · Digistore24 productId `738823` · [HTML profile page](../../produkte/berufswahl-im-zeitalter-von-ki-und-robotik-60-berufe-im-zu-60036.html)

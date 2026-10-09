@@ -1,3 +1,24 @@
+---
+product_id: "47544"
+digistore24_product_id: 530035
+title: "100 % Provision mit Investment-Fachbuch (+Upsell-Chancen!)"
+vendor: "BullMarketsMedia"
+product_type: "Book (printed)"
+price: 1029.17
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 9.5
+cart_conversion_pct: 2
+cancel_rate_pct: 6.3
+categories: ["Business & Investment","Education"]
+listed_since: "2023-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sharedeals.de/reich_mit_rohstoffen_geschenk/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sharedeals.de/reich_mit_rohstoffen_geschenk/"
+language: "de"
+---
 # 100 % Provision mit Investment-Fachbuch (+Upsell-Chancen!)
 
 > Product ID `47544` · Digistore24 productId `530035` · [HTML profile page](../../produkte/100-provision-mit-investment-fachbuch-upsell-chancen-47544.html)

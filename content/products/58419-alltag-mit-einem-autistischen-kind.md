@@ -1,3 +1,24 @@
+---
+product_id: "58419"
+digistore24_product_id: 722548
+title: "Alltag mit einem autistischen Kind"
+vendor: "PflegekommpassAutismusRecht"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/722548?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722548"
+language: "de"
+---
 # Alltag mit einem autistischen Kind
 
 > Product ID `58419` · Digistore24 productId `722548` · [HTML profile page](../../produkte/alltag-mit-einem-autistischen-kind-58419.html)

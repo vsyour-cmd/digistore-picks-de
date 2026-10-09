@@ -1,3 +1,24 @@
+---
+product_id: "51155"
+digistore24_product_id: 453706
+title: "Selbstgeführte Stadtrallye Mainz | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 24.74
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 8.12
+cart_conversion_pct: 12
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hint-caching.de/stadtrallye-mainz/?aff=adminstore#aff=adminstore"
+sales_page: "https://hint-caching.de/stadtrallye-mainz/"
+language: "de"
+---
 # Selbstgeführte Stadtrallye Mainz | Hint-Caching
 
 > Product ID `51155` · Digistore24 productId `453706` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-mainz-hint-caching-51155.html)

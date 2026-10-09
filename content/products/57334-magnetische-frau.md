@@ -1,3 +1,24 @@
+---
+product_id: "57334"
+digistore24_product_id: 700673
+title: "Magnetische Frau"
+vendor: "cleitonpaulino"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 23.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://elevenmarketingdigital.com/magnetische-frau/?aff=adminstore#aff=adminstore"
+sales_page: "https://elevenmarketingdigital.com/magnetische-frau/"
+language: "de"
+---
 # Magnetische Frau
 
 > Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../produkte/magnetische-frau-57334.html)

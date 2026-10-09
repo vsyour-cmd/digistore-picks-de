@@ -1,3 +1,24 @@
+---
+product_id: "47923"
+digistore24_product_id: 549630
+title: "VERSCHENKE: Kostenloses Dankbarkeitstagebuch"
+vendor: "coachingtrip"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.02
+cart_conversion_pct: 28
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-04-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/?aff=adminstore#aff=adminstore"
+sales_page: "https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/"
+language: "de"
+---
 # VERSCHENKE: Kostenloses Dankbarkeitstagebuch
 
 > Product ID `47923` · Digistore24 productId `549630` · [HTML profile page](../../produkte/verschenke-kostenloses-dankbarkeitstagebuch-47923.html)

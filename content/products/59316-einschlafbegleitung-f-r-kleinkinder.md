@@ -1,3 +1,24 @@
+---
+product_id: "59316"
+digistore24_product_id: 734382
+title: "Einschlafbegleitung für Kleinkinder"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734382?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734382"
+language: "de"
+---
 # Einschlafbegleitung für Kleinkinder
 
 > Product ID `59316` · Digistore24 productId `734382` · [HTML profile page](../../produkte/einschlafbegleitung-f-r-kleinkinder-59316.html)

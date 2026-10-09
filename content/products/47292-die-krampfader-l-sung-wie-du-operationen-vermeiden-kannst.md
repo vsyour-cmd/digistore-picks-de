@@ -1,3 +1,24 @@
+---
+product_id: "47292"
+digistore24_product_id: 524808
+title: "Die Krampfader-Lösung - Wie du Operationen vermeiden kannst"
+vendor: "filou2019"
+product_type: "Book (printed)"
+price: 31.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Services"]
+listed_since: "2023-11-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://die-krampfader-loesung.de?aff=adminstore#aff=adminstore"
+sales_page: "https://die-krampfader-loesung.de"
+language: "de"
+---
 # Die Krampfader-Lösung - Wie du Operationen vermeiden kannst
 
 > Product ID `47292` · Digistore24 productId `524808` · [HTML profile page](../../produkte/die-krampfader-l-sung-wie-du-operationen-vermeiden-kannst-47292.html)

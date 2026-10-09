@@ -1,3 +1,24 @@
+---
+product_id: "54941"
+digistore24_product_id: 636228
+title: "Grundlagen der Betriebshygiene"
+vendor: "WirtschaftspraxisJuergens"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2025-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-deutsch?aff=adminstore#aff=adminstore"
+sales_page: "https://i-b-h.mydigibiz24.com/landing-page-bhm-deutsch"
+language: "de"
+---
 # Grundlagen der Betriebshygiene
 
 > Product ID `54941` · Digistore24 productId `636228` · [HTML profile page](../../produkte/grundlagen-der-betriebshygiene-54941.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57215"
+digistore24_product_id: 701974
+title: "GEO-Traffic"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/geo-traffic?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/geo-traffic"
+language: "de"
+---
 # GEO-Traffic
 
 > Product ID `57215` · Digistore24 productId `701974` · [HTML profile page](../../produkte/geo-traffic-57215.html)

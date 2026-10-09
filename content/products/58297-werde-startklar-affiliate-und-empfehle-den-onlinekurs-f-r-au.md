@@ -1,3 +1,24 @@
+---
+product_id: "58297"
+digistore24_product_id: 702997
+title: "Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au"
+vendor: "goldkern"
+product_type: "Online coaching"
+price: 42.51
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 14.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.startklar.training/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.startklar.training/"
+language: "de"
+---
 # Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au
 
 > Product ID `58297` · Digistore24 productId `702997` · [HTML profile page](../../produkte/werde-startklar-affiliate-und-empfehle-den-onlinekurs-f-r-au-58297.html)

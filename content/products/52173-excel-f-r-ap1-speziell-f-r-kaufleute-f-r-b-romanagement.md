@@ -1,3 +1,24 @@
+---
+product_id: "52173"
+digistore24_product_id: 607751
+title: "Excel für AP1 – speziell für Kaufleute für Büromanagement"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 74.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.6
+cart_conversion_pct: 13
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
+sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af"
+language: "de"
+---
 # Excel für AP1 – speziell für Kaufleute für Büromanagement
 
 > Product ID `52173` · Digistore24 productId `607751` · [HTML profile page](../../produkte/excel-f-r-ap1-speziell-f-r-kaufleute-f-r-b-romanagement-52173.html)

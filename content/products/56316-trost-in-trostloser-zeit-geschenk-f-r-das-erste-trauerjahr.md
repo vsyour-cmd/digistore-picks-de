@@ -1,3 +1,24 @@
+---
+product_id: "56316"
+digistore24_product_id: 677652
+title: "Trost in trostloser Zeit. Geschenk für das erste Trauerjahr"
+vendor: "wolfgang1958lange628c"
+product_type: "E-books"
+price: 9.93
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.edition-morgenglanz.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.edition-morgenglanz.de"
+language: "de"
+---
 # Trost in trostloser Zeit. Geschenk für das erste Trauerjahr
 
 > Product ID `56316` · Digistore24 productId `677652` · [HTML profile page](../../produkte/trost-in-trostloser-zeit-geschenk-f-r-das-erste-trauerjahr-56316.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52408"
+digistore24_product_id: 608021
+title: "TikTok Cashflow"
+vendor: "DS-AffiliateSolution"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2025-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/qG4XyfZL38bCCRCST?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/qG4XyfZL38bCCRCST"
+language: "de"
+---
 # TikTok Cashflow
 
 > Product ID `52408` · Digistore24 productId `608021` · [HTML profile page](../../produkte/tiktok-cashflow-52408.html)

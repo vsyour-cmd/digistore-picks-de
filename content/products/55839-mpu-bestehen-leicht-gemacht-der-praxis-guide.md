@@ -1,3 +1,24 @@
+---
+product_id: "55839"
+digistore24_product_id: 670358
+title: "MPU bestehen leicht gemacht – Der Praxis-Guide"
+vendor: "rj93d6"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice"]
+listed_since: "2026-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://startklar.company/MPU-Vorbereitung?aff=adminstore#aff=adminstore"
+sales_page: "http://startklar.company/MPU-Vorbereitung"
+language: "de"
+---
 # MPU bestehen leicht gemacht – Der Praxis-Guide
 
 > Product ID `55839` · Digistore24 productId `670358` · [HTML profile page](../../produkte/mpu-bestehen-leicht-gemacht-der-praxis-guide-55839.html)

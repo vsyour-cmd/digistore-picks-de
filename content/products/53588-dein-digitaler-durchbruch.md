@@ -1,3 +1,24 @@
+---
+product_id: "53588"
+digistore24_product_id: 630623
+title: "DEIN DIGITALER DURCHBRUCH"
+vendor: "thefemininebusiness"
+product_type: "E-books"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 44.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/630623?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/630623"
+language: "de"
+---
 # DEIN DIGITALER DURCHBRUCH
 
 > Product ID `53588` · Digistore24 productId `630623` · [HTML profile page](../../produkte/dein-digitaler-durchbruch-53588.html)

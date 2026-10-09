@@ -1,3 +1,24 @@
+---
+product_id: "60250"
+digistore24_product_id: 741706
+title: "Mit KI Gedl verdienen in 2026"
+vendor: "VeloxForge"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 51.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://auranit.de/mit-ki-geld-verdienen/?aff=adminstore#aff=adminstore"
+sales_page: "https://auranit.de/mit-ki-geld-verdienen/"
+language: "de"
+---
 # Mit KI Gedl verdienen in 2026
 
 > Product ID `60250` · Digistore24 productId `741706` · [HTML profile page](../../produkte/mit-ki-gedl-verdienen-in-2026-60250.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42091"
+digistore24_product_id: 429212
+title: "GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch"
+vendor: "Jonas_Feitsch"
+product_type: "E-books"
+price: 1.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.36
+cart_conversion_pct: 24
+cancel_rate_pct: 5.78
+categories: ["Health & Fitness"]
+listed_since: "2022-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://meine-strandfigur.com/101-gesunde-rezepte/?aff=adminstore#aff=adminstore"
+sales_page: "https://meine-strandfigur.com/101-gesunde-rezepte/"
+language: "de"
+---
 # GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch
 
 > Product ID `42091` · Digistore24 productId `429212` · [HTML profile page](../../produkte/gratis-buch-101-gesunde-rezepte-f-r-einen-flachen-bauch-42091.html)

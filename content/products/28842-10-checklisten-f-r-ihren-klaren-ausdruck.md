@@ -1,3 +1,24 @@
+---
+product_id: "28842"
+digistore24_product_id: 202637
+title: "10 Checklisten für Ihren klaren Ausdruck"
+vendor: "ThiloBaum"
+product_type: "Downloads"
+price: 9.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2018-02-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/?aff=adminstore#aff=adminstore"
+sales_page: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/"
+language: "de"
+---
 # 10 Checklisten für Ihren klaren Ausdruck
 
 > Product ID `28842` · Digistore24 productId `202637` · [HTML profile page](../../produkte/10-checklisten-f-r-ihren-klaren-ausdruck-28842.html)

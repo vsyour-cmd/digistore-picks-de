@@ -1,3 +1,24 @@
+---
+product_id: "56365"
+digistore24_product_id: 687757
+title: "Die 12 Erzengel und Lichtstrahlen – Kartenset"
+vendor: "Spiritual-Power"
+product_type: "Downloads"
+price: 32.9
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 6.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/687757?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/687757"
+language: "de"
+---
 # Die 12 Erzengel und Lichtstrahlen – Kartenset
 
 > Product ID `56365` · Digistore24 productId `687757` · [HTML profile page](../../produkte/die-12-erzengel-und-lichtstrahlen-kartenset-56365.html)

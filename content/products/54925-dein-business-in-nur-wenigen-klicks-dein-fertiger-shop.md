@@ -1,3 +1,24 @@
+---
+product_id: "54925"
+digistore24_product_id: 638313
+title: "Dein Business in nur wenigen Klicks-Dein fertiger Shop"
+vendor: "smartboostAI"
+product_type: "Remote service provided electronically"
+price: 1115.24
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 446.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Marketing Services"]
+listed_since: "2025-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/638313?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/638313"
+language: "de"
+---
 # Dein Business in nur wenigen Klicks-Dein fertiger Shop
 
 > Product ID `54925` · Digistore24 productId `638313` · [HTML profile page](../../produkte/dein-business-in-nur-wenigen-klicks-dein-fertiger-shop-54925.html)

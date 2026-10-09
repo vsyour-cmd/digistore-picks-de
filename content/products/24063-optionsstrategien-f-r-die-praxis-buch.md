@@ -1,3 +1,24 @@
+---
+product_id: "24063"
+digistore24_product_id: 123139
+title: "Optionsstrategien für die Praxis ( Buch )"
+vendor: "r2finance"
+product_type: "Book (printed)"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2017-03-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/123139?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/123139"
+language: "de"
+---
 # Optionsstrategien für die Praxis ( Buch )
 
 > Product ID `24063` · Digistore24 productId `123139` · [HTML profile page](../../produkte/optionsstrategien-f-r-die-praxis-buch-24063.html)

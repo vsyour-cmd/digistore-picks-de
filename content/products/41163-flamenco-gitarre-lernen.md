@@ -1,3 +1,24 @@
+---
+product_id: "41163"
+digistore24_product_id: 348010
+title: "Flamenco Gitarre lernen"
+vendor: "Guitarschool"
+product_type: "Member area and video courses"
+price: 84.75
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 23.86
+cart_conversion_pct: 24
+cancel_rate_pct: 5.54
+categories: ["Education","Hobby & Craft"]
+listed_since: "2020-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.guitarschool.at/flamenco-gitarre-lernen/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.guitarschool.at/flamenco-gitarre-lernen/"
+language: "de"
+---
 # Flamenco Gitarre lernen
 
 > Product ID `41163` · Digistore24 productId `348010` · [HTML profile page](../../produkte/flamenco-gitarre-lernen-41163.html)

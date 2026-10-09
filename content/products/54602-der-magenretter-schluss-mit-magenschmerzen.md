@@ -1,3 +1,24 @@
+---
+product_id: "54602"
+digistore24_product_id: 632881
+title: "Der Magenretter - Schluss mit Magenschmerzen"
+vendor: "Lobato1"
+product_type: "Member area and video courses"
+price: 1015.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 304.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.rafaellobato.de/der-magenretter?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rafaellobato.de/der-magenretter"
+language: "de"
+---
 # Der Magenretter - Schluss mit Magenschmerzen
 
 > Product ID `54602` · Digistore24 productId `632881` · [HTML profile page](../../produkte/der-magenretter-schluss-mit-magenschmerzen-54602.html)

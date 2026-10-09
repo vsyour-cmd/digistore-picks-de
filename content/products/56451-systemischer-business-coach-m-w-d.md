@@ -1,3 +1,24 @@
+---
+product_id: "56451"
+digistore24_product_id: 681020
+title: "Systemischer Business-Coach (m/w/d)"
+vendor: "wehner82f5"
+product_type: "Member area and video courses"
+price: 277.3
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 124.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-03-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/681020/adminstore"
+sales_page: "https://teamwehner-bildung.mydigibiz24.com/coachingausbildung?aff=[AFFILIATE]"
+language: "de"
+---
 # Systemischer Business-Coach (m/w/d)
 
 > Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../produkte/systemischer-business-coach-m-w-d-56451.html)

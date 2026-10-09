@@ -1,3 +1,24 @@
+---
+product_id: "58793"
+digistore24_product_id: 677027
+title: "KATZENLIFECOACH® Onlinekurs"
+vendor: "aCATemy-Katzenschule-Petra-Ott"
+product_type: "Member area and video courses"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 93.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Family & Children"]
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach?aff=adminstore#aff=adminstore"
+sales_page: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach"
+language: "de"
+---
 # KATZENLIFECOACH® Onlinekurs
 
 > Product ID `58793` · Digistore24 productId `677027` · [HTML profile page](../../produkte/katzenlifecoach-onlinekurs-58793.html)

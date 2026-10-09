@@ -1,3 +1,24 @@
+---
+product_id: "59376"
+digistore24_product_id: 735000
+title: "Reklamationen beantworten – Vorlagen für Onlineshops"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735000?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735000"
+language: "de"
+---
 # Reklamationen beantworten – Vorlagen für Onlineshops
 
 > Product ID `59376` · Digistore24 productId `735000` · [HTML profile page](../../produkte/reklamationen-beantworten-vorlagen-f-r-onlineshops-59376.html)

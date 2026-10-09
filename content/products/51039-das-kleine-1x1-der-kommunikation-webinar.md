@@ -1,3 +1,24 @@
+---
+product_id: "51039"
+digistore24_product_id: 585598
+title: "Das kleine 1x1 der Kommunikation - Webinar"
+vendor: "Wirtschaftsmediation_CS"
+product_type: "Member area and video courses"
+price: 46.9
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2024-12-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/585598?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/585598"
+language: "de"
+---
 # Das kleine 1x1 der Kommunikation - Webinar
 
 > Product ID `51039` · Digistore24 productId `585598` · [HTML profile page](../../produkte/das-kleine-1x1-der-kommunikation-webinar-51039.html)

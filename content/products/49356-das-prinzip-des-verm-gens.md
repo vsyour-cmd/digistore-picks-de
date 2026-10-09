@@ -1,3 +1,24 @@
+---
+product_id: "49356"
+digistore24_product_id: 722698
+title: "Das Prinzip des Vermögens"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 878.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 439.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Trading Products"]
+listed_since: "2024-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashneustart.de/das-prinzip-des-vermoegens/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashneustart.de/das-prinzip-des-vermoegens/"
+language: "de"
+---
 # Das Prinzip des Vermögens
 
 > Product ID `49356` · Digistore24 productId `722698` · [HTML profile page](../../produkte/das-prinzip-des-verm-gens-49356.html)

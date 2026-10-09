@@ -1,3 +1,24 @@
+---
+product_id: "12589"
+digistore24_product_id: 88809
+title: "Das Thema mit der Leine"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2016-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/"
+language: "de"
+---
 # Das Thema mit der Leine
 
 > Product ID `12589` · Digistore24 productId `88809` · [HTML profile page](../../produkte/das-thema-mit-der-leine-12589.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58863"
+digistore24_product_id: 728764
+title: "999 KI-Prompts für Affiliate-Marketer"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 5.58
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 3.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/728764?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/728764"
+language: "de"
+---
 # 999 KI-Prompts für Affiliate-Marketer
 
 > Product ID `58863` · Digistore24 productId `728764` · [HTML profile page](../../produkte/999-ki-prompts-f-r-affiliate-marketer-58863.html)

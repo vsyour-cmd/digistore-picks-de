@@ -1,3 +1,24 @@
+---
+product_id: "52209"
+digistore24_product_id: 609416
+title: "Mit -KI- Buchhaltung in Rekordzeit!"
+vendor: "BackOff"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Services"]
+listed_since: "2025-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/609416?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/609416"
+language: "de"
+---
 # Mit -KI- Buchhaltung in Rekordzeit!
 
 > Product ID `52209` · Digistore24 productId `609416` · [HTML profile page](../../produkte/mit-ki-buchhaltung-in-rekordzeit-52209.html)

@@ -1,3 +1,24 @@
+---
+product_id: "32391"
+digistore24_product_id: 165227
+title: "Inside Bali [Corona-Film-Hilfsprojekt]"
+vendor: "rheinrost"
+product_type: "Downloads"
+price: 14.11
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film","Social Media","Travel & Culture"]
+listed_since: "2017-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.unaufschiebbar.de/bali-guides/inside-bali/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.unaufschiebbar.de/bali-guides/inside-bali/"
+language: "de"
+---
 # Inside Bali [Corona-Film-Hilfsprojekt]
 
 > Product ID `32391` · Digistore24 productId `165227` · [HTML profile page](../../produkte/inside-bali-corona-film-hilfsprojekt-32391.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54519"
+digistore24_product_id: 634910
+title: "[NEU] Fuck Smalltalk 2.0 - zu verschenken | Buch (gedruckt)"
+vendor: "Erschaffedichneu"
+product_type: "Book (printed)"
+price: 11.9
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 6.24
+cart_conversion_pct: 15
+cancel_rate_pct: 1.23
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://erschaffedichneu.com/f-k-smalltalk?aff=adminstore#aff=adminstore"
+sales_page: "https://erschaffedichneu.com/f-k-smalltalk"
+language: "de"
+---
 # [NEU] Fuck Smalltalk 2.0 - zu verschenken | Buch (gedruckt)
 
 > Product ID `54519` · Digistore24 productId `634910` · [HTML profile page](../../produkte/neu-fuck-smalltalk-2-0-zu-verschenken-buch-gedruckt-54519.html)

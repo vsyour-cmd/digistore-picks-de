@@ -1,3 +1,24 @@
+---
+product_id: "41506"
+digistore24_product_id: 463188
+title: "3 Tage LOSLASSEN intensiv Seminar"
+vendor: "InaRudolph"
+product_type: "Webinar"
+price: 36.13
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 37.62
+cart_conversion_pct: 28
+cancel_rate_pct: 0.85
+categories: ["Personal Development"]
+listed_since: "2022-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://inarudolph.de/3-tage-intensiv-seminar/?aff=adminstore#aff=adminstore"
+sales_page: "https://inarudolph.de/3-tage-intensiv-seminar/"
+language: "de"
+---
 # 3 Tage LOSLASSEN intensiv Seminar
 
 > Product ID `41506` · Digistore24 productId `463188` · [HTML profile page](../../produkte/3-tage-loslassen-intensiv-seminar-41506.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57572"
+digistore24_product_id: 444456
+title: "Geld verdienen mit zahlreichen fertigen Onlinekursen"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mein-kurs-business.com/sofort-starten/?aff=adminstore#aff=adminstore"
+sales_page: "https://mein-kurs-business.com/sofort-starten/"
+language: "de"
+---
 # Geld verdienen mit zahlreichen fertigen Onlinekursen
 
 > Product ID `57572` · Digistore24 productId `444456` · [HTML profile page](../../produkte/geld-verdienen-mit-zahlreichen-fertigen-onlinekursen-57572.html)

@@ -1,3 +1,24 @@
+---
+product_id: "29620"
+digistore24_product_id: 162385
+title: "Online Geburtsvorbereitung"
+vendor: "marketingpro"
+product_type: "Downloads"
+price: 46.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.96
+cart_conversion_pct: 8
+cancel_rate_pct: 1.07
+categories: ["Health & Fitness"]
+listed_since: "2017-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://mami-first.de/online-geburtsvorbereitungskurs-lpg/?aff=adminstore#aff=adminstore"
+sales_page: "https://mami-first.de/online-geburtsvorbereitungskurs-lpg/"
+language: "de"
+---
 # Online Geburtsvorbereitung
 
 > Product ID `29620` · Digistore24 productId `162385` · [HTML profile page](../../produkte/online-geburtsvorbereitung-29620.html)

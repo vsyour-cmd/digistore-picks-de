@@ -1,3 +1,24 @@
+---
+product_id: "56412"
+digistore24_product_id: 689379
+title: "Ebook - Nicht alles gut"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689379?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689379"
+language: "de"
+---
 # Ebook - Nicht alles gut
 
 > Product ID `56412` · Digistore24 productId `689379` · [HTML profile page](../../produkte/ebook-nicht-alles-gut-56412.html)

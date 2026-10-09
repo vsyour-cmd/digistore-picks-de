@@ -1,3 +1,24 @@
+---
+product_id: "59436"
+digistore24_product_id: 735162
+title: "Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer"
+vendor: "freelancerkitools"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freelancer-ki-tools.de/kunden-magnet-2-0?aff=adminstore#aff=adminstore"
+sales_page: "https://freelancer-ki-tools.de/kunden-magnet-2-0"
+language: "de"
+---
 # Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer
 
 > Product ID `59436` · Digistore24 productId `735162` · [HTML profile page](../../produkte/der-kunden-magnet-2-0-ki-akquise-system-f-r-freelancer-59436.html)

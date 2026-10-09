@@ -1,3 +1,24 @@
+---
+product_id: "41612"
+digistore24_product_id: 421689
+title: "Liebesmuskeln aktivieren - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 49.26
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 21.5
+cart_conversion_pct: 10
+cancel_rate_pct: 1.63
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/produkte/mkurs-frauen/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/produkte/mkurs-frauen/"
+language: "de"
+---
 # Liebesmuskeln aktivieren - Anastasia Romanova
 
 > Product ID `41612` · Digistore24 productId `421689` · [HTML profile page](../../produkte/liebesmuskeln-aktivieren-anastasia-romanova-41612.html)

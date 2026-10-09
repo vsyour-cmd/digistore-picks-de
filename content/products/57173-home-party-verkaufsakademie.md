@@ -1,3 +1,24 @@
+---
+product_id: "57173"
+digistore24_product_id: 705582
+title: "Home-Party-Verkaufsakademie"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 168.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 84.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Sales Training","Marketing Services"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/705582?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/705582"
+language: "de"
+---
 # Home-Party-Verkaufsakademie
 
 > Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../produkte/home-party-verkaufsakademie-57173.html)

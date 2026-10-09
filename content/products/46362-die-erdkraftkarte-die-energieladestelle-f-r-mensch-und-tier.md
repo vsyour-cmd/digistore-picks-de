@@ -1,3 +1,24 @@
+---
+product_id: "46362"
+digistore24_product_id: 528400
+title: "Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier"
+vendor: "raiblo"
+product_type: "Deliverable"
+price: 61.1
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meine-erdkraftkarte.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://meine-erdkraftkarte.de/"
+language: "de"
+---
 # Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier
 
 > Product ID `46362` · Digistore24 productId `528400` · [HTML profile page](../../produkte/die-erdkraftkarte-die-energieladestelle-f-r-mensch-und-tier-46362.html)

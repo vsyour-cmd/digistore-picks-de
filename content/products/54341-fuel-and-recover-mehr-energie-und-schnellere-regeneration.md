@@ -1,3 +1,24 @@
+---
+product_id: "54341"
+digistore24_product_id: 640599
+title: "Fuel and Recover – Mehr Energie und schnellere Regeneration"
+vendor: "FitSoulution"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2025-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640599?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640599"
+language: "de"
+---
 # Fuel and Recover – Mehr Energie und schnellere Regeneration
 
 > Product ID `54341` · Digistore24 productId `640599` · [HTML profile page](../../produkte/fuel-and-recover-mehr-energie-und-schnellere-regeneration-54341.html)

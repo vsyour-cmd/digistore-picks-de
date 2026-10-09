@@ -1,3 +1,24 @@
+---
+product_id: "56889"
+digistore24_product_id: 638485
+title: "3-Pfeiler-Strategie zum Vertriebserfolg"
+vendor: "MUTPUNKT"
+product_type: "Member area and video courses"
+price: 65.75
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Sales Training"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638485?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638485"
+language: "de"
+---
 # 3-Pfeiler-Strategie zum Vertriebserfolg
 
 > Product ID `56889` · Digistore24 productId `638485` · [HTML profile page](../../produkte/3-pfeiler-strategie-zum-vertriebserfolg-56889.html)

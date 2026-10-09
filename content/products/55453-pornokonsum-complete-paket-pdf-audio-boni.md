@@ -1,3 +1,24 @@
+---
+product_id: "55453"
+digistore24_product_id: 666027
+title: "Pornokonsum_Complete_Paket_PDF_Audio_Boni"
+vendor: "manuelcosta"
+product_type: "Downloads"
+price: 16.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://spectacular-ebook-audiobook.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://spectacular-ebook-audiobook.netlify.app/"
+language: "de"
+---
 # Pornokonsum_Complete_Paket_PDF_Audio_Boni
 
 > Product ID `55453` · Digistore24 productId `666027` · [HTML profile page](../../produkte/pornokonsum-complete-paket-pdf-audio-boni-55453.html)

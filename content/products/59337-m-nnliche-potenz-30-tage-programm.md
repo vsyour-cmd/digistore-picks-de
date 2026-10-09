@@ -1,3 +1,24 @@
+---
+product_id: "59337"
+digistore24_product_id: 733993
+title: "Männliche Potenz – 30-Tage-Programm"
+vendor: "manuelcosta"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 63
+earnings_per_sale: 21.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://potenz-programm.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://potenz-programm.netlify.app/"
+language: "de"
+---
 # Männliche Potenz – 30-Tage-Programm
 
 > Product ID `59337` · Digistore24 productId `733993` · [HTML profile page](../../produkte/m-nnliche-potenz-30-tage-programm-59337.html)

@@ -1,3 +1,24 @@
+---
+product_id: "37407"
+digistore24_product_id: 331144
+title: "Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute"
+vendor: "Andrea1A"
+product_type: "Member area and video courses"
+price: 183.3
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 45.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2020-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tierakademie.andrea-schaedel.de/lp/messen-mit-der-einhandrute-tiere?aff=adminstore#aff=adminstore"
+sales_page: "https://tierakademie.andrea-schaedel.de/lp/messen-mit-der-einhandrute-tiere"
+language: "de"
+---
 # Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute
 
 > Product ID `37407` · Digistore24 productId `331144` · [HTML profile page](../../produkte/selbsthilfe-im-alltag-tiere-messen-mit-tensor-einhandrute-37407.html)

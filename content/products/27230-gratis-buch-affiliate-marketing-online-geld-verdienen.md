@@ -1,3 +1,24 @@
+---
+product_id: "27230"
+digistore24_product_id: 250755
+title: "Gratis Buch - Affiliate Marketing - Online Geld verdienen"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2018-11-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://webpirat.de/dein-gratis-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://webpirat.de/dein-gratis-e-book/"
+language: "de"
+---
 # Gratis Buch - Affiliate Marketing - Online Geld verdienen
 
 > Product ID `27230` · Digistore24 productId `250755` · [HTML profile page](../../produkte/gratis-buch-affiliate-marketing-online-geld-verdienen-27230.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50228"
+digistore24_product_id: 734235
+title: "Online Geld verdienen mit digitalen Dienstleistungen"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Services"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/734235?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/734235"
+language: "de"
+---
 # Online Geld verdienen mit digitalen Dienstleistungen
 
 > Product ID `50228` · Digistore24 productId `734235` · [HTML profile page](../../produkte/online-geld-verdienen-mit-digitalen-dienstleistungen-50228.html)

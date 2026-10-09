@@ -1,3 +1,24 @@
+---
+product_id: "43695"
+digistore24_product_id: 495370
+title: "Bewerbungstipps 2.0 (EBook)"
+vendor: "RSMedicalWorldwide"
+product_type: "E-books"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2023-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/495370?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/495370"
+language: "de"
+---
 # Bewerbungstipps 2.0 (EBook)
 
 > Product ID `43695` · Digistore24 productId `495370` · [HTML profile page](../../produkte/bewerbungstipps-2-0-ebook-43695.html)

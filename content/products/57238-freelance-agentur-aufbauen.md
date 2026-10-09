@@ -1,3 +1,24 @@
+---
+product_id: "57238"
+digistore24_product_id: 704216
+title: "Freelance-Agentur aufbauen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/freelance-agentur-aufbauen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/freelance-agentur-aufbauen"
+language: "de"
+---
 # Freelance-Agentur aufbauen
 
 > Product ID `57238` · Digistore24 productId `704216` · [HTML profile page](../../produkte/freelance-agentur-aufbauen-57238.html)

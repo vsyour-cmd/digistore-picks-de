@@ -1,3 +1,24 @@
+---
+product_id: "50875"
+digistore24_product_id: 585772
+title: "Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern"
+vendor: "ChristofArnold"
+product_type: "Member area and video courses"
+price: 346.86
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 166.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film"]
+listed_since: "2024-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://christofarnold.com/fotografie-grundkurs/"
+language: "de"
+---
 # Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern
 
 > Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../produkte/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)

@@ -1,3 +1,24 @@
+---
+product_id: "22385"
+digistore24_product_id: 197811
+title: "Die 12 Chakren"
+vendor: "StefanieMenzel"
+product_type: "Downloads"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2018-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://ich-bin-so-frei.com/die-12-chakren/?aff=adminstore#aff=adminstore"
+sales_page: "http://ich-bin-so-frei.com/die-12-chakren/"
+language: "de"
+---
 # Die 12 Chakren
 
 > Product ID `22385` · Digistore24 productId `197811` · [HTML profile page](../../produkte/die-12-chakren-22385.html)

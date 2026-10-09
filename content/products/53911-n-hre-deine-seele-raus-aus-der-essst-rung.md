@@ -1,3 +1,24 @@
+---
+product_id: "53911"
+digistore24_product_id: 633705
+title: "Nähre deine Seele - Raus aus der Essstörung"
+vendor: "enjoyselflove"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Marketing Services"]
+listed_since: "2025-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633705?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633705"
+language: "de"
+---
 # Nähre deine Seele - Raus aus der Essstörung
 
 > Product ID `53911` · Digistore24 productId `633705` · [HTML profile page](../../produkte/n-hre-deine-seele-raus-aus-der-essst-rung-53911.html)

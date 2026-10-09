@@ -1,3 +1,24 @@
+---
+product_id: "53272"
+digistore24_product_id: 625538
+title: "Impressum, DSGVO - Co - Der rechtssichere Online-Kompass"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Rechtssicher-im-Onlinebusiness?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Rechtssicher-im-Onlinebusiness"
+language: "de"
+---
 # Impressum, DSGVO - Co - Der rechtssichere Online-Kompass
 
 > Product ID `53272` · Digistore24 productId `625538` · [HTML profile page](../../produkte/impressum-dsgvo-co-der-rechtssichere-online-kompass-53272.html)

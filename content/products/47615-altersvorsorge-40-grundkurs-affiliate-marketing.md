@@ -1,3 +1,24 @@
+---
+product_id: "47615"
+digistore24_product_id: 544568
+title: "Altersvorsorge 40+: Grundkurs Affiliate Marketing"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-marketing-grundkurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-marketing-grundkurs/"
+language: "de"
+---
 # Altersvorsorge 40+: Grundkurs Affiliate Marketing
 
 > Product ID `47615` · Digistore24 productId `544568` · [HTML profile page](../../produkte/altersvorsorge-40-grundkurs-affiliate-marketing-47615.html)

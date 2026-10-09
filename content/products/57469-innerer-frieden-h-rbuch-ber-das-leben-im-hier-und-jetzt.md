@@ -1,3 +1,24 @@
+---
+product_id: "57469"
+digistore24_product_id: 429285
+title: "Innerer Frieden Hörbuch über das Leben im Hier und Jetzt"
+vendor: "gesundergeist"
+product_type: "Downloads"
+price: 15.67
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2026-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518?aff=adminstore#aff=adminstore"
+sales_page: "https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518"
+language: "de"
+---
 # Innerer Frieden Hörbuch über das Leben im Hier und Jetzt
 
 > Product ID `57469` · Digistore24 productId `429285` · [HTML profile page](../../produkte/innerer-frieden-h-rbuch-ber-das-leben-im-hier-und-jetzt-57469.html)

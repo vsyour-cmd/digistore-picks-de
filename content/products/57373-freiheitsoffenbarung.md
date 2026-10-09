@@ -1,3 +1,24 @@
+---
+product_id: "57373"
+digistore24_product_id: 688698
+title: "Freiheitsoffenbarung"
+vendor: "KerstinSchimkus"
+product_type: "Member area and video courses"
+price: 67.12
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688698?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688698"
+language: "de"
+---
 # Freiheitsoffenbarung
 
 > Product ID `57373` · Digistore24 productId `688698` · [HTML profile page](../../produkte/freiheitsoffenbarung-57373.html)

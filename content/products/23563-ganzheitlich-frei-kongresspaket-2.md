@@ -1,3 +1,24 @@
+---
+product_id: "23563"
+digistore24_product_id: 176953
+title: "Ganzheitlich FREI Kongresspaket 2"
+vendor: "kandina"
+product_type: "Member area and video courses"
+price: 122.15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 61.08
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2017-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ganzheitlich-frei.com/kongresspaket-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://ganzheitlich-frei.com/kongresspaket-2/"
+language: "de"
+---
 # Ganzheitlich FREI Kongresspaket 2
 
 > Product ID `23563` · Digistore24 productId `176953` · [HTML profile page](../../produkte/ganzheitlich-frei-kongresspaket-2-23563.html)

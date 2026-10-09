@@ -1,3 +1,24 @@
+---
+product_id: "37314"
+digistore24_product_id: 239710
+title: "Ultimative Email Vorlage"
+vendor: "renerink"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2018-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/239710?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/239710"
+language: "de"
+---
 # Ultimative Email Vorlage
 
 > Product ID `37314` · Digistore24 productId `239710` · [HTML profile page](../../produkte/ultimative-email-vorlage-37314.html)

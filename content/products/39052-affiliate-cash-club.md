@@ -1,3 +1,24 @@
+---
+product_id: "39052"
+digistore24_product_id: 420804
+title: "Affiliate Cash Club"
+vendor: "Robinfocke"
+product_type: "Member area and video courses"
+price: 488.83
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 146.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2021-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.digistore24.com/redir/420804/adminstore"
+sales_page: "https://affiliatecashclub.de?p=[AFFILIATE]"
+language: "de"
+---
 # Affiliate Cash Club
 
 > Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57023"
+digistore24_product_id: 702254
+title: "Zuckersucht durchbrechen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen"
+language: "de"
+---
 # Zuckersucht durchbrechen
 
 > Product ID `57023` · Digistore24 productId `702254` · [HTML profile page](../../produkte/zuckersucht-durchbrechen-57023.html)

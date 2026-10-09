@@ -1,3 +1,24 @@
+---
+product_id: "57510"
+digistore24_product_id: 703268
+title: "Business Builder Factory"
+vendor: "Verdienst-Kompass"
+product_type: "Member area and video courses"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://lp-mircodigital.de/bbf?aff=adminstore#aff=adminstore"
+sales_page: "http://lp-mircodigital.de/bbf"
+language: "de"
+---
 # Business Builder Factory
 
 > Product ID `57510` · Digistore24 productId `703268` · [HTML profile page](../../produkte/business-builder-factory-57510.html)

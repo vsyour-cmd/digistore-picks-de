@@ -1,3 +1,24 @@
+---
+product_id: "50439"
+digistore24_product_id: 578339
+title: "Digital Profit Starter Kurs I Online Kurs"
+vendor: "weinand1986"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.87
+cart_conversion_pct: 28
+cancel_rate_pct: 14.48
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2024-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/578339?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/578339"
+language: "de"
+---
 # Digital Profit Starter Kurs I Online Kurs
 
 > Product ID `50439` · Digistore24 productId `578339` · [HTML profile page](../../produkte/digital-profit-starter-kurs-i-online-kurs-50439.html)

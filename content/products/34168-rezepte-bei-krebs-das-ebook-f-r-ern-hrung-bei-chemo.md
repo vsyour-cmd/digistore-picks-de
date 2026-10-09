@@ -1,3 +1,24 @@
+---
+product_id: "34168"
+digistore24_product_id: 349780
+title: "Rezepte bei Krebs - das eBook für Ernährung bei Chemo"
+vendor: "danachblog"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2020-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/"
+language: "de"
+---
 # Rezepte bei Krebs - das eBook für Ernährung bei Chemo
 
 > Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../produkte/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)

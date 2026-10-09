@@ -1,3 +1,24 @@
+---
+product_id: "59972"
+digistore24_product_id: 738060
+title: "Social Media Agent Masterclass – 89 €, 50 % Provision"
+vendor: "influexai"
+product_type: "Downloads"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/738060?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738060"
+language: "de"
+---
 # Social Media Agent Masterclass – 89 €, 50 % Provision
 
 > Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../produkte/social-media-agent-masterclass-89-50-provision-59972.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56727"
+digistore24_product_id: 695666
+title: "KI Video-Avatare für YouTube, Kurse u. Co (Longform-Avatare)"
+vendor: "Ararembe"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 55.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2026-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinekurse-von-experten.com/ai-avatar-creator-3influ/?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinekurse-von-experten.com/ai-avatar-creator-3influ/"
+language: "de"
+---
 # KI Video-Avatare für YouTube, Kurse u. Co (Longform-Avatare)
 
 > Product ID `56727` · Digistore24 productId `695666` · [HTML profile page](../../produkte/ki-video-avatare-f-r-youtube-kurse-u-co-longform-avatare-56727.html)

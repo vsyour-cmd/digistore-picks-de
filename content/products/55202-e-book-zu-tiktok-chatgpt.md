@@ -1,3 +1,24 @@
+---
+product_id: "55202"
+digistore24_product_id: 661107
+title: "E-Book zu TikTok  ChatGPT"
+vendor: "startsocial"
+product_type: "Online coaching"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing"]
+listed_since: "2026-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/661107?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/661107"
+language: "de"
+---
 # E-Book zu TikTok  ChatGPT
 
 > Product ID `55202` · Digistore24 productId `661107` · [HTML profile page](../../produkte/e-book-zu-tiktok-chatgpt-55202.html)

@@ -1,3 +1,24 @@
+---
+product_id: "33789"
+digistore24_product_id: 311075
+title: "Forex Seasonals Trading System"
+vendor: "daxtrading"
+product_type: "Remote service provided electronically"
+price: 254.32
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 29.6
+cart_conversion_pct: 5
+cancel_rate_pct: 10.6
+categories: ["Trading Products"]
+listed_since: "2020-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.kagels-trading.de/trading-signale/forex-seasonals-handelssystem/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.kagels-trading.de/trading-signale/forex-seasonals-handelssystem/"
+language: "de"
+---
 # Forex Seasonals Trading System
 
 > Product ID `33789` · Digistore24 productId `311075` · [HTML profile page](../../produkte/forex-seasonals-trading-system-33789.html)

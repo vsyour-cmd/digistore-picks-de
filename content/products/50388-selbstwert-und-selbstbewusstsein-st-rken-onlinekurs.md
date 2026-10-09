@@ -1,3 +1,24 @@
+---
+product_id: "50388"
+digistore24_product_id: 567377
+title: "Selbstwert und Selbstbewusstsein stärken - Onlinekurs"
+vendor: "wielandstolzenburg"
+product_type: "Member area and video courses"
+price: 270.72
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 94.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2024-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken"
+language: "de"
+---
 # Selbstwert und Selbstbewusstsein stärken - Onlinekurs
 
 > Product ID `50388` · Digistore24 productId `567377` · [HTML profile page](../../produkte/selbstwert-und-selbstbewusstsein-st-rken-onlinekurs-50388.html)

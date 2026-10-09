@@ -1,3 +1,24 @@
+---
+product_id: "54959"
+digistore24_product_id: 653900
+title: "eBook - Jahreskreisfeste & ihre Magie"
+vendor: "werbezone"
+product_type: "E-books"
+price: 9.35
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-12-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ritualwelten.de/jahreskreisfeste-workbook-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://ritualwelten.de/jahreskreisfeste-workbook-ebook/"
+language: "de"
+---
 # eBook - Jahreskreisfeste & ihre Magie
 
 > Product ID `54959` · Digistore24 productId `653900` · [HTML profile page](../../produkte/ebook-jahreskreisfeste-ihre-magie-54959.html)

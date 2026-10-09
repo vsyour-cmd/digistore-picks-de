@@ -1,3 +1,24 @@
+---
+product_id: "32176"
+digistore24_product_id: 309536
+title: "[NEU] Das Taschenbuch für Gründer - zu verschenken"
+vendor: "digitalbeat"
+product_type: "Book (printed)"
+price: 909.3
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 31.84
+cart_conversion_pct: 9
+cancel_rate_pct: 6.98
+categories: ["Business & Investment"]
+listed_since: "2020-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://online.gruender.de/taschenbuch?aff=adminstore#aff=adminstore"
+sales_page: "https://online.gruender.de/taschenbuch"
+language: "de"
+---
 # [NEU] Das Taschenbuch für Gründer - zu verschenken
 
 > Product ID `32176` · Digistore24 productId `309536` · [HTML profile page](../../produkte/neu-das-taschenbuch-f-r-gr-nder-zu-verschenken-32176.html)

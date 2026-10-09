@@ -1,3 +1,24 @@
+---
+product_id: "55760"
+digistore24_product_id: 671738
+title: "Beautylicious Masterclass 90 Tage intensiv"
+vendor: "xxbeautyliciousbysun8aec"
+product_type: "Telephone coaching"
+price: 561.18
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 56.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2026-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/671738?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/671738"
+language: "de"
+---
 # Beautylicious Masterclass 90 Tage intensiv
 
 > Product ID `55760` · Digistore24 productId `671738` · [HTML profile page](../../produkte/beautylicious-masterclass-90-tage-intensiv-55760.html)

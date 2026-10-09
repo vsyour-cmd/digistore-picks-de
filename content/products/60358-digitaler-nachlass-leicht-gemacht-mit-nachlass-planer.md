@@ -1,3 +1,24 @@
+---
+product_id: "60358"
+digistore24_product_id: 741781
+title: "Digitaler Nachlass leicht gemacht – mit Nachlass-Planer"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741781?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741781"
+language: "de"
+---
 # Digitaler Nachlass leicht gemacht – mit Nachlass-Planer
 
 > Product ID `60358` · Digistore24 productId `741781` · [HTML profile page](../../produkte/digitaler-nachlass-leicht-gemacht-mit-nachlass-planer-60358.html)

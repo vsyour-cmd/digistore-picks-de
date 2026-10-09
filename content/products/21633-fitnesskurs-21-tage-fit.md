@@ -1,3 +1,24 @@
+---
+product_id: "21633"
+digistore24_product_id: 186071
+title: "Fitnesskurs - 21 Tage fit"
+vendor: "Nova02"
+product_type: "Downloads"
+price: 34.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2017-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eiweiss.kaufen/kurs?aff=adminstore#aff=adminstore"
+sales_page: "https://eiweiss.kaufen/kurs"
+language: "de"
+---
 # Fitnesskurs - 21 Tage fit
 
 > Product ID `21633` · Digistore24 productId `186071` · [HTML profile page](../../produkte/fitnesskurs-21-tage-fit-21633.html)

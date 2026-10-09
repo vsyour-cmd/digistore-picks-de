@@ -1,3 +1,24 @@
+---
+product_id: "59996"
+digistore24_product_id: 736463
+title: "Starter Paket für Handwerker 6 professionelle Bürovorlagen"
+vendor: "kkaufmehl16fe"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 3.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Services"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ks-studiobusiness.carrd.co/?aff=adminstore#aff=adminstore"
+sales_page: "https://ks-studiobusiness.carrd.co/"
+language: "de"
+---
 # Starter Paket für Handwerker 6 professionelle Bürovorlagen
 
 > Product ID `59996` · Digistore24 productId `736463` · [HTML profile page](../../produkte/starter-paket-f-r-handwerker-6-professionelle-b-rovorlagen-59996.html)

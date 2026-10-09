@@ -1,3 +1,24 @@
+---
+product_id: "21295"
+digistore24_product_id: 185197
+title: "Hunde aus dem Süden"
+vendor: "khaphom5"
+product_type: "Webinar"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2017-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://rheinische-hundeschule.de/hunde-aus-dem-sueden/?aff=adminstore#aff=adminstore"
+sales_page: "https://rheinische-hundeschule.de/hunde-aus-dem-sueden/"
+language: "de"
+---
 # Hunde aus dem Süden
 
 > Product ID `21295` · Digistore24 productId `185197` · [HTML profile page](../../produkte/hunde-aus-dem-s-den-21295.html)

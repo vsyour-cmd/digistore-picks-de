@@ -1,3 +1,24 @@
+---
+product_id: "50223"
+digistore24_product_id: 608357
+title: "Cash Revolution 1.0"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 141.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 86.85
+cart_conversion_pct: 5
+cancel_rate_pct: 5.86
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.cashrevolution.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.cashrevolution.de/"
+language: "de"
+---
 # Cash Revolution 1.0
 
 > Product ID `50223` · Digistore24 productId `608357` · [HTML profile page](../../produkte/cash-revolution-1-0-50223.html)

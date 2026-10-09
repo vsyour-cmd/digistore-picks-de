@@ -1,3 +1,24 @@
+---
+product_id: "55689"
+digistore24_product_id: 641367
+title: "Cashflow Magic"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 410.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 76.37
+cart_conversion_pct: 7
+cancel_rate_pct: 0.79
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.eugen-grinschuk.de/cashflow/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.eugen-grinschuk.de/cashflow/"
+language: "de"
+---
 # Cashflow Magic
 
 > Product ID `55689` · Digistore24 productId `641367` · [HTML profile page](../../produkte/cashflow-magic-55689.html)

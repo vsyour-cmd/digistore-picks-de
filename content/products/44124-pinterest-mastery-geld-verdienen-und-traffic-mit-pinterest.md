@@ -1,3 +1,24 @@
+---
+product_id: "44124"
+digistore24_product_id: 482126
+title: "Pinterest Mastery - Geld verdienen und Traffic mit Pinterest"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 256.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 117.24
+cart_conversion_pct: 3
+cancel_rate_pct: 1.7
+categories: ["Social Media"]
+listed_since: "2023-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.provi-magnet.de/pinvkslp/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.provi-magnet.de/pinvkslp/"
+language: "de"
+---
 # Pinterest Mastery - Geld verdienen und Traffic mit Pinterest
 
 > Product ID `44124` · Digistore24 productId `482126` · [HTML profile page](../../produkte/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html)

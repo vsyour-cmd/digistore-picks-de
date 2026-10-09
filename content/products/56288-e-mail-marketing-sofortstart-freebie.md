@@ -1,3 +1,24 @@
+---
+product_id: "56288"
+digistore24_product_id: 684471
+title: "E-Mail Marketing Sofortstart - Freebie"
+vendor: "MoneyCreators"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 56
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://affiliate-macher.de/freebie-ebook?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliate-macher.de/freebie-ebook"
+language: "de"
+---
 # E-Mail Marketing Sofortstart - Freebie
 
 > Product ID `56288` · Digistore24 productId `684471` · [HTML profile page](../../produkte/e-mail-marketing-sofortstart-freebie-56288.html)

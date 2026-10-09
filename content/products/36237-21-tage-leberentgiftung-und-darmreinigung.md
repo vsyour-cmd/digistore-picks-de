@@ -1,3 +1,24 @@
+---
+product_id: "36237"
+digistore24_product_id: 352602
+title: "21-Tage Leberentgiftung und Darmreinigung"
+vendor: "digicube"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/?aff=adminstore#aff=adminstore"
+sales_page: "https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/"
+language: "de"
+---
 # 21-Tage Leberentgiftung und Darmreinigung
 
 > Product ID `36237` · Digistore24 productId `352602` · [HTML profile page](../../produkte/21-tage-leberentgiftung-und-darmreinigung-36237.html)

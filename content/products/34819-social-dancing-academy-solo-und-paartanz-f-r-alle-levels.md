@@ -1,3 +1,24 @@
+---
+product_id: "34819"
+digistore24_product_id: 536805
+title: "Social Dancing Academy - Solo- und Paartanz für alle Levels"
+vendor: "DadoIbrakovic"
+product_type: "Member area and video courses"
+price: 138.62
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 102.92
+cart_conversion_pct: 21
+cancel_rate_pct: 4.21
+categories: ["Dancing & Music"]
+listed_since: "2024-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://socialdancingacademy.com/preise/?aff=adminstore#aff=adminstore"
+sales_page: "https://socialdancingacademy.com/preise/"
+language: "de"
+---
 # Social Dancing Academy - Solo- und Paartanz für alle Levels
 
 > Product ID `34819` · Digistore24 productId `536805` · [HTML profile page](../../produkte/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html)

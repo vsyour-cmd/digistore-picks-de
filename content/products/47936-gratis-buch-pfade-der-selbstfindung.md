@@ -1,3 +1,24 @@
+---
+product_id: "47936"
+digistore24_product_id: 549810
+title: "Gratis Buch: Pfade der Selbstfindung"
+vendor: "coachingtrip"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.43
+cart_conversion_pct: 28
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://coachingtrip.de/pfade-der-selbstfindung-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://coachingtrip.de/pfade-der-selbstfindung-ebook/"
+language: "de"
+---
 # Gratis Buch: Pfade der Selbstfindung
 
 > Product ID `47936` · Digistore24 productId `549810` · [HTML profile page](../../produkte/gratis-buch-pfade-der-selbstfindung-47936.html)

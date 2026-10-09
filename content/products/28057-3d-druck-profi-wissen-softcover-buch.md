@@ -1,3 +1,24 @@
+---
+product_id: "28057"
+digistore24_product_id: 254355
+title: "3D-Druck Profi-Wissen Softcover Buch"
+vendor: "Johannes-Lutz"
+product_type: "Book (printed)"
+price: 40.72
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 6.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2018-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.buch.3ddruck-wissen.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.buch.3ddruck-wissen.de/"
+language: "de"
+---
 # 3D-Druck Profi-Wissen Softcover Buch
 
 > Product ID `28057` · Digistore24 productId `254355` · [HTML profile page](../../produkte/3d-druck-profi-wissen-softcover-buch-28057.html)

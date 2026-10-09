@@ -1,3 +1,24 @@
+---
+product_id: "56436"
+digistore24_product_id: 689630
+title: "Ebook - Frei durch Verzicht"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689630?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689630"
+language: "de"
+---
 # Ebook - Frei durch Verzicht
 
 > Product ID `56436` · Digistore24 productId `689630` · [HTML profile page](../../produkte/ebook-frei-durch-verzicht-56436.html)

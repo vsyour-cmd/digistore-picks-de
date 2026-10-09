@@ -1,3 +1,24 @@
+---
+product_id: "50575"
+digistore24_product_id: 575187
+title: "Expertenleitfaden Revolutionäre Highspeed Methode"
+vendor: "CYCROPIA"
+product_type: "E-books"
+price: 62.51
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/575187?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/575187"
+language: "de"
+---
 # Expertenleitfaden Revolutionäre Highspeed Methode
 
 > Product ID `50575` · Digistore24 productId `575187` · [HTML profile page](../../produkte/expertenleitfaden-revolution-re-highspeed-methode-50575.html)

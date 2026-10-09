@@ -1,3 +1,24 @@
+---
+product_id: "58825"
+digistore24_product_id: 470189
+title: "5 Affiliate-Programme im Praxischeck"
+vendor: "HB1976"
+product_type: "E-books"
+price: 17.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affilifuchs.de/insider-report-lp/?aff=adminstore#aff=adminstore"
+sales_page: "https://affilifuchs.de/insider-report-lp/"
+language: "de"
+---
 # 5 Affiliate-Programme im Praxischeck
 
 > Product ID `58825` · Digistore24 productId `470189` · [HTML profile page](../../produkte/5-affiliate-programme-im-praxischeck-58825.html)

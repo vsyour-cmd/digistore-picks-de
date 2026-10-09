@@ -1,3 +1,24 @@
+---
+product_id: "54464"
+digistore24_product_id: 641627
+title: "Strategie + überzeugende Worte Paket"
+vendor: "AffiliForge"
+product_type: "Member area and video courses"
+price: 2.45
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.94
+cart_conversion_pct: 18
+cancel_rate_pct: 2.71
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://affiliforge.net/Strategie-Paket?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliforge.net/Strategie-Paket"
+language: "de"
+---
 # Strategie + überzeugende Worte Paket
 
 > Product ID `54464` · Digistore24 productId `641627` · [HTML profile page](../../produkte/strategie-berzeugende-worte-paket-54464.html)

@@ -1,3 +1,24 @@
+---
+product_id: "29763"
+digistore24_product_id: 282703
+title: "Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs"
+vendor: "ZartesGlueck"
+product_type: "Remote service provided electronically"
+price: 63.92
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 15.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2019-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/?aff=adminstore#aff=adminstore"
+sales_page: "https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/"
+language: "de"
+---
 # Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs
 
 > Product ID `29763` · Digistore24 productId `282703` · [HTML profile page](../../produkte/erste-hilfe-am-kind-kurs-f-r-zuhause-und-unterwegs-29763.html)

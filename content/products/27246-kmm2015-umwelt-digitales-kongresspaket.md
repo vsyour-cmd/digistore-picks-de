@@ -1,3 +1,24 @@
+---
+product_id: "27246"
+digistore24_product_id: 83257
+title: "KMM2015 Umwelt - Digitales Kongresspaket"
+vendor: "AMMSpitz"
+product_type: "Member area and video courses"
+price: 75.18
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 33.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2016-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-umwelt/?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-umwelt/"
+language: "de"
+---
 # KMM2015 Umwelt - Digitales Kongresspaket
 
 > Product ID `27246` · Digistore24 productId `83257` · [HTML profile page](../../produkte/kmm2015-umwelt-digitales-kongresspaket-27246.html)

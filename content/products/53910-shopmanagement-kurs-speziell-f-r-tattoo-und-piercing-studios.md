@@ -1,3 +1,24 @@
+---
+product_id: "53910"
+digistore24_product_id: 609856
+title: "Shopmanagement-Kurs speziell für Tattoo und Piercing Studios"
+vendor: "MfL-Academy"
+product_type: "Member area and video courses"
+price: 374.94
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 56.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mfl.academy/?dig=609856&aff=adminstore#aff=adminstore"
+sales_page: "https://mfl.academy/?dig=609856"
+language: "de"
+---
 # Shopmanagement-Kurs speziell für Tattoo und Piercing Studios
 
 > Product ID `53910` · Digistore24 productId `609856` · [HTML profile page](../../produkte/shopmanagement-kurs-speziell-f-r-tattoo-und-piercing-studios-53910.html)

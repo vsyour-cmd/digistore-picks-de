@@ -1,3 +1,24 @@
+---
+product_id: "59696"
+digistore24_product_id: 649020
+title: "AI Act Starter-Kit für Arztpraxen und MVZ"
+vendor: "MindshiftDigitalStudio"
+product_type: "E-books"
+price: 103.49
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 31.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/649020?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/649020"
+language: "de"
+---
 # AI Act Starter-Kit für Arztpraxen und MVZ
 
 > Product ID `59696` · Digistore24 productId `649020` · [HTML profile page](../../produkte/ai-act-starter-kit-f-r-arztpraxen-und-mvz-59696.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52175"
+digistore24_product_id: 607788
+title: "Excel für Anfänger – verständlich, praxisnah und mit Humor"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-anfanger-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
+sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-anfanger-gaaanz-einfach-af"
+language: "de"
+---
 # Excel für Anfänger – verständlich, praxisnah und mit Humor
 
 > Product ID `52175` · Digistore24 productId `607788` · [HTML profile page](../../produkte/excel-f-r-anf-nger-verst-ndlich-praxisnah-und-mit-humor-52175.html)

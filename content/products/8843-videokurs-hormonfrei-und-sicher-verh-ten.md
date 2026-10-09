@@ -1,3 +1,24 @@
+---
+product_id: "8843"
+digistore24_product_id: 59979
+title: "Videokurs - Hormonfrei und Sicher Verhüten"
+vendor: "wombaider"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 56.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2015-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hormonfreiundsicher.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://hormonfreiundsicher.com/"
+language: "de"
+---
 # Videokurs - Hormonfrei und Sicher Verhüten
 
 > Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../produkte/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)

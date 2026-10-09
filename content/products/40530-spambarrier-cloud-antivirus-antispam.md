@@ -1,3 +1,24 @@
+---
+product_id: "40530"
+digistore24_product_id: 449534
+title: "Spambarrier Cloud Antivirus / Antispam"
+vendor: "huestel"
+product_type: "Remote service provided electronically"
+price: 62.42
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.51
+cart_conversion_pct: 26
+cancel_rate_pct: 1.58
+categories: ["Software"]
+listed_since: "2022-07-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://blog.spambarrier.de/spambarrier-pro-im-jahrespaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://blog.spambarrier.de/spambarrier-pro-im-jahrespaket/"
+language: "de"
+---
 # Spambarrier Cloud Antivirus / Antispam
 
 > Product ID `40530` · Digistore24 productId `449534` · [HTML profile page](../../produkte/spambarrier-cloud-antivirus-antispam-40530.html)

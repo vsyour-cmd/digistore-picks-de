@@ -1,3 +1,24 @@
+---
+product_id: "47973"
+digistore24_product_id: 550042
+title: "Social Media Erfolg - Die 15 besten Strategien"
+vendor: "MSchlinder"
+product_type: "Member area and video courses"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/Social-Media-Erfolg?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Social-Media-Erfolg"
+language: "de"
+---
 # Social Media Erfolg - Die 15 besten Strategien
 
 > Product ID `47973` · Digistore24 productId `550042` · [HTML profile page](../../produkte/social-media-erfolg-die-15-besten-strategien-47973.html)

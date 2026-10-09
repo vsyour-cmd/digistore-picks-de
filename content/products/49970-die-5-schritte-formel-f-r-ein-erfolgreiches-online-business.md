@@ -1,3 +1,24 @@
+---
+product_id: "49970"
+digistore24_product_id: 573766
+title: "Die 5-Schritte-Formel für ein erfolgreiches Online-Business"
+vendor: "relang"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://page.funnelcockpit.com/j5FKvmR6pyKNd9nKz?aff=adminstore#aff=adminstore"
+sales_page: "https://page.funnelcockpit.com/j5FKvmR6pyKNd9nKz"
+language: "de"
+---
 # Die 5-Schritte-Formel für ein erfolgreiches Online-Business
 
 > Product ID `49970` · Digistore24 productId `573766` · [HTML profile page](../../produkte/die-5-schritte-formel-f-r-ein-erfolgreiches-online-business-49970.html)

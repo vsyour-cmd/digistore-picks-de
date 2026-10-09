@@ -1,3 +1,24 @@
+---
+product_id: "51754"
+digistore24_product_id: 601917
+title: "eBook: Die 100 besten Facebook Tipps"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://michael-kotzur.de/die-100-besten-facebook-tipps?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-kotzur.de/die-100-besten-facebook-tipps"
+language: "de"
+---
 # eBook: Die 100 besten Facebook Tipps
 
 > Product ID `51754` · Digistore24 productId `601917` · [HTML profile page](../../produkte/ebook-die-100-besten-facebook-tipps-51754.html)

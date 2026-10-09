@@ -1,3 +1,24 @@
+---
+product_id: "59099"
+digistore24_product_id: 729754
+title: "Elterngeld-klar 2026/27 – 50 %, 39,95 € einmalig"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 41.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://elterngeld-klar.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://elterngeld-klar.pages.dev/"
+language: "de"
+---
 # Elterngeld-klar 2026/27 – 50 %, 39,95 € einmalig
 
 > Product ID `59099` · Digistore24 productId `729754` · [HTML profile page](../../produkte/elterngeld-klar-2026-27-50-39-95-einmalig-59099.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59163"
+digistore24_product_id: 707689
+title: "Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten"
+vendor: "Anha13"
+product_type: "E-books"
+price: 26.03
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/?aff=adminstore#aff=adminstore"
+sales_page: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/"
+language: "de"
+---
 # Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten
 
 > Product ID `59163` · Digistore24 productId `707689` · [HTML profile page](../../produkte/ferienwohnung-einrichten-praxiswissen-aus-ber-100-objekten-59163.html)

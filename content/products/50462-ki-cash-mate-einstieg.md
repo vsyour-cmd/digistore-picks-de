@@ -1,3 +1,24 @@
+---
+product_id: "50462"
+digistore24_product_id: 579744
+title: "KI Cash Mate Einstieg:"
+vendor: "digitalesonlinebusiness"
+product_type: "Member area and video courses"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/ki-cash-mate-einstieg/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/ki-cash-mate-einstieg/"
+language: "de"
+---
 # KI Cash Mate Einstieg:
 
 > Product ID `50462` · Digistore24 productId `579744` · [HTML profile page](../../produkte/ki-cash-mate-einstieg-50462.html)

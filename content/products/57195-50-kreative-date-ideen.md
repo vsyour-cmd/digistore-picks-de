@@ -1,3 +1,24 @@
+---
+product_id: "57195"
+digistore24_product_id: 701953
+title: "50 kreative Date-Ideen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 18.71
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/50-kreative-date-ideen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/50-kreative-date-ideen"
+language: "de"
+---
 # 50 kreative Date-Ideen
 
 > Product ID `57195` · Digistore24 productId `701953` · [HTML profile page](../../produkte/50-kreative-date-ideen-57195.html)

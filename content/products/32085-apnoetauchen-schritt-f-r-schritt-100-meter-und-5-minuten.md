@@ -1,3 +1,24 @@
+---
+product_id: "32085"
+digistore24_product_id: 314290
+title: "Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten"
+vendor: "SOjstersek"
+product_type: "E-books"
+price: 11.13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2020-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/"
+language: "de"
+---
 # Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten
 
 > Product ID `32085` · Digistore24 productId `314290` · [HTML profile page](../../produkte/apnoetauchen-schritt-f-r-schritt-100-meter-und-5-minuten-32085.html)

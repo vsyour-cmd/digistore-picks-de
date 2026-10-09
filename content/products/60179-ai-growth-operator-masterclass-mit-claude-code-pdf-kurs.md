@@ -1,3 +1,24 @@
+---
+product_id: "60179"
+digistore24_product_id: 741766
+title: "AI Growth Operator Masterclass mit Claude Code PDF-Kurs"
+vendor: "digitale24"
+product_type: "E-books"
+price: 38.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/741766?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/741766"
+language: "de"
+---
 # AI Growth Operator Masterclass mit Claude Code PDF-Kurs
 
 > Product ID `60179` · Digistore24 productId `741766` · [HTML profile page](../../produkte/ai-growth-operator-masterclass-mit-claude-code-pdf-kurs-60179.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50225"
+digistore24_product_id: 633125
+title: "Photoshop CC Komplettkurs"
+vendor: "AndreasLang"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Photography & Film"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/633125?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/633125"
+language: "de"
+---
 # Photoshop CC Komplettkurs
 
 > Product ID `50225` · Digistore24 productId `633125` · [HTML profile page](../../produkte/photoshop-cc-komplettkurs-50225.html)

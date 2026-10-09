@@ -1,3 +1,24 @@
+---
+product_id: "55969"
+digistore24_product_id: 676766
+title: "PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision"
+vendor: "PRIXUS-UG"
+product_type: "Software"
+price: 375.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 112.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software"]
+listed_since: "2026-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/676766?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/676766"
+language: "de"
+---
 # PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision
 
 > Product ID `55969` · Digistore24 productId `676766` · [HTML profile page](../../produkte/prixus-callbutler-ki-telefonassistent-f-r-unternehmen-30-provision-55969.html)

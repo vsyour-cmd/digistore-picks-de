@@ -1,3 +1,24 @@
+---
+product_id: "30110"
+digistore24_product_id: 288273
+title: "Buch Fremdbestimmt"
+vendor: "VFFW-Verlag"
+product_type: "Book (printed)"
+price: 23
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2019-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://www.fremdbestimmt.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.fremdbestimmt.com"
+language: "de"
+---
 # Buch Fremdbestimmt
 
 > Product ID `30110` · Digistore24 productId `288273` · [HTML profile page](../../produkte/buch-fremdbestimmt-30110.html)

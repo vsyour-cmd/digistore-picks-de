@@ -1,3 +1,24 @@
+---
+product_id: "46475"
+digistore24_product_id: 529089
+title: "Affiliate Marketing - Was ist das? (Freebie)"
+vendor: "Plebvin"
+product_type: "Member area and video courses"
+price: 0.63
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.04
+cart_conversion_pct: 16
+cancel_rate_pct: 2.86
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2023-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kb-om.com/affiliate-marketing-was-ist-das-ds24/?aff=adminstore#aff=adminstore"
+sales_page: "https://kb-om.com/affiliate-marketing-was-ist-das-ds24/"
+language: "de"
+---
 # Affiliate Marketing - Was ist das? (Freebie)
 
 > Product ID `46475` · Digistore24 productId `529089` · [HTML profile page](../../produkte/affiliate-marketing-was-ist-das-freebie-46475.html)

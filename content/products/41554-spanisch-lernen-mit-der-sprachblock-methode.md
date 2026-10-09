@@ -1,3 +1,24 @@
+---
+product_id: "41554"
+digistore24_product_id: 187753
+title: "Spanisch lernen mit der Sprachblock-Methode"
+vendor: "Sprachheld"
+product_type: "Member area and video courses"
+price: 135.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.44
+cart_conversion_pct: 6
+cancel_rate_pct: 13.91
+categories: ["Languages"]
+listed_since: "2017-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sprachheld.de/spanisch-challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sprachheld.de/spanisch-challenge/"
+language: "de"
+---
 # Spanisch lernen mit der Sprachblock-Methode
 
 > Product ID `41554` · Digistore24 productId `187753` · [HTML profile page](../../produkte/spanisch-lernen-mit-der-sprachblock-methode-41554.html)

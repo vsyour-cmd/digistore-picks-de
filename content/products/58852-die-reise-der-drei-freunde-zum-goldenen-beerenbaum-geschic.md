@@ -1,3 +1,24 @@
+---
+product_id: "58852"
+digistore24_product_id: 727079
+title: "Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727079?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727079"
+language: "de"
+---
 # Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic
 
 > Product ID `58852` · Digistore24 productId `727079` · [HTML profile page](../../produkte/die-reise-der-drei-freunde-zum-goldenen-beerenbaum-geschic-58852.html)

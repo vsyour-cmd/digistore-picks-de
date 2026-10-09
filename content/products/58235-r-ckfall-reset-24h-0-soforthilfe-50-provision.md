@@ -1,3 +1,24 @@
+---
+product_id: "58235"
+digistore24_product_id: 717825
+title: "Rückfall-Reset 24h – 0 € Soforthilfe + 50 % Provision"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nichtraucherzone.de/rueckfall-reset-24-stunden-plan/?aff=adminstore#aff=adminstore"
+sales_page: "https://nichtraucherzone.de/rueckfall-reset-24-stunden-plan/"
+language: "de"
+---
 # Rückfall-Reset 24h – 0 € Soforthilfe + 50 % Provision
 
 > Product ID `58235` · Digistore24 productId `717825` · [HTML profile page](../../produkte/r-ckfall-reset-24h-0-soforthilfe-50-provision-58235.html)

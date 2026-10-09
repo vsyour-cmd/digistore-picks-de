@@ -1,3 +1,24 @@
+---
+product_id: "54153"
+digistore24_product_id: 637487
+title: "Einschlafprobleme Ade: Endlich einschlafen und durchschlafen"
+vendor: "FreedomBusinessSH3"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Profession & Job"]
+listed_since: "2025-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.schlafen-tipps.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.schlafen-tipps.de/"
+language: "de"
+---
 # Einschlafprobleme Ade: Endlich einschlafen und durchschlafen
 
 > Product ID `54153` · Digistore24 productId `637487` · [HTML profile page](../../produkte/einschlafprobleme-ade-endlich-einschlafen-und-durchschlafen-54153.html)

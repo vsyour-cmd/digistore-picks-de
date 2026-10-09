@@ -1,3 +1,24 @@
+---
+product_id: "36911"
+digistore24_product_id: 391150
+title: "\"Die 5 Erfolgsprinzipien\" - neues Buch von Benedikt Ahlfeld"
+vendor: "trafficoftrust"
+product_type: "Book (printed)"
+price: 8.58
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 0.01
+cart_conversion_pct: 28
+cancel_rate_pct: 0.41
+categories: ["Personal Development"]
+listed_since: "2021-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch"
+language: "de"
+---
 # "Die 5 Erfolgsprinzipien" - neues Buch von Benedikt Ahlfeld
 
 > Product ID `36911` · Digistore24 productId `391150` · [HTML profile page](../../produkte/die-5-erfolgsprinzipien-neues-buch-von-benedikt-ahlfeld-36911.html)

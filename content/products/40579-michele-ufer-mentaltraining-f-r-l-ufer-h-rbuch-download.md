@@ -1,3 +1,24 @@
+---
+product_id: "40579"
+digistore24_product_id: 451371
+title: "Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download"
+vendor: "isidde"
+product_type: "Audio book (download)"
+price: 22.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2022-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/"
+language: "de"
+---
 # Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download
 
 > Product ID `40579` · Digistore24 productId `451371` · [HTML profile page](../../produkte/michele-ufer-mentaltraining-f-r-l-ufer-h-rbuch-download-40579.html)

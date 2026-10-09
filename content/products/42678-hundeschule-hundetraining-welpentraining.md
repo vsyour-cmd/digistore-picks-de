@@ -1,3 +1,24 @@
+---
+product_id: "42678"
+digistore24_product_id: 479678
+title: "Hundeschule / Hundetraining - Welpentraining"
+vendor: "frohehunde"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2023-01-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://frohehunde.de/welpentraining/?aff=adminstore#aff=adminstore"
+sales_page: "https://frohehunde.de/welpentraining/"
+language: "de"
+---
 # Hundeschule / Hundetraining - Welpentraining
 
 > Product ID `42678` · Digistore24 productId `479678` · [HTML profile page](../../produkte/hundeschule-hundetraining-welpentraining-42678.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57847"
+digistore24_product_id: 714309
+title: "Bodyline"
+vendor: "Novaris_web"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://novaris.de.cool/bodyline.php?aff=adminstore#aff=adminstore"
+sales_page: "https://novaris.de.cool/bodyline.php"
+language: "de"
+---
 # Bodyline
 
 > Product ID `57847` · Digistore24 productId `714309` · [HTML profile page](../../produkte/bodyline-57847.html)

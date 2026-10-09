@@ -1,3 +1,24 @@
+---
+product_id: "57448"
+digistore24_product_id: 589645
+title: "Fumarexin® Partnereintrag für Therapeuten"
+vendor: "Heike1704"
+product_type: "Remote service provided electronically"
+price: 141
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 35.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/589645?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/589645"
+language: "de"
+---
 # Fumarexin® Partnereintrag für Therapeuten
 
 > Product ID `57448` · Digistore24 productId `589645` · [HTML profile page](../../produkte/fumarexin-partnereintrag-f-r-therapeuten-57448.html)

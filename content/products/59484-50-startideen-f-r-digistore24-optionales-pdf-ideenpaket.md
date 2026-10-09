@@ -1,3 +1,24 @@
+---
+product_id: "59484"
+digistore24_product_id: 735787
+title: "50 Startideen für Digistore24 - optionales PDF-Ideenpaket"
+vendor: "einfachmitmatze"
+product_type: "E-books"
+price: 10.45
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://einfachmitmatze.de/digistore24/50-startideen/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/digistore24/50-startideen/"
+language: "de"
+---
 # 50 Startideen für Digistore24 - optionales PDF-Ideenpaket
 
 > Product ID `59484` · Digistore24 productId `735787` · [HTML profile page](../../produkte/50-startideen-f-r-digistore24-optionales-pdf-ideenpaket-59484.html)

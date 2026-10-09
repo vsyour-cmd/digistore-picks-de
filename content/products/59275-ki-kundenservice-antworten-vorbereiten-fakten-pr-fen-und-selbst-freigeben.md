@@ -1,3 +1,24 @@
+---
+product_id: "59275"
+digistore24_product_id: 733944
+title: "KI-Kundenservice: Antworten vorbereiten, Fakten prüfen und selbst freigeben"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job","Services"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://einfachmitmatze.de/ki-kundenservice/?aff=adminstore#aff=adminstore"
+sales_page: "https://einfachmitmatze.de/ki-kundenservice/"
+language: "de"
+---
 # KI-Kundenservice: Antworten vorbereiten, Fakten prüfen und selbst freigeben
 
 > Product ID `59275` · Digistore24 productId `733944` · [HTML profile page](../../produkte/ki-kundenservice-antworten-vorbereiten-fakten-pr-fen-und-selbst-freigeben-59275.html)

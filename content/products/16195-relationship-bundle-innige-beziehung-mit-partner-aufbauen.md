@@ -1,3 +1,24 @@
+---
+product_id: "16195"
+digistore24_product_id: 116849
+title: "Relationship Bundle – Innige Beziehung mit Partner aufbauen"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2017-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/relationship-bundle/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/relationship-bundle/"
+language: "de"
+---
 # Relationship Bundle – Innige Beziehung mit Partner aufbauen
 
 > Product ID `16195` · Digistore24 productId `116849` · [HTML profile page](../../produkte/relationship-bundle-innige-beziehung-mit-partner-aufbauen-16195.html)

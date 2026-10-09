@@ -1,3 +1,24 @@
+---
+product_id: "58895"
+digistore24_product_id: 727548
+title: "Nährstoffbereit vor der Schwangerschaft"
+vendor: "vorbereitet-schwanger"
+product_type: "E-books"
+price: 36.49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 14.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vorbereitet-schwanger.de/naehrstoffbereit/?aff=adminstore#aff=adminstore"
+sales_page: "https://vorbereitet-schwanger.de/naehrstoffbereit/"
+language: "de"
+---
 # Nährstoffbereit vor der Schwangerschaft
 
 > Product ID `58895` · Digistore24 productId `727548` · [HTML profile page](../../produkte/n-hrstoffbereit-vor-der-schwangerschaft-58895.html)

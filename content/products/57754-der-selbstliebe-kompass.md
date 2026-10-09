@@ -1,3 +1,24 @@
+---
+product_id: "57754"
+digistore24_product_id: 713293
+title: "Der Selbstliebe-Kompass"
+vendor: "GoodLifeHarmony"
+product_type: "Downloads"
+price: 17.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713293?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713293"
+language: "de"
+---
 # Der Selbstliebe-Kompass
 
 > Product ID `57754` · Digistore24 productId `713293` · [HTML profile page](../../produkte/der-selbstliebe-kompass-57754.html)

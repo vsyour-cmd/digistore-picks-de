@@ -1,3 +1,24 @@
+---
+product_id: "56691"
+digistore24_product_id: 694165
+title: "Hidden Cash System"
+vendor: "hidden-marketer"
+product_type: "Member area and video courses"
+price: 444.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 222.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hidden-marketer.de/start/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hidden-marketer.de/start/"
+language: "de"
+---
 # Hidden Cash System
 
 > Product ID `56691` · Digistore24 productId `694165` · [HTML profile page](../../produkte/hidden-cash-system-56691.html)

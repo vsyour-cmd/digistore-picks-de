@@ -1,3 +1,24 @@
+---
+product_id: "53939"
+digistore24_product_id: 634063
+title: "30-Tage Keto-Plan für Einsteiger – 60% Provision"
+vendor: "Hei-Mel"
+product_type: "E-books"
+price: 10.4
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+sales_page: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/"
+language: "de"
+---
 # 30-Tage Keto-Plan für Einsteiger – 60% Provision
 
 > Product ID `53939` · Digistore24 productId `634063` · [HTML profile page](../../produkte/30-tage-keto-plan-f-r-einsteiger-60-provision-53939.html)

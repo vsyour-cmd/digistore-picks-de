@@ -1,3 +1,24 @@
+---
+product_id: "10643"
+digistore24_product_id: 72695
+title: "Online-Kurs \" Liebe - von Herzen gern!\""
+vendor: "Quanten-Resonanz"
+product_type: "Downloads"
+price: 94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2016-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://quantenresonanz.de/liebe-von-herzen-gern-nw/?aff=adminstore#aff=adminstore"
+sales_page: "https://quantenresonanz.de/liebe-von-herzen-gern-nw/"
+language: "de"
+---
 # Online-Kurs " Liebe - von Herzen gern!"
 
 > Product ID `10643` · Digistore24 productId `72695` · [HTML profile page](../../produkte/online-kurs-liebe-von-herzen-gern-10643.html)

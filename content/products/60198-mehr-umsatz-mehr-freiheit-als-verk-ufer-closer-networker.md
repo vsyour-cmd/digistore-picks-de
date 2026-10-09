@@ -1,3 +1,24 @@
+---
+product_id: "60198"
+digistore24_product_id: 739379
+title: "Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker"
+vendor: "Leonard_Probst"
+product_type: "Member area and video courses"
+price: 279.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 167.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Profession & Job"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://akademie.leonardprobst.com/top-performer-protocol?aff=adminstore#aff=adminstore"
+sales_page: "https://akademie.leonardprobst.com/top-performer-protocol"
+language: "de"
+---
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
 > Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../produkte/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)

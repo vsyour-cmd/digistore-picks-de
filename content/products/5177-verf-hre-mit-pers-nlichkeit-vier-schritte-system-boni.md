@@ -1,3 +1,24 @@
+---
+product_id: "5177"
+digistore24_product_id: 31479
+title: "Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni"
+vendor: "MarkLambert"
+product_type: "E-books"
+price: 61.78
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 26.5
+cart_conversion_pct: 28
+cancel_rate_pct: 4.89
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2014-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/"
+language: "de"
+---
 # Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni
 
 > Product ID `5177` · Digistore24 productId `31479` · [HTML profile page](../../produkte/verf-hre-mit-pers-nlichkeit-vier-schritte-system-boni-5177.html)

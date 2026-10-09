@@ -1,3 +1,24 @@
+---
+product_id: "38800"
+digistore24_product_id: 405502
+title: "Affirmationen zur Geburt - Ebook und Audiodatei"
+vendor: "KTolle"
+product_type: "Downloads"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2021-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/?aff=adminstore#aff=adminstore"
+sales_page: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/"
+language: "de"
+---
 # Affirmationen zur Geburt - Ebook und Audiodatei
 
 > Product ID `38800` · Digistore24 productId `405502` · [HTML profile page](../../produkte/affirmationen-zur-geburt-ebook-und-audiodatei-38800.html)

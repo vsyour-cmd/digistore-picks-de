@@ -1,3 +1,24 @@
+---
+product_id: "59418"
+digistore24_product_id: 735217
+title: "Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision"
+vendor: "DerPate"
+product_type: "Downloads"
+price: 37.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://meinevorlagenkiste.de/hochzeitsplaner/?aff=adminstore#aff=adminstore"
+sales_page: "https://meinevorlagenkiste.de/hochzeitsplaner/"
+language: "de"
+---
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
 > Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../produkte/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)

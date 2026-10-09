@@ -1,3 +1,24 @@
+---
+product_id: "36700"
+digistore24_product_id: 357627
+title: "Schutz vor Organspende in Österreich"
+vendor: "Organia"
+product_type: "Deliverable"
+price: 25.47
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-11-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.organspende-ablehnen.at/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.organspende-ablehnen.at/"
+language: "de"
+---
 # Schutz vor Organspende in Österreich
 
 > Product ID `36700` · Digistore24 productId `357627` · [HTML profile page](../../produkte/schutz-vor-organspende-in-sterreich-36700.html)

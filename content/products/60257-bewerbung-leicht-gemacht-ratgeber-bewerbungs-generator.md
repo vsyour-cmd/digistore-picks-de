@@ -1,3 +1,24 @@
+---
+product_id: "60257"
+digistore24_product_id: 740689
+title: "Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator"
+vendor: "ratgeberleichtgemacht"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740689?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740689"
+language: "de"
+---
 # Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
 
 > Product ID `60257` · Digistore24 productId `740689` · [HTML profile page](../../produkte/bewerbung-leicht-gemacht-ratgeber-bewerbungs-generator-60257.html)

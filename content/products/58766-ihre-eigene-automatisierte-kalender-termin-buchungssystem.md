@@ -1,3 +1,24 @@
+---
+product_id: "58766"
+digistore24_product_id: 726452
+title: "Ihre eigene automatisierte Kalender  \"Termin Buchungssystem\""
+vendor: "Skenteridis"
+product_type: "Remote service provided electronically"
+price: 503.37
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 151.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Marketing Services"]
+listed_since: "2026-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/"
+language: "de"
+---
 # Ihre eigene automatisierte Kalender  "Termin Buchungssystem"
 
 > Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../produkte/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)

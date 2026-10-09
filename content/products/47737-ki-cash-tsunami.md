@@ -1,3 +1,24 @@
+---
+product_id: "47737"
+digistore24_product_id: 542601
+title: "KI CASH TSUNAMI"
+vendor: "Spekulatius"
+product_type: "Member area and video courses"
+price: 53.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/"
+language: "de"
+---
 # KI CASH TSUNAMI
 
 > Product ID `47737` · Digistore24 productId `542601` · [HTML profile page](../../produkte/ki-cash-tsunami-47737.html)

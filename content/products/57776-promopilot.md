@@ -1,3 +1,24 @@
+---
+product_id: "57776"
+digistore24_product_id: 715442
+title: "PromoPilot"
+vendor: "MoneyCreators"
+product_type: "Member area and video courses"
+price: 155.11
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 62.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://promopilot.at/salesbasic3?aff=adminstore#aff=adminstore"
+sales_page: "https://promopilot.at/salesbasic3"
+language: "de"
+---
 # PromoPilot
 
 > Product ID `57776` · Digistore24 productId `715442` · [HTML profile page](../../produkte/promopilot-57776.html)

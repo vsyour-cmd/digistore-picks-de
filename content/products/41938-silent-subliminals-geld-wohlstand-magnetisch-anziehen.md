@@ -1,3 +1,24 @@
+---
+product_id: "41938"
+digistore24_product_id: 421450
+title: "Silent Subliminals Geld - Wohlstand magnetisch anziehen"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Business & Investment"]
+listed_since: "2021-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-geld/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-geld/"
+language: "de"
+---
 # Silent Subliminals Geld - Wohlstand magnetisch anziehen
 
 > Product ID `41938` · Digistore24 productId `421450` · [HTML profile page](../../produkte/silent-subliminals-geld-wohlstand-magnetisch-anziehen-41938.html)

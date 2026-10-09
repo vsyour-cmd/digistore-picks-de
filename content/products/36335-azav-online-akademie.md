@@ -1,3 +1,24 @@
+---
+product_id: "36335"
+digistore24_product_id: 381027
+title: "AZAV Online-Akademie"
+vendor: "UrsulaWienken"
+product_type: "Webinar"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 56.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2021-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore"
+sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/"
+language: "de"
+---
 # AZAV Online-Akademie
 
 > Product ID `36335` · Digistore24 productId `381027` · [HTML profile page](../../produkte/azav-online-akademie-36335.html)

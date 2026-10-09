@@ -1,3 +1,24 @@
+---
+product_id: "39889"
+digistore24_product_id: 427776
+title: "Premium Tradingservice - DAX Professional - Partnerprogramm"
+vendor: "Geldgeheimnisse"
+product_type: "Telephone coaching"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2022-02-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://torstenwiese.com/dax-pro/?aff=adminstore#aff=adminstore"
+sales_page: "https://torstenwiese.com/dax-pro/"
+language: "de"
+---
 # Premium Tradingservice - DAX Professional - Partnerprogramm
 
 > Product ID `39889` · Digistore24 productId `427776` · [HTML profile page](../../produkte/premium-tradingservice-dax-professional-partnerprogramm-39889.html)

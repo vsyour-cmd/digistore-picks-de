@@ -1,3 +1,24 @@
+---
+product_id: "58909"
+digistore24_product_id: 729722
+title: "Verstehen statt Verurteilen Authismus"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Leadership & Management"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729722?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729722"
+language: "de"
+---
 # Verstehen statt Verurteilen Authismus
 
 > Product ID `58909` · Digistore24 productId `729722` · [HTML profile page](../../produkte/verstehen-statt-verurteilen-authismus-58909.html)

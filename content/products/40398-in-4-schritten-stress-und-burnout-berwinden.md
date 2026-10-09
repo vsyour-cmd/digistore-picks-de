@@ -1,3 +1,24 @@
+---
+product_id: "40398"
+digistore24_product_id: 444098
+title: "In 4 Schritten Stress und Burnout überwinden"
+vendor: "Vkleber"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 4.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2022-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.beratung-therapie.de/168-0-4-Schritte-gegen-Stress-und-Burnout.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.beratung-therapie.de/168-0-4-Schritte-gegen-Stress-und-Burnout.html"
+language: "de"
+---
 # In 4 Schritten Stress und Burnout überwinden
 
 > Product ID `40398` · Digistore24 productId `444098` · [HTML profile page](../../produkte/in-4-schritten-stress-und-burnout-berwinden-40398.html)

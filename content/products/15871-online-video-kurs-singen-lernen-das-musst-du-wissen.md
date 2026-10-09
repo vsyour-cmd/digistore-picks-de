@@ -1,3 +1,24 @@
+---
+product_id: "15871"
+digistore24_product_id: 130059
+title: "Online-Video-Kurs \"Singen lernen - Das musst Du wissen\""
+vendor: "isidde"
+product_type: "Downloads"
+price: 103.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 51.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2017-04-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/"
+language: "de"
+---
 # Online-Video-Kurs "Singen lernen - Das musst Du wissen"
 
 > Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../produkte/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)

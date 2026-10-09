@@ -1,3 +1,24 @@
+---
+product_id: "29962"
+digistore24_product_id: 296282
+title: "Sisers Stretching - Stretchingprogramm für Tänzer"
+vendor: "Sisers-Stretching"
+product_type: "Member area and video courses"
+price: 360.85
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 4.75
+cart_conversion_pct: 35
+cancel_rate_pct: 0.53
+categories: ["Sport"]
+listed_since: "2019-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sisers-stretching.at/stretching-programm/?aff=adminstore#aff=adminstore"
+sales_page: "https://sisers-stretching.at/stretching-programm/"
+language: "de"
+---
 # Sisers Stretching - Stretchingprogramm für Tänzer
 
 > Product ID `29962` · Digistore24 productId `296282` · [HTML profile page](../../produkte/sisers-stretching-stretchingprogramm-f-r-t-nzer-29962.html)

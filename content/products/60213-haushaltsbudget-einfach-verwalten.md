@@ -1,3 +1,24 @@
+---
+product_id: "60213"
+digistore24_product_id: 742310
+title: "Haushaltsbudget einfach verwalten"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 12.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Family & Children","Personal Development"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742310?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742310"
+language: "de"
+---
 # Haushaltsbudget einfach verwalten
 
 > Product ID `60213` · Digistore24 productId `742310` · [HTML profile page](../../produkte/haushaltsbudget-einfach-verwalten-60213.html)

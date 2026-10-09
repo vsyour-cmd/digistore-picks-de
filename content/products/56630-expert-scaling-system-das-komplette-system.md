@@ -1,3 +1,24 @@
+---
+product_id: "56630"
+digistore24_product_id: 623140
+title: "Expert Scaling System — Das komplette System"
+vendor: "rrwenda"
+product_type: "Member area and video courses"
+price: 1442.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 721.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/623140?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/623140"
+language: "de"
+---
 # Expert Scaling System — Das komplette System
 
 > Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../produkte/expert-scaling-system-das-komplette-system-56630.html)

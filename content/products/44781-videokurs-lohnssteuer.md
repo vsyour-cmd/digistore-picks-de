@@ -1,3 +1,24 @@
+---
+product_id: "44781"
+digistore24_product_id: 466090
+title: "Videokurs: Lohnssteuer"
+vendor: "Steinkellner"
+product_type: "Member area and video courses"
+price: 27.26
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 21.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2022-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.lern-impuls.at/lohnsteuer/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lern-impuls.at/lohnsteuer/"
+language: "de"
+---
 # Videokurs: Lohnssteuer
 
 > Product ID `44781` · Digistore24 productId `466090` · [HTML profile page](../../produkte/videokurs-lohnssteuer-44781.html)

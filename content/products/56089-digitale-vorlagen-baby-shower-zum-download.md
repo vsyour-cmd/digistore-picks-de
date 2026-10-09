@@ -1,3 +1,24 @@
+---
+product_id: "56089"
+digistore24_product_id: 680026
+title: "Digitale Vorlagen Baby Shower zum Download"
+vendor: "martinakocyigit2025"
+product_type: "Downloads"
+price: 6.58
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-03-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/680026?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/680026"
+language: "de"
+---
 # Digitale Vorlagen Baby Shower zum Download
 
 > Product ID `56089` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlagen-baby-shower-zum-download-56089.html)

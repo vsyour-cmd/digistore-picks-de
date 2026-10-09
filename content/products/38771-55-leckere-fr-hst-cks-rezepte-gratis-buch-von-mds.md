@@ -1,3 +1,24 @@
+---
+product_id: "38771"
+digistore24_product_id: 422571
+title: "55 leckere Frühstücks-Rezepte Gratis Buch von MDS"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 31.76
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 27.09
+cart_conversion_pct: 30
+cancel_rate_pct: 12.45
+categories: ["Food & Drink"]
+listed_since: "2021-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/?aff=adminstore#aff=adminstore"
+sales_page: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/"
+language: "de"
+---
 # 55 leckere Frühstücks-Rezepte Gratis Buch von MDS
 
 > Product ID `38771` · Digistore24 productId `422571` · [HTML profile page](../../produkte/55-leckere-fr-hst-cks-rezepte-gratis-buch-von-mds-38771.html)

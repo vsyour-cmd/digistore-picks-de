@@ -1,3 +1,24 @@
+---
+product_id: "25874"
+digistore24_product_id: 295916
+title: "Energetisch Geistige Wirbelsäulentherapie"
+vendor: "reichl"
+product_type: "Downloads"
+price: 201.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 100.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2019-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.energy-healing.bayern/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.energy-healing.bayern/"
+language: "de"
+---
 # Energetisch Geistige Wirbelsäulentherapie
 
 > Product ID `25874` · Digistore24 productId `295916` · [HTML profile page](../../produkte/energetisch-geistige-wirbels-ulentherapie-25874.html)

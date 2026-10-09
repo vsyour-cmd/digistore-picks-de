@@ -1,3 +1,24 @@
+---
+product_id: "41720"
+digistore24_product_id: 466269
+title: "Energiekosten um bis zu 53,7% senken - ABO Provision!"
+vendor: "monetenwissen"
+product_type: "E-books"
+price: 22.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.47
+cart_conversion_pct: 19
+cancel_rate_pct: 2.66
+categories: ["Family & Children"]
+listed_since: "2022-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://moneten-wissen.de/geld-sparen-inflation/?aff=adminstore#aff=adminstore"
+sales_page: "https://moneten-wissen.de/geld-sparen-inflation/"
+language: "de"
+---
 # Energiekosten um bis zu 53,7% senken - ABO Provision!
 
 > Product ID `41720` · Digistore24 productId `466269` · [HTML profile page](../../produkte/energiekosten-um-bis-zu-53-7-senken-abo-provision-41720.html)

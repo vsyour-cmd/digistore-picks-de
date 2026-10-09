@@ -1,3 +1,24 @@
+---
+product_id: "57043"
+digistore24_product_id: 697892
+title: "Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung"
+vendor: "bcamp8501"
+product_type: "Member area and video courses"
+price: 329
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 65.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bauchgeburt.com/mnk/?aff=adminstore#aff=adminstore"
+sales_page: "https://bauchgeburt.com/mnk/"
+language: "de"
+---
 # Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung
 
 > Product ID `57043` · Digistore24 productId `697892` · [HTML profile page](../../produkte/mein-n-chster-kaiserschnitt-online-geburtsvorrbereitung-57043.html)

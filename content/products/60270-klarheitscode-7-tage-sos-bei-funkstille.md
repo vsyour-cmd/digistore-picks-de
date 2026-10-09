@@ -1,3 +1,24 @@
+---
+product_id: "60270"
+digistore24_product_id: 735246
+title: "Klarheitscode – 7-Tage-SOS bei Funkstille"
+vendor: "velourabelledigital"
+product_type: "Downloads"
+price: 62.98
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://klarheitscode-sos.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://klarheitscode-sos.netlify.app"
+language: "de"
+---
 # Klarheitscode – 7-Tage-SOS bei Funkstille
 
 > Product ID `60270` · Digistore24 productId `735246` · [HTML profile page](../../produkte/klarheitscode-7-tage-sos-bei-funkstille-60270.html)

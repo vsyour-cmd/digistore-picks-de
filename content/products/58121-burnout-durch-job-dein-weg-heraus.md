@@ -1,3 +1,24 @@
+---
+product_id: "58121"
+digistore24_product_id: 717922
+title: "Burnout durch Job – Dein Weg heraus"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Profession & Job","Personal Development"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/717922?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717922"
+language: "de"
+---
 # Burnout durch Job – Dein Weg heraus
 
 > Product ID `58121` · Digistore24 productId `717922` · [HTML profile page](../../produkte/burnout-durch-job-dein-weg-heraus-58121.html)

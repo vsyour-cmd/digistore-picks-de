@@ -1,3 +1,24 @@
+---
+product_id: "59740"
+digistore24_product_id: 732242
+title: "GKG-3.D Holz im Garten"
+vendor: "unew_m8"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Marketing Services"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/732242?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/732242"
+language: "de"
+---
 # GKG-3.D Holz im Garten
 
 > Product ID `59740` · Digistore24 productId `732242` · [HTML profile page](../../produkte/gkg-3-d-holz-im-garten-59740.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59372"
+digistore24_product_id: 733384
+title: "CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)"
+vendor: "lvlBoZzlvl"
+product_type: "E-books"
+price: 52.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://control-01.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://control-01.pages.dev/"
+language: "de"
+---
 # CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)
 
 > Product ID `59372` · Digistore24 productId `733384` · [HTML profile page](../../produkte/control-01-regeln-f-r-deinen-ki-agenten-control-series-59372.html)

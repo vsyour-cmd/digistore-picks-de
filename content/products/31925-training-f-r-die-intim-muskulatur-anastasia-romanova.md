@@ -1,3 +1,24 @@
+---
+product_id: "31925"
+digistore24_product_id: 309461
+title: "Training für die Intim-Muskulatur - Anastasia Romanova"
+vendor: "powerline"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 29.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powermuskel.com/produkte/vagina-training/?aff=adminstore#aff=adminstore"
+sales_page: "https://powermuskel.com/produkte/vagina-training/"
+language: "de"
+---
 # Training für die Intim-Muskulatur - Anastasia Romanova
 
 > Product ID `31925` · Digistore24 productId `309461` · [HTML profile page](../../produkte/training-f-r-die-intim-muskulatur-anastasia-romanova-31925.html)

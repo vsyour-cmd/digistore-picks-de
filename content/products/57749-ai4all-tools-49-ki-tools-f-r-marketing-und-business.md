@@ -1,3 +1,24 @@
+---
+product_id: "57749"
+digistore24_product_id: 715281
+title: "AI4ALL.tools – 49+ KI-Tools für Marketing und Business"
+vendor: "janusmarketing"
+product_type: "Member area and video courses"
+price: 270.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 135.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ai4all.tools/?aff=adminstore#aff=adminstore"
+sales_page: "https://ai4all.tools/"
+language: "de"
+---
 # AI4ALL.tools – 49+ KI-Tools für Marketing und Business
 
 > Product ID `57749` · Digistore24 productId `715281` · [HTML profile page](../../produkte/ai4all-tools-49-ki-tools-f-r-marketing-und-business-57749.html)

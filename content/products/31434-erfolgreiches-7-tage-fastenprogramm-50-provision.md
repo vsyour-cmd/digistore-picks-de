@@ -1,3 +1,24 @@
+---
+product_id: "31434"
+digistore24_product_id: 261488
+title: "Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)"
+vendor: "digicube"
+product_type: "Member area and video courses"
+price: 64.86
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lanaprinzip.com/fastenwebinar/?aff=adminstore#aff=adminstore"
+sales_page: "https://lanaprinzip.com/fastenwebinar/"
+language: "de"
+---
 # Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)
 
 > Product ID `31434` · Digistore24 productId `261488` · [HTML profile page](../../produkte/erfolgreiches-7-tage-fastenprogramm-50-provision-31434.html)

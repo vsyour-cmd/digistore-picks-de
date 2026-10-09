@@ -1,3 +1,24 @@
+---
+product_id: "51133"
+digistore24_product_id: 592109
+title: "Biz Builder Basics – Perfekter Einstieg ins Online-Business!"
+vendor: "weinand1986"
+product_type: "Member area and video courses"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michelweinand.systeme.io/bizbuilderbasics?aff=adminstore#aff=adminstore"
+sales_page: "https://michelweinand.systeme.io/bizbuilderbasics"
+language: "de"
+---
 # Biz Builder Basics – Perfekter Einstieg ins Online-Business!
 
 > Product ID `51133` · Digistore24 productId `592109` · [HTML profile page](../../produkte/biz-builder-basics-perfekter-einstieg-ins-online-business-51133.html)

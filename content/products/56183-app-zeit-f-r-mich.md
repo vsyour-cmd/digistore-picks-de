@@ -1,3 +1,24 @@
+---
+product_id: "56183"
+digistore24_product_id: 569007
+title: "APP - ZEIT FÜR MICH"
+vendor: "hh-akademie"
+product_type: "Member area and video courses"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 6.96
+cart_conversion_pct: 9
+cancel_rate_pct: 4.86
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2024-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/569007/?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/569007/"
+language: "de"
+---
 # APP - ZEIT FÜR MICH
 
 > Product ID `56183` · Digistore24 productId `569007` · [HTML profile page](../../produkte/app-zeit-f-r-mich-56183.html)

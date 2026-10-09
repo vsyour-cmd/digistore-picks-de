@@ -1,3 +1,24 @@
+---
+product_id: "53007"
+digistore24_product_id: 610020
+title: "Frei Leben Kongress 3 - VIP-Paket & Bundle"
+vendor: "kongresshero"
+product_type: "Member area and video courses"
+price: 121.93
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 12.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Marketing Services"]
+listed_since: "2025-04-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.freileben3.de?aff=adminstore#aff=adminstore"
+sales_page: "https://www.freileben3.de"
+language: "de"
+---
 # Frei Leben Kongress 3 - VIP-Paket & Bundle
 
 > Product ID `53007` · Digistore24 productId `610020` · [HTML profile page](../../produkte/frei-leben-kongress-3-vip-paket-bundle-53007.html)

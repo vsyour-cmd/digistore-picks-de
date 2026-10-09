@@ -1,3 +1,24 @@
+---
+product_id: "52983"
+digistore24_product_id: 599695
+title: "Content Sales Booster"
+vendor: "LauraTeresaG"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Marketing Services"]
+listed_since: "2025-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/599695?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/599695"
+language: "de"
+---
 # Content Sales Booster
 
 > Product ID `52983` · Digistore24 productId `599695` · [HTML profile page](../../produkte/content-sales-booster-52983.html)

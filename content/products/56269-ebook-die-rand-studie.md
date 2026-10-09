@@ -1,3 +1,24 @@
+---
+product_id: "56269"
+digistore24_product_id: 682555
+title: "Ebook - Die Rand Studie"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 12.54
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.28
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2026-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/682555?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/682555"
+language: "de"
+---
 # Ebook - Die Rand Studie
 
 > Product ID `56269` · Digistore24 productId `682555` · [HTML profile page](../../produkte/ebook-die-rand-studie-56269.html)

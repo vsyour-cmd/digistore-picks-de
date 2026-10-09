@@ -1,3 +1,24 @@
+---
+product_id: "55466"
+digistore24_product_id: 666177
+title: "RESET 100 Tage zurück zu innerer Stärke"
+vendor: "Niux489"
+product_type: "Downloads"
+price: 46.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 18.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-02-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/666177?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/666177"
+language: "de"
+---
 # RESET 100 Tage zurück zu innerer Stärke
 
 > Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../produkte/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)

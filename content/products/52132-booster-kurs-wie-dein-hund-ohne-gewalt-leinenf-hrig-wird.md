@@ -1,3 +1,24 @@
+---
+product_id: "52132"
+digistore24_product_id: 607575
+title: "Booster-Kurs \"Wie dein Hund ohne Gewalt leinenführig wird\""
+vendor: "NinaNowak"
+product_type: "Member area and video courses"
+price: 39.48
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Home & Garden","Animals & Pets"]
+listed_since: "2025-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.hundesozialisation.de/leinenfuehrigkeit-der-profis/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hundesozialisation.de/leinenfuehrigkeit-der-profis/"
+language: "de"
+---
 # Booster-Kurs "Wie dein Hund ohne Gewalt leinenführig wird"
 
 > Product ID `52132` · Digistore24 productId `607575` · [HTML profile page](../../produkte/booster-kurs-wie-dein-hund-ohne-gewalt-leinenf-hrig-wird-52132.html)

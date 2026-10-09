@@ -1,3 +1,24 @@
+---
+product_id: "47576"
+digistore24_product_id: 543394
+title: "DAS FREIGEIST KONGRESS PAKET"
+vendor: "KompassDerFreiheit"
+product_type: "Downloads"
+price: 375.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 187.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2024-03-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freigeistkongress.com/paket/?aff=adminstore#aff=adminstore"
+sales_page: "https://freigeistkongress.com/paket/"
+language: "de"
+---
 # DAS FREIGEIST KONGRESS PAKET
 
 > Product ID `47576` · Digistore24 productId `543394` · [HTML profile page](../../produkte/das-freigeist-kongress-paket-47576.html)

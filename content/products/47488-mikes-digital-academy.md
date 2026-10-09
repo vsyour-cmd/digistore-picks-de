@@ -1,3 +1,24 @@
+---
+product_id: "47488"
+digistore24_product_id: 539552
+title: "Mikes Digital Academy"
+vendor: "m012692"
+product_type: "Member area and video courses"
+price: 144.76
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 16.41
+cart_conversion_pct: 8
+cancel_rate_pct: 4.9
+categories: ["Education","Online Marketing & E-Business"]
+listed_since: "2024-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/539552?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/539552"
+language: "de"
+---
 # Mikes Digital Academy
 
 > Product ID `47488` · Digistore24 productId `539552` · [HTML profile page](../../produkte/mikes-digital-academy-47488.html)

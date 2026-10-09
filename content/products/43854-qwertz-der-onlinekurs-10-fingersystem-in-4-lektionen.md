@@ -1,3 +1,24 @@
+---
+product_id: "43854"
+digistore24_product_id: 489246
+title: "QWERTZ: Der Onlinekurs \"10-Fingersystem\" in 4 Lektionen"
+vendor: "QWERTZTraining"
+product_type: "Webinar"
+price: 183.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 54.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2023-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/489246?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/489246"
+language: "de"
+---
 # QWERTZ: Der Onlinekurs "10-Fingersystem" in 4 Lektionen
 
 > Product ID `43854` · Digistore24 productId `489246` · [HTML profile page](../../produkte/qwertz-der-onlinekurs-10-fingersystem-in-4-lektionen-43854.html)

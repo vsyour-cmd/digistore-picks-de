@@ -1,3 +1,24 @@
+---
+product_id: "21197"
+digistore24_product_id: 183803
+title: "Einführung in NinjaTrader 8"
+vendor: "HBreuerTrading"
+product_type: "Downloads"
+price: 225.6
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 78.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2017-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/?aff=adminstore#aff=adminstore"
+sales_page: "http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/"
+language: "de"
+---
 # Einführung in NinjaTrader 8
 
 > Product ID `21197` · Digistore24 productId `183803` · [HTML profile page](../../produkte/einf-hrung-in-ninjatrader-8-21197.html)

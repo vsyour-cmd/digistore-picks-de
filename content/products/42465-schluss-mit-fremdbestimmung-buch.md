@@ -1,3 +1,24 @@
+---
+product_id: "42465"
+digistore24_product_id: 411354
+title: "Schluss mit Fremdbestimmung [Buch]"
+vendor: "mitherzundpferd"
+product_type: "Book (printed)"
+price: 15.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mitherzundpferd.de/buch?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mitherzundpferd.de/buch"
+language: "de"
+---
 # Schluss mit Fremdbestimmung [Buch]
 
 > Product ID `42465` · Digistore24 productId `411354` · [HTML profile page](../../produkte/schluss-mit-fremdbestimmung-buch-42465.html)

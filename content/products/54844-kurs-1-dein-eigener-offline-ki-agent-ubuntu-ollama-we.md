@@ -1,3 +1,24 @@
+---
+product_id: "54844"
+digistore24_product_id: 652717
+title: "Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We"
+vendor: "NeiFlex"
+product_type: "Member area and video courses"
+price: 74.26
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2025-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kurse.neiflex.at/kurs1.html?aff=adminstore#aff=adminstore"
+sales_page: "https://kurse.neiflex.at/kurs1.html"
+language: "de"
+---
 # Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We
 
 > Product ID `54844` · Digistore24 productId `652717` · [HTML profile page](../../produkte/kurs-1-dein-eigener-offline-ki-agent-ubuntu-ollama-we-54844.html)

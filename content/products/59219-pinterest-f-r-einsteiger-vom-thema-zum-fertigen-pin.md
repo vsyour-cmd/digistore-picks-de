@@ -1,3 +1,24 @@
+---
+product_id: "59219"
+digistore24_product_id: 732832
+title: "Pinterest für Einsteiger: Vom Thema zum fertigen Pin"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 37.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.einfachmitmatze.de/pinterest/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.einfachmitmatze.de/pinterest/"
+language: "de"
+---
 # Pinterest für Einsteiger: Vom Thema zum fertigen Pin
 
 > Product ID `59219` · Digistore24 productId `732832` · [HTML profile page](../../produkte/pinterest-f-r-einsteiger-vom-thema-zum-fertigen-pin-59219.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57393"
+digistore24_product_id: 707530
+title: "Sicherer Hafen: Co-Regulation im Familienalltag"
+vendor: "leajuliasalvi"
+product_type: "Telephone coaching"
+price: 36.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707530?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707530"
+language: "de"
+---
 # Sicherer Hafen: Co-Regulation im Familienalltag
 
 > Product ID `57393` · Digistore24 productId `707530` · [HTML profile page](../../produkte/sicherer-hafen-co-regulation-im-familienalltag-57393.html)

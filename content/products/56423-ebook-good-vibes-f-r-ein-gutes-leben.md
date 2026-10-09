@@ -1,3 +1,24 @@
+---
+product_id: "56423"
+digistore24_product_id: 689470
+title: "Ebook - Good Vibes für ein gutes Leben"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689470?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689470"
+language: "de"
+---
 # Ebook - Good Vibes für ein gutes Leben
 
 > Product ID `56423` · Digistore24 productId `689470` · [HTML profile page](../../produkte/ebook-good-vibes-f-r-ein-gutes-leben-56423.html)

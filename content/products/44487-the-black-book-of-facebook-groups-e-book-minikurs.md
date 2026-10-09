@@ -1,3 +1,24 @@
+---
+product_id: "44487"
+digistore24_product_id: 503958
+title: "\"The Black Book of Facebook Groups\" E-Book + Minikurs"
+vendor: "MSchlinder"
+product_type: "E-books"
+price: 0.27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0.15
+cart_conversion_pct: 28
+cancel_rate_pct: 2.33
+categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
+listed_since: "2023-06-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://michael-schlinder.com/Black-Book-of-FB-Groups?aff=adminstore#aff=adminstore"
+sales_page: "https://michael-schlinder.com/Black-Book-of-FB-Groups"
+language: "de"
+---
 # "The Black Book of Facebook Groups" E-Book + Minikurs
 
 > Product ID `44487` · Digistore24 productId `503958` · [HTML profile page](../../produkte/the-black-book-of-facebook-groups-e-book-minikurs-44487.html)

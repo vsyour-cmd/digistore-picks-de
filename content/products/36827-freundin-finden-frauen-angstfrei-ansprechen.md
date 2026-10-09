@@ -1,3 +1,24 @@
+---
+product_id: "36827"
+digistore24_product_id: 392837
+title: "Freundin finden + Frauen angstfrei ansprechen"
+vendor: "herozon"
+product_type: "E-books"
+price: 256.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.28
+cart_conversion_pct: 5
+cancel_rate_pct: 3.96
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://home.herozon.de/e-book-bundle-herozon?aff=adminstore#aff=adminstore"
+sales_page: "https://home.herozon.de/e-book-bundle-herozon"
+language: "de"
+---
 # Freundin finden + Frauen angstfrei ansprechen
 
 > Product ID `36827` · Digistore24 productId `392837` · [HTML profile page](../../produkte/freundin-finden-frauen-angstfrei-ansprechen-36827.html)

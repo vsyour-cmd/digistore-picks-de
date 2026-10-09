@@ -1,3 +1,24 @@
+---
+product_id: "50227"
+digistore24_product_id: 733801
+title: "Die Youtube Analytics Checklist"
+vendor: "AndreasLang"
+product_type: "E-books"
+price: 4.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.andreaslangdigital.com/YoutubeAnalyticsChecklist/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.andreaslangdigital.com/YoutubeAnalyticsChecklist/"
+language: "de"
+---
 # Die Youtube Analytics Checklist
 
 > Product ID `50227` · Digistore24 productId `733801` · [HTML profile page](../../produkte/die-youtube-analytics-checklist-50227.html)

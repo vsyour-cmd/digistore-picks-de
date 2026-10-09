@@ -1,3 +1,24 @@
+---
+product_id: "45020"
+digistore24_product_id: 501537
+title: "3 Week Beach Body Feeling"
+vendor: "SonjaBecoached"
+product_type: "Member area and video courses"
+price: 293.27
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 87.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-06-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://beachbodyfeeling.com?aff=adminstore#aff=adminstore"
+sales_page: "https://beachbodyfeeling.com"
+language: "de"
+---
 # 3 Week Beach Body Feeling
 
 > Product ID `45020` · Digistore24 productId `501537` · [HTML profile page](../../produkte/3-week-beach-body-feeling-45020.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59332"
+digistore24_product_id: 734523
+title: "Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2"
+vendor: "nowdigitalproducts"
+product_type: "Downloads"
+price: 18.7
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734523?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734523"
+language: "de"
+---
 # Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2
 
 > Product ID `59332` · Digistore24 productId `734523` · [HTML profile page](../../produkte/englisch-master-komplettkurs-in-100-lektionen-von-a1-zu-b2-59332.html)

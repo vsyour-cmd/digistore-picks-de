@@ -1,3 +1,24 @@
+---
+product_id: "55700"
+digistore24_product_id: 305619
+title: "Die Smartphone Cashmaschine"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 329.37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 120.13
+cart_conversion_pct: 10
+cancel_rate_pct: 0.79
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2020-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://go.incomebutler.com/24hzugangscm/?aff=adminstore#aff=adminstore"
+sales_page: "https://go.incomebutler.com/24hzugangscm/"
+language: "de"
+---
 # Die Smartphone Cashmaschine
 
 > Product ID `55700` · Digistore24 productId `305619` · [HTML profile page](../../produkte/die-smartphone-cashmaschine-55700.html)

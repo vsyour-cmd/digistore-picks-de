@@ -1,3 +1,24 @@
+---
+product_id: "57142"
+digistore24_product_id: 653444
+title: "Party DJ Setbook - Business PRO-Lizenz (B2B)"
+vendor: "djnicogoetze"
+product_type: "Downloads"
+price: 1453.06
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 435.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2026-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dj-setbook.com/lizenzmodelle"
+language: "de"
+---
 # Party DJ Setbook - Business PRO-Lizenz (B2B)
 
 > Product ID `57142` · Digistore24 productId `653444` · [HTML profile page](../../produkte/party-dj-setbook-business-pro-lizenz-b2b-57142.html)

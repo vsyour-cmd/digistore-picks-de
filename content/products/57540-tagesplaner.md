@@ -1,3 +1,24 @@
+---
+product_id: "57540"
+digistore24_product_id: 711050
+title: "Tagesplaner"
+vendor: "nick4nders"
+product_type: "Downloads"
+price: 7.51
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Marketing Services"]
+listed_since: "2026-07-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/711050?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711050"
+language: "de"
+---
 # Tagesplaner
 
 > Product ID `57540` · Digistore24 productId `711050` · [HTML profile page](../../produkte/tagesplaner-57540.html)

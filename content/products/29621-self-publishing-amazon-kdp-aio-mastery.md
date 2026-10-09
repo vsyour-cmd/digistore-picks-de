@@ -1,3 +1,24 @@
+---
+product_id: "29621"
+digistore24_product_id: 275608
+title: "Self Publishing Amazon KDP AIO Mastery!"
+vendor: "seotech"
+product_type: "Member area and video courses"
+price: 1002.98
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 401.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2019-06-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://dein.hamsterradausstieg.de/kdmot/?aff=adminstore#aff=adminstore"
+sales_page: "https://dein.hamsterradausstieg.de/kdmot/"
+language: "de"
+---
 # Self Publishing Amazon KDP AIO Mastery!
 
 > Product ID `29621` · Digistore24 productId `275608` · [HTML profile page](../../produkte/self-publishing-amazon-kdp-aio-mastery-29621.html)

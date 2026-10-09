@@ -1,3 +1,24 @@
+---
+product_id: "45471"
+digistore24_product_id: 504474
+title: "WutPower 20%"
+vendor: "Elternkunst"
+product_type: "Member area and video courses"
+price: 138.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 27.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2023-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/504474?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/504474"
+language: "de"
+---
 # WutPower 20%
 
 > Product ID `45471` · Digistore24 productId `504474` · [HTML profile page](../../produkte/wutpower-20-45471.html)

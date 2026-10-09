@@ -1,3 +1,24 @@
+---
+product_id: "52180"
+digistore24_product_id: 607931
+title: "Kostenrechnung für Kaufleute für Büromanagement"
+vendor: "wileleg"
+product_type: "Member area and video courses"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
+sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af"
+language: "de"
+---
 # Kostenrechnung für Kaufleute für Büromanagement
 
 > Product ID `52180` · Digistore24 productId `607931` · [HTML profile page](../../produkte/kostenrechnung-f-r-kaufleute-f-r-b-romanagement-52180.html)

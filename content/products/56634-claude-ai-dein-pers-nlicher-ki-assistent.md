@@ -1,3 +1,24 @@
+---
+product_id: "56634"
+digistore24_product_id: 693722
+title: "Claude AI, Dein persönlicher KI-Assistent"
+vendor: "Ronin1960"
+product_type: "E-books"
+price: 20.85
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Software"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/693722?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/693722"
+language: "de"
+---
 # Claude AI, Dein persönlicher KI-Assistent
 
 > Product ID `56634` · Digistore24 productId `693722` · [HTML profile page](../../produkte/claude-ai-dein-pers-nlicher-ki-assistent-56634.html)

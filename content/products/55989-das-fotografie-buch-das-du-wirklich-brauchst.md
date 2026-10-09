@@ -1,3 +1,24 @@
+---
+product_id: "55989"
+digistore24_product_id: 674419
+title: "Das Fotografie-Buch, das du wirklich brauchst"
+vendor: "nratko"
+product_type: "E-books"
+price: 19.87
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Photography & Film"]
+listed_since: "2026-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nratkopictures.com/de/fotografie-buch/?aff=adminstore#aff=adminstore"
+sales_page: "https://nratkopictures.com/de/fotografie-buch/"
+language: "de"
+---
 # Das Fotografie-Buch, das du wirklich brauchst
 
 > Product ID `55989` · Digistore24 productId `674419` · [HTML profile page](../../produkte/das-fotografie-buch-das-du-wirklich-brauchst-55989.html)

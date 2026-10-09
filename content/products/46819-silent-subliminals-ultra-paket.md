@@ -1,3 +1,24 @@
+---
+product_id: "46819"
+digistore24_product_id: 305284
+title: "Silent Subliminals ULTRA Paket"
+vendor: "newdimension"
+product_type: "Software"
+price: 112.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 32.12
+cart_conversion_pct: 5
+cancel_rate_pct: 4.19
+categories: ["Personal Development"]
+listed_since: "2020-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://silent-subliminals.de?aff=adminstore#aff=adminstore"
+sales_page: "https://silent-subliminals.de"
+language: "de"
+---
 # Silent Subliminals ULTRA Paket
 
 > Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../produkte/silent-subliminals-ultra-paket-46819.html)

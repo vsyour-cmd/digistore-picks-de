@@ -1,3 +1,24 @@
+---
+product_id: "54993"
+digistore24_product_id: 657065
+title: "Autogenes Training Kompakt – Das Audio-Komplettpaket"
+vendor: "HansFolta"
+product_type: "Downloads"
+price: 28.11
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 15.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/?aff=adminstore#aff=adminstore"
+sales_page: "https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/"
+language: "de"
+---
 # Autogenes Training Kompakt – Das Audio-Komplettpaket
 
 > Product ID `54993` · Digistore24 productId `657065` · [HTML profile page](../../produkte/autogenes-training-kompakt-das-audio-komplettpaket-54993.html)

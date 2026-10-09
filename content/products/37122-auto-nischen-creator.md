@@ -1,3 +1,24 @@
+---
+product_id: "37122"
+digistore24_product_id: 78503
+title: "Auto-Nischen-Creator"
+vendor: "Cleriker"
+product_type: "Downloads"
+price: 93.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 46.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2016-04-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lp.larspilawski.de/auto-nischen-creator/?aff=adminstore#aff=adminstore"
+sales_page: "https://lp.larspilawski.de/auto-nischen-creator/"
+language: "de"
+---
 # Auto-Nischen-Creator
 
 > Product ID `37122` · Digistore24 productId `78503` · [HTML profile page](../../produkte/auto-nischen-creator-37122.html)

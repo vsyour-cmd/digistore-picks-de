@@ -1,3 +1,24 @@
+---
+product_id: "56347"
+digistore24_product_id: 676916
+title: "Onlinekurs \"Bevor du JA sagst\""
+vendor: "JohannaMaghsoudi"
+product_type: "Downloads"
+price: 187.06
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 93.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/676916?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/676916"
+language: "de"
+---
 # Onlinekurs "Bevor du JA sagst"
 
 > Product ID `56347` · Digistore24 productId `676916` · [HTML profile page](../../produkte/onlinekurs-bevor-du-ja-sagst-56347.html)

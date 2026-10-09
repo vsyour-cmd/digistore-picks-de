@@ -1,3 +1,24 @@
+---
+product_id: "59660"
+digistore24_product_id: 736790
+title: "Sentinel – Das mechanische Framework für 100 % emotionsloses"
+vendor: "sentinelsystem"
+product_type: "E-books"
+price: 40.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/736790?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736790"
+language: "de"
+---
 # Sentinel – Das mechanische Framework für 100 % emotionsloses
 
 > Product ID `59660` · Digistore24 productId `736790` · [HTML profile page](../../produkte/sentinel-das-mechanische-framework-f-r-100-emotionsloses-59660.html)

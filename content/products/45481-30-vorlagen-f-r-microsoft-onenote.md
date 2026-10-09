@@ -1,3 +1,24 @@
+---
+product_id: "45481"
+digistore24_product_id: 503462
+title: "30+ Vorlagen für Microsoft OneNote"
+vendor: "stm1978"
+product_type: "Downloads"
+price: 9.39
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Profession & Job"]
+listed_since: "2023-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/503462?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/503462"
+language: "de"
+---
 # 30+ Vorlagen für Microsoft OneNote
 
 > Product ID `45481` · Digistore24 productId `503462` · [HTML profile page](../../produkte/30-vorlagen-f-r-microsoft-onenote-45481.html)

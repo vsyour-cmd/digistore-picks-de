@@ -1,3 +1,24 @@
+---
+product_id: "40685"
+digistore24_product_id: 417298
+title: "Glückliche Beziehung Jetzt - Gold!"
+vendor: "PetraSerena"
+product_type: "Webinar"
+price: 3942.36
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 788.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-11-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.soulmatecoaching.de/gbj_gold_mentoring/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.soulmatecoaching.de/gbj_gold_mentoring/"
+language: "de"
+---
 # Glückliche Beziehung Jetzt - Gold!
 
 > Product ID `40685` · Digistore24 productId `417298` · [HTML profile page](../../produkte/gl-ckliche-beziehung-jetzt-gold-40685.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59202"
+digistore24_product_id: 717533
+title: "Das Drogenlabor in der Deutschen Nachbarschaft"
+vendor: "wissenskind"
+product_type: "E-books"
+price: 5.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 1.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Services"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus?aff=adminstore#aff=adminstore"
+sales_page: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus"
+language: "de"
+---
 # Das Drogenlabor in der Deutschen Nachbarschaft
 
 > Product ID `59202` · Digistore24 productId `717533` · [HTML profile page](../../produkte/das-drogenlabor-in-der-deutschen-nachbarschaft-59202.html)

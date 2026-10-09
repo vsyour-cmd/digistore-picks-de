@@ -1,3 +1,24 @@
+---
+product_id: "49851"
+digistore24_product_id: 570583
+title: "Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss"
+vendor: "stable-stuff"
+product_type: "E-books"
+price: 25.09
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://stable-stuff.com/gesunde-kraeuter-pflegeprodukte?aff=adminstore#aff=adminstore"
+sales_page: "https://stable-stuff.com/gesunde-kraeuter-pflegeprodukte"
+language: "de"
+---
 # Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss
 
 > Product ID `49851` · Digistore24 productId `570583` · [HTML profile page](../../produkte/kr-uterkraft-keksgenuss-diy-pflegeprodukte-und-keksgenuss-49851.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57764"
+digistore24_product_id: 714244
+title: "Küstenstil - Standard"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/714244?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714244"
+language: "de"
+---
 # Küstenstil - Standard
 
 > Product ID `57764` · Digistore24 productId `714244` · [HTML profile page](../../produkte/k-stenstil-standard-57764.html)

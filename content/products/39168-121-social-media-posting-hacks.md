@@ -1,3 +1,24 @@
+---
+product_id: "39168"
+digistore24_product_id: 42599
+title: "121 Social Media Posting Hacks"
+vendor: "sattelitevendor"
+product_type: "E-books"
+price: 85.29
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.4
+cart_conversion_pct: 8
+cancel_rate_pct: 1.57
+categories: ["Social Media"]
+listed_since: "2015-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://torstenjaeger.com/121socialmediapostinghacks?aff=adminstore#aff=adminstore"
+sales_page: "https://torstenjaeger.com/121socialmediapostinghacks"
+language: "de"
+---
 # 121 Social Media Posting Hacks
 
 > Product ID `39168` · Digistore24 productId `42599` · [HTML profile page](../../produkte/121-social-media-posting-hacks-39168.html)

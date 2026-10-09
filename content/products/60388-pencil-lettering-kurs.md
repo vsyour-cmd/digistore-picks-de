@@ -1,3 +1,24 @@
+---
+product_id: "60388"
+digistore24_product_id: 711316
+title: "Pencil Lettering Kurs"
+vendor: "Timothy90"
+product_type: "Member area and video courses"
+price: 83.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.84
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Travel & Culture"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manylearn.com/kurse/pencil-lettering?aff=adminstore#aff=adminstore"
+sales_page: "https://manylearn.com/kurse/pencil-lettering"
+language: "de"
+---
 # Pencil Lettering Kurs
 
 > Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../produkte/pencil-lettering-kurs-60388.html)

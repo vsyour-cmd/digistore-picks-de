@@ -1,3 +1,24 @@
+---
+product_id: "49046"
+digistore24_product_id: 566045
+title: "Rettungsanker zum Verschenken"
+vendor: "Angelika-Traumerfuellerin"
+product_type: "Downloads"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/566045?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/566045"
+language: "de"
+---
 # Rettungsanker zum Verschenken
 
 > Product ID `49046` · Digistore24 productId `566045` · [HTML profile page](../../produkte/rettungsanker-zum-verschenken-49046.html)

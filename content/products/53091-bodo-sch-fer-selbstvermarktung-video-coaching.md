@@ -1,3 +1,24 @@
+---
+product_id: "53091"
+digistore24_product_id: 622565
+title: "Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching"
+vendor: "BodoSchaefer"
+product_type: "Member area and video courses"
+price: 467.18
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 93.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2025-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/?aff=adminstore#aff=adminstore"
+sales_page: "http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/"
+language: "de"
+---
 # Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching
 
 > Product ID `53091` · Digistore24 productId `622565` · [HTML profile page](../../produkte/bodo-sch-fer-selbstvermarktung-video-coaching-53091.html)

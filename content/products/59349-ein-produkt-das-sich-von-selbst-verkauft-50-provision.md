@@ -1,3 +1,24 @@
+---
+product_id: "59349"
+digistore24_product_id: 733005
+title: "Ein Produkt, das sich von selbst verkauft - 50% Provision"
+vendor: "stellenmanufaktur"
+product_type: "Remote service provided electronically"
+price: 2340.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1170.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
+listed_since: "2026-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733005?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733005"
+language: "de"
+---
 # Ein Produkt, das sich von selbst verkauft - 50% Provision
 
 > Product ID `59349` · Digistore24 productId `733005` · [HTML profile page](../../produkte/ein-produkt-das-sich-von-selbst-verkauft-50-provision-59349.html)

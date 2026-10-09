@@ -1,3 +1,24 @@
+---
+product_id: "54107"
+digistore24_product_id: 636605
+title: "KI Agent Minikurs (Gratis Online Kurs)"
+vendor: "webpirat"
+product_type: "Member area and video courses"
+price: 5.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.09
+cart_conversion_pct: 17
+cancel_rate_pct: 3.08
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://kiagent.webpirat.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://kiagent.webpirat.de/"
+language: "de"
+---
 # KI Agent Minikurs (Gratis Online Kurs)
 
 > Product ID `54107` · Digistore24 productId `636605` · [HTML profile page](../../produkte/ki-agent-minikurs-gratis-online-kurs-54107.html)

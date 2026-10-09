@@ -1,3 +1,24 @@
+---
+product_id: "54836"
+digistore24_product_id: 652844
+title: "Gefühle verstehen &  Selbstvertrauen wachsen lassen"
+vendor: "veganundfrei"
+product_type: "E-books"
+price: 30.31
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2025-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zeitzumfeiern.de/gefuehle-verstehen-selbstvertrauen-wachsen-lassen/?aff=adminstore#aff=adminstore"
+sales_page: "https://zeitzumfeiern.de/gefuehle-verstehen-selbstvertrauen-wachsen-lassen/"
+language: "de"
+---
 # Gefühle verstehen &  Selbstvertrauen wachsen lassen
 
 > Product ID `54836` · Digistore24 productId `652844` · [HTML profile page](../../produkte/gef-hle-verstehen-selbstvertrauen-wachsen-lassen-54836.html)

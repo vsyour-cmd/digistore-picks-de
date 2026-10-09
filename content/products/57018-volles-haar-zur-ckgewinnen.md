@@ -1,3 +1,24 @@
+---
+product_id: "57018"
+digistore24_product_id: 702249
+title: "Volles Haar zurückgewinnen"
+vendor: "pixonmedia"
+product_type: "E-books"
+price: 20.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ratgeberplatz.de/ratgeber/volles-haar-zurueckgewinnen?aff=adminstore#aff=adminstore"
+sales_page: "https://ratgeberplatz.de/ratgeber/volles-haar-zurueckgewinnen"
+language: "de"
+---
 # Volles Haar zurückgewinnen
 
 > Product ID `57018` · Digistore24 productId `702249` · [HTML profile page](../../produkte/volles-haar-zur-ckgewinnen-57018.html)

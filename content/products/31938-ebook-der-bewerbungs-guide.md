@@ -1,3 +1,24 @@
+---
+product_id: "31938"
+digistore24_product_id: 313274
+title: "eBook: Der Bewerbungs-Guide"
+vendor: "FH360GradBewerbung"
+product_type: "E-books"
+price: 10.35
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-03-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/313274?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/313274"
+language: "de"
+---
 # eBook: Der Bewerbungs-Guide
 
 > Product ID `31938` · Digistore24 productId `313274` · [HTML profile page](../../produkte/ebook-der-bewerbungs-guide-31938.html)

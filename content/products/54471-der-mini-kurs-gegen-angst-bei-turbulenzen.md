@@ -1,3 +1,24 @@
+---
+product_id: "54471"
+digistore24_product_id: 596988
+title: "Der Mini-Kurs gegen Angst bei Turbulenzen"
+vendor: "SkyCair"
+product_type: "Member area and video courses"
+price: 29.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.88
+cart_conversion_pct: 5
+cancel_rate_pct: 0.5
+categories: ["Personal Development","Travel & Culture"]
+listed_since: "2025-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.skycair.com/turbulenzen?aff=adminstore#aff=adminstore"
+sales_page: "https://www.skycair.com/turbulenzen"
+language: "de"
+---
 # Der Mini-Kurs gegen Angst bei Turbulenzen
 
 > Product ID `54471` · Digistore24 productId `596988` · [HTML profile page](../../produkte/der-mini-kurs-gegen-angst-bei-turbulenzen-54471.html)

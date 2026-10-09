@@ -1,3 +1,24 @@
+---
+product_id: "49911"
+digistore24_product_id: 549125
+title: "Feuerbach´s Twelve"
+vendor: "carstenfeuerbach"
+product_type: "Member area and video courses"
+price: 444.08
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 222.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://carsten-feuerbach-3.mstrpages.com/feuerbachs-twelve?aff=adminstore#aff=adminstore"
+sales_page: "https://carsten-feuerbach-3.mstrpages.com/feuerbachs-twelve"
+language: "de"
+---
 # Feuerbach´s Twelve
 
 > Product ID `49911` · Digistore24 productId `549125` · [HTML profile page](../../produkte/feuerbach-s-twelve-49911.html)

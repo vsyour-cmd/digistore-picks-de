@@ -1,3 +1,24 @@
+---
+product_id: "53390"
+digistore24_product_id: 627419
+title: "„Telefon für dich“ - Anrufservice für Menschen mit Hemmungen"
+vendor: "Telefonfuerdich"
+product_type: "Telephone coaching"
+price: 158.86
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 47.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Marketing Services"]
+listed_since: "2025-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/627419?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/627419"
+language: "de"
+---
 # „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen
 
 > Product ID `53390` · Digistore24 productId `627419` · [HTML profile page](../../produkte/telefon-f-r-dich-anrufservice-f-r-menschen-mit-hemmungen-53390.html)

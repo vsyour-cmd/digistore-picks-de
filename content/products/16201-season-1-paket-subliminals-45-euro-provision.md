@@ -1,3 +1,24 @@
+---
+product_id: "16201"
+digistore24_product_id: 118017
+title: "Season 1 Paket (Subliminals) – 45 Euro Provision!"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Education"]
+listed_since: "2017-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://energetic-eternity.de/produkt/energetic-eternity-season-1/?aff=adminstore#aff=adminstore"
+sales_page: "http://energetic-eternity.de/produkt/energetic-eternity-season-1/"
+language: "de"
+---
 # Season 1 Paket (Subliminals) – 45 Euro Provision!
 
 > Product ID `16201` · Digistore24 productId `118017` · [HTML profile page](../../produkte/season-1-paket-subliminals-45-euro-provision-16201.html)

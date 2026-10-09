@@ -1,3 +1,24 @@
+---
+product_id: "41936"
+digistore24_product_id: 421452
+title: "Silent Subliminals Abnehmen - Gewicht umfassend reduzieren"
+vendor: "EnergeticTernity"
+product_type: "Downloads"
+price: 266.63
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 98.55
+cart_conversion_pct: 8
+cancel_rate_pct: 3.18
+categories: ["Health & Fitness"]
+listed_since: "2021-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-abnehmen/?aff=adminstore#aff=adminstore"
+sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-abnehmen/"
+language: "de"
+---
 # Silent Subliminals Abnehmen - Gewicht umfassend reduzieren
 
 > Product ID `41936` · Digistore24 productId `421452` · [HTML profile page](../../produkte/silent-subliminals-abnehmen-gewicht-umfassend-reduzieren-41936.html)

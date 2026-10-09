@@ -1,3 +1,24 @@
+---
+product_id: "33953"
+digistore24_product_id: 312804
+title: "InsiderWeek Tradinggruppe Praxis 6 Monate Mitgliedschaft"
+vendor: "IW_Education"
+product_type: "Member area and video courses"
+price: 389.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 194.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/312804?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/312804"
+language: "de"
+---
 # InsiderWeek Tradinggruppe Praxis 6 Monate Mitgliedschaft
 
 > Product ID `33953` · Digistore24 productId `312804` · [HTML profile page](../../produkte/insiderweek-tradinggruppe-praxis-6-monate-mitgliedschaft-33953.html)

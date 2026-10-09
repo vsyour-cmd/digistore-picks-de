@@ -1,3 +1,24 @@
+---
+product_id: "55395"
+digistore24_product_id: 665255
+title: "Nett sein ist dein größter Fehler.."
+vendor: "gbuiss"
+product_type: "E-books"
+price: 18.14
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 17.7
+cart_conversion_pct: 10
+cancel_rate_pct: 2.05
+categories: ["Dating, Relationships & Romance","Personal Development","Social Media"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665255?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665255"
+language: "de"
+---
 # Nett sein ist dein größter Fehler..
 
 > Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../produkte/nett-sein-ist-dein-gr-ter-fehler-55395.html)

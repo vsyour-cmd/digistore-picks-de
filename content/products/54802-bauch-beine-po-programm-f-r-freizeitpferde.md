@@ -1,3 +1,24 @@
+---
+product_id: "54802"
+digistore24_product_id: 594594
+title: "Bauch, Beine, Po-Programm für Freizeitpferde"
+vendor: "AnikasPferdeakademie"
+product_type: "Member area and video courses"
+price: 1094.16
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 328.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://aw.anikas-pferdeakademie.de/bbp?aff=adminstore#aff=adminstore"
+sales_page: "https://aw.anikas-pferdeakademie.de/bbp"
+language: "de"
+---
 # Bauch, Beine, Po-Programm für Freizeitpferde
 
 > Product ID `54802` · Digistore24 productId `594594` · [HTML profile page](../../produkte/bauch-beine-po-programm-f-r-freizeitpferde-54802.html)
