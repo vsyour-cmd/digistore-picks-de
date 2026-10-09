@@ -1,0 +1,69 @@
+# Die 9 Elemente der perfekten Liedbegleitung für Gitarre
+
+> Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../reviews/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $81.78 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $40.90 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | BlueGecko |
+| Listed since | 2021-01-22 |
+| Auto-accept affiliates | yes |
+| Categories | Dancing & Music |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Eine herzliche Einladung, diesen Gitarrenkurs als Affiliate zu bewerben! Warum es sich für Dich als Affiliate lohnt, „Die 9 Elemente der perfekten Liedbegleitung für Gitarre“ zu bekannt zu machen: Ein Produkt, das aus dem Rahmen fällt: hier lernt der Schüler von Anfang an, eine Freundesrunde beim Singen anzuführen. Als Teil der Ausbildung auf der Gitarre. Außergewöhnliche Lerninhalte: die Anschlag…
+
+## 2. Links
+
+- **Promo link (affiliate):** http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/?aff=adminstore#aff=adminstore
+- Sales page: http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/
+- Canonical redirect: https://www.digistore24.com/redir/369487/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Gitarre lernen mit Liedbegleitung beginnen
+- **Meta description:** Gitarre lernen mit Liedbegleitung beginnen. Von Anfang an spieltechnisch und rhythmisch exakt üben. Saubere Grundlagen für späteren Erfolg.
+- **Final URL after redirects:** https://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/
+- **Headline (H1):**
+  > Gitarre spielen lernen
+- **Section headlines (H2):**
+  - Wann ist dieser Kurs für Dich geeignet?
+  - Wann ist dieser Kurs nicht für Dich geeignet?
+  - Impressum
+  - Angaben gemäß § 5 TMG
+  - Kontakt
+  - EU-Streitschlichtung
+  - Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/369487
+  - https://www.digistore24.com/redir/22481/BlueGecko/Z2l0YXJyZW4tb25saW5la3Vyc2UuYXQ=
+- **Opening copy (first paragraphs):**
+  > Gitarre lernen, das kann sein: Rock, Blues, Country, Lieder begleiten, Flamenco, Klassik… Ob Du Konzert- Western- oder E Gitarre lernen möchtest:
+  > Gitarre lernen mit Liedbegleitung beginnen Wenn Du von Anfang an die Grundlagen richtig und sorgfältig übst. So, wie Du sie hier lernst.
+  > Jetzt anmelden Weiter zur Anmeldung - Hier Klicken Berufstätig und trotzdem Deine Lieben mit der Gitarre begeistern?
+  > Warum Dir das gelingen kann: weil Ich seit über 30 Jahren Gitarrenkurse mit berufstätigen Erwachsenen halte und daher weiß, worauf es bei ihnen ankommt. Und weiß, warum Online Kurse gerade für Berufstätige sinnvoll sind und sie dementsprechend gestalte.
+- **Questions the sales page answers:**
+  - Berufstätig und trotzdem Deine Lieben mit der Gitarre begeistern?
+  - Wann ist dieser Kurs für Dich geeignet?
+  - Wann ist dieser Kurs nicht für Dich geeignet?
+  - Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+  - Wie erfassen wir Ihre Daten?
+  - Wofür nutzen wir Ihre Daten?
+  - Welche Rechte haben Sie bezüglich Ihrer Daten?
+- **Page word count:** 3866
+- **OG image:** http://gitarren-onlinekurse.at/wp-content/uploads/2022/02/Die-9-Elemente-der-perfekten-Liedbegleitung-Animation.gif
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

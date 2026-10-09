@@ -1,0 +1,58 @@
+# Unternehmer Kompass
+
+> Product ID `32054` · Digistore24 productId `303498` · [HTML profile page](../../reviews/unternehmer-kompass-32054.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $281.06 (Single payment, Installment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $140.53 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | FischerAcademy |
+| Listed since | 2020-01-16 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Unternehmer Kompass Der Unternehmer Kompass hebt Unternehmen auf das nächste Level. Lass uns starten... Bis gleich! Dein Mike Fischer
+
+## 2. Links
+
+- **Promo link (affiliate):** https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass?aff=adminstore#aff=adminstore
+- Sales page: https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass
+- Canonical redirect: https://www.digistore24.com/redir/303498/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Unternehmer Kompass
+- **Headline (H1):**
+  > Wie Du Dich und Dein Unternehmen besser machst und auf das nächste Level hebst!
+  > Was Du als Mitglied im Seminar erhältst...
+  > Hier ein Einblick in den Videokurs
+- **Section headlines (H2):**
+  - Endlich echte Handlungsempfehlungen für Dein Unternehmen!
+  - (GESAMTWERT: 1.990 €)
+  - Starte noch heute und hebe Dein Unternehmen auf das nächste Level! Hol Dir jetzt Deinen Zugang zum Videoseminar.
+  - Das Feedback ist phänomenal! Hol Dir jetzt Deinen Zugang zum Videoseminar.
+- **CTA button texts:** "Starte jetzt für nur 299 Euro!"
+- **Opening copy (first paragraphs):**
+  > Endlich echte Handlungsempfehlungen für Dein Unternehmen! Stellst Du Dir auch oft folgende Fragen:
+  > Der Unternehmer Kompass ist aus der Praxis für die Praxis und vermittelt leicht umsetzbare Tipps aus 30 Jahren unternehmerischer Erfahrung.
+  > Ziele erreichen Definiere Deine Ziele, entwickle Strategien und lerne wie Du Dein Controlling im Unternehmen steuerst.
+  > Inklusive Workbook Zum Videosemiar erhältst Du ein Workbook zum Download, mit dem Du täglich arbeiten kannst!
+- **Questions the sales page answers:**
+  - Wie tickt die Fischer Academy?
+  - Was ist mein Anliegen?
+- **Page word count:** 1260
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

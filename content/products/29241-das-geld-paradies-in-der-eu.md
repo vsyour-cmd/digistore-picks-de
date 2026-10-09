@@ -1,0 +1,48 @@
+# DAS GELD-PARADIES IN DER EU
+
+> Product ID `29241` · Digistore24 productId `275520` · [HTML profile page](../../reviews/das-geld-paradies-in-der-eu-29241.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $24.96 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $11.57 |
+| Cart conversion* | 8% |
+| Cancel rate* | 2.93% |
+| Vendor | BIGbenn1 |
+| Listed since | 2019-06-13 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Mein Ebook "Das Geld-Paradies in der EU" ist ein Bestseller, weil es zwei Fliegen mit einer Klappe schlägt: 1. Das Geldparadies für Vermögende: Hier können Sie Geld anlegen, ohne legal Steuern zahlen zu müssen. 2. Das Geldparadies für Mittellose: Hier erhalten Sie als EU-Bürger vor Ort jeden Monat über 1.100 Euro vom Staat, auch wenn Sie nichts dafür tun. Und weil es nicht am anderen Ende der Welt…
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.benn-verlag.de/digi-gp/index.html?aff=adminstore#aff=adminstore
+- Sales page: http://www.benn-verlag.de/digi-gp/index.html
+- Vendor affiliate support: http://www.benn-verlag.de/digi-gp/banner.html
+- Canonical redirect: https://www.digistore24.com/redir/275520/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** DS: Geld-Paradies in der EU
+- **Final URL after redirects:** https://www.benn-verlag.de/digi-gp/index.html
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/275520
+- **Opening copy (first paragraphs):**
+  > Geld anlegen, ohne Steuern zu zahlen? Das ist sogar innerhalb der EU m�glich. Und: Und zwar v�llig legal!
+  > Das staatlich garantierte Mindesteinkommen ist eine �berlegenswerte Alternative, wenn Sie selbstst�ndig sind oder waren und keine - oder eine zu geringe Vorsorge f�r das Alter zur Verf�gung haben.
+  > Doppelbesteuerungsabkommen mit den meisten L�ndern der Welt. Hier funktioniert die Steuervermeidung v�llig legal und in rechtlicher �bereinstimmung mit den anderen EU-Staaten.
+- **Page word count:** 698
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

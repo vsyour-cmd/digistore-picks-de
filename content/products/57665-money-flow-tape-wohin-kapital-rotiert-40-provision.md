@@ -1,0 +1,62 @@
+# Money Flow Tape – Wohin Kapital rotiert · 40 % Provision
+
+> Product ID `57665` · Digistore24 productId `712825` · [HTML profile page](../../reviews/money-flow-tape-wohin-kapital-rotiert-40-provision-57665.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $100.95 (Subscription) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $40.38 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | pgventures |
+| Listed since | 2026-07-21 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Trading Products, Finances |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Money Flow Tape zeigt Privatanlegern täglich, wohin das Kapital an den Märkten rotiert — und misst, welche Wirtschaftstermine den Markt überhaupt bewegen. Dazu jeden Samstag ein Briefing im Mitgliederbereich, mit monatlichem Rückblick und vollständigem Archiv. Rein deskriptiv: keine Signale, keine Kaufempfehlungen, keine Renditeversprechen. Was du verdienst 40 % auf jede einzelne Zahlung — auch au…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://indicator.trading/de/money-flow?aff=adminstore#aff=adminstore
+- Sales page: https://indicator.trading/de/money-flow
+- Vendor affiliate support: https://indicator.trading/de/partner
+- Canonical redirect: https://www.digistore24.com/redir/712825/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sektorrotation live verfolgen — wohin Kapital rotiert · Money Flow Tape
+- **Meta description:** Sektorrotation bei Aktien, täglich gemessen: wohin Kapital über 17 Bereiche rotiert — und welche Termine den Markt wirklich bewegen. 14 Tage kostenlos testen.
+- **Headline (H1):**
+  > Follow the money.
+- **Section headlines (H2):**
+  - Nicht jede Bewegung ist eine Wende.
+  - Der Wirtschaftskalender hat ausgedient.
+  - Und dann die wichtigere Frage: wann.
+  - Warum fällt gerade dieser Sektor?
+  - Acht Module. Jedes beantwortet genau eine Frage.
+  - Der Money Flow Tape in 12 Minuten erklärt
+  - Zwei Blickwinkel auf dieselben Daten
+  - Wir veröffentlichen auch, was nicht funktioniert hat.
+  - Drei Situationen. Kennst du eine davon, bist du hier richtig.
+  - Vier Sätze, die wir dir nie sagen werden.
+- **Price mentions on page:** $17, $25, $33
+- **Opening copy (first paragraphs):**
+  > Die meisten Werkzeuge sagen dir, was du kaufen sollst. Money Flow Tape zeigt dir, wohin Kapital rotiert und wie belastbar diese Bewegung ist — damit du entscheiden kannst, wann eine Position Rückenwind hat, wann sie gegen den Strom läuft und wann Absichern überhaupt zur Debatte steht.
+  > Rotation Nicht jede Bewegung ist eine Wende. An der Börse hat das einen Namen: Sektorrotation. Kapital verschwindet nie, es wandert — raus aus Technologie, rein in Financials. Raus aus Aktien, rein in Gold. Money Flow Tape misst diese Rotation täglich über siebzehn Bereiche — als relative Stärke gegen den Gesamtmarkt, eingeordnet gegen die eigene Historie.
+  > Entscheidend ist aber nicht die Bewegung allein, sondern ob sie getragen wird . Deshalb siehst du jeden Bereich auf zwei Zeitachsen gleichzeitig: die letzten Wochen und die letzten Monate.
+  > Termine Der Wirtschaftskalender hat ausgedient. Ein Kalender sagt dir, dass etwas ansteht, und klebt drei Sterne daran. Er sagt dir nie, ob dieser Termin je etwas bewegt hat. Wir haben nachgezählt — neun regelmäßige Termine, jeweils an dem Markt, den der Termin betrifft.
+- **Page word count:** 2486
+- **OG image:** https://indicator.trading/og/mft-og-de.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

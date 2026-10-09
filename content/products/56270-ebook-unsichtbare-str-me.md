@@ -1,0 +1,52 @@
+# Ebook - Unsichtbare Ströme
+
+> Product ID `56270` · Digistore24 productId `683241` · [HTML profile page](../../reviews/ebook-unsichtbare-str-me-56270.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $12.54 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $6.28 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | joebgesbuchverleger39ac |
+| Listed since | 2026-04-08 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Dieses Buch trifft einen hochaktuellen Nerv: die wachsende Verunsicherung rund um 5G, elektromagnetische Strahlung und Windkraft. Es spricht gezielt eine kritische, informationssuchende Zielgruppe an und bietet reichlich Diskussionsstoff mit starkem emotionalem Trigger rund um Gesundheit und Umwelt. Die klare Positionierung und der investigative Ansatz machen es besonders attraktiv für Content-Mar…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/683241?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/683241
+- Canonical redirect: https://www.digistore24.com/redir/683241/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Unsichtbare Ströme von C. J. Jünger - Digistore24
+- **OG title:** Unsichtbare Ströme von C. J. Jünger
+- **Section headlines (H3):**
+  - Unsichtbare Ströme von C. J. Jünger
+  - Unsichtbare Ströme von C. J. Jünger
+  - Unsichtbare Ströme von C. J. Jünger
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Einleitung Unsere Welt wird immer vernetzter, schneller und effizienter. Technologien wie 5G und erneuerbare Energien prägen unseren Alltag – oft unbemerkt.
+  > Doch gleichzeitig entstehen neue, unsichtbare Einflüsse, die zunehmend in den Fokus wissenschaftlicher und gesellschaftlicher Diskussionen rücken.
+  > Dieses Buch nimmt Sie mit auf eine sachliche und tiefgehende Reise durch genau diese Entwicklungen – und stellt die entscheidende Frage: Welche Auswirkungen haben sie wirklich auf Mensch und Umwelt?
+  > „Unsichtbare Ströme“ beleuchtet die komplexe Welt elektromagnetischer Felder und akustischer Phänomene wie Infraschall.
+- **Page word count:** 1997
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5390043/image/product/IHBZBCNH.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,47 @@
+# Visitenseite | Onepager-Website für 299 €
+
+> Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../reviews/visitenseite-onepager-website-f-r-299-50448.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $452.90 (Single payment) |
+| Affiliate commission | 0% |
+| Earnings/sale* | $0.00 |
+| Cart conversion* | 14% |
+| Cancel rate* | 9.85% |
+| Vendor | janschulzesiebert |
+| Listed since | 2024-09-12 |
+| Auto-accept affiliates | yes |
+| Categories | Computer & Internet, Online Marketing & E-Business, Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Wir haben unsere Prozesse zum Entwickeln einer Website bzw. einer Homepage so standardisiert und professionalisiert, dass wir eine Website - für Einsteiger, für Gründer, für Virtuelle Assisten:innen, für Network-Marketer für lokale Unternehmen - super GÜNSTIG und richtig SCHNELL erstellen können. Im Prinzip also für jeden, der günstig im Web gefunden werden möchte und sich nicht erstmal mit einer …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://visitenseite.de/angebot?aff=adminstore#aff=adminstore
+- Sales page: https://visitenseite.de/angebot
+- Canonical redirect: https://www.digistore24.com/redir/570011/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Angebot | Visitenseite
+- **Meta description:** Ihr persönliches Festpreis-Angebot für eine professionelle Onepager-Website. Optional Domain-Paket und Benutzerlogin dazubuchen.
+- **Price mentions on page:** $14
+- **Opening copy (first paragraphs):**
+  > Guten Tag, wir erstellen für Sie eine moderne Onepager-Website – persönlich betreut durch Jan Siebert und Team, umgesetzt in sieben Tagen. Hosting, SSL-Zertifikat, Impressum und Datenschutz sind im Festpreis enthalten.
+  > Die optionalen Positionen können Sie anklicken. Die Summe aktualisiert sich sofort.
+  > Domain- & E-Mail-Paket optional Technische Domain-Registrierung und professionelles Postfach, wenn Sie noch keine eigene Website-Adresse haben. Damit bekommen Sie bei uns alles aus einer Hand.
+  > Ohne dieses Paket registrieren Sie Domain und E-Mail selbst bei einem Hoster Ihrer Wahl.
+- **Page word count:** 256
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

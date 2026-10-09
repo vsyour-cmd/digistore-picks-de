@@ -1,0 +1,52 @@
+# Ebook - 100 Zeitfresser die niemand braucht
+
+> Product ID `56396` · Digistore24 productId `689057` · [HTML profile page](../../reviews/ebook-100-zeitfresser-die-niemand-braucht-56396.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $6.79 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $3.40 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | joebgesbuchverleger39ac |
+| Listed since | 2026-04-30 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development, Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Ein stark nachgefragtes Thema mit enormem Alltagsbezug: Dieses Buch trifft den Nerv einer überlasteten Zielgruppe, die ständig unter Zeitdruck steht und nach praktischen Lösungen sucht. Es zeigt klar auf, wo Zeit verloren geht, und liefert direkt umsetzbare Strategien für mehr Produktivität, Fokus und Lebensqualität. Die Kombination aus konkretem Nutzen, emotionalem Schmerzpunkt („keine Zeit haben…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689057?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/689057
+- Canonical redirect: https://www.digistore24.com/redir/689057/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** 100 Zeitfresser die niemand brauch von Hawe Jott - Digistore24
+- **OG title:** 100 Zeitfresser die niemand brauch von Hawe Jott
+- **Section headlines (H3):**
+  - 100 Zeitfresser die niemand brauch von Hawe Jott
+  - 100 Zeitfresser die niemand brauch von Hawe Jott
+  - 100 Zeitfresser die niemand brauch von Hawe Jott
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Haben Sie oft das Gefühl, dass Ihnen die Zeit davonläuft? Dass Ihre To-do-Liste immer länger wird, während der Tag scheinbar zu kurz ist?
+  > Dieses Buch stellt genau diese Annahme infrage. Es zeigt, dass das Problem nicht fehlende Zeit ist – sondern wie wir mit ihr umgehen.
+  > Mit einem klaren Blick auf unseren Alltag deckt es auf, wo unsere Zeit wirklich verloren geht – oft unbemerkt und in kleinen, scheinbar harmlosen Momenten.
+  > Dieses Buch widmet sich einem zentralen Thema: den versteckten Zeitfressern in unserem Alltag.
+- **Page word count:** 2055
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5390043/image/product/HJYFEIEV.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

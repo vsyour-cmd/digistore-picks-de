@@ -1,0 +1,53 @@
+# Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen
+
+> Product ID `58274` · Digistore24 productId `703626` · [HTML profile page](../../reviews/magische-abenteuer-f-r-kleine-entdecker-lesen-und-ausmalen-58274.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $11.17 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $6.70 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | a968403496d45 |
+| Listed since | 2026-08-11 |
+| Auto-accept affiliates | yes |
+| Categories | Family & Children |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Das Geheimnis des Zauberbaums – ein magisches Kinderbuch- & Malbuch-Bundle voller Fantasie, Abenteuer und Kreativität! Begleite Roro, Bebo, Memo und Lily auf einer zauberhaften Reise durch den geheimnisvollen Zauberwald. Die spannende Geschichte lädt Kinder zum Lesen, Entdecken und Träumen ein, während das kreative Malbuch zusätzlichen Ausmalspaß bietet. Das Bundle enthält: 53 Seiten spannende Kin…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/703626?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/703626
+- Vendor affiliate support: https://abdo-5187.my.canva.site/affiliate-gm
+- Canonical redirect: https://www.digistore24.com/redir/703626/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Das Geheimnis des Zauberbaums - Digitales Kinderbuch und Ausmalbuch Bundle - Digistore24
+- **OG title:** Das Geheimnis des Zauberbaums - Digitales Kinderbuch und Ausmalbuch Bundle
+- **Section headlines (H3):**
+  - Das Geheimnis des Zauberbaums - Digitales Kinderbuch und Ausmalbuch Bundle
+  - Das Geheimnis des Zauberbaums - Digitales Kinderbuch und Ausmalbuch Bundle
+  - Das Geheimnis des Zauberbaums - Digitales Kinderbuch und Ausmalbuch Bundle
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Begleite Roro, Bebo, Memo und Lily auf einer zauberhaften Reise durch den geheimnisvollen Zauberwald. Eine liebevoll gestaltete Geschichte, die Kinder zum Lesen, Entdecken und Träumen einlädt.
+  > 53 Seiten spannende Kindergeschichte 40 Seiten kreatives Malbuch 4 PDF-Dateien inklusive Digitaler Sofort-Download Kein physischer Versand
+  > Perfekt für: Kinder, kreative Beschäftigung zu Hause, kleine Leser und alle, die magische Geschichten und Ausmalen lieben.
+  > Sichere dir jetzt das komplette Bundle und entdecke gemeinsam mit deinen Kindern die magische Welt des Zauberbaums!
+- **Page word count:** 470
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5596029/image/product/Y6WNY1KX.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

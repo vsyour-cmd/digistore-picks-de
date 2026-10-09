@@ -1,0 +1,39 @@
+# Bauch, Beine, Po-Programm für Freizeitpferde
+
+> Product ID `54802` · Digistore24 productId `594594` · [HTML profile page](../../reviews/bauch-beine-po-programm-f-r-freizeitpferde-54802.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $1094.16 (Single payment, Installment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $328.25 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | AnikasPferdeakademie |
+| Listed since | 2025-02-06 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Animals & Pets |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** BAUCH, BEINE, PO – das Trainingsprogramm für dein Freizeitpferd In nur 8 Wochen Muskulatur, Balance & Tragkraft aufbauen, für ein gesundes, motiviertes Pferd und entspannte Ausritte. Die perfekte Vorbereitung für das Leben als Reitpferd. Mit dem richtigen Trainingsplan zu einem tragfähigen Pferd, ganz ohne Frust oder Rätselraten. Statt ständig zu grübeln, was dein Pferd wirklich braucht, bekommst …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://aw.anikas-pferdeakademie.de/bbp?aff=adminstore#aff=adminstore
+- Sales page: https://aw.anikas-pferdeakademie.de/bbp
+- Canonical redirect: https://www.digistore24.com/redir/594594/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

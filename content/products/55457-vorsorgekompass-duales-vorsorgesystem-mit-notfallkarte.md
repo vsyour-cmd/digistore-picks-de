@@ -1,0 +1,53 @@
+# Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte
+
+> Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../reviews/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $36.66 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $14.66 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Erinnerungsbotschafter |
+| Listed since | 2026-01-21 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Affiliate-Information – Vorsorgekompass Der Vorsorgekompass ist ein digitales, duales Vorsorgesystem für Menschen, die ihre persönliche Notfall- und Vorsorgeplanung strukturiert vorbereiten möchten. Das System besteht aus zwei zentralen Bereichen: 1. Digitale Notfallkarte mit QR-Code und Premium-Wallpaper Im geschützten Dashboard können Nutzer wichtige Notfalldaten hinterlegen, zum Beispiel Notfal…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore
+- Sales page: https://erinnerungswerk.com/index.php?page_id=3581
+- Canonical redirect: https://www.digistore24.com/redir/662995/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Zugang zu Ihren Vorsorgedokumenten - Vorsorgekompass von Erinnerungswerk
+- **Meta description:** Vorsorgekompass
+- **Final URL after redirects:** https://erinnerungswerk.com/zugang-zu-ihren-vorsorgedokumenten/
+- **Headline (H1):**
+  > Zugang zu Ihren Vorsorgedokumenten
+  > Sichern sie sich und ihre Familie ab, bevor der Ernstfall eintritt
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/redir/22481/Erinnerungsbotschafter/ZXJpbm5lcnVuZ3N3ZXJrLmNvbQ==
+- **Opening copy (first paragraphs):**
+  > Der digitale Vorsorgekompass hilft Ihnen, Notfallinformationen, Vorsorgedokumente und persönliche Wünsche so zu ordnen, dass Ihre Familie im Ernstfall nicht suchen, raten oder improvisieren muss.
+  > Ein Unfall, ein Schlaganfall, ein Herzinfarkt oder ein plötzlicher Pflegefall kann von heute auf morgen alles verändern. Mit dem Vorsorgekompass bereiten Sie wichtige Informationen rechtzeitig vor – verständlich geführt, übersichtlich gespeichert und für den Ernstfall nutzbar.
+  > Lebenslanger Zugang zum Vorsorgekompass. Angaben, Dokumente und Freigaben können jederzeit geändert und aktualisiert werden.
+  > Angaben, Dokumente und Freigaben können lebenslang angepasst und aktualisiert werden.
+- **Page word count:** 672
+- **OG image:** https://erinnerungswerk.com/wp-content/uploads/2026/06/Familie.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

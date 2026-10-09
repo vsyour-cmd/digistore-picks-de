@@ -1,0 +1,40 @@
+# Starte Facebook und Instagram Ads
+
+> Product ID `52062` · Digistore24 productId `601695` · [HTML profile page](../../reviews/starte-facebook-und-instagram-ads-52062.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $65.27 (Single payment) |
+| Affiliate commission | 80% |
+| Earnings/sale* | $469.90 |
+| Cart conversion* | 2% |
+| Cancel rate* | 6.76% |
+| Vendor | FinestAudience |
+| Listed since | 2025-03-14 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** 80% Provision für Dich vom Frontend Kurs Diese Kursinhalte sind pure Praxiserfahrung.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://adsmastery.de/fb-ig-ads/?aff=adminstore#aff=adminstore
+- Sales page: https://adsmastery.de/fb-ig-ads/
+- Vendor affiliate support: https://drive.google.com/file/d/1aPeV8s_awz6POnKJlDBNlG58P0D-j-UQ/view?usp=sharing
+- Canonical redirect: https://www.digistore24.com/redir/601695/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

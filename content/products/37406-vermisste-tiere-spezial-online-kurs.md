@@ -1,0 +1,64 @@
+# Vermisste Tiere Spezial Online Kurs
+
+> Product ID `37406` · Digistore24 productId `348600` · [HTML profile page](../../reviews/vermisste-tiere-spezial-online-kurs-37406.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $111.86 (Single payment) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $27.96 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Andrea1A |
+| Listed since | 2020-09-18 |
+| Auto-accept affiliates | yes |
+| Categories | Animals & Pets |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** ONLINE: Vermisste Tiere Was kannst du als Tierbesitzer und/oder Tierkommunikator/in jetzt tun? Es gibt nichts Schlimmeres als, wenn unser Hund ausbüxt oder unsere Katze nicht mehr nach Hause kommt. Was du als Tierkommunikator/in tun kannst und was jetzt vor allem jetzt für den Tierhalter wichtig ist? In diesem Spezial Kurs für vermisste Tiere kannst du dein Wissen weiter vertiefen. Du wirst in die…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/?aff=adminstore#aff=adminstore
+- Sales page: https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/
+- Canonical redirect: https://www.digistore24.com/redir/348600/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Vermisste Tiere Online Seminar
+- **Meta description:** #vermisste Tiere Tierakademie Sofothilfemaßnhamen, was ist jetzt wichtig? Welche 1. Schritte sind entscheidend, Checkliste, 21 Tage Regelung. Für Tierhalter & Tierkommunikatorten
+- **Headline (H1):**
+  > Vermisste tiere
+- **Section headlines (H2):**
+  - Nichts ist schlimmer als sein geliebtes Tier zu vermissen.
+  - Wenn Dein Hund ausbüxt / Deine Katze nicht Heim kommt.
+  - Was kannst du als Tierkommunikator/in tun und was ist vor allem jetzt für den Tierhalter wichtig?
+  - Ja ich will wissen, was alles möglich ist
+  - und werde alle Schritte in die Wege leiten.
+  - Möchtest Du mehr über die so wichtigen 1. Schritte wissen, wenn Dein Tier vermisst wird?
+  - Was kannst Du tun, um den Tierhalter bestmöglich zu unterstützten?
+  - Das Seminarprogramm in der Tierakademie
+  - Wie kannst du dich bestmöglich vorbereiten?
+  - Dein Investment Starte jetzt für nur 79€ anstatt 119€
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/redir/288552/Andrea1A
+- **Opening copy (first paragraphs):**
+  > Dieser Kurs hilft dir: Wenn du bereits Tierkommunikatorin bist und du dich diesem schwierigen Thema widmen möchtest, um dein Wissen zu erweitern.
+  > Hole dir die perfekte Anleitung, die bereits vielen Menschen geholfen hat, ihre Tiere wiederzufinden.
+  > Nichts ist schlimmer als sein geliebtes Tier zu vermissen. Wenn Dein Hund ausbüxt / Deine Katze nicht Heim kommt.
+  > Das erwartet dich in diesem Selbstlernkurs: Besonderheiten bei der Kommunikation mit vermissten Tieren
+- **Questions the sales page answers:**
+  - Was kannst du als Tierbesitzer und/oder Tierkommunikator/in tun?
+- **Page word count:** 392
+- **OG image:** https://my.coachy.net/site/assets/files/0/40/70/115/spezial_seminar_vermisste_tiere_mit_text.1600445239.700x700.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

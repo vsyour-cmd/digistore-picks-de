@@ -1,0 +1,58 @@
+# Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
+
+> Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../reviews/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $168.83 (Single payment, Installment) |
+| Affiliate commission | 20% |
+| Earnings/sale* | $52.59 |
+| Cart conversion* | 12% |
+| Cancel rate* | 1.07% |
+| Vendor | ChannelingKongress |
+| Listed since | 2025-05-04 |
+| Auto-accept affiliates | yes |
+| Categories | Spiri­tua­lity & Esotericism, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** ✅ Deine Vorteile als Affiliate: • 20% Provision für den Verkauf des Online Kurses. Unsere Empfehlung: Bewerbe den Online Kurs mit dem erfolgreichen KOSTENLOSEN Urvertrauen-Webinar mit Pavlina Klemm, zu dem sich bereits mehr als 11.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg ins Urvertrauen weiterzugehen! DEIN AF…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore
+- Sales page: https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/
+- Vendor affiliate support: https://channeling-blog.com/akademie/partnerprogramm/#CAOK_08
+- Canonical redirect: https://www.digistore24.com/redir/610784/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Erwecke Dein Urvertrauen mit den Plejadern - Kurs Pavlina Klemm
+- **Meta description:** In dem Online Kurs mit Pavlina Klemm erweckst Du Dein Urvertrauen mit den Plejadern.
+- **Headline (H1):**
+  > Dein lichtvoller Weg zum Urvertrauen!
+  > Der Weihnachtsrabatt läuft noch:
+  > Warum jetzt der perfekte Moment ist?
+- **Section headlines (H2):**
+  - Weihnachtsgeschenk bis zum 30.12.
+  - Weihnachtsgeschenk bis zum 30.12.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/610784?voucher=F7MT5Y3
+  - https://www.digistore24.com/product/508221?voucher=249RCA5OK
+- **Opening copy (first paragraphs):**
+  > Erfahre durch die liebevolle Art von Pavlina Klemm das Wissen der Plejader für deinen Weg zum Urvertrauen.
+  > Denn Du bist mit der Aufgabe auf diesen Planeten gekommen, dein Urvertrauen zu erwecken.
+  > In 17 Lektionen wirst Du liebevoll begleitet. Du bindest Dich an die Frequenz des Vertrauens an, aktivierst Deine Intuition, findest den Weg zu Deiner Wahrheit und holst Seelenanteile zurück!
+  > Weihnachten ist nicht nur die Zeit, andere zu beschenken, sondern auch Dich selbst! Mit diesem Kurs schenkst Du Dir das Urvertrauen zurück. Die Plejader stehen liebevoll für Dich bereit.
+- **Page word count:** 1098
+- **OG image:** https://channeling-blog.com/wp-content/uploads/2025/05/CAOK_008_Z_Kurs_Thumbnail_1000px.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

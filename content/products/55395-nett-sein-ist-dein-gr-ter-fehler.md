@@ -1,0 +1,54 @@
+# Nett sein ist dein größter Fehler..
+
+> Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../reviews/nett-sein-ist-dein-gr-ter-fehler-55395.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $18.14 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $17.70 |
+| Cart conversion* | 10% |
+| Cancel rate* | 2.05% |
+| Vendor | gbuiss |
+| Listed since | 2026-01-30 |
+| Auto-accept affiliates | yes |
+| Categories | Dating, Relationships & Romance, Personal Development, Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Warum sagen Frauen Sätze wie „Du bist ein guter Typ, aber …“ und verschwinden trotzdem? Dieses E-Book ist kein Dating-Ratgeber mit Tricks. Es ist eine ehrliche Konfrontation mit dem, was Männer im modernen Dating immer wieder falsch machen ohne es zu merken. „Nett sein ist dein größter Fehler“ zeigt dir, warum Anpassung, Überbemühung und Angst vor Verlust Anziehung zerstören und wie du wieder bei …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/665255?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/665255
+- Canonical redirect: https://www.digistore24.com/redir/665255/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Nett sein ist dein größter Fehler - Digistore24
+- **OG title:** Nett sein ist dein größter Fehler
+- **Section headlines (H3):**
+  - Nett sein ist dein größter Fehler
+  - In diesem E-Book lernst du:
+  - Nett sein ist dein größter Fehler
+  - In diesem E-Book lernst du:
+  - Nett sein ist dein größter Fehler
+  - In diesem E-Book lernst du:
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Warum sagen Frauen Sätze wie „Du bist ein guter Typ, aber …“ und verschwinden trotzdem? Dieses E-Book ist kein Dating-Ratgeber mit Tricks. Es ist eine ehrliche Konfrontation mit dem, was Männer im modernen Dating immer wieder falsch machen – ohne es zu merken. „Nett sein ist dein größter Fehler“ zeigt dir, warum Anpassung, Überbemühung und Angst vor Verlust Anziehung zerstören – und wie du wieder bei dir bleibst. In diesem E-Book lernst du: warum Nettigkeit oft unattraktiv wirkt
+  > Alle Inhalte basieren auf realen Dating-Situationen , echten Gesprächen und klaren psychologischen Mustern. Jetzt downloaden.
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 608
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4324376/image/product/M744Q5S8.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

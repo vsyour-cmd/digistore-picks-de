@@ -1,0 +1,48 @@
+# Premium Mastermind Coaching - von Gunnar Kessler
+
+> Product ID `30311` · Digistore24 productId `253102` · [HTML profile page](../../reviews/premium-mastermind-coaching-von-gunnar-kessler-30311.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $504.78 (Single payment, Installment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $151.44 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | GTK-littlefreilich |
+| Listed since | 2018-12-18 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Mit dem Premium Mastermind Coaching bis zu 625€ pro Kunden verdienen (gesamter Upsell Funnel)! Im Premium Mastermind Coaching dreht sich alles um den persönlichen Erfolg. Da es sich um ein Coaching mit direkter Rückmeldung von Gunnar Kessler handelt, wird es ausschließlich über ein Auto-Webinar (Wir sagen Online Workshop) verkauft und Du wirst mit 30% am Frontsell beteiligt.Der Vorteil: Persönlich…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://gunnarkesslerwebinar.de/pmc-workshop-1400/?aff=adminstore#aff=adminstore
+- Sales page: https://gunnarkesslerwebinar.de/pmc-workshop-1400/
+- Canonical redirect: https://www.digistore24.com/redir/253102/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Kostenfreier Online Workshop
+- **Opening copy (first paragraphs):**
+  > Was Reiche ihren Kindern beibringen und normalen Menschen sonst ein Leben lang vorenthalten bleibt
+  > Das darfst Du nicht verpassen: In diesem Workshop teilt Online Unternehmer und Multi-Millionär Gunnar Kessler mit Dir welche Fähigkeiten und Strategien ihn zum Millionär machten und auch vielen seiner Kunden auf dem Weg dorthin halfen...
+  > Erfahre auch Du, was dir vorenthalten wird und mache dir Gunnar Kesslers Erfahrungen zunutze.
+  > ACHTUNG! Dieser Online Workshop ist nicht für die Öffentlichkeit zugänglich, sondern nur auf persönliche Einladung und aufgrund der technischen Gegebenheiten auf 100 Teilnehmer begrenzt - 100% KOSTENLOS.
+- **Questions the sales page answers:**
+  - An welche E-Mail-Adresse soll ich dir den Zugangs-Link zum Online-Workshop schicken?
+- **Page word count:** 733
+- **OG image:** https://gunnarkesslerwebinar.de/wp-content/uploads/2020/01/Gunnar-Bugatti.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

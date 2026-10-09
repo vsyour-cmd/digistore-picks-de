@@ -1,0 +1,60 @@
+# ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision
+
+> Product ID `57565` · Digistore24 productId `712329` · [HTML profile page](../../reviews/eternum-ki-praxis-kompass-ki-verst-ndlich-im-alltag-nutzen-39-40-provision-57565.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $40.77 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $16.31 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | megareichtum |
+| Listed since | 2026-07-16 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Business & Investment, Computer & Internet |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Der ehrliche Praxis-Ratgeber für alle, die KI endlich wirklich nutzen wollen – ohne Fachchinesisch, ohne leere Versprechen. Der ETERNUM KI-Praxis-Kompass ist ein komplettes Premium-Paket (Deutsch + Englisch inklusive): Praxis-Ratgeber mit 9 Kapiteln auf 167 Seiten – inkl. 3 geführte 60-Minuten-Wege zum Sofort-Start Prompt-Tresor mit 70 erprobten Prompts (12 Master + 58 Praxis) in 5 Kategorien Work…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://eternumtech.eu/ki-schnellstart?aff=adminstore#aff=adminstore
+- Sales page: https://eternumtech.eu/ki-schnellstart
+- Vendor affiliate support: https://eternumtech.eu/partner
+- Canonical redirect: https://www.digistore24.com/redir/712329/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** KI-Praxis-Kompass — Dein erster KI-Erfolg in 60 Minuten | ETERNUM
+- **OG title:** KI-Praxis-Kompass — Dein erster KI-Erfolg in 60 Minuten
+- **Meta description:** Das komplette KI-Premiumsystem: 70 Prompts, 12 Workflows, 14-Tage-Arbeitsbuch, Schnellkarten — 167 Seiten (DE + EN). Einmalig 39 €, sofortiger Download.
+- **Headline (H1):**
+  > KI nutzen — heute noch, ohne Vorkenntnisse.
+- **Section headlines (H2):**
+  - Warum der KI-Praxis-Kompass ?
+  - Was du bekommst — alles für 39 €
+  - Ist das für dich ?
+  - Warum nur 39 €?
+  - 60 Tage Geld-zurück- Garantie
+  - In 60 Minuten von Null auf KI
+  - Häufige Fragen
+  - Dein erster KI-Erfolg ist 60 Minuten entfernt.
+- **Price mentions on page:** $17
+- **Opening copy (first paragraphs):**
+  > Der ETERNUM KI-Praxis-Kompass: 70 Prompts, 12 Workflows, 14-Tage-Arbeitsbuch und Schnellkarten — das komplette Premiumsystem für deinen KI-Einstieg. DE + EN inklusive. Kein Vorwissen nötig. Kein Abo. Einmalig 39 €.
+  > Jetzt für 39 € starten Sichere Zahlung über Digistore24 · Sofortiger Download · 60 Tage Geld-zurück
+  > Du hörst überall von KI. ChatGPT, Automatisierung, „die Zukunft". Aber wo fängst du an? YouTube-Videos sind stundenlang. Online-Kurse kosten hunderte Euro. Und die meisten Tipps sind entweder zu technisch oder zu oberflächlich.
+  > Der KI-Praxis-Kompass ist das ruhige Gegenteil: Ein komplettes Premiumsystem — Ratgeber, 70 Prompts, 12 Workflows, Arbeitsbuch — das dir in 60 Minuten zeigt, wie du KI praktisch nutzt. In 14 Tagen baust du daraus dein eigenes KI-System.
+- **Page word count:** 1145
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

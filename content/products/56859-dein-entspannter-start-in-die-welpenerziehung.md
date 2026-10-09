@@ -1,0 +1,52 @@
+# Dein entspannter Start  in die Welpenerziehung
+
+> Product ID `56859` · Digistore24 productId `700100` · [HTML profile page](../../reviews/dein-entspannter-start-in-die-welpenerziehung-56859.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $39.21 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $15.68 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | sortner1f14b |
+| Listed since | 2026-06-11 |
+| Auto-accept affiliates | yes |
+| Categories | Animals & Pets, Education, Animals & Pets |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Herzlichen Glückwunsch zum Familienzuwachs! Die nächsten Wochen werden aufregend, wunderschön und – machen wir uns nichts vor – auch ein bisschen anstrengend. Dein Welpe ist wie ein kleines Kleinkind in einem flauschigen Fellanzug. Er weiß noch nichts von unseren menschlichen Regeln. Er weiß nicht, dass das Sofa teuer war oder dass man nachts schläft. Dieses E-Book ist dein stressfreier Fahrplan f…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/700100?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/700100
+- Canonical redirect: https://www.digistore24.com/redir/700100/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Dein entspannter Start in die Welpenerziehung - Digistore24
+- **OG title:** Dein entspannter Start in die Welpenerziehung
+- **Section headlines (H3):**
+  - Dein entspannter Start in die Welpenerziehung
+  - Dein entspannter Start in die Welpenerziehung
+  - Dein entspannter Start in die Welpenerziehung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Der Welpen-Code (E-Book, 32 Seiten) 23-Wochen-Fahrplan mit klaren Schritt-für-Schritt-Anleitungen – von der ersten Nacht bis zum sicheren Rückruf
+  > ✅ Wochenweise Trainingspläne Was dein Welpe JETZT lernen sollte (und was noch warten kann) – ohne Überforderung
+  > ✅ Praxis-Checklisten Stubenreinheit, Beißhemmung, Alleinbleiben, Sozialisierung – alles zum Abhaken
+  > ✅ Notfall-Strategien Was tun, wenn nichts klappt? Konkrete Lösungen für die häufigsten Krisen
+- **Page word count:** 395
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5540388/image/product/T8V8A3GO.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,53 @@
+# Hochzeitsreden der Eltern: Persönlich und Unvergesslich
+
+> Product ID `54137` · Digistore24 productId `574637` · [HTML profile page](../../reviews/hochzeitsreden-der-eltern-pers-nlich-und-unvergesslich-54137.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $10.45 (Single payment) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $1.04 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Hochzeitsplaza |
+| Listed since | 2024-10-10 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Family & Children |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Dieses E-Book (225+ Seiten) ist der perfekte Begleiter für alle, Brautväter und Brautmütter sowie enge Verwandte, die eine Hochzeitsrede halten dürfen. Seit 2010 gesammeltes Fachwissen, über 30 bewegende Redebeispiele, praxisnahe Tipps, KI-Prompt-Vorlagen, Checklisten und exklusive Gutscheincodes machen den Ratgeber zu einem echten Problemlöser.Zeitloses Thema, große Zielgruppe, sofortiger PDF-Dow…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/574637?aff=adminstore
+- Sales page: https://www.digistore24.com/product/574637
+- Canonical redirect: https://www.digistore24.com/redir/574637/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Hochzeitsreden der Eltern: Persönlich und Unvergesslich | Digistore24
+- **OG title:** Hochzeitsreden der Eltern: Persönlich und Unvergesslich
+- **Headline (H1):**
+  > Javascript benötigt
+  > Bitte bestätigen Sie
+  > Anschrift
+- **Section headlines (H2):**
+  - Das Download-Paket enthält:
+- **Opening copy (first paragraphs):**
+  > Bitte aktivieren Sie Javascript. Ohne Javascript können wir Ihnen Bestelldetails und Preise nicht korrekt anzeigen.
+  > Du stehst vor der besonderen Aufgabe, eine Hochzeitsrede zu halten, weißt aber nicht, wo du anfangen sollst? Dieser Ratgeber ist die Antwort! Auf über 225 Seiten teilen unsere Expert:innen ihr seit 2010 aufgebautes Fachwissen.
+  > Zudem zeigen wir dir, wie du Künstliche Intelligenz (kurz KI) als effektives Hilfsmittel nutzen kannst, um kinderleicht erste Entwürfe auf Papier zu bringen, kreative Blockaden zu überwinden und nützliche Inspirationen zu sammeln.
+  > Ob als Eltern(-Teil) der Braut oder des Bräutigams: Lasse dein Herz sprechen und kreiere einen unvergesslichen Redemoment.
+- **Page word count:** 1081
+- **OG image:** https://www.digistore24.com/pb/img/merchant_370840/image/product/J645HTZD.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

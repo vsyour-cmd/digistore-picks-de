@@ -1,0 +1,39 @@
+# eWorkbook für Frauen bei Trennung / 50% Provision
+
+> Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../reviews/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $19.75 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $9.88 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | office1376 |
+| Listed since | 2026-09-30 |
+| Auto-accept affiliates | yes |
+| Categories | Dating, Relationships & Romance, Education, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** „Du vermisst ihn nicht, du bist abhängig!“ ist ein praxisorientiertes Workbook für Frauen, die sich aus emotionaler Abhängigkeit, On-Off-Beziehungen und belastenden Bindungsmustern lösen möchten. Das Workbook verbindet verständlich aufbereitetes psychologisches Wissen mit konkreten Reflexionsfragen und Übungen für den Alltag. Ideal für Affiliates aus den Bereichen: Mental Health, Persönlichkeitsen…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689617?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/689617
+- Canonical redirect: https://www.digistore24.com/redir/689617/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

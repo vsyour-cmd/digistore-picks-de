@@ -1,0 +1,58 @@
+# Gitarre Lernen in 4 Wochen Crashkurs
+
+> Product ID `4809` · Digistore24 productId `33329` · [HTML profile page](../../reviews/gitarre-lernen-in-4-wochen-crashkurs-4809.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $188.00 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $94.01 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | norberg |
+| Listed since | 2014-09-22 |
+| Auto-accept affiliates | yes |
+| Categories | Dancing & Music |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Gitarre Lernen in 4 Wochen Crashkurs für Einsteiger. Die professionelle Gitarrenausbildung von Georg Norberg.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.gitarrencrashkurs.de/einsteiger/?aff=adminstore#aff=adminstore
+- Sales page: https://www.gitarrencrashkurs.de/einsteiger/
+- Canonical redirect: https://www.digistore24.com/redir/33329/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** GitarrenCrashkurs ★ Gitarre Lernen in 4 Wochen ► Präsentation läuft - Gitarrencrashkurs.de
+- **Headline (H1):**
+  > "Gitarre Lernen in 4 Wochen!"
+- **Section headlines (H2):**
+  - Es ist leichter als du denkst
+  - DAS IST KRASS: "Dieser Kurs ersetzt den Gitarrenlehrer!"
+  - Die Grundlagen professionell meistern
+  - PERSÖNLICH Wer ist Georg Norberg und wie kann er mir helfen?
+  - INHALT Ablauf und Lerninhalte
+  - Der Kurs ist für dich
+  - Wie fühlt man sich nach dem Kurs?
+  - Was meine Teilnehmer sagen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/33329?voucher=4WOCHEN
+- **Opening copy (first paragraphs):**
+  > Wenn du dich in einer dieser Fragen wiederkennst, bist du hier auf der richtigen Seite gelandet.
+  > Als neugieriger Einsteiger bewunderst du jeden begnadeten Gitarristen für sein Können. Du stellst dir vor, wie viel er dafür üben musste und wie lange er wohl schon spielt. Fragst du genauer nach, sind es oft jahrzehntelange Übung, die den Unterschied zwischen dir und ihm ausmachen.
+  > Doch eines ist für uns alle gleich. Niemand ist mit der Gitarre in der Hand aus dem Mutterleib geschlüpft. Jeder einzelne Profi hat irgendwann genau den selben Schritt gewagt, denn du heute gehst: Seinen ersten Akkord greifen und die erste Saite zupfen. Und bei manchen Menschen ist es Liebe auf den ersten Griff.
+  > Heute ist es meine Berufung und Leidenschaft, jedem Gitarristen diese magische Faszination der Gitarre weiterzugeben. Besonders Anfänger brauchen ein wunderbares Ersterlebnis, damit sie lebenslange Freude an der Gitarre haben. Je besser dein Start ist, umso besser kannst du werden.
+- **Page word count:** 1542
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

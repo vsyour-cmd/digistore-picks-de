@@ -1,0 +1,43 @@
+# KI ganz leicht verstehen – Affiliate über Webinar
+
+> Product ID `52152` · Digistore24 productId `648874` · [HTML profile page](../../reviews/ki-ganz-leicht-verstehen-affiliate-ber-webinar-52152.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $553.56 (Single payment, Installment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $276.79 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Life-in-Balance |
+| Listed since | 2025-11-16 |
+| Auto-accept affiliates | yes |
+| Categories | Computer & Internet, Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** KI ganz leicht verstehen ist ein Einsteigerkurs, der vor dem Webinar entstanden ist –das Webinar wurde später gezielt entwickelt, um Affiliates den Verkauf so einfach wie möglich zu machen. Das Ergebnis ist ein automatisiertes Webinar-System, das Interessenten selbstständig abholt, informiert und zu einer Kaufentscheidung führt. Der Affiliate muss nicht erklären, nicht verkaufen und keine Technik …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://22413.webinaris.co/32148/dieses_webinar_zeigt_dir_ki_so_einfach.html?mode=N&v=4&aff=adminstore#aff=adminstore
+- Sales page: https://22413.webinaris.co/32148/dieses_webinar_zeigt_dir_ki_so_einfach.html?mode=N&v=4
+- Vendor affiliate support: https://docs.google.com/document/d/1uiG5xw_nhJGGdFNbbrIIoUc6jLaYDZRJTPpJnOv_mg0/edit?usp=sharing
+- Canonical redirect: https://www.digistore24.com/redir/648874/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** KI leicht verstehen ohne Technikstress, ohne Vorwissen
+- **Meta description:** So nutzt du K&uuml;nstliche Intelligenz im Alltag sinnvoll -verst&auml;ndlich erkl&auml;rt, Schritt f&uuml;r Schritt.
+- **Page word count:** 7
+- **OG image:** https://2bewebinaris-fra.s3.amazonaws.com/media/providers/22413/file/images/ec4b961e0f8131d65988cde2885051ac.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

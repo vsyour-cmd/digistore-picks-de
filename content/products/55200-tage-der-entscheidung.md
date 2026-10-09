@@ -1,0 +1,61 @@
+# Tage der Entscheidung
+
+> Product ID `55200` · Digistore24 productId `621434` · [HTML profile page](../../reviews/tage-der-entscheidung-55200.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Seminar/event for recreation |
+| Price | $2107.44 (Single payment, Installment) |
+| Affiliate commission | 0% |
+| Earnings/sale* | $559.30 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Joerg-Loehr-ET |
+| Listed since | 2025-06-30 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Tage der Entscheidung –Erfolgreich LEBEN DEIN Seminar, wenn es um deine persönliche Weiterentwicklung geht. Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest. Deine Lebensziele Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu e…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://partner.joerg-loehr.com/seminare/tagederentscheidung?aff=adminstore#aff=adminstore
+- Sales page: https://partner.joerg-loehr.com/seminare/tagederentscheidung
+- Canonical redirect: https://www.digistore24.com/redir/621434/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Tage der Entscheidung - Jörg Löhr Akademie
+- **Meta description:** Erfolgreich LEBEN - Entdecke deine Stärken, setze Ziele und überwinde Selbstzweifel in einem intensiven Seminar mit Jörg Löhr.
+- **Headline (H1):**
+  > Tage der Entscheidung – Erfolg bewusst gestalten
+- **Section headlines (H2):**
+  - Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest.
+  - Tage der Entscheidung - Erfolg bewusst gestalten
+  - Ein paar Eindrücke von deinem Seminarort
+  - Eindrücke von deinem Seminarort
+  - Eindrücke von deinem Seminarort
+  - Hier kannst du dein Seminar buchen
+  - Jörg Löhr
+  - Schloss Hohenkammer
+  - Häufig gestellte Fragen
+  - Du hast dein Seminar bereits gebucht und hast Fragen? Dann melde dich bei:
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/621434
+- **Opening copy (first paragraphs):**
+  > Nutze also Jörgs bewährtes System, das bereits über 1 Mio. Menschen geholfen hat, Selbstzweifel zu überwinden und ihre Lebensziele zu erreichen.
+  > Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu erreichen.
+  > Lerne die exakten Methoden, die Hunderte erfolgreiche Menschen als ihren entscheidenden Auslöser zu privatem und beruflichem Glück bezeichnen.
+  > Erfahre, wie du Erfolg nicht nur planbar, sondern zur Gewohnheit machst und damit jeden Tag deinem Traumleben ein Stück näher kommst.
+- **Page word count:** 1306
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

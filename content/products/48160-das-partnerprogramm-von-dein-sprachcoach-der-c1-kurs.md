@@ -1,0 +1,62 @@
+# Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
+
+> Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../reviews/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $268.05 (Single payment, Installment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $104.89 |
+| Cart conversion* | 4% |
+| Cancel rate* | 2.13% |
+| Vendor | DeinSprachcoach |
+| Listed since | 2024-05-05 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** C1-Kurs "Grammatik-Helden und Wortschatz-Profis" - 30% pro Verkauf! Werde ebenfalls Affiliatepartner und profitiere von einem beliebten und einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]: 30% Provision vom C1-Kurs (199€) Überdurchschnittlich hohe Conversion Rates (bis zu 30% auf einzelnen Landingpages) Besonders lange Cookielaufzeit von 180 Tagen Persönlicher und schneller Support…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://dein-sprachcoach.de/c1-kurs/?aff=adminstore#aff=adminstore
+- Sales page: https://dein-sprachcoach.de/c1-kurs/
+- Vendor affiliate support: https://dein-sprachcoach.de/partnerprogramm/
+- Canonical redirect: https://www.digistore24.com/redir/551151/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sprechen wie ein Deutscher - Neu: Crashkurs zur deutschen Aussprache.
+- **Meta description:** Den deutschen Akzent loswerden - Jetzt mit meinem Crashkurs sprechen wie ein deutscher Muttersprachler und die deutsche Sprache meistern.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/687958
+  - https://www.digistore24.com/product/551151
+- **Opening copy (first paragraphs):**
+  > Lerne das C1-Niveau mit der DeinSprachcoach-Methode, mit der auch ich selbst die deutsche Sprache gelernt habe.
+  > Willst du endlich die deutsche Grammatik verstehen und selbstbewusst Deutsch sprechen?
+  > Ich weiß, es klingt verrückt, weil du wahrscheinlich denkst, dass Deutsch sehr kompliziert ist … … und es Jahre dauern wird, bis du dich bei der Grammatik wirklich sicher fühlst und einen breiten Wortschatz hast.
+  > Als ich nach Deutschland kam, war ich überhaupt nicht selbstbewusst. Damals konnte ich noch nicht so gut Deutsch und jedes Mal, wenn andere dabei waren, war ich total still und habe mich nicht getraut, etwas zu sagen. Dann habe ich verschiedene Bücher gelesen, an mehreren Kursen teilgenommen und versucht, all diese Grammatikregeln zu verstehen und viele neue Wörter zu lernen.
+- **Questions the sales page answers:**
+  - Willst du endlich die deutsche Grammatik verstehen und selbstbewusst Deutsch sprechen?
+  - um dir überhaupt Deutsch beizubringen?
+  - Jetzt bist also DU dran. Bist du bereit, endlich die deutsche Grammatik zu verstehen und deinen Wortschatz zu erweitern??
+  - WANN IST PASSIV MÖGLICH?
+  - 1. Wann beginnt der Kurs?
+  - 2. Wie lerne ich in diesem Kurs?
+  - 3. Wie bekomme ich die Arbeitshefte?
+  - 4. Wie lange dauert der Kurs?
+  - 5. Wie viel Zeit brauche ich pro Tag?
+  - 6. Wie lange habe ich Zugriff auf den Kurs?
+- **Page word count:** 2133
+- **OG image:** https://dein-sprachcoach.de/wp-content/uploads/2020/04/BigFM.svg_.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

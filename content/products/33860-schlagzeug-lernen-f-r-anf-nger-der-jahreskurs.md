@@ -1,0 +1,71 @@
+# Schlagzeug lernen für Anfänger - der Jahreskurs
+
+> Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../reviews/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $282.00 (Single payment, Subscription, Installment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $84.60 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | RudiHein |
+| Listed since | 2020-06-06 |
+| Auto-accept affiliates | yes |
+| Categories | Dancing & Music |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Der Kurs Schlagzeug kompakt ist für erwachsene Schlagzeug-Anfänger konzipiert und basiert auf jahrelanger Unterrichtserfahrung. Schritt für Schritt erlernt man das Schlagzeugspiel sowie Theorie und Notenlehre. Ein Jahr lang wird jede Woche ein Kapitel freigeschaltet mit mehreren Lektionen wie Warm-Up, Snare-Drum-Spiel, Drum-Set oder Theorie. Dazu gibts Übe-PDFs, Hörempfehlungen oder Playalongs, di…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/?aff=adminstore#aff=adminstore
+- Sales page: https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/
+- Canonical redirect: https://www.digistore24.com/redir/330335/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Schlagzeug Kompakt - Der Jahreskurs für Anfänger-aktuell
+- **Meta description:** Schlagzeug lernen Schlagzeuglernen Schlagzeuglehrer Schlagzeug online lernen
+- **Headline (H1):**
+  > Heißer Sommer-Heiße Preise- 40%
+- **Section headlines (H2):**
+  - Der schnellste und einfachste Weg, Schlagzeug spielen zu lernen
+  - Dieser Kurs beinhaltet alles,
+  - was du brauchst,
+  - um zu deiner Lieblingsmusik,
+  - in einer Band oder in einem Orchester zu spielen.
+  - - Vorkenntnisse nicht nötig -
+  - Dann bist du hier richtig!
+  - Ich zeige dir, wie du mit viel Spaß und Freude das Schlagzeugspielen erlernst und von Woche zu Woche deine Fortschritte hörst. Bereits nach kurzer Zeit groovst du zu deiner Lieblingsmusik. Und damit nicht genug:
+  - Dies wird der einzige Kurs sein, den du jemals belegen musst
+  - Hier zeige ich dir einige Ausschnitte, was du nach kurzer Zeit schon spielen kannst:
+- **Opening copy (first paragraphs):**
+  > Bei meinem Beruf als Musiklehrer und Musikpädagoge habe ich die unterschiedlichsten Menschen unterrichtet. Über die Jahre hinweg ist es mir gelungen, ein Schlagzeug-Lernsystem zu entwickeln, das bei allen funktioniert.
+  > Nach diesem System konnte es meinen Schülern gelingen, außergewöhnliche Fortschritte zu machen - unabhängig davon, welche musikalischen Vorkenntnisse sie mitbrachten. Aus der Praxis hatte ich bereits eine konkrete Strategie an der Hand und musste die einzelnen Bausteine nur noch in Video-Format transformieren.
+  > Schlagzeug spielen war schon immer mein Kindheitstraum. Mein Vorbild war Roger Taylor von der Gruppe Queen. Als Flüchtlingsfamilie aus Sudetendeutschland wollten meine Eltern (Vater Arzt, Mutter Pianistin) mir und meinen 7 Geschwistern eine solide Ausbildung ermöglichen. Schlagzeug spielen gehörte da leider nicht dazu. Wir sollten alle Klavier oder Geige spielen.
+  > Als Ministrant habe ich mir vom Erbe meiner Oma (2000DM damals) ein Schlagzeug gekauft und heimlich in den Katakomben der Kirche geübt. Bei einem Konzert habe ich dann meinen Vater überrascht und ihn davon überzeugt, dass ich Schlagzeugunterricht bekommen sollte.
+- **Questions the sales page answers:**
+  - Es war schon immer dein großer Wunsch, deine Lieblingslieder am Schlagzeug zu spielen? Oder in einer Band zu spielen?
+  - Vielleicht willst du dir auch endlich deinen Kindheitstraum erfüllen und das Schlagzeugspiel richtig lernen?
+  - Sind alle Videos gleich freigeschaltet?
+  - Ich kann schon ein wenig Schlagzeug spielen, bringt mir der Kurs dann was?
+  - Welche Ausstattung benötige ich, um Schlagzeug zu lernen?
+  - Ich habe schon musikalische Vorkenntnisse, langweile ich mich dann?
+  - Ich will gleich bei einem Stück mitspielen können, wie geht das?
+  - Ich bin schon über 60, kann ich es noch schaffen?
+  - Wie viel muss ich üben?
+  - Was ist mit lebenslanger Zugriff gemeint?
+- **Page word count:** 2261
+- **OG image:** https://my.coachy.net/site/assets/files/0/73/94/477/basic1.1711266135.700x700.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

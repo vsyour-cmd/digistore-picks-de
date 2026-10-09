@@ -1,0 +1,57 @@
+# Die 6 teuersten Fehler bei der Witwenrente
+
+> Product ID `55959` · Digistore24 productId `671223` · [HTML profile page](../../reviews/die-6-teuersten-fehler-bei-der-witwenrente-55959.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $41.13 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $37.24 |
+| Cart conversion* | 18% |
+| Cancel rate* | 0.45% |
+| Vendor | verwitwet-leben |
+| Listed since | 2026-02-24 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Die 6 teuersten Fehler bei der Witwenrente (Online-Videokurs) In diesem kompakten Videokurs erfährst Du, worauf es bei Witwenrente, Steuern und Einkommen wirklich ankommt – verständlich erklärt und direkt anwendbar. Du lernst unter anderem: die wichtigsten Grundlagen der gesetzlichen Rentenversicherung typische Rentenminderungen und wie Du sie erkennst Besonderheiten bei Witwen-, Witwer- und Erzie…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://verwitwet-leben.de/videokurs-stolperfallen/?aff=adminstore#aff=adminstore
+- Sales page: https://verwitwet-leben.de/videokurs-stolperfallen/
+- Canonical redirect: https://www.digistore24.com/redir/671223/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Videokurs: Die 6 wichtigsten Stolperfallen bei der Witwenrente
+- **Meta description:** Im Videokurs Die 6 wichtigsten Stolperfallen bei der Hinterbliebenenrente lernst Du alles, was Du als frische Witwe unbedingt wissen solltest
+- **Headline (H1):**
+  > Rezensionen: Was sagen zertifizierte Kundinnen?
+- **Section headlines (H2):**
+  - Die 6 wichtigsten Stolperfallen für Hinterbliebene
+  - Der Tod deines Partners liegt erst kurze Zeit zurück
+  - Gibt es etwas, was Du noch zum Video-Kurs Die 6 wichtigsten Stolperfallen anmerken möchtest?
+  - Weiterführende Links
+- **Opening copy (first paragraphs):**
+  > Und plötzlich musst du dich mit Dingen beschäftigen, mit denen du dich vorher nie auseinandersetzen musstest.
+  > ❌ Darauf bist du nicht vorbereitet! ❌ Du hast das Gefühl, nichts wirklich zu verstehen. ❌ U nd niemand erklärt dir, worauf es wirklich ankommt.
+  > Du bekommst Post von der Rentenversicherung und verstehst oft nur die Hälfte. Du triffst Entscheidungen und bist dir nicht sicher, ob sie später Nachteile haben.
+  > ❌ Fehler passieren nicht, weil du etwas falsch machen willst. ❌ Sondern weil dir niemand das System verständlich erklärt.
+- **Questions the sales page answers:**
+  - Du bist noch unsicher?
+  - Auswertungen zum Video-Kurs Die 6 wichtigsten Stolperfallen für Hinterbliebene?
+- **Page word count:** 1090
+- **OG image:** https://verwitwet-leben.de/wp-content/uploads/2026/04/2026_Videokurs_6-Stolperfallen_3-scaled.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

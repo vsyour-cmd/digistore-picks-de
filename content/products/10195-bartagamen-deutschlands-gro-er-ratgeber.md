@@ -1,0 +1,55 @@
+# Bartagamen - Deutschlands großer Ratgeber
+
+> Product ID `10195` · Digistore24 productId `70791` · [HTML profile page](../../reviews/bartagamen-deutschlands-gro-er-ratgeber-10195.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $9.39 (Single payment) |
+| Affiliate commission | 85% |
+| Earnings/sale* | $7.98 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Loewenstark |
+| Listed since | 2016-02-04 |
+| Auto-accept affiliates | yes |
+| Categories | Animals & Pets |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Hoch konvertierendes eBook für Bartagamen-Pfleger. ► Hohe Provision: 85%► Sehr geringe Stornoquote► Hoch konvertierendes eBook
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.bartagame.de/buch/?aff=adminstore#aff=adminstore
+- Sales page: http://www.bartagame.de/buch/
+- Vendor affiliate support: http://www.bartagame.de/affiliate/
+- Canonical redirect: https://www.digistore24.com/redir/70791/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** ▷ Bartagamen Buch (eBook, PDF) zum Download
+- **Meta description:** Dieses eBook ist Deine Schritt-für-Schritt Anleitung. Egal ob Du bereits Bartagame pflegst oder daran denkst welche zu kaufen. ➜ Jetzt mehr erfahren!
+- **Final URL after redirects:** https://www.bartagame.de/buch/
+- **Headline (H1):**
+  > Bartagamen - Deutschlands großer Ratgeber
+- **Section headlines (H2):**
+  - Über diesen Ratgeber:
+  - Das sagen meine Leser:
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/70791
+- **Opening copy (first paragraphs):**
+  > Das E-Book Bartagamen - Deutschlands großer Ratgeber" ist Deine Schritt-für-Schritt-Anleitung für eine optimale Pflege und glückliche Bartagamen.
+  > ✓ Folge einfach der Schritt-für-Schritt-Anleitung ✓ Lerne alle Grundlagen (für Anfänger geeignet) ✓ Anleitungen für eine optimale Ernährung ✓ Anleitung: Optimale Pflege und Hygiene ✓ Hilfestellungen bei allen Erkrankungen ✓ Terrarienbau Anleitung: Planung und Umsetzung ✓ Tutorial: So werden Deine Bartagamen handzahm
+  > Es gibt zahlreiche Webseiten und Bücher über Bartagamen. Wenige sind mit Liebe gestaltet, viele stiften mit falschen Angaben bei Pflegern für Verwirrung. Gerade in Internetforen und Facebook Gruppen sind zahlreiche falsche Informationen zu finden. Genau dies war mein Ansporn einen umfassenden, übersichtlichen und kompakten Ratgeber zum Thema Bartagamen zu schreiben.
+  > Ein großes Nachschlagewerk als Lösung für alle Probleme in komprimierter Form. Hiermit behältst du den Überblick und brauchst dir keine anderen Quellen zusammenzusuchen.
+- **Page word count:** 535
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

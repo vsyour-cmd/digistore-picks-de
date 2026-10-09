@@ -1,0 +1,53 @@
+# Option Screener Basic
+
+> Product ID `38951` · Digistore24 productId `426567` · [HTML profile page](../../reviews/option-screener-basic-38951.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $469.06 (Subscription) |
+| Affiliate commission | 20% |
+| Earnings/sale* | $93.82 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | mc_fireman |
+| Listed since | 2022-01-25 |
+| Auto-accept affiliates | yes |
+| Categories | Finances |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Dieses Produkt erlaubt Ihnen Cash Secured Puts zu scannen. Sie erhalten aus über 1.000.000 Optionsketten, die täglich wechseln Handelssignale, die auch durch Sie angepasst werden können. Es können die Optionszeiträume, die Strike Preise und das Delta angepasst werden. Auch lange erprobte Handelssignale stehen zur Verfügung. Diverse Filter erlauben Ihnen extrem schnell Scanergebnisse zu erhalten. A…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.tradesscanner.com//product_info.php?id=10&aff=adminstore#aff=adminstore
+- Sales page: https://www.tradesscanner.com//product_info.php?id=10
+- Canonical redirect: https://www.digistore24.com/redir/426567/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Tradesscanner
+- **OG title:** TradesScanner — Setups finden, statt danach zu suchen
+- **Section headlines (H2):**
+  - Option Screener Basic
+  - TradesScanner Option Screener Basic - der einfache Einstieg in den Optionshandel
+- **CTA button texts:** "Buy Now"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/426567
+- **Opening copy (first paragraphs):**
+  > Mit dem Option Screener Basic bietet der TradesScanner ein zentrales Werkzeug, das den Auswahlprozess von Aktienoptionen deutlich vereinfacht. Bisher war es oft n&ouml;tig, Aktien zun&auml;chst separat zu filtern, m&ouml;gliche Strategien zu definieren und dann in der Brokersoftware m&uuml;hsam geeignete Optionsketten zu vergleichen. Dieser zeitraubende Prozess wird mit dem Option Screener auf wenige Klicks reduziert.
+  > Der Screener liefert eine klare Auswahl an Chancen, basierend auf praxisnahen Kriterien wie:
+  > Damit lassen sich z. B. Strategien wie ein Bull Put Spread effizient vorbereiten und direkt bewerten.
+  > Ein Klick auf den Basiswert &ouml;ffnet den Chart mit relevanten Daten und Open-Interest-Bereichen. So k&ouml;nnen Trader ihre Strategie sofort anpassen und direkt beim Broker umsetzen - schnell, &uuml;bersichtlich und auf Basis verl&auml;sslicher Signale.
+- **Page word count:** 730
+- **OG image:** https://www.tradesscanner.de/assets/og/tradesscanner-og.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

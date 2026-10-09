@@ -1,0 +1,39 @@
+# E-Book: Komm zum Punkt! So drücken Sie sich klar aus
+
+> Product ID `28840` · Digistore24 productId `202589` · [HTML profile page](../../reviews/e-book-komm-zum-punkt-so-dr-cken-sie-sich-klar-aus-28840.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $6.16 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $3.09 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ThiloBaum |
+| Listed since | 2018-02-20 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Profession & Job |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** „Komm zum Punkt!“ ist Thilo Baums wichtigstes Buch. Es bündelt das relevante Wissen, damit sich Menschen in Unternehmen klar ausdrücken.Das Buch ist erstmals 2009 bei Eichborn erschienen und gehört heute zu Thilo Baums Eigenverlag. Die vierte Auflage ist aktualisiert und um neue Beispiele aus Seminaren ergänzt.Erfahren Sie auf 230 Seiten, wie klare Sprache funktioniert und wie Sie sie im Unternehm…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://klartextexperte.de/komm-zum-punkt/?aff=adminstore#aff=adminstore
+- Sales page: https://klartextexperte.de/komm-zum-punkt/
+- Canonical redirect: https://www.digistore24.com/redir/202589/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

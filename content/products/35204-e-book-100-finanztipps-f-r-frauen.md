@@ -1,0 +1,40 @@
+# E-Book "100 Finanztipps für Frauen"
+
+> Product ID `35204` · Digistore24 productId `358910` · [HTML profile page](../../reviews/e-book-100-finanztipps-f-r-frauen-35204.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $10.45 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $5.22 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | LauraKimKuhlemann |
+| Listed since | 2020-11-22 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Erhalte 50% Provision für jedes verkaufte E-Book! "How to be a rich girl: 100 Finanztipps für Frauen" richtet sich an alle Frauen, die endlich ihre Finanzen selbst in die Hand nehmen wollen und ihr Geld für sich arbeiten lassen wollen. Und das muss auch gar nicht kompliziert sein: Das Buch gibt praktische und einfache Tipps zu den wichtigsten Bereichen in Sachen Geld und Finanzen. So muss "frau" n…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://therichgirl.club/frauen-finanzen-buch-100-tipps/?aff=adminstore#aff=adminstore
+- Sales page: https://therichgirl.club/frauen-finanzen-buch-100-tipps/
+- Vendor affiliate support: https://therichgirl.club/affliate/
+- Canonical redirect: https://www.digistore24.com/redir/358910/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

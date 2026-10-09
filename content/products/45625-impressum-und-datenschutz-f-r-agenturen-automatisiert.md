@@ -1,0 +1,66 @@
+# Impressum und Datenschutz für Agenturen automatisiert
+
+> Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../reviews/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $267.12 (Subscription) |
+| Affiliate commission | 20% |
+| Earnings/sale* | $53.42 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Paragraf7 |
+| Listed since | 2018-06-15 |
+| Auto-accept affiliates | yes |
+| Categories | Computer & Internet, Law & Justice |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Agenturlizenz von easyRechtssicher: Webdesigner und Agenturen sichern bis zu 25 Kundenwebsites mit Datenschutzerklärung, Impressum und Cookie-Banner ab. Ein Plugin hält die Texte automatisch aktuell – ohne dass die Agentur bei jeder Gesetzesänderung nachbessern muss. Abo-Produkt, ca. 238 € pro Verkauf. Warum es sich lohnt, das zu bewerben: 20 % Provision je Zahlung – auch auf jede Folgezahlung, ni…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore
+- Sales page: https://easyrechtssicher.de/webdesigner-agenturen-3/
+- Vendor affiliate support: https://easyrechtssicher.de/partner-programm-ihre-vorteile
+- Canonical redirect: https://www.digistore24.com/redir/228023/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Agenturlizenz | easyRechtssicher
+- **Meta description:** Vollautomatische Rechtssicherheit für alle Deine Kundenprojekte – Plugin für 25 bis 150 Websites ab 19,99 Euro pro Monat.
+- **Final URL after redirects:** https://easyrechtssicher.de/produkte/agenturen
+- **Headline (H1):**
+  > Deine Kunden-Websites sind rechtliche Zeitbomben – und Du haftest dafür!
+- **Section headlines (H2):**
+  - Damit Du Dich auf Dein Kerngeschäft konzentrieren kannst
+  - Was ist in der Agenturlösung enthalten?
+  - Rechtstexte vom Kunden freigeben lassen
+  - Einfacher Consent-Banner für jede Kundenseite – aktuell kostenlos inklusive
+  - So funktioniert's in 6 Schritten
+  - Staffelpreise
+  - Das sagen Agenturen über uns
+  - Häufige Fragen
+  - Jetzt 14 Tage für 1 Euro testen
+- **CTA button texts:** "Startseite", "Starterpaket"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/714338
+  - https://www.digistore24.com/product/714339
+  - https://www.digistore24.com/product/714340
+- **Opening copy (first paragraphs):**
+  > Webdesigner & Agenturen Deine Kunden-Websites sind rechtliche Zeitbomben – und Du haftest dafür! Vollautomatische Rechtssicherheit für alle Deine Projekte mit unserem Datenschutz-Plugin für alle CMS – ohne Haftungsrisiko für Dich.
+  > ChatGPT & Co. veralten bei neuen Gesetzen. Unser Plugin aktualisiert alle Rechtstexte Deiner Kunden automatisch – ohne dass Du was tun musst.
+  > Andere Anbieter kosten Dich Stunden beim Setup. Unser Plugin: Installieren, aktivieren, fertig.
+  > Du haftest für alle Rechtstexte Deiner Kunden. Wir nehmen Dir diese Last ab und übernehmen die komplette Haftung.
+- **Page word count:** 2355
+- **OG image:** https://easyrechtssicher.de/og/produkte__agenturen.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

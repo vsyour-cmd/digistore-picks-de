@@ -1,0 +1,58 @@
+# 10% echte Lifetime Provisionen auf Webhosting!
+
+> Product ID `34142` · Digistore24 productId `35801` · [HTML profile page](../../reviews/10-echte-lifetime-provisionen-auf-webhosting-34142.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $91.33 (Subscription) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $0.49 |
+| Cart conversion* | 28% |
+| Cancel rate* | 4.62% |
+| Vendor | Rainbow-Web |
+| Listed since | 2014-11-06 |
+| Auto-accept affiliates | yes |
+| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Empfehlen Sie noch heute unsere günstigen, schnellen und zuverlässigen Webhosting-Pakete und erhalten Sie 10% Lifetime Provisionen auf alle Verkäufe (auch Upsells, Addons, Upgrades, Verlängerungen und Folgekäufe). Ihre Vorteile als Partner (Affiliate) 10% Lifetime Provisionen Sie erhalten auf alle Webhosting-Pakete und Webhosting-Bundles 10% Lifetime Provision (Pay per Sale). Das heisst Sie generi…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.rainbow-web.com?aff=adminstore#aff=adminstore
+- Sales page: https://www.rainbow-web.com
+- Vendor affiliate support: https://www.rainbow-web.com/ds24-partner
+- Canonical redirect: https://www.digistore24.com/redir/35801/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Webhosting ab 0,99 €, Domains ab 0,29 € - Rainbow-Web.com
+- **Meta description:** Rainbow-Web.com bietet schnelles, zuverlässiges und günstiges Webhosting und Domains für Privatpersonen und Unternehmen. Preiswert, einfach und sicher.
+- **Final URL after redirects:** https://www.rainbow-web.com/
+- **Headline (H1):**
+  > Schnelles Webhosting
+  > Günstige Domains
+- **Section headlines (H2):**
+  - Webhosting-Pakete
+  - Holen Sie sich Ihre Domain
+  - Warum Rainbow-Web.com?
+  - Einige Fakten über uns
+  - Unsere Kunden und Auszeichnungen
+- **Opening copy (first paragraphs):**
+  > Schnell durch SSD-Power Blitzschnelle Lese- und Schreibgeschwindigkeiten auf modernen Hochleistungs-Speicherplattformen.
+  > Maximale Sicherheit ISO 27001 TÜV-zertifizierte Rechenzentren und zusätzlicher Schutz vor DDoS-Attacken und anderen Angriffen.
+  > Serverstandort Deutschland Ihre Daten liegen niemals auf Servern im Ausland. Wir hosten ausschließlich in hochsicheren Rechenzentren in Deutschland.
+  > Betrieb mit CO2-neutralem Strom (Ökostrom) Die von uns genutzten Rechenzentren werden ausschließlich mit 100% erneuerbaren Energien aus zertifizierten Energiequellen betrieben.
+- **Page word count:** 3923
+- **OG image:** https://www.rainbow-web.com/images/webhoster-des-jahres-2023-1200x660.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

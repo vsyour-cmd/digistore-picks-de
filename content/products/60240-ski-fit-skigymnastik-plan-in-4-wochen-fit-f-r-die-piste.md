@@ -1,0 +1,40 @@
+# Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
+
+> Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../reviews/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $13.49 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $4.05 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | blitzferien |
+| Listed since | 2026-10-06 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness, Sport |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Skigymnastik für zu Hause: 12 Workouts in 4 Wochen (20–30 Min., ohne Geräte), 10 bebilderte Übungen für Kraft, Balance und stabile Knie, Tipps für die Piste und nach dem Skitag. 20 Seiten PDF, 12,90 €. 30 % Provision, Hauptsaison Oktober bis Februar. Werbemittel und fertige Texte: blitzferien.de/partner Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://blitzferien.de/ski-fit/?aff=adminstore#aff=adminstore
+- Sales page: https://blitzferien.de/ski-fit/
+- Vendor affiliate support: https://blitzferien.de/partner/
+- Canonical redirect: https://www.digistore24.com/redir/737391/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

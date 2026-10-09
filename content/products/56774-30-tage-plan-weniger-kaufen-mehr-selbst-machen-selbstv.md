@@ -1,0 +1,65 @@
+# 30-Tage-Plan „Weniger kaufen. Mehr selbst machen." — Selbstv
+
+> Product ID `56774` · Digistore24 productId `696677` · [HTML profile page](../../reviews/30-tage-plan-weniger-kaufen-mehr-selbst-machen-selbstv-56774.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $28.22 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $14.12 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ds24gug |
+| Listed since | 2026-06-01 |
+| Auto-accept affiliates | yes |
+| Categories | Food & Drink, Health & Fitness, Home & Garden |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Wachsende Zielgruppe: Menschen, die bewusster leben, Geld sparen und wissen wollen, was in ihren Produkten steckt. Der Plan führt durch 30 Tage Küche, Haushalt, Körperpflege und Vorrat — eine Aufgabe pro Tag, keine Vorkenntnisse nötig. Hohe Relevanz, klare Positionierung, persönliche Autorin mit eigenem Blog und E-Mail-Liste.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://gsund-und-guad.com/30-tage-plan-selbstversorger-start?aff=adminstore#aff=adminstore
+- Sales page: https://gsund-und-guad.com/30-tage-plan-selbstversorger-start
+- Vendor affiliate support: https://gsund-und-guad.com/30TP-aff-support
+- Canonical redirect: https://www.digistore24.com/redir/696677/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** 30 Tage weniger kaufen. Mehr selbst machen. | gsund-und-guad.com
+- **OG title:** Atelier MARRI Webdesign, Businessorientierte Websites, Online Marketing, Grafikdesign, Remote Viewing - Tel. 0160-2914524
+- **Meta description:** Der 30-Tage-Plan für ein selbstbestimmtes Leben. Küche, Haushalt, Körperpflege und Garten — eine Aufgabe pro Tag, keine Vorkenntnisse nötig. Sofort-Download als PDF.
+- **Headline (H1):**
+  > 30 Tage weniger kaufen.
+- **Section headlines (H2):**
+  - Mehr selbst machen
+  - Ich lebe seit Jahren so.
+  - Jetzt teile ich, was wirklich funktioniert.
+  - Du willst es ändern — aber weißt nicht, wo anfangen.
+  - 30 Tage. 4 Themenbereiche.
+  - Alles, was du brauchst.
+  - Dieser Plan ist für dich — wenn du anfangen willst.
+  - Frühe Leserinnen & Leser
+  - Einmalig, sofort verfügbar, für immer deins.
+  - Noch unsicher?
+- **Opening copy (first paragraphs):**
+  > Dein strukturierter Begleiter für ein selbstbestimmtes Leben — Küche, Haushalt, Körperpflege und Garten. Eine Aufgabe pro Tag. Keine Vorkenntnisse nötig.
+  > Ich lebe in einem alten Haus in den oberitalienischen Bergen, nicht weit von Mailand. Großer Garten, Holzofen, viel Stille. Und die feste Überzeugung, dass vieles, was wir täglich kaufen, eigentlich nicht gekauft werden müsste.
+  > Als ich mit meiner Tochter schwanger war, begann ich wirklich hinzuschauen: Was steckt in den Produkten, die ich täglich verwende? Was kommt auf meine Haut, in mein Essen, in unsere Wohnung?
+  > Das Ergebnis: Ein Plan: Dreißig Tage. Eine Aufgabe pro Tag. Keine Vorkenntnisse nötig.
+- **Questions the sales page answers:**
+  - KOMMT DIR DAS BEKANNT VOR?
+  - FÜR WEN IST DAS?
+- **Page word count:** 1012
+- **OG image:** https://gsund-und-guad.com/s3/d/wsw.website.15/public/images/pages/2026-05-28-at-153621-sauerteigbrot-gebacken.jpeg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

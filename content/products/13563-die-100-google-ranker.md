@@ -1,0 +1,55 @@
+# Die 100 Google Ranker
+
+> Product ID `13563` · Digistore24 productId `98545` · [HTML profile page](../../reviews/die-100-google-ranker-13563.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $53.58 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $32.15 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Cleriker |
+| Listed since | 2016-10-07 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Die 100 Google Ranker Der erste Videokurs, der 100 Marketing-Techniken zeigt, wie man seine Webseiten auf die 200 Google Faktoren SEO-optimiert. 10 Gründe, warum du Geld verdienen mit E-Books verschenken promoten solltest: Mit 60% die höchste Provision im Profi-Internet-Marketing-Bereich Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/?aff=adminstore#aff=adminstore
+- Sales page: https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/
+- Vendor affiliate support: http://www.larspilawski.de/affiliate-partnerprogramm/
+- Canonical redirect: https://www.digistore24.com/redir/98545/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** VIP - Area
+- **Meta description:** Mehr als 100 günstige Marketing-Angebote ✓ Videokurse ✓ E-Books ✓ Webhosting ✓ Done4You Service ✓ Marketing Tools
+- **Final URL after redirects:** https://vip.larspilawski.de/produkt-details/7
+- **Headline (H1):**
+  > Die 100 Google Ranker
+- **Section headlines (H2):**
+  - Wer ist Lars?
+  - Häufig gestellte Fragen
+  - 20 gute Gründe, sich für das Win-Win-Marketing Team zu entscheiden
+  - Mehr zum Win-Win-Marketer
+- **Opening copy (first paragraphs):**
+  > Sie erwerben hiermit den einzigartigen Videokurs die 100 Google Ranker , mit dem Sie in kurzer Zeit und auf Dauer ihre Seite an die Spitze von Google katapultieren.
+  > ➨ Viele Methoden funktionieren für Anfänger einfach nicht, weil sie zu kompliziert sind und zu viel Kapital benötigen. Mit diesem System brauchst Du weder Vorwissen noch Kapital, nur Fleiß und Motivation.
+  > ➨ Lars und sein Team haben sich auf Online Nischen-Marketing spezialisiert und bieten Dir ihre Hilfe bei der Umsetzung an, damit Du direkte Ergebnisse erzielst.
+  > ➨ Nutze Lars einmaliges Wissen und starte jetzt mit Nischenmarketing Deiner Wahl durch.
+- **Page word count:** 2366
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

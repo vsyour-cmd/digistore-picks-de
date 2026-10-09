@@ -1,0 +1,66 @@
+# TradingView Indikator | SwingCatcher
+
+> Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../reviews/tradingview-indikator-swingcatcher-33790.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $329.00 (Single payment) |
+| Affiliate commission | 15% |
+| Earnings/sale* | $65.74 |
+| Cart conversion* | 2% |
+| Cancel rate* | 3.42% |
+| Vendor | daxtrading |
+| Listed since | 2020-02-24 |
+| Auto-accept affiliates | yes |
+| Categories | Trading Products |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** TradingView – Bewerben Sie jetzt unseren Swing Catcher Indikator! Der professionell programmierte SwingCatcher Indikator gibt automatisiert Einstiegssignale. Konditionen für Partner: 30 % Provision sehr geringe Stornoquote Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.kagels-trading.de/tradingview-directional-swing-catcher/?aff=adminstore#aff=adminstore
+- Sales page: https://www.kagels-trading.de/tradingview-directional-swing-catcher/
+- Vendor affiliate support: https://www.kagels-trading.de/affiliate-registrierung/
+- Canonical redirect: https://www.digistore24.com/redir/309651/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Swing Catcher - Der Signal-Indikator für TradingView (2026)
+- **Meta description:** Swing Catcher - Der Signal-Indikator für TradingView (2026)
+- **Headline (H1):**
+  > Swing Catcher Signal Indikator
+- **Section headlines (H2):**
+  - Der vermutlich beste Signal-Indikator für TradingView.
+  - Der einzige Indikator, der Volumen basierende Re-Entry Signale gibt!
+  - Von Tradern für Trader entwickelt!
+  - Erfahre noch mehr über die Funktionen und Anwendungen .
+  - Unsere Auszeichnungen .
+  - Überzeuge dich selbst und hole dir den Swing Catcher Indikator.
+  - Häufige Fragen zum Swing Catcher Indikator
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/309651
+- **Opening copy (first paragraphs):**
+  > Der Swing Catcher Indikator ist ein wahres Meisterwerk und holt das Maximale aus deinem Trading heraus. Mit nur wenigen Klicks erhältst du automatische Trading Signale für alle Märkte mit leichter Bedienung und umfangreichen Funktionen .
+  > Unser professioneller und hochmoderne Swing Catcher Indikator treibt die Funktionen von TradingView an das maximale Limit. Kein anderer Indikator besitzt derartig ausgeklügelte Funktionen.
+  > Re-Entry Signale: Der Swing Catcher ist der einzige Indikator, der in der Lage ist, mehrfache Signale in eine Richtung zu geben. Daraus entstehende Gewinne übertreffen herkömmliche Indikatoren bei Weitem.
+  > Performance Dashboard: Damit du in jedem Markt und jedem Timeframe die richtige Einstellung verwendest, berechnet der Indikator automatisch die fünf profitabelsten Indikator-Einstellungen .
+- **Questions the sales page answers:**
+  - Ist eine kostenpflichtige TradingView Version nötig?
+  - Wie nutze ich den Indikator?
+  - Für welchen Markt ist der Swing Catcher anwendbar?
+  - Kann ich den Swing Catcher Indikator testen?
+  - War deine Frage nicht dabei?
+- **Page word count:** 1293
+- **OG image:** https://www.kagels-trading.de/wp-content/uploads/2026/02/KagelsTrading-Thumbnail_TradingView-Indikatoren_Swing-Catcher-Indikator.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,52 @@
+# Whitepaper Professionelle Erstellung plus Optimierung
+
+> Product ID `54477` · Digistore24 productId `642742` · [HTML profile page](../../reviews/whitepaper-professionelle-erstellung-plus-optimierung-54477.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $995.55 (Single payment) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $248.89 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | LidoConsultingAps |
+| Listed since | 2025-10-21 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Profession & Job, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Professionelle Whitepaper-Erstellung – Ihr Schlüssel zu erfolgreichem Content-Marketing Dieses Angebot richtet sich an Unternehmer:innen, Coaches und Agenturen, die ihre Expertise sichtbar machen und hochwertige Leads gewinnen möchten – mit einem individuell erstellten Whitepaper, das informiert, überzeugt und verkauft. Das Whitepaper wird vollständig nach Ihrem Branding und Themenfokus entwickelt…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/642742?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/642742
+- Canonical redirect: https://www.digistore24.com/redir/642742/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Whitepaper - Digistore24
+- **OG title:** Whitepaper
+- **Section headlines (H2):**
+  - Whitepaper-Komplettpaket – von der Idee bis zum Download
+  - Whitepaper-Komplettpaket – von der Idee bis zum Download
+  - Whitepaper-Komplettpaket – von der Idee bis zum Download
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mit diesem Paket erhalten Sie ein vollständig ausgearbeitetes Whitepaper inklusive Konzept, Text, Design und Vermarktungstexten – alles aus einer Hand. Ideal für Unternehmen, Marken und Expertinnen, die sich professionell positionieren und hochwertige Inhalte für Marketing, Vertrieb oder Messen benötigen.
+  > Zwei Korrekturrunden inklusive Professionelles PDF-Layout im Corporate Design (inkl. Cover und Grafikelemente)
+  > Ergebnis: Sie erhalten ein klar strukturiertes, optisch ansprechendes Whitepaper, das Vertrauen schafft, Ihre Expertise sichtbar macht und nachhaltig Leads generiert.
+  > Zielgruppe: Unternehmen, Agenturen und Selbstständige, die Content-Marketing strategisch einsetzen und sich als Expertinnen und Experten ihres Fachs präsentieren möchten.
+- **Page word count:** 782
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4931929/image/product/EB5T1LBK.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,52 @@
+# Nexus Academy - New Era x Ultimate Scale
+
+> Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../reviews/nexus-academy-new-era-x-ultimate-scale-57512.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $146.64 (Single payment, Installment) |
+| Affiliate commission | 45% |
+| Earnings/sale* | $65.99 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | bandolero |
+| Listed since | 2026-07-13 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business, Social Media, Online Marketing |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Das ultimative, vollautomatisierte System für High-End-Skills & Social-Media-Vertrieb. Unser hochkonvertierender Funnel verwandelt kalten Traffic in Rekordzeit in Sales. DEINE VORTEILE ALS AFFILIATE: 45 % Provision auf das Hauptprodukt (gemäß Digistore24-Provisionsmodell). High-Converting Funnel: Maximale Conversion-Rates und minimale Stornoquoten. Ready-to-use Werbemittel: Hochkonvertierende Stor…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/689909?aff=adminstore
+- Sales page: https://www.digistore24.com/product/689909
+- Canonical redirect: https://www.digistore24.com/redir/689909/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** NEXUS ACADEMY - New Era X Ultimate Scale - Digistore24
+- **OG title:** NEXUS ACADEMY - New Era X Ultimate Scale
+- **Section headlines (H3):**
+  - NEXUS ACADEMY - New Era X Ultimate Scale
+  - NEXUS ACADEMY - New Era X Ultimate Scale
+  - NEXUS ACADEMY - New Era X Ultimate Scale
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dass du auf dieser Seite gelandet bist, ist kein Zufall. Du hast den Lärm da draußen abgeschaltet, die Entscheidung getroffen und bist bereit, die alte Struktur hinter dir zu lassen. Ab heute gelten für dich neue Standards.
+  > Die NEXUS ACADEMY ist kein gewöhnlicher Online-Kurs, der dir veraltete Theorien verkauft. Es ist ein unaufhaltsames, perfekt ineinandergreifendes digitales System. Wir geben dir die mächtigsten High-End-Skills unserer Zeit an die Hand und zeigen dir die nackte Execution, vom ersten Klick bis zum fetten Vertrieb.
+  > Und das ist erst der Anfang: Die Nexus Academy wächst kontinuierlich, es kommen laufend neue, exklusive Module dazu!
+  > Die Maschine läuft warm. Schließe jetzt deine Anmeldung ab, sichere dir deinen exklusiven Zugang zur Academy und starte direkt mit der ersten Lektion.
+- **Page word count:** 1236
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1901458/image/product/RW6ZRNQZ.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

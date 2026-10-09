@@ -1,0 +1,52 @@
+# Sparen beim Einkaufen 2.0 (EBook)
+
+> Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../reviews/sparen-beim-einkaufen-2-0-ebook-43691.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $20.90 (Single payment) |
+| Affiliate commission | 0% |
+| Earnings/sale* | $5.59 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | RSMedicalWorldwide |
+| Listed since | 2023-04-21 |
+| Auto-accept affiliates | yes |
+| Categories | Food & Drink |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Sparen beim Einkaufen 2.0 Möchten Sie beim Einkaufen im Supermarkt bares Geld sparen? Dann ist dieses Ebook genau das Richtige für Sie! In diesem Ebook erfahren Sie, wie Sie beim Lebensmitteleinkauf im Supermarkt Geld sparen können, ohne dabei auf Qualität und Geschmack zu verzichten. Ich teile meine besten Tipps und Tricks mit Ihnen, die Ihnen helfen werden, Ihre Einkaufsliste zu optimieren, um I…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/495400?aff=adminstore
+- Sales page: https://www.digistore24.com/product/495400
+- Canonical redirect: https://www.digistore24.com/redir/495400/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sparen beim Einkaufen 2.0 - Digistore24
+- **OG title:** Sparen beim Einkaufen 2.0
+- **Section headlines (H3):**
+  - Sparen beim Einkaufen 2.0
+  - Sparen beim Einkaufen 2.0
+  - Sparen beim Einkaufen 2.0
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Möchten Sie beim Einkaufen im Supermarkt bares Geld sparen? Dann ist dieses Ebook genau das Richtige für Sie!
+  > In diesem Ebook erfahren Sie, wie Sie beim Lebensmitteleinkauf im Supermarkt Geld sparen können, ohne dabei auf Qualität und Geschmack zu verzichten. Ich teile meine besten Tipps und Tricks mit Ihnen, die Ihnen helfen werden, Ihre Einkaufsliste zu optimieren, um Ihr Budget zu schonen.
+  > Sie lernen das Geheimnis hinter Einkaufslisten, saisonalen Angeboten und kreativen Rezepten, die Ihnen dabei helfen werden, den besten Wert für Ihr Geld zu erhalten. Sie werden lernen, wie Sie die Preise vergleichen und Rabatte nutzen, um noch mehr zu sparen.
+  > Dieses Ebook ist perfekt für jede Familie, die monatlich viel Geld in den Lebensmitteleinkauf im Supermarkt investieren muss. Es ist auch ideal für Studenten und Singles, die dennoch preisbewusst einkaufen wollen.
+- **Page word count:** 700
+- **OG image:** https://www.digistore24.com/pb/img/merchant_2533669/image/product/WYI6ZX3Y.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

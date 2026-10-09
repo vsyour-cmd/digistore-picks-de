@@ -1,0 +1,53 @@
+# Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)
+
+> Product ID `56802` · Digistore24 productId `695292` · [HTML profile page](../../reviews/spiel-dein-leben-der-problemshift-50-masterkey-40-56802.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $993.15 (Single payment, Installment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $397.26 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | infonewlifegamesccfe |
+| Listed since | 2026-06-04 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Dating, Relationships & Romance, Health & Fitness, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Du willst Geld verdienen. Hier ist wie. Der leichtere Weg, zu dem Leben, dass du willst. Das Wissen aus tausenden Jahren, das dir niemand verrät Ohne Tool. Ohne teure Coachings. Erkenne, dass du jederzeit neu wählen kannst, egal, wo du jetzt stehst. Der ProblemShift zeigt, wie man jedes Problem löst – effizient, schnell, dauerhaft. Das Produkt verkauft sich selbst. Warum? Weil jeder darin sich sel…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/695292?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/695292
+- Vendor affiliate support: https://partner.newlifegames.ch
+- Canonical redirect: https://www.digistore24.com/redir/695292/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Masterkey - Spiel dein Leben - Digistore24
+- **OG title:** Masterkey - Spiel dein Leben
+- **Section headlines (H3):**
+  - Masterkey - Spiel dein Leben
+  - Masterkey - Spiel dein Leben
+  - Masterkey - Spiel dein Leben
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Spiel dein Leben ist die einzige Methode, die dir erlaubt ohne teure Coaches, dein bestes Leben zu leben — egal was du für Ziele und Wünsche hast.
+  > Du hast den ersten Schritt gemacht. Du hast die 7 Wahrheiten im ProblemShift kennengelernt. Du weisst jetzt was dich zurückgehalten hat.
+  > Und du weisst: Es war nie an dir. Jetzt ist es Zeit für den nächsten Schritt. Den letzten Schritt den du jemals brauchst.
+  > Der "Spiel dein Leben" MasterKey ist nicht ein weiterer Kurs. Nicht ein weiteres Tool. Nicht ein weiterer Coach der dir sagt was du tun sollst.
+- **Page word count:** 822
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5539520/image/product/B90JE162.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

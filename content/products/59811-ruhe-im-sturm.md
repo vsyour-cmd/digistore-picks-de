@@ -1,0 +1,39 @@
+# Ruhe im Sturm
+
+> Product ID `59811` · Digistore24 productId `737931` · [HTML profile page](../../reviews/ruhe-im-sturm-59811.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $30.31 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $15.16 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | sentinelsystem |
+| Listed since | 2026-09-26 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Ruhe im Sturm – Der praxisnahe Leitfaden für eiskalte Disziplin und psychologische Stärke im Trading Verliere an der Börse nicht länger die Kontrolle durch Angst, Gier oder unüberlegte Rache-Trades. „Ruhe im Sturm Trading“ ist der kompromisslose Leitfaden für Trader, die ihr Risiko perfekt managen, ihre Emotionen ausschalten und dauerhaft konsistent agieren wollen. Emotionale Fallen eliminieren: E…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/737931?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/737931
+- Canonical redirect: https://www.digistore24.com/redir/737931/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

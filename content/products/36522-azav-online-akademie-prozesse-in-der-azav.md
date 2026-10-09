@@ -1,0 +1,53 @@
+# AZAV Online-Akademie - Prozesse in der AZAV
+
+> Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../reviews/azav-online-akademie-prozesse-in-der-azav-36522.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Webinar |
+| Price | $149.46 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $44.83 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | UrsulaWienken |
+| Listed since | 2021-04-15 |
+| Auto-accept affiliates | yes |
+| Categories | Leadership & Management |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Wer die AZAV beherrschen will, der muss ich mit dem Thema Prozessmanagement auseinandersetzen. Das Training leitet die Teilnehmer*innen praxisbezogen und gut nachvollziehbar durch die Welt der AZAV-Prozesse, liefert den notwendigen theoretischen Hintergrund, ohne zu akademisch zu werden und beinhaltet Übungen und viele praxisrelevante Arbeitshilfen und Beispiele.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore
+- Sales page: https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren
+- Canonical redirect: https://www.digistore24.com/redir/384784/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** AZAV konforme Prozesse definieren
+- **Headline (H1):**
+  > AZAV konforme Prozesse definieren
+  > 159,00
+  > Extras
+- **Section headlines (H2):**
+  - inkl. Mehrwertstteuer
+  - inkl. Mehrwertstteuer
+- **Opening copy (first paragraphs):**
+  > Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website zu verbessern.
+  > Essentielle Cookies ermöglichen grundlegende Funktionen und sind für das ordnungsgemäße Funktionieren der Website erforderlich.
+  > Statistik-Cookies sammeln Informationen anonymisiert. Diese Informationen helfen zu verstehen, wie Besucher diese Website nutzen.
+  > Marketing-Cookies werden von Drittanbietern verwendet, um personalisierte Werbung anzuzeigen. Sie tun dies, indem sie Besucher über Websites hinweg verfolgen.
+- **Page word count:** 380
+- **OG image:** https://my.coachy.net/site/assets/files/0/60/75/875/3_1.1616857671.700x700.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

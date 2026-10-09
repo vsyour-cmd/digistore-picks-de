@@ -1,0 +1,51 @@
+# MUTiviert Coach - Dein digitaler Begleiter
+
+> Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../reviews/mutiviert-coach-dein-digitaler-begleiter-57534.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $9.39 (Subscription) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $0.94 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | coachd535 |
+| Listed since | 2026-07-14 |
+| Auto-accept affiliates | yes |
+| Categories | Spiri­tua­lity & Esotericism, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Du trägst gerade zu viel.Allein. Die Gedanken rasen. Der Tag zieht dich. Abends fragst du dich, wo du selbst geblieben bist.MUTiviert Coach ist da — genau dann, wenn du jemanden brauchst. 24/7, auf Deutsch. MUTiviert Coach begleitet Nutzer täglich mit motivierenden Impulsen, Erinnerungen und kleinen Denkanstößen für mehr Selbstdisziplin, bessere Gewohnheiten und einen positiveren Alltag. Kein Down…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/710169?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/710169
+- Canonical redirect: https://www.digistore24.com/redir/710169/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** MUTiviert Coach Plus - Dein persönlicher digitaler Begleiter - Digistore24
+- **OG title:** MUTiviert Coach Plus - Dein persönlicher digitaler Begleiter
+- **Section headlines (H3):**
+  - MUTiviert Coach Plus - Dein persönlicher digitaler Begleiter
+  - MUTiviert Coach Plus - Dein persönlicher digitaler Begleiter
+  - MUTiviert Coach Plus - Dein persönlicher digitaler Begleiter
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Plus (9,99€/Monat): Manchmal steckst du fest - nicht weil du es nicht willst, sondern weil du nicht weißt wo du anfangen sollst. MUTiviert Coach Plus ist dein persönlicher Begleiter, der immer verfügbar ist. Keine Wartezeiten, kein Termin, kein Scham. Bis zu 150 Gespräche pro Monat, Journaling für deine tiefsten Gedanken und ein Wachstumsplan der wirklich zu dir passt. Für Menschen, die bereit sind hinzuschauen.
+  > Plus (9,99€/Monat): Manchmal steckst du fest - nicht weil du es nicht willst, sondern weil du nicht weißt wo du anfangen sollst. MUTiviert Coach Plus ist dein persönlicher Begleiter, der immer verfügbar ist. Keine Wartezeiten, kein Termin, kein Scham. Bis zu 150 Gespräche pro Monat, Journaling für deine tiefsten Gedanken und ein Wachstumsplan der wirklich zu dir passt. Für Menschen, die bereit sind hinzuschauen.
+  > Plus (9,99€/Monat): Manchmal steckst du fest - nicht weil du es nicht willst, sondern weil du nicht weißt wo du anfangen sollst. MUTiviert Coach Plus ist dein persönlicher Begleiter, der immer verfügbar ist. Keine Wartezeiten, kein Termin, kein Scham. Bis zu 150 Gespräche pro Monat, Journaling für deine tiefsten Gedanken und ein Wachstumsplan der wirklich zu dir passt. Für Menschen, die bereit sind hinzuschauen.
+- **Page word count:** 395
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5663946/image/product/ZAA6LGZX.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

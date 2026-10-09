@@ -1,0 +1,54 @@
+# E-Book Bundesstraße 30 – Geschichte exklusiv bewerben
+
+> Product ID `54888` · Digistore24 productId `654604` · [HTML profile page](../../reviews/e-book-bundesstra-e-30-geschichte-exklusiv-bewerben-54888.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $7.30 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $2.19 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | erit-tibi |
+| Listed since | 2025-12-10 |
+| Auto-accept affiliates | yes |
+| Categories | Politics & Economy |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** E-Book „Bundesstraße 30 – Geschichte“ – jetzt bewerben und empfehlen Das E-Book „Bundesstraße 30 – Geschichte“ bietet eine präzise und faktenbasierte Darstellung eines der bedeutendsten Verkehrswege in Baden-Württemberg. Die B 30 prägt seit Jahrhunderten den Verkehr in Oberschwaben – von römischen Wegführungen über Handels- und Postrouten bis hin zur modernen Bundesfernstraße. Zugleich steht sie w…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html?aff=adminstore#aff=adminstore
+- Sales page: https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html
+- Canonical redirect: https://www.digistore24.com/redir/654604/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** E-Book Geschichte
+- **OG title:** E-Book Bundesstraße 30 – Geschichte
+- **Meta description:** Die Bundesstraße 30 zählt zu den bedeutendsten Nord-Süd-Verbindungen in Baden-Württemberg. Sie prägt seit Jahrhunderten den Verkehr in Oberschwaben – von römischen Wegführungen über
+- **Headline (H1):**
+  > E-Book Bundesstraße 30 – Geschichte
+- **Section headlines (H3):**
+  - Beschreibung
+  - Autor
+  - Details
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/654604
+- **Opening copy (first paragraphs):**
+  > Autor Franz Fischer, geboren 1980 in Bad Waldsee, besch&auml;ftigt sich seit 1996 mit dem deutschen Stra&szlig;en- und Verkehrswesen. Seine Arbeiten befassen sich mit Verkehrsnetzen, Bedarfs- und Stra&szlig;enplanung, Verkehrspolitik sowie L&auml;rm- und Umweltschutz. Er ist Herausgeber der Zeitung &bdquo;B30 Insider" und Gr&uuml;nder der gemeinn&uuml;tzigen &bdquo;Initiative B30".
+- **Page word count:** 602
+- **OG image:** https://www.b30oberschwaben.de/assets/templates/w3-resp/images/ban-hl-n_gsb_2016-09-29.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

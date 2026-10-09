@@ -1,0 +1,65 @@
+# Online-Hundetrainingsplattform - mydog365
+
+> Product ID `37712` · Digistore24 productId `361952` · [HTML profile page](../../reviews/online-hundetrainingsplattform-mydog365-37712.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $225.68 (Subscription) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $9.30 |
+| Cart conversion* | 21% |
+| Cancel rate* | 3.51% |
+| Vendor | mydog365 |
+| Listed since | 2020-12-09 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Animals & Pets |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Dupliziere unser Erfolgsrezept auf deiner Website! Wir zahlen 25% Provision auf jeden Monats- bzw. Jahresbeitrag bei einem Abonnement und ebenfalls 25% Provision bei einem Einzelkurskauf. Die Online-Hundetrainingsplattform von mydog365 hat seit der Gründung bereits über 200.000 Hund-Mensch-Teams erfolgreich begleitet. Die Vorteile unser Plattform im Vergleich zu anderen Online-Hundeschulen, zeigt …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://mydog365.de/?aff=adminstore#aff=adminstore
+- Sales page: https://mydog365.de/
+- Vendor affiliate support: https://mydog365.de/partner/
+- Canonical redirect: https://www.digistore24.com/redir/361952/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** mydog365 | Erziehung, Auslastung und Tricks für deinen Hund
+- **OG title:** Wir sind mydog365 - Deutschlands größte Online-Hundeschule!
+- **Meta description:** Lerne in modernen Onlinekursen zu den häufigsten Themen ganz neu, mit deinem Hund zu kommunizieren und löst eure Probleme!
+- **Headline (H1):**
+  > Deine Online-Akademie für “Verständnis-Training”
+- **Section headlines (H2):**
+  - Bekannt aus:
+  - Kennst du das?
+  - Unser Ansatz: Verständnis-Training
+  - Das bekommst du bei mydog365
+  - Unsere Intensivworkshops
+  - Das Sagen unsere Teilnehmer
+  - Unser Partner: Ziemer & Falke
+  - Deine Sicherheit - Unser Versprechen
+  - Dein zeitlich begrenztes Angebot
+  - So ist mydog365 entstanden :
+- **Opening copy (first paragraphs):**
+  > Dein Hund.... zieht an der Leine? bellt andere Menschen/Tiere an? kommt nicht zuverlässig, wenn du ihn rufst? versteht häufig einfach nicht, was du von ihm willst? Jetzt starten
+  > Fragst du dich manchmal... ob dein Hund eigentlich genug geistig ausgelastet ist – und nicht nur körperlich? ob du ihm im Alltag genügend Anreize und Denkaufgaben bietest? ob ihr gemeinsam genug Abwechslung habt – jenseits vom täglichen Spaziergang? ob ihr beide mehr Motivation hättet, wenn das Training spielerischer wäre? Jetzt starten
+  > Fragst du dich manchmal... ob du deinem Hund auch wirklich gerecht wirst? ob das Training überhaupt bei deinem Hund funktionieren kann? ob du zu streng oder zu inkonsequent bist? oder ob du auch zu viel erwartest - von dir und deinem Hund? Jetzt starten
+  > Die Kommunikation mit deinem Hund ist das A & O! Deshalb arbeiten wir in unseren Online-Workshops mit dem Leitsatz “Verstehe deinen Hund, damit er dich versteht” - So kannst du ganz entspannt mit deinem Hund trainieren. Ganz locker, ohne jeglichen Zwang oder Unterdrückung.
+- **Questions the sales page answers:**
+  - Keine Ideen zur Auslastung?
+  - Zweifel an dir selbst?
+- **Page word count:** 1756
+- **OG image:** https://mydog365.de/wp-content/uploads/2021/06/mydog365_Kurse__44_1080h.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

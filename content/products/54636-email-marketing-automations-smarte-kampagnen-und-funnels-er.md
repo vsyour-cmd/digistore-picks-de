@@ -1,0 +1,59 @@
+# Email Marketing Automations: Smarte Kampagnen und Funnels er
+
+> Product ID `54636` · Digistore24 productId `647619` · [HTML profile page](../../reviews/email-marketing-automations-smarte-kampagnen-und-funnels-er-54636.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $335.58 (Subscription) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $100.67 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Skenteridis |
+| Listed since | 2025-11-11 |
+| Auto-accept affiliates | yes |
+| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** EMAIL MARKETING – KAMPAGNEN & FUNNELS ERSTELLEN & PFLEGE 300€/Monat (Paket Automat A2 = 5Stunden/Monat) ABO / Kündbar / Down-Updatebar #0 Einrichtung & Pflege von Automationen #1 E-Mail-Sequenzen & Newsletter-Erstellung #2 Analyse & Optimierung deiner Funnels #3 Technische Integration & Verknüpfung #4 Segmentierung & Tagging #5 Beratung & Strategie-Calls #6 Pflege / Betreuung / Unterstützung #7 Re…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore
+- Sales page: https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/
+- Vendor affiliate support: https://robotics-marketing.com/de-landing/affiliate-partner-webdesign-digistore24/
+- Canonical redirect: https://www.digistore24.com/redir/647619/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** 300euro-monat-5stunde-automat-diensleistungen-digistore24 - Robotics Marketing AI Workflows
+- **Headline (H1):**
+  > EMAIL MARKETING - KAMPAGNEN & FUNNELS
+  > ERSTELLEN & PFLEGE
+  > ABO - KÜNDBAR - DOWN-UPDATEBAR
+- **Section headlines (H2):**
+  - RISIKOSICHER
+  - RATENZAHLUNGEN MÖGLICH
+  - MEINE DIESTLEISTUNGEN UND PRODUKTEN
+  - Testimonials 2025
+  - Was sagen Kunden
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/647619
+- **Opening copy (first paragraphs):**
+  > #0 Einrichtung & Pflege von Automationen::Erstellung, Optimierung und Wartung deiner KlickTipp-Automationen, Tags, Kampagnen und Anmeldeprozesse. .
+  > #1 E-Mail-Sequenzen & Newsletter-Erstellung::Professionelle Erstellung und Versandplanung von E-Mail-Serien, Launch-Sequenzen und Newslettern, angepasst an deine Produkte und Zielgruppen.
+  > #2 Analyse und Optimierung deiner Funnels:: Regelmäßige Prüfung und Optimierung deiner -Funnel, um Conversionraten und Verkäufe zu steigern.
+  > #3 Technische Integration & Verknüpfungen::Einrichtung und Pflege der Schnittstellen zwischen KlickTipp, Copecart, Digistore24, Webseiten und Zahlungsanbietern, Terminbuchungs-und Webinarsysteme
+- **Page word count:** 1609
+- **OG image:** https://robotics-marketing.com/wp-content/uploads/2025/11/Email-Marketing-Automation-D50-Robotics-Marketing-robotics-marketing.com-Avraam-Skenteridis-texniti-noimosini-ai-webdesign-Online-Marketing-AI-Chatbots-Automation-Marketing-VIP-ONLINE-UNIVERITY.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

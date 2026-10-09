@@ -1,0 +1,50 @@
+# Sichtbar u. Begehrt Mastery
+
+> Product ID `55844` · Digistore24 productId `672438` · [HTML profile page](../../reviews/sichtbar-u-begehrt-mastery-55844.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $55.46 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $27.73 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | JessicaJanzen |
+| Listed since | 2026-02-24 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Business & Investment |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Was wäre, wenn du nicht nur aus deiner kleinen Zielgruppe maximale Sales rausholst, sondern sie systematisch vergrößerst? Conversion + Reichweite = Verkaufsmaschine Mit dem TikTok Code lernst du: ✔️ Wie du jedes Video (gesprochen, geschrieben oder faceless) nach meinem Verkaufsaufbau strukturierst und aus 200–300 Views vier- bis fünfstellige Views machst✔️ Wie du TikTok als gezielte Zuflussmaschin…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/672438?aff=adminstore
+- Sales page: https://www.digistore24.com/product/672438
+- Canonical redirect: https://www.digistore24.com/redir/672438/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sichtbar u. Begehrt - Mastery - Digistore24
+- **OG title:** Sichtbar u. Begehrt - Mastery
+- **Section headlines (H3):**
+  - Sichtbar u. Begehrt - Mastery
+  - Sichtbar u. Begehrt - Mastery
+  - Sichtbar u. Begehrt - Mastery
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > 1x Sichtbar u. Begehrt - Mastery Sie erhalten Zugang zu einem geschützten Online-Bereich mit Kursen oder Webinaren
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 448
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1346352/image/product/CS8D5PYF.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

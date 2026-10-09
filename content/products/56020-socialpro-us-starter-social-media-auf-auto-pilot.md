@@ -1,0 +1,52 @@
+# SocialPro.us (Starter) Social Media auf Auto-Pilot
+
+> Product ID `56020` · Digistore24 productId `675783` · [HTML profile page](../../reviews/socialpro-us-starter-social-media-auf-auto-pilot-56020.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Software |
+| Price | $74.95 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $29.98 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | nixotec |
+| Listed since | 2026-03-12 |
+| Auto-accept affiliates | yes |
+| Categories | Social Media, Software, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** SocialPro - Starter: KI-gestützte Content-Erstellung für virales Wachstum Werde jetzt Affiliate & nutze deine Chance mit SocialPro Starte jetzt als Affiliate mit SocialPro durch und profitiere von zwei der gefragtesten Märkte überhaupt: KI und Social Media. Mit SocialPro bewirbst du ein modernes SaaS-Tool, das Personal Brands, Selbstständigen und Unternehmen dabei hilft, regelmäßig hochwertigen Co…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/675783?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/675783
+- Vendor affiliate support: https://socialpro.us/affiliate
+- Canonical redirect: https://www.digistore24.com/redir/675783/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** SocialPro - Starter - Digistore24
+- **OG title:** SocialPro - Starter
+- **Section headlines (H2):**
+  - Deine gesamte Social-Media-Präsenz, entwickelt durch KI.
+  - Deine gesamte Social-Media-Präsenz, entwickelt durch KI.
+  - Deine gesamte Social-Media-Präsenz, entwickelt durch KI.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Hör auf, Stunden mit manuellem Schreiben zu verbringen. Verwandle eine einzige Idee in weniger als 60 Sekunden in eine professionelle plattformübergreifende Kampagne – inklusive Bildern. Unsere Online-Lösung für Deinen Social-Media Erfolg:
+  > Hör auf, Stunden mit manuellem Schreiben zu verbringen. Verwandle eine einzige Idee in weniger als 60 Sekunden in eine professionelle plattformübergreifende Kampagne – inklusive Bildern. Unsere Online-Lösung für Deinen Social-Media Erfolg:
+  > Hör auf, Stunden mit manuellem Schreiben zu verbringen. Verwandle eine einzige Idee in weniger als 60 Sekunden in eine professionelle plattformübergreifende Kampagne – inklusive Bildern. Unsere Online-Lösung für Deinen Social-Media Erfolg:
+- **Page word count:** 410
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4749444/image/product/QMYTXYBR.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

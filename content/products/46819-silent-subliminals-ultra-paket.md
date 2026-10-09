@@ -1,0 +1,66 @@
+# Silent Subliminals ULTRA Paket
+
+> Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../reviews/silent-subliminals-ultra-paket-46819.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Software |
+| Price | $112.69 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $32.12 |
+| Cart conversion* | 5% |
+| Cancel rate* | 4.19% |
+| Vendor | newdimension |
+| Listed since | 2020-01-26 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Hexenmeister-Werkzeug! Dieses digitale Paket enthält eine Software, mit der Sie unhörbare Botschaften fürs Unterbewusstsein herstellen: Ob gesprochene Affirmationen, Afformationen oder Suggestionen - sie werden auf eine Weise unhörbar gemacht, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden. Damit können Sie sich nun in aller RUHE stundenlang, tagelang oder wochenlang auf…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://silent-subliminals.de?aff=adminstore#aff=adminstore
+- Sales page: https://silent-subliminals.de
+- Vendor affiliate support: https://www.timdaugs.com/affiliates/
+- Canonical redirect: https://www.digistore24.com/redir/305284/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Silent Subliminals selber machen mit ULTRA: Software und Anleitung
+- **Meta description:** Silent Subliminals selbst erstellen: Sie sprechen Ihre Botschaft ein, die Software macht sie unhörbar. Software, Handbücher und Bonus als Sofort-Download.
+- **Final URL after redirects:** https://silent-subliminals.de/
+- **Headline (H1):**
+  > Silent Subliminals selber machen
+- **Section headlines (H2):**
+  - Wie Sie unhörbare Botschaften an Ihr Unterbewusstsein senden und damit Ihr Leben verändern
+  - Bereits 17.000+ Anmeldungen!
+  - Tragen Sie sich für den kostenlosen E-Mail-Kurs ein
+  - Oha, ich hätte beide Sätze unterschrieben, denn es waren mal meine Sätze!
+  - Dieses "Silent Subliminals"- Programm wandelt gesprochene Worte in unhörbare Worte um, die wir nicht mehr bewusst hören.
+  - Aber unterbewusst !!
+  - Tim Daugs
+  - Tim hat sein Unterbewusstsein programmiert, um sich am eigenen Schopf aus dem Sumpf zu ziehen . . .
+  - Silent Subliminals der Nächsten Generation
+  - "Silent Subliminals" sind anders
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/305284
+- **Opening copy (first paragraphs):**
+  > +++ Ein Leben voller Freiheit und Selbstbestimmung mit Silent Subliminals ULTRA +++
+  > Damit können Sie Ihr Unterbewusstsein sehr schnell und einfach auf Erfolg programmieren.
+  > Lesen Sie vor dem Eintragen meine Transparenzerklärung für den Newsletter und wie Sie jederzeit wieder aussteigen.
+  > Wenn Sie diese wichtige Entscheidung getroffen haben, dann haben Sie sich bestimmt auch längst (und heimlich) geschworen von der jämmerlichen Seite des Lebens auf die begeisternde Seite überzulaufen.
+- **Questions the sales page answers:**
+  - Wie fange ich an?
+- **Page word count:** 4751
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

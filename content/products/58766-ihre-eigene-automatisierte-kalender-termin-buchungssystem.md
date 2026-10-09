@@ -1,0 +1,60 @@
+# Ihre eigene automatisierte Kalender  "Termin Buchungssystem"
+
+> Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../reviews/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $503.37 (Single payment, Installment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $151.01 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Skenteridis |
+| Listed since | 2026-08-29 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business, Services, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** NIE MEHR TERMINE – VERPASSEN Sichern Sie Sich Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events Nur mit 450€ #0 Diese Preis Für 1 Person und bis 10 Events #1 Inklusiv 1 Page erstellen für Ihre System #2 Upgraden für mehr Personen und Events ja ist möglich #3 Software Abonnementgebühren Ja sehr niedrig #4 Auf Ihrer eigenen Website, nicht auf einer Plattform #5 3 Erinnerungen…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/?aff=adminstore#aff=adminstore
+- Sales page: https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/
+- Vendor affiliate support: https://robotics-marketing.com/de-landing/affiliate-partner-webdesign-digistore24/
+- Canonical redirect: https://www.digistore24.com/redir/726452/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Termin-Buchungssystem-erstellen-guenstig-450euro-digistore24 - Robotics Marketing AI Workflows
+- **Headline (H1):**
+  > NIE MEHR TERMINE - VERPASSEN
+- **Section headlines (H2):**
+  - RISIKOSICHER
+  - RATENZAHLUNGEN MÖGLICH
+  - (Erste Rate etwa 25-30% des gesamtes Wertes)
+  - MEINE DIESTLEISTUNGEN UND PRODUKTEN
+  - Testimonials 2025
+  - Was sagen Kunden
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/726452
+- **Opening copy (first paragraphs):**
+  > Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events Nur mit 450 €
+  > Ich richte Ihnen das professionelle Terminbuchungssystem komplett ein und mache es betriebsbereit. Sie erhalten ein voll funktionsfähiges System, mit dem Ihre Kunden direkt Termine buchen können.
+  > Der einmalige Pauschalpreis für die komplette Einrichtung beträgt 450 Euro . Dieser Preis deckt die Konfiguration für eine Person und bis zu 10 buchbare Events/Dienstleistungen .
+  > Für jedes zusätzliche Event oder jede Dienstleistung, die über die 10 im Basispaket enthaltenen hinausgeht, fallen zusätzliche Kosten in Höhe von 40 Euro pro Event an.
+- **Questions the sales page answers:**
+  - Hast du noch Fragen - bevor den Kauf ?
+- **Page word count:** 1392
+- **OG image:** https://robotics-marketing.com/wp-content/uploads/2025/08/3.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,42 @@
+# GlobalLinkPageBio PRO –v1
+
+> Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../reviews/globallinkpagebio-pro-v1-58890.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Software |
+| Price | $29.05 (Single payment) |
+| Affiliate commission | 51% |
+| Earnings/sale* | $14.81 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | manuelcosta |
+| Listed since | 2026-09-03 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business, Social Media, Software |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** GlobalLinkPageBio – Wir suchen starke Affiliate-Partner Du arbeitest mit Paid Traffic, Social Media oder Performance Marketing und suchst nach einem digitalen Produkt, das du professionell bewerben kannst? Dann könnte GlobalLinkPageBio interessant für dich sein. GlobalLinkPageBio ist ein professionelles Tool zur Erstellung moderner Bio-Link-Seiten und Micro-Landingpages – ideal für Creator, Influe…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://globallinkpagebio-sales.netlify.app/?aff=adminstore#aff=adminstore
+- Sales page: https://globallinkpagebio-sales.netlify.app/
+- Vendor affiliate support: https://drive.google.com/file/d/1XkFSmAkODh7ZDxIGNb9YThFJLOeaVLvB/view?usp=drivesdk
+- Canonical redirect: https://www.digistore24.com/redir/728515/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** GlobalLinkPageBio — Bio Link & Landing Studio
+- **Meta description:** GlobalLinkPageBio — Bio Link & Micro-Landing Page Builder für Creators & Unternehmen.
+- **Page word count:** 7
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

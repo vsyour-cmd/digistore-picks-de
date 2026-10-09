@@ -1,0 +1,57 @@
+# Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026
+
+> Product ID `54635` · Digistore24 productId `647692` · [HTML profile page](../../reviews/rauhnacht-magie-komplettpaket-13-w-nsche-f-r-2026-54635.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $17.90 (Single payment) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $4.47 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | LidoConsultingAps |
+| Listed since | 2025-11-12 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development, Profession & Job, Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Teile die Magie der Rauhnächte – und verdiene mit jedem verkauften Journal 25 % Provision! Verdiene mit der Magie der Rauhnächte „Rauhnacht-Magie 2025/2026“ ist ein digitales Journal, das Käuferinnen und Käufer durch die 12 heiligen Nächte begleitet – mit Ritualen, Reflexionsfragen, Wunschzeremonien und inspirierenden Texten.Ein gefragtes Produkt für alle, die Achtsamkeit, Spiritualität, Manifesta…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/647692?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/647692
+- Canonical redirect: https://www.digistore24.com/redir/647692/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Durch die Rauhnächte 2025 Licht zwischen den Jahren Das spirituelle Journal für 12 Nächte der Wandlung und Wünsche - Digistore24
+- **OG title:** Durch die Rauhnächte 2025 Licht zwischen den Jahren Das spirituelle Journal für 12 Nächte der Wandlung und Wünsche
+- **Section headlines (H3):**
+  - Durch die Rauhnächte 2025 Licht zwischen den Jahren Das spirituelle Journal für 12 Nächte der Wandlung und Wünsche
+  - Die Magie zwischen den Jahren
+  - Was dich erwartet
+  - Dein Mehrwert
+  - Was du erhältst
+  - Beginne deine Reise
+  - Durch die Rauhnächte 2025 Licht zwischen den Jahren Das spirituelle Journal für 12 Nächte der Wandlung und Wünsche
+  - Die Magie zwischen den Jahren
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Zwischen Weihnachten und den Heiligen Drei Königen liegt eine besondere Zeit – die Rauhnächte . Es heißt, in diesen zwölf Nächten öffnet sich der Schleier zwischen den Welten, und unsere Träume, Gedanken und Wünsche weben am Schicksalsfaden des neuen Jahres.
+  > „Durch die Rauhnächte 2025“ begleitet dich auf dieser mystischen Reise – liebevoll gestaltet, tiefsinnig und voller Inspiration. Es ist mehr als ein Journal – es ist dein Begleiter für Bewusstsein, Heilung und Neubeginn .
+  > Dieses einzigartige Journal führt dich Tag für Tag durch die zwölf magischen Nächte:
+  > Einführung & Ursprung Erfahre, was hinter den Rauhnächten steckt, woher sie kommen und wie du sie bewusst erlebst.
+- **Page word count:** 1440
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4931929/image/product/KN7EIMKW.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,62 @@
+# Der Sichtbarkeits-Code Reichweite
+
+> Product ID `56797` · Digistore24 productId `693771` · [HTML profile page](../../reviews/der-sichtbarkeits-code-reichweite-56797.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $58.43 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $29.22 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | nadine_business__reichweite |
+| Listed since | 2026-06-03 |
+| Auto-accept affiliates | yes |
+| Categories | Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Der Sichtbarkeits-Code Das Instagram-Wachstumssystem für mehr Reichweite, Sichtbarkeit und echte Ergebnisse Du postest regelmäßig auf Instagram, investierst Zeit in deinen Content – und trotzdem bleiben Reichweite, Follower und Engagement hinter deinen Erwartungen zurück? Der Sichtbarkeits-Code zeigt dir Schritt für Schritt, wie du das änderst. In diesem praxisnahen E-Book lernst du, wie Instagram…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/693771?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/693771
+- Canonical redirect: https://www.digistore24.com/redir/693771/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Der Sichtbarkeits-Code - Digistore24
+- **OG title:** Der Sichtbarkeits-Code
+- **Headline (H1):**
+  > Der Sichtbarkeits-Code
+  > Der Sichtbarkeits-Code
+  > Der Sichtbarkeits-Code
+- **Section headlines (H2):**
+  - Mehr Reichweite. Mehr Aufmerksamkeit. Mehr Wachstum auf Instagram.
+  - Das erwartet dich zusätzlich:
+  - Für wen ist dieses E-Book gemacht?
+  - Mehr Reichweite. Mehr Aufmerksamkeit. Mehr Wachstum auf Instagram.
+  - Das erwartet dich zusätzlich:
+  - Für wen ist dieses E-Book gemacht?
+  - Mehr Reichweite. Mehr Aufmerksamkeit. Mehr Wachstum auf Instagram.
+  - Das erwartet dich zusätzlich:
+  - Für wen ist dieses E-Book gemacht?
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du gibst dir Mühe auf Instagram, postest regelmäßig Reels und Content doch die Reichweite bleibt aus? Dann fehlt dir nicht Kreativität, sondern die richtige Strategie.
+  > Mit „Der Sichtbarkeits-Code“ lernst du, wie du den Instagram-Algorithmus für dich nutzt, Inhalte mit viralem Potenzial erstellst und dir nachhaltig Sichtbarkeit aufbaust – ohne ständigen Content-Stress.
+  > ✔ virale Hook-Formeln ✔ bewährte Reel-Strukturen ✔ Engagement-Strategien ✔ Storytelling- & Selling-Techniken ✔ Instagram-SEO verständlich erklärt ✔ eine komplette 30-Tage-Wachstums-Challenge
+  > Alle Inhalte basieren auf moderner Content-Psychologie, aktuellen Social-Media-Strategien und praxisnahen Methoden, die du sofort umsetzen kannst.
+- **Page word count:** 739
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4574299/image/product/JQ1OE42R.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

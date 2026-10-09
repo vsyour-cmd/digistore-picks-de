@@ -1,0 +1,54 @@
+# Kostenloses E-Book zum Thema Copywriting
+
+> Product ID `52359` · Digistore24 productId `611125` · [HTML profile page](../../reviews/kostenloses-e-book-zum-thema-copywriting-52359.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $0.00 (Single payment) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $0.00 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | JK-Buisness-Marketing |
+| Listed since | 2025-05-06 |
+| Auto-accept affiliates | yes |
+| Categories | Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Hier erhälst du ein Kostenloses E-Book zum Thema Copywriting.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/611125?aff=adminstore
+- Sales page: https://www.digistore24.com/product/611125
+- Canonical redirect: https://www.digistore24.com/redir/611125/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Adcraft-Studie - Digistore24
+- **OG title:** Adcraft-Studie
+- **Section headlines (H2):**
+  - Copywriting – Warum gerade jetzt die lukrativste Fähigkeit der digitalen Welt?
+  - Copywriting – Warum gerade jetzt die lukrativste Fähigkeit der digitalen Welt?
+  - Copywriting – Warum gerade jetzt die lukrativste Fähigkeit der digitalen Welt?
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Diese Studie ist mehr als nur ein E-Book. Sie ist dein Blick hinter die Kulissen einer Branche, die still und leise Millionen bewegt – und ganz normale Menschen unabhängig macht.
+  > Was du erfährst: Warum Copywriting aktuell zu den gefragtesten Skills zählt – und das branchenübergreifend.
+  > Wie der Markt funktioniert – und wo gerade jetzt gigantische Chancen entstehen (auch für Einsteiger).
+  > Wie du mit Texten ein profitables Zusatzeinkommen oder sogar ein neues Standbein aufbauen kannst – nur mit deinem Laptop oder Handy.
+- **Questions the sales page answers:**
+  - Copywriting – Warum gerade jetzt die lukrativste Fähigkeit der digitalen Welt?
+- **Page word count:** 441
+- **OG image:** https://www.digistore24.com/pb/img/merchant_2503098/image/product/SJV4Y6S3.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

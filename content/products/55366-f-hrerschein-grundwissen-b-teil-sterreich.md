@@ -1,0 +1,51 @@
+# Führerschein Grundwissen + B-Teil (Österreich)
+
+> Product ID `55366` · Digistore24 productId `654471` · [HTML profile page](../../reviews/f-hrerschein-grundwissen-b-teil-sterreich-55366.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $44.74 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $18.57 |
+| Cart conversion* | 0% |
+| Cancel rate* | 6.67% |
+| Vendor | Fahrschulnachhilfe |
+| Listed since | 2025-12-10 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Führerscheinprüfung leicht gemacht! Du bekommst Zugang zu unseren Videokursen Grundwissen und B-Teil auf unserer Lernplattform für 365 Tage! Über 1.500 kurze, verständlich erklärte Lernvideos stehen dir auf unserer neu entwickelten Lernplattform zur Verfügung. Alle Inhalte wurden von uns selbst erstellt und helfen dir gezielt dabei, Verkehrsregeln und den technischen Teil wirklich zu verstehen – b…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/654471?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/654471
+- Canonical redirect: https://www.digistore24.com/redir/654471/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Kurse Grundwissen + B-Teil - Digistore24
+- **OG title:** Kurse Grundwissen + B-Teil
+- **Section headlines (H3):**
+  - Kurse Grundwissen + B-Teil
+  - Kurse Grundwissen + B-Teil
+  - Kurse Grundwissen + B-Teil
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du bekommst Zugang zu unseren Videokursen Grundwissen und B-Teil auf unserer Videoplattform für 365 Tage! Viel Freude und Erfolg, Edith und Team
+  > Du bekommst Zugang zu unseren Videokursen Grundwissen und B-Teil auf unserer Videoplattform für 365 Tage! Viel Freude und Erfolg, Edith und Team
+  > Du bekommst Zugang zu unseren Videokursen Grundwissen und B-Teil auf unserer Videoplattform für 365 Tage! Viel Freude und Erfolg, Edith und Team
+- **Page word count:** 204
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4672382/image/product/9Y10BAAZ.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

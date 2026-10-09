@@ -1,0 +1,60 @@
+# Der Ernährungs-Blueprint und Stoffwechsel-Reset
+
+> Product ID `59060` · Digistore24 productId `727614` · [HTML profile page](../../reviews/der-ern-hrungs-blueprint-und-stoffwechsel-reset-59060.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $93.05 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $46.52 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | VeloxForge |
+| Listed since | 2026-09-09 |
+| Auto-accept affiliates | yes |
+| Categories | Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Ernährungs-Blueprint – Dein 4-Wochen-Orientierungsguide für einen bewussteren Umgang mit Ernährung Der Ernährungs-Blueprint begleitet dich vier Wochen lang mit einem alltagstauglichen System aus Wochenplänen, einfachen Rezepten und Einkaufslisten – ohne Verbote, ohne Diät-Druck, mit klaren Orientierungshilfen für den Supermarkt-Alltag. Sofort als PDF verfügbar. Das ist enthalten: Orientierungswiss…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://auranit.de/ernaehrungs-blueprint/?aff=adminstore#aff=adminstore
+- Sales page: https://auranit.de/ernaehrungs-blueprint/
+- Canonical redirect: https://www.digistore24.com/redir/727614/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Landingpage Ernährungs Blueprint
+- **Meta description:** Endlich einen Ernährungsplan, den du als berufstätige Frau wirklich durchhältst — ohne Kochstress, ohne Kalorientabellen, in maximal 15 Minuten täglich...
+- **Section headlines (H2):**
+  - Endlich einen Ernährungsplan, den du als berufstätige Frau wirklich durchhältst — ohne Kochstress, ohne Kalorientabellen, in maximal 15 Minuten täglich
+  - Bereit, deinen Alltag zu vereinfachen?
+  - Warum gute Vorsätze im Alltag scheitern
+  - Die 4 Module im Überblick
+  - Der Ernährungs-Blueprint und Stoffwechsel-Reset
+  - FAQ
+- **Opening copy (first paragraphs):**
+  > Du weißt, wie das läuft: Nach einem langen Arbeitstag kommt man nach Hause, der Kühlschrank ist leer, und der innere Schweinehund hat längst gewonnen. Nicht weil die Motivation fehlt — sondern weil das System fehlt. Das Komponenten-Küche-System bricht genau mit diesem Muster: maximal 15 Minuten aktive Zubereitungszeit, nur Discounter-Zutaten, ohne Kalorienzählen
+  > Orientierungswissen zu Stoffwechsel, Hormonen und Alltagsernährung — praxisnah aufbereitet, ohne Verbote und ohne Absolutheitsanspruch
+  > Exakt sortiert nach echten Gang-Aufteilungen deutscher Discounter (Aldi, Lidl, Netto) für maximale Effizienz.
+  > (Dieser Plan ersetzt keine ärztliche oder ernährungsmedizinische Beratung. Individuelle Ergebnisse können variieren.)
+- **Questions the sales page answers:**
+  - F: Muss ich gut kochen können?
+  - F: Brauche ich spezielle Zutaten oder teure Supermärkte?
+  - F: Was passiert, wenn ich mal einen Tag auslasse?
+  - F: Muss ich Kalorien zählen oder bestimmte Lebensmittel weglassen?
+  - F: Für wen ist das geeignet?
+  - F: Wie bekomme ich das Produkt nach dem Kauf?
+- **Page word count:** 437
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

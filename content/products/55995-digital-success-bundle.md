@@ -1,0 +1,63 @@
+# Digital Success Bundle
+
+> Product ID `55995` · Digistore24 productId `678291` · [HTML profile page](../../reviews/digital-success-bundle-55995.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $172.34 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $86.18 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Freifone |
+| Listed since | 2026-03-22 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Affiliate-Partnerprogramm – Online Business Bundle Verdiene 50% Provision pro Verkauf mit einem Produkt, das echten Mehrwert liefert. Dieses Bundle kombiniert drei stark nachgefragte Themen: Online Marketing, KI-Trading und E-Commerce. Genau die Bereiche, mit denen aktuell Geld verdient wird – und genau das macht es für deine Zielgruppe interessant. Warum sich die Promotion lohnt: 50% Provision au…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/digital-success-bundle?aff=adminstore#aff=adminstore
+- Sales page: https://designs-nf.com/ebooks/digital-success-bundle
+- Vendor affiliate support: https://designs-nf.com/affiliate/links
+- Canonical redirect: https://www.digistore24.com/redir/678291/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Digital Success Bundle | Premium eBook | NF-DESIGN | NF-DESIGN
+- **OG title:** Digital Success Bundle
+- **Meta description:** 3 Komplette Business-Systeme im Bundle zum Sonderpreis
+- **Headline (H1):**
+  > Digital Success Bundle
+- **Section headlines (H2):**
+  - Inhalt des eBooks
+  - Das sagen unsere Kunden
+  - Bereit für echte Veränderung?
+  - Das könnte dich auch interessieren
+  - Andere Kunden kauften auch:
+- **Price mentions on page:** $13, $19
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/678291?voucher=Digital26\u0026voucher_not_locked\\\
+- **Opening copy (first paragraphs):**
+  > Dieses Bundle vereint drei essenzielle Bereiche für deinen digitalen Erfolg: Online Marketing, KI-gestütztes Trading und E-Commerce.
+  > Du lernst, wie du profitable Werbekampagnen aufbaust, moderne KI-Tools für bessere Trading-Entscheidungen nutzt und ein skalierbares Online-Business im E-Commerce entwickelst. Alle Inhalte sind praxisnah, verständlich und direkt umsetzbar, egal ob du gerade startest oder dein bestehendes Business ausbauen willst.
+  > Dein Vorteil: Drei komplette Systeme in einem Bundle – zum reduzierten Gesamtpreis.
+  > Wichtige Info! Widerrufsrecht: Du hast das Recht, diese Bestellung innerhalb von 14 Tagen jederzeit zu widerrufen.
+- **Questions the sales page answers:**
+  - Was ist in diesem Angebot enthalten?
+  - Wie bekomme ich das Produkt?
+- **Page word count:** 1025
+- **OG image:** https://i.ibb.co/4wJVFwJT/Bundle-3-Kopie.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

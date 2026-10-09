@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DigistorePicks Blog</title>
+  <link href="https://vsyour-cmd.github.io/digistore-picks-de/blog/"/>
+  <updated>2026-10-09T09:18:13.411Z</updated>
+  <id>https://vsyour-cmd.github.io/digistore-picks-de/blog/</id>
+  <entry>
+    <title>Die 20 Digistore24-Produkte mit dem höchsten Verdienst</title>
+    <link href="https://vsyour-cmd.github.io/digistore-picks-de/blog/top-20-hoechster-verdienst-digistore24-produkte.html"/>
+    <id>https://vsyour-cmd.github.io/digistore-picks-de/blog/top-20-hoechster-verdienst-digistore24-produkte.html</id>
+    <updated>2026-10-09</updated>
+  </entry>
+  <entry>
+    <title>Digistore24-Produkt beurteilen: der 6-Punkte-Zahlen-Check</title>
+    <link href="https://vsyour-cmd.github.io/digistore-picks-de/blog/digistore24-zahlen-checkliste.html"/>
+    <id>https://vsyour-cmd.github.io/digistore-picks-de/blog/digistore24-zahlen-checkliste.html</id>
+    <updated>2026-10-09</updated>
+  </entry>
+</feed>

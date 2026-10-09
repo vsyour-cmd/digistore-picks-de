@@ -1,0 +1,60 @@
+# Passives Einkommen mit Dividenden – Einsteiger-Kurs
+
+> Product ID `59293` · Digistore24 productId `727810` · [HTML profile page](../../reviews/passives-einkommen-mit-dividenden-einsteiger-kurs-59293.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $140.06 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $84.04 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | FinanzKalkuel |
+| Listed since | 2026-09-16 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Der Dividenden Kurs von Finanz Kalkül bringt Einsteigern bei, wie sie sich Schritt für Schritt ein eigenes Dividenden-Depot und damit ein zweites, passives Einkommen aufbauen. Für wen: finanzinteressierte Einsteiger, die mit Aktien und ETFs ein planbares Zusatzeinkommen wollen und ein klares vorgehen bei der Aktien/ETF bewertung/Auswahl suchen. Sehr praxisorientiert: Statt trockener Theorie zeigt …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://finanzkalkuel.de/dividenden-kurs/?aff=adminstore#aff=adminstore
+- Sales page: https://finanzkalkuel.de/dividenden-kurs/
+- Canonical redirect: https://www.digistore24.com/redir/727810/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Der Dividenden-Kurs · Finanz·Kalkül
+- **Meta description:** Das Schritt-für-Schritt-System, mit dem du dein eigenes Dividenden-Depot aufbaust und Dividendenfallen wie AT&T selbst erkennst. Sonderpreis nur für kurze Zeit.
+- **Headline (H1):**
+  > Bau dir ein Dividenden-Depot, das dich Monat für Monat bezahlt.
+- **Section headlines (H2):**
+  - Du willst Dividenden, aber woher weißt du, ob eine sicher ist?
+  - Schön, dass du hier bist.
+  - Von „Ich rate" zu „Ich weiß es"
+  - Was du bekommst · 7 Module
+  - Die Werkzeuge gibt's obendrauf
+  - Ehrlich. Datenbasiert. Ohne Hype.
+  - Noch Fragen? Hier die Antworten
+- **Opening copy (first paragraphs):**
+  > Ich zeige dir Schritt für Schritt, wie du sichere Dividenden-Aktien erkennst und dir dein eigenes Depot aufbaust. Ohne Vorwissen, ohne Hype.
+  > Dass du diese Zeilen liest, ist schon der wichtigste Schritt, und das ist keine Floskel, ich spreche aus eigener Erfahrung.
+  > Ich bin von Beruf Ingenieur. In meinem Job dreht sich alles um Logik, Systeme und darum, Dinge so zu bauen, dass sie zuverlässig funktionieren. Vor rund 15 Jahren habe ich beschlossen, genau diese Denkweise auf meine eigenen Finanzen anzuwenden. Am Anfang habe ich ordentlich Lehrgeld bezahlt.
+  > Ich habe viel gelesen, einige Seminare besucht und vor allem das große Glück gehabt, Menschen kennenzulernen, die durch clevere Geldanlage vermögend geworden sind. Ich habe ihnen Löcher in den Bauch gefragt und gelernt, wie finanziell freie Menschen über Geld denken.
+- **Questions the sales page answers:**
+  - Wer ist verantwortlich für die Datenerfassung?
+  - Wie erfassen wir Ihre Daten?
+  - Welche Rechte haben Sie?
+- **Page word count:** 645
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

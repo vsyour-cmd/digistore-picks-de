@@ -1,0 +1,53 @@
+# Gitarrenschule ohne Noten
+
+> Product ID `38668` · Digistore24 productId `372820` · [HTML profile page](../../reviews/gitarrenschule-ohne-noten-38668.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $11.63 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $5.66 |
+| Cart conversion* | 18% |
+| Cancel rate* | 1.55% |
+| Vendor | Re19Ma |
+| Listed since | 2021-02-09 |
+| Auto-accept affiliates | yes |
+| Categories | Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Mit 106 Videos – über 7 Stunden Lehrmaterial! Das Lernpaket enthält mehr als 100 hochaufgelöste MP4-Videos. Das heißt, die Videos und das PDF-Buch sind auf ALLEN Geräten gleichzeitig zu kopieren und so kann man optimal und flexibel auf der Gitarre lernen! Ohne Notenkenntnisse oder anderes musikalisches Vorwissen kann der Schüler direkt loslegen. Der ideale Einstieg in die Welt des Gitarrenspiels -…
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.guitar-tv.de/Produkte3/?aff=adminstore#aff=adminstore
+- Sales page: http://www.guitar-tv.de/Produkte3/
+- Canonical redirect: https://www.digistore24.com/redir/372820/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Produkte
+- **Meta description:** Gitarre lernen ohne Noten für Anfaenger. Du kannst kostenlos online Gitarre spielen mit unseren Lehrvideos und Tipps rund um die Gitarre...
+- **Final URL after redirects:** https://www.guitar-tv.de/Produkte3/
+- **Headline (H1):**
+  > - Gitarre lernen mit GUITAR-TV-Büchern -
+- **Section headlines (H3):**
+  - Gitarrenschule ohne Noten
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/372820
+- **Opening copy (first paragraphs):**
+  > Gitarrenschule ohne Noten Mit 106 Videos – über 7 Stunden Lehrmaterial! Das Lernpaket enthält mehr als 100 hochaufgelöste MP4-Videos (1280x720), die du direkt nach dem Kauf per Klick herunterladen kannst.
+  > Die Videos sind auf Computern (Mac, PC, Linux), Smart Phones und Tablets (Apple, Android, Windows) lauffähig.
+  > Das heißt, du kannst dir die Videos und das PDF-Buch auf ALLEN deinen Geräten gleichzeitig kopieren und so optimal flexibel auf der Gitarre lernen!
+  > Ohne Notenkenntnisse oder anderes musikalisches Vorwissen kannst du direkt loslegen. Der ideale Einstieg in die Welt des Gitarrenspiels - ohne Notenkenntnisse oder anderes musikalisches Vorwissen.
+- **Page word count:** 525
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

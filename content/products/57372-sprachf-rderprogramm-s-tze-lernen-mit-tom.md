@@ -1,0 +1,53 @@
+# Sprachförderprogramm "Sätze lernen mit Tom"
+
+> Product ID `57372` · Digistore24 productId `681565` · [HTML profile page](../../reviews/sprachf-rderprogramm-s-tze-lernen-mit-tom-57372.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $200.23 (Subscription) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $20.02 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | KerstinSchimkus |
+| Listed since | 2026-07-02 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Family & Children |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Sprachförderprogramm, welches die Fragefähigkeit und die Einletung von Haupt- und Nebensätzen unterstützt. Miniserien, die Dein Kind schaut und durch gezielten Input Sätze und W-Fragen über den Sprachrhythmus erwirbt.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://lexosophie.coachy.net/lp/satze-lernen-mit-tom?aff=adminstore#aff=adminstore
+- Sales page: https://lexosophie.coachy.net/lp/satze-lernen-mit-tom
+- Canonical redirect: https://www.digistore24.com/redir/681565/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sätze lernen mit Tom
+- **Headline (H1):**
+  > Sätze lernen mit Tom
+  > 179
+  > 179
+- **Section headlines (H2):**
+  - zzgl. MwSt. einmalig für dein Jahresabo, Verlängerung nach 12 Monaten automatisch
+  - zzgl. MwSt. einmalig für dein Jahresabo, Verlängerung nach 12 Monaten automatisch
+- **Opening copy (first paragraphs):**
+  > Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website zu verbessern.
+  > Essentielle Cookies ermöglichen grundlegende Funktionen und sind für das ordnungsgemäße Funktionieren der Website erforderlich.
+  > Tom begleitet dein Kind als Inputeinheiten in der Nacht und als Mini-Serie durch den Alltag.
+  > Jede Einheit dieses Programms gibt deinem Kind gezielten visuellen und auditiven Input zum Erwerb der korrekten Satzstellung und dem Frageverständnis.
+- **Page word count:** 462
+- **OG image:** https://my.coachy.net/site/assets/files/0/02/35/59/483/zusatzmaterial.1769886101.700x700.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

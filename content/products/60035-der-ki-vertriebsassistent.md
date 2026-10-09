@@ -1,0 +1,39 @@
+# Der KI-Vertriebsassistent
+
+> Product ID `60035` · Digistore24 productId `738797` · [HTML profile page](../../reviews/der-ki-vertriebsassistent-60035.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $25.38 (Single payment) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $2.54 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | AlcaAzar5f7 |
+| Listed since | 2026-09-29 |
+| Auto-accept affiliates | yes |
+| Categories | Sales Training |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Follow-up-Mails, Besuchsberichte, Wochenberichte, Excel-Listen: Im Vertrieb geht viel Zeit für Aufgaben drauf, die mit dem eigentlichen Verkaufen wenig zu tun haben. „Der KI-Vertriebsassistent“ gibt dir 21 fertige Prompt-Workflows für genau diese Aufgaben. Das sind keine losen Einzelprompts, sondern Abläufe, die du mit einem einmal ausgefüllten Vertriebs-Baustein auf deine Branche und deinen Ton z…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://nine-to-never.systeme.io/07cae43a?aff=adminstore#aff=adminstore
+- Sales page: https://nine-to-never.systeme.io/07cae43a
+- Canonical redirect: https://www.digistore24.com/redir/738797/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

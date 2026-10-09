@@ -1,0 +1,64 @@
+# MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)
+
+> Product ID `59371` · Digistore24 productId `734882` · [HTML profile page](../../reviews/money-geldregeln-f-r-ki-agenten-control-series-59371.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $62.52 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $31.26 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | lvlBoZzlvl |
+| Listed since | 2026-09-19 |
+| Auto-accept affiliates | yes |
+| Categories | Education |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Digitales Arbeitsbuch: Kauf- und Abo-Grenzen für KI-Agenten. Kern: ZAHLUNG ≠ VERPFLICHTUNG. Premium 59,80 €, 50 % Commission. Klare Salespage, Digistore24 Checkout. Bildungs-Workbook keine Finanzberatung, keine Einkommensversprechen.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://money-03.pages.dev/?aff=adminstore#aff=adminstore
+- Sales page: https://money-03.pages.dev/
+- Vendor affiliate support: https://money-03.pages.dev/affiliates/
+- Canonical redirect: https://www.digistore24.com/redir/734882/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** MONEY – Geldregeln für deinen KI-Agenten · Digilisator
+- **OG title:** MONEY – Geldregeln für deinen KI-Agenten
+- **Meta description:** MONEY 03 — Geldregeln für deinen KI-Agenten. ZAHLUNG ≠ VERPFLICHTUNG. Persönliches Money-Profil + Money-Pass. 78 Seiten A4 PDF. Einmaliger Kauf über Digistore24.
+- **Headline (H1):**
+  > GELD IST NICHT NUR EINE ZAHL.
+- **Section headlines (H2):**
+  - Ein Workbook für klare Geldregeln
+  - Geldaktionen brauchen eigene Regeln
+  - Zwei konkrete Dinge — dein System
+  - Wenn KI Geld berührt — und du Kontrolle behalten willst
+  - Sechs Schritte — klare Stationen
+  - Dein Profil in klaren Feldern
+  - Vom Workbook zum klaren Überblick
+  - So sieht das System aus
+  - Sechs starke Gründe
+  - Was MONEY nicht ist
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/734882
+- **Opening copy (first paragraphs):**
+  > Was darf dein KI-Agent mit Geld suchen, vergleichen, vorbereiten — und wo muss er dich fragen, bevor etwas kostet?
+  > ZAHLUNG ≠ VERPFLICHTUNG Kein Finanzkurs. Keine Rechtsberatung. Ein persönliches MONEY-System : du baust dein Money-Profil und deinen Money-Pass — für Käufe, Abos, Limits und Freigaben.
+  > Was es ist Ein Workbook für klare Geldregeln MONEY ist kein Anlage- oder Buchhaltungskurs. Es geht um die greifbare Frage: Was darf ein KI-Agent mit Geld tun — suchen, vergleichen, vorbereiten, kaufen — und was nicht?
+  > Du entwickelst dein persönliches Money-Profil und entscheidest für Käufe, Abos, Limits und Zugriffe, was freigegeben wird, wann Rückfrage nötig ist und wo deine Grenzen liegen.
+- **Page word count:** 1019
+- **OG image:** cover.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

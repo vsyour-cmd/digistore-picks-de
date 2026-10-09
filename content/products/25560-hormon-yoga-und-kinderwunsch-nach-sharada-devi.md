@@ -1,0 +1,64 @@
+# Hormon-Yoga und Kinderwunsch nach Sharada Devi©
+
+> Product ID `25560` · Digistore24 productId `209277` · [HTML profile page](../../reviews/hormon-yoga-und-kinderwunsch-nach-sharada-devi-25560.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $33.56 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $13.42 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | YogaCircleBerlin |
+| Listed since | 2018-03-19 |
+| Auto-accept affiliates | yes |
+| Categories | Family & Children |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Endlich da: Das Kinderwunsch-Video mit Sharada Devi! Yoga hilft uns, uns wieder mit uns selber zu verbinden, unseren Körper als ein Heiligtum wahrzunehmen und ihm zu vertrauen. Unser Empfinden dafür, was uns gut tut und was uns – körperlich oder seelisch – belastet, wird durch Yoga gestärkt und die Selbstwahrnehmung wird feiner. Die Übungsreihe Hormon- und KinderwunschYoga nach Sharada Devi hat sc…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://yogacircle-berlin.de/video-hormonyoga-nach-sharada-devi/?aff=adminstore#aff=adminstore
+- Sales page: https://yogacircle-berlin.de/video-hormonyoga-nach-sharada-devi/
+- Canonical redirect: https://www.digistore24.com/redir/209277/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Video Hormonyoga nach Sharada Devi - YogaCircle Berlin Akademie
+- **Headline (H1):**
+  > KinderwunschYoga nach Sharada Devi©
+- **Section headlines (H2):**
+  - YCBA STUDIO PRENZLAUER BERG
+  - YCBA STUDIO & AKADEMIE PRENZL. BERG
+  - SOCIAL MEDIA
+  - KONTAKT YCBA STUDIOS
+  - KONTAKT YCBA AKADEMIE
+  - KONTAKT STUDIO
+  - KONTAKT AKADEMIE
+  - SOCIAL MEDIA
+  - YCBA STUDIO WEIßENSEE
+  - YCBA STUDIO PRENZLAUER BERG
+- **CTA button texts:** "Starter Angebot", "Starter-Angebot"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/209277
+- **Opening copy (first paragraphs):**
+  > Ist dein Kinderwunsch noch unerfüllt oder möchtest du dich innerlich mehr auf dein Kind vorbereiten?
+  > Oder ist dein Hormonhaushalt außer Balance geraten und du möchtest ihn mit Yoga natürlich anregen und regulieren ?
+  > Die Übungsreihe Hormon- und KinderwunschYoga nach Sharada Devi hat schon vielen Frauen geholfen, zu sich und ihrem Baby zu finden. Mit meinen Übungen gewinnst du
+  > HormonYoga habe ich kennengelernt, als ich – drei Monate nach der Geburt meines Sohnes – mit der Milchpumpe unterm Arm an einer Ausbildung bei Dinah Rodrigues zur HormonYoga-Therapeutin teilnahm.
+- **Questions the sales page answers:**
+  - Hast du noch Fragen?
+- **Page word count:** 1243
+- **OG image:** https://yogacircle-berlin.de/wp-content/uploads/2020/04/DVDorange.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

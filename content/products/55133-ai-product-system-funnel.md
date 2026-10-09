@@ -1,0 +1,56 @@
+# AI Product System Funnel
+
+> Product ID `55133` · Digistore24 productId `657939` · [HTML profile page](../../reviews/ai-product-system-funnel-55133.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $0.64 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $0.21 |
+| Cart conversion* | 42% |
+| Cancel rate* | 0% |
+| Vendor | paul-roth |
+| Listed since | 2025-12-29 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Online Marketing & E-Business, Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Der AI Product System Funnel ist ein vollständig aufgebauter Verkaufsfunnel für Affiliates, die ein hochaktuelles Thema mit klarer Zahlungsbereitschaft vermarkten wollen: KI-Produkte erstellen und monetarisieren – ohne Technik, ohne Vorwissen. Der Funnel startet mit einem kostenlosen Einstieg, der Vertrauen aufbaut und die Kaufentscheidung vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://shop.growverse.de/funnels/ai-product-system/freebie?aff=adminstore#aff=adminstore
+- Sales page: https://shop.growverse.de/funnels/ai-product-system/freebie
+- Canonical redirect: https://www.digistore24.com/redir/657939/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Kostenloser AI Product Starter Blueprint – AI Product System — AstroWind
+- **OG title:** Kostenloser AI Product Starter Blueprint – AI Product System
+- **Meta description:** Mit dieser Kurzvorbereitung baust du die Grundlage, auf der dein gesamtes GPT-Produkt stehen kann. Ohne Technik, ohne Vorwissen, ohne Überforderung.
+- **Headline (H1):**
+  > AI Product Starter Blueprint
+- **Section headlines (H2):**
+  - Starte deinen ersten GPT-Assistenten: in 20 Minuten
+  - TRANSFORMATION
+  - Das bekommst du
+  - Ein klarer Leitfaden für deinen ersten GPT-Assistenten
+  - Hol dir jetzt deinen kostenfreien AI Product Starter Blueprint
+- **Opening copy (first paragraphs):**
+  > Der schnellste Weg zu deinem ersten eigenen KI-Assistenten: Alles, was du brauchst, in 20 Minuten.
+  > Mit dem kostenfreien AI Product Starter Blueprint bekommst du einen klaren Fahrplan, um in kürzester Zeit die Grundlage für deinen ersten GPT-Assistenten zu legen – ohne Technik, ohne Überforderung, nur mit deinem Wissen.
+  > Du definierst Ziel, Zielgruppe, Kernaufgabe und Inhalte deines Assistenten und bereitest damit alles vor, was du später im No-Code-Tool nur noch umsetzen musst.
+  > Keine Zeit Du weißt nicht, wo du anfangen sollst und hast keine Zeit für komplizierte Tutorials
+- **Page word count:** 606
+- **OG image:** https://astrowind.vercel.app/_astro/default.CZ816Hke_Rl6lb.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

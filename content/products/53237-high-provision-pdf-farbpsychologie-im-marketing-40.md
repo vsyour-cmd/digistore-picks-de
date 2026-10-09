@@ -1,0 +1,52 @@
+# High-Provision PDF – Farbpsychologie im Marketing (40 %)
+
+> Product ID `53237` · Digistore24 productId `624980` · [HTML profile page](../../reviews/high-provision-pdf-farbpsychologie-im-marketing-40-53237.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $167.78 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $67.12 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | JumbMedia-Store |
+| Listed since | 2025-07-20 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Education, Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Das ideale Produkt für Affiliates mit Fokus auf Performance, Design & Conversion.Du bewirbst ein strategisches PDF, das zeigt, wie Farben im Marketing wirken – psychologisch fundiert, direkt anwendbar und entstanden aus echter Praxis. Thema: Farbpsychologie & Designwirkung – ein zentrales Element für jede Werbekampagne, Website oder Anzeige. Bonus: 100% Steuerlich absetzbar für Unternehmen Warum A…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/624980?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/624980
+- Canonical redirect: https://www.digistore24.com/redir/624980/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** PDF 2 – Farbpsychologie und Designwirkung - Digistore24
+- **OG title:** PDF 2 – Farbpsychologie und Designwirkung
+- **Section headlines (H3):**
+  - PDF 2 – Farbpsychologie und Designwirkung
+  - PDF 2 – Farbpsychologie und Designwirkung
+  - PDF 2 – Farbpsychologie und Designwirkung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > PDF #2 – Farbpsychologie & Designwirkung Wie du mit gezielter Farbwahl Emotionen lenkst – und Designs erschaffst, die verkaufen.
+  > Farben sind mächtiger als Worte – sie wecken Vertrauen, erzeugen Spannung oder brechen Kaufbarrieren. In dieser PDF lernst du, wie du Farben strategisch im Marketing einsetzt: Für Ads, Webdesigns, Landingpages und Creatives.
+  > Basierend auf 8 Jahren Praxis Erfahrung als Marketing-Agentur, echten Kampagnenergebnissen & über 80.000 € Weiterbildung & Coachings.
+  > Dieses Modul ist Teil einer exklusiven 10-teiligen Serie. Perfekt geeignet für: Agenturen, Marketingverantwortliche, Werbetreibende, Gründer & Social-Media-Teams.
+- **Page word count:** 547
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4724146/image/product/0LLO2JP6.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

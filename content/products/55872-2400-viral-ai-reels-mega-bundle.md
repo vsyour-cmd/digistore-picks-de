@@ -1,0 +1,42 @@
+# 2400+ Viral AI Reels Mega Bundle
+
+> Product ID `55872` · Digistore24 productId `675218` · [HTML profile page](../../reviews/2400-viral-ai-reels-mega-bundle-55872.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $10.34 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $5.17 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | MoneyCreators |
+| Listed since | 2026-03-10 |
+| Auto-accept affiliates | yes |
+| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Bewerbe jetzt dieses Bundle und profitere von einer extrem hohen Conversion und 50% auf alle Produkte im Funnel Sichere dir jetzt das 2400+ Viral AI Reels Mega Bundle mit den 3 viralsten Nischen: Baby, Katzen & ASMR Glasschneiden. ✔ Über 2400 fertige Reels in HD✔ Sofort-Download nach dem Kauf✔ PLR + MRR Rechte (Posten oder weiterverkaufen erlaubt) Nach deiner Bestellung erhältst du ein PDF mit all…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://vierstelligimmonat.de/viralreelpaket?aff=adminstore#aff=adminstore
+- Sales page: https://vierstelligimmonat.de/viralreelpaket
+- Canonical redirect: https://www.digistore24.com/redir/675218/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** MoneyCreators – Premium Digital-Produkte
+- **Meta description:** Sichere dir jetzt unsere Premium Digital-Produkte zu unschlagbaren Preisen. Limitiertes Angebot – solange der Vorrat reicht!
+- **Page word count:** 4
+- **OG image:** https://lovable.dev/opengraph-image-p98pqg.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

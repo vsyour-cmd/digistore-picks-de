@@ -1,0 +1,72 @@
+# Selbstwert und Selbstbewusstsein stärken - Onlinekurs
+
+> Product ID `50388` · Digistore24 productId `567377` · [HTML profile page](../../reviews/selbstwert-und-selbstbewusstsein-st-rken-onlinekurs-50388.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $270.72 (Single payment, Installment) |
+| Affiliate commission | 35% |
+| Earnings/sale* | $94.76 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | wielandstolzenburg |
+| Listed since | 2024-08-28 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Dating, Relationships & Romance, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Empfehle meinen Onlinekurs rund um Selbstwert, Selbstliebe und Selbstbewusstsein und nutze diese Vorteile: Hohe Provision: Erhalte 35 % Provision Hohe Bekanntheit: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr au…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken?aff=adminstore#aff=adminstore
+- Sales page: https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken
+- Vendor affiliate support: https://www.wielandstolzenburg.de/partnerprogramm/
+- Canonical redirect: https://www.digistore24.com/redir/567377/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Selbstwert und Selbstliebe steigern - Der Onlinekurs für mehr Selbstwert
+- **Meta description:** Selbstwert und Selbstliebe steigern: Dein Schlüssel zu innerer Stärke und echtem Selbstvertrauen. Ein umfassender Kurs, in dem du lernst, dich selbst zu lieben und wertzuschätzen.
+- **Headline (H1):**
+  > Weniger Selbstzweifel. Mehr Vertrauen in dich. Mehr innere Ruhe.
+  > Erfolgsgeschichten
+- **Section headlines (H2):**
+  - Ein praxisnaher Onlinekurs von Psychologe Wieland Stolzenburg mit bewährten Übungen, die dir helfen, deinen Selbstwert zu stärken.
+  - Du kannst lernen, dich wirklich wertzuschätzen. Schritt für Schritt.
+  - Stell dir vor, du müsstest nicht mehr ständig an dir zweifeln. Wie würde sich dein Leben verändern?
+  - Liebe wieder, was du vergessen hast zu lieben
+  - Ich zeige dir, wie du zu Selbstakzeptanz und innerem Frieden kommst. Mit diesen 11 Schritten:
+  - Spare jetzt 130€
+  - Statt 279,00 Euro jetzt nur: 149 Euro
+  - Über mich, Wieland Stolzenburg (Psychologe & Bestseller-Autor)
+  - Häufig gestellte Fragen (FAQ)
+- **Opening copy (first paragraphs):**
+  > Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website zu verbessern.
+  > Essentielle Cookies ermöglichen grundlegende Funktionen und sind für das ordnungsgemäße Funktionieren der Website erforderlich.
+  > Du vergleichst dich ständig mit anderen, fühlst dich oft nicht gut genug und zweifelst an dir. Du passt dich an, suchst Anerkennung und hast trotzdem das Gefühl, nie wirklich zu genügen.
+  > ... deinen Selbstwert stärkst und ein stabiles inneres Fundament entwickelst. ... Selbstzweifel überwindest, indem du deinen inneren Kritiker verstehst und loslässt. ... dir selbst vertraust, auch wenn es schwierig wird. ... dich selbst akzeptierst, ohne dich ständig verbessern oder verändern zu müssen.
+- **Questions the sales page answers:**
+  - Wie erhalte ich Zugang zu dem Kurs (Videos & Co)?
+  - Passt der Onlinekurs auch für mich?
+  - Hilft der Kurs auch mir?
+  - Wie läuft das mit der Bezahlung?
+  - Gibt es noch weitere Kosten?
+  - Gibt es eine Geld-Zurück-Garantie?
+  - Wie lange dauert es, den Kurs zu machen?
+  - Kann ich jedes Video sofort ansehen? Und wie oft?
+  - Wie lange sind die Videos?
+  - Für welches Geschlecht ist der Kurs geeignet?
+- **Page word count:** 3048
+- **OG image:** https://my.coachy.net/site/assets/files/0/01/85/57/839/selbstwert-steigern.1730624416.700x700.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

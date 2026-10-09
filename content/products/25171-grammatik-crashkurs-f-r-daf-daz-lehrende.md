@@ -1,0 +1,59 @@
+# Grammatik-Crashkurs für DaF/DaZ-Lehrende
+
+> Product ID `25171` · Digistore24 productId `226193` · [HTML profile page](../../reviews/grammatik-crashkurs-f-r-daf-daz-lehrende-25171.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $130.66 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $39.20 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | justynahaas |
+| Listed since | 2018-06-06 |
+| Auto-accept affiliates | yes |
+| Categories | Languages |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Die deutsche Grammatik in 12 Modulen! Sie erhalten ein kompaktes Grammatikwissen mit sprachwissenschaftlichen Grundlagen und methodischen Tipps für die Umsetzung! Der Kurs umfasst: 12 wichtige Themen der deutschen Grammatik Sprachwissenschaftliche Grundlagen Methodik der Grammatikvermittlung Grammatik-Präsentationen (A2-C1) Videos und Lernunterlagen Lebenslangen Zugang zum Online-Kursbereich Inter…
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.justynahaas.eu/index.php?page_id=1236&aff=adminstore#aff=adminstore
+- Sales page: http://www.justynahaas.eu/index.php?page_id=1236
+- Canonical redirect: https://www.digistore24.com/redir/226193/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Grammatik-Crashkurs für DaF/DaZ-Lehrende | Deutsch als Fremd- und Zweitsprache
+- **OG title:** Grammatik-Crashkurs für DaF/DaZ-Lehrende
+- **Final URL after redirects:** https://justynahaas.eu/deutsch-unterrichten/grammatik-crashkurs/
+- **Headline (H1):**
+  > Grammatik-Crashkurs für DaF/DaZ-Lehrende
+  > online
+  > Bereit für neue Perspektiven?
+- **Section headlines (H2):**
+  - Langer Zugang zum Online-Kurs
+  - Basic
+  - Premium
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/226193
+  - https://www.digistore24.com/redir/22481/justynahaas/anVzdHluYWhhYXMuZXU=
+- **Opening copy (first paragraphs):**
+  > Als promovierte Germanistin und Lehrerin für Deutsch als Fremd- und Zweitsprache habe ich in den letzten 17 Jahren fast 7000 Personen aus aller Welt unterrichtet. Viele von ihnen haben in Österreich den Einstieg in ihren Beruf geschafft.
+  > Derzeit arbeite ich als Vortragende in Lehrgängen für DaF/DaZ-Lehrkräfte am größten österreichischen Bildungsinstitut und betreue Sprach- und Integrationsprojekte im Bereich Deutsch als Fremdsprache.
+  > Leidenschaftlich suche ich nach neuen und besseren Lern- und Lehrmethoden und teile diese mit anderen.
+- **Page word count:** 709
+- **OG image:** https://justynahaas.eu/wp-content/uploads/2018/02/cropped-e-mail-marketing-2745489_1920.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

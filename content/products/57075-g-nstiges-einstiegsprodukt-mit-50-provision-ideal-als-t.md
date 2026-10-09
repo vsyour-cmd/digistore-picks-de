@@ -1,0 +1,52 @@
+# Günstiges Einstiegsprodukt mit 50 % Provision – ideal als Tü
+
+> Product ID `57075` · Digistore24 productId `700789` · [HTML profile page](../../reviews/g-nstiges-einstiegsprodukt-mit-50-provision-ideal-als-t-57075.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $5.21 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $2.61 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ak2210 |
+| Listed since | 2026-06-19 |
+| Auto-accept affiliates | yes |
+| Categories | Food & Drink, Health & Fitness |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** 101 schnelle Küchen-Kniffe als E-Book – das ideale günstige Einstiegsprodukt. Sofortige Auslieferung, leicht verkäuflich, 50 % Provision. Perfekt als Türöffner zum großen Ratgeber „Echte Energie. Echter Genuss.".
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/700789?aff=adminstore
+- Sales page: https://www.digistore24.com/product/700789
+- Canonical redirect: https://www.digistore24.com/redir/700789/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** 101 Profi-Küchentricks - Digistore24
+- **OG title:** 101 Profi-Küchentricks
+- **Section headlines (H3):**
+  - 101 Profi-Küchentricks
+  - 101 Profi-Küchentricks
+  - 101 Profi-Küchentricks
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Schneller, einfacher, besser kochen: In diesem E-Book verrät dir Maya Curls 101 clevere Kniffe aus der Profiküche – die kleinen Tricks, über die in normalen Rezepten kein Wort steht.
+  > Von der perfekten Brat- und Frittiertemperatur über saftiges Fleisch, knackiges Gemüse und gelingsichere Saucen bis zu Backen und Süßem: praktisches Wissen, das du sofort umsetzen kannst – ganz ohne teure Ausstattung.
+  > ✓ 101 sofort umsetzbare Tipps in 7 Themenbereichen ✓ Verständlich erklärt, auch für Koch-Einsteiger ✓ Übersichtliches PDF zum Lesen am Bildschirm oder Ausdrucken ✓ Sofort-Download nach dem Kauf
+  > Schneller, einfacher, besser kochen: In diesem E-Book verrät dir Maya Curls 101 clevere Kniffe aus der Profiküche – die kleinen Tricks, über die in normalen Rezepten kein Wort steht.
+- **Page word count:** 459
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1618531/image/product/WBBRSRV9.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

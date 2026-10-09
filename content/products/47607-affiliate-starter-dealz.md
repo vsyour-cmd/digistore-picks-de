@@ -1,0 +1,54 @@
+# Affiliate Starter Dealz
+
+> Product ID `47607` · Digistore24 productId `485752` · [HTML profile page](../../reviews/affiliate-starter-dealz-47607.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $1.72 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $0.00 |
+| Cart conversion* | 25% |
+| Cancel rate* | 0% |
+| Vendor | profitbuddies |
+| Listed since | 2023-02-22 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Verschenke die Affiliate Starter Dealz und erhalte 5€ Provision auf den Order Bump und 50% Provision auf alle Up & Downsells. Mit den Affiliate Starter Dealz erhalten deine Kunden Zugang zu exklusiven Deals der besten Affilate Tools, wodurch sie viel Geld sparen und zusätzliche Features kostenfrei dazu erhalten! Und so verdienst Du Provisionen: Du verdienst 5€ Provision auf den hoch konvertierende…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.profitbuddies.de/affiliate-starter-dealz?aff=adminstore#aff=adminstore
+- Sales page: https://www.profitbuddies.de/affiliate-starter-dealz
+- Vendor affiliate support: https://www.profitbuddies.de/partnerprogramm?utm_source=digistore24&utm_medium=referral&utm_campaign=partnerprogramm-marktplatz
+- Canonical redirect: https://www.digistore24.com/redir/485752/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Affiliate Starter Dealz: Sonderkonditionen für deinen Start | Profit Buddies
+- **Meta description:** Affiliate Starter Dealz: kostenlose Übersicht mit Sonderkonditionen für Werkzeuge und Weiterbildungen, die Affiliate-Einsteiger für ihren Start brauchen.
+- **Headline (H1):**
+  > Die Werkzeuge für deinen Start, zu besseren Konditionen.
+- **Section headlines (H2):**
+  - Drei Bausteine für deinen Start, kurz erklärt.
+  - Eine Übersicht, kein Kurs.
+  - Die häufigsten Fragen
+  - Hol dir die Affiliate Starter Dealz
+- **Opening copy (first paragraphs):**
+  > Kostenlos für Affiliate-Einsteiger Die Werkzeuge für deinen Start, zu besseren Konditionen. Ausgewählte Angebote, von uns erklärt. Kostenlos.
+  > Für dein Affiliate Business brauchst du ein paar Werkzeuge: Seiten, E-Mails, Reichweite. In den Affiliate Starter Dealz stellen wir dir ausgewählte Angebote mit Sonderkonditionen vor.
+  > Als Affiliate empfiehlst du Produkte anderer und bekommst dafür eine Provision. Die Dealz helfen dir beim Einrichten, sie sind kein Verdienstversprechen.
+  > Das steckt in den Dealz Drei Bausteine für deinen Start, kurz erklärt. Zu jedem Angebot zeigen wir dir, wofür du es brauchst und was du dabei sparst.
+- **Page word count:** 496
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,48 @@
+# Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden
+
+> Product ID `38151` · Digistore24 productId `410602` · [HTML profile page](../../reviews/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Webinar |
+| Price | $279.18 (Single payment, Installment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $139.59 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Thuphi888 |
+| Listed since | 2021-10-04 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Das Webinar "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden" ist ein weltweit wirklich einmaliges 2-tägiges Erlebnisseminar für Jedermann das monatlich stattfindet. Der Clou dabei ist, dass der 1. Tag kostenlos ist, und sich so jedermann hautnah ein Bild davon machen und die Sachen selbst erleben kann. Mehr als 70% der Teilnehmer buchen dann im Anschluss auch den bezahlten 2. Tag Noch …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore
+- Sales page: https://spirit-food.com/klarer-verstand/
+- Canonical redirect: https://www.digistore24.com/redir/410602/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Klarer Verstand - hallo123
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/410602
+- **Opening copy (first paragraphs):**
+  > Nach diesem We b inar Sind deine Gedankenräder dauerhaft ruhiggestellt , bedeutet das : Das ständige Grübeln über die Zukunft oder Vergangenheit ist vorbei .
+  > Du erfährst das erste Mal in deinem Leben , was wirkliche Ruhe und Stille bedeutet – völlig unabhängig von deiner Umgebung .
+  > Hast du die Fähigkeit , dir das nötige Wissen, das du brauchst , aus dir selbst heraus zu entwickeln – unabhängig von deinen eigenen Projektionen, Ängsten und Auswertungen?
+  > Bist du dazu in der Lage , alle Aspekte deines Selbst aus der Adlerperspektive zu erkennen, zu fusionieren oder, falls notwendig , auch abzuspalten ?“
+- **Page word count:** 1089
+- **OG image:** https://spirit-food.com/wp-content/uploads/2026/07/Bildschirmfoto-2026-07-24-um-18.25.46.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

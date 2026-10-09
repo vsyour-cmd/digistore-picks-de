@@ -1,0 +1,55 @@
+# LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtungsserv
+
+> Product ID `53664` · Digistore24 productId `631776` · [HTML profile page](../../reviews/linkedin-sales-navigator-mit-fast-70-rab-einrichtungsserv-53664.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $110.74 (Single payment) |
+| Affiliate commission | 0% |
+| Earnings/sale* | $22.37 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | It-und-voipshop-digital |
+| Listed since | 2025-08-26 |
+| Auto-accept affiliates | yes |
+| Categories | Computer & Internet, Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Salesnavigator: gezielte B2B-Kundengewinnung über LinkedIn Der Salesnavigator ist ein offizielles Premium-Tool von LinkedIn – und kostet regulär 1.020 € pro Jahr. Mit diesem Sonderdeal bekommst du:✔ Den Salesnavigator für nur ca. 300 € jährlich✔ Die Einrichtung in deinem LinkedIn-Konto für einmalig 130 €
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/631776?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/631776
+- Canonical redirect: https://www.digistore24.com/redir/631776/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung - Digistore24
+- **OG title:** LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+- **Section headlines (H3):**
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+  - LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Der Salesnavigator ist ein offizielles Premium-Tool von LinkedIn – und kostet regulär 1.020 € pro Jahr .
+  > Mit diesem Sonderdeal bekommst du: ✔ Den Salesnavigator für nur ca. 300 € jährlich ✔ Die komplette Einrichtung in deinem LinkedIn-Konto für einmalig 130 €
+  > Der Salesnavigator ist ein offizielles Premium-Tool von LinkedIn – und kostet regulär 1.020 € pro Jahr .
+  > Mit diesem Sonderdeal bekommst du: ✔ Den Salesnavigator für nur ca. 300 € jährlich ✔ Die komplette Einrichtung in deinem LinkedIn-Konto für einmalig 130 €
+- **Page word count:** 477
+- **OG image:** https://www.digistore24.com/pb/webinc/af1f6816/images/brand/digistore/defaults/product_thumb.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

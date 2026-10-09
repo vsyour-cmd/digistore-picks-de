@@ -1,0 +1,40 @@
+# KI Handwerker
+
+> Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../reviews/ki-handwerker-54626.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $1.15 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $9.97 |
+| Cart conversion* | 26% |
+| Cancel rate* | 7.2% |
+| Vendor | ReneAktivNetz |
+| Listed since | 2025-11-09 |
+| Auto-accept affiliates | yes |
+| Categories | Email Marketing, Profession & Job, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** KI wie ein Handwerker – Das komplette Prompt-System Ein digitales E-Book (PDF), das zeigt, wie du Prompts so formulierst, dass KI liefert, was du wirklich brauchst. Klar, verständlich und wiederholbar. Entwickelt für Selbstständige, Affiliates und Creator, die mit KI arbeiten wollen, ohne sich in Technik oder Fachsprache zu verlieren. 16 praxisbewährte Prompts mit Beispielen Strukturierte Anleitun…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore
+- Sales page: https://kischmiede.funnelcockpit.com/ki-handwerker/
+- Vendor affiliate support: https://smarte-ki-schmiede.de/partnerprogramm-ki-schmiede-50/
+- Canonical redirect: https://www.digistore24.com/redir/647082/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

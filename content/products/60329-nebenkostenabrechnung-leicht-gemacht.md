@@ -1,0 +1,39 @@
+# Nebenkostenabrechnung leicht gemacht
+
+> Product ID `60329` · Digistore24 productId `741583` · [HTML profile page](../../reviews/nebenkostenabrechnung-leicht-gemacht-60329.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $15.58 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $6.23 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ratgeberleichtgemacht |
+| Listed since | 2026-10-07 |
+| Auto-accept affiliates | yes |
+| Categories | Home & Garden |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Nebenkostenabrechnung leicht gemacht – Ratgeber mit Nebenkosten-Prüfer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wie man die Nebenkostenabrechnung prüft: Fristen, erlaubte Kosten und der eigene Anteil. Der Nebenkosten-Prüfer rechnet nach und zeigt, was zu viel verlangt wird. Die Zielgruppe Mieter mit hoher Nachzahlung Mieter, die ihre Abrechnung nich…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741583?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/741583
+- Canonical redirect: https://www.digistore24.com/redir/741583/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

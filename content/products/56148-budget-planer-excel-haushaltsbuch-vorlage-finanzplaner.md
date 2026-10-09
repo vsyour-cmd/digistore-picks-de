@@ -1,0 +1,52 @@
+# Budget Planer Excel | Haushaltsbuch Vorlage | Finanzplaner
+
+> Product ID `56148` · Digistore24 productId `681328` · [HTML profile page](../../reviews/budget-planer-excel-haushaltsbuch-vorlage-finanzplaner-56148.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $4.69 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $1.88 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | mschwarz166c33 |
+| Listed since | 2026-04-01 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Profession & Job, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools Du willst wissen, wohin dein Geld jeden Monat verschwindet?Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse. Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/681328?aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/681328
+- Canonical redirect: https://www.digistore24.com/redir/681328/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Budget Planer Excel | Haushaltsbuch Vorlage - Digistore24
+- **OG title:** Budget Planer Excel | Haushaltsbuch Vorlage
+- **Section headlines (H2):**
+  - Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools
+  - Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools
+  - Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse.
+  > Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.
+  > Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse.
+  > Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.
+- **Page word count:** 321
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5441042/image/product/N8AJ6PVA.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

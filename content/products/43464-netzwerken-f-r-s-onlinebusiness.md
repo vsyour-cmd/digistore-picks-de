@@ -1,0 +1,55 @@
+# Netzwerken für's Onlinebusiness
+
+> Product ID `43464` · Digistore24 productId `473279` · [HTML profile page](../../reviews/netzwerken-f-r-s-onlinebusiness-43464.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $489.75 (Single payment, Installment) |
+| Affiliate commission | 10% |
+| Earnings/sale* | $48.97 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | cduffner |
+| Listed since | 2022-12-04 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Profession & Job |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Hast du dich auch schon gefragt, warum manche Menschen mit Ihrem Onlinebusiness so schnell voran kommen?Der Schlüssel heißt: NETZWERKEN. In diesem Onlinekurs zeige ich Dir Schritt für Schritt meine besten Strategien zum Nachmachen. Du wirst begeistert sein, was du alles zurückbekommst, wenn du echten Mehrwert stiftest. Dein Onlinebusiness kann dadurch wie bei mir in kurzer Zeit auf das nächste Lev…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.digistore24.com/product/473279?aff=adminstore
+- Sales page: https://www.digistore24.com/product/473279
+- Vendor affiliate support: https://dhba.funnelcockpit.com/partner
+- Canonical redirect: https://www.digistore24.com/redir/473279/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Netzwerken für's Onlinebusiness - Digistore24
+- **OG title:** Netzwerken für
+- **Section headlines (H3):**
+  - Netzwerken für's Onlinebusiness
+  - Netzwerken für's Onlinebusiness
+  - Netzwerken für's Onlinebusiness
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > In diesem Onlinekurs zeige ich dir Schritt-für-Schritt, wie du durch richtiges Netzwerken für's Onlinebusiness geniale Ergebnisse erzielen kannst.
+  > Wie würde es sich anfühlen, wenn du plötzlich wundervolle Kooperationsangebote, Einladungen zu Podcasts und echte Unterstützung von anderen bekommst?
+  > Einfach nur wundervoll - und in diesem Flow kann dein Onlinebusiness einen echten Quantensprung vollziehen.
+  > Dieses Wissen habe ich noch nie geteilt und es ist meine absolute Essenz und war bei mir der Schlüssel zum Erfolg.
+- **Questions the sales page answers:**
+  - Wie würde es sich anfühlen, wenn du plötzlich wundervolle Kooperationsangebote, Einladungen zu Podcasts und echte Unterstützung von anderen bekommst?
+- **Page word count:** 588
+- **OG image:** https://www.digistore24.com/pb/img/merchant_879595/image/product/C0WA84BE.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

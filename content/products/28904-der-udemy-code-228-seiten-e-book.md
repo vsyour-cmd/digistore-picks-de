@@ -1,0 +1,52 @@
+# Der Udemy Code (228 Seiten E-Book)
+
+> Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../reviews/der-udemy-code-228-seiten-e-book-28904.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $38.68 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $19.34 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Abhaker |
+| Listed since | 2019-05-05 |
+| Auto-accept affiliates | yes |
+| Categories | Profession & Job |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** 228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus. Hallo lieber Affiliate! Dieses Buch kostet regulär 37 Euro, Ihr könnt es aber auch mit dem Code "30-EURO-EINMALIG" auf 7 Euro reduzieren. Ihr bekommt immer 50% Provision, aber das Interessante ist vor allem der Upsell! Direkt nach dem Kauf des E-Books wird ein 13-stündiger Online-Kurs angeboten für 247 Euro. Wenn der Kunde …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://sebastian-gloeckner-bonn.de/der-udemy-code/?aff=adminstore#aff=adminstore
+- Sales page: https://sebastian-gloeckner-bonn.de/der-udemy-code/
+- Vendor affiliate support: https://sebastian-gloeckner-bonn.de/partnerprogramm/
+- Canonical redirect: https://www.digistore24.com/redir/270579/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Der Udemy Code - Sebastian Glöckner
+- **Headline (H1):**
+  > Verdiene 6-stellig mit Onlinekursen!
+  > Greife j e tzt zu!
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/270579
+- **Opening copy (first paragraphs):**
+  > Du bekommst 228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus.
+  > Seit 2014 habe ich 100.000 Teilnehmer in meine Udemy-Kurse geholt und bin der erste Udemy-Coach im deutschsprachigen Raum. Meine Kunden machen 4- bis 5-stellige Umsätze, ohne viel Arbeit zu investieren und ihre Hauptjobs und Hobbys zu vernachlässigen.
+  > Wenn Du dir Dein eigenes Udemy-Business aufbaust, wird Dir dieses Buch exakt erklären, wie Du das für Dich nachbauen kannst. Meine Erfahrung mit 100.000 Teilnehmern meiner Kurse wird Dir sofort dabei helfen, Dein eigenes erfolgreiches Udemy-Business aufzubauen.
+  > Also warte nicht ab, bis es zu spät ist(!) und informiere Dich jetzt über die unglaublichen Möglichkeiten von Udemy! Mache nicht den gleichen Fehler wie viele Menschen, die die Online-Revolution verschlafen und ihr Wissen nicht zu Geld machen!
+- **Page word count:** 574
+- **OG image:** https://sebastian-gloeckner-bonn.de/wp-content/uploads/2019/09/Bildschirmfoto-2019-09-19-um-11.54.05-1.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

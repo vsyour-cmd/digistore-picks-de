@@ -1,0 +1,54 @@
+# Literarische Buchübersetzung für Autoren | 35% Provision
+
+> Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../reviews/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $96.41 (Single payment) |
+| Affiliate commission | 35% |
+| Earnings/sale* | $33.75 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | literaxis |
+| Listed since | 2026-08-19 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Languages |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Literaxis ist eine KI-gestützte Plattform für literarische Buchübersetzungen – ab CHF 69 pro Buch, in sechs Sprachen (DE/EN/FR/IT/ES/PT-BR), mit Fokus auf Stiltreue statt reiner Wort-für-Wort-Übersetzung. Als Affiliate erhältst du 35% Provision vom Verkaufspreis. Als Super-Affiliate zusätzlich 10% auf die Provision jeder Person, die du selbst als Affiliate geworben hast. Auf unserer Werbemittel-Se…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore
+- Sales page: https://literaxis.com/de/pricing
+- Vendor affiliate support: https://literaxis.com/de/affiliate-kit
+- Canonical redirect: https://www.digistore24.com/redir/721720/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Literaxis — The Axis of Understanding
+- **Meta description:** Professionelle Buchübersetzung für Indie-Autoren, Verlage und Literaturagenturen. 90–95% übersetzungsfertig, Wortspiele markiert, ab CHF 69.
+- **Headline (H1):**
+  > Faire Preise, klar und transparent
+- **Section headlines (H2):**
+  - Lifetime Premium — einmal zahlen, dauerhaft profitieren
+  - Übersetzungsqualität nach Sprachpaar
+- **Price mentions on page:** €270, $315, £230
+- **Opening copy (first paragraphs):**
+  > Ergänze deinen bestehenden Tarif mit allen Premium-Features — kein Abo, kein Aufpreis pro Buch.
+  > Faire Preise, klar und transparent Bezahle nur für das Buch, das du übersetzen lässt. Keine Abos. Was bekomme ich genau? Wie funktioniert das? →
+  > Digitale Auslieferung: Sobald deine Übersetzung fertiggestellt ist, erhältst du eine E-Mail mit dem Link zu deinem Literaxis-Dashboard, wo du sie als PDF- und TXT-Datei herunterladen kannst.
+  > Lifetime Premium — einmal zahlen, dauerhaft profitieren Ergänze deinen bestehenden Tarif mit allen Premium-Features — kein Abo, kein Aufpreis pro Buch.
+- **Page word count:** 579
+- **OG image:** https://literaxis.com/og-image.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,62 @@
+# DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner
+
+> Product ID `30387` · Digistore24 productId `294993` · [HTML profile page](../../reviews/der-mustervertrag-eine-vertragsvorlage-f-r-trauredner-30387.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $149.46 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $59.78 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | martinredet |
+| Listed since | 2019-11-13 |
+| Auto-accept affiliates | yes |
+| Categories | Profession & Job |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** MUSTERVERTRAG FÜR TRAUREDNER / -INNEN Dieses Produkt richtet sich an alle Traurednerinnen und Trauredner in Deutschland. Derzeit gibt es rund 1000 Rednerinnen deutschlandweit. Tendenz steigend. ALLE diese Redner benötigen einen Vertrag, der die Zusammenarbeit mit dem Brautpaar bis ins Detail regelt. Schnell, einfach und unkompliziert bekommt der Redner / die Rednerin hier eine anwaltlich geprüfte …
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.martinredet.de/trauredner-vertrag-vorlage?aff=adminstore#aff=adminstore
+- Sales page: http://www.martinredet.de/trauredner-vertrag-vorlage
+- Canonical redirect: https://www.digistore24.com/redir/294993/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Trauredner Vertrag Vorlage - Anwaltlich geprüfter Mustervertrag
+- **Meta description:** Du suchst eine Mustervertrag für deine Arbeit als Hochzeitsredner? Lade dir JETZT die aktuelle Trauredner Vertrag Vorlage runter.
+- **Final URL after redirects:** https://www.martinredet.de/trauredner-vertrag-vorlage/
+- **Headline (H1):**
+  > MUSTERVERTRAG FÜR TRAUREDNER / -INNEN
+- **Section headlines (H2):**
+  - EIN PROFESSIONELLER VERTRAG STEHT FÜR SERIOSITÄT & PROFESSIONALITÄT
+  - FORMAT
+  - Kundenstimmen zur Vertragsvorlage für Trauredner / Traurednerinnen
+  - martinredet. Die Redner für Eure Freie Trauung Hochzeit.
+  - martinredet ist bekannt aus:
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/294993
+- **Opening copy (first paragraphs):**
+  > Du arbeitest bereits als Trauredner / Traurednerin und suchst einen Mustervertrag für Deine Dienstleistung?
+  > Schnell, einfach und unkompliziert bekommst Du hier eine anwaltlich geprüfte Vorlage.
+  > ✔ Komplett individualisierbar (Du kannst Deinen Namen und Dein Logo einfügen und weitere Punkte ergänzen/ändern)
+  > Kaum zu glauben, aber ich wurde schon oft gefragt: Brauche ich als Trauredner überhaupt einen Vertrag? Die Antwort darauf lautet ganz klar: JA! Auf jeden Fall. Unbedingt. Denn der Mustervertrag für Trauredner ist das A&O für die Zusammenarbeit mit dem Paar. Er regelt alle Eventualitäten und sichert Euch ab. Auch für den Fall der Fälle, wenn das Paar sich entscheiden sollte, die Hochzeit abzusagen. Kurz: Die Vertragsvorlage für Trauredner spart Euch eine Menge Geld!
+- **Questions the sales page answers:**
+  - DU BIST AUF DER SUCHE NACH EINER ANWALTLICH GEPRÜFTEN VERTRAGSVORLAGE?
+  - WARUM IST DER MUSTERVERTRAG DAS RICHTIGE FÜR DICH?
+  - 🙌 Wusstest Du das?
+- **Page word count:** 4782
+- **OG image:** https://www.martinredet.de/wp-content/uploads/2019/11/avatar-frau.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

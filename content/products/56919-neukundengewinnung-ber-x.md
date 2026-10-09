@@ -1,0 +1,63 @@
+# Neukundengewinnung über X
+
+> Product ID `56919` · Digistore24 productId `701352` · [HTML profile page](../../reviews/neukundengewinnung-ber-x-56919.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $40.77 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $20.39 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | pixonmedia |
+| Listed since | 2026-06-15 |
+| Auto-accept affiliates | yes |
+| Categories | Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren X ist für Unternehmen kein Spielplatz für Meinungen – es ist ein leistungsstarker Vertriebskanal, wenn du ihn strategisch nutzt. Dieses E-Book zeigt dir, wie du mit gezielten Threads und Replies in deiner Zielgruppe Sichtbarkeit aufbaust, wie du einen Audience-to-Lead-Funnel baust, der Follower in Anfragen verwandelt, u…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x?aff=adminstore#aff=adminstore
+- Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x
+- Vendor affiliate support: https://social-media-planer.de/partnerprogramm
+- Canonical redirect: https://www.digistore24.com/redir/701352/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Neukundengewinnung über X — E-Book (PDF) | X | Social Media Planer · Social Media Planer
+- **OG title:** Neukundengewinnung über X — E-Book
+- **Meta description:** Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren X als Vertriebskanal: Aufmerksamkeit erzeugen, Vertrauen aufbauen, Kunden gewinnen. Für X – sofort als PDF-Download, 27 Seiten.
+- **Headline (H1):**
+  > Neukundengewinnung über X
+- **Section headlines (H2):**
+  - Das nimmst du mit
+  - Das ist drin
+  - Inhaltsverzeichnis
+  - Gratis-Bonus dabei 🎁
+  - Häufige Fragen
+  - Weitere X -E-Books
+- **Price mentions on page:** $19, $20, $21, $32
+- **CTA button texts:** "Start"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/701352
+  - https://www.digistore24.com/product/701352\
+- **Opening copy (first paragraphs):**
+  > Für wen? Unternehmer, Selbstständige und Marketing-Teams, die X zur planbaren Neukundengewinnung nutzen wollen.
+  > Ja. Ein eigenes Abschnitt behandelt lokale Sichtbarkeit und Nischen-Targeting, das auch ohne große Reichweite wirkt.
+  > Mit konsequentem Posting und aktivem Community-Management siehst du erste Reaktionen innerhalb weniger Wochen. Leads folgen, wenn der Funnel steht.
+  > Nicht zwingend. Das E-Book erklärt, für wen Premium sinnvoll ist und welche Features für Business-Konten den größten Unterschied machen.
+- **Page word count:** 679
+- **OG image:** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x/opengraph-image?5f57d7e20e969fa6
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

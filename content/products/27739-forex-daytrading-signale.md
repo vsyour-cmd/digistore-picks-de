@@ -1,0 +1,67 @@
+# Forex Daytrading Signale
+
+> Product ID `27739` · Digistore24 productId `196689` · [HTML profile page](../../reviews/forex-daytrading-signale-27739.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Remote service provided electronically |
+| Price | $254.32 (Subscription) |
+| Affiliate commission | 15% |
+| Earnings/sale* | $79.31 |
+| Cart conversion* | 5% |
+| Cancel rate* | 10.51% |
+| Vendor | daxtrading |
+| Listed since | 2018-01-27 |
+| Auto-accept affiliates | yes |
+| Categories | Trading Products |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Sie suchen nach einem Trading-Partnerprogramm, das seriös ist und regelmäßig wiederkehrende Umsätze bringt? Dann haben Sie mit unseren Forex Daytrading-Signalen genau das richtige gefunden. Unsere professionellen Signale richten sich an Einsteiger und fortgeschrittene Forex Daytrader. Einfacher Erstverkauf durch 19,90 Euro Testangebot! Konditionen für Partner: 30 % Provision als Passiv-Einkommen (…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.kagels-trading.de/trading-signale/forex-daytrading-live/?aff=adminstore#aff=adminstore
+- Sales page: https://www.kagels-trading.de/trading-signale/forex-daytrading-live/
+- Vendor affiliate support: https://www.kagels-trading.de/affiliate-registrierung/
+- Canonical redirect: https://www.digistore24.com/redir/196689/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Forex Daytrading Signale jetzt 14 Tage für 19,90 € testen
+- **Meta description:** Forex Daytrading Signale jetzt 14 Tage testen ✅ Wir handeln live EURUSD, GBPUSD, USDJPY, USDCAD, AUDUSD ✅ Weiterlesen
+- **Headline (H1):**
+  > Verdiene Geld mit professionellen Forex Daytrading Signalen von Corvin Schmoller
+- **Section headlines (H2):**
+  - Forex Daytrading Performance von Corvin Schmoller.
+  - 70–80 %
+  - 2–5
+  - 10+
+  - Das macht die Forex Daytrading Signale von Corvin so besonders.
+  - Das kannst Du von unseren Forex Daytrading Signalen erwarten.
+  - Triff den Experten
+  - So einfach erhältst Du Deine Forex-Daytrading Signale.
+  - Nachvollziehbare Performance
+  - So sind unsere Signale aufgebaut.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/196689
+  - https://www.digistore24.com/product/551895
+  - https://www.digistore24.com/product/523179
+- **Opening copy (first paragraphs):**
+  > PERFORMANCE Forex Daytrading Performance von Corvin Schmoller. Erfahre jetzt wie das KI-gestützte Forex Daytrading von Corvin performt:
+  > Historisch betrachtet, kannst Du von einer hohen Trefferquote profitieren – bei gutem Gewinn-Verlust-Verhältnis.
+  > Die Signale decken alle wichtigen Forex-Märkte ab – z. B. EUR/USD, GBP/USD & USD/JPY.
+  > EIGENSCHAFTEN Das macht die Forex Daytrading Signale von Corvin so besonders. Erfahre, wie Corvin Schmoller mit System, Erfahrung und KI-Unterstützung präzise Chancen im Forex-Handel identifiziert – und wie Du diese Trades direkt umsetzen kannst.
+- **Questions the sales page answers:**
+  - War Deine Frage nicht dabei?
+- **Page word count:** 2011
+- **OG image:** https://www.kagels-trading.de/wp-content/uploads/2026/02/KagelsTrading-Thumbnail_Daytrading-Signale_Forex.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)
