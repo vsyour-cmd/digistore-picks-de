@@ -1,7 +1,7 @@
 # RESET21 – Dein 21-Tage-Programm für bessere Routinen
 
 > Product ID `59645` · Digistore24 productId `736794` · [HTML profile page](../../reviews/reset21-dein-21-tage-programm-f-r-bessere-routinen-59645.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,9 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Home
+- **Price mentions on page:** €79,95
+- **Page word count:** 1
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

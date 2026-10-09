@@ -1,7 +1,7 @@
 # EU AI Act – Deepfake und Synthetic Media
 
 > Product ID `59710` · Digistore24 productId `652453` · [HTML profile page](../../reviews/eu-ai-act-deepfake-und-synthetic-media-59710.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** EU KI-Content-Herkunft – Synthetic Media Deepfake Kennzeichnung 2026 (Unternehmer Edition) - Digistore24
+- **OG title:** EU KI-Content-Herkunft – Synthetic Media Deepfake Kennzeichnung 2026 (Unternehmer Edition)
+- **Section headlines (H2):**
+  - EU KI-Content-Herkunft – Synthetic Media & Deepfake Kennzeichnung 2026/2027
+  - EU KI-Content-Herkunft – Synthetic Media & Deepfake Kennzeichnung 2026/2027
+  - EU KI-Content-Herkunft – Synthetic Media & Deepfake Kennzeichnung 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > KI-generierte Inhalte müssen für Nutzer, Kunden und Geschäftspartner transparenter werden. Wer KI für Bilder, Videos, Audio, Stimmen, Avatare, Texte, Produktcontent, Werbung, Social Media oder Marketingmaterial einsetzt, sollte nachvollziehbar dokumentieren können, wie diese Inhalte entstanden sind, welche Tools verwendet wurden und ob eine Kennzeichnung erforderlich ist.
+  > Dieses Compliance Pack hilft Selbstständigen, kleinen Unternehmen, Agenturen, Online-Shops, Marketing-Teams und digitalen Anbietern dabei, KI-Content, Synthetic Media und Deepfake-nahe Inhalte klar zu kennzeichnen, intern zu prüfen und sauber zu dokumentieren.
+  > Die enthaltenen Vorlagen sind als kopierbarer Text im PDF angelegt. Sie können die benötigten Abschnitte markieren, kopieren und in Word, Google Docs, LibreOffice oder Ihr internes Dokumentationssystem einfügen.
+  > Danach ergänzen Sie Ihre eigenen Unternehmensdaten, KI-Tools, Medienarten, Prompts, Verantwortlichkeiten, Kennzeichnungen, Freigaben und Ablageorte. So entsteht Schritt für Schritt eine nachvollziehbare Dokumentation Ihrer KI-generierten Inhalte.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Compliance Pack geeignet?
+- **Page word count:** 2003
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/WGEXF4NE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

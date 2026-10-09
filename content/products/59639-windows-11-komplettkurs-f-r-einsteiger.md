@@ -1,7 +1,7 @@
 # Windows 11 Komplettkurs für Einsteiger
 
 > Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../reviews/windows-11-komplettkurs-f-r-einsteiger-59639.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Windows 11 Komplettkurs - Digistore24
+- **OG title:** Windows 11 Komplettkurs
+- **Section headlines (H3):**
+  - Windows 11 Komplettkurs
+  - Windows 11 Komplettkurs
+  - Windows 11 Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere Windows 11 von den Grundlagen bis zum Profi-Level ✅ Finde dich sofort zurecht und nutze alle neuen Funktionen sicher ✅ Leicht verständliche Schritt-für-Schritt-Videos, auch ohne Vorkenntnisse ✅ Mache deinen PC schneller und richte ihn ganz nach deinen Wünschen ein ✅ Schütze deine Daten und deine Privatsphäre mit den richtigen Einstellungen ✅ Die besten Tipps, Tricks und Tastenkürzel für effizientes Arbeiten
+  > 1x Windows 11 Komplettkurs Sie erhalten Zugang zu einem geschützten Online-Bereich mit Kursen oder Webinaren
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 327
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/RZBCJ4HR.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

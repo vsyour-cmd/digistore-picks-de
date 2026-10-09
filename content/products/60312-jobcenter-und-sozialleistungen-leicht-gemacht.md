@@ -1,7 +1,7 @@
 # Jobcenter und Sozialleistungen leicht gemacht
 
 > Product ID `60312` · Digistore24 productId `708655` · [HTML profile page](../../reviews/jobcenter-und-sozialleistungen-leicht-gemacht-60312.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF - Digistore24
+- **OG title:** Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Section headlines (H3):**
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Kündigung leicht gemacht – Ratgeber + Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Viele Menschen beantragen Leistungen nicht, obwohl ihnen Unterstützung zusteht. Dieser Ratgeber erklärt die wichtigsten Sozialleistungen Schritt für Schritt, mit den neuen Regeln der Grundsicherung seit Juli 2026. In verständlicher Sprache, mit Rechenbeispielen und fertigen Musterbriefen. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Grundsicherungsgeld (früher Bürgergeld, „Hartz IV"): die neuen Regeln seit Juli 2026 ✔ Einkommen, Vermögen, Pflichten und Kürzungen ✔ Arbeitslosengeld: Fristen, Höhe, Dauer, Sperrzeit ✔ Wohngeld, Kindergeld, Kinderzuschlag, Unterhaltsvorschuss ✔ Grundsicherung im Alter, mit Rechenbeispiel ✔ Antrag richtig stellen und Bescheid prüfen ✔ Widerspruch, Überprüfungsantrag und Klage ✔ 4 Musterbriefe und Checkliste „Was könnte mir zustehen?"
+  > Lieferumfang Sie erhalten den Ratgeber „Jobcenter & Sozialleistungen leicht gemacht" als PDF-Datei mit 27 Seiten , zum Lesen am Bildschirm und zum Ausdrucken.
+  > Auslieferung Nach erfolgreicher Bezahlung wird das Produkt ausschließlich digital bereitgestellt. Der Download steht unmittelbar nach dem Kauf über die Digistore24-Bestätigungsseite sowie zusätzlich per E-Mail zur Verfügung.
+- **Questions the sales page answers:**
+  - Kennen Sie Ihre Ansprüche?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+- **Page word count:** 1823
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/PP4SPS9R.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

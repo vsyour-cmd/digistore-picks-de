@@ -1,7 +1,7 @@
 # Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer
 
 > Product ID `60356` · Digistore24 productId `741776` · [HTML profile page](../../reviews/bestattung-leicht-gemacht-ratgeber-mit-bestattungs-planer-60356.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Bestattung leicht gemacht – Ratgeber + Bestattungs-Planer - Digistore24
+- **OG title:** Bestattung leicht gemacht – Ratgeber + Bestattungs-Planer
+- **Section headlines (H3):**
+  - Bestattung leicht gemacht – Ratgeber + Bestattungs-Planer
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Vollmachten leicht gemacht – Vollmachts-Generator mit 10 Vorlagen
+  - Versicherungen leicht gemacht – Ratgeber + Versicherungs-Check
+  - Bestattung leicht gemacht – Ratgeber + Bestattungs-Planer
+  - Bestattung leicht gemacht – Ratgeber + Bestattungs-Planer
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Vollmachten leicht gemacht – Vollmachts-Generator mit 10 Vorlagen
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber führt verständlich durch alle Entscheidungen: Bestattungsart, Grab, Kosten, Bestatter, Trauerfeier und Hilfen, wenn das Geld nicht reicht. Als Beilage erhalten Sie den Bestattungs-Planer: eine Datei mit Kostenplan und einer Verfügung für die eigenen Wünsche. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Die ersten Schritte ✔ Wer entscheidet, wer muss, wer zahlt ✔ Die Bestattungsarten ✔ Grab und Friedhof ✔ Was eine Bestattung kostet ✔ Den Bestatter auswählen und Angebote vergleichen ✔ Die Trauerfeier ✔ Wenn das Geld nicht reicht ✔ Vorsorgen zu Lebzeiten ✔ Checkliste
+  > ✔ Kostenplan für fünf Bestattungsarten mit elf Posten ✔ Übliche Beträge als Vorschlag, eigene Zahlen eintragbar ✔ Zeigt, was fehlt oder übrig bleibt ✔ „Meine Wünsche": Bestattungsverfügung zum Unterschreiben ✔ Beides als PDF zum Ausdrucken
+  > Wichtig: Die Kostenangaben sind grobe Richtwerte. Das Bestattungsrecht unterscheidet sich von Bundesland zu Bundesland.
+- **Questions the sales page answers:**
+  - Sie müssen eine Bestattung organisieren oder möchten für sich selbst vorsorgen?
+  - Wer entscheidet für Sie, wenn Sie es selbst nicht mehr können?
+  - Jemand soll für Sie ein Paket abholen, das Auto anmelden oder mit Ihrem Kind verreisen?
+  - Zahlen Sie für Versicherungen, die Sie nicht brauchen, während die wichtigste fehlt?
+- **Page word count:** 2361
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/ASTRBNN6.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

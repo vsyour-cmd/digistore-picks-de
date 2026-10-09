@@ -1,7 +1,7 @@
 # Seen and Sold: Das KI-Textsystem für bessere Websites
 
 > Product ID `59649` · Digistore24 productId `733708` · [HTML profile page](../../reviews/seen-and-sold-das-ki-textsystem-f-r-bessere-websites-59649.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,26 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Seen and Sold: KI-Webseiten-Texte, die klingen wie du und verkaufen. - Digistore24
+- **OG title:** Seen and Sold: KI-Webseiten-Texte, die klingen wie du und verkaufen.
+- **Section headlines (H2):**
+  - Seen & Sold: KI-Webseitentexte, die nach dir klingen und gefunden werden.
+  - Das bekommst du:
+  - FORMAT & LIEFERUNG:
+  - Seen & Sold: KI-Webseitentexte, die nach dir klingen und gefunden werden.
+  - Das bekommst du:
+  - FORMAT & LIEFERUNG:
+  - Seen & Sold: KI-Webseitentexte, die nach dir klingen und gefunden werden.
+  - Das bekommst du:
+  - FORMAT & LIEFERUNG:
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Deine Website soll professionell wirken, nach dir klingen und die richtigen Menschen erreichen - auch wenn du deine Texte mit ChatGPT oder Claude erstellst.
+  > Mit Seen & Sold bekommst du ein klares System , mit dem du deine Website-Texte selbst erstellst, überarbeitest und für SEO & KI-Suche optimierst - ohne stundenlang an Formulierungen zu sitzen und ohne typische KI-Floskeln.
+  > Deine Website soll professionell wirken, nach dir klingen und die richtigen Menschen erreichen - auch wenn du deine Texte mit ChatGPT oder Claude erstellst.
+  > Mit Seen & Sold bekommst du ein klares System , mit dem du deine Website-Texte selbst erstellst, überarbeitest und für SEO & KI-Suche optimierst - ohne stundenlang an Formulierungen zu sitzen und ohne typische KI-Floskeln.
+- **Page word count:** 1018
+- **OG image:** https://www.digistore24.com/pb/img/merchant_2972993/image/product/XUO0W7WC.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

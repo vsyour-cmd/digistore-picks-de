@@ -1,7 +1,7 @@
 # CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows)
 
 > Product ID `60186` · Digistore24 productId `719917` · [HTML profile page](../../reviews/clonebeam-festplatte-oder-ordner-1-1-spiegeln-windows-60186.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CloneBeam — 1:1-Festplattenspiegelung für Windows
+- **Meta description:** CloneBeam — Windows-Tool zum 1:1-Spiegeln einer Festplatte oder eines Ordners. Nix denken, einfach klonen.
+- **Headline (H1):**
+  > Deine Festplatte, 1:1 gesichert. Ohne nachzudenken.
+- **Section headlines (H2):**
+  - Was CloneBeam kann
+  - So funktioniert's
+  - Preis
+- **Opening copy (first paragraphs):**
+  > CloneBeam spiegelt einen Ordner oder ein ganzes Laufwerk exakt auf ein Ziel — Quelle wählen, Ziel wählen, klonen. Fortschritt, Restzeit und Protokoll siehst du live im Fenster.
+  > Läuft intern über das in Windows enthaltene robocopy — CloneBeam erspart dir aber Kommandozeile und Parameter: fertige Oberfläche mit Fortschrittsbalken, Restzeit-Schätzung, Protokoll und einem expliziten Sicherheits-Dialog vor jedem Lauf.
+  > Nutzt robocopy /MIR im Hintergrund — das Ziel entspricht danach exakt der Quelle, inklusive Löschen veralteter Dateien im Ziel.
+  > Vor dem Kopieren wird die Gesamtgröße der Quelle ermittelt, danach zeigt ein Fortschrittsbalken Prozent und geschätzte Restzeit.
+- **Page word count:** 281
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

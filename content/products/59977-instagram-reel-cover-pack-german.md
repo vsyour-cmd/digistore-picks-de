@@ -1,7 +1,7 @@
 # Instagram Reel Cover Pack (German)
 
 > Product ID `59977` · Digistore24 productId `737331` · [HTML profile page](../../reviews/instagram-reel-cover-pack-german-59977.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Reel Cover Starter Pack - xaruta.com©
+- **OG title:** Reel Cover Starter Pack
+- **Meta description:** 📦 €15🛒 - 💶💳🇬🇧 Englisch 🇪🇸 Spanisch ✅ besserer Auftritt✅ 30x Instagram Reel Covers Vorlagen✅ 30x Headlines Vorlagen✅ 20x Blanko Covers✅ Bonus: 5x Farben & Fonts
+- **Headline (H1):**
+  > Reel Cover Starter Pack
+- **Price mentions on page:** €15
+- **Opening copy (first paragraphs):**
+  > ✅ besserer Auftritt ✅ 30x Instagram Reel Covers Vorlagen ✅ 30x Headlines Vorlagen ✅ 20x Blanko Covers ✅ Bonus: 5x Farben & Fonts
+- **Page word count:** 198
+- **OG image:** https://xaruta4.wordpress.com/wp-content/uploads/2026/10/reel_cover_starter_pack_logo_2_symbol_cover.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

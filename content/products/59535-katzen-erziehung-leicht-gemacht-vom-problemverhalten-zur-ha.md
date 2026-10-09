@@ -1,7 +1,7 @@
 # Katzen-Erziehung leicht gemacht: Vom Problemverhalten zur ha
 
 > Product ID `59535` · Digistore24 productId `735706` · [HTML profile page](../../reviews/katzen-erziehung-leicht-gemacht-vom-problemverhalten-zur-ha-59535.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** katzen erziehung - Digistore24
+- **OG title:** katzen erziehung
+- **Section headlines (H3):**
+  - katzen erziehung
+  - Katzen-Erziehung & Ernährung: Das kompakte Praxishandbuch
+  - katzen erziehung
+  - Katzen-Erziehung & Ernährung: Das kompakte Praxishandbuch
+  - katzen erziehung
+  - Katzen-Erziehung & Ernährung: Das kompakte Praxishandbuch
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Schluss mit komplizierter Theorie! Dieser praxisnahe Guide bringt die wichtigsten Grundlagen der Katzenerziehung und einer artgerechten Ernährung direkt auf den Punkt – ideal für einen stressfreien Alltag mit deiner Katze.
+  > Erziehung auf den Punkt gebracht: Effektive Methoden, um unerwünschtes Verhalten sanft und nachhaltig zu korrigieren.
+  > Ernährung ohne Mythen: Klartext darüber, was deine Katze wirklich braucht, um gesund und vital zu bleiben.
+  > Sofort umsetzbar: Keine langen Abhandlungen, sondern praxiserprobte Schritt-für-Schritt-Tipps für die schnelle Anwendung im Alltag.
+- **Page word count:** 439
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5722506/image/product/A1ZQKOLU.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

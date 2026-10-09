@@ -1,7 +1,7 @@
 # Adobe Illustrator Designer Komplettkurs
 
 > Product ID `59629` · Digistore24 productId `733809` · [HTML profile page](../../reviews/adobe-illustrator-designer-komplettkurs-59629.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Adobe Illustrator Komplettkurs - Digistore24
+- **OG title:** Adobe Illustrator Komplettkurs
+- **Section headlines (H3):**
+  - Adobe Illustrator Komplettkurs
+  - Adobe Illustrator Komplettkurs
+  - Adobe Illustrator Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Gestalte eigene Logos, Icons, Illustrationen und Grafiken, die professionell aussehen
+  > ✅ Gestalte eigene Logos, Icons, Illustrationen und Grafiken, die professionell aussehen
+  > ✅ Gestalte eigene Logos, Icons, Illustrationen und Grafiken, die professionell aussehen
+- **Page word count:** 282
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/ZXTKMJD7.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

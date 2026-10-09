@@ -1,7 +1,7 @@
 # Paulownia Project Compact | Проект Павловния Компакт
 
 > Product ID `59434` · Digistore24 productId `724786` · [HTML profile page](../../reviews/paulownia-project-compact-59434.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Проект Павловния Компакт - Digistore24
+- **OG title:** Проект Павловния Компакт
+- **Section headlines (H3):**
+  - Проект Павловния Компакт
+  - Проект Павловния Компакт
+  - Проект Павловния Компакт
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ​Характеристики и природный потенциал: Рекордная скорость роста с технической зрелостью за 6–8 лет и возможностью многократного восстановления (до 4–5 циклов сруба с одного мощного корня). «Алюминиевое дерево», сочетающее легкость и несущую прочность. Уникальная термическая выносливость и огнестойкость (выдерживает до +400°C с сохранением корневой системы) при морозостойкости до -28°C.
+  > ​Архитектура методологии: ​Технический регламент и агротехника: подготовка почвы, схемы посадки, полив, уход.
+  > ​Характеристики и природный потенциал: Рекордная скорость роста с технической зрелостью за 6–8 лет и возможностью многократного восстановления (до 4–5 циклов сруба с одного мощного корня). «Алюминиевое дерево», сочетающее легкость и несущую прочность. Уникальная термическая выносливость и огнестойкость (выдерживает до +400°C с сохранением корневой системы) при морозостойкости до -28°C.
+  > ​Архитектура методологии: ​Технический регламент и агротехника: подготовка почвы, схемы посадки, полив, уход.
+- **Page word count:** 437
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5851717/image/product/26ETOEQT.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

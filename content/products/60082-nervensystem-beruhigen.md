@@ -1,7 +1,7 @@
 # Nervensystem beruhigen
 
 > Product ID `60082` · Digistore24 productId `739608` · [HTML profile page](../../reviews/nervensystem-beruhigen-60082.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Nervensystem beruhigen - Digistore24
+- **OG title:** Nervensystem beruhigen
+- **Section headlines (H2):**
+  - Nervensystem beruhigen
+  - (eBook)
+  - Raus aus dem Dauerstress. Rein in mehr Ruhe, Klarheit und Wohlbefinden.
+  - 30 Tage für mehr innere Ruhe
+  - Kein kompliziertes Programm – sondern kleine Schritte, die in deinen Alltag passen
+  - Was du mit dem 30-Tage-Plan erreichen kannst
+  - Für wen ist dieses Buch geeignet?
+  - #Bonus1:
+  - #Bonus 2:
+  - --------------------
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Drehen sich deine Gedanken ständig im Kreis? Fällt es dir schwer abzuschalten? Wachst du morgens schon mit einem Gefühl von Unruhe auf oder hast du das Gefühl, ständig „auf Empfang“ zu sein?
+  > „Nervensystem beruhigen – Der 30-Tage-Plan für weniger Stress und mehr innere Ruhe“ begleitet dich Schritt für Schritt durch einen einfachen, alltagstauglichen 30-Tage-Plan.
+  > Du brauchst keine komplizierten Methoden und musst deinen gesamten Alltag auf den Kopf stellen. Stattdessen lernst du kleine Übungen und praktische Gewohnheiten kennen, die sich unkompliziert in deinen Tagesablauf integrieren lassen.
+  > Dieser Guide zeigt dir, wie du dir bewusst kleine Ruheinseln schaffen und besser mit alltäglicher Anspannung umgehen kannst.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Buch geeignet?
+- **Page word count:** 2186
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/XLG8P8ZN.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

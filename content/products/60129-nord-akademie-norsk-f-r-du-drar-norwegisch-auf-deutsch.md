@@ -1,7 +1,7 @@
 # NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch
 
 > Product ID `60129` · Digistore24 productId `733774` · [HTML profile page](../../reviews/nord-akademie-norsk-f-r-du-drar-norwegisch-auf-deutsch-60129.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** NORD AKADEMI · Norwegisch online lernen – A1 bis B2
+- **OG title:** NORD AKADEMI · Norwegisch online lernen – auf Deutsch
+- **Meta description:** NORD AKADEMI: Norwegisch online lernen auf Deutsch – mit Hörübungen, Sprechtraining und klaren Lernschritten für Alltag, Auswanderung und Leben in Norwegen.
+- **Headline (H1):**
+  > Dein Norwegen-Traum beginnt mit Sprache.
+- **Section headlines (H2):**
+  - Nicht nur Vokabeln pauken. Wirklich norwegisch anwenden.
+  - NORD AKADEMI kennenlernen.
+  - Ein Lernweg. Drei klare Möglichkeiten zu starten.
+  - Deine fünf Module.
+  - Welches Norwegisch-Niveau hast du?
+  - A2, B1, B2 & Prüfungsvorbereitung.
+  - Ein Preis. Der komplette Kurs.
+  - Häufige Fragen.
+  - Bereit für deinen ersten Schritt?
+- **Opening copy (first paragraphs):**
+  > vielleicht träumst du von einem Leben in Norwegen – von mehr Ruhe, Natur und einem neuen Anfang.
+  > Doch wirklich anzukommen beginnt dort, wo du die Menschen verstehst und selbst sagen kannst, was dir wichtig ist.
+  > Jede Lektion verbindet echte Dialoge, klare Grammatik-Erklärungen und praktische Übungen – mit sofortigem Fortschritts-Feedback.
+  > Authentische Gespräche in norwegischem Tempo – zum Anhören, Mitlesen und Mitsprechen.
+- **Questions the sales page answers:**
+  - Hei! Hva heter du?
+- **Page word count:** 1288
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

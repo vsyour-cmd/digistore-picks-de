@@ -1,7 +1,7 @@
 # Creation Master Studio - für Scannerpersönlichkeiten
 
 > Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../reviews/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,40 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Creation Master Studio -
+- **OG title:** Creation Master Studio
+- **Headline (H1):**
+  > Creation Master Studio
+- **Section headlines (H2):**
+  - Was wäre, wenn du mit Klarheit, Fokus und Zufriedenheit innerhalb von wenigen Wochen oder Monaten deine Ideen in Projekte umsetzen könntest?
+  - Die meisten Scannerpersönlichkeiten wissen nicht genau wie sie sich trotz ihrer Sprunghaftigkeit auf nur eines ihrer Projekte fokussieren können. Zudem glauben sie meist, dass sie sich nicht entscheiden können, nichts wirklich richtig können und nichts zu Ende bringen.
+  - Wenn du lernen möchtest wie du das Selbstvertrauen gewinnst, dass du alles schaffst, was du dir vornimmst, dann präsentiere ich dir voller Stolz das Creation Studio.
+  - Beim Creation Studio bist du danach in der Lage einfallsreich und kreativ aber mit Fokus und Struktur deine Projekte zu Ende zu führen.
+  - Die Umsetzung deines Zieles ist mit Geld nicht aufzuwiegen.
+  - Bist du bereit für den nächsten Schritt?
+  - FAQ
+  - Wenn du dir immer noch nicht sicher bist, ob das Creation Master Studio das Richtige für dich ist, dann wird dir das hier helfen:
+  - Melde dich jetzt beim Creation Master Studio an
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/382490
+  - https://www.digistore24.com/product/382479
+  - https://www.digistore24.com/product/382195
+  - https://www.digistore24.com/product/382455
+- **Opening copy (first paragraphs):**
+  > Damit Du gemeinsam mit anderen Vielbegabten üben kannst und Impulse, Motivation und Anregungen durch Dein Team bekommst, haben wir das Creation Master Studio gegründet, wo sich unsere Teilnehmer intensiv austauschen und miteinander kreieren können.
+  > So können sie sich mit Fokus ihren Projekten widmen, mit Hilfe des Teams an ihrem Selbstbewusstsein arbeiten und die Energie und erweiterte Perspektive eines Mastermind nutzen. Das gibt ihnen Selbstvertrauen, Anerkennung für ihre vollendeten Projekte und Gelassenheit was positive gesundheitliche Folgen auf das allgemeine Wohlbefinden und das Stresslevel hat.
+  > Das Problem ist doch dieses: Du weißt genau, um fokussiert bei der Sache zu bleiben und ein Ergebnis abzuliefern mit dem du zufrieden bist, brauchst du ein starkes Selbstvertrauen, dass du es schaffst und dazu brauchst du Projekte, die du auch wirklich umgesetzt hast. Du steckst in einem Teufelskreis fest und da raus zu kommen gelingt dir am einfachsten und am schnellsten mit der individuellen Betreuung eines Teams, das dich wertschätzt und deine Eigenschaften und Herausforderungen nachvollziehen kann.
+  > Wie soll ich das nur schaffen? Wie soll ich mich bloß auf eine Sache fokussieren? So schnell wird mir ein angefangenes Projekt wieder zu langweilig.
+- **Questions the sales page answers:**
+  - Was am Creation Studio anders ist?
+  - 1. Was ist alles im Paket enthalten?
+  - 2. Wie komme ich rein, wenn ich bezahlt habe?
+  - 3. Wie lange geht die Team-Begleitung?
+  - 4. Wann geht es los?
+  - 5. Wie viel Zeit muss ich einplanen?
+  - 6. Gibt es Bedingungen für die Teilnahme?
+- **Page word count:** 2321
+- **OG image:** https://www.tausendsassaonlineschule.com/wp-content/uploads/2021/12/Creation-Workshop-Posts-1200-x-788-px-1200-x-488-px.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

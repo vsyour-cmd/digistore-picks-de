@@ -1,7 +1,7 @@
 # Elterngeld leicht gemacht – Ratgeber für werdende Eltern
 
 > Product ID `60320` · Digistore24 productId `740103` · [HTML profile page](../../reviews/elterngeld-leicht-gemacht-ratgeber-f-r-werdende-eltern-60320.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Elterngeld leicht gemacht – Ratgeber als PDF - Digistore24
+- **OG title:** Elterngeld leicht gemacht – Ratgeber als PDF
+- **Section headlines (H3):**
+  - Elterngeld leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Elterngeld leicht gemacht – Ratgeber als PDF
+  - Elterngeld leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Elterngeld leicht gemacht – Ratgeber als PDF Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus verständlich erklärt. Mit Beispielrechnungen, Schritt-für-Schritt-Hilfe zum Antrag, Checkliste und 4 Musterbriefen. Stand Oktober 2026, 19 Seiten. Sofort nach dem Kauf zum Download. Einmal zahlen, kein Abo.
+  > Viele verzichten auf Erstattungen, weil sie nicht wissen, welche Kosten absetzbar sind. Dieser Ratgeber für Arbeitnehmer erklärt es verständlich und Schritt für Schritt. Der beiliegende Steuer-Rechner schätzt Ihre Erstattung und zeigt, welcher Betrag in ELSTER wohin gehört. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Wer eine Erklärung abgeben muss, und alle Fristen ✔ Werbungskosten: Arbeitsweg, Homeoffice, Arbeitsmittel, Fortbildung ✔ Handwerker und Hilfen im Haushalt, auch für Mieter ✔ Sonderausgaben, Kinderbetreuung, Krankheitskosten, Pflege ✔ ELSTER Schritt für Schritt ✔ Steuerbescheid prüfen, Einspruch und 3 Musterbriefe ✔ Checkliste für alle Unterlagen und Ausblick auf 2026
+  > ✔ fragt Ihre Angaben in einfachen Worten ab ✔ schätzt Ihre Erstattung oder Nachzahlung, mit Rechenweg ✔ erstellt Ihre persönliche Eintragehilfe für ELSTER zum Ausdrucken
+- **Questions the sales page answers:**
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+- **Page word count:** 1538
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/3LI37BHE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Homöopathie Für Pflanzen
 
 > Product ID `59667` · Digistore24 productId `737049` · [HTML profile page](../../reviews/hom-opathie-f-r-pflanzen-59667.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Homöopathie Für Pflanzen - Digistore24
+- **OG title:** Homöopathie Für Pflanzen
+- **Section headlines (H2):**
+  - Homöopathie Für Pflanzen
+  - (Druckbare PDF)
+  - Deine Pflanze sieht plötzlich schwach aus? Die Blätter werden gelb, die Triebe wachsen kaum noch oder du entdeckst Flecken und andere Auffälligkeiten?
+  - ----------------
+  - ------------------
+  - Bonus
+  - (Druckbare PDF)
+  - Homöopathie Für Pflanzen
+  - (Druckbare PDF)
+  - Deine Pflanze sieht plötzlich schwach aus? Die Blätter werden gelb, die Triebe wachsen kaum noch oder du entdeckst Flecken und andere Auffälligkeiten?
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Deine Pflanze sieht plötzlich schwach aus? Die Blätter werden gelb, die Triebe wachsen kaum noch oder du entdeckst Flecken und andere Auffälligkeiten? Dann heißt es nicht automatisch: mehr gießen, mehr düngen oder einfach irgendein Mittel ausprobieren.
+  > Denn hinter einem sichtbaren Problem können ganz unterschiedliche Ursachen stecken.
+  > Dieses praxisorientierte E-Book zeigt dir, wie du deine Pflanzen aufmerksam beobachtest, typische Beschwerden besser einordnest und deine Pflanzenpflege systematisch aufbaust – ergänzt um einen verständlichen Einblick in die traditionelle Pflanzenhomöopathie.
+  > Deshalb lernst du in diesem Ratgeber, verschiedene Hinweise miteinander zu verbinden und zunächst die grundlegenden Pflegebedingungen zu überprüfen:
+- **Questions the sales page answers:**
+  - Deine Pflanze sieht plötzlich schwach aus? Die Blätter werden gelb, die Triebe wachsen kaum noch oder du entdeckst Flecken und andere Auffälligkeiten?
+- **Page word count:** 2254
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/AK9FJQID.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

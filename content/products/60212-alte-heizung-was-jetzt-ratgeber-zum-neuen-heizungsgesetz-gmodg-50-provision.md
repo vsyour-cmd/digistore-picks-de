@@ -1,7 +1,7 @@
 # Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision
 
 > Product ID `60212` · Digistore24 productId `739008` · [HTML profile page](../../reviews/alte-heizung-was-jetzt-ratgeber-zum-neuen-heizungsgesetz-gmodg-50-provision-60212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,21 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** eBook 1: Alte Heizung – was jetzt? - MyHome Makler
+- **Meta description:** Das neue Gebäudemodernisierungsgesetz verständlich erklärt. Was Eigentümer, Käufer, Verkäufer und Vermieter bei Heizungen über 30 Jahre jetzt wissen müssen –
+- **Headline (H1):**
+  > eBook 1: Alte Heizung – was jetzt?
+- **Section headlines (H2):**
+  - Alte Heizung – was jetzt?
+- **Opening copy (first paragraphs):**
+  > Das neue Gebäudemodernisierungsgesetz verständlich erklärt. Was Eigentümer, Käufer, Verkäufer und Vermieter bei Heizungen über 30 Jahre jetzt wissen müssen – geschrieben von Immobilienmakler Marko Will, MyHome Makler Nürnberg.
+  > Für Eigentümer mit älterer Öl- oder Gasheizung, für Käufer und Verkäufer von Bestandsimmobilien, für Erben und für private Vermieter.
+  > Abwicklung sicher über Digistore24. Der Ratgeber ersetzt keine Rechts-, Steuer- oder Energieberatung im Einzelfall. Sie möchten den Ratgeber als Partner empfehlen? Zum Partnerprogramm
+  > Sie sehen gerade einen Platzhalterinhalt von Vimeo . Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.
+- **Questions the sales page answers:**
+  - Für wen ist der Ratgeber?
+- **Page word count:** 489
+- **OG image:** https://myhome-makler.de/wp-content/uploads/2026/10/ratgeber-alte-heizung-v3-verkaufsseite-social-media-3d-3er-gruppe-fotoversion-1500x1500-1.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

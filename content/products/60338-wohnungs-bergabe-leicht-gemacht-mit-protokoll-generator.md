@@ -1,7 +1,7 @@
 # Wohnungsübergabe leicht gemacht – mit Protokoll-Generator
 
 > Product ID `60338` · Digistore24 productId `741673` · [HTML profile page](../../reviews/wohnungs-bergabe-leicht-gemacht-mit-protokoll-generator-60338.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wohnungsübergabe leicht gemacht – Ratgeber + Protokoll-Generator - Digistore24
+- **OG title:** Wohnungsübergabe leicht gemacht – Ratgeber + Protokoll-Generator
+- **Section headlines (H3):**
+  - Wohnungsübergabe leicht gemacht – Ratgeber + Protokoll-Generator
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Nebenkostenabrechnung leicht gemacht – Ratgeber + Nebenkosten-Prüfer
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Wohnungsübergabe leicht gemacht – Ratgeber + Protokoll-Generator
+  - Wohnungsübergabe leicht gemacht – Ratgeber + Protokoll-Generator
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Nebenkostenabrechnung leicht gemacht – Ratgeber + Nebenkosten-Prüfer
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, wie Sie eine Wohnung richtig übergeben, was normale Abnutzung ist und wie Sie Ihre Kaution zurückbekommen. Als Beilage erhalten Sie den Protokoll-Generator: eine Datei, mit der Sie das Übergabeprotokoll Raum für Raum erstellen und als PDF speichern. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Warum ein Protokoll so wichtig ist ✔ Einzug und Auszug Schritt für Schritt ✔ Normale Abnutzung oder Schaden, mit Beispielen ✔ Zählerstände, Schlüssel, Fotos, Zeugen ✔ Unterschreiben oder nicht ✔ Kaution und Fristen nach der Übergabe ✔ Checkliste für den Übergabetag
+  > ✔ Für Einzug und Auszug ✔ Raum für Raum, mit eigenen Räumen und Punkten ✔ Drei Zustände: einwandfrei, Gebrauchsspuren, Mangel ✔ Fotos je Raum als Anhang ✔ Zählerstände und Schlüssel ✔ Mängelliste entsteht von selbst ✔ Auch leer zum Ausfüllen von Hand ✔ 12 Farben
+  > Was Sie erhalten Sie erhalten zwei Dateien zum Download : den Ratgeber als PDF-Datei mit 13 Seiten und als Beilage den Protokoll-Generator, den Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihre Angaben bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Sie ziehen ein oder aus und wollen später keinen Streit um Schäden und Kaution?
+  - Die Nebenkostenabrechnung ist da, und Sie sollen nachzahlen?
+  - Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+- **Page word count:** 2163
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/0KXCP3D5.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # CapCut Desktop Videoschnitt Komplettkurs
 
 > Product ID `59631` · Digistore24 productId `733810` · [HTML profile page](../../reviews/capcut-desktop-videoschnitt-komplettkurs-59631.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CapCut Videoschnitt Desktop Komplettkurs - Digistore24
+- **OG title:** CapCut Videoschnitt Desktop Komplettkurs
+- **Section headlines (H3):**
+  - CapCut Videoschnitt Desktop Komplettkurs
+  - CapCut Videoschnitt Desktop Komplettkurs
+  - CapCut Videoschnitt Desktop Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere CapCut Desktop von den Grundlagen bis zum Profi-Level ✅ Schneide Videos, die professionell aussehen, schnell und ohne teure Software ✅ Leicht verständliche Schritt-für-Schritt-Videos, auch ohne Vorkenntnisse ✅ Effekte, Übergänge, Untertitel und Sound gezielt einsetzen wie ein Profi ✅ Erstelle virale Videos für TikTok, Instagram Reels und YouTube
+  > 1x CapCut Videoschnitt Desktop Komplettkurs Sie erhalten Zugang zu einem geschützten Online-Bereich mit Kursen oder Webinaren
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 293
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/SXOI13AK.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

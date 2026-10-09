@@ -1,7 +1,7 @@
 # 30 Tage Social-Media-Inhalte für Friseursalons und Barbersho
 
 > Product ID `60236` · Digistore24 productId `738365` · [HTML profile page](../../reviews/30-tage-social-media-inhalte-f-r-friseursalons-und-barbersho-60236.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** SALON CONTENT STUDIO – 30 Tage Social-Media-Inhalte - Digistore24
+- **OG title:** SALON CONTENT STUDIO – 30 Tage Social-Media-Inhalte
+- **Section headlines (H2):**
+  - SALON CONTENT STUDIO – 30 Tage Social-Media-Inhalte
+  - SALON CONTENT STUDIO – 30 Tage Social-Media-Inhalte
+  - SALON CONTENT STUDIO – 30 Tage Social-Media-Inhalte
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du möchtest regelmäßig Social Media für deinen Friseursalon erstellen, hast aber wenig Zeit und weißt oft nicht, was du posten sollst?
+  > Mit diesem fertigen Social-Media-Paket erhältst du vorbereitete Inhalte, mit denen du deinen Salon einfacher und regelmäßiger auf Social Media präsentieren kannst.
+  > Das ist enthalten: • 30 vorbereitete Social-Media-Posts für deinen Salon • 30 fertige Themen und Grafiktexte • 30 passende Captions für deine Beiträge • passende Hashtags zu den jeweiligen Themen • eine einfache Struktur für 30 Tage Social Media • eine Kurzanleitung für die Anwendung
+  > • Haarpflege und Kopfhaut • Styling und Hitzeschutz • Locken, Farbe und Blond • Haarschnitte und Beratung • Männer-Styling und Bart • Salonalltag und Team • Kundenkommunikation • Pflege-Tipps • lokale Sichtbarkeit • Ideen für regelmäßige Beiträge
+- **Page word count:** 890
+- **OG image:** https://www.digistore24.com/pb/img/merchant_3950739/image/product/V57OJAV2.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

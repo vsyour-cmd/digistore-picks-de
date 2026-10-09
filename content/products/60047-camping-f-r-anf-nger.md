@@ -1,7 +1,7 @@
 # Camping für Anfänger
 
 > Product ID `60047` · Digistore24 productId `739013` · [HTML profile page](../../reviews/camping-f-r-anf-nger-60047.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Camping für Anfänger - Digistore24
+- **OG title:** Camping für Anfänger
+- **Section headlines (H2):**
+  - CAMPING FÜR ANFÄNGER -
+  - Der ultimative Outdoor-Guide
+  - (Camping-Guide)
+  - (Druckbare PDF-Datei)
+  - Camping – Wie Sie sich optimal auf Ihren wohlverdienten und erholsamen Urlaub in der Natur vorbereiten und dem stressigen Alltag entfliehen!
+  - Sichern Sie sich noch heute diesen umfassenden und liebevoll gestalteten Ratgeber und starten Sie Ihren Urlaub im Einklang mit der Natur und voller Selbstbestimmtheit schon beim Lesen!
+  - #Bonus1:
+  - (Druckbare PDF-Datei)
+  - #Bonus2:
+  - (Druckbare PDF-Datei)
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Camping – Wie Sie sich optimal auf Ihren wohlverdienten und erholsamen Urlaub in der Natur vorbereiten und dem stressigen Alltag entfliehen!
+  > Dann wird dieses Buch Ihr perfekter Reisebegleiter ! Mit den hilfreichen und leicht verständlichen Anleitungen und dem exklusiven Insiderwissen aus diesem Ratgeber haben Sie all das nötige Know-how in der Tasche, um mit Freunden, Ihren Kindern, als Pärchen oder auf eigene Faust ein paar unvergessliche Erlebnisse beim Campen zu schaffen!
+  > • Vorbereitung ist die halbe Miete: • lassen Sie sich von unserer umfassenden Packliste inspirieren!
+  > • Unterwegs auf vier Rädern: • erfahren Sie, welche Vignetten- und Mautbestimmungen es gibt!
+- **Page word count:** 2392
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/67G8U6RI.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

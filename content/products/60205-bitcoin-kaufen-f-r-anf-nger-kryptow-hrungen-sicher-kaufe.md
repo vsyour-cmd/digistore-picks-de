@@ -1,7 +1,7 @@
 # Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe
 
 > Product ID `60205` · Digistore24 productId `703267` · [HTML profile page](../../reviews/bitcoin-kaufen-f-r-anf-nger-kryptow-hrungen-sicher-kaufe-60205.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** digistore24
+- **Meta description:** Bitcoin kaufen für Anfänger: Börse auswählen, Wallet einrichten, Kryptowährungen sicher verwahren und Fehler vermeiden.
+- **Headline (H1):**
+  > Für wen ist dieses Buch geeignet?
+  > Verständlich statt kompliziert
+  > Warum dieses Buch?
+- **Section headlines (H2):**
+  - Kryptowährungen sicher kaufen und verwahren Eine Schritt-für-Schritt-Anleitung
+  - Das lernen Sie in diesem Buch
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > Sie möchten Bitcoin kaufen, wissen aber nicht, wo Sie anfangen sollen? Begriffe wie Wallet, Seed Phrase, Private Key oder Kryptobörse wirken kompliziert und sorgen bei vielen Einsteigern für Unsicherheit. Genau hier setzt dieses Buch an.
+  > Dieses Buch richtet sich an Menschen, die einen einfachen und sicheren Einstieg in die Welt der Kryptowährungen suchen. Es eignet sich besonders für Anfänger, die Bitcoin kaufen möchten, aber bisher von technischen Begriffen und komplexen Anleitungen abgeschreckt wurden. Sie benötigen keinerlei Vorkenntnisse . Alle Schritte werden verständlich erklärt und praxisnah beschrieben.
+  > Viele Informationen im Internet sind entweder veraltet, unvollständig oder setzen umfangreiche technische Kenntnisse voraus. Dieses Buch konzentriert sich auf das Wesentliche und zeigt Ihnen Schritt für Schritt den Weg von der Auswahl einer Börse bis zur sicheren Verwahrung Ihrer Kryptowährungen.
+  > Zusätzlich enthält das Buch ein umfangreiches Glossar mit den wichtigsten Begriffen der Kryptowelt in leicht verständlicher Sprache.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Buch geeignet?
+- **Page word count:** 559
+- **OG image:** https://smartfuchs.eu/wp-content/uploads/go-x/u/37b5f3a5-76bd-40aa-ad14-3042025c1ea1/image.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

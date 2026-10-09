@@ -1,7 +1,7 @@
 # Buch erstellen mit KI – KI-Autor Komplettsystem
 
 > Product ID `60231` · Digistore24 productId `734491` · [HTML profile page](../../reviews/buch-erstellen-mit-ki-ki-autor-komplettsystem-60231.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Mitglied werden | Buch erstellen mit KI
+- **Headline (H1):**
+  > Schreiben Sie Ihr eigenes Buch mit KI – Schritt für Schritt
+- **Section headlines (H2):**
+  - Ihr Weg von der Idee zum eigenen Buch
+  - So entsteht Ihr Buch Schritt für Schritt
+  - Wählen Sie Ihr Buchprojekt
+  - Nutzen Sie KI direkt für Ihre Bucherstellung
+  - Alle Werkzeuge an einem Ort
+  - Vom Manuskript bis zur Veröffentlichung
+  - Buch erstellen mit KI
+  - Fragen zur Mitgliedschaft
+  - Aus Ihrer Buchidee kann ein echtes Buch werden.
+- **Guarantee mention:** "14" (verify on the official page before relying on it)
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/734491
+- **Opening copy (first paragraphs):**
+  > Wir verwenden Cookies und ähnliche Technologien, um unsere Website zu analysieren und zu verbessern. Mit deiner Zustimmung verwenden wir Dienste wie Google Analytics und Microsoft Clarity. Du kannst deine Einwilligung jederzeit über die Cookie-Einstellungen ändern oder widerrufen. Weitere Informationen findest du in unserer Datenschutzerklärung.
+  > Von der ersten Buchidee über die komplette Planung und Kapitelstruktur bis zur Veröffentlichung bei Amazon KDP: Der Mitgliederbereich „Buch erstellen mit KI“ begleitet Sie durch den gesamten Prozess.
+  > Sie haben eine Idee, wissen aber nicht, wie Sie anfangen sollen? Der Mitgliederbereich führt Sie strukturiert durch Themenfindung, Buchplanung, Figuren, Inhalte, Kapitel und Manuskript.
+  > Lernen Sie, wie Sie Ihr Buch für Amazon KDP vorbereiten, veröffentlichen und vermarkten. Dabei erhalten Sie praxisorientierte Unterstützung für den gesamten Selfpublishing-Prozess.
+- **Questions the sales page answers:**
+  - Sie möchten endlich Ihr eigenes Buch schreiben?
+  - Sie möchten Bücher veröffentlichen und verkaufen?
+- **Page word count:** 1095
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

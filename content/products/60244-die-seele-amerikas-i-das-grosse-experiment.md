@@ -1,7 +1,7 @@
 # DIE SEELE AMERIKAS I Das Grosse Experiment
 
 > Product ID `60244` · Digistore24 productId `725874` · [HTML profile page](../../reviews/die-seele-amerikas-i-das-grosse-experiment-60244.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Masterclass Thomas Young
+- **Meta description:** Masterclass von Thomas Young: Die Seele Amerikas
+- **Headline (H1):**
+  > Wähle deine Masterclass
+  > Wähle deine Masterclass
+- **Section headlines (H2):**
+  - Lass uns gemeinsam, die Wunder möglich machen!
+- **Opening copy (first paragraphs):**
+  > Der in Deutschland geborene Bestsellerautor und Weisheitslehrer Thomas Young hat in der Arbeit mit Gruppen rund um die Welt durch seine Herzlehren eine Fülle von Werkzeugen gesammelt, die es couragierten Individuen ermöglichen, in tiefere Ebenen ihrer selbst vorzudringen und deren Heilkräfte zu aktivieren. Die Herz-Arbeit von Thomas zeichnet sich aus durch grosse Bewusstseinstiefe und die radikale Präsenz der Mystiker. "Macht Euch bereit für Energien, die weit über alles Erlebte hinausgehen . ."
+  > Der in Deutschland geborene Bestsellerautor und Weisheitslehrer Thomas Young hat in der Arbeit mit Gruppen rund um die Welt durch seine Herzlehren eine Fülle von Werkzeugen gesammelt, die es couragierten Individuen ermöglichen, in tiefere Ebenen ihrer selbst vorzudringen und deren Heilkräfte zu aktivieren. Die Herz-Arbeit von Thomas zeichnet sich aus durch grosse Bewusstseinstiefe und die radikale Präsenz der Mystiker. "Macht Euch bereit für Energien, die weit über alles Erlebte hinausgehen . ."
+  > Was ist Amerika wirklich? Nicht als politische Macht, sondern als kollektives Seelenprojekt, als ein Laboratorium der ganzen Menschheit. Du betrittst die kosmologische Perspektive, welche alles Folgende trägt.
+  > Edgar Cayce sah, dass in unserer Zeit Seelen aus drei großen Zivilisationen zusammentreffen — Atlantis , Ägypten und Persien . Jeder dieser Ströme bringt eine Gabe mit – und eine ungelöste Frage an unsere Zeit.
+- **Page word count:** 614
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Wandern Auf Mallorca Mit Kindern
 
 > Product ID `60403` · Digistore24 productId `743396` · [HTML profile page](../../reviews/wandern-auf-mallorca-mit-kindern-60403.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** WANDERN AUF MALLORCA MIT KINDERN FÜR ANFÄNGER - Digistore24
+- **OG title:** WANDERN AUF MALLORCA MIT KINDERN FÜR ANFÄNGER
+- **Section headlines (H2):**
+  - Wandern Auf Mallorca Mit Kindern
+  - (Wanderführer)
+  - (Druckbare PDF-Datei)
+  - Mallorca mit Kindern erleben – raus aus dem Hotel, rein in die Natur!
+  - --------------
+  - ---------------
+  - 75 Wanderungen für kleine und große Entdecker
+  - Speziell für Familien und Anfänger
+  - Entdecke Mallorca abseits der typischen Wege
+  - Mehr Sicherheit. Weniger Stress. Mehr gemeinsame Erlebnisse.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mallorca ist viel mehr als schöne Strände und überfüllte Ferienorte. Die Insel steckt voller beeindruckender Küstenwege, schattiger Waldpfade, leichter Bergwanderungen, versteckter Buchten und faszinierender Natur.
+  > Wie lang darf eine Tour sein? Was sollte ins Kindergepäck? Und worauf solltest du bei Hitze, steilen Wegen oder unbekannten Pfaden achten?
+  > Dieses praktische E-Book zeigt dir 75 abwechslungsreiche Wanderungen und Naturerlebnisse, die du Schritt für Schritt entdecken kannst – ohne dass du ein erfahrener Wanderer sein musst.
+  > Ob entspannter Spaziergang an der Küste, abwechslungsreicher Waldweg oder beeindruckender Bergpfad:
+- **Page word count:** 2298
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/X1DFLN5F.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59576` · Digistore24 productId `736396` · [HTML profile page](../../reviews/faceless-videos-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59576.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Faceless-Videos erstellen – mit Matze - Digistore24
+- **OG title:** Faceless-Videos erstellen – mit Matze
+- **Section headlines (H3):**
+  - Faceless-Videos erstellen – mit Matze
+  - Faceless-Videos erstellen – mit Matze
+  - Faceless-Videos erstellen – mit Matze
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du entwickelst ein eigenes kurzes Video vom Themenbriefing über Storyboard und Medienrechte bis zur Veröffentlichungskontrolle. Sechs angeleitete Schritte, ein durchgehender fiktiver Musterfall, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen.
+  > Du erhältst einen ZIP-Download mit Kurs-PDF, Arbeitsmappe, Vorlagen und Einstiegshinweisen. Ein PDF-Leser und ein Texteditor genügen. Es sind keine Videolektionen, persönlichen Coachings oder kostenpflichtigen Tools enthalten. Keine garantierten Reichweiten oder Einnahmen.
+  > Du entwickelst ein eigenes kurzes Video vom Themenbriefing über Storyboard und Medienrechte bis zur Veröffentlichungskontrolle. Sechs angeleitete Schritte, ein durchgehender fiktiver Musterfall, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen.
+  > Du erhältst einen ZIP-Download mit Kurs-PDF, Arbeitsmappe, Vorlagen und Einstiegshinweisen. Ein PDF-Leser und ein Texteditor genügen. Es sind keine Videolektionen, persönlichen Coachings oder kostenpflichtigen Tools enthalten. Keine garantierten Reichweiten oder Einnahmen.
+- **Page word count:** 370
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1833505/image/product/LTFM9P1A.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

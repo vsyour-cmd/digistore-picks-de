@@ -1,7 +1,7 @@
 # Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger
 
 > Product ID `59483` · Digistore24 productId `735782` · [HTML profile page](../../reviews/digistore24-mit-matze-pdf-praxiskurs-f-r-einsteiger-59483.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Mit Digistore24 Geld verdienen - PDF-Praxiskurs - Einfach mit Matze
+- **Headline (H1):**
+  > Mit Digistore24 Geld verdienen - PDF-Praxiskurs
+  > Mit Digistore24 Geld verdienen.
+- **Section headlines (H2):**
+  - Zwei Wege. Ein klarer Lernplan.
+  - Eine Rechnung, die du im Kurs lernst
+  - Passt der Kurs zu dir?
+  - Optional: 50 Startideen für Digistore24
+  - Häufige Fragen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735782
+- **Opening copy (first paragraphs):**
+  > Lerne Affiliate-Marketing und den Verkauf eigener digitaler Produkte mit verständlichen Beispielen, konkreten Aufgaben und Arbeitsblättern.
+  > Zwei Wege. Ein klarer Lernplan. Starte als Affiliate mit einem passenden fremden Angebot oder entwickle als Vendor ein eigenes digitales Produkt. Du wählst zunächst einen Weg und arbeitest Schritt für Schritt daran.
+  > 14 Module, sieben Arbeitsblätter, durchgehende fiktive Beispiele, Rechenübungen, Selbstkontrollen mit Lösungen, Arbeitspläne und Links zu offiziellen Anleitungen. Alle Bestandteile befinden sich in einer PDF-Datei.
+  > Vier vermittelte Verkäufe mit je 25 € Provision ergeben zunächst 100 €. Bei einer Rückgabe bleiben 75 €. Nach 20 € Kosten sind es 55 € – vor Steuern und ohne Vergütung deiner Arbeitszeit.
+- **Questions the sales page answers:**
+  - Wie erhalte ich den Kurs?
+  - Muss ich weitere Kurse oder Werbung kaufen?
+  - Ist das eine offizielle Digistore24-Schulung?
+  - Wer hilft bei Fragen zur Datei?
+- **Page word count:** 761
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

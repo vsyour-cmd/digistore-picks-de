@@ -1,7 +1,7 @@
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
 > Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../reviews/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** App per i tuoi clienti: 3.499 € più IVA | DirezioneX
+- **OG title:** DirezioneX | Agenzia di Marketing
+- **Meta description:** La tua app sul telefono del cliente: tessera punti, offerte e un avviso che lo fa tornare.
+- **Headline (H1):**
+  > App per i tuoi clienti
+- **Section headlines (H2):**
+  - Cosa compri .
+  - Cosa succede dopo .
+- **Price mentions on page:** $14, $22
+- **Opening copy (first paragraphs):**
+  > App App per i tuoi clienti La tua app sul telefono del cliente: tessera punti, offerte e un avviso che lo fa tornare.
+  > Si apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.
+  > Paghi sul modulo sicuro di Digistore24. 2 Fissiamo la videochiamata Dopo il pagamento ti scriviamo per scegliere giorno e ora.
+  > La direzione giusta per il tuo business. Siti web, ecommerce, advertising e software per aziende che vogliono crescere.
+- **Page word count:** 286
+- **OG image:** https://www.direzionex.com/og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

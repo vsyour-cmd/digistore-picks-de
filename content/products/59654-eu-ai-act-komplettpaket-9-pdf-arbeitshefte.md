@@ -1,7 +1,7 @@
 # EU AI Act Komplettpaket – 9 PDF-Arbeitshefte
 
 > Product ID `59654` · Digistore24 productId `733579` · [HTML profile page](../../reviews/eu-ai-act-komplettpaket-9-pdf-arbeitshefte-59654.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** EU AI Act Komplettpaket 2026/2027 – Alle 9 Arbeitshefte und Compliance-Vorlagen - Digistore24
+- **OG title:** EU AI Act Komplettpaket 2026/2027 – Alle 9 Arbeitshefte und Compliance-Vorlagen
+- **Section headlines (H2):**
+  - EU AI Act Komplettpaket 2026/2027
+  - EU AI Act Komplettpaket 2026/2027
+  - EU AI Act Komplettpaket 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du nutzt ChatGPT, Copilot, Gemini, Bild-KI, automatisierte Prozesse oder andere KI-Systeme im Unternehmen – aber Dokumentation, Zuständigkeiten, Risiken und Freigaben sind noch nicht einheitlich geregelt?
+  > Das EU AI Act Komplettpaket 2026/2027 vereint alle neun Arbeitshefte von AI Act Selbstcheck in einem digitalen Gesamtpaket. Du erhältst praktische Vorlagen, Checklisten, Mustertexte, Protokolle und Prozesshilfen für die wichtigsten organisatorischen Handlungsfelder rund um den EU AI Act.
+  > Keine komplizierte juristische Theorie: Die Arbeitshefte helfen dir, deinen tatsächlichen KI-Einsatz strukturiert zu erfassen, Verantwortlichkeiten festzulegen, Risiken zu prüfen und wichtige Entscheidungen nachvollziehbar zu dokumentieren.
+  > Alle Arbeitshefte werden als digitale PDF-Dateien bereitgestellt. Die enthaltenen Vorlagen und Textbausteine können kopiert, beispielsweise in Word, Google Docs, LibreOffice oder ein internes Dokumentationssystem übernommen und an das eigene Unternehmen angepasst werden.
+- **Questions the sales page answers:**
+  - Für wen ist das Paket geeignet?
+- **Page word count:** 1725
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/PMGY2TC6.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

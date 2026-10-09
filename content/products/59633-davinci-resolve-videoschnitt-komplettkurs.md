@@ -1,7 +1,7 @@
 # DaVinci Resolve Videoschnitt Komplettkurs
 
 > Product ID `59633` · Digistore24 productId `734137` · [HTML profile page](../../reviews/davinci-resolve-videoschnitt-komplettkurs-59633.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** DaVinci Resolve Videoschnitt Komplettkurs - Digistore24
+- **OG title:** DaVinci Resolve Videoschnitt Komplettkurs
+- **Section headlines (H3):**
+  - DaVinci Resolve Videoschnitt Komplettkurs
+  - DaVinci Resolve Videoschnitt Komplettkurs
+  - DaVinci Resolve Videoschnitt Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere den Videoschnitt in DaVinci Resolve von den Grundlagen bis zum Profi-Level
+  > ✅ Schneide Videos in Kinoqualität mit der Software, die auch in Hollywood eingesetzt wird
+  > ✅ Meistere den Videoschnitt in DaVinci Resolve von den Grundlagen bis zum Profi-Level
+  > ✅ Schneide Videos in Kinoqualität mit der Software, die auch in Hollywood eingesetzt wird
+- **Page word count:** 341
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/TGRDN8A8.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

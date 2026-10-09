@@ -1,7 +1,7 @@
 # Streit mit Nachbarn leicht gemacht – mit Nachbar-Briefen
 
 > Product ID `60367` · Digistore24 productId `741972` · [HTML profile page](../../reviews/streit-mit-nachbarn-leicht-gemacht-mit-nachbar-briefen-60367.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Streit mit Nachbarn leicht gemacht – Ratgeber + Nachbar-Briefe - Digistore24
+- **OG title:** Streit mit Nachbarn leicht gemacht – Ratgeber + Nachbar-Briefe
+- **Section headlines (H3):**
+  - Streit mit Nachbarn leicht gemacht – Ratgeber + Nachbar-Briefe
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+  - Versicherungen leicht gemacht – Ratgeber + Versicherungs-Check
+  - Streit mit Nachbarn leicht gemacht – Ratgeber + Nachbar-Briefe
+  - Streit mit Nachbarn leicht gemacht – Ratgeber + Nachbar-Briefe
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Lärm, Rauch, überhängende Äste oder Ärger am Zaun, und Sie wissen nicht, was Sie tun können?
+  > Dieser Ratgeber erklärt verständlich, was Sie hinnehmen müssen und was nicht, und zeigt den Weg vom Gespräch bis zur Schlichtung. Als Beilage erhalten Sie die Nachbar-Briefe: eine Datei, die passende Schreiben erstellt und Ihr Lärmprotokoll führt. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Lärm: was erlaubt ist ✔ Gerüche, Rauch und Grillen ✔ Garten: Hecken, Bäume, Überhang ✔ Grenze, Zaun und Bauen ✔ Tiere, Parken, Kameras ✔ In der Mietwohnung ✔ Erst reden: so gelingt das Gespräch ✔ Schreiben, Beweise, Lärmprotokoll ✔ Schlichtung, Ordnungsamt, Gericht ✔ Checkliste
+  > ✔ Schreiben für sechs Anlässe ✔ An den Nachbarn in drei Stufen, von der freundlichen Bitte bis zur letzten Aufforderung ✔ Mängelanzeige an den Vermieter und Beschwerde an das Ordnungsamt ✔ Fristdatum wird berechnet ✔ Lärmprotokoll mit Dauer und Gesamtdauer, auch als leeres Blatt
+- **Questions the sales page answers:**
+  - Lärm, Rauch, überhängende Äste oder Ärger am Zaun, und Sie wissen nicht, was Sie tun können?
+  - Sie haben einen Bescheid bekommen, den Sie für falsch halten?
+  - Zahlen Sie für Versicherungen, die Sie nicht brauchen, während die wichtigste fehlt?
+- **Page word count:** 2275
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/5FMVAQDO.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

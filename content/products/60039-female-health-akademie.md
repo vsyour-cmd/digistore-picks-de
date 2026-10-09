@@ -1,7 +1,7 @@
 # Female Health Akademie
 
 > Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../reviews/female-health-akademie-60039.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Professionelles Health Coaching für Frauen mit Fokus auf Hormongesundheit. Vorstellung der Coachin, Erfolgsgeschichten, Newsletter, Buchungsoption für ein 1:1 Beratungsgespräch (49 CHF) und Infos zu Kursen über Zyklus und Blutwerte.
+- **OG title:** (kein Titel)
+- **Meta description:** Herzlich Willkommen Datenschutz & Cookies: Diese Website verwendet Cookies. Wenn du die Website weiterhin nutzt, stimmst du der Verwendung von Cookies zu. Weitere Informationen, beispielsweise zur Kontrolle von Cookies, findest du hier: Cookie-Richtlinie. Akzeptieren 365 Female Health Academy ab 69 CHF / Monat Dein Raum in der FEMIQ™ Female Health Academy, um deinen Körper endlich zu&hellip;
+- **Final URL after redirects:** https://hcjohannaklatt.wordpress.com/
+- **Headline (H1):**
+  > Herzlich Willkommen
+- **Section headlines (H2):**
+  - Female Health Academy
+  - Warum mit mir?
+  - Mein Angebot
+  - Erfahrungsberichte
+  - 💌 Hol dir alle 14 Tage Inspiration für deine Gesundheit als Frau
+- **Opening copy (first paragraphs):**
+  > Dein Raum in der FEMIQ™ Female Health Academy , um deinen Körper endlich zu verstehen und gezielt zu unterstützen.
+  > Ein ganzheitliches Zusammenspiel aus Hormonen, Ernährung, Krafttraining, Stressregulation, Schlaf und Darmgesundheit – für mehr Energie, einen beschwerdefreien Zyklus, eine gesunde Verdauung und ein starkes Körpergefühl.
+  > Mehr Wissen. Mehr Körperverständnis. Mehr Lebensqualität – in jeder weiblichen Lebensphase.
+  > ✔️ Training und Bewegung ✔️ Ernährung durch Rezeptideen, Community-Austausch, Fakten und Wissenswertes durch meinen Input
+- **Page word count:** 784
+- **OG image:** https://hcjohannaklatt.wordpress.com/wp-content/uploads/2026/09/734e1d16-c321-45fb-ba9d-02d32a188b12.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Auswandern leicht gemacht: Aufenthalt  digitales Einkommen
 
 > Product ID `59686` · Digistore24 productId `736764` · [HTML profile page](../../reviews/auswandern-leicht-gemacht-aufenthalt-digitales-einkommen-59686.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT - Digistore24
+- **OG title:** DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT
+- **Section headlines (H3):**
+  - DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT
+  - DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT
+  - DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Produktbeschreibung: DER ULTIMATIVE AUSWANDERER FREEDOM BUSINESS BLUEPRINT ist dein kompletter Leitfaden für einen erfolgreichen Neustart im Ausland. Aus eigener Erfahrung zeige ich dir Schritt für Schritt:
+  > Welche Unterlagen und Voraussetzungen du brauchst, um einen Aufenthalt zu bekommen
+  > Zusätzlich lernst du, wie du dir ein automatisiertes Nebeneinkommen mit digitalen Produkten aufbaust – von überall auf der Welt.
+  > Lieferung: Das Produkt wird digital ausgeliefert. Nach dem Kauf erhältst du sofortigen Zugang über Digistore24 sowie eine E‑Mail mit deinem Downloadlink.
+- **Page word count:** 546
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5722506/image/product/G6WOAMGA.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Social Media Starter Paket
 
 > Product ID `60206` · Digistore24 productId `741265` · [HTML profile page](../../reviews/social-media-starter-paket-60206.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Social Media Starter Paket - Digistore24
+- **OG title:** Social Media Starter Paket
+- **Section headlines (H3):**
+  - Social Media Starter Paket
+  - Social Media Starter Paket
+  - Social Media Starter Paket
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > SOCIAL MEDIA STARTER PAKET Du möchtest mit TikTok und Instagram durchstarten, deinen Account professioneller aufbauen und endlich einen klaren Plan für deinen Content haben?
+  > Dann ist das Social Media Starter Paket von DigitalIncomeDE genau das Richtige für dich.
+  > Du erhältst praktische Vorlagen, Strategien, Checklisten und Anleitungen, die dir dabei helfen, deinen Social-Media-Auftritt strukturiert aufzubauen und regelmäßig Content zu erstellen.
+  > DAS IST IM PAKET ENTHALTEN: Social-Media-E-Book Grundlagen und Strategien für den Aufbau deines Social-Media-Accounts.
+- **Page word count:** 736
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5919771/image/product/UT2I7SHF.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

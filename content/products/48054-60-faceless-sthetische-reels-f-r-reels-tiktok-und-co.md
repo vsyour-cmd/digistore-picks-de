@@ -1,7 +1,7 @@
 # 60+ faceless ästhetische Reels für Reels, TikTok und co
 
 > Product ID `48054` · Digistore24 productId `551050` · [HTML profile page](../../reviews/60-faceless-sthetische-reels-f-r-reels-tiktok-und-co-48054.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,17 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 60+ Faceless Man Reels mit MRR - Digistore24
+- **OG title:** 60+ Faceless Man Reels mit MRR
+- **Section headlines (H3):**
+  - 60+ Faceless Man Reels mit MRR
+  - 60+ Faceless Man Reels mit MRR
+  - 60+ Faceless Man Reels mit MRR
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 598
+- **OG image:** https://www.digistore24.com/pb/img/merchant_3516524/image/product/LVOR9KPT.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

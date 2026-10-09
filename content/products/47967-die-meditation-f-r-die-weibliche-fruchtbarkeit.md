@@ -1,7 +1,7 @@
 # DIE Meditation für die weibliche Fruchtbarkeit
 
 > Product ID `47967` · Digistore24 productId `548337` · [HTML profile page](../../reviews/die-meditation-f-r-die-weibliche-fruchtbarkeit-47967.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,33 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Fertility Flow
+- **Meta description:** Die Meditation, die deine Fruchtbarkeit aktiviert. Programmiere deine Zukunft mit Baby - in nur 20 Minuten
+- **Headline (H1):**
+  > Fertility Flow Die Meditation, die deine Fruchtbarkeit aktiviert
+  > Die Meditation, die deine Fruchtbarkeit aktiviert
+  > Die Meditation, die magnetisch auf dein Baby wirkt
+- **Section headlines (H3):**
+  - Mit dieser Meditation bekommst du:
+  - Mit dieser Meditation bekommst du:
+  - Kinderwunsch-Expertin und Entwicklerin der AVA-Methode
+  - Kinderwunsch-Expertin und Entwicklerin der AVA-Methode
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/548337
+  - https://www.digistore24.com/product/541723?voucher=SPECIAL24
+- **Opening copy (first paragraphs):**
+  > Du hast schon gehört, dass Affirmationen wirken. Spitzensportler, Personen des öffentlichen Lebens, Psychologen: Sie alle arbeiten erfolgreich mit Affirmationen.
+  > Du hast schon gehört, dass Affirmationen wirken. Spitzensportler, Politiker, Promis, Psychologen: Sie alle arbeiten erfolgreich mit Affirmationen. Du hast das alles schon einmal gehört, aber trotzdem fragst du dich: "Wie soll das gehen?" Früher hat man Mantras und Affirmationen angewendet, ohne genau zu wissen, warum sie überhaupt wirken. Mittlerweile hat man herausgefunden, dass sich das Gehirn ein Leben lang anpassen und verändern kann. Positive Affirmationen verdrahten dein Gehirn neu. Das ist neurowissenschaftlich erwiesen.
+  > Die positive Wirkung von Affirmationen und Hypnose ist wissenschaftlich erwiesen.
+  > Was Spitzensportler und Psychologen seit Jahrzehnten hilft, so erfolgreich zu sein, hilft auch dir.
+- **Questions the sales page answers:**
+  - Was ist "Fertility Flow" genau?
+  - Für wen ist diese Meditation?
+  - Für wen ist die Meditation NICHT geeignet?
+  - Warum funktioniert die Meditation "Fertility Flow" so gut?
+  - Warum ist das so preiswert?
+- **Page word count:** 1651
+- **OG image:** https://cch-files.edge.live.ds25.io/cch/v/a6994ff4-94d4-4abe-ba7a-56be1dd1779f/files/66191b241df09_produktbilder-4.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Vermietung in der Steuererklärung leicht gemacht
 
 > Product ID `60323` · Digistore24 productId `741274` · [HTML profile page](../../reviews/vermietung-in-der-steuererkl-rung-leicht-gemacht-60323.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner - Digistore24
+- **OG title:** Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+- **Section headlines (H3):**
+  - Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner
+  - Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+  - Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie vermieten eine Wohnung oder ein Haus und wissen nicht, was Sie in der Steuererklärung angeben und absetzen können?
+  > Dieser Ratgeber erklärt verständlich, wie Mieteinnahmen versteuert werden: von den Einnahmen über Abschreibung, Zinsen und Reparaturen bis zur Anlage V. Ein Jahr ist Schritt für Schritt durchgerechnet. Mit dem Vermietungs-Rechner sehen Sie Ihr Jahresergebnis und Ihre Abschreibung.
+  > Inhalt des Ratgebers: ✔ Was zu den Einnahmen zählt und was nicht ✔ Werbungskosten: Abschreibung, Zinsen, Reparaturen, Nebenkosten ✔ Neubau und Denkmal: schneller abschreiben ✔ Reparatur oder Herstellung: die 15-Prozent-Grenze nach dem Kauf ✔ Hausgeld und Rücklage bei der Eigentumswohnung ✔ Vermietung an Angehörige, Ferienwohnung, Leerstand ✔ Anlage V Schritt für Schritt, Verkauf und Erbschaft ✔ 4 Musterbriefe, Vorlage und Checkliste
+  > ✔ Jahresergebnis: Überschuss oder Verlust ✔ Abschreibung des Gebäudes ✔ 15-Prozent-Grenze nach dem Kauf ✔ Verbilligte Miete an Angehörige
+- **Questions the sales page answers:**
+  - Sie vermieten eine Wohnung oder ein Haus und wissen nicht, was Sie in der Steuererklärung angeben und absetzen können?
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+  - Sie möchten Geld zurücklegen, wissen aber nicht, wie Tagesgeld, Fonds und ETF funktionieren?
+- **Page word count:** 2202
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/HZ2AKDA5.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

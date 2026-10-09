@@ -1,7 +1,7 @@
 # CONTROL Series Komplett — 6 Workbooks (01–06)
 
 > Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../reviews/control-series-komplett-6-workbooks-01-06-59561.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CONTROL Series Komplett — Digilisator Guides 01–06
+- **OG title:** CONTROL Series Komplett — Digilisator 01–06
+- **Meta description:** CONTROL Series Komplett — alle 6 Workbooks: CONTROL 01, DATA 02, MONEY 03, TRADE 04, TRUST 05, LIFE 06. Einmaliger Kauf über Digistore24. Bildungs-/Arbeitsmaterial.
+- **Headline (H1):**
+  > DAS KOMPLETTE SYSTEM. SECHS WORKBOOKS. EIN ZUGANG.
+- **Section headlines (H2):**
+  - Das komplette CONTROL-System
+  - Alle sechs Titel
+  - Die sechs Cover
+  - Wenn du die Serie komplett willst
+  - Sechs starke Gründe
+  - Was das Bundle nicht ist
+  - Häufige Fragen
+  - Jetzt über Digistore24 bestellen
+  - Hol dir die komplette CONTROL Series
+  - Hinweise
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/736276
+- **Opening copy (first paragraphs):**
+  > Steuern, schützen, begrenzen, strukturieren, prüfen, verbinden — die ganze Serie in einem Bundle.
+  > Kein Abo. Keine Update-Zwangsschleife. Sechs digitale Workbooks der Digilisator CONTROL SERIES — günstiger als der Einzelkauf , einmalig über Digistore24.
+  > Was es ist Das komplette CONTROL-System Die Digilisator CONTROL SERIES ist eine Reihe digitaler Workbooks: Handlungen steuern, Daten schützen, Geld begrenzen, Geschäfte strukturieren, Vertrauen prüfen — und alles in ein persönliches Lebenssystem führen.
+  > Mit dem Bundle bekommst du alle sechs Bände auf einmal — als PDF-Downloads über den Digistore24-Tresor. Bildungs- und Arbeitsmaterial, kein Seminar.
+- **Page word count:** 815
+- **OG image:** cover.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

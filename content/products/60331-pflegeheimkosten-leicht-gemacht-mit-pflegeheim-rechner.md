@@ -1,7 +1,7 @@
 # Pflegeheimkosten leicht gemacht – mit Pflegeheim-Rechner
 
 > Product ID `60331` · Digistore24 productId `741599` · [HTML profile page](../../reviews/pflegeheimkosten-leicht-gemacht-mit-pflegeheim-rechner-60331.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pflegeheimkosten leicht gemacht – Ratgeber + Pflegeheim-Rechner - Digistore24
+- **OG title:** Pflegeheimkosten leicht gemacht – Ratgeber + Pflegeheim-Rechner
+- **Section headlines (H3):**
+  - Pflegeheimkosten leicht gemacht – Ratgeber + Pflegeheim-Rechner
+  - Pflegegrad 1 leicht gemacht – Ratgeber als PDF
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Steuererklärung für Rentner leicht gemacht – Ratgeber + Renten-Steuer-Rechner
+  - Pflegeheimkosten leicht gemacht – Ratgeber + Pflegeheim-Rechner
+  - Pflegeheimkosten leicht gemacht – Ratgeber + Pflegeheim-Rechner
+  - Pflegegrad 1 leicht gemacht – Ratgeber als PDF
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, woraus die Heimkosten bestehen, was die Pflegekasse zahlt und was Sie selbst tragen. Er zeigt, welches Ersparte geschützt ist, was mit dem Haus geschieht, wann Kinder zahlen müssen und wie Sie Hilfe vom Sozialamt bekommen. Der Pflegeheim-Rechner zeigt den Eigenanteil für jedes Jahr und wie lange das Ersparte reicht.
+  > Inhalt des Ratgebers: ✔ Die vier Bestandteile der Heimkosten ✔ Leistungen und Zuschläge der Pflegekasse ✔ Einkommen, Erspartes, Haus: was geschützt ist ✔ Der Ehepartner zu Hause ✔ Wann Kinder zahlen müssen und wann nicht ✔ Schenkungen und die Zehnjahresfrist ✔ Hilfe zur Pflege beantragen, Leben im Heim mit Sozialhilfe ✔ Heimvertrag, Steuer, 4 Musterbriefe und Checkliste
+  > ✔ Vier einfache Fragen, eine nach der anderen ✔ Zeigt Ihren Eigenanteil im ersten, zweiten, dritten und ab dem vierten Jahr ✔ Rechnet aus, was im Monat fehlt ✔ Schätzt, wie lange das Ersparte reicht
+  > Was Sie erhalten Sie erhalten zwei Dateien zum Download : den Ratgeber als PDF-Datei mit 19 Seiten und den Pflegeheim-Rechner als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihre Angaben bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Ein Angehöriger muss ins Pflegeheim, und Sie fragen sich, wer das bezahlt?
+  - Wer entscheidet für Sie, wenn Sie es selbst nicht mehr können?
+  - Sie bekommen Rente und fragen sich, ob Sie eine Steuererklärung abgeben müssen?
+- **Page word count:** 2255
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/K09R17YY.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

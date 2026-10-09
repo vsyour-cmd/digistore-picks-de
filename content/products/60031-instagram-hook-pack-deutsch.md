@@ -1,7 +1,7 @@
 # Instagram Hook Pack (Deutsch)
 
 > Product ID `60031` · Digistore24 productId `738802` · [HTML profile page](../../reviews/instagram-hook-pack-deutsch-60031.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Instagram Hook Pack - xaruta.com©
+- **OG title:** Instagram Hook Pack
+- **Meta description:** 📦 €12🛒 - 💶💳🇬🇧 Englisch🇪🇸 Spanisch ✅ erzeuge Aufmerksamkeit ✅ 120 Instagram Hooks für Reels, Posts & Stories für folgende Themen:➡️ Viralität & Neugier➡️ Geschäft & Marketing➡️ Reels➡️ Persönliche Marke➡️ AI & Zukunft➡️ Engagement➡️ Sales & Konvertierung ✅ 10 Bonus Material🎁 Bonus: Musterunterbrechungen
+- **Headline (H1):**
+  > Instagram Hook Pack
+- **Price mentions on page:** €12
+- **Opening copy (first paragraphs):**
+  > ✅ erzeuge Aufmerksamkeit ✅ 120 Instagram Hooks für Reels, Posts & Stories für folgende Themen: ➡️ Viralität & Neugier ➡️ Geschäft & Marketing ➡️ Reels ➡️ Persönliche Marke ➡️ AI & Zukunft ➡️ Engagement ➡️ Sales & Konvertierung
+- **Page word count:** 200
+- **OG image:** https://xaruta4.wordpress.com/wp-content/uploads/2026/10/hook_pack_logo_2_symbol_badge.png?w=880
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

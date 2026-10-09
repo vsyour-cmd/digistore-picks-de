@@ -1,7 +1,7 @@
 # Laufband-Werbung auf 4 Werbeplattformen (7 Tage)
 
 > Product ID `60041` · Digistore24 productId `10451` · [HTML profile page](../../reviews/laufband-werbung-auf-4-werbeplattformen-7-tage-60041.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Laufband-Werbung auf 4 Werbeplattformen · MaxiMails
+- **Meta description:** Dein Text im Laufband von MaxiMails, WerbeMail24, ViralMonster und ProAdz. 7 oder 30 Tage. Mit 30 Tagen: Aktionen nacheinander, KI-Textvorschläge und Statistik je Aktion.
+- **Headline (H1):**
+  > Dein Werbetext im Laufband von 4 Werbeplattformen.
+- **Section headlines (H2):**
+  - In 3 Schritten zu deinem Laufband
+  - Was im Paket steckt
+  - Wie lange soll dein Text laufen?
+  - Kurz beantwortet
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > Das Laufband ist die Werbezeile im Mitgliederbereich von MaxiMails, WerbeMail24, ViralMonster und ProAdz. Du buchst 7 oder 30 Tage, trägst deine Texte und deinen Link ein und siehst, welcher Text geklickt wird. Mit 30 Tagen planst du mehrere Aktionen nacheinander, jede mit eigenem Link.
+  > Du kannst rund um die Uhr buchen. Bezahlt wird über Digistore24, eingetragen wird im Kundenbereich bei MaxiMails.
+  > Du kaufst einen Werbeplatz im Laufband für 7 oder 30 Tage. Das ist eine digitale Leistung. Es wird nichts per Post verschickt und es gibt keinen Download.
+  > Sobald deine Zahlung bei Digistore24 angekommen ist, meldest du dich mit der Bestellnummer aus ihrer Mail im Kundenbereich an. Dort trägst du deine Werbung selbst ein, änderst sie und siehst die Klicks.
+- **Page word count:** 1549
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

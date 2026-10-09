@@ -1,7 +1,7 @@
 # Fachübersetzung Deutsch zu Englisch
 
 > Product ID `54505` · Digistore24 productId `644225` · [HTML profile page](../../reviews/fach-bersetzung-deutsch-zu-englisch-54505.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Professional Translation (without PR Text Creation) - Digistore24
+- **OG title:** Professional Translation (without PR Text Creation)
+- **Section headlines (H3):**
+  - Professional Translation (without PR Text Creation)
+  - Product Description:
+  - Scope of Services
+  - Areas of Application
+  - Your Benefits
+  - Target Group
+  - 24h Expressauftrag PR Paket
+  - Professional Translation (without PR Text Creation)
+- **Price mentions on page:** $10, €179.00, €49.90, €179
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Professional Translation and Adaptation of Your PR Texts: English → German or German → English
+  > Do you want your message to resonate internationally? This service is designed for clients who already have a completed PR, marketing, or corporate text in German or English and wish to have it professionally translated and adapted —without creating new content from scratch.
+  > The focus lies on delivering a linguistically precise and culturally attuned translation, ensuring your message is just as convincing in the target language as in the original. Rather than a literal translation, the text is transferred with meaning and style , with special attention to tone, audience, and communication goals .
+  > Delivery of the completed translation as an editable Word file within 48 hours after receiving the source text.
+- **Questions the sales page answers:**
+  - Do you want your message to resonate internationally?
+- **Page word count:** 1429
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4931929/image/product/IFKS19K6.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

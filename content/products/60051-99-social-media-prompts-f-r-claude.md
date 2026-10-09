@@ -1,7 +1,7 @@
 # 99 Social-Media-Prompts für Claude
 
 > Product ID `60051` · Digistore24 productId `738837` · [HTML profile page](../../reviews/99-social-media-prompts-f-r-claude-60051.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 99 Social-Media-Prompts für Claude – Prompt-System für Content Creator
+- **Meta description:** 99 Prompts in 9 Arbeitsbereichen von Positionierung bis Auswertung, mit Marken-Baustein und Textdatei zum Kopieren.
+- **Opening copy (first paragraphs):**
+  > Von der Positionierung bis zur Auswertung: 9 Arbeitsbereiche, ein Marken-Baustein für Texte, die nach dir klingen – und alle Prompts als Textdatei zum Kopieren.
+  > „Schreib mir einen Instagram-Post über Zeitmanagement.“ – und heraus kommt ein Text, der genauso bei tausend anderen Accounts stehen könnte.
+  > Das Problem ist nicht die KI. Es fehlt ihr, wer du bist, für wen du schreibst und wie du klingst.
+  > Dieses Prompt-System gibt Claude genau diesen Kontext – einmal eingerichtet, bei jedem Prompt dabei.
+- **Questions the sales page answers:**
+  - Ist das was für dich?
+- **Page word count:** 689
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

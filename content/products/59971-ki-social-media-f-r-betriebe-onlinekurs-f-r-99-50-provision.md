@@ -1,7 +1,7 @@
 # KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision
 
 > Product ID `59971` · Digistore24 productId `738051` · [HTML profile page](../../reviews/ki-social-media-f-r-betriebe-onlinekurs-f-r-99-50-provision-59971.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** KI-Social-Media für Betriebe – Onlinekurs - Digistore24
+- **OG title:** KI-Social-Media für Betriebe – Onlinekurs
+- **Section headlines (H3):**
+  - KI-Social-Media für Betriebe – Onlinekurs
+  - KI-Social-Media für Betriebe – Onlinekurs
+  - KI-Social-Media für Betriebe – Onlinekurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > KI-Social-Media für Betriebe – Onlinekurs zum Sofort-Download 30 Lektionen in 7 Modulen, im Browser zum Durchklicken
+  > 1x KI-Social-Media für Betriebe – Onlinekurs Sie erhalten das Produkt zum Download oder als Video stream
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 280
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5904446/image/product/HDBWLEGP.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

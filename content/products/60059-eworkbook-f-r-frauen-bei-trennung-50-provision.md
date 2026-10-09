@@ -1,7 +1,7 @@
 # eWorkbook für Frauen bei Trennung / 50% Provision
 
 > Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../reviews/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** eWorkbook: Du vermisst ihn nicht. Du bist abhängig. - Digistore24
+- **OG title:** eWorkbook: Du vermisst ihn nicht. Du bist abhängig.
+- **Section headlines (H3):**
+  - eWorkbook: Du vermisst ihn nicht. Du bist abhängig.
+  - eWorkbook: Du vermisst ihn nicht. Du bist abhängig.
+  - eWorkbook: Du vermisst ihn nicht. Du bist abhängig.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du vermisst ihn nicht. Du bist abhängig. Warum Loslassen so schwer ist und wie du dich emotional befreist.
+  > Du vermisst ihn nicht. Du bist abhängig. Warum Loslassen so schwer ist und wie du dich emotional befreist.
+  > Du vermisst ihn nicht. Du bist abhängig. Warum Loslassen so schwer ist und wie du dich emotional befreist.
+- **Page word count:** 313
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5403956/image/product/226VOAHZ.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

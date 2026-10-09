@@ -1,7 +1,7 @@
 # Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
 
 > Product ID `60257` · Digistore24 productId `740689` · [HTML profile page](../../reviews/bewerbung-leicht-gemacht-ratgeber-bewerbungs-generator-60257.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator - Digistore24
+- **OG title:** Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+- **Section headlines (H3):**
+  - Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+  - Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber zeigt Schritt für Schritt, wie Sie Lebenslauf und Anschreiben erstellen, sich online bewerben und im Gespräch überzeugen. Mit dem Bewerbungs-Generator füllen Sie nur Felder aus und bekommen fertige Unterlagen als PDF. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Stellenanzeige lesen und Bewerbung darauf zuschneiden ✔ Lebenslauf und Anschreiben Schritt für Schritt ✔ Online bewerben: E-Mail, PDF und Formulare ✔ Wiedereinstieg, Quereinstieg, über 50, Lücken im Lebenslauf ✔ Vorstellungsgespräch: typische Fragen und gute Antworten ✔ Gehalt verhandeln, mit den neuen Regeln zur Transparenz ✔ 6 Muster und Checkliste
+  > ✔ Lebenslauf in 8 Designs, 10 Farben und 4 Schriften ✔ Bewerbungsfoto einfügen und Ausschnitt einstellen ✔ Anschreiben in der richtigen Form, mit Textvorschlägen ✔ Deckblatt auf Wunsch ✔ Komplette Bewerbung in einer PDF-Datei speichern
+  > Lieferumfang Sie erhalten den Ratgeber als PDF-Datei mit 24 Seiten und den Bewerbungs-Generator als Datei, die Sie auf Computer oder Tablet im Browser öffnen. Ihre Eingaben und Ihr Foto bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Sie suchen eine neue Stelle und wissen nicht, wie man sich heute bewirbt?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1970
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/2LMM98QE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

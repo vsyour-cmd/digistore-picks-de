@@ -1,7 +1,7 @@
 # Alleinerziehend leicht gemacht – Ratgeber mit Hilfen-Rechner
 
 > Product ID `60360` · Digistore24 productId `741894` · [HTML profile page](../../reviews/alleinerziehend-leicht-gemacht-ratgeber-mit-hilfen-rechner-60360.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Alleinerziehend leicht gemacht – Ratgeber + Hilfen-Rechner - Digistore24
+- **OG title:** Alleinerziehend leicht gemacht – Ratgeber + Hilfen-Rechner
+- **Section headlines (H3):**
+  - Alleinerziehend leicht gemacht – Ratgeber + Hilfen-Rechner
+  - Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Alleinerziehend leicht gemacht – Ratgeber + Hilfen-Rechner
+  - Alleinerziehend leicht gemacht – Ratgeber + Hilfen-Rechner
+  - Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber stellt verständlich alle Leistungen für Alleinerziehende vor: Unterhalt, Unterhaltsvorschuss, Kindergeld, Kinderzuschlag, Wohngeld, Mehrbedarf und Steuerentlastung. Als Beilage erhalten Sie den Hilfen-Rechner: eine Datei, die für Ihre Familie ausrechnet, was Ihnen zusteht. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Kindesunterhalt und Beistandschaft des Jugendamts ✔ Unterhaltsvorschuss ✔ Unterhalt für Sie selbst ✔ Kindergeld, Kinderzuschlag, Wohngeld ✔ Grundsicherungsgeld und Mehrbedarf ✔ Steuern sparen: Steuerklasse II und Entlastungsbetrag ✔ Arbeit und Kinderbetreuung ✔ Sorgerecht und Umgang ✔ Gesundheit und Entlastung ✔ Checkliste
+  > ✔ Für bis zu sechs Kinder ✔ Kindergeld und Unterhaltsvorschuss je Kind ✔ Mehrbedarf, Entlastungsbetrag, Kinderkrankentage ✔ Hinweise, welche Anträge sich lohnen können ✔ Mit den Beträgen 2026, Ergebnis als PDF
+  > Wichtig: Der Rechner gibt eine Orientierung. Verbindlich entscheiden Jugendamt, Familienkasse, Jobcenter und Finanzamt.
+- **Questions the sales page answers:**
+  - Sie erziehen Ihr Kind allein und wollen wissen, welche Hilfen Ihnen zustehen?
+  - Wie viel Unterhalt steht dem Kind zu, und was muss dem Zahlenden bleiben?
+  - Sie arbeiten, aber das Geld reicht für die Familie kaum?
+  - Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+- **Page word count:** 2320
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/BOFD1B6G.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

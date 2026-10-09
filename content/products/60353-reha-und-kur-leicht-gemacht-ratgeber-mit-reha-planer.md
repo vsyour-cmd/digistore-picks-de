@@ -1,7 +1,7 @@
 # Reha und Kur leicht gemacht – Ratgeber mit Reha-Planer
 
 > Product ID `60353` · Digistore24 productId `741761` · [HTML profile page](../../reviews/reha-und-kur-leicht-gemacht-ratgeber-mit-reha-planer-60353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Reha und Kur leicht gemacht – Ratgeber + Reha-Planer - Digistore24
+- **OG title:** Reha und Kur leicht gemacht – Ratgeber + Reha-Planer
+- **Section headlines (H3):**
+  - Reha und Kur leicht gemacht – Ratgeber + Reha-Planer
+  - Krank im Job leicht gemacht – Ratgeber + Krankengeld-Rechner
+  - Erwerbsminderungsrente leicht gemacht – Ratgeber + Rechner
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Reha und Kur leicht gemacht – Ratgeber + Reha-Planer
+  - Reha und Kur leicht gemacht – Ratgeber + Reha-Planer
+  - Krank im Job leicht gemacht – Ratgeber + Krankengeld-Rechner
+  - Erwerbsminderungsrente leicht gemacht – Ratgeber + Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich den Weg vom Arztgespräch bis zur Bewilligung: wer zuständig ist, wie der Antrag gelingt und was Sie bei einer Ablehnung tun. Als Beilage erhalten Sie den Reha-Planer: eine Datei, die den zuständigen Träger nennt, Fristen ausrechnet und Zuzahlung und Übergangsgeld schätzt. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Welche Reha es gibt ✔ Wer zuständig ist ✔ Die Voraussetzungen ✔ Der Antrag Schritt für Schritt ✔ Die Wunschklinik durchsetzen ✔ Fristen: wie schnell entschieden werden muss ✔ Abgelehnt: der Widerspruch ✔ Geld während der Reha ✔ Vorsorge, Kur und Mutter-Kind-Maßnahme ✔ Checkliste und Formulierungen
+  > ✔ Nennt den wahrscheinlich zuständigen Träger und das Formular ✔ Rechnet die Fristen nach dem Antrag aus ✔ Zeigt den letzten Tag für den Widerspruch ✔ Rechnet die Zuzahlung und schätzt das Übergangsgeld ✔ Ergebnis als PDF zum Ausdrucken
+  > Wichtig: Der Reha-Planer gibt eine Einschätzung. Welcher Träger zuständig ist und was er zahlt, entscheidet der Träger im Bescheid.
+- **Questions the sales page answers:**
+  - Sie brauchen eine Reha oder Kur und wissen nicht, wo Sie anfangen sollen?
+  - Sie sind krank und wissen nicht, was Sie melden müssen und wer wie lange zahlt?
+  - Sie können aus gesundheitlichen Gründen nicht mehr oder nur noch wenige Stunden arbeiten?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+- **Page word count:** 2342
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/NSEJHD2Y.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

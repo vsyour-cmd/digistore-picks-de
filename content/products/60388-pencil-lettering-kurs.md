@@ -1,7 +1,7 @@
 # Pencil Lettering Kurs
 
 > Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../reviews/pencil-lettering-kurs-60388.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pencil-Lettering | Manylearn
+- **Meta description:** Kein Bock auf schweres Gepäck? Du brauchst wirklich nicht mehr als Block und Bleistift! Vergiss Marker, Brushpens und knifflige Spitzfedern - im Pencil-Let...
+- **Headline (H1):**
+  > Pencil-Lettering
+- **Section headlines (H2):**
+  - Dein Weg zu locker-leichten Handletterings mit dem Bleistift
+  - Über diesen Kurs
+  - Den Alltag ausblenden
+  - Die Freude am Schreiben
+  - Inhaltsverzeichnis
+  - Material zum Kurs
+  - Einfache Aquarelle: Sommer
+  - Journal-Glück 2026
+  - Lettern und Kritzeln Staffel 1
+  - Häufig gestellte Fragen
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > Genie&szlig;e eine kreative Auszeit an jedem beliebigen Ort - im Urlaub, auf dem Sofa oder sogar in der Bahn.
+  > Meistere die Kunst der charmanten, lockeren Bleistift-Letterings . Charakter statt Perfektion.
+  > Nutze clevere Tricks und Techniken, um aus Basis-Alphabeten dein eigenen Schriften zu entwerfen.
+  > Der Moment, in dem ich mein Skizzenbuch aufklappe und den Bleistift auf das Papier setze ist der Moment, in dem der Alltag verschwindet. Der Fokus wandert auf das Papier, die Gedanken sind frei, die Kreativit&auml;t gedeiht.
+- **Page word count:** 1512
+- **OG image:** https://djej17xhpd78o.cloudfront.net/courses/10/og-image/78f5a6de-b6d0-47c5-8f9f-020009ce7001.webp
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

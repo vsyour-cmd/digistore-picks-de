@@ -1,7 +1,7 @@
 # Rock dein absolutes Wohlbefinden - 50% Provision
 
 > Product ID `59331` · Digistore24 productId `532424` · [HTML profile page](../../reviews/rock-dein-absolutes-wohlbefinden-50-provision-59331.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Rock dein absolutes Wohlbefinden
+- **Meta description:** 5 Wochen lang ab dem 09.02.2026
+- **Headline (H1):**
+  > Rock dein absolutes Wohlbefinden
+- **Section headlines (H2):**
+  - Ich bin Dagmar Braaksma - mit 5A!
+- **CTA button texts:** "Start"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/532424
+- **Opening copy (first paragraphs):**
+  > Von Erschöpfung zu tragfähiger Kraft - egal aus welchem Lebensbereich die Erschöpfung entsteht
+  > Erfahre, was möglich wird, wenn Körper, Nervensystem und Seele nicht mehr gegeneinander arbeiten, sondern gemeinsam für dich wirken & deine Selbstheilungskräfte dadurch aktiviert werden.✨
+  > Begleitet durch meine 5A–Quantenheilung als klare, verkörperte Methode für Ausrichtung, Empfangen und Stabilität.
+  > Trotz Taubheit habe ich mit meinen hochsensitiven Ohren eine BewusstHeitsmethode – die 5A Quantenheilung - erhört.
+- **Page word count:** 641
+- **OG image:** https://dagmar-braaksma.de/wp-content/uploads/2026/01/Rock-dein-Wohlbefinden.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # PASSIVES EINKOMMEN MIT CANVA
 
 > Product ID `60157` · Digistore24 productId `705640` · [HTML profile page](../../reviews/passives-einkommen-mit-canva-60157.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** PASSIVES EINKOMMEN MIT CANVA - Digistore24
+- **OG title:** PASSIVES EINKOMMEN MIT CANVA
+- **Section headlines (H3):**
+  - PASSIVES EINKOMMEN MIT CANVA
+  - PASSIVES EINKOMMEN MIT CANVA
+  - PASSIVES EINKOMMEN MIT CANVA
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Der einfache Einstieg in digitale Produkte, E-Books, Vorlagen, Checklisten & Online-Verkauf
+  > Du möchtest mit Canva eigene digitale Produkte erstellen, weißt aber noch nicht genau, womit du anfangen sollst?
+  > In diesem Ratgeber zeige ich dir Schritt für Schritt, wie du mit Canva digitale Produkte planst, gestaltest und für den Online-Verkauf vorbereitest — verständlich, ehrlich und ohne leere Erfolgsversprechen.
+  > Dieses E-Book ist für alle gedacht, die eigene Ideen umsetzen, digitale Produkte erstellen und sich langfristig eine zusätzliche Einkommensquelle aufbauen möchten.
+- **Page word count:** 403
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5010472/image/product/N5Z59CYX.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

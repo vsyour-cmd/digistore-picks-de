@@ -1,7 +1,7 @@
 # INFINITY PRO KI für Klarheit und bessere Entscheidungen
 
 > Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../reviews/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,26 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** INFINITY – Guthaben wählen
+- **Headline (H1):**
+  > Triff bessere Entscheidungen.
+- **Section headlines (H2):**
+  - WOBEI UNTERSTÜTZT DICH INFINITY?
+  - WAS DU MIT INFINITY BEKOMMST
+  - STIMMEN ZU INFINITY
+  - SO EINFACH FUNKTIONIERT INFINITY
+  - INFINITY-GUTHABEN WÄHLEN
+  - WAS INFINITY BEWUSST NICHT MACHT
+  - PRODUKTINFORMATIONEN
+- **Opening copy (first paragraphs):**
+  > INFINITY unterstützt dich dabei, komplexe Situationen zu analysieren, Zusammenhänge sichtbar zu machen und schneller zu klaren Entscheidungen zu gelangen.
+  > Keine typische KI-Antwort. INFINITY analysiert deine individuelle Situation strukturiert, differenziert und mit Blick auf den Menschen dahinter.
+  > INFINITY betrachtet nicht nur einzelne Aussagen, sondern sucht nach Zusammenhängen, Wechselwirkungen und wiederkehrenden Mustern.
+  > Eine Situation wird aus unterschiedlichen Blickwinkeln betrachtet, statt vorschnell nur eine Erklärung zu liefern.
+- **Questions the sales page answers:**
+  - Wobei unterstützt dich INFINITY?
+  - Was bekommst du mit INFINITY?
+- **Page word count:** 491
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

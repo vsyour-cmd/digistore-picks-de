@@ -1,7 +1,7 @@
 # FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS
 
 > Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../reviews/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Finanzielle Freiheit durch Ihr Unterbewusstseins, secret, geld verdienen im internet, geld verdienen
+- **Meta description:** das pendelsystem ist ein system welches auf einer sogenannten paradoxen antizipation die gewinnzahlen der lotterie mit einer hohen wahrscheinlichkeit voraussieht. Mit diesem Pendelsystem ist geld verdienen im Internet unglaublich einfach. pers&ouml;nliche erfahrungen haben gezeigt, dass durch dieses system die anzahl der 4 er und 5 er treffer viel h&auml;ufiger getippt werden, als bei herk&ouml;mmlichen, mathematischen systemen. allein durch diese erh&ouml;hung der gewinnwahrscheinlichkeit k&ouml;nnen sie viel geld verdienen und sogar ein st&auml;ndig wachsendes grundeinkommen aufbauen. secret
+- **Final URL after redirects:** http://pendelsystem.de/
+- **Section headlines (H3):**
+  - secret, geldverdienen im Internet, geld verdienen
+- **Opening copy (first paragraphs):**
+  > Dahinter verbirgt sich ein Geheimnis, das bisher nur wenige Menschen kannten und das interessanterweise viele Hauptgewinner unbewusst (bzw. unterbewusst) angewendet haben.
+  > Was ist nun aber dieses Geheimnis? Ganz einfach Ihr Unterbewusstsein! Ihr Unterbewusstsein ist sozusagen Ihr bester Freund und st&auml;ndiger Begleiter, welcher Ihnen in vielen Lebenssituationen mit Rat und Tat zur Seite steht, ohne dass Sie es wissen.
+  > - Da unser Unterbewusstsein viel mehr Informationen aufnimmt als wir bewusst registrieren k&ouml;nnen, kann es uns auch in vielen Lebenslagen behilflich sein.
+  > - Unserem Unterbewusstsein ist es auch m&ouml;glich Ereignisse, welche in der Zukunft liegen vorauszusehen. Wom&ouml;glich hat Ihnen Ihr Unterbewusstsein schon eine Situation im Traum gezeigt, welche Sie sp&auml;ter in der Realit&auml;t, tats&auml;chlich so erlebt haben.
+- **Questions the sales page answers:**
+  - Wie konnte Ihr Unterbewusstsein das aber wissen?
+  - Wie k&ouml;nnen wir nun das Wissen und die Kraft unseres Unterbewusstseins zu Nutzen machen?
+  - Kann unser Unterbewusstsein somit auch die richtigen Lottozahlen vorhersehen?
+  - Wie funktioniert nun aber dieses Pendelsystem?
+  - Wie bekomme ich das Ebook und wie kann ich es &ouml;ffnen?
+- **Page word count:** 2588
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

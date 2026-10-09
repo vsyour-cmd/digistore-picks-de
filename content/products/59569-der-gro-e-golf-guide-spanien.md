@@ -1,7 +1,7 @@
 # Der große Golf-Guide Spanien
 
 > Product ID `59569` · Digistore24 productId `736361` · [HTML profile page](../../reviews/der-gro-e-golf-guide-spanien-59569.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der große Golf-Guide Spanien - Digistore24
+- **OG title:** Der große Golf-Guide Spanien
+- **Section headlines (H3):**
+  - Der große Golf-Guide Spanien
+  - Der große Golf-Guide Spanien
+  - Der große Golf-Guide Spanien
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Entdecke Spanien als Golfdestination. Der digitale Golf-Guide Spanien mit über 250 Seiten bietet Inspiration, Golfregionen, Golfplätze und praktische Tipps für deinen nächsten Golfurlaub.
+  > ✅ Über 250 Seiten ✅ Spaniens wichtigste Golfregionen ✅ Golfplätze für jedes Spielniveau ✅ Hotels, Greenfees & Reiseplanung ✅ Bonus: Golfplatz-Atlas Spanien mit über 100 Golfplätzen
+  > Entdecke Spanien als Golfdestination. Der digitale Golf-Guide Spanien mit über 250 Seiten bietet Inspiration, Golfregionen, Golfplätze und praktische Tipps für deinen nächsten Golfurlaub.
+  > ✅ Über 250 Seiten ✅ Spaniens wichtigste Golfregionen ✅ Golfplätze für jedes Spielniveau ✅ Hotels, Greenfees & Reiseplanung ✅ Bonus: Golfplatz-Atlas Spanien mit über 100 Golfplätzen
+- **Page word count:** 295
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5717352/image/product/1LJKJLCE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

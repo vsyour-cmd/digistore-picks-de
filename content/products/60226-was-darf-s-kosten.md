@@ -1,7 +1,7 @@
 # Was darf´s kosten?
 
 > Product ID `60226` · Digistore24 productId `742563` · [HTML profile page](../../reviews/was-darf-s-kosten-60226.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Was darf´s kosten? - Digistore24
+- **OG title:** Was darf´s kosten?
+- **Section headlines (H2):**
+  - Was darf's kosten?
+  - Was darf's kosten?
+  - Was darf's kosten?
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Also schaust du, was andere in deinem Feld verlangen, fragst vielleicht ChatGPT und rechnest ein bisschen hin und her, bis irgendwann eine Zahl dasteht, die sich ungefähr richtig anfühlt. Nur: warum genau diese? Und rechnet sie sich am Ende überhaupt?
+  > Dieses eBook hilft dir dabei, deinen Preis auf eine echte wirtschaftliche Grundlage zu stellen, statt ihn nach Gefühl, Konkurrenz oder Bauchweh festzulegen. Denn bevor wir darüber reden, was dein Angebot wert ist, wie es wahrgenommen wird oder welchen Preis dein Kunde bereit ist zu zahlen, gehört eine Frage geklärt: Was muss dein Angebot mindestens erwirtschaften, damit du dich damit nicht selbst arm arbeitest?
+  > Dafür schauen wir gemeinsam auf die Zahlen, die bei der Preisfindung gern unter den Tisch fallen: deine laufenden Kosten, deine realistisch verkaufbare Zeit und vor allem die Arbeit, die tatsächlich in einem einzigen Kunden steckt. Denn ein 60-Minuten-Termin besteht selten aus 60 Minuten Arbeit. Vorbereitung, Nachbereitung, Support, die kurze Nachricht zwischendurch und die Rechnung danach zählen genauso.
+  > Du findest heraus, wo deine wirtschaftliche Untergrenze liegt und wie du daraus, zusammen mit einem nüchternen Blick auf den Markt, zu einem Startpreis kommst, den du nicht einfach geraten hast.
+- **Questions the sales page answers:**
+  - 1x Was darf´s kosten?
+- **Page word count:** 1903
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5883830/image/product/9EJHZ836.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

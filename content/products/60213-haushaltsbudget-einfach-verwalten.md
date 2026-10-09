@@ -1,7 +1,7 @@
 # Haushaltsbudget einfach verwalten
 
 > Product ID `60213` · Digistore24 productId `742310` · [HTML profile page](../../reviews/haushaltsbudget-einfach-verwalten-60213.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,32 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Haushaltsbudget einfach verwalten - Digistore24
+- **OG title:** Haushaltsbudget einfach verwalten
+- **Section headlines (H2):**
+  - Haushaltsbudget Einfach Verwalten
+  - (eBook)
+  - Dein 30-Tage-Weg zu mehr finanzieller Klarheit
+  - Ein Budget muss nicht kompliziert sein
+  - Für mehr Kontrolle – und weniger finanziellen Stress
+  - Für wen ist dieses Buch geeignet?
+  - Du brauchst keinen perfekten Start
+  - Stell dir vor ...
+  - Starte heute mit deinem 30-Tage-Plan
+  - Weniger Chaos. Mehr Überblick. Mehr bewusste Entscheidungen.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du verdienst Geld – aber am Monatsende fragst du dich trotzdem, wo es geblieben ist? Du möchtest deine Ausgaben besser kontrollieren, Rücklagen bilden und endlich das Gefühl haben, deine Finanzen im Griff zu haben?
+  > „Haushaltsbudget einfach verwalten“ zeigt dir Schritt für Schritt, wie du deine Einnahmen und Ausgaben übersichtlich organisierst und mit einem einfachen 30-Tage-Plan mehr Ordnung in deine Finanzen bringst – ohne komplizierte Finanzbegriffe und ohne stundenlanges Tabellenchaos.
+  > Viele Menschen wissen ungefähr, was jeden Monat auf ihr Konto kommt. Schwieriger wird es bei der Frage:
+  > Kleine Einkäufe, spontane Bestellungen, Abos, Lieferdienste oder unnötige Ausgaben summieren sich schnell. Was einzeln kaum auffällt, kann am Monatsende einen großen Unterschied machen.
+- **Questions the sales page answers:**
+  - (eBook) Du verdienst Geld – aber am Monatsende fragst du dich trotzdem, wo es geblieben ist?
+  - Wofür gebe ich mein Geld eigentlich aus?
+  - Was ist mir wirklich wichtig?
+  - Für wen ist dieses Buch geeignet?
+- **Page word count:** 2461
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/N7MG8QX2.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

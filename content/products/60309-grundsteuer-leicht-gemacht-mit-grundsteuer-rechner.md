@@ -1,7 +1,7 @@
 # Grundsteuer leicht gemacht – mit Grundsteuer-Rechner
 
 > Product ID `60309` · Digistore24 productId `742029` · [HTML profile page](../../reviews/grundsteuer-leicht-gemacht-mit-grundsteuer-rechner-60309.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Grundsteuer leicht gemacht – Ratgeber + Grundsteuer-Rechner - Digistore24
+- **OG title:** Grundsteuer leicht gemacht – Ratgeber + Grundsteuer-Rechner
+- **Section headlines (H3):**
+  - Grundsteuer leicht gemacht – Ratgeber + Grundsteuer-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Grundsteuer leicht gemacht – Ratgeber + Grundsteuer-Rechner
+  - Grundsteuer leicht gemacht – Ratgeber + Grundsteuer-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Vermietung in der Steuererklärung leicht gemacht – Ratgeber + Vermietungs-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Ihre Grundsteuer ist gestiegen, und Sie fragen sich, ob der Bescheid überhaupt stimmt?
+  > Dieser Ratgeber erklärt verständlich, wie die neue Grundsteuer berechnet wird, wo die häufigsten Fehler stecken und was Sie dagegen tun können, auch wenn die Einspruchsfrist schon abgelaufen ist. Für Eigentümer und Mieter. Mit dem Grundsteuer-Rechner rechnen Sie Ihren Bescheid nach.
+  > Inhalt des Ratgebers: ✔ Die drei Bescheide verstehen und richtig lesen ✔ So wird gerechnet: Bundesmodell und die Modelle der Länder ✔ Die häufigsten Fehler bei Fläche, Baujahr und Bodenrichtwert ✔ Einspruch einlegen und Fehler nach der Frist berichtigen ✔ Niedrigeren Wert nachweisen, Ermäßigung und Erlass ✔ Hebesatz und Bescheid der Gemeinde ✔ Für Mieter: Grundsteuer in den Nebenkosten prüfen ✔ 5 Musterbriefe und Checkliste
+  > ✔ Bescheid nachrechnen ✔ Alt und neu vergleichen ✔ Einspruchsfrist und Zahlungstermine ✔ Anteil für Mieter
+- **Questions the sales page answers:**
+  - Ihre Grundsteuer ist gestiegen, und Sie fragen sich, ob der Bescheid überhaupt stimmt?
+  - Sie vermieten eine Wohnung oder ein Haus und wissen nicht, was Sie in der Steuererklärung angeben und absetzen können?
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+- **Page word count:** 2184
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/PL5C16HX.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

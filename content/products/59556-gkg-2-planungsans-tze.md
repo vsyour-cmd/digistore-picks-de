@@ -1,7 +1,7 @@
 # GKG-2 Planungsansätze
 
 > Product ID `59556` · Digistore24 productId `732155` · [HTML profile page](../../reviews/gkg-2-planungsans-tze-59556.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Garten klar geplant · Modul 2: Planungsansätze - Digistore24
+- **OG title:** Garten klar geplant · Modul 2: Planungsansätze
+- **Section headlines (H3):**
+  - Garten klar geplant · Modul 2: Planungsansätze
+  - Garten klar geplant · Modul 2: Planungsansätze
+  - Garten klar geplant · Modul 2: Planungsansätze
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Hier planen Sie — mit der Methode eines Landschaftsarchitekturbüros. Die Blasenmethode zur Zonierung, 33 Flächenrichtwerte mit den Bewegungsflächen, die in Katalogbildern fehlen, fünf Regeln für die Wegeführung, Materialvergleich über acht Beläge, Pflanzlisten nach Standort. Und am Ende die ehrliche Tabelle mit den fünf Punkten, die Sie nicht selbst lösen können — mit Begründung, warum.
+  > 26 Seiten PDF, 10 Arbeitsblätter, 4 Zeichenraster. Setzt Modul 1 voraus. Sofort-Download nach dem Kauf.
+  > Hier planen Sie — mit der Methode eines Landschaftsarchitekturbüros. Die Blasenmethode zur Zonierung, 33 Flächenrichtwerte mit den Bewegungsflächen, die in Katalogbildern fehlen, fünf Regeln für die Wegeführung, Materialvergleich über acht Beläge, Pflanzlisten nach Standort. Und am Ende die ehrliche Tabelle mit den fünf Punkten, die Sie nicht selbst lösen können — mit Begründung, warum.
+  > 26 Seiten PDF, 10 Arbeitsblätter, 4 Zeichenraster. Setzt Modul 1 voraus. Sofort-Download nach dem Kauf.
+- **Page word count:** 377
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5864860/image/product/K5K51TQL.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

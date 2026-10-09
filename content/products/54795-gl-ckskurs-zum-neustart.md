@@ -1,7 +1,7 @@
 # Glückskurs zum Neustart
 
 > Product ID `54795` · Digistore24 productId `548922` · [HTML profile page](../../reviews/gl-ckskurs-zum-neustart-54795.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Onlinekurs: Deine beste Zeit beginnt jetzt - Anette Heidel – Die Glücksexpertin
+- **OG title:** Onlinekurs: Deine beste Zeit beginnt jetzt
+- **Meta description:** Glückskurs „Raus aus der alten Rolle“ Innere Stärke und Leichtigkeit wieder bewusst leben – für klare Entscheidungen, mehr Gelassenheit und ein Leben…
+- **Section headlines (H2):**
+  - Was sich durch den Glückskurs konkret verändert:​
+  - So ist der Glückskurs aufgebaut
+  - über mich
+  - deine investition in dich
+  - Erhalte jetzt deinen Mini-Guide
+  - Datenschutz und AGB
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/548922
+- **Opening copy (first paragraphs):**
+  > Raus aus der alten Rolle" I nnere Stärke und Leichtigkeit wieder bewusst leben – für klare Entscheidungen , mehr Gelassenheit und ein Leben, das sich wieder stimmig anfühlt.
+  > Du erkennst, wo du aus Gewohnheit Verantwortung übernimmst – und lernst, deine Kraft gezielt und mit innerer Ruhe dort einzusetzen, wo sie wirklich sinnvoll ist.
+  > Du erkennst, welche Gewohnheiten dich bisher gesteuert haben – und entwickelst neue, bewusste Handlungsspielräume.
+  > Du erhältst konkrete, alltagstaugliche Techniken, die dir helfen, Gedanken zu ordnen, Entscheidungen vorzubereiten und neue innere Gewohnheiten Schritt für Schritt aufzubauen.
+- **Page word count:** 806
+- **OG image:** https://anetteheidel.com/wp-content/uploads/2025/04/bild-mit-qualitaetssigel-e1744276153917-768x514.avif
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

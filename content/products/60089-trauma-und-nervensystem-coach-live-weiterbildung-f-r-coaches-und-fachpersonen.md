@@ -1,7 +1,7 @@
 # Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../reviews/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Trauma- und Nervensystem-Coach | Live-Weiterbildung 2027
+- **Meta description:** Live-Weiterbildung zum Trauma- und Nervensystem-Coach: Nervensystemregulation, Traumasymptomatik und somatische Methoden. 60 Stunden live, Start Februar 2027.
+- **Headline (H1):**
+  > Wenn Coaching an Grenzen stößt, brauchst du Nervensystem-Wissen.
+- **Section headlines (H2):**
+  - Kennst du diese Situation aus deiner Coaching-Praxis?
+  - Warum sich diese Lücke zu füllen lohnt
+  - Es gibt einen besseren Weg
+  - Wer ist Marina Winkler?
+  - Was du in 8 Modulen lernst
+  - Mehr als Theorie — so lernst du bei der NTA
+  - Nach dem Programm wirst du in der Lage sein:
+  - Für wen ist dieses Programm?
+  - Für wen ist es NICHT?
+  - Investiere in deine Expertise
+- **Opening copy (first paragraphs):**
+  > Nach dem Programm Mit anderen im Austausch bleiben Diese Angebote für Absolvent:innen sind geplant und starten nach der ersten Kohorte.
+  > Geschlossene Gruppe für Absolvent:innen: fachlicher Austausch und Weiterempfehlungen untereinander, passend zum Expert:innen-Finder.
+  > Ausgewählte Studien und Fachfragen, eingeordnet und per E-Mail. Sie hält dich fachlich auf dem Laufenden und bietet Raum für Fachfragen.
+  > Ein Termin pro Monat, live online, in kleiner Runde. Fälle werden ausschließlich anonymisiert eingebracht.
+- **Questions the sales page answers:**
+  - Du fragst dich: Was darf ich als Coach überhaupt tun? Wo verläuft die Grenze zwischen Coaching und Therapie?
+- **Page word count:** 3472
+- **OG image:** https://thb.tildacdn.net/tild6462-3561-4561-a336-306333346638/-/resize/504x/Copy_of_Copy_of_Copy.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

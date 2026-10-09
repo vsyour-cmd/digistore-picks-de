@@ -1,7 +1,7 @@
 # Wondershare Filmora Videoschnitt Komplettkurs
 
 > Product ID `59640` · Digistore24 productId `734230` · [HTML profile page](../../reviews/wondershare-filmora-videoschnitt-komplettkurs-59640.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wondershare Filmora Videoschnitt Komplettkurs - Digistore24
+- **OG title:** Wondershare Filmora Videoschnitt Komplettkurs
+- **Section headlines (H3):**
+  - Wondershare Filmora Videoschnitt Komplettkurs
+  - Wondershare Filmora Videoschnitt Komplettkurs
+  - Wondershare Filmora Videoschnitt Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere den Videoschnitt in Wondershare Filmora von den Grundlagen bis zum Profi-Level
+  > ✅ Schneide Videos, die professionell aussehen, schnell und ohne komplizierte Technik
+  > ✅ Meistere den Videoschnitt in Wondershare Filmora von den Grundlagen bis zum Profi-Level
+  > ✅ Schneide Videos, die professionell aussehen, schnell und ohne komplizierte Technik
+- **Page word count:** 338
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/26XZDZT2.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

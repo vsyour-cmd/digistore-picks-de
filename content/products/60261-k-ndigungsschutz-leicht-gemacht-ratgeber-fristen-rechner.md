@@ -1,7 +1,7 @@
 # Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
 
 > Product ID `60261` · Digistore24 productId `740893` · [HTML profile page](../../reviews/k-ndigungsschutz-leicht-gemacht-ratgeber-fristen-rechner-60261.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner - Digistore24
+- **OG title:** Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+- **Section headlines (H3):**
+  - Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+  - Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt Schritt für Schritt, welche Fristen laufen, wie Sie die Kündigung prüfen und wie Sie Abfindung und Arbeitslosengeld sichern. Mit dem Fristen-Rechner sehen Sie alle Termine mit Datum. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Die ersten Tage: was Sie sofort tun und was Sie lassen ✔ Ist die Kündigung wirksam? Form, Frist, Gründe ✔ Besonderer Kündigungsschutz ✔ Kündigungsschutzklage: Ablauf, Kosten, Chancen ✔ Abfindung: wann, wie viel, Steuern ✔ Aufhebungsvertrag und Sperrzeit beim Arbeitslosengeld ✔ 5 Musterbriefe und Checkliste
+  > Der Fristen-Rechner: ✔ Klagefrist und Meldefristen mit Datum ✔ Prüfung der Kündigungsfrist ✔ Abfindung nach der Faustformel ✔ Dauer des Arbeitslosengeldes
+  > Was Sie erhalten Sie erhalten zwei Dateien zum Download : den Ratgeber als PDF-Datei mit 23 Seiten und den Fristen-Rechner als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihre Angaben bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Ihnen wurde gekündigt und Sie wissen nicht, was Sie jetzt tun müssen?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1859
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/RC2GB0VV.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

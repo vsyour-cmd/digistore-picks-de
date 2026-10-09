@@ -1,7 +1,7 @@
 # Pflege-Notfallplan – für den Ernstfall
 
 > Product ID `60167` · Digistore24 productId `740880` · [HTML profile page](../../reviews/pflege-notfallplan-f-r-den-ernstfall-60167.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wenn ich ausfalle – Pflege gut weitergeben - Digistore24
+- **OG title:** Wenn ich ausfalle – Pflege gut weitergeben
+- **Section headlines (H3):**
+  - Wenn ich ausfalle – Pflege gut weitergeben
+  - Wenn ich ausfalle – Pflege gut weitergeben
+  - Wenn ich ausfalle – Pflege gut weitergeben
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Warum du ihn brauchst Ein Ausfall kommt immer unerwartet. Mit diesem Plan ist alles vorbereitet – ohne Stress, ohne Suchen, ohne Unsicherheit.
+  > Preisbegründung Weniger als zwei Tassen Kaffee – aber ein kompletter Notfallplan.
+  > Warum du ihn brauchst Ein Ausfall kommt immer unerwartet. Mit diesem Plan ist alles vorbereitet – ohne Stress, ohne Suchen, ohne Unsicherheit.
+  > Preisbegründung Weniger als zwei Tassen Kaffee – aber ein kompletter Notfallplan.
+- **Page word count:** 443
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5935810/image/product/AGR3LYME.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

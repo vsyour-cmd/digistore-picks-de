@@ -1,7 +1,7 @@
 # Affiliate Marketing mit Pinterest und Amazon PartnerNet – Sc
 
 > Product ID `60114` · Digistore24 productId `739579` · [HTML profile page](../../reviews/affiliate-marketing-mit-pinterest-und-amazon-partnernet-sc-60114.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Affiliate Marketing mit Pinterest und Amazon PartnerNet - Digistore24
+- **OG title:** Affiliate Marketing mit Pinterest und Amazon PartnerNet
+- **Section headlines (H3):**
+  - Affiliate Marketing mit Pinterest und Amazon PartnerNet
+  - Affiliate Marketing mit Pinterest und Amazon PartnerNet
+  - Affiliate Marketing mit Pinterest und Amazon PartnerNet
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du möchtest Pinterest gezielt für Affiliate Marketing nutzen und dir Schritt für Schritt eine eigene Strategie aufbauen? Dieser digitale Guide führt dich verständlich durch die wichtigsten Grundlagen und zeigt dir, wie du Pinterest für die Bewerbung von Affiliate-Produkten einsetzen kannst.
+  > Das erwartet dich im Guide: • Grundlagen von Pinterest und Affiliate Marketing • Schritt-für-Schritt-Anleitung für den Einstieg • Aufbau und Optimierung deines Pinterest-Profils • Tipps zur Erstellung ansprechender Pins • Strategien für mehr Reichweite und Sichtbarkeit • Einbindung von Affiliate-Links und passenden Angeboten • Praktische Hinweise zur Umsetzung deiner Pinterest-Strategie • Übersichtliche Anleitung zum Nachmachen
+  > Für wen ist der Guide geeignet? Der Guide richtet sich besonders an Einsteiger, die Pinterest kennenlernen und Affiliate Marketing strukturiert umsetzen möchten. Vorkenntnisse sind nicht erforderlich.
+  > Produktart: Digitaler Guide / Download Preis: 27,00 € inkl. MwSt. Bereitstellung: Digital nach erfolgreicher Bestellung
+- **Page word count:** 634
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5927870/image/product/85Q2NXDW.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

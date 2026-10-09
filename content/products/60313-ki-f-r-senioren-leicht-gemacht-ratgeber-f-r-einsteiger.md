@@ -1,7 +1,7 @@
 # KI für Senioren leicht gemacht – Ratgeber für Einsteiger
 
 > Product ID `60313` · Digistore24 productId `708665` · [HTML profile page](../../reviews/ki-f-r-senioren-leicht-gemacht-ratgeber-f-r-einsteiger-60313.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** KI für Senioren leicht gemacht – Ratgeber als PDF - Digistore24
+- **OG title:** KI für Senioren leicht gemacht – Ratgeber als PDF
+- **Section headlines (H3):**
+  - KI für Senioren leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Stromkosten leicht gemacht – Ratgeber als PDF
+  - KI für Senioren leicht gemacht – Ratgeber als PDF
+  - KI für Senioren leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Überall hört man von künstlicher Intelligenz, aber kaum jemand erklärt in Ruhe, wie das funktioniert. Dieser Ratgeber zeigt es Ihnen Schritt für Schritt, in einfachen Worten und ohne Vorkenntnisse. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ KI einfach erklärt, ohne Fachwörter ✔ ChatGPT Schritt für Schritt, auch mit Sprechen und Vorlesen ✔ 30 fertige Fragen für den Alltag zum Abtippen ✔ Alexa, Siri und „Hey Google": der Stand 2026 ✔ KI in WhatsApp, mit der Kamera und für Fotos ✔ Sicher bleiben: Daten, Abofallen und Fehler der KI ✔ Betrug mit KI erkennen, mit Merkzettel fürs Telefon ✔ Große Schrift, Wörterbuch und Checkliste
+  > Lieferumfang Sie erhalten den Ratgeber „KI für Senioren leicht gemacht" als PDF-Datei mit 25 Seiten in großer Schrift, zum Lesen am Bildschirm und zum Ausdrucken.
+  > Auslieferung Nach erfolgreicher Bezahlung wird das Produkt ausschließlich digital bereitgestellt. Der Download steht unmittelbar nach dem Kauf über die Digistore24-Bestätigungsseite sowie zusätzlich per E-Mail zur Verfügung.
+- **Questions the sales page answers:**
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+  - Zahlen Sie mehr für Strom als nötig?
+- **Page word count:** 2011
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/P8TK66BU.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

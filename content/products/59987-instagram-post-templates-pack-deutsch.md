@@ -1,7 +1,7 @@
 # Instagram Post Templates Pack (Deutsch)
 
 > Product ID `59987` · Digistore24 productId `737211` · [HTML profile page](../../reviews/instagram-post-templates-pack-deutsch-59987.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Instagram Template Pack - xaruta.com©
+- **OG title:** Instagram Template Pack
+- **Meta description:** 📦 €23🛒 - 💶💳🇬🇧 Englisch 🇪🇸 Spanisch ✅ Erstelle schneller dein Design✅ Umfassendes Mini-Content-System✅ Editierbare Canva-Vorlagen für Creator & Marken✅ Weniger erstellen. Besser posten.✅ Bonus Material Inhalt:🎬 10x Reel Covers📸 10x Instagram Beiträge꩜ 10x Karussell-Vorlagen📲10x Instagram Stories📢 5x Promo / Ankündigung💬 5x Zitate 🎁 Bonus (50x Hooks)
+- **Headline (H1):**
+  > Instagram Template Pack
+- **Price mentions on page:** €23
+- **Opening copy (first paragraphs):**
+  > ✅ Erstelle schneller dein Design ✅ Umfassendes Mini-Content-System ✅ Editierbare Canva-Vorlagen für Creator & Marken ✅ Weniger erstellen. Besser posten. ✅ Bonus Material Inhalt: 🎬 10x Reel Covers 📸 10x Instagram Beiträge ꩜ 10x Karussell-Vorlagen 📲10x Instagram Stories 📢 5x Promo / Ankündigung 💬 5x Zitate 🎁 Bonus (50x Hooks)
+- **Page word count:** 217
+- **OG image:** https://xaruta4.wordpress.com/wp-content/uploads/2026/10/instagram_post_pack_logo_2_symbol_feed.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

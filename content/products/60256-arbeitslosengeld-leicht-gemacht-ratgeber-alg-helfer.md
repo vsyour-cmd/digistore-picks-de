@@ -1,7 +1,7 @@
 # Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
 
 > Product ID `60256` · Digistore24 productId `742665` · [HTML profile page](../../reviews/arbeitslosengeld-leicht-gemacht-ratgeber-alg-helfer-60256.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer - Digistore24
+- **OG title:** Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
+- **Section headlines (H3):**
+  - Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
+  - Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
+  - Arbeitslosengeld leicht gemacht – Ratgeber + ALG-Helfer
+  - Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Wer sich zu spät meldet oder einen Bescheid nicht prüft, verliert Geld. Dieser Ratgeber erklärt verständlich und Schritt für Schritt, welche Fristen gelten, wie viel Arbeitslosengeld Ihnen zusteht und wie Sie sich gegen eine Sperrzeit wehren. Der beiliegende ALG-Helfer berechnet Ihre Fristen und erstellt den fertigen Brief. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Die ersten Schritte nach der Kündigung, mit allen Fristen ✔ Anspruch, Höhe und Dauer, mit Tabelle nach Alter ✔ Sperrzeit: Gründe, Dauer und was als wichtiger Grund gilt ✔ Bescheid prüfen und Widerspruch einlegen ✔ Ihre Pflichten während des Bezugs und Nebenverdienst ✔ 11 Musterbriefe, zum Beispiel Widerspruch gegen Sperrzeit und Rückforderung ✔ Checklisten für Antrag und Bescheid, Bewerbungsliste und Verlauf
+  > Der ALG-Helfer: ✔ zeigt, bis wann Sie sich arbeitsuchend und arbeitslos melden müssen ✔ zeigt die Anspruchsdauer und schätzt den Betrag grob ✔ berechnet das Ende der Widerspruchsfrist ✔ erstellt aus Ihren Angaben einen von elf fertigen Briefen
+  > Lieferumfang Sie erhalten den Ratgeber „Arbeitslosengeld leicht gemacht" als PDF-Datei mit 28 Seiten und den ALG-Helfer als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihre Eingaben bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Die Kündigung ist da, und Sie wissen nicht, was jetzt zu tun ist?
+  - Sie suchen eine neue Stelle und wissen nicht, wie man sich heute bewirbt?
+  - Am Monatsende ist das Geld weg, und Sie wissen nicht genau, wohin?
+- **Page word count:** 2358
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/75WWIR97.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

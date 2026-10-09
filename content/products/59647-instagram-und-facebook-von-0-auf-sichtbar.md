@@ -1,7 +1,7 @@
 # Instagram und Facebook: Von 0 auf sichtbar
 
 > Product ID `59647` · Digistore24 productId `736804` · [HTML profile page](../../reviews/instagram-und-facebook-von-0-auf-sichtbar-59647.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Instagram & Facebook: Von 0 auf sichtbar | Einfach mit Matze
+- **Meta description:** Mach aus zwei leeren Profilen einen verständlichen Auftritt. Entwickle mit Matze hilfreiche Beiträge und einen Plan für deine ersten 30 Tage – Schritt für Schritt, an deinem eigenen Projekt.
+- **Headline (H1):**
+  > Dein Auftritt. Dein erster klarer Plan.
+- **Section headlines (H2):**
+  - Zwei klare Profile, passende Beitragsentwürfe und dein ausgefüllter 30-Tage-Plan.
+  - Ein klarer Startpunkt.
+  - Schritt für Schritt zu deinem Auftritt.
+  - Ein vollständiges Praxispaket.
+  - Instagram & Facebook: Von 0 auf sichtbar
+  - Deine Fragen zum Kurs.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/736804
+- **Opening copy (first paragraphs):**
+  > Mach aus zwei leeren Profilen einen verständlichen Auftritt. Entwickle mit Matze hilfreiche Beiträge und einen Plan für deine ersten 30 Tage – Schritt für Schritt, an deinem eigenen Projekt.
+  > PASST DAS ZU DIR? Ein klarer Startpunkt. Für wen ist der Kurs gedacht? Für Selbstständige, kleine Unternehmen und Creator, die Instagram und Facebook selbst nutzen möchten. Du brauchst kein Vorwissen.
+  > Ein eigenes Projekt, ein Gerät mit Internetzugang und die Bereitschaft, Inhalte selbst zu erstellen und zu prüfen.
+  > Reichweite, Anfragen und Umsatz werden nicht garantiert. Der Kurs veröffentlicht keine Beiträge automatisch.
+- **Questions the sales page answers:**
+  - Welcher Kurs passt zu dir?
+  - Für wen ist der Kurs gedacht?
+- **Page word count:** 817
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

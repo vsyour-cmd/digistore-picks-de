@@ -1,7 +1,7 @@
 # AI.-Ready Rescue – gelöschte Dateien vom USB-Stick retten
 
 > Product ID `60184` · Digistore24 productId `720633` · [HTML profile page](../../reviews/ai-ready-rescue-gel-schte-dateien-vom-usb-stick-retten-60184.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,18 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** AI.-Ready Rescue - USB-Datenrettung f&uuml;r Windows
+- **Meta description:** AI.-Ready Rescue: gel&ouml;schte Dateien von USB-Sticks & externen Laufwerken wiederherstellen. Quick-Scan, Deep-Scan, keine Cloud, kein Abo. Einmal kaufen, jederzeit nutzen.
+- **Headline (H1):**
+  > AI.-READY RESCUE
+- **Section headlines (H2):**
+  - Versehentlich gelöscht? Kein Grund zur Panik.
+- **Opening copy (first paragraphs):**
+  > AI.-Ready Rescue durchsucht USB-Sticks, SD-Karten und externe Laufwerke nach gelöschten Dateien und stellt sie wieder her - mit Quick-Scan für den schnellen Fall und Deep-Scan für den Rohzugriff auf den Datenträger. Läuft lokal auf deinem Windows-PC. Einmal kaufen, jederzeit nutzen. Kein Konto, kein Abo, keine Cloud.
+  > Zwei Scan-Modi, klare Statusanzeige, direkte Wiederherstellung - ohne Cloud-Upload.
+  > Durchsucht das Dateisystem des Datenträgers in Sekunden nach kürzlich gelöschten Dateien - ideal für den Klassiker "aus Versehen geleert".
+  > Rohzugriff auf den Datenträger jenseits des Dateisystem-Index - findet auch Dateien, die auf normalem Weg nicht mehr sichtbar sind.
+- **Page word count:** 629
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

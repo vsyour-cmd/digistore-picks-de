@@ -1,7 +1,7 @@
 # MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot
 
 > Product ID `60190` · Digistore24 productId `731830` · [HTML profile page](../../reviews/mehr-verkaufen-durch-weniger-posten-digitales-angebot-60190.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,10 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** High-Conversion Landingpage erstellen lassen | Robert Schumacher
+- **Meta description:** Conversion-orientierte Landingpages für B2B-Unternehmen: klare Positionierung, überzeugende Texte und saubere Umsetzung. Projekt prüfen und Gespräch anfragen.
+- **Page word count:** 7
+- **OG image:** https://digiplexx.com/og-image.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

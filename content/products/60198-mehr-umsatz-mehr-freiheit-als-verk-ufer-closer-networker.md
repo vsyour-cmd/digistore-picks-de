@@ -1,7 +1,7 @@
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
 > Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../reviews/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Top Performer Protocol
+- **Headline (H1):**
+  > In 4-6 Wochen zur Nr. 1 im Vertrieb
+- **Section headlines (H2):**
+  - Ich gehe davon aus, dass Du bereits gut bist in, dem was Du tust.
+  - Ergebnisse aus der Praxis
+  - Über Leonard
+  - Dieser Kurs hilft Dir weiter, wenn Du mindestens eines dieser Ziele verfolgst:
+  - Was beinhaltet der Kurs?
+  - Die Sales-Performce-Hypnose , mit der Du Deine Ziele übertreffen und Deine Träume leben kannst
+  - Bereit für Deine Top-Performance?
+- **Price mentions on page:** €997, €297,
+- **Opening copy (first paragraphs):**
+  > #1 Mehr Abschlüsse, mehr Provision Kursteilnehmer übertreffen nun ihre Zielvorgaben konstant und verdienen hohe Provisionen. Zusätzlich sind Karrieresprünge möglich.
+  > #2 Innere Leichtigkeit Klienten berichten mir davon sich innerlich richtig befreit zu fühlen. Wie wäre es, wenn Dein Vertriebsalltag sich für Dich leicht & frei anfühlt?
+  > #3 Nr. 1 im Vertrieb Egal ob angestellt oder selbstständig, Du wirst lernen, an welchen Stellschrauben Du drehen kannst, um in Zukunft die Nr. 1 zu sein!
+  > Du hast wichtige Techniken & Methoden gelernt, Du kennst deine Zahlen, und Du lieferst Ergebnisse.
+- **Page word count:** 884
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

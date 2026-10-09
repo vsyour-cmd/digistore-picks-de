@@ -1,7 +1,7 @@
 # Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act
 
 > Product ID `59702` · Digistore24 productId `649019` · [HTML profile page](../../reviews/stadt-und-wasserwerke-100-prompts-f-r-nis2-und-ai-act-59702.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Stadtwerke Wasser Compliance Kit: 100 Prompts für NIS2 und EU AI Act Revisionssicherheit in OT KRITIS - Digistore24
+- **OG title:** Stadtwerke Wasser Compliance Kit: 100 Prompts für NIS2 und EU AI Act Revisionssicherheit in OT KRITIS
+- **Section headlines (H2):**
+  - Stadtwerke & Wasser KRITIS Compliance-Kit 2026/2027 – 100 Prompts für NIS2, EU AI Act, OT & KI-Governance
+  - Stadtwerke & Wasser KRITIS Compliance-Kit 2026/2027 – 100 Prompts für NIS2, EU AI Act, OT & KI-Governance
+  - Stadtwerke & Wasser KRITIS Compliance-Kit 2026/2027 – 100 Prompts für NIS2, EU AI Act, OT & KI-Governance
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für Stadtwerke, Wasserbetriebe, Energieversorger, KRITIS-Betreiber, technische Leitungen, CISO, OT-Verantwortliche und Compliance-Teams. Dieses digitale Compliance-Kit unterstützt Betreiber kritischer Infrastrukturen dabei, KI-gestützte OT-Systeme, Leitstellenprozesse, Lieferantenanforderungen, Human Oversight, Logbücher, Incident-Prozesse und NIS2-/AI-Act-Schnittstellen strukturierter zu dokumentieren.
+  > Sie erhalten 100 sofort nutzbare Master-Prompts für typische Aufgaben rund um AI-Act-Einstufung, Lieferanten-Compliance, OT-Cybersicherheit, manuelle Übersteuerung, KI-Logbuchführung, NIS2-Incident-Management, Schulung, interne Kommunikation und Governance in kritischen Versorgungsprozessen.
+  > Das Compliance-Kit ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre Anlage, Ihr KI-Modul, Ihre Leitstelle, Ihre Rollen, Ihre Meldewege, Ihre NIS2-Prozesse oder Ihre konkreten Prüffragen.
+  > Der erzeugte Output sollte anschließend technisch, organisatorisch, rechtlich und sicherheitsfachlich geprüft, angepasst und intern freigegeben werden. Bei compliance-relevanter Nutzung empfiehlt sich eine nachvollziehbare Ablage von Prompt, Output, Datum, KI-System, Version, Zweck, verantwortlicher Stelle, Prüfschritt, menschlicher Entscheidung und Freigabe.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2197
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/8VDK75MP.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

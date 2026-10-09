@@ -1,7 +1,7 @@
 # Der Perspektivwechsel - Premium
 
 > Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../reviews/der-perspektivwechsel-premium-59401.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,13 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Perpektivwechsel | Synesthetic World of Senses
+- **Opening copy (first paragraphs):**
+  > Schluss mit endloser Mindset-Arbeit: Aktiviere deine Frequenz direkt über das Nervensystem.
+  > Der Perspektivwechsel – Wie du ohne kognitives Umformulieren von Glaubenssätzen und frei von „Weghaben-Wollen“ in deine wahrhafte Integration und Entfaltung kommst.
+  > Die Beta-Falle verlassen: Warum stundenlanges Analysieren und positives Euphemisieren von Glaubenssätzen dein System oft nur im Überlebensmodus festhält.
+  > Kein Widerstand mehr: Wir lösen nichts mehr krampfhaft auf. Gefühle werden integriert, statt sie weghaben zu wollen.
+- **Page word count:** 357
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Youtube Komplettkurs
 
 > Product ID `59641` · Digistore24 productId `734231` · [HTML profile page](../../reviews/youtube-komplettkurs-59641.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Youtube Komplettkurs - Digistore24
+- **OG title:** Youtube Komplettkurs
+- **Section headlines (H3):**
+  - Youtube Komplettkurs
+  - Youtube Komplettkurs
+  - Youtube Komplettkurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere YouTube von den Grundlagen bis zum Profi-Level ✅ Richte deinen Kanal professionell ein, der vom ersten Video an überzeugt ✅ Die besten Strategien, um mehr Aufrufe, Abonnenten und Reichweite zu gewinnen ✅ Leicht verständliche Schritt-für-Schritt-Videos, auch ohne Vorkenntnisse ✅ Erstelle Thumbnails, Titel und Beschreibungen, die zum Klicken einladen ✅ Verstehe den YouTube-Algorithmus und nutze ihn gezielt für dein Wachstum
+  > 1x Youtube Komplettkurs Sie erhalten Zugang zu einem geschützten Online-Bereich mit Kursen oder Webinaren
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 319
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/1ZLFEFNO.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

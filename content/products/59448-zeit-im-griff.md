@@ -1,7 +1,7 @@
 # Zeit Im Griff
 
 > Product ID `59448` · Digistore24 productId `735538` · [HTML profile page](../../reviews/zeit-im-griff-59448.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** ZEIT IM GRIFF - Digistore24
+- **OG title:** ZEIT IM GRIFF
+- **Section headlines (H2):**
+  - Zeit Im Griff
+  - (Zeitmanagement)
+  - (Druckbare PDF)
+  - Du hast ständig etwas zu tun – und trotzdem bleibt am Ende des Tages das Gefühl, nicht genug geschafft zu haben?
+  - --------------------
+  - ------------------
+  - Bonus
+  - (Druckbare PDF)
+  - --------------------
+  - Zeit Im Griff
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du hast ständig etwas zu tun – und trotzdem bleibt am Ende des Tages das Gefühl, nicht genug geschafft zu haben? E-Mails, Nachrichten, Termine, Haushalt, Arbeit und tausend kleine Aufgaben bestimmen deinen Alltag. Kaum ist eine Sache erledigt, wartet schon die nächste.
+  > „Zeit im Griff“ zeigt dir Schritt für Schritt, wie du innerhalb von 30 Tagen mehr Struktur in deinen Alltag bringst – ohne komplizierte Methoden und ohne deinen gesamten Tag durchzuplanen.
+  > Du arbeitest jeden Tag an einem konkreten Bereich und entwickelst daraus nach und nach dein persönliches Zeitmanagement-System.
+  > An den folgenden Tagen lernst du, Prioritäten zu setzen, deinen Fokus zu schützen, Aufgaben sinnvoll zu strukturieren und unnötige Zeitfresser zu reduzieren.
+- **Questions the sales page answers:**
+  - Du hast ständig etwas zu tun – und trotzdem bleibt am Ende des Tages das Gefühl, nicht genug geschafft zu haben?
+- **Page word count:** 1948
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/KNKWWGOD.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

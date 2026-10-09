@@ -1,7 +1,7 @@
 # CLS Start ins Onlinebusiness mit digitalen Produkten
 
 > Product ID `55140` · Digistore24 productId `657175` · [HTML profile page](../../reviews/cls-start-ins-onlinebusiness-mit-digitalen-produkten-55140.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,12 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Sales Page
+- **Opening copy (first paragraphs):**
+  > Kurserweiterungen und Updates sind Kostenlos! (Der Kurs wird ständig aktuell gehalten)
+  > Wenn du das System von CleanLearn wählst und nutzt, können wir dich auch bei der Erstellung von Email-Kampagnen, Funnel, Websites, Landingpages unterstützen
+  > HINWEIS : Drücke F11 , oder nutze den Vollbildmodus um das Webinar anzusehen. Wenn du kein Ton hörst, klicke auf das Video .
+- **Page word count:** 143
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

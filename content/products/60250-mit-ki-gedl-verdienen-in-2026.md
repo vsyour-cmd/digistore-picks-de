@@ -1,7 +1,7 @@
 # Mit KI Gedl verdienen in 2026
 
 > Product ID `60250` · Digistore24 productId `741706` · [HTML profile page](../../reviews/mit-ki-gedl-verdienen-in-2026-60250.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Elementor #2298
+- **OG title:** Landingpage Ki Geld verdienen 2026
+- **Meta description:** NEU 2026 Mit KI endlich Geld verdienen - 10 Methoden, die wirklich funktionieren Das Praxis-Handbuch mit Entscheidungsmatrix, 30-Tage-Startplan und fertigen...
+- **Section headlines (H2):**
+  - Mit KI endlich Geld verdienen - 10 Methoden, die wirklich funktionieren
+  - Du weißt, dass KI Geld bringt. Aber irgendwie nicht bei dir
+  - 10 Methoden. Eine Entscheidungsmatrix. 30 Tage bis zum Start
+  - Für alle, die aufhören wollen zu experimentieren – und endlich anfangen
+  - Geld mit KI: 10 Methoden für 2026
+- **Opening copy (first paragraphs):**
+  > Das Praxis-Handbuch mit Entscheidungsmatrix, 30-Tage-Startplan und fertigen Vorlagen. Für alle, die aufgehört haben zu reden – und anfangen wollen.
+  > Es gibt 10 Wege, mit KI Geld zu verdienen. Du brauchst nur einen. Dieser Guide zeigt dir welcher zu dir passt – und wie du in 30 Tagen startest.
+  > Alle Zahlenbeispiele in diesem Guide sind fiktive Orientierungswerte – kein Verdienstversprechen. Kein Ersatz für individuelle Finanz- oder Steuerberatung
+- **Page word count:** 319
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

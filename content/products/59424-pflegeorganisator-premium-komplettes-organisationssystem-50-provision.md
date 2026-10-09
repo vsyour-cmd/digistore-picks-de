@@ -1,7 +1,7 @@
 # Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision
 
 > Product ID `59424` · Digistore24 productId `735273` · [HTML profile page](../../reviews/pflegeorganisator-premium-komplettes-organisationssystem-50-provision-59424.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pflegeorganisator Premium | MeineVorlagenKiste
+- **Meta description:** Pflegeorganisation ohne Zettelchaos: 29 PDF-Arbeitsseiten, Druckversion, Excel-Dashboard und Schnellstart für pflegende Angehörige.
+- **Headline (H1):**
+  > Alle helfen. Aber wer hat den Überblick?
+- **Section headlines (H2):**
+  - Zu viele Informationen. Zu wenig gemeinsamer Überblick.
+  - Ein Paket. Vier Werkzeuge.
+  - Die wichtigen Bereiche an einem Ort.
+  - In 15 Minuten steht das Grundgerüst.
+  - Weniger Suchen. Klarer abstimmen.
+  - Vor dem Kauf
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735273
+- **Opening copy (first paragraphs):**
+  > Familie & Pflege Alle helfen. Aber wer hat den Überblick? Der Pflegeorganisator Premium bündelt Medikamente, Termine, Aufgaben, Kontakte, Dokumente und Kosten in einem klaren System – damit Absprachen nicht länger zwischen Zetteln und Nachrichten verschwinden.
+  > Das eigentliche Problem Zu viele Informationen. Zu wenig gemeinsamer Überblick. Die aktuelle Medikamentenliste? Liegt vielleicht im Ordner, auf dem Handy oder bei einem anderen Familienmitglied.
+  > Vollständiger Lieferumfang Ein Paket. Vier Werkzeuge. Nach erfolgreicher Zahlung erhältst du das gesamte digitale ZIP-Paket unmittelbar im Digistore24-Downloadbereich. Es erfolgt kein physischer Versand.
+  > 29 strukturierte Arbeitsseiten mit digitalen Formularfeldern – vom Pflegeprofil bis zum Monatsrückblick.
+- **Questions the sales page answers:**
+  - Wer kümmert sich um den nächsten Termin?
+  - Anträge, Belege und Fristen?
+- **Page word count:** 509
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

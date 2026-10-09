@@ -1,7 +1,7 @@
 # GKG-3.B Mauern im Garten
 
 > Product ID `59738` · Digistore24 productId `732238` · [HTML profile page](../../reviews/gkg-3-b-mauern-im-garten-59738.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Garten klar geplant · Modul 3.B: Mauern im Garten - Digistore24
+- **OG title:** Garten klar geplant · Modul 3.B: Mauern im Garten
+- **Section headlines (H3):**
+  - Garten klar geplant · Modul 3.B: Mauern im Garten
+  - Garten klar geplant · Modul 3.B: Mauern im Garten
+  - Garten klar geplant · Modul 3.B: Mauern im Garten
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Neun Mauervarianten von der Trockenmauer bis zur Winkelstützwand. Wo Ihre Eigenleistung endet, wo die Genehmigungspflicht beginnt und was der Untergrund dazu sagt.
+  > Neun Mauervarianten von der Trockenmauer bis zur Winkelstützwand. Wo Ihre Eigenleistung endet, wo die Genehmigungspflicht beginnt und was der Untergrund dazu sagt.
+  > Neun Mauervarianten von der Trockenmauer bis zur Winkelstützwand. Wo Ihre Eigenleistung endet, wo die Genehmigungspflicht beginnt und was der Untergrund dazu sagt.
+- **Page word count:** 276
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5864860/image/product/JH3586II.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)
 
 > Product ID `60120` · Digistore24 productId `738864` · [HTML profile page](../../reviews/setwert-halteplan-gewicht-halten-nach-dem-abnehmen-40-provision-60120.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der Setwert-Halteplan: 12 Wochen Gewicht halten | Setwert
+- **OG title:** Der Setwert-Halteplan: 12 Wochen Gewicht halten
+- **Meta description:** Abgenommen, auch mit der Abnehmspritze? Der Halteplan begleitet dich 12 Wochen mit Lektionen, 32 Rezepten, Einkaufslisten und Training. Als App auf dem Handy.
+- **Headline (H1):**
+  > Abnehmen geschafft. Jetzt halten.
+- **Section headlines (H2):**
+  - Die schwierigste Zeit kommt danach.
+  - Das bekommst du
+  - Ein Blick in Woche 1
+  - So funktioniert es
+  - Die 12 Wochen
+  - Für dich, wenn
+  - Nicht für dich, wenn
+  - Bereit für die Zeit danach?
+  - Erst mal reinschnuppern?
+- **Opening copy (first paragraphs):**
+  > Der Setwert-Halteplan: 12 Wochen, die dir helfen, dein Gewicht zu halten. Mit echtem Essen, Krafttraining und einem klaren Plan. Direkt auf deinem Handy.
+  > Der Halteplan startet in Kürze. Trag dich unten für den Gratis-Kurs ein, dann erfährst du es zuerst.
+  > Du hast es geschafft. Mit einer Diät, mit der Abnehmspritze oder mit beidem. Aber jetzt kommt der Hunger zurück, der Körper verbraucht weniger, und niemand sagt dir, was du konkret tun sollst.
+  > Studien zeigen: Ohne gezielte Unterstützung kommt ein großer Teil des Gewichts im ersten Jahr zurück. Das ist Biologie, keine Willensschwäche. Und es ist kein Schicksal. Wer Eiweiß, Krafttraining und einen Plan für schwierige Wochen hat, hält sein Gewicht deutlich besser.
+- **Page word count:** 992
+- **OG image:** https://setwert.de/bilder/setwert-teilen.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

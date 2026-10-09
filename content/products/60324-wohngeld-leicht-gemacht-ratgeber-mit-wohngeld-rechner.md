@@ -1,7 +1,7 @@
 # Wohngeld leicht gemacht – Ratgeber mit Wohngeld-Rechner
 
 > Product ID `60324` · Digistore24 productId `741309` · [HTML profile page](../../reviews/wohngeld-leicht-gemacht-ratgeber-mit-wohngeld-rechner-60324.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner - Digistore24
+- **OG title:** Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+- **Section headlines (H3):**
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Stromkosten leicht gemacht – Ratgeber als PDF
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+  > Dieser Ratgeber erklärt verständlich, wer Wohngeld bekommt, wie es berechnet wird und wie Sie den Antrag stellen, ohne einen Monat zu verlieren. Für Mieter und Eigentümer, für Rentner, Familien und Alleinerziehende. Mit dem Wohngeld-Rechner schätzen Sie Ihren Anspruch selbst.
+  > Inhalt des Ratgebers: ✔ Wer Wohngeld bekommt und wer nicht ✔ Miete, Höchstbeträge und Mietenstufen ✔ Einkommen richtig ermitteln, mit Freibeträgen ✔ So wird gerechnet, mit drei Beispielen ✔ Wohngeld oder Grundsicherungsgeld ✔ Antrag, Bescheid und Weiterleistung ✔ Änderungen melden, Erhöhung beantragen ✔ Wohngeld für Eigentümer ✔ Widerspruch, 5 Musterbriefe und Checkliste
+  > Der Wohngeld-Rechner: ✔ Wohngeld schätzen ✔ Höchstbetrag für Ihre Miete ✔ Änderungen prüfen ✔ Fristen für Antrag und Folgeantrag
+- **Questions the sales page answers:**
+  - Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+  - Kennen Sie Ihre Ansprüche?
+  - Zahlen Sie mehr für Strom als nötig?
+- **Page word count:** 1999
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/D8JEINCZ.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Wandern im Bayerischen Wald mit Kindern
 
 > Product ID `60145` · Digistore24 productId `740971` · [HTML profile page](../../reviews/wandern-im-bayerischen-wald-mit-kindern-60145.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wandern im Bayerischen Wald mit Kindern - Digistore24
+- **OG title:** Wandern im Bayerischen Wald mit Kindern
+- **Section headlines (H2):**
+  - WANDERN IM BAYERISCHEN WALD MIT KINDERN
+  - (Wanderführer)
+  - (Druckbare PDF-Datei)
+  - Raus aus dem Alltag. Rein in die Natur. Gemeinsam als Familie unterwegs sein.
+  - --------------
+  - ---------------
+  - Familienwanderungen, die wirklich Spaß machen
+  - Mehr entdecken statt nur Kilometer sammeln
+  - Praktisch vorbereitet statt spontan überfordert
+  - Zu jeder Jahreszeit unterwegs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Der Bayerische Wald bietet alles, was Familien für einen abwechslungsreichen Wandertag brauchen: geheimnisvolle Wälder, klare Bäche, beeindruckende Aussichtspunkte, Tiere, spannende Naturerlebnisse und Wege, auf denen Kinder etwas entdecken können.
+  > Welche Strecke ist für Kinder gut machbar? Was gehört in den Rucksack? Wie bleibt die Wanderung spannend, wenn die kleinen Beine müde werden? Und worauf sollten Eltern unterwegs achten?
+  > Eine Wanderung mit Kindern muss nicht möglichst lang oder anspruchsvoll sein. Viel wichtiger ist, dass die Strecke zum Alter und zur Kondition der Kinder passt und unterwegs genügend zu entdecken gibt.
+  > Dieses E-Book zeigt dir, wie du Familienwanderungen sinnvoll planst und aus einem einfachen Spaziergang ein echtes Naturabenteuer machst.
+- **Page word count:** 2239
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/WFUCJ55H.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

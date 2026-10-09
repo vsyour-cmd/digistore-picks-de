@@ -1,7 +1,7 @@
 # ​Paulownia Project Premium | Проект Павловния Премиум
 
 > Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../reviews/paulownia-project-premium-59433.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Проект Павловния Премиум - Digistore24
+- **OG title:** Проект Павловния Премиум
+- **Section headlines (H3):**
+  - Проект Павловния Премиум
+  - Проект Павловния Премиум
+  - Проект Павловния Премиум
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ​Характеристики и природный потенциал: Элитное быстрорастущее сырье с многократным циклом воспроизводства. Обладает выдающейся природной стойкостью: огнестойкость до +400°C (сохранение корня при экстремальных температурах) и морозостойкость до -28°C. Фундамент для долгосрочного независимого актива.
+  > ​Архитектура методологии: ​Наследие: родовой манифест династии Pfaffenroth-Труновых (вводная часть).
+  > ​Углубленный технический блок и полный агрорегламент: подготовка почвы, посадка, уход и циклы вырубки.
+  > ​Управление рисками и защита капитала: диверсификация активов и страхование урожая.
+- **Page word count:** 511
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5851717/image/product/26ETOEQT.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

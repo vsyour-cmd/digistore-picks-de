@@ -1,7 +1,7 @@
 # Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
 
 > Product ID `60260` · Digistore24 productId `740755` · [HTML profile page](../../reviews/arbeitsvertrag-leicht-gemacht-ratgeber-vertrags-check-60260.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check - Digistore24
+- **OG title:** Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
+- **Section headlines (H3):**
+  - Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
+  - Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie haben einen Arbeitsvertrag vor sich und wissen nicht, ob Sie unterschreiben können?
+  > Dieser Ratgeber erklärt verständlich, was im Vertrag stehen muss, welche Klauseln üblich sind und welche oft unwirksam. Mit dem Vertrags-Check gehen Sie Ihren Vertrag Punkt für Punkt durch. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Befristung, Probezeit, Arbeitszeit und Überstunden ✔ Gehalt, Mindestlohn und Sonderzahlungen ✔ Urlaub, Krankheit und Kündigungsfristen ✔ Kritische Klauseln: was wirksam ist und was nicht ✔ Minijob, Teilzeit, Zeitarbeit ✔ Verhandeln und Änderungen abwehren ✔ 4 Musterbriefe und Checkliste
+  > Der Vertrags-Check: ✔ 17 Punkte Ihres Vertrags prüfen, mit Ampel und Erklärung ✔ Mindestlohn-Rechner für 2026 und 2027 ✔ Urlaubs-Rechner und Kündigungsfristen ✔ Ergebnis zum Ausdrucken
+- **Questions the sales page answers:**
+  - Sie haben einen Arbeitsvertrag vor sich und wissen nicht, ob Sie unterschreiben können?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1928
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/JYI5I07G.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

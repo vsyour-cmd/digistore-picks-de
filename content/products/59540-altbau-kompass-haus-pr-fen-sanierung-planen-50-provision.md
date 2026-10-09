@@ -1,7 +1,7 @@
 # Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision
 
 > Product ID `59540` · Digistore24 productId `735681` · [HTML profile page](../../reviews/altbau-kompass-haus-pr-fen-sanierung-planen-50-provision-59540.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Altbau-Kompass – Das Komplettpaket für Altbaukauf und Sanierungsplanung - Digistore24
+- **OG title:** Altbau-Kompass – Das Komplettpaket für Altbaukauf und Sanierungsplanung
+- **Section headlines (H3):**
+  - Altbau-Kompass – Das Komplettpaket für Altbaukauf und Sanierungsplanung
+  - Altbau-Kompass – Das Komplettpaket für Altbaukauf und Sanierungsplanung
+  - Altbau-Kompass – Das Komplettpaket für Altbaukauf und Sanierungsplanung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie erhalten direkt nach dem Kauf: • die Excel-Arbeitsmappe „Altbau-Kompass“ mit 9 strukturierten Planungsbereichen, • ein 15-seitiges PDF-Checklistenpaket für Besichtigung, Bewertung und Sanierungsplanung, • Übersichten für Maßnahmen, Prioritäten, Kosten und nächste Schritte.
+  > Auslieferung: digital als ZIP-Datei direkt nach dem Kauf. Kein physischer Versand.
+  > Sie erhalten direkt nach dem Kauf: • die Excel-Arbeitsmappe „Altbau-Kompass“ mit 9 strukturierten Planungsbereichen, • ein 15-seitiges PDF-Checklistenpaket für Besichtigung, Bewertung und Sanierungsplanung, • Übersichten für Maßnahmen, Prioritäten, Kosten und nächste Schritte.
+  > Auslieferung: digital als ZIP-Datei direkt nach dem Kauf. Kein physischer Versand.
+- **Page word count:** 328
+- **OG image:** https://www.digistore24.com/pb/img/merchant_326206/image/product/1X1OH8DM.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

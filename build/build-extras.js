@@ -94,15 +94,12 @@ fs.writeFileSync(path.join(ROOT, "llms.txt"), llms);
 // ---------- feed.xml (Atom, 博客) ----------
 const blogDir = path.join(ROOT, "blog");
 const blogFiles = [];
-const blogMeta = {
-  "top-20-hoechster-verdienst-digistore24-produkte.html": "Die 20 Digistore24-Produkte mit dem höchsten Verdienst",
-  "digistore24-zahlen-checkliste.html": "Digistore24-Produkt beurteilen: der 6-Punkte-Zahlen-Check",
-};
-for (const c of DATA.categories.slice().sort((a, b) => b.count - a.count).slice(0, 10)) {
-  blogMeta[`beste-${slug(c.label)}.html`] = `${c.label} on Digistore24: the data guide`;
-}
-for (const [f, t] of Object.entries(blogMeta)) {
-  if (fs.existsSync(path.join(blogDir, f))) blogFiles.push({ f, t });
+if (fs.existsSync(blogDir)) {
+  for (const f of fs.readdirSync(blogDir).filter((f) => f.endsWith(".html") && f !== "index.html")) {
+    const html = fs.readFileSync(path.join(blogDir, f), "utf8");
+    const t = (html.match(/<title>([^<]+)<\/title>/) || [])[1] || f;
+    blogFiles.push({ f, t: t.replace(` — ${SITE_NAME}`, "") });
+  }
 }
 const feed = `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">

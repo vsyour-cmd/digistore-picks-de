@@ -1,7 +1,7 @@
 # Notfallmappe leicht gemacht – mit Notfallmappen-Generator
 
 > Product ID `60357` · Digistore24 productId `741780` · [HTML profile page](../../reviews/notfallmappe-leicht-gemacht-mit-notfallmappen-generator-60357.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Notfallmappe leicht gemacht – Ratgeber + Notfallmappen-Generator - Digistore24
+- **OG title:** Notfallmappe leicht gemacht – Ratgeber + Notfallmappen-Generator
+- **Section headlines (H3):**
+  - Notfallmappe leicht gemacht – Ratgeber + Notfallmappen-Generator
+  - Vollmachten leicht gemacht – Vollmachts-Generator mit 10 Vorlagen
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Versicherungen leicht gemacht – Ratgeber + Versicherungs-Check
+  - Notfallmappe leicht gemacht – Ratgeber + Notfallmappen-Generator
+  - Notfallmappe leicht gemacht – Ratgeber + Notfallmappen-Generator
+  - Vollmachten leicht gemacht – Vollmachts-Generator mit 10 Vorlagen
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Wüsste Ihre Familie im Ernstfall, wo Vollmacht, Konten und Versicherungen zu finden sind?
+  > Dieser Ratgeber zeigt verständlich, was in eine Notfallmappe gehört und wie Sie sie anlegen. Als Beilage erhalten Sie den Notfallmappen-Generator: eine Datei, die Ihre vollständige Mappe mit zwölf Abschnitten und eine Notfallkarte für die Geldbörse erstellt. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Der Aufbau der Mappe ✔ Persönliches und Notfallkontakte ✔ Gesundheit ✔ Vollmachten und Verfügungen ✔ Banken und Geld ✔ Versicherungen und Verträge ✔ Rente, Beruf, Steuern ✔ Wohnen, Kinder, Haustiere ✔ Digitales und Todesfall ✔ Aufbewahren und aktuell halten ✔ Checkliste der Dokumente
+  > ✔ Zwölf Abschnitte mit 79 Feldern ✔ Druckt die ausgefüllte Mappe oder die leere Mappe zum Ausfüllen von Hand ✔ Jeder Abschnitt auf einer eigenen Seite, passend für einen Ordner mit Registern ✔ Notfallkarte für die Geldbörse ✔ Eingaben lassen sich auf dem eigenen Gerät merken
+- **Questions the sales page answers:**
+  - Wüsste Ihre Familie im Ernstfall, wo Vollmacht, Konten und Versicherungen zu finden sind?
+  - Jemand soll für Sie ein Paket abholen, das Auto anmelden oder mit Ihrem Kind verreisen?
+  - Wer entscheidet für Sie, wenn Sie es selbst nicht mehr können?
+  - Zahlen Sie für Versicherungen, die Sie nicht brauchen, während die wichtigste fehlt?
+- **Page word count:** 2400
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/9FVP7BU3.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

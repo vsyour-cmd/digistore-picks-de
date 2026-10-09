@@ -1,7 +1,7 @@
 # Der große Spanien-Überlebensguide
 
 > Product ID `59419` · Digistore24 productId `735238` · [HTML profile page](../../reviews/der-gro-e-spanien-berlebensguide-59419.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der große Spanien-Überlebensguide - Digistore24
+- **OG title:** Der große Spanien-Überlebensguide
+- **Section headlines (H3):**
+  - Der große Spanien-Überlebensguide
+  - Der große Spanien-Überlebensguide
+  - Der große Spanien-Überlebensguide
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Der umfassende Praxis-Guide für alle, die in Spanien leben, überwintern oder regelmäßig Zeit im Land verbringen.
+  > Der Alltag in Spanien hält immer wieder Situationen bereit, auf die viele Deutsche nicht vorbereitet sind. Ein wichtiger Behördenbrief liegt im Briefkasten, der Strom fällt aus, der Handwerker erscheint nicht, eine unerwartete Abbuchung belastet das Konto oder nach einem Verkehrsunfall stellt sich die Frage, wie es jetzt weitergeht.
+  > Der große Spanien-Überlebensguide hilft dir dabei, genau diese Situationen besser zu verstehen und sicher zu meistern. Statt Informationen mühsam aus Foren, sozialen Netzwerken oder unzähligen Webseiten zusammenzusuchen, findest du verständliche Erklärungen, praktische Lösungen und konkrete Handlungsempfehlungen übersichtlich in einem einzigen Nachschlagewerk.
+  > Der umfassende Praxis-Guide für alle, die in Spanien leben, überwintern oder regelmäßig Zeit im Land verbringen.
+- **Page word count:** 482
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5717352/image/product/E7BG5NCE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

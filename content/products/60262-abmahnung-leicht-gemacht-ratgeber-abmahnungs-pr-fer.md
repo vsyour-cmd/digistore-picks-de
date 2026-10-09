@@ -1,7 +1,7 @@
 # Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
 
 > Product ID `60262` · Digistore24 productId `740794` · [HTML profile page](../../reviews/abmahnung-leicht-gemacht-ratgeber-abmahnungs-pr-fer-60262.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer - Digistore24
+- **OG title:** Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
+- **Section headlines (H3):**
+  - Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
+  - Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, wann eine Abmahnung wirksam ist, welche Fehler häufig vorkommen und wie Sie richtig reagieren. Mit dem Abmahnungs-Prüfer gehen Sie Ihre Abmahnung Punkt für Punkt durch und erstellen Ihre Gegendarstellung. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Was eine wirksame Abmahnung braucht ✔ Wofür abgemahnt werden darf und wofür nicht ✔ Die häufigsten Fehler in Abmahnungen ✔ Vier Wege zu reagieren, mit Vor- und Nachteilen ✔ Gegendarstellung richtig schreiben ✔ Abmahnung und Kündigung: was zusammenhängt ✔ 5 Musterbriefe und Checkliste
+  > Der Abmahnungs-Prüfer: ✔ Neun Fragen zu Ihrer Abmahnung, mit Einschätzung und Begründung ✔ Brief-Generator für Gegendarstellung und drei weitere Schreiben ✔ Orientierung, wie lange eine Abmahnung wirkt
+  > Was Sie erhalten Sie erhalten zwei Dateien zum Download : den Ratgeber als PDF-Datei mit 19 Seiten und den Abmahnungs-Prüfer als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihre Angaben bleiben auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Sie haben eine Abmahnung bekommen und wissen nicht, wie Sie reagieren sollen?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1889
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/3B2N9M1E.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

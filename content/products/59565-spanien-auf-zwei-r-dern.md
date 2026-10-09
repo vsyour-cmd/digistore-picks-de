@@ -1,7 +1,7 @@
 # Spanien auf zwei Rädern
 
 > Product ID `59565` · Digistore24 productId `736357` · [HTML profile page](../../reviews/spanien-auf-zwei-r-dern-59565.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Spanien auf zwei Rädern - Digistore24
+- **OG title:** Spanien auf zwei Rädern
+- **Section headlines (H3):**
+  - Spanien auf zwei Rädern
+  - Spanien auf zwei Rädern
+  - Spanien auf zwei Rädern
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Kurvenreiche Bergstraßen, traumhafte Küstenrouten und unvergessliche Touren durch ganz Spanien. Über 250 Seiten Inspiration, Reiseplanung und Praxiswissen für Motorradfahrer und Radfahrer – von den Pyrenäen bis zur Costa del Sol und den Kanarischen Inseln.
+  > ✅ Über 250 Seiten Touren & Praxiswissen ✅ Die schönsten Strecken Spaniens ✅ Für Motorrad, Rennrad, E-Bike & Mountainbike ✅ Tourenatlas, Checklisten & praktische Tipps ✅ Sofort als PDF herunterladen
+  > Kurvenreiche Bergstraßen, traumhafte Küstenrouten und unvergessliche Touren durch ganz Spanien. Über 250 Seiten Inspiration, Reiseplanung und Praxiswissen für Motorradfahrer und Radfahrer – von den Pyrenäen bis zur Costa del Sol und den Kanarischen Inseln.
+  > ✅ Über 250 Seiten Touren & Praxiswissen ✅ Die schönsten Strecken Spaniens ✅ Für Motorrad, Rennrad, E-Bike & Mountainbike ✅ Tourenatlas, Checklisten & praktische Tipps ✅ Sofort als PDF herunterladen
+- **Page word count:** 370
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5717352/image/product/33JS7ELO.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

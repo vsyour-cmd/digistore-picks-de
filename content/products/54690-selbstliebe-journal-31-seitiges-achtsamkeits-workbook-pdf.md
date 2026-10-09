@@ -1,7 +1,7 @@
 # Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF
 
 > Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../reviews/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Selbstliebe Journal - Digital Edition - Digistore24
+- **OG title:** Selbstliebe Journal - Digital Edition
+- **Section headlines (H3):**
+  - Selbstliebe Journal - Digital Edition
+  - Selbstliebe Journal - Digital Edition
+  - Selbstliebe Journal - Digital Edition
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Selbstliebe Journal – digitale Version (PDF) Dieses Journal ist dein Raum für innere Ruhe, Klarheit und echte Selbstliebe.
+  > Zwischen sanften Nordsee-Elementen, liebevoll gestalteten Scrapbook-Seiten und ruhigen Reflexionen begleitet dich dieses Journal Schritt für Schritt zurück zu dir selbst. Ein Ort, an dem du wieder spüren kannst, wer du wirklich bist.
+  > Was dich erwartet: 30 gestaltete Selfcare-Seiten zum Ausfüllen, Reflektieren und Innehalten
+  > Körperwahrnehmungs-Seiten ohne Bewertung für eine liebevolle Verbindung zu deinem Körper
+- **Page word count:** 880
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1920904/image/product/MZMVNJK6.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

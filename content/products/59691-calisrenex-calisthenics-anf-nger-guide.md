@@ -1,7 +1,7 @@
 # CalisReneX – Calisthenics Anfänger-Guide
 
 > Product ID `59691` · Digistore24 productId `728739` · [HTML profile page](../../reviews/calisrenex-calisthenics-anf-nger-guide-59691.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CalisReneX — Calisthenics Anfänger Guide - Digistore24
+- **OG title:** CalisReneX — Calisthenics Anfänger Guide
+- **Section headlines (H3):**
+  - CalisReneX — Calisthenics Anfänger Guide
+  - CalisReneX — Calisthenics Anfänger Guide
+  - CalisReneX — Calisthenics Anfänger Guide
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > CalisReneX verbindet praktische Übungen, Progressionen und Skills mit dem Wissen, das du brauchst, um dein Training wirklich zu verstehen und sinnvoll aufzubauen.
+  > Progression vor Perfektion. Du musst nicht alles sofort können – du brauchst einen klaren Weg, wie du dich Schritt für Schritt weiterentwickelst.
+  > Für erwachsene Einsteigerinnen und Einsteiger sowie fortgeschrittene Anfänger im Calisthenics.
+  > CalisReneX verbindet praktische Übungen, Progressionen und Skills mit dem Wissen, das du brauchst, um dein Training wirklich zu verstehen und sinnvoll aufzubauen.
+- **Page word count:** 571
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5874955/image/product/2WFHPYAG.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

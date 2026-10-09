@@ -1,7 +1,7 @@
 # Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu
 
 > Product ID `60036` · Digistore24 productId `738823` · [HTML profile page](../../reviews/berufswahl-im-zeitalter-von-ki-und-robotik-60-berufe-im-zu-60036.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Berufswahl
+- **Headline (H1):**
+  > 29,99€
+- **Section headlines (H3):**
+  - Your web browser is old and not fully supported.
+  - For a better experience, please use a modern browser:
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > KI schreibt Texte. Roboter arbeiten in Fabriken. Fahrzeuge fahren zunehmend automatisiert. Software analysiert Daten in Sekunden.
+  > Und mittendrin stehen Jugendliche vor einer der wichtigsten Entscheidungen ihres Lebens:
+  > Eine Ausbildung im Handwerk? Ein Beruf im Büro? Pflege oder Medizin? IT? Industrie? Logistik? Oder doch ein Studium?
+  > Die Berufswahl war noch nie einfach. Doch heute kommt eine völlig neue Frage hinzu:
+- **Questions the sales page answers:**
+  - Welchen Beruf soll ich wählen?
+  - Was können KI und Robotik übernehmen – und welche Aufgaben bleiben beim Menschen?
+- **Page word count:** 805
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

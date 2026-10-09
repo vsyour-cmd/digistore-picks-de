@@ -1,7 +1,7 @@
 # 100 Master-Prompts für HR-KI-Compliance
 
 > Product ID `59695` · Digistore24 productId `649031` · [HTML profile page](../../reviews/100-master-prompts-f-r-hr-ki-compliance-59695.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 100 Master Prompts EU AI Act Compliance für HR Anti Bias Audit Trails und Eignungsprüfung - Digistore24
+- **OG title:** 100 Master Prompts EU AI Act Compliance für HR Anti Bias Audit Trails und Eignungsprüfung
+- **Section headlines (H2):**
+  - 100 Master-Prompts für HR-KI-Compliance – EU AI Act 2026/2027
+  - 100 Master-Prompts für HR-KI-Compliance – EU AI Act 2026/2027
+  - 100 Master-Prompts für HR-KI-Compliance – EU AI Act 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für HR, Recruiting, Anti-Bias-Prüfung, Eignungsbewertung, Transparenz und Audit-Trails. Dieses digitale Repository unterstützt HR-Manager, Recruiting-Teams, Compliance-Verantwortliche, Legal Teams und interne Revisionen dabei, KI-gestützte HR-Prozesse strukturierter, transparenter und nachvollziehbarer zu dokumentieren.
+  > Sie erhalten 100 sofort nutzbare Master-Prompts für typische HR-Compliance-Aufgaben rund um Stellenanzeigen, Bias-Prüfung, Bewerberkommunikation, Eignungstests, Performance-Bewertungen, Human Oversight, Datenschutz, Risikomanagement, interne Schulung und KI-Governance.
+  > Das Repository ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre konkreten Unternehmensdaten, Rollen, Prozesse, HR-Tools, Prüffragen oder Fallinformationen.
+  > Der erzeugte Output sollte anschließend fachlich geprüft, angepasst und mit Datum, Version, genutztem KI-System, Verantwortlichem und Freigabe intern dokumentiert werden. So entsteht Schritt für Schritt eine nachvollziehbare Arbeits- und Prüfgrundlage für Ihre HR-KI-Compliance.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2045
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/GR95ZF48.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

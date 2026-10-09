@@ -1,7 +1,7 @@
 # 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin
 
 > Product ID `59698` · Digistore24 productId `731126` · [HTML profile page](../../reviews/1-1-intensivbegleitung-f-r-mentale-gesundheit-von-coachin-59698.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Sonja Holzweiler — Mentale Gesundheit & Coaching
+- **Final URL after redirects:** https://sonja-holzweiler.de/
+- **Headline (H1):**
+  > Mental gestärkt zurück in dein eigenes Leben .
+- **Section headlines (H2):**
+  - Mein Weg
+  - Vielleicht kennst du das...
+  - Du möchtest nicht länger allein herausfinden, wie du wieder zu dir findest?
+  - Mein Werdegang
+  - Als ich nicht mehr sprach, war alles gesagt
+  - Was ich anbiete
+  - Leistungen & Preise
+  - Lass uns sprechen
+  - Impressum
+- **CTA button texts:** "Order now"
+- **Opening copy (first paragraphs):**
+  > Ich begleite Menschen nach Krise oder Krankheit auf ihrem Weg zurück zu sich selbst — mit Empathie, echter Erfahrung und Methoden, die wirken: wingwave®, EFT und mentales Coaching.
+  > 2015 lag ich mit einer Meningitis fast vier Wochen im Koma. Danach durfte ich alles neu erlernen — selbstständig atmen, sprechen, laufen. Schritt für Schritt, jeden Abend visualisiert, jeden Schritt geschafft.
+  > Seitdem weiß ich: Fast alles wird über unser Unterbewusstsein gesteuert. Und ich weiß, dass nicht jeder Mensch in der Krise jemanden an seiner Seite hat, der ihn hält. Deshalb gehe ich diesen Weg jetzt mit anderen — aus der Krise oder nach schwerer Krankheit heraus, zurück in ein selbstbestimmtes Leben.
+  > Ich nehme Sie ernst. Vielleicht kennst du das... Ich bin auch schon 100 Tage in deinen Schuhen gelaufen. Diese Seite ist für dich, wenn du...
+- **Page word count:** 880
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

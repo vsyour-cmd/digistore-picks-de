@@ -1,7 +1,7 @@
 # Wandern Auf Teneriffa Mit Kindern Für Anfänger
 
 > Product ID `60430` · Digistore24 productId `743903` · [HTML profile page](../../reviews/wandern-auf-teneriffa-mit-kindern-f-r-anf-nger-60430.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** WANDERN AUF TENERIFFA MIT KINDERN FÜR ANFÄNGER - Digistore24
+- **OG title:** WANDERN AUF TENERIFFA MIT KINDERN FÜR ANFÄNGER
+- **Section headlines (H2):**
+  - Wandern Auf Teneriffa Mit Kindern Für Anfänger
+  - (Wanderführer)
+  - (Druckbare PDF-Datei)
+  - Entdecke Teneriffa gemeinsam mit deinen Kindern – mit abwechslungsreichen Wanderungen, beeindruckenden Naturlandschaften und unvergesslichen Familienmomenten!
+  - --------------
+  - ---------------
+  - Was dich in diesem Wanderführer erwartet
+  - Warum dieser Wanderführer ideal für Familien ist
+  - Für wen ist dieses E-Book geeignet?
+  - Macht euren Teneriffa-Urlaub zu einem gemeinsamen Abenteuer!
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Entdecke Teneriffa gemeinsam mit deinen Kindern – mit abwechslungsreichen Wanderungen, beeindruckenden Naturlandschaften und unvergesslichen Familienmomenten!
+  > Du möchtest Teneriffa nicht nur vom Strand aus erleben, sondern mit deinen Kindern die faszinierende Natur der Insel entdecken? Du träumst von familienfreundlichen Wanderwegen, spannenden Vulkanlandschaften, wunderschönen Aussichtspunkten und kleinen Abenteuern abseits der üblichen Touristenpfade?
+  > Gleichzeitig fragst du dich, welche Wanderungen für Kinder geeignet sind, wie lang eine Tour sein sollte und worauf du achten musst, damit euer Familienausflug sicher und entspannt bleibt?
+  > Mit „ Wandern auf Teneriffa mit Kindern für Anfänger “ erhältst du einen praktischen Begleiter für eure Familienabenteuer. Entdecke 80 abwechslungsreiche Wanderungen und erfahre, wie du eure Ausflüge passend zum Alter, zur Kondition und zu den Interessen deiner Kinder planen kannst.
+- **Questions the sales page answers:**
+  - Für wen ist dieses E-Book geeignet?
+- **Page word count:** 2691
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/BGDMNW11.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

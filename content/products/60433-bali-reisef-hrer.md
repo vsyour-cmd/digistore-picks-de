@@ -1,7 +1,7 @@
 # Bali Reiseführer
 
 > Product ID `60433` · Digistore24 productId `743944` · [HTML profile page](../../reviews/bali-reisef-hrer-60433.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Bali Reiseführer - Digistore24
+- **OG title:** Bali Reiseführer
+- **Section headlines (H2):**
+  - Bali Reiseführer
+  - 122 Things To Do in Bali, Inklusive Insider-Tipps für Nusa Penida, Lombok und die Gilis
+  - (Wanderführer)
+  - (Druckbare PDF-Datei)
+  - Mit dem neuen Bali Reiseführer von Indojunkie wird dein Bali Urlaub unvergesslich!
+  - --------------
+  - --------------
+  - #Bonus 1:
+  - (Druckbare PDF-Datei)
+  - #Bonus 2:
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mit dem neuen Bali Reiseführer von Indojunkie wird dein Bali Urlaub unvergesslich!
+  > Die 2. Auflage des beliebten Insider-Reiseführer über Bali umfasst 122 Tipps in 12 Kapiteln auf knapp 400 Seiten und ist der perfekte Begleiter, um die schönsten, authentischsten & abenteuerlichsten Ecken von Bali zu erkunden.
+  > Viele Aktivitäten und Tipps liegen abseits vom Touristentrubel und sind so in keinem anderen Bali Reiseführer zu finden.
+  > 122 Things to Do in Bali enthält ausgewählte Reisetipps, die von den Indojunkie-Autorinnen mit viel Zeit und Liebe persönlich getestet wurden, um deinen Bali-Urlaub einzigartig zu machen:
+- **Page word count:** 1070
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/57D2RWUN.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Lieferkettensicherheit – Awareness-Mission
 
 > Product ID `60109` · Digistore24 productId `735346` · [HTML profile page](../../reviews/lieferkettensicherheit-awareness-mission-60109.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Lieferkettensicherheit – Cyber-Drill auf Deutsch | Paragamix
+- **Meta description:** Browserbasierte SaaS-Software für interaktives Entscheidungstraining zur Lieferkettensicherheit. Digitaler Zugang für 1,99 € netto je Person.
+- **Headline (H1):**
+  > Lieferkette unter Druck.
+- **Section headlines (H2):**
+  - Das bringt es Ihrem Unternehmen
+  - Diese digitalen Leistungsbestandteile erhalten Sie.
+  - Das übt Ihr Team.
+  - Software und Zugang
+  - Dienstleister sicher einbinden.
+  - Angebot
+  - Unternehmen
+  - Rechtliches
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735346
+- **Opening copy (first paragraphs):**
+  > Ein Dienstleister verlangt dringend Zugang oder Kundendaten. Würde Ihr Team die Anfrage richtig prüfen?
+  > „Lieferkette unter Druck“ ist browserbasierte SaaS-Software. Ihr Team trifft darin Entscheidungen zu Ansprechpartnern, Berechtigungen, Datenfreigaben und verdächtigen Anfragen entlang der Lieferantenbeziehung.
+  > Vorfälle intern melden, Notbetrieb und Kundeninformation abstimmen, Zugänge zum Vertragsende schließen.
+  > Verkauft wird ausschließlich der zeitlich befristete Zugang zu einer browserbasierten SaaS-Software. Es gibt keine zusätzliche persönliche Dienstleistung und kein separates Downloadprodukt.
+- **Page word count:** 354
+- **OG image:** https://www.paragamix.com/assets/supply-chain-960.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

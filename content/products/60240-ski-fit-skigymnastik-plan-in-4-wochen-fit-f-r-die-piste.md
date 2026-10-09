@@ -1,7 +1,7 @@
 # Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
 
 > Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../reviews/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Ski-fit – In 4 Wochen fit für die Piste - Blitzferien
+- **OG title:** Ski-fit – In 4 Wochen fit für die Piste
+- **Meta description:** Skigymnastik ohne Geräte: Kraft, Balance und Ausdauer für den Skiurlaub – der 4-Wochen-Plan von Blitzferien als PDF, 20–30 Minuten pro Workout.
+- **Headline (H1):**
+  > Ski-fit – in 4 Wochen fit für die Piste
+- **Section headlines (H2):**
+  - Tag 3 im Skiurlaub: die Beine brennen
+  - Alles für deinen Skiurlaub – auf 20 Seiten
+  - So sieht dein Plan aus
+  - Starte jetzt – die Saison kommt
+  - Gut zu wissen
+  - Hol dir die Packlisten-Checkliste 🎁
+- **Opening copy (first paragraphs):**
+  > Kräftige Oberschenkel, stabile Knie, gute Balance und ein starker Rumpf – trainiert zu Hause, ohne Fitnessstudio. Damit deine Beine nicht schon am dritten Skitag streiken.
+  > Kennst du das? Tag 3 im Skiurlaub: die Beine brennen Skifahren fordert Muskeln, die im Alltag kaum arbeiten. Wer untrainiert startet, hat schnell schwere Beine – und am Nachmittag passieren die meisten Stürze. Mit vier Wochen gezielter Vorbereitung hast du mehr Kraft, mehr Kontrolle und mehr Spaß im Schnee.
+  > Das steckt drin Alles für deinen Skiurlaub – auf 20 Seiten 01 4 aufbauende Wochen Je 3 Workouts (A: Beine & Kraft, B: Balance & Sprungkraft, C: Ganzkörper & Rumpf) à 20–30 Minuten.
+  > 10 Übungen wie Wandsitz, Skater-Sprünge und einbeiniges Kreuzheben – mit leichter und schwerer Variante.
+- **Page word count:** 713
+- **OG image:** https://blitzferien.de/wp-content/uploads/2026/09/blitzferien-hero.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

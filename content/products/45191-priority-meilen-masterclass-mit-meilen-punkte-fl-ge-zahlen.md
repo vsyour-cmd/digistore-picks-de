@@ -1,7 +1,7 @@
 # Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen
 
 > Product ID `45191` · Digistore24 productId `515126` · [HTML profile page](../../reviews/priority-meilen-masterclass-mit-meilen-punkte-fl-ge-zahlen-45191.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** priority-meilen.de — 14 referring domains | ED.com
+- **Meta description:** priority-meilen.de is a descriptive 15-character .de domain available for buy. Listed at $100 — secure it before someone else does.
+- **Final URL after redirects:** https://expireddomains.com/domain/priority-meilen.de?utm_source=redi
+- **Headline (H1):**
+  > Priority-Meilen .de
+- **Section headlines (H2):**
+  - Why Priority-Meilen.de is worth it
+  - What makes Priority-Meilen.de worth owning
+  - Full SEO & authority breakdown
+  - Why GoDaddy?
+- **Price mentions on page:** $100, $34, $0.00
+- **Opening copy (first paragraphs):**
+  > 15 characters A short, memorable, established domain ready to power your brand. Backed by 14 referring domains.
+  > Sign in to view authority score Established backlink profile with 14 unique referring domains.
+  > Smart investment Premium .de extension on a name that's instantly understandable — a defensible asset that holds value over time.
+  > Real traffic potential Demand signals indicate strong ranking potential out of the box.
+- **Page word count:** 422
+- **OG image:** https://new.expireddomains.com/api/public/og/priority-meilen.de
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

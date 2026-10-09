@@ -1,7 +1,7 @@
 # Digitale Ordnung für Dateien und E-Mails
 
 > Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../reviews/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,15 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Landingpage Digitale Ordnung
+- **Section headlines (H2):**
+  - Digitale Ordnung – Schritt für Schritt zu mehr Überblick
+- **Opening copy (first paragraphs):**
+  > Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website zu verbessern.
+  > Essentielle Cookies ermöglichen grundlegende Funktionen und sind für das ordnungsgemäße Funktionieren der Website erforderlich.
+  > Schluss mit einem überfüllten Desktop, chaotischen Downloads und Dateien, die du nicht mehr wiederfindest.
+  > In diesem kompakten Onlinekurs entwickelst du Schritt für Schritt ein einfaches Ordnungssystem, das zu dir und deinem Alltag passt – verständlich erklärt und ohne besondere technische Vorkenntnisse.
+- **Page word count:** 517
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

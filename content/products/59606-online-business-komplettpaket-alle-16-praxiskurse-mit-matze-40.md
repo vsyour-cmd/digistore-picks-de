@@ -1,7 +1,7 @@
 # Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %
 
 > Product ID `59606` · Digistore24 productId `736582` · [HTML profile page](../../reviews/online-business-komplettpaket-alle-16-praxiskurse-mit-matze-40-59606.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online Business aufbauen – 16 Praxiskurse mit Matze - Digistore24
+- **OG title:** Online Business aufbauen – 16 Praxiskurse mit Matze
+- **Section headlines (H2):**
+  - Schluss mit dem Rätselraten: Finde deinen Weg ins Online Business
+  - Schluss mit dem Rätselraten: Finde deinen Weg ins Online Business
+  - Schluss mit dem Rätselraten: Finde deinen Weg ins Online Business
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > 16 deutschsprachige Praxiskurse, ein klarer Einstieg und viele Wege zur eigenen Idee – jetzt als Komplettpaket für 999 €.
+  > Du siehst überall neue Möglichkeiten, online etwas Eigenes aufzubauen – aber welche passt zu dir? Statt von Video zu Video zu springen, kannst du mit dieser Bibliothek Themen vergleichen, einen Schwerpunkt auswählen und deine nächsten Schritte schriftlich planen. Von digitalen Produkten über Content und Affiliate-Marketing bis zu KDP und FBA.
+  > Dein nächster Schritt: Wähle einen Ansatz, bearbeite die passenden Lektionen und nutze Arbeitsmappen und Vorlagen, um Angebot, Inhalte und offene Fragen festzuhalten. Du musst nicht alle 16 Kurse gleichzeitig durcharbeiten.
+  > Nach dem Kauf: Du erhältst Zugriff auf zehn Dateien im Digistore24-Download-Tresor: das Werkstatt-ZIP mit sieben Kursen und Zusatzmaterialien, sieben weitere Kurs-ZIPs, ein Affiliate-Marketing-ZIP und den Digistore24-PDF-Praxiskurs. Schriftliche PDF-Lektionen, Arbeitsmappen und bearbeitbare Vorlagen. 999 € inkl. MwSt. als Einmalzahlung; kein Abo.
+- **Page word count:** 951
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1833505/image/product/U8E0MJUN.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

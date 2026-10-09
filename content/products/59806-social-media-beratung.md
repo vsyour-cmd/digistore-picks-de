@@ -1,7 +1,7 @@
 # Social Media Beratung
 
 > Product ID `59806` · Digistore24 productId `736759` · [HTML profile page](../../reviews/social-media-beratung-59806.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Social Media Beratung - Digistore24
+- **OG title:** Social Media Beratung
+- **Headline (H1):**
+  > SOCIAL MEDIA ERFOLGREICH AUFBAUEN
+  > SOCIAL MEDIA ERFOLGREICH AUFBAUEN
+  > SOCIAL MEDIA ERFOLGREICH AUFBAUEN
+- **Section headlines (H2):**
+  - Dein praktischer Guide für besseren Content, mehr Struktur und einen professionellen Social-Media-Auftritt.
+  - Dein praktischer Guide für besseren Content, mehr Struktur und einen professionellen Social-Media-Auftritt.
+  - Dein praktischer Guide für besseren Content, mehr Struktur und einen professionellen Social-Media-Auftritt.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du möchtest Instagram oder TikTok professioneller nutzen, weißt aber nicht genau, welche Inhalte du posten solltest, wie du bessere Videos erstellst oder warum deine Beiträge kaum Aufmerksamkeit bekommen?
+  > Dieses E-Book zeigt dir Schritt für Schritt, wie du deinen Social-Media-Auftritt strukturierst und deinen Content gezielt verbessern kannst.
+  > Du möchtest Instagram oder TikTok professioneller nutzen, weißt aber nicht genau, welche Inhalte du posten solltest, wie du bessere Videos erstellst oder warum deine Beiträge kaum Aufmerksamkeit bekommen?
+  > Dieses E-Book zeigt dir Schritt für Schritt, wie du deinen Social-Media-Auftritt strukturierst und deinen Content gezielt verbessern kannst.
+- **Page word count:** 338
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5919771/image/product/GKTCJW22.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

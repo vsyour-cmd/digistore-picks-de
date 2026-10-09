@@ -1,7 +1,7 @@
 # Schamanisches Trommeln Videokurs
 
 > Product ID `27658` · Digistore24 productId `255743` · [HTML profile page](../../reviews/schamanisches-trommeln-videokurs-27658.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Tiefer Erleben durch schamanisches Trommeln
+- **Meta description:** Stärke Deine Verbindung mit Himmel und Erde durch schamanisches Trommeln. Diese authentische Form des Trommelns lässt Dich Geborgenheit erleben und fühlen.
+- **Headline (H1):**
+  > Schamanisches Trommeln lernen - Videokurs
+- **Section headlines (H2):**
+  - Kurs: Schamanisches Trommeln
+  - Schamanisches Trommeln lernen, alle notwendigen Techniken in einem Kurs
+  - Wer kann schamanisches Trommeln lernen?
+  - Warum schamanisches Trommeln lernen?
+  - Zufriedenheitsgarantie
+  - Wie bekommst Du den Kurs?
+  - Obertonmusik und Ritualmusik im Trommelkreis erfahren
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/255743
+- **Opening copy (first paragraphs):**
+  > Tiefer Erleben durch schamanisches Trommeln SCHAMANENZENTRUM MUSIKHIMMEL Schaman Gerbert Hintergrund Bilder Jurtenaufbau Maultrommelmuseum Veranstaltungen, Workshops, Seminare, Konzerte, Termine: Aktuelle Termine Ausbildung Schamanenausbildung Einzelsitzung Masterclass Schamanenmusik 3-5 Tages-Retreat Schamanenabend Hilfe bei Burnout Schamanisches Trommeln Sonstiges Presse Feedback Blog © Herbert Wagner 2004-2023 Stand 12.01.2023 Schamanisches Trommeln lernen - Videokurs
+- **Page word count:** 921
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

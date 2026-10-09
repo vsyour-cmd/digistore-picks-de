@@ -1,7 +1,7 @@
 # Rente leicht gemacht – Ratgeber und Renten-Rechner
 
 > Product ID `60317` · Digistore24 productId `708799` · [HTML profile page](../../reviews/rente-leicht-gemacht-ratgeber-und-renten-rechner-60317.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Rente leicht gemacht – Ratgeber + Renten-Rechner - Digistore24
+- **OG title:** Rente leicht gemacht – Ratgeber + Renten-Rechner
+- **Section headlines (H3):**
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Wann können Sie in Rente gehen, wie viel bleibt netto, und lohnt sich ein früherer Beginn? Dieser Ratgeber erklärt Ihnen die gesetzliche Rente verständlich und Schritt für Schritt, mit allen Werten für 2026.
+  > Das erwartet Sie: → Rentenpunkte und Rentenwert 2026 verständlich erklärt → Wann Sie in Rente gehen können, nach Geburtsjahr → Brutto, netto und Steuern auf die Rente → Früher oder später: Abschläge, Zuschläge und die neue Aktivrente → Mütterrente III, Grundrente und Witwenrente → 4 Musterbriefe und ein interaktiver Renten-Rechner
+  > Lieferumfang: Sie erhalten den Ratgeber „Rente leicht gemacht“ als PDF (18 Seiten, Stand Oktober 2026) und den Renten-Rechner zum Öffnen im Browser.
+  > Auslieferung: Das Produkt wird ausschließlich digital ausgeliefert. Nach der Bezahlung erhalten Sie den Download direkt auf der Bestätigungsseite und zusätzlich per E-Mail. Es wird kein physisches Produkt verschickt.
+- **Questions the sales page answers:**
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 2021
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/ZMZ3IF3E.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

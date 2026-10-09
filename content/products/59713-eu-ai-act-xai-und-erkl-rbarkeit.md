@@ -1,7 +1,7 @@
 # EU AI Act – XAI und Erklärbarkeit
 
 > Product ID `59713` · Digistore24 productId `652470` · [HTML profile page](../../reviews/eu-ai-act-xai-und-erkl-rbarkeit-59713.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026 (Unternehmer Edition) - Digistore24
+- **OG title:** EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026 (Unternehmer Edition)
+- **Section headlines (H2):**
+  - EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026/2027
+  - EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026/2027
+  - EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Erklärbarkeit wird für den professionellen Einsatz von KI-Systemen immer wichtiger. Unternehmen, die KI-Modelle, automatisierte Bewertungen, Entscheidungsunterstützung, Prognosesysteme oder externe KI-Dienste einsetzen, sollten nachvollziehbar dokumentieren können, warum ein Modell bestimmte Ausgaben erzeugt und welche Faktoren den Output beeinflusst haben.
+  > Dieses Compliance Pack hilft Selbstständigen, kleinen Unternehmen, Softwareanbietern, IT-Teams, Agenturen und digitalen Dienstleistern dabei, KI-Ausgaben verständlicher, prüfbarer und besser dokumentierbar zu machen – mit klaren Vorlagen, Checklisten, Erklärprozessen und Auditstrukturen.
+  > Die enthaltenen Vorlagen sind als kopierbarer Text im PDF angelegt. Sie können die benötigten Abschnitte markieren, kopieren und in Word, Google Docs, LibreOffice oder Ihr internes Dokumentationssystem einfügen.
+  > Danach ergänzen Sie Ihre eigenen Unternehmensdaten, KI-Systeme, Modellversionen, Outputs, Einflussfaktoren, Plausibilitätsprüfungen, Risiken, Fehlinterpretationen und Freigaben. So entsteht Schritt für Schritt eine nachvollziehbare Erklärbarkeits-Dokumentation Ihrer KI-Ausgaben.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Compliance Pack geeignet?
+- **Page word count:** 1965
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/UA6CELOW.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

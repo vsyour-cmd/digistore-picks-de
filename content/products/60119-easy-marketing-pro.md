@@ -1,7 +1,7 @@
 # Easy Marketing PRO
 
 > Product ID `60119` · Digistore24 productId `740180` · [HTML profile page](../../reviews/easy-marketing-pro-60119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Easy Marketing PRO - Digistore24
+- **OG title:** Easy Marketing PRO
+- **Section headlines (H3):**
+  - Easy Marketing PRO
+  - Easy Marketing PRO
+  - Easy Marketing PRO
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > easy Marketing PRO – dein strukturierter Einstieg in modernes Marketing und Affiliate Marketing.
+  > In easy Marketing PRO lernst du Schritt für Schritt, wie du die Grundlagen von Marketing verstehst, eine passende Zielgruppe findest, Content entwickelst und Affiliate Marketing sinnvoll aufbaust.
+  > Du erhältst verständlich erklärte Inhalte, praktische Beispiele und konkrete Schritte, die dir zeigen, was du tun kannst, um dein eigenes Marketing-System aufzubauen.
+  > Das erwartet dich: Grundlagen des Affiliate Marketings Nische und Zielgruppe finden passende Produkte auswählen Content- und Marketingstrategie Social Media für Marketing nutzen Verkaufspsychologie und Conversion verstehen Affiliate-Links und Provisionen verstehen Datenschutz und wichtige Grundlagen praktische Umsetzung Schritt für Schritt typische Fehler vermeiden Für wen ist PRO geeignet?
+- **Page word count:** 750
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5934015/image/product/XHPHPZJZ.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

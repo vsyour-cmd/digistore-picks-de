@@ -1,7 +1,7 @@
 # Vom Zuschauer zum Spielfeldrand | Praxis-Guide
 
 > Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../reviews/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,39 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vom Zuschauer zum Spielfeldrand | DKZ Media
+- **Meta description:** Der Praxis-Guide für deinen Einstieg in die professionelle Sportfotografie.
+- **Final URL after redirects:** https://dkzmedia.com/ebook
+- **Headline (H1):**
+  > VOM ZUSCHAUER ZUM SPIELFELDRAND
+  > VOM ZUSCHAUER ZUM SPIELFELDRAND
+  > VOM ZUSCHAUER ZUM SPIELFELDRAND
+- **Section headlines (H2):**
+  - GUTE BILDER ALLEIN BRINGEN DICH NICHT AN DEN SPIELFELDRAND.
+  - GUTE BILDER ALLEIN BRINGEN DICH NICHT AN DEN SPIELFELDRAND.
+  - ICH HABE NICHT IN DER BUNDESLIGA ANGEFANGEN.
+  - ICH HABE NICHT IN DER BUNDESLIGA ANGEFANGEN.
+  - 75 SEITEN. EIN WEG VON DEN ERSTEN EINSÄTZEN BIS ZUR PROFESSIONELLEN PRESSEARBEIT.
+  - 75 SEITEN. EIN WEG VON DEN ERSTEN EINSÄTZEN BIS ZUR PROFESSIONELLEN PRESSEARBEIT.
+  - NICHT NUR THEORIE.
+  - NICHT NUR THEORIE.
+  - EIN GUTES INSTAGRAM-BILD IST NICHT AUTOMATISCH EIN GUTES PRESSEFOTO.
+  - EIN GUTES INSTAGRAM-BILD IST NICHT AUTOMATISCH EIN GUTES PRESSEFOTO.
+- **Opening copy (first paragraphs):**
+  > Du willst nicht mehr nur gute Sportbilder machen, sondern verstehen, wie du dir ein Portfolio aufbaust, an erste Einsätze kommst, Akkreditierungen anfragst und Schritt für Schritt professioneller am Spielfeldrand arbeitest? In diesem Guide zeige ich dir den Weg, den ich selbst gegangen bin.
+  > Sportfotografie wirkt von außen oft einfach. Kamera kaufen, Spiel fotografieren, Portfolio verschicken und irgendwann Bundesliga. In der Praxis kommen aber Fragen, die dir kaum jemand beantwortet: Wie bekommst du erste Einsätze? Was gehört in ein Presseportfolio? Wie schreibst du Vereine an? Wann brauchst du einen Presseausweis? Wie kommst du zu einer Agentur? Wie schnell müssen Bilder raus? Und was passiert eigentlich während eines professionellen Presse-Einsatzes? Dieser Guide setzt genau dort an.
+  > Welche Bilder wirklich in dein Sportportfolio gehören, worauf Agenturen und Redaktionen achten und warum Social-Media-Bilder nicht automatisch gute Pressebilder sind.
+  > Wie du Vereine und Pressestellen professionell kontaktierst, welche Nachweise relevant sein können und wie eine gute Akkreditierungsanfrage aufgebaut ist.
+- **Questions the sales page answers:**
+  - Was bekomme ich nach dem Kauf?
+  - Ist das ein gedrucktes Buch?
+  - Für welche Sportarten ist der Guide geeignet?
+  - Brauche ich bereits einen Presseausweis?
+  - Ist der Guide für komplette Anfänger geeignet?
+  - Wie bekomme ich das E‑Book?
+  - Wie lange kann ich das E‑Book zurückgeben?
+- **Page word count:** 1055
+- **OG image:** https://framerusercontent.com/images/yH8D8NmltPdmTe5BuiM48v4HYw.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

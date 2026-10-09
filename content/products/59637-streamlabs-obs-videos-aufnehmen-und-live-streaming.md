@@ -1,7 +1,7 @@
 # Streamlabs OBS - Videos aufnehmen und Live-Streaming
 
 > Product ID `59637` · Digistore24 productId `733804` · [HTML profile page](../../reviews/streamlabs-obs-videos-aufnehmen-und-live-streaming-59637.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Streamlabs OBS Komplettkurs - Videos aufnehmen und Live-Streaming - Digistore24
+- **OG title:** Streamlabs OBS Komplettkurs - Videos aufnehmen und Live-Streaming
+- **Section headlines (H3):**
+  - Streamlabs OBS Komplettkurs - Videos aufnehmen und Live-Streaming
+  - Streamlabs OBS Komplettkurs - Videos aufnehmen und Live-Streaming
+  - Streamlabs OBS Komplettkurs - Videos aufnehmen und Live-Streaming
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ✅ Meistere Streamlabs OBS für Videoaufnahmen und Livestreams von den Grundlagen bis zum Profi-Level
+  > ✅ Richte Overlays, Alerts und Widgets ein, die deinen Stream professionell aussehen lassen
+  > ✅ Die optimalen Einstellungen für gestochen scharfes Bild und klaren Ton ohne Ruckler
+  > ✅ Meistere Streamlabs OBS für Videoaufnahmen und Livestreams von den Grundlagen bis zum Profi-Level
+- **Page word count:** 373
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1052740/image/product/Q022I9OI.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Weihnachten leicht gemacht – E-Book zum Ausdrucken
 
 > Product ID `60375` · Digistore24 productId `742568` · [HTML profile page](../../reviews/weihnachten-leicht-gemacht-e-book-zum-ausdrucken-60375.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Weihnachten leicht gemacht – XXL - Digistore24
+- **OG title:** Weihnachten leicht gemacht – XXL
+- **Section headlines (H3):**
+  - Weihnachten leicht gemacht – XXL
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Weihnachten leicht gemacht – XXL
+  - Weihnachten leicht gemacht – XXL
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Karten, Anhänger, Gutscheine, Adventskalender, Wunschzettel: Vor Weihnachten fehlt immer irgendetwas?
+  > Mit diesem E-Book drucken Sie alles selbst, was Advent und Fest schöner macht. Die Vorlagen sind liebevoll gestaltet, mit Tannenzweigen, Schleifen und gezeichneten Figuren, in sieben Motiven vom Weihnachtsmann bis zum Schneemann.
+  > Das ist enthalten: ✔ Fahrplan bis Heiligabend und Tipps zum Drucken und Basteln ✔ 6 Weihnachtskarten zum Falten und 8 Postkarten ✔ 6 Gutscheine mit Schleife und 24 Geschenkanhänger ✔ Adventskalender: 24 Zahlen und 72 Kärtchen für Familie, Kinder und Partner ✔ Wunschzettel an Weihnachtsmann und Christkind ✔ Menükarten, Tischkarten und Briefpapier ✔ Wimpelkette „Frohe Weihnachten“ und 24 Anhänger als Baumschmuck ✔ Geschenke-Planer, Weihnachts-Budget und Einkaufsliste
+  > Gutscheine, Anhänger, Wunschzettel, Geschenke-Planer, Budget und Einkaufsliste können Sie direkt in der PDF ausfüllen, bevor Sie drucken.
+- **Questions the sales page answers:**
+  - Karten, Anhänger, Gutscheine, Adventskalender, Wunschzettel: Vor Weihnachten fehlt immer irgendetwas?
+  - Am Monatsende ist das Geld weg, und Sie wissen nicht genau, wohin?
+  - Sie wollen Ihr Jahr 2027 planen, mit den richtigen Feiertagen für Ihr Bundesland?
+- **Page word count:** 1689
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/YZ9U4Z33.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

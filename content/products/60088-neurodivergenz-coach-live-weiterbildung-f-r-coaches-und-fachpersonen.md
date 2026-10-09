@@ -1,7 +1,7 @@
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../reviews/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Neurodivergenz-Coach | Live-Weiterbildung 2026 — Neurotraining Akademie
+- **OG title:** Neurodivergenz-Coach: Live-Weiterbildung ab 30.11.2026
+- **Meta description:** Live-Weiterbildung zum Neurodivergenz-Coach: ADHS, Autismus, AuDHD und das gesamte Spektrum — 50 Stunden, 100 % live, wissenschaftlich fundiert. Start 30. November 2026, Anmeldeschluss 20. November.
+- **Headline (H1):**
+  > Mehr als Theorie — so lernst du bei der NTA
+- **Section headlines (H2):**
+  - Nach dem Programm wirst du in der Lage sein:
+  - Für wen ist dieses Programm?
+  - Mit anderen im Austausch bleiben
+- **Opening copy (first paragraphs):**
+  > Nach dem Programm Mit anderen im Austausch bleiben Diese Angebote für Absolvent:innen sind geplant und starten nach der ersten Kohorte.
+  > Geschlossene Gruppe für Absolvent:innen: fachlicher Austausch und Weiterempfehlungen untereinander, passend zum Expert:innen-Finder.
+  > Ausgewählte Studien und Fachfragen, eingeordnet und per E-Mail. Sie hält dich fachlich auf dem Laufenden und bietet Raum für Fachfragen.
+  > Ein Termin pro Monat, live online, in kleiner Runde. Fälle werden ausschließlich anonymisiert eingebracht.
+- **Questions the sales page answers:**
+  - Du fragst dich: Wo endet Coaching, wo beginnt Therapie oder Diagnostik?
+- **Page word count:** 3717
+- **OG image:** https://thb.tildacdn.net/tild6462-3561-4561-a336-306333346638/-/resize/504x/Copy_of_Copy_of_Copy.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

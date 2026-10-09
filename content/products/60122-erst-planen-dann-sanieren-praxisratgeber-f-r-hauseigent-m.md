@@ -1,7 +1,7 @@
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
 > Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../reviews/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** erst planen dann sanieren - Haus-Energieberater
+- **Headline (H1):**
+  > erst planen dann sanieren
+  > Was sanieren Sie zuerst? Und was planen Sie gleich mit?
+- **Section headlines (H2):**
+  - Sie wissen, was am Haus ansteht. Aber noch nicht, wie die Schritte zusammenpassen.
+  - Neue Fenster jetzt. Die Fassadendämmung später.
+  - Verständliche Orientierung. Und Vorlagen für Ihre nächsten Schritte.
+  - So wird aus dem Lesen eine konkrete Vorbereitung.
+  - Vom Überblick zum nächsten Fachgespräch.
+  - Erst planen, dann sanieren
+  - Passt der Ratgeber zu Ihrem Vorhaben?
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/740513
+- **Opening copy (first paragraphs):**
+  > Neue Fenster, ein neues Dach oder eine Wärmepumpe: Jede Maßnahme kann sinnvoll sein. Doch wie passen die Schritte zusammen? Finden Sie heraus, welche Fragen Sie vor dem ersten Auftrag klären sollten.
+  > Dieser Ratgeber setzt dort an, wo einzelne Angebote noch keinen Gesamtplan ergeben.
+  > Dach, Fenster und Heizung sind älter. Sie möchten unterscheiden, was dringend geprüft werden muss und welche Maßnahmen gemeinsam geplant werden sollten.
+  > Sie möchten neue Fenster, eine Wärmepumpe oder PV. Gleichzeitig wissen Sie, dass weitere Arbeiten folgen. Was gehört deshalb schon in den heutigen Auftrag?
+- **Page word count:** 1189
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

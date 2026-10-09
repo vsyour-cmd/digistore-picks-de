@@ -1,7 +1,7 @@
 # Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen
 
 > Product ID `59425` · Digistore24 productId `735303` · [HTML profile page](../../reviews/projektpreis-projekte-kalkulieren-puffer-und-marge-verstehen-59425.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Projektpreis – Download-App für Selbstständige - Digistore24
+- **OG title:** Projektpreis – Download-App für Selbstständige
+- **Section headlines (H2):**
+  - Dein nächstes Angebot. Sauber kalkuliert.
+  - Dein nächstes Angebot. Sauber kalkuliert.
+  - Dein nächstes Angebot. Sauber kalkuliert.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Projektpreis hilft Selbstständigen mit projektbasierten Dienstleistungen, Arbeitsaufwand, Fremdkosten und Puffer in einen nachvollziehbaren Nettopreis zu übersetzen.
+  > Ein ZIP mit der lokalen HTML-App „Projektpreis.html“ und einer ausführlichen Startanleitung als Textdatei. Drei fiktive Beispielprojekte helfen beim Einstieg. Du erhältst keine native App aus einem App-Store.
+  > Nach bestätigter Zahlung das ZIP herunterladen, entpacken und die HTML-Datei in einem aktuellen Browser auf deinem Computer öffnen. Die Berechnung läuft lokal ohne Konto, KI-Zugang oder Cloud-Verbindung. Eigene Projekte werden manuell als JSON-Datei gespeichert. Es gibt keine automatische Speicherung.
+  > 14 Stunden × 50 Euro interner Vollkostensatz, 15 % Zeitpuffer auf die Arbeitskosten und 80 Euro Fremdkosten ergeben 885 Euro kalkulierte Kosten. Bei 20 % Zielmarge beträgt der Projektpreis 1.106,25 Euro netto. Zielmarge ist der Anteil des rechnerischen Überschusses am Verkaufspreis, nicht der Aufschlag auf Kosten. Die Beispielwerte sind keine empfohlenen Marktpreise.
+- **Page word count:** 1090
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5910800/image/product/0INNLAPP.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

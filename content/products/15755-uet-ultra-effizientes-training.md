@@ -1,7 +1,7 @@
 # UET - Ultra Effizientes Training
 
 > Product ID `15755` · Digistore24 productId `118627` · [HTML profile page](../../reviews/uet-ultra-effizientes-training-15755.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Willkommen! - UET
+- **Headline (H1):**
+  > UET - Ultra Effizientes Training .
+  > ► Video starten!
+  > Kommt dir das bekannt vor ?
+- **Section headlines (H3):**
+  - Das kannst auch du in 6 Minuten erreichen!
+  - 6 Minuten Training
+  - die effizientesten Übungen
+  - für deinen Traumkörper
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/118627
+  - https://www.digistore24.com/redir/22481/MVGVerlag/d3d3LnVldC1wcm9ncmFtbS5kZQ==
+- **Opening copy (first paragraphs):**
+  > Investiere jeden Tag 6 Minuten und du bekommst dafür den Körper, von dem du immer geträumt hast!
+  > Deine tägliche Trainingseinheit besteht aus 4 Übungen. Diese sind so konzipiert, dass sie einen maximalen Trainingsreiz bewirken. Jeden Tag steht eine andere Körperpartie auf dem Programm, damit dein Muskelwachstum durch die Split-Superkompensation optimal ausgereizt wird. Du trainierst dabei auschließlich mit dem eigenen Körpergewicht und kannst jede Übung problemlos bei dir zuhause durchführen.
+  > » UET « steht für Ultra Effizientes Training. Wie der Name bereits verrät, hat dieses Programm ein klares Ziel:
+  > Viele Fitnessprogramme sind zeitlich nicht mit Job und Familie vereinbar. Das ist bei UET anders! Hier bekommst du einen stressigen Alltag, deine Portion Sport und deinen Traumkörper locker unter einen Hut!
+- **Page word count:** 886
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

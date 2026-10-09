@@ -1,7 +1,7 @@
 # GewerkFlow – 50 % Affiliate-Provision zum Start
 
 > Product ID `60247` · Digistore24 productId `740967` · [HTML profile page](../../reviews/gewerkflow-50-affiliate-provision-zum-start-60247.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** GewerkFlow – Sechs Programme. Eine Plattform.
+- **Meta description:** GewerkFlow, GewerkGlas, GewerkWeb, GewerkMobil, GewerkLearn und GewerkStart bilden die Gewerk-Produktfamilie.
+- **Final URL after redirects:** https://gewerkflow.com/
+- **Headline (H1):**
+  > Eine starke Zukunft für das Handwerk.
+- **Section headlines (H2):**
+  - Sechs Programme mit klaren Aufgaben.
+  - Einfach kalkulierbar. Monat für Monat.
+  - Vom ersten Interesse bis zum eigenen Betrieb.
+  - Die passende Lösung für deine Aufgabe.
+  - Finde deinen nächsten Schritt.
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > GEWERK · SECHS PROGRAMME Eine starke Zukunft für das Handwerk. GewerkFlow, GewerkGlas, GewerkWeb, GewerkMobil, GewerkLearn und GewerkStart bilden die klare Gewerk-Produktfamilie. Keine unübersichtliche Sammlung kleiner Kaufprogramme mehr.
+  > Jedes Programm hat einen nachvollziehbaren Zweck. Die Funktionen innerhalb von GewerkFlow sind im Flow-Abo enthalten und werden nicht mehr als eigene Programme verkauft.
+  > Kunden, Projekte, Angebote, Rechnungen, HR, Mitarbeiter-App, Planung und Außendienst.
+  > Lernen, Üben und Prüfungsvorbereitung. GewerkLearn öffnen → ↗ GewerkStart Nachwuchs, Praktika und Ausbildungsplätze.
+- **Page word count:** 644
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

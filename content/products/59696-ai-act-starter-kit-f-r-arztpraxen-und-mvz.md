@@ -1,7 +1,7 @@
 # AI Act Starter-Kit für Arztpraxen und MVZ
 
 > Product ID `59696` · Digistore24 productId `649020` · [HTML profile page](../../reviews/ai-act-starter-kit-f-r-arztpraxen-und-mvz-59696.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Arztpraxen MVZ AI Act Starter Kit: 105 Master Prompts für Hochrisiko KI Compliance - Digistore24
+- **OG title:** Arztpraxen MVZ AI Act Starter Kit: 105 Master Prompts für Hochrisiko KI Compliance
+- **Section headlines (H2):**
+  - Arztpraxen & MVZ AI Act Starter-Kit 2026/2027 – 105 Master-Prompts für medizinische KI-Compliance
+  - Arztpraxen & MVZ AI Act Starter-Kit 2026/2027 – 105 Master-Prompts für medizinische KI-Compliance
+  - Arztpraxen & MVZ AI Act Starter-Kit 2026/2027 – 105 Master-Prompts für medizinische KI-Compliance
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für Arztpraxen, MVZ und medizinische Einrichtungen, die KI-Systeme im Praxisalltag strukturiert, transparent und nachvollziehbar einsetzen möchten. Dieses digitale Starter-Kit unterstützt Praxisleitungen, Ärztinnen und Ärzte, MVZ-Verantwortliche, Praxismanager, Datenschutzverantwortliche und medizinisches Fachpersonal bei der internen Vorbereitung auf KI-Governance, Human Oversight, Patiententransparenz, Schulung und Dokumentation.
+  > Sie erhalten 105 sofort nutzbare Master-Prompts für typische Aufgaben rund um medizinische KI-Nutzung, menschliche Aufsicht, Logbuchstruktur, Audit-Trails, Schulungsinhalte für Mitarbeitende, Notfallabläufe, Patienteninformation und interne KI-Prozesse.
+  > Das Starter-Kit ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre konkreten Praxisdaten, Systemnamen, Verantwortlichkeiten, Prozesse, Kontaktwege oder medizinischen Anwendungsbereiche.
+  > Der erzeugte Output sollte anschließend fachlich geprüft, medizinisch bewertet, datenschutzrechtlich eingeordnet und intern freigegeben werden. Dokumentieren Sie bei compliance-relevanter Nutzung mindestens Prompt, Output, Datum, genutztes KI-System, Version, Zweck, verantwortliche Person, Prüfschritt und Freigabe.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2170
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/MMFH5DAT.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

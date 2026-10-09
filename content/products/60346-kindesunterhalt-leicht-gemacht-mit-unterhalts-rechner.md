@@ -1,7 +1,7 @@
 # Kindesunterhalt leicht gemacht – mit Unterhalts-Rechner
 
 > Product ID `60346` · Digistore24 productId `741737` · [HTML profile page](../../reviews/kindesunterhalt-leicht-gemacht-mit-unterhalts-rechner-60346.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner - Digistore24
+- **OG title:** Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+- **Section headlines (H3):**
+  - Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+  - Elterngeld leicht gemacht – Ratgeber als PDF
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+  - Kindesunterhalt leicht gemacht – Ratgeber + Unterhalts-Rechner
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+  - Elterngeld leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt den Kindesunterhalt Schritt für Schritt: Düsseldorfer Tabelle 2026, Kindergeld, Einkommen, Selbstbehalt und Durchsetzung. Als Beilage erhalten Sie den Unterhalts-Rechner: eine Datei, die den Unterhalt für bis zu acht Kinder berechnet. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Wer zahlt, wer betreut ✔ Die vollständige Düsseldorfer Tabelle 2026 ✔ Kindergeld und Zahlbetrag, mit Beispielen ✔ Das Einkommen richtig ermitteln ✔ Selbstbehalt und Mangelfall ✔ Mehrbedarf und Sonderbedarf ✔ Volljährige Kinder und Ausbildung ✔ Unterhalt durchsetzen, Unterhaltsvorschuss ✔ Checkliste und Musterschreiben
+  > ✔ Rechnet nach der Düsseldorfer Tabelle 2026 ✔ Für bis zu acht Kinder ✔ Zeigt Tabellenbetrag, Kindergeldabzug und Zahlbetrag je Kind ✔ Prüft Kontrollbetrag und Selbstbehalt ✔ Rechnet den Mangelfall ✔ Ergebnis als PDF zum Ausdrucken
+  > Wichtig: Die Düsseldorfer Tabelle ist eine Richtlinie. Gerichte weichen im Einzelfall ab. Der Rechner berechnet keinen Unterhalt für den früheren Partner und keine Aufteilung zwischen beiden Eltern.
+- **Questions the sales page answers:**
+  - Wie viel Unterhalt steht dem Kind zu, und was muss dem Zahlenden bleiben?
+  - Sie arbeiten, aber das Geld reicht für die Familie kaum?
+  - Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+- **Page word count:** 1969
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/B64SBX4P.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Love-Scamming erkennen – Online-Dating ab 50
 
 > Product ID `59967` · Digistore24 productId `738058` · [HTML profile page](../../reviews/love-scamming-erkennen-online-dating-ab-50-59967.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** IST DAS WIRKLICH LIEBE? – Love-Scam-Check für Online-Dating ab 50
+- **Meta description:** Praxisratgeber als PDF: Love-Scamming erkennen, Fake-Profile prüfen, KI-Betrug durchschauen und Geldforderungen richtig einschätzen.
+- **Headline (H1):**
+  > Ist das wirklich Liebe – oder steckt ein Betrüger dahinter?
+- **Section headlines (H2):**
+  - Wenn sich ein neuer Kontakt fast zu perfekt anfühlt
+  - Was Sie im Ratgeber lernen
+  - Nicht nur lesen – prüfen
+  - Für wen ist „IST DAS WIRKLICH LIEBE?“ gedacht?
+  - Unter anderem enthalten
+  - Über den Autor
+  - Prüfen Sie einen neuen Kontakt Schritt für Schritt.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/738058
+- **Opening copy (first paragraphs):**
+  > Der Love-Scam-Check, mit dem Sie neue Online-Kontakte systematisch prüfen können, bevor Gefühle, Vertrauen oder Geld auf dem Spiel stehen.
+  > Love-Scamming beginnt selten mit einer Geldforderung. Häufig beginnt es mit Aufmerksamkeit, täglichen Nachrichten, Komplimenten und erstaunlich schneller Nähe. Dieses Buch zeigt verständlich, worauf Sie achten sollten.
+  > Ein freundliches Profil, tägliche Nachrichten und scheinbar ehrliches Interesse können echt sein. Sie können aber auch Teil einer gezielten Manipulation sein. Besonders schwierig wird es, wenn man emotional bereits beteiligt ist. Genau hier setzt dieser Ratgeber an: nicht mit Panik, sondern mit konkreten Prüfschritten.
+  > Fotos, Profilangaben, Geschichten und auffällige Widersprüche gezielt betrachten.
+- **Questions the sales page answers:**
+  - IST DAS WIRKLICH LIEBE?
+- **Page word count:** 599
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e
 
 > Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../reviews/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der E-Mail-Spielbericht für Kampagne24-Partner · 37 € einmalig
+- **Meta description:** Der E-Mail-Spielbericht hält jeden Versand fest: Kontakte, Öffnungsrate, Klickrate, Verkäufe und Umsatz, bewertet per Ampel nach echten DACH-Branchenwerten.
+- **Headline (H1):**
+  > Jede Mail ein Spieltag. Weißt du, wer gewinnt?
+- **Section headlines (H2):**
+  - Schluss mit Bauchgefühl. Schluss mit Raten.
+  - JA,
+  - Ein Blick in den Spielbericht
+  - Noch kurz Fragen?
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/729177
+- **Opening copy (first paragraphs):**
+  > Der E-Mail-Spielbericht hält die Kennzahlen pro Versand fest: Kontakte, Öffnungsrate, Klickrate, Verkäufe und Umsatz. Bewertet per Ampel nach echten Branchenwerten.
+  > Einführungspreis: Sichere dir den E-Mail-Spielbericht jetzt für einmalig 37 €. Der Preis kann mit zukünftigen Erweiterungen jederzeit steigen.
+  > Eine Zeile pro Versand, alle Kennzahlen auf einen Blick statt verstreut in drei Tools
+  > Echte DACH-Branchenwerte als Ampel direkt in der Tabelle, Quelle Brevo und Klaviyo
+- **Page word count:** 789
+- **OG image:** https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c700c9b5-8f23-4a7f-84f5-d2857e874e23/id-preview-9af1e0f5--262b4b67-3995-468e-9b8f-e73d1c4bae08.lovable.app-1782380868565.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

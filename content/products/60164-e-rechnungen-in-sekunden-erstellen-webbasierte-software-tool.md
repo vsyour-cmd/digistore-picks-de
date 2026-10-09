@@ -1,7 +1,7 @@
 # E-Rechnungen in Sekunden erstellen Webbasierte Software Tool
 
 > Product ID `60164` · Digistore24 productId `738530` · [HTML profile page](../../reviews/e-rechnungen-in-sekunden-erstellen-webbasierte-software-tool-60164.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** E-Rechnungen erstellen in Sekunden Webbasierte Software– 100% lokal, ohne Abo und rechtssicher - Digistore24
+- **OG title:** E-Rechnungen erstellen in Sekunden Webbasierte Software– 100% lokal, ohne Abo und rechtssicher
+- **Section headlines (H3):**
+  - E-Rechnungen erstellen in Sekunden Webbasierte Software– 100% lokal, ohne Abo und rechtssicher
+  - E-Rechnungen erstellen in Sekunden Webbasierte Software– 100% lokal, ohne Abo und rechtssicher
+  - E-Rechnungen erstellen in Sekunden Webbasierte Software– 100% lokal, ohne Abo und rechtssicher
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > WEBBASIERTE E-RECHNUNG UND FAHRTENBUCH APP • AUCH FÜR SMARTPHONES • 100% LOKAL IM BROWSER RECHNUNGSGENERATOR DSGVO KONFORM
+  > ✓ Kein Abo ✓ 100% DSGVO-konform ✓ Ohne Installation ✓ Leitweg-ID ✓ Giro Code inklusive (Bank QR-Code) ✓ CSV Import für Etsy, Ebay und Amazon ✓ GoBD- & PEPPOL-kompatibel ✓ E-Rechnung in PDF und Excel ✓ Fahrtenbuch
+  > WEBBASIERTE E-RECHNUNG UND FAHRTENBUCH APP • AUCH FÜR SMARTPHONES • 100% LOKAL IM BROWSER RECHNUNGSGENERATOR DSGVO KONFORM
+  > ✓ Kein Abo ✓ 100% DSGVO-konform ✓ Ohne Installation ✓ Leitweg-ID ✓ Giro Code inklusive (Bank QR-Code) ✓ CSV Import für Etsy, Ebay und Amazon ✓ GoBD- & PEPPOL-kompatibel ✓ E-Rechnung in PDF und Excel ✓ Fahrtenbuch
+- **Page word count:** 957
+- **OG image:** https://www.digistore24.com/pb/img/merchant_56065/image/product/QPUUWC79.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

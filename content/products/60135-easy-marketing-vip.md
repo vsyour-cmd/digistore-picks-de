@@ -1,7 +1,7 @@
 # Easy Marketing VIP
 
 > Product ID `60135` · Digistore24 productId `740784` · [HTML profile page](../../reviews/easy-marketing-vip-60135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Easy Marketing VIP - Digistore24
+- **OG title:** Easy Marketing VIP
+- **Section headlines (H3):**
+  - Easy Marketing VIP
+  - Easy Marketing VIP
+  - Easy Marketing VIP
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Easy Marketing VIP ist ein digitales Lernprodukt für Personen, die sich umfassend mit Marketing, Affiliate Marketing und dem Aufbau eines eigenen digitalen Geschäfts beschäftigen möchten.
+  > So erhält der Käufer das Produkt: Nach erfolgreicher Zahlung wird das Produkt digital bereitgestellt. Der Käufer erhält Zugriff auf die zugehörigen digitalen Dateien und kann diese herunterladen und anschließend selbstständig nutzen.
+  > So wird das Produkt genutzt: Die Inhalte werden selbstständig und im eigenen Tempo durchgearbeitet. Der Käufer kann die einzelnen Teile nacheinander bearbeiten und die beschriebenen Strategien und Methoden auf sein eigenes Projekt anwenden.
+  > Wichtig: Easy Marketing VIP ist ein digitales Lern- und Informationsprodukt. Es werden keine bestimmten Einnahmen oder finanziellen Ergebnisse garantiert. Der tatsächliche Erfolg hängt von der individuellen Umsetzung und verschiedenen weiteren Faktoren ab.
+- **Page word count:** 780
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5934015/image/product/XHPHPZJZ.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator
 
 > Product ID `60373` · Digistore24 productId `742506` · [HTML profile page](../../reviews/hausaufgaben-leicht-gemacht-lernplaner-mit-lern-generator-60373.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Hausaufgaben leicht gemacht – Lernplaner + Lern-Generator - Digistore24
+- **OG title:** Hausaufgaben leicht gemacht – Lernplaner + Lern-Generator
+- **Section headlines (H3):**
+  - Hausaufgaben leicht gemacht – Lernplaner + Lern-Generator
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Hausaufgaben leicht gemacht – Lernplaner + Lern-Generator
+  - Hausaufgaben leicht gemacht – Lernplaner + Lern-Generator
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Kinderzuschlag leicht gemacht – Ratgeber + Kinderzuschlag-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Jeden Nachmittag Diskussionen um die Hausaufgaben, und vor der Klassenarbeit wird es hektisch?
+  > Dieser Lernplaner hilft Schulkindern, ihre Aufgaben selbst im Blick zu behalten. Sie bekommen 20 Blätter zum Ausdrucken: vom Hausaufgaben-Wochenplan über den Lernplan für die Klassenarbeit bis zum Rechenblatt mit Lösungen. Mit dem Lern-Generator erzeugen Sie immer neue Rechenblätter und einen Lernplan nach Datum.
+  > Die Blätter: ✔ Hausaufgaben der Woche, Wochenübersicht und Stundenplan ✔ Lernplan für heute: Aufgaben, geschätzte Zeit, erledigt ✔ Klassenarbeiten, Lernplan für eine Arbeit, Notenübersicht ✔ Referat-Planer, Vokabel-Lernliste, Lernkarten, Lese-Plan ✔ Einmaleins-Tafel und fünf Rechenblätter mit Lösungen ✔ Ranzen-Checkliste, Lernregeln und Hausaufgaben-Vereinbarung ✔ Tipps für Hausaufgaben ohne Streit
+  > Der Lern-Generator: ✔ Neue Rechenblätter per Klick: Plus, Minus, Einmaleins, Geteilt ✔ Lösungsblatt immer passend dazu ✔ Lernplan für die Klassenarbeit: verteilt die Themen auf die Tage davor ✔ Notenschnitt je Fach und gesamt
+- **Questions the sales page answers:**
+  - Jeden Nachmittag Diskussionen um die Hausaufgaben, und vor der Klassenarbeit wird es hektisch?
+  - Sie wollen Ihr Jahr 2027 planen, mit den richtigen Feiertagen für Ihr Bundesland?
+  - Sie arbeiten, aber das Geld reicht für die Familie kaum?
+  - Am Monatsende ist das Geld weg, und Sie wissen nicht genau, wohin?
+- **Page word count:** 2321
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/LX27L676.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

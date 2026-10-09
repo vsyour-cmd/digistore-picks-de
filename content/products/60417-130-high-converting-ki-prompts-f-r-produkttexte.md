@@ -1,7 +1,7 @@
 # 130 High-Converting KI-Prompts für Produkttexte
 
 > Product ID `60417` · Digistore24 productId `743612` · [HTML profile page](../../reviews/130-high-converting-ki-prompts-f-r-produkttexte-60417.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 130 High-Converting KI-Prompts für Shopify, Amazon und Etsy Produkttexte 2026 - Digistore24
+- **OG title:** 130 High-Converting KI-Prompts für Shopify, Amazon und Etsy Produkttexte 2026
+- **Section headlines (H3):**
+  - 130 High-Converting KI-Prompts für Shopify, Amazon und Etsy Produkttexte 2026
+  - 130 High-Converting KI-Prompts für Shopify, Amazon und Etsy Produkttexte 2026
+  - 130 High-Converting KI-Prompts für Shopify, Amazon und Etsy Produkttexte 2026
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit erstellst du in wenigen Minuten:
+  > Wichtig: Die Prompts funktionieren nicht nur mit ChatGPT, sondern auch mit Claude, Gemini, Grok, Perplexity und den meisten anderen aktuellen KIs 1:1.
+  > Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit erstellst du in wenigen Minuten:
+  > Wichtig: Die Prompts funktionieren nicht nur mit ChatGPT, sondern auch mit Claude, Gemini, Grok, Perplexity und den meisten anderen aktuellen KIs 1:1.
+- **Page word count:** 611
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5052036/image/product/E73HRZPF.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

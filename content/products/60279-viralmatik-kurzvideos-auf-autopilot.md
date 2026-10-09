@@ -1,7 +1,7 @@
 # Viralmatik – Kurzvideos auf Autopilot
 
 > Product ID `60279` · Digistore24 productId `730765` · [HTML profile page](../../reviews/viralmatik-kurzvideos-auf-autopilot-60279.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,33 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Viralmatik – jeden Tag ein Video, das sich selbst postet
+- **Meta description:** Viralmatik baut dir jeden Tag ein fertiges Kurzvideo und postet es automatisch auf Instagram und TikTok. Ohne Kamera, ohne Schnitt, ohne Technik.
+- **Final URL after redirects:** https://viralmatik.com/
+- **Headline (H1):**
+  > Jeden Tag ein fertiges Kurzvideo, das sich selbst postet – ganz ohne Kamera.
+- **Section headlines (H2):**
+  - Ein Laden mitten im Wald verkauft nichts.
+  - Der gleiche Tag – zwei Arten, ihn zu verbringen
+  - Drei Schritte – den Rest macht Viralmatik
+  - Neuer Kanal. Ein Reel. Nach vier Tagen über 2.300 Aufrufe.
+  - Was könnte für dich drin sein?
+  - 5 Starthelfer als PDF
+  - Was Nutzer meiner KI-Werkzeuge sagen
+  - Kein Internet-Guru. Ein Praktiker.
+  - Starte heute für 1 € – und schau dir 7 Tage lang an, was passiert
+  - Häufige Fragen
+- **Price mentions on page:** $16
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/730765
+  - https://www.digistore24.com/product/730765\
+- **Opening copy (first paragraphs):**
+  > Für alle, die online gesehen werden wollen – auch mit 35, 48 oder 65 und ohne Technik-Kenntnisse
+  > Du kannst das beste Angebot der Welt haben. Wenn kein Weg zu dir führt, kommt niemand vorbei. Online ist dieser Weg heute ein Kurzvideo – jeden Tag eins. Genau daran scheitern die meisten: nicht an der Idee, sondern am Alltag.
+  > Einmal festlegen, worum es auf deinem Kanal geht – und wohin dein Profil-Link führt. Die Einrichtung führt dich Schritt für Schritt durch.
+  > Hook, Text, KI-Stimme, Bilder, Untertitel und Musik – fertig geschnitten im Hochformat. Du musst nichts können.
+- **Page word count:** 1234
+- **OG image:** https://viralmatik.com/viralmatik-og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

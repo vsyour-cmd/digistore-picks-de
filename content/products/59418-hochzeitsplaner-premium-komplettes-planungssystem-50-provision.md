@@ -1,7 +1,7 @@
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
 > Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../reviews/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Hochzeitsplaner Premium | MeineVorlagenKiste
+- **Meta description:** Das komplette digitale Planungssystem für eure Hochzeit: 131 Seiten Inhalt, 20 Excel-Bereiche, 2.319 ausfüllbare Felder, Regieplan und Textvorlagen.
+- **Headline (H1):**
+  > Eure Hochzeit. Klar geplant.
+- **Section headlines (H2):**
+  - Die Planung scheitert selten an Ideen. Sie scheitert an offenen Enden.
+  - Sieben Werkzeuge, die als ein System arbeiten.
+  - So sieht Struktur aus.
+  - Vom ersten Überblick bis zum letzten Programmpunkt.
+  - Hochzeitsplaner Premium
+  - Häufige Fragen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735217
+- **Opening copy (first paragraphs):**
+  > Budget, Gäste, Dienstleister und der große Tag – mit einem vollständigen digitalen Planungssystem an einem Ort. Damit aus Organisationsstress wieder echte Vorfreude wird.
+  > Das eigentliche Problem Die Planung scheitert selten an Ideen. Sie scheitert an offenen Enden. Das Budget verändert sich ständig. Angebote, Anzahlungen, Restbeträge und Reserven müssen zusammenpassen.
+  > Ohne Regieplan landen Rückfragen genau dann beim Brautpaar, wenn Ruhe am wichtigsten ist.
+  > Was ihr erhaltet Sieben Werkzeuge, die als ein System arbeiten. Alle Dateien werden digital als ZIP-Paket bereitgestellt. Ihr könnt sofort am Computer planen, PDFs ausfüllen oder einzelne Seiten ausdrucken.
+- **Page word count:** 602
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

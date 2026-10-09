@@ -1,7 +1,7 @@
 # EU AI Act – KI-Risikomanagement
 
 > Product ID `59714` · Digistore24 productId `652413` · [HTML profile page](../../reviews/eu-ai-act-ki-risikomanagement-59714.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** EU KI-Risikomanagement Pack 2026 – Vollständiger EU AI Act Compliance Leitfaden - Digistore24
+- **OG title:** EU KI-Risikomanagement Pack 2026 – Vollständiger EU AI Act Compliance Leitfaden
+- **Section headlines (H2):**
+  - EU KI-Risikomanagement Pack 2026/2027
+  - EU KI-Risikomanagement Pack 2026/2027
+  - EU KI-Risikomanagement Pack 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > KI-Risikomanagement wird für Unternehmen zunehmend compliance-relevant. Wer KI-Systeme, automatisierte Prozesse, externe KI-Dienste, interne Modelle oder KI-gestützte Entscheidungen nutzt, sollte Risiken strukturiert erkennen, bewerten, mindern und nachvollziehbar dokumentieren können.
+  > Dieses Compliance Pack hilft Selbstständigen, kleinen Unternehmen, IT-Teams, Agenturen, Softwareanbietern und digitalen Dienstleistern dabei, ein verständliches und praxistaugliches KI-Risikomanagement aufzubauen – mit klaren Vorlagen, Checklisten, Prozesshilfen und Auditstrukturen.
+  > Die enthaltenen Vorlagen sind als kopierbarer Text im PDF angelegt. Sie können die benötigten Abschnitte markieren, kopieren und in Word, Google Docs, LibreOffice oder Ihr internes Dokumentationssystem einfügen.
+  > Danach ergänzen Sie Ihre eigenen Unternehmensdaten, KI-Systeme, Anbieter, Einsatzbereiche, Risiken, Maßnahmen, Verantwortlichkeiten, Prüfungen und Freigaben. So entsteht Schritt für Schritt eine nachvollziehbare KI-Risikomanagement-Dokumentation für Ihr Unternehmen.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Compliance Pack geeignet?
+- **Page word count:** 1981
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/8KDJ2BJ3.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

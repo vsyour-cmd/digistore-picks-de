@@ -1,7 +1,7 @@
 # WOLKENWEICH Begleitung - sicher, gehalten und genährt
 
 > Product ID `60308` · Digistore24 productId `657115` · [HTML profile page](../../reviews/wolkenweich-begleitung-sicher-gehalten-und-gen-hrt-60308.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** WOLKENWEICH Begleitung - sicher, gehalten und genährt - Digistore24
+- **OG title:** WOLKENWEICH Begleitung - sicher, gehalten und genährt
+- **Section headlines (H3):**
+  - WOLKENWEICH Begleitung - sicher, gehalten und genährt
+  - WOLKENWEICH Begleitung - sicher, gehalten und genährt
+  - WOLKENWEICH Begleitung - sicher, gehalten und genährt
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Und hast du schon probiert dieses Erleben mit sprechen, meditieren oder lesen zu verändern - bist jedoch gefühlt nicht weitergekommen?
+  > Dann ist WOLKENWEICH genau die Begleitung, um dies heilsam über den Körper zu verändern.
+  > einem kompletten Kursbereich, auf den du per App rund um die Uhr Zugriff hast und welcher dich ganz in deinem Tempo begleitet und der beinhaltet...
+  > - 41 Heilsame Video- und Audiobotschaften von Jennifer, welche dich heilsam wie eine beste Freundin in den Alltag begleitet
+- **Page word count:** 2729
+- **OG image:** https://www.digistore24.com/pb/img/merchant_807151/image/product/6XMFLV66.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

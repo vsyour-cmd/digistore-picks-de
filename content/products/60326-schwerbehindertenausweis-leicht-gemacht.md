@@ -1,7 +1,7 @@
 # Schwerbehindertenausweis leicht gemacht
 
 > Product ID `60326` · Digistore24 productId `741555` · [HTML profile page](../../reviews/schwerbehindertenausweis-leicht-gemacht-60326.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner - Digistore24
+- **OG title:** Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner
+- **Section headlines (H3):**
+  - Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner
+  - Pflegegrad 1 leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner
+  - Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner
+  - Pflegegrad 1 leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie sind dauerhaft krank oder eingeschränkt und wissen nicht, ob Ihnen ein Schwerbehindertenausweis zusteht?
+  > Dieser Ratgeber erklärt verständlich, wie Sie den Antrag stellen, was der Grad der Behinderung und die Merkzeichen bedeuten und welche Vorteile Sie damit haben. Er zeigt, worauf es beim Antrag ankommt und wie Sie sich gegen einen zu niedrigen Bescheid wehren. Der Vorteile-Rechner stellt für Ihren Fall zusammen, was Ihnen zusteht.
+  > Inhalt des Ratgebers: ✔ Der Antrag: Unterlagen, Ärzte, Beschreibung des Alltags ✔ Grad der Behinderung und Merkzeichen verstehen ✔ Steuern: Pauschbeträge und Pauschale für Fahrten ✔ Rechte im Beruf: Kündigungsschutz, Zusatzurlaub, Gleichstellung ✔ Früher in Rente, mit Tabelle nach Geburtsjahr ✔ Bus, Bahn, Auto, Parken und weitere Vergünstigungen ✔ Verschlimmerung, Herabsetzung, Widerspruch und Klage ✔ 4 Musterbriefe und Checkliste
+  > Der Vorteile-Rechner: ✔ Fünf einfache Fragen, eine nach der anderen ✔ Zeigt alle Vorteile zu Ihrem Grad und Ihren Merkzeichen ✔ Mit Beträgen und dem Hinweis, wo Sie den Vorteil beantragen ✔ Schätzt Ihre Steuerersparnis
+- **Questions the sales page answers:**
+  - Sie sind dauerhaft krank oder eingeschränkt und wissen nicht, ob Ihnen ein Schwerbehindertenausweis zusteht?
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+- **Page word count:** 2241
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/JNS6XLPE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

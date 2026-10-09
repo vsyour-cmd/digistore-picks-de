@@ -1,7 +1,7 @@
 # Notfallvorsorge und Betriebsausfall – Awareness-Mission
 
 > Product ID `60107` · Digistore24 productId `735344` · [HTML profile page](../../reviews/notfallvorsorge-und-betriebsausfall-awareness-mission-60107.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Blackout, Ransomware und BCM Decision Lab | Paragamix
+- **Meta description:** Browserbasierte SaaS-Software für Entscheidungen bei Blackout, Ransomware und Systemausfall: Meldewege, Notbetrieb und Wiederanlauf interaktiv trainieren.
+- **Headline (H1):**
+  > Bei Betriebsausfällen handlungsfähig bleiben.
+- **Section headlines (H2):**
+  - Das bringt es Ihrem Unternehmen
+  - So startet „Alles steht still“.
+  - Vom ersten Ausfall zum belastbaren Lagebild.
+  - Worum es in der Mission „Alles steht still“ geht.
+  - Blackout, Systemausfall und Wiederanlauf zusammengedacht.
+  - Diese digitalen Leistungsbestandteile erhalten Sie.
+  - Inhalte der Mission.
+  - Zwei Perspektiven für denselben Vorfall.
+  - Interaktive Entscheidungen im Browser.
+  - Vorlagen für Notfallvorsorge und Cybervorfälle.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735344
+- **Opening copy (first paragraphs):**
+  > Notfallvorsorge und Betriebsfortführung Bei Betriebsausfällen handlungsfähig bleiben. Was funktioniert in Ihrem Unternehmen weiter, wenn Strom, IT und Kommunikation ausfallen?
+  > „Alles steht still“ ist browserbasierte SaaS-Software. Darin üben Fachbereiche und IT, den Vorfall zu melden, Prioritäten im Notbetrieb zu setzen und den Wiederanlauf abzustimmen.
+  > 16 Sekunden Produktvorschau Sehen Sie, wie Mitarbeitende aus dem Fachbereich ihre Rolle wählen und direkt in eine realistische Blackout-Entscheidungssituation starten.
+  > Beispielansicht mit fiktivem Unternehmen. Es werden keine Kunden- oder Teilnehmerdaten gezeigt.
+- **Page word count:** 737
+- **OG image:** https://www.paragamix.com/assets/alles-steht-still-fachbereich-pro-preview-de-poster.webp
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

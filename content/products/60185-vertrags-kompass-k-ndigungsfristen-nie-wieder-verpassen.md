@@ -1,7 +1,7 @@
 # Vertrags-Kompass – Kündigungsfristen nie wieder verpassen
 
 > Product ID `60185` · Digistore24 productId `719927` · [HTML profile page](../../reviews/vertrags-kompass-k-ndigungsfristen-nie-wieder-verpassen-60185.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vertrags-Kompass — Abos & Verträge nie wieder verpassen | GZ-AI.-Stacks
+- **OG title:** Vertrags-Kompass — Abos & Verträge im Blick
+- **Meta description:** Vertrags-Kompass: Alle Abos und Verträge auf einen Blick, automatische Kündigungsfrist-Berechnung, ICS-Kalender-Export. Offline, ohne Konto, einmal kaufen.
+- **Headline (H1):**
+  > Vertrags-Kompass
+- **Section headlines (H2):**
+  - Nie wieder eine Kündigungsfrist verpassen
+- **Opening copy (first paragraphs):**
+  > Alle Abos und Verträge auf einen Blick, mit automatisch berechnetem spätesten Kündigungstermin und Kalender-Erinnerung. Läuft komplett offline auf Ihrem Gerät - ohne Konto, ohne Cloud, ohne Abo.
+  > Alle Verträge im Blick, keine Frist mehr verpasst, keine Daten in fremden Clouds.
+  > Name, Kategorie, Kosten und Verlängerungsdatum auf einer Karte — sortiert und filterbar.
+  > Erinnerung als ICS-Datei exportieren — passend für Google Kalender, Outlook & Co.
+- **Page word count:** 535
+- **OG image:** img/hero-mockup.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

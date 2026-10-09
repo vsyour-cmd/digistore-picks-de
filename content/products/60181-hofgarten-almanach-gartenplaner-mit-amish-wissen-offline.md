@@ -1,7 +1,7 @@
 # Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline
 
 > Product ID `60181` · Digistore24 productId `738218` · [HTML profile page](../../reviews/hofgarten-almanach-gartenplaner-mit-amish-wissen-offline-60181.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Hofgarten-Almanach — Gartenplaner mit Amish-Wissen, offline
+- **Meta description:** Hofgarten-Almanach — Beete und Fruchtfolge planen, Aussaatkalender, Boden-pH, Saatgut-Vorrat mit Einkaufsliste, Gieß-, Ernte- und Schädlings-Tagebuch. Offline im Browser, ohne Konto, ohne Cloud.
+- **Headline (H1):**
+  > Für alles, was draußen im Beet wächst — mit dem Wissen der Amish und einem Messwert von heute.
+- **Section headlines (H2):**
+  - Was der Almanach kann
+  - Ehrlich statt ausgedacht
+  - Passt der Almanach zu dir?
+  - So fängst du an
+  - Preis
+  - Häufige Fragen
+- **Opening copy (first paragraphs):**
+  > Beete und Fruchtfolge über Jahre planen, sehen was diesen Monat dran ist, den Boden messen statt raten und Gießen, Ernte und Schädlinge pro Beet festhalten. Alles in einer App, die im Browser läuft — ohne Konto, ohne Cloud, auch ohne Netz.
+  > Sechs Bereiche, jeder mit einer klaren Aufgabe. Karten lassen sich auf- und zuklappen — beim täglichen Gießen steht die Jahresplanung nicht im Weg.
+  > Pro Beet und Jahr Familie und Pflanze wählen. Kehrt eine Familie zu früh auf dasselbe Beet zurück, warnt die App.
+  > Gießen (mit Litern und Vorschlag fürs nächste Gießen), Ernte und Schädlinge — dazu Beetfotos, die auf dem Gerät gespeichert bleiben.
+- **Page word count:** 928
+- **OG image:** https://www.gz-ai-stacks.de/Hofgarten-Almanach/og-bild.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

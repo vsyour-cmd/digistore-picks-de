@@ -1,7 +1,7 @@
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
 > Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../reviews/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,33 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** zertifizierter Resilienz-Onlinekurs (ZPP) für mehr Leichtigkeit im Alltag
+- **OG title:** zertifizierter Resilienz Online Kurs | glückwärts
+- **Meta description:** Innere Stärke dank Resilienz - der zertifzierte Online-Resilienzkurs. Wie du mit Resilienz deine innere Stärke aufbaust und so nachhaltig Gelassenheit und Leichtigkeit in dein Leben bringst. Mit Krankenkassen-Zuschuss und Zufriedenheitsgarantie.
+- **Headline (H1):**
+  > Der zertifizierte Resilienz‑Kurs f&uuml;r mehr innere St&auml;rke & Leichtigkeit im Alltag
+  > Kennst du das auch?
+  > Was Resilienz wirklich bedeutet ​​ ​
+- **Section headlines (H2):**
+  - In 8 Wochen gelassener mit Belastungen umgehen alltagstauglich, wirksam und bis zu 100 % von deiner Krankenkasse erstattet . F&uuml;r mehr innere Ruhe, Klarheit und Zuversicht .
+  - Resilienz bedeutet nicht, dass Herausforderungen verschwinden - sondern dass du eine innere Haltung entwickelst, die dich stabiler, klarer und gelassener durch den Alltag tr&auml;gt.
+  - Und das ist erlernbar.
+  - Studien zeigen, dass die F&auml;higkeiten, die Resilienz ausmachen, in jedem Alter entwickelt und gest&auml;rkt werden k&ouml;nnen.
+  - Entspannt & gelassen
+  - Mutig & selbstbewusst
+  - Positiv & zuversichtlich
+  - Schritt f&uuml;r Schritt zu Innerer St&auml;rke
+  - Darauf kannst du z&auml;hlen
+  - Es ist Zeit f&uuml;r deine Innere St&auml;rke
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/350964
+- **Opening copy (first paragraphs):**
+  > ZPP‑zertifiziert &bull; Bis zu 100 % Krankenkassenerstattung &bull; &Uuml;ber 1000 Teilnehmende
+  > Du hast ein forderndes Umfeld, wiederkehrende Konflikte und h&auml;ufige Ver&auml;nderungen, auf die du dich einstellen musst.
+  > Dein K&ouml;rper zeigt dir mit Schlaflosigkeit, Verspannungen und Energielosigkeit seine Grenzen.
+  > ... du auch in schwierigen Situationen gelassen und positiv bleibst und das innere Vertrauen hast, mit allem was da kommt, umgehen zu k&ouml;nnen,
+- **Page word count:** 2504
+- **OG image:** https://static.wixstatic.com/media/2f90f2_01825e0019e341489de3a9e13e0f6fb3~mv2.png/v1/fill/w_1061,h_692,al_c/2f90f2_01825e0019e341489de3a9e13e0f6fb3~mv2.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

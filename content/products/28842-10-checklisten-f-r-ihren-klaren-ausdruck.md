@@ -1,7 +1,7 @@
 # 10 Checklisten für Ihren klaren Ausdruck
 
 > Product ID `28842` · Digistore24 productId `202637` · [HTML profile page](../../reviews/10-checklisten-f-r-ihren-klaren-ausdruck-28842.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,14 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Checklisten für klaren Ausdruck - Klartextexperte
+- **Headline (H1):**
+  > Mit Thilo Baums Checklisten zum perfekten Text
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/202637
+- **Opening copy (first paragraphs):**
+  > Formulieren Sie Schritt für Schritt Ihre prägnante Botschaft: Ideal für die Unternehmenskommunikation – ob schriftlich, mündlich, intern oder extern. Mithilfe dieser Checklisten (PDF) erarbeiten Sie Ihre Botschaft, Ihre Argumentation, Ihre Formulierungen und Ihre Überschrift. Geeignet für die alltägliche Kommunikation im Unternehmen – von E-Mails über Entscheidungsvorlagen bis hin zu Pressemitteilungen. Geeignet für Ihre nächste Rede und sogar für Ihr nächstes Buch. Holen Sie sich jetzt Thilo Baums Checklisten für Ihren klaren Ausdruck!
+- **Page word count:** 105
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

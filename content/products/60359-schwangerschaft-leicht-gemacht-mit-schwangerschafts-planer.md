@@ -1,7 +1,7 @@
 # Schwangerschaft leicht gemacht – mit Schwangerschafts-Planer
 
 > Product ID `60359` · Digistore24 productId `741784` · [HTML profile page](../../reviews/schwangerschaft-leicht-gemacht-mit-schwangerschafts-planer-60359.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Schwangerschaft leicht gemacht – Ratgeber + Schwangerschafts-Planer - Digistore24
+- **OG title:** Schwangerschaft leicht gemacht – Ratgeber + Schwangerschafts-Planer
+- **Section headlines (H3):**
+  - Schwangerschaft leicht gemacht – Ratgeber + Schwangerschafts-Planer
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+  - Versicherungen leicht gemacht – Ratgeber + Versicherungs-Check
+  - Schwangerschaft leicht gemacht – Ratgeber + Schwangerschafts-Planer
+  - Schwangerschaft leicht gemacht – Ratgeber + Schwangerschafts-Planer
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Wohngeld leicht gemacht – Ratgeber + Wohngeld-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie sind schwanger und fragen sich, welche Fristen gelten, wie viel Geld es gibt und was Sie wann beantragen müssen?
+  > Dieser Ratgeber führt verständlich durch die Zeit von der Mitteilung an den Arbeitgeber bis zum Elterngeld. Als Beilage erhalten Sie den Schwangerschafts-Planer: eine Datei, die aus dem Geburtstermin alle wichtigen Daten berechnet und das Mutterschaftsgeld schätzt. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Arzt, Hebamme, Mutterpass ✔ Dem Arbeitgeber Bescheid sagen ✔ Schutz am Arbeitsplatz und Beschäftigungsverbot ✔ Die Mutterschutzfristen ✔ Geld im Mutterschutz ✔ Elternzeit ✔ Elterngeld, Kindergeld und weitere Hilfen ✔ Papierkram vor und nach der Geburt ✔ Besondere Lagen: Ausbildung, Studium, befristet, selbstständig ✔ Checkliste
+  > ✔ Mutterschutz: letzter Arbeitstag, Beginn und Ende ✔ Passt sich an, wenn das Kind früher oder später kommt ✔ Kündigungsschutz und Fristen für Elternzeit und Elterngeld ✔ Zeiträume der Vorsorgeuntersuchungen ✔ Mutterschaftsgeld von Kasse und Arbeitgeber ✔ Alles auf einer Seite als PDF
+- **Questions the sales page answers:**
+  - Sie sind schwanger und fragen sich, welche Fristen gelten, wie viel Geld es gibt und was Sie wann beantragen müssen?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+  - Die Miete frisst Ihr Einkommen auf, und Sie wissen nicht, ob Ihnen Wohngeld zusteht?
+  - Zahlen Sie für Versicherungen, die Sie nicht brauchen, während die wichtigste fehlt?
+- **Page word count:** 2220
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/DTEQO80S.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

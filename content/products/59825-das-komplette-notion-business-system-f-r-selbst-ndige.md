@@ -1,7 +1,7 @@
 # Das komplette Notion Business System für Selbständige
 
 > Product ID `59825` · Digistore24 productId `735891` · [HTML profile page](../../reviews/das-komplette-notion-business-system-f-r-selbst-ndige-59825.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Notion-Business-System für Creator und Freelancer - Digistore24
+- **OG title:** Notion-Business-System für Creator und Freelancer
+- **Section headlines (H3):**
+  - Notion-Business-System für Creator und Freelancer
+  - Notion-Business-System für Creator und Freelancer
+  - Notion-Business-System für Creator und Freelancer
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Das komplette Organisationssystem für Creator, Freelancer, Social Media Manager und digitale Selbstständige.
+  > Baue dein komplettes Business-System in Notion – von Content und Kundenverwaltung bis Finanzen und Automatisierungen. Inklusive fertiger Templates, Workbook und 7-Tage-Einrichtungsplan, damit du nicht bei null anfängst.
+  > Fertige Notion-Templates: Creator Dashboard, Kunden-CRM, Content-System, Business-Finanzen, Second Brain
+  > Digitales Download-Paket. Für die Nutzung benötigst du ein (kostenloses) Notion-Konto.
+- **Page word count:** 418
+- **OG image:** https://www.digistore24.com/pb/img/merchant_349899/image/product/68O6N5AU.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

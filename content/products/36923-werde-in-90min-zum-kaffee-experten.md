@@ -1,7 +1,7 @@
 # Werde in 90min. zum KAFFEE EXPERTEN!
 
 > Product ID `36923` · Digistore24 productId `708642` · [HTML profile page](../../reviews/werde-in-90min-zum-kaffee-experten-36923.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CoffeeSense by Rainer Langguth - Deine Kaffee-DNA. Deine Gesundheit. Deine Energie. - Digistore24
+- **OG title:** CoffeeSense by Rainer Langguth - Deine Kaffee-DNA. Deine Gesundheit. Deine Energie.
+- **Section headlines (H3):**
+  - CoffeeSense by Rainer Langguth - Deine Kaffee-DNA. Deine Gesundheit. Deine Energie.
+  - CoffeeSense by Rainer Langguth - Deine Kaffee-DNA. Deine Gesundheit. Deine Energie.
+  - CoffeeSense by Rainer Langguth - Deine Kaffee-DNA. Deine Gesundheit. Deine Energie.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > CoffeeSense by Rainer Langguth Die Methode, mit der Kaffee wieder zu deinem Körper, deinem Schlaf und deiner Energie passt.
+  > FÜR WEN IST DER KURS? CoffeeSense ist für dich, wenn du Kaffee liebst – aber… …Sodbrennen, Magenschmerzen oder Unwohlsein nach dem Kaffee kennst …nach dem Kaffee oft nervös, zittrig oder innerlich unruhig bist …schlecht schläfst und Kaffee als möglichen Grund verdacht hast …morgens mehrere Tassen brauchst, aber die Wirkung nachlässt …schon überlegt hast, Kaffee aufzugeben – aber eigentlich nicht willst …Kaffee wieder genießen möchtest, ohne schlechtes Gewissen …wissen willst, welcher Kaffee wirklich zu deinem Körper passt
+  > CoffeeSense ist NICHT für dich, wenn du… …keinen Kaffee trinkst und das auch nicht ändern möchtest …bereits einen Gentest gemacht hast und alles über deinen Typ weißt
+  > PREIS Nur 47 € – einmalig, kein Abo 14 Tage Geld-zurück-Garantie · Sofortiger Zugang ·
+- **Page word count:** 2435
+- **OG image:** https://www.digistore24.com/pb/img/merchant_831488/image/product/1M7CJZSW.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

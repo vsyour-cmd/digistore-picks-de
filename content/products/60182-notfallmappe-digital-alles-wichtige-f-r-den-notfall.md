@@ -1,7 +1,7 @@
 # Notfallmappe Digital – alles Wichtige für den Notfall
 
 > Product ID `60182` · Digistore24 productId `723647` · [HTML profile page](../../reviews/notfallmappe-digital-alles-wichtige-f-r-den-notfall-60182.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Notfallmappe Digital - Digistore24
+- **OG title:** Notfallmappe Digital
+- **Section headlines (H3):**
+  - Notfallmappe Digital
+  - GZ Survival Kompass - 9 Apps für die Wildnis
+  - Notfallmappe Digital
+  - Notfallmappe Digital
+  - GZ Survival Kompass - 9 Apps für die Wildnis
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Im Ernstfall zählt jede Minute. Angehörige suchen dann oft verzweifelt nach dem Hausarzt, der Vorsorgevollmacht oder der Versicherungspolice. Notfallmappe Digital sammelt all das an einer Stelle — als App auf deinem Gerät und optional zusätzlich ausgedruckt in einem Ordner.
+  > Das bekommst du: ✓ Stammdaten auf einen Blick: Name, Geburtsdatum, Blutgruppe, Krankenkasse, Hausarzt, Notfallkontakt, Allergien
+  > ✓ Flexible Einträge in Kategorien: Kontakte, Medikamente, Vollmachten/Dokumente, Versicherungen, Bank/Finanzen, Sonstiges
+  > ✓ Dokumenten-Anhänge: Fotos/Scans direkt an jeden Eintrag anhängen (bis 15 MB/Datei)
+- **Page word count:** 1103
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5421682/image/product/EL4B7LKJ.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

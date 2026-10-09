@@ -1,7 +1,7 @@
 # FLÜGELZART - in 21 Tagen genährt und gehalten bei dir
 
 > Product ID `60306` · Digistore24 productId `637957` · [HTML profile page](../../reviews/fl-gelzart-in-21-tagen-gen-hrt-und-gehalten-bei-dir-60306.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** FLÜGELZART - Digistore24
+- **OG title:** FLÜGELZART
+- **Section headlines (H3):**
+  - FLÜGELZART
+  - FLÜGELZART
+  - FLÜGELZART
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen.
+  > 105 angeleitete Nervensystem-Praxis mit der Traumaorientierten Körperzentrierten Hypnose als Audio – morgens und abends – in kurz (ca. 10 bis 15 Minuten) und lang (ca. 30 bis 45 Minuten): kurz für hektische Tage oder lang für tieferes Eintauchen.
+  > 21 Audio- oder Videobotschaften von Jennifer, die du leicht in deinen Alltag integrieren kannst – es fühlt sich an, als begleite dich Jennifer wie eine gute Freundin, ganz nah bei dir.
+  > Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy.
+- **Page word count:** 1550
+- **OG image:** https://www.digistore24.com/pb/img/merchant_807151/image/product/6XMFLV66.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

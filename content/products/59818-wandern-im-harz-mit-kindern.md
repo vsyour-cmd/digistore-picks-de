@@ -1,7 +1,7 @@
 # Wandern im Harz mit Kindern
 
 > Product ID `59818` · Digistore24 productId `737979` · [HTML profile page](../../reviews/wandern-im-harz-mit-kindern-59818.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Wandern im Harz mit Kindern - Digistore24
+- **OG title:** Wandern im Harz mit Kindern
+- **Section headlines (H2):**
+  - Wandern im Harz mit Kindern
+  - (Wanderführer)
+  - (Druckbare PDF-Datei)
+  - ------------------
+  - -------------------
+  - Entdeckt den Harz gemeinsam – Schritt für Schritt
+  - Das erwartet dich im E-Book:
+  - Schluss mit „Wann sind wir endlich da?“
+  - Für kleine und große Entdecker
+  - Bonus: Wandercheckliste
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Lanzarote zu Fuß entdecken – auch wenn du bisher wenig oder gar keine Wandererfahrung hast.
+  > Der Harz bietet Familien eine faszinierende Mischung aus dichten Wäldern, geheimnisvollen Wegen, beeindruckenden Aussichtspunkten und spannenden Naturerlebnissen. Doch eine Wanderung mit Kindern soll vor allem eines sein: ein Abenteuer, auf das sich die ganze Familie freut.
+  > Welche Wege sind auch für Kinder geeignet? Was macht eine Wanderung für kleine Entdecker spannend? Was sollte unbedingt in den Rucksack und wie lässt sich eine Tour stressfrei vorbereiten?
+  > „Wandern im Harz mit Kindern“ gibt dir praktische Orientierung und zahlreiche Ideen, damit aus einem einfachen Spaziergang ein echtes Familienerlebnis wird.
+- **Questions the sales page answers:**
+  - Bereit für euer nächstes Harz-Abenteuer?
+- **Page word count:** 1667
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/LF82SPNE.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

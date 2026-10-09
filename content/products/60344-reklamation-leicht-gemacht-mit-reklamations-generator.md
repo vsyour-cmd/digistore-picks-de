@@ -1,7 +1,7 @@
 # Reklamation leicht gemacht – mit Reklamations-Generator
 
 > Product ID `60344` · Digistore24 productId `741728` · [HTML profile page](../../reviews/reklamation-leicht-gemacht-mit-reklamations-generator-60344.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Reklamation leicht gemacht – Ratgeber + Reklamations-Generator - Digistore24
+- **OG title:** Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+- **Section headlines (H3):**
+  - Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
+  - Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner
+  - Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+  - Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, wann Sie widerrufen können, welche Rechte Sie bei Mängeln haben und wie Sie Ihr Geld zurückbekommen. Als Beilage erhalten Sie den Reklamations-Generator: eine Datei, die die Fristen berechnet und mit der Sie den passenden Brief als PDF speichern. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Widerruf, Gewährleistung, Garantie, Umtausch: die Unterschiede ✔ Das Widerrufsrecht und seine Ausnahmen ✔ Ihre Rechte bei mangelhafter Ware ✔ Reparatur oder Ersatz verlangen ✔ Rücktritt, Minderung, Schadensersatz ✔ Die Garantie des Herstellers ✔ Wenn die Lieferung nicht kommt ✔ So setzen Sie Ihr Recht durch ✔ Checkliste und Mustertexte
+  > ✔ Sieben Briefe: Widerruf, Mangel, Frist, Rücktritt, Minderung, Lieferung, Rückzahlung ✔ Fristenrechner für Widerruf und Gewährleistung ✔ Warnt bei abgelaufenen Fristen ✔ 12 Designs
+  > Wichtig: Der Generator gilt für Käufe von Verbrauchern bei Händlern in Deutschland. Der Fristenrechner rechnet mit den gesetzlichen Fristen und dient der Orientierung.
+- **Questions the sales page answers:**
+  - Die Ware ist kaputt, gefällt nicht oder kommt gar nicht an?
+  - Ein merkwürdiger Anruf, eine SMS vom Paketdienst, ein Shop mit Traumpreisen: echt oder Betrug?
+  - Mahnungen, Inkassobriefe oder eine Pfändung, und Sie wissen nicht, was Sie tun sollen?
+- **Page word count:** 2186
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/3VKYYUQ0.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

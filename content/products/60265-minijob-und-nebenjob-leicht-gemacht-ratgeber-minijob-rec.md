@@ -1,7 +1,7 @@
 # Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rec
 
 > Product ID `60265` · Digistore24 productId `741095` · [HTML profile page](../../reviews/minijob-und-nebenjob-leicht-gemacht-ratgeber-minijob-rec-60265.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rechner - Digistore24
+- **OG title:** Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rechner
+- **Section headlines (H3):**
+  - Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rechner
+  - Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie möchten etwas dazuverdienen und wissen nicht, was erlaubt ist und was am Ende bleibt?
+  > Dieser Ratgeber erklärt verständlich, was für Minijob, Midijob und Nebenjob gilt: Verdienstgrenzen, Abgaben, Versicherung und Ihre Rechte. Mit dem Minijob-Rechner prüfen Sie Ihre Stunden und sehen, was ausgezahlt wird. Mit den Zahlen für 2026.
+  > Inhalt des Ratgebers: ✔ Minijob, Midijob, Nebenjob: der Überblick ✔ Die Grenze von 603 € richtig einhalten ✔ Rentenversicherung: zahlen oder befreien lassen ✔ Ihre Rechte: Mindestlohn, Urlaub, Lohn bei Krankheit ✔ Mehrere Jobs und Nebenjob neben dem Hauptjob ✔ Minijob bei Rente, Arbeitslosengeld und Grundsicherungsgeld ✔ 4 Musterbriefe und Checkliste
+  > Der Minijob-Rechner: ✔ Stunden und Verdienstgrenze prüfen ✔ Auszahlung, Rentenbeitrag und Rente aus dem Minijob ✔ Mehrere Jobs zusammenrechnen ✔ Was im Midijob bleibt
+- **Questions the sales page answers:**
+  - Sie möchten etwas dazuverdienen und wissen nicht, was erlaubt ist und was am Ende bleibt?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1911
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/GBHB9WIP.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

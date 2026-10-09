@@ -1,7 +1,7 @@
 # Patientenrechte leicht gemacht – mit Patienten-Briefen
 
 > Product ID `60355` · Digistore24 productId `741775` · [HTML profile page](../../reviews/patientenrechte-leicht-gemacht-mit-patienten-briefen-60355.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Patientenrechte leicht gemacht – Ratgeber + Patienten-Briefe - Digistore24
+- **OG title:** Patientenrechte leicht gemacht – Ratgeber + Patienten-Briefe
+- **Section headlines (H3):**
+  - Patientenrechte leicht gemacht – Ratgeber + Patienten-Briefe
+  - Krankengeld leicht gemacht – Ratgeber + Krankengeld-Rechner
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Vollmachten leicht gemacht – Vollmachts-Generator mit 10 Vorlagen
+  - Patientenrechte leicht gemacht – Ratgeber + Patienten-Briefe
+  - Patientenrechte leicht gemacht – Ratgeber + Patienten-Briefe
+  - Krankengeld leicht gemacht – Ratgeber + Krankengeld-Rechner
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie wollen wissen, was Ihnen bei Arzt, Klinik und Krankenkasse zusteht, und wie Sie es durchsetzen?
+  > Dieser Ratgeber erklärt verständlich Ihre Rechte als Patient: Aufklärung, Einwilligung, Akteneinsicht, Zweitmeinung, Fristen der Krankenkasse und was bei einem Behandlungsfehler zu tun ist. Als Beilage erhalten Sie die Patienten-Briefe: fünf fertige Schreiben mit Fristenrechnern. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Der Behandlungsvertrag ✔ Information und Aufklärung ✔ Einwilligung und Ablehnung ✔ Die Patientenakte: Einsicht und Kopien ✔ Die Zweitmeinung ✔ Die Krankenkasse: Fristen und Genehmigung ✔ Selbstzahlerleistungen und Rechnungen ✔ Im Krankenhaus ✔ Verdacht auf einen Behandlungsfehler ✔ Checkliste und Anlaufstellen
+  > ✔ Patientenakte anfordern ✔ Krankenkasse an die Entscheidungsfrist erinnern, mit Fristenrechner ✔ Krankenkasse um Hilfe bei einem Behandlungsfehler bitten, mit Rechner für die Verjährung ✔ Beschwerde an Praxis oder Klinik ✔ Selbstzahler-Rechnung beanstanden
+- **Questions the sales page answers:**
+  - Sie wollen wissen, was Ihnen bei Arzt, Klinik und Krankenkasse zusteht, und wie Sie es durchsetzen?
+  - Sie sind länger krank und wollen wissen, wie viel Geld Sie bekommen und wie lange?
+  - Wer entscheidet für Sie, wenn Sie es selbst nicht mehr können?
+  - Jemand soll für Sie ein Paket abholen, das Auto anmelden oder mit Ihrem Kind verreisen?
+- **Page word count:** 2451
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/EVOVLECF.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

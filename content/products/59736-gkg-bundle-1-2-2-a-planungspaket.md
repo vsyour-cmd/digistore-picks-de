@@ -1,7 +1,7 @@
 # GKG-BUNDLE 1+2+2.A Planungspaket
 
 > Product ID `59736` · Digistore24 productId `732161` · [HTML profile page](../../reviews/gkg-bundle-1-2-2-a-planungspaket-59736.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Garten klar geplant · Planungspaket (Modul 1 + 2 + 2.A) - Digistore24
+- **OG title:** Garten klar geplant · Planungspaket (Modul 1 + 2 + 2.A)
+- **Section headlines (H3):**
+  - Garten klar geplant · Planungspaket (Modul 1 + 2 + 2.A)
+  - Garten klar geplant · Planungspaket (Modul 1 + 2 + 2.A)
+  - Garten klar geplant · Planungspaket (Modul 1 + 2 + 2.A)
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Die drei Grundlagenmodule in einem Paket: Grundlagenermittlung, Planungsansätze und der Garten-Kalkulator. Vom Aufmaß des Bestands über die eigene Entwurfsskizze bis zur Grobkostenberechnung mit regionalem Preisniveau.
+  > Zwei PDF-Arbeitshefte plus Excel-Kalkulator — zusammen 279 € statt 327 € einzeln. Sofort nach dem Kauf zum Download.
+  > Die drei Grundlagenmodule in einem Paket: Grundlagenermittlung, Planungsansätze und der Garten-Kalkulator. Vom Aufmaß des Bestands über die eigene Entwurfsskizze bis zur Grobkostenberechnung mit regionalem Preisniveau.
+  > Zwei PDF-Arbeitshefte plus Excel-Kalkulator — zusammen 279 € statt 327 € einzeln. Sofort nach dem Kauf zum Download.
+- **Page word count:** 352
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5864860/image/product/ENS9RDE9.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

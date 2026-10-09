@@ -1,7 +1,7 @@
 # Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer
 
 > Product ID `60259` · Digistore24 productId `740750` · [HTML profile page](../../reviews/arbeitszeugnis-leicht-gemacht-ratgeber-zeugnis-pr-fer-60259.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer - Digistore24
+- **OG title:** Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer
+- **Section headlines (H3):**
+  - Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer
+  - Arbeitszeugnis leicht gemacht – Ratgeber + Zeugnis-Prüfer
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Zeugnisse klingen immer freundlich. Die Note steckt in festen Formeln. Dieser Ratgeber erklärt sie verständlich und zeigt, wie Sie ein besseres Zeugnis verlangen. Mit dem Zeugnis-Prüfer fügen Sie Ihren Text ein und sehen sofort, was er bedeutet. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Ihr Anspruch: Arten, Form und Fristen ✔ Die Notenformeln für Leistung und Verhalten ✔ Versteckte Kritik erkennen ✔ Schlussformel und Beendigungsformel richtig lesen ✔ Ein besseres Zeugnis verlangen, Schritt für Schritt ✔ Selbst einen Entwurf schreiben ✔ 4 Musterbriefe und Checkliste
+  > Der Zeugnis-Prüfer: ✔ Zeugnistext einfügen und Note für Leistung und Verhalten sehen ✔ Auffällige Formulierungen mit Erklärung ✔ Prüfung auf fehlende Teile und Schlussformel ✔ Entwurfs-Generator für Endzeugnis und Zwischenzeugnis
+  > Was Sie erhalten Sie erhalten zwei Dateien zum Download : den Ratgeber als PDF-Datei mit 17 Seiten und den Zeugnis-Prüfer als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen. Ihr Zeugnistext bleibt auf Ihrem Gerät.
+- **Questions the sales page answers:**
+  - Was steht wirklich in Ihrem Arbeitszeugnis?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 1952
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/NKN64EQS.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

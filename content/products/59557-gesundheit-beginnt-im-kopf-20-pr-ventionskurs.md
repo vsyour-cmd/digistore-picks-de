@@ -1,7 +1,7 @@
 # Gesundheit beginnt im Kopf - §20 Präventionskurs
 
 > Product ID `59557` · Digistore24 productId `702652` · [HTML profile page](../../reviews/gesundheit-beginnt-im-kopf-20-pr-ventionskurs-59557.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,33 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Gesundheit beginnt im Kopf - der zertifizierte Onlinekurs für ein stimmiges und gesundes Leben
+- **OG title:** Gesundheit beginnt im Kopf - der zertifzierte Onlinekurs für ein gesundes und stimmiges Leben
+- **Meta description:** Stressresilient Leben dank Kohärenz und Natur - für Menschen, die viel leisten - und wieder mehr sie selbst sein wollen.
+- **Headline (H1):**
+  > Gesundheit beginnt im Kopf - Stressresilient leben dank Koh&auml;renz & Natur
+  > Der zertifizierte Onlinekurs f&uuml;r ein gesundes und stimmiges Leben (bis zu 100 % Krankenkassenzuschuss - Kurs-ID: KU-ST-IT5SSH)
+  > ​​​​​Manchmal sp&uuml;rst du:
+- **Section headlines (H2):**
+  - Stressresilienz - f&uuml;r eine klaren Kopf
+  - Naturverbindung - dein nat&uuml;rlicher Regulator
+  - Koh&auml;renzgef&uuml;hl - f&uuml;r ein stimmiges Leben
+  - Innere Ruhe statt st&auml;ndiger Anspannung
+  - Bewusstheit statt Autopilot
+  - Klarheit statt Gedankenkreisen
+  - Selbstwirksamkeit statt Ohnmacht
+  - Ein glasklarer Weg
+  - Direkter Austausch
+  - Wertvolles Wissen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/702652
+- **Opening copy (first paragraphs):**
+  > Und egal, wie sehr du dich anstrengst oder organisierst - innerlich bleibt es unruhig .
+  > Mit denen Menschen trotz vieler Belastungen ges&uuml;nder, stabiler und gelassener bleiben.
+  > Du lernst, dein Nervensystem zu beruhigen, Energie bewusst zu managen, Grenzen zu setzen und Gr&uuml;belgedanken zu regulieren.
+  > Schon wenige Minuten drau&szlig;en k&ouml;nnen dein Nervensystem sp&uuml;rbar entlasten. Du lernst, diese Kraft bewusst zu nutzen - als Ort f&uuml;r Ruhe, Perspektive und inneres Auftanken.
+- **Page word count:** 1736
+- **OG image:** https://static.wixstatic.com/media/2f90f2_0c9d32c48eff4e93b4d1de54de48b76b~mv2.png/v1/fill/w_1920,h_1080,al_c/2f90f2_0c9d32c48eff4e93b4d1de54de48b76b~mv2.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Herzensklang de Pferde - Bachblüten Therapie für Pferde
 
 > Product ID `49375` · Digistore24 productId `569319` · [HTML profile page](../../reviews/herzensklang-de-pferde-bachbl-ten-therapie-f-r-pferde-49375.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Bachblüten für Pferde - das eBook für dich und dein Pferd
+- **Meta description:** Bachblüten für Pferde, hier erfährst du alles was du wissen musst. Unser eBook für alle Pferde mit Verhaltensproblemen! So wird alles wieder gut!
+- **Final URL after redirects:** https://stable-stuff.com/bachblueten-fuer-pferde-herzensklang-der-pferde/
+- **Headline (H1):**
+  > Du möchtest deinem Pferd entspannt helfen? Dann sichere dir jetzt unser eBook "Herzensklang der Pferde"
+- **Section headlines (H2):**
+  - Bring dein Pferd wieder ins Gleichgewicht
+  - dass Verhaltensauffälligkeiten und körperliche Beschwerden oft Probleme des seelischen Gleichgewichts bei Pferden sind
+  - Mit Bachblüten bringst du die Pferdeseele auf natürliche Weise wieder in Harmonie und Gleichgewicht
+  - Stable Stuff
+  - Unternehmen
+  - Folge uns!
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/569319?voucher=SPAREN
+- **Opening copy (first paragraphs):**
+  > Wusstest du, dass Verhaltensauffälligkeiten und körperliche Beschwerden oft Probleme des seelischen Gleichgewichts bei Pferden sind Körper und Geist sind eng miteinander verbunden und beeinflussen sich ständig gegenseitig.
+  > Das bedeutet, selbst wenn alles passt – von der Fütterung über die Haltung – kann es trotzdem zu Problemen kommen, wenn dein Pferd innerlich unausgeglichen ist.
+  > Seelische Unausgeglichenheit ist für unsere Pferde (und auch für uns) sehr belastend. Ein harmonisches Miteinander ist dann oft kaum oder nur schwer zu erreichen.
+  > Die Bachblütentherapie ist eine sanfte, natürliche und effektive Methode, die ganz easy in den Alltag integriert werden kann. Sie hilft Pferden dabei, Belastungen zu verarbeiten und Verhaltensprobleme in den Griff zu bekommen – so steht einem harmonischen Miteinander zwischen dir und deinem Pferd nichts mehr im Weg.
+- **Page word count:** 927
+- **OG image:** https://stable-stuff.com/wp-content/uploads/2024/09/Kann-nicht-verwendet-werden-fuer-3.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

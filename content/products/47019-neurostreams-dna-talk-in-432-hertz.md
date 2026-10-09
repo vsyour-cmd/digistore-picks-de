@@ -1,7 +1,7 @@
 # Neurostreams™ DNA Talk (in 432 Hertz)
 
 > Product ID `47019` · Digistore24 productId `21959` · [HTML profile page](../../reviews/neurostreams-dna-talk-in-432-hertz-47019.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** DNA-Meditation in 432 Hertz: Meditation mit Klang
+- **Meta description:** DNA Talk in 432 Hertz: eine Meditation, die mit der 432-Hz-Stimmung arbeitet. Für alle, die Meditation und Klangarbeit verbinden wollen.
+- **Headline (H1):**
+  > Erzeuge stärkere Meditations-Erlebnisse nur durch Zuhören.
+- **Section headlines (H2):**
+  - Du kannst damit sogar deine DNA verändern.
+  - Meditieren gehört zu den grundlegenden Erfolgstechniken.
+  - Ob als Begleitung für den täglichen Miracle Morning , oder als Meditier-Turbo für Anfänger, Profis und Fortgeschrittene.
+  - Das große Missverständnis
+  - Neuro-Rezeptur
+  - Noch ein paar Worte zu 432 Hertz...
+  - Das sagen Kunden:
+  - Und was hat das mit DNA zu tun?
+  - Achte auf deine Gedanken
+  - Jetzt herunterladen und dich meditieren lassen!
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/21959
+- **Opening copy (first paragraphs):**
+  > Denn Meditieren fördert Achtsamkeit, Konzentration und innere Ruhe, was essenziell ist, um klare Gedanken zu fassen, Stress abzubauen und langfristig fokussiert zu bleiben.
+  > Durch regelmäßige Meditation kann man zudem die Selbstwahrnehmung stärken, emotionale Ausgeglichenheit erreichen und die Fähigkeit verbessern, Herausforderungen gelassener zu meistern – alles Schlüsselfaktoren für Deinen persönlichen und beruflichen Erfolg.
+  > Sobald du tägliches Meditieren zu einer guten Gewohnheit machst, profitierst auch du von den Vorteilen dieser Erfolgstechnik. Du wirst dich dann fragen müssen, warum du diesen Schritt nicht schon früher gemacht hast.
+  > DNA Talk ist ein Hörprogramm, das Dir deutliche Meditationserlebnisse vermitteln kann.
+- **Page word count:** 3025
+- **OG image:** https://www.neurostreams.de/wp-content/uploads/Neurostreams_Logo_2024_G.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

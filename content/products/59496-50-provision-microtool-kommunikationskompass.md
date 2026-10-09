@@ -1,7 +1,7 @@
 # 50% Provision: MicroTool KommunikationsKompass
 
 > Product ID `59496` · Digistore24 productId `735941` · [HTML profile page](../../reviews/50-provision-microtool-kommunikationskompass-59496.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** NAVOK® KommunikationsKompass – Sofort-Vorlage, um Entscheidungen klar zu kommunizieren - Digistore24
+- **OG title:** NAVOK® KommunikationsKompass – Sofort-Vorlage, um Entscheidungen klar zu kommunizieren
+- **Section headlines (H3):**
+  - NAVOK® KommunikationsKompass – Sofort-Vorlage, um Entscheidungen klar zu kommunizieren
+  - NAVOK Dimension Führung - Playbook für Orientierung, Führung und verlässliche Umsetzung
+  - NAVOK® KommunikationsKompass – Sofort-Vorlage, um Entscheidungen klar zu kommunizieren
+  - NAVOK® KommunikationsKompass – Sofort-Vorlage, um Entscheidungen klar zu kommunizieren
+  - NAVOK Dimension Führung - Playbook für Orientierung, Führung und verlässliche Umsetzung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Entscheidungen werden getroffen, aber nicht verstanden. Erwartungen werden ausgesprochen, aber nicht eingeordnet. Der KommunikationsKompass macht in einer sofort einsetzbaren Vorlage sichtbar: Orientierung, Entscheidung und Erwartung.
+  > Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.
+  > Inhaltliche Highlights: - Die drei Elemente des KommunikationsKompass - Vorgehen in 5 Schritten - Ein ausgearbeitetes Praxisbeispiel - Qualitätskriterien und typische Fehler - Direkt ausfüllbares Template
+  > Dieses Micro-Tool ist ein einzelner Baustein aus dem vollständigen NAVOK Dimension Führung-Playbook (229 €), das zusätzlich das FührungsLeitbild, weitere Praxisbeispiele, den Mini-Check, FührungsRoutinen und die Verzahnung mit den fünf weiteren NAVOK-Dimensionen enthält.
+- **Page word count:** 911
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5532076/image/product/T83VWL5E.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

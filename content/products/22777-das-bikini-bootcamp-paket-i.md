@@ -1,7 +1,7 @@
 # Das Bikini Bootcamp: Paket I
 
 > Product ID `22777` · Digistore24 productId `199127` · [HTML profile page](../../reviews/das-bikini-bootcamp-paket-i-22777.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,36 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Das neue Bikini Bootcamp von Biggest Loser Coach Silke Kayadelen
+- **Meta description:** Abnehmen im Bikini Bootcamp! Lerne, wie Du in 21 Tagen eine Kleidergröße verlierst. Ohne den lästigen Jo-Jo-Effekt! Heute starten & endlich schlank werden.
+- **Section headlines (H2):**
+  - Verliere eine Kleidergröße in 21 Tagen!
+  - Mit der BBC-Challenge haben schon mehr als 35.000 Frauen erfolgreich abgenommen!
+  - Erfolgsgeschichten
+  - Wie funktioniert die BBC-Challenge?
+  - Nutze jetzt unseren Frühjahrsrabatt: 50% Preisreduktion
+  - Häufig gestellte Fragen
+- **CTA button texts:** "Starte heute durch!"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/199127
+  - https://www.digistore24.com/product/199977
+  - https://www.digistore24.com/product/199987
+  - https://www.digistore24.com/redir/22481/MVGVerlag/d3d3LmRhcy1iaWtpbmktYm9vdGNhbXAuZGU=
+- **Opening copy (first paragraphs):**
+  > Bebilderte Anleitungen für jede Übung. Ohne komplizierte Geräte zu mehr Fitness und einem guten Körpergefühl.
+  > Bebilderte Anleitungen für jede Übung. Ohne komplizierte Geräte zu mehr Fitness und einem guten Körpergefühl.
+  > Bebilderte Anleitungen für jede Übung. Ohne komplizierte Geräte zu mehr Fitness und einem guten Körpergefühl.
+  > Bebilderte Anleitungen für jede Übung. Ohne komplizierte Geräte zu mehr Fitness und einem guten Körpergefühl.
+- **Questions the sales page answers:**
+  - Mal ganz ehrlich: Wie viel nehme ich in den 21 Tagen ab?
+  - Wie oft soll ich mich während des Bikini-Bootcamp wiegen?
+  - Was ist, wenn mir das BBC-Online-Programm nicht gefällt?
+  - Werde ich es schaffen, die BBC-Übungen auszuführen?
+  - Ist das BBC-Online-Programm ein Abonnement oder bezahle ich einmal?
+  - Brauche ich irgendwelche speziellen Geräte, um am Bikini-Bootcamp teilzunehmen?
+  - Woher soll ich wissen, welche Übungen ich nach der Anmeldung machen muss?
+  - Ist das Bikini-Bootcamp nur für Frauen gedacht?
+- **Page word count:** 1024
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

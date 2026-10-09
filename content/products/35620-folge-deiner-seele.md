@@ -1,7 +1,7 @@
 # Folge Deiner Seele
 
 > Product ID `35620` · Digistore24 productId `368232` · [HTML profile page](../../reviews/folge-deiner-seele-35620.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pre-Sale: Grundmeditationen - Folge Deiner Seele
+- **Headline (H1):**
+  > Spezielle Meditationen um Dich auf Deinem Weg zu unterstützen
+- **Section headlines (H2):**
+  - € 125,-
+  - Was ist in dem Paket enthalten ?
+  - Die wichtigsten Meditationen
+  - Die Reinigung der täglichen Muster
+  - Die optimale Grundlage für Deine spitituelle Entwicklung
+  - Was andere Mitglieder sagen
+  - Wichtige Fragen und Antworten
+  - Beginne jetzt mit Deiner spirituellen Entwicklung um ein Leben zu leben das im Einklang mit Deinem wahren Selbst steht
+  - € 125,-
+- **Price mentions on page:** €125,
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/368232
+  - https://www.digistore24.com/redir/22481/elanrea/d3d3LmZvbGdlZGVpbmVyc2VlbGUuY29t
+- **Opening copy (first paragraphs):**
+  > Diese 5 Meditationen sind speziell von mir gechannelt um Dir dabei zu helfen Dich zu reinigen, stabilisieren und deinen Energiekörper zu entwickeln. Sie bilden damit die Grundlage, um das volle Potential aller weiteren Inhalte von Folge Deiner Seele zu genießen
+  > In dieser Meditation lernen wir uns von fremden Gedanken und Emotionen zu reinigen die wir tagtäglich in uns aufnehmen.
+  > Jeder Neuanfang braucht ein stabiles Fundament. Diese Meditationen wurden speziell von mir gechannelt um Anfängern wie auch Fortgeschrittenen die richtige Grundlage zu geben die man benötigt um seinen Seelenweg zu beschreiten.
+  > El•An•Rea hat mein Leben zum positiven gewandelt. Ich habe schon viel Fortschritte gemacht und sehr viel an meinen Ängsten gearbeitet und verändert. Ich möchte mich bei ihr ganz herzlich bedanken.
+- **Page word count:** 470
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

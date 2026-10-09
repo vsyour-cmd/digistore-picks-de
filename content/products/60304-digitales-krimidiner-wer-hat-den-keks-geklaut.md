@@ -1,7 +1,7 @@
 # Digitales Krimidiner - Wer hat den Keks geklaut?
 
 > Product ID `60304` · Digistore24 productId `742141` · [HTML profile page](../../reviews/digitales-krimidiner-wer-hat-den-keks-geklaut-60304.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,15 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Krimery – Digitales Krimidinner für zu Hause
+- **Meta description:** Krimery: Krimidinner digital gespielt. Fall freischalten, Gäste per Link einladen, Rollen automatisch verteilen und Runde für Runde den Täter überführen – ohne App, ohne Vorbereitung.
+- **Headline (H1):**
+  > Krimery – Digitales Krimidinner für zu Hause
+- **Opening copy (first paragraphs):**
+  > Krimery ist ein digitales Krimidinner für 4 bis 24 Personen: Fall freischalten, Gäste per Link einladen, Rollen automatisch verteilen und Runde für Runde gemeinsam den Täter überführen – ohne App, ohne Vorbereitung.
+  > Für den Spielkatalog, die Rollen-Freischaltung und den Spielablauf benötigt Krimery JavaScript. Bitte aktiviere JavaScript in deinen Browser-Einstellungen, um loszulegen.
+- **Page word count:** 76
+- **OG image:** https://krimery.de/logo.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi
 
 > Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../reviews/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pubertät ohne Dauerstreit
+- **Section headlines (H2):**
+  - 29.99€
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > Wenn aus Gesprächen nur noch Schweigen wird, zeigt dir dieses Buch neue, ruhige Wege zurück ins Gespräch. Für Mütter, die wieder Verbindung spüren wollen – trotz Pubertät.
+  > Pubertät ohne Dauerstreit ist ein digitales E-Book im PDF-Format mit 98 Seiten. Nach dem Kauf erhältst du das Buch als digitale Datei zum Download. Kein Versand per Post, kein gedrucktes Buch
+  > Pubertät ohne Dauerstreit zeigt dir 60 typische Konflikte zwischen Eltern und Teenagern – und wie du sie entschärfen kannst. Verständlich, alltagstauglich und ohne erhobenen Zeigefinger. Für Mütter, die weniger streiten und wieder miteinander ins Gespräch kommen wollen
+  > Wir nutzen einen Drittanbieter-Service, um den Inhalt der Website zu übersetzen, der möglicherweise Daten über Ihre Aktivitäten sammelt. Bitte überprüfen Sie die Details in der Datenschutzerklärung und akzeptieren Sie den Dienst, um die Übersetzungen zu sehen.
+- **Page word count:** 264
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

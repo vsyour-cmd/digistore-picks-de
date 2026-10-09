@@ -1,7 +1,7 @@
 # Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Re
 
 > Product ID `60382` · Digistore24 productId `741114` · [HTML profile page](../../reviews/schulden-und-inkasso-leicht-gemacht-ratgeber-schulden-re-60382.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner - Digistore24
+- **OG title:** Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner
+- **Section headlines (H3):**
+  - Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner
+  - Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+  - Privatinsolvenz leicht gemacht – Ratgeber + Insolvenz-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner
+  - Schulden und Inkasso leicht gemacht – Ratgeber + Schulden-Rechner
+  - Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+  - Privatinsolvenz leicht gemacht – Ratgeber + Insolvenz-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mahnungen, Inkassobriefe oder eine Pfändung, und Sie wissen nicht, was Sie tun sollen?
+  > Dieser Ratgeber erklärt Schritt für Schritt, was Sie zahlen müssen und was nicht, welche Fristen laufen und wie Sie Lohn und Konto schützen. Mit dem Schulden-Rechner prüfen Sie Pfändung, Inkassokosten und Verjährung. Mit den Werten seit Juli 2026.
+  > Inhalt des Ratgebers: ✔ Erste Hilfe: Überblick gewinnen, das Wichtigste sichern ✔ Mahnung und Inkasso prüfen, mit Kostentabelle ✔ Mahnbescheid, Gerichtsvollzieher, Vermögensauskunft ✔ Lohnpfändung und Pfändungsschutzkonto ✔ Verjährung und Verhandeln mit Gläubigern ✔ Schuldnerberatung und Privatinsolvenz ✔ 5 Musterbriefe und Checkliste
+  > Der Schulden-Rechner: ✔ Pfändbarer Betrag vom Lohn ✔ Freibetrag auf dem P-Konto ✔ Zulässige Inkassokosten ✔ Verzugszinsen und Verjährung
+- **Questions the sales page answers:**
+  - Mahnungen, Inkassobriefe oder eine Pfändung, und Sie wissen nicht, was Sie tun sollen?
+  - Was kostet ein Kredit wirklich, und was steht über Sie in der Schufa?
+  - Sie können Ihre Schulden nicht mehr zurückzahlen und überlegen, ob die Privatinsolvenz der richtige Weg ist?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 2141
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/CKI4X9MV.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

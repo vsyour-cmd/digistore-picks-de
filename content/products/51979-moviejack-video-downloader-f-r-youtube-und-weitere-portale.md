@@ -1,7 +1,7 @@
 # MovieJack - Video-Downloader für YouTube und weitere Portale
 
 > Product ID `51979` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-f-r-youtube-und-weitere-portale-51979.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** MovieJack - Digistore24
+- **OG title:** MovieJack
+- **Section headlines (H3):**
+  - MovieJack
+  - Backup DVD
+  - Premium-Support
+  - MovieJack
+  - Backup DVD
+  - Premium-Support
+- **Price mentions on page:** $10, $19.99, $15.65, $8.94, $0.00
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > MovieJack Download the best movies from YouTube & Co. Includes one year of free updates!
+  > The software is available for download immediately after purchase. The serial number will also be sent via email. ✅ We want you to be 100% satisfied. That’s why every purchase is backed by our 60-day money-back guarantee — no questions asked.
+  > We offer you a backup DVD containing all products from your order. This way, you always have a backup copy of your software at hand—useful, for example, if you ever need to reformat your hard drive or purchase a new computer.
+  > Your personal DVD will be delivered to you by mail. If your order is a pre-order, the DVD will be shipped as soon as the product becomes available.
+- **Page word count:** 717
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1827935/image/product/U01RS9HH.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

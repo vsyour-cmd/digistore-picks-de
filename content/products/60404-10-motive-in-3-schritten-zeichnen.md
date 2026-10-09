@@ -1,7 +1,7 @@
 # 10 Motive in 3 Schritten zeichnen
 
 > Product ID `60404` · Digistore24 productId `708614` · [HTML profile page](../../reviews/10-motive-in-3-schritten-zeichnen-60404.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Realistisch zeichnen lernen – 10 Motive Schritt für Schritt
+- **Meta description:** Lerne mit 10 leichten Schritt-für-Schritt-Anleitungen, realistische Motive sicher zu zeichnen. Ideal für Anfänger und Wiedereinsteiger.
+- **Headline (H1):**
+  > 10 faszinierende Motive in 3 Schritten zeichnen – Das Zeichenheft
+- **Section headlines (H3):**
+  - So detailliert und verständlich ist jede einzelne Schritt-für-Schritt-Anleitung aufgebaut:
+  - Ralf Wilhelm Schmidt – Künstler, Zeichner & Gründer von Schmidt’s Zeichenwelt
+  - Beginne mit 10 klar aufgebauten Schritt-für-Schritt-Anleitungen und entdecke, wie realistische Motive entstehen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/708614
+- **Opening copy (first paragraphs):**
+  > 14 Seiten PDF-Anleitung für Anfänger und Fortgeschrittene von Schmidts Zeichenwelt
+  > So detailliert und verständlich ist jede einzelne Schritt-für-Schritt-Anleitung aufgebaut:
+  > • Für Wiedereinsteiger, die ihre Zeichenfähigkeiten Schritt für Schritt auffrischen wollen
+  > Mit Herz und Leidenschaft erschaffe ich seit vielen Jahren realistische Bleistiftzeichnungen. Im Mittelpunkt meiner Kunst stehen die Natur, ihre Tiere und jene oft unscheinbaren Details, die einem Motiv Charakter und Lebendigkeit verleihen.
+- **Questions the sales page answers:**
+  - Für wen ist das PDF geeignet?
+- **Page word count:** 467
+- **OG image:** https://schmidtszeichenwelt.de/wp-content/uploads/2026/07/3-D-Titelblatt.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

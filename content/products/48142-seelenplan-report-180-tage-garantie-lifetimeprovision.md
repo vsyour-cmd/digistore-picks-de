@@ -1,7 +1,7 @@
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
 > Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../reviews/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,10 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** sandrahirsch.com
+- **Meta description:** Sandra Hirsch Seelenplan - Finde deine Bestimmung und deinen Lebensplan mit 180 Tagen Geld-zurück-Garantie.
+- **Page word count:** 1
+- **OG image:** /images/68c8fb10e05ff_sandraquotecverstandfrancesca-facebook.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

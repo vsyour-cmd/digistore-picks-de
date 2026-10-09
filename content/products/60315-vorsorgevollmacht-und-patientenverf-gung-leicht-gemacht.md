@@ -1,7 +1,7 @@
 # Vorsorgevollmacht und Patientenverfügung leicht gemacht
 
 > Product ID `60315` · Digistore24 productId `708732` · [HTML profile page](../../reviews/vorsorgevollmacht-und-patientenverf-gung-leicht-gemacht-60315.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen - Digistore24
+- **OG title:** Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+- **Section headlines (H3):**
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - KI für Senioren leicht gemacht – Ratgeber als PDF
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Ehepartner und Kinder dürfen nicht automatisch für Sie handeln. Ohne Vollmacht bestellt das Gericht einen Betreuer. Dieser Ratgeber erklärt verständlich, wie Sie vorsorgen, und enthält die Formulare dazu. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Vorsorgevollmacht: wem, wofür und in welcher Form ✔ Betreuungsverfügung verständlich erklärt ✔ Patientenverfügung: konkret und wirksam formulieren ✔ Notar, Beglaubigung, Bank und Vorsorgeregister ✔ Organspende, Bestattungswünsche und Zugänge im Internet ✔ Die häufigsten Fehler und ein Plan in fünf Schritten
+  > ✔ Vorsorgevollmacht ✔ Betreuungsverfügung ✔ Patientenverfügung ✔ Hinweiskarte fürs Portemonnaie und Übersicht „Wo liegt was?"
+  > Lieferumfang Sie erhalten den Ratgeber als PDF-Datei mit 25 Seiten , zum Lesen am Bildschirm und zum Ausdrucken.
+- **Questions the sales page answers:**
+  - Wer entscheidet für Sie, wenn Sie es selbst nicht mehr können?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+- **Page word count:** 1987
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/HMTKN22S.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
 
 > Product ID `60264` · Digistore24 productId `740831` · [HTML profile page](../../reviews/teilzeit-und-elternzeit-leicht-gemacht-ratgeber-rechner-60264.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner - Digistore24
+- **OG title:** Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
+- **Section headlines (H3):**
+  - Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
+  - Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
+  - Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
+  - Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie möchten Elternzeit nehmen oder weniger arbeiten und wissen nicht, wie Sie es richtig beantragen?
+  > Dieser Ratgeber erklärt Schritt für Schritt, welche Möglichkeiten Sie haben, welche Fristen gelten und was Sie tun, wenn der Arbeitgeber ablehnt. Mit dem Rechner sehen Sie Ihre Fristen mit Datum und erstellen Ihren Antrag. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Welcher Weg passt: Elternzeit, Brückenteilzeit oder dauerhafte Teilzeit ✔ Elternzeit richtig anmelden: Fristen, Form, Bindung ✔ Teilzeit in der Elternzeit ✔ Wenn der Arbeitgeber ablehnt ✔ Was Teilzeit für Gehalt, Urlaub und Rente bedeutet ✔ Zurück zu mehr Stunden ✔ 5 Musterbriefe und Checkliste
+  > ✔ Fristen für Elternzeit und Teilzeit mit Datum ✔ Neues Gehalt, Urlaubstage und Folgen für die Rente ✔ Brief-Generator für vier Anträge
+- **Questions the sales page answers:**
+  - Sie möchten Elternzeit nehmen oder weniger arbeiten und wissen nicht, wie Sie es richtig beantragen?
+  - Ihnen wurde gekündigt und Sie wissen nicht, was Sie jetzt tun müssen?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 2001
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/QPV78MH0.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

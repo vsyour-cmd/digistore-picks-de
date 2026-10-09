@@ -1,7 +1,7 @@
 # Widerspruch leicht gemacht – mit Widerspruchs-Generator
 
 > Product ID `60341` · Digistore24 productId `741719` · [HTML profile page](../../reviews/widerspruch-leicht-gemacht-mit-widerspruchs-generator-60341.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator - Digistore24
+- **OG title:** Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+- **Section headlines (H3):**
+  - Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Schwerbehindertenausweis leicht gemacht – Ratgeber + Vorteile-Rechner
+  - Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+  - Widerspruch leicht gemacht – Ratgeber + Widerspruchs-Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, wie Sie Widerspruch oder Einspruch einlegen, welche Frist gilt und wie Sie richtig begründen. Als Beilage erhalten Sie den Widerspruchs-Generator: eine Datei, die den letzten Tag der Frist berechnet und mit der Sie das fertige Schreiben als PDF speichern. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Widerspruch, Einspruch oder Klage: was wann gilt ✔ Die Frist und wie sie berechnet wird ✔ Form und Nachweis: so kommt das Schreiben sicher an ✔ Was in den Widerspruch gehört ✔ Die Begründung, mit typischen Fehlern in Bescheiden ✔ Muss ich trotzdem zahlen? ✔ Frist verpasst: was noch geht ✔ Kosten und Hilfe, Checkliste und Mustertexte
+  > ✔ Fristenrechner: zeigt den letzten Tag und die verbleibenden Tage ✔ Für Sozialbehörden, Verwaltungsbehörden, Finanzamt und Bußgeld ✔ Fertiges Schreiben mit Aktenzeichen und Begründung ✔ Akteneinsicht, Aussetzung und Eingangsbestätigung mit einem Haken ✔ 12 Designs
+  > Wichtig: Maßgeblich ist die Rechtsbehelfsbelehrung in Ihrem Bescheid. Der Fristenrechner liefert eine Orientierung, keine verbindliche Auskunft.
+- **Questions the sales page answers:**
+  - Sie haben einen Bescheid bekommen, den Sie für falsch halten?
+  - Kennen Sie Ihre Ansprüche?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+  - Sie sind dauerhaft krank oder eingeschränkt und wissen nicht, ob Ihnen ein Schwerbehindertenausweis zusteht?
+- **Page word count:** 2328
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/EO96H0YM.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

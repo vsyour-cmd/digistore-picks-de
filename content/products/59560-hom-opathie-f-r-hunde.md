@@ -1,7 +1,7 @@
 # Homöopathie Für Hunde
 
 > Product ID `59560` · Digistore24 productId `736267` · [HTML profile page](../../reviews/hom-opathie-f-r-hunde-59560.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Homöopathie Für Hunde - Digistore24
+- **OG title:** Homöopathie Für Hunde
+- **Section headlines (H2):**
+  - Homöopathie Für Hunde
+  - (e-Book)
+  - Du möchtest besser verstehen, was hinter der Homöopathie für Hunde steckt – weißt aber nicht, wo du anfangen sollst?
+  - Bonus
+  - (e-Book)
+  - -----------------------
+  - Homöopathie Für Hunde
+  - (e-Book)
+  - Du möchtest besser verstehen, was hinter der Homöopathie für Hunde steckt – weißt aber nicht, wo du anfangen sollst?
+  - Bonus
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du möchtest besser verstehen, was hinter der Homöopathie für Hunde steckt – weißt aber nicht, wo du anfangen sollst? Genau hier setzt „Homöopathie für Hunde“ an.
+  > Dieser praktische 30-Tage-Plan führt dich Schritt für Schritt durch die wichtigsten Grundlagen und hilft dir dabei, die Prinzipien der Homöopathie verständlich kennenzulernen – ohne unnötiges Fachwissen und ohne komplizierte Erklärungen.
+  > Statt dich durch unzählige Informationen arbeiten zu müssen, bekommst du eine klare Struktur für deinen Einstieg.
+  > So kannst du dir nach und nach Wissen aufbauen, Zusammenhänge verstehen und wichtige Grundlagen festigen – ganz in deinem eigenen Tempo.
+- **Questions the sales page answers:**
+  - Du möchtest besser verstehen, was hinter der Homöopathie für Hunde steckt – weißt aber nicht, wo du anfangen sollst?
+  - Für wen ist dieses Buch geeignet?
+- **Page word count:** 1914
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/35G1O2KG.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

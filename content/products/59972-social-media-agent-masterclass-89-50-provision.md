@@ -1,7 +1,7 @@
 # Social Media Agent Masterclass – 89 €, 50 % Provision
 
 > Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../reviews/social-media-agent-masterclass-89-50-provision-59972.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Social Media Agent Masterclass – Onlinekurs - Digistore24
+- **OG title:** Social Media Agent Masterclass – Onlinekurs
+- **Section headlines (H3):**
+  - Social Media Agent Masterclass – Onlinekurs
+  - Social Media Agent Masterclass – Onlinekurs
+  - Social Media Agent Masterclass – Onlinekurs
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Social Media Agent Masterclass – Onlinekurs zum Sofort-Download 70 Schritt-für-Schritt-Lektionen in 15 Modulen, im Browser zum Durchklicken
+  > 1x Social Media Agent Masterclass – Onlinekurs Sie erhalten das Produkt zum Download oder als Video stream
+  > Verkäufer und Vertragspartner ist Digistore24 GmbH. Es gelten unsere Allgemeinen Geschäftsbedingungen und unsere Widerrufsbelehrung .
+- **Page word count:** 273
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5904446/image/product/F6XTHFXF.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

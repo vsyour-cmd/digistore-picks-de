@@ -1,7 +1,7 @@
 # TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate
 
 > Product ID `59489` · Digistore24 productId `735841` · [HTML profile page](../../reviews/trade-04-gesch-ftsschutz-workbook-50-affiliate-59489.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** TRADE – Das Geschäft unter Kontrolle · Digilisator
+- **OG title:** TRADE – Das Geschäft unter Kontrolle
+- **Meta description:** TRADE 04 — Das Geschäft unter Kontrolle. SICHER · TRANSPARENT · NACHVOLLZIEHBAR. Klar Geschäfte. Anbieten→Ergebnis. 33 Seiten A4 PDF. Einmaliger Kauf über Digistore24.
+- **Headline (H1):**
+  > DAS GESCHÄFT UNTER KONTROLLE.
+- **Section headlines (H2):**
+  - Ein Workbook für klare Geschäfte
+  - TRADE kontrolliert das Geschäft
+  - Zwei konkrete Dinge — dein System
+  - Wenn Geschäfte digital laufen — und du Kontrolle behalten willst
+  - Acht Stationen — klar nachvollziehbar
+  - Dein System in klaren Feldern
+  - Vom Workbook zum klaren Überblick
+  - So sieht das System aus
+  - Sechs starke Gründe
+  - Was TRADE nicht ist
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735841
+- **Opening copy (first paragraphs):**
+  > TRADE – Das Geschäft unter Kontrolle Wer? Was? Bedingungen? Abschluss? Zahlung? Lieferung? Nachweis? Ergebnis — und wo greift dein KI-Agent ein?
+  > SICHER · TRANSPARENT · NACHVOLLZIEHBAR Kein Vertrags-Seminar. Keine Rechtsberatung. Ein persönliches TRADE-System : du machst Geschäfte klar — von Anbieten bis Ergebnis, inkl. Agenten-Kaufregeln.
+  > Was es ist Ein Workbook für klare Geschäfte TRADE ist kein Jura-Kurs und kein Shopping-Guide. Es geht um die greifbare Kette: Wer steht gegenüber? Was wurde vereinbart? Zu welchen Bedingungen? Was passiert nach dem Klick — und was darf ein KI-Agent dabei?
+  > Du entwickelst dein persönliches Handelsregelwerk und einen TRADE-Datensatz — damit Geschäfte nachvollziehbar bleiben, bevor, während und nachdem etwas abgeschlossen wird.
+- **Page word count:** 1031
+- **OG image:** cover.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

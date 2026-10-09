@@ -1,7 +1,7 @@
 # Angebote schreiben leicht gemacht – mit Angebots-Generator
 
 > Product ID `60334` · Digistore24 productId `741650` · [HTML profile page](../../reviews/angebote-schreiben-leicht-gemacht-mit-angebots-generator-60334.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Angebote schreiben leicht gemacht – Ratgeber + Angebots-Generator - Digistore24
+- **OG title:** Angebote schreiben leicht gemacht – Ratgeber + Angebots-Generator
+- **Section headlines (H3):**
+  - Angebote schreiben leicht gemacht – Ratgeber + Angebots-Generator
+  - Angebote schreiben leicht gemacht – Ratgeber + Angebots-Generator
+  - Angebote schreiben leicht gemacht – Ratgeber + Angebots-Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, woran Sie mit einem Angebot gebunden sind, wie lange es gilt und was hineingehört. Als Beilage erhalten Sie den Angebots-Generator: eine Datei, in der Sie Ihre Leistungen eintragen und das fertige Angebot als PDF speichern. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Angebot, Kostenvoranschlag, Auftragsbestätigung: die Unterschiede ✔ Wann Sie gebunden sind und wie lange ein Angebot gilt ✔ Was in ein gutes Angebot gehört ✔ Preise richtig angeben, für Privat- und Geschäftskunden ✔ Zahlungsbedingungen und Abschlagszahlungen ✔ Widerrufsrecht bei Verträgen beim Kunden zu Hause ✔ Checkliste und Mustertexte
+  > ✔ 12 Designs, mit eigener Farbe und eigenem Logo ✔ Rechnet Beträge, Rabatt, Mehrwertsteuer und Summe selbst ✔ Optionale Positionen für Wahlleistungen ✔ Verbindlich oder freibleibend, mit Gültigkeitsdatum ✔ Zeile „Auftrag erteilt" für die Unterschrift des Kunden ✔ Auch als Kostenvoranschlag und Auftragsbestätigung ✔ Für Kleinunternehmer und Regelbesteuerte
+  > Wichtig: Der Generator enthält keine Widerrufsbelehrung. Wer mit Privatkunden außerhalb der eigenen Geschäftsräume Verträge schließt, legt die Belehrung nach dem gesetzlichen Muster gesondert bei.
+- **Questions the sales page answers:**
+  - Sie wollen ein Angebot schreiben, das gut aussieht und rechtlich passt?
+- **Page word count:** 936
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/J1IACKBD.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

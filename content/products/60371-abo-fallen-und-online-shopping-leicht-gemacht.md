@@ -1,7 +1,7 @@
 # Abo-Fallen und Online-Shopping leicht gemacht
 
 > Product ID `60371` · Digistore24 productId `741988` · [HTML profile page](../../reviews/abo-fallen-und-online-shopping-leicht-gemacht-60371.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Abo-Fallen und Online-Shopping leicht gemacht – Ratgeber + Abo-Helfer - Digistore24
+- **OG title:** Abo-Fallen und Online-Shopping leicht gemacht – Ratgeber + Abo-Helfer
+- **Section headlines (H3):**
+  - Abo-Fallen und Online-Shopping leicht gemacht – Ratgeber + Abo-Helfer
+  - Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
+  - Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Abo-Fallen und Online-Shopping leicht gemacht – Ratgeber + Abo-Helfer
+  - Abo-Fallen und Online-Shopping leicht gemacht – Ratgeber + Abo-Helfer
+  - Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
+  - Reklamation leicht gemacht – Ratgeber + Reklamations-Generator
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Eine Rechnung für ein Abo, das Sie nie wollten? Mahnungen vom Inkassobüro? Oder Angst, im Internet auf einen falschen Shop hereinzufallen?
+  > Dieser Ratgeber zeigt verständlich, wie Sie Abo-Fallen erkennen, unberechtigte Forderungen abwehren und sicher online einkaufen. Als Beilage erhalten Sie den Abo-Helfer: eine Datei, die die nötigen Briefe schreibt, Fristen berechnet und zeigt, was Ihre Abos kosten. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ So funktionieren Abo-Fallen ✔ Wann gar kein Vertrag besteht ✔ Sich wehren: bestreiten, widerrufen, anfechten ✔ Mahnung, Inkasso, Mahnbescheid: was wirklich gefährlich ist ✔ Laufende Abos: Laufzeit und Kündigung ✔ Fake-Shops erkennen ✔ Sicher bezahlen im Internet ✔ Widerruf und Rücksendung ✔ Lieferung, Marktplätze, Bestellungen im Ausland ✔ Checkliste
+  > ✔ Schreiben „Forderung bestreiten" gegen Abo-Fallen ✔ Antwort an ein Inkassobüro ✔ Widerruf und Kündigung ✔ Letzter Tag für Widerruf und Rückgabe einer Lastschrift ✔ Übersicht Ihrer Abos mit Kosten im Monat und im Jahr
+- **Questions the sales page answers:**
+  - Eine Rechnung für ein Abo, das Sie nie wollten? Mahnungen vom Inkassobüro? Oder Angst, im Internet auf einen falschen Shop hereinzufallen?
+  - Ein merkwürdiger Anruf, eine SMS vom Paketdienst, ein Shop mit Traumpreisen: echt oder Betrug?
+  - Die Ware ist kaputt, gefällt nicht oder kommt gar nicht an?
+- **Page word count:** 2351
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/1UQXT1EL.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

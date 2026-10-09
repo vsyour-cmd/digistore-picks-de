@@ -1,7 +1,7 @@
 # Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion
 
 > Product ID `59997` · Digistore24 productId `717711` · [HTML profile page](../../reviews/kampagne24-der-promo-kalender-alle-launches-und-promotion-59997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Promo-Kalender für Kampagne24-Partner · 37 € einmalig
+- **Meta description:** Der Promo-Kalender bündelt jede deiner E-Mail-Promotions an einem Ort: mit einem Klick als Promotion übernehmen, Affiliate-ID eintragen, fertigen Link direkt in dein E-Mail-Programm einfügen.
+- **Headline (H1):**
+  > Der Link war doch irgendwo. Nur wo?
+- **Section headlines (H2):**
+  - Schluss mit dem Kalender-Chaos. Schluss mit dem Suchen.
+  - JA,
+  - Ein Blick in den Promo-Kalender
+  - Noch kurz Fragen?
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/717711
+- **Opening copy (first paragraphs):**
+  > Der Promo-Kalender bündelt jede deiner E-Mail-Promotions an einem Ort, mit fertigem Affiliate-Link.
+  > Einführungspreis: Sichere dir den Promo-Kalender jetzt für einmalig 37 €. Der Preis kann mit zukünftigen Erweiterungen jederzeit steigen.
+  > Plane deine E-Mail-Promotions im Voraus, statt sie in letzter Minute zusammenzusuchen
+  > Alle Vendoren und Partnerprogramme an einem Ort, statt verstreut in Notizen und Tabs
+- **Page word count:** 769
+- **OG image:** https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c700c9b5-8f23-4a7f-84f5-d2857e874e23/id-preview-9af1e0f5--262b4b67-3995-468e-9b8f-e73d1c4bae08.lovable.app-1782380868565.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

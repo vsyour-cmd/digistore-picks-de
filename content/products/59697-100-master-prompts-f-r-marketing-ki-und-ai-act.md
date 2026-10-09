@@ -1,7 +1,7 @@
 # 100 Master-Prompts für Marketing-KI und AI Act
 
 > Product ID `59697` · Digistore24 productId `649003` · [HTML profile page](../../reviews/100-master-prompts-f-r-marketing-ki-und-ai-act-59697.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** FÜR KMU AGENTUREN: AI Act - Urheberrechts-Compliance — 100 Master-Prompts für rechtssichere Marketing-KI - Digistore24
+- **OG title:** FÜR KMU AGENTUREN: AI Act - Urheberrechts-Compliance — 100 Master-Prompts für rechtssichere Marketing-KI
+- **Section headlines (H2):**
+  - AI Act & Urheberrechts-Compliance 2026/2027 – 100 Master-Prompts für Marketing-KI
+  - AI Act & Urheberrechts-Compliance 2026/2027 – 100 Master-Prompts für Marketing-KI
+  - AI Act & Urheberrechts-Compliance 2026/2027 – 100 Master-Prompts für Marketing-KI
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für KMU, Agenturen, Online-Shops, Freelancer und Marketing-Teams, die generative KI professioneller, transparenter und besser dokumentiert nutzen möchten. Dieses digitale Prompt-Kit unterstützt Unternehmen dabei, KI-generierte Texte, Bilder, Videos, Chatbot-Inhalte und Marketingmaterialien strukturierter zu prüfen, korrekt zu kennzeichnen und urheberrechtliche Risiken bewusster zu minimieren.
+  > Sie erhalten 100 sofort nutzbare Master-Prompts für typische Aufgaben rund um AI-Act-Transparenz, Kennzeichnungspflichten, Urheberrechtsprüfung, TDM-Opt-Out, Tool-Auswahl, interne Richtlinien, Content-Logbuch, Freigabeprozesse, Chatbot-Hinweise und Audit-Vorbereitung.
+  > Das Prompt-Kit ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre Unternehmensdaten, Kampagnendaten, Toolnamen, Content-Art, Freigabeschritte oder konkreten Prüffragen.
+  > Der erzeugte Output sollte anschließend fachlich geprüft, angepasst und mit Datum, genutztem KI-System, Verantwortlichem, Prüfschritt und Freigabe intern dokumentiert werden. So entsteht Schritt für Schritt ein nachvollziehbarer Workflow für die geschäftliche Nutzung generativer KI.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2044
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/DPLZ073N.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

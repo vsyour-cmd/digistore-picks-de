@@ -1,7 +1,7 @@
 # Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision
 
 > Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../reviews/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Sito + gestionale clienti: 2.990 € più IVA | DirezioneX
+- **OG title:** DirezioneX | Agenzia di Marketing
+- **Meta description:** Il sito fino a 12 pagine più un programma dove finiscono tutti i clienti: chi ha chiesto un preventivo, chi ha un appuntamento, a chi chiedere una recensione.
+- **Headline (H1):**
+  > Sito + gestionale clienti
+- **Section headlines (H2):**
+  - In pratica .
+  - Per chi è .
+  - Cosa succede dopo .
+  - Domande .
+- **Price mentions on page:** $12, $21
+- **Opening copy (first paragraphs):**
+  > Siti e negozi online Sito + gestionale clienti Il sito fino a 12 pagine più un programma dove finiscono tutti i clienti: chi ha chiesto un preventivo, chi ha un appuntamento, a chi chiedere una recensione.
+  > Si apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.
+  > Ogni richiesta dal sito diventa una scheda cliente. Niente più foglietti e messaggi persi.
+  > Paghi sul modulo sicuro di Digistore24. 2 Fissiamo la videochiamata Dopo il pagamento ti scriviamo per scegliere giorno e ora.
+- **Questions the sales page answers:**
+  - Che differenza c’è col sito professionale?
+  - Devo cambiare il mio modo di lavorare?
+- **Page word count:** 340
+- **OG image:** https://www.direzionex.com/og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

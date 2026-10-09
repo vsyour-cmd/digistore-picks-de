@@ -1,7 +1,7 @@
 # 50 Startideen für Digistore24 - optionales PDF-Ideenpaket
 
 > Product ID `59484` · Digistore24 productId `735787` · [HTML profile page](../../reviews/50-startideen-f-r-digistore24-optionales-pdf-ideenpaket-59484.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 50 Startideen für Digistore24 - optionales Zusatzpaket - Einfach mit Matze
+- **Headline (H1):**
+  > 50 Startideen für Digistore24 - optionales Zusatzpaket
+  > 50 Startideen für Digistore24
+- **Section headlines (H2):**
+  - Von der Themenliste zum ersten Test
+  - Optional bedeutet optional.
+  - Download und Nutzung
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735787
+- **Opening copy (first paragraphs):**
+  > FREIWILLIGES ZUSATZPAKET · PDF-DOWNLOAD 50 Startideen für Digistore24 Finde einen konkreten Ansatz und prüfe ihn im Kleinen.
+  > 25 Affiliate-Ansätze und 25 Ideen für eigene digitale Produkte – jeweils mit Zielgruppe, Problem, Angebotsansatz und einem ersten Test.
+  > Von der Themenliste zum ersten Test Das Paket hilft dir, Ideen einzugrenzen und mit echten Fragen deiner Zielgruppe abzugleichen. Es enthält eine Auswahlhilfe und einen 7-Tage-Testplan, damit du nicht 50 Projekte gleichzeitig beginnst.
+  > Die Vorschläge sind keine Zusage, dass ein bestimmtes Angebot auf dem Marktplatz verfügbar ist. Sie sind auch kein Nachweis von Suchvolumen, Nachfrage oder möglichen Einnahmen. Genau das prüfst du vor deiner Umsetzung.
+- **Page word count:** 517
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

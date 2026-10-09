@@ -1,7 +1,7 @@
 # Weniger Ist Mehr
 
 > Product ID `60274` · Digistore24 productId `742853` · [HTML profile page](../../reviews/weniger-ist-mehr-60274.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Weniger Ist Mehr - Digistore24
+- **OG title:** Weniger Ist Mehr
+- **Section headlines (H2):**
+  - Weniger Ist Mehr
+  - (eBook)
+  - -------------
+  - ------------
+  - 30 Tage, die deinen Alltag leichter machen können
+  - Dein Alltag muss nicht perfekt sein
+  - Kleine Schritte statt großer Vorsätze
+  - Für dich, wenn du …
+  - Was dich im Buch erwartet
+  - Stell dir vor …
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Vielleicht kennst du das Gefühl: Der Tag ist eigentlich noch gar nicht vorbei, aber dein Kopf ist bereits völlig erschöpft. Gedanken kreisen, Aufgaben stapeln sich und selbst in ruhigen Momenten fällt es schwer, wirklich abzuschalten.
+  > „Weniger ist mehr“ zeigt dir einen einfachen und alltagstauglichen Weg, Schritt für Schritt wieder mehr Ruhe in dein Leben zu bringen.
+  > Der 30-Tage-Plan führt dich jeden Tag durch eine kleine, überschaubare Veränderung. Statt dich mit komplizierten Methoden oder einer langen To-do-Liste zu überfordern, lernst du, bewusst Dinge wegzulassen, Prioritäten zu setzen und deinem Kopf wieder mehr Raum zu geben.
+  > Denn häufig entsteht Stress nicht nur durch die Menge unserer Aufgaben. Auch ständige Erreichbarkeit, zu viele Entscheidungen, überhöhte Erwartungen und der Anspruch, alles gleichzeitig schaffen zu müssen, können uns Energie rauben.
+- **Questions the sales page answers:**
+  - Was brauche ich wirklich – und was darf weg?
+- **Page word count:** 2428
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/XBYD0YST.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

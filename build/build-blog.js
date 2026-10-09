@@ -174,12 +174,72 @@ function checklist() {
   }));
 }
 
+// ---------- Kategorie-Guides ----------
+function categoryGuides() {
+  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Computer & Internet", "Family & Children", "Dating, Relationships & Romance", "Software", "Social Media"];
+  for (const label of majors) {
+    const cat = DATA.categories.find((c) => c.label === label);
+    if (!cat) continue;
+    const items = products.filter((p) => (p.categoryIds || []).includes(String(cat.catId)));
+    if (!items.length) continue;
+    const top = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 15);
+    const avgPrice = items.reduce((a, p) => a + (p.price || 0), 0) / items.length;
+    const types = {};
+    for (const p of items) types[p.typeDe] = (types[p.typeDe] || 0) + 1;
+    const topTypes = Object.entries(types).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([t, n]) => `${esc(t)} (${n})`).join(", ");
+    const minP = Math.min(...items.map((p) => p.price || 0));
+    const maxP = Math.max(...items.map((p) => p.price || 0));
+    const newest = new Date(Math.max(...items.map((p) => new Date(p.createdAt).getTime()))).toISOString().slice(0, 10);
+    const body = `
+<article class="review">
+<h1>${esc(catName(cat))} auf Digistore24: der Daten-Guide</h1>
+<p class="sub">Von ${SITE_NAME} · Datenstand ${UPDATED} · ${items.length} Angebote analysiert</p>
+
+<div class="notice"><b>Recherche-Methode:</b> dieser Guide wird aus dem offiziellen Digistore24-Marktplatz-Eintrag jedes <b>deutschsprachigen</b> Angebots dieser Kategorie berechnet — Preise, Provisionen, Konversions- und Stornoquoten, wie sie Affiliates gemeldet werden. Keine Praxis-Behauptungen zu Produkten.</div>
+
+<div class="tldr"><b>Kernaussagen</b> (Datenstand ${UPDATED}):
+<ul>
+<li>Das Regal <b>${esc(catName(cat))}</b> hält aktuell <b>${items.length} deutschsprachige Angebote</b> (Bereich: ${esc(cat.sectionDe || cat.section)}). Durchschnittspreis: <b>${money(avgPrice, "USD")}</b>.</li>
+<li>Spannbreite der Listenpreise: <b>${money(minP, "USD")}</b> bis <b>${money(maxP, "USD")}</b>; Provisionen von <b>${pct(Math.min(...items.map((p) => p.commission || 0)))}</b> bis <b>${pct(Math.max(...items.map((p) => p.commission || 0)))}</b>.</li>
+<li>Häufigste Produkttypen: ${topTypes}. Neueste Listung: <b>${newest}</b>.</li>
+</ul>
+</div>
+
+<p>Wer in <b>${esc(catName(cat).toLowerCase())}</b> auf Digistore24 kaufen oder als Affiliate bewerben will, findet hier die 15 größten Angebote nach Verdienst pro Verkauf — mit allen Marktplatz-Zahlen auf einen Blick.</p>
+
+<h2>Die 15 größten Angebote nach Verdienst/Verkauf</h2>
+<table class="specs">
+<tr><th>#</th><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Checkout-CR*</th></tr>
+${tableRows(top)}
+</table>
+<p class="sub">* Checkout-Konversion = Anbieter-seitige Marktplatz-Daten, abhängig von der Traffic-Qualität — keine Prognose Ihrer Ergebnisse.</p>
+
+<p>Jedes Produkt verlinkt auf ein vollständiges Profil mit Stornoquote, Anbieter und Listungsalter. Ganze Kategorie: <a href="../kategorie/${cat.file}.html">alle ${items.length} Angebote in ${esc(catName(cat))}</a>. Kurzentschlossene: <a href="../empfehlungen/beste-${cat.file}.html">die rechnerischen Top-Empfehlungen</a>.</p>
+</article>`;
+    fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(catName(cat))}.html`), layout({
+      title: `${catName(cat)} auf Digistore24: ${items.length} Angebote analysiert — ${SITE_NAME}`,
+      desc: `Daten-Guide zu ${items.length} ${catName(cat)}-Produkten auf Digistore24: Preise, Provisionen, Konversion. Stand ${UPDATED}.`,
+      body, rel: "..", file: `guide-${slug(catName(cat))}.html`,
+    }));
+  }
+}
+
 // ---------- Blog-Index ----------
 function blogIndex() {
   const files = [
     ["top-20-hoechster-verdienst-digistore24-produkte.html", `Die 20 Digistore24-Produkte mit dem höchsten Verdienst`, `Alle ${DATA.total} deutschen Angebote nach offiziellem Verdienst pro Verkauf. Automatisch aktualisiert.`],
     ["digistore24-zahlen-checkliste.html", "Kaufen oder bewerben? Der 6-Punkte-Zahlen-Check", "Die Methode hinter jedem Profil dieser Website — auf jedes Angebot anwendbar."],
   ];
+  // Kategorie-Guides ergänzen (bereits generierte Dateien)
+  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Computer & Internet", "Family & Children", "Dating, Relationships & Romance", "Software", "Social Media"];
+  for (const label of majors) {
+    const cat = DATA.categories.find((c) => c.label === label);
+    if (!cat) continue;
+    const f = `guide-${slug(catName(cat))}.html`;
+    if (fs.existsSync(path.join(ROOT, "blog", f))) {
+      files.push([f, `${catName(cat)} auf Digistore24: der Daten-Guide`, `${cat.count} Angebote analysiert: Preis-/Provisionsspannen, Top-Angebote, Aktualität.`]);
+    }
+  }
   const bestOf = DATA.categories.filter((c) => c.count >= 8).sort((a, b) => b.count - a.count).slice(0, 10);
   const body = `
 <h1>Blog</h1>
@@ -202,5 +262,6 @@ ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span cla
 fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
 top20();
 checklist();
+categoryGuides();
 blogIndex();
 console.log("blog (DE) built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");

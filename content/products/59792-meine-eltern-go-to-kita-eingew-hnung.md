@@ -1,7 +1,7 @@
 # "Meine Eltern go to Kita"-Eingewöhnung
 
 > Product ID `59792` · Digistore24 productId `737081` · [HTML profile page](../../reviews/meine-eltern-go-to-kita-eingew-hnung-59792.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Meine Eltern go to Kita
+- **Meta description:** Landingpage
+- **Final URL after redirects:** https://kita-ratgeber-online.de/
+- **Section headlines (H2):**
+  - Was gewinnen Sie im ersten Ratgeber über die Eingewöhnung?
+  - Die Themen des Ratgebers: "Meine Eltern go to Kita":
+  - Über Mich, about me [emailprotected]
+  - Eingewöhnung: Die Gliederung des ersten Ratgebers, The Contents of the first Guide.
+  - Fragen & Antworten
+  - Rechtliche Hinweise & Impressum
+- **Opening copy (first paragraphs):**
+  > – Der Ratgeber (im PDF-Format) über Eingewöhnung ist jetzt verfügbar. – Die Ratgeber sind praktische Informationen (im PDF-Format) für Eltern aus meiner Erfahrung als Pädagogin & Mutter. Erklärt in simplem Englisch-Deutsch mit Farbsystem – Die Ratgeber kann be online oder Download read, gelesen werden. Must be printed in color. Ein Farbdruck ist empfohlen. – Der Preis ist 18€ pro Ratgeber.
+  > Mein Name ist Shira Binyamen und ich bin staatlich anerkannte Erzieherin mit über 3 Jahren, years Berufserfahrung, professional experience. Die Ausbildung zur Pädagogin schließe ich im Juli 2026 an der Schule „Concept“ in Berlin ab. Aus den beiden Aufgaben – Mutter und Pädagogin – ist es mir wichtig, important, das Kita-System für die Eltern verständlich zu machen, easier to understand. Why? damit es für die Kinder, children im Kita-Alltag easier, leichter wird.
+  > Die Themen des Ratgebers: "Meine Eltern go to Kita": 1. Eingewöhnung 2. Mehrsprachigkeit/Multilingualismus Kommt bald raus!
+  > Über Mich, about me [emailprotected] Mein Name ist Shira Binyamen und ich bin staatlich anerkannte Erzieherin mit über 3 Jahren, years Berufserfahrung, professional experience. Die Ausbildung zur Pädagogin schließe ich im Juli 2026 an der Schule „Concept“ in Berlin ab. Aus den beiden Aufgaben – Mutter und Pädagogin – ist es mir wichtig, important, das Kita-System für die Eltern verständlich zu machen, easier to understand. Why? damit es für die Kinder, children im Kita-Alltag easier, leichter wird. Bestellen via Digitstore24
+- **Page word count:** 1214
+- **OG image:** https://kita-ratgeber-online.de/assets/images/card.jpg?v=ee61235c
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

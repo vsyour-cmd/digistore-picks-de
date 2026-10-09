@@ -1,7 +1,7 @@
 # Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P
 
 > Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../reviews/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Linux statt Windows - Das Praxisbuch für den Umstieg | PDF-Download
+- **OG title:** Linux statt Windows - Das Praxisbuch für den Umstieg
+- **Meta description:** Der praxisnahe Ratgeber für den kompletten Umstieg von Windows auf Linux - ohne Vorkenntnisse. Aktuell für Ubuntu 26.04 LTS. Sofort als PDF.
+- **Final URL after redirects:** https://shop.code-content-ai.com/linux-statt-windows/
+- **Headline (H1):**
+  > Linux statt Windows
+- **Section headlines (H2):**
+  - Windows nervt - aber der Wechsel wirkt unmöglich
+  - Alles an einem Ort - statt zwanzig offene Browser-Tabs
+  - Was dich im Buch erwartet
+  - Was dich nach der Lektüre erwartet
+  - Für wen ist das Buch gemacht?
+  - Geschrieben von jemandem, der es täglich lebt
+  - Was Leser der ersten Auflage sagen
+  - Drei kostenlose PDFs zum Reinschnuppern
+  - Die Umstiegs-Checkliste: Windows &rarr; Ubuntu
+  - Einmal kaufen. Für immer nutzen.
+- **Opening copy (first paragraphs):**
+  > Dein PC ist nicht zu alt. Ihm fehlt nur das passende System. Dieses Buch führt dich Schritt für Schritt von Windows zu Ubuntu 26.04, auch wenn du noch nie ein Terminal geöffnet hast.
+  > ★★★★★ „Meine größte Sorge war das Terminal. Überraschenderweise hat mir das Buch genau diese Angst genommen.“ Leser der 1. Auflage, über 60, nach 30 Jahren Windows umgestiegen (Amazon-Rezension)
+  > Für Einsteiger Kennst du das? Windows nervt - aber der Wechsel wirkt unmöglich Viele wollen schon lange weg von Windows. Aber dann kommen die Zweifel. Genau dafür ist dieses Buch geschrieben.
+  > Und so bleibt der Umstieg oft ein Vorhaben für „irgendwann“. Nur läuft die Zeit: Sicherheitsupdates für Windows 10 gibt es noch bis zum 12. Oktober 2027. Danach bleiben ein neuer PC, ein ungeschütztes System oder der Wechsel. Wer jetzt in Ruhe umsteigt, entscheidet selbst, statt unter Zeitdruck.
+- **Page word count:** 1655
+- **OG image:** https://shop.code-content-ai.com/linux-statt-windows/cover.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

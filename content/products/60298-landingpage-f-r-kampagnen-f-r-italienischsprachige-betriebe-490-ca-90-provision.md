@@ -1,7 +1,7 @@
 # Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision
 
 > Product ID `60298` · Digistore24 productId `741567` · [HTML profile page](../../reviews/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pagina unica per farti contattare: 490 € più IVA | DirezioneX
+- **OG title:** DirezioneX | Agenzia di Marketing
+- **Meta description:** Una pagina sola che dice una cosa sola e finisce con un bottone: chiama, scrivi, prenota.
+- **Headline (H1):**
+  > Pagina unica per farti contattare
+- **Section headlines (H2):**
+  - In pratica .
+  - Per chi è .
+  - Cosa succede dopo .
+  - Domande .
+- **Price mentions on page:** $12, $21
+- **Opening copy (first paragraphs):**
+  > Siti e negozi online Pagina unica per farti contattare Una pagina sola che dice una cosa sola e finisce con un bottone: chiama, scrivi, prenota.
+  > Si apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.
+  > Paghi sul modulo sicuro di Digistore24. 2 Fissiamo la videochiamata Dopo il pagamento ti scriviamo per scegliere giorno e ora.
+  > La pagina unica serve a una cosa sola: un’offerta, una campagna, un servizio. Il sito completo racconta tutta l’attività e si fa trovare su Google. Se hai una sola cosa da vendere subito, pagina unica.
+- **Questions the sales page answers:**
+  - Meglio la pagina unica o il sito completo?
+  - Si trova su Google?
+  - Posso riusarla per un’altra campagna?
+- **Page word count:** 361
+- **OG image:** https://www.direzionex.com/og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

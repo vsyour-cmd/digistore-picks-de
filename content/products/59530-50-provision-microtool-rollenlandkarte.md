@@ -1,7 +1,7 @@
 # 50% Provision: MicroTool RollenLandkarte
 
 > Product ID `59530` · Digistore24 productId `692789` · [HTML profile page](../../reviews/50-provision-microtool-rollenlandkarte-59530.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** NAVOK Dimension Rollen und Verantwortung - Playbook für Verantwortungsräume und wirksame Zusammenarbeit - Digistore24
+- **OG title:** NAVOK Dimension Rollen und Verantwortung - Playbook für Verantwortungsräume und wirksame Zusammenarbeit
+- **Section headlines (H3):**
+  - NAVOK Dimension Rollen und Verantwortung - Playbook für Verantwortungsräume und wirksame Zusammenarbeit
+  - NAVOK Dimension Führung - Playbook für Orientierung, Führung und verlässliche Umsetzung
+  - NAVOK Dimension Rollen und Verantwortung - Playbook für Verantwortungsräume und wirksame Zusammenarbeit
+  - NAVOK Dimension Rollen und Verantwortung - Playbook für Verantwortungsräume und wirksame Zusammenarbeit
+  - NAVOK Dimension Führung - Playbook für Orientierung, Führung und verlässliche Umsetzung
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Rollen sind benannt – aber nicht wirksam. Verantwortung verschwimmt, Übergaben enthalten Lücken, Entscheidungen hängen oder eskalieren chaotisch. Dieses Playbook zeigt, wie Rollen als System funktionieren: mit klaren Prinzipien, eindeutigen Verantwortungsräumen, stabilen Schnittstellen und Routinen, die Verantwortung im Alltag tragfähig machen.
+  > Enthaltene Werkzeuge: Rollen‑Diagnose RollenLeitbild‑Template RollenLandkarten‑Template Routinen‑ & Review‑Templates Praxisbeispiele & Mini‑Checks Zielgruppe & Einsatz
+  > Ideal für: Organisationsentwicklung HR Transformation Führungskräfte Project Management Office Projektleitungen interne Organisationsberater Typische Einsatzsituationen:
+  > Ralph Strobel — Organisationsarchitekt, Executive Consultant & Interim Manager. 70+ Mandate, über 2.300 begleitete Fach- und Führungskräfte.
+- **Page word count:** 1118
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5532076/image/product/97ULWKRZ.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Familienalltag leicht gemacht
 
 > Product ID `60378` · Digistore24 productId `742649` · [HTML profile page](../../reviews/familienalltag-leicht-gemacht-60378.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Familienalltag leicht gemacht – XXL Familien-Organizer zum Ausdrucken - Digistore24
+- **OG title:** Familienalltag leicht gemacht – XXL Familien-Organizer zum Ausdrucken
+- **Section headlines (H3):**
+  - Familienalltag leicht gemacht – XXL Familien-Organizer zum Ausdrucken
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Familienalltag leicht gemacht – XXL Familien-Organizer zum Ausdrucken
+  - Familienalltag leicht gemacht – XXL Familien-Organizer zum Ausdrucken
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Termine, Essen, Haushalt, Schule, Arzt und Geld: Wer soll da den Überblick behalten?
+  > Dieses E-Book bringt alles an einen Ort. Es enthält 34 Blätter zum Ausdrucken, vom Wochenplan über den Putzplan bis zur Notfallnummer, und eine Anleitung für Ihren Familienordner.
+  > Was Sie erhalten Sie erhalten das digitale E-Book „Familienalltag leicht gemacht" im PDF-Format mit 41 Seiten. Die beschriebenen Planer, Checklisten und Vorlagen sind Bestandteil des E-Books. Das E-Book wird nach erfolgreicher Bezahlung digital als Download bereitgestellt. Kein physischer Versand.
+  > Den Download-Link erhalten Sie zusätzlich per E-Mail. Einmaliger Kauf, kein Abonnement.
+- **Questions the sales page answers:**
+  - Termine, Essen, Haushalt, Schule, Arzt und Geld: Wer soll da den Überblick behalten?
+  - Sie wollen Ihr Jahr 2027 planen, mit den richtigen Feiertagen für Ihr Bundesland?
+  - Am Monatsende ist das Geld weg, und Sie wissen nicht genau, wohin?
+- **Page word count:** 1697
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/6MX6P56Z.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

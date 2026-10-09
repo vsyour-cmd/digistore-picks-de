@@ -1,7 +1,7 @@
 # Story Sales System - 30 Stories für mehr Verkäufe.
 
 > Product ID `60208` · Digistore24 productId `719244` · [HTML profile page](../../reviews/story-sales-system-30-stories-f-r-mehr-verk-ufe-60208.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Srory Sales System - 30 Story-Sequenzen für mehr Verkäufe - Digistore24
+- **OG title:** Srory Sales System - 30 Story-Sequenzen für mehr Verkäufe
+- **Section headlines (H3):**
+  - Srory Sales System - 30 Story-Sequenzen für mehr Verkäufe
+  - Srory Sales System - 30 Story-Sequenzen für mehr Verkäufe
+  - Srory Sales System - 30 Story-Sequenzen für mehr Verkäufe
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Story Sales System Digitales Produkt - sofortnach dem Kauf als Download verfügbar.
+  > ✅ Faceless-Visualideen für jede Story ✅ Story-Seguenzen für Aufmerksamkeit, Vertrauen und Verkäufe
+  > Story Sales System Digitales Produkt - sofortnach dem Kauf als Download verfügbar.
+  > ✅ Faceless-Visualideen für jede Story ✅ Story-Seguenzen für Aufmerksamkeit, Vertrauen und Verkäufe
+- **Page word count:** 384
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5508066/image/product/SY5NU3RT.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

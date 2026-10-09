@@ -1,7 +1,7 @@
 # Deine Energie gehört dir
 
 > Product ID `60055` · Digistore24 productId `738771` · [HTML profile page](../../reviews/deine-energie-geh-rt-dir-60055.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Deine Energie gehört dir - Digistore24
+- **OG title:** Deine Energie gehört dir
+- **Section headlines (H3):**
+  - Deine Energie gehört dir
+  - Deine Energie gehört dir
+  - Dein Begleiter für:
+  - Für wen?
+  - Deine Energie gehört dir
+  - Deine Energie gehört dir
+  - Dein Begleiter für:
+  - Für wen?
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieses Buch zeigt dir einen bodenständigen Weg, wie du dich schützt und klare Grenzen ziehst – ganz ohne Schuldgefühle.
+  > Orientierung im Alltag: Finde deinen Weg in Beziehungen, im Beruf und im Umgang mit digitalen Reizen.
+  > Für alle Empathen und sensiblen Menschen, die sich nach mehr emotionaler Leichtigkeit sehnen und endlich wieder bei sich selbst bleiben wollen.
+  > Du erhälst dieses Produkt als digitales E-Book direkt nach dem Kauf per Email/Download.
+- **Page word count:** 485
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5892482/image/product/4X6PNTGX.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

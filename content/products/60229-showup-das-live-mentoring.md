@@ -1,7 +1,7 @@
 # ShowUp - das Live-Mentoring
 
 > Product ID `60229` · Digistore24 productId `742548` · [HTML profile page](../../reviews/showup-das-live-mentoring-60229.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** ShowUp - Digistore24
+- **OG title:** ShowUp
+- **Headline (H1):**
+  > SHOWUP
+  > SHOWUP
+  > SHOWUP
+- **Section headlines (H3):**
+  - ShowUp
+  - 3 Monate Strategie- und Umsetzungsbegleitung für dein Business.
+  - Warum Abwarten Zeit und Geld kostet
+  - Was SHOWUP beinhaltet
+  - Für wen SHOWUP passt
+  - Eckdaten & Investment
+  - ShowUp
+  - 3 Monate Strategie- und Umsetzungsbegleitung für dein Business.
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du steckst Zeit und Arbeit in deinen Content, feilst an Angeboten und denkst über deine Preise nach. Trotzdem bleibt oft die Unsicherheit:
+  > Wenn du deinen aktuellen Engpass nicht kennst, investierst du Energie in Dinge, die dich wirtschaftlich nicht weiterbringen.
+  > In SHOWUP arbeiten wir sechs Monate lang an deinem konkreten Business. Sechs Monate geben uns genug Zeit, nicht nur einen Engpass zu erkennen, sondern Veränderungen umzusetzen, ihre Wirkung zu prüfen und danach den nächsten sinnvollen Schritt zu entscheiden.
+  > Der falsche Fokus kostet Energie. Du erstellst vielleicht wochenlang Content für ein Angebot, das nicht gekauft wird. Du schraubst an Preisen, obwohl das eigentliche Problem im Angebot oder Verkaufsweg liegt. Oder du versuchst zu wachsen, obwohl deine Abläufe das noch gar nicht aushalten.
+- **Questions the sales page answers:**
+  - Arbeite ich gerade am richtigen Thema?
+- **Page word count:** 1489
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5883830/image/product/3OUR54SL.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

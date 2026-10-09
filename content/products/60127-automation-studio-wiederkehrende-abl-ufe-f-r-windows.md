@@ -1,7 +1,7 @@
 # Automation Studio – Wiederkehrende Abläufe für Windows
 
 > Product ID `60127` · Digistore24 productId `740613` · [HTML profile page](../../reviews/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Automation Studio — Wiederkehrende Abläufe in Windows-Anwendungen automatisieren
+- **Meta description:** Automation Studio nimmt Ihnen wiederkehrende Klicks und Dateneingaben in Windows-Anwendungen ab: einmal aufzeichnen, beliebig oft automatisiert wiedergeben lassen — inklusive Bildanker-Suche, Wiederholungen und HTML-Bericht.
+- **Final URL after redirects:** https://inspiredsoftware.de/automationstudio/
+- **Headline (H1):**
+  > Nicht mehr jeden Tag dieselben Klicks. Automatisch erledigt.
+- **Section headlines (H2):**
+  - Einmal vormachen, Automation Studio übernimmt den Rest
+  - Was Automation Studio für Sie übernimmt
+  - Vom Klick zum fertigen Bericht in vier Schritten
+  - Mehr als ein einfacher Recorder
+  - Wohin die Reise geht
+  - Dokumentation
+  - Bereit, Ihre wiederkehrenden Abläufe zu automatisieren?
+- **Opening copy (first paragraphs):**
+  > In vielen Fachabteilungen klickt sich ein Mensch tagein, tagaus durch dieselbe Software- Anwendung — dieselben Masken, dieselben Eingaben, derselbe Ablauf. Das kostet Zeit und bindet Mitarbeiter für eine Tätigkeit, die keine einzige Entscheidung erfordert. Automation Studio übernimmt genau diese Klicks und Eingaben für Sie : einmal aufgezeichnet, spielt es denselben Ablauf beliebig oft automatisiert nach — zuverlässig, nachvollziehbar und ohne dass jemand danebensitzen muss.
+  > Kein bloßer Makro-Recorder: Automation Studio findet seine Klickziele über Bildanker wieder, statt sich starr auf Koordinaten zu verlassen — inklusive Retry-Logik und Toleranzsteuerung, damit ein Ablauf nicht bei jeder kleinen Layout-Verschiebung im nächsten Update abbricht.
+  > Von der Aufnahme bis zum fertigen Bericht deckt Automation Studio den kompletten Ablauf einer wiederkehrenden Aufgabe ab — ganz ohne Skript-Programmierung.
+  > Ein globaler Maus-/Tastatur-Mitschnitt erkennt Klicks, Doppelklicks, Ziehen, Scrollen, Tasteneingaben und Text automatisch und wandelt sie in benannte Arbeitsschritte um — inklusive Bildanker um den Klickpunkt sowie Fenster- und Steuerelement-Namen, damit auch ohne geöffnete Aufzeichnung erkennbar bleibt, was genau passiert ist.
+- **Page word count:** 1333
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

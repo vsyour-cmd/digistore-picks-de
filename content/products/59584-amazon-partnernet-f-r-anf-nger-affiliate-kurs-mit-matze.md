@@ -1,7 +1,7 @@
 # Amazon PartnerNet für Anfänger – Affiliate-Kurs mit Matze
 
 > Product ID `59584` · Digistore24 productId `736410` · [HTML profile page](../../reviews/amazon-partnernet-f-r-anf-nger-affiliate-kurs-mit-matze-59584.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Amazon PartnerNet für Anfänger – mit Matze - Digistore24
+- **OG title:** Amazon PartnerNet für Anfänger – mit Matze
+- **Section headlines (H3):**
+  - Amazon PartnerNet für Anfänger – mit Matze
+  - Amazon PartnerNet für Anfänger – mit Matze
+  - Amazon PartnerNet für Anfänger – mit Matze
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du möchtest amazon partnernet für anfänger praktisch angehen? In diesem Selbstlernkurs führt Matze dich von einer konkreten Aufgabe bis zu einem eigenen prüfbaren Ergebnis. Jede der sechs Lektionen erklärt einen Schritt, zeigt ein Beispiel und nennt eine Aufgabe sowie ein Kriterium zur Selbstkontrolle. Der durchgehende Musterfall mit Mara veranschaulicht die Methode; du trägst deine eigenen Beobachtungen in die Arbeitsmappe ein.
+  > Das lernst du: - Passende Inhalte zuerst - Programm und Kanal prüfen - Echte Produkterfahrung - Links und Kennzeichnung - Aktualität und Preisangaben - Pflege und Berichte
+  > Du erhältst: einen PDF-Kurs, eine separate PDF-Arbeitsmappe und bearbeitbare Markdown-Vorlagen als ZIP-Download. Du brauchst einen PDF-Leser und einen Texteditor. Zusätzliche Plattformkosten und Freigaben können für eigene Veröffentlichungen entstehen; sie sind nicht im Kurs enthalten.
+  > Für wen: Anfängerinnen und Anfänger, die ein eigenes kleines Projekt bearbeiten möchten. Du solltest bereit sein, die Schritte selbst umzusetzen und externe Regeln für deinen Markt zu prüfen.
+- **Page word count:** 827
+- **OG image:** https://www.digistore24.com/pb/img/merchant_1833505/image/product/LYMX1Y3G.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

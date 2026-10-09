@@ -1,7 +1,7 @@
 # 100 MedTech Master-Prompts für AI Act und MDR/IVDR
 
 > Product ID `59699` · Digistore24 productId `649025` · [HTML profile page](../../reviews/100-medtech-master-prompts-f-r-ai-act-und-mdr-ivdr-59699.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** MEDIZINTECHNIK 100 Master Prompts Repository: KI Compliance Zertifizierung EU AI Act und MDR IVDR Integration - Digistore24
+- **OG title:** MEDIZINTECHNIK 100 Master Prompts Repository: KI Compliance Zertifizierung EU AI Act und MDR IVDR Integration
+- **Section headlines (H2):**
+  - Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act & MDR/IVDR 2026/2027
+  - Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act & MDR/IVDR 2026/2027
+  - Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act & MDR/IVDR 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für Hersteller KI-gestützter Medizinprodukte, Regulatory Affairs, Qualitätsmanagement, Produktmanagement und Compliance-Teams. Dieses digitale Repository unterstützt MedTech-Unternehmen dabei, KI-bezogene Dokumentations-, Prüf- und Governance-Prozesse strukturierter vorzubereiten – insbesondere an der Schnittstelle von EU AI Act, MDR, IVDR, technischer Dokumentation, Daten-Governance, Human Oversight und Post-Market Monitoring.
+  > Sie erhalten 100 sofort nutzbare Master-Prompts für typische Aufgaben rund um Konformitätsbewertung, Risikomanagement, Datenqualität, Bias-Prüfung, technische Dokumentation, Audit-Trails, Gebrauchsanweisung, Human Oversight, Vigilanz, PMS und interne Compliance-Kommunikation.
+  > Das Repository ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre konkreten Produktdaten, Zweckbestimmung, Risikoklasse, Datensatzbeschreibung, Zielgruppe, Systemgrenzen oder internen Prozesse.
+  > Der erzeugte Output sollte anschließend durch qualifizierte Verantwortliche aus Regulatory Affairs, Qualitätsmanagement, klinischer Bewertung, Datenschutz, IT-Sicherheit oder Entwicklung geprüft, angepasst und freigegeben werden. Bei compliance-relevanter Nutzung empfiehlt sich eine nachvollziehbare Ablage von Prompt, Output, Datum, KI-System, Version, Zweck, Prüfschritt und Freigabe.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2147
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/TF4UH7A9.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
 
 > Product ID `60307` · Digistore24 productId `651351` · [HTML profile page](../../reviews/ruhefunken-5-tage-heilsame-regulation-mit-jennifer-60307.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer - Digistore24
+- **OG title:** RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
+- **Section headlines (H3):**
+  - RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
+  - RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
+  - RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mit der Traumaorientierten Körperzentrierten Hypnose und Jennifer als deine Begleiterin.
+  > Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen.
+  > Lass dich 5 Tage mit 5 Traumaorientierten Körperzentrierten Hypnosen in ein Gefühl von Sicherheit, Halt & Wert geleiten.
+  > Den Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy hast du für 5 Tage.
+- **Page word count:** 1080
+- **OG image:** https://www.digistore24.com/pb/img/merchant_807151/image/product/6XMFLV66.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

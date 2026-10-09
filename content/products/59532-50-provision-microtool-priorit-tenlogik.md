@@ -1,7 +1,7 @@
 # 50% Provision: MicroTool PrioritätenLogik
 
 > Product ID `59532` · Digistore24 productId `692792` · [HTML profile page](../../reviews/50-provision-microtool-priorit-tenlogik-59532.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** NAVOK Dimension Prioritäten - Playbook für Fokus, Ressourcensteuerung und Umsetzungskraft - Digistore24
+- **OG title:** NAVOK Dimension Prioritäten - Playbook für Fokus, Ressourcensteuerung und Umsetzungskraft
+- **Section headlines (H3):**
+  - NAVOK Dimension Prioritäten - Playbook für Fokus, Ressourcensteuerung und Umsetzungskraft
+  - NAVOK Dimension Entscheidungen - Playbook für Entscheidungswege, Geschwindigkeit und Verbindlichkeit
+  - NAVOK Dimension Prioritäten - Playbook für Fokus, Ressourcensteuerung und Umsetzungskraft
+  - NAVOK Dimension Prioritäten - Playbook für Fokus, Ressourcensteuerung und Umsetzungskraft
+  - NAVOK Dimension Entscheidungen - Playbook für Entscheidungswege, Geschwindigkeit und Verbindlichkeit
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Alles ist wichtig – und nichts kommt wirklich voran. Prioritäten wechseln, Ressourcen folgen Historie, Fokus kippt bei Druck. Dieses Playbook zeigt, wie Prioritäten als System funktionieren: mit klarer Logik, stabilen Kriterien, Routinen und einer Prioritätensteuerung, die Fokus und Umsetzungskraft dauerhaft sichert.
+  > Enthaltene Werkzeuge: Prioritäten‑Diagnose PrioritätenPrinzipien‑ & Logik‑Templates Routinen‑ & Review‑Templates Kapazitäts‑ & Fokus‑Checks Praxisbeispiele & Mini‑Checks Zielgruppe & Einsatz
+  > Ideal für: Führungskräfte & Management Organsiationsentwicklung Transformation Projekt‑ & Portfoliosteuerung HR Typische Einsatzsituationen:
+  > Ralph Strobel — Organisationsarchitekt, Executive Consultant & Interim Manager. 70+ Mandate, über 2.300 begleitete Fach- und Führungskräfte.
+- **Page word count:** 1079
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5532076/image/product/NI86JFPE.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

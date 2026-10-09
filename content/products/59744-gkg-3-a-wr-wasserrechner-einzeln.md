@@ -1,7 +1,7 @@
 # GKG-3.A WR Wasserrechner einzeln
 
 > Product ID `59744` · Digistore24 productId `732395` · [HTML profile page](../../reviews/gkg-3-a-wr-wasserrechner-einzeln-59744.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Garten klar geplant · Wasserrechner einzeln (Excel) - Digistore24
+- **OG title:** Garten klar geplant · Wasserrechner einzeln (Excel)
+- **Section headlines (H3):**
+  - Garten klar geplant · Wasserrechner einzeln (Excel)
+  - Garten klar geplant · Wasserrechner einzeln (Excel)
+  - Garten klar geplant · Wasserrechner einzeln (Excel)
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Das Excel-Werkzeug aus Modul 3.A einzeln: Regenwasserertrag Ihrer Dachflächen, Wasserbedarf von Garten und Haus, Zisternenbemessung mit Deckungsgrad und Wirtschaftlichkeit, Sickertest mit Messprotokoll, Versickerungsflächen und Bewässerungszonen mit Laufzeiten.
+  > Sieben Arbeitsblätter, alle Formeln offen und nachvollziehbar. Sofort nach dem Kauf zum Download.
+  > Das Excel-Werkzeug aus Modul 3.A einzeln: Regenwasserertrag Ihrer Dachflächen, Wasserbedarf von Garten und Haus, Zisternenbemessung mit Deckungsgrad und Wirtschaftlichkeit, Sickertest mit Messprotokoll, Versickerungsflächen und Bewässerungszonen mit Laufzeiten.
+  > Sieben Arbeitsblätter, alle Formeln offen und nachvollziehbar. Sofort nach dem Kauf zum Download.
+- **Page word count:** 287
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5864860/image/product/OY42K165.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

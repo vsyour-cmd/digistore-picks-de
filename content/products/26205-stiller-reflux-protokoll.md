@@ -1,7 +1,7 @@
 # Stiller Reflux Protokoll
 
 > Product ID `26205` · Digistore24 productId `151257` · [HTML profile page](../../reviews/stiller-reflux-protokoll-26205.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Stiller Reflux Protokoll: Onlinekurs gegen Stillen Reflux | Refluxgate
+- **OG title:** Refluxgate
+- **Meta description:** Das Stiller Reflux Protokoll: Erprobte Behandlungsstrategien, um Symptome wie Heiserkeit, Husten, Räuspern, Sinusitis und Asthma dauerhaft loszuwerden.
+- **Final URL after redirects:** https://www.refluxgate.de/stiller-reflux-protokoll/
+- **Headline (H1):**
+  > Willst du deine Symptome endgültig loswerden ?
+- **Section headlines (H2):**
+  - Du bist nicht allein
+  - Meine Suche nach einer funktionierenden Behandlung
+  - Stiller Reflux Protokoll
+  - Was du im Kurs lernst
+  - Willst du schnellstmögliche Hilfe?
+  - Was andere Teilnehmer zum Kurs sagen:
+  - Lege noch heute los
+  - Häufig gestellte Fragen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/151259
+  - https://www.digistore24.com/product/151257
+  - https://www.digistore24.com/product/65145
+- **Opening copy (first paragraphs):**
+  > Hey, ich bin Gerrit, Gründer von Refluxgate. Lass mich dir zeigen, wie ich und mehr als 5.500 Teilnehmer ihren Stillen Reflux in den Griff bekommen haben.
+  > Mittlerweile weiß ich: Weitaus mehr Menschen sind von ihr betroffen, als man denkt. Die meisten sind sich jedoch nicht bewusst, woher ihre Symptome überhaupt kommen.
+  > Da du hier bei mir gelandet bist, hast du schon einen wichtigen Schritt geschafft. Du weißt schon einmal, was Stiller Reflux ist.
+  > Die Meisten kommen gar nicht so weit. Viele Ärzte erkennen bisher noch nicht die Symptome von Stillem Reflux. Zudem ist in deutschen Arztpraxen wenig Zeit für Patienten vorhanden. Zu viele Patienten kommen auf zu wenige Ärzte.
+- **Page word count:** 2538
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

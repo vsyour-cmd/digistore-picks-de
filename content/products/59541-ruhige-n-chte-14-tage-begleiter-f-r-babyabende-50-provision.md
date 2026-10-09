@@ -1,7 +1,7 @@
 # Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision
 
 > Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../reviews/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Ruhige Nächte | 14-Tage-Begleiter für entspanntere Babyabende
+- **Meta description:** Ruhige Nächte hilft Eltern, ein passendes Abendritual aufzubauen, Schlafmuster 14 Tage lang zu beobachten und sicherer mit schwierigen Abenden umzugehen.
+- **Headline (H1):**
+  > Wenn jeder Abend anders läuft, fehlt nicht Liebe – sondern ein klarer Plan.
+- **Section headlines (H2):**
+  - Ihr probiert viel – aber könnt kaum erkennen, was wirklich hilft.
+  - Fünf Werkzeuge, die zusammenarbeiten.
+  - Kein leeres Versprechen. Das bekommst du.
+  - Heute anfangen. Vierzehn Tage beobachten. Dann gezielt behalten, was hilft.
+  - ihr Orientierung statt Druck sucht.
+  - Keine Schlafgarantie.
+  - Mehr Klarheit für eure Abende – ab heute.
+  - Vor dem Kauf
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735885?voucher=RUHIGE10
+- **Opening copy (first paragraphs):**
+  > „Ruhige Nächte“ hilft euch, ein passendes Abendritual aufzubauen, Müdigkeitssignale besser einzuordnen und 14 Tage lang zu erkennen, was eurem Baby wirklich guttut.
+  > Das eigentliche Problem Ihr probiert viel – aber könnt kaum erkennen, was wirklich hilft. Ein einzelner schwieriger Abend sagt wenig. Erst ein einfacher, wiederholbarer Ablauf macht Muster sichtbar und nimmt Entscheidungen aus dem müden Moment.
+  > Mal baden, mal tragen, mal früher, mal später – ohne festen Rahmen lässt sich kaum vergleichen.
+  > Wenn Übermüdung und Unruhe zusammenkommen, wird Einschlafen für alle anstrengender.
+- **Page word count:** 692
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

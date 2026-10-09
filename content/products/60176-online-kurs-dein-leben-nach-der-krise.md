@@ -1,7 +1,7 @@
 # Online-Kurs "Dein Leben nach der Krise"
 
 > Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../reviews/online-kurs-dein-leben-nach-der-krise-60176.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online-Kurs "Dein Leben nach der Krise" - Digistore24
+- **OG title:** Online-Kurs Dein Leben nach der Krise
+- **Section headlines (H2):**
+  - Online-Kurs: Dein Leben nach der Krise
+  - Online-Kurs: Dein Leben nach der Krise
+  - Online-Kurs: Dein Leben nach der Krise
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Ein strukturierter Online-Kurs für Menschen, die ihr Leben nach einer Krise neu ausrichten wollen.
+  > Nach einer schweren Erkrankung, einem Schicksalsschlag oder einem tiefen Umbruch ist vieles nicht mehr so wie vorher. Die eigenen Kräfte haben sich verändert. Gewohnte Pläne passen nicht mehr. Manche Entscheidungen werden schwieriger, andere längst überfällig.
+  > Der Kurs „Dein Leben nach der Krise“ hilft dir dabei, deine aktuelle Situation zu sortieren, Prioritäten zu setzen und konkrete Veränderungen in deinem Alltag umzusetzen.
+  > Heike hat selbst schwere Schicksalsschläge erlebt und weiß, wie es sich anfühlt, den Weg aus der Dunkelheit zu suchen. Christian bringt jahrzehntelange Erfahrung in Persönlichkeitsentwicklung und Bewusstseinsarbeit mit.
+- **Questions the sales page answers:**
+  - Für wen ist der Kurs?
+- **Page word count:** 1264
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4132986/image/product/O2OKKDLL.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

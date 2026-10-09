@@ -1,7 +1,7 @@
 # Steuern für Selbstständige leicht gemacht
 
 > Product ID `60372` · Digistore24 productId `742038` · [HTML profile page](../../reviews/steuern-f-r-selbstst-ndige-leicht-gemacht-60372.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Steuern für Selbstständige leicht gemacht – Ratgeber + Steuer-Rechner - Digistore24
+- **OG title:** Steuern für Selbstständige leicht gemacht – Ratgeber + Steuer-Rechner
+- **Section headlines (H3):**
+  - Steuern für Selbstständige leicht gemacht – Ratgeber + Steuer-Rechner
+  - Selbstständig machen leicht gemacht – Ratgeber + Gründungs-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Konto und Bank leicht gemacht – Ratgeber + Konto-Rechner
+  - Steuern für Selbstständige leicht gemacht – Ratgeber + Steuer-Rechner
+  - Steuern für Selbstständige leicht gemacht – Ratgeber + Steuer-Rechner
+  - Selbstständig machen leicht gemacht – Ratgeber + Gründungs-Rechner
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie sind selbstständig und wissen nicht genau, welche Steuern wann fällig sind und wie viel Sie zurücklegen müssen?
+  > Dieser Ratgeber erklärt verständlich, wie Einkommensteuer, Umsatzsteuer und Gewerbesteuer für Einzelunternehmer und Freiberufler funktionieren: vom Gewinn über die Betriebsausgaben bis zur Steuererklärung. Mit dem Steuer-Rechner sehen Sie, was vom Gewinn abgeht und welche Rücklage Sie brauchen. Mit den Zahlen für 2025 und 2026.
+  > Inhalt des Ratgebers: ✔ Welche Steuern anfallen und wie ein Steuerjahr abläuft ✔ Gewinn ermitteln mit der Einnahmen-Überschuss-Rechnung ✔ Betriebsausgaben von A bis Z, Abschreibung und Auto ✔ Umsatzsteuer, Kleinunternehmer-Regelung und Auslandsgeschäfte ✔ Einkommensteuer, Gewerbesteuer, Vorauszahlungen und Rücklage ✔ Steuererklärungen, Buchführung, Kasse und Prüfung durch das Finanzamt ✔ Steuern sparen, aber richtig ✔ 5 Musterbriefe, Steuerkalender und Checkliste
+  > Der Steuer-Rechner: ✔ Steuer und Rücklage: Was geht vom Gewinn ab? ✔ Umsatzsteuer: Netto, Brutto, Zahllast ✔ Kleinunternehmer: Sind die Grenzen eingehalten? ✔ Abschreibung: linear, degressiv, mit Sonderabschreibung
+- **Questions the sales page answers:**
+  - Sie sind selbstständig und wissen nicht genau, welche Steuern wann fällig sind und wie viel Sie zurücklegen müssen?
+  - Sie möchten sich selbstständig machen und wissen nicht, wo Sie anfangen sollen?
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+  - Ihr Konto ist teuer, die Bank hat Gebühren erhöht oder Geld wurde falsch abgebucht?
+- **Page word count:** 2338
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/ZTAH9A6B.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

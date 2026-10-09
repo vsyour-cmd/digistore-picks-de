@@ -1,7 +1,7 @@
 # BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision
 
 > Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../reviews/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** BauPraxis Premium | Baustellen-Komplettpaket
+- **Meta description:** Das digitale Baustellen-System mit automatisierter Excel-Arbeitsmappe, 10 interaktiven PDF-Formularen, Praxisbeispiel und Anleitung.
+- **Headline (H1):**
+  > Was nicht dokumentiert ist, lässt sich später schwer belegen.
+- **Section headlines (H2):**
+  - Zettelwirtschaft kostet nicht nur Zeit.
+  - Vom Baustellenstart bis zur Abnahme.
+  - So sehen die neuen Formulare aus.
+  - Diesen vollständigen Lieferumfang erhältst du.
+  - Gebaut für den echten Baustellenalltag.
+  - Weniger suchen. Besser nachweisen. Klarer abrechnen.
+  - Drei Probleme, die BauPraxis Premium löst.
+  - Vorlagen im Baustellenalltag einsetzen
+  - Vor dem Kauf wissen, was du bekommst.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/735085
+- **Opening copy (first paragraphs):**
+  > Bau & Handwerk · Premium-System Was nicht dokumentiert ist, lässt sich später schwer belegen. BauPraxis Premium bringt Bautagesbericht, Regie, Aufmaß, Nachträge, Behinderungen, Mängel und Kalkulation in ein sofort nutzbares System.
+  > Das eigentliche Problem Zettelwirtschaft kostet nicht nur Zeit. Zusatzarbeit ohne Nachweis Stunden, Material oder Beauftragung fehlen genau dann, wenn abgerechnet werden soll.
+  > WhatsApp-Fotos, Notizzettel, E-Mails und einzelne Dateien ergeben noch kein verlässliches System.
+  > Mängel, Lieferungen und Entscheidungen bleiben liegen, wenn Zuständigkeit und Frist nicht sichtbar sind.
+- **Page word count:** 650
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

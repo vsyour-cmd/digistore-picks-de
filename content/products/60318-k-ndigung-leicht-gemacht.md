@@ -1,7 +1,7 @@
 # Kündigung leicht gemacht
 
 > Product ID `60318` · Digistore24 productId `710296` · [HTML profile page](../../reviews/k-ndigung-leicht-gemacht-60318.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Kündigung leicht gemacht – Ratgeber + Generator - Digistore24
+- **OG title:** Kündigung leicht gemacht – Ratgeber + Generator
+- **Section headlines (H3):**
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Steuererklärung leicht gemacht – Ratgeber + Steuer-Rechner 2025
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Eine falsche Form oder ein Tag zu spät, und Sie hängen ein weiteres Jahr im Vertrag oder verlieren Ansprüche. Dieser Ratgeber zeigt Ihnen für jede Art von Kündigung verständlich und Schritt für Schritt, was gilt.
+  > Das erwartet Sie: → Die 5 Grundregeln für jede Kündigung → Arbeit: selbst kündigen oder gekündigt werden, mit Fristen, Kündigungsschutz und Abfindung → Handy, Internet, Strom und Gas → Fitnessstudio, Streaming und Abos → Versicherungen und Mietwohnung → 6 Musterbriefe und ein Kündigungsschreiben-Generator
+  > Lieferumfang: Sie erhalten den Ratgeber „Kündigung leicht gemacht“ als PDF (21 Seiten, Stand Oktober 2026) und den Kündigungsschreiben-Generator zum Öffnen im Browser.
+  > Auslieferung: Das Produkt wird ausschließlich digital ausgeliefert. Nach der Bezahlung erhalten Sie den Download direkt auf der Bestätigungsseite und zusätzlich per E-Mail. Es wird kein physisches Produkt verschickt.
+- **Questions the sales page answers:**
+  - Kennen Sie Ihre Ansprüche?
+  - Verschenken Sie jedes Jahr Geld an das Finanzamt?
+- **Page word count:** 1947
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/VK173G9J.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

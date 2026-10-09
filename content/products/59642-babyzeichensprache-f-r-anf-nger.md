@@ -1,7 +1,7 @@
 # Babyzeichensprache Für Anfänger
 
 > Product ID `59642` · Digistore24 productId `736748` · [HTML profile page](../../reviews/babyzeichensprache-f-r-anf-nger-59642.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Babyzeichensprache Für Anfänger - Digistore24
+- **OG title:** Babyzeichensprache Für Anfänger
+- **Section headlines (H2):**
+  - Babyzeichensprache Für Anfänger
+  - Die wichtigsten Babygebärden Schritt für Schritt lernen – mit praktischen Bildern, Übungen und Alltagstipps
+  - (eBook)
+  - Was möchte dein Baby gerade? Ist es hungrig, müde, möchte es trinken oder braucht es einfach deine Nähe?
+  - ---------------
+  - ---------------
+  - Das erwartet dich im Ebook:
+  - Bonus
+  - (eBook)
+  - -------------------
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Was möchte dein Baby gerade? Ist es hungrig, müde, möchte es trinken oder braucht es einfach deine Nähe? Gerade in den ersten Lebensjahren können Babys schon viel ausdrücken, lange bevor sie die passenden Worte sprechen können. Doch als Eltern ist es nicht immer leicht zu verstehen, was hinter Gesten, Lauten und Blicken steckt.
+  > Mit „ Babyzeichensprache für Anfänger “ lernst du wichtige und alltagstaugliche Babygebärden Schritt für Schritt kennen – verständlich erklärt und mit praktischen Bildern, Übungen und Tipps für die einfache Umsetzung zu Hause.
+  > Stell dir vor, dein Baby kann dir auf einfache Weise zeigen, ob es essen, trinken, schlafen oder spielen möchte – und du kannst darauf reagieren.
+  > Babyzeichensprache ersetzt das Sprechen nicht. Sie kann deinem Kind vielmehr eine zusätzliche Möglichkeit geben, seine Bedürfnisse, Wünsche und Gefühle auszudrücken.
+- **Questions the sales page answers:**
+  - Was möchte dein Baby gerade? Ist es hungrig, müde, möchte es trinken oder braucht es einfach deine Nähe?
+  - Für wen ist dieses Ebook geeignet?
+- **Page word count:** 1926
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/81P1QHE4.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

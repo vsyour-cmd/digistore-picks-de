@@ -1,7 +1,7 @@
 # Erfolg Als Mann
 
 > Product ID `59437` · Digistore24 productId `735393` · [HTML profile page](../../reviews/erfolg-als-mann-59437.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,36 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Erfolg Als Mann - Digistore24
+- **OG title:** Erfolg Als Mann
+- **Section headlines (H2):**
+  - ERFOLG ALS MANN
+  - Der praktische 30-Tage-Plan für mehr Selbstvertrauen, Disziplin, Ausstrahlung und persönliche Stärke
+  - (eBook)
+  - Was wäre, wenn du in 30 Tagen …
+  - 30 Tage. Ein klarer Plan. Jeden Tag ein Schritt.
+  - Das erwartet dich im Buch
+  - Schluss mit „Ich fange morgen an“
+  - Bonus
+  - (eBook)
+  - ---------------------
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Du weißt, dass mehr in dir steckt – aber dir fehlt manchmal die Klarheit, Disziplin oder Konsequenz, um es wirklich umzusetzen?
+  > Dieses Buch zeigt dir, wie du Schritt für Schritt an dir arbeiten kannst – ohne komplizierte Theorien und ohne unrealistische Versprechen. Stattdessen bekommst du einen klaren Plan, konkrete Übungen und einfache Aufgaben, die du direkt in deinen Alltag integrieren kannst.
+  > Statt dich mit unzähligen Informationen zu überfordern, konzentrierst du dich jeden Tag auf einen konkreten Entwicklungsschritt.
+  > Du lernst, deine Ziele klarer zu definieren, deine Gewohnheiten zu hinterfragen, Disziplin aufzubauen und auch dann weiterzumachen, wenn die anfängliche Motivation nachlässt.
+- **Questions the sales page answers:**
+  - Du weißt, dass mehr in dir steckt – aber dir fehlt manchmal die Klarheit, Disziplin oder Konsequenz, um es wirklich umzusetzen?
+  - • selbstbewusster auftreten würdest?
+  - • deine Disziplin im Alltag stärken könntest?
+  - • deine Gewohnheiten bewusster steuern würdest?
+  - • dich klarer ausdrücken und besser behaupten könntest?
+  - • deine Ausstrahlung und Präsenz verbessern würdest?
+  - • mehr Verantwortung für deine Entscheidungen übernehmen würdest?
+  - • deine persönliche Entwicklung endlich konsequent angehen würdest?
+- **Page word count:** 1971
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/US4Z2HZY.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

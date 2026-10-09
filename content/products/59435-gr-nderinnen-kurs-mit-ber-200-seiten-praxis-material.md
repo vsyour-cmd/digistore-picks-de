@@ -1,7 +1,7 @@
 # Gründerinnen-Kurs mit über 200 Seiten Praxis-Material
 
 > Product ID `59435` · Digistore24 productId `735383` · [HTML profile page](../../reviews/gr-nderinnen-kurs-mit-ber-200-seiten-praxis-material-59435.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Selbstständig. Weiblich. Unabhängig. -
+- **Meta description:** Ein klarer Selbstlernkurs für Frauen, die sich selbstständig machen möchten. Mit 6 Modulen, Reflexionsfragen und Struktur für den Weg von der Idee bis zur Umsetzung.
+- **Headline (H1):**
+  > Selbstständig. Weiblich. Unabhängig.
+- **Section headlines (H2):**
+  - Für wen ist das Kursprogramm gedacht?
+  - Was dich im Kurs erwartet
+  - Die 6 Module im Überblick
+  - Was du am Ende klarer sehen kannst
+  - So arbeitest du mit dem Kurs
+  - Das ist enthalten
+  - Bereit für deinen roten Faden?
+  - Erfahrungen aus der Zusammenarbeit
+  - Kontakt
+  - Weitere Informationen
+- **CTA button texts:** "Startseite"
+- **Opening copy (first paragraphs):**
+  > Du hast eine Idee, ein Projekt oder den Wunsch, dich selbstständig zu machen – und spürst, dass da mehr Klarheit hinein darf?
+  > Du hast eine Idee, ein Projekt oder den Wunsch, dich selbstständig zu machen – und spürst, dass da mehr Klarheit hinein darf?
+  > Dein strukturierter Kurs in 6 Modulen, wenn du deine Selbstständigkeit klarer aufbauen, dein Angebot sortieren und deine nächsten Schritte mit mehr Orientierung gehen möchtest.
+  > Dieses Kursprogramm begleitet dich Schritt für Schritt durch die wichtigsten Themen einer Gründung: von deiner Vision über deine Geschäftsidee, dein Angebot, deine Zielgruppe, deine Marke, deine Sichtbarkeit und deine Finanzen bis hin zu einem konkreten 90-Tage-Plan. Du arbeitest in deinem eigenen Tempo mit Texten, Reflexionsfragen, Arbeitsblättern und praktischen Aufgaben.
+- **Page word count:** 1297
+- **OG image:** https://karinschweizer.de/wp-content/uploads/2026/06/103.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

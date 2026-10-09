@@ -1,7 +1,7 @@
 # Der ultimative christliche Suno AI Prompt Guide
 
 > Product ID `60016` · Digistore24 productId `738557` · [HTML profile page](../../reviews/der-ultimative-christliche-suno-ai-prompt-guide-60016.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der ultimative christliche Suno AI Prompt Guide - Digistore24
+- **OG title:** Der ultimative christliche Suno AI Prompt Guide
+- **Section headlines (H3):**
+  - Der ultimative christliche Suno AI Prompt Guide
+  - Der ultimative christliche Suno AI Prompt Guide
+  - Der ultimative christliche Suno AI Prompt Guide
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Erstelle kraftvolle christliche Musik mit Suno AI – mit 300 sofort einsetzbaren Prompts.
+  > Du möchtest Worship, Gospel, christlichen Pop, Rap oder emotionale Instrumentalmusik mit Suno AI erstellen, weißt aber oft nicht, wie du den richtigen Prompt formulieren sollst ?
+  > Auf 38 Seiten erhältst du eine umfangreiche Sammlung von 300 sorgfältig formulierten Prompts für unterschiedlichste christliche Musikrichtungen – von moderner Worship-Musik über Gospel und Cinematic Worship bis hin zu Christian Hip-Hop, R&B, Rock, Akustik, Instrumentals und vielem mehr.
+  > Du kannst die Prompts direkt verwenden, verändern, miteinander kombinieren und als Inspiration für deine eigenen Songs nutzen.
+- **Page word count:** 879
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4590284/image/product/WRN6R2M0.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

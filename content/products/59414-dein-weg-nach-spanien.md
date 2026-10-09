@@ -1,7 +1,7 @@
 # Dein Weg nach Spanien
 
 > Product ID `59414` · Digistore24 productId `735111` · [HTML profile page](../../reviews/dein-weg-nach-spanien-59414.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Dein Weg nach Spanien - Digistore24
+- **OG title:** Dein Weg nach Spanien
+- **Section headlines (H3):**
+  - Dein Weg nach Spanien
+  - Dein Weg nach Spanien
+  - Dein Weg nach Spanien
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Alles, was du für deinen erfolgreichen Neustart in Spanien wissen musst – in einem einzigen umfassenden Praxis-Guide. Über 450 Seiten voller verständlicher Erklärungen, Schritt-für-Schritt-Anleitungen, praktischer Tipps und Checklisten begleiten dich von der ersten Auswanderungsplanung bis zu deinem neuen Alltag in Spanien.
+  > ✅ Über 450 Seiten Praxiswissen ✅ Behörden, Wohnen, Arbeiten & Steuern ✅ Alltag, Gesundheit & wichtige Checklisten ✅ Verständlich, praxisnah & aktuell ✅ Sofort als PDF verfügbar
+  > Alles, was du für deinen erfolgreichen Neustart in Spanien wissen musst – in einem einzigen umfassenden Praxis-Guide. Über 450 Seiten voller verständlicher Erklärungen, Schritt-für-Schritt-Anleitungen, praktischer Tipps und Checklisten begleiten dich von der ersten Auswanderungsplanung bis zu deinem neuen Alltag in Spanien.
+  > ✅ Über 450 Seiten Praxiswissen ✅ Behörden, Wohnen, Arbeiten & Steuern ✅ Alltag, Gesundheit & wichtige Checklisten ✅ Verständlich, praxisnah & aktuell ✅ Sofort als PDF verfügbar
+- **Page word count:** 382
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5717352/image/product/DJBAAXN9.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

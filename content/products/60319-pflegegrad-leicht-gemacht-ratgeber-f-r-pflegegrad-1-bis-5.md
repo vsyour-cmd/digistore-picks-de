@@ -1,7 +1,7 @@
 # Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5
 
 > Product ID `60319` · Digistore24 productId `740161` · [HTML profile page](../../reviews/pflegegrad-leicht-gemacht-ratgeber-f-r-pflegegrad-1-bis-5-60319.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pflegegrad 2 leicht gemacht – Ratgeber als PDF - Digistore24
+- **OG title:** Pflegegrad 2 leicht gemacht – Ratgeber als PDF
+- **Section headlines (H3):**
+  - Pflegegrad 2 leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Pflegegrad 2 leicht gemacht – Ratgeber als PDF
+  - Pflegegrad 2 leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mit Pflegegrad 2 stehen Ihnen zahlreiche Leistungen zu. Viele Betroffene und Angehörige verschenken jedes Jahr Geld, weil sie ihre Ansprüche nicht kennen. Dieser Ratgeber zeigt Ihnen verständlich und Schritt für Schritt, was Ihnen zusteht und wie Sie es bekommen.
+  > Das erwartet Sie: → Was Pflegegrad 2 bedeutet, mit Beispielen aus dem Alltag → Alle Leistungen und Beträge auf einen Blick, Stand 2026 → Pflegegeld 347 €, Pflegedienst bis 796 € und Tagespflege → Hilfe für Angehörige: Entlastungsbudget bis 3.539 € und Rentenbeiträge → Der Weg zu Pflegegrad 3: Begutachtung richtig vorbereiten → Widerspruch, Musterbriefe und Checkliste
+  > Lieferumfang: Sie erhalten den Ratgeber „Pflegegrad 2 leicht gemacht“ als PDF-Datei mit leicht verständlichen Erklärungen, Checkliste und Musterbriefen.
+  > Auslieferung: Das Produkt wird ausschließlich digital ausgeliefert. Nach der Bezahlung erhalten Sie den Download direkt auf der Bestätigungsseite und zusätzlich per E-Mail. Es wird kein physisches Produkt verschickt.
+- **Questions the sales page answers:**
+  - Kennen Sie Ihre Ansprüche?
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+- **Page word count:** 1848
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/WU8Q99KB.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

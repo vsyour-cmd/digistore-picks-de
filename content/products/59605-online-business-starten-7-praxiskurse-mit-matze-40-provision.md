@@ -1,7 +1,7 @@
 # Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision
 
 > Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../reviews/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online Business starten: 7 Praxiskurse zu Affiliate, KDP und FBA | Matze
+- **Meta description:** Sieben deutschsprachige Selbstlernkurse zu Faceless-Videos, KDP, Affiliate-Website, Landingpage, PartnerNet, TikTok Shop und FBA. 499 € einmalig, mit Arbeitsmappen und Vorlagen.
+- **Headline (H1):**
+  > Online Business starten: 7 Praxiskurse zu Affiliate, KDP und FBA
+- **Section headlines (H2):**
+  - Wähle einen Weg. Arbeite ihn praktisch aus.
+  - Was du nach dem Kauf erhältst
+  - Starte mit einem Schwerpunkt.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/736580
+- **Opening copy (first paragraphs):**
+  > Online-Business-Praxis mit Matze Online Business starten: 7 Praxiskurse zu Affiliate, KDP und FBA Du möchtest online etwas Eigenes aufbauen, aber suchst noch den passenden Weg? Vergleiche sieben Ansätze und entwickle mit Arbeitsmappen deinen ersten umsetzbaren Plan.
+  > Der Inhalt Wähle einen Weg. Arbeite ihn praktisch aus. Content ohne Kamera Faceless-Videos planen: Themen, Skript, Rechte und Veröffentlichungsprüfung.
+  > Amazon KDP, Affiliate-Website und Landingpage: von der Idee bis zum überprüften Entwurf.
+  > Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA: Empfehlungen, Kosten und Risiken sorgfältig prüfen.
+- **Page word count:** 423
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

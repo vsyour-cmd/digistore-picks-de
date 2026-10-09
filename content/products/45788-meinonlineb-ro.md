@@ -1,7 +1,7 @@
 # meinOnlineBüro
 
 > Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../reviews/meinonlineb-ro-45788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,25 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Features und Preise im Überblick - meinOnlineBüro
+- **Headline (H1):**
+  > Features und Preise im Überblick
+- **Section headlines (H2):**
+  - Entscheiden Sie selbst, welches Paket Ihren Anforderungen gerecht wird. Ein Wechsel zwischen den Paketen ist jederzeit möglich.
+- **Price mentions on page:** €15,, €25,, €35,, €70,, €12,, €15, €1,50, $29
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/99409
+  - https://www.digistore24.com/product/99401
+  - https://www.digistore24.com/product/99405
+  - https://www.digistore24.com/product/99407
+  - https://www.digistore24.com/product/99409\
+- **Opening copy (first paragraphs):**
+  > Anzahl Dokumente pro Monat *) (Rechnungen, Angebote, Lieferscheine, Mahnungen etc.)
+  > 1) 25 Benutzer inklusive. Mehr Benutzer sind in diesem Paket auf Anfrage möglich.
+  > Alle Preise verstehen sich monatlich, zzgl. der gesetzlichen MwSt. Es gelten unsere AGBs.
+  > Tel: +49 (089) 9545 776 80 Email: info[at]meinonlinebuero.de www.meinonlinebuero.de
+- **Page word count:** 521
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

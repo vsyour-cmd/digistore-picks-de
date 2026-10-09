@@ -1,7 +1,7 @@
 # DEIN DIGITALER DURCHBRUCH
 
 > Product ID `53588` · Digistore24 productId `630623` · [HTML profile page](../../reviews/dein-digitaler-durchbruch-53588.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** DEIN DIGITALER DURCHBRUCH - Digistore24
+- **OG title:** DEIN DIGITALER DURCHBRUCH
+- **Section headlines (H3):**
+  - DEIN DIGITALER DURCHBRUCH
+  - DEIN DIGITALER DURCHBRUCH
+  - DEIN DIGITALER DURCHBRUCH
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Was wäre, wenn... ... du endlich orts- und zeitunabhängig Geld verdienen könntest?
+  > ... du ein fertiges System bekommst, das dir zeigt, wie du in 3 Stunden am Tag digital durchstartest?
+  > ... du ein Produkt in der Hand hättest, das du sogar selbst weiterverkaufen darfst?
+  > - ein System, das du 1:1 nachmachen kannst - mit deinem Handy, WLAN und 2-3h täglich
+- **Questions the sales page answers:**
+  - Was dieses Produkt anders macht?
+- **Page word count:** 710
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4704362/image/product/CT2KVL4H.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

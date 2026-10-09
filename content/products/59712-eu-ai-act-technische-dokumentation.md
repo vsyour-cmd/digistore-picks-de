@@ -1,7 +1,7 @@
 # EU AI Act – Technische Dokumentation
 
 > Product ID `59712` · Digistore24 productId `652433` · [HTML profile page](../../reviews/eu-ai-act-technische-dokumentation-59712.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026 (Unternehmer Edition) - Digistore24
+- **OG title:** EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026 (Unternehmer Edition)
+- **Section headlines (H2):**
+  - EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026/2027
+  - EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026/2027
+  - EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026/2027
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Technische KI-Dokumentation wird für Unternehmen zunehmend compliance-relevant. Wer KI-Systeme, automatisierte Modelle, externe KI-Dienste, SaaS-KI, interne Automatisierungen oder entscheidungsunterstützende Systeme nutzt, sollte nachvollziehbar dokumentieren können, welche Modelle eingesetzt werden, wie sie funktionieren, wann sie geändert wurden und welche Risiken, Fehler oder Prüfungen vorliegen.
+  > Dieses Compliance Pack hilft Selbstständigen, kleinen Unternehmen, Softwareanbietern, IT-Teams, Agenturen und digitalen Dienstleistern dabei, technische KI-Aufzeichnungen strukturiert zu erfassen, zu pflegen und auditfähig abzulegen.
+  > Die enthaltenen Vorlagen sind als kopierbarer Text im PDF angelegt. Sie können die benötigten Abschnitte markieren, kopieren und in Word, Google Docs, LibreOffice oder Ihr internes Dokumentationssystem einfügen.
+  > Danach ergänzen Sie Ihre eigenen Unternehmensdaten, KI-Systeme, Modellversionen, Anbieterinformationen, Testdaten, Metriken, Risiken, Ereignisse, Korrekturmaßnahmen und Freigaben. So entsteht Schritt für Schritt eine nachvollziehbare technische Dokumentation Ihrer KI-Systeme.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Compliance Pack geeignet?
+- **Page word count:** 2146
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/UN11FRNO.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

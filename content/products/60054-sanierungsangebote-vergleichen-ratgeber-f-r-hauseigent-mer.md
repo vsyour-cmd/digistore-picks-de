@@ -1,7 +1,7 @@
 # Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer
 
 > Product ID `60054` · Digistore24 productId `738953` · [HTML profile page](../../reviews/sanierungsangebote-vergleichen-ratgeber-f-r-hauseigent-mer-60054.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,27 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** sanierungsangebote-vergleichen - Haus-Energieberater
+- **Headline (H1):**
+  > sanierungsangebote-vergleichen
+  > Welches Sanierungsangebot ist wirklich das bessere?
+- **Section headlines (H2):**
+  - Die Angebote liegen vor. Aber die Entscheidung fühlt sich noch unsicher an.
+  - 3.300 € günstiger. Oder doch 1.000 € teurer?
+  - Ein Leitfaden für die Fragen, die vor dem Auftrag zählen.
+  - Sie sehen, wie es funktioniert.
+  - Für Eigentümer, die vor einer Beauftragung stehen.
+  - Gehen Sie mit besseren Fragen in das nächste Gespräch.
+  - Gut zu wissen.
+- **CTA button texts:** "Startseite"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/738953
+- **Opening copy (first paragraphs):**
+  > Der günstigere Preis fällt sofort auf. Fehlende Leistungen oft erst später. Verstehen Sie Ihre Angebote, erkennen Sie offene Kosten und stellen Sie die richtigen Fragen, bevor Sie unterschreiben.
+  > Sie möchten eine gute Entscheidung treffen. Dafür müssen Sie verstehen, was beide Betriebe anbieten, welche Arbeiten fehlen und welche Fragen noch offen sind.
+  > Ein Betrieb ist günstiger. Sie wissen aber nicht, ob Gerüst, Entsorgung, Anschlüsse und Nebenarbeiten bei beiden enthalten sind.
+  > Uw-Wert, Dampfbremse, WLS oder Heizlast: Sie möchten erkennen, welche Angaben wichtig sind und wo Sie eine Erklärung brauchen.
+- **Page word count:** 943
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

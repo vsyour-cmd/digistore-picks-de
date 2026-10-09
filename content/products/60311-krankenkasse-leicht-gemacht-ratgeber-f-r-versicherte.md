@@ -1,7 +1,7 @@
 # Krankenkasse leicht gemacht – Ratgeber für Versicherte
 
 > Product ID `60311` · Digistore24 productId `708606` · [HTML profile page](../../reviews/krankenkasse-leicht-gemacht-ratgeber-f-r-versicherte-60311.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Krankenkasse leicht gemacht – Ratgeber als PDF - Digistore24
+- **OG title:** Krankenkasse leicht gemacht – Ratgeber als PDF
+- **Section headlines (H3):**
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Stromkosten leicht gemacht – Ratgeber als PDF
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Krankenkasse leicht gemacht – Ratgeber als PDF
+  - Rente leicht gemacht – Ratgeber + Renten-Rechner
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber für gesetzlich Versicherte zeigt, wie Sie weniger zahlen, mehr Leistungen nutzen und sich gegen Ablehnungen wehren. Mit allen Änderungen der Gesundheitsreform ab 2027. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Beitrag verstehen und Kasse wechseln ✔ Bonusprogramme, Kurse und Extras nutzen ✔ Zuzahlungen senken und Befreiung beantragen ✔ Krankengeld, Kinderkrankengeld, Zahnersatz und weitere Leistungen ✔ Die Gesundheitsreform: Was sich 2027 und 2028 ändert ✔ Antrag, Fristen und Widerspruch ✔ 4 Musterbriefe und Checkliste
+  > Lieferumfang Sie erhalten den Ratgeber „Krankenkasse leicht gemacht" als PDF-Datei mit 24 Seiten , zum Lesen am Bildschirm und zum Ausdrucken.
+  > Auslieferung Nach erfolgreicher Bezahlung wird das Produkt ausschließlich digital bereitgestellt. Der Download steht unmittelbar nach dem Kauf über die Digistore24-Bestätigungsseite sowie zusätzlich per E-Mail zur Verfügung.
+- **Questions the sales page answers:**
+  - Kennen Sie alle Leistungen Ihrer Krankenkasse?
+  - Kennen Sie Ihre Ansprüche?
+  - Zahlen Sie mehr für Strom als nötig?
+- **Page word count:** 1918
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/QWO7K8D7.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

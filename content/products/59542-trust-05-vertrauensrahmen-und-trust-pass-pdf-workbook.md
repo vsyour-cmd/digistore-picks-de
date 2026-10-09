@@ -1,7 +1,7 @@
 # TRUST 05 — Vertrauensrahmen und TRUST-Pass (PDF-Workbook)
 
 > Product ID `59542` · Digistore24 productId `736104` · [HTML profile page](../../reviews/trust-05-vertrauensrahmen-und-trust-pass-pdf-workbook-59542.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,31 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** TRUST – Vertrauen unter Kontrolle · Digilisator
+- **OG title:** TRUST – Vertrauen unter Kontrolle
+- **Meta description:** TRUST 05 — Vertrauen unter Kontrolle. PRÜFEN · BEGRENZEN · FREIGEBEN. Agent ≠ Mensch. Trust-Protokoll, Decision Gate, TRUST-Pass. Cover + 33 Seiten A4 PDF. Einmaliger Kauf über Digistore24.
+- **Headline (H1):**
+  > VERTRAUEN UNTER KONTROLLE.
+- **Section headlines (H2):**
+  - Ein Workbook für kontrolliertes Vertrauen
+  - TRUST kontrolliert das Vertrauen
+  - Zwei konkrete Dinge — dein System
+  - Wenn Agenten handeln — und du Vertrauen steuern willst
+  - Acht Stationen — klar nachvollziehbar
+  - Dein System in klaren Feldern
+  - Vom Workbook zum klaren Überblick
+  - So sieht das System aus
+  - Sechs starke Gründe
+  - Was TRUST nicht ist
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/736104
+- **Opening copy (first paragraphs):**
+  > TRUST – Vertrauen unter Kontrolle Wem vertraust du — und worauf basiert das? Agent ≠ Mensch. Identität? Quellen? Regeln? Stopp? Decision Gate? Und wo greift dein Not-Aus?
+  > PRÜFEN · BEGRENZEN · FREIGEBEN Kein Compliance-Seminar. Keine Rechtsberatung. Ein persönliches TRUST-System : du prüfst Vertrauen — von Identität und Quellen bis Protokoll, Levels und TRUST-Pass.
+  > Was es ist Ein Workbook für kontrolliertes Vertrauen TRUST ist kein Compliance-Kurs und kein Security-Seminar. Es geht um greifbare Fragen: Was bedeutet Vertrauen? Warum ist ein Agent kein Mensch? Wie prüfst du Identität und Quellen — und wo setzt du Stopp-Regeln?
+  > Du entwickelst deinen persönlichen Vertrauensrahmen und einen TRUST-Pass — damit Freigaben nachvollziehbar bleiben, bevor ein Agent handelt und nachdem etwas schiefgehen könnte.
+- **Page word count:** 1104
+- **OG image:** cover.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Der KI-Vertriebsassistent
 
 > Product ID `60035` · Digistore24 productId `738797` · [HTML profile page](../../reviews/der-ki-vertriebsassistent-60035.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,17 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Der KI-Vertriebsassistent – Prompt-System für Außendienst und Innendienst
+- **Meta description:** 21 fertige KI-Prompts für Gesprächsvorbereitung, Follow-ups, Einwände und Excel-Auswertungen – mit Beispielen und Datenschutz-Regeln. PDF, 18 Seiten.
+- **Opening copy (first paragraphs):**
+  > 21 fertige KI-Prompt-Workflows für Gesprächsvorbereitung, Follow-ups, Einwände und Excel-Auswertungen – datenschutzbewusst und sofort einsetzbar.
+  > Follow-up-Mail schreiben. Besuchsbericht ins CRM. Angebot nachfassen. Freitags noch die Excel-Liste für den Wochenbericht.
+  > KI könnte helfen – aber „Schreib mal eine Mail“ liefert Floskeln. Und Kundendaten gehören nicht einfach in einen KI-Chat.
+  > Du brauchst keine Prompt-Sammlung, sondern ein System, das zu deinem Vertriebsalltag passt.
+- **Questions the sales page answers:**
+  - Der Termin war gut. Und dann?
+  - Ist das was für dich?
+- **Page word count:** 705
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

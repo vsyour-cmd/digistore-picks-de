@@ -1,7 +1,7 @@
 # Digitalisierungsfahrplan für KMU
 
 > Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../reviews/digitalisierungsfahrplan-f-r-kmu-59481.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,24 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Digitalisierungs-Fahrplan für KMU
+- **Meta description:** Selbstcheck, Vier-Schritte-Methode und Rechtsüberblick zu GoBD, E-Rechnung und Datenschutz – der praxisnahe Digitalisierungs-Fahrplan für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen.
+- **Final URL after redirects:** https://digitalisierungsfahrplan-kmu.klarer-kurs.online/
+- **Headline (H1):**
+  > Ihr Fahrplan zur digitalen Organisation – bevor die E-Rechnungspflicht Sie überrascht
+- **Section headlines (H2):**
+  - Zwischen Aktenordner und E-Mail-Anhang
+  - Ein klarer Fahrplan statt diffusem Digitalisierungsdruck
+  - Ein ehrlicher Blick, für wen sich das lohnt
+  - 10 Kapitel, ein roter Faden
+  - Was Sie vor dem Kauf wissen sollten
+  - Klarheit statt Bauchgefühl
+- **Opening copy (first paragraphs):**
+  > Ein verständlicher Selbstcheck, eine klare Vier-Schritte-Methode und ein praxisnaher Überblick zu GoBD, E-Rechnung und Datenschutz – speziell für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen ohne IT- oder Steuervorwissen.
+  > Sofortiger PDF-Download nach Zahlungsbestätigung · 26 Seiten · für PC, Tablet und Smartphone
+  > Der Digitalisierungs-Fahrplan für KMU übersetzt ein komplexes Thema in konkrete, umsetzbare Schritte – statt eines theoretischen Rundumschlags.
+  > In wenigen Minuten den digitalen Reifegrad Ihres Unternehmens einschätzen – mit Punktesystem und klarer Auswertung.
+- **Page word count:** 861
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

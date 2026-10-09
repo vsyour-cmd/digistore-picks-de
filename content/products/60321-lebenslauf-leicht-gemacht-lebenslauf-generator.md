@@ -1,7 +1,7 @@
 # Lebenslauf leicht gemacht – Lebenslauf-Generator
 
 > Product ID `60321` · Digistore24 productId `740705` · [HTML profile page](../../reviews/lebenslauf-leicht-gemacht-lebenslauf-generator-60321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Lebenslauf leicht gemacht – Lebenslauf-Generator mit 8 Designs - Digistore24
+- **OG title:** Lebenslauf leicht gemacht – Lebenslauf-Generator mit 8 Designs
+- **Section headlines (H3):**
+  - Lebenslauf leicht gemacht – Lebenslauf-Generator mit 8 Designs
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Mietrecht leicht gemacht – Ratgeber als PDF
+  - Lebenslauf leicht gemacht – Lebenslauf-Generator mit 8 Designs
+  - Lebenslauf leicht gemacht – Lebenslauf-Generator mit 8 Designs
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Sie brauchen einen ordentlichen Lebenslauf und wollen sich nicht mit Word herumärgern?
+  > Der Ratgeber erklärt Schritt für Schritt, was in einen guten Lebenslauf gehört. Mit dem Lebenslauf-Generator füllen Sie nur Felder aus, sehen sofort das fertige Blatt und speichern es als PDF. Stand Oktober 2026.
+  > Einmal zahlen, kein Abo. Sie können den Generator für jede neue Bewerbung wieder verwenden.
+  > Inhalt des Ratgebers: ✔ Aufbau und Reihenfolge, Abschnitt für Abschnitt ✔ Berufserfahrung so beschreiben, dass sie überzeugt ✔ Foto, persönliche Angaben und was nicht hinein muss ✔ Lücken, Wiedereinstieg, Quereinstieg, über 50 ✔ Welches Design zu welchem Beruf passt ✔ Die häufigsten Fehler und Checkliste
+- **Questions the sales page answers:**
+  - Sie brauchen einen ordentlichen Lebenslauf und wollen sich nicht mit Word herumärgern?
+  - Kennen Sie Ihre Ansprüche?
+- **Page word count:** 2089
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/JOTVAWU0.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

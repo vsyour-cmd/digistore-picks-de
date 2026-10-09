@@ -1,7 +1,7 @@
 # Adventskalender leicht gemacht – E-Book zum Ausdrucken
 
 > Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../reviews/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Adventskalender leicht gemacht – 24 besondere Momente zum Ausdrucken - Digistore24
+- **OG title:** Adventskalender leicht gemacht – 24 besondere Momente zum Ausdrucken
+- **Section headlines (H3):**
+  - Adventskalender leicht gemacht – 24 besondere Momente zum Ausdrucken
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+  - Adventskalender leicht gemacht – 24 besondere Momente zum Ausdrucken
+  - Adventskalender leicht gemacht – 24 besondere Momente zum Ausdrucken
+  - Kalender und Planer 2027 leicht gemacht – Ratgeber + Kalender-Generator
+  - Haushaltsbuch und Sparen leicht gemacht – Ratgeber + Haushaltsbuch-Rechner
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Mit diesem E-Book verschenken Sie 24 kleine Überraschungen und gemeinsame Momente. Es enthält 72 fertige Ideen für Familie, Kinder und Partner als liebevoll gestaltete Kärtchen zum Ausdrucken, dazu die Zahlen von 1 bis 24 und eine Anleitung.
+  > Das ist enthalten: ✔ Anleitung: fünf Bastelideen und Tipps für 24 gelungene Tage ✔ 24 Kärtchen für die ganze Familie ✔ 24 Kärtchen für Kinder, mit Nikolaus am 5. und 6. Dezember ✔ 24 Kärtchen für den Partner ✔ Zweimal 24 Blanko-Kärtchen für eigene Ideen ✔ Runde Zahlen von 1 bis 24 in vier Motiven ✔ Übersicht zum Vorbereiten für jede Fassung
+  > Die Übersichten zum Vorbereiten können Sie direkt in der PDF ausfüllen, bevor Sie drucken.
+  > Was Sie erhalten Sie erhalten das digitale E-Book „Adventskalender leicht gemacht“ im PDF-Format mit 29 Seiten. Die beschriebenen Kärtchen, Zahlen und Übersichten sind Bestandteil des E-Books. Das E-Book wird nach erfolgreicher Bezahlung digital als Download bereitgestellt. Kein physischer Versand.
+- **Questions the sales page answers:**
+  - Ein Adventskalender, der von Herzen kommt und fast nichts kostet?
+  - Sie wollen Ihr Jahr 2027 planen, mit den richtigen Feiertagen für Ihr Bundesland?
+  - Am Monatsende ist das Geld weg, und Sie wissen nicht genau, wohin?
+- **Page word count:** 1703
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/1VDCBO34.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

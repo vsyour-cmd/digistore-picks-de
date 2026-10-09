@@ -1,7 +1,7 @@
 # Dein Angebot in 24h schärfen – Klar positionieren und leicht
 
 > Product ID `60232` · Digistore24 productId `707849` · [HTML profile page](../../reviews/dein-angebot-in-24h-sch-rfen-klar-positionieren-und-leicht-60232.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 7 Posts die Anfragen bringen | Die bewährten Content-Vorlagen für mehr Kundenanfragen - Digistore24
+- **OG title:** 7 Posts die Anfragen bringen | Die bewährten Content-Vorlagen für mehr Kundenanfragen
+- **Section headlines (H3):**
+  - 7 Posts die Anfragen bringen | Die bewährten Content-Vorlagen für mehr Kundenanfragen
+  - 7 Posts die Anfragen bringen | Die bewährten Content-Vorlagen für mehr Kundenanfragen
+  - 7 Posts die Anfragen bringen | Die bewährten Content-Vorlagen für mehr Kundenanfragen
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Viele Unternehmer posten regelmäßig. Doch die meisten Inhalte erzeugen zwar Reichweite, aber keine Kundenanfragen.
+  > Mit „7 Posts die Anfragen bringen“ erhältst du sieben strategische Content-Vorlagen, die gezielt dafür entwickelt wurden, Interesse aufzubauen, Vertrauen zu schaffen und Gespräche mit potenziellen Kunden auszulösen.
+  > Jeder Post verfolgt einen klaren Zweck innerhalb des Entscheidungsprozesses deiner Zielgruppe.
+  > Du lernst: • Welche Post-Typen tatsächlich Anfragen erzeugen • Wie du Vertrauen mit Content aufbaust • Welche Inhalte Kaufinteresse verstärken • Wie du Einwände bereits vor dem Gespräch auflöst • Wie du Interessenten zu einer Nachricht oder Anfrage bewegst • Wie du die Vorlagen auf dein eigenes Angebot anpasst
+- **Page word count:** 668
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5649644/image/product/Z4A0QFB1.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

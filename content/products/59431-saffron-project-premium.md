@@ -1,7 +1,7 @@
 # Saffron Project Premium | Проект Шафран Премиум
 
 > Product ID `59431` · Digistore24 productId `724814` · [HTML profile page](../../reviews/saffron-project-premium-59431.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Проект Шафран Премиум - Digistore24
+- **OG title:** Проект Шафран Премиум
+- **Section headlines (H3):**
+  - Проект Шафран Премиум
+  - Проект Шафран Премиум
+  - Проект Шафран Премиум
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > ​Характеристики и потенциал культуры: Глобальный элитный актив максимальной ценности с независимым циклом воспроизводства. Представляет собой основу для создания независимого семейного капитала, объединяя традиции возделывания ценнейшей пряности с глубокой переработкой для премиальных индустрий.
+  > ​Архитектура методологии: ​Наследие: родовой манифест династии Pfaffenroth-Труновых (вводная часть).
+  > ​Технический блок: селекция, работа с элитным материалом и протоколы глубокой переработки.
+  > ​Блок визуализации: эстетика тихой роскоши и философии «красного золота» — образы премиального применения сырья, раскрывающие потенциал элитных рынков сбыта и эксклюзивного партнерства.
+- **Page word count:** 496
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5851717/image/product/9MPIZIVQ.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

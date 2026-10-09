@@ -1,7 +1,7 @@
 # 100 Master-Prompts für Sozialbehörden und AI Act
 
 > Product ID `59700` · Digistore24 productId `649016` · [HTML profile page](../../reviews/100-master-prompts-f-r-sozialbeh-rden-und-ai-act-59700.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** SOZIAL COMPLIANCE-KIT: 100 Master-Prompts für AI Act und DSGVO Sicherheit bei Hochrisiko KI in Sozialbehörden - Digistore24
+- **OG title:** SOZIAL COMPLIANCE-KIT: 100 Master-Prompts für AI Act und DSGVO Sicherheit bei Hochrisiko KI in Sozialbehörden
+- **Section headlines (H2):**
+  - Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO & KI-Governance in Sozialbehörden
+  - Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO & KI-Governance in Sozialbehörden
+  - Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO & KI-Governance in Sozialbehörden
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Praktische Prompt-Vorlagen für Sozialbehörden, Leistungsstellen, Jobcenter, Jugendämter, kommunale IT und Verwaltungsteams, die KI-Systeme in sensiblen Behördenprozessen strukturiert, transparent und nachvollziehbar einsetzen möchten. Dieses digitale Compliance-Kit unterstützt Behörden und Verwaltungseinheiten dabei, KI-gestützte Vorselektion, Risikobewertung, Antragsbearbeitung, Entscheidungsunterstützung und Fachverfahren besser zu dokumentieren und intern kontrollierbarer zu machen.
+  > Sie erhalten 100 sofort nutzbare Master-Prompts für typische Aufgaben rund um AI-Act-Einstufung, Grundrechteprüfung, DSGVO-Verzahnung, Human Oversight, manuelle Übersteuerung, KI-Logbücher, Bias-Prüfung, Beschaffung, Schulung, Incident-Management und interne Governance.
+  > Das Compliance-Kit ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre Behörde, Ihr Fachverfahren, Ihre Rollen, Ihre Meldewege, Ihre Systemdaten oder Ihre konkreten Prüffragen.
+  > Der erzeugte Output sollte anschließend fachlich, datenschutzrechtlich, sozialrechtlich und organisatorisch geprüft, angepasst und intern freigegeben werden. Bei compliance-relevanter Nutzung empfiehlt sich eine nachvollziehbare Ablage von Prompt, Output, Datum, KI-System, Version, Zweck, verantwortlicher Stelle, Prüfschritt und Freigabe.
+- **Questions the sales page answers:**
+  - Für wen ist dieses Produkt geeignet?
+- **Page word count:** 2180
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/7ZLFH2SS.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

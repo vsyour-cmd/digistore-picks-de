@@ -1,7 +1,7 @@
 # Nichtraucher – dein Weg mit Online-Hypnose | 35 % Provision
 
 > Product ID `60383` · Digistore24 productId `741791` · [HTML profile page](../../reviews/nichtraucher-dein-weg-mit-online-hypnose-35-provision-60383.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Rauchfrei – Dein Weg zum Nichtraucher: Das komplette Programm - Digistore24
+- **OG title:** Rauchfrei – Dein Weg zum Nichtraucher: Das komplette Programm
+- **Section headlines (H3):**
+  - Rauchfrei – Dein Weg zum Nichtraucher: Das komplette Programm
+  - Rauchfrei in 10 Schritten – Das komplette Programm
+  - Rauchfrei – Dein Weg zum Nichtraucher: Das komplette Programm
+  - Rauchfrei in 10 Schritten – Das komplette Programm
+  - Rauchfrei – Dein Weg zum Nichtraucher: Das komplette Programm
+  - Rauchfrei in 10 Schritten – Das komplette Programm
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieses Programm begleitet dich Schritt für Schritt auf deinem Weg in ein rauchfreies Leben. Du lernst, dein Rauchverhalten besser zu verstehen, persönliche Auslöser zu erkennen, Gewohnheiten zu verändern und mit Rauchverlangen sicherer umzugehen – ohne Druck, ohne Verbote, sondern mit Verständnis und Klarheit.
+  > praktische Übungen und Reflexionen Hilfen bei Rauchverlangen und typischen Auslösern
+  > Ziel ist nicht, ständig gegen die Zigarette kämpfen zu müssen. Sie soll Schritt für Schritt an Bedeutung verlieren – bis rauchfrei sein zu deinem normalen Alltag wird.
+  > Dieses Programm begleitet dich Schritt für Schritt auf deinem Weg in ein rauchfreies Leben. Du lernst, dein Rauchverhalten besser zu verstehen, persönliche Auslöser zu erkennen, Gewohnheiten zu verändern und mit Rauchverlangen sicherer umzugehen – ohne Druck, ohne Verbote, sondern mit Verständnis und Klarheit.
+- **Page word count:** 567
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5935810/image/product/WYP6LAIV.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Gamma-Training Premium
 
 > Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../reviews/gamma-training-premium-59399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,19 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Gamma-Training | Synesthetic World of Senses
+- **Section headlines (H3):**
+  - Das 1:1 Gamma-Mentoring
+  - Welcher Weg passt zu dir?
+  - Wichtiger Hinweis
+- **Opening copy (first paragraphs):**
+  > Stell dir vor, du könntest deinen Fokus, deine Gelassenheit und deine Wahrnehmung genau dann umschalten, wenn du es brauchst: In stressigen Meetings, bei wichtigen Entscheidungen oder mitten im turbulenten Alltag.
+  > Bei meiner Arbeit geht es nicht um stundenlange Meditation oder den Rückzug aus der Welt. Im Gegenteil: Wir trainieren dort, wo das Leben tatsächlich stattfindet. Beim Karottenschälen, beim Spaziergang mit dem Hund, in schwierigen Gesprächen und bei beruflichen Herausforderungen. ***
+  > Unser Gehirn läuft meist im gewohnten Beta-Modus – geprägt von alten Denkmustern, Bewertungen und unbewussten Automatismen.
+  > Den Gamma-Schalter bedienen: Wie du bewusst in einen Zustand hoher mentaler Vernetzung und Klarheit umschaltest.
+- **Questions the sales page answers:**
+  - Welcher Weg passt zu dir?
+- **Page word count:** 592
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

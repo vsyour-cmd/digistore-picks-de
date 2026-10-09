@@ -1,7 +1,7 @@
 # Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
 
 > Product ID `60381` · Digistore24 productId `740720` · [HTML profile page](../../reviews/kredit-und-schufa-leicht-gemacht-ratgeber-kredit-rechner-60381.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,29 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner - Digistore24
+- **OG title:** Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+- **Section headlines (H3):**
+  - Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+  - Stromkosten leicht gemacht – Ratgeber als PDF
+  - Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+  - Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
+  - Kündigung leicht gemacht – Ratgeber + Generator
+  - Jobcenter und Sozialleistungen leicht gemacht – Ratgeber als PDF
+- **Price mentions on page:** $10
+- **Opening copy (first paragraphs):**
+  > Dieser Ratgeber erklärt verständlich, wie Sie Kredite vergleichen, Fallen vermeiden und Schufa-Einträge prüfen und korrigieren. Mit dem Kredit-Rechner sehen Sie sofort, welche Rate passt und welches Angebot günstiger ist. Stand Oktober 2026.
+  > Inhalt des Ratgebers: ✔ Kreditarten und was sie wirklich kosten ✔ Angebote vergleichen, ohne der Schufa zu schaden ✔ Der neue Schufa-Score und die kostenlose Auskunft ✔ Falsche Einträge löschen lassen, mit den Fristen nach dem BGH-Urteil ✔ Neue Kreditregeln ab 20. November 2026 ✔ Dispo ablösen, umschulden, Hilfe bei Engpässen ✔ 6 Musterbriefe und Checkliste
+  > Der Kredit-Rechner: ✔ Monatsrate, Zinsen und Laufzeit berechnen ✔ Zwei Angebote vergleichen ✔ Dispo-Kosten und Ersparnis durch Umschuldung ✔ Haushaltsrechnung: Was kann ich mir leisten?
+  > Lieferumfang Sie erhalten den Ratgeber als PDF-Datei mit 24 Seiten und den Kredit-Rechner als Datei, die Sie auf Computer, Tablet oder Handy im Browser öffnen.
+- **Questions the sales page answers:**
+  - Was kostet ein Kredit wirklich, und was steht über Sie in der Schufa?
+  - Kennen Sie Ihre Ansprüche?
+  - Zahlen Sie mehr für Strom als nötig?
+- **Page word count:** 2054
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5657835/image/product/IIN2LDLP.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

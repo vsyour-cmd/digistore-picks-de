@@ -1,7 +1,7 @@
 # Klarheitscode – 7-Tage-SOS bei Funkstille
 
 > Product ID `60270` · Digistore24 productId `735246` · [HTML profile page](../../reviews/klarheitscode-7-tage-sos-bei-funkstille-60270.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Klarheitscode – Dein 7-Tage-SOS-System
+- **OG title:** Klarheitscode – Kopf aus. Klarheit an.
+- **Meta description:** Klarheitscode: Das 7-Tage-SOS-System gegen Dating-Overthinking, gemischte Signale und ständiges Handy-Kontrollieren.
+- **Final URL after redirects:** https://klarheitscode-sos.netlify.app/
+- **Headline (H1):**
+  > Er schreibt nicht – und dein Kopf dreht durch?
+- **Section headlines (H2):**
+  - Eine fehlende Antwort – und plötzlich hängt dein ganzer Tag daran.
+  - Wo Fakten fehlen, produziert dein Kopf Erklärungen.
+  - Vier Schritte, die du immer wieder nutzen kannst.
+  - Alles, was du für die akuten Momente und die nächsten sieben Tage brauchst.
+  - Dein 7-Tage-SOS-Plan
+  - Du steigst genau dort ein, wo du gerade bist.
+  - Klarheitscode passt zu dir, wenn …
+  - Klarheitscode passt nicht, wenn …
+  - Du brauchst nicht jede Antwort. Nur den nächsten klaren Schritt.
+  - Was du vor dem Start wissen solltest.
+- **Opening copy (first paragraphs):**
+  > Kopf aus. Klarheit an. Er schreibt nicht – und dein Kopf dreht durch? Dein 7-Tage-SOS-System gegen Dating-Overthinking, gemischte Signale und ständiges Handy-Kontrollieren.
+  > Du brauchst nicht noch mehr Interpretationen. Du brauchst einen klaren Ablauf für genau den Moment, in dem dein Kopf keine Ruhe gibt.
+  > Vielleicht kennst du genau das Eine fehlende Antwort – und plötzlich hängt dein ganzer Tag daran. 01 Du kontrollierst. Chat, Online-Status, Profil, letzte Nachricht. Nur kurz – und wenig später noch einmal.
+  > War deine Nachricht zu lang? War der Punkt kühl? Warum war er gestern noch anders?
+- **Page word count:** 950
+- **OG image:** assets/klarheitscode-hauptbundle-mockup-3d-quadrat.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
