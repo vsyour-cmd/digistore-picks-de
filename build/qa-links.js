@@ -1,0 +1,79 @@
+#!/usr/bin/env node
+/** qa-links.js — 双站 QA:内部死链 + 中文字符泄漏 + 模板${}泄漏 + sitemap 覆盖(本地全量) */
+const fs = require("fs");
+const path = require("path");
+
+function collect(root, dirs) {
+  const files = [];
+  for (const d of dirs) {
+    const p = path.join(root, d);
+    if (!fs.existsSync(p)) continue;
+    for (const f of fs.readdirSync(p)) {
+      if (f.endsWith(".html")) files.push(d === "." ? f : d + "/" + f);
+    }
+  }
+  return files;
+}
+
+function qaSite(root, label, dirs) {
+  const files = collect(root, dirs);
+  const exists = new Set(files);
+  const cjk = [];
+  const dead = [];
+  const leaks = [];
+  let cjkChecked = 0;
+  for (const file of files) {
+    const html = fs.readFileSync(path.join(root, file), "utf8");
+    if (cjkChecked < 200) {
+      const m = html.match(/[\u4e00-\u9fff]+/g);
+      if (m) cjk.push(`${file}: ${m.slice(0, 3).join(",")}`);
+      cjkChecked++;
+    }
+    // 模板泄漏门禁:构建产物不允许出现未插值的 ${...}
+    const lm = html.match(/\$\{[^}]{1,80}\}/g);
+    if (lm) leaks.push(`${file}: ${[...new Set(lm)].slice(0, 3).join(" | ")}`);
+    const links = [...html.matchAll(/href="([^"]*\.html)(?:[?#][^"]*)?"/g)].map((m) => m[1]);
+    const base = path.posix.dirname(file);
+    for (let l of links) {
+      if (/^https?:/.test(l) || l.startsWith("#") || l.startsWith("mailto:") || l.startsWith("//")) continue;
+      const resolvedRaw = path.posix.normalize(path.posix.join(base === "." ? "" : base, l)).replace(/\\/g, "/");
+      if (resolvedRaw.startsWith("../")) continue;
+      if (exists.has(resolvedRaw)) continue;
+      const tail = resolvedRaw.split("/").pop();
+      if ([...exists].some((e) => e === tail || e.endsWith("/" + tail))) continue;
+      dead.push(`${file} → ${l}`);
+    }
+  }
+  return { files: files.length, cjk, dead, leaks };
+}
+
+function report(r, label) {
+  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length}`);
+  r.cjk.slice(0, 3).forEach((x) => console.log(`  ${label} CJK`, x));
+  r.dead.slice(0, 5).forEach((x) => console.log(`  ${label} DEAD`, x));
+  r.leaks.slice(0, 3).forEach((x) => console.log(`  ${label} LEAK`, x));
+}
+
+const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog"]);
+const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]);
+report(en, "EN");
+report(de, "DE");
+
+// sitemap 覆盖检查
+for (const [root, sm, dirs] of [
+  ["G:/Digistore24/site", "sitemap.xml", [".", "category", "reviews", "alternatives", "best-of", "blog"]],
+  ["G:/Digistore24/site-de", "sitemap.xml", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]],
+]) {
+  const smContent = fs.readFileSync(path.join(root, sm), "utf8");
+  const smUrls = new Set([...smContent.matchAll(/<loc>[^<]+\/([^<]+)<\/loc>/g)].map((m) => m[1]));
+  const files = collect(root, dirs);
+  const notInSitemap = files.filter((f) => !smUrls.has(f) && !smUrls.has("") && f !== "404.html" && !/^google[0-9a-f]+.html$/.test(f) && !/^[0-9a-f]{32}\.txt$/.test(f));
+  console.log(`${path.basename(root)}: sitemap ${smUrls.size} 条 | 应入未入: ${notInSitemap.length}`);
+  notInSitemap.slice(0, 3).forEach((x) => console.log("  未入:", x));
+}
+
+// DE "correction" 残留检查
+if (fs.existsSync("G:/Digistore24/site-de/blog/guide-gesundheit-fitness.html")) {
+  const deIndex = fs.readFileSync("G:/Digistore24/site-de/blog/guide-gesundheit-fitness.html", "utf8");
+  console.log("DE correction残留:", deIndex.includes("correction:") ? "有!" : "无");
+}

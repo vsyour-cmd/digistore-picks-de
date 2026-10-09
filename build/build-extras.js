@@ -25,10 +25,13 @@ const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</
 }
 
 const urls = [];
-const add = (u, date) => urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY });
+const seen = new Set();
+const add = (u, date) => { if (seen.has(u)) return; seen.add(u); urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY }); };
 
 add("", DATA_DATE);
 add("about.html", TODAY);
+add("impressum.html", TODAY);
+add("datenschutz.html", TODAY);
 add("produkte/index.html", DATA_DATE);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
 for (const d of ["kategorie", "alternativen", "empfehlungen", "blog"]) {
