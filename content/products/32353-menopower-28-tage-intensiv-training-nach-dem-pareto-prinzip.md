@@ -70,6 +70,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du kannst jeden Tag (24 Stunden) auf alle Videos zugreifen. Du kannst (und solltest...) also auch nach den 28 Tagen die Übungen nach meiner Anleitung nutzen. Auch mein E-Mail-Support steht Dir immer zur Verfügung.
+> Ja, Du wirst schon nach wenigen Tagen die ersten positiven Veränderungen spüren! Durch meine jahrzehntelange Erfahrung habe ich die Übungen so optimiert, dass sie die volle Wirkung entfalten. Du musst Sie aber natürlich auch genau nach meiner Anleitung umsetzen!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/32353-g1.webp
+- assets/products/32353-g2.webp
+- assets/products/32353-g3.webp
+- assets/products/32353-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2020-03-04

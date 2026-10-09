@@ -73,6 +73,19 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Möchtest du deinen Fotos den perfekten Look verleihen, aber weißt nicht, wie man Presets in Lightroom Classic importiert? Keine Sorge! Folge diesen einfachen Schritten und verwandle deine Fotos in atemberaubende Kunstwerke:
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/29190-g3.webp
+- assets/products/29190-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Woods Lightroom Wedding Presets? — Typ: Downloads, Anbieter: Creative4life, gelistet seit 2019-06-03

@@ -70,6 +70,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Schritt für Schritt Aufbau für Mamas, die sich ohne Technik-Stress ein eigenes Online-Business aufbauen wollen – klar, strukturiert und in deinem Tempo.
+> Dein Orientierungs-Guide: Findest in 3 einfachen Schritten heraus, wo du stehst und was als nächstes zu tun ist – ohne Technik-Chaos.
+> Affiliate Marketing Grundkurs: Schritt-für-Schritt zu deiner ersten Provision – auch ohne Vorerfahrung. 19 Seiten.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55860-g1.webp
+- assets/products/55860-g2.webp
+- assets/products/55860-g3.webp
+- assets/products/55860-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 17€ FIX-CASH - Digital.Woman.Power Das Wow in der Mom Nische? — Typ: E-books, Anbieter: DWPCaro, gelistet seit 2026-03-05

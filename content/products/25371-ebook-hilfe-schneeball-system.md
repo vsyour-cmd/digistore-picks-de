@@ -73,6 +73,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Doch dann konnte ich mit dem Lesen gar nicht mehr aufhören! Definitiv nicht nur ein Buch für die erfolgreiche Einwandbehandlung im Network-Marketing. Sondern eine wertvolle Toolbox für jeden, der in welchem Bereich auch immer Einwände entkräften oder Skeptikern den Wind aus den Segeln nehmen möchte. So funktioniert „Aikido mit Worten“ …
+> Ich kann dieses Buch wirklich jedem nur wärmstens empfehlen, der bei Konfrontationen von Einwänden und Vorwänden verunsichert ist und ins Stocken kommt! Es ist nicht nur ein tolles Praxisbuch mit leicht umsetzbaren Anleitungen, sondern in der Tat eine Investition fürs Leben.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/25371-g1.webp
+- assets/products/25371-g2.webp
+- assets/products/25371-g3.webp
+- assets/products/25371-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook „HILFE!! SCHNEEBALL SYSTEM!“? — Typ: E-books, Anbieter: Image2success, gelistet seit 2018-04-16

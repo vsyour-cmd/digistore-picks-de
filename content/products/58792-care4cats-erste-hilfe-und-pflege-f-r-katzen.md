@@ -76,6 +76,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Deine Katze ist Familie – und wenn es ernst wird, brauchst du Wissen, Ruhe und Sicherheit. Im CARE4CATS® Onlinekurs lernst du Schritt für Schritt, wie du deine Katze bestmöglich schützt und versorgst.
+> Alle Inhalte werden leicht verständlich erklärt – praxisnah, Schritt für Schritt und ohne Fachchinesisch.
+
+### 3c. Cautions
+
+> ⚠️ Wichtig: Der Kurs ersetzt keinen Tierarzt – gibt dir aber Sicherheit im Notfall.
+> Hier findest du ehrliche Antworten auf die wichtigsten Fragen, die sich viele Katzenhalter vor dem Start stellen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58792-g1.webp
+- assets/products/58792-g2.webp
+- assets/products/58792-g3.webp
+- assets/products/58792-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Care4Cats Erste Hilfe und Pflege für Katzen? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31

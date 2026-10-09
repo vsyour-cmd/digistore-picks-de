@@ -89,6 +89,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Social Media Plan fürs Handwerk ist eine praktische Anleitung für Betriebe, die regelmäßig sichtbar werden wollen, ohne jede Woche neu überlegen zu müssen. Egal ob du neu auf Social Media startest oder mehr Struktur suchst: Dieser Plan bringt dich in die Umsetzung. Verständlich. Übersichtlich. Stressfrei.
+> „Du brauchst kein Vorwissen und keine Marketingkraft im Büro. Alles ist so aufbereitet, dass du es selbst umsetzen kannst. Unkompliziert, verständlich und Schritt für Schritt erklärt.“
+> 90-Tage-Sichtbarkeits-Plan mit Tagesstruktur, einfachen Anleitungen und klaren Aufgaben
+
+### 3c. Cautions
+
+> „Viele Handwerksbetriebe wissen, wie wichtig Social Media ist, haben aber weder Zeit noch Ideen. Genau hier setzt der Sichtbarkeits-Plan an: klare Strukturen, einfache Aufgaben und Inhalte, die wirklich funktionieren.“
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53076-g2.webp
+- assets/products/53076-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk? — Typ: Downloads, Anbieter: SOMEONMARKETING, gelistet seit 2025-07-03

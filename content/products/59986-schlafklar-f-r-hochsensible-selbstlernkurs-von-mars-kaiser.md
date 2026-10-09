@@ -75,6 +75,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verstehe, was dich abends wach hält, und erarbeite kleine Schritte, die zu deinem Alltag passen. Ein Selbstlernkurs über Schlaf, Reizverarbeitung und innere Aktivierung, ohne aus deiner Nacht die nächste Leistungsaufgabe zu machen.
+> Das 30-Tage-Programm gibt deiner Umsetzung eine Reihenfolge: An den Tagen 1 bis 10 beobachtest du ohne Schlafnoten, an den Tagen 11 bis 20 probierst du kleine Möglichkeiten aus und passt sie an, an den Tagen 21 bis 30 festigst du passende Schritte. Es ist ein Programm, keine Challenge mit Leistungsziel.
+
+### 3c. Cautions
+
+> „Schlaf ist für mich enorm wichtig, da ich als Selbständiger sehr viel arbeiten muss und oft abends nicht abschalten kann. Daher habe ich den Kurs mal ausprobiert und ich muss wirklich sagen, ich war am Anfang sehr skeptisch wegen der Zielgruppe HSP, aber der Kurs hat mich extrem abgeholt und hat mir gezeigt, was ich jetzt alles tun kann, um meinen Schlaf zu verbessern.“ Sylwie Lipiec
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59986-g1.webp
+- assets/products/59986-g2.webp
+- assets/products/59986-g3.webp
+- assets/products/59986-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser? — Typ: Member area and video courses, Anbieter: marcokaiser8e50, gelistet seit 2026-09-28

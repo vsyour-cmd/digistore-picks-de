@@ -14,7 +14,7 @@ categories: ["Computer & Internet","Social Media","Marketing Services"]
 listed_since: "2024-04-09"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "thin"
 promo_link: "https://www.daswebinar.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.daswebinar.com/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # OneClickFaceless - das profitables Online-Business
 
 > Product ID `48437` · Digistore24 productId `547368` · [HTML profile page](../../produkte/oneclickfaceless-das-profitables-online-business-48437.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,16 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** OCF 2026 Steffen
+- **CTA button texts:** "Jetzt kostenlosen Workshop-Termin aussuchen"
+- **Opening copy (first paragraphs):**
+  > 4.987 € im Monat online aufbauen, ohne dein Gesicht zu zeigen? Genau das macht die neue One-Click-Faceless-Methode so spannend.
+  > Sichere dir jetzt deinen Termin für den nächsten kostenlosen Workshop und entdecke, wie du mit KI, vorbereiteten Inhalten und einem einfachen System online starten kannst — ohne eigene Produkte, ohne Kamera ohne komplizierte Technik.
+  > Jetzt kostenlosen Workshop-Termin aussuchenKostenloser Workshop · Keine Vorkenntnisse nötig · Am PC oder Smartphone ansehen
+  > Deine Daten sind hier sicher – du kannst die Verarbeitung & Speicherung jederzeit widerrufen. Impressum - Datenschutz
+- **Questions the sales page answers:**
+  - ohne dein Gesicht zu zeigen?
+- **Page word count:** 103
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

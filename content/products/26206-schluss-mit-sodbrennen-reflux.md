@@ -79,6 +79,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Klare Anleitung, wie du deinen Lieblingssport treiben kannst, ohne dadurch Reflux zu verstärken.
+> Meine exklusiven Bonusinhalte nehmen dich bei jedem Schritt bei der Hand. Sie helfen dir, die Maßnahmen aus dem Buch möglichst schnell und ohne Fehler umzusetzen.
+
+### 3c. Cautions
+
+> Patienten bekommen beim Arzt oft nur Behandlung, die kurzfristig wirkt. Mit der Zeit brechen Symptome wieder durch. Ich helfe dir, das zu vermeiden.
+> Welche Tests du beim Arzt verlangen musst, um Reflux sicher als Ursache deines Sodbrennens festzustellen.
+> Weswegen es enorm wichtig ist, wann und in welchem Rhythmus du isst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26206-g1.webp
+- assets/products/26206-g2.webp
+- assets/products/26206-g3.webp
+- assets/products/26206-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Sodbrennen (Reflux)? — Typ: Downloads, Anbieter: Sanariver, gelistet seit 2017-10-02

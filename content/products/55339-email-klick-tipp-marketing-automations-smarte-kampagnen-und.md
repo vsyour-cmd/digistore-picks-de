@@ -75,6 +75,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> "Ich empfehle Avraam Skenteridis mit Augen zu. Ich bin Arzt in Thessaloniki mit ein Praxis für Pathologie und er hat mir ein Terminbuchungssystem erstellt und meine Webseite etwa 1 Tausend euro. Unglaublich. Diese Preis/Value gibt es im Markt nicht. Nur eins war negative. Er war inzwischen 1 Woche Krank und hat 1 Tag genau verspätet als versprochen. "
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55339-g1.webp
+- assets/products/55339-g2.webp
+- assets/products/55339-g3.webp
+- assets/products/55339-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Email Klick Tipp Marketing Automations: Smarte Kampagnen und? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-01-26

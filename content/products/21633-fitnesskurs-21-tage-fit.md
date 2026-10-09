@@ -73,6 +73,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Kurze Home-Workouts ganz ohne Geräte, ein klarer Trainings- und Ernährungs-Fahrplan und verständliche Supplement-Tipps – für spürbar mehr Fitness in den eigenen vier Wänden. In Ihrem Tempo, Schritt für Schritt.
+> Der Onboarding-Guide – in 5 Minuten startklar, Schritt für Schritt.
+> Ihr Schritt-für-Schritt-Fahrplan – klar strukturiert statt Trainings-Chaos.
+
+### 3c. Cautions
+
+> Hinweis: Dieser Videokurs ist ein allgemeines Informations- und Trainingsprodukt und ersetzt keine ärztliche oder ernährungswissenschaftliche Beratung. Ergebnisse sind individuell und hängen von Ihrer Umsetzung, Ausgangslage und Ernährung ab. Bei gesundheitlichen Beschwerden oder Vorerkrankungen klären Sie die Eignung bitte vorab ärztlich ab. Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene Ernährung.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitnesskurs - 21 Tage fit? — Typ: Downloads, Anbieter: Nova02, gelistet seit 2017-12-07

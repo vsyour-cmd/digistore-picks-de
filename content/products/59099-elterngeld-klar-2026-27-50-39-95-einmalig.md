@@ -79,6 +79,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Steuerbescheid/Gewinn, Arbeitszeit bei Bezug, PKV/GKV-Warnungen — immer KK/PKV fragen, keine Beitragssätze erfinden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59099-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elterngeld-klar 2026/27 – 50 %, 39,95 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-10

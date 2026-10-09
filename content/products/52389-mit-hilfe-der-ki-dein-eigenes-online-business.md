@@ -71,6 +71,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sichere dir den vollen Zugriff auf alle aktuellen und zukünftigen Premium-Kurse – von Webseiten-Bau, KI-Automatisierung und SEO bis hin zu lokalem Marketing. Schritt für Schritt, glasklar auf den Punkt gebracht und sofort umsetzbar. 👉 Jetzt Komplettzugang sichern (Nur 49€ einmalig) ✓ Einmalzahlung – Kein Abo, keine versteckten Kosten
+> Kein theoretisches Fach-Chinesisch. Du erhältst glasklare Klick-für-Klick-Anleitungen (wie unseren SEO-Kompaktkurs), die du sofort eins zu eins umsetzen kannst. 🚀 Zukunftssicheres Paket
+> ✕ Du bist nicht bereit, die einfachen Schritt-für-Schritt-Anleitungen aktiv anzuwenden.
+
+### 3c. Cautions
+
+> Die wichtigsten Antworten auf einen Blick – transparent und ohne Kleingedrucktes. Warum kostet das Paket einmalig nur 299 €? Wo ist der Haken? Es gibt keinen Haken. Keine monatlichen Gebühren, kein Abo. Mein Ziel ist es, Gründern den Einstieg so einfach wie möglich zu machen, ohne Tausende von Euro in Agenturen zu stecken. Du zahlst einmal und nutzt das Wissen für immer.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Hilfe der KI dein eigenes Online Business? — Typ: Member area and video courses, Anbieter: Kisman, gelistet seit 2024-05-08

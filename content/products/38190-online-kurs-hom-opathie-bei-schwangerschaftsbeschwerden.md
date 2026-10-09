@@ -79,6 +79,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Ich bin sehr zufrieden mit dem Kurs. Die Lektionen sind leicht verständlich und die Dozentin erklärt alles sehr anschaulich. Ich fühle mich jetzt sicherer in der Anwendung.“
+
+### 3c. Cautions
+
+> Die wichtigsten „Frauenmittel“ werden anhand von Typbeschreibungen vorgestellt – damit Sie nicht nur nach Symptomen, sondern auch nach Charaktermerkmalen das passende Mittel wählen können.
+> die wichtigsten „Frauenmittel“ für die Schwangerschaft kennenlernen
+> Ich beschäftige mich seit über 20 Jahren mit Homöopathie und bilde mich regelmäßig weiter – denn nichts ist in der Naturheilkunde wichtiger, als am Ball zu bleiben. Seit 12 Jahren praktiziere ich in der Eifel als Heilpraktikerin.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38190-g1.webp
+- assets/products/38190-g2.webp
+- assets/products/38190-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: Homöopathie bei Schwangerschaftsbeschwerden? — Typ: Member area and video courses, Anbieter: thopuh, gelistet seit 2021-01-18

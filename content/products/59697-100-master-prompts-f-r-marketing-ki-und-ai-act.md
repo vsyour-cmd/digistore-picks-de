@@ -70,6 +70,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im Unternehmenskontext
+> Der erzeugte Output sollte anschließend fachlich geprüft, angepasst und mit Datum, genutztem KI-System, Verantwortlichem, Prüfschritt und Freigabe intern dokumentiert werden. So entsteht Schritt für Schritt ein nachvollziehbarer Workflow für die geschäftliche Nutzung generativer KI.
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im Unternehmenskontext
+
+### 3c. Cautions
+
+> Sie erhalten 100 sofort nutzbare Master-Prompts für typische Aufgaben rund um AI-Act-Transparenz, Kennzeichnungspflichten, Urheberrechtsprüfung, TDM-Opt-Out, Tool-Auswahl, interne Richtlinien, Content-Logbuch, Freigabeprozesse, Chatbot-Hinweise und Audit-Vorbereitung.
+> Chatbot-Disclaimer und Transparenztexte für Kundenservice, E-Commerce, Support und automatisierte Kommunikation
+> TDM-Opt-Out- und Website-Hinweise zur klareren Kommunikation, wenn eigene Inhalte nicht für KI-Training genutzt werden sollen
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59697-g1.webp
+- assets/products/59697-g2.webp
+- assets/products/59697-g3.webp
+- assets/products/59697-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Master-Prompts für Marketing-KI und AI Act? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25

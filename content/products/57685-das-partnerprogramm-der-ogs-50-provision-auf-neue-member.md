@@ -75,6 +75,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Features So funktioniert es Erfolge Partner werden FAQ Jetzt kostenlos testen Memberbereich
+> “ Ich hatte mehrere Instagram-Seiten am Laufen, wusste aber nicht, wie ich daraus passives Einkommen mache. Die OGS Community hat mir Schritt für Schritt gezeigt, wie ich das automatisiere, mit konkreten Tipps & Tricks. Heute läuft vieles im Hintergrund. ”
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm der OGS. 50% Provision auf neue Member? — Typ: Member area and video courses, Anbieter: Onlinegeldschule, gelistet seit 2026-07-22

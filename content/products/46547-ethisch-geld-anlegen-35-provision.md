@@ -79,6 +79,19 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Auch wurde für Waisenkinder ein einfaches Haus errichtet. Das alles wurde zum Selbstläufer es war nur" eine Anschubfinanzierung notwendig, danach konnten die nächsten Schritte aus den Überschüssen des Gemüseverkaufs finanziert werden. Projekt erfolgreich abgeschlossen. Solche Hilfe zur Selbsthilfe"-Projekte gefallen mir am besten.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/46547-g1.webp
+- assets/products/46547-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ethisch Geld anlegen: 35% Provision? — Typ: Downloads, Anbieter: vaupel, gelistet seit 2018-01-16

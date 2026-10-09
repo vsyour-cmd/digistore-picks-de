@@ -91,6 +91,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du zeigst Produkte in echter Anwendung – mit Tutorials, Workflows und nachvollziehbarer Praxis.
+> eine Methode für garantierte oder schnelle Einnahmen erwartest,
+> Hinweis: Affiliate Marketing ist ein unternehmerisches Modell. Es gibt keine Garantie für bestimmte Besucherzahlen, Verkäufe oder Einnahmen. Ergebnisse hängen unter anderem von Markt, Zielgruppe, Produkten, Traffic und Umsetzung ab.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Praxisplan – 5 Strategien für den Start? — Typ: E-books, Anbieter: HB1976, gelistet seit 2026-09-01

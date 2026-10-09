@@ -71,6 +71,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sofort umsetzbar: Keine langen Abhandlungen, sondern praxiserprobte Schritt-für-Schritt-Tipps für die schnelle Anwendung im Alltag.
+> Sofort umsetzbar: Keine langen Abhandlungen, sondern praxiserprobte Schritt-für-Schritt-Tipps für die schnelle Anwendung im Alltag.
+> Sofort umsetzbar: Keine langen Abhandlungen, sondern praxiserprobte Schritt-für-Schritt-Tipps für die schnelle Anwendung im Alltag.
+
+### 3c. Cautions
+
+> Schluss mit komplizierter Theorie! Dieser praxisnahe Guide bringt die wichtigsten Grundlagen der Katzenerziehung und einer artgerechten Ernährung direkt auf den Punkt – ideal für einen stressfreien Alltag mit deiner Katze.
+> Schluss mit komplizierter Theorie! Dieser praxisnahe Guide bringt die wichtigsten Grundlagen der Katzenerziehung und einer artgerechten Ernährung direkt auf den Punkt – ideal für einen stressfreien Alltag mit deiner Katze.
+> Schluss mit komplizierter Theorie! Dieser praxisnahe Guide bringt die wichtigsten Grundlagen der Katzenerziehung und einer artgerechten Ernährung direkt auf den Punkt – ideal für einen stressfreien Alltag mit deiner Katze.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59535-g1.webp
+- assets/products/59535-g2.webp
+- assets/products/59535-g3.webp
+- assets/products/59535-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Katzen-Erziehung leicht gemacht: Vom Problemverhalten zur ha? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-22

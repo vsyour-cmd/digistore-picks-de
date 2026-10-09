@@ -79,6 +79,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der ehrliche Einstiegsguide für Reddit – Schritt für Schritt, ohne Eigenwerbung.
+
+### 3c. Cautions
+
+> Hinweis: Einige Links sind Affiliate-Links. Kaufst du darüber, erhalten wir ggf. eine kleine Provision – für dich ohne Mehrkosten. Wir empfehlen nur, was wir selbst gut finden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56933-g1.webp
+- assets/products/56933-g2.webp
+- assets/products/56933-g3.webp
+- assets/products/56933-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Reddit? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15

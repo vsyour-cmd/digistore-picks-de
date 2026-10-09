@@ -86,6 +86,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im Master-Practitioner-Kurs lernst du das Geheimnis der „7-Schritte-Methode” kennen und bist somit anderen Anwendern eine fast schon unfaire und entscheidende Nasenlänge voraus.
+> In glasklaren Schritten führen wir dich durch das Training, bis du die Anwendungen meisterhaft beherrschst.
+
+### 3c. Cautions
+
+> Rechtlicher Hinweis: Quantenheilung zählt zum Bereich "Geistheilung", für die es keinen wissenschaftlichen Nachweis gibt. Die Ergebnisse dieses Programms sind von Teilnehmer zu Teilnehmer unterschiedlich und daher Indivuelll zu betrachten und müssen weder typisch sein, noch können diese Resultate garantiert werden.
+> Du vergisst nie mehr wichtige Inhalte und bestimmst dein Tempo selbst.
+> Achtung: Dieses Angebot kann bereits in den nächsten Stunden wieder zurückgezogen werden!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/3467-g2.webp
+- assets/products/3467-g3.webp
+- assets/products/3467-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist QC Practitioner? — Typ: Member area and video courses, Anbieter: crack1966, gelistet seit 2014-03-16

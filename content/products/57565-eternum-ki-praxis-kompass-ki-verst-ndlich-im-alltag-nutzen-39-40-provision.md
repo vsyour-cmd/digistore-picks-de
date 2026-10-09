@@ -76,6 +76,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Weil der KI-Praxis-Kompass ein Einstieg sein soll, keine Hürde. Ich will, dass möglichst viele Menschen den ersten Schritt machen können — ohne groß nachzudenken, ob sie sich das leisten können.
+> Und wenn du danach merkst, dass KI etwas für dich ist? Dann gibt es bei ETERNUM den nächsten Schritt — das KI-Komplettsystem mit 5 Workbooks und persönlichem Gespräch.
+
+### 3c. Cautions
+
+> 12 vollständig ausgearbeitete Master-Prompts für wichtige Aufgaben + 58 kompakte Praxis-Prompts für Schreiben, Kommunikation, Alltag, Büro, Dateien und Qualitätskontrolle. Kopieren, Platzhalter ersetzen, fertig.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57565-g1.webp
+- assets/products/57565-g2.webp
+- assets/products/57565-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision? — Typ: E-books, Anbieter: megareichtum, gelistet seit 2026-07-16

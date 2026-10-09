@@ -82,6 +82,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Danach geht es um den sauberen Wegzug: Abmeldung, Wohnsitzaufgabe, Dokumentation und die oft überraschende Wegzugsbesteuerung nach § 6 AStG, die Anteilseigner von Kapitalgesellschaften trifft. Mit dem klaren Hinweis, dass dieser Schritt niemals ohne spezialisierten Steuerberater erfolgen sollte.
+> – Wer nach Anleitungen zum Tricksen oder zur Steuerhinterziehung sucht
+
+### 3c. Cautions
+
+> Wichtig vorweg: Es geht ausschließlich um legale Steuergestaltung, nicht um Steuerhinterziehung. Dieser Guide ist Information und Bildung, ausdrücklich keine Steuer- oder Rechtsberatung. Für verbindliche Entscheidungen brauchst du immer einen spezialisierten Steuerberater oder Fachanwalt – das betont der Guide in jedem Kapitel.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuerfrei um die Welt? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01

@@ -72,6 +72,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ist der Pilates Kurs auch für Einsteiger geeignet? Auf jeden Fall! Unser Pilates Kurs richtet sich an alle, die Lust haben, sich zu bewegen. Wir erklären alles Schritt für Schritt und geben Anpassungsmöglichkeiten für jedes Trainingslevel.
+
+### 3c. Cautions
+
+> Wenn du Kontraindikationen hast, kannst du leider nicht am Programm teilnehmen. Kontaktiere in diesem Fall bitte deinen Arzt oder auch gerne unseren Support.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39172-g2.webp
+- assets/products/39172-g3.webp
+- assets/products/39172-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates-Präventionskurs als Onlinekurs? — Typ: Downloads, Anbieter: KatiBloedorn, gelistet seit 2021-02-08

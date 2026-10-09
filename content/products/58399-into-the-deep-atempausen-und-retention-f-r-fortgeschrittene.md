@@ -78,6 +78,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ja, der Kurs ist genau daf&uuml;r gebaut. Ich f&uuml;hre dich Schritt f&uuml;r Schritt durch jede Session &mdash; du brauchst nur dich, eine Matte und einen Ort, an dem du ungest&ouml;rt liegen kannst. Wichtig: Mach die Atemsessions im Liegen, nie im Wasser, nie beim Autofahren, und halt ein Glas Wasser bereit. Den Rest erkl&auml;rt dir das Video.
+> &bdquo;Into the Deep" ist der Schritt nach den Basics &mdash; sch&ouml;n ist es, wenn du deinen Atem schon ein bisschen kennst. Zwingend ist das nicht. Wenn du ganz neu bist, legt &bdquo;Begin to Breathe" das Fundament, und es gibt beide Kurse als B&uuml;ndel. Mutig genug, direkt einzusteigen? Dann starte hier.
+
+### 3c. Cautions
+
+> ✗ du bestimmte medizinische Kontraindikationen hast (Herz, Lunge, Epilepsie, Schwangerschaft, akute psychische Erkrankungen, Trauma) &mdash; bitte sprich vorher mit deiner &Auml;rztin oder deinem Arzt
+> Psychedelic Breath&reg; ist eine intensive Technik, und Ehrlichkeit geh&ouml;rt dazu: Sie ist nicht f&uuml;r jeden. Bitte mach die Session nicht, wenn du schwanger bist, Herz-Kreislauf-Probleme, hohen Blutdruck, Epilepsie, ein Glaukom oder eine schwere psychische Erkrankung hast &mdash; oder gerade operiert wurdest. Im Kurs gibt es eine eigene Lektion &bdquo;Wann darfst du nicht mitmachen?", die das in Ruhe durchgeht. Wenn du unsicher bist, sprich vorher mit deiner &Auml;rztin oder deinem Arzt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58399-g1.webp
+- assets/products/58399-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Deep — Atempausen und Retention für Fortgeschrittene? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16

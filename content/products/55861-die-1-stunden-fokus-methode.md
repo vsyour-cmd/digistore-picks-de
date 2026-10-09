@@ -72,6 +72,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dieses umfassende Produktivitäts-System zeigt dir Schritt für Schritt, wie du fokussierter arbeitest und deine wichtigsten Ziele konsequent umsetzt.
+> Digital Detox Guide Eine Anleitung, mit der du digitale Ablenkungen gezielt reduzierst.
+> Dieses umfassende Produktivitäts-System zeigt dir Schritt für Schritt, wie du fokussierter arbeitest und deine wichtigsten Ziele konsequent umsetzt.
+
+### 3c. Cautions
+
+> Dieses System hilft dir, deine wichtigsten Aufgaben mit maximaler Konzentration zu bearbeiten.
+> Deep Work Cheat Sheet Eine kompakte Übersicht der wichtigsten Fokus-Regeln.
+> Dieses System hilft dir, deine wichtigsten Aufgaben mit maximaler Konzentration zu bearbeiten.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55861-g1.webp
+- assets/products/55861-g2.webp
+- assets/products/55861-g3.webp
+- assets/products/55861-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 1-Stunden-Fokus-Methode? — Typ: Downloads, Anbieter: pgustke28d278, gelistet seit 2026-03-09

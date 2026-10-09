@@ -86,6 +86,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Für die positive Persönlichkeits-Entwicklung im Trading, die ich durch Anwendung der Subliminals erfahren durfte, möchte ich Ihnen Danken. Es bestärkt mich darin, meinen Horizont nicht mehr nur auf Schulwissen und der Norm entsprechenden Meinungen zu beschränken, sondern offen zu sein für Neues.
+> Die Mental-Technik der Silent Subliminals ermöglicht bei genauer Anwendung, genau das.
+
+### 3c. Cautions
+
+> Eine positive Grundeinstellung, das richtige Mindset und der feste Glaube an den erwarteten Erfolg, sind der Schlüssel zu deinem Ziel. Wenn Du nicht an dich selbst glauben kannst, sinken deine Chancen enorm. Die Wichtigkeit einer positiven Erwartungshaltung sollte dich dazu motivieren, stetig an deinem Mindset zu arbeiten und die positive Denkweise eines erfolgreichen Traders zu kultivieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26175-g2.webp
+- assets/products/26175-g3.webp
+- assets/products/26175-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mental-Training für Trader - TRADING SUCCESS? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2021-03-03

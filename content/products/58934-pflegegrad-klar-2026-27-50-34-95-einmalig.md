@@ -81,6 +81,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ausdrücklich nicht: Heilversprechen, garantierter Pflegegrad, Höherstufungs-Zusage, „mehr Pflegegeld“, Einkommensgarantie. Ersetzt nicht Medizinischen Dienst, Medicproof, Pflegekasse, Arzt, Anwalt, VdK oder die Pflegeberatung nach § 7a SGB XI. Kein Täuschungs-Coaching, keine amtlichen Kassen-Vordrucke, keine Kundenstimmen.
+> Arztberichte, Medikamente, Hilfsmittel, Vollmacht — auffindbar
+> Kein Heilversprechen, kein garantierter Pflegegrad, keine Höherstufungs-Zusage, kein „mehr Pflegegeld“. Ersetzt nicht MD, Medicproof, Pflegekasse, Arzt, Anwalt, VdK oder § 7a.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58934-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-05

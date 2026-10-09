@@ -73,6 +73,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 30 praktische KI-Vorlagen. 5 ausführliche Praxisbeispiele. Schritt für Schritt erklärt – auch für ChatGPT-Einsteiger.
+> ✓ 30 sofort einsetzbare KI-Vorlagen ✓ 5 ausführliche Praxisbeispiele ✓ Einfache Schritt-für-Schritt-Anleitung für Einsteiger ✓ Kundenanfragen und Reklamationen professionell beantworten ✓ Angebote und Verkaufstexte schneller erstellen ✓ Marketing und Social-Media-Inhalte vorbereiten ✓ Aufgaben, Wochen und Projekte besser organisieren ✓ Prozesse analysieren und Automatisierungspotenziale erkennen ✓ Sofort als PDF verfügbar – ohne Abo
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59402-g1.webp
+- assets/products/59402-g2.webp
+- assets/products/59402-g3.webp
+- assets/products/59402-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU? — Typ: E-books, Anbieter: norialo, gelistet seit 2026-09-19

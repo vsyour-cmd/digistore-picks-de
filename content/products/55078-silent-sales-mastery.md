@@ -66,6 +66,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Starte dein erstes Nebeneinkommen – 100% online und Schritt für Schritt erklärt.
+> Dir wird alles Schritt für Schritt erklärt, so dass du es perfekt nachmachen kannst!
+> Ich stehe komplett am Anfang, ist das ein Problem? + Nein, überhaupt nicht. Auch wir haben einmal bei 0 angefangen und wissen genau, welche Hürden auf dich zukommen. Der Videokurs ist so aufgebaut, dass du Schritt für Schritt lernst, dein eigenes Digital Reselling Business aufzubauen – von der Auswahl des passenden Produkts bis zu den ersten Einnahmen.
+
+### 3c. Cautions
+
+> Wie alt muss ich sein? + Dein Alter ist nicht entscheidend. Viel wichtiger ist, dass du motiviert, diszipliniert und bereit bist, aktiv mitzumachen. Stelle dir also die Frage: Bin ich bereit, konsequent dranzubleiben?
+> Was passiert nachdem ich bestellt habe? + Direkt nach deiner Bestellung erhältst du eine E-Mail mit allen wichtigen Infos. Anschließend wirst du auf unsere Dankesseite weitergeleitet, wo du Zugriff auf die exklusive Videokurs-Playlist und die Supportgruppe bekommst. So kannst du sofort starten und direkt von der Community profitieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55078-g2.webp
+- assets/products/55078-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Sales Mastery? — Typ: Member area and video courses, Anbieter: Dalyan123, gelistet seit 2025-11-22

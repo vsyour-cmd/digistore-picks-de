@@ -86,6 +86,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Auf den Kern gebracht: durch die Anwendung von wirksamen MP3-Sessions, die dem Gießwasser vorgespielt werden, wird im Wasser das "HADO" absorbiert, die subtile Energie des Wortes, der enthaltenen Botschaften, der Melodie und der Heilfrequenzen.
+
+### 3c. Cautions
+
+> Bio-Frequenzen sind Klänge, denen heilsame Wirkung zugesprochen werden. Unter anderem nutzen wir die berühmten "Solfeggio-Frequenzen", die eine 6 Ton-Skala bilden und schon in der Musik des 11. Jahrhunderts verwendet wurden. Darüber hinaus gibt es bereits in der Antike Hinweise auf diese Frequenzen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38509-g2.webp
+- assets/products/38509-g3.webp
+- assets/products/38509-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2021-11-24

@@ -84,6 +84,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Struktur, wenn du nach dem Rauchstopp wieder geraucht hast und den nächsten Schritt planen möchtest.
+> Deine schnelle Hilfe für akute Rauchverlangen-Momente. Statt lange zu überlegen, findest du konkrete Schritte, mit denen du zunächst den kritischen Moment überbrücken kannst.
+> Der eigentliche Nutzen Von „Hoffentlich halte ich durch“ zu einem klaren nächsten Schritt
+
+### 3c. Cautions
+
+> Der Entschluss, nicht mehr zu rauchen, ist wichtig. Doch dein Alltag hält sich nicht immer an deinen Plan.
+> Genau das ist einer der wichtigsten Unterschiede dieses Pakets: Du öffnest den Bestandteil, der zu deiner aktuellen Situation passt.
+> Beobachte deine wichtigsten Trigger, teste Ersatzhandlungen und halte deine Akuthilfe griffbereit.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58287-g1.webp
+- assets/products/58287-g2.webp
+- assets/products/58287-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-11

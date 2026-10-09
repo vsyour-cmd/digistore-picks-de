@@ -3,6 +3,14 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Browser-Render-Retry für nicht erreichbare Verkaufsseiten: 16 DE-Angebote recovered (u.a. Wolkenweich, EXIT MASTERPLAN, Kinder gegen Mobbing, Quereinsteiger Hörbücher).",
+      "changes": [
+        "16 DE + 6 EN Angebote von unreachable/thin zu echter Recherche per Browser-Rendering",
+        "Backlog-Eintrag render-retry abgeschlossen"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Bildergalerien auf die Top-2000-Angebote nach Verdienst erweitert: 620 Produkte zeigen echte Verkaufsseiten-Bilder (vorher 385). Englische Website: 475 Produkte.",
       "changes": [
         "Galerien für 235 weitere DE-Angebote hinzugefügt (von Anbieterseiten, komprimiert als WebP)",

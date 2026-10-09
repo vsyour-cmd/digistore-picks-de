@@ -75,6 +75,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Konkrete, sanfte Schritte – passend zu eurer Familie, nicht zu einem starren Programm.
+> Ersetzt das eine Fachberatung? Nein. Die Guides geben Orientierung und alltagstaugliche Schritte, ersetzen aber keine medizinische oder therapeutische Beratung.
+> Wie schnell wirkt das? Unterschiedlich – jedes Kind ist anders. Wir versprechen keine Wunder, sondern realistische, sanfte Schritte.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sanfte Eltern-Guides für Kinder von 0–6 · 50 % Provision? — Typ: Downloads, Anbieter: teamwonnekind, gelistet seit 2026-07-29

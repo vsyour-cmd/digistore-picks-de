@@ -82,6 +82,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Luxus- und Sportwagen zu vermieten kann ein lukratives Standbein sein. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du eine Sportwagen-Vermietung aufbaust: vom ersten Fahrzeug über Versicherung, Recht und Preise bis zu Marketing und Schadensmanagement.
+> Luxus- und Sportwagen zu vermieten klingt nach einem Traum-Business – und kann ein lukratives Standbein sein, wenn man es richtig angeht. Doch hinter den hohen Tagessätzen stecken Kapitaleinsatz, Versicherungsfragen und echtes Risikomanagement. Dieser Ratgeber zeigt dir auf 119 Seiten, wie du eine Sportwagen-Vermietung Schritt für Schritt aufbaust.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Sportwagen-Vermietungs-System? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01

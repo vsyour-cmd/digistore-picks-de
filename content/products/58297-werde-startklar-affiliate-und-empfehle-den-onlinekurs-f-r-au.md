@@ -72,6 +72,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> vor wichtigen Momenten nervös wirst , dein Herz rast oder dein Kopf plötzlich leer ist – und du dir mehr Ruhe und Sicherheit wünschst.
+> STARTKLAR ist ein Online-Trainingsprogramm für Studierende und Berufseinsteiger, die ihre Prüfungsangst überwinden, selbstbewusster präsentieren und in wichtigen Gesprächen souverän auftreten möchten. In kurzen Trainingseinheiten lernst du, wie du Nervosität regulierst, deine Gedanken gezielt steuerst und auch unter Druck ruhig und konzentriert bleibst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58297-g1.webp
+- assets/products/58297-g2.webp
+- assets/products/58297-g3.webp
+- assets/products/58297-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au? — Typ: Online coaching, Anbieter: goldkern, gelistet seit 2026-08-12

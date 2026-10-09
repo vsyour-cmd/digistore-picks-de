@@ -82,6 +82,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Gemeinsam auf dem Weg zu neuer Lebenskraft In diesem Onlinekurs begleiten wir dich durch eine 21-tägige Reise der Reinigung und Erneuerung. Unser bewährtes Drei-Phasen-Konzept – sanfte Ausleitung, tiefgreifende Entsäuerung und stärkender Aufbau – unterstützt deinen Körper auf natürliche Weise. Dich erwarten hochwertige Anleitungsvideos, sorgfältig recherchierte Fachinformationen sowie ein exklusives Rezepte-Booklet mit 93 nährenden Rezepten, die deine Reinigung sanft und köstlich begleiten.
+
+### 3c. Cautions
+
+> 26 Minuten Video + Tagesimpulse - Alles Wichtige rund um deinen Tagesablauf, Tipps für sanfte Einläufe, achtsame Körperpflege und den Umgang mit Detox-Beschwerden.
+> Hier findest du Antworten auf die häufigsten Fragen rund um unsere 21-Tage-Kur. Damit du dich sicher und gut begleitet fühlst, haben wir die wichtigsten Informationen für dich gesammelt. Wenn du darüber hinaus noch Fragen hast, stehen wir dir natürlich persönlich zur Seite.
+> Ja, du hast von Anfang an Zugriff auf die wichtigsten Module, damit du individuell weitermachen kannst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/36237-g1.webp
+- assets/products/36237-g2.webp
+- assets/products/36237-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21-Tage Leberentgiftung und Darmreinigung? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2020-10-16

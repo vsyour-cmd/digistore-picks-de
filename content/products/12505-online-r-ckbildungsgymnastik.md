@@ -76,6 +76,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wir geben dir wertvolle Anleitungen, wie du auch im Alltag deinen Beckenboden gezielt trainieren kannst und deine Rückbildung 'nebenbei' weiter voranbringst
+> Unser Online Rückbildungskurs vermittelt Fachwissen von unseren Expertinnen. Wie auch bei Kursen vor Ort gibt es sowohl Theorie- und Praxiseinheiten. Mit unserem 10-Wochen-Programm bekommst du jede Woche Übungen an die Hand, die deine Muskulatur Schritt für Schritt wieder stärken und dein Bewusstsein für die Rückbildung des Beckenbodens stärken. Überzeuge dich gerne selbst davon und solltest du noch nicht zufrieden sein, gewähren wir dir ein Rückgaberecht innerhalb der Rückgabefrist.
+> Heute habe ich angefangen und der Rückbildungskurs ist echt suuuuuuper! Wow! Die Übungen, Bilder und Anleitung sind klasse. Ihr erwischt mich auch immer, wenn ich nicht mehr atme oder irgendwo verspanne- obwohl ich nicht vor euch sitze! Ich bin echt total dankbar und begeistert.
+
+### 3c. Cautions
+
+> Mach dir keinen Kopf. Du hast ein Baby geboren und kannst stolz auf deinen Körper sein und das was du geleistet hast. Jetzt ist es wichtig die innere Mitte wieder zu finden, den gesamten Körper zu stärken und Problemen wie Rückenschmerzen oder Inkontinenz gezielt vorzubeugen. Mit dem richtigen Know How, einem auf deine Lebenssituation abgestimmten Trainingsplan sowie mindestens einer Stunde Zeit pro Woche kannst Du Deinem Körper etwas Gutes tun und dich wieder rundum vital fühlen.
+> Rückbildung ist wichtig und sollte für jeden zugänglich sein. Deswegen bieten wir unseren Online Rückbildungskurs so preiswert an. Für nur einmalig 39 Euro* bekommst Du unbegrenzt Zugang zu den Online Lektionen und kannst diese auch jederzeit wiederholen zum Beispiel nach einer Stillpause.
+> Sofort. Hiernach wirst du auf eine Seite weitergeleitet mit wichtigen Informationen zu unserem Online Kurs. Nach der Bestellung bekommst sofort deine Login-Daten zum Kurs per Mail zugeschickt. Du hast also innerhalb von wenigen Minuten Zugang zu allen Inhalten dauerhaft. Auch alle Updates sind inklusive. Bitte prüfe auch immer Deinen Spam Order, solltest Du keine Mail in Deinem Posteingang vorfinden. Manche Email Programme filtern sehr streng.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/12505-g2.webp
+- assets/products/12505-g3.webp
+- assets/products/12505-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Rückbildungsgymnastik? — Typ: Downloads, Anbieter: marketingpro, gelistet seit 2016-06-19

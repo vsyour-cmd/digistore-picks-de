@@ -79,6 +79,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Hole dir die perfekte Anleitung, die bereits vielen Menschen und Tieren geholfen hat, leichter & schneller durch die einzelnen Phasen zu kommen.
+
+### 3c. Cautions
+
+> Was ist jetzt für den Menschen, aber vor allem auch für das Tier wichtig?
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/32820-g1.webp
+- assets/products/32820-g2.webp
+- assets/products/32820-g3.webp
+- assets/products/32820-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regenbogenbrücke - Sterbebegleitung bei deinem Tier? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2017-08-05

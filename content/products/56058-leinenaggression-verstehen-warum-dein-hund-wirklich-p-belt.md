@@ -66,6 +66,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Schritt-f&uuml;r-Schritt-Fahrplan: Von der ersten Orientierung bis zur entspannten Begegnung
+> ✔️ Du lernst, wie du dieses Verhalten Schritt für Schritt nachhaltig verändern kannst.
+> Dieser Kurs ist bewusst der erste Schritt: Er legt die Grundlage dafür, dass du deinen Hund nicht nur kontrollierst, sondern wirklich verstehst.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56058-g2.webp
+- assets/products/56058-g3.webp
+- assets/products/56058-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leinenaggression verstehen - Warum dein Hund wirklich pöbelt? — Typ: Member area and video courses, Anbieter: DJuentgen, gelistet seit 2026-03-27

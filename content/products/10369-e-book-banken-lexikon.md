@@ -84,6 +84,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du kannst sofort durchstarten und die ersten Schritte unternehmen. Dieses Buch hilft dir dabei und begleitet dich in den nächsten Wochen, Monaten oder Jahren.
+
+### 3c. Cautions
+
+> Europa wandert von einer Krise in die nächste in immer schnellerer Abfolge mit immer größeren negativen Auswirkungen. Es ist mir wichtig dir einen Weg aus dieser Krise zu zeigen. Edelmetalle, Firmenbeteiligungen, Kryptowährungen und eben auch die richtigen Bankverbindungen können dabei helfen.
+> Staatenlos Christoph Heuermann Staatenlos denken Team Interviews, Presse & Referenzen Bewertungen Kontakt Impressum Datenschutz Disclaimer
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/10369-g1.webp
+- assets/products/10369-g3.webp
+- assets/products/10369-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Banken Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2016-02-24

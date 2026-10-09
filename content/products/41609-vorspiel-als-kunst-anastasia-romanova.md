@@ -81,6 +81,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Macht der Berührung. Erogene Zonen. Anatomie der wichtigsten Lustpunkte (Klitoris, G-Punkt (G-Zone), Muttermund, Anus, Brust etc.)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/41609-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorspiel als Kunst - Anastasia Romanova? — Typ: Member area and video courses, Anbieter: powerline, gelistet seit 2020-11-09

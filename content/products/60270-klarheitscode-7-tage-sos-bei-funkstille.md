@@ -79,6 +79,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du brauchst nicht jede Antwort. Nur den nächsten klaren Schritt.
+
+### 3c. Cautions
+
+> Hinweis: Klarheitscode ist eine praktische Selbsthilfe-Arbeitshilfe und ersetzt keine Therapie, Diagnose oder Krisenhilfe. Individuelle Ergebnisse können variieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60270-g1.webp
+- assets/products/60270-g2.webp
+- assets/products/60270-g3.webp
+- assets/products/60270-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarheitscode – 7-Tage-SOS bei Funkstille? — Typ: Downloads, Anbieter: velourabelledigital, gelistet seit 2026-10-07

@@ -84,6 +84,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Wichtiger Hinweis: Dieser Onlinekurs ersetzt nicht den Besuch bei einer Hundeschule und keinesfalls eine/n Hundetrainer/in. Er stellt auch ferner keinen allgemein gültigen Sachkundenachweis dar.
+> Hinweis: Die E-Books sind im pdf-Format und können auf jedem Smartphone, Tablet und Laptop/PC angezeigt werden. Ein Download ist möglich. Es ist kein E-Book-Reader nötig. Die Seiten sind für die Ansicht eines Smartphones optimiert. Für die Nutzung der Übungs- und Abschlussfragen ist ein Internetzugang erforderlich.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35625-g1.webp
+- assets/products/35625-g2.webp
+- assets/products/35625-g3.webp
+- assets/products/35625-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundewissen Sachkunde - Der Digitale Hundeführerschein? — Typ: Member area and video courses, Anbieter: perrocc, gelistet seit 2021-01-09

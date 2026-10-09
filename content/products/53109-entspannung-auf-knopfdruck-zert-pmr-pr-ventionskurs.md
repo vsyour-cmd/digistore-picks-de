@@ -80,6 +80,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt f&uuml;r Schritt durch den Prozess &ndash; leicht verst&auml;ndlich und gut machbar.
+> ✔️ Kinderleicht : Du brauchst nur dich. Augen zu, Muskeln anspannen und wieder loslassen &ndash; die gef&uuml;hrte Anleitung macht den Rest.
+> Ja, absolut. Du brauchst keinerlei Vorkenntnisse. Alle &Uuml;bungen sind Schritt f&uuml;r Schritt erkl&auml;rt, die Audioanleitungen f&uuml;hren dich sanft durch jede Einheit &ndash; du kannst einfach mitmachen und wirst sp&uuml;ren, wie schnell sich erste Effekte einstellen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53109-g1.webp
+- assets/products/53109-g2.webp
+- assets/products/53109-g3.webp
+- assets/products/53109-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entspannung auf Knopfdruck - zert. PMR Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2025-05-18

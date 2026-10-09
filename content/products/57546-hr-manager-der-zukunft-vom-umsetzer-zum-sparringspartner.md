@@ -84,6 +84,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Lerne Schritt für Schritt. Kompakt in rund 60 Minuten. Kein Abo, einmalig zahlen, 24 Monate Zugriff.
+> Teil 2: Vom Umsetzer zum Sparringspartner – mit der Auftragsklärung in 5 Schritten
+> Mit 24-monatigem Zugriff, sodass du alle Inhalte flexibel erneut ansehen und die Werkzeuge Schritt für Schritt in deinem HR-Alltag umsetzen kannst.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57546-g1.webp
+- assets/products/57546-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2026-07-15

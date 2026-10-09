@@ -72,6 +72,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Beim 6-Konten-Modell werden einfach sechs Konten (wie Geldtonnen) benutzt, auf die Sie Ihre Einkünfte prozentual entsprechend verteilen. Hierbei sind alle Lebensbereiche und Ausgaben berücksichtigt. Es ist ein geniales Konzept, dass Sie in Minuten Zuhause anwenden können, um mit 100% Übersicht jeden Monat etwas reicher zu werden. Wichtig: T. Harv Eker geht dabei immer von einem Netto-Betrag aus.
+> Hinweis: Du kaufst die Vorlage einmalig und nutzt sie jederzeit.
+> Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenverwendungsrichtlinie. Dementsprechend generelle Hinweise zur Darstellung von Facebook-Ads, in der Datenverwendungsrichtlinie von Facebook: https://www.facebook.com/policy.php . Spezielle Informationen und Details zum Facebook-Pixel und seiner Funktionsweise erhalten Sie im Hilfebereich von Facebook: https://www.facebook.com/business/help/651294705016616 .
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53183-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 6-Konten-Modell Excelvorlage? — Typ: Downloads, Anbieter: NilsWarnecke, gelistet seit 2025-07-13

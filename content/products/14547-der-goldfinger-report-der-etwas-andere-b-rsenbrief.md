@@ -80,6 +80,19 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sie selbst müssen daher eigentlich nur noch unseren Kauf- und Verkaufs&shy;anleitungen folgen, die wir für Sie erarbeiten.
+
+### 3c. Cautions
+
+> Hinweis: Der Goldfinger-Report™ erscheint etwa 1-3 mal im Monat, je nach Erfordernis. Das heißt Sie erhalten im Durchschnitt 24 Ausgaben pro Jahr. Wenn es die Situation erfordert, werden auch zusätzliche "Sonderausgaben" verschickt. Sie erhalten unseren Report als Email Anhang im PDF-Format. Das Abo verlängert sich automatisch.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/14547-g2.webp
+- assets/products/14547-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Goldfinger Report™ - Der etwas andere Börsenbrief!? — Typ: Downloads, Anbieter: Goldfinger23, gelistet seit 2016-04-17

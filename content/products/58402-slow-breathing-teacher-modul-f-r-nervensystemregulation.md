@@ -79,6 +79,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✓ 4 Atemtechniken inkl. Anleitung, Wirkung und Lernkarten f&uuml;r deine Klientinnen
+> Du hast noch Fragen zum Ablauf, zu den Voraussetzungen oder zur Anwendung in deiner Praxis? Hier findest du die wichtigsten Antworten rund um das Slow Breathing Teacher Modul &ndash; klar, ehrlich und auf den Punkt gebracht.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58402-g1.webp
+- assets/products/58402-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Slow Breathing — Teacher Modul für Nervensystemregulation? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16

@@ -14,7 +14,7 @@ categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2024-12-07"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "rich"
 promo_link: "https://rinaldo-inabnit-7.mstrpages.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://rinaldo-inabnit-7.mstrpages.com/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Schul-Paket gegen Mobbing
 
 > Product ID `51992` · Digistore24 productId `584787` · [HTML profile page](../../produkte/schul-paket-gegen-mobbing-51992.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,20 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vertrieb
+- **Headline (H1):**
+  > KINDERSCHUTZ
+  > ACHTUNG: NEU AB 2026
+  > Mein ChatGPT-Assistentgibt Ihnen nähere Auskunft über die Schulung:
+- **CTA button texts:** "JETZT STARTEN!", "JETZT starten und Rabatt sichern!"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/584787
+- **Opening copy (first paragraphs):**
+  > Wir verwenden Cookies, um Inhalte zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unsere Website zu analysieren.
+  > Wir benötigen diese Cookies, um die Seite richtig anzeigen zu können und deine Cookie Einstellungen zu speichern Name Anbieter Zweck Ablauf Typ cookieconsent_statusrinaldo-inabnit-7.mstrpages.comSpeichert den Zustimmungsstatus des Benutzers für Cookies auf der aktuellen Domäne.1 JahrHTTPWir verwenden diese Cookies um die Nutzung der Seite zu analysieren.Diese Cookies ermöglichen personalisierte Werbung und helfen, die Wirksamkeit unserer Kampagnen zu messen.Diese Cookies unterstützen zusätzliche Funktionen wie Umfragen und Feedback-Tools, um Ihr Nutzererlebnis zu verbessern.
+  > Wir benötigen diese Cookies, um die Seite richtig anzeigen zu können und deine Cookie Einstellungen zu speichern Name Anbieter Zweck Ablauf Typ cookieconsent_statusrinaldo-inabnit-7.mstrpages.comSpeichert den Zustimmungsstatus des Benutzers für Cookies auf der aktuellen Domäne.1 JahrHTTP
+  > Wir benötigen diese Cookies, um die Seite richtig anzeigen zu können und deine Cookie Einstellungen zu speichern
+- **Page word count:** 1029
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

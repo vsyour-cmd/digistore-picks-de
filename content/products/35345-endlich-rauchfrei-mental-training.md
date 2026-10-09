@@ -92,6 +92,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Durch die Anwendung der "Endlich rauchfrei Subliminals" habe ich mich themenübergreifend mit Silent Subliminals befasst und bin erstaunt, wie ich nun unkontrollierte Handlungen der Vergangenheit in geordnete Bahnen lenken kann. Unser Unterbewusstsein, ja eigentlich der gesamte Kosmos unseres Körpers, ist ein Wunder. Übrigens bin ich seit über einem Jahr ohne Kippen :-)))
+> Die Mental-Technik der Silent Subliminals unterstützt bei genauer Anwendung, genau das.
+> Auch Spitzensportler setzen Silent Subliminals zur mentalen Zielprogrammierung ein. Tiger Woods etwa verwendet mentale Suggestionen bereits seit seiner Kindheit. Die Anwendungsmöglichkeiten reichen weit über Rauchfreiheit hinaus – doch für unsere Zwecke konzentrieren wir uns auf die Entwöhnung von Nikotin.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35345-g2.webp
+- assets/products/35345-g3.webp
+- assets/products/35345-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich rauchfrei - Mental Training? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2020-01-22

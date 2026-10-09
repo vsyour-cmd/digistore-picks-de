@@ -80,6 +80,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> *ACHTUNG: Schalte das Newsletter-Bundle auf keinen Fall frei, wenn Du nicht bereit für den Online-Erfolg bist.
+> *ACHTUNG: Sichere dir bitte NICHT das Bundle, wenn Du nicht bereit für den Online-Erfolg bist.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40645-g1.webp
+- assets/products/40645-g2.webp
+- assets/products/40645-g3.webp
+- assets/products/40645-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 33 fertige Email-Vorlagen (geniales Newsletter-Bundle)? — Typ: Downloads, Anbieter: dennistr1, gelistet seit 2022-06-30

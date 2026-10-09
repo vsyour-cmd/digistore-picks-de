@@ -14,7 +14,7 @@ categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2022-09-12"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "thin"
 promo_link: "https://www.matrixprinzip.de/aft?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matrixprinzip.de/aft"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # MATRIXPRINZIP von Coach Cecil
 
 > Product ID `33299` · Digistore24 productId `459976` · [HTML profile page](../../produkte/matrixprinzip-von-coach-cecil-33299.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,27 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 🔊 Kostenloses Video: Wie du dich finanziell und emotional vom Sklavensystem abkoppelst
+- **Meta description:** Kostenloses Video: Wie du dich finanziell und emotional vom Sklavensystem abkoppelst
+- **Headline (H1):**
+  > 🛑 DIES IST DEIN LETZTER WARNHINWEIS: In den nächsten 12 Monaten eskaliert alles – 💥 Inflation, 🔥 Krieg, 💸 Enteignung – und du wirst nicht mal verstehen, warum.
+  > Mein Weg aus der Gosse zur finanziellen Freiheit in Dubai
+- **Section headlines (H2):**
+  - Kostenloses Video:
+  - Ich hatte viel schlechtere Voraussetzungen als du und zeige in diesem Video, wie JEDER es schaffen kann.
+  - Klicke jetzt hier und sichere dir deinen Zugang!
+  - Working...
+- **CTA button texts:** "Ja, ich will meinen Zugang zum MATRIXPRINZIP sichern!", "Klicke jetzt hier und sichere dir deinen Zugang!"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/459976?voucher=MATRIXPRINZIP_Affiliate_e8hd93du929dgiuweaegw783gdhbwjefzw64zf34z34r&ds24tr=affiliate-freetour-button
+  - https://www.digistore24.com/product/459976?voucher=MATRIX-FreeTour-Video-3r3489hr9weurhw9oerfwueifehfhsgfzsiefwew&ds24tr=vsl-link
+- **Opening copy (first paragraphs):**
+  > Wähle dein Geschlecht: Mann Frau Was möchtest du erreichen? Skinny Fat? -> Zuerst Fettabbau! Cellulite? -> Zuerst Fettabbau! Problemzonen? -> Zuerst Fettabbau! Sehr schlank, kaum Fett am Körper? -> Muskelaufbau! Fettabbau Muskelaufbau Als was würdest du dich beschreiben? Einsteiger: 2-3 Trainings Ganzkörper Sportler: 4 Trainings im 2er Split Profi: 5-6 Trainings Einsteiger Sportler Profi
+  > Was möchtest du erreichen? Skinny Fat? -> Zuerst Fettabbau! Cellulite? -> Zuerst Fettabbau! Problemzonen? -> Zuerst Fettabbau! Sehr schlank, kaum Fett am Körper? -> Muskelaufbau! Fettabbau Muskelaufbau
+  > Skinny Fat? -> Zuerst Fettabbau! Cellulite? -> Zuerst Fettabbau! Problemzonen? -> Zuerst Fettabbau! Sehr schlank, kaum Fett am Körper? -> Muskelaufbau!
+  > Als was würdest du dich beschreiben? Einsteiger: 2-3 Trainings Ganzkörper Sportler: 4 Trainings im 2er Split Profi: 5-6 Trainings Einsteiger Sportler Profi
+- **Page word count:** 65
+- **OG image:** https://www.matrixprinzip.de/hosted/images/10/acfa933d7445688ee17bf43b4d6873/cc.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

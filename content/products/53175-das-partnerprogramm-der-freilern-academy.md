@@ -73,6 +73,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die ersten Schritte in ein freies Lernen – von alten Mustern hin zu neuer Klarheit.
+> Modul 7. Los geht’s: Dein 30-Tage-Deschooling-Plan Tägliche Mini-Impulse und Reflexionsfragen für deine Transformation. Schritt für Schritt raus aus alten Denkstrukturen – rein in Vertrauen & Verbindung. Modul 8. Deschooling – und jetzt? So geht’s weiter! Ein Ausblick: Wie du nach dem Kurs weiter wachsen und deinen individuellen Freilern-Weg gestalten kannst.
+> Die ersten Schritte in ein freies Lernen – von alten Mustern hin zu neuer Klarheit.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53175-g1.webp
+- assets/products/53175-g2.webp
+- assets/products/53175-g3.webp
+- assets/products/53175-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm der FreiLern-Academy? — Typ: Member area and video courses, Anbieter: SunnySteiner, gelistet seit 2025-02-24

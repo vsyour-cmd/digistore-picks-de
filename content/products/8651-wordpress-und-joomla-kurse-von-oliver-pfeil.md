@@ -75,6 +75,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du brauchst weder eine Agentur, noch einen professionellen Webdesigner, um eine atemberaubende Website zu erstellen. Mache einfach die Schritte aus dieser Anleitung nach und du bekommst ein Ergebnis, das dir ein Leuchten in die Augen zaubern wird.
+> Alle Schritte sind so erklärt, das du sie auch als Einsteiger problemlos umsetzen und 1:1 nachmachen kannst.
+> Du kannst mir einfach alle Schritte nachmachen. Ich habe für dich bereits alles vorgemacht und in verständliche Schritte für dich eingeteilt.
+
+### 3c. Cautions
+
+> Ich zeige dir die wichtigsten Plugins, die du unbedingt nutzen solltest.
+> Du lernst alle wichtigen Grundeinstellungen kennen, die du unbedingt setzen musst.
+> Das Menü ist ein wichtiger Bestandteil deiner Website. Über diese Funktion kannst du Menüs und Menüpunkte erstellen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/8651-g1.webp
+- assets/products/8651-g2.webp
+- assets/products/8651-g3.webp
+- assets/products/8651-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WordPress- und Joomla-Kurse von Oliver Pfeil? — Typ: E-books, Anbieter: opfeil, gelistet seit 2015-04-20

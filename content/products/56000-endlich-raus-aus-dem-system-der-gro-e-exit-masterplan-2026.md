@@ -14,7 +14,7 @@ categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-27"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "medium"
+research_quality: "rich"
 promo_link: "https://nomadmaster.de/exit-masterplan?aff=adminstore#aff=adminstore"
 sales_page: "https://nomadmaster.de/exit-masterplan"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
 > Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,13 +52,12 @@ language: "de"
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** EXIT MASTERPLAN
-- **OG title:** EXIT&#x20;MASTERPLAN
 - **Opening copy (first paragraphs):**
+  > Wie du in nur 4 Monaten dein Leben befreist & aus dem System aussteigst.Lerne im EXIT MASTERPLAN von und mit Alexander Schreiner, wie du Schritt für Schritt dein unabhängiges Einkommen aufbaust, Vermögen sicherst und ein Leben ohne Zwänge & Krisen führst.
   > Lerne im EXIT MASTERPLAN von und mit Alexander Schreiner, wie du Schritt für Schritt dein unabhängiges Einkommen aufbaust, Vermögen sicherst und ein Leben ohne Zwänge & Krisen führst.
+  > "Mit den Füßen abzustimmen wird zur Bürgerpflicht, wenn die Umstände unerträglich werden. Das Schöne ist, dass du es heutzutage besser haben kannst, als die Masse es je glauben würde."Alexander Schreiner4‒facher Online Business Betreiber, Auswanderer & Online‒Millionär
   > "Mit den Füßen abzustimmen wird zur Bürgerpflicht, wenn die Umstände unerträglich werden. Das Schöne ist, dass du es heutzutage besser haben kannst, als die Masse es je glauben würde."
-  > Von der Wahl des besten Landes bis zum Online Einkommen und Visumssicherung – wir zeigen dir den schnellsten & sichersten Weg in dein neues Leben.
-  > Vermeide typische Fehler, die tausende Euro kosten! Erfahre, wie du legal deine Steuerlast minimierst und dein Geld sicher verwaltest.
-- **Page word count:** 1224
+- **Page word count:** 1268
 - **OG image:** https://onecdn.io/share-image-proxy/708d3bae-eca6-48d3-80c2-7f4312250f7a/0a8c3b1b-ff2a-4d0c-b8c2-8f10f4ba3c51?v=49a04c42-5bd7-4548-99e1-f87bc52ea1cd
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

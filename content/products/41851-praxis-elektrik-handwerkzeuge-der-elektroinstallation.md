@@ -92,6 +92,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der erste Schritt in die praktische Ausbildung ist das Kennenlernen der Werkzeuge.
+> Lerne Schritt für Schritt, wie Werkzeuge professionell eingesetzt werden.
+> Du lernst jedes einzelne Werkzeug genaustens kennen . Du erfährst, wie es aussieht, bei welchen Arbeiten es eingesetzt wird und wie man es Schritt für Schritt professionell einsetzt.
+
+### 3c. Cautions
+
+> Hier lernst du alles über die wichtigsten Handwerkzeuge der Elektroinstallation .
+> Hier bekommst du alle wichtigen Informationen zu den Handwerkzeugen der Kabelbearbeitung .
+> Bei vielen anderen Anleitungen findest du nur oberflächliche Beschreibungen, bei denen wichtige Informationen fehlen.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxis Elektrik - Handwerkzeuge der Elektroinstallation? — Typ: E-books, Anbieter: elektricks, gelistet seit 2021-11-17

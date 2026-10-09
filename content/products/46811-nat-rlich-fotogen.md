@@ -77,6 +77,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du mußt nur wissen wie es geht! Im Schritt für Schritt Programm meines Onlinekurses NATÜRLICH FOTOGEN! erfährst du, wie du einfach präsent vor einer Kamera bist, ganz natürlich oder in der Rolle Like a Model".
+> Im Bonus MACH DICH SCHÖN" zeigt dir Heidi, wie du dich selbst schminkst. Von einem natürlichen bis zu einem glamourösen Make-up. Schritt für Schritt, sodass du dich ganz leicht selbst schminken kannst: Für ein Fotoshooting, beispielsweise für Bewerbungsfotos oder auch einfach für den Alltag oder den großen Ball.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/46811-g2.webp
+- assets/products/46811-g3.webp
+- assets/products/46811-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NATÜRLICH FOTOGEN!? — Typ: Member area and video courses, Anbieter: IWEFST, gelistet seit 2024-01-15

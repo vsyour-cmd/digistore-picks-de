@@ -82,6 +82,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mit Luxus- und Sportwagen zu handeln kann ein lukratives Geschäft sein, wenn man den Markt versteht. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du als Sportwagen-Händler einsteigst: vom ersten Fahrzeug über Einkauf, Bewertung, Recht und Finanzierung bis zu Verkauf, Netzwerk und Skalierung.
+> Mit Luxus- und Sportwagen zu handeln klingt nach einem Traum – und kann ein lukratives Geschäft sein, wenn man den Markt versteht. Doch hinter den hohen Preisen stecken Kapitaleinsatz, schwer kalkulierbare Reparaturen und echtes Risikomanagement. Dieser Ratgeber zeigt dir auf 89 Seiten, wie du Schritt für Schritt in den Sportwagen-Handel einsteigst.
+
+### 3c. Cautions
+
+> Wenn die ersten Fahrzeuge laufen, stellt sich die Frage nach Wachstum. Der Ratgeber erklärt, warum Beziehungen zu Händlern, Werkstätten, Gutachtern und Sammlern das wichtigste Kapital sind und wie Spezialisierung auf eine Nische dir Expertenstatus und bessere Einkaufsquellen bringt.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Sportwagen-Händler? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01

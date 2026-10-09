@@ -69,6 +69,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Egal, ob du 20.000 €, 200.000 € oder 2.000.000 € benötigst – hier bekommst du eine klare Anleitung zur Gewinnung von Investoren, die nachweislich funktioniert .
+> Du erfährst heute, wie du in 3 einfachen Schritten Investoren für deine Geschäftsidee gewinnen kannst . Ohne Eigenkapital. Ohne persönliche Haftung. Ohne Vorkenntnisse.
+> In meinem Ratgeber “Der Weg zum Geld” teile ich die Schritte, die mich zum Erfolg geführt haben – die gleichen, die auch du gehen kannst, um dir Kapital für deine Geschäftsidee zu sichern.
+
+### 3c. Cautions
+
+> Von mir bekommst du die wichtigsten Fakten. Einfach und verständlich aufbereitet.
+> Das Wichtigste: Du verstehst die Prinzipien und erweiterst so deinen Business-Horizont massiv.
+> Der erste Teil im Report ist ideal für Startups. Ich wollte aber den Teil Unternehmensnachfolge nicht auslassen und dich im Schnelldurchgang mit den wichtigsten Infos versorgen, die dir einen Unternehmenskauf ohne Eigenkapital ermöglichen können.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53275-g1.webp
+- assets/products/53275-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer? — Typ: E-books, Anbieter: kukkltd, gelistet seit 2024-11-01

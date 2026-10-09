@@ -67,6 +67,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Lerne Schritt für Schritt, wie du mit KI eine eigene Social-Media-Dienstleistung aufbaust, Kunden findest, Content erstellst und Unternehmen langfristig betreust.
+> Lerne Schritt für Schritt, wie du mit KI eine eigene Social-Media-Dienstleistung aufbaust, Kunden findest, Content erstellst und Unternehmen langfristig betreust.
+> Lerne Schritt für Schritt, wie du mit KI eine eigene Social-Media-Dienstleistung aufbaust, Kunden findest, Content erstellst und Unternehmen langfristig betreust.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58891-g1.webp
+- assets/products/58891-g2.webp
+- assets/products/58891-g3.webp
+- assets/products/58891-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Social Media Agentur System? — Typ: E-books, Anbieter: gowxsese, gelistet seit 2026-09-03

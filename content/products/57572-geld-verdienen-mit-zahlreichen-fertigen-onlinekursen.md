@@ -71,6 +71,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Erhalte ich wirklich die vollen Einnahmen der Kursverk&auml;ufe? + Du erh&auml;ltst die vollen Einnahmen abz&uuml;glich der gesetzlichen Mehrwertsteuer und einer Bezahlsystemgeb&uuml;hr von 7,9 % plus 1 &euro; Transaktionsgeb&uuml;hr. Wir verdienen an den Kursverk&auml;ufen nichts &ndash; der Gewinn ist f&uuml;r dich. Beispiel: Bei einem Kurspreis von 99 &euro; bleiben dir 74,37 &euro; pro Verkauf.
+> Wie und wann werde ich bezahlt? + Deine Einnahmen werden w&ouml;chentlich auf dein Bankkonto &uuml;berwiesen. Du erh&auml;ltst au&szlig;erdem eine Gutschrift f&uuml;r deine Unterlagen.
+> Brauche ich technische Kenntnisse oder Vorerfahrung? + Nein. Du brauchst keinerlei technische Vorkenntnisse und musst auch noch nie im Internet Geld verdient haben. Alles ist fertig eingerichtet. Eine ausf&uuml;hrliche Schritt-f&uuml;r-Schritt-Anleitung begleitet dich zus&auml;tzlich.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit zahlreichen fertigen Onlinekursen? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2026-07-16

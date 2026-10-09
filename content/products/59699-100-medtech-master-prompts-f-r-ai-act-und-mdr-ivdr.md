@@ -70,6 +70,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im regulierten MedTech-Kontext
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im regulierten MedTech-Kontext
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im regulierten MedTech-Kontext
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59699-g1.webp
+- assets/products/59699-g2.webp
+- assets/products/59699-g3.webp
+- assets/products/59699-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 MedTech Master-Prompts für AI Act und MDR/IVDR? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25

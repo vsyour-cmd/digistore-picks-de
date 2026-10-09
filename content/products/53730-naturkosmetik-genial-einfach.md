@@ -79,6 +79,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich zeige dir Schritt f&uuml;r Schritt, wie du deine Pflege selbst r&uuml;hrst:
+> R&uuml;hre mit praktischen Schritt-f&uuml;r-Schritt-Videos, sodass du immer genau wei&szlig;t was zu tun ist.
+> Du r&uuml;hrst und r&uuml;hrst und wirst nach und nach zur Naturkosmetik-Expertin. W&auml;hrend du den Kurs durcharbeitest und die Rezepte ausprobierst, geschieht das ganz automatisch. Schick mir im Anschluss ein Foto von 15 Produkten, die du nach meiner Anleitung hergestellt hast und du bekommst von mir dein pers&ouml;nliches Teilnahme-Zertifikat.
+
+### 3c. Cautions
+
+> Hochwertige Hautpflege ist dir wichtig, weil dir deine Gesundheit und die deiner Familie am Herzen liegen. Aber ganz ehrlich: Die meisten Produkte sind schweineteuer, das geht auf die Dauer ganz sch&ouml;n ins Geld.
+> Der Kurs hat mir ein sicheres Gef&uuml;hl gegeben, um die Produkte alleine zu r&uuml;hren und mit Varianten zu experimentieren. Endlich habe ich die Grundlagen verstanden, das war mir wichtig! Pflegende Kosmetik werde ich nicht mehr kaufen m&uuml;ssen. Vielen, vielen Dank, dass du dein Wissen so verst&auml;ndlich an uns weitergegeben hast.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53730-g2.webp
+- assets/products/53730-g3.webp
+- assets/products/53730-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturkosmetik genial einfach? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-13

@@ -64,6 +64,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 10 - Video 10 - Hilfreiche Fragen und Anwendungstipps 1 - Hilfreiche Fragen und Anwendungstipps
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/36647-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ARMLÄNGENTEST (Kinesiologie)? — Typ: Webinar, Anbieter: PLUCINSKYS, gelistet seit 2021-05-01

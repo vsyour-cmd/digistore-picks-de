@@ -73,6 +73,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wähle zwischen Basis, Plus oder Premium . Und wofür du dich auch entscheidest: Dieser Onlinekurs wird dir Freude bereiten. Vor allem wird er dich auf die Erfolgsspur bringen. Versprochen. Also lenk jetzt dein Leben in die gewünschte Richtung. Schritt für Schritt, Episode für Episode. Das Date mit deiner Zukunft wartet.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/46932-g1.webp
+- assets/products/46932-g2.webp
+- assets/products/46932-g3.webp
+- assets/products/46932-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Date mit deiner Zukunft? — Typ: Member area and video courses, Anbieter: RobertBoettcher, gelistet seit 2023-09-14

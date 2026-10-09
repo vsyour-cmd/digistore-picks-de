@@ -88,6 +88,17 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Glossare zur gezielten Anwendung einzelner Sessions bei bestimmten körperlichen und emotionalen Themen
+> Der beste Teil? Du bist im Fluss und erlebst zuf&auml;llige Synchronizit&auml;ten auf Schritt und Tritt.
+> + Glossare zur gezielten Anwendung einzelner Sessions bei bestimmten körperlichen und emotionalen Themen
+
+### 3c. Cautions
+
+> Stell Dir vor, wie Du Energie für Dich hast und für die Dinge, die Dir wirklich wichtig sind.
+> Zurück zum Ursprung ermöglicht es Dir, Dein Leben umfassender zu leben, mit mehr Energie für alles, was Dir wichtig ist: Deine Familie, Dein Zuhause, Deine Beziehungen, Deine Hobbys, Deine Leidenschaften, Deine Karriere. Es befähigt Dich, leichter Veränderungen und Abenteuer in der Welt zu begehen. Manche Menschen erleben sofort Ergebnisse. Für andere kann es etwas länger dauern.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zurück zum Ursprung“ - Der einzigartige Onlinekurs? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-11-29

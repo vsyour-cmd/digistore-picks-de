@@ -82,6 +82,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Brauche ich Vorwissen? Nein. Der Ratgeber ist für Anfänger geschrieben und erklärt jeden Schritt von Grund auf. Hilfreich sind lediglich die Bereitschaft, dich in Zahlen und Begriffe einzuarbeiten, und ein ehrlicher Blick auf deine eigene finanzielle Situation.
+
+### 3c. Cautions
+
+> Wie viel Eigenkapital brauche ich? Eine pauschale Zahl, die für alle stimmt, gibt es nicht – das hängt von Objekt, Preis, deiner Situation und den Bedingungen der Bank ab. Der Ratgeber erklärt dir verständlich, welche Rolle Eigenkapital spielt, warum ein finanzieller Puffer wichtig ist und welche Fragen du dir vor einer Finanzierung stellen solltest. Eine verbindliche Aussage zu deinem konkreten Fall können aber nur deine Bank und gegebenenfalls ein unabhängiger Berater treffen.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien für Einsteiger? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29

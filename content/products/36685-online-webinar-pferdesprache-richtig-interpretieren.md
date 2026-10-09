@@ -73,6 +73,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Im Rahmen des Online-Webinars „ Pferdesprache richtig interpretieren “ wird Martin Kreuzer mit den 40 wichtigsten Gesten Antworten geben auf viele Konfliktsituationen, die im Pferdealltag auftreten können und wird den Teilnehmern ein geballtes Fachwissen an die Hand geben.
+> Hinweis: Die Bestellung und Abrechnung erfolgt über Digistore24.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/36685-g1.webp
+- assets/products/36685-g2.webp
+- assets/products/36685-g3.webp
+- assets/products/36685-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Webinar "Pferdesprache richtig interpretieren"? — Typ: Downloads, Anbieter: Linnon, gelistet seit 2021-05-01

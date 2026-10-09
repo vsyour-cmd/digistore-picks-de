@@ -91,6 +91,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ob Sie zusätzliche Produkte bestellt haben oder nicht... Sie haben heute den ersten wichtigen Schritt gemacht. Und ich bin geehrt, Sie auf dieser Reise begleiten zu dürfen.
+> Ob Sie zusätzliche Produkte bestellt haben oder nicht... Sie haben heute den ersten wichtigen Schritt gemacht. Und ich bin geehrt, Sie auf dieser Reise begleiten zu dürfen.
+> Der Schlüssel liegt in einer präzisen Kombination von 11 wissenschaftlich erforschten Inhaltsstoffen, die in exakter Dosierung Ihre körpereigene "Sättigungs-Software" umprogrammieren.
+
+### 3c. Cautions
+
+> Sie haben gerade einen wichtigen Schritt für Ihre Gesundheit gemacht — und wir sind geehrt, Sie auf dieser Reise begleiten zu dürfen.
+> Sie begann, als meine eigene Mutter mit Diabetes Typ 2 diagnostiziert wurde und ihr Arzt ihr sagte: "Nehmen Sie diese Pillen für den Rest Ihres Lebens."
+> Seine wichtigsten Entdeckungen aus fast zwei Jahrzehnten klinischer Praxis
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VitaSana Collections? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-22

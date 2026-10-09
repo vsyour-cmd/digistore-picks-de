@@ -76,6 +76,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ich sehe mich nicht als Coach, nicht als Heiler. Ich biete keine Methode. Ich öffne einen Raum. Für Dich. Für Deinen Ruf. Für die Erinnerung an das, was Du wirklich bist. Ich nenne es Rufgespräch . Und ich bin da, wenn Du bereit bist. Hinweis: Falls du lieber schreiben möchtest biete ich auch die Möglichkeit des "Briefs an das Licht".
+> Du entscheidest selbst. Es braucht keine Begründung. Beide Wege öffnen dir den gleichen Raum – getragen von Achtung, Vertrauen und der Erinnerung daran, dass wahre Begegnung nicht nach Geld fragt, sondern nach Echtheit.
+> Hinweis: Die Abwicklung deines Kaufs erfolgt über unseren Partner Digistore24. Du erhältst nach dem Kauf eine Bestellbestätigung direkt von dort. Vertragspartner ist die Digistore24 GmbH, St.-Godehard-Straße 32, 31139 Hildesheim, Deutschland.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53256-g1.webp
+- assets/products/53256-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rufgespräch – ein Raum jenseits von Coaching? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-03-27

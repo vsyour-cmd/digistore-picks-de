@@ -75,6 +75,17 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verstehe Geometrie Schritt für Schritt — für Berufsschule, Ausbildung und Alltag.
+> In diesem Kurs-Bundle lernst du Schritt für Schritt, wie du geometrische Figuren, Flächen und Körper sicher berechnest und mathematische Zusammenhänge logisch verstehst.
+> Du lernst Schritt für Schritt, geometrische Zusammenhänge sicher zu verstehen und korrekt anzuwenden.
+
+### 3c. Cautions
+
+> Geometrie gehört zu den wichtigsten Grundlagen in vielen Berufen.
+> Du lernst die wichtigsten geometrischen Figuren kennen und berechnest deren Umfang und Fläche.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geometrie und Körper verstehen für Lehrlinge/Azubis? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-05-20

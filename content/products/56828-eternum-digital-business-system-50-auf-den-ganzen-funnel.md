@@ -82,6 +82,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich begleite dich Schritt für Schritt — vom KI-Einsteiger zum eigenen Business.
+> Die Lite-Version zeigt dir deinen Startpunkt. Wenn du daraus ein vollständiges Content- und Business-System machen möchtest, ist die Vollversion der nächste Schritt: Cockpit, Ratgeber, Workbooks, 30-Tage-Pläne, 75+ Prompts und der Social Content Assistent.
+> Das Cockpit ist dein digitaler Arbeitsbereich nach dem Kauf. Dort entwickelst du dein Projektprofil, formulierst dein Angebot, schärfst deine Zielgruppe, baust deine Problem-zu-Lösung-Matrix, planst deine Content-Säulen, erstellst Hooks und Beiträge und arbeitest Schritt für Schritt durch deinen 30-Tage-Plan.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56828-g1.webp
+- assets/products/56828-g2.webp
+- assets/products/56828-g3.webp
+- assets/products/56828-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM Digital Business System – 50% auf den ganzen Funnel? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-06-07

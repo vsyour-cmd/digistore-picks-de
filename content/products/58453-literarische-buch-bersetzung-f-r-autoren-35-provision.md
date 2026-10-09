@@ -70,6 +70,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> 💡 Wichtig zu wissen: Literaxis liefert drei vollständige Varianten (A wörtlich, B sinngemäss, C kreativ) — du wählst was am besten zu deinem Buch passt. Variante B oder C ist oft direkt publikationsreif. Wer mehr Kontrolle möchte, nutzt das annotierte PDF mit präzisen Hinweisen und investiert noch 2–5 Stunden für die markierten Stellen. Mehr erfahren →
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Literarische Buchübersetzung für Autoren | 35% Provision? — Typ: Remote service provided electronically, Anbieter: literaxis, gelistet seit 2026-08-19

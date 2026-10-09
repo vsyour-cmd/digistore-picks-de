@@ -77,6 +77,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> ACHTUNG – NICHT VERSENDEN: 1 Position mit Fehlerhinweis, 0 ungültige Einstellungen
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto? — Typ: Downloads, Anbieter: Meisterblatt, gelistet seit 2026-09-23

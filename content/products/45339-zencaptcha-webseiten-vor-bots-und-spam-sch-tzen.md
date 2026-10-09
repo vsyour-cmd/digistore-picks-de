@@ -22,7 +22,7 @@ language: "de"
 # Zencaptcha - Webseiten vor Bots und Spam schützen
 
 > Product ID `45339` · Digistore24 productId `504248` · [HTML profile page](../../produkte/zencaptcha-webseiten-vor-bots-und-spam-sch-tzen-45339.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -60,13 +60,15 @@ language: "de"
   - Account
   - Help
   - Resources
-- **CTA button texts:** "Start now", "Order Enterprise", "Learn more"
+- **CTA button texts:** "Start now", "Order Enterprise"
 - **Digistore24 checkout links found:**
   - https://www.digistore24.com/product/504248
 - **Opening copy (first paragraphs):**
-  > DSGVO-compliant and efficient Zencaptcha Spam and Bot protection Zencaptcha Enterprise: Protect your website from fraud, bots, fake email addresses, and spam. 100% DSGVO-compliant.
-  > --> © 2026 Zencaptcha. Developed in Europe. A privacy-first fraud and bot protection software. The most modern CAPTCHA.
-- **Page word count:** 81
+  > DSGVO-compliant and efficient Zencaptcha Spam and Bot protection Zencaptcha Enterprise: Protect your website from fraud, bots, fake email addresses, and spam. 100% DSGVO-compliant. Order Enterprise Learn more
+  > Zencaptcha Enterprise: Protect your website from fraud, bots, fake email addresses, and spam. 100% DSGVO-compliant.
+  > Account Register Log in Help Documentation Blog Privacy Contact Github Resources Pricing Affiliates Privacy Policy Terms of Use Imprint © 2026 Zencaptcha. Developed in Europe. A privacy-first fraud and bot protection software. The most modern CAPTCHA.
+  > © 2026 Zencaptcha. Developed in Europe. A privacy-first fraud and bot protection software. The most modern CAPTCHA.
+- **Page word count:** 79
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

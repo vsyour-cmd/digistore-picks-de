@@ -71,6 +71,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> deinen nachvollziehbaren, strukturierten L ösungswegen meiner MET-Anwendungsfälle
+> Ewald hat den MET-Kurs sowohl informativ als auch anwendungsbezogen gestaltet und ist immer auf Fragen und Wünsche der Gruppe eingegangen. Er hat viele Erfahrungswerte aus seiner Praxis mit einfließen lassen, was mich sehr motiviert hat. Vielen Dank nochmal, ich habe viel dazu gelernt." Annelie aus Berlin
+> MET stellt für mich eine großartige Methode dar, um in die Selbstwirksamkeit zu kommen und Schritt für Schritt ungelöste Themen der Vergangenheit aufzuarbeiten. Aktuelle Belastungen können täglich entschärft" werden. Der Kurs bietet die Basis und eine Struktur, um gut an sich selbst weiterarbeiten zu können. Ich fühle mich bereichert und merke eine deutliche Steigerung meiner Lebensqualität. Und der Weg geht weiter.
+
+### 3c. Cautions
+
+> Das vielleicht wichtigste Live-Onlineseminar, was du jemals gemacht hast!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/49115-g1.webp
+- assets/products/49115-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MET Einsteigerkurs. Gesundheit und Glück in deinem Leben? — Typ: Online coaching, Anbieter: franke2met, gelistet seit 2024-08-21

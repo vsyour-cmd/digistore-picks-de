@@ -77,6 +77,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im aktuellen KATALOG findest du genaue Anleitungen für alle Neurostreams:
+> Der "Neurostreams -Katalog" enthält ausführliche Infos und praktische Anwendungshinweise für alle Titel des Neurostreams-Sortiments.
+
+### 3c. Cautions
+
+> Zurück zu Neurostreams – jetzt folgt der entscheidend Hinweis:
+> Haben Sie noch eine winzige Sekunde Geduld! Ich muss Ihnen vorher noch etwas Wichtiges erklären.
+> Der aus den 80ern im Fernsehen bekannte deutsche Großmeister Dr. Helmut Pfleger (übrigens ein Arzt) hat nachgewiesen, dass gute Spieler in hochspannenden Momenten kurz vor einem Sieg minutenlang einen Puls von über 180 ertragen müssen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/47016-g1.webp
+- assets/products/47016-g2.webp
+- assets/products/47016-g3.webp
+- assets/products/47016-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Megabrain Suite? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-04-17

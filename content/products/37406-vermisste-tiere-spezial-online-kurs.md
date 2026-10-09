@@ -80,6 +80,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Möchtest Du mehr über die so wichtigen 1. Schritte wissen, wenn Dein Tier vermisst wird?
+> Die vielseitige Einsatzmöglichkeit des Tensors, sowie die richtige Anwendung, NEU: Incl. Beispielvideo Messung bei vermissten Tieren
+> Hole dir die perfekte Anleitung, die bereits vielen Menschen geholfen hat, ihre Tiere wiederzufinden.
+
+### 3c. Cautions
+
+> Was kannst du als Tierkommunikator/in tun und was ist vor allem jetzt für den Tierhalter wichtig?
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37406-g1.webp
+- assets/products/37406-g2.webp
+- assets/products/37406-g3.webp
+- assets/products/37406-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermisste Tiere Spezial Online Kurs? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-09-18

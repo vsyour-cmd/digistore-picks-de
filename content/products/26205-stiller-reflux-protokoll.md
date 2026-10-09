@@ -80,6 +80,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Da du hier bei mir gelandet bist, hast du schon einen wichtigen Schritt geschafft. Du weißt schon einmal, was Stiller Reflux ist.
+> Klare Anleitung, wie du deinen Lieblingssport treiben kannst, ohne dadurch Reflux zu verstärken.
+> Exakte Anleitung, wie du alkalisches Wasser herstellst, mit dem du refluxte Magenenzyme auswaschen kannst.
+
+### 3c. Cautions
+
+> Die Meisten kommen gar nicht so weit. Viele Ärzte erkennen bisher noch nicht die Symptome von Stillem Reflux. Zudem ist in deutschen Arztpraxen wenig Zeit für Patienten vorhanden. Zu viele Patienten kommen auf zu wenige Ärzte.
+> Bei mir bauten sich die Symptome des Stillen Refluxes über Jahre hinweg auf, wurden dann aber auf einen Schlag extrem. Lange Zeit konnte mir kein Arzt sagen, wo die Probleme herkommen. Am Ende war es Zufall, dass ich endlich eine Ärztin fand, welche die Krankheit korrekt erkannte.
+> Welche Tests du beim Arzt verlangen musst, um Stillen Reflux zuverlässig diagnostiziert zu bekommen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26205-g1.webp
+- assets/products/26205-g2.webp
+- assets/products/26205-g3.webp
+- assets/products/26205-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stiller Reflux Protokoll? — Typ: Downloads, Anbieter: Sanariver, gelistet seit 2017-07-17

@@ -75,6 +75,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sie bekommen Zugriff zu 17 hochkarätigen Vorträgen mit weltweit anerkannten Professoren und Experten . Schauen Sie alle Vorträge bequem zu Hause und setzen Sie danach Schritt für Schritt Ihre eigene persönlichen Maßnahmen gegen Umweltgifte und für eine gesunde Umwelt dank der verständlichen Anweisungen um. Sie haben etwas nicht ganz verstanden? Kein Problem, Sie können jederzeit die Vorträge erneut schauen .
+> Das digitale Kongresspaket gibt Ihnen jederzeit und überall Zugriff auf die wertvollen Ressourcen unserer Professoren, Mediziner und Experten, die Ihnen Schritt-für-Schritt zu Ihrem Ziel verhelfen. Egal wo Sie gerade stehen.
+
+### 3c. Cautions
+
+> Sie wollen die wichtigsten Fakten auf einen Blick? Gerade keine Zeit 12+ Stunden Vorträge zu sehen? Oder einfach als Unterstützung während Sie die Vorträge schauen?
+> Kein Problem. Mit dem kompakten Kongressprogramm, der alle wichtigen Informationen enthält, bekommen Sie eine Zusammenfassung der wichtigsten Inhalte , Methoden und Strategien unserer Professoren und Mediziner.
+> Also, wenn Ihnen das Thema Umwelt & Umweltgifte wirklich wichtig ist und Sie schnellstmöglich die effektivsten Methoden umsetzen wollen, wenn Sie Zeit und Mühe für Recherche und teure Beratungen sparen wollen und stattdessen das tun wollen, was die aktuellste Forschung ergibt , wenn Sie Zugriff auf die kostbaren und exklusiven Videos haben wollen...
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/27246-g1.webp
+- assets/products/27246-g2.webp
+- assets/products/27246-g3.webp
+- assets/products/27246-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2015 Umwelt - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2016-06-06

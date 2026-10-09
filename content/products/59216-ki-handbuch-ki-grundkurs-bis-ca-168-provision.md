@@ -76,6 +76,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Kompakte Einstiegsformate für Kick-offs, Teamtage oder Führungskräfterunden — als erster Schritt vor einer vertieften Schulung.
+> Beispielhafte Darstellung — praxisnahe Begleitung Schritt für Schritt, von der Analyse bis zum Praxistransfer im Arbeitsalltag. 01 Analyse
+> Nachbereitung und Unterstützung bei der Anwendung im Arbeitsalltag.
+
+### 3c. Cautions
+
+> Ein bestimmtes Kursformat, Zertifikat oder festes Stundenvolumen schreibt Artikel 4 nicht vor. Eine auf den konkreten Einsatz zugeschnittene und dokumentierte Schulung kann hierzu einen wichtigen Beitrag leisten — ersetzt aber keine vollständige Compliance-Prüfung und ist für sich allein keine Garantie, dass alle Anforderungen des EU AI Act erfüllt sind.
+> Hinweis: Dies ist eine allgemeine Information, keine Rechtsberatung. Für eine rechtssichere Einschätzung Ihrer individuellen Pflichten empfehlen wir die Rücksprache mit einer darauf spezialisierten Kanzlei.
+> Für Sie bedeutet das: weniger Zeit für Routineaufgaben im Büroalltag, ohne die Kontrolle über wichtige Entscheidungen abzugeben.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59216-g1.webp
+- assets/products/59216-g2.webp
+- assets/products/59216-g3.webp
+- assets/products/59216-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision? — Typ: E-books, Anbieter: lunaboxbindik, gelistet seit 2026-09-14

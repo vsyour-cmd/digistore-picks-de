@@ -75,6 +75,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Kompass verbindet Schritt-für-Schritt-Planung mit Wissen, das du sonst nirgendwo liest: wie Fahrschulen rechnen, was Prüfer wirklich fragen – und wie du ruhig bleibst, wenn es zählt.
+> Von der Planung 6–12 Monate vor der Anmeldung bis zur Prüfungsreife – jeder Schritt zur richtigen Zeit, nichts dem Zufall überlassen.
+> Fünf erprobte Techniken gegen Prüfungsangst – von der 4-6-Atmung bis zur Generalprobe, jeweils mit Anleitung und der Erklärung, warum sie wirken.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58728-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo? — Typ: E-books, Anbieter: thorstenbahrb86a, gelistet seit 2026-08-27

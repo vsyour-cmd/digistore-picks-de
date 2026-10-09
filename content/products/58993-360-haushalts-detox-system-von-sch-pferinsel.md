@@ -71,6 +71,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sicher zum Ziel. Du siehst in jedem Bereich, was als Nächstes zu tun ist, du vermeidest Fehler und tauschst schädliche Stoffe Schritt für Schritt aus.
+> ✓ Die 4 interaktiven Raum-Audits & Schritt-für-Schritt-Checklisten
+> Die harte Recherchearbeit ist erledigt. Der rote Faden liegt bereit. Du musst nur noch zugreifen und den ersten Schritt gehen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58993-g1.webp
+- assets/products/58993-g2.webp
+- assets/products/58993-g3.webp
+- assets/products/58993-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 360° Haushalts-Detox-System (von Schöpferinsel)? — Typ: E-books, Anbieter: liebe-leben, gelistet seit 2026-09-07

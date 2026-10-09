@@ -80,6 +80,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Hinweis : Die Leadership Kudo Karten sind ein digitales Produkt (PDF). Es werden keine physischen Karten versendet . Du erhältst die Karten als Download und kannst sie flexibel selbst ausdrucken oder digital verwenden – ganz wie es für dich am besten passt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57564-g1.webp
+- assets/products/57564-g2.webp
+- assets/products/57564-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadership KUDO Karten – Klarheit, Wertschätzung, Wachstum? — Typ: Downloads, Anbieter: DrSilviaSchaefer, gelistet seit 2026-07-16

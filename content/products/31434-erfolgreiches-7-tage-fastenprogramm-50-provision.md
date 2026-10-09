@@ -83,6 +83,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 19 Minuten Video + Tagesimpulse - Anleitung zum Einlauf, Tipps gegen Fastenkrisen – damit du dich jederzeit gut unterstützt fühlst.
+> Manchmal braucht es nur einen bewussten Schritt – um alten Ballast loszulassen und dem Leben mit neuer Leichtigkeit zu begegnen. Dieses Fastenprogramm ist mehr als ein Kurs. Es ist ein liebevoll gehaltener Raum für Regeneration, Erkenntnis und Neubeginn.
+
+### 3c. Cautions
+
+> Nein, für individuelle Beratung kontaktiere bitte einen Ernährungsberater oder Arzt deines Vertrauens.
+> Hinweis: Die Abwicklung deines Kaufs erfolgt über unseren Partner Digistore24. Du erhältst nach dem Kauf eine Bestellbestätigung direkt von dort. Vertragspartner ist die Digistore24 GmbH, St.-Godehard-Straße 32, 31139 Hildesheim, Deutschland.
+> Alle geteilten Inhalte, Hinweise und Empfehlungen auf dieser Seite sind sorgfältig erstellt worden und dienen ausschließlich der Inspiration. Sie ersetzen nicht die Diagnose, Beratung oder Behandlung durch Ärztinnen und Ärzte. Bei gesundheitlichen Fragen oder Beschwerden bitten wir dich, fachkundigen Rat einzuholen. Alles, was du aus diesem Programm in dein Leben einwebst, tust du in freier, eigener Verantwortung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/31434-g1.webp
+- assets/products/31434-g2.webp
+- assets/products/31434-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2019-02-22

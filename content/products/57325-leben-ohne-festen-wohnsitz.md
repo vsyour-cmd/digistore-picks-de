@@ -82,6 +82,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Kein Mietvertrag, keine festen Wände, maximale Freiheit – aber wie funktioniert das wirklich? Dieser Guide zeigt dir Schritt für Schritt, wie du dich abmeldest, Post und Behörden organisierst, versichert bleibst und langfristig ortsunabhängig lebst.
+> Der erste Schritt ist oft die Abmeldung in Deutschland. Der Guide erklärt, was ›ohne festen Wohnsitz‹ rechtlich bedeutet, wie der Abmeldeprozess beim Einwohnermeldeamt abläuft und welche Konsequenzen das für Steuern, Versicherung und Verträge hat. Auch die Mythen rund ums ›steuerfreie Leben‹ werden ehrlich eingeordnet.
+
+### 3c. Cautions
+
+> Versicherung und Steuern sind die heikelsten Themen. Der Guide erklärt verständlich den Unterschied zwischen gesetzlicher, privater und internationaler Krankenversicherung, was bei Abmeldung passiert und die Grundbegriffe der Steuerpflicht (unbeschränkt, beschränkt, 183-Tage-Regel). Mit dem klaren Hinweis: Bei Steuern brauchst du einen spezialisierten Berater.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben ohne festen Wohnsitz? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01

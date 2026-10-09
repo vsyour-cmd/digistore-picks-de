@@ -66,6 +66,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nur in der 12-Chakren-Energie ist ein Mensch in der Lage, sein Bewusstsein für ein neues Denken zu öffnen. Gehe diesen Schritt und entwickele Deine energetischen Möglichkeiten, in allen Lebensbereichen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/22385-g1.webp
+- assets/products/22385-g2.webp
+- assets/products/22385-g3.webp
+- assets/products/22385-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Chakren? — Typ: Downloads, Anbieter: StefanieMenzel, gelistet seit 2018-02-01

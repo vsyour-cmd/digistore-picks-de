@@ -68,6 +68,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Haben Sie schon einmal davon geträumt, Ihr eigenes Unternehmen zu gründen, aber Sie haben keine Ahnung, wo Sie anfangen sollen? Das Dropshipping-Modell bietet eine hervorragende Möglichkeit, ein eigenes Unternehmen mit minimalem Risiko und Aufwand zu gründen - und dieses Ebook bietet Ihnen eine umfassende Anleitung dafür!
+> In diesem Ebook erfahren Sie, wie Sie ein erfolgreiches Dropshipping-Geschäft von Grund auf aufbauen können. Von der Auswahl der richtigen Nische und Produkte bis hin zur Identifizierung der besten Lieferanten und der Verwaltung Ihrer Bestellungen und Kundenbeziehungen - diese Anleitung bietet Ihnen praktische Tipps und Strategien, um Ihr Dropshipping-Geschäft zum Erfolg zu führen.
+> Dieses Produkt ist keine Garantie für den Erfolg, die Schritte können helfen jedoch ist das tatsächliche Umsatz und Erfolg von diversen Faktoren
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43690-g1.webp
+- assets/products/43690-g2.webp
+- assets/products/43690-g3.webp
+- assets/products/43690-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dropshipping Leitfaden 2023 (Ebook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21

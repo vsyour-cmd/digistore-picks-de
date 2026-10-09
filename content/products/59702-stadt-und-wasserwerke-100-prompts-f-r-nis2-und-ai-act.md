@@ -70,6 +70,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im KRITIS- und OT-Kontext
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im KRITIS- und OT-Kontext
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im KRITIS- und OT-Kontext
+
+### 3c. Cautions
+
+> Warum dieses Kit für Stadtwerke, Wasserbetriebe und KRITIS-Betreiber wichtig ist
+> Warum dieses Kit für Stadtwerke, Wasserbetriebe und KRITIS-Betreiber wichtig ist
+> Warum dieses Kit für Stadtwerke, Wasserbetriebe und KRITIS-Betreiber wichtig ist
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59702-g1.webp
+- assets/products/59702-g2.webp
+- assets/products/59702-g3.webp
+- assets/products/59702-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25

@@ -89,6 +89,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Zimtkassie-Extrakt (500mg) - Unterstützt die Balance des Glukose-Stoffwechsels durch natürliche Verarbeitungsprozesse. USDA Research bestätigt: eine um 18-29% optimierte Glukose-Verwertung bei täglicher Anwendung.
+> Wissenschaftlich abgestimmte Dosierung: Basierend auf einschlägigen Studien
+> ● EU-Limits: Maximale Dosierung unter therapeutischem Minimum
+
+### 3c. Cautions
+
+> Metformin zwingt erschöpfte Zellen härter zu arbeiten — ohne ihnen die Werkzeuge zu geben. Wie einen müden Arbeiter antreiben, statt ihm vernünftiges Werkzeug zu geben. Insulin zu spritzen ist wie mehr Wächter vor defekten Schlössern zu postieren. Wenn das Schloss kaputt ist, bleibt die Tür zu. Diese Behandlungen können wichtig sein. Aber sie adressieren nicht das Grundproblem.
+> Prof. Dr. Heinrich Müller, Biochemie-Institut Heidelberg : "Was wir in den letzten 50 Jahren der Nahrungsmittel-Industrialisierung getan haben, ist biochemischer Vandalismus. Wir haben systematisch den wichtigsten Mineral-Cofaktor für Glucose-Stoffwechsel eliminiert."
+> Hinweis: Individuelle Ergebnisse können variieren. Medikamenten-Änderungen nur unter ärztlicher Aufsicht. Bei gesundheitlichen Problemen konsultieren Sie Ihren Arzt.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GlucoSana: The Blood Sugar Protocol? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-02-11

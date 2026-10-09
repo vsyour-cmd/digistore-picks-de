@@ -71,6 +71,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Jede neurographische Zeichnung erfolgt nach den Vorgaben des Basisalgorithmus. Je nach Anwendungsgebiet können die weiteren Algorithmen (1 - 9) mit einbezogen werden. Durch das Befolgen der neurographischen Algorithmen wird sichergestellt, dass der Zeichenprozess den gewünschten Effekt und Einfluss auf das eigene neurologische System hat.
+
+### 3c. Cautions
+
+> Hinweis: Bitte logge dich unter der E-Mail-Adresse ein, unter der du damals den Kurs gebucht hast.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39182-g1.webp
+- assets/products/39182-g2.webp
+- assets/products/39182-g3.webp
+- assets/products/39182-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NeuroGraphik® Basiskurs-Paket? — Typ: Member area and video courses, Anbieter: freies-bewusstsein, gelistet seit 2022-02-19

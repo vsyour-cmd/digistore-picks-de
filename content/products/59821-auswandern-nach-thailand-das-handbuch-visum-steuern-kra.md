@@ -79,6 +79,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Muss ich in Deutschland weiter Steuern zahlen? Möglicherweise ja. Die beschränkte Steuerpflicht und unter bestimmten Voraussetzungen § 2 AStG wirken über den Wegzug hinaus; die Wegzugsbesteuerung nach § 6 AStG knüpft an den Wegzug selbst an. Besonders relevant bei Firmenanteilen ab einem Prozent. Das Buch erklärt die Mechanik – die Anwendung auf Ihren Fall gehört zu einem Steuerberater.
+
+### 3c. Cautions
+
+> Ja, schicken Sie mir Checkliste und Leseprobe per E-Mail, danach fünf kurze E-Mails zum Auswandern nach Thailand und gelegentlich Hinweise auf Aktualisierungen und Angebote von thailandratgeber.de. Abmelden kann ich mich jederzeit mit einem Klick. Datenschutz Checkliste zuschicken Sie bekommen zuerst eine Bestätigungsmail. Erst nach Ihrem Klick darin wird etwas verschickt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59821-g1.webp
+- assets/products/59821-g2.webp
+- assets/products/59821-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra? — Typ: E-books, Anbieter: stonebridge, gelistet seit 2026-09-27

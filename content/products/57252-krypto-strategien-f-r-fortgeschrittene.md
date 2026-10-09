@@ -82,6 +82,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Ratgeber macht dir bewusst, dass auch hier ein Totalverlust jederzeit möglich ist und dass DeFi kein Ort für Geld ist, das du nicht entbehren kannst. Du bekommst Hintergrundwissen, um die Mechanik und die Gefahren besser einzuordnen, aber ausdrücklich keine Anleitung, in welche Protokolle du gehen solltest, und keine Bewertung einzelner Projekte. Welche Schritte du am Ende gehst, entscheidest du selbst und auf eigenes Risiko, im Zweifel nach Rücksprache mit unabhängigem, qualifiziertem Rat.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krypto-Strategien für Fortgeschrittene? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29

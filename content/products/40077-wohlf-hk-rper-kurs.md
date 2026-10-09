@@ -83,6 +83,19 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sehr gute und professionelle Beratung und individuelle Betreuung! Frau Hinkel ist klar in Ihrer Kommunikation und weiß wovon sie spricht. In der heutigen Zeit ist eine bewusste und gesunde Ernährung absolut hilfreich. Durch die Tipps und Anleitungen zur Ernährung von Iss Dich Gesund" hat sich mein Körper mal wieder wohl gefühlt nach dem Essen und ich mich damit auch. Vielen Dank! Frau Hinkel ist eine klare Empfehlung!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40077-g1.webp
+- assets/products/40077-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohlfühkörper Kurs? — Typ: Downloads, Anbieter: Issdichgesund_Mel, gelistet seit 2022-03-09

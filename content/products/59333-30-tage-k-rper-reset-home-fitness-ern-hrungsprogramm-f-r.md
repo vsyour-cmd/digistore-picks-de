@@ -72,6 +72,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Klare Start-Anleitung, persönliches Ziel und freiwilliger Ausgangscheck.
+> Öffne das Programm, richte dein System ein und beginne mit Tag 1. Danach zeigt dir der Plan Schritt für Schritt, was als Nächstes ansteht.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für? — Typ: E-books, Anbieter: ersanfidan6767c470, gelistet seit 2026-09-17

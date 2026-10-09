@@ -70,6 +70,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest.
+> Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest.
+> Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55507-g1.webp
+- assets/products/55507-g2.webp
+- assets/products/55507-g3.webp
+- assets/products/55507-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stark für alle. Schwach für mich.? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-02-10

@@ -87,6 +87,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die einfache 5 Schritte Anleitung, wie Sie mit Ihrer Webseite innerhalb von nur 24 Stunden automatisiert neue Kunden gewinnen.
+
+### 3c. Cautions
+
+> Kann ich auch eine Landingpage erstellen lassen? Ja, auch das ist m&ouml;glich. Ich erstelle Ihnen gerne Ihre Landingpage nach Ihren Vorstellungen. Dieser Service kostet pro Landingpage einmalig 399,00 &euro;* zus&auml;tzlich zum gew&auml;hlten Paket. Geben Sie mir nach dem Kauf im Bemerkungsfeld einen Hinweis, dass Sie meinen Erstellungsservice in Anspruch nehmen m&ouml;chten und ich setze mich zeitnach mit Ihnen in Verbindung, um die Gestaltung Ihrer Landingpage zu besprechen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/2027-g1.webp
+- assets/products/2027-g2.webp
+- assets/products/2027-g3.webp
+- assets/products/2027-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage-Creator Single Paket? — Typ: Downloads, Anbieter: VersArzt, gelistet seit 2014-02-06

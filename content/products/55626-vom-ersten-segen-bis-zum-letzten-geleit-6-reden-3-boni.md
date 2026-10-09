@@ -64,6 +64,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Helfen Sie Ihren Lesern, in den wichtigsten Momenten des Lebens sprachfähig zu bleiben. Jetzt bewerben und Provision sichern!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55626-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-16

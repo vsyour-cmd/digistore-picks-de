@@ -64,6 +64,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Schritt-für-Schritt-Anleitung, wie ein Arbeitnehmer aus 0 € Abfindungsanspruch über 58.000 € herausverhandelt hat – inklusive Strategien für Kündigung und Aufhebungsvertrag in Deutschland.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber? — Typ: E-books, Anbieter: abfindung_ratgeber, gelistet seit 2026-05-14

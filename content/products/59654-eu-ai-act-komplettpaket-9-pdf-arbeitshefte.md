@@ -70,6 +70,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du entscheidest selbst, welche Arbeitshefte und Vorlagen für deinen konkreten KI-Einsatz relevant sind. Das Paket kann vollständig oder schrittweise bearbeitet werden.
+> Du entscheidest selbst, welche Arbeitshefte und Vorlagen für deinen konkreten KI-Einsatz relevant sind. Das Paket kann vollständig oder schrittweise bearbeitet werden.
+> Du entscheidest selbst, welche Arbeitshefte und Vorlagen für deinen konkreten KI-Einsatz relevant sind. Das Paket kann vollständig oder schrittweise bearbeitet werden.
+
+### 3c. Cautions
+
+> Das EU AI Act Komplettpaket 2026/2027 vereint alle neun Arbeitshefte von AI Act Selbstcheck in einem digitalen Gesamtpaket. Du erhältst praktische Vorlagen, Checklisten, Mustertexte, Protokolle und Prozesshilfen für die wichtigsten organisatorischen Handlungsfelder rund um den EU AI Act.
+> Keine komplizierte juristische Theorie: Die Arbeitshefte helfen dir, deinen tatsächlichen KI-Einsatz strukturiert zu erfassen, Verantwortlichkeiten festzulegen, Risiken zu prüfen und wichtige Entscheidungen nachvollziehbar zu dokumentieren.
+> Wichtiger Hinweis: Das EU AI Act Komplettpaket dient als praktische Arbeits-, Strukturierungs- und Orientierungshilfe. Es stellt keine Rechtsberatung dar und ersetzt keine individuelle rechtliche, datenschutzrechtliche oder technische Prüfung des konkreten Einzelfalls. Welche Anforderungen tatsächlich gelten, hängt unter anderem vom verwendeten KI-System, der Rolle des Unternehmens, dem Einsatzzweck und der jeweiligen Risikoeinstufung ab.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59654-g1.webp
+- assets/products/59654-g2.webp
+- assets/products/59654-g3.webp
+- assets/products/59654-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act Komplettpaket – 9 PDF-Arbeitshefte? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-24

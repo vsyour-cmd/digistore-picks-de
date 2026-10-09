@@ -14,7 +14,7 @@ categories: ["Business & Investment","Online Marketing & E-Business","Marketing 
 listed_since: "2026-06-12"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "rich"
 promo_link: "https://anchukoegl.com/obm-sonderpreis/?aff=adminstore#aff=adminstore"
 sales_page: "https://anchukoegl.com/obm-sonderpreis/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Online Kurs Masterclass
 
 > Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,43 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online Business Masterclass Sonderpreis - Anchu Kögl
+- **Headline (H1):**
+  > Letzte Chance: OKM zum Sonderpreis
+  > ONLINE KURS
+  > MASTERCLASS
+- **Section headlines (H2):**
+  - Online Kurse zu verkaufen kann dein Leben komplett verändern (es hat auf jeden Fall mein Leben verändert)
+  - Ich bin anders als 99% aller Online-Marketing-Gurus...
+  - Jeden Monat automatisiert hohe Gewinne – ohne großes Team und ohne Coachings zu machen
+  - Das beste Business-Modell? Automatisierte Online Kurse!
+  - Die Inhalte aus OKM
+  - Teil 1: Dein profitabler Online Kurs
+  - Teil 2: Webinar Evergreen Funnel
+  - Teil 3: Skalieren mit Ads
+  - Optional: Facebook Mastermind
+  - Bonus: InstaBusiness
+- **CTA button texts:** "Jetzt anmelden"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/444328/?ds24tr=sp&custom=sessionId=HB-ET_898610bc7e5035d23c8297b7ca05a55e779e5077404817e0d8f85c927b508a47
+- **Opening copy (first paragraphs):**
+  > ONLINE KURS MASTERCLASSWie du deinen eigenen Online Kurs erstellst, ihn komplett automatisiert verkaufst und damit 5-stellig im Monat verdienen kannst – während du anderen Menschen weiterhilfst Jetzt anmelden
+  > Wie du deinen eigenen Online Kurs erstellst, ihn komplett automatisiert verkaufst und damit 5-stellig im Monat verdienen kannst – während du anderen Menschen weiterhilfst
+  > Online Kurse zu verkaufen kann dein Leben komplett verändern (es hat auf jeden Fall mein Leben verändert)
+  > Falls du mich noch nicht so gut kennst... Hi, mein Name ist Anchu Kögl.Ich habe in den letzten Jahren so gut wie alles ausprobiert: E-BooksAbo-Modelle1:1 CoachingsHochpreis-CoachingsPodcastYoutubePinterestVieles davon hat nicht funktioniert...Und ich hab viel Zeit, Energie und Geld verschwendet.
+- **Questions the sales page answers:**
+  - Funktioniert ein Online Kurs auch in meiner Nische?
+  - Kann ich ein Online Kurs mit Coachings kombinieren?
+  - Brauche ich eine eigene Webseite?
+  - Brauche ich eine professionelle Kamera?
+  - Was ist wenn ich keine Ausbildung habe?
+  - Wie lange habe ich Zugang zu dem Kurs?
+  - Ich bin kein Technik Nerd... Kann ich das trotzdem schaffen?
+  - Ich habe nur eine ganz kleine Community, ist der Kurs das richtige für mich?
+  - Wie lange dauert es bis ich meinen Kurs launche und Geld verdiene?
+  - Ich habe schon einen Online Kurs kreiert, lohnt sich OKM trotzdem?
+- **Page word count:** 3515
+- **OG image:** https://anchukoegl.com/wp-content/uploads/2023/03/OKM-Produkt-Bilder-1.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

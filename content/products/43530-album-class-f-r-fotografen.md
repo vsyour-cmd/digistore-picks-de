@@ -77,6 +77,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Viele Fotografen tun sich schwer, erfolgreich Alben zu verkaufen. Dabei wäre der zusätzliche Umsatz sehr wichtig! Es erwartet dich ein Online-Kurs mit 18 Videos + Bonusmaterial. Du lernst Schritt für Schritt, wie du erfolgreich Alben verkaufst und dadurch deinen Umsatz erhöhst.
+
+### 3c. Cautions
+
+> Fotoalbum erstellen für Fotografen - AlbumClass Achtung! ⏰ Nur für kurze Zeit kannst du sparen!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43530-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALBUM CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-12-13

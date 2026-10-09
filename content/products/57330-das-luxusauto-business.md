@@ -82,6 +82,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im Luxusauto-Business entscheiden nicht nur die Fahrzeuge, sondern vor allem Beziehungen und ein cleverer Verkauf. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du mit Premium-Fahrzeugen Geld verdienst: vom Geschäftsmodell über Netzwerk, Einkauf und Vermittlung bis zu Verkauf und Skalierung.
+> Mit Premium-Fahrzeugen Geld zu verdienen klingt nach einem Traum – und kann ein lukratives Geschäft sein, wenn man den Markt versteht. Doch im Luxusauto-Business entscheiden nicht nur die Autos, sondern vor allem Beziehungen, Vertrauen und ein cleverer Verkauf. Dieser Ratgeber zeigt dir auf 97 Seiten, wie du Schritt für Schritt einsteigst.
+
+### 3c. Cautions
+
+> Das Herzstück ist das Netzwerk: Warum Beziehungen das wichtigste Kapital sind, welche Kontakte zählen (Quellen, Käufer, Dienstleister) und wie du dir von null an Vertrauen und einen guten Ruf aufbaust. Denn im Premiumsegment kommt das beste Geschäft fast immer über Empfehlung.
+> Wie wichtig sind Kontakte wirklich? Sehr wichtig. Im Luxussegment sind Beziehungen und Vertrauen oft entscheidender als das eigene Kapital. Ein eigenes Kapitel zeigt, wie du dir ein Netzwerk von null an aufbaust.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Luxusauto-Business? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01

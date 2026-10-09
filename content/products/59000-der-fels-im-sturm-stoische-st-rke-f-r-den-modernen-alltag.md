@@ -85,6 +85,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Der Fels im Sturm“ übersetzt deine persönliche Kompass-Auswertung in 30 Tage gelebte Praxis – ruhig, klar und ohne Pathos. Du erkennst eigene Muster früher, setzt vorhandene Ressourcen bewusster ein und entwickelst kleine Schritte, die im wirklichen Alltag tragfähig bleiben.
+> Stoische Praxis beginnt nicht mit Härte. Sie beginnt mit einer ehrlichen Unterscheidung: Was liegt in meiner Hand? Was verlangt jetzt einen bewussten Schritt? Und wie finde ich zurück, wenn ich davon abweiche?
+> Was geschah wirklich? Was war hilfreich? Was ist der nächste Schritt?
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59000-g1.webp
+- assets/products/59000-g2.webp
+- assets/products/59000-g3.webp
+- assets/products/59000-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Fels im Sturm – Stoische Stärke für den modernen Alltag? — Typ: Downloads, Anbieter: urkraftmindset, gelistet seit 2026-09-07

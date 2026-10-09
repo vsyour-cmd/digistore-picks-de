@@ -80,6 +80,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du bekommst viele Tipps, aber keine klaren Schritte, wie du dich wirklich verbesserst. Dadurch werden deine Skizzen einfach nicht besser und du erkennst nicht die Grenze zwischen einer Skizze und einer Zeichnung.
+> Mit einigen lockeren Aufwärmungen lernst du den Umgang mit Linien und Grundformen, mit deren Hilfe du im nächsten Schritt lernst deine Skizzen noch schneller zu erstellen. Diese vereinfachen die Erstellung von Skizzen und sind daher im weiteren Verlauf die Basis für nahezu jede Skizze.
+> In diesem Kapitel lernst du, wie du Objekte Schritt für Schritt analysierst und sie in einfache Formen zerlegst. So entwickelst du ein besseres Verständnis für Aufbau und Proportion. Dabei ist es ganz gleich, ob du eine Flasche, einen Hund oder einen Menschen skizzierst.
+
+### 3c. Cautions
+
+> Starte mit einem Überblick über den Kurs, das begleitende eBook und die wichtigsten Grundlagen zum Skizzieren. Du erfährst, welche Arten von Skizzen es gibt, welche Materialien du brauchst und wie du den Kurs am besten für dich nutzt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35233-g1.webp
+- assets/products/35233-g2.webp
+- assets/products/35233-g3.webp
+- assets/products/35233-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skizzen Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2020-09-28

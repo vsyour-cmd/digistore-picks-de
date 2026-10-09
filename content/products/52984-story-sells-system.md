@@ -71,6 +71,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Doch es gibt eine Lösung, wie du deine Storys nicht nur Algorithmus freundlich kreierst, wir nutzen einen 5-Schritte Story-Funnel der die Rate, dass Follower sich endlich für DEIN Angebot interessieren: ver10-facht ! Willkommen in der Realität "posten - handy weglegen - SALE"
+> Doch es gibt eine Lösung, wie du deine Storys nicht nur Algorithmus freundlich kreierst, wir nutzen einen 5-Schritte Story-Funnel der die Rate, dass Follower sich endlich für DEIN Angebot interessieren: ver10-facht ! Willkommen in der Realität "posten - handy weglegen - SALE"
+> Doch es gibt eine Lösung, wie du deine Storys nicht nur Algorithmus freundlich kreierst, wir nutzen einen 5-Schritte Story-Funnel der die Rate, dass Follower sich endlich für DEIN Angebot interessieren: ver10-facht ! Willkommen in der Realität "posten - handy weglegen - SALE"
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52984-g1.webp
+- assets/products/52984-g2.webp
+- assets/products/52984-g3.webp
+- assets/products/52984-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Story-Sells-System? — Typ: Member area and video courses, Anbieter: LauraTeresaG, gelistet seit 2025-06-12

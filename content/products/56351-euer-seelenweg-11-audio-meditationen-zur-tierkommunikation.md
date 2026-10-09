@@ -76,6 +76,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verstehe die leise Sprache der Seele – in 11 Schritten zur Herzens-Verbindung.
+> Werde zum aktiven Beschützer deines Tieres – mit der 4-Schritte-Methode zur energetischen Früherkennung.
+> Dieses kompakte PDF ist purer Nutzwert ohne unnötiges Bla-Bla. Du erhältst eine glasklare Schritt-für-Schritt-Anleitung:
+
+### 3c. Cautions
+
+> Präzise Antworten erhalten: Lerne, wie du klare Fragen stellst und – viel wichtiger – wie du die Antworten deines Tieres in Form von Bildern, Impulsen und Gefühlen glasklar empfängst.
+> Präzise Antworten erhalten: Lerne, wie du klare Fragen stellst und – viel wichtiger – wie du die Antworten deines Tieres in Form von Bildern, Impulsen und Gefühlen glasklar empfängst.
+> Präzise Antworten erhalten: Lerne, wie du klare Fragen stellst und – viel wichtiger – wie du die Antworten deines Tieres in Form von Bildern, Impulsen und Gefühlen glasklar empfängst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56351-g1.webp
+- assets/products/56351-g2.webp
+- assets/products/56351-g3.webp
+- assets/products/56351-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation? — Typ: Downloads, Anbieter: Pia-Seelenwege, gelistet seit 2026-04-22

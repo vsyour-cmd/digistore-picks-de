@@ -77,6 +77,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> wie du in simplen schritten lernst, männer anzusprechen UND von dir zu faszinieren,
+> Die Frauen bekamen alle das, wonach sie sich so lange gesehnt hatten . Sie fühlten sich auf einmal wertvoll, geschätzt und geliebt. Aus diesem Grund habe ich ein Schritt-für-Schritt-Programm entwickelt. Darin findest Du Anweisungen, Tipps, Trainings und praktische Beispiele . Ich nenne mein Programm ganz provokativ:
+> Denke daran, dass Du in diesem Augenblick die größte Macht hast, dich zu verändern. Es liegt an Dir, Dich zwischen Glück und Herzschmerz zu entscheiden. Und diese Entscheidung ist das Einzige, was zwischen Dir und der großen Liebe steht, die Du verdienst. Ergreife also diesen Moment und nutze ihn, bevor es zu spät ist. Ich bin Alex Berger. Danke, dass Du alles gelesen hast. Ich freue mich darauf, Dich im nächsten Schritt wieder zu sehen.
+
+### 3c. Cautions
+
+> Ich kann Dir dieses Geheimnis verraten und beibringen. Du lernst wie Du es für Dich und Deine Situation anwendest. Du wirst danach Deinen Traummann dazu zu bringen können, sich in Dich zu verlieben. Und nicht nur das: Er wird auch ein unglaubliches Verlangen nach Dir spüren . Innerhalb kürzester Zeit wirst Du die wichtigste Person in seinem Leben sein. Er wird sich ein Leben ohne Dich an seiner Seite nicht mehr vorstellen können.
+> Du wirst die wichtigste Person in seinem Leben. Er wird alles für Dich tun!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33835-g1.webp
+- assets/products/33835-g2.webp
+- assets/products/33835-g3.webp
+- assets/products/33835-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WERDE EIN MÄNNERMAGNET? — Typ: E-books, Anbieter: florianknoll, gelistet seit 2020-08-18

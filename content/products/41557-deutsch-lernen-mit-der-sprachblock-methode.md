@@ -90,6 +90,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 1. So funktioniert Sprache nicht. Dir fehlt Kontext, Sprachgefühl, Kultur und alles, was Sprache sonst noch aus macht.
+> Mein geschätzter Kollege und Geschäftspartner Lukas Van Vyve hat beschrieben, wie die Anwendung von Chunks beim Sprachenlernen funktionieren kann und mich auf das Konzept des Chunkings beim Sprachenlernen aufmerksam gemacht.
+> An dieser Theorie habe ich die Sprachblock-Methode angelehnt und mit der Input-Hypothese kombiniert. Die Sprachblock-Methode besteht aus drei simplen aber effektiven Schritten, die Dir helfen, umzudenken und auf natürliche Art und Weise Deutsch zu lernen.
+
+### 3c. Cautions
+
+> 2. Du wirst viele Fehler machen , weil Du aus Deiner Muttersprache in die Fremdsprache Wort-für-Wort übersetzt. Keine Sprache ist gleich aufgebaut. Es gibt wichtige Unterschiede, die Dir so nicht klar sind.
+> Die Sprachwissenschaft erkennt immer mehr, wie wichtig ein ganz spezieller Faktor beim Sprachenlernen ist - und nein, das sind nicht Grammatik oder Vokabeln, sondern Input. Schon Stephen Krashen, einer der bekanntesten US-amerikanischen Sprachwissenschaftler, hat in den 70er Jahren in seiner Input-Hypothese dargelegt, dass Spracherwerb und damit auch Grammatikerwerb nur durch genügend sprachlichen Input möglich sei.
+> Die Idee ist, innerhalb eines überschaubaren Zeitrahmens alle wichtigen Bausteine zu vereinen und damit den größtmöglichen Lerneffekt zu erzielen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/41557-g1.webp
+- assets/products/41557-g2.webp
+- assets/products/41557-g3.webp
+- assets/products/41557-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deutsch lernen mit der Sprachblock-Methode? — Typ: Member area and video courses, Anbieter: Sprachheld, gelistet seit 2020-03-12

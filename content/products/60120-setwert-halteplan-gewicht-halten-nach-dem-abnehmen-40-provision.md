@@ -77,6 +77,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Setwert Halte-Check Rezepte Wissen Training Gratis E-Mail-Kurs Halteplan Meal Prep Phase 2 Fragen & Antworten Rechtliches Über Setwert Redaktion und Quellen Kontakt Impressum Datenschutz Hinweis Partnerprogramm Setwert bietet allgemeine Informationen und keine medizinische Beratung. Entscheidungen über Medikamente triffst du mit deiner Ärztin oder deinem Arzt. © 2026 Setwert
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60120-g1.webp
+- assets/products/60120-g2.webp
+- assets/products/60120-g3.webp
+- assets/products/60120-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)? — Typ: Member area and video courses, Anbieter: setwert, gelistet seit 2026-10-02

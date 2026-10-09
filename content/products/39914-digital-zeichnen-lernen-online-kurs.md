@@ -72,6 +72,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im Kurs werden dir die Grundlagen auf Basis verschiedener Software-Pakete beigebracht. Das verschafft dir ein tiefes Verständnis für diese Art von Anwendungen.
+> Die Praxisübungen zeigen dir zunächst den gesamten Prozess des digitalen Zeichnen Schritt für Schritt auf. Danach werden alle Techniken in mehreren Übungen vertieft.
+> Alle Video-Übungen sind durchweg kommentiert und beinhalten Schritt für Schritt Anleitungen mit vielen Tipps und Tricks . Der Aufbau des Kurses vermittelt dir zunächst ein tiefes Verständnis für das digitale Zeichnen. Danach wird dir in den umfangreichen Schritt für Schritt Zeichenübungen gezeigt, wie du dein Wissen in ein digitales Bild verwandelst. Dabei stecken in jeder Übung auch viele Tipps und Tricks aus der Praxis.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39914-g1.webp
+- assets/products/39914-g2.webp
+- assets/products/39914-g3.webp
+- assets/products/39914-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Zeichnen Lernen Online-Kurs? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2022-04-19

@@ -69,6 +69,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wenn eine Lieferung fehlt, ein Artikel beschädigt ankommt oder eine Rückzahlung noch offen ist, brauchst du eine klare Antwort und einen verlässlichen nächsten Schritt. Dieses Paket verbindet anpassbare Antworttexte mit einem einfachen Vorgangstracker.
+> Wenn eine Lieferung fehlt, ein Artikel beschädigt ankommt oder eine Rückzahlung noch offen ist, brauchst du eine klare Antwort und einen verlässlichen nächsten Schritt. Dieses Paket verbindet anpassbare Antworttexte mit einem einfachen Vorgangstracker.
+> Wenn eine Lieferung fehlt, ein Artikel beschädigt ankommt oder eine Rückzahlung noch offen ist, brauchst du eine klare Antwort und einen verlässlichen nächsten Schritt. Dieses Paket verbindet anpassbare Antworttexte mit einem einfachen Vorgangstracker.
+
+### 3c. Cautions
+
+> WICHTIG Kommunikations- und Organisationshilfe, keine Rechtsberatung und kein Ticketsystem. Ansprüche, Fristen und konkrete Lösungen werden nicht automatisch entschieden. Antworten müssen zum geprüften Vorgang passen.
+> WICHTIG Kommunikations- und Organisationshilfe, keine Rechtsberatung und kein Ticketsystem. Ansprüche, Fristen und konkrete Lösungen werden nicht automatisch entschieden. Antworten müssen zum geprüften Vorgang passen.
+> WICHTIG Kommunikations- und Organisationshilfe, keine Rechtsberatung und kein Ticketsystem. Ansprüche, Fristen und konkrete Lösungen werden nicht automatisch entschieden. Antworten müssen zum geprüften Vorgang passen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59376-g1.webp
+- assets/products/59376-g2.webp
+- assets/products/59376-g3.webp
+- assets/products/59376-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reklamationen beantworten – Vorlagen für Onlineshops? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19

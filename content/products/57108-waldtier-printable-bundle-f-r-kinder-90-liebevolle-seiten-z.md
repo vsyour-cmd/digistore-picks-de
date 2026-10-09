@@ -80,6 +80,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Hinweis: Dies ist ein digitales Produkt. Es wird kein gedrucktes Produkt per Post verschickt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57108-g1.webp
+- assets/products/57108-g2.webp
+- assets/products/57108-g3.webp
+- assets/products/57108-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Waldtier-Printable-Bundle für Kinder: 90 liebevolle Seiten z? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-06-22

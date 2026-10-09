@@ -82,6 +82,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die Zahlungsabwicklung erfolgt über Digistore24 . Du erhältst umgehend nach erfolgter Zahlung per Downloadlink eine Anleitung mit weiteren Informationen!
+> Erhalte ich eine Anleitung / Einweisung zur Verwendung der Signale?
+> Sofort nach dem Kauf erhältst du weitere Instruktionen, eine Installations-Anleitung im PDF-Format sowie unsere ausführliche Anleitung auf unserer Webseite.
+
+### 3c. Cautions
+
+> Da wir Trades so lange wie möglich laufen lassen, ist das der Regelfall. Für offene Positionen wird von uns aber grundsätzlich eine Stop-Loss-Marke angegeben, die du auch verwenden solltest. Hinweis: Achte bitte bei der Broker-Wahl auch auf evtl. anfallende Kosten für das Halten von Positionen über Nacht.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/42855-g1.webp
+- assets/products/42855-g2.webp
+- assets/products/42855-g3.webp
+- assets/products/42855-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Forex-Handelssystem BOSreversal? — Typ: Downloads, Anbieter: topebooksdownload, gelistet seit 2020-04-08

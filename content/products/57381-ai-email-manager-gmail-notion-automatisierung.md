@@ -70,6 +70,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Eine Schritt-für-Schritt-Anleitung (PDF) , mit der du in 10 Minuten startklar bist.
+> Rechtlicher Hinweis: Du erhältst eine technische Vorlage (Blueprint & Template). Da jeder Nutzer unterschiedliche Anforderungen hat, liegt die Verantwortung für die datenschutzkonforme Einrichtung und die AVV-Verträge mit den Anbietern (Make, OpenAI, Google, Notion) beim Anwender. Wir unterstützen dich mit einer klaren technischen Anleitung.
+> Eine Schritt-für-Schritt-Anleitung (PDF) , mit der du in 10 Minuten startklar bist.
+
+### 3c. Cautions
+
+> Die Lösung: Der AI Email Manager Wir haben ein System entwickelt, das dir die Arbeit abnimmt. Dein Postfach wird vollautomatisch überwacht, die Inhalte von intelligenter KI analysiert und wichtige Anfragen direkt in dein Notion-Dashboard sortiert.
+> Nie wieder manuell sortieren: Deine KI erkennt sofort, was wichtig ist.
+> Die Lösung: Der AI Email Manager Wir haben ein System entwickelt, das dir die Arbeit abnimmt. Dein Postfach wird vollautomatisch überwacht, die Inhalte von intelligenter KI analysiert und wichtige Anfragen direkt in dein Notion-Dashboard sortiert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57381-g2.webp
+- assets/products/57381-g3.webp
+- assets/products/57381-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Email Manager: Gmail Notion Automatisierung? — Typ: Downloads, Anbieter: DeinKiService, gelistet seit 2026-07-03

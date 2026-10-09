@@ -84,6 +84,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Grundlegende Techniken wie Box Breathing findest du auch anderswo. Beambreath&reg; und Freemor Breathing&reg; &mdash; nicht. Die gibt es nur hier, mit meiner Anleitung und meinem Wissen dahinter.
+> ✔️ &Uuml;ber 4 Stunden Videomaterial Du bekommst fundierte Theorie, praktische Anleitungen und zwei vollst&auml;ndige 45-Minuten-Atemsessions &ndash; strukturiert, liebevoll gef&uuml;hrt und jederzeit abrufbar.
+> Du gehst informiert, sicher und in deinem eigenen Tempo durch jede Session. Keine &Uuml;berforderung &mdash; weil du jeden Schritt verstehst, bevor du ihn machst.
+
+### 3c. Cautions
+
+> Die genutzten Techniken sind teilweise intensiv und du solltest du bei Herz- oder Lungenerkrankungen, Epilepsie, Schwangerschaft, Trauma, psychischen Erkrankungen, Panikattacken oder anderen relevanten gesundheitlichen Themen vorher mit deinem Arzt oder deiner &Auml;rztin sprechen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58398-g1.webp
+- assets/products/58398-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Begin To Breathe — der sanfte Breathwork-Einstieg für Anfänger? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16

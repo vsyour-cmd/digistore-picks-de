@@ -82,6 +82,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Wichtig ist, die Erwartung von Anfang an zu erden. Eine Dividende ist kein Zins und keine feste Zusage. Sie wird Jahr für Jahr neu entschieden und kann gekürzt oder gestrichen werden, wenn es dem Unternehmen schlechter geht. Genau diesen Unterschied arbeitet der Ratgeber heraus, damit du Dividenden-Aktien nicht mit sicheren Anlagen verwechselst, sondern verstehst, dass hinter jeder Ausschüttung ein laufendes Geschäft mit seinen Chancen und Risiken steht.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dividenden-Strategie? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29

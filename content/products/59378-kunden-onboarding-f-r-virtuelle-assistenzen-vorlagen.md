@@ -69,6 +69,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> DAS IST ENTHALTEN • Editierbare Unterlagen für Briefing, 30-Minuten-Kickoff, Änderungen, Status, Freigabe und Offboarding • XLSX-Projektplan mit 30 Aufgabenzeilen, 20 Zugangszeilen und 20 Übergabezeilen • Ein vollständiges fiktives Newsletter-Projekt als Anwendungsbeispiel • Acht Arbeitsbuchseiten als PDF und bearbeitbares DOCX
+> DAS IST ENTHALTEN • Editierbare Unterlagen für Briefing, 30-Minuten-Kickoff, Änderungen, Status, Freigabe und Offboarding • XLSX-Projektplan mit 30 Aufgabenzeilen, 20 Zugangszeilen und 20 Übergabezeilen • Ein vollständiges fiktives Newsletter-Projekt als Anwendungsbeispiel • Acht Arbeitsbuchseiten als PDF und bearbeitbares DOCX
+> DAS IST ENTHALTEN • Editierbare Unterlagen für Briefing, 30-Minuten-Kickoff, Änderungen, Status, Freigabe und Offboarding • XLSX-Projektplan mit 30 Aufgabenzeilen, 20 Zugangszeilen und 20 Übergabezeilen • Ein vollständiges fiktives Newsletter-Projekt als Anwendungsbeispiel • Acht Arbeitsbuchseiten als PDF und bearbeitbares DOCX
+
+### 3c. Cautions
+
+> WICHTIG Organisationsvorlagen, keine Vertrags- oder Datenschutzvereinbarungen. Keine Passwörter oder Zugangstoken in den Dateien speichern. Kein Kundenakquise- oder Einkommensversprechen.
+> WICHTIG Organisationsvorlagen, keine Vertrags- oder Datenschutzvereinbarungen. Keine Passwörter oder Zugangstoken in den Dateien speichern. Kein Kundenakquise- oder Einkommensversprechen.
+> WICHTIG Organisationsvorlagen, keine Vertrags- oder Datenschutzvereinbarungen. Keine Passwörter oder Zugangstoken in den Dateien speichern. Kein Kundenakquise- oder Einkommensversprechen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59378-g1.webp
+- assets/products/59378-g2.webp
+- assets/products/59378-g3.webp
+- assets/products/59378-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden-Onboarding für virtuelle Assistenzen – Vorlagen? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19

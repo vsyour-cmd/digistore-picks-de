@@ -89,6 +89,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Um dir die Angst vorm Einfädeln zu nehmen, siehst du Schritt für Schritt, wie eine Overlock eingefädelt wird. An schwierigen Stellen, kannst du das Video stoppen oder dir den Vorgang noch einmal, ansehen. Neben einem normalen Einfädel-Vorgang, lernst du auch die sogenannte Knotenmethode kennen. Mit dieser kannst du deine Ovi noch schneller und einfacher einfädeln.
+
+### 3c. Cautions
+
+> Wir nähen gemeinsam bis zu 22 Sticharten und wundervolle Techniken an der Ovi, die die meisten Overlock Besitzer niemals kennenlernen Neben allen wichtigen Basics nähen wir alle wichtigen Sticharten an der Overlock gemeinsam und du lernst Techniken kennen, die viele Overlock Besitzer niemals kennenlernen. Nach dem Kurs bist du ein absoluter Profi an deiner Overlock. Du kannst mit ihr säumen, kräuseln und Gummibänder annähen. Und das, ganz schnell und einfach.
+> Wir nähen wunderschöne Ziernähte mit Deko-Garn. Bezaubernde Effekte, wie das Kräuseln oder das Raffen sind auch mit dabei. Neben den wichtigen Grundtechniken und Sticharten, nähen wir gemeinsam wunderschöne Ziernähte und du lernst tolle techniken an deiner Overlock kennen, mit denen du wundervolle Effekte an deiner Kleidung kreieren kannst.
+> Nicole ist begeisterte Näherin und deine Tutorin im Kurs. Sie liebt das Nähen mit der Overlock Nähmaschine und ist begeistert, von den vielen Möglichkeiten, die eine Ovi bietet. Nicole ist es besonders wichtig, dass du das Nähen an deiner Ovi mit ganz viel Freude lernst und das volle Potenzial von deiner Maschine entdeckst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40710-g1.webp
+- assets/products/40710-g2.webp
+- assets/products/40710-g3.webp
+- assets/products/40710-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Nummer 1 Overlock Online Nähkurs Deutschlands? — Typ: Member area and video courses, Anbieter: creatory, gelistet seit 2019-10-25

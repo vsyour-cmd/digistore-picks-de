@@ -79,6 +79,15 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 90 Lerneinheiten, thematisch aufgebaut. Du startest bei null und arbeitest dich Schritt für Schritt in den norwegischen Alltag vor.
+
+### 3c. Cautions
+
+> Doch wirklich anzukommen beginnt dort, wo du die Menschen verstehst und selbst sagen kannst, was dir wichtig ist.
+> Für alle, die vor Reise oder Auswanderung schnell wichtige Alltagssituationen auf Norwegisch meistern möchten.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch? — Typ: Member area and video courses, Anbieter: norwegenkompass, gelistet seit 2026-10-02

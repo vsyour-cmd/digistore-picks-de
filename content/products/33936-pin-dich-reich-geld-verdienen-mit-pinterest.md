@@ -70,6 +70,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> 13 Die 10 wichtigsten Strategien um mit Pinterest erfolreich zu sein
+> 13 Die 10 wichtigsten Strategien um mit Pinterest erfolreich zu sein
+> 13 Die 10 wichtigsten Strategien um mit Pinterest erfolreich zu sein
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33936-g1.webp
+- assets/products/33936-g2.webp
+- assets/products/33936-g3.webp
+- assets/products/33936-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pin dich Reich - Geld verdienen mit Pinterest? — Typ: E-books, Anbieter: AnnikaRojasGonzalez, gelistet seit 2020-07-13

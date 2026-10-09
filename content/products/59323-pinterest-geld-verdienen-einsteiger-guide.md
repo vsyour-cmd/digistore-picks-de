@@ -68,6 +68,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dein Schritt-für-Schritt-Guide für den Einstieg in Pinterest und Affiliate Marketing – verständlich erklärt und ohne Vorkenntnisse umsetzbar.
+> Dein Schritt-für-Schritt-Guide für den Einstieg in Pinterest und Affiliate Marketing – verständlich erklärt und ohne Vorkenntnisse umsetzbar.
+> Dein Schritt-für-Schritt-Guide für den Einstieg in Pinterest und Affiliate Marketing – verständlich erklärt und ohne Vorkenntnisse umsetzbar.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59323-g1.webp
+- assets/products/59323-g2.webp
+- assets/products/59323-g3.webp
+- assets/products/59323-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Geld verdienen – Einsteiger-Guide? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-17

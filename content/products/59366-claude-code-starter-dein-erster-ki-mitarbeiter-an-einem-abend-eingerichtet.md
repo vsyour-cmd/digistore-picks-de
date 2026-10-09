@@ -79,6 +79,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 2 Jeder redet von Claude Code, aber alle Anleitungen sind für Entwickler. Terminal, Befehle, Fachwörter. Für einen Unternehmer sieht das nach zwei Wochenenden Einarbeitung aus, die Du nicht hast. Folge: Du schiebst es seit Monaten vor Dir her.
+> 3 Du weißt nicht, womit Du anfangen sollst. Zehn mögliche Anwendungsfälle, keiner davon zu Ende gedacht. Also bleibt am Montag alles beim Alten. Folge: viel gelesen, nichts gebaut.
+> Jede Lektion nennt Dein Ziel, den Handgriff und die Aufgabe, die Du danach machst. Kurs 1 und 2 sind Video für Video zum Mitmachen, Kurs 3 und 4 ausführliche Anleitungen mit Folien und fertigen Prompts.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59366-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet? — Typ: Member area and video courses, Anbieter: Mawarth, gelistet seit 2026-09-19

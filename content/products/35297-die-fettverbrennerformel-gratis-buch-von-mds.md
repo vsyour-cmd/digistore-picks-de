@@ -83,6 +83,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+
+### 3c. Cautions
+
+> Achtung: Nur für kurze Zeit verschenken wir unseren Bestseller :
+> Das Buch wird direkt nach deinem Kauf an dich versendet. Du erhältst eine E-Mail mit allen wichtigen Informationen.
+> Disclaimer: Alle Aussagen auf dieser Webseite geben die spezifischen Nutzererfahrungen der Anwender von machdichschlank.info wieder und müssen weder typisch sein, noch können die Resultate garantiert werden. Die Ergebnisse können von Person zu Person variieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35297-g1.webp
+- assets/products/35297-g2.webp
+- assets/products/35297-g3.webp
+- assets/products/35297-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Fettverbrennerformel Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2020-06-24

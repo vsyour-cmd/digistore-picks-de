@@ -72,6 +72,17 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Endlich eine klare, strukturierte Anleitung. Die täglichen Checklisten haben mir geholfen, dranzubleiben. Schon nach 2 Wochen habe ich eine deutliche Verbesserung bemerkt.“
+> Das Fresh Breath Master System™ ist ein digitales 30-Tage-Programm. Sie erhalten sofortigen Zugriff auf die interaktive App, den visuellen Leitfaden, tägliche Checklisten und Übungen. Jeden Tag führen Sie kleine, einfache Schritte durch, die Ihre Mundhygiene nachhaltig verbessern.
+> Ja, absolut! Das System ist speziell für Menschen entwickelt worden, die keine Vorkenntnisse haben. Alle Anleitungen sind leicht verständlich und bebildert. Sie werden Schritt für Schritt durch den gesamten Prozess geführt.
+
+### 3c. Cautions
+
+> Die 5 wichtigsten Mundpflege-Tools – Kaufempfehlungen für jedes Budget
+> „Als Vertriebler ist mein Atem ein wichtiges Werkzeug. Dieses System hat mir nicht nur frischen Atem gegeben, sondern auch meine allgemeine Mundgesundheit verbessert.“
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frischer Atem beginnt heute – Ihr kompletter 30-Tag? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-07-05

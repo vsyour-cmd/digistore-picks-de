@@ -70,6 +70,19 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Hinweis: Du benötigst einen kostenlosen Groq API-Key (Anleitung liegt bei) und ein kostenloses ChatGPT-Konto zum Ausführen der Prompts.
+> PDF-Anleitung: eigenen Groq API-Key einrichten (kostenlos, Schritt für Schritt)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57100-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Prompt-Generator für deutsche Selbstständige? — Typ: Remote service provided electronically, Anbieter: fantasticman36, gelistet seit 2026-06-22

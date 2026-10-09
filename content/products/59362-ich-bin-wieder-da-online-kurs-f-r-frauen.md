@@ -76,6 +76,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Was mit Ihnen selbst gerade ist, wird darüber dann immer wieder schnell zur Nebensache? In diesem Kurs geht es genau darum: sich selbst wieder mehr spüren, merken, was Sie selbst brauchen und es auch wichtig genug nehmen. Und wie Sie sich das, was Ihnen gut tut, geben können und in Ihr Leben einbauen — Schritt für Schritt, mitten im Alltag.
+
+### 3c. Cautions
+
+> Spüren - Wieder deutlich wahrnehmen, was Sie wirklich brauchen und was Ihnen für sich selbst wichtig ist.
+> Hinweis: Dieser Kurs ersetzt keine Therapie. Wenn Sie schwerwiegende Probleme haben oder Gewalt eine Rolle spielt oder Sie gerade in einer schweren Krise sind, holen Sie sich die passende professionelle Unterstützung dazu.
+> Diese Stärken verdienen tiefe Anerkennung und Respekt. Genauso wichtig ist mir aber auch, ehrlich zu benennen, was passiert, wenn man sich dabei selbst verliert - denn nur was benannt ist, kann man auch verändern.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59362-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich bin wieder da – Online-Kurs für Frauen? — Typ: Member area and video courses, Anbieter: beatelindemann, gelistet seit 2026-09-18

@@ -77,6 +77,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Politiker und Bürokraten unserer Eliten" ignorieren seit Jahrzehnten ökonomische Gesetze. Willst Du das auch? In den kommenden Jahren ist ein realistisches Wirtschaftsverständnis wichtiger denn je um angemessen auf neue Lagen reagieren zu können. Unser Kurs bietet Dir den Schlüssel dafür!
+> Politiker und Bürokraten unserer Eliten" ignorieren seit Jahrzehnten ökonomische Gesetze. Willst Du das auch? In den kommenden Jahren ist ein realistisches Wirtschaftsverständnis wichtiger denn je um angemessen auf neue Lagen reagieren zu können. Unser Kursbietet Dir den Schlüssel dafür!
+> Staatenlos Christoph Heuermann Staatenlos denken Team Interviews, Presse & Referenzen Bewertungen Kontakt Impressum Datenschutz Disclaimer
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39450-g1.webp
+- assets/products/39450-g3.webp
+- assets/products/39450-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Wirtschaft verstehen? — Typ: Downloads, Anbieter: Staatenlos, gelistet seit 2020-11-21

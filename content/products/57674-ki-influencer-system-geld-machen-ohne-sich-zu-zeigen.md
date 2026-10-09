@@ -68,6 +68,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Impressum Datenschutz AGB Hinweis: Dieser Kurs vermittelt Wissen und Methoden. Ergebnisse hängen von deiner Umsetzung ab. Einkommens- oder Erfolgsgarantien gibt es nicht. Genannte Beispiele (Lil Miquela, Aitana López) sind öffentlich dokumentierte Ausnahmefälle der Branche.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57674-g1.webp
+- assets/products/57674-g2.webp
+- assets/products/57674-g3.webp
+- assets/products/57674-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen? — Typ: Member area and video courses, Anbieter: ellai-llc, gelistet seit 2026-07-22

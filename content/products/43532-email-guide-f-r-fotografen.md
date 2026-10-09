@@ -76,6 +76,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Wir selbst fotografieren seit 10 Jahren Hochzeiten und haben die Vorlagen in dieser Zeit immer wieder getestet und zusammen mit Hilfe von Autoren weiterentwickelt. Da es wichtig ist, auf Kunden individuell einzugehen und deine Persönlichkeit mit einzubringen, bieten die Vorlagen dafür genug Raum.
+> Bewertungen sind wichtig für dein Ranking? Die Vorlagen helfen dir dabei, mehr davon zu bekommen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43532-g1.webp
+- assets/products/43532-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EMAIL GUIDE für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-06-19

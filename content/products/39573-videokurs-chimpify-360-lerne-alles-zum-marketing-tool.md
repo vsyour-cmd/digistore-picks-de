@@ -90,6 +90,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In diesem Kapitel sind die Funktionen und das Arbeiten in Chimpify an der Reihe. Wie funktioniert das System und wo legst du neue Seiten an, ist eine wichtige Frage. Mit diesem Verständnis zeige ich dir anhand einzelner Szenarien , wie du mit dem Chimpify Designer deine einzelnen Seiten in Chimpify baust.
+> Und Jan hat es in seinem Online-Kurs Chimpify 360° geschafft, all diese tollen Funktionen kurz und knackig zu vermitteln. Innerhalb von wenigen Stunden hab ich alles Wichtige verstanden und war schnell drin in der Bedienung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39573-g2.webp
+- assets/products/39573-g3.webp
+- assets/products/39573-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool? — Typ: Member area and video courses, Anbieter: janschulzesiebert, gelistet seit 2021-07-27

@@ -83,6 +83,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Premium-Zugang gibt dir jederzeit und überall Zugriff auf die wertvollen Ressourcen unserer Experten, die dir Schritt-für-Schritt zu deinem Ziel verhelfen. Egal wo du gerade stehst.
+> Du bekommst lebenslangen Zugriff zu mehr als 40 hochkarätigen Interviews mit weltweit anerkannten Experten . Schaue alle Interviews bequem zu Hause und setze danach Schritt für Schritt deine eigene Herangehensweise dank der verständlichen Anweisungen. Du hast etwas nicht ganz verstanden? Kein Problem, du kannst jederzeit die Interviews erneut schauen .
+> Die Erkenntnisse der Experten aus diesem Kongress sind leicht umsetzbar und werden dir helfen, sofort die richtigen Schritte für einzuleiten, sodass du in Zukunft auch Familie, Freunden und Bekannten helfen kannst.
+
+### 3c. Cautions
+
+> ZUSAMMENFASSUNG: Den ultimative Kongressguide mit den wichtigsten Fakten aller Interviews direkt zur Umsetzung
+> Also, wenn dir das Thema Autoimmunerkrankungen wirklich wichtig ist und du schnellstmöglich die effektivsten Methoden umsetzen willst. Wenn du Zeit und Mühe für Experimente sparen willst und stattdessen das tun willst WAS HEUTE WIRKT. Wenn du Zugriff auf alle kostbaren und exklusiven Boni und Spezialangebote haben willst.
+> Du willst die wichtigsten Fakten auf einen Blick? Gerade keine Zeit 40 Stunden Interviews zu sehen? Oder einfach als Unterstützung während du die Interviews schaust?
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/29814-g1.webp
+- assets/products/29814-g2.webp
+- assets/products/29814-g3.webp
+- assets/products/29814-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE AUTOIMMUNKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2019-04-11

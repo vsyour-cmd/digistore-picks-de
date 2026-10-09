@@ -87,6 +87,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Er begleitet dich Schritt für Schritt durch die wichtigsten Entscheidungen – von deiner persönlichen Lebensplanung über Standortwahl und Immobilienkauf bis zu Formalitäten und dem späteren Alltag in Ungarn.
+> Zusätzlich erhältst du das Workbook „Mein Ungarn-Plan“ . Damit kannst du die Informationen aus dem Guide auf deine persönliche Situation übertragen und deine nächsten Schritte strukturiert vorbereiten.
+> Aus der zunächst vielleicht noch allgemeinen Idee „Ich möchte nach Ungarn“ kann dadurch Schritt für Schritt ein konkreter persönlicher Plan entstehen.
+
+### 3c. Cautions
+
+> Genau deshalb habe ich die wichtigsten Themen in einem umfangreichen Praxis-Guide zusammengeführt.
+> Deshalb weist dich der Praxis-Guide bei wichtigen Themen darauf hin, welche Behörden, Versicherungsträger oder offiziellen Stellen für die weitere Klärung relevant sind und welche Angaben du vor einem konkreten Schritt noch einmal aktuell überprüfen solltest.
+> Das ist beispielsweise bei Aufenthaltsformalitäten, Krankenversicherung, Fahrzeugzulassung oder anderen behördlichen Fragen wichtig.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58391-g1.webp
+- assets/products/58391-g2.webp
+- assets/products/58391-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Ungarn – Praxis-Guide für Auswanderer? — Typ: E-books, Anbieter: elpalo, gelistet seit 2026-08-16

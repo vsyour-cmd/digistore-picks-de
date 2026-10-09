@@ -82,6 +82,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du wirst Dir zwangsläufig die Frage stellen, warum Du nicht schon viel früher die Weichen gestellt hast und so lange Deinen Gewinn teilen musstest. Doch wie eingangs erwähnt, ist es niemals zu spät und alles beginnt mit dem ersten Schritt und dem Wissen, das Du durch das Firmen-Lexikon vermittelt bekommst.
+> Du wirst Dir zwangsläufig die Frage stellen, warum Du nicht schon viel früher die Weichen gestellt hast und so lange Deinen Gewinn teilen musstest. Doch wie eingangs erwähnt, ist es niemals zu spät und alles beginnt mit dem ersten Schritt und dem Wissen, das Du durch das Firmen-Lexikon vermittelt bekommst.
+
+### 3c. Cautions
+
+> Staatenlos Christoph Heuermann Staatenlos denken Team Interviews, Presse & Referenzen Bewertungen Kontakt Impressum Datenschutz Disclaimer
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39448-g1.webp
+- assets/products/39448-g3.webp
+- assets/products/39448-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Firmen Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2019-10-04

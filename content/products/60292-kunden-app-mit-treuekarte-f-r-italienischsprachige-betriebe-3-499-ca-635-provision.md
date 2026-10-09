@@ -22,7 +22,7 @@ language: "de"
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
 > Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../produkte/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -57,15 +57,14 @@ language: "de"
 - **Headline (H1):**
   > App per i tuoi clienti
 - **Section headlines (H2):**
-  - Cosa compri .
-  - Cosa succede dopo .
-- **Price mentions on page:** $14, $22
+  - Cosa compri.
+  - Cosa succede dopo.
 - **Opening copy (first paragraphs):**
-  > App App per i tuoi clienti La tua app sul telefono del cliente: tessera punti, offerte e un avviso che lo fa tornare.
+  > Schermata di esempio: nomi e numeri sono di fantasia.AppApp per i tuoi clientiLa tua app sul telefono del cliente: tessera punti, offerte e un avviso che lo fa tornare.3.499 €Più IVA. Pagamento unico.App con il tuo marchioTessera puntiOfferte riservate a chi ha l’appAvvisi sul telefono del clienteOrdina adessoSi apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.Mandare un avviso non costa: niente pubblicità da pagareUn referente solo, dall’inizio alla consegna
+  > AppApp per i tuoi clientiLa tua app sul telefono del cliente: tessera punti, offerte e un avviso che lo fa tornare.3.499 €Più IVA. Pagamento unico.App con il tuo marchioTessera puntiOfferte riservate a chi ha l’appAvvisi sul telefono del clienteOrdina adessoSi apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.Mandare un avviso non costa: niente pubblicità da pagareUn referente solo, dall’inizio alla consegna
   > Si apre il modulo d’ordine sicuro di Digistore24, che incassa il pagamento ed emette la fattura. Il lavoro lo fa DirezioneX.
-  > Paghi sul modulo sicuro di Digistore24. 2 Fissiamo la videochiamata Dopo il pagamento ti scriviamo per scegliere giorno e ora.
-  > La direzione giusta per il tuo business. Siti web, ecommerce, advertising e software per aziende che vogliono crescere.
-- **Page word count:** 286
+  > Cosa compri.TelefoniiOS e AndroidMarchioL’app porta il tuo nome e i tuoi coloriTessera puntiIl cliente la tiene nell’appOfferteRiservate a chi ha l’appAvvisiScrivi l’offerta e arriva sul telefono di chi ha l’appPer chi èBar, negozi, saloni: chi ha clienti che tornano
+- **Page word count:** 339
 - **OG image:** https://www.direzionex.com/og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

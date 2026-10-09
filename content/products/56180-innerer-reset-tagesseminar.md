@@ -71,6 +71,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dein Schritt in Richtung mentale Klarheit und neue Energie. Mit diesem Ticket sicherst du dir deinen Platz für den Live-Tag in Tarrenz (bei Imst in Tirol).
+> Dein Schritt in Richtung mentale Klarheit und neue Energie. Mit diesem Ticket sicherst du dir deinen Platz für den Live-Tag in Tarrenz (bei Imst in Tirol).
+> Dein Schritt in Richtung mentale Klarheit und neue Energie. Mit diesem Ticket sicherst du dir deinen Platz für den Live-Tag in Tarrenz (bei Imst in Tirol).
+
+### 3c. Cautions
+
+> Rechtlicher Hinweis: Dieses Seminar dient der persönlichen Entwicklung und der Aktivierung körpereigener Ressourcen. Es ersetzt keine medizinische oder therapeutische Behandlung.
+> Im oft hektischen Alltag vergessen wir schnell das Wichtigste: uns selbst. Gönn dir deine wohlverdiente Auszeit und lade deine inneren Akkus wieder auf.
+> Rechtlicher Hinweis: Dieses Seminar dient der persönlichen Entwicklung und der Aktivierung körpereigener Ressourcen. Es ersetzt keine medizinische oder therapeutische Behandlung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56180-g1.webp
+- assets/products/56180-g2.webp
+- assets/products/56180-g3.webp
+- assets/products/56180-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innerer Reset - Tagesseminar? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2025-12-01

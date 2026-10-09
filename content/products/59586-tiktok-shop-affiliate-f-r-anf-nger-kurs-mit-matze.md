@@ -69,6 +69,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du möchtest tiktok shop affiliate für anfänger praktisch angehen? In diesem Selbstlernkurs führt Matze dich von einer konkreten Aufgabe bis zu einem eigenen prüfbaren Ergebnis. Jede der sechs Lektionen erklärt einen Schritt, zeigt ein Beispiel und nennt eine Aufgabe sowie ein Kriterium zur Selbstkontrolle. Der durchgehende Musterfall mit Mara veranschaulicht die Methode; du trägst deine eigenen Beobachtungen in die Arbeitsmappe ein.
+> Für wen: Anfängerinnen und Anfänger, die ein eigenes kleines Projekt bearbeiten möchten. Du solltest bereit sein, die Schritte selbst umzusetzen und externe Regeln für deinen Markt zu prüfen.
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+
+### 3c. Cautions
+
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59586-g1.webp
+- assets/products/59586-g2.webp
+- assets/products/59586-g3.webp
+- assets/products/59586-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TikTok Shop Affiliate für Anfänger – Kurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23

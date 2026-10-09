@@ -82,6 +82,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Professionelles E-Mail-Marketing ist ein Muss für jeden Shopbetreiber, um im Kopf seiner Kunden zu bleiben. Wer kennt das nicht? Man kauft etwas und nach einiger Zeit hat man vergessen wo dies war. Hinweise zum Produkt, Erinnerungen oder Sonderaktionen halten die Erinnerung wach und machen aus Kunden im Laufe der Zeit Fans vollautomatisiert und zu geringen Kosten.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/16263-g1.webp
+- assets/products/16263-g2.webp
+- assets/products/16263-g3.webp
+- assets/products/16263-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KT Connector / Kundendaten nach KlickTipp übertragen? — Typ: Remote service provided electronically, Anbieter: rabatt, gelistet seit 2021-06-17

@@ -81,6 +81,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Tag 1 Der Reset-Knopf Sofort aus dem Stressmodus kommen. Manchmal braucht es keinen ganzen Tag – nur einen bewussten Moment. Dieses Modul führt dich Schritt für Schritt aus der Anspannung zurück in deine Mitte.
+
+### 3c. Cautions
+
+> Der Kurs ist eine Alltagshilfe zur Entspannung und ersetzt keine ärztliche oder psychotherapeutische Behandlung. Hinweis zur Darstellung: Alle visuellen Darstellungen dienen der Veranschaulichung der Kursinhalte und zeigen nicht zwingend reale Kundinnen, Kunden oder Teilnehmende.
+> Callidus Lab Wallet Valus Krypto verstehen Krypto-Hinweis Litepaper
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58885-g1.webp
+- assets/products/58885-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag? — Typ: Member area and video courses, Anbieter: callidus, gelistet seit 2026-09-02

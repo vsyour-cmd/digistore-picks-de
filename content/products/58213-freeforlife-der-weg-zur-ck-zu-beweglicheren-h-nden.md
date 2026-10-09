@@ -87,6 +87,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> FREEFORLIFE START zeigt dir einen klaren Weg, deinen Körper besser zu verstehen und Schritt für Schritt wieder Vertrauen in deine Bewegung zu gewinnen.
+> Gib deinem Körper wieder das, wofür er gemacht ist: Bewegung. Mit einfachen Übungen und praktischen Anwendungen lernst du Möglichkeiten kennen, Hände, Arme und den gesamten Körper bewusster zu mobilisieren.
+> „Meine Hände und Muskeln wurden nach und nach wieder kräftiger. Ich führte die Übungen täglich und behutsam durch. Die gesamte Anleitung war für mich sehr hilfreich und ich empfehle diesen Weg gerne weiter.“ Margot
+
+### 3c. Cautions
+
+> 🧭 Ein neues Verständnis für deinen Körper Der vielleicht wichtigste Teil: FREEFORLIFE START verbindet die praktischen Übungen mit dem Bewusstsein dafür, wie du mit deinem Körper, deinen Beschwerden und Veränderung umgehst.
+> Viele Übungen lassen sich an die eigenen Möglichkeiten anpassen. Im Buch findest du auch Hinweise für Menschen, die beispielsweise nicht knien können und Übungen stattdessen im Stehen an einem geeigneten Tisch oder einer erhöhten Unterlage durchführen möchten.
+> Hände kribbeln Mögliche Zusammenhänge und was du beobachten kannst. → Hände schlafen ein Warum Hände besonders nachts einschlafen können. → Taube Hände Taubheitsgefühle verstehen und besser einordnen. → Kribbeln in den Fingern Welche Finger betroffen sind, kann wichtige Hinweise geben. → Karpaltunnelsyndrom Symptome Typische Anzeichen und Beschwerdemuster kennenlernen. → Karpaltunnelsyndrom Übungen Bewegungsprinzipien und Übungen für Hände und Handgelenke. →
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58213-g1.webp
+- assets/products/58213-g2.webp
+- assets/products/58213-g3.webp
+- assets/products/58213-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FREEFORLIFE – Der Weg zurück zu beweglicheren Händen? — Typ: Downloads, Anbieter: Bewusstseins-Training, gelistet seit 2026-08-07

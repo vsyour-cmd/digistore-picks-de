@@ -85,6 +85,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Kein Training ohne Warm-Up! Damit Du optimal aufgewärmt in Deine Trainingseinheiten starten kannst, wärmst Du die Muskeln mit verschiedenen Warm-Up Programmen vor. So verbrennst Du bereits vor dem eigentlichen Training die ersten Kalorien und kurbelst Deinen Stoffwechsel an. Wichtig für einen optimalen Trainingserfolg.
+> Ja! Alle Übungen und Kursinhalte sind so konzipiert, dass sie sowohl nach einer spontanen Entbindung, als auch nach einem Kaiserschnitt geeignet sind. Und ja: Auch mit einer Rektusdiastase – schließlich ist diese ja einer Gründe, warum die Rückbildung für Dich so wichtig ist!
+> Bestandteil des Schnupperkurses ist außerdem mein regelmäßiger E-Mail-Service mit wertvollen Infos sowie über aktuelle Angebote. Du kannst Dich jederzeit wieder abmelden, wenn Dir die Inhalte nicht gefallen. Hinweise zum Datenschutz und Datennutzung
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/19947-g1.webp
+- assets/products/19947-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückbildungskurs Online von Hebamme Nadine Beermann? — Typ: Member area and video courses, Anbieter: beermann, gelistet seit 2017-07-25

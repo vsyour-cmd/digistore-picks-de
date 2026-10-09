@@ -80,6 +80,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> KI bereitet vor oder erledigt einen klar begrenzten Schritt. Du gibst Freigabe.
+> Beobachten → kleine Freigabe erteilen → Grenzen definieren → prüfen, was funktioniert. Kleine kontrollierte Schritte statt blinder Vollautomatisierung.
+
+### 3c. Cautions
+
+> CONTROL ist kein klassischer KI-Kurs. Es geht um die wichtigere Frage: Was darf deine KI für dich tun — und wo muss sie dich fragen?
+> Privatperson in Deutschland bist (ca. 30–50), KI bereits regelmäßig nutzt, digitale Tools selbstverständlich verwendest und künftig mehr an KI-Agenten abgeben möchtest — ohne Kontrolle über Geld, Daten, Verträge, Kommunikation und wichtige Entscheidungen zu verlieren.
+> FÄHIGKEIT ≠ BERECHTIGUNG Je näher KI an echter Handlung ist, desto wichtiger werden klare Grenzen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59372-g1.webp
+- assets/products/59372-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-19

@@ -82,6 +82,24 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dein täglicher Schritt-für-Schritt-Plan für den ersten rauchfreien Monat – mit Tag 0 zur Vorbereitung , 30 Tageskapiteln, persönlichem Workbook, Fortschrittstracker, Challenge-Notfallkarte und Bonusplan bis Tag 90.
+> 30 Tage. 30 klare Schritte. Jeden Tag ein konkreter nächster Rauchfrei-Schritt.
+> Sieben kurze Schritte für akute Rauchverlangen-Momente – als Bestandteil der Challenge, in Druck- und Smartphone-Fassung.
+
+### 3c. Cautions
+
+> Halte Rauchverlangen, Stimmung, Tagesstatus und deine wichtigsten Erfolge kompakt fest.
+> Halte deinen Starttermin, deine wichtigsten Gründe, deine Unterstützung und deinen ersten Sicherheitsplan schriftlich fest.
+> Du führst deine wichtigsten Gründe, Auslöser, Strategien, Warnzeichen und Kontakte in deinem persönlichen Rauchfrei-Kompass zusammen. Anschließend bereitest du deinen nächsten Abschnitt bis Tag 90 vor.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58240-g1.webp
+- assets/products/58240-g2.webp
+- assets/products/58240-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09

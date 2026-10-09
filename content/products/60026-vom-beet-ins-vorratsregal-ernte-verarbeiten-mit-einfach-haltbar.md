@@ -74,6 +74,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dörren Alle Anleitungen → Zum Einstieg Dörren für Anfänger ↗ Passend zur Saison Äpfel dörren ↗ Birnen dörren ↗ Karotten dörren ↗ Pilze dörren ↗ Rote Bete dörren ↗
+> Fermentieren Alle Anleitungen → Zum Einstieg Fermentieren für Anfänger ↗ Passend zur Saison Chili fermentieren ↗ Karotten fermentieren ↗ Kürbis fermentieren ↗ Rotkohl fermentieren ↗ Sauerkraut selber machen ↗
+> Einkochen Alle Anleitungen → Zum Einstieg Einkochen für Anfänger ↗ Passend zur Saison Apfelmus einkochen ↗ Birnen einkochen ↗ Kürbis einkochen ↗ Quitten einkochen ↗ Quittengelee ↗
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60026-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-29

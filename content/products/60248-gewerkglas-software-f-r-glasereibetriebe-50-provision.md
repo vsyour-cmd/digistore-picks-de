@@ -71,6 +71,18 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Auf jeder Programmseite findest du die Arbeitsbereiche, den Ablauf, Hinweise zur Einrichtung und die jeweiligen Preise.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60248-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GewerKGlas – Software für Glasereibetriebe | 50 % Provision? — Typ: Software, Anbieter: Gewerkflow, gelistet seit 2026-10-06

@@ -82,6 +82,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du lernst, ChatGPT gezielt für konkrete HR-Aufgaben einzusetzen – mit klaren Prompt-Strukturen, praxisnahen Anwendungsbeispielen und einem sicheren Rahmen für Datenschutz und Verantwortung.
+> In sieben klar aufgebauten Modulen lernst du Schritt für Schritt, wie du ChatGPT und KI sinnvoll, sicher und praxisnah in deiner HR-Arbeit einsetzt.
+> Modul 4: Das ACTION-Prinzip Dein Bauplan für präzise Aufgabenstellungen und anspruchsvollere HR-Anwendungen.
+
+### 3c. Cautions
+
+> Hinweis: Der Kurs vermittelt Grundlagen für einen kompetenten und verantwortungsvollen KI-Einsatz im HR und kann ein Baustein der betrieblichen Weiterbildung sein.
+> Der Kurs war sehr hilfreich und hat mir wichtige Denkanstöße für Recruiting, Onboarding und Personalentwicklung gegeben. Besonders wertvoll fand ich die verständliche Erklärung, wie KI verantwortungsvoll eingesetzt werden kann, ohne Datenschutz und menschliche Entscheidungen aus dem Blick zu verlieren.
+> Hier findest du die wichtigsten Informationen zu Inhalten, Zugang und Buchung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54121-g1.webp
+- assets/products/54121-g2.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI im HR – Zukunft gestalten Strategien, Prompts und Praxis? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2025-09-17

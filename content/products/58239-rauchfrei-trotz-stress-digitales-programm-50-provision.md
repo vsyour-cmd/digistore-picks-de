@@ -81,6 +81,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das Produkt arbeitet nicht mit Angstmarketing, erfundenen Erfolgsgarantien oder übertriebenen Versprechen. Es unterstützt dich dabei, deine eigenen Muster besser zu verstehen und konkrete nächste Schritte vorzubereiten.
+
+### 3c. Cautions
+
+> Untersuche deine wichtigsten Auslöser und die Funktion deiner Stresszigaretten.
+> Du wirst zum sicheren Digistore24-Bestellformular weitergeleitet. Dort siehst du vor Abschluss der Bestellung noch einmal den vollständigen Preis, die Zahlungsart sowie die für deinen Kauf geltenden Hinweise zu Auslieferung, Widerruf und Rückgabe. Die Abbuchung erfolgt durch Digistore24.
+> Ist das Programm auch geeignet, wenn ich noch rauche? Ja. Du kannst das Programm bereits vor deinem Rauchstopp nutzen, um deine wichtigsten Stressauslöser, Pausen und Hochrisikosituationen vorzubereiten.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58239-g1.webp
+- assets/products/58239-g2.webp
+- assets/products/58239-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei trotz Stress – digitales Programm + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09

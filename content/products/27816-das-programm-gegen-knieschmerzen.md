@@ -84,6 +84,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Im ersten Block arbeiten wir an der Beweglichkeit. Die Arbeit beginnt mit der Foam Roll um Verspannungen zu lösen und Rezeptoren zu aktivieren. Das ist deshalb wichtig, damit das Knie optimal mit Informationen versorgt wird. Anschließend verbessern wir die Mobilität der Zehen, der Sprunggelenke und der Hüfte. Dadurch kann sich das Knie seiner eigentlichen Aufgabe, der Stabilität widmen, und muss nicht die fehlende Mobilität anderer Gelenke kompensieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/27816-g1.webp
+- assets/products/27816-g2.webp
+- assets/products/27816-g3.webp
+- assets/products/27816-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Programm gegen Knieschmerzen? — Typ: Downloads, Anbieter: bodyLIFE, gelistet seit 2018-10-17

@@ -75,6 +75,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Warum wird die Anwendung über den Microsoft Store installiert? Der Microsoft Store übernimmt die sichere Installation und Bereitstellung von Programmaktualisierungen. Die SoftPac-Nutzungslizenz erwerben Sie separat über Digistore24.
+> Kann ich meine Daten sichern? Ja. Die Anwendung enthält Funktionen für eine vollständige Datensicherung sowie zur Prüfung und Wiederherstellung von Sicherungen.
+> Wo bekomme ich Hilfe? Ein ausführliches deutschsprachiges Benutzerhandbuch ist direkt in die Anwendung integriert. Zusätzlich steht der SoftPac-Support zur Verfügung.
+
+### 3c. Cautions
+
+> Die wichtigsten Antworten zu Kauf, Installation und Datenhaltung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58663-g1.webp
+- assets/products/58663-g3.webp
+- assets/products/58663-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal? — Typ: Software, Anbieter: dejo777, gelistet seit 2026-08-25

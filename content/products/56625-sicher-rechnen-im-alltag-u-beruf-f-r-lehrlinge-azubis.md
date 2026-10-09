@@ -74,6 +74,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verstehe Rechnen Schritt für Schritt — für Berufsschule, Ausbildung und Alltag.
+> In diesem Kurs-Bundle lernst du die wichtigsten Grundlagen der Mathematik für Ausbildung, Beruf und Alltag. Verständlich erklärt, Schritt für Schritt aufgebaut und mit vielen praktischen Beispielen.
+> Anwendungen in Flächen-, Volumen- und technischen Berechnungen
+
+### 3c. Cautions
+
+> Du wiederholst und stärkst die wichtigsten Rechengrundlagen, damit du in der Berufsschule, im Betrieb und im Alltag sicherer wirst.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicher Rechnen im Alltag u. Beruf für Lehrlinge/Azubis? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-05-20

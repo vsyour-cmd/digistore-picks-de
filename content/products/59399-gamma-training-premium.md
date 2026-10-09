@@ -14,7 +14,7 @@ categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "medium"
+research_quality: "rich"
 promo_link: "https://lebenimsein-institut.at/gamma-training.html?aff=adminstore#aff=adminstore"
 sales_page: "https://lebenimsein-institut.at/gamma-training.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Gamma-Training Premium
 
 > Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../produkte/gamma-training-premium-59399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -57,13 +57,13 @@ language: "de"
   - Welcher Weg passt zu dir?
   - Wichtiger Hinweis
 - **Opening copy (first paragraphs):**
+  > WelcomeManifestForschung & Training33 ImpulskartenBrain ExperimentsNeurobiologie von BeziehungenNeuronale WechselfähigkeitPerpektivwechselGamma-TrainingBlogWas sind Gamma-Gehirnwellen?Der neuro-mentale SchalterGehirnwäsche-glympathisches SystemPersepektivwechsel über das NervensystemÜber unsKontakt
   > Stell dir vor, du könntest deinen Fokus, deine Gelassenheit und deine Wahrnehmung genau dann umschalten, wenn du es brauchst: In stressigen Meetings, bei wichtigen Entscheidungen oder mitten im turbulenten Alltag.
   > Bei meiner Arbeit geht es nicht um stundenlange Meditation oder den Rückzug aus der Welt. Im Gegenteil: Wir trainieren dort, wo das Leben tatsächlich stattfindet. Beim Karottenschälen, beim Spaziergang mit dem Hund, in schwierigen Gesprächen und bei beruflichen Herausforderungen. ***
   > Unser Gehirn läuft meist im gewohnten Beta-Modus – geprägt von alten Denkmustern, Bewertungen und unbewussten Automatismen.
-  > Den Gamma-Schalter bedienen: Wie du bewusst in einen Zustand hoher mentaler Vernetzung und Klarheit umschaltest.
 - **Questions the sales page answers:**
   - Welcher Weg passt zu dir?
-- **Page word count:** 592
+- **Page word count:** 558
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

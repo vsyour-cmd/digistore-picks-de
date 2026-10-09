@@ -77,6 +77,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sicherheitsratgeber bleiben oft abstrakt. Diese vier Lagen sind im Buch als konkreter Ablauf beschrieben – Schritt für Schritt, in der Reihenfolge, in der du sie brauchst.
+> Bonus 3 – Notfallkarte (PDF): Die Krypto-Notfallplan-Vorlage zum Ausfüllen. Vier Ernstfall-Szenarien – Wallet-Verlust, Brand oder Katastrophe, Todesfall sowie Einbruch oder Zwang – mit je drei klaren Schritten. Druckbar für Schließfach, Tresor oder Geldbörse.
+> Zum Schluss die Notfallkarte: Bonus 3 ausdrucken und dorthin legen, wo sie im Ernstfall gefunden wird. Dieser Schritt wird leicht aufgeschoben.
+
+### 3c. Cautions
+
+> Kurz beantwortet: Krypto-Vermögen schützen bedeutet, private Schlüssel und Seed-Phrase offline abzusichern, Wiederherstellungen zu testen, Gerät und Backup sinnvoll zu trennen und Phishing, Kontozugänge sowie den Notfall- und Nachlassfall mitzudenken. Eine Hardware-Wallet ist dabei ein wichtiger Baustein – aber kein vollständiges Sicherheitskonzept.
+> Aufbauphase: Ein zweites Backup an einem anderen, unabhängig gegen Diebstahl und Umweltschäden geschützten Ort, ein sicher durchgeführter Wiederherstellungstest und eine erste schriftliche Notfallregelung. Ab hier wird die Frage wichtig, was passiert, wenn dir etwas zustößt.
+> Bonus 2 – HNWI-Sicherheits-Masterplan (PDF): Die wichtigsten Sicherheits-Prinzipien kompakt auf einer Seite – von Eigentum und Multisig über Backups, KI-Risiken und Reise-Disziplin bis Erbschaft und der 24-Stunden-Regel. Zum Ausdrucken, Falten und Mitnehmen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56875-g1.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krypto sicher aufbewahren — 50 % Provision? — Typ: E-books, Anbieter: germany4951, gelistet seit 2026-06-12

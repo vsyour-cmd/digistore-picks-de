@@ -79,6 +79,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> „ In 60 Tagen habe ich über LinkedIn mehr qualifizierte Erstgespräche geführt als im gesamten Vorjahr über klassische Kaltakquise. “ Stefan W. · IT-Consultant Häufige Fragen
+> Hinweis: Einige Links sind Affiliate-Links. Kaufst du darüber, erhalten wir ggf. eine kleine Provision – für dich ohne Mehrkosten. Wir empfehlen nur, was wir selbst gut finden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56912-g1.webp
+- assets/products/56912-g2.webp
+- assets/products/56912-g3.webp
+- assets/products/56912-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über LinkedIn? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15

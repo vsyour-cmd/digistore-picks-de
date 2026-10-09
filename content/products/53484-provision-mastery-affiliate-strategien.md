@@ -75,6 +75,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Provision Mastery – Dein nächster Schritt Provision Mastery Ein Projekt von Stephan Tiegel
+> Dein nächster Schritt im Affiliate-System Mach aus deinem Affiliate-System den nächsten Schritt .
+> Kooperationen und E-Mail-Tausch als Weg zu zusätzlicher Reichweite. Anwendung: du erreichst neue Kontakte, ohne von einer einzigen Quelle abhängig zu sein.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53484-g1.webp
+- assets/products/53484-g2.webp
+- assets/products/53484-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Provision Mastery – Affiliate Strategien? — Typ: Downloads, Anbieter: Challenge24ST, gelistet seit 2025-08-12

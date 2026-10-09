@@ -77,6 +77,20 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich nehme dich Schritt für Schritt an die Hand so, dass du sicher im Umgang mit jeder einzelnen Bachblüte bist und sie richtig einsetzen kannst.
+
+### 3c. Cautions
+
+> Liebe Andrea, auf diesen Online Kurs habe ich schon lange gewartet. Danke, dass du die Bachblüten sowie deren umfangreiche Einsatzmöglichkeiten im Selbstlernkurs zur Verfügung stellst. Die Fallbeispiele haben mir persönlich sehr weitergeholfen. Besonders interessant fand ich, wie wichtig es ist die "richtige" Blüte für mein Tier herauszufinden und wie ich das mache. Ich habe viel dazugelernt und freue ich jetzt auf den erfolgreichen Einsatz der Bachblüten.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37405-g1.webp
+- assets/products/37405-g2.webp
+- assets/products/37405-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bachblüten für Tiere Online Kurs? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-11-28

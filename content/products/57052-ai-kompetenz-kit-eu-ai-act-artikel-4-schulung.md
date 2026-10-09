@@ -76,6 +76,14 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Welche KI-Anwendungen zulässig sind und wo harte Grenzen gelten.
+
+### 3c. Cautions
+
+> Darf ich KI-Tools nutzen, ohne die DSGVO zu verletzen? + Modul 4 behandelt genau diese Frage. Die Doku-Vorlagen zeigen, welche Hinweise ihr intern dokumentieren und welche Prozesse ihr einhalten müsst.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung? — Typ: Member area and video courses, Anbieter: svenpetercontacteb58, gelistet seit 2026-06-18

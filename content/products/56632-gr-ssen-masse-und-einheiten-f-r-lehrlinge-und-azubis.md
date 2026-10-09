@@ -75,6 +75,16 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verstehe Masse und Einheiten Schritt für Schritt — für Berufsschule, Ausbildung und Alltag.
+> In diesem Kurs-Bundle lernst du Schritt für Schritt, wie du mit Längen, Flächen, Volumen, Gewichten, Zeiten und technischen Einheiten sicher arbeitest – verständlich erklärt und praxisnah aufgebaut.
+> Du lernst, Einheiten systematisch und sicher umzurechnen – Schritt für Schritt und verständlich erklärt.
+
+### 3c. Cautions
+
+> Du lernst die wichtigsten Grössen im metrischen System kennen und verstehst, wie Längen, Flächen und Volumen zusammenhängen.
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grössen, Masse und Einheiten für Lehrlinge und Azubis? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-05-20

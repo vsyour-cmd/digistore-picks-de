@@ -14,7 +14,7 @@ categories: ["Services"]
 listed_since: "2023-05-27"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "rich"
 promo_link: "https://hoerbuchsprecher-werden.onepage.me/?aff=adminstore#aff=adminstore"
 sales_page: "https://hoerbuchsprecher-werden.onepage.me/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Hörbuchsprecher Ausbildung
 
 > Product ID `31569` · Digistore24 productId `500683` · [HTML profile page](../../produkte/h-rbuchsprecher-ausbildung-31569.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,28 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Hörbuchsprecher werden Hörbuchsprecher Ausbildung | Hörbuchsprecher Onlinekurs von Christian Gera Hörbuchsprecher Titan
+- **OG title:** Hörbuchsprecher werden Hörbuchsprecher Ausbildung
+- **Meta description:** Hörbuchsprecher werden mit Christian Gera und dem Hörbuchsprecher Titan. Hörbuchsprecher werden für nur 1 Tasse Kaffee pro Tag via Onlinekurs hier.
+- **Headline (H1):**
+  > Erwecke Bücher zum Leben & verdiene als Quereinsteiger mit DEINER STIMME! (trotz KI!)
+- **Section headlines (H2):**
+  - Unsere Hörbuchsprecher Ausbildung - Deine Lösung !
+  - So geht mit Deiner Stimme Geld verdienen: Von zu Hause aus - komplett frei!!
+  - Christian Gera
+- **CTA button texts:** "Jetzt für 1 Tasse Kaffe pro TagANGEBOT SICHERN"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/500683/
+  - https://www.digistore24.com/product/500683/?voucher=SOMMER25
+  - https://www.digistore24.com/product/500683
+  - https://www.digistore24.com/product/500683/?
+- **Opening copy (first paragraphs):**
+  > ⚡️ HERBST -Aktion MIT 50 % Rabatt gestartet!Erwecke Bücher zum Leben & verdiene als Quereinsteiger mit DEINER STIMME! (trotz KI!) Kurze Zeit: Herbstaktion mit 50% Rabatt ! (TITAN26) Bücher Einsprechen bleibt Goldgräber‒Stimmung ! Angebot noch 00Tage01Stunden51Minuten40SekundenJetzt für 1 Tasse Kaffe pro TagANGEBOT SICHERN Jetzt für 1 Tasse Kaffe pro TagANGEBOT SICHERN 4,6/5 von über 516 Studenten
+  > Kurze Zeit: Herbstaktion mit 50% Rabatt ! (TITAN26) Bücher Einsprechen bleibt Goldgräber‒Stimmung ! Angebot noch
+  > Sofortiger ZugriffAuf den größten Hörbuchsprecher werden Selbstlernkurs mit über 200 Videos, die Dich Schritt für Schritt zum Ziel bringen.Immer aktuellDer 1ste Hörbuchsprecher werden Onlinekurs, der mit der Zeit immer wieder aktualisiert wird & keine Angst vor KI hat. Geld sparenInvestiere lieber alleine in Dich, Deinen Lernerfolg und Dein Equipment - denn hier wird Dein Geldbeutel geschont.CommunityInklusive einzigartiger Community plus Fachbuch plus 20 Jahre Expertise von der Du profitieren wirst.
+  > Sofortiger ZugriffAuf den größten Hörbuchsprecher werden Selbstlernkurs mit über 200 Videos, die Dich Schritt für Schritt zum Ziel bringen.
+- **Page word count:** 1558
+- **OG image:** https://onecdn.io/cdn-cgi/image/width=1200,height=600,fit=contain/media/0585d999-ad41-46a6-b6f6-2db26fbe7f60/lg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -78,6 +78,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Willst du den Schritt in die Selbständigkeit wagen? Hast du auch vor, dein eigenes Ding zu machen? Willst du mit deiner Idee und deinem Projekt so richtig durchstarten? Dann haben wir hier etwas für dich. Das Taschenbuch für Gründer ist genau das, was du für einen erfolgreichen Start und die ersten Schritte zum eigenen Business brauchst.
+
+### 3c. Cautions
+
+> Die Finanzierung Wichtige finanzielle Mittel beschaffen, um notwendige Investitionen zu tätigen.
+> Analyse & Buchhaltung im Griff Die wichtigsten Kennzahlen für dein Business, um wirklich erfolgreich zu werden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/32176-g1.webp
+- assets/products/32176-g2.webp
+- assets/products/32176-g3.webp
+- assets/products/32176-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Das Taschenbuch für Gründer - zu verschenken? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2020-02-24

@@ -22,7 +22,7 @@ language: "de"
 # Wolkenweich Online-Begleitung
 
 > Product ID `49813` · Digistore24 productId `552961` · [HTML profile page](../../produkte/wolkenweich-online-begleitung-49813.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -53,7 +53,7 @@ language: "de"
 
 - **Page title:** Kontaktformular 1:1 Begleitung
 - **Final URL after redirects:** https://jennifersubke.de/?tripetto=886e2754ee90b417fd2a909d11c8471c7a1bb5635b02a8e73fd68bbfdcde0c9e
-- **Page word count:** 37
+- **Page word count:** 0
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

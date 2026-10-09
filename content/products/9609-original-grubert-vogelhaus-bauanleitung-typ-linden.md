@@ -74,6 +74,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich kann mich schon lange nicht mehr erinnern, dass ich auf etwas so stolz war wie auf das Vogelhaus das ich im Herbst 2015 selbst gebaut habe. Unter der Anleitung von meinem Vater habe ich das Vogelhaus Typ Linden selbst gebaut ! Nachdem immer wieder Kunden bei uns angefragt haben, ob wir auch eine Anleitung zum Selbstbau unserer Vogelhäuschen haben, habe ich mit gedacht: Ich erarbeite ein Anleitung zum Vogelhaus bauen !
+> Selbst ich als absoluter Anti Handwerker habe es geschafft ein schönes Vogelhaus zu bauen. Selbst wenn Sie handwerklich nur minimal begabt sind wie ich, schaffen Sie es mit meiner Anleitung das Vogelhaus zu bauen!
+> In einer detaillierten Videoanleitung, zeige ich Ihnen Schritt für Schritt wie Sie das Modell Linden bauen. Sie bauen Ihr eigenes Vogelhaus Typ Linden. Ein Bayerisches Bauernhaus in Blockhaus Konstruktion. Sie bekommen in den Anleitungs-Videos aus 2 Kameraperspektiven alles genau gezeigt! Ich habe bei der Erstellung der Vogelhaus Bauen Anleitung extra darauf geachtet, dass alle Details auf den Videos zu erkennen sind!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/9609-g1.webp
+- assets/products/9609-g2.webp
+- assets/products/9609-g3.webp
+- assets/products/9609-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Original Grubert Vogelhaus Bauanleitung Typ "Linden"? — Typ: Member area and video courses, Anbieter: spike76, gelistet seit 2015-11-04

@@ -79,6 +79,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Server-Abos einrichten und als wiederkehrende Einnahmequelle nutzen
+> 06 Server-Abos & Monetarisierung: Einnahmen direkt über Discord
+> „ Drei Wochen nach dem Launch meines Discord-Servers hatte ich die ersten Server-Abo-Einnahmen – komplett automatisiert. “ Sandra L. · Business-Coach Häufige Fragen
+
+### 3c. Cautions
+
+> Hinweis: Einige Links sind Affiliate-Links. Kaufst du darüber, erhalten wir ggf. eine kleine Provision – für dich ohne Mehrkosten. Wir empfehlen nur, was wir selbst gut finden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56983-g1.webp
+- assets/products/56983-g2.webp
+- assets/products/56983-g3.webp
+- assets/products/56983-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Discord? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16

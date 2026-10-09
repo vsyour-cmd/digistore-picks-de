@@ -70,6 +70,25 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im medizinischen Praxisumfeld
+> Das Starter-Kit ist als digitale Arbeitsgrundlage aufgebaut. Öffnen Sie das PDF, wählen Sie den passenden Prompt aus, kopieren Sie ihn in Ihr KI-System und ersetzen Sie die Platzhalter durch Ihre konkreten Praxisdaten, Systemnamen, Verantwortlichkeiten, Prozesse, Kontaktwege oder medizinischen Anwendungsbereiche.
+> Nutzungshinweise und Haftungsausschluss für eine realistische, eigenverantwortliche Anwendung der Prompts im medizinischen Praxisumfeld
+
+### 3c. Cautions
+
+> Arztpraxen MVZ AI Act Starter Kit: 105 Master Prompts für Hochrisiko KI Compliance - Digistore24
+> 649020 Arztpraxen MVZ AI Act Starter Kit: 105 Master Prompts für Hochrisiko KI Compliance
+> Arztpraxen & MVZ AI Act Starter-Kit 2026/2027 – 105 Master-Prompts für medizinische KI-Compliance
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59696-g1.webp
+- assets/products/59696-g2.webp
+- assets/products/59696-g3.webp
+- assets/products/59696-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Act Starter-Kit für Arztpraxen und MVZ? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25

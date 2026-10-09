@@ -64,6 +64,21 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das EasyActivePlus-Erfolgskonzept besteht aus insgesamt 10 Schritten, durch die tausende Menschen weltweit erfolgreich abgenommen haben und ihr Gewicht seither mühelos halten! Und das ohne Diät, ohne die Ernährungs umstellen zu müssen, ohne Verzicht, ohne Hungern und sogar ohne Sport treiben zu müssen!
+> In Schritt 7 lernst du, wie du dich selbst, dein Unterbewusstsein und jede Zelle in deinem Körper auf auf SCHLANK programmierst. Diese mentale Technik setzen wir seit über 20 Jahren in unseren Intensiv-Trainings ein und unsere Teilnehmer produzieren dadurch Ergebnisse, die sie selbst zuvor nicht einmal zu träumen gewagt hätten.
+> Viele Menschen haben keine Geduld, alle muss immer schnell gehen. Da hat man in 10 Jahren 20 Kilo zugenommen und möchte diese dann in kürzester Zeit wieder loswerden. Sehr schnell aber nicht ohne "Ernährungsumstellung" oder "Bewegung". Für "Eilige" verlassen wir in diesem Schritt dann das EAP-Programm und zeigen dir, wie man sehr schnell abnehmen kann. Wir empfehlen jedoch immer unsere klassische Variante.
+
+### 3c. Cautions
+
+> Rechtlicher Hinweis: Die Ergebnisse dieses Programms sind von Teilnehmer zu Teilnehmer unterschiedlich und daher Indivuelll zu betrachten und müssen weder typisch sein, noch können diese Resultate garantiert werden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/3983-g2.webp
+- assets/products/3983-g3.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EasyActivePlus-Kurs? — Typ: Member area and video courses, Anbieter: crack1967, gelistet seit 2014-05-12

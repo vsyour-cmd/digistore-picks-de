@@ -70,6 +70,23 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Da es ein von mir geführtes, tägliches Training ist, nehme ich dich sozusagen an die Hand und führe dich Schritt für Schritt durch die Übungen.
+> Hallo Gabriela, Ich freue mich jeden Tag auf Deine Übungen und schätze Deine Anleitungen dazu sehr. Ich hatte lange Zeit HWS Problemen und ich fühle mich jetzt wieder beweglich und um Jahre jünger (trotz meiner 63 Lenze...). Meine Familie und Freunde haben ebenfalls bereits eine positive Veränderung festgestellt und ich bekomme immer mehr Komplimente. Ich bemerke wirklich täglich eine Verbesserung der Beweglichkeit und freu mich tierisch darüber. Ganz liebe Grüße Brigitta
+> Unbegrenzt! Du hast ein lebenslanges Zugriffsrecht und kannst jeden Tag (24 Stunden) auf alle Kurse zugreifen. Du kannst (und solltest...) also auch nach den 30 Tagen die Übungen nach meiner Anleitung nutzen. Auch mein 30-Tage-E-Mail-Support steht dir unbegrenzt zur Verfügung.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26143-g1.webp
+- assets/products/26143-g2.webp
+- assets/products/26143-g3.webp
+- assets/products/26143-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rette deinen Rücken BASIC? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2020-04-04

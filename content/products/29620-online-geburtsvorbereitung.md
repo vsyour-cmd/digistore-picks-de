@@ -69,6 +69,22 @@ language: "de"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ganz wichtig: Fühle Dich selbstsicher dank einer guten Vorbereitung
+> Flexible Geburtsvorbereitung für zu Hause! Mami first vermittelt dir das geballte Expertenwissen aus über 10 Jahren Erfahrung unserer Kursbegleiterinnen. Theorie - und Praxis-Lektionen zu den wichtigsten Themen rund um die Geburt.
+> Sofort. Hiernach wirst du auf eine Seite weitergeleitet mit wichtigen Informationen zu unserem Online Kurs. Nach der Bestellung bekommst sofort deine Login-Daten zum Kurs per Mail zugeschickt. Du hast also innerhalb von wenigen Minuten Zugang zu allen Inhalten dauerhaft. Auch alle Updates sind inklusive. Bitte prüfe auch immer Deinen Spam Order, solltest Du keine Mail in Deinem Posteingang vorfinden. Manche Email Programme filtern sehr streng.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/29620-g2.webp
+- assets/products/29620-g3.webp
+- assets/products/29620-g4.webp
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Geburtsvorbereitung? — Typ: Downloads, Anbieter: marketingpro, gelistet seit 2017-09-08
