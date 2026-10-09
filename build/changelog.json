@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Alternativen-Vergleiche auf die Top 200 erweitert (116→194 Seiten); Blog-RSS liefert jetzt den vollständigen Artikeltext; Bild-Alt-Abdeckung durch QA bestätigt.",
+      "changes": [
+        "78 neue Alternativen-Seiten (DE)",
+        "RSS/Atom-Feed auf Volltext umgestellt",
+        "Bild-Alt-Prüfung: 0 Probleme (durch QA-Gate erzwungen)"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "FAQ mit echten internen Links (Produktseiten), Kategorieseiten mit berechneter FAQ + FAQPage JSON-LD, Bild-Sitemap-Erweiterungen, QA um 5 Strukturprüfungen erweitert.",
       "changes": [
         "FAQ-Antworten verlinken jetzt Profile, Kategorien, Bewertungsmethode und Diskussionen",

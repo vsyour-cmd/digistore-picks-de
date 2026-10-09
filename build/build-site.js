@@ -373,7 +373,7 @@ ${parts.join("\n")}`;
 // ---------- Produkprofile (alle) ----------
 function computeAltSlugs() {
   const set = new Set();
-  for (const p of products.slice(0, 120)) {
+  for (const p of products.slice(0, 200)) {
     const primaryCatId = (p.categoryIds || [])[0];
     if (!primaryCatId) continue;
     const alts = products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String(primaryCatId))).slice(0, 4);
