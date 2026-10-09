@@ -582,22 +582,19 @@ function staticPages() {
     crumb: [{ label: "Start", href: "index.html" }, { label: "Über uns", href: "about.html" }],
   }));
 
-  // Impressum — Platzhalter! Vom Betreiber mit echten Daten füllen (deutsches Recht).
+  // Impressum — echte Angaben des Betreibers
   const impressum = `
 <h1>Impressum</h1>
-<p class="sub">Angaben gemäß § 5 DDG (ehem. § 5 TMG)</p>
-<div class="notice"><b>Hinweis des Betreiber-Tools:</b> Diese Seite enthält Platzhalter. Der Website-Betreiber ist verpflichtet, hier vollständige und richtige Angaben zu machen (Name/Adresse/Kontakt). Bitte ersetzen Sie ALLE Platzhalter vor dem ernsthaften Betrieb der Website.</div>
+<p class="sub">Anbieterkennzeichnung</p>
 <h2>Anbieter</h2>
-<p><b>[Vor- und Nachname / Firmenname]</b><br>
-[Straße und Hausnummer]<br>
-[PLZ und Ort]<br>
-[Land]</p>
+<p><b>adminstore</b><br>
+Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza,<br>
+14 Science Museum Road, Tsim Sha Tsui,<br>
+Kowloon, Hongkong (Sonderverwaltungszone der VR China)</p>
 <h2>Kontakt</h2>
-<p>E-Mail: <b>[ihre-e-mail@example.com]</b></p>
-<h2>Umsatzsteuer-ID</h2>
-<p>USt-IdNr. (falls vorhanden): [DE XXXXXXXXX]</p>
-<h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
-<p>[Vor- und Nachname], [Adresse wie oben]</p>
+<p>E-Mail: <a href="mailto:admin@2bkf.com">admin@2bkf.com</a></p>
+<h2>Verantwortlich für den Inhalt</h2>
+<p>adminstore, Adresse wie oben</p>
 <h2>EU-Streitschlichtung</h2>
 <p>Wir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 <h2>Haftung für Inhalte und Links</h2>
@@ -612,9 +609,10 @@ function staticPages() {
   const datenschutz = `
 <h1>Datenschutzerklärung</h1>
 <p class="sub">Informationen zur Verarbeitung personenbezogener Daten (DSGVO)</p>
-<div class="notice"><b>Hinweis:</b> Vor dem ernsthaften Betrieb bitte an die eigenen Verhältnisse anpassen (Verantwortlicher, ggf. Hostprovider-Daten, ggf. Aufsichtsbehörde).</div>
 <h2>1. Verantwortlicher</h2>
-<p>[Vor- und Nachname / Firmenname], [Adresse], E-Mail: <b>[ihre-e-mail@example.com]</b></p>
+<p>adminstore<br>
+Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui, Kowloon, Hongkong<br>
+E-Mail: <a href="mailto:admin@2bkf.com">admin@2bkf.com</a></p>
 <h2>2. Hosting (GitHub Pages)</h2>
 <p>Diese Website wird über GitHub Pages (GitHub, Inc., 88 Colin P Kelly Jr Street, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf werden technisch notwendige Server-Logdaten (u. a. IP-Adresse, Zeitpunkt, User-Agent) durch GitHub verarbeitet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am sicheren und effizienten Betrieb). <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Reichweitenmessung (GoatCounter)</h2>
