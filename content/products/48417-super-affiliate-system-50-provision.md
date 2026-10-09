@@ -63,6 +63,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Vorteile Warum Forum-Backlinks heute wichtiger sind als je zuvor
+> Achtung: in jedem Paket inklusive. Die Lifetime-Variante kostet einmalig 999 € – über 5 Jahre Nutzung gerechnet ist das in der Maximal-Variante ein Bruchteil des theoretischen Einzelkauf-Marktwerts.
+> Disclaimer: Reine Beispielrechnung. Tatsächliche Forum-Volumen schwanken pro Plattform, individuelle Linkpreise variieren stark. Die Berechnung dient als Größenordnung, nicht als garantierter Ertrag.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

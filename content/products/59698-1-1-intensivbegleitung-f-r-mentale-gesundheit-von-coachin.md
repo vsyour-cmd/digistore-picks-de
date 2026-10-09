@@ -54,6 +54,19 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 2015 lag ich mit einer Meningitis fast vier Wochen im Koma. Danach durfte ich alles neu erlernen — selbstständig atmen, sprechen, laufen. Schritt für Schritt, jeden Abend visualisiert, jeden Schritt geschafft.
+> Der erste Schritt ist oft der schwerste. Schreib mir einfach, wie es dir passt.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59698-g1.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -52,6 +52,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Bei den meisten Hobbyfotograf:innen fehlt es nicht an Talent – sondern an Klarheit, Struktur und dem richtigen Fundament. Genau dafür habe ich den Fotografie-Grundkurs entwickelt. Er ist der Schritt raus aus Zufall, Unsicherheit und Frust – und hin zu Bildern, auf die du wirklich stolz bist.
+> Hol dir jetzt den Fotografie-Grundkurs und starte deine Reise – mit klaren Schritt-für-Schritt-Anleitungen, praxisnahen Tipps und garantiert mehr Freude an deiner Kamera.
+> Ja! Die Module sind in leicht verständliche Lektionen aufgeteilt, die du Schritt für Schritt durcharbeiten kannst. Schon nach kurzer Zeit wirst du erste Fortschritte in deinen Fotos sehen.
+
+### 3c. Cautions
+
+> Nie mehr Rätselraten: Du weißt genau, welche Knöpfe wichtig sind und wie du jede Situation meisterst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50875-g1.webp
+- assets/products/50875-g2.webp
+- assets/products/50875-g3.webp
+- assets/products/50875-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

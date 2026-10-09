@@ -59,6 +59,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Lerne Schritt für Schritt, wie Bonusaktionen von Wettanbietern mathematisch genutzt werden können und entwickle professionelle Prozesse für erfolgreiches Matched Betting.
+> Von der Identifikation geeigneter Quoten über die korrekte Einsatzverteilung bis hin zur praktischen Umsetzung entwickelst du Schritt für Schritt die notwendigen Kompetenzen.
+> So entsteht Schritt für Schritt aus Wissen echte Anwendungskompetenz.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

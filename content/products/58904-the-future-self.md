@@ -49,6 +49,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du stehst vor einer Entscheidung, zweifelst, drehst dich im Kreis oder siehst deinen nächsten Schritt nicht.
+> Frag sie, was sie getan hat. Was sie heute anders sieht. Was sie damals noch nicht wusste. Und welchen Schritt sie dir heute empfehlen würde.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58904-g1.webp
+- assets/products/58904-g2.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

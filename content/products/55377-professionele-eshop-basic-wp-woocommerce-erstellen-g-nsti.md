@@ -56,6 +56,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Eine Onepage, wie das Wort sagt ist uur eine Seite. Hat fast alles wichtige in Kürze. Damit Sie besser verstehen gibt keine Weitere Seiten in Menu. Die Menus falls es in eine Onepage Webseite gibt, gehen in die gleiche Seite auf die entsprechende Units, also Teil dieser Webseite.
+> Ich erstelle für dich einen voll funktionsfähigen in WordPress also ein Woocommerce oder Shopify E-Shop , komplett eingerichtet und startbereit. Dazu gehört das Setup, die Einrichtung des Designs, 50-100 Produkte, Zahlungsmethoden, Versand, rechtliche Seiten und alle wichtigen Grundeinstellungen. Die Basic Woocommerce oder Shopify Eshop wird mit einen von die kostenlosen Themes erstellt oder basic oder günstige kostenpflichtigen Themes.
+> "Ich empfehle Avraam Skenteridis mit Augen zu. Ich bin Arzt in Thessaloniki mit ein Praxis für Pathologie und er hat mir ein Terminbuchungssystem erstellt und meine Webseite etwa 1 Tausend euro. Unglaublich. Diese Preis/Value gibt es im Markt nicht. Nur eins war negative. Er war inzwischen 1 Woche Krank und hat 1 Tag genau verspätet als versprochen. "
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55377-g1.webp
+- assets/products/55377-g2.webp
+- assets/products/55377-g3.webp
+- assets/products/55377-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -54,6 +54,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> System Download Dokumentation Store Funktionen Layout Anwendung Preise Termin
+> 2.4 Sofern sich aus der Produktbeschreibung des Unternehmers nichts anderes ergibt, erh&auml;lt der Kunde keinen individuellen Anwendungs-Support durch den Unternehmer.
+
+### 3c. Cautions
+
+> 8.2 Der Kunde hat die vom Unternehmer f&uuml;r die Installation und den Betrieb der Software gegebenen Hinweise zu beachten.
+> Die Verarbeitung erfolgt gem&auml;&szlig; Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an der Verbesserung der Stabilit&auml;t und Funktionalit&auml;t unserer Website. Eine Weitergabe oder anderweitige Verwendung der Daten findet nicht statt. Wir behalten uns allerdings vor, die Server-Logfiles nachtr&auml;glich zu &uuml;berpr&uuml;fen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+> Weitere Hinweise zum Datenschutz bei Apple Pay finden Sie unter der nachstehenden Internetadresse: https://support.apple.com /de-de /HT203027 - Google Pay
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59261-g1.webp
+- assets/products/59261-g2.webp
+- assets/products/59261-g3.webp
+- assets/products/59261-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

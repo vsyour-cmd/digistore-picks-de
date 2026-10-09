@@ -47,6 +47,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das ScaleX System ist ein umfassendes Online-Coaching- und Schulungsprogramm , das dich Schritt für Schritt dabei unterstützt, dein eigenes digitales Business aufzubauen und professionell zu skalieren.
+> Marketing-Schulung: Du lernst Schritt für Schritt, wie du hochwertige Leads generierst und deine eigenen Marketingprozesse aufbaust.
+> Das ScaleX System ist ein umfassendes Online-Coaching- und Schulungsprogramm , das dich Schritt für Schritt dabei unterstützt, dein eigenes digitales Business aufzubauen und professionell zu skalieren.
+
+### 3c. Cautions
+
+> Hinweis: Es handelt sich um ein digitales Coaching- und Partnerprogramm mit begleitenden Live-Terminen. Kein physisches Produkt.
+> Hinweis: Es handelt sich um ein digitales Coaching- und Partnerprogramm mit begleitenden Live-Terminen. Kein physisches Produkt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54586-g1.webp
+- assets/products/54586-g2.webp
+- assets/products/54586-g3.webp
+- assets/products/54586-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

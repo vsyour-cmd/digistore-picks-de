@@ -50,6 +50,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Jeder Schritt wird am Bildschirm gezeigt &middot; Dauer: rund 60 Minuten
+> Vier Schritte, von Anfang bis Ende am offenen Bildschirm – nicht in der Theorie.
+> Die Zeit gehört dem Inhalt: gezeigt wird der komplette Ablauf, Schritt für Schritt. Die Teilnahme ist kostenlos, es werden keine Zahlungsdaten abgefragt. Im Workshop wird auch die dabei eingesetzte Software vorgestellt.
+
+### 3c. Cautions
+
+> Hinweis: Dieser Workshop hat informativen Charakter; die Teilnahme ist kostenlos. Im Rahmen des Workshops werden auch kostenpflichtige Produkte vorgestellt. Es werden keine Einkommen, Ergebnisse oder Erfolge zugesichert. Ergebnisse hängen von individuellen Faktoren ab und können nicht vorhergesagt werden.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

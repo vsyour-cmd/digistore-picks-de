@@ -54,6 +54,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 🔥 Unter der Anleitung von Tommy Seewald, dem Social-Media-Experten, der konstant zweistellige Millionen-Umsätze pro Jahr generiert!
+> Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine Verkaufsmaschine verwandelst, ohne ständig online zu sein!
+> Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine Verkaufs-maschine verwandelst, ohne ständig online zu sein!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51852-g1.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

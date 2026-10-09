@@ -46,6 +46,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der MIETfrei Video-Kurs zeigt Schritt für Schritt aus der Praxis, wie Sie Ihre Wohnung finden und diese insgesamt nur ca. 1.000 € im Jahr kostet. Ein detaillierter VideoKurs wie Sie ein massives Gartenhaus erhalten, prüfen und binnen 4 Wochen einziehen. So erhöhen Sie bedeutend die Sparquote Ihres monatlichen Einkommens.
+> Vom ersten Angebot bis zur praktisch nutzbaren Immobilie - Schritt für Schritt
+
+### 3c. Cautions
+
+> Du lernst, geeignete Gartenhäuser zu finden, das Haus professionell zu prüfen und alle wichtigen Versorgungsfragen effizient zu lösen.
+> Transparenz-Hinweis: „MIETfrei“ bezeichnet den Verzicht auf eine klassische Wohnungsmiete. Pacht, Strom, Heizung, Wasser, Reparaturen und weitere Kosten können entstehen, summieren sich meiner Erfahrung nach auf nur ca. 1.000 € / Jahr. Die rechtlichen Regeln zur Nutzung und zum dauerhaften Wohnen unterscheiden sich und werden im Kurs ausdrücklich behandelt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58439-g1.webp
+- assets/products/58439-g3.webp
+- assets/products/58439-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

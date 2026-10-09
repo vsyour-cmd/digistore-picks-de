@@ -50,6 +50,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im Bootcamp lernst du schnell die Grundlagen des Coachings in Theorie und Praxis. Du kannst sie gleich anwenden und schon bald nach dem Bootcamp und bald danach erste Einnahmen erzielen. Du siehst du sofort, ob die Tätigkeit als Coach, dir wirklich liegt. Später kannst du – wenn du willst – weitere Coaching-Ausbildungen machen.
+> Im Bootcamp lernst du schnell die Grundlagen des Coachings in Theorie und Praxis. Du kannst sie gleich anwenden und schon bald nach dem Bootcamp und bald danach erste Einnahmen erzielen. Du siehst du sofort, ob die Tätigkeit als Coach, dir wirklich liegt. Später kannst du – wenn du willst – weitere Coaching-Ausbildungen machen.
+> Im Bootcamp lernst du schnell die Grundlagen des Coachings in Theorie und Praxis. Du kannst sie gleich anwenden und schon bald nach dem Bootcamp und bald danach erste Einnahmen erzielen. Du siehst du sofort, ob die Tätigkeit als Coach, dir wirklich liegt. Später kannst du – wenn du willst – weitere Coaching-Ausbildungen machen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54605-g1.webp
+- assets/products/54605-g2.webp
+- assets/products/54605-g3.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

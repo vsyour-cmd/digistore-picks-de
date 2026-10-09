@@ -47,6 +47,26 @@ const VERIFY_META = (() => {
 })();
 const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
+// Deep details (Anwendung/Hinweise/Galerie, aus erneuter Verkaufsseiten-Recherche)
+const DETAILS_FILE = process.env.DETAILS_FILE || "G:/Digistore24/data-de/details-de.json";
+const DETAILS = fs.existsSync(DETAILS_FILE) ? JSON.parse(fs.readFileSync(DETAILS_FILE, "utf8")) : {};
+const productDetails = (id) => DETAILS[id] || null;
+
+const TYPE_USAGE_DE = {
+  "E-books": "E-Books auf Digistore24 werden als digitaler Download geliefert (meist PDF/EPUB): direkt nach dem Checkout erhalten Sie einen Downloadlink oder Mitgliederzugang und können auf jedem Gerät lesen.",
+  "Downloads": "Download-Produkte werden digital geliefert: sofort nach dem Checkout erhalten Sie Downloadlinks (oder Zugang zu einem Mitgliederbereich) — kein physischer Versand.",
+  "Member area and video courses": "Videokurse laufen über einen Mitgliederbereich: nach dem Checkout erhalten Sie Zugangsdaten per E-Mail und können die Lektionen in Ihrem eigenen Tempo streamen.",
+  "Supplements - health": "Nahrungsergänzungen werden physisch versandt; Einnahme-/Dosierhinweise stehen auf dem Etikett und der offiziellen Verkaufsseite. Halten Sie sich genau ans Etikett.",
+  "Supplements - for slimming": "Abnehm-Präparate werden physisch versandt; folgen Sie der Dosierung auf dem Etikett und der offiziellen Verkaufsseite.",
+  "Software": "Software wird digital geliefert — entweder als direkter Download oder per Lizenzschlüssel/Mitgliederbereich nach dem Checkout.",
+  "Book (printed)": "Gedruckte Bücher werden physisch versandt; Lieferzeit hängt von Ihrer Region ab und wird im Checkout angezeigt.",
+  "Deliverable": "Physische Produkte werden an Ihre Adresse versandt; Versandkosten und -zeiten erscheinen im Checkout.",
+  "Audio book (download)": "Hörbücher werden direkt nach dem Checkout als digitaler Download (MP3) geliefert — auf jedem Gerät abspielbar.",
+  "Online coaching": "Online-Coaching läuft über geplante Videocalls und/oder einen Mitgliederbereich; der Coach meldet sich nach dem Kauf zur Terminvereinbarung.",
+  "Webinar": "Webinare sindLive-Online-Sitzungen: nach der Anmeldung erhalten Sie den Link per E-Mail für den Termin.",
+  "Remote service provided electronically": "Remote-Dienstleistungen werden elektronisch erbracht — der Anbieter meldet sich nach dem Kauf.",
+};
+
 function crumbs(items) {
   return `<nav class="crumbs" aria-label="Breadcrumb">${items
     .map((c, i) => (i === items.length - 1 ? `<span>${esc(c.label)}</span>` : `<a href="${c.href}">${esc(c.label)}</a>`))
@@ -326,6 +346,14 @@ function profilePages(altSlugs) {
     const altLink = altSlugs.has(p.slug)
       ? `<p class="sub">Optionen vergleichen? <a href="../alternativen/${p.slug}.html">${esc(p.label)} im Vergleich mit den nächsten Alternativen</a> — Marktplatz-Zahlen direkt nebeneinander.</p>`
       : "";
+    const altData = altSlugs.has(p.slug)
+      ? products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String(primaryCatId))).slice(0, 4)
+      : [];
+    const compareBlock = altData.length >= 3
+      ? `<h2>Wie schneidet ${esc(p.label)} ab? (Marktplatz-Zahlen)</h2>
+${compareTable(p, altData)}
+<p class="sub">* Anbieter-seitige Statistiken; abhängig von der Traffic-Qualität, keine Prognose. Vollständiger Kontext: <a href="../alternativen/${p.slug}.html">Alternativen-Seite zu ${esc(p.label)}</a>.</p>`
+      : "";
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Start", href: "../index.html" }];
@@ -364,11 +392,19 @@ ${p.description ? `<h2>Marktplatz-Beschreibung des Anbieters</h2><p>${esc(p.desc
 
 ${researchSection(p)}
 
+${usageSection(p)}
+
+${galleryBlock(p)}
+
+${cautionSection(p)}
+
 ${relatedBlock}
 
 ${vendorBlock}
 
 ${altLink}
+
+${compareBlock}
 
 <h2>Wo Sie es sich ansehen können</h2>
 <p>Aktuelle Preise, Garantie und Boni finden Sie auf der offiziellen Verkaufsseite:<br>
@@ -559,6 +595,86 @@ ${byEps.slice(0, 10).map((p, i) => `<tr><td>${i + 1}</td><td><a href="../produkt
     built++;
   }
   return built;
+}
+
+// ---------- Anwendung / Hinweise / Galerie / Vergleich ----------
+function usageSection(p) {
+  const d = productDetails(p.id);
+  if (d && d.usage && d.usage.length) {
+    return `<h2>Anwendung — laut Anbieter</h2>
+<div class="notice"><b>Anbieteraussagen</b>, wörtlich aus der offiziellen Verkaufsseite übernommen — keine von uns geprüften Anwendungshinweise.</div>
+${d.usage.map((t) => `<blockquote>${esc(t)}</blockquote>`).join("")}`;
+  }
+  const generic = TYPE_USAGE_DE[p.type];
+  if (generic) {
+    return `<h2>Wie Produkte dieser Art geliefert werden</h2>
+<p class="sub"><b>Allgemeiner Hinweis zu diesem Produkttyp</b> (keine anbieterspezifische Anleitung): ${esc(generic)} Für die genaue Anwendung von ${esc(p.label)} sind die offizielle Verkaufsseite und die enthaltenen Materialien maßgeblich.</p>`;
+  }
+  return "";
+}
+
+function cautionSection(p) {
+  const items = [];
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  const catItems = cat ? products.filter((x) => (x.categoryIds || []).includes(String(cat.catId))) : [];
+  const catCancelMedian = catItems.length
+    ? [...catItems].map((x) => x.cancelRate || 0).sort((a, b) => a - b)[Math.floor(catItems.length / 2)]
+    : null;
+  if ((p.cancelRate || 0) >= 10 && catCancelMedian != null && p.cancelRate >= catCancelMedian) {
+    items.push(`<b>Hohe Stornoquote:</b> ${pct(p.cancelRate)} der Käufer stornieren (Kategorie-Median: ${pct(catCancelMedian)}). Lesen Sie die Kündigungsbedingungen auf der Verkaufsseite, bevor Sie ein Abo eingehen.`);
+  }
+  if ((p.price || 0) >= 197) {
+    items.push(`<b>Hoher Preis:</b> ${money(p.price, p.currency)} ist eine erhebliche Ausgabe — prüfen Sie, ob es einen Zahlungsplan gibt, und vergleichen Sie zuerst die günstigeren Alternativen der Kategorie.`);
+  }
+  if (p.research && p.research.error) {
+    items.push(`<b>Verkaufsseite derzeit nicht erreichbar</b> (${esc(p.research.error.slice(0, 60))}) — prüfen Sie, ob das Angebot noch aktiv ist, bevor Sie kaufen oder bewerben.`);
+  }
+  if (p.research && !p.research.error && !p.research.guaranteeMention) {
+    items.push(`<b>Keine Garantie-Formulierung in unserer Recherche gefunden</b> — bestätigen Sie das Rückgabefenster auf der offiziellen Seite, bevor Sie kaufen.`);
+  }
+  if (/supplement/i.test(p.type)) {
+    items.push(`<b>Allgemeiner Hinweis:</b> Nahrungsergänzungen sind kein Ersatz für eine ausgewogene Ernährung und gesunde Lebensweise; im Zweifel ärztlich beraten lassen — besonders in Schwangerschaft, bei Medikamenteneinnahme oder Vorerkrankungen. Allgemeine Information, keine medizinische Beratung.`);
+  }
+  const d = productDetails(p.id);
+  if (d && d.caution && d.caution.length) {
+    return `<h2>Gut zu wissen</h2>
+<ul>
+${items.map((x) => `<li>${x}</li>`).join("\n")}
+${d.caution.map((t) => `<li><i>Hinweise der Verkaufsseite</i> (wörtlich, nicht von uns geprüft): „${esc(t)}"</li>`).join("\n")}
+</ul>`;
+  }
+  if (!items.length) return "";
+  return `<h2>Gut zu wissen</h2>
+<ul>
+${items.map((x) => `<li>${x}</li>`).join("\n")}
+</ul>`;
+}
+
+function galleryBlock(p) {
+  const d = productDetails(p.id);
+  if (!d || !d.gallery || !d.gallery.length) return "";
+  return `<h2>Weitere Bilder (von der Verkaufsseite des Anbieters)</h2>
+<div class="gallery">
+${d.gallery.map((g) => `<img src="../${g.file}" width="${g.width}" height="${g.height}" loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`).join("\n")}
+</div>
+<p class="sub">Bilder stammen von der offiziellen Verkaufsseite des Anbieters und zeigen das Produkt, wie es beworben wird.</p>`;
+}
+
+function compareTable(p, alts) {
+  const row = (x, self = false) => `<tr${self ? ' class="self"' : ""}>
+<td>${self ? `<b>${esc(x.label)}</b>` : `<a href="../produkte/${x.slug}.html">${esc(x.label)}</a>`}</td>
+<td>${esc(x.typeDe)}</td>
+<td><b>${money(x.price, x.currency)}</b></td>
+<td>${pct(x.commission)}</td>
+<td>${pct(x.conversionRate)}</td>
+<td>${pct(x.cancelRate)}</td>
+<td><b>${money(x.earningsPerSale, x.currency)}</b></td>
+</tr>`;
+  return `<table class="specs">
+<tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Checkout-CR*</th><th>Storno*</th><th>Verdienst/Verkauf</th></tr>
+${row(p, true)}
+${alts.map((x) => row(x)).join("\n")}
+</table>`;
 }
 
 // ---------- Über uns / Impressum / Datenschutz / 404 ----------

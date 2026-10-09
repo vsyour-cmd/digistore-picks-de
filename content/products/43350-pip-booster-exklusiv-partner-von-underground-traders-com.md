@@ -61,6 +61,18 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du bekommst einen Downloadlink zur kostenlosen Demoversion per Mail. Ebenfalls wird dir eine Schritt-für-Schritt-Anleitung (Video) zur problemfreien Installation bei deinem MetaTrader Broker oder für die Charting-Plattform TradingView bereitgestellt.
+
+### 3c. Cautions
+
+> WARNUNG : Der Handel mit Differenzkontrakten (sogn. CFDs) ist mit unserem Produkt nicht möglich ! Unser Produkt wurde entwickelt, um die Kursentwicklung von Währungspaaren am Forex-Markt zu analysieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43350-g3.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

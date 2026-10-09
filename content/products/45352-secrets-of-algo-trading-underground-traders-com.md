@@ -49,6 +49,19 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> WARNUNG: VERABSCHIEDE DICH VON GEWÖHNLICHEN STRATEGIEN: DIESES ALGO-TRADING KOMPLETT-PAKET STELLT ALLES IN DEN SCHATTEN!!
+> ACHTUNG : Da wir pro Monat nur eine streng begrenzte Anzahl an Neukunden aufnehmen, wird auch „THE ULTIMATE GUIDE“ nicht dauerhaft zum Download verfügbar sein. Du hast später keine weitere Möglichkeit 100% GRATIS Einblicke in unseren Videokurs zu erhalten!!!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/45352-g3.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

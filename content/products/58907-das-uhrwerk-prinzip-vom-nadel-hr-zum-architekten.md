@@ -61,6 +61,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Lehrgang führt Dich in vier Schritten vom Erkennen der Abhängigkeit bis zu einer klaren Entscheidung darüber, was Dein Unternehmen künftig selbst leisten können muss.
+> Die eigene Architekturreife einordnen und eine klare Entscheidung über die nächsten Schritte treffen.
+> Du gewinnst Klarheit darüber, welche strukturelle Weiterentwicklung jetzt sinnvoll ist und ob eine Unternehmens-Architektur-Analyse der nächste Schritt ist.
+
+### 3c. Cautions
+
+> Je wichtiger eine Entscheidung wird, desto häufiger landet sie wieder beim Unternehmer.
+> Der Lehrgang richtet sich an Unternehmer, deren Unternehmen bereits über Mitarbeiter, Verantwortlichkeiten oder mehrere Funktionsbereiche verfügt und bei denen trotzdem wichtige Entscheidungen, Abstimmungen oder Stabilisierung immer wieder beim Unternehmer zusammenlaufen.
+> Wichtig ist vielmehr Deine Bereitschaft, das eigene Unternehmen kritisch zu betrachten und bisherige Vorstellungen von Führung, Verantwortung und Organisation infrage zu stellen.erst. Es ist ein Entwicklungsweg, den Du wirklich durchläufst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58907-g1.webp
+- assets/products/58907-g2.webp
+- assets/products/58907-g3.webp
+- assets/products/58907-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

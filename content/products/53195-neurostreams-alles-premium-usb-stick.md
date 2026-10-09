@@ -57,6 +57,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> "Eine CD habe ich mit 2-3 ausgesuchten Stücken gebrannt und mit Anleitung meiner Freundin geschenkt. Sie war so begeistert, dass sie gleich selbst was bei Dir bestellt hat.
+> Der "Neurostreams -Katalog" enthält ausführliche Infos und praktische Anwendungshinweise für alle Titel des Neurostreams-Sortiments.
+> Zum Einstieg empfehle ich eine oder zwei tägliche Anwendungen. Danach je nach Bedarf.
+
+### 3c. Cautions
+
+> Einmal kaufen, immer mal wieder anhören. Staunen. Pausen machen. Später wieder darauf zurückkommen, Neurostreams neu entdecken: Auf einmal sind andere Titel für einen wichtig, die vorher noch nicht in Frage kamen. Und wieder: Staunen.
+> Ich hab "meine" Stücke gefunden und nutze sie mit Erfolg und wenn jemand ein Problem hat und Rat sucht, erwähne ich, wenn es passt, gern die ALLES mit dem Hinweis, man könne es gern mal ausprobieren.
+> "Was ich auf jeden Fall berichten kann und was für mich sehr wichtig ist, ist, dass ich, egal was ich nutze, zu einer tiefen Ruhe, zu einer tiefen inneren Mitte komme und mich unglaublich gelöst, entspannt und voller neuer Kraft fühle.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53195-g1.webp
+- assets/products/53195-g2.webp
+- assets/products/53195-g3.webp
+- assets/products/53195-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

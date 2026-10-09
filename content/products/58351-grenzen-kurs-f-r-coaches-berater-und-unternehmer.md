@@ -55,6 +55,19 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In zwölf Video-Lektionen führe ich Sie persönlich durch die sechs Module – Schritt für Schritt, ergänzt durch Workbook und Arbeitsblätter zur Vertiefung.
+
+### 3c. Cautions
+
+> Sie entscheiden wieder aus dem, was Ihnen selbst wichtig ist — nicht aus dem, was gerade am wenigsten Ärger macht oder auf unklarer Basis.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58351-g1.webp
+- assets/products/58351-g2.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

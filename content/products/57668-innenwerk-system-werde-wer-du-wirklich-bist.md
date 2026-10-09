@@ -51,6 +51,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Genau hier setzt das InnenWerk ® -System an. Es hilft Dir zu erkennen, was in Dir wirkt, Deine eigene Richtung klarer zu sehen und daraus stimmige nächste Schritte zu entwickeln.
+> Das InnenWerk ® -System begleitet Dich Schritt für Schritt durch drei aufeinander aufbauende Entwicklungsräume:
+> Verwirklichung Du übersetzt diese Klarheit in Entscheidungen, konkrete Schritte und eine Form, die in Deinem wirklichen Leben tragfähig ist.
+
+### 3c. Cautions
+
+> Wichtiger als Schnelligkeit ist, dass Du Dir dort Zeit gibst, wo etwas für Dich wirklich bedeutsam wird.
+> Hinweis: Das InnenWerk-System ist ein Entwicklungs- und Reflexionsangebot und ersetzt keine Therapie, medizinische Behandlung oder psychologische Beratung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57668-g1.webp
+- assets/products/57668-g2.webp
+- assets/products/57668-g3.webp
+- assets/products/57668-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

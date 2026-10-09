@@ -53,6 +53,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> &bdquo;Ich bin einfach Schritt f&uuml;r Schritt Michael's Anleitung gefolgt und die Masterclass ist ein absoluter Game Changer f&uuml;r mich, schon fast verr&uuml;ckt zu sehen, wie einfach es geht. Gleich im ersten Monat habe ich mit meinem automatisierten Kurs &uuml;ber 10k verdient. Im zweiten Monat dann 29.000&euro;. Also ich kann es wirklich jedem empfehlen, holt euch die Masterclass wenn ihr das gleiche Ergebnis haben wollt."
+> &bdquo;Die Struktur der Module erm&ouml;glicht es, sich Schritt f&uuml;r Schritt durch die Technik zu arbeiten. Besonders hilfreich sind die Done-for-You-Vorlagen und Downloads &ndash; sie sparen enorm viel Zeit. OKA hat mir sehr geholfen, eine gute Nische und den passenden Kurstitel zu finden. Ich empfehle OKA allen, die sich ein freies Leben aufbauen wollen, ihr wertvolles Wissen mit vielen Menschen teilen m&ouml;chten und ein unternehmerisches Leben mit mehr Freiheit anstreben."
+
+### 3c. Cautions
+
+> Wichtig: Dieses Angebot gilt nur für kurze Zeit. Danach verschwindet die Lite-Version für immer.
+> Wichtig: Dieses Angebot gilt nur für kurze Zeit. Danach verschwindet die Lite-Version für immer.
+> Wichtig: Dieses Angebot gilt nur für kurze Zeit. Danach verschwindet die Lite-Version für immer.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48986-g1.webp
+- assets/products/48986-g2.webp
+- assets/products/48986-g3.webp
+- assets/products/48986-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

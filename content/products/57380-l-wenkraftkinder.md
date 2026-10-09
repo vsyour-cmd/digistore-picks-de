@@ -51,6 +51,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Verbindung aufbauen und die ersten Schritte zur starken Persönlichkeit
+
+### 3c. Cautions
+
+> In Kitas und Grundschulen ist der Alltag oft geprägt von Konflikten, Beleidigungen und schwierigen Situationen. Deshalb ist Präventionsarbeit in Kitas und Grundschulen so wichtig. Doch wenn nur die Kinder die Inhalte lernen und Fachkräfte und Eltern diese nicht weiterführen können, geht das Gelernte wieder verloren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57380-g2.webp
+- assets/products/57380-g3.webp
+- assets/products/57380-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

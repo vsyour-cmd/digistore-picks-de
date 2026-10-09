@@ -55,6 +55,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ⏳ Angst hast, den falschen Schritt zu machen – und deshalb lieber aushältst, als dich zu bewegen.
+> Kreiere dein eigenes Entscheidungsmodell, das dir hilft, Klarheit über deine nächsten Schritte zu gewinnen – ohne Angst, den „falschen“ Weg zu gehen.
+> Setze die Puzzleteile zusammen, entwickle konkrete nächste Schritte und bringe deine berufliche Veränderung in Gang. Damit es nicht nur beim Planen bleibt, sondern Realität wird.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59095-g3.webp
+- assets/products/59095-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

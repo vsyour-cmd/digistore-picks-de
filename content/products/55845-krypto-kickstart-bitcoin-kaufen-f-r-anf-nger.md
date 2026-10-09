@@ -53,6 +53,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Krypto-Kickstart ist ein Schritt-für-Schritt-Programm, das dich von Unsicherheit zu einem sauberen, sicheren Bitcoin-Start führt.
+> Der Krypto-Kickstart nimmt dir diese Lähmung. Nicht durch mehr Informationen – sondern durch klare Struktur : Schritt 1, Schritt 2, Schritt 3. Fertig.
+> Der Krypto-Kickstart nimmt dir diese Lähmung. Nicht durch mehr Informationen – sondern durch klare Struktur : Schritt 1, Schritt 2, Schritt 3. Fertig.
+
+### 3c. Cautions
+
+> „Ich dachte, ich müsste jeden Coin verstehen, bevor ich starte. Das Programm hat mir gezeigt, dass Klarheit wichtiger ist als Komplexität. “
+> „Ich dachte, ich müsste jeden Coin verstehen, bevor ich starte. Das Programm hat mir gezeigt, dass Klarheit wichtiger ist als Komplexität. “
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55845-g1.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)
