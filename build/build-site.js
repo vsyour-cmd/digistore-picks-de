@@ -283,6 +283,18 @@ function categoryPages() {
       const pageSub = pages.length > 1 ? ` · Seite ${idx + 1} von ${pages.length}` : "";
       const intro = `<p class="lead">${extraIntro}Die Kategorie <b>${esc(catName(c))}</b> listet im Digistore24-Marktplatz <b>${items.length} Angebote</b> (Stand ${datemark(DATA.scrapedAt)}). Durchschnittspreis: <b>${money(avg, "USD")}</b>; Provisionen zwischen <b>${pct(minC)}</b> und <b>${pct(maxC)}</b>. Alle Statistiken werden von Digistore24 über den Traffic der Anbieter gemeldet und hängen von der Traffic-Qualität ab.</p>`;
       const isRealCat = DATA.categories.some((x) => x.file === c.file);
+      const catQas = categoryFaq(c, items);
+      const faqBlock = `<h2 id="faq">FAQ: ${esc(catName(c))} auf Digistore24</h2>
+${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
+      const faqLd = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: catQas.map(({ q, a }) => ({
+          "@type": "Question",
+          name: q,
+          acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") },
+        })),
+      };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Wenig Zeit? Zu den <a href="../empfehlungen/beste-${c.file}.html">Top-Empfehlungen in ${esc(catName(c))}</a> — rechnerisch aus denselben Daten ermittelt.</p>` : "";
       const body = `
 <h1>${esc(catName(c))}</h1>
@@ -293,8 +305,10 @@ ${bestOf}
 ${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
 ${pager(idx)}
+${idx === 0 ? faqBlock : ""}
 <p class="sub" style="margin-top:22px">* Marktplatz-Statistiken werden von Digistore24 über den Traffic der Anbieter gemeldet; sie hängen von der Traffic-Qualität ab und sind keine Prognose.</p>`;
       const jsonLd = [
+        ...(idx === 0 ? [faqLd] : []),
         {
           "@context": "https://schema.org",
           "@type": "CollectionPage",
@@ -817,17 +831,21 @@ function interactionBlock(p) {
 Falsche Zahl gefunden? <a href="mailto:admin@2bkf.com?subject=${mail}">Korrektur melden</a> — jede Seite zeigt ihre Datenstände, Korrekturen gelten für die ganze Website.</p>`;
 }
 
-// FAQ: Antworten ausschließlich aus offiziellen Marktplatz-Daten (berechnet) oder Anbieteraussagen (markiert)
+// FAQ: Antworten ausschließlich aus offiziellen Marktplatz-Daten (berechnet) oder Anbieteraussagen (markiert), mit echten internen Links
 function faqData(p, altData) {
   const gm = p.research && !p.research.error && p.research.guaranteeMention;
+  const q = encodeURIComponent(p.label);
   const qas = [];
   qas.push({
     q: `Was ist ${p.label}?`,
-    a: `${p.label} ist ein Angebot des Typs „${p.typeDe}" im Digistore24-Marktplatz, Anbieter: ${p.vendorName}, gelistet seit ${datemark(p.createdAt)}.${(p.categories || []).length ? ` Eingepflegt unter ${p.categories.slice(0, 2).join(" und ")}.` : ""} Digistore24 wickelt Checkout, Lieferung und Rückgaben ab.`,
+    a: `${p.label} ist ein Angebot des Typs „${p.typeDe}" im Digistore24-Marktplatz, Anbieter: <a href="#vendor">${p.vendorName}</a>, gelistet seit <b>${datemark(p.createdAt)}</b>.${(p.categories || []).length ? ` Eingepflegt unter ${p.categories.slice(0, 2).map((c) => {
+      const co = DATA.categories.find((x) => x.label === c);
+      return co ? `<a href="../kategorie/${co.file}.html">${catName(co)}</a>` : catName(co);
+    }).join(" und ")}.` : ""} Digistore24 wickelt Checkout, Lieferung und Rückgaben ab.`,
   });
   qas.push({
     q: `Wie viel kostet ${p.label}?`,
-    a: `Der Digistore24-Marktplatz listet es für ${money(p.price, p.currency)} (${(p.billingTypes || []).join(", ").toLowerCase() || "siehe Verkaufsseite"}). Preise legt der Anbieter fest und können sich ändern — die offizielle Verkaufsseite zeigt den aktuellen Preis.`,
+    a: `Der Digistore24-Marktplatz listet es für <b>${money(p.price, p.currency)}</b> (${(p.billingTypes || []).join(", ").toLowerCase() || "siehe Verkaufsseite"}). Preise legt der Anbieter fest und können sich ändern — der <a href="#record">Marktplatz-Eintrag oben</a> zeigt den Schnappschuss; die offizielle Verkaufsseite zeigt den aktuellen Preis.`,
   });
   qas.push({
     q: `Gibt es eine Geld-zurück-Garantie für ${p.label}?`,
@@ -837,17 +855,17 @@ function faqData(p, altData) {
   });
   qas.push({
     q: `Ist ${p.label} seriös?`,
-    a: `Wir bewerten keine Seriosität — wir veröffentlichen überprüfbare Zahlen: Anbieter ${p.vendorName} (gelistet seit ${datemark(p.createdAt)}), Checkout-Konversion ${pct(p.conversionRate)}, Stornoquote ${pct(p.cancelRate)}, Affiliate-Verdienst/Verkauf ${money(p.earningsPerSale, p.currency)} (alles Anbieter-seitige Marktplatz-Statistiken). Lesen Sie unsere Recherche-Standards und entscheiden Sie anhand der Zahlen.`,
+    a: `Wir bewerten keine Seriosität — wir veröffentlichen überprüfbare Zahlen: Anbieter <b>${p.vendorName}</b> (gelistet seit ${datemark(p.createdAt)}), Checkout-Konversion ${pct(p.conversionRate)}, Stornoquote ${pct(p.cancelRate)}, Affiliate-Verdienst/Verkauf ${money(p.earningsPerSale, p.currency)} (alles Anbieter-seitige Marktplatz-Statistiken). Lesen Sie unsere <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Bewertungsmethode</a> und entscheiden Sie anhand der Zahlen — oder <a href="https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=${q}" rel="noopener">diskutieren Sie ${esc(p.label)} auf GitHub</a>.`,
   });
   if (altData && altData.length >= 3) {
     qas.push({
       q: `Gibt es Alternativen zu ${p.label}?`,
-      a: `Ja — die nächstähnlichen Angebote derselben Kategorie sind ${altData.slice(0, 3).map((x) => x.label).join(", ")}. Details in der Vergleichstabelle oben bzw. auf der Alternativen-Seite mit allen Marktplatz-Zahlen.`,
+      a: `Ja — die nächstähnlichen Angebote derselben Kategorie sind ${altData.slice(0, 3).map((x) => `<a href="../produkte/${x.slug}.html">${x.label}</a>`).join(", ")}. Details in der <a href="#compare">Vergleichstabelle oben</a> bzw. auf der <a href="../alternativen/${p.slug}.html">Alternativen-Seite</a> mit allen Marktplatz-Zahlen.`,
     });
   }
   qas.push({
     q: `Wo kann ich ${p.label} sicher kaufen?`,
-    a: `Nur über die offizielle Verkaufsseite, die auf dieser Seite verlinkt ist (Checkout und Rückgaben laufen über Digistore24). Prüfen Sie dort Preis und Garantie vor der Bestellung. Der Link ist ein Affiliate-Link — der Kauf unterstützt diese Website ohne Mehrkosten für Sie.`,
+    a: `Nur über die <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">offizielle Verkaufsseite</a>, die auf dieser Seite verlinkt ist (Checkout und Rückgaben laufen über Digistore24). Prüfen Sie dort Preis und Garantie vor der Bestellung. Der Link ist ein Affiliate-Link — der Kauf unterstützt diese Website ohne Mehrkosten für Sie.`,
   });
   return qas;
 }
@@ -864,9 +882,35 @@ function faqJsonLd(p, qas) {
     mainEntity: qas.map(({ q, a }) => ({
       "@type": "Question",
       name: q,
-      acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") },
+      acceptedAnswer: { "@type": "Answer", text: a.replace(/<a [^>]*>/g, "").replace(/<\/a>/g, "").replace(/<[^>]+>/g, "") },
     })),
   };
+}
+
+// Kategorie-FAQ (berechnet aus allen Angeboten der Kategorie)
+function categoryFaq(c, items) {
+  const cn = catName(c);
+  const avg = items.length ? items.reduce((a, p) => a + (p.price || 0), 0) / items.length : 0;
+  const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
+  const bestConv = [...items].sort((a, b) => (b.conversionRate || 0) - (a.conversionRate || 0))[0];
+  return [
+    {
+      q: `Wie viele ${cn}-Produkte gibt es auf Digistore24?`,
+      a: `<b>${items.length} deutschsprachige Angebote</b> (Stand ${datemark(DATA.scrapedAt)}), Durchschnittspreis ${money(avg, "USD")}. Diese Seite listet alle mit offiziellen Marktplatz-Statistiken.`,
+    },
+    {
+      q: `Welches ${cn}-Produkt zahlt Affiliates am meisten?`,
+      a: `<a href="../produkte/${best.slug}.html">${best.label}</a> führt aktuell mit <b>${money(best.earningsPerSale, best.currency)}</b> Verdienst pro Verkauf bei ${pct(best.commission)} Provision (Anbieter-seitige Marktplatz-Daten, keine Prognose).`,
+    },
+    {
+      q: `Welches ${cn}-Angebot konvertiert am besten?`,
+      a: `<a href="../produkte/${bestConv.slug}.html">${bestConv.label}</a> hat die höchste gemeldete Checkout-Konversion der Kategorie (${pct(bestConv.conversionRate)}). Konversion hängt von der Traffic-Qualität ab — das ist die Funnel-Performance des Anbieters, kein Versprechen.`,
+    },
+    {
+      q: `Wie wähle ich ein ${cn}-Produkt aus?`,
+      a: `Nutzen Sie die Zahlen des Marktplatzes selbst. Unsere <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Bewertungsmethode</a> führt hindurch; jedes Profil auf dieser Seite zeigt alle sechs Datenpunkte.`,
+    },
+  ];
 }
 
 // ---------- Über uns / Impressum / Datenschutz / 404 ----------

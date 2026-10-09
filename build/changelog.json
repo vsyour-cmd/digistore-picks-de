@@ -3,6 +3,16 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "FAQ mit echten internen Links (Produktseiten), Kategorieseiten mit berechneter FAQ + FAQPage JSON-LD, Bild-Sitemap-Erweiterungen, QA um 5 Strukturprüfungen erweitert.",
+      "changes": [
+        "FAQ-Antworten verlinken jetzt Profile, Kategorien, Bewertungsmethode und Diskussionen",
+        "Kategorieseiten: berechnete 4-F&A-FAQ + FAQPage JSON-LD (alle 46 Seiten)",
+        "Sitemap: image:image für 400+ Produktseiten mit lokalisierten Bildern",
+        "QA: Prüfungen für Meta-Description / Canonical / H1 / Alt / JSON-LD"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Browser-Render-Retry für nicht erreichbare Verkaufsseiten: 16 DE-Angebote recovered (u.a. Wolkenweich, EXIT MASTERPLAN, Kinder gegen Mobbing, Quereinsteiger Hörbücher).",
       "changes": [
         "16 DE + 6 EN Angebote von unreachable/thin zu echter Recherche per Browser-Rendering",
