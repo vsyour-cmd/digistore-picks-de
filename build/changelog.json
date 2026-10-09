@@ -2,6 +2,15 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-10",
+      "summary": "Bildergalerien auf die Top-2000-Angebote nach Verdienst erweitert: 620 Produkte zeigen echte Verkaufsseiten-Bilder (vorher 385). Englische Website: 475 Produkte.",
+      "changes": [
+        "Galerien für 235 weitere DE-Angebote hinzugefügt (von Anbieterseiten, komprimiert als WebP)",
+        "Anwendungsabschnitte jetzt auf 412 DE-Produkten",
+        "Backlog-Eintrag gallery-2000 abgeschlossen"
+      ]
+    },
+    {
       "date": "2026-10-09",
       "summary": "Launch: vollständiger Aufbau mit 4271 Produktprofilen, 45+1 Kategorien, 116 Alternativen, 42 Empfehlungen, Verkaufsseiten-Recherche (3704/4271), lokale WebP-Bilder, FAQ auf jeder Produktseite, Dark Mode, mobile Sticky-CTA.",
       "changes": [
