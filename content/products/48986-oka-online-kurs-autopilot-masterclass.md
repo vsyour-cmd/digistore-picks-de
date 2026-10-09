@@ -92,6 +92,36 @@ language: "de"
 - assets/products/48986-g3.webp
 - assets/products/48986-g4.webp
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Deckt OKA Kurs-Erstellung, Marketing UND Automatisierung ab — oder nur Launch?
+- [ ] Welche Plattformen werden gelehrt — bin ich an externe Tools gebunden?
+- [ ] Gibt es echte Kursteilnehmer-Ergebnisse jenseits von Screenshots?
+- [ ] Wie technisch wird es — muss ich selbst schneiden/editieren?
+- [ ] Wird Evergreen-Automatisierung oder nur Live-Launch gelehrt?
+- [ ] Wie umfangreich ist die Masterclass in Stunden real?
+
+**Passung**
+- [ ] Brauche ich ein fertiges Thema oder wird die Nische mitentwickelt?
+- [ ] Wie viel Budget für Werbung/Tools kommt hinzu?
+- [ ] Reichen 5-10 Wochenstunden für den Aufbau?
+- [ ] Ist es für Nicht-Muttersprachler im deutschen Markt geeignet?
+- [ ] Bin ich mit Vorerfahrung im Kurs unterfordert?
+- [ ] Welche Voraussetzungen an Equipment/Software gibt es?
+
+**Wartung**
+- [ ] Lebenslanger Zugang oder zeitlich begrenzte Kohorte?
+- [ ] Sind Plattform-Updates (Preis-/Algorithmusänderungen) inklusive?
+- [ ] Wie lange bleibt die Community aktiv?
+- [ ] Muss ich die Kurs-Software laufend selbst zahlen?
+
+**After-Sales**
+- [ ] Wie läuft die Digistore24-Garantie bei €2.250 ab?
+- [ ] Gibt es Umsetzungs-Support oder nur Zertifikat und Schluss?
+- [ ] Welche Upsells werden im Kurs beworben?
+- [ ] Wer hilft, wenn mein Kurs-Setup technisch hakt?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OKA - Online Kurs Autopilot Masterclass? — Typ: Member area and video courses, Anbieter: MichoWorldwide, gelistet seit 2023-07-06

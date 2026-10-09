@@ -78,6 +78,36 @@ language: "de"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Ist das Mentoring 1:1 oder Gruppenformat — wie viele Sessions wirklich?
+- [ ] Welche Qualifikation und Nachweise hat der Mentor?
+- [ ] Wie wird der Fortschritt gemessen — gibt es checkbare Zwischenziele?
+- [ ] Ist die Methode wissenschaftlich fundiert oder Energiework?
+- [ ] Was unterscheidet BRILLIANT von GOLD und dem Free-Content?
+- [ ] Wie viele Klienten betreut der Mentor parallel — bleibt Zeit für mich?
+
+**Passung**
+- [ ] Passt das Format zu meinem Alltag — Termine zu welcher Uhrzeit?
+- [ ] Wie viel Eigenzeit zwischen den Sessions ist nötig?
+- [ ] Ist es für Unternehmer in Krise geeignet oder nur für Optimierung?
+- [ ] Brauche ich Vorerfahrung mit Coaching oder Meditation?
+- [ ] Funktioniert es auf Deutsch — sind alle Materialien deutschsprachig?
+- [ ] Was, wenn mir die Chemie mit dem Mentor nicht passt?
+
+**Wartung**
+- [ ] Wie lange bleiben Aufzeichnungen und Materialien verfügbar?
+- [ ] Gibt es Nachbetreuung nach dem offiziellen Ende?
+- [ ] Sind Folge-Sessions inklusive oder Extra?
+- [ ] Wie aktuell sind die Materialien bei späterer Wiederholung?
+
+**After-Sales**
+- [ ] Wie funktioniert die Digistore24-Rückgabe bei einem High-Ticket-Mentoring?
+- [ ] Was passiert bei Terminausfall meinerseits — verfällt die Session?
+- [ ] Gibt es versteckte Upsells im Mentoring?
+- [ ] Wie schnell antwortet der Support bei Zugangsproblemen?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1:1 Coaching / NeuroZen® Mentoring Paket "BRILLIANT"? — Typ: Online coaching, Anbieter: OlgaHein, gelistet seit 2025-10-24

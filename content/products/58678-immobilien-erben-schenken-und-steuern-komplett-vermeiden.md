@@ -78,6 +78,36 @@ language: "de"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Ist der Inhalt auf dem Stand der aktuellen Steuerreform (Jahr prüfen)?
+- [ ] Werkt der Autor als Steuerberater — gibt es eine Impressum-Qualifikation?
+- [ ] Deckt das E-Book Erbschaftsteuer, Schenkungsteuer UND Spekulationsfristen ab?
+- [ ] Sind Rechenbeispiele mit konkreten Beträgen enthalten?
+- [ ] Gibt es Vorlagen/Checklisten oder nur Fließtext?
+- [ ] Ersetzt es eine Einzelberatung oder ist es nur Orientierung?
+
+**Passung**
+- [ ] Gilt der Inhalt für Österreich/Schweiz oder nur Deutschland?
+- [ ] Passt es für selbstgenutzte Immobilien oder nur Vermietung?
+- [ ] Bin ich als Erbe, Schenker oder künftiger Käufer richtig?
+- [ ] Welche Vorkenntnisse werden vorausgesetzt?
+- [ ] Lässt sich das E-Book auf E-Readern öffnen (Format/DRM)?
+- [ ] Reicht die Auflage für meine Konstellation (z.B. Vorschenerklärung)?
+
+**Wartung**
+- [ ] Bekomme ich Updates bei Gesetzesänderungen kostenlos?
+- [ ] Wie lange bleibt der Download verfügbar?
+- [ ] Gibt es Ergänzungsmaterial oder nur das eine Dokument?
+- [ ] Wie erkenne ich, wann eine Neuauflage erschienen ist?
+
+**After-Sales**
+- [ ] Wie läuft die Digistore24-Rückgabe für ein Download-Produkt?
+- [ ] Gibt es Steuerfragen-Support oder ist der Kauf endgültig?
+- [ ] Wird der Kauf über Digistore24 ordnungsgemäß mit Rechnung abgewickelt?
+- [ ] Wer hilft, wenn die Datei nicht herunterlädt?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien: Erben, Schenken und Steuern komplett vermeiden? — Typ: Downloads, Anbieter: ericpromm, gelistet seit 2026-08-26

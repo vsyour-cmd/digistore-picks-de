@@ -453,6 +453,13 @@ function profilePages(altSlugs) {
     const compareBlock = altData.length >= 3
       ? `<h2>Wie schneidet ${esc(p.label)} ab? (Marktplatz-Zahlen)</h2>
 ${compareTable(p, altData)}
+<h2>Entscheidungsfaktoren für Käufer</h2>
+<ul>
+<li><b>Funktion:</b> Checkout-Konversion und Anbieter-Bilanz vergleichen — beide in der Tabelle oben.</li>
+<li><b>Passung:</b> Typ und Voraussetzungen (Lieferformat, Vorkenntnisse) in jedem Profil prüfen.</li>
+<li><b>Wartung:</b> Die Stornoquote ist das Kaufreue-Signal; Nutzungsbedingungen stehen auf den offiziellen Seiten.</li>
+<li><b>After-Sales:</b> Garantie-Formulierung und Support — vor dem Kauf auf offiziellen Seiten verifizieren.</li>
+</ul>
 <p class="sub">* Anbieter-seitige Statistiken; abhängig von der Traffic-Qualität, keine Prognose. Vollständiger Kontext: <a href="../alternativen/${p.slug}.html">Alternativen-Seite zu ${esc(p.label)}</a>.</p>`
       : "";
 
@@ -530,6 +537,8 @@ ${galleryBlock(p)}
 ${cautionSection(p)}
 
 ${evidenceBox(p)}
+
+${buyerChecklist(p)}
 
 ${faqBlock}
 
@@ -851,6 +860,7 @@ function relatedSearches(p, altSlugs) {
     if (cat.count >= 8) pills.push([`Beste ${catName(cat)} Produkte`, `../empfehlungen/beste-${cat.file}.html`]);
   }
   pills.push([`${p.label} FAQ`, "#faq"]);
+  if (GQ.products[String(p.id)]) pills.push([`${p.label} Kauf-Risiko-Checkliste`, "#buying-decisions"]);
   pills.push([`Wie wir Produkte bewerten`, `../blog/digistore24-zahlen-checkliste.html`]);
   return `<h2>Ähnliche Suchanfragen</h2>
 <div class="pills">
@@ -892,6 +902,29 @@ function evidenceBox(p) {
 <li><b>Nicht von uns geprüft:</b> Produktqualität, Ergebnisse, Testimonials — kein Praxistest für dieses Listing durchgeführt.</li>
 </ul></div>`;
 }
+
+// Kauf-Risiko-Checkliste (KI-simulierte Käufer-Due-Diligence; Antworten nur aus Marktplatz-Daten oder gekennzeichneten Anbieteraussagen)
+const GQ_FILE = "G:/Digistore24/data-de/gemini-questions-de.json";
+const GQ = fs.existsSync(GQ_FILE) ? JSON.parse(fs.readFileSync(GQ_FILE, "utf8")) : { products: {} };
+function buyerChecklist(p) {
+  const g = GQ.products[String(p.id)];
+  if (!g || !g.groups) return "";
+  const renderItem = (item) => {
+    const l = item.toLowerCase();
+    let pointer = "→ klären Sie mit dem Anbieter auf der <a href=\"" + esc(p.promoLink) + "\" rel=\"nofollow sponsored noopener\" target=\"_blank\">offiziellen Verkaufsseite</a>";
+    if (/price|cost|€|preis|billed|€/.test(l)) pointer = "→ Antwort: <a href=\"#record\">Marktplatz-Eintrag</a>";
+    if (/garantie|geld.zurück|rückgabe|refund/.test(l)) pointer = "→ Antwort: <a href=\"#research\">Garantie-Recherche</a> + auf der offiziellen Seite bestätigen";
+    if (/seriös|evidence|verif|fallstudie|track record|testimonial/.test(l)) pointer = "→ Antwort: <a href=\"#research\">Verkaufsseiten-Recherche</a> — Anbieteraussagen, nicht von uns geprüft";
+    if (/anbieter|mentor|autor|autorin|wer steckt/.test(l)) pointer = "→ Antwort: <a href=\"#vendor\">Anbieter-Block</a> + <a href=\"#research\">Recherche</a>";
+    if (/alternativ/.test(l)) pointer = "→ Antwort: <a href=\"../alternativen/" + p.slug + ".html\">Alternativen-Seite</a>";
+    if (/liefer|download|zugang nach|nach der zahlung|member area/.test(l)) pointer = "→ Antwort: <a href=\"#faq\">Liefer-FAQ</a>";
+    return `<li>${esc(item)} <span class="sub">${pointer}</span></li>`;
+    };
+    const groups = g.groups.map((grp) => `<h3>${esc(grp.group)} — hält es stand?</h3><ul>${grp.questions.map(renderItem).join("")}</ul>`).join("");
+    return `<h2 id="buying-decisions">Bevor Sie zahlen: was Käufer von ${esc(p.label)} zuerst klären</h2>
+<div class="notice"><b>KI-simulierte Käufer-Due-Diligence-Fragen</b> (keine verifizierte Kundenforschung). Wo unsere Daten antworten, verlinken wir sie; alles andere muss vor der Zahlung mit dem Anbieter geklärt werden.</div>
+${groups}`;
+  }
 
 function faqData(p, altData) {
   const gm = p.research && !p.research.error && p.research.guaranteeMention;

@@ -87,6 +87,36 @@ language: "de"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Wie viel des Live-Mentorings ist echtes Coaching gegenüber Content-Vorträgen?
+- [ ] Welche Plattform/Strategie wird gelehrt — ist sie nachweislich aktuell?
+- [ ] Gibt es öffentlich überprüfbare Erfolge der Mentee-Unternehmen?
+- [ ] Wie groß ist die Gruppe — bekomme ich Airtime in jedem Call?
+- [ ] Wer ist der Mentor und welche eigene Reichweite belegt die Methode?
+- [ ] Ist Reklame/Werbung im Lehrplan enthalten oder nur organisches Wachstum?
+
+**Passung**
+- [ ] Für welche Branche funktioniert Sichtbarkeit so wirklich?
+- [ ] Brauche ich Kamera-Erfahrung oder现有 Auftritt?
+- [ ] Wie viele Stunden pro Woche sind realistisch nötig?
+- [ ] Ist mein Budget jenseits von €3.580 für Tools/Werbung eingeplant?
+- [ ] Passt es für mich als Anfänger oder bin ich unterfordert?
+- [ ] Funktioniert es in meinem Land und meiner Sprache?
+
+**Wartung**
+- [ ] Wie lange läuft das Mentoring — Laufzeit und Verlängerungsoptionen?
+- [ ] Bleiben Aufzeichnungen dauerhaft verfügbar?
+- [ ] Wird der Inhalt bei Plattform-Änderungen aktualisiert?
+- [ ] Ist die Community dauerhaft included?
+
+**After-Sales**
+- [ ] Wie funktioniert die Rückgabe über Digistore24 bei €3.580?
+- [ ] Welche Supportkanäle und Antwortzeiten gibt es?
+- [ ] Gibt es Upsells in höheren Leveln?
+- [ ] Was passiert bei Unzufriedenheit nach der Hälfte der Laufzeit?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ShowUp - das Live-Mentoring? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06

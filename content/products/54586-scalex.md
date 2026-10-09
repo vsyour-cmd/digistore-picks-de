@@ -86,6 +86,36 @@ language: "de"
 - assets/products/54586-g3.webp
 - assets/products/54586-g4.webp
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Welche Skalierungs-Hebel werden konkret gelehrt — mit Beispielen?
+- [ ] Ist der Inhalt Strategie oder Motivation im Geschäftskostüm?
+- [ ] Gibt es Implementierungsvorlagen statt nur Theorie?
+- [ ] Wer steht hinter ScaleX und mit welcher eigenen Bilanz?
+- [ ] Wie ist der Kurs strukturiert — Module, calls, Umbau des Setups?
+- [ ] Wird der Verkaufsteam-Aufbau behandelt oder nur eigenes Selling?
+
+**Passung**
+- [ ] Für welche Unternehmensgröße ist ScaleX gebaut — Solo oder Team?
+- [ ] Brauche ich ein bestehendes Angebot mit Umsatz?
+- [ ] Wie viel Kapital für Personal/Werbung kommt zum Kurspreis dazu?
+- [ ] Wie viele Stunden pro Woche muss ich einplanen?
+- [ ] Funktioniert die Methode in meinem Markt (DACH/International)?
+- [ ] Passt es zu B2B oder nur B2C-Geschäftsmodellen?
+
+**Wartung**
+- [ ] Wie lange bleibt der Zugang aktiv — Einmalzahlung oder Abo?
+- [ ] Sind Updates bei Marktveränderungen inklusive?
+- [ ] Gibt es eine aktive Community auf Dauer?
+- [ ] Welche Tools muss ich dauerhaft betreiben?
+
+**After-Sales**
+- [ ] Wie funktioniert die Digistore24-Garantie bei €3.356?
+- [ ] Gibt es Support bei der Umsetzung oder nur bei Technik?
+- [ ] Welche Upsells folgen im Mitgliederbereich?
+- [ ] Wie melde ich mich für Rückgaben und wie schnell wird bearbeitet?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ScaleX? — Typ: Member area and video courses, Anbieter: TheWolfofSales, gelistet seit 2025-10-16

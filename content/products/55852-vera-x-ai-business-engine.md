@@ -77,6 +77,36 @@ language: "de"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Funktion**
+- [ ] Was genau leistet die VERA-X Engine — liefert sie fertige KI-Produkte oder nur Bausteine?
+- [ ] Welche KI-Modelle und Tools stecken dahinter und wer trägt die API-Kosten?
+- [ ] Gibt es belastbare Fallstudien mit echten Kundenergebnissen?
+- [ ] Wie aktuell sind die enthaltenen KI-Strategien bei so schnelllebigem Markt?
+- [ ] Was unterscheidet VERA-X von generischen KI-Kursen ohne Technologie?
+- [ ] Passt der Preis von €13.413 zum Umfang — was ist der echte Gegenwert?
+
+**Passung**
+- [ ] Brauche ich Programmierkenntnisse oder technisches Verständnis?
+- [ ] Wie viele Stunden pro Woche sind realistisch für den Aufbau?
+- [ ] Funktioniert das Modell im DACH-Raum oder nur international?
+- [ ] Brauche ich Startkapital über den Kurspreis hinaus (Werbung, Tools)?
+- [ ] Für welche Branche eignet sich die Engine — ist meine dabei?
+- [ ] Bin ich als Solo-Selbstständiger Zielgruppe oder nur für Agenturen?
+
+**Wartung**
+- [ ] Habe ich lebenslangen Zugang oder laufende Lizenzkosten?
+- [ ] Wer pflegt die KI-Workflows, wenn sich Modelle oder APIs ändern?
+- [ ] Sind Updates inklusive oder kostenpflichtig?
+- [ ] Was passiert mit meinen Projekten, wenn ich kündige?
+
+**After-Sales**
+- [ ] Wie funktioniert die Digistore24-Geld-zurück-Garantie bei €13.413 — ohne Kleingedrucktes?
+- [ ] Welche Supportkanäle gibt es und wie schnell sind echte Antworten?
+- [ ] Gibt es Pflicht-Upsells nach dem Kauf?
+- [ ] Wer hilft bei technischen Problemen mit der Engine?
+
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VERA-X AI-Business Engine™? — Typ: Remote service provided electronically, Anbieter: smartboostAI, gelistet seit 2026-03-09
