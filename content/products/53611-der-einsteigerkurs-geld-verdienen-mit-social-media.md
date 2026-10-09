@@ -1,6 +1,6 @@
 # Der Einsteigerkurs: Geld verdienen mit Social Media
 
-> Product ID `53611` · Digistore24 productId `628818` · [HTML profile page](../../reviews/der-einsteigerkurs-geld-verdienen-mit-social-media-53611.html)
+> Product ID `53611` · Digistore24 productId `628818` · [HTML profile page](../../produkte/der-einsteigerkurs-geld-verdienen-mit-social-media-53611.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

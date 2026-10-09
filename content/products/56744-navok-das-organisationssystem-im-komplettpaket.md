@@ -1,6 +1,6 @@
 # NAVOK® – Das Organisationssystem im Komplettpaket
 
-> Product ID `56744` · Digistore24 productId `692793` · [HTML profile page](../../reviews/navok-das-organisationssystem-im-komplettpaket-56744.html)
+> Product ID `56744` · Digistore24 productId `692793` · [HTML profile page](../../produkte/navok-das-organisationssystem-im-komplettpaket-56744.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

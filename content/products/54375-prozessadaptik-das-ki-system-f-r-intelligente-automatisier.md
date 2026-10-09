@@ -1,6 +1,6 @@
 # Prozessadaptik – Das KI-System für intelligente Automatisier
 
-> Product ID `54375` · Digistore24 productId `641136` · [HTML profile page](../../reviews/prozessadaptik-das-ki-system-f-r-intelligente-automatisier-54375.html)
+> Product ID `54375` · Digistore24 productId `641136` · [HTML profile page](../../produkte/prozessadaptik-das-ki-system-f-r-intelligente-automatisier-54375.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

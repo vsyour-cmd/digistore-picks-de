@@ -1,6 +1,6 @@
 # Malbuch Masterclass
 
-> Product ID `53107` · Digistore24 productId `620284` · [HTML profile page](../../reviews/malbuch-masterclass-53107.html)
+> Product ID `53107` · Digistore24 productId `620284` · [HTML profile page](../../produkte/malbuch-masterclass-53107.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

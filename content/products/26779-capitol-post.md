@@ -1,6 +1,6 @@
 # CAPITOL POST
 
-> Product ID `26779` · Digistore24 productId `144799` · [HTML profile page](../../reviews/capitol-post-26779.html)
+> Product ID `26779` · Digistore24 productId `144799` · [HTML profile page](../../produkte/capitol-post-26779.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

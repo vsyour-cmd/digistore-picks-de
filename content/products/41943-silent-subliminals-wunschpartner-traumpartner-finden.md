@@ -1,6 +1,6 @@
 # Silent Subliminals Wunschpartner - Traumpartner finden
 
-> Product ID `41943` · Digistore24 productId `421454` · [HTML profile page](../../reviews/silent-subliminals-wunschpartner-traumpartner-finden-41943.html)
+> Product ID `41943` · Digistore24 productId `421454` · [HTML profile page](../../produkte/silent-subliminals-wunschpartner-traumpartner-finden-41943.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

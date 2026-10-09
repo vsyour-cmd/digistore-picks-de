@@ -1,6 +1,6 @@
 # Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets
 
-> Product ID `59168` · Digistore24 productId `723173` · [HTML profile page](../../reviews/der-wichtel-der-dein-kind-kennt-15-personalisierte-themen-sets-59168.html)
+> Product ID `59168` · Digistore24 productId `723173` · [HTML profile page](../../produkte/der-wichtel-der-dein-kind-kennt-15-personalisierte-themen-sets-59168.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Be Different ecademy – Entwicklung, die funktioniert
 
-> Product ID `59068` · Digistore24 productId `645039` · [HTML profile page](../../reviews/be-different-ecademy-entwicklung-die-funktioniert-59068.html)
+> Product ID `59068` · Digistore24 productId `645039` · [HTML profile page](../../produkte/be-different-ecademy-entwicklung-die-funktioniert-59068.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

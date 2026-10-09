@@ -1,6 +1,6 @@
 # 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze
 
-> Product ID `59383` · Digistore24 productId `732859` · [HTML profile page](../../reviews/50-pinterest-nischenideen-nischen-kompass-mit-matze-59383.html)
+> Product ID `59383` · Digistore24 productId `732859` · [HTML profile page](../../produkte/50-pinterest-nischenideen-nischen-kompass-mit-matze-59383.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

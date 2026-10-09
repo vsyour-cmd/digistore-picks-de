@@ -1,6 +1,6 @@
 # Das große Mentoring Paket für Hinterbliebene
 
-> Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../reviews/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)
+> Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

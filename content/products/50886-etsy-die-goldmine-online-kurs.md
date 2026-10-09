@@ -1,6 +1,6 @@
 # Etsy- Die Goldmine Online Kurs
 
-> Product ID `50886` · Digistore24 productId `588844` · [HTML profile page](../../reviews/etsy-die-goldmine-online-kurs-50886.html)
+> Product ID `50886` · Digistore24 productId `588844` · [HTML profile page](../../produkte/etsy-die-goldmine-online-kurs-50886.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

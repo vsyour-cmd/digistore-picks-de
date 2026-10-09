@@ -1,6 +1,6 @@
 # EUR/USD Daytrading Signale
 
-> Product ID `42474` · Digistore24 productId `477373` · [HTML profile page](../../reviews/eur-usd-daytrading-signale-42474.html)
+> Product ID `42474` · Digistore24 productId `477373` · [HTML profile page](../../produkte/eur-usd-daytrading-signale-42474.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

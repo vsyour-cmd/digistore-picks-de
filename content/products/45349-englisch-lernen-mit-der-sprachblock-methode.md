@@ -1,6 +1,6 @@
 # Englisch lernen mit der Sprachblock-Methode
 
-> Product ID `45349` · Digistore24 productId `515148` · [HTML profile page](../../reviews/englisch-lernen-mit-der-sprachblock-methode-45349.html)
+> Product ID `45349` · Digistore24 productId `515148` · [HTML profile page](../../produkte/englisch-lernen-mit-der-sprachblock-methode-45349.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

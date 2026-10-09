@@ -1,6 +1,6 @@
 # 32 Mut- und Affirmationskarten für Kinder
 
-> Product ID `59311` · Digistore24 productId `734331` · [HTML profile page](../../reviews/32-mut-und-affirmationskarten-f-r-kinder-59311.html)
+> Product ID `59311` · Digistore24 productId `734331` · [HTML profile page](../../produkte/32-mut-und-affirmationskarten-f-r-kinder-59311.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dein nächster Schritt - Bewerbung und Karrierewechsel
 
-> Product ID `58913` · Digistore24 productId `729732` · [HTML profile page](../../reviews/dein-n-chster-schritt-bewerbung-und-karrierewechsel-58913.html)
+> Product ID `58913` · Digistore24 productId `729732` · [HTML profile page](../../produkte/dein-n-chster-schritt-bewerbung-und-karrierewechsel-58913.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Budget Planer Excel | Haushaltsbuch Vorlage | Finanzplaner
 
-> Product ID `56148` · Digistore24 productId `681328` · [HTML profile page](../../reviews/budget-planer-excel-haushaltsbuch-vorlage-finanzplaner-56148.html)
+> Product ID `56148` · Digistore24 productId `681328` · [HTML profile page](../../produkte/budget-planer-excel-haushaltsbuch-vorlage-finanzplaner-56148.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

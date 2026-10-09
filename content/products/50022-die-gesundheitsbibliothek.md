@@ -1,6 +1,6 @@
 # Die Gesundheitsbibliothek
 
-> Product ID `50022` · Digistore24 productId `722703` · [HTML profile page](../../reviews/die-gesundheitsbibliothek-50022.html)
+> Product ID `50022` · Digistore24 productId `722703` · [HTML profile page](../../produkte/die-gesundheitsbibliothek-50022.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

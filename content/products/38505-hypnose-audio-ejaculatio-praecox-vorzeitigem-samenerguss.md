@@ -1,6 +1,6 @@
 # Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss
 
-> Product ID `38505` · Digistore24 productId `391233` · [HTML profile page](../../reviews/hypnose-audio-ejaculatio-praecox-vorzeitigem-samenerguss-38505.html)
+> Product ID `38505` · Digistore24 productId `391233` · [HTML profile page](../../produkte/hypnose-audio-ejaculatio-praecox-vorzeitigem-samenerguss-38505.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

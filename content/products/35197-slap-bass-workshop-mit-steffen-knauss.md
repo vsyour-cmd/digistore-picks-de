@@ -1,6 +1,6 @@
 # Slap-Bass Workshop mit Steffen Knauss
 
-> Product ID `35197` · Digistore24 productId `100621` · [HTML profile page](../../reviews/slap-bass-workshop-mit-steffen-knauss-35197.html)
+> Product ID `35197` · Digistore24 productId `100621` · [HTML profile page](../../produkte/slap-bass-workshop-mit-steffen-knauss-35197.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

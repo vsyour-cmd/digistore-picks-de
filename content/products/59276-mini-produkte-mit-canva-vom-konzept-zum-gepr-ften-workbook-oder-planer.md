@@ -1,6 +1,6 @@
 # Mini-Produkte mit Canva: Vom Konzept zum geprüften Workbook oder Planer
 
-> Product ID `59276` · Digistore24 productId `733946` · [HTML profile page](../../reviews/mini-produkte-mit-canva-vom-konzept-zum-gepr-ften-workbook-oder-planer-59276.html)
+> Product ID `59276` · Digistore24 productId `733946` · [HTML profile page](../../produkte/mini-produkte-mit-canva-vom-konzept-zum-gepr-ften-workbook-oder-planer-59276.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

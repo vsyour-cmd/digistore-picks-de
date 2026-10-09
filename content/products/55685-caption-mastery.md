@@ -1,6 +1,6 @@
 # Caption Mastery
 
-> Product ID `55685` · Digistore24 productId `595163` · [HTML profile page](../../reviews/caption-mastery-55685.html)
+> Product ID `55685` · Digistore24 productId `595163` · [HTML profile page](../../produkte/caption-mastery-55685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

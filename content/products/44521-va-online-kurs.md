@@ -1,6 +1,6 @@
 # VA Online Kurs
 
-> Product ID `44521` · Digistore24 productId `181839` · [HTML profile page](../../reviews/va-online-kurs-44521.html)
+> Product ID `44521` · Digistore24 productId `181839` · [HTML profile page](../../produkte/va-online-kurs-44521.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

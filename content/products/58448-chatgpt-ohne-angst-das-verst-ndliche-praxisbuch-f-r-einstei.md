@@ -1,6 +1,6 @@
 # ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei
 
-> Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../reviews/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)
+> Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../produkte/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

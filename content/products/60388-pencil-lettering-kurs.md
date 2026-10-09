@@ -1,6 +1,6 @@
 # Pencil Lettering Kurs
 
-> Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../reviews/pencil-lettering-kurs-60388.html)
+> Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../produkte/pencil-lettering-kurs-60388.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

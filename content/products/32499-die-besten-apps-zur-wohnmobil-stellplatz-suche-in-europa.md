@@ -1,6 +1,6 @@
 # Die besten Apps zur Wohnmobil-Stellplatz-Suche in Europa
 
-> Product ID `32499` · Digistore24 productId `323258` · [HTML profile page](../../reviews/die-besten-apps-zur-wohnmobil-stellplatz-suche-in-europa-32499.html)
+> Product ID `32499` · Digistore24 productId `323258` · [HTML profile page](../../produkte/die-besten-apps-zur-wohnmobil-stellplatz-suche-in-europa-32499.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

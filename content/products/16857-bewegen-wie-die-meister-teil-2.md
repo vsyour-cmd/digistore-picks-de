@@ -1,6 +1,6 @@
 # Bewegen wie die Meister Teil 2
 
-> Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../reviews/bewegen-wie-die-meister-teil-2-16857.html)
+> Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../produkte/bewegen-wie-die-meister-teil-2-16857.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

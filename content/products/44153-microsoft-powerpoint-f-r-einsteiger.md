@@ -1,6 +1,6 @@
 # Microsoft Powerpoint für Einsteiger
 
-> Product ID `44153` · Digistore24 productId `488372` · [HTML profile page](../../reviews/microsoft-powerpoint-f-r-einsteiger-44153.html)
+> Product ID `44153` · Digistore24 productId `488372` · [HTML profile page](../../produkte/microsoft-powerpoint-f-r-einsteiger-44153.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # WAWIKUKL 14-tägige Testversion
 
-> Product ID `60230` · Digistore24 productId `733111` · [HTML profile page](../../reviews/wawikukl-14-t-gige-testversion-60230.html)
+> Product ID `60230` · Digistore24 productId `733111` · [HTML profile page](../../produkte/wawikukl-14-t-gige-testversion-60230.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

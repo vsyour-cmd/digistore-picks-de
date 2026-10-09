@@ -1,6 +1,6 @@
 # Online Kurs Mehrere Hunde
 
-> Product ID `52082` · Digistore24 productId `564188` · [HTML profile page](../../reviews/online-kurs-mehrere-hunde-52082.html)
+> Product ID `52082` · Digistore24 productId `564188` · [HTML profile page](../../produkte/online-kurs-mehrere-hunde-52082.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

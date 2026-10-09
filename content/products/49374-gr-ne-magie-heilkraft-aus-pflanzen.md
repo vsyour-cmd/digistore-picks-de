@@ -1,6 +1,6 @@
 # Grüne Magie - Heilkraft aus Pflanzen
 
-> Product ID `49374` · Digistore24 productId `569388` · [HTML profile page](../../reviews/gr-ne-magie-heilkraft-aus-pflanzen-49374.html)
+> Product ID `49374` · Digistore24 productId `569388` · [HTML profile page](../../produkte/gr-ne-magie-heilkraft-aus-pflanzen-49374.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

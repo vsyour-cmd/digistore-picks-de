@@ -1,6 +1,6 @@
 # Geld aus dem Nichts
 
-> Product ID `7795` · Digistore24 productId `51607` · [HTML profile page](../../reviews/geld-aus-dem-nichts-7795.html)
+> Product ID `7795` · Digistore24 productId `51607` · [HTML profile page](../../produkte/geld-aus-dem-nichts-7795.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

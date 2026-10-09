@@ -1,6 +1,6 @@
 # Fit  Gesund in 8 Wochen: Der komplette Homeworkout-  Ernäh
 
-> Product ID `59314` · Digistore24 productId `731441` · [HTML profile page](../../reviews/fit-gesund-in-8-wochen-der-komplette-homeworkout-ern-h-59314.html)
+> Product ID `59314` · Digistore24 productId `731441` · [HTML profile page](../../produkte/fit-gesund-in-8-wochen-der-komplette-homeworkout-ern-h-59314.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung
 
-> Product ID `55526` · Digistore24 productId `667194` · [HTML profile page](../../reviews/7-tage-heart-reset-pdf-emotional-detox-nach-trennung-55526.html)
+> Product ID `55526` · Digistore24 productId `667194` · [HTML profile page](../../produkte/7-tage-heart-reset-pdf-emotional-detox-nach-trennung-55526.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

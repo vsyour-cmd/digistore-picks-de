@@ -1,6 +1,6 @@
 # GewerkFlow – 50 % Affiliate-Provision zum Start
 
-> Product ID `60247` · Digistore24 productId `740967` · [HTML profile page](../../reviews/gewerkflow-50-affiliate-provision-zum-start-60247.html)
+> Product ID `60247` · Digistore24 productId `740967` · [HTML profile page](../../produkte/gewerkflow-50-affiliate-provision-zum-start-60247.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

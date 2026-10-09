@@ -1,6 +1,6 @@
 # Das Glück liebt glückliche Menschen - Erstes Kapitel
 
-> Product ID `44603` · Digistore24 productId `447270` · [HTML profile page](../../reviews/das-gl-ck-liebt-gl-ckliche-menschen-erstes-kapitel-44603.html)
+> Product ID `44603` · Digistore24 productId `447270` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-erstes-kapitel-44603.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

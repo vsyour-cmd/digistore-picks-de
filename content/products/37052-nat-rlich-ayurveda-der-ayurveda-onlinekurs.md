@@ -1,6 +1,6 @@
 # Natürlich Ayurveda - Der Ayurveda Onlinekurs
 
-> Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../reviews/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)
+> Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../produkte/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

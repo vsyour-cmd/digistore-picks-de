@@ -1,6 +1,6 @@
 # Launch ohne eigene Liste
 
-> Product ID `57282` · Digistore24 productId `704259` · [HTML profile page](../../reviews/launch-ohne-eigene-liste-57282.html)
+> Product ID `57282` · Digistore24 productId `704259` · [HTML profile page](../../produkte/launch-ohne-eigene-liste-57282.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

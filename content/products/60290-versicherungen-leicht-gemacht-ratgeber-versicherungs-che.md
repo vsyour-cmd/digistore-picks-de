@@ -1,6 +1,6 @@
 # Versicherungen leicht gemacht – Ratgeber + Versicherungs-Che
 
-> Product ID `60290` · Digistore24 productId `741240` · [HTML profile page](../../reviews/versicherungen-leicht-gemacht-ratgeber-versicherungs-che-60290.html)
+> Product ID `60290` · Digistore24 productId `741240` · [HTML profile page](../../produkte/versicherungen-leicht-gemacht-ratgeber-versicherungs-che-60290.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

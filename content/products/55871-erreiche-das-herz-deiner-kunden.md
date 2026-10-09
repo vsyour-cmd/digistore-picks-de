@@ -1,6 +1,6 @@
 # Erreiche das Herz deiner Kunden
 
-> Product ID `55871` · Digistore24 productId `675733` · [HTML profile page](../../reviews/erreiche-das-herz-deiner-kunden-55871.html)
+> Product ID `55871` · Digistore24 productId `675733` · [HTML profile page](../../produkte/erreiche-das-herz-deiner-kunden-55871.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

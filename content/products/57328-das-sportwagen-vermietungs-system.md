@@ -1,6 +1,6 @@
 # Das Sportwagen-Vermietungs-System
 
-> Product ID `57328` · Digistore24 productId `706657` · [HTML profile page](../../reviews/das-sportwagen-vermietungs-system-57328.html)
+> Product ID `57328` · Digistore24 productId `706657` · [HTML profile page](../../produkte/das-sportwagen-vermietungs-system-57328.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

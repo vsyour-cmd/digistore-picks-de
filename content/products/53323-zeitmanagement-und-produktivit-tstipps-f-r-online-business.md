@@ -1,6 +1,6 @@
 # Zeitmanagement und Produktivitätstipps für Online-Business
 
-> Product ID `53323` · Digistore24 productId `626643` · [HTML profile page](../../reviews/zeitmanagement-und-produktivit-tstipps-f-r-online-business-53323.html)
+> Product ID `53323` · Digistore24 productId `626643` · [HTML profile page](../../produkte/zeitmanagement-und-produktivit-tstipps-f-r-online-business-53323.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

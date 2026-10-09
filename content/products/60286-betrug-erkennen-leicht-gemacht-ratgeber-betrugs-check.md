@@ -1,6 +1,6 @@
 # Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
 
-> Product ID `60286` · Digistore24 productId `741235` · [HTML profile page](../../reviews/betrug-erkennen-leicht-gemacht-ratgeber-betrugs-check-60286.html)
+> Product ID `60286` · Digistore24 productId `741235` · [HTML profile page](../../produkte/betrug-erkennen-leicht-gemacht-ratgeber-betrugs-check-60286.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

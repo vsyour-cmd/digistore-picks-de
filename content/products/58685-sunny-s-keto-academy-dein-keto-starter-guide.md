@@ -1,6 +1,6 @@
 # Sunny’s Keto Academy – Dein Keto Starter Guide
 
-> Product ID `58685` · Digistore24 productId `719130` · [HTML profile page](../../reviews/sunny-s-keto-academy-dein-keto-starter-guide-58685.html)
+> Product ID `58685` · Digistore24 productId `719130` · [HTML profile page](../../produkte/sunny-s-keto-academy-dein-keto-starter-guide-58685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Facebook Reichweiten Blueprint - Schritt für Schritt Guide
 
-> Product ID `50872` · Digistore24 productId `589109` · [HTML profile page](../../reviews/facebook-reichweiten-blueprint-schritt-f-r-schritt-guide-50872.html)
+> Product ID `50872` · Digistore24 productId `589109` · [HTML profile page](../../produkte/facebook-reichweiten-blueprint-schritt-f-r-schritt-guide-50872.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

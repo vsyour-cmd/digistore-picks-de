@@ -1,6 +1,6 @@
 # Englisch lernen - Einfach sprechen!
 
-> Product ID `5273` · Digistore24 productId `35449` · [HTML profile page](../../reviews/englisch-lernen-einfach-sprechen-5273.html)
+> Product ID `5273` · Digistore24 productId `35449` · [HTML profile page](../../produkte/englisch-lernen-einfach-sprechen-5273.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

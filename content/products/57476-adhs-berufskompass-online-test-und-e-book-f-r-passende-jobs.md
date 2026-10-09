@@ -1,6 +1,6 @@
 # ADHS Berufskompass Online-Test und E-Book für passende Jobs
 
-> Product ID `57476` · Digistore24 productId `708246` · [HTML profile page](../../reviews/adhs-berufskompass-online-test-und-e-book-f-r-passende-jobs-57476.html)
+> Product ID `57476` · Digistore24 productId `708246` · [HTML profile page](../../produkte/adhs-berufskompass-online-test-und-e-book-f-r-passende-jobs-57476.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

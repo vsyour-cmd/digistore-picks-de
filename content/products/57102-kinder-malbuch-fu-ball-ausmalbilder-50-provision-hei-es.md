@@ -1,6 +1,6 @@
 # Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes
 
-> Product ID `57102` · Digistore24 productId `703474` · [HTML profile page](../../reviews/kinder-malbuch-fu-ball-ausmalbilder-50-provision-hei-es-57102.html)
+> Product ID `57102` · Digistore24 productId `703474` · [HTML profile page](../../produkte/kinder-malbuch-fu-ball-ausmalbilder-50-provision-hei-es-57102.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

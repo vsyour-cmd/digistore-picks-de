@@ -1,6 +1,6 @@
 # Pour Ellie – Futterklarheit: Basis-Kurs Hundeernährung
 
-> Product ID `58757` · Digistore24 productId `658898` · [HTML profile page](../../reviews/pour-ellie-futterklarheit-basis-kurs-hundeern-hrung-58757.html)
+> Product ID `58757` · Digistore24 productId `658898` · [HTML profile page](../../produkte/pour-ellie-futterklarheit-basis-kurs-hundeern-hrung-58757.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat
 
-> Product ID `33190` · Digistore24 productId `276717` · [HTML profile page](../../reviews/erste-hilfe-kurs-online-inkl-teilnahme-zertifikat-33190.html)
+> Product ID `33190` · Digistore24 productId `276717` · [HTML profile page](../../produkte/erste-hilfe-kurs-online-inkl-teilnahme-zertifikat-33190.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich
 
-> Product ID `60038` · Digistore24 productId `734021` · [HTML profile page](../../reviews/maya-digitale-assistentin-bis-980-pro-kunde-monatlich-60038.html)
+> Product ID `60038` · Digistore24 productId `734021` · [HTML profile page](../../produkte/maya-digitale-assistentin-bis-980-pro-kunde-monatlich-60038.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

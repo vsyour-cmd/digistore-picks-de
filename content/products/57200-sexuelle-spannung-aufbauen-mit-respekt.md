@@ -1,6 +1,6 @@
 # Sexuelle Spannung aufbauen mit Respekt
 
-> Product ID `57200` · Digistore24 productId `701958` · [HTML profile page](../../reviews/sexuelle-spannung-aufbauen-mit-respekt-57200.html)
+> Product ID `57200` · Digistore24 productId `701958` · [HTML profile page](../../produkte/sexuelle-spannung-aufbauen-mit-respekt-57200.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # GKG-1 Grundlagenermittlung
 
-> Product ID `59497` · Digistore24 productId `732143` · [HTML profile page](../../reviews/gkg-1-grundlagenermittlung-59497.html)
+> Product ID `59497` · Digistore24 productId `732143` · [HTML profile page](../../produkte/gkg-1-grundlagenermittlung-59497.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

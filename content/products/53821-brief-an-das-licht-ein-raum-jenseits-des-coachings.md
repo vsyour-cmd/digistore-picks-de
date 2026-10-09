@@ -1,6 +1,6 @@
 # Brief an das Licht - ein Raum jenseits des Coachings
 
-> Product ID `53821` · Digistore24 productId `633202` · [HTML profile page](../../reviews/brief-an-das-licht-ein-raum-jenseits-des-coachings-53821.html)
+> Product ID `53821` · Digistore24 productId `633202` · [HTML profile page](../../produkte/brief-an-das-licht-ein-raum-jenseits-des-coachings-53821.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Im Leben klar, in Krisen stark - mit LifeSkripting®
 
-> Product ID `56022` · Digistore24 productId `599232` · [HTML profile page](../../reviews/im-leben-klar-in-krisen-stark-mit-lifeskripting-56022.html)
+> Product ID `56022` · Digistore24 productId `599232` · [HTML profile page](../../produkte/im-leben-klar-in-krisen-stark-mit-lifeskripting-56022.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

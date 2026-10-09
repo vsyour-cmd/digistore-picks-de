@@ -1,6 +1,6 @@
 # Drei Ebenen des Wissens
 
-> Product ID `58724` · Digistore24 productId `719960` · [HTML profile page](../../reviews/drei-ebenen-des-wissens-58724.html)
+> Product ID `58724` · Digistore24 productId `719960` · [HTML profile page](../../produkte/drei-ebenen-des-wissens-58724.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

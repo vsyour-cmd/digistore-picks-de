@@ -1,6 +1,6 @@
 # Devodix Poster
 
-> Product ID `24425` · Digistore24 productId `415216` · [HTML profile page](../../reviews/devodix-poster-24425.html)
+> Product ID `24425` · Digistore24 productId `415216` · [HTML profile page](../../produkte/devodix-poster-24425.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # FiboCross | TradingView Indikator
 
-> Product ID `33792` · Digistore24 productId `305369` · [HTML profile page](../../reviews/fibocross-tradingview-indikator-33792.html)
+> Product ID `33792` · Digistore24 productId `305369` · [HTML profile page](../../produkte/fibocross-tradingview-indikator-33792.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

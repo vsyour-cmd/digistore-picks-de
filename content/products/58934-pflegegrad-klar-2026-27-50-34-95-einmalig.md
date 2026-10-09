@@ -1,6 +1,6 @@
 # Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig
 
-> Product ID `58934` · Digistore24 productId `729268` · [HTML profile page](../../reviews/pflegegrad-klar-2026-27-50-34-95-einmalig-58934.html)
+> Product ID `58934` · Digistore24 productId `729268` · [HTML profile page](../../produkte/pflegegrad-klar-2026-27-50-34-95-einmalig-58934.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

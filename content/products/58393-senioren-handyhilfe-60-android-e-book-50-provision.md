@@ -1,6 +1,6 @@
 # Senioren-Handyhilfe 60+: Android-E-Book, 50 % Provision
 
-> Product ID `58393` · Digistore24 productId `720782` · [HTML profile page](../../reviews/senioren-handyhilfe-60-android-e-book-50-provision-58393.html)
+> Product ID `58393` · Digistore24 productId `720782` · [HTML profile page](../../produkte/senioren-handyhilfe-60-android-e-book-50-provision-58393.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

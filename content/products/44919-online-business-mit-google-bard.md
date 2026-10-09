@@ -1,6 +1,6 @@
 # Online Business mit Google Bard
 
-> Product ID `44919` · Digistore24 productId `509677` · [HTML profile page](../../reviews/online-business-mit-google-bard-44919.html)
+> Product ID `44919` · Digistore24 productId `509677` · [HTML profile page](../../produkte/online-business-mit-google-bard-44919.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

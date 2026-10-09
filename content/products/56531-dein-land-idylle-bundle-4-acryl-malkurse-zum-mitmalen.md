@@ -1,6 +1,6 @@
 # Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen
 
-> Product ID `56531` · Digistore24 productId `649309` · [HTML profile page](../../reviews/dein-land-idylle-bundle-4-acryl-malkurse-zum-mitmalen-56531.html)
+> Product ID `56531` · Digistore24 productId `649309` · [HTML profile page](../../produkte/dein-land-idylle-bundle-4-acryl-malkurse-zum-mitmalen-56531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

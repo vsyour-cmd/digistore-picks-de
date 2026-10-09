@@ -1,6 +1,6 @@
 # Magische Mandalas - Dein Ausmalbuch für innere Balance
 
-> Product ID `48336` · Digistore24 productId `556210` · [HTML profile page](../../reviews/magische-mandalas-dein-ausmalbuch-f-r-innere-balance-48336.html)
+> Product ID `48336` · Digistore24 productId `556210` · [HTML profile page](../../produkte/magische-mandalas-dein-ausmalbuch-f-r-innere-balance-48336.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

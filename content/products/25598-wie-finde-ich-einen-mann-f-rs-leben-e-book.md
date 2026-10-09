@@ -1,6 +1,6 @@
 # Wie finde ich einen Mann fürs Leben? [E-Book]
 
-> Product ID `25598` · Digistore24 productId `88743` · [HTML profile page](../../reviews/wie-finde-ich-einen-mann-f-rs-leben-e-book-25598.html)
+> Product ID `25598` · Digistore24 productId `88743` · [HTML profile page](../../produkte/wie-finde-ich-einen-mann-f-rs-leben-e-book-25598.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

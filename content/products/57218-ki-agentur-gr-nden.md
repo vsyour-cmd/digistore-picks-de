@@ -1,6 +1,6 @@
 # KI-Agentur gründen
 
-> Product ID `57218` · Digistore24 productId `701923` · [HTML profile page](../../reviews/ki-agentur-gr-nden-57218.html)
+> Product ID `57218` · Digistore24 productId `701923` · [HTML profile page](../../produkte/ki-agentur-gr-nden-57218.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

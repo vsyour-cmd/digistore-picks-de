@@ -1,6 +1,6 @@
 # LingChat – Werde fließend mit KI
 
-> Product ID `54205` · Digistore24 productId `629110` · [HTML profile page](../../reviews/lingchat-werde-flie-end-mit-ki-54205.html)
+> Product ID `54205` · Digistore24 productId `629110` · [HTML profile page](../../produkte/lingchat-werde-flie-end-mit-ki-54205.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

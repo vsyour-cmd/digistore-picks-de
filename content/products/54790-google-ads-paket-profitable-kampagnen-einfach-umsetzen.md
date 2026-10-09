@@ -1,6 +1,6 @@
 # Google Ads Paket – Profitable Kampagnen einfach umsetzen
 
-> Product ID `54790` · Digistore24 productId `651637` · [HTML profile page](../../reviews/google-ads-paket-profitable-kampagnen-einfach-umsetzen-54790.html)
+> Product ID `54790` · Digistore24 productId `651637` · [HTML profile page](../../produkte/google-ads-paket-profitable-kampagnen-einfach-umsetzen-54790.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

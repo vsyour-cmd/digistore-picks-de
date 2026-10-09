@@ -1,6 +1,6 @@
 # PostSniper - Viraler Post Ersteller
 
-> Product ID `56865` · Digistore24 productId `700157` · [HTML profile page](../../reviews/postsniper-viraler-post-ersteller-56865.html)
+> Product ID `56865` · Digistore24 productId `700157` · [HTML profile page](../../produkte/postsniper-viraler-post-ersteller-56865.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI Affiliate Code
 
-> Product ID `45976` · Digistore24 productId `524999` · [HTML profile page](../../reviews/ki-affiliate-code-45976.html)
+> Product ID `45976` · Digistore24 productId `524999` · [HTML profile page](../../produkte/ki-affiliate-code-45976.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

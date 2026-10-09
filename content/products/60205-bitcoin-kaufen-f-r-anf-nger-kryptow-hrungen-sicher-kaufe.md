@@ -1,6 +1,6 @@
 # Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe
 
-> Product ID `60205` · Digistore24 productId `703267` · [HTML profile page](../../reviews/bitcoin-kaufen-f-r-anf-nger-kryptow-hrungen-sicher-kaufe-60205.html)
+> Product ID `60205` · Digistore24 productId `703267` · [HTML profile page](../../produkte/bitcoin-kaufen-f-r-anf-nger-kryptow-hrungen-sicher-kaufe-60205.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

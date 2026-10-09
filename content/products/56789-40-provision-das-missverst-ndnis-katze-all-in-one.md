@@ -1,6 +1,6 @@
 # 40% Provision: "Das Missverständnis Katze" – All-in-One....
 
-> Product ID `56789` · Digistore24 productId `677026` · [HTML profile page](../../reviews/40-provision-das-missverst-ndnis-katze-all-in-one-56789.html)
+> Product ID `56789` · Digistore24 productId `677026` · [HTML profile page](../../produkte/40-provision-das-missverst-ndnis-katze-all-in-one-56789.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

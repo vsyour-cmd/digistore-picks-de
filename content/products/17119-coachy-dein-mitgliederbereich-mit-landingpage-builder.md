@@ -1,6 +1,6 @@
 # COACHY - Dein Mitgliederbereich mit Landingpage Builder!
 
-> Product ID `17119` · Digistore24 productId `288552` · [HTML profile page](../../reviews/coachy-dein-mitgliederbereich-mit-landingpage-builder-17119.html)
+> Product ID `17119` · Digistore24 productId `288552` · [HTML profile page](../../produkte/coachy-dein-mitgliederbereich-mit-landingpage-builder-17119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

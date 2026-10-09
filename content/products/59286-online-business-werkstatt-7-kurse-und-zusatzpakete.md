@@ -1,6 +1,6 @@
 # Online-Business-Werkstatt – 7 Kurse und Zusatzpakete
 
-> Product ID `59286` · Digistore24 productId `734083` · [HTML profile page](../../reviews/online-business-werkstatt-7-kurse-und-zusatzpakete-59286.html)
+> Product ID `59286` · Digistore24 productId `734083` · [HTML profile page](../../produkte/online-business-werkstatt-7-kurse-und-zusatzpakete-59286.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

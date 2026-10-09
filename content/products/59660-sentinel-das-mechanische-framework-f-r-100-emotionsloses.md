@@ -1,6 +1,6 @@
 # Sentinel – Das mechanische Framework für 100 % emotionsloses
 
-> Product ID `59660` · Digistore24 productId `736790` · [HTML profile page](../../reviews/sentinel-das-mechanische-framework-f-r-100-emotionsloses-59660.html)
+> Product ID `59660` · Digistore24 productId `736790` · [HTML profile page](../../produkte/sentinel-das-mechanische-framework-f-r-100-emotionsloses-59660.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

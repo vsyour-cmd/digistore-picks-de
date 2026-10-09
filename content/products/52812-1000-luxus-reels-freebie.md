@@ -1,6 +1,6 @@
 # 1000+ Luxus Reels (Freebie)
 
-> Product ID `52812` · Digistore24 productId `616958` · [HTML profile page](../../reviews/1000-luxus-reels-freebie-52812.html)
+> Product ID `52812` · Digistore24 productId `616958` · [HTML profile page](../../produkte/1000-luxus-reels-freebie-52812.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

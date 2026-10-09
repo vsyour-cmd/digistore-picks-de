@@ -1,6 +1,6 @@
 # Innere Kraft in stürmischen Zeiten
 
-> Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../reviews/innere-kraft-in-st-rmischen-zeiten-47071.html)
+> Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../produkte/innere-kraft-in-st-rmischen-zeiten-47071.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

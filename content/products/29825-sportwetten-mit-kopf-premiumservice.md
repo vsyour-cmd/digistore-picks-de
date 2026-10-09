@@ -1,6 +1,6 @@
 # Sportwetten-mit-Kopf Premiumservice
 
-> Product ID `29825` · Digistore24 productId `284013` · [HTML profile page](../../reviews/sportwetten-mit-kopf-premiumservice-29825.html)
+> Product ID `29825` · Digistore24 productId `284013` · [HTML profile page](../../produkte/sportwetten-mit-kopf-premiumservice-29825.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

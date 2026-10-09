@@ -1,6 +1,6 @@
 # Heilige Geometrie - Platonische Körper - E-Book      Mitglie
 
-> Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../reviews/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)
+> Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../produkte/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

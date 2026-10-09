@@ -1,6 +1,6 @@
 # Moderne Beziehung
 
-> Product ID `57192` · Digistore24 productId `701950` · [HTML profile page](../../reviews/moderne-beziehung-57192.html)
+> Product ID `57192` · Digistore24 productId `701950` · [HTML profile page](../../produkte/moderne-beziehung-57192.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

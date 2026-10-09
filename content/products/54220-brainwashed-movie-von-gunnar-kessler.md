@@ -1,6 +1,6 @@
 # Brainwashed Movie - von Gunnar Kessler
 
-> Product ID `54220` · Digistore24 productId `576777` · [HTML profile page](../../reviews/brainwashed-movie-von-gunnar-kessler-54220.html)
+> Product ID `54220` · Digistore24 productId `576777` · [HTML profile page](../../produkte/brainwashed-movie-von-gunnar-kessler-54220.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

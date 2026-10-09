@@ -1,6 +1,6 @@
 # Ziehharmonika Anfängerkurs
 
-> Product ID `37901` · Digistore24 productId `404226` · [HTML profile page](../../reviews/ziehharmonika-anf-ngerkurs-37901.html)
+> Product ID `37901` · Digistore24 productId `404226` · [HTML profile page](../../produkte/ziehharmonika-anf-ngerkurs-37901.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

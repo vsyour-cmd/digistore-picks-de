@@ -1,6 +1,6 @@
 # Heilige Geometrie - Zeichen- und Bastelkurs Torus
 
-> Product ID `39697` · Digistore24 productId `437776` · [HTML profile page](../../reviews/heilige-geometrie-zeichen-und-bastelkurs-torus-39697.html)
+> Product ID `39697` · Digistore24 productId `437776` · [HTML profile page](../../produkte/heilige-geometrie-zeichen-und-bastelkurs-torus-39697.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

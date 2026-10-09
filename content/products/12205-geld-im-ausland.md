@@ -1,6 +1,6 @@
 # GELD im AUSLAND
 
-> Product ID `12205` · Digistore24 productId `87347` · [HTML profile page](../../reviews/geld-im-ausland-12205.html)
+> Product ID `12205` · Digistore24 productId `87347` · [HTML profile page](../../produkte/geld-im-ausland-12205.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # TikTok Cashflow mit KI - Freebie
 
-> Product ID `57646` · Digistore24 productId `713053` · [HTML profile page](../../reviews/tiktok-cashflow-mit-ki-freebie-57646.html)
+> Product ID `57646` · Digistore24 productId `713053` · [HTML profile page](../../produkte/tiktok-cashflow-mit-ki-freebie-57646.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

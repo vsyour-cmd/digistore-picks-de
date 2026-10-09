@@ -1,6 +1,6 @@
 # Trennung und Liebeskummer überwinden (Onlinekurs)
 
-> Product ID `37345` · Digistore24 productId `395658` · [HTML profile page](../../reviews/trennung-und-liebeskummer-berwinden-onlinekurs-37345.html)
+> Product ID `37345` · Digistore24 productId `395658` · [HTML profile page](../../produkte/trennung-und-liebeskummer-berwinden-onlinekurs-37345.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

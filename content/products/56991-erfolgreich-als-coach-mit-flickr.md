@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Flickr
 
-> Product ID `56991` · Digistore24 productId `701411` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-flickr-56991.html)
+> Product ID `56991` · Digistore24 productId `701411` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-flickr-56991.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

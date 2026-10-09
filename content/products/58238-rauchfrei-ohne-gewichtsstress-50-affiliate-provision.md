@@ -1,6 +1,6 @@
 # Rauchfrei ohne Gewichtsstress – 50 % Affiliate-Provision
 
-> Product ID `58238` · Digistore24 productId `717827` · [HTML profile page](../../reviews/rauchfrei-ohne-gewichtsstress-50-affiliate-provision-58238.html)
+> Product ID `58238` · Digistore24 productId `717827` · [HTML profile page](../../produkte/rauchfrei-ohne-gewichtsstress-50-affiliate-provision-58238.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Trade Management System
 
-> Product ID `33316` · Digistore24 productId `287138` · [HTML profile page](../../reviews/trade-management-system-33316.html)
+> Product ID `33316` · Digistore24 productId `287138` · [HTML profile page](../../produkte/trade-management-system-33316.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

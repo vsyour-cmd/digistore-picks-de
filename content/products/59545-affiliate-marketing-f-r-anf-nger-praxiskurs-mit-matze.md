@@ -1,6 +1,6 @@
 # Affiliate Marketing für Anfänger – Praxiskurs mit Matze
 
-> Product ID `59545` · Digistore24 productId `736121` · [HTML profile page](../../reviews/affiliate-marketing-f-r-anf-nger-praxiskurs-mit-matze-59545.html)
+> Product ID `59545` · Digistore24 productId `736121` · [HTML profile page](../../produkte/affiliate-marketing-f-r-anf-nger-praxiskurs-mit-matze-59545.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

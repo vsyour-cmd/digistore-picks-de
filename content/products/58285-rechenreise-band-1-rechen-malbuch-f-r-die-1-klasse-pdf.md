@@ -1,6 +1,6 @@
 # Rechenreise Band 1 – Rechen-Malbuch für die 1. Klasse (PDF)
 
-> Product ID `58285` · Digistore24 productId `720244` · [HTML profile page](../../reviews/rechenreise-band-1-rechen-malbuch-f-r-die-1-klasse-pdf-58285.html)
+> Product ID `58285` · Digistore24 productId `720244` · [HTML profile page](../../produkte/rechenreise-band-1-rechen-malbuch-f-r-die-1-klasse-pdf-58285.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # All in Paket
 
-> Product ID `58436` · Digistore24 productId `722598` · [HTML profile page](../../reviews/all-in-paket-58436.html)
+> Product ID `58436` · Digistore24 productId `722598` · [HTML profile page](../../produkte/all-in-paket-58436.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

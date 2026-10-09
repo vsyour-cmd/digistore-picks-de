@@ -1,6 +1,6 @@
 # Identität vor Realität
 
-> Product ID `57600` · Digistore24 productId `711480` · [HTML profile page](../../reviews/identit-t-vor-realit-t-57600.html)
+> Product ID `57600` · Digistore24 productId `711480` · [HTML profile page](../../produkte/identit-t-vor-realit-t-57600.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

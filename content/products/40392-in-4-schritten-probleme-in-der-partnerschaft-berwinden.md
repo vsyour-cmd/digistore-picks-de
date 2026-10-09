@@ -1,6 +1,6 @@
 # In 4 Schritten Probleme in der Partnerschaft überwinden
 
-> Product ID `40392` · Digistore24 productId `442578` · [HTML profile page](../../reviews/in-4-schritten-probleme-in-der-partnerschaft-berwinden-40392.html)
+> Product ID `40392` · Digistore24 productId `442578` · [HTML profile page](../../produkte/in-4-schritten-probleme-in-der-partnerschaft-berwinden-40392.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

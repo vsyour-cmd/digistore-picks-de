@@ -1,6 +1,6 @@
 # Mini-Produkt-Ideenbibliothek – Digitale Produktideen
 
-> Product ID `59389` · Digistore24 productId `733947` · [HTML profile page](../../reviews/mini-produkt-ideenbibliothek-digitale-produktideen-59389.html)
+> Product ID `59389` · Digistore24 productId `733947` · [HTML profile page](../../produkte/mini-produkt-ideenbibliothek-digitale-produktideen-59389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

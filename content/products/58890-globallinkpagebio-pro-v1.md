@@ -1,6 +1,6 @@
 # GlobalLinkPageBio PRO –v1
 
-> Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../reviews/globallinkpagebio-pro-v1-58890.html)
+> Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../produkte/globallinkpagebio-pro-v1-58890.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

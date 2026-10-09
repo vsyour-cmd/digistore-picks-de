@@ -1,6 +1,6 @@
 # KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov
 
-> Product ID `56869` · Digistore24 productId `699135` · [HTML profile page](../../reviews/ki-content-kit-low-ticket-hammer-17-50-prov-56869.html)
+> Product ID `56869` · Digistore24 productId `699135` · [HTML profile page](../../produkte/ki-content-kit-low-ticket-hammer-17-50-prov-56869.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Thatsfootball90 I Partnerprogramm
 
-> Product ID `43029` · Digistore24 productId `481734` · [HTML profile page](../../reviews/thatsfootball90-i-partnerprogramm-43029.html)
+> Product ID `43029` · Digistore24 productId `481734` · [HTML profile page](../../produkte/thatsfootball90-i-partnerprogramm-43029.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

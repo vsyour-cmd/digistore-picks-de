@@ -1,6 +1,6 @@
 # E-Book: Banken Lexikon
 
-> Product ID `10369` · Digistore24 productId `72935` · [HTML profile page](../../reviews/e-book-banken-lexikon-10369.html)
+> Product ID `10369` · Digistore24 productId `72935` · [HTML profile page](../../produkte/e-book-banken-lexikon-10369.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

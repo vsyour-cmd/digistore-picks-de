@@ -1,6 +1,6 @@
 # Gender Mainstream
 
-> Product ID `58718` · Digistore24 productId `716554` · [HTML profile page](../../reviews/gender-mainstream-58718.html)
+> Product ID `58718` · Digistore24 productId `716554` · [HTML profile page](../../produkte/gender-mainstream-58718.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

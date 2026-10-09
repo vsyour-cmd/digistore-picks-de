@@ -1,6 +1,6 @@
 # Die Rettungsweste für dein Geld - Onlinekurs
 
-> Product ID `31407` · Digistore24 productId `303609` · [HTML profile page](../../reviews/die-rettungsweste-f-r-dein-geld-onlinekurs-31407.html)
+> Product ID `31407` · Digistore24 productId `303609` · [HTML profile page](../../produkte/die-rettungsweste-f-r-dein-geld-onlinekurs-31407.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

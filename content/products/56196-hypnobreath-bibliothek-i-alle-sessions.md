@@ -1,6 +1,6 @@
 # Hypnobreath Bibliothek I Alle Sessions
 
-> Product ID `56196` · Digistore24 productId `682175` · [HTML profile page](../../reviews/hypnobreath-bibliothek-i-alle-sessions-56196.html)
+> Product ID `56196` · Digistore24 productId `682175` · [HTML profile page](../../produkte/hypnobreath-bibliothek-i-alle-sessions-56196.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

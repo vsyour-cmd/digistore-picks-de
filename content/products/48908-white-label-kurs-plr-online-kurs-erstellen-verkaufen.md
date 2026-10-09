@@ -1,6 +1,6 @@
 # White Label Kurs (PLR) - "Online-Kurs erstellen + verkaufen"
 
-> Product ID `48908` · Digistore24 productId `563518` · [HTML profile page](../../reviews/white-label-kurs-plr-online-kurs-erstellen-verkaufen-48908.html)
+> Product ID `48908` · Digistore24 productId `563518` · [HTML profile page](../../produkte/white-label-kurs-plr-online-kurs-erstellen-verkaufen-48908.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

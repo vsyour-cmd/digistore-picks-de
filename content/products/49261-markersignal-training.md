@@ -1,6 +1,6 @@
 # Markersignal-Training
 
-> Product ID `49261` · Digistore24 productId `562078` · [HTML profile page](../../reviews/markersignal-training-49261.html)
+> Product ID `49261` · Digistore24 productId `562078` · [HTML profile page](../../produkte/markersignal-training-49261.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

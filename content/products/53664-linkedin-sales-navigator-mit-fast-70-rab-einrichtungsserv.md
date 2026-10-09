@@ -1,6 +1,6 @@
 # LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtungsserv
 
-> Product ID `53664` · Digistore24 productId `631776` · [HTML profile page](../../reviews/linkedin-sales-navigator-mit-fast-70-rab-einrichtungsserv-53664.html)
+> Product ID `53664` · Digistore24 productId `631776` · [HTML profile page](../../produkte/linkedin-sales-navigator-mit-fast-70-rab-einrichtungsserv-53664.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

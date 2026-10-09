@@ -1,6 +1,6 @@
 # ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi
 
-> Product ID `58549` · Digistore24 productId `725318` · [HTML profile page](../../reviews/scalebase-die-impact-lounge-dein-exklusiver-hub-f-r-busi-58549.html)
+> Product ID `58549` · Digistore24 productId `725318` · [HTML profile page](../../produkte/scalebase-die-impact-lounge-dein-exklusiver-hub-f-r-busi-58549.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

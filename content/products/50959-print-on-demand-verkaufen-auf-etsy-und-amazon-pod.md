@@ -1,6 +1,6 @@
 # Print on Demand, Verkaufen auf Etsy und Amazon, POD
 
-> Product ID `50959` · Digistore24 productId `590509` · [HTML profile page](../../reviews/print-on-demand-verkaufen-auf-etsy-und-amazon-pod-50959.html)
+> Product ID `50959` · Digistore24 productId `590509` · [HTML profile page](../../produkte/print-on-demand-verkaufen-auf-etsy-und-amazon-pod-50959.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

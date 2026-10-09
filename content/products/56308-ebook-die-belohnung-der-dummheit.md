@@ -1,6 +1,6 @@
 # Ebook - Die Belohnung der Dummheit
 
-> Product ID `56308` · Digistore24 productId `685628` · [HTML profile page](../../reviews/ebook-die-belohnung-der-dummheit-56308.html)
+> Product ID `56308` · Digistore24 productId `685628` · [HTML profile page](../../produkte/ebook-die-belohnung-der-dummheit-56308.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in
 
-> Product ID `57526` · Digistore24 productId `709299` · [HTML profile page](../../reviews/sachkundelehrgang-34k-gewo-darlehensvermittler-in-57526.html)
+> Product ID `57526` · Digistore24 productId `709299` · [HTML profile page](../../produkte/sachkundelehrgang-34k-gewo-darlehensvermittler-in-57526.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

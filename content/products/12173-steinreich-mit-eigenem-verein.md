@@ -1,6 +1,6 @@
 # Steinreich mit eigenem Verein
 
-> Product ID `12173` · Digistore24 productId `87099` · [HTML profile page](../../reviews/steinreich-mit-eigenem-verein-12173.html)
+> Product ID `12173` · Digistore24 productId `87099` · [HTML profile page](../../produkte/steinreich-mit-eigenem-verein-12173.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 100% Provision: Das Passive Online Kurs Business + Upsells
 
-> Product ID `48759` · Digistore24 productId `553014` · [HTML profile page](../../reviews/100-provision-das-passive-online-kurs-business-upsells-48759.html)
+> Product ID `48759` · Digistore24 productId `553014` · [HTML profile page](../../produkte/100-provision-das-passive-online-kurs-business-upsells-48759.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

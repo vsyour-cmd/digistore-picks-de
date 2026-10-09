@@ -1,6 +1,6 @@
 # Der einfachste Verkaufs-Funnel der Welt (vifugo)
 
-> Product ID `38087` · Digistore24 productId `376915` · [HTML profile page](../../reviews/der-einfachste-verkaufs-funnel-der-welt-vifugo-38087.html)
+> Product ID `38087` · Digistore24 productId `376915` · [HTML profile page](../../produkte/der-einfachste-verkaufs-funnel-der-welt-vifugo-38087.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

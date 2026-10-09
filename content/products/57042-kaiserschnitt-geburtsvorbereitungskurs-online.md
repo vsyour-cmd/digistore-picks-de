@@ -1,6 +1,6 @@
 # Kaiserschnitt Geburtsvorbereitungskurs online
 
-> Product ID `57042` · Digistore24 productId `697364` · [HTML profile page](../../reviews/kaiserschnitt-geburtsvorbereitungskurs-online-57042.html)
+> Product ID `57042` · Digistore24 productId `697364` · [HTML profile page](../../produkte/kaiserschnitt-geburtsvorbereitungskurs-online-57042.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

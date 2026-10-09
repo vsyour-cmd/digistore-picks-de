@@ -1,6 +1,6 @@
 # KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste
 
-> Product ID `59104` · Digistore24 productId `598233` · [HTML profile page](../../reviews/ki-hype-e-book-100-midjourney-prompts-copy-paste-59104.html)
+> Product ID `59104` · Digistore24 productId `598233` · [HTML profile page](../../produkte/ki-hype-e-book-100-midjourney-prompts-copy-paste-59104.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

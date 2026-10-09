@@ -1,6 +1,6 @@
 # Verkehrsseminar Güterkraftverkehr / Taxi
 
-> Product ID `21611` · Digistore24 productId `135597` · [HTML profile page](../../reviews/verkehrsseminar-g-terkraftverkehr-taxi-21611.html)
+> Product ID `21611` · Digistore24 productId `135597` · [HTML profile page](../../produkte/verkehrsseminar-g-terkraftverkehr-taxi-21611.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
 
-> Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../reviews/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
+> Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

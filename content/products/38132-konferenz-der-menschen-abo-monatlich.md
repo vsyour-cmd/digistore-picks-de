@@ -1,6 +1,6 @@
 # KONFERENZ DER MENSCHEN - ABO (monatlich)
 
-> Product ID `38132` · Digistore24 productId `399693` · [HTML profile page](../../reviews/konferenz-der-menschen-abo-monatlich-38132.html)
+> Product ID `38132` · Digistore24 productId `399693` · [HTML profile page](../../produkte/konferenz-der-menschen-abo-monatlich-38132.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

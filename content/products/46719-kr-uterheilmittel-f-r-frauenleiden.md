@@ -1,6 +1,6 @@
 # Kräuterheilmittel für Frauenleiden
 
-> Product ID `46719` · Digistore24 productId `532258` · [HTML profile page](../../reviews/kr-uterheilmittel-f-r-frauenleiden-46719.html)
+> Product ID `46719` · Digistore24 productId `532258` · [HTML profile page](../../produkte/kr-uterheilmittel-f-r-frauenleiden-46719.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

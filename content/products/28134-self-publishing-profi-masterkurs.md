@@ -1,6 +1,6 @@
 # Self Publishing Profi Masterkurs
 
-> Product ID `28134` · Digistore24 productId `250395` · [HTML profile page](../../reviews/self-publishing-profi-masterkurs-28134.html)
+> Product ID `28134` · Digistore24 productId `250395` · [HTML profile page](../../produkte/self-publishing-profi-masterkurs-28134.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

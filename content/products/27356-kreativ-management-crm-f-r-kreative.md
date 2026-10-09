@@ -1,6 +1,6 @@
 # Kreativ.Management - CRM für Kreative
 
-> Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../reviews/kreativ-management-crm-f-r-kreative-27356.html)
+> Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../produkte/kreativ-management-crm-f-r-kreative-27356.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der 120/80-Blutdruck-Guide mit Ralf Moll
 
-> Product ID `38859` · Digistore24 productId `398128` · [HTML profile page](../../reviews/der-120-80-blutdruck-guide-mit-ralf-moll-38859.html)
+> Product ID `38859` · Digistore24 productId `398128` · [HTML profile page](../../produkte/der-120-80-blutdruck-guide-mit-ralf-moll-38859.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

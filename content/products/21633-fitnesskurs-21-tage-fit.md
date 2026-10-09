@@ -1,6 +1,6 @@
 # Fitnesskurs - 21 Tage fit
 
-> Product ID `21633` · Digistore24 productId `186071` · [HTML profile page](../../reviews/fitnesskurs-21-tage-fit-21633.html)
+> Product ID `21633` · Digistore24 productId `186071` · [HTML profile page](../../produkte/fitnesskurs-21-tage-fit-21633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

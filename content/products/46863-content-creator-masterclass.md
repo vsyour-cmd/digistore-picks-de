@@ -1,6 +1,6 @@
 # Content Creator Masterclass
 
-> Product ID `46863` · Digistore24 productId `535044` · [HTML profile page](../../reviews/content-creator-masterclass-46863.html)
+> Product ID `46863` · Digistore24 productId `535044` · [HTML profile page](../../produkte/content-creator-masterclass-46863.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

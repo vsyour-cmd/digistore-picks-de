@@ -1,6 +1,6 @@
 # BricsCAD 3D Video-Kurs
 
-> Product ID `57311` · Digistore24 productId `536946` · [HTML profile page](../../reviews/bricscad-3d-video-kurs-57311.html)
+> Product ID `57311` · Digistore24 productId `536946` · [HTML profile page](../../produkte/bricscad-3d-video-kurs-57311.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

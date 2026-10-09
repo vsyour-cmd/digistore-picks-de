@@ -1,6 +1,6 @@
 # Werkstatt-Performance Tool für Fahrradfachbetriebe
 
-> Product ID `59292` · Digistore24 productId `733334` · [HTML profile page](../../reviews/werkstatt-performance-tool-f-r-fahrradfachbetriebe-59292.html)
+> Product ID `59292` · Digistore24 productId `733334` · [HTML profile page](../../produkte/werkstatt-performance-tool-f-r-fahrradfachbetriebe-59292.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

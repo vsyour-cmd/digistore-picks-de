@@ -1,6 +1,6 @@
 # Digital Heart Business Kongress - VIP Paket und Bundle
 
-> Product ID `41299` · Digistore24 productId `458710` · [HTML profile page](../../reviews/digital-heart-business-kongress-vip-paket-und-bundle-41299.html)
+> Product ID `41299` · Digistore24 productId `458710` · [HTML profile page](../../produkte/digital-heart-business-kongress-vip-paket-und-bundle-41299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

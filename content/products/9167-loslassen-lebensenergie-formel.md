@@ -1,6 +1,6 @@
 # Loslassen-Lebensenergie-Formel
 
-> Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../reviews/loslassen-lebensenergie-formel-9167.html)
+> Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

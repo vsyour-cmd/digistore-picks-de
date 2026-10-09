@@ -1,6 +1,6 @@
 # Zweitwohnsitz - Werde deine Reizblase endlich los!
 
-> Product ID `45193` · Digistore24 productId `501509` · [HTML profile page](../../reviews/zweitwohnsitz-werde-deine-reizblase-endlich-los-45193.html)
+> Product ID `45193` · Digistore24 productId `501509` · [HTML profile page](../../produkte/zweitwohnsitz-werde-deine-reizblase-endlich-los-45193.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

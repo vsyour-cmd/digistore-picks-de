@@ -1,6 +1,6 @@
 # Wandern auf Madeira fuer Anfaenger
 
-> Product ID `58768` · Digistore24 productId `727517` · [HTML profile page](../../reviews/wandern-auf-madeira-fuer-anfaenger-58768.html)
+> Product ID `58768` · Digistore24 productId `727517` · [HTML profile page](../../produkte/wandern-auf-madeira-fuer-anfaenger-58768.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

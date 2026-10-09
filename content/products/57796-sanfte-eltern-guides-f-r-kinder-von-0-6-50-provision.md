@@ -1,6 +1,6 @@
 # Sanfte Eltern-Guides für Kinder von 0–6 · 50 % Provision
 
-> Product ID `57796` · Digistore24 productId `712194` · [HTML profile page](../../reviews/sanfte-eltern-guides-f-r-kinder-von-0-6-50-provision-57796.html)
+> Product ID `57796` · Digistore24 productId `712194` · [HTML profile page](../../produkte/sanfte-eltern-guides-f-r-kinder-von-0-6-50-provision-57796.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

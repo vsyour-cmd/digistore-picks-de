@@ -1,6 +1,6 @@
 # Das Bikini Bootcamp: Paket I
 
-> Product ID `22777` · Digistore24 productId `199127` · [HTML profile page](../../reviews/das-bikini-bootcamp-paket-i-22777.html)
+> Product ID `22777` · Digistore24 productId `199127` · [HTML profile page](../../produkte/das-bikini-bootcamp-paket-i-22777.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

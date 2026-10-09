@@ -1,6 +1,6 @@
 # Ziele mit Leichtigkeit erreichen
 
-> Product ID `54332` · Digistore24 productId `489492` · [HTML profile page](../../reviews/ziele-mit-leichtigkeit-erreichen-54332.html)
+> Product ID `54332` · Digistore24 productId `489492` · [HTML profile page](../../produkte/ziele-mit-leichtigkeit-erreichen-54332.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

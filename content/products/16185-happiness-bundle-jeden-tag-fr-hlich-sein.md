@@ -1,6 +1,6 @@
 # Happiness Bundle – Jeden Tag fröhlich sein
 
-> Product ID `16185` · Digistore24 productId `116821` · [HTML profile page](../../reviews/happiness-bundle-jeden-tag-fr-hlich-sein-16185.html)
+> Product ID `16185` · Digistore24 productId `116821` · [HTML profile page](../../produkte/happiness-bundle-jeden-tag-fr-hlich-sein-16185.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

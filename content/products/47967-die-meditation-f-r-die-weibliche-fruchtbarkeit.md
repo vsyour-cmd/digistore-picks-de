@@ -1,6 +1,6 @@
 # DIE Meditation für die weibliche Fruchtbarkeit
 
-> Product ID `47967` · Digistore24 productId `548337` · [HTML profile page](../../reviews/die-meditation-f-r-die-weibliche-fruchtbarkeit-47967.html)
+> Product ID `47967` · Digistore24 productId `548337` · [HTML profile page](../../produkte/die-meditation-f-r-die-weibliche-fruchtbarkeit-47967.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

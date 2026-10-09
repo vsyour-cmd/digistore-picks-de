@@ -1,6 +1,6 @@
 # Rauchfrei trotz Stress – digitales Programm + 50 % Provision
 
-> Product ID `58239` · Digistore24 productId `717828` · [HTML profile page](../../reviews/rauchfrei-trotz-stress-digitales-programm-50-provision-58239.html)
+> Product ID `58239` · Digistore24 productId `717828` · [HTML profile page](../../produkte/rauchfrei-trotz-stress-digitales-programm-50-provision-58239.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

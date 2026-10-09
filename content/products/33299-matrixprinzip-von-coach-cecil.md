@@ -1,6 +1,6 @@
 # MATRIXPRINZIP von Coach Cecil
 
-> Product ID `33299` · Digistore24 productId `459976` · [HTML profile page](../../reviews/matrixprinzip-von-coach-cecil-33299.html)
+> Product ID `33299` · Digistore24 productId `459976` · [HTML profile page](../../produkte/matrixprinzip-von-coach-cecil-33299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ebook - Energiewende Deutschland
 
-> Product ID `56388` · Digistore24 productId `688738` · [HTML profile page](../../reviews/ebook-energiewende-deutschland-56388.html)
+> Product ID `56388` · Digistore24 productId `688738` · [HTML profile page](../../produkte/ebook-energiewende-deutschland-56388.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

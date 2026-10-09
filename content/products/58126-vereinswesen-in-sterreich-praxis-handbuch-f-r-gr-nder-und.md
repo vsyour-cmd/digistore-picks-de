@@ -1,6 +1,6 @@
 # Vereinswesen in Österreich – Praxis-Handbuch für Gründer und
 
-> Product ID `58126` · Digistore24 productId `718193` · [HTML profile page](../../reviews/vereinswesen-in-sterreich-praxis-handbuch-f-r-gr-nder-und-58126.html)
+> Product ID `58126` · Digistore24 productId `718193` · [HTML profile page](../../produkte/vereinswesen-in-sterreich-praxis-handbuch-f-r-gr-nder-und-58126.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

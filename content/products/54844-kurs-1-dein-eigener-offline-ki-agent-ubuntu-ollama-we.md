@@ -1,6 +1,6 @@
 # Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We
 
-> Product ID `54844` · Digistore24 productId `652717` · [HTML profile page](../../reviews/kurs-1-dein-eigener-offline-ki-agent-ubuntu-ollama-we-54844.html)
+> Product ID `54844` · Digistore24 productId `652717` · [HTML profile page](../../produkte/kurs-1-dein-eigener-offline-ki-agent-ubuntu-ollama-we-54844.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

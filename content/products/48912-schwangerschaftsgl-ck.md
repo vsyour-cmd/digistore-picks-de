@@ -1,6 +1,6 @@
 # Schwangerschaftsglück
 
-> Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../reviews/schwangerschaftsgl-ck-48912.html)
+> Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../produkte/schwangerschaftsgl-ck-48912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

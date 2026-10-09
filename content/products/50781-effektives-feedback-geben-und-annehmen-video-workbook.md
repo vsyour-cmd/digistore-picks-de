@@ -1,6 +1,6 @@
 # Effektives Feedback geben und annehmen – Video + Workbook
 
-> Product ID `50781` · Digistore24 productId `586705` · [HTML profile page](../../reviews/effektives-feedback-geben-und-annehmen-video-workbook-50781.html)
+> Product ID `50781` · Digistore24 productId `586705` · [HTML profile page](../../produkte/effektives-feedback-geben-und-annehmen-video-workbook-50781.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

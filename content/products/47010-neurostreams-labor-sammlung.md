@@ -1,6 +1,6 @@
 # Neurostreams™ LABOR (Sammlung)
 
-> Product ID `47010` · Digistore24 productId `258316` · [HTML profile page](../../reviews/neurostreams-labor-sammlung-47010.html)
+> Product ID `47010` · Digistore24 productId `258316` · [HTML profile page](../../produkte/neurostreams-labor-sammlung-47010.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

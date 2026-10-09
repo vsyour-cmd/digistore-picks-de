@@ -1,6 +1,6 @@
 # Website Workbook
 
-> Product ID `40583` · Digistore24 productId `421769` · [HTML profile page](../../reviews/website-workbook-40583.html)
+> Product ID `40583` · Digistore24 productId `421769` · [HTML profile page](../../produkte/website-workbook-40583.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

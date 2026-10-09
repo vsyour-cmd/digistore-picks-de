@@ -1,6 +1,6 @@
 # 3 Tage LOSLASSEN intensiv Seminar
 
-> Product ID `41506` · Digistore24 productId `463188` · [HTML profile page](../../reviews/3-tage-loslassen-intensiv-seminar-41506.html)
+> Product ID `41506` · Digistore24 productId `463188` · [HTML profile page](../../produkte/3-tage-loslassen-intensiv-seminar-41506.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

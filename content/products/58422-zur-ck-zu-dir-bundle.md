@@ -1,6 +1,6 @@
 # Zurück zu dir Bundle
 
-> Product ID `58422` · Digistore24 productId `695517` · [HTML profile page](../../reviews/zur-ck-zu-dir-bundle-58422.html)
+> Product ID `58422` · Digistore24 productId `695517` · [HTML profile page](../../produkte/zur-ck-zu-dir-bundle-58422.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

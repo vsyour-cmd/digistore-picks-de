@@ -1,6 +1,6 @@
 # Coaching-Programm WINNER 1:1
 
-> Product ID `48403` · Digistore24 productId `462842` · [HTML profile page](../../reviews/coaching-programm-winner-1-1-48403.html)
+> Product ID `48403` · Digistore24 productId `462842` · [HTML profile page](../../produkte/coaching-programm-winner-1-1-48403.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

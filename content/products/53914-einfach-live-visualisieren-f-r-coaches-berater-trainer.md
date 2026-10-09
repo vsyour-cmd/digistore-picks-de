@@ -1,6 +1,6 @@
 # Einfach live visualisieren - für Coaches, Berater, Trainer
 
-> Product ID `53914` · Digistore24 productId `633664` · [HTML profile page](../../reviews/einfach-live-visualisieren-f-r-coaches-berater-trainer-53914.html)
+> Product ID `53914` · Digistore24 productId `633664` · [HTML profile page](../../produkte/einfach-live-visualisieren-f-r-coaches-berater-trainer-53914.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

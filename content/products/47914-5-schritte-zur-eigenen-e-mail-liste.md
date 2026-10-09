@@ -1,6 +1,6 @@
 # 5 Schritte zur eigenen E-Mail-Liste
 
-> Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../reviews/5-schritte-zur-eigenen-e-mail-liste-47914.html)
+> Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../produkte/5-schritte-zur-eigenen-e-mail-liste-47914.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer
 
-> Product ID `52470` · Digistore24 productId `611383` · [HTML profile page](../../reviews/ki-power-erstelle-deinen-ki-zwilling-oder-eine-ki-influencer-52470.html)
+> Product ID `52470` · Digistore24 productId `611383` · [HTML profile page](../../produkte/ki-power-erstelle-deinen-ki-zwilling-oder-eine-ki-influencer-52470.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

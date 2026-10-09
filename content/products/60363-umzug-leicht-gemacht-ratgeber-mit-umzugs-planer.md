@@ -1,6 +1,6 @@
 # Umzug leicht gemacht – Ratgeber mit Umzugs-Planer
 
-> Product ID `60363` · Digistore24 productId `741926` · [HTML profile page](../../reviews/umzug-leicht-gemacht-ratgeber-mit-umzugs-planer-60363.html)
+> Product ID `60363` · Digistore24 productId `741926` · [HTML profile page](../../produkte/umzug-leicht-gemacht-ratgeber-mit-umzugs-planer-60363.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

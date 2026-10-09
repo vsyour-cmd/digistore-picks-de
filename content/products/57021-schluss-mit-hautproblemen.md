@@ -1,6 +1,6 @@
 # Schluss mit Hautproblemen
 
-> Product ID `57021` · Digistore24 productId `702252` · [HTML profile page](../../reviews/schluss-mit-hautproblemen-57021.html)
+> Product ID `57021` · Digistore24 productId `702252` · [HTML profile page](../../produkte/schluss-mit-hautproblemen-57021.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # AI Band Club™ Starter– KI-Tool für digitale Musikmarken
 
-> Product ID `57147` · Digistore24 productId `704756` · [HTML profile page](../../reviews/ai-band-club-starter-ki-tool-f-r-digitale-musikmarken-57147.html)
+> Product ID `57147` · Digistore24 productId `704756` · [HTML profile page](../../produkte/ai-band-club-starter-ki-tool-f-r-digitale-musikmarken-57147.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

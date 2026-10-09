@@ -1,6 +1,6 @@
 # Slow Breathing — Teacher Modul für Nervensystemregulation
 
-> Product ID `58402` · Digistore24 productId `663320` · [HTML profile page](../../reviews/slow-breathing-teacher-modul-f-r-nervensystemregulation-58402.html)
+> Product ID `58402` · Digistore24 productId `663320` · [HTML profile page](../../produkte/slow-breathing-teacher-modul-f-r-nervensystemregulation-58402.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

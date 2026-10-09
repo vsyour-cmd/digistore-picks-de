@@ -1,6 +1,6 @@
 # Productivity Hacks - Produktiver und effektiver werden
 
-> Product ID `44123` · Digistore24 productId `489323` · [HTML profile page](../../reviews/productivity-hacks-produktiver-und-effektiver-werden-44123.html)
+> Product ID `44123` · Digistore24 productId `489323` · [HTML profile page](../../produkte/productivity-hacks-produktiver-und-effektiver-werden-44123.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

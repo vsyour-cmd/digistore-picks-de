@@ -1,6 +1,6 @@
 # Neukundengewinnung über Facebook
 
-> Product ID `56924` · Digistore24 productId `701356` · [HTML profile page](../../reviews/neukundengewinnung-ber-facebook-56924.html)
+> Product ID `56924` · Digistore24 productId `701356` · [HTML profile page](../../produkte/neukundengewinnung-ber-facebook-56924.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

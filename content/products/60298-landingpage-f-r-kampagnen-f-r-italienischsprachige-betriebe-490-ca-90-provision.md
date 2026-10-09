@@ -1,6 +1,6 @@
 # Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision
 
-> Product ID `60298` · Digistore24 productId `741567` · [HTML profile page](../../reviews/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html)
+> Product ID `60298` · Digistore24 productId `741567` · [HTML profile page](../../produkte/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

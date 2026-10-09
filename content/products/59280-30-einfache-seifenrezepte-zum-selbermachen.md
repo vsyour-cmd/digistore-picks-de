@@ -1,6 +1,6 @@
 # 30 einfache Seifenrezepte zum Selbermachen
 
-> Product ID `59280` · Digistore24 productId `733779` · [HTML profile page](../../reviews/30-einfache-seifenrezepte-zum-selbermachen-59280.html)
+> Product ID `59280` · Digistore24 productId `733779` · [HTML profile page](../../produkte/30-einfache-seifenrezepte-zum-selbermachen-59280.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

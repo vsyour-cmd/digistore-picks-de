@@ -1,6 +1,6 @@
 # MOVIE CLIP BUSINESS - Einkommen mit Videoaufnahmen
 
-> Product ID `39409` · Digistore24 productId `433694` · [HTML profile page](../../reviews/movie-clip-business-einkommen-mit-videoaufnahmen-39409.html)
+> Product ID `39409` · Digistore24 productId `433694` · [HTML profile page](../../produkte/movie-clip-business-einkommen-mit-videoaufnahmen-39409.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

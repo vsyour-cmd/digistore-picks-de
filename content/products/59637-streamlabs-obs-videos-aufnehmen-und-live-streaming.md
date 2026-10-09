@@ -1,6 +1,6 @@
 # Streamlabs OBS - Videos aufnehmen und Live-Streaming
 
-> Product ID `59637` · Digistore24 productId `733804` · [HTML profile page](../../reviews/streamlabs-obs-videos-aufnehmen-und-live-streaming-59637.html)
+> Product ID `59637` · Digistore24 productId `733804` · [HTML profile page](../../produkte/streamlabs-obs-videos-aufnehmen-und-live-streaming-59637.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

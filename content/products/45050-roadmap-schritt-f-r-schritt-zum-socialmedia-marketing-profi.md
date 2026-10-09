@@ -1,6 +1,6 @@
 # Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi
 
-> Product ID `45050` · Digistore24 productId `512053` · [HTML profile page](../../reviews/roadmap-schritt-f-r-schritt-zum-socialmedia-marketing-profi-45050.html)
+> Product ID `45050` · Digistore24 productId `512053` · [HTML profile page](../../produkte/roadmap-schritt-f-r-schritt-zum-socialmedia-marketing-profi-45050.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

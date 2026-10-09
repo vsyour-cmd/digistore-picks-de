@@ -1,6 +1,6 @@
 # Mathematik: Grössen, Geometrie, Daten
 
-> Product ID `56458` · Digistore24 productId `688847` · [HTML profile page](../../reviews/mathematik-gr-ssen-geometrie-daten-56458.html)
+> Product ID `56458` · Digistore24 productId `688847` · [HTML profile page](../../produkte/mathematik-gr-ssen-geometrie-daten-56458.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # DER KOSTENLOSE AUTOIMMUNKONGRESS
 
-> Product ID `29814` · Digistore24 productId `267630` · [HTML profile page](../../reviews/der-kostenlose-autoimmunkongress-29814.html)
+> Product ID `29814` · Digistore24 productId `267630` · [HTML profile page](../../produkte/der-kostenlose-autoimmunkongress-29814.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Massage Gun beim Pferd richtig anwenden – Kniebereich
 
-> Product ID `55374` · Digistore24 productId `661234` · [HTML profile page](../../reviews/massage-gun-beim-pferd-richtig-anwenden-kniebereich-55374.html)
+> Product ID `55374` · Digistore24 productId `661234` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-kniebereich-55374.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

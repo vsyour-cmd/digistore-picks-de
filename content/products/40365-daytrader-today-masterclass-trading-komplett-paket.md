@@ -1,6 +1,6 @@
 # Daytrader Today Masterclass Trading Komplett Paket
 
-> Product ID `40365` · Digistore24 productId `429360` · [HTML profile page](../../reviews/daytrader-today-masterclass-trading-komplett-paket-40365.html)
+> Product ID `40365` · Digistore24 productId `429360` · [HTML profile page](../../produkte/daytrader-today-masterclass-trading-komplett-paket-40365.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

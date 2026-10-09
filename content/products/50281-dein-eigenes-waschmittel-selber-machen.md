@@ -1,6 +1,6 @@
 # Dein eigenes Waschmittel selber machen
 
-> Product ID `50281` · Digistore24 productId `733808` · [HTML profile page](../../reviews/dein-eigenes-waschmittel-selber-machen-50281.html)
+> Product ID `50281` · Digistore24 productId `733808` · [HTML profile page](../../produkte/dein-eigenes-waschmittel-selber-machen-50281.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # So lernt dein Hund mithilfe der Ablage Impulskontrolle
 
-> Product ID `56059` · Digistore24 productId `680042` · [HTML profile page](../../reviews/so-lernt-dein-hund-mithilfe-der-ablage-impulskontrolle-56059.html)
+> Product ID `56059` · Digistore24 productId `680042` · [HTML profile page](../../produkte/so-lernt-dein-hund-mithilfe-der-ablage-impulskontrolle-56059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

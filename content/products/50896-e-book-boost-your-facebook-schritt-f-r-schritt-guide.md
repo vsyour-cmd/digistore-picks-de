@@ -1,6 +1,6 @@
 # E-Book - Boost Your Facebook - Schritt für Schritt Guide
 
-> Product ID `50896` · Digistore24 productId `589513` · [HTML profile page](../../reviews/e-book-boost-your-facebook-schritt-f-r-schritt-guide-50896.html)
+> Product ID `50896` · Digistore24 productId `589513` · [HTML profile page](../../produkte/e-book-boost-your-facebook-schritt-f-r-schritt-guide-50896.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

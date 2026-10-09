@@ -1,6 +1,6 @@
 # Einfach gelegt! Mt dem Tarot von Crowley und Harris
 
-> Product ID `34971` · Digistore24 productId `355702` · [HTML profile page](../../reviews/einfach-gelegt-mt-dem-tarot-von-crowley-und-harris-34971.html)
+> Product ID `34971` · Digistore24 productId `355702` · [HTML profile page](../../produkte/einfach-gelegt-mt-dem-tarot-von-crowley-und-harris-34971.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

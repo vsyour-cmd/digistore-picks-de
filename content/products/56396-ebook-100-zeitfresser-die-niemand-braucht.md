@@ -1,6 +1,6 @@
 # Ebook - 100 Zeitfresser die niemand braucht
 
-> Product ID `56396` · Digistore24 productId `689057` · [HTML profile page](../../reviews/ebook-100-zeitfresser-die-niemand-braucht-56396.html)
+> Product ID `56396` · Digistore24 productId `689057` · [HTML profile page](../../produkte/ebook-100-zeitfresser-die-niemand-braucht-56396.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

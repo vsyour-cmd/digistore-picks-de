@@ -1,6 +1,6 @@
 # Gesund werden mit Heilpflanzen Teile 1 + 2 + 3
 
-> Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../reviews/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)
+> Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../produkte/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

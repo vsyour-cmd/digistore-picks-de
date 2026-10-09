@@ -1,6 +1,6 @@
 # Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!
 
-> Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../reviews/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)
+> Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../produkte/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

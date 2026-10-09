@@ -1,6 +1,6 @@
 # Online-Ausbildung zum Pferdegestützten Coach
 
-> Product ID `34436` · Digistore24 productId `350379` · [HTML profile page](../../reviews/online-ausbildung-zum-pferdegest-tzten-coach-34436.html)
+> Product ID `34436` · Digistore24 productId `350379` · [HTML profile page](../../produkte/online-ausbildung-zum-pferdegest-tzten-coach-34436.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

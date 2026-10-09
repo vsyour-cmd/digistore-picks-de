@@ -1,6 +1,6 @@
 # Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus
 
-> Product ID `57360` · Digistore24 productId `707933` · [HTML profile page](../../reviews/waldtier-lernvorlagen-f-r-vorschulkinder-30-seiten-zum-aus-57360.html)
+> Product ID `57360` · Digistore24 productId `707933` · [HTML profile page](../../produkte/waldtier-lernvorlagen-f-r-vorschulkinder-30-seiten-zum-aus-57360.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Conversion Design, das verkauft – Hohe Provision (E-Book)
 
-> Product ID `53241` · Digistore24 productId `625059` · [HTML profile page](../../reviews/conversion-design-das-verkauft-hohe-provision-e-book-53241.html)
+> Product ID `53241` · Digistore24 productId `625059` · [HTML profile page](../../produkte/conversion-design-das-verkauft-hohe-provision-e-book-53241.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

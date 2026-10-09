@@ -1,6 +1,6 @@
 # Innerer Frieden Hörbuch über das Leben im Hier und Jetzt
 
-> Product ID `57469` · Digistore24 productId `429285` · [HTML profile page](../../reviews/innerer-frieden-h-rbuch-ber-das-leben-im-hier-und-jetzt-57469.html)
+> Product ID `57469` · Digistore24 productId `429285` · [HTML profile page](../../produkte/innerer-frieden-h-rbuch-ber-das-leben-im-hier-und-jetzt-57469.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

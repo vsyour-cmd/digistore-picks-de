@@ -1,6 +1,6 @@
 # Rezepte bei Krebs - das eBook für Ernährung bei Chemo
 
-> Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../reviews/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)
+> Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../produkte/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

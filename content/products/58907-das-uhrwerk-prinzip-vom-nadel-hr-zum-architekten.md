@@ -1,6 +1,6 @@
 # Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten
 
-> Product ID `58907` · Digistore24 productId `728106` · [HTML profile page](../../reviews/das-uhrwerk-prinzip-vom-nadel-hr-zum-architekten-58907.html)
+> Product ID `58907` · Digistore24 productId `728106` · [HTML profile page](../../produkte/das-uhrwerk-prinzip-vom-nadel-hr-zum-architekten-58907.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind
 
-> Product ID `47987` · Digistore24 productId `554433` · [HTML profile page](../../reviews/neu-lifetime-provisionen-deutschlands-youtube-mastermind-47987.html)
+> Product ID `47987` · Digistore24 productId `554433` · [HTML profile page](../../produkte/neu-lifetime-provisionen-deutschlands-youtube-mastermind-47987.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

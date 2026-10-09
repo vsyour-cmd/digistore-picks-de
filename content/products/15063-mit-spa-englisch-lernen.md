@@ -1,6 +1,6 @@
 # Mit Spaß Englisch Lernen
 
-> Product ID `15063` · Digistore24 productId `116113` · [HTML profile page](../../reviews/mit-spa-englisch-lernen-15063.html)
+> Product ID `15063` · Digistore24 productId `116113` · [HTML profile page](../../produkte/mit-spa-englisch-lernen-15063.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

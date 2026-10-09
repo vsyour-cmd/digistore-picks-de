@@ -1,6 +1,6 @@
 # Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer
 
-> Product ID `36823` · Digistore24 productId `384858` · [HTML profile page](../../reviews/das-sex-erfolgsgeheimnis-au-ergew-hnlicher-m-nner-36823.html)
+> Product ID `36823` · Digistore24 productId `384858` · [HTML profile page](../../produkte/das-sex-erfolgsgeheimnis-au-ergew-hnlicher-m-nner-36823.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

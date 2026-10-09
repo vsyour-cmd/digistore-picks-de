@@ -1,6 +1,6 @@
 # Brandschutzsystem für BSB / FaSi / Makler | 25% Provision
 
-> Product ID `55239` · Digistore24 productId `659667` · [HTML profile page](../../reviews/brandschutzsystem-f-r-bsb-fasi-makler-25-provision-55239.html)
+> Product ID `55239` · Digistore24 productId `659667` · [HTML profile page](../../produkte/brandschutzsystem-f-r-bsb-fasi-makler-25-provision-55239.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

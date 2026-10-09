@@ -1,6 +1,6 @@
 # Der Amazon-Provisionen-Fahrplan
 
-> Product ID `59082` · Digistore24 productId `731117` · [HTML profile page](../../reviews/der-amazon-provisionen-fahrplan-59082.html)
+> Product ID `59082` · Digistore24 productId `731117` · [HTML profile page](../../produkte/der-amazon-provisionen-fahrplan-59082.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

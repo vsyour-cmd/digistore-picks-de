@@ -1,6 +1,6 @@
 # Mental Detox: Negative Gedanken loslassen
 
-> Product ID `53543` · Digistore24 productId `630209` · [HTML profile page](../../reviews/mental-detox-negative-gedanken-loslassen-53543.html)
+> Product ID `53543` · Digistore24 productId `630209` · [HTML profile page](../../produkte/mental-detox-negative-gedanken-loslassen-53543.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

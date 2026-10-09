@@ -1,6 +1,6 @@
 # E-Mail Marketing für Affiliates - Verdiene 80% Provision
 
-> Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../reviews/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)
+> Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

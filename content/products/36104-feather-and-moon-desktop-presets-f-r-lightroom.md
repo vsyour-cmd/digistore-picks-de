@@ -1,6 +1,6 @@
 # Feather and Moon Desktop Presets für Lightroom
 
-> Product ID `36104` · Digistore24 productId `295301` · [HTML profile page](../../reviews/feather-and-moon-desktop-presets-f-r-lightroom-36104.html)
+> Product ID `36104` · Digistore24 productId `295301` · [HTML profile page](../../produkte/feather-and-moon-desktop-presets-f-r-lightroom-36104.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

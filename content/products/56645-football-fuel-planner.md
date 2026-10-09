@@ -1,6 +1,6 @@
 # Football Fuel Planner
 
-> Product ID `56645` · Digistore24 productId `689269` · [HTML profile page](../../reviews/football-fuel-planner-56645.html)
+> Product ID `56645` · Digistore24 productId `689269` · [HTML profile page](../../produkte/football-fuel-planner-56645.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

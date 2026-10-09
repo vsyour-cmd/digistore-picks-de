@@ -1,6 +1,6 @@
 # Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss
 
-> Product ID `49851` · Digistore24 productId `570583` · [HTML profile page](../../reviews/kr-uterkraft-keksgenuss-diy-pflegeprodukte-und-keksgenuss-49851.html)
+> Product ID `49851` · Digistore24 productId `570583` · [HTML profile page](../../produkte/kr-uterkraft-keksgenuss-diy-pflegeprodukte-und-keksgenuss-49851.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

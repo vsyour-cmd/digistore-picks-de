@@ -1,6 +1,6 @@
 # Internet Geld Maschine - von Gunnar Kessler
 
-> Product ID `12039` · Digistore24 productId `79507` · [HTML profile page](../../reviews/internet-geld-maschine-von-gunnar-kessler-12039.html)
+> Product ID `12039` · Digistore24 productId `79507` · [HTML profile page](../../produkte/internet-geld-maschine-von-gunnar-kessler-12039.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

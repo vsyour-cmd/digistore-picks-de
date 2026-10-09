@@ -1,6 +1,6 @@
 # Massage Gun beim Pferd richtig anwenden – Rückenbereich
 
-> Product ID `55369` · Digistore24 productId `657635` · [HTML profile page](../../reviews/massage-gun-beim-pferd-richtig-anwenden-r-ckenbereich-55369.html)
+> Product ID `55369` · Digistore24 productId `657635` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-r-ckenbereich-55369.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

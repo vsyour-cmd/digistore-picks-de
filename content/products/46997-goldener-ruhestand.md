@@ -1,6 +1,6 @@
 # Goldener Ruhestand
 
-> Product ID `46997` · Digistore24 productId `535516` · [HTML profile page](../../reviews/goldener-ruhestand-46997.html)
+> Product ID `46997` · Digistore24 productId `535516` · [HTML profile page](../../produkte/goldener-ruhestand-46997.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

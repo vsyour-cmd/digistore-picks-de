@@ -1,6 +1,6 @@
 # Etsy - 10 Vorlagen (MRR und PLR)
 
-> Product ID `50145` · Digistore24 productId `576551` · [HTML profile page](../../reviews/etsy-10-vorlagen-mrr-und-plr-50145.html)
+> Product ID `50145` · Digistore24 productId `576551` · [HTML profile page](../../produkte/etsy-10-vorlagen-mrr-und-plr-50145.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

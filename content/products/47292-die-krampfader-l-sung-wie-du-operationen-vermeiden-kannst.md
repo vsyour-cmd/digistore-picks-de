@@ -1,6 +1,6 @@
 # Die Krampfader-Lösung - Wie du Operationen vermeiden kannst
 
-> Product ID `47292` · Digistore24 productId `524808` · [HTML profile page](../../reviews/die-krampfader-l-sung-wie-du-operationen-vermeiden-kannst-47292.html)
+> Product ID `47292` · Digistore24 productId `524808` · [HTML profile page](../../produkte/die-krampfader-l-sung-wie-du-operationen-vermeiden-kannst-47292.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

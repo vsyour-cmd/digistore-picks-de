@@ -1,6 +1,6 @@
 # MeineRadionik
 
-> Product ID `15855` · Digistore24 productId `115687` · [HTML profile page](../../reviews/meineradionik-15855.html)
+> Product ID `15855` · Digistore24 productId `115687` · [HTML profile page](../../produkte/meineradionik-15855.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

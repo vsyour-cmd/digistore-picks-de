@@ -1,6 +1,6 @@
 # Haushaltsbudget einfach verwalten
 
-> Product ID `60213` · Digistore24 productId `742310` · [HTML profile page](../../reviews/haushaltsbudget-einfach-verwalten-60213.html)
+> Product ID `60213` · Digistore24 productId `742310` · [HTML profile page](../../produkte/haushaltsbudget-einfach-verwalten-60213.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

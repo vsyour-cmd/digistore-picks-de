@@ -1,6 +1,6 @@
 # 12K Aesthetic Luxury Reels + PLR/MRR Lizenz
 
-> Product ID `54059` · Digistore24 productId `634096` · [HTML profile page](../../reviews/12k-aesthetic-luxury-reels-plr-mrr-lizenz-54059.html)
+> Product ID `54059` · Digistore24 productId `634096` · [HTML profile page](../../produkte/12k-aesthetic-luxury-reels-plr-mrr-lizenz-54059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

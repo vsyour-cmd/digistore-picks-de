@@ -1,6 +1,6 @@
 # Das optimierte Partnerprogramm von Webinaris. Die Nr. 1
 
-> Product ID `4133` · Digistore24 productId `432363` · [HTML profile page](../../reviews/das-optimierte-partnerprogramm-von-webinaris-die-nr-1-4133.html)
+> Product ID `4133` · Digistore24 productId `432363` · [HTML profile page](../../produkte/das-optimierte-partnerprogramm-von-webinaris-die-nr-1-4133.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

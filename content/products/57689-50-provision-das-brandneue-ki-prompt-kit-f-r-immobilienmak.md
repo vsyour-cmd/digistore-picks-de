@@ -1,6 +1,6 @@
 # 50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak
 
-> Product ID `57689` · Digistore24 productId `714395` · [HTML profile page](../../reviews/50-provision-das-brandneue-ki-prompt-kit-f-r-immobilienmak-57689.html)
+> Product ID `57689` · Digistore24 productId `714395` · [HTML profile page](../../produkte/50-provision-das-brandneue-ki-prompt-kit-f-r-immobilienmak-57689.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

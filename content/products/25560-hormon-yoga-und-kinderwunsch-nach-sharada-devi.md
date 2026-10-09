@@ -1,6 +1,6 @@
 # Hormon-Yoga und Kinderwunsch nach Sharada Devi©
 
-> Product ID `25560` · Digistore24 productId `209277` · [HTML profile page](../../reviews/hormon-yoga-und-kinderwunsch-nach-sharada-devi-25560.html)
+> Product ID `25560` · Digistore24 productId `209277` · [HTML profile page](../../produkte/hormon-yoga-und-kinderwunsch-nach-sharada-devi-25560.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

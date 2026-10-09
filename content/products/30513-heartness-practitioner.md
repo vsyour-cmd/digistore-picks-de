@@ -1,6 +1,6 @@
 # Heartness Practitioner
 
-> Product ID `30513` · Digistore24 productId `293858` · [HTML profile page](../../reviews/heartness-practitioner-30513.html)
+> Product ID `30513` · Digistore24 productId `293858` · [HTML profile page](../../produkte/heartness-practitioner-30513.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

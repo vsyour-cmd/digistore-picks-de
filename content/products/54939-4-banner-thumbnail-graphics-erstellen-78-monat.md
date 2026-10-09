@@ -1,6 +1,6 @@
 # 4 Banner-Thumbnail-Graphics erstellen 78€ / Monat
 
-> Product ID `54939` · Digistore24 productId `655974` · [HTML profile page](../../reviews/4-banner-thumbnail-graphics-erstellen-78-monat-54939.html)
+> Product ID `54939` · Digistore24 productId `655974` · [HTML profile page](../../produkte/4-banner-thumbnail-graphics-erstellen-78-monat-54939.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

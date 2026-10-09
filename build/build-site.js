@@ -73,6 +73,8 @@ function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonL
 <meta property="og:url" content="${canonical}">
 ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${esc(ogImg)}">` : '<meta name="twitter:card" content="summary">'}
 <link rel="stylesheet" href="${rel}/assets/style.css">
+<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
+<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">
 ${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
@@ -92,7 +94,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie entstehen keine Mehrkosten. Alle Marktplatz-Statistiken (Preis, Provision, Konversion, Verdienst) stammen vom offiziellen Digistore24-Marktplatz und sind keine Prognose Ihrer Ergebnisse.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site: 1243 Digistore24 products</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>

@@ -1,6 +1,6 @@
 # Fit Fuel Premium App – Der digitale Personal Trainer
 
-> Product ID `55627` · Digistore24 productId `665463` · [HTML profile page](../../reviews/fit-fuel-premium-app-der-digitale-personal-trainer-55627.html)
+> Product ID `55627` · Digistore24 productId `665463` · [HTML profile page](../../produkte/fit-fuel-premium-app-der-digitale-personal-trainer-55627.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

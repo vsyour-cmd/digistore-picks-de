@@ -1,6 +1,6 @@
 # Reseller werden - erfolgreich mit eBay
 
-> Product ID `47603` · Digistore24 productId `545678` · [HTML profile page](../../reviews/reseller-werden-erfolgreich-mit-ebay-47603.html)
+> Product ID `47603` · Digistore24 productId `545678` · [HTML profile page](../../produkte/reseller-werden-erfolgreich-mit-ebay-47603.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

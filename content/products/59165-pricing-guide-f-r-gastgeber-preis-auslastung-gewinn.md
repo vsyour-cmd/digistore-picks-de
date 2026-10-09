@@ -1,6 +1,6 @@
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
-> Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../reviews/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
+> Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Klasse Sachen zum Kasse machen
 
-> Product ID `6189` · Digistore24 productId `41469` · [HTML profile page](../../reviews/klasse-sachen-zum-kasse-machen-6189.html)
+> Product ID `6189` · Digistore24 productId `41469` · [HTML profile page](../../produkte/klasse-sachen-zum-kasse-machen-6189.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

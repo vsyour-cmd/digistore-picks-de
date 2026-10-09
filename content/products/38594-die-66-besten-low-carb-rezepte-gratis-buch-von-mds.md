@@ -1,6 +1,6 @@
 # Die 66 besten Low Carb Rezepte Gratis Buch von MDS
 
-> Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../reviews/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)
+> Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../produkte/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Aquarell Online Kurs
 
-> Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../reviews/aquarell-online-kurs-39841.html)
+> Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../produkte/aquarell-online-kurs-39841.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

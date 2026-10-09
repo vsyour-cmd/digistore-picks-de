@@ -1,6 +1,6 @@
 # Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto
 
-> Product ID `58276` · Digistore24 productId `715776` · [HTML profile page](../../reviews/schilddr-sen-leitfaden-laborwerte-hormone-u-hashimoto-58276.html)
+> Product ID `58276` · Digistore24 productId `715776` · [HTML profile page](../../produkte/schilddr-sen-leitfaden-laborwerte-hormone-u-hashimoto-58276.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

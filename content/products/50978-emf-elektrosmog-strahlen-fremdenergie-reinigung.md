@@ -1,6 +1,6 @@
 # EMF Elektrosmog-Strahlen + Fremdenergie Reinigung
 
-> Product ID `50978` · Digistore24 productId `528231` · [HTML profile page](../../reviews/emf-elektrosmog-strahlen-fremdenergie-reinigung-50978.html)
+> Product ID `50978` · Digistore24 productId `528231` · [HTML profile page](../../produkte/emf-elektrosmog-strahlen-fremdenergie-reinigung-50978.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 55 leckere Frühstücks-Rezepte Gratis Buch von MDS
 
-> Product ID `38771` · Digistore24 productId `422571` · [HTML profile page](../../reviews/55-leckere-fr-hst-cks-rezepte-gratis-buch-von-mds-38771.html)
+> Product ID `38771` · Digistore24 productId `422571` · [HTML profile page](../../produkte/55-leckere-fr-hst-cks-rezepte-gratis-buch-von-mds-38771.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Elite travelhacking - Living in Hotels BasiX Videokurs
 
-> Product ID `48833` · Digistore24 productId `553720` · [HTML profile page](../../reviews/elite-travelhacking-living-in-hotels-basix-videokurs-48833.html)
+> Product ID `48833` · Digistore24 productId `553720` · [HTML profile page](../../produkte/elite-travelhacking-living-in-hotels-basix-videokurs-48833.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

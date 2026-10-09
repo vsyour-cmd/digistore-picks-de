@@ -1,6 +1,6 @@
 # Instagram Themepage Formel
 
-> Product ID `55219` · Digistore24 productId `661749` · [HTML profile page](../../reviews/instagram-themepage-formel-55219.html)
+> Product ID `55219` · Digistore24 productId `661749` · [HTML profile page](../../produkte/instagram-themepage-formel-55219.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

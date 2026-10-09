@@ -1,6 +1,6 @@
 # Stimme der Elfen
 
-> Product ID `54721` · Digistore24 productId `615057` · [HTML profile page](../../reviews/stimme-der-elfen-54721.html)
+> Product ID `54721` · Digistore24 productId `615057` · [HTML profile page](../../produkte/stimme-der-elfen-54721.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

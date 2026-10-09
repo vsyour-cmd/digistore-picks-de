@@ -1,6 +1,6 @@
 # Buch „Erfolg geht nur gemeinsam“ von Roland Arndt
 
-> Product ID `34873` · Digistore24 productId `348043` · [HTML profile page](../../reviews/buch-erfolg-geht-nur-gemeinsam-von-roland-arndt-34873.html)
+> Product ID `34873` · Digistore24 productId `348043` · [HTML profile page](../../produkte/buch-erfolg-geht-nur-gemeinsam-von-roland-arndt-34873.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

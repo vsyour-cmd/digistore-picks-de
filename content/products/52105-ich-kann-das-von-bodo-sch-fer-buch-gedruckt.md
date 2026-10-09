@@ -1,6 +1,6 @@
 # ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)
 
-> Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../reviews/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)
+> Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../produkte/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dein Weg nach Spanien
 
-> Product ID `59414` · Digistore24 productId `735111` · [HTML profile page](../../reviews/dein-weg-nach-spanien-59414.html)
+> Product ID `59414` · Digistore24 productId `735111` · [HTML profile page](../../produkte/dein-weg-nach-spanien-59414.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

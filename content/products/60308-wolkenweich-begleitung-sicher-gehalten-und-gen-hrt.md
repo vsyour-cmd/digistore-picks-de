@@ -1,6 +1,6 @@
 # WOLKENWEICH Begleitung - sicher, gehalten und genährt
 
-> Product ID `60308` · Digistore24 productId `657115` · [HTML profile page](../../reviews/wolkenweich-begleitung-sicher-gehalten-und-gen-hrt-60308.html)
+> Product ID `60308` · Digistore24 productId `657115` · [HTML profile page](../../produkte/wolkenweich-begleitung-sicher-gehalten-und-gen-hrt-60308.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

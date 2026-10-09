@@ -1,6 +1,6 @@
 # Krank im Job leicht gemacht – Ratgeber + Krankengeld-Rechner
 
-> Product ID `60263` · Digistore24 productId `740818` · [HTML profile page](../../reviews/krank-im-job-leicht-gemacht-ratgeber-krankengeld-rechner-60263.html)
+> Product ID `60263` · Digistore24 productId `740818` · [HTML profile page](../../produkte/krank-im-job-leicht-gemacht-ratgeber-krankengeld-rechner-60263.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

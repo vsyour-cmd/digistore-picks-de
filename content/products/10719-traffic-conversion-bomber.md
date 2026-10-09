@@ -1,6 +1,6 @@
 # Traffic & Conversion Bomber
 
-> Product ID `10719` · Digistore24 productId `64911` · [HTML profile page](../../reviews/traffic-conversion-bomber-10719.html)
+> Product ID `10719` · Digistore24 productId `64911` · [HTML profile page](../../produkte/traffic-conversion-bomber-10719.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

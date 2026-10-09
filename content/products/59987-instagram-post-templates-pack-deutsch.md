@@ -1,6 +1,6 @@
 # Instagram Post Templates Pack (Deutsch)
 
-> Product ID `59987` · Digistore24 productId `737211` · [HTML profile page](../../reviews/instagram-post-templates-pack-deutsch-59987.html)
+> Product ID `59987` · Digistore24 productId `737211` · [HTML profile page](../../produkte/instagram-post-templates-pack-deutsch-59987.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

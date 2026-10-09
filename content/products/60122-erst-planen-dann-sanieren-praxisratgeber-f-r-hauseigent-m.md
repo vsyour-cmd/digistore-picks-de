@@ -1,6 +1,6 @@
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
-> Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../reviews/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
+> Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../produkte/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

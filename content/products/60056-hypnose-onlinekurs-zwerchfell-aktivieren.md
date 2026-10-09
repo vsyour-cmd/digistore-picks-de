@@ -1,6 +1,6 @@
 # Hypnose-Onlinekurs Zwerchfell Aktivieren
 
-> Product ID `60056` · Digistore24 productId `734302` · [HTML profile page](../../reviews/hypnose-onlinekurs-zwerchfell-aktivieren-60056.html)
+> Product ID `60056` · Digistore24 productId `734302` · [HTML profile page](../../produkte/hypnose-onlinekurs-zwerchfell-aktivieren-60056.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

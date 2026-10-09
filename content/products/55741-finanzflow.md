@@ -1,6 +1,6 @@
 # FinanzFlow -
 
-> Product ID `55741` · Digistore24 productId `662706` · [HTML profile page](../../reviews/finanzflow-55741.html)
+> Product ID `55741` · Digistore24 productId `662706` · [HTML profile page](../../produkte/finanzflow-55741.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Reklamationsmanagement - Workbook
 
-> Product ID `57676` · Digistore24 productId `712540` · [HTML profile page](../../reviews/reklamationsmanagement-workbook-57676.html)
+> Product ID `57676` · Digistore24 productId `712540` · [HTML profile page](../../produkte/reklamationsmanagement-workbook-57676.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Silent Subliminals ULTRA Paket
 
-> Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../reviews/silent-subliminals-ultra-paket-46819.html)
+> Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../produkte/silent-subliminals-ultra-paket-46819.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

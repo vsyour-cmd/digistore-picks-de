@@ -1,6 +1,6 @@
 # 7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision
 
-> Product ID `58233` · Digistore24 productId `717823` · [HTML profile page](../../reviews/7-tage-rauchfrei-startplan-0-einstieg-50-provision-58233.html)
+> Product ID `58233` · Digistore24 productId `717823` · [HTML profile page](../../produkte/7-tage-rauchfrei-startplan-0-einstieg-50-provision-58233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

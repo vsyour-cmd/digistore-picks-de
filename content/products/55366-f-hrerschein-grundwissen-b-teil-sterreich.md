@@ -1,6 +1,6 @@
 # Führerschein Grundwissen + B-Teil (Österreich)
 
-> Product ID `55366` · Digistore24 productId `654471` · [HTML profile page](../../reviews/f-hrerschein-grundwissen-b-teil-sterreich-55366.html)
+> Product ID `55366` · Digistore24 productId `654471` · [HTML profile page](../../produkte/f-hrerschein-grundwissen-b-teil-sterreich-55366.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

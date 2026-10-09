@@ -1,6 +1,6 @@
 # Story-Sells-System
 
-> Product ID `52984` · Digistore24 productId `618265` · [HTML profile page](../../reviews/story-sells-system-52984.html)
+> Product ID `52984` · Digistore24 productId `618265` · [HTML profile page](../../produkte/story-sells-system-52984.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

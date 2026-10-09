@@ -1,6 +1,6 @@
 # Chat GPT - Dein KI Geldmaschine
 
-> Product ID `47392` · Digistore24 productId `542502` · [HTML profile page](../../reviews/chat-gpt-dein-ki-geldmaschine-47392.html)
+> Product ID `47392` · Digistore24 productId `542502` · [HTML profile page](../../produkte/chat-gpt-dein-ki-geldmaschine-47392.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

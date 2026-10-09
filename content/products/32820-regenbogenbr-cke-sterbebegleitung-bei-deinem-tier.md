@@ -1,6 +1,6 @@
 # Regenbogenbrücke - Sterbebegleitung bei deinem Tier
 
-> Product ID `32820` · Digistore24 productId `155867` · [HTML profile page](../../reviews/regenbogenbr-cke-sterbebegleitung-bei-deinem-tier-32820.html)
+> Product ID `32820` · Digistore24 productId `155867` · [HTML profile page](../../produkte/regenbogenbr-cke-sterbebegleitung-bei-deinem-tier-32820.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

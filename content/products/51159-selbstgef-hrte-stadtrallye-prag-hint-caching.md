@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Prag | Hint-Caching
 
-> Product ID `51159` · Digistore24 productId `547045` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-prag-hint-caching-51159.html)
+> Product ID `51159` · Digistore24 productId `547045` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-prag-hint-caching-51159.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

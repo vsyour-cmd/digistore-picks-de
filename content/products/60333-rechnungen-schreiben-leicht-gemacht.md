@@ -1,6 +1,6 @@
 # Rechnungen schreiben leicht gemacht
 
-> Product ID `60333` · Digistore24 productId `741649` · [HTML profile page](../../reviews/rechnungen-schreiben-leicht-gemacht-60333.html)
+> Product ID `60333` · Digistore24 productId `741649` · [HTML profile page](../../produkte/rechnungen-schreiben-leicht-gemacht-60333.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

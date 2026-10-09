@@ -1,6 +1,6 @@
 # Flirten lernen
 
-> Product ID `57190` · Digistore24 productId `701948` · [HTML profile page](../../reviews/flirten-lernen-57190.html)
+> Product ID `57190` · Digistore24 productId `701948` · [HTML profile page](../../produkte/flirten-lernen-57190.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

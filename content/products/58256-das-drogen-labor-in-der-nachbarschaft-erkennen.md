@@ -1,6 +1,6 @@
 # Das Drogen-Labor in der Nachbarschaft erkennen
 
-> Product ID `58256` · Digistore24 productId `717533` · [HTML profile page](../../reviews/das-drogen-labor-in-der-nachbarschaft-erkennen-58256.html)
+> Product ID `58256` · Digistore24 productId `717533` · [HTML profile page](../../produkte/das-drogen-labor-in-der-nachbarschaft-erkennen-58256.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

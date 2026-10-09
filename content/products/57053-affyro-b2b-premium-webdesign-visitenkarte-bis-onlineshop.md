@@ -1,6 +1,6 @@
 # Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)
 
-> Product ID `57053` · Digistore24 productId `703358` · [HTML profile page](../../reviews/affyro-b2b-premium-webdesign-visitenkarte-bis-onlineshop-57053.html)
+> Product ID `57053` · Digistore24 productId `703358` · [HTML profile page](../../produkte/affyro-b2b-premium-webdesign-visitenkarte-bis-onlineshop-57053.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

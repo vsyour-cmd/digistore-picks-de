@@ -1,6 +1,6 @@
 # Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni
 
-> Product ID `55626` · Digistore24 productId `669162` · [HTML profile page](../../reviews/vom-ersten-segen-bis-zum-letzten-geleit-6-reden-3-boni-55626.html)
+> Product ID `55626` · Digistore24 productId `669162` · [HTML profile page](../../produkte/vom-ersten-segen-bis-zum-letzten-geleit-6-reden-3-boni-55626.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

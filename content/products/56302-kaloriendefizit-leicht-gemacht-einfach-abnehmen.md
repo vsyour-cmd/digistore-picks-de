@@ -1,6 +1,6 @@
 # Kaloriendefizit leicht gemacht - Einfach abnehmen
 
-> Product ID `56302` · Digistore24 productId `684873` · [HTML profile page](../../reviews/kaloriendefizit-leicht-gemacht-einfach-abnehmen-56302.html)
+> Product ID `56302` · Digistore24 productId `684873` · [HTML profile page](../../produkte/kaloriendefizit-leicht-gemacht-einfach-abnehmen-56302.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

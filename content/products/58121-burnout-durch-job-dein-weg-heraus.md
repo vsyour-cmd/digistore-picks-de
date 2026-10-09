@@ -1,6 +1,6 @@
 # Burnout durch Job – Dein Weg heraus
 
-> Product ID `58121` · Digistore24 productId `717922` · [HTML profile page](../../reviews/burnout-durch-job-dein-weg-heraus-58121.html)
+> Product ID `58121` · Digistore24 productId `717922` · [HTML profile page](../../produkte/burnout-durch-job-dein-weg-heraus-58121.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Klarinette lernen per Videokurs
 
-> Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../reviews/klarinette-lernen-per-videokurs-53471.html)
+> Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../produkte/klarinette-lernen-per-videokurs-53471.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

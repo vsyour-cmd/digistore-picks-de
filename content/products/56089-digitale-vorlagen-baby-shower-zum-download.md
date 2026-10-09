@@ -1,6 +1,6 @@
 # Digitale Vorlagen Baby Shower zum Download
 
-> Product ID `56089` · Digistore24 productId `680026` · [HTML profile page](../../reviews/digitale-vorlagen-baby-shower-zum-download-56089.html)
+> Product ID `56089` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlagen-baby-shower-zum-download-56089.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

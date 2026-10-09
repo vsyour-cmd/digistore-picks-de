@@ -1,6 +1,6 @@
 # Professionelle WordPress Websites – Verdienen Sie 40 % Provi
 
-> Product ID `55340` · Digistore24 productId `661606` · [HTML profile page](../../reviews/professionelle-wordpress-websites-verdienen-sie-40-provi-55340.html)
+> Product ID `55340` · Digistore24 productId `661606` · [HTML profile page](../../produkte/professionelle-wordpress-websites-verdienen-sie-40-provi-55340.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

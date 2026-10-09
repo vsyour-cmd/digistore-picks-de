@@ -1,6 +1,6 @@
 # Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!
 
-> Product ID `48010` · Digistore24 productId `548110` · [HTML profile page](../../reviews/onlinekurs-360-erfolgs-kompass-vom-frust-zum-triumph-48010.html)
+> Product ID `48010` · Digistore24 productId `548110` · [HTML profile page](../../produkte/onlinekurs-360-erfolgs-kompass-vom-frust-zum-triumph-48010.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

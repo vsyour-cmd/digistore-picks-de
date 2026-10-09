@@ -1,6 +1,6 @@
 # Haushaltsbuch – Dein digitales Sparbuch, offline & ohne
 
-> Product ID `57705` · Digistore24 productId `703464` · [HTML profile page](../../reviews/haushaltsbuch-dein-digitales-sparbuch-offline-ohne-57705.html)
+> Product ID `57705` · Digistore24 productId `703464` · [HTML profile page](../../produkte/haushaltsbuch-dein-digitales-sparbuch-offline-ohne-57705.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

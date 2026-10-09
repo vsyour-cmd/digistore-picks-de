@@ -1,6 +1,6 @@
 # Callis Gesundheits-Kompass: Kinderbücher für den Alltag
 
-> Product ID `58886` · Digistore24 productId `709550` · [HTML profile page](../../reviews/callis-gesundheits-kompass-kinderb-cher-f-r-den-alltag-58886.html)
+> Product ID `58886` · Digistore24 productId `709550` · [HTML profile page](../../produkte/callis-gesundheits-kompass-kinderb-cher-f-r-den-alltag-58886.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Canva AI - Master Class
 
-> Product ID `47250` · Digistore24 productId `539446` · [HTML profile page](../../reviews/canva-ai-master-class-47250.html)
+> Product ID `47250` · Digistore24 productId `539446` · [HTML profile page](../../produkte/canva-ai-master-class-47250.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

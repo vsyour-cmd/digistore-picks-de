@@ -1,6 +1,6 @@
 # KwikBook "KI" Erstelle in unter 7 Minuten eBooks u. Freebies
 
-> Product ID `45731` · Digistore24 productId `523987` · [HTML profile page](../../reviews/kwikbook-ki-erstelle-in-unter-7-minuten-ebooks-u-freebies-45731.html)
+> Product ID `45731` · Digistore24 productId `523987` · [HTML profile page](../../produkte/kwikbook-ki-erstelle-in-unter-7-minuten-ebooks-u-freebies-45731.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

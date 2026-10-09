@@ -1,6 +1,6 @@
 # Schmerzfrei schlafen
 
-> Product ID `57208` · Digistore24 productId `701967` · [HTML profile page](../../reviews/schmerzfrei-schlafen-57208.html)
+> Product ID `57208` · Digistore24 productId `701967` · [HTML profile page](../../produkte/schmerzfrei-schlafen-57208.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

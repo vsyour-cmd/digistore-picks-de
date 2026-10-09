@@ -1,6 +1,6 @@
 # US-Firmengründung speziell für Tax-Lien-Investoren
 
-> Product ID `30906` · Digistore24 productId `298769` · [HTML profile page](../../reviews/us-firmengr-ndung-speziell-f-r-tax-lien-investoren-30906.html)
+> Product ID `30906` · Digistore24 productId `298769` · [HTML profile page](../../produkte/us-firmengr-ndung-speziell-f-r-tax-lien-investoren-30906.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

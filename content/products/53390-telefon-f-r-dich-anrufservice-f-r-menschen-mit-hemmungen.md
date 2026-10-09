@@ -1,6 +1,6 @@
 # „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen
 
-> Product ID `53390` · Digistore24 productId `627419` · [HTML profile page](../../reviews/telefon-f-r-dich-anrufservice-f-r-menschen-mit-hemmungen-53390.html)
+> Product ID `53390` · Digistore24 productId `627419` · [HTML profile page](../../produkte/telefon-f-r-dich-anrufservice-f-r-menschen-mit-hemmungen-53390.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

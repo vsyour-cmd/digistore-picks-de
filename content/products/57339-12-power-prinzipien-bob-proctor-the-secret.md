@@ -1,6 +1,6 @@
 # 12 Power Prinzipien – Bob Proctor (The Secret)
 
-> Product ID `57339` · Digistore24 productId `655460` · [HTML profile page](../../reviews/12-power-prinzipien-bob-proctor-the-secret-57339.html)
+> Product ID `57339` · Digistore24 productId `655460` · [HTML profile page](../../produkte/12-power-prinzipien-bob-proctor-the-secret-57339.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

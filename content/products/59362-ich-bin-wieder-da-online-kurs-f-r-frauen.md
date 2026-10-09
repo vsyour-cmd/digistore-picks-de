@@ -1,6 +1,6 @@
 # Ich bin wieder da – Online-Kurs für Frauen
 
-> Product ID `59362` · Digistore24 productId `734181` · [HTML profile page](../../reviews/ich-bin-wieder-da-online-kurs-f-r-frauen-59362.html)
+> Product ID `59362` · Digistore24 productId `734181` · [HTML profile page](../../produkte/ich-bin-wieder-da-online-kurs-f-r-frauen-59362.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

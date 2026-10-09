@@ -1,6 +1,6 @@
 # Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas
 
-> Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../reviews/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)
+> Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../produkte/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

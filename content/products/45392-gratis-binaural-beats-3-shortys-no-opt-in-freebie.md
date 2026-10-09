@@ -1,6 +1,6 @@
 # Gratis Binaural Beats (3 Shortys) – No-Opt-In Freebie
 
-> Product ID `45392` · Digistore24 productId `527123` · [HTML profile page](../../reviews/gratis-binaural-beats-3-shortys-no-opt-in-freebie-45392.html)
+> Product ID `45392` · Digistore24 productId `527123` · [HTML profile page](../../produkte/gratis-binaural-beats-3-shortys-no-opt-in-freebie-45392.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

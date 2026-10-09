@@ -1,6 +1,6 @@
 # FunnelCockpit - Die All-In-One Marketing Software
 
-> Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../reviews/funnelcockpit-die-all-in-one-marketing-software-15707.html)
+> Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../produkte/funnelcockpit-die-all-in-one-marketing-software-15707.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher
 
-> Product ID `58354` · Digistore24 productId `715479` · [HTML profile page](../../reviews/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html)
+> Product ID `58354` · Digistore24 productId `715479` · [HTML profile page](../../produkte/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

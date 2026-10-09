@@ -1,6 +1,6 @@
 # Affiliate Insights
 
-> Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../reviews/affiliate-insights-50261.html)
+> Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../produkte/affiliate-insights-50261.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod
 
-> Product ID `53391` · Digistore24 productId `627656` · [HTML profile page](../../reviews/einzigartiges-trauer-horoskop-mit-herz-sinnstiftendes-prod-53391.html)
+> Product ID `53391` · Digistore24 productId `627656` · [HTML profile page](../../produkte/einzigartiges-trauer-horoskop-mit-herz-sinnstiftendes-prod-53391.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

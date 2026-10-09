@@ -1,6 +1,6 @@
 # Fighter-Fitness Evolution - Der Klassiker ist zurück
 
-> Product ID `49063` · Digistore24 productId `530236` · [HTML profile page](../../reviews/fighter-fitness-evolution-der-klassiker-ist-zur-ck-49063.html)
+> Product ID `49063` · Digistore24 productId `530236` · [HTML profile page](../../produkte/fighter-fitness-evolution-der-klassiker-ist-zur-ck-49063.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

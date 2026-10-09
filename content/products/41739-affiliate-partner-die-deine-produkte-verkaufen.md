@@ -1,6 +1,6 @@
 # Affiliate Partner, die Deine Produkte verkaufen!
 
-> Product ID `41739` · Digistore24 productId `468518` · [HTML profile page](../../reviews/affiliate-partner-die-deine-produkte-verkaufen-41739.html)
+> Product ID `41739` · Digistore24 productId `468518` · [HTML profile page](../../produkte/affiliate-partner-die-deine-produkte-verkaufen-41739.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

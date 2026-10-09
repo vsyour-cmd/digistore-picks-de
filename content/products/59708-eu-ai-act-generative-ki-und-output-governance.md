@@ -1,6 +1,6 @@
 # EU AI Act – Generative KI und Output-Governance
 
-> Product ID `59708` · Digistore24 productId `652482` · [HTML profile page](../../reviews/eu-ai-act-generative-ki-und-output-governance-59708.html)
+> Product ID `59708` · Digistore24 productId `652482` · [HTML profile page](../../produkte/eu-ai-act-generative-ki-und-output-governance-59708.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

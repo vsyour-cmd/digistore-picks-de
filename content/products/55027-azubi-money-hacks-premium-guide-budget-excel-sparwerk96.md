@@ -1,6 +1,6 @@
 # Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96
 
-> Product ID `55027` · Digistore24 productId `657496` · [HTML profile page](../../reviews/azubi-money-hacks-premium-guide-budget-excel-sparwerk96-55027.html)
+> Product ID `55027` · Digistore24 productId `657496` · [HTML profile page](../../produkte/azubi-money-hacks-premium-guide-budget-excel-sparwerk96-55027.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

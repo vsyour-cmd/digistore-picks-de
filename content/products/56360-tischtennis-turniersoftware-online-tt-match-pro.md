@@ -1,6 +1,6 @@
 # Tischtennis-Turniersoftware (online) | TT-Match PRO
 
-> Product ID `56360` · Digistore24 productId `686195` · [HTML profile page](../../reviews/tischtennis-turniersoftware-online-tt-match-pro-56360.html)
+> Product ID `56360` · Digistore24 productId `686195` · [HTML profile page](../../produkte/tischtennis-turniersoftware-online-tt-match-pro-56360.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

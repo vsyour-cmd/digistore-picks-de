@@ -1,6 +1,6 @@
 # FAHRER-UVV (ARBEITSSICHERHEIT)
 
-> Product ID `43886` · Digistore24 productId `486982` · [HTML profile page](../../reviews/fahrer-uvv-arbeitssicherheit-43886.html)
+> Product ID `43886` · Digistore24 productId `486982` · [HTML profile page](../../produkte/fahrer-uvv-arbeitssicherheit-43886.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

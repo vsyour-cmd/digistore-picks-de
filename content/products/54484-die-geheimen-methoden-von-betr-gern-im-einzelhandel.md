@@ -1,6 +1,6 @@
 # Die geheimen Methoden von Betrügern im Einzelhandel
 
-> Product ID `54484` · Digistore24 productId `643989` · [HTML profile page](../../reviews/die-geheimen-methoden-von-betr-gern-im-einzelhandel-54484.html)
+> Product ID `54484` · Digistore24 productId `643989` · [HTML profile page](../../produkte/die-geheimen-methoden-von-betr-gern-im-einzelhandel-54484.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

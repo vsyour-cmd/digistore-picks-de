@@ -1,6 +1,6 @@
 # RÜCKBILDUNG NACH DER GEBURT
 
-> Product ID `60158` · Digistore24 productId `741338` · [HTML profile page](../../reviews/r-ckbildung-nach-der-geburt-60158.html)
+> Product ID `60158` · Digistore24 productId `741338` · [HTML profile page](../../produkte/r-ckbildung-nach-der-geburt-60158.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

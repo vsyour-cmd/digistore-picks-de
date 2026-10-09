@@ -1,6 +1,6 @@
 # PornExit Masterclass: Schluss mit Pornosucht
 
-> Product ID `52338` · Digistore24 productId `607924` · [HTML profile page](../../reviews/pornexit-masterclass-schluss-mit-pornosucht-52338.html)
+> Product ID `52338` · Digistore24 productId `607924` · [HTML profile page](../../produkte/pornexit-masterclass-schluss-mit-pornosucht-52338.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

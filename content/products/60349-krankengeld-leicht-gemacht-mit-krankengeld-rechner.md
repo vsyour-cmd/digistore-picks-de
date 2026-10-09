@@ -1,6 +1,6 @@
 # Krankengeld leicht gemacht – mit Krankengeld-Rechner
 
-> Product ID `60349` · Digistore24 productId `741750` · [HTML profile page](../../reviews/krankengeld-leicht-gemacht-mit-krankengeld-rechner-60349.html)
+> Product ID `60349` · Digistore24 productId `741750` · [HTML profile page](../../produkte/krankengeld-leicht-gemacht-mit-krankengeld-rechner-60349.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

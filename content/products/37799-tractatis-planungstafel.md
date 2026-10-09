@@ -1,6 +1,6 @@
 # TRACTATIS Planungstafel
 
-> Product ID `37799` · Digistore24 productId `395155` · [HTML profile page](../../reviews/tractatis-planungstafel-37799.html)
+> Product ID `37799` · Digistore24 productId `395155` · [HTML profile page](../../produkte/tractatis-planungstafel-37799.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Internet Cash Machine Online - von Gunnar Kessler
 
-> Product ID `26706` · Digistore24 productId `233565` · [HTML profile page](../../reviews/internet-cash-machine-online-von-gunnar-kessler-26706.html)
+> Product ID `26706` · Digistore24 productId `233565` · [HTML profile page](../../produkte/internet-cash-machine-online-von-gunnar-kessler-26706.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

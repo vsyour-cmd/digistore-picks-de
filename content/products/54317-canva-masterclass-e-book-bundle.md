@@ -1,6 +1,6 @@
 # Canva Masterclass E-Book Bundle
 
-> Product ID `54317` · Digistore24 productId `640205` · [HTML profile page](../../reviews/canva-masterclass-e-book-bundle-54317.html)
+> Product ID `54317` · Digistore24 productId `640205` · [HTML profile page](../../produkte/canva-masterclass-e-book-bundle-54317.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

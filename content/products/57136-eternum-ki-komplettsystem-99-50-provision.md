@@ -1,6 +1,6 @@
 # ETERNUM KI-Komplettsystem – 99 € | 50 % Provision
 
-> Product ID `57136` · Digistore24 productId `705615` · [HTML profile page](../../reviews/eternum-ki-komplettsystem-99-50-provision-57136.html)
+> Product ID `57136` · Digistore24 productId `705615` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-99-50-provision-57136.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

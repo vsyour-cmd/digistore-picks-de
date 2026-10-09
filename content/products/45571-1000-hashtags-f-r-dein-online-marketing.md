@@ -1,6 +1,6 @@
 # 1000 Hashtags für dein Online Marketing
 
-> Product ID `45571` · Digistore24 productId `519907` · [HTML profile page](../../reviews/1000-hashtags-f-r-dein-online-marketing-45571.html)
+> Product ID `45571` · Digistore24 productId `519907` · [HTML profile page](../../produkte/1000-hashtags-f-r-dein-online-marketing-45571.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

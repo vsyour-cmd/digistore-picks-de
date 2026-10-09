@@ -1,6 +1,6 @@
 # Vermietete Immobilien sind für Hinterbliebene unschlagbar
 
-> Product ID `55962` · Digistore24 productId `645533` · [HTML profile page](../../reviews/vermietete-immobilien-sind-f-r-hinterbliebene-unschlagbar-55962.html)
+> Product ID `55962` · Digistore24 productId `645533` · [HTML profile page](../../produkte/vermietete-immobilien-sind-f-r-hinterbliebene-unschlagbar-55962.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

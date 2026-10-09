@@ -1,6 +1,6 @@
 # The Deep Reset - Entlastung für Körper und Seele
 
-> Product ID `54997` · Digistore24 productId `655261` · [HTML profile page](../../reviews/the-deep-reset-entlastung-f-r-k-rper-und-seele-54997.html)
+> Product ID `54997` · Digistore24 productId `655261` · [HTML profile page](../../produkte/the-deep-reset-entlastung-f-r-k-rper-und-seele-54997.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

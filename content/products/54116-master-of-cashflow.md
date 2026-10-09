@@ -1,6 +1,6 @@
 # Master Of Cashflow
 
-> Product ID `54116` · Digistore24 productId `621232` · [HTML profile page](../../reviews/master-of-cashflow-54116.html)
+> Product ID `54116` · Digistore24 productId `621232` · [HTML profile page](../../produkte/master-of-cashflow-54116.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

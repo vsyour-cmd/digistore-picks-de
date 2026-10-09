@@ -1,6 +1,6 @@
 # Digitale Identität und CBDCs – Der stille Umbau der Freiheit
 
-> Product ID `54233` · Digistore24 productId `639110` · [HTML profile page](../../reviews/digitale-identit-t-und-cbdcs-der-stille-umbau-der-freiheit-54233.html)
+> Product ID `54233` · Digistore24 productId `639110` · [HTML profile page](../../produkte/digitale-identit-t-und-cbdcs-der-stille-umbau-der-freiheit-54233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

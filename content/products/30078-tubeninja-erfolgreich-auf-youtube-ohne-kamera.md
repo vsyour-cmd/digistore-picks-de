@@ -1,6 +1,6 @@
 # TubeNinja - Erfolgreich auf YouTube ohne Kamera
 
-> Product ID `30078` · Digistore24 productId `288160` · [HTML profile page](../../reviews/tubeninja-erfolgreich-auf-youtube-ohne-kamera-30078.html)
+> Product ID `30078` · Digistore24 productId `288160` · [HTML profile page](../../produkte/tubeninja-erfolgreich-auf-youtube-ohne-kamera-30078.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

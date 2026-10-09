@@ -1,6 +1,6 @@
 # KI-Kundenservice: Antworten vorbereiten, Fakten prüfen und selbst freigeben
 
-> Product ID `59275` · Digistore24 productId `733944` · [HTML profile page](../../reviews/ki-kundenservice-antworten-vorbereiten-fakten-pr-fen-und-selbst-freigeben-59275.html)
+> Product ID `59275` · Digistore24 productId `733944` · [HTML profile page](../../produkte/ki-kundenservice-antworten-vorbereiten-fakten-pr-fen-und-selbst-freigeben-59275.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

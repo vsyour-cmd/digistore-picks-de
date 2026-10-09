@@ -1,6 +1,6 @@
 # Business Cash Box Abo + 150€ über Upsells verdienen
 
-> Product ID `34357` · Digistore24 productId `479067` · [HTML profile page](../../reviews/business-cash-box-abo-150-ber-upsells-verdienen-34357.html)
+> Product ID `34357` · Digistore24 productId `479067` · [HTML profile page](../../produkte/business-cash-box-abo-150-ber-upsells-verdienen-34357.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

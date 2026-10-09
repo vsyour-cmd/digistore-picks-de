@@ -1,6 +1,6 @@
 # Instagram online Kurs 3.0
 
-> Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../reviews/instagram-online-kurs-3-0-35358.html)
+> Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

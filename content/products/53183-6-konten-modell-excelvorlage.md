@@ -1,6 +1,6 @@
 # 6-Konten-Modell Excelvorlage
 
-> Product ID `53183` · Digistore24 productId `623771` · [HTML profile page](../../reviews/6-konten-modell-excelvorlage-53183.html)
+> Product ID `53183` · Digistore24 productId `623771` · [HTML profile page](../../produkte/6-konten-modell-excelvorlage-53183.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

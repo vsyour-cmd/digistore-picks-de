@@ -1,6 +1,6 @@
 # Pain Zero - Verspannungskopfschmerzen in den Griff kriegen
 
-> Product ID `48988` · Digistore24 productId `659619` · [HTML profile page](../../reviews/pain-zero-verspannungskopfschmerzen-in-den-griff-kriegen-48988.html)
+> Product ID `48988` · Digistore24 productId `659619` · [HTML profile page](../../produkte/pain-zero-verspannungskopfschmerzen-in-den-griff-kriegen-48988.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

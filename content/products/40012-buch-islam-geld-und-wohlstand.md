@@ -1,6 +1,6 @@
 # Buch: Islam, Geld und Wohlstand
 
-> Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../reviews/buch-islam-geld-und-wohlstand-40012.html)
+> Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../produkte/buch-islam-geld-und-wohlstand-40012.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

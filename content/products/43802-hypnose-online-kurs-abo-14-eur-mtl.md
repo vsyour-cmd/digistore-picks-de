@@ -1,6 +1,6 @@
 # Hypnose Online Kurs ABO 14 EUR/mtl
 
-> Product ID `43802` · Digistore24 productId `489457` · [HTML profile page](../../reviews/hypnose-online-kurs-abo-14-eur-mtl-43802.html)
+> Product ID `43802` · Digistore24 productId `489457` · [HTML profile page](../../produkte/hypnose-online-kurs-abo-14-eur-mtl-43802.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

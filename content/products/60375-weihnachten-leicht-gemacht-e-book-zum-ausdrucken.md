@@ -1,6 +1,6 @@
 # Weihnachten leicht gemacht – E-Book zum Ausdrucken
 
-> Product ID `60375` · Digistore24 productId `742568` · [HTML profile page](../../reviews/weihnachten-leicht-gemacht-e-book-zum-ausdrucken-60375.html)
+> Product ID `60375` · Digistore24 productId `742568` · [HTML profile page](../../produkte/weihnachten-leicht-gemacht-e-book-zum-ausdrucken-60375.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

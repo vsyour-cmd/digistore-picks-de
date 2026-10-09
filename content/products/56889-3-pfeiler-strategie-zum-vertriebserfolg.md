@@ -1,6 +1,6 @@
 # 3-Pfeiler-Strategie zum Vertriebserfolg
 
-> Product ID `56889` · Digistore24 productId `638485` · [HTML profile page](../../reviews/3-pfeiler-strategie-zum-vertriebserfolg-56889.html)
+> Product ID `56889` · Digistore24 productId `638485` · [HTML profile page](../../produkte/3-pfeiler-strategie-zum-vertriebserfolg-56889.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

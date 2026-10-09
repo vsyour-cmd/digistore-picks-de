@@ -1,6 +1,6 @@
 # Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen
 
-> Product ID `54423` · Digistore24 productId `640917` · [HTML profile page](../../reviews/notfallsanit-ter-100-pr-fungsfragen-mit-erkl-rungen-54423.html)
+> Product ID `54423` · Digistore24 productId `640917` · [HTML profile page](../../produkte/notfallsanit-ter-100-pr-fungsfragen-mit-erkl-rungen-54423.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

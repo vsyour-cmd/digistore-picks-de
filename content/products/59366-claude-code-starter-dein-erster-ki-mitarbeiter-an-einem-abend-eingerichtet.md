@@ -1,6 +1,6 @@
 # Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet
 
-> Product ID `59366` · Digistore24 productId `729885` · [HTML profile page](../../reviews/claude-code-starter-dein-erster-ki-mitarbeiter-an-einem-abend-eingerichtet-59366.html)
+> Product ID `59366` · Digistore24 productId `729885` · [HTML profile page](../../produkte/claude-code-starter-dein-erster-ki-mitarbeiter-an-einem-abend-eingerichtet-59366.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

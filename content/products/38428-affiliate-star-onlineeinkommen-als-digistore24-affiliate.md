@@ -1,6 +1,6 @@
 # Affiliate Star - Onlineeinkommen als Digistore24-Affiliate
 
-> Product ID `38428` · Digistore24 productId `418189` · [HTML profile page](../../reviews/affiliate-star-onlineeinkommen-als-digistore24-affiliate-38428.html)
+> Product ID `38428` · Digistore24 productId `418189` · [HTML profile page](../../produkte/affiliate-star-onlineeinkommen-als-digistore24-affiliate-38428.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # The Changing Chance Premium
 
-> Product ID `57805` · Digistore24 productId `715079` · [HTML profile page](../../reviews/the-changing-chance-premium-57805.html)
+> Product ID `57805` · Digistore24 productId `715079` · [HTML profile page](../../produkte/the-changing-chance-premium-57805.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

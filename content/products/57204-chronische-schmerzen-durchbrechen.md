@@ -1,6 +1,6 @@
 # Chronische Schmerzen durchbrechen
 
-> Product ID `57204` · Digistore24 productId `701962` · [HTML profile page](../../reviews/chronische-schmerzen-durchbrechen-57204.html)
+> Product ID `57204` · Digistore24 productId `701962` · [HTML profile page](../../produkte/chronische-schmerzen-durchbrechen-57204.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

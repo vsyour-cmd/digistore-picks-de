@@ -1,6 +1,6 @@
 # Praxisleitfaden: Bewerbungen im Marketing
 
-> Product ID `57687` · Digistore24 productId `676517` · [HTML profile page](../../reviews/praxisleitfaden-bewerbungen-im-marketing-57687.html)
+> Product ID `57687` · Digistore24 productId `676517` · [HTML profile page](../../produkte/praxisleitfaden-bewerbungen-im-marketing-57687.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

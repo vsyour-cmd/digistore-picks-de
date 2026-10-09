@@ -1,6 +1,6 @@
 # 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp
 
-> Product ID `50527` · Digistore24 productId `582142` · [HTML profile page](../../reviews/50-provision-pro-sale-entdecke-alle-4-pers-nlichkeitstyp-50527.html)
+> Product ID `50527` · Digistore24 productId `582142` · [HTML profile page](../../produkte/50-provision-pro-sale-entdecke-alle-4-pers-nlichkeitstyp-50527.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

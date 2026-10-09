@@ -1,6 +1,6 @@
 # Teamleiter-Startpaket Kundenservice – 30-Tage-Plan
 
-> Product ID `59379` · Digistore24 productId `735004` · [HTML profile page](../../reviews/teamleiter-startpaket-kundenservice-30-tage-plan-59379.html)
+> Product ID `59379` · Digistore24 productId `735004` · [HTML profile page](../../produkte/teamleiter-startpaket-kundenservice-30-tage-plan-59379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

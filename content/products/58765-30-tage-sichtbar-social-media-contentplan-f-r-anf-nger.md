@@ -1,6 +1,6 @@
 # 30 Tage sichtbar – Social-Media-Contentplan für Anfänger
 
-> Product ID `58765` · Digistore24 productId `726814` · [HTML profile page](../../reviews/30-tage-sichtbar-social-media-contentplan-f-r-anf-nger-58765.html)
+> Product ID `58765` · Digistore24 productId `726814` · [HTML profile page](../../produkte/30-tage-sichtbar-social-media-contentplan-f-r-anf-nger-58765.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # TRUST 05 — Vertrauensrahmen und TRUST-Pass (PDF-Workbook)
 
-> Product ID `59542` · Digistore24 productId `736104` · [HTML profile page](../../reviews/trust-05-vertrauensrahmen-und-trust-pass-pdf-workbook-59542.html)
+> Product ID `59542` · Digistore24 productId `736104` · [HTML profile page](../../produkte/trust-05-vertrauensrahmen-und-trust-pass-pdf-workbook-59542.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Fitness Bundle - Deine 4 eBooks zum Erfolg
 
-> Product ID `56200` · Digistore24 productId `683531` · [HTML profile page](../../reviews/fitness-bundle-deine-4-ebooks-zum-erfolg-56200.html)
+> Product ID `56200` · Digistore24 productId `683531` · [HTML profile page](../../produkte/fitness-bundle-deine-4-ebooks-zum-erfolg-56200.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

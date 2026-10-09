@@ -1,6 +1,6 @@
 # KI-App Masterclass (Videokurs)
 
-> Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../reviews/ki-app-masterclass-videokurs-58284.html)
+> Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../produkte/ki-app-masterclass-videokurs-58284.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Worldclass Marketing CLUB
 
-> Product ID `54738` · Digistore24 productId `650688` · [HTML profile page](../../reviews/worldclass-marketing-club-54738.html)
+> Product ID `54738` · Digistore24 productId `650688` · [HTML profile page](../../produkte/worldclass-marketing-club-54738.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

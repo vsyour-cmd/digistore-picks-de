@@ -1,6 +1,6 @@
 # Cash Maximus Abo
 
-> Product ID `50018` · Digistore24 productId `632200` · [HTML profile page](../../reviews/cash-maximus-abo-50018.html)
+> Product ID `50018` · Digistore24 productId `632200` · [HTML profile page](../../produkte/cash-maximus-abo-50018.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

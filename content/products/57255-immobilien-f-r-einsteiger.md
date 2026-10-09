@@ -1,6 +1,6 @@
 # Immobilien für Einsteiger
 
-> Product ID `57255` · Digistore24 productId `704233` · [HTML profile page](../../reviews/immobilien-f-r-einsteiger-57255.html)
+> Product ID `57255` · Digistore24 productId `704233` · [HTML profile page](../../produkte/immobilien-f-r-einsteiger-57255.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

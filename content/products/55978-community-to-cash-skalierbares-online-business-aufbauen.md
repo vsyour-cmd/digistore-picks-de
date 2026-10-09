@@ -1,6 +1,6 @@
 # Community to Cash - Skalierbares Online Business aufbauen
 
-> Product ID `55978` · Digistore24 productId `677483` · [HTML profile page](../../reviews/community-to-cash-skalierbares-online-business-aufbauen-55978.html)
+> Product ID `55978` · Digistore24 productId `677483` · [HTML profile page](../../produkte/community-to-cash-skalierbares-online-business-aufbauen-55978.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

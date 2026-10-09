@@ -1,6 +1,6 @@
 # Social Dancing Academy - Solo- und Paartanz für alle Levels
 
-> Product ID `34819` · Digistore24 productId `536805` · [HTML profile page](../../reviews/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html)
+> Product ID `34819` · Digistore24 productId `536805` · [HTML profile page](../../produkte/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

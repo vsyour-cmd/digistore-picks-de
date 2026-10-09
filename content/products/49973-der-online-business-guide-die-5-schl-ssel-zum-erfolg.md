@@ -1,6 +1,6 @@
 # Der Online-Business-Guide: Die 5 Schlüssel zum Erfolg
 
-> Product ID `49973` · Digistore24 productId `573829` · [HTML profile page](../../reviews/der-online-business-guide-die-5-schl-ssel-zum-erfolg-49973.html)
+> Product ID `49973` · Digistore24 productId `573829` · [HTML profile page](../../produkte/der-online-business-guide-die-5-schl-ssel-zum-erfolg-49973.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

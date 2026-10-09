@@ -1,6 +1,6 @@
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
-> Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../reviews/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
+> Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

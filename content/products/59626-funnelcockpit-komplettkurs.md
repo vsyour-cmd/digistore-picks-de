@@ -1,6 +1,6 @@
 # Funnelcockpit Komplettkurs
 
-> Product ID `59626` · Digistore24 productId `734138` · [HTML profile page](../../reviews/funnelcockpit-komplettkurs-59626.html)
+> Product ID `59626` · Digistore24 productId `734138` · [HTML profile page](../../produkte/funnelcockpit-komplettkurs-59626.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

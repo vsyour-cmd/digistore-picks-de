@@ -1,6 +1,6 @@
 # Gamma-Training Premium
 
-> Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../reviews/gamma-training-premium-59399.html)
+> Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../produkte/gamma-training-premium-59399.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

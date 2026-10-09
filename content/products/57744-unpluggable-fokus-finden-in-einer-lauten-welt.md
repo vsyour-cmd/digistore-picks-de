@@ -1,6 +1,6 @@
 # UNPLUGGABLE - Fokus finden in einer lauten Welt
 
-> Product ID `57744` · Digistore24 productId `713152` · [HTML profile page](../../reviews/unpluggable-fokus-finden-in-einer-lauten-welt-57744.html)
+> Product ID `57744` · Digistore24 productId `713152` · [HTML profile page](../../produkte/unpluggable-fokus-finden-in-einer-lauten-welt-57744.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

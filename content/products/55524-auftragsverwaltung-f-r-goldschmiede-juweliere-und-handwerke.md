@@ -1,6 +1,6 @@
 # Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke
 
-> Product ID `55524` · Digistore24 productId `662706` · [HTML profile page](../../reviews/auftragsverwaltung-f-r-goldschmiede-juweliere-und-handwerke-55524.html)
+> Product ID `55524` · Digistore24 productId `662706` · [HTML profile page](../../produkte/auftragsverwaltung-f-r-goldschmiede-juweliere-und-handwerke-55524.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 25 % Lifetime-Provision auf Performance-Audio für Macher!
 
-> Product ID `57039` · Digistore24 productId `697850` · [HTML profile page](../../reviews/25-lifetime-provision-auf-performance-audio-f-r-macher-57039.html)
+> Product ID `57039` · Digistore24 productId `697850` · [HTML profile page](../../produkte/25-lifetime-provision-auf-performance-audio-f-r-macher-57039.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

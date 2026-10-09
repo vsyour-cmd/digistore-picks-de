@@ -1,6 +1,6 @@
 # Moneyflow Income System | Partnerprogramm
 
-> Product ID `56481` · Digistore24 productId `620218` · [HTML profile page](../../reviews/moneyflow-income-system-partnerprogramm-56481.html)
+> Product ID `56481` · Digistore24 productId `620218` · [HTML profile page](../../produkte/moneyflow-income-system-partnerprogramm-56481.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

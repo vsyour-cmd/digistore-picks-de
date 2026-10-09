@@ -1,6 +1,6 @@
 # 60+ faceless ästhetische Reels für Reels, TikTok und co
 
-> Product ID `48054` · Digistore24 productId `551050` · [HTML profile page](../../reviews/60-faceless-sthetische-reels-f-r-reels-tiktok-und-co-48054.html)
+> Product ID `48054` · Digistore24 productId `551050` · [HTML profile page](../../produkte/60-faceless-sthetische-reels-f-r-reels-tiktok-und-co-48054.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

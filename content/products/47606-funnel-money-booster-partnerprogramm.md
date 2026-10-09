@@ -1,6 +1,6 @@
 # Funnel Money Booster | Partnerprogramm
 
-> Product ID `47606` · Digistore24 productId `468689` · [HTML profile page](../../reviews/funnel-money-booster-partnerprogramm-47606.html)
+> Product ID `47606` · Digistore24 productId `468689` · [HTML profile page](../../produkte/funnel-money-booster-partnerprogramm-47606.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

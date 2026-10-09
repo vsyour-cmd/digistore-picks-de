@@ -1,6 +1,6 @@
 # TikTok und KI Social-Media-Marketing Profi
 
-> Product ID `51373` · Digistore24 productId `596513` · [HTML profile page](../../reviews/tiktok-und-ki-social-media-marketing-profi-51373.html)
+> Product ID `51373` · Digistore24 productId `596513` · [HTML profile page](../../produkte/tiktok-und-ki-social-media-marketing-profi-51373.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

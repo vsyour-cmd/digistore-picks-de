@@ -1,6 +1,6 @@
 # Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK
 
-> Product ID `53249` · Digistore24 productId `625087` · [HTML profile page](../../reviews/marketing-masterpaket-10-pdfs-500-provision-pro-vk-53249.html)
+> Product ID `53249` · Digistore24 productId `625087` · [HTML profile page](../../produkte/marketing-masterpaket-10-pdfs-500-provision-pro-vk-53249.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Das perfekte Freebie - 17 Fehler vermeiden
 
-> Product ID `48575` · Digistore24 productId `557043` · [HTML profile page](../../reviews/das-perfekte-freebie-17-fehler-vermeiden-48575.html)
+> Product ID `48575` · Digistore24 productId `557043` · [HTML profile page](../../produkte/das-perfekte-freebie-17-fehler-vermeiden-48575.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

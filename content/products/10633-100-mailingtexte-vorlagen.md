@@ -1,6 +1,6 @@
 # 100 Mailingtexte Vorlagen
 
-> Product ID `10633` · Digistore24 productId `20609` · [HTML profile page](../../reviews/100-mailingtexte-vorlagen-10633.html)
+> Product ID `10633` · Digistore24 productId `20609` · [HTML profile page](../../produkte/100-mailingtexte-vorlagen-10633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

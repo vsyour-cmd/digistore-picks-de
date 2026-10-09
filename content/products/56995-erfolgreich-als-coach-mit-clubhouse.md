@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Clubhouse
 
-> Product ID `56995` · Digistore24 productId `701415` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-clubhouse-56995.html)
+> Product ID `56995` · Digistore24 productId `701415` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-clubhouse-56995.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

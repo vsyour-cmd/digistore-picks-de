@@ -1,6 +1,6 @@
 # Kinderzuschlag leicht gemacht – mit Kinderzuschlag-Rechner
 
-> Product ID `60330` · Digistore24 productId `741587` · [HTML profile page](../../reviews/kinderzuschlag-leicht-gemacht-mit-kinderzuschlag-rechner-60330.html)
+> Product ID `60330` · Digistore24 productId `741587` · [HTML profile page](../../produkte/kinderzuschlag-leicht-gemacht-mit-kinderzuschlag-rechner-60330.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

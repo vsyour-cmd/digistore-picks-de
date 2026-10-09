@@ -1,6 +1,6 @@
 # Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg
 
-> Product ID `55418` · Digistore24 productId `663828` · [HTML profile page](../../reviews/mehr-autoank-ufe-von-privat-mit-dem-ankava-autoankauf-widg-55418.html)
+> Product ID `55418` · Digistore24 productId `663828` · [HTML profile page](../../produkte/mehr-autoank-ufe-von-privat-mit-dem-ankava-autoankauf-widg-55418.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

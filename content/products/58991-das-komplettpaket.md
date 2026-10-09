@@ -1,6 +1,6 @@
 # Das Komplettpaket
 
-> Product ID `58991` · Digistore24 productId `730806` · [HTML profile page](../../reviews/das-komplettpaket-58991.html)
+> Product ID `58991` · Digistore24 productId `730806` · [HTML profile page](../../produkte/das-komplettpaket-58991.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

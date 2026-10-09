@@ -1,6 +1,6 @@
 # GKG-3.F Pflanzen und Pflanzplanung
 
-> Product ID `59742` · Digistore24 productId `732244` · [HTML profile page](../../reviews/gkg-3-f-pflanzen-und-pflanzplanung-59742.html)
+> Product ID `59742` · Digistore24 productId `732244` · [HTML profile page](../../produkte/gkg-3-f-pflanzen-und-pflanzplanung-59742.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

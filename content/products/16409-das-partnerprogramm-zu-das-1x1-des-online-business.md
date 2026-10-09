@@ -1,6 +1,6 @@
 # Das Partnerprogramm zu "Das 1x1 des Online Business"
 
-> Product ID `16409` · Digistore24 productId `132909` · [HTML profile page](../../reviews/das-partnerprogramm-zu-das-1x1-des-online-business-16409.html)
+> Product ID `16409` · Digistore24 productId `132909` · [HTML profile page](../../produkte/das-partnerprogramm-zu-das-1x1-des-online-business-16409.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

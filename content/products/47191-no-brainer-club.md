@@ -1,6 +1,6 @@
 # No Brainer Club
 
-> Product ID `47191` · Digistore24 productId `230767` · [HTML profile page](../../reviews/no-brainer-club-47191.html)
+> Product ID `47191` · Digistore24 productId `230767` · [HTML profile page](../../produkte/no-brainer-club-47191.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

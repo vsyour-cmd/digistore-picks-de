@@ -1,6 +1,6 @@
 # 1% CLUB | Instagram - Business - Online Geld verdienen
 
-> Product ID `33621` · Digistore24 productId `354869` · [HTML profile page](../../reviews/1-club-instagram-business-online-geld-verdienen-33621.html)
+> Product ID `33621` · Digistore24 productId `354869` · [HTML profile page](../../produkte/1-club-instagram-business-online-geld-verdienen-33621.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

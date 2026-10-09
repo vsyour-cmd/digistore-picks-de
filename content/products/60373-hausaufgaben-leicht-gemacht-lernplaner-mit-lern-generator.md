@@ -1,6 +1,6 @@
 # Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator
 
-> Product ID `60373` · Digistore24 productId `742506` · [HTML profile page](../../reviews/hausaufgaben-leicht-gemacht-lernplaner-mit-lern-generator-60373.html)
+> Product ID `60373` · Digistore24 productId `742506` · [HTML profile page](../../produkte/hausaufgaben-leicht-gemacht-lernplaner-mit-lern-generator-60373.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

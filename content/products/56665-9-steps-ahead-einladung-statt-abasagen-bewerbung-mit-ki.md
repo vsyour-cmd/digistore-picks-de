@@ -1,6 +1,6 @@
 # 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI
 
-> Product ID `56665` · Digistore24 productId `530810` · [HTML profile page](../../reviews/9-steps-ahead-einladung-statt-abasagen-bewerbung-mit-ki-56665.html)
+> Product ID `56665` · Digistore24 productId `530810` · [HTML profile page](../../produkte/9-steps-ahead-einladung-statt-abasagen-bewerbung-mit-ki-56665.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

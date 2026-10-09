@@ -1,6 +1,6 @@
 # Silent Subliminals Gold: Der Hit für alle Nischen!
 
-> Product ID `42520` · Digistore24 productId `468911` · [HTML profile page](../../reviews/silent-subliminals-gold-der-hit-f-r-alle-nischen-42520.html)
+> Product ID `42520` · Digistore24 productId `468911` · [HTML profile page](../../produkte/silent-subliminals-gold-der-hit-f-r-alle-nischen-42520.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

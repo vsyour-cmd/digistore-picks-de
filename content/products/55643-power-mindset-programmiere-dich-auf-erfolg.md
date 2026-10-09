@@ -1,6 +1,6 @@
 # Power Mindset - Programmiere Dich auf Erfolg
 
-> Product ID `55643` · Digistore24 productId `668819` · [HTML profile page](../../reviews/power-mindset-programmiere-dich-auf-erfolg-55643.html)
+> Product ID `55643` · Digistore24 productId `668819` · [HTML profile page](../../produkte/power-mindset-programmiere-dich-auf-erfolg-55643.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision
 
-> Product ID `56166` · Digistore24 productId `681858` · [HTML profile page](../../reviews/finanz-boost-bundle-5-produkt-funnel-50-provision-56166.html)
+> Product ID `56166` · Digistore24 productId `681858` · [HTML profile page](../../produkte/finanz-boost-bundle-5-produkt-funnel-50-provision-56166.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

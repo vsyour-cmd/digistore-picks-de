@@ -1,6 +1,6 @@
 # Holistic Mobility DEEP [Online Kurs]
 
-> Product ID `45057` · Digistore24 productId `512303` · [HTML profile page](../../reviews/holistic-mobility-deep-online-kurs-45057.html)
+> Product ID `45057` · Digistore24 productId `512303` · [HTML profile page](../../produkte/holistic-mobility-deep-online-kurs-45057.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

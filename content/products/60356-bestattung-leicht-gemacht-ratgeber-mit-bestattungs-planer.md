@@ -1,6 +1,6 @@
 # Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer
 
-> Product ID `60356` · Digistore24 productId `741776` · [HTML profile page](../../reviews/bestattung-leicht-gemacht-ratgeber-mit-bestattungs-planer-60356.html)
+> Product ID `60356` · Digistore24 productId `741776` · [HTML profile page](../../produkte/bestattung-leicht-gemacht-ratgeber-mit-bestattungs-planer-60356.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

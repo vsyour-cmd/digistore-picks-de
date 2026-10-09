@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Oldenburg | Hint-Caching
 
-> Product ID `56419` · Digistore24 productId `689050` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-oldenburg-hint-caching-56419.html)
+> Product ID `56419` · Digistore24 productId `689050` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-oldenburg-hint-caching-56419.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

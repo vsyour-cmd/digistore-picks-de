@@ -1,6 +1,6 @@
 # Erfolg im Speaker-Markt
 
-> Product ID `57273` · Digistore24 productId `704251` · [HTML profile page](../../reviews/erfolg-im-speaker-markt-57273.html)
+> Product ID `57273` · Digistore24 productId `704251` · [HTML profile page](../../produkte/erfolg-im-speaker-markt-57273.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

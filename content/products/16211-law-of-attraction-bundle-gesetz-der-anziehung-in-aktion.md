@@ -1,6 +1,6 @@
 # Law of Attraction Bundle – Gesetz der Anziehung in Aktion
 
-> Product ID `16211` · Digistore24 productId `133181` · [HTML profile page](../../reviews/law-of-attraction-bundle-gesetz-der-anziehung-in-aktion-16211.html)
+> Product ID `16211` · Digistore24 productId `133181` · [HTML profile page](../../produkte/law-of-attraction-bundle-gesetz-der-anziehung-in-aktion-16211.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

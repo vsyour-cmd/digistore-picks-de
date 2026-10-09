@@ -1,6 +1,6 @@
 # Tanzminis - Kreativer Kindertanz zuhause
 
-> Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../reviews/tanzminis-kreativer-kindertanz-zuhause-32876.html)
+> Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../produkte/tanzminis-kreativer-kindertanz-zuhause-32876.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

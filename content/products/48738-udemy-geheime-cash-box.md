@@ -1,6 +1,6 @@
 # UDEMY - Geheime Cash Box
 
-> Product ID `48738` · Digistore24 productId `562537` · [HTML profile page](../../reviews/udemy-geheime-cash-box-48738.html)
+> Product ID `48738` · Digistore24 productId `562537` · [HTML profile page](../../produkte/udemy-geheime-cash-box-48738.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

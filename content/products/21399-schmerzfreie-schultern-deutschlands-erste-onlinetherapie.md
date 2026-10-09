@@ -1,6 +1,6 @@
 # SCHMERZFREIE SCHULTERN:  DEUTSCHLANDS ERSTE ONLINETHERAPIE
 
-> Product ID `21399` · Digistore24 productId `182603` · [HTML profile page](../../reviews/schmerzfreie-schultern-deutschlands-erste-onlinetherapie-21399.html)
+> Product ID `21399` · Digistore24 productId `182603` · [HTML profile page](../../produkte/schmerzfreie-schultern-deutschlands-erste-onlinetherapie-21399.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

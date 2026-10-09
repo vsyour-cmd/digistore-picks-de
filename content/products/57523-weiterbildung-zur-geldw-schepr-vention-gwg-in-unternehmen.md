@@ -1,6 +1,6 @@
 # Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen
 
-> Product ID `57523` · Digistore24 productId `711557` · [HTML profile page](../../reviews/weiterbildung-zur-geldw-schepr-vention-gwg-in-unternehmen-57523.html)
+> Product ID `57523` · Digistore24 productId `711557` · [HTML profile page](../../produkte/weiterbildung-zur-geldw-schepr-vention-gwg-in-unternehmen-57523.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

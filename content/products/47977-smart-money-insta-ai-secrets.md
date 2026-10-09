@@ -1,6 +1,6 @@
 # Smart Money - Insta AI Secrets
 
-> Product ID `47977` · Digistore24 productId `538009` · [HTML profile page](../../reviews/smart-money-insta-ai-secrets-47977.html)
+> Product ID `47977` · Digistore24 productId `538009` · [HTML profile page](../../produkte/smart-money-insta-ai-secrets-47977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

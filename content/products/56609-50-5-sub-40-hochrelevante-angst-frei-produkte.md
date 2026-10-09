@@ -1,6 +1,6 @@
 # 50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte
 
-> Product ID `56609` · Digistore24 productId `690595` · [HTML profile page](../../reviews/50-5-sub-40-hochrelevante-angst-frei-produkte-56609.html)
+> Product ID `56609` · Digistore24 productId `690595` · [HTML profile page](../../produkte/50-5-sub-40-hochrelevante-angst-frei-produkte-56609.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

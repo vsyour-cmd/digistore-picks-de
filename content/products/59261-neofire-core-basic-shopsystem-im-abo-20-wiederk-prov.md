@@ -1,6 +1,6 @@
 # neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.
 
-> Product ID `59261` · Digistore24 productId `733493` · [HTML profile page](../../reviews/neofire-core-basic-shopsystem-im-abo-20-wiederk-prov-59261.html)
+> Product ID `59261` · Digistore24 productId `733493` · [HTML profile page](../../produkte/neofire-core-basic-shopsystem-im-abo-20-wiederk-prov-59261.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

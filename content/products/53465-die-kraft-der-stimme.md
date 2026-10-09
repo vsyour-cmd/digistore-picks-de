@@ -1,6 +1,6 @@
 # Die Kraft der Stimme
 
-> Product ID `53465` · Digistore24 productId `628698` · [HTML profile page](../../reviews/die-kraft-der-stimme-53465.html)
+> Product ID `53465` · Digistore24 productId `628698` · [HTML profile page](../../produkte/die-kraft-der-stimme-53465.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

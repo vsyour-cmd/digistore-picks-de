@@ -1,6 +1,6 @@
 # CapCut Mobile Videoschnitt Komplettkurs
 
-> Product ID `59630` · Digistore24 productId `734135` · [HTML profile page](../../reviews/capcut-mobile-videoschnitt-komplettkurs-59630.html)
+> Product ID `59630` · Digistore24 productId `734135` · [HTML profile page](../../produkte/capcut-mobile-videoschnitt-komplettkurs-59630.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

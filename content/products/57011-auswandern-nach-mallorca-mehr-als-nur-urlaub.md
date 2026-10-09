@@ -1,6 +1,6 @@
 # Auswandern nach Mallorca: Mehr als nur Urlaub
 
-> Product ID `57011` · Digistore24 productId `702242` · [HTML profile page](../../reviews/auswandern-nach-mallorca-mehr-als-nur-urlaub-57011.html)
+> Product ID `57011` · Digistore24 productId `702242` · [HTML profile page](../../produkte/auswandern-nach-mallorca-mehr-als-nur-urlaub-57011.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

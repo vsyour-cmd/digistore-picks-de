@@ -1,6 +1,6 @@
 # Schlaf gut mit Chakra-Vokal-Klängen
 
-> Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../reviews/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)
+> Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../produkte/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

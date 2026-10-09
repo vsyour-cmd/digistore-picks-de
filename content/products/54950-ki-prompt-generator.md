@@ -1,6 +1,6 @@
 # KI Prompt Generator
 
-> Product ID `54950` · Digistore24 productId `656123` · [HTML profile page](../../reviews/ki-prompt-generator-54950.html)
+> Product ID `54950` · Digistore24 productId `656123` · [HTML profile page](../../produkte/ki-prompt-generator-54950.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

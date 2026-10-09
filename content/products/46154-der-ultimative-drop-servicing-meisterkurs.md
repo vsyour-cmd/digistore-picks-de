@@ -1,6 +1,6 @@
 # Der Ultimative Drop Servicing Meisterkurs
 
-> Product ID `46154` · Digistore24 productId `514121` · [HTML profile page](../../reviews/der-ultimative-drop-servicing-meisterkurs-46154.html)
+> Product ID `46154` · Digistore24 productId `514121` · [HTML profile page](../../produkte/der-ultimative-drop-servicing-meisterkurs-46154.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

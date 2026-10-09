@@ -1,6 +1,6 @@
 # High Frequency Evergreen Kongress - VIP Paket und Bundle
 
-> Product ID `39593` · Digistore24 productId `431719` · [HTML profile page](../../reviews/high-frequency-evergreen-kongress-vip-paket-und-bundle-39593.html)
+> Product ID `39593` · Digistore24 productId `431719` · [HTML profile page](../../produkte/high-frequency-evergreen-kongress-vip-paket-und-bundle-39593.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

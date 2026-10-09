@@ -1,6 +1,6 @@
 # Dein Angebot in 24h schärfen – Klar positionieren und leicht
 
-> Product ID `60232` · Digistore24 productId `707849` · [HTML profile page](../../reviews/dein-angebot-in-24h-sch-rfen-klar-positionieren-und-leicht-60232.html)
+> Product ID `60232` · Digistore24 productId `707849` · [HTML profile page](../../produkte/dein-angebot-in-24h-sch-rfen-klar-positionieren-und-leicht-60232.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

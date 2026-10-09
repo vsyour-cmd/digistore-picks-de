@@ -1,6 +1,6 @@
 # Raspberry Pi Anleitung für Einsteiger
 
-> Product ID `28161` · Digistore24 productId `260497` · [HTML profile page](../../reviews/raspberry-pi-anleitung-f-r-einsteiger-28161.html)
+> Product ID `28161` · Digistore24 productId `260497` · [HTML profile page](../../produkte/raspberry-pi-anleitung-f-r-einsteiger-28161.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

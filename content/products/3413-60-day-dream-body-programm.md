@@ -1,6 +1,6 @@
 # 60 Day Dream Body Programm
 
-> Product ID `3413` · Digistore24 productId `24859` · [HTML profile page](../../reviews/60-day-dream-body-programm-3413.html)
+> Product ID `3413` · Digistore24 productId `24859` · [HTML profile page](../../produkte/60-day-dream-body-programm-3413.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

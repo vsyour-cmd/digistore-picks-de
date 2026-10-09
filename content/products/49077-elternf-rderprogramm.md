@@ -1,6 +1,6 @@
 # Elternförderprogramm
 
-> Product ID `49077` · Digistore24 productId `566922` · [HTML profile page](../../reviews/elternf-rderprogramm-49077.html)
+> Product ID `49077` · Digistore24 productId `566922` · [HTML profile page](../../produkte/elternf-rderprogramm-49077.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

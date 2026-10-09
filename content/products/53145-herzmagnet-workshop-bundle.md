@@ -1,6 +1,6 @@
 # Herzmagnet Workshop Bundle
 
-> Product ID `53145` · Digistore24 productId `419785` · [HTML profile page](../../reviews/herzmagnet-workshop-bundle-53145.html)
+> Product ID `53145` · Digistore24 productId `419785` · [HTML profile page](../../produkte/herzmagnet-workshop-bundle-53145.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Naturseifen sieden
 
-> Product ID `53731` · Digistore24 productId `525809` · [HTML profile page](../../reviews/naturseifen-sieden-53731.html)
+> Product ID `53731` · Digistore24 productId `525809` · [HTML profile page](../../produkte/naturseifen-sieden-53731.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

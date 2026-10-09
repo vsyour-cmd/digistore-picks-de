@@ -1,6 +1,6 @@
 # Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas
 
-> Product ID `54780` · Digistore24 productId `650787` · [HTML profile page](../../reviews/eshop-und-webseite-pflege-betreuung-unterst-tzung-bas-54780.html)
+> Product ID `54780` · Digistore24 productId `650787` · [HTML profile page](../../produkte/eshop-und-webseite-pflege-betreuung-unterst-tzung-bas-54780.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

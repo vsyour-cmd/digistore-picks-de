@@ -1,6 +1,6 @@
 # Done-for-you-Business
 
-> Product ID `54248` · Digistore24 productId `586859` · [HTML profile page](../../reviews/done-for-you-business-54248.html)
+> Product ID `54248` · Digistore24 productId `586859` · [HTML profile page](../../produkte/done-for-you-business-54248.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

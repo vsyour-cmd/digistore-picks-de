@@ -1,6 +1,6 @@
 # 400€ mit Vinted
 
-> Product ID `55352` · Digistore24 productId `664228` · [HTML profile page](../../reviews/400-mit-vinted-55352.html)
+> Product ID `55352` · Digistore24 productId `664228` · [HTML profile page](../../produkte/400-mit-vinted-55352.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

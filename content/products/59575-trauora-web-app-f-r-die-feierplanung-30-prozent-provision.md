@@ -1,6 +1,6 @@
 # Trauora: Web-App für die Feierplanung, 30 Prozent Provision
 
-> Product ID `59575` · Digistore24 productId `735858` · [HTML profile page](../../reviews/trauora-web-app-f-r-die-feierplanung-30-prozent-provision-59575.html)
+> Product ID `59575` · Digistore24 productId `735858` · [HTML profile page](../../produkte/trauora-web-app-f-r-die-feierplanung-30-prozent-provision-59575.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

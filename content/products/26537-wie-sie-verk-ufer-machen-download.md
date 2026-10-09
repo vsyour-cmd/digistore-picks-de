@@ -1,6 +1,6 @@
 # Wie Sie Verkäufer machen (Download)
 
-> Product ID `26537` · Digistore24 productId `196471` · [HTML profile page](../../reviews/wie-sie-verk-ufer-machen-download-26537.html)
+> Product ID `26537` · Digistore24 productId `196471` · [HTML profile page](../../produkte/wie-sie-verk-ufer-machen-download-26537.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

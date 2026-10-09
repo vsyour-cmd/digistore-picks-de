@@ -1,6 +1,6 @@
 # Erlebt Event Premium Membership
 
-> Product ID `47323` · Digistore24 productId `537341` · [HTML profile page](../../reviews/erlebt-event-premium-membership-47323.html)
+> Product ID `47323` · Digistore24 productId `537341` · [HTML profile page](../../produkte/erlebt-event-premium-membership-47323.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

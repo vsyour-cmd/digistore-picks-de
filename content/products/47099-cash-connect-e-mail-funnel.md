@@ -1,6 +1,6 @@
 # Cash Connect + E-Mail Funnel
 
-> Product ID `47099` · Digistore24 productId `569953` · [HTML profile page](../../reviews/cash-connect-e-mail-funnel-47099.html)
+> Product ID `47099` · Digistore24 productId `569953` · [HTML profile page](../../produkte/cash-connect-e-mail-funnel-47099.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

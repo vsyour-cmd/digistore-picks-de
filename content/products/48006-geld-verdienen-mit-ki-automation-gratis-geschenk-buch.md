@@ -1,6 +1,6 @@
 # Geld verdienen mit KI Automation (Gratis Geschenk Buch)
 
-> Product ID `48006` · Digistore24 productId `550527` · [HTML profile page](../../reviews/geld-verdienen-mit-ki-automation-gratis-geschenk-buch-48006.html)
+> Product ID `48006` · Digistore24 productId `550527` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-automation-gratis-geschenk-buch-48006.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

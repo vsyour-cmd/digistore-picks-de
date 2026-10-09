@@ -1,6 +1,6 @@
 # Lass das Glück mit Deinem neuen Hund einziehen!
 
-> Product ID `29057` · Digistore24 productId `259183` · [HTML profile page](../../reviews/lass-das-gl-ck-mit-deinem-neuen-hund-einziehen-29057.html)
+> Product ID `29057` · Digistore24 productId `259183` · [HTML profile page](../../produkte/lass-das-gl-ck-mit-deinem-neuen-hund-einziehen-29057.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

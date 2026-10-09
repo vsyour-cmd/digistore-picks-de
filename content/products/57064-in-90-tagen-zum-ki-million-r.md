@@ -1,6 +1,6 @@
 # In 90 Tagen zum KI-Millionär
 
-> Product ID `57064` · Digistore24 productId `703405` · [HTML profile page](../../reviews/in-90-tagen-zum-ki-million-r-57064.html)
+> Product ID `57064` · Digistore24 productId `703405` · [HTML profile page](../../produkte/in-90-tagen-zum-ki-million-r-57064.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

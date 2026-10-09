@@ -1,6 +1,6 @@
 # Schufa löschen leicht gemacht
 
-> Product ID `55931` · Digistore24 productId `649929` · [HTML profile page](../../reviews/schufa-l-schen-leicht-gemacht-55931.html)
+> Product ID `55931` · Digistore24 productId `649929` · [HTML profile page](../../produkte/schufa-l-schen-leicht-gemacht-55931.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro
 
-> Product ID `57819` · Digistore24 productId `715316` · [HTML profile page](../../reviews/vip-ideen-werkstatt-mit-ki-von-der-idee-zum-umsetzbaren-pro-57819.html)
+> Product ID `57819` · Digistore24 productId `715316` · [HTML profile page](../../produkte/vip-ideen-werkstatt-mit-ki-von-der-idee-zum-umsetzbaren-pro-57819.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

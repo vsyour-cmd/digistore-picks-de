@@ -1,6 +1,6 @@
 # Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"
 
-> Product ID `41421` · Digistore24 productId `449908` · [HTML profile page](../../reviews/buch-dein-leben-deine-entscheidung-41421.html)
+> Product ID `41421` · Digistore24 productId `449908` · [HTML profile page](../../produkte/buch-dein-leben-deine-entscheidung-41421.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

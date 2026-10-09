@@ -1,6 +1,6 @@
 # COOK HEALTHY WITH DONA
 
-> Product ID `38130` · Digistore24 productId `409253` · [HTML profile page](../../reviews/cook-healthy-with-dona-38130.html)
+> Product ID `38130` · Digistore24 productId `409253` · [HTML profile page](../../produkte/cook-healthy-with-dona-38130.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Alfred – Schwedischkurs mit einer Geschichte
 
-> Product ID `47444` · Digistore24 productId `539191` · [HTML profile page](../../reviews/alfred-schwedischkurs-mit-einer-geschichte-47444.html)
+> Product ID `47444` · Digistore24 productId `539191` · [HTML profile page](../../produkte/alfred-schwedischkurs-mit-einer-geschichte-47444.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

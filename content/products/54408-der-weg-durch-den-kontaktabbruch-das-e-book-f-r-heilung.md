@@ -1,6 +1,6 @@
 # „Der Weg durch den Kontaktabbruch“ – Das E-Book für Heilung,
 
-> Product ID `54408` · Digistore24 productId `641056` · [HTML profile page](../../reviews/der-weg-durch-den-kontaktabbruch-das-e-book-f-r-heilung-54408.html)
+> Product ID `54408` · Digistore24 productId `641056` · [HTML profile page](../../produkte/der-weg-durch-den-kontaktabbruch-das-e-book-f-r-heilung-54408.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

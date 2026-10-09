@@ -1,6 +1,6 @@
 # 50 Hooks, die neugierig machen – für Social Media
 
-> Product ID `58770` · Digistore24 productId `727608` · [HTML profile page](../../reviews/50-hooks-die-neugierig-machen-f-r-social-media-58770.html)
+> Product ID `58770` · Digistore24 productId `727608` · [HTML profile page](../../produkte/50-hooks-die-neugierig-machen-f-r-social-media-58770.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

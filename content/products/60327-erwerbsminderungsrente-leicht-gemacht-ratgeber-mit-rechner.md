@@ -1,6 +1,6 @@
 # Erwerbsminderungsrente leicht gemacht – Ratgeber mit Rechner
 
-> Product ID `60327` · Digistore24 productId `741559` · [HTML profile page](../../reviews/erwerbsminderungsrente-leicht-gemacht-ratgeber-mit-rechner-60327.html)
+> Product ID `60327` · Digistore24 productId `741559` · [HTML profile page](../../produkte/erwerbsminderungsrente-leicht-gemacht-ratgeber-mit-rechner-60327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

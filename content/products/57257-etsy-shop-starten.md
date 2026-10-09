@@ -1,6 +1,6 @@
 # Etsy-Shop starten
 
-> Product ID `57257` · Digistore24 productId `704235` · [HTML profile page](../../reviews/etsy-shop-starten-57257.html)
+> Product ID `57257` · Digistore24 productId `704235` · [HTML profile page](../../produkte/etsy-shop-starten-57257.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

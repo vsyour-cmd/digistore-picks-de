@@ -1,6 +1,6 @@
 # Das Stammkunden-Prinzip im Affiliate Marketing
 
-> Product ID `57059` · Digistore24 productId `703384` · [HTML profile page](../../reviews/das-stammkunden-prinzip-im-affiliate-marketing-57059.html)
+> Product ID `57059` · Digistore24 productId `703384` · [HTML profile page](../../produkte/das-stammkunden-prinzip-im-affiliate-marketing-57059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

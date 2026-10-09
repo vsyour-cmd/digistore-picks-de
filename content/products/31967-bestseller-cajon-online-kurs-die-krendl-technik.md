@@ -1,6 +1,6 @@
 # Bestseller: CAJON ONLINE-KURS - Die Krendl Technik
 
-> Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../reviews/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)
+> Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../produkte/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

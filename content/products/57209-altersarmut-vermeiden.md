@@ -1,6 +1,6 @@
 # Altersarmut vermeiden
 
-> Product ID `57209` · Digistore24 productId `701968` · [HTML profile page](../../reviews/altersarmut-vermeiden-57209.html)
+> Product ID `57209` · Digistore24 productId `701968` · [HTML profile page](../../produkte/altersarmut-vermeiden-57209.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Das ultimative Karriere Master-Kit für die Famulatur
 
-> Product ID `59066` · Digistore24 productId `727262` · [HTML profile page](../../reviews/das-ultimative-karriere-master-kit-f-r-die-famulatur-59066.html)
+> Product ID `59066` · Digistore24 productId `727262` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-die-famulatur-59066.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

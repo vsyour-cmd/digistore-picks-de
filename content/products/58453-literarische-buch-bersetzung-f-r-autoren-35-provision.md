@@ -1,6 +1,6 @@
 # Literarische Buchübersetzung für Autoren | 35% Provision
 
-> Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../reviews/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)
+> Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../produkte/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger
 
-> Product ID `52746` · Digistore24 productId `616407` · [HTML profile page](../../reviews/die-5-schritte-erfolgsformel-online-business-f-r-einsteiger-52746.html)
+> Product ID `52746` · Digistore24 productId `616407` · [HTML profile page](../../produkte/die-5-schritte-erfolgsformel-online-business-f-r-einsteiger-52746.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

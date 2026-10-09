@@ -1,6 +1,6 @@
 # Reinigungsfirma Starter-Kit Deutschland
 
-> Product ID `59354` · Digistore24 productId `733311` · [HTML profile page](../../reviews/reinigungsfirma-starter-kit-deutschland-59354.html)
+> Product ID `59354` · Digistore24 productId `733311` · [HTML profile page](../../produkte/reinigungsfirma-starter-kit-deutschland-59354.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

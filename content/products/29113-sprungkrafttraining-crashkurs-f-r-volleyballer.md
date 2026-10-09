@@ -1,6 +1,6 @@
 # Sprungkrafttraining Crashkurs für Volleyballer
 
-> Product ID `29113` · Digistore24 productId `273833` · [HTML profile page](../../reviews/sprungkrafttraining-crashkurs-f-r-volleyballer-29113.html)
+> Product ID `29113` · Digistore24 productId `273833` · [HTML profile page](../../produkte/sprungkrafttraining-crashkurs-f-r-volleyballer-29113.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

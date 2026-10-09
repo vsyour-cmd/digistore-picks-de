@@ -1,6 +1,6 @@
 # Traffic³ – 5 Trafficquellen für dein Online-Business
 
-> Product ID `58809` · Digistore24 productId `537454` · [HTML profile page](../../reviews/traffic-5-trafficquellen-f-r-dein-online-business-58809.html)
+> Product ID `58809` · Digistore24 productId `537454` · [HTML profile page](../../produkte/traffic-5-trafficquellen-f-r-dein-online-business-58809.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

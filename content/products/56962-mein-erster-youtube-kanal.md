@@ -1,6 +1,6 @@
 # Mein erster YouTube-Kanal
 
-> Product ID `56962` · Digistore24 productId `701280` · [HTML profile page](../../reviews/mein-erster-youtube-kanal-56962.html)
+> Product ID `56962` · Digistore24 productId `701280` · [HTML profile page](../../produkte/mein-erster-youtube-kanal-56962.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

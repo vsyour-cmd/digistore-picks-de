@@ -1,6 +1,6 @@
 # Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen
 
-> Product ID `56958` · Digistore24 productId `701272` · [HTML profile page](../../reviews/stille-einnahmen-9-wege-anonym-online-geld-zu-verdienen-56958.html)
+> Product ID `56958` · Digistore24 productId `701272` · [HTML profile page](../../produkte/stille-einnahmen-9-wege-anonym-online-geld-zu-verdienen-56958.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

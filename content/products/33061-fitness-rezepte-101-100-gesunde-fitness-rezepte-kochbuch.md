@@ -1,6 +1,6 @@
 # Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch
 
-> Product ID `33061` · Digistore24 productId `330743` · [HTML profile page](../../reviews/fitness-rezepte-101-100-gesunde-fitness-rezepte-kochbuch-33061.html)
+> Product ID `33061` · Digistore24 productId `330743` · [HTML profile page](../../produkte/fitness-rezepte-101-100-gesunde-fitness-rezepte-kochbuch-33061.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

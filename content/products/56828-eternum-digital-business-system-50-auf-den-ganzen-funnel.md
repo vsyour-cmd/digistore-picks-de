@@ -1,6 +1,6 @@
 # ETERNUM Digital Business System – 50% auf den ganzen Funnel
 
-> Product ID `56828` · Digistore24 productId `699040` · [HTML profile page](../../reviews/eternum-digital-business-system-50-auf-den-ganzen-funnel-56828.html)
+> Product ID `56828` · Digistore24 productId `699040` · [HTML profile page](../../produkte/eternum-digital-business-system-50-auf-den-ganzen-funnel-56828.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # BAföG leicht gemacht – Ratgeber mit BAföG-Rechner
 
-> Product ID `60361` · Digistore24 productId `741901` · [HTML profile page](../../reviews/baf-g-leicht-gemacht-ratgeber-mit-baf-g-rechner-60361.html)
+> Product ID `60361` · Digistore24 productId `741901` · [HTML profile page](../../produkte/baf-g-leicht-gemacht-ratgeber-mit-baf-g-rechner-60361.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit LinkedIn
 
-> Product ID `56911` · Digistore24 productId `701346` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-linkedin-56911.html)
+> Product ID `56911` · Digistore24 productId `701346` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-linkedin-56911.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

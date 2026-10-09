@@ -1,6 +1,6 @@
 # Skaliere Dein Business mit Chat GPT
 
-> Product ID `48737` · Digistore24 productId `562679` · [HTML profile page](../../reviews/skaliere-dein-business-mit-chat-gpt-48737.html)
+> Product ID `48737` · Digistore24 productId `562679` · [HTML profile page](../../produkte/skaliere-dein-business-mit-chat-gpt-48737.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

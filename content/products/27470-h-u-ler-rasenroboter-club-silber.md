@@ -1,6 +1,6 @@
 # Häußler Rasenroboter Club - SILBER
 
-> Product ID `27470` · Digistore24 productId `252623` · [HTML profile page](../../reviews/h-u-ler-rasenroboter-club-silber-27470.html)
+> Product ID `27470` · Digistore24 productId `252623` · [HTML profile page](../../produkte/h-u-ler-rasenroboter-club-silber-27470.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

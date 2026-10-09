@@ -1,6 +1,6 @@
 # Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv
 
-> Product ID `43266` · Digistore24 productId `490909` · [HTML profile page](../../reviews/sprecher-werden-in-1-jahr-zum-profisprecher-intensiv-43266.html)
+> Product ID `43266` · Digistore24 productId `490909` · [HTML profile page](../../produkte/sprecher-werden-in-1-jahr-zum-profisprecher-intensiv-43266.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

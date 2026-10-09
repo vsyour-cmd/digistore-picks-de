@@ -1,6 +1,6 @@
 # Körperfeldcoaching Clips - Körperintelligenz nutzen
 
-> Product ID `25913` · Digistore24 productId `58827` · [HTML profile page](../../reviews/k-rperfeldcoaching-clips-k-rperintelligenz-nutzen-25913.html)
+> Product ID `25913` · Digistore24 productId `58827` · [HTML profile page](../../produkte/k-rperfeldcoaching-clips-k-rperintelligenz-nutzen-25913.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

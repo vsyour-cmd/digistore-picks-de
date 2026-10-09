@@ -1,6 +1,6 @@
 # Mit Hilfe der KI dein eigenes Online Business
 
-> Product ID `52389` · Digistore24 productId `551627` · [HTML profile page](../../reviews/mit-hilfe-der-ki-dein-eigenes-online-business-52389.html)
+> Product ID `52389` · Digistore24 productId `551627` · [HTML profile page](../../produkte/mit-hilfe-der-ki-dein-eigenes-online-business-52389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ursachen finden und auflösen | Katja Amberg | Hypnose
 
-> Product ID `33563` · Digistore24 productId `310603` · [HTML profile page](../../reviews/ursachen-finden-und-aufl-sen-katja-amberg-hypnose-33563.html)
+> Product ID `33563` · Digistore24 productId `310603` · [HTML profile page](../../produkte/ursachen-finden-und-aufl-sen-katja-amberg-hypnose-33563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

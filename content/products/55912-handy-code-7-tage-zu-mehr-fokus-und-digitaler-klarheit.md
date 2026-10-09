@@ -1,6 +1,6 @@
 # HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit
 
-> Product ID `55912` · Digistore24 productId `670079` · [HTML profile page](../../reviews/handy-code-7-tage-zu-mehr-fokus-und-digitaler-klarheit-55912.html)
+> Product ID `55912` · Digistore24 productId `670079` · [HTML profile page](../../produkte/handy-code-7-tage-zu-mehr-fokus-und-digitaler-klarheit-55912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

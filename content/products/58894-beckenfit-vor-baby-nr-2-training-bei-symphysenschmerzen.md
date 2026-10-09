@@ -1,6 +1,6 @@
 # Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen
 
-> Product ID `58894` · Digistore24 productId `710962` · [HTML profile page](../../reviews/beckenfit-vor-baby-nr-2-training-bei-symphysenschmerzen-58894.html)
+> Product ID `58894` · Digistore24 productId `710962` · [HTML profile page](../../produkte/beckenfit-vor-baby-nr-2-training-bei-symphysenschmerzen-58894.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

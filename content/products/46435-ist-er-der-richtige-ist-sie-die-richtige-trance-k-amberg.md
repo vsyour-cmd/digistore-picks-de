@@ -1,6 +1,6 @@
 # Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg
 
-> Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../reviews/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)
+> Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../produkte/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

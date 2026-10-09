@@ -1,6 +1,6 @@
 # 1 Click Business - Einfaches Copy-Paste Business
 
-> Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../reviews/1-click-business-einfaches-copy-paste-business-44118.html)
+> Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../produkte/1-click-business-einfaches-copy-paste-business-44118.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

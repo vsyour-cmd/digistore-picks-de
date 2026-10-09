@@ -1,6 +1,6 @@
 # eBook: Das Mindset der großen Affiliates
 
-> Product ID `51743` · Digistore24 productId `597886` · [HTML profile page](../../reviews/ebook-das-mindset-der-gro-en-affiliates-51743.html)
+> Product ID `51743` · Digistore24 productId `597886` · [HTML profile page](../../produkte/ebook-das-mindset-der-gro-en-affiliates-51743.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

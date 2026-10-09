@@ -1,6 +1,6 @@
 # BRANDNEU - Endless Pin-Bundle
 
-> Product ID `55531` · Digistore24 productId `585267` · [HTML profile page](../../reviews/brandneu-endless-pin-bundle-55531.html)
+> Product ID `55531` · Digistore24 productId `585267` · [HTML profile page](../../produkte/brandneu-endless-pin-bundle-55531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kaufvertrag leicht gemacht – mit Kaufvertrags-Generator
 
-> Product ID `60339` · Digistore24 productId `741705` · [HTML profile page](../../reviews/kaufvertrag-leicht-gemacht-mit-kaufvertrags-generator-60339.html)
+> Product ID `60339` · Digistore24 productId `741705` · [HTML profile page](../../produkte/kaufvertrag-leicht-gemacht-mit-kaufvertrags-generator-60339.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

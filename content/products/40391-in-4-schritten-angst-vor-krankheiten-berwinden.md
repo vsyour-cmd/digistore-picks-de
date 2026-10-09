@@ -1,6 +1,6 @@
 # In 4 Schritten Angst vor Krankheiten überwinden
 
-> Product ID `40391` · Digistore24 productId `436651` · [HTML profile page](../../reviews/in-4-schritten-angst-vor-krankheiten-berwinden-40391.html)
+> Product ID `40391` · Digistore24 productId `436651` · [HTML profile page](../../produkte/in-4-schritten-angst-vor-krankheiten-berwinden-40391.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

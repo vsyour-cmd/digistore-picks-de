@@ -1,6 +1,6 @@
 # Schnell Abnehmen und gesund abnehmen bis Wunschgewicht
 
-> Product ID `32098` · Digistore24 productId `310994` · [HTML profile page](../../reviews/schnell-abnehmen-und-gesund-abnehmen-bis-wunschgewicht-32098.html)
+> Product ID `32098` · Digistore24 productId `310994` · [HTML profile page](../../produkte/schnell-abnehmen-und-gesund-abnehmen-bis-wunschgewicht-32098.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

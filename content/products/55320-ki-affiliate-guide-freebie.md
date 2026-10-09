@@ -1,6 +1,6 @@
 # Ki Affiliate Guide (Freebie)
 
-> Product ID `55320` · Digistore24 productId `571318` · [HTML profile page](../../reviews/ki-affiliate-guide-freebie-55320.html)
+> Product ID `55320` · Digistore24 productId `571318` · [HTML profile page](../../produkte/ki-affiliate-guide-freebie-55320.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

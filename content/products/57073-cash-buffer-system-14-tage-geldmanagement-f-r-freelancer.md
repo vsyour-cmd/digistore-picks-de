@@ -1,6 +1,6 @@
 # Cash-Buffer System — 14-Tage Geldmanagement für Freelancer
 
-> Product ID `57073` · Digistore24 productId `701528` · [HTML profile page](../../reviews/cash-buffer-system-14-tage-geldmanagement-f-r-freelancer-57073.html)
+> Product ID `57073` · Digistore24 productId `701528` · [HTML profile page](../../produkte/cash-buffer-system-14-tage-geldmanagement-f-r-freelancer-57073.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

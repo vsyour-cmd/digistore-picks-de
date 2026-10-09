@@ -1,6 +1,6 @@
 # Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi
 
-> Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../reviews/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)
+> Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../produkte/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

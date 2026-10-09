@@ -1,6 +1,6 @@
 # GlucoSana: The Blood Sugar Protocol
 
-> Product ID `55651` · Digistore24 productId `668255` · [HTML profile page](../../reviews/glucosana-the-blood-sugar-protocol-55651.html)
+> Product ID `55651` · Digistore24 productId `668255` · [HTML profile page](../../produkte/glucosana-the-blood-sugar-protocol-55651.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

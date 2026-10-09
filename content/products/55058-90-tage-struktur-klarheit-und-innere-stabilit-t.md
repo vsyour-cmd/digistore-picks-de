@@ -1,6 +1,6 @@
 # 90 Tage - Struktur, Klarheit und innere Stabilität
 
-> Product ID `55058` · Digistore24 productId `657479` · [HTML profile page](../../reviews/90-tage-struktur-klarheit-und-innere-stabilit-t-55058.html)
+> Product ID `55058` · Digistore24 productId `657479` · [HTML profile page](../../produkte/90-tage-struktur-klarheit-und-innere-stabilit-t-55058.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

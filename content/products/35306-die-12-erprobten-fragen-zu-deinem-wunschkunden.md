@@ -1,6 +1,6 @@
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
-> Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../reviews/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
+> Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

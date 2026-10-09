@@ -1,6 +1,6 @@
 # Gratis Isochrone Töne – Direkter Download
 
-> Product ID `46012` · Digistore24 productId `527160` · [HTML profile page](../../reviews/gratis-isochrone-t-ne-direkter-download-46012.html)
+> Product ID `46012` · Digistore24 productId `527160` · [HTML profile page](../../produkte/gratis-isochrone-t-ne-direkter-download-46012.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

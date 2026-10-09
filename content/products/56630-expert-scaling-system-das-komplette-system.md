@@ -1,6 +1,6 @@
 # Expert Scaling System — Das komplette System
 
-> Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../reviews/expert-scaling-system-das-komplette-system-56630.html)
+> Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../produkte/expert-scaling-system-das-komplette-system-56630.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

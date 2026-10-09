@@ -1,6 +1,6 @@
 # SKIN 40+ RESET - Hautpflege ab 40 als digitaler PDF Guide
 
-> Product ID `59073` · Digistore24 productId `730924` · [HTML profile page](../../reviews/skin-40-reset-hautpflege-ab-40-als-digitaler-pdf-guide-59073.html)
+> Product ID `59073` · Digistore24 productId `730924` · [HTML profile page](../../produkte/skin-40-reset-hautpflege-ab-40-als-digitaler-pdf-guide-59073.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

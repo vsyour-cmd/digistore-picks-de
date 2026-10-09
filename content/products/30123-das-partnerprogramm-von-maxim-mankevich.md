@@ -1,6 +1,6 @@
 # Das Partnerprogramm von Maxim Mankevich
 
-> Product ID `30123` · Digistore24 productId `325707` · [HTML profile page](../../reviews/das-partnerprogramm-von-maxim-mankevich-30123.html)
+> Product ID `30123` · Digistore24 productId `325707` · [HTML profile page](../../produkte/das-partnerprogramm-von-maxim-mankevich-30123.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

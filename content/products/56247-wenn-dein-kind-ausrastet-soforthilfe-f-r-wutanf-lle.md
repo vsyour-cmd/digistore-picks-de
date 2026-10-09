@@ -1,6 +1,6 @@
 # Wenn dein Kind ausrastet - Soforthilfe für Wutanfälle
 
-> Product ID `56247` · Digistore24 productId `684031` · [HTML profile page](../../reviews/wenn-dein-kind-ausrastet-soforthilfe-f-r-wutanf-lle-56247.html)
+> Product ID `56247` · Digistore24 productId `684031` · [HTML profile page](../../produkte/wenn-dein-kind-ausrastet-soforthilfe-f-r-wutanf-lle-56247.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

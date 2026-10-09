@@ -1,6 +1,6 @@
 # Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort
 
-> Product ID `59969` · Digistore24 productId `737065` · [HTML profile page](../../reviews/scheidung-vorbereiten-unterlagen-finanzen-und-termine-an-einem-ort-59969.html)
+> Product ID `59969` · Digistore24 productId `737065` · [HTML profile page](../../produkte/scheidung-vorbereiten-unterlagen-finanzen-und-termine-an-einem-ort-59969.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

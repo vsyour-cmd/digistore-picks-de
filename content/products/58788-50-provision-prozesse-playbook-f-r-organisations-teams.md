@@ -1,6 +1,6 @@
 # 50 % Provision: Prozesse-Playbook für Organisations-Teams
 
-> Product ID `58788` · Digistore24 productId `692787` · [HTML profile page](../../reviews/50-provision-prozesse-playbook-f-r-organisations-teams-58788.html)
+> Product ID `58788` · Digistore24 productId `692787` · [HTML profile page](../../produkte/50-provision-prozesse-playbook-f-r-organisations-teams-58788.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

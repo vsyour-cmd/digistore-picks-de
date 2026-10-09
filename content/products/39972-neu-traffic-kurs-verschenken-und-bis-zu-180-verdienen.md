@@ -1,6 +1,6 @@
 # NEU! Traffic Kurs verschenken und bis zu 180€ verdienen
 
-> Product ID `39972` · Digistore24 productId `438659` · [HTML profile page](../../reviews/neu-traffic-kurs-verschenken-und-bis-zu-180-verdienen-39972.html)
+> Product ID `39972` · Digistore24 productId `438659` · [HTML profile page](../../produkte/neu-traffic-kurs-verschenken-und-bis-zu-180-verdienen-39972.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

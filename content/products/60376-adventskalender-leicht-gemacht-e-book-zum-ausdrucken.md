@@ -1,6 +1,6 @@
 # Adventskalender leicht gemacht – E-Book zum Ausdrucken
 
-> Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../reviews/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)
+> Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../produkte/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

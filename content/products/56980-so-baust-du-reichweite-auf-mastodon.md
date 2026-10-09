@@ -1,6 +1,6 @@
 # So baust du Reichweite auf Mastodon
 
-> Product ID `56980` · Digistore24 productId `701400` · [HTML profile page](../../reviews/so-baust-du-reichweite-auf-mastodon-56980.html)
+> Product ID `56980` · Digistore24 productId `701400` · [HTML profile page](../../produkte/so-baust-du-reichweite-auf-mastodon-56980.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

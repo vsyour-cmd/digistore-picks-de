@@ -1,6 +1,6 @@
 # E-Mail-Liste aufbauen – Praxisguide 2026
 
-> Product ID `58824` · Digistore24 productId `479638` · [HTML profile page](../../reviews/e-mail-liste-aufbauen-praxisguide-2026-58824.html)
+> Product ID `58824` · Digistore24 productId `479638` · [HTML profile page](../../produkte/e-mail-liste-aufbauen-praxisguide-2026-58824.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

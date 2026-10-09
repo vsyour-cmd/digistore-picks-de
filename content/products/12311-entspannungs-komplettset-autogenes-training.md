@@ -1,6 +1,6 @@
 # Entspannungs- Komplettset - Autogenes Training
 
-> Product ID `12311` · Digistore24 productId `88413` · [HTML profile page](../../reviews/entspannungs-komplettset-autogenes-training-12311.html)
+> Product ID `12311` · Digistore24 productId `88413` · [HTML profile page](../../produkte/entspannungs-komplettset-autogenes-training-12311.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

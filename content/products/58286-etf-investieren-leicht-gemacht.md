@@ -1,6 +1,6 @@
 # ETF investieren. Leicht gemacht!
 
-> Product ID `58286` · Digistore24 productId `719452` · [HTML profile page](../../reviews/etf-investieren-leicht-gemacht-58286.html)
+> Product ID `58286` · Digistore24 productId `719452` · [HTML profile page](../../produkte/etf-investieren-leicht-gemacht-58286.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

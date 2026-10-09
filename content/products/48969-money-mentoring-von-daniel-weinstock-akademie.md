@@ -1,6 +1,6 @@
 # MONEY³ Mentoring von Daniel Weinstock | Akademie
 
-> Product ID `48969` · Digistore24 productId `558771` · [HTML profile page](../../reviews/money-mentoring-von-daniel-weinstock-akademie-48969.html)
+> Product ID `48969` · Digistore24 productId `558771` · [HTML profile page](../../produkte/money-mentoring-von-daniel-weinstock-akademie-48969.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

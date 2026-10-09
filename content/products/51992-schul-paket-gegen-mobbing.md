@@ -1,6 +1,6 @@
 # Schul-Paket gegen Mobbing
 
-> Product ID `51992` · Digistore24 productId `584787` · [HTML profile page](../../reviews/schul-paket-gegen-mobbing-51992.html)
+> Product ID `51992` · Digistore24 productId `584787` · [HTML profile page](../../produkte/schul-paket-gegen-mobbing-51992.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

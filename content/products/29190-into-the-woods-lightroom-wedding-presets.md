@@ -1,6 +1,6 @@
 # Into The Woods Lightroom Wedding Presets
 
-> Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../reviews/into-the-woods-lightroom-wedding-presets-29190.html)
+> Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

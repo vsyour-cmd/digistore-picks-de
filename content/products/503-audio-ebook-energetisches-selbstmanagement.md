@@ -1,6 +1,6 @@
 # Audio-Ebook Energetisches Selbstmanagement
 
-> Product ID `503` · Digistore24 productId `11330` · [HTML profile page](../../reviews/audio-ebook-energetisches-selbstmanagement-503.html)
+> Product ID `503` · Digistore24 productId `11330` · [HTML profile page](../../produkte/audio-ebook-energetisches-selbstmanagement-503.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

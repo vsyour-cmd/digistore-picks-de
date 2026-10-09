@@ -1,6 +1,6 @@
 # Signature-Onlinekurs-Business
 
-> Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../reviews/signature-onlinekurs-business-55794.html)
+> Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../produkte/signature-onlinekurs-business-55794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

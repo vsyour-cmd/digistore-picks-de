@@ -1,6 +1,6 @@
 # 1x1 Floristik - Vielfalt der Sträuße
 
-> Product ID `36299` · Digistore24 productId `377512` · [HTML profile page](../../reviews/1x1-floristik-vielfalt-der-str-u-e-36299.html)
+> Product ID `36299` · Digistore24 productId `377512` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-str-u-e-36299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

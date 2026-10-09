@@ -1,6 +1,6 @@
 # Der nackte Kaiser - Impfen entlarvt
 
-> Product ID `32629` · Digistore24 productId `323967` · [HTML profile page](../../reviews/der-nackte-kaiser-impfen-entlarvt-32629.html)
+> Product ID `32629` · Digistore24 productId `323967` · [HTML profile page](../../produkte/der-nackte-kaiser-impfen-entlarvt-32629.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

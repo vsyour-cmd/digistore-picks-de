@@ -1,6 +1,6 @@
 # Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung
 
-> Product ID `53690` · Digistore24 productId `630728` · [HTML profile page](../../reviews/fitness-guide-2025-muskelaufbau-und-fettverbrennung-53690.html)
+> Product ID `53690` · Digistore24 productId `630728` · [HTML profile page](../../produkte/fitness-guide-2025-muskelaufbau-und-fettverbrennung-53690.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

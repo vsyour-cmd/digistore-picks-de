@@ -1,6 +1,6 @@
 # Neukundengewinnung über YouTube
 
-> Product ID `56965` · Digistore24 productId `701283` · [HTML profile page](../../reviews/neukundengewinnung-ber-youtube-56965.html)
+> Product ID `56965` · Digistore24 productId `701283` · [HTML profile page](../../produkte/neukundengewinnung-ber-youtube-56965.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

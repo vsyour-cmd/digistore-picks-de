@@ -1,6 +1,6 @@
 # Imagination | Geführte Meditation und Manifestationstechnik
 
-> Product ID `53851` · Digistore24 productId `627053` · [HTML profile page](../../reviews/imagination-gef-hrte-meditation-und-manifestationstechnik-53851.html)
+> Product ID `53851` · Digistore24 productId `627053` · [HTML profile page](../../produkte/imagination-gef-hrte-meditation-und-manifestationstechnik-53851.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

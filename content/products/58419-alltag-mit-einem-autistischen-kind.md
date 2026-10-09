@@ -1,6 +1,6 @@
 # Alltag mit einem autistischen Kind
 
-> Product ID `58419` · Digistore24 productId `722548` · [HTML profile page](../../reviews/alltag-mit-einem-autistischen-kind-58419.html)
+> Product ID `58419` · Digistore24 productId `722548` · [HTML profile page](../../produkte/alltag-mit-einem-autistischen-kind-58419.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

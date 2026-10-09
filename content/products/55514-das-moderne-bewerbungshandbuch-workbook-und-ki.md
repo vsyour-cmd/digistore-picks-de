@@ -1,6 +1,6 @@
 # Das moderne Bewerbungshandbuch – Workbook und KI
 
-> Product ID `55514` · Digistore24 productId `654461` · [HTML profile page](../../reviews/das-moderne-bewerbungshandbuch-workbook-und-ki-55514.html)
+> Product ID `55514` · Digistore24 productId `654461` · [HTML profile page](../../produkte/das-moderne-bewerbungshandbuch-workbook-und-ki-55514.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

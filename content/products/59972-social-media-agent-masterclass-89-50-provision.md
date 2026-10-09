@@ -1,6 +1,6 @@
 # Social Media Agent Masterclass – 89 €, 50 % Provision
 
-> Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../reviews/social-media-agent-masterclass-89-50-provision-59972.html)
+> Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../produkte/social-media-agent-masterclass-89-50-provision-59972.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

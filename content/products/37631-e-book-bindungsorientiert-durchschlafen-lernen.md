@@ -1,6 +1,6 @@
 # E-Book: Bindungsorientiert durchschlafen lernen
 
-> Product ID `37631` · Digistore24 productId `286333` · [HTML profile page](../../reviews/e-book-bindungsorientiert-durchschlafen-lernen-37631.html)
+> Product ID `37631` · Digistore24 productId `286333` · [HTML profile page](../../produkte/e-book-bindungsorientiert-durchschlafen-lernen-37631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

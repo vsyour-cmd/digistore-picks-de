@@ -1,6 +1,6 @@
 # Küchen Planungshilfe | Gutsmann Küchen-Checkliste
 
-> Product ID `58912` · Digistore24 productId `721184` · [HTML profile page](../../reviews/k-chen-planungshilfe-gutsmann-k-chen-checkliste-58912.html)
+> Product ID `58912` · Digistore24 productId `721184` · [HTML profile page](../../produkte/k-chen-planungshilfe-gutsmann-k-chen-checkliste-58912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

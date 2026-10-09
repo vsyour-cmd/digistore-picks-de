@@ -1,6 +1,6 @@
 # Vollmachten leicht gemacht – mit Vollmachts-Generator
 
-> Product ID `60336` · Digistore24 productId `741657` · [HTML profile page](../../reviews/vollmachten-leicht-gemacht-mit-vollmachts-generator-60336.html)
+> Product ID `60336` · Digistore24 productId `741657` · [HTML profile page](../../produkte/vollmachten-leicht-gemacht-mit-vollmachts-generator-60336.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

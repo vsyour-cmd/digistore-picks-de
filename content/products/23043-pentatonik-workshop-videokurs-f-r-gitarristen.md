@@ -1,6 +1,6 @@
 # Pentatonik-Workshop (Videokurs für Gitarristen)
 
-> Product ID `23043` · Digistore24 productId `205801` · [HTML profile page](../../reviews/pentatonik-workshop-videokurs-f-r-gitarristen-23043.html)
+> Product ID `23043` · Digistore24 productId `205801` · [HTML profile page](../../produkte/pentatonik-workshop-videokurs-f-r-gitarristen-23043.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

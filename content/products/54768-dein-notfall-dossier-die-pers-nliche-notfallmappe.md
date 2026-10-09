@@ -1,6 +1,6 @@
 # Dein Notfall-Dossier – Die persönliche Notfallmappe
 
-> Product ID `54768` · Digistore24 productId `651091` · [HTML profile page](../../reviews/dein-notfall-dossier-die-pers-nliche-notfallmappe-54768.html)
+> Product ID `54768` · Digistore24 productId `651091` · [HTML profile page](../../produkte/dein-notfall-dossier-die-pers-nliche-notfallmappe-54768.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

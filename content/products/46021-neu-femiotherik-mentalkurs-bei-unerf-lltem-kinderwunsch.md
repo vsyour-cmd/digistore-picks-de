@@ -1,6 +1,6 @@
 # [NEU] FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!
 
-> Product ID `46021` · Digistore24 productId `525669` · [HTML profile page](../../reviews/neu-femiotherik-mentalkurs-bei-unerf-lltem-kinderwunsch-46021.html)
+> Product ID `46021` · Digistore24 productId `525669` · [HTML profile page](../../produkte/neu-femiotherik-mentalkurs-bei-unerf-lltem-kinderwunsch-46021.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

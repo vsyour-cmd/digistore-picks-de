@@ -1,6 +1,6 @@
 # Erfolgreicher Content Creator mit KI Teil 2
 
-> Product ID `56009` · Digistore24 productId `678396` · [HTML profile page](../../reviews/erfolgreicher-content-creator-mit-ki-teil-2-56009.html)
+> Product ID `56009` · Digistore24 productId `678396` · [HTML profile page](../../produkte/erfolgreicher-content-creator-mit-ki-teil-2-56009.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

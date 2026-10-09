@@ -1,6 +1,6 @@
 # Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare
 
-> Product ID `54689` · Digistore24 productId `628355` · [HTML profile page](../../reviews/aivatar-academy-die-nr-1-community-f-r-premium-ki-avatare-54689.html)
+> Product ID `54689` · Digistore24 productId `628355` · [HTML profile page](../../produkte/aivatar-academy-die-nr-1-community-f-r-premium-ki-avatare-54689.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

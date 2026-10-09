@@ -1,6 +1,6 @@
 # „Fragen, die verkaufen“ – High-Ticket-Produkt für Affiliates
 
-> Product ID `53239` · Digistore24 productId `624982` · [HTML profile page](../../reviews/fragen-die-verkaufen-high-ticket-produkt-f-r-affiliates-53239.html)
+> Product ID `53239` · Digistore24 productId `624982` · [HTML profile page](../../produkte/fragen-die-verkaufen-high-ticket-produkt-f-r-affiliates-53239.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

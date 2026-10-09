@@ -1,6 +1,6 @@
 # MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot
 
-> Product ID `60190` · Digistore24 productId `731830` · [HTML profile page](../../reviews/mehr-verkaufen-durch-weniger-posten-digitales-angebot-60190.html)
+> Product ID `60190` · Digistore24 productId `731830` · [HTML profile page](../../produkte/mehr-verkaufen-durch-weniger-posten-digitales-angebot-60190.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

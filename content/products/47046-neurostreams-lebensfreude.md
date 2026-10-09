@@ -1,6 +1,6 @@
 # Neurostreams™ Lebensfreude
 
-> Product ID `47046` · Digistore24 productId `250024` · [HTML profile page](../../reviews/neurostreams-lebensfreude-47046.html)
+> Product ID `47046` · Digistore24 productId `250024` · [HTML profile page](../../produkte/neurostreams-lebensfreude-47046.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Affili Forge Premium Mentoring
 
-> Product ID `56361` · Digistore24 productId `679185` · [HTML profile page](../../reviews/affili-forge-premium-mentoring-56361.html)
+> Product ID `56361` · Digistore24 productId `679185` · [HTML profile page](../../produkte/affili-forge-premium-mentoring-56361.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

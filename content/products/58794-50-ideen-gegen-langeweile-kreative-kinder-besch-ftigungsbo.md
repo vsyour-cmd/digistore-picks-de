@@ -1,6 +1,6 @@
 # 50 Ideen gegen Langeweile – Kreative Kinder-Beschäftigungsbo
 
-> Product ID `58794` · Digistore24 productId `727017` · [HTML profile page](../../reviews/50-ideen-gegen-langeweile-kreative-kinder-besch-ftigungsbo-58794.html)
+> Product ID `58794` · Digistore24 productId `727017` · [HTML profile page](../../produkte/50-ideen-gegen-langeweile-kreative-kinder-besch-ftigungsbo-58794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

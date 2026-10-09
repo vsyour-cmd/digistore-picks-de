@@ -1,6 +1,6 @@
 # Starke Wurzeln-Der Kurs für Kinder und Eltern
 
-> Product ID `44817` · Digistore24 productId `396831` · [HTML profile page](../../reviews/starke-wurzeln-der-kurs-f-r-kinder-und-eltern-44817.html)
+> Product ID `44817` · Digistore24 productId `396831` · [HTML profile page](../../produkte/starke-wurzeln-der-kurs-f-r-kinder-und-eltern-44817.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

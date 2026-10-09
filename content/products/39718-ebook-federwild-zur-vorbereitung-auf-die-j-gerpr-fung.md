@@ -1,6 +1,6 @@
 # eBook Federwild zur Vorbereitung auf die Jägerprüfung
 
-> Product ID `39718` · Digistore24 productId `438049` · [HTML profile page](../../reviews/ebook-federwild-zur-vorbereitung-auf-die-j-gerpr-fung-39718.html)
+> Product ID `39718` · Digistore24 productId `438049` · [HTML profile page](../../produkte/ebook-federwild-zur-vorbereitung-auf-die-j-gerpr-fung-39718.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

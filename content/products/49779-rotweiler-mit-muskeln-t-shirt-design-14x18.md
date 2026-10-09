@@ -1,6 +1,6 @@
 # Rotweiler mit Muskeln - T-Shirt Design 14x18
 
-> Product ID `49779` · Digistore24 productId `572430` · [HTML profile page](../../reviews/rotweiler-mit-muskeln-t-shirt-design-14x18-49779.html)
+> Product ID `49779` · Digistore24 productId `572430` · [HTML profile page](../../produkte/rotweiler-mit-muskeln-t-shirt-design-14x18-49779.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

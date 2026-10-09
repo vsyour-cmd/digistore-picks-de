@@ -1,6 +1,6 @@
 # CFD Trading-Signale
 
-> Product ID `13489` · Digistore24 productId `66813` · [HTML profile page](../../reviews/cfd-trading-signale-13489.html)
+> Product ID `13489` · Digistore24 productId `66813` · [HTML profile page](../../produkte/cfd-trading-signale-13489.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

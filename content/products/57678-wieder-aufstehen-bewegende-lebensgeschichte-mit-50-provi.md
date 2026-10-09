@@ -1,6 +1,6 @@
 # Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi
 
-> Product ID `57678` · Digistore24 productId `681444` · [HTML profile page](../../reviews/wieder-aufstehen-bewegende-lebensgeschichte-mit-50-provi-57678.html)
+> Product ID `57678` · Digistore24 productId `681444` · [HTML profile page](../../produkte/wieder-aufstehen-bewegende-lebensgeschichte-mit-50-provi-57678.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

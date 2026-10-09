@@ -1,6 +1,6 @@
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
-> Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../reviews/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
+> Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../produkte/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Auswandern nach Teneriffa: Kosten, Klima, Realität
 
-> Product ID `57035` · Digistore24 productId `702483` · [HTML profile page](../../reviews/auswandern-nach-teneriffa-kosten-klima-realit-t-57035.html)
+> Product ID `57035` · Digistore24 productId `702483` · [HTML profile page](../../produkte/auswandern-nach-teneriffa-kosten-klima-realit-t-57035.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

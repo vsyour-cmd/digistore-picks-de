@@ -1,6 +1,6 @@
 # MagnetMotor24
 
-> Product ID `2247` · Digistore24 productId `19813` · [HTML profile page](../../reviews/magnetmotor24-2247.html)
+> Product ID `2247` · Digistore24 productId `19813` · [HTML profile page](../../produkte/magnetmotor24-2247.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

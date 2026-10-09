@@ -1,6 +1,6 @@
 # Google Ads Mastery
 
-> Product ID `57244` · Digistore24 productId `704222` · [HTML profile page](../../reviews/google-ads-mastery-57244.html)
+> Product ID `57244` · Digistore24 productId `704222` · [HTML profile page](../../produkte/google-ads-mastery-57244.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

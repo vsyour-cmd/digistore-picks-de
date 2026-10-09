@@ -1,6 +1,6 @@
 # Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle
 
-> Product ID `58494` · Digistore24 productId `722816` · [HTML profile page](../../reviews/narzissmus-und-toxische-beziehungen-e-book-h-rbuch-und-bundle-58494.html)
+> Product ID `58494` · Digistore24 productId `722816` · [HTML profile page](../../produkte/narzissmus-und-toxische-beziehungen-e-book-h-rbuch-und-bundle-58494.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

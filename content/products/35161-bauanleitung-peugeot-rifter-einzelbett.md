@@ -1,6 +1,6 @@
 # Bauanleitung - Peugeot Rifter Einzelbett
 
-> Product ID `35161` · Digistore24 productId `330356` · [HTML profile page](../../reviews/bauanleitung-peugeot-rifter-einzelbett-35161.html)
+> Product ID `35161` · Digistore24 productId `330356` · [HTML profile page](../../produkte/bauanleitung-peugeot-rifter-einzelbett-35161.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

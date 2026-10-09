@@ -1,6 +1,6 @@
 # Simple Lead Machine | Partnerprogramm
 
-> Product ID `49033` · Digistore24 productId `506275` · [HTML profile page](../../reviews/simple-lead-machine-partnerprogramm-49033.html)
+> Product ID `49033` · Digistore24 productId `506275` · [HTML profile page](../../produkte/simple-lead-machine-partnerprogramm-49033.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

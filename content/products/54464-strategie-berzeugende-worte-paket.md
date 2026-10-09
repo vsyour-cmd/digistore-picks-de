@@ -1,6 +1,6 @@
 # Strategie + überzeugende Worte Paket
 
-> Product ID `54464` · Digistore24 productId `641627` · [HTML profile page](../../reviews/strategie-berzeugende-worte-paket-54464.html)
+> Product ID `54464` · Digistore24 productId `641627` · [HTML profile page](../../produkte/strategie-berzeugende-worte-paket-54464.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

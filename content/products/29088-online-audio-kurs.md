@@ -1,6 +1,6 @@
 # Online Audio Kurs
 
-> Product ID `29088` · Digistore24 productId `198057` · [HTML profile page](../../reviews/online-audio-kurs-29088.html)
+> Product ID `29088` · Digistore24 productId `198057` · [HTML profile page](../../produkte/online-audio-kurs-29088.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
-> Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../reviews/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
+> Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

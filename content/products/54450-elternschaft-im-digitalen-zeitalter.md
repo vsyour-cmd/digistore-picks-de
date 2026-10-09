@@ -1,6 +1,6 @@
 # Elternschaft im digitalen Zeitalter
 
-> Product ID `54450` · Digistore24 productId `642395` · [HTML profile page](../../reviews/elternschaft-im-digitalen-zeitalter-54450.html)
+> Product ID `54450` · Digistore24 productId `642395` · [HTML profile page](../../produkte/elternschaft-im-digitalen-zeitalter-54450.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

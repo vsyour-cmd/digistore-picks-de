@@ -1,6 +1,6 @@
 # HTML Online-Kurs für Einsteiger
 
-> Product ID `38359` · Digistore24 productId `417403` · [HTML profile page](../../reviews/html-online-kurs-f-r-einsteiger-38359.html)
+> Product ID `38359` · Digistore24 productId `417403` · [HTML profile page](../../produkte/html-online-kurs-f-r-einsteiger-38359.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # High-Ticket PDF: "Werbesystem statt Zufall" – 40% Provision
 
-> Product ID `53246` · Digistore24 productId `625079` · [HTML profile page](../../reviews/high-ticket-pdf-werbesystem-statt-zufall-40-provision-53246.html)
+> Product ID `53246` · Digistore24 productId `625079` · [HTML profile page](../../produkte/high-ticket-pdf-werbesystem-statt-zufall-40-provision-53246.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

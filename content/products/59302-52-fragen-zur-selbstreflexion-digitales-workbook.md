@@ -1,6 +1,6 @@
 # 52 Fragen zur Selbstreflexion – Digitales Workbook
 
-> Product ID `59302` · Digistore24 productId `733066` · [HTML profile page](../../reviews/52-fragen-zur-selbstreflexion-digitales-workbook-59302.html)
+> Product ID `59302` · Digistore24 productId `733066` · [HTML profile page](../../produkte/52-fragen-zur-selbstreflexion-digitales-workbook-59302.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

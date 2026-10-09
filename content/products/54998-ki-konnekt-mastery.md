@@ -1,6 +1,6 @@
 # KI Konnekt - Mastery
 
-> Product ID `54998` · Digistore24 productId `654019` · [HTML profile page](../../reviews/ki-konnekt-mastery-54998.html)
+> Product ID `54998` · Digistore24 productId `654019` · [HTML profile page](../../produkte/ki-konnekt-mastery-54998.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 79 € Instant-Sale: KI-Texte für Instagram, Ads und Reels – 5
 
-> Product ID `58661` · Digistore24 productId `725148` · [HTML profile page](../../reviews/79-instant-sale-ki-texte-f-r-instagram-ads-und-reels-5-58661.html)
+> Product ID `58661` · Digistore24 productId `725148` · [HTML profile page](../../produkte/79-instant-sale-ki-texte-f-r-instagram-ads-und-reels-5-58661.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

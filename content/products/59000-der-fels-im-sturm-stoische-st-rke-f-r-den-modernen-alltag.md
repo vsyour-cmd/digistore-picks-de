@@ -1,6 +1,6 @@
 # Der Fels im Sturm – Stoische Stärke für den modernen Alltag
 
-> Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../reviews/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
+> Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../produkte/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

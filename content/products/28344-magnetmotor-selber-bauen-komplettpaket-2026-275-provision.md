@@ -1,6 +1,6 @@
 # Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision
 
-> Product ID `28344` · Digistore24 productId `211195` · [HTML profile page](../../reviews/magnetmotor-selber-bauen-komplettpaket-2026-275-provision-28344.html)
+> Product ID `28344` · Digistore24 productId `211195` · [HTML profile page](../../produkte/magnetmotor-selber-bauen-komplettpaket-2026-275-provision-28344.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # VIDEO CLASS für Fotografen
 
-> Product ID `40597` · Digistore24 productId `443396` · [HTML profile page](../../reviews/video-class-f-r-fotografen-40597.html)
+> Product ID `40597` · Digistore24 productId `443396` · [HTML profile page](../../produkte/video-class-f-r-fotografen-40597.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Witwenrente in Deutschland einfach erklärt
 
-> Product ID `58799` · Digistore24 productId `728048` · [HTML profile page](../../reviews/witwenrente-in-deutschland-einfach-erkl-rt-58799.html)
+> Product ID `58799` · Digistore24 productId `728048` · [HTML profile page](../../produkte/witwenrente-in-deutschland-einfach-erkl-rt-58799.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

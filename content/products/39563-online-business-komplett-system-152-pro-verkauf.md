@@ -1,6 +1,6 @@
 # Online Business Komplett System | 152€ pro Verkauf!
 
-> Product ID `39563` · Digistore24 productId `435384` · [HTML profile page](../../reviews/online-business-komplett-system-152-pro-verkauf-39563.html)
+> Product ID `39563` · Digistore24 productId `435384` · [HTML profile page](../../produkte/online-business-komplett-system-152-pro-verkauf-39563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

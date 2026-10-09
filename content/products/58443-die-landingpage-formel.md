@@ -1,6 +1,6 @@
 # Die Landingpage-Formel
 
-> Product ID `58443` · Digistore24 productId `706244` · [HTML profile page](../../reviews/die-landingpage-formel-58443.html)
+> Product ID `58443` · Digistore24 productId `706244` · [HTML profile page](../../produkte/die-landingpage-formel-58443.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

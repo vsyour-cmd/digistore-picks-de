@@ -1,6 +1,6 @@
 # Endlich zuckerfrei
 
-> Product ID `57024` · Digistore24 productId `702255` · [HTML profile page](../../reviews/endlich-zuckerfrei-57024.html)
+> Product ID `57024` · Digistore24 productId `702255` · [HTML profile page](../../produkte/endlich-zuckerfrei-57024.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

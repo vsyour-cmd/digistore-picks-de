@@ -1,6 +1,6 @@
 # Landingpage Textvorlage
 
-> Product ID `38929` · Digistore24 productId `426468` · [HTML profile page](../../reviews/landingpage-textvorlage-38929.html)
+> Product ID `38929` · Digistore24 productId `426468` · [HTML profile page](../../produkte/landingpage-textvorlage-38929.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

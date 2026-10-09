@@ -1,6 +1,6 @@
 # SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob
 
-> Product ID `56773` · Digistore24 productId `692449` · [HTML profile page](../../reviews/sic-syst-ursachenanalyse-von-verkaufsstagnation-bei-immob-56773.html)
+> Product ID `56773` · Digistore24 productId `692449` · [HTML profile page](../../produkte/sic-syst-ursachenanalyse-von-verkaufsstagnation-bei-immob-56773.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

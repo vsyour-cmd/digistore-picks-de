@@ -1,6 +1,6 @@
 # Small Talk meistern
 
-> Product ID `57199` · Digistore24 productId `701957` · [HTML profile page](../../reviews/small-talk-meistern-57199.html)
+> Product ID `57199` · Digistore24 productId `701957` · [HTML profile page](../../produkte/small-talk-meistern-57199.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

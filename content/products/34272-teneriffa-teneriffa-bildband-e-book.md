@@ -1,6 +1,6 @@
 # TENERIFFA: Teneriffa Bildband [E-Book]
 
-> Product ID `34272` · Digistore24 productId `350433` · [HTML profile page](../../reviews/teneriffa-teneriffa-bildband-e-book-34272.html)
+> Product ID `34272` · Digistore24 productId `350433` · [HTML profile page](../../produkte/teneriffa-teneriffa-bildband-e-book-34272.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

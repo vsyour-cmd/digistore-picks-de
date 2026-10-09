@@ -1,6 +1,6 @@
 # Ebook - Good Vibes für ein gutes Leben
 
-> Product ID `56423` · Digistore24 productId `689470` · [HTML profile page](../../reviews/ebook-good-vibes-f-r-ein-gutes-leben-56423.html)
+> Product ID `56423` · Digistore24 productId `689470` · [HTML profile page](../../produkte/ebook-good-vibes-f-r-ein-gutes-leben-56423.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Online Nackt Yoga mit Elke
 
-> Product ID `20203` · Digistore24 productId `131511` · [HTML profile page](../../reviews/online-nackt-yoga-mit-elke-20203.html)
+> Product ID `20203` · Digistore24 productId `131511` · [HTML profile page](../../produkte/online-nackt-yoga-mit-elke-20203.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

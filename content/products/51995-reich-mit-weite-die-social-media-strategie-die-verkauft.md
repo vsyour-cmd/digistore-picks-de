@@ -1,6 +1,6 @@
 # Reich mit Weite – Die Social-Media-Strategie, die verkauft!
 
-> Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../reviews/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
+> Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../produkte/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

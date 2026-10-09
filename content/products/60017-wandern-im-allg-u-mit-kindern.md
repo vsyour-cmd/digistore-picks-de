@@ -1,6 +1,6 @@
 # Wandern im Allgäu mit Kindern
 
-> Product ID `60017` · Digistore24 productId `738638` · [HTML profile page](../../reviews/wandern-im-allg-u-mit-kindern-60017.html)
+> Product ID `60017` · Digistore24 productId `738638` · [HTML profile page](../../produkte/wandern-im-allg-u-mit-kindern-60017.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

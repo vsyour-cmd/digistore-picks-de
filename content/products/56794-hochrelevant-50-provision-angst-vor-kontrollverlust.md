@@ -1,6 +1,6 @@
 # Hochrelevant + 50% Provision: Angst vor Kontrollverlust
 
-> Product ID `56794` · Digistore24 productId `691014` · [HTML profile page](../../reviews/hochrelevant-50-provision-angst-vor-kontrollverlust-56794.html)
+> Product ID `56794` · Digistore24 productId `691014` · [HTML profile page](../../produkte/hochrelevant-50-provision-angst-vor-kontrollverlust-56794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

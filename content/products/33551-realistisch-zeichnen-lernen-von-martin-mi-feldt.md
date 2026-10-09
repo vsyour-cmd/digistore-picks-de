@@ -1,6 +1,6 @@
 # Realistisch Zeichnen lernen von Martin Mißfeldt
 
-> Product ID `33551` · Digistore24 productId `335392` · [HTML profile page](../../reviews/realistisch-zeichnen-lernen-von-martin-mi-feldt-33551.html)
+> Product ID `33551` · Digistore24 productId `335392` · [HTML profile page](../../produkte/realistisch-zeichnen-lernen-von-martin-mi-feldt-33551.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

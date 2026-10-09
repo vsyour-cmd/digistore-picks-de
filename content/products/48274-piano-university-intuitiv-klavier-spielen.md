@@ -1,6 +1,6 @@
 # Piano.University - Intuitiv Klavier spielen
 
-> Product ID `48274` · Digistore24 productId `548914` · [HTML profile page](../../reviews/piano-university-intuitiv-klavier-spielen-48274.html)
+> Product ID `48274` · Digistore24 productId `548914` · [HTML profile page](../../produkte/piano-university-intuitiv-klavier-spielen-48274.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

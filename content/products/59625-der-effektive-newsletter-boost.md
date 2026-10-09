@@ -1,6 +1,6 @@
 # Der effektive Newsletter Boost
 
-> Product ID `59625` · Digistore24 productId `734234` · [HTML profile page](../../reviews/der-effektive-newsletter-boost-59625.html)
+> Product ID `59625` · Digistore24 productId `734234` · [HTML profile page](../../produkte/der-effektive-newsletter-boost-59625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # AI Cash Page System
 
-> Product ID `54493` · Digistore24 productId `642877` · [HTML profile page](../../reviews/ai-cash-page-system-54493.html)
+> Product ID `54493` · Digistore24 productId `642877` · [HTML profile page](../../produkte/ai-cash-page-system-54493.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

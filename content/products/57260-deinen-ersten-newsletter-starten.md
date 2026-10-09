@@ -1,6 +1,6 @@
 # Deinen ersten Newsletter starten
 
-> Product ID `57260` · Digistore24 productId `704238` · [HTML profile page](../../reviews/deinen-ersten-newsletter-starten-57260.html)
+> Product ID `57260` · Digistore24 productId `704238` · [HTML profile page](../../produkte/deinen-ersten-newsletter-starten-57260.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

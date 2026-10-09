@@ -1,6 +1,6 @@
 # Subliminals: Programmierung des Unterbewusstseins
 
-> Product ID `15297` · Digistore24 productId `143175` · [HTML profile page](../../reviews/subliminals-programmierung-des-unterbewusstseins-15297.html)
+> Product ID `15297` · Digistore24 productId `143175` · [HTML profile page](../../produkte/subliminals-programmierung-des-unterbewusstseins-15297.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

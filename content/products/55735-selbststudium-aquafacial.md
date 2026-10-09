@@ -1,6 +1,6 @@
 # Selbststudium Aquafacial
 
-> Product ID `55735` · Digistore24 productId `671750` · [HTML profile page](../../reviews/selbststudium-aquafacial-55735.html)
+> Product ID `55735` · Digistore24 productId `671750` · [HTML profile page](../../produkte/selbststudium-aquafacial-55735.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

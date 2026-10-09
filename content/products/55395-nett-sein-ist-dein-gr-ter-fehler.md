@@ -1,6 +1,6 @@
 # Nett sein ist dein größter Fehler..
 
-> Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../reviews/nett-sein-ist-dein-gr-ter-fehler-55395.html)
+> Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../produkte/nett-sein-ist-dein-gr-ter-fehler-55395.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

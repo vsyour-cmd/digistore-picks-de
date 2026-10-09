@@ -1,6 +1,6 @@
 # eBook - Kreative Projekte mit Epoxidharz für Einsteiger
 
-> Product ID `40644` · Digistore24 productId `360118` · [HTML profile page](../../reviews/ebook-kreative-projekte-mit-epoxidharz-f-r-einsteiger-40644.html)
+> Product ID `40644` · Digistore24 productId `360118` · [HTML profile page](../../produkte/ebook-kreative-projekte-mit-epoxidharz-f-r-einsteiger-40644.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

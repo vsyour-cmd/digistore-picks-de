@@ -1,6 +1,6 @@
 # Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich
 
-> Product ID `54138` · Digistore24 productId `574613` · [HTML profile page](../../reviews/hochzeitsreden-zum-ehejubil-um-pers-nlich-und-unvergesslich-54138.html)
+> Product ID `54138` · Digistore24 productId `574613` · [HTML profile page](../../produkte/hochzeitsreden-zum-ehejubil-um-pers-nlich-und-unvergesslich-54138.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

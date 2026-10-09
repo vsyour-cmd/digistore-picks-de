@@ -1,6 +1,6 @@
 # Wiederkehrende Provision mit der Platin-Mitgliedschaft
 
-> Product ID `57697` · Digistore24 productId `714186` · [HTML profile page](../../reviews/wiederkehrende-provision-mit-der-platin-mitgliedschaft-57697.html)
+> Product ID `57697` · Digistore24 productId `714186` · [HTML profile page](../../produkte/wiederkehrende-provision-mit-der-platin-mitgliedschaft-57697.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

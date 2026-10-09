@@ -1,6 +1,6 @@
 # AZAV Online-Akademie - Prozesse in der AZAV
 
-> Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../reviews/azav-online-akademie-prozesse-in-der-azav-36522.html)
+> Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30
 
-> Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../reviews/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)
+> Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../produkte/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

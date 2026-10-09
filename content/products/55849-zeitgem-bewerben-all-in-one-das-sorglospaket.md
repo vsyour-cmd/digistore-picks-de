@@ -1,6 +1,6 @@
 # Zeitgemäß bewerben - All-in-One - Das Sorglospaket
 
-> Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../reviews/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)
+> Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../produkte/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Nährstoff-Boost für Schwangerschaft & Geburt
 
-> Product ID `33855` · Digistore24 productId `331999` · [HTML profile page](../../reviews/n-hrstoff-boost-f-r-schwangerschaft-geburt-33855.html)
+> Product ID `33855` · Digistore24 productId `331999` · [HTML profile page](../../produkte/n-hrstoff-boost-f-r-schwangerschaft-geburt-33855.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

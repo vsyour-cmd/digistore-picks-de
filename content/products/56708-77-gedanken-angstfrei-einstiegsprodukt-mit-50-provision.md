@@ -1,6 +1,6 @@
 # 77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision
 
-> Product ID `56708` · Digistore24 productId `695491` · [HTML profile page](../../reviews/77-gedanken-angstfrei-einstiegsprodukt-mit-50-provision-56708.html)
+> Product ID `56708` · Digistore24 productId `695491` · [HTML profile page](../../produkte/77-gedanken-angstfrei-einstiegsprodukt-mit-50-provision-56708.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

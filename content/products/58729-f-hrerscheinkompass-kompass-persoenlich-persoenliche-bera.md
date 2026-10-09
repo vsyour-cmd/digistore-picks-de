@@ -1,6 +1,6 @@
 # FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera
 
-> Product ID `58729` · Digistore24 productId `720601` · [HTML profile page](../../reviews/f-hrerscheinkompass-kompass-persoenlich-persoenliche-bera-58729.html)
+> Product ID `58729` · Digistore24 productId `720601` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-persoenlich-persoenliche-bera-58729.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

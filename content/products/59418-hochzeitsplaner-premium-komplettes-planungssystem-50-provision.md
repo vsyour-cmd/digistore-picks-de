@@ -1,6 +1,6 @@
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
-> Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../reviews/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
+> Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../produkte/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

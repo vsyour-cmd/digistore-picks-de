@@ -1,6 +1,6 @@
 # Erfolgreich mit Affiliate Marketing
 
-> Product ID `50027` · Digistore24 productId `574526` · [HTML profile page](../../reviews/erfolgreich-mit-affiliate-marketing-50027.html)
+> Product ID `50027` · Digistore24 productId `574526` · [HTML profile page](../../produkte/erfolgreich-mit-affiliate-marketing-50027.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Metaleve Germany
 
-> Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../reviews/metaleve-germany-59222.html)
+> Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../produkte/metaleve-germany-59222.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

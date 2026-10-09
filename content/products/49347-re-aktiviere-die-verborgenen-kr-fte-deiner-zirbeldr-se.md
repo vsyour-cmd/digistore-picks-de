@@ -1,6 +1,6 @@
 # (Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse
 
-> Product ID `49347` · Digistore24 productId `569534` · [HTML profile page](../../reviews/re-aktiviere-die-verborgenen-kr-fte-deiner-zirbeldr-se-49347.html)
+> Product ID `49347` · Digistore24 productId `569534` · [HTML profile page](../../produkte/re-aktiviere-die-verborgenen-kr-fte-deiner-zirbeldr-se-49347.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

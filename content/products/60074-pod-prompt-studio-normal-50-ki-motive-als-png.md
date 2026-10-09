@@ -1,6 +1,6 @@
 # POD Prompt Studio – Normal 50: KI-Motive als PNG
 
-> Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../reviews/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)
+> Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../produkte/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

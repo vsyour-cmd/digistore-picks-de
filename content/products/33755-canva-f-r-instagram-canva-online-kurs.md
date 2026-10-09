@@ -1,6 +1,6 @@
 # Canva für Instagram - Canva Online-Kurs
 
-> Product ID `33755` · Digistore24 productId `340896` · [HTML profile page](../../reviews/canva-f-r-instagram-canva-online-kurs-33755.html)
+> Product ID `33755` · Digistore24 productId `340896` · [HTML profile page](../../produkte/canva-f-r-instagram-canva-online-kurs-33755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

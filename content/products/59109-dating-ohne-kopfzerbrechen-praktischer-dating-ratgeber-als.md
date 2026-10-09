@@ -1,6 +1,6 @@
 # Dating ohne Kopfzerbrechen – Praktischer Dating-Ratgeber als
 
-> Product ID `59109` · Digistore24 productId `731017` · [HTML profile page](../../reviews/dating-ohne-kopfzerbrechen-praktischer-dating-ratgeber-als-59109.html)
+> Product ID `59109` · Digistore24 productId `731017` · [HTML profile page](../../produkte/dating-ohne-kopfzerbrechen-praktischer-dating-ratgeber-als-59109.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

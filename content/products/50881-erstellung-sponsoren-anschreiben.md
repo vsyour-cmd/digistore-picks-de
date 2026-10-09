@@ -1,6 +1,6 @@
 # Erstellung Sponsoren-Anschreiben
 
-> Product ID `50881` · Digistore24 productId `536184` · [HTML profile page](../../reviews/erstellung-sponsoren-anschreiben-50881.html)
+> Product ID `50881` · Digistore24 productId `536184` · [HTML profile page](../../produkte/erstellung-sponsoren-anschreiben-50881.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

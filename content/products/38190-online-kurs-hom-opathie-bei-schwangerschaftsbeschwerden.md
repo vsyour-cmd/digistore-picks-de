@@ -1,6 +1,6 @@
 # Online-Kurs: Homöopathie bei Schwangerschaftsbeschwerden
 
-> Product ID `38190` · Digistore24 productId `368500` · [HTML profile page](../../reviews/online-kurs-hom-opathie-bei-schwangerschaftsbeschwerden-38190.html)
+> Product ID `38190` · Digistore24 productId `368500` · [HTML profile page](../../produkte/online-kurs-hom-opathie-bei-schwangerschaftsbeschwerden-38190.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

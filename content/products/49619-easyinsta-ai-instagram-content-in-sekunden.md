@@ -1,6 +1,6 @@
 # EasyInsta Ai – Instagram-Content in Sekunden
 
-> Product ID `49619` · Digistore24 productId `565522` · [HTML profile page](../../reviews/easyinsta-ai-instagram-content-in-sekunden-49619.html)
+> Product ID `49619` · Digistore24 productId `565522` · [HTML profile page](../../produkte/easyinsta-ai-instagram-content-in-sekunden-49619.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

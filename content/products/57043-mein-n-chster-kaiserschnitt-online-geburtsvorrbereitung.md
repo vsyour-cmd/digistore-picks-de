@@ -1,6 +1,6 @@
 # Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung
 
-> Product ID `57043` · Digistore24 productId `697892` · [HTML profile page](../../reviews/mein-n-chster-kaiserschnitt-online-geburtsvorrbereitung-57043.html)
+> Product ID `57043` · Digistore24 productId `697892` · [HTML profile page](../../produkte/mein-n-chster-kaiserschnitt-online-geburtsvorrbereitung-57043.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

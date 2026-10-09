@@ -1,6 +1,6 @@
 # Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic
 
-> Product ID `58852` · Digistore24 productId `727079` · [HTML profile page](../../reviews/die-reise-der-drei-freunde-zum-goldenen-beerenbaum-geschic-58852.html)
+> Product ID `58852` · Digistore24 productId `727079` · [HTML profile page](../../produkte/die-reise-der-drei-freunde-zum-goldenen-beerenbaum-geschic-58852.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

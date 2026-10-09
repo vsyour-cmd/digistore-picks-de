@@ -1,6 +1,6 @@
 # Schulung zum Sicherheitsbeauftragten
 
-> Product ID `55125` · Digistore24 productId `659261` · [HTML profile page](../../reviews/schulung-zum-sicherheitsbeauftragten-55125.html)
+> Product ID `55125` · Digistore24 productId `659261` · [HTML profile page](../../produkte/schulung-zum-sicherheitsbeauftragten-55125.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

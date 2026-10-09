@@ -1,6 +1,6 @@
 # KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger
 
-> Product ID `36731` · Digistore24 productId `12411` · [HTML profile page](../../reviews/keyboard-x-die-arranger-keyboard-ausbildung-f-r-anf-nger-36731.html)
+> Product ID `36731` · Digistore24 productId `12411` · [HTML profile page](../../produkte/keyboard-x-die-arranger-keyboard-ausbildung-f-r-anf-nger-36731.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

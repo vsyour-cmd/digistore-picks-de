@@ -1,6 +1,6 @@
 # Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz
 
-> Product ID `57603` · Digistore24 productId `707365` · [HTML profile page](../../reviews/paket-3-pdf-workbooks-gespr-che-ruhe-und-distanz-57603.html)
+> Product ID `57603` · Digistore24 productId `707365` · [HTML profile page](../../produkte/paket-3-pdf-workbooks-gespr-che-ruhe-und-distanz-57603.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

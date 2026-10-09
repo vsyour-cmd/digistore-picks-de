@@ -1,6 +1,6 @@
 # Online Geburtsvorbereitung
 
-> Product ID `29620` · Digistore24 productId `162385` · [HTML profile page](../../reviews/online-geburtsvorbereitung-29620.html)
+> Product ID `29620` · Digistore24 productId `162385` · [HTML profile page](../../produkte/online-geburtsvorbereitung-29620.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

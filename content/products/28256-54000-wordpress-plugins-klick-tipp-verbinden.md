@@ -1,6 +1,6 @@
 # 54000 WordPress Plugins + Klick Tipp verbinden
 
-> Product ID `28256` · Digistore24 productId `267756` · [HTML profile page](../../reviews/54000-wordpress-plugins-klick-tipp-verbinden-28256.html)
+> Product ID `28256` · Digistore24 productId `267756` · [HTML profile page](../../produkte/54000-wordpress-plugins-klick-tipp-verbinden-28256.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

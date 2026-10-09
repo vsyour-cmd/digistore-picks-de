@@ -1,6 +1,6 @@
 # Die homöopathische Hausapotheke für Tiere
 
-> Product ID `45409` · Digistore24 productId `506679` · [HTML profile page](../../reviews/die-hom-opathische-hausapotheke-f-r-tiere-45409.html)
+> Product ID `45409` · Digistore24 productId `506679` · [HTML profile page](../../produkte/die-hom-opathische-hausapotheke-f-r-tiere-45409.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

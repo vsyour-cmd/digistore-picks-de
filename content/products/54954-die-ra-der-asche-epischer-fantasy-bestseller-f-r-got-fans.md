@@ -1,6 +1,6 @@
 # Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans
 
-> Product ID `54954` · Digistore24 productId `655747` · [HTML profile page](../../reviews/die-ra-der-asche-epischer-fantasy-bestseller-f-r-got-fans-54954.html)
+> Product ID `54954` · Digistore24 productId `655747` · [HTML profile page](../../produkte/die-ra-der-asche-epischer-fantasy-bestseller-f-r-got-fans-54954.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

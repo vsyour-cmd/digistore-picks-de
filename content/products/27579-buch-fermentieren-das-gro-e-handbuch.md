@@ -1,6 +1,6 @@
 # Buch: Fermentieren - das große Handbuch!
 
-> Product ID `27579` · Digistore24 productId `246171` · [HTML profile page](../../reviews/buch-fermentieren-das-gro-e-handbuch-27579.html)
+> Product ID `27579` · Digistore24 productId `246171` · [HTML profile page](../../produkte/buch-fermentieren-das-gro-e-handbuch-27579.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

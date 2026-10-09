@@ -1,6 +1,6 @@
 # Karriere mit System von Bodo Schäfer Buch (gedruckt)
 
-> Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../reviews/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)
+> Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../produkte/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

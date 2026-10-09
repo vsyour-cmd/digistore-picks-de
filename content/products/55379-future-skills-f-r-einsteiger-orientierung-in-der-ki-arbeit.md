@@ -1,6 +1,6 @@
 # Future Skills für Einsteiger – Orientierung in der KI-Arbeit
 
-> Product ID `55379` · Digistore24 productId `662143` · [HTML profile page](../../reviews/future-skills-f-r-einsteiger-orientierung-in-der-ki-arbeit-55379.html)
+> Product ID `55379` · Digistore24 productId `662143` · [HTML profile page](../../produkte/future-skills-f-r-einsteiger-orientierung-in-der-ki-arbeit-55379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

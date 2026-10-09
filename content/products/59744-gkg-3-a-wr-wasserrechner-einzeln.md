@@ -1,6 +1,6 @@
 # GKG-3.A WR Wasserrechner einzeln
 
-> Product ID `59744` · Digistore24 productId `732395` · [HTML profile page](../../reviews/gkg-3-a-wr-wasserrechner-einzeln-59744.html)
+> Product ID `59744` · Digistore24 productId `732395` · [HTML profile page](../../produkte/gkg-3-a-wr-wasserrechner-einzeln-59744.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

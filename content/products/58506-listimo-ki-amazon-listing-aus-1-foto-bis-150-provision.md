@@ -1,6 +1,6 @@
 # Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision
 
-> Product ID `58506` · Digistore24 productId `724741` · [HTML profile page](../../reviews/listimo-ki-amazon-listing-aus-1-foto-bis-150-provision-58506.html)
+> Product ID `58506` · Digistore24 productId `724741` · [HTML profile page](../../produkte/listimo-ki-amazon-listing-aus-1-foto-bis-150-provision-58506.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

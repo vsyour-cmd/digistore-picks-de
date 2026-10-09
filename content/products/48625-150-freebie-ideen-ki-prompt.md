@@ -1,6 +1,6 @@
 # 150 Freebie Ideen + KI Prompt
 
-> Product ID `48625` · Digistore24 productId `560802` · [HTML profile page](../../reviews/150-freebie-ideen-ki-prompt-48625.html)
+> Product ID `48625` · Digistore24 productId `560802` · [HTML profile page](../../produkte/150-freebie-ideen-ki-prompt-48625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # eBook: Geld verdienen mit Digistore24 - Affiliate Marketing
 
-> Product ID `51746` · Digistore24 productId `600516` · [HTML profile page](../../reviews/ebook-geld-verdienen-mit-digistore24-affiliate-marketing-51746.html)
+> Product ID `51746` · Digistore24 productId `600516` · [HTML profile page](../../produkte/ebook-geld-verdienen-mit-digistore24-affiliate-marketing-51746.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

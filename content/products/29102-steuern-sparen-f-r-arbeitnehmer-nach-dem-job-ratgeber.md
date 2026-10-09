@@ -1,6 +1,6 @@
 # Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)
 
-> Product ID `29102` · Digistore24 productId `274687` · [HTML profile page](../../reviews/steuern-sparen-f-r-arbeitnehmer-nach-dem-job-ratgeber-29102.html)
+> Product ID `29102` · Digistore24 productId `274687` · [HTML profile page](../../produkte/steuern-sparen-f-r-arbeitnehmer-nach-dem-job-ratgeber-29102.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Orbli – So klebrig waren Provisionen noch nie!
 
-> Product ID `54919` · Digistore24 productId `649949` · [HTML profile page](../../reviews/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html)
+> Product ID `54919` · Digistore24 productId `649949` · [HTML profile page](../../produkte/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

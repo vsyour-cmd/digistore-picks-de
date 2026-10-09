@@ -1,6 +1,6 @@
 # Mach. Jetzt. - Deutschlands härtestes E-Book
 
-> Product ID `55305` · Digistore24 productId `663769` · [HTML profile page](../../reviews/mach-jetzt-deutschlands-h-rtestes-e-book-55305.html)
+> Product ID `55305` · Digistore24 productId `663769` · [HTML profile page](../../produkte/mach-jetzt-deutschlands-h-rtestes-e-book-55305.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

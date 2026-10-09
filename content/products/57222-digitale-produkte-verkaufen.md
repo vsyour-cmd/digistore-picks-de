@@ -1,6 +1,6 @@
 # Digitale Produkte verkaufen
 
-> Product ID `57222` · Digistore24 productId `701981` · [HTML profile page](../../reviews/digitale-produkte-verkaufen-57222.html)
+> Product ID `57222` · Digistore24 productId `701981` · [HTML profile page](../../produkte/digitale-produkte-verkaufen-57222.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

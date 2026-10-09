@@ -1,6 +1,6 @@
 # Pre-Sale Page System
 
-> Product ID `56229` · Digistore24 productId `683570` · [HTML profile page](../../reviews/pre-sale-page-system-56229.html)
+> Product ID `56229` · Digistore24 productId `683570` · [HTML profile page](../../produkte/pre-sale-page-system-56229.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

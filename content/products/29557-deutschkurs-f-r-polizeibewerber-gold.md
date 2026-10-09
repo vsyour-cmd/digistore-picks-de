@@ -1,6 +1,6 @@
 # Deutschkurs für Polizeibewerber - Gold
 
-> Product ID `29557` · Digistore24 productId `346980` · [HTML profile page](../../reviews/deutschkurs-f-r-polizeibewerber-gold-29557.html)
+> Product ID `29557` · Digistore24 productId `346980` · [HTML profile page](../../produkte/deutschkurs-f-r-polizeibewerber-gold-29557.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

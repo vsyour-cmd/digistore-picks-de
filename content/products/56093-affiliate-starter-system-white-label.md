@@ -1,6 +1,6 @@
 # Affiliate Starter System (White-Label)
 
-> Product ID `56093` · Digistore24 productId `676679` · [HTML profile page](../../reviews/affiliate-starter-system-white-label-56093.html)
+> Product ID `56093` · Digistore24 productId `676679` · [HTML profile page](../../produkte/affiliate-starter-system-white-label-56093.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.
 
-> Product ID `54778` · Digistore24 productId `647324` · [HTML profile page](../../reviews/schlaf-die-essenz-online-kongress-ab-7-12-bis-16-12-54778.html)
+> Product ID `54778` · Digistore24 productId `647324` · [HTML profile page](../../produkte/schlaf-die-essenz-online-kongress-ab-7-12-bis-16-12-54778.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

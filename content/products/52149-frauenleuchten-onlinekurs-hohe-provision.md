@@ -1,6 +1,6 @@
 # Frauenleuchten Onlinekurs- Hohe Provision
 
-> Product ID `52149` · Digistore24 productId `608205` · [HTML profile page](../../reviews/frauenleuchten-onlinekurs-hohe-provision-52149.html)
+> Product ID `52149` · Digistore24 productId `608205` · [HTML profile page](../../produkte/frauenleuchten-onlinekurs-hohe-provision-52149.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

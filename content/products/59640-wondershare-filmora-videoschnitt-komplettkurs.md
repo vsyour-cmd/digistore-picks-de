@@ -1,6 +1,6 @@
 # Wondershare Filmora Videoschnitt Komplettkurs
 
-> Product ID `59640` · Digistore24 productId `734230` · [HTML profile page](../../reviews/wondershare-filmora-videoschnitt-komplettkurs-59640.html)
+> Product ID `59640` · Digistore24 productId `734230` · [HTML profile page](../../produkte/wondershare-filmora-videoschnitt-komplettkurs-59640.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

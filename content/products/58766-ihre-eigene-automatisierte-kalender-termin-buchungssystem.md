@@ -1,6 +1,6 @@
 # Ihre eigene automatisierte Kalender  "Termin Buchungssystem"
 
-> Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../reviews/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)
+> Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../produkte/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Sichtbarkeit mit System
 
-> Product ID `55777` · Digistore24 productId `672674` · [HTML profile page](../../reviews/sichtbarkeit-mit-system-55777.html)
+> Product ID `55777` · Digistore24 productId `672674` · [HTML profile page](../../produkte/sichtbarkeit-mit-system-55777.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Rauchfrei für immer - Rauchstopp Programm
 
-> Product ID `56144` · Digistore24 productId `546392` · [HTML profile page](../../reviews/rauchfrei-f-r-immer-rauchstopp-programm-56144.html)
+> Product ID `56144` · Digistore24 productId `546392` · [HTML profile page](../../produkte/rauchfrei-f-r-immer-rauchstopp-programm-56144.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

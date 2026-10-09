@@ -1,6 +1,6 @@
 # Self Publishing Amazon KDP AIO Mastery!
 
-> Product ID `29621` · Digistore24 productId `275608` · [HTML profile page](../../reviews/self-publishing-amazon-kdp-aio-mastery-29621.html)
+> Product ID `29621` · Digistore24 productId `275608` · [HTML profile page](../../produkte/self-publishing-amazon-kdp-aio-mastery-29621.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

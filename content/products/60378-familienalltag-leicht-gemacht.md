@@ -1,6 +1,6 @@
 # Familienalltag leicht gemacht
 
-> Product ID `60378` · Digistore24 productId `742649` · [HTML profile page](../../reviews/familienalltag-leicht-gemacht-60378.html)
+> Product ID `60378` · Digistore24 productId `742649` · [HTML profile page](../../produkte/familienalltag-leicht-gemacht-60378.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

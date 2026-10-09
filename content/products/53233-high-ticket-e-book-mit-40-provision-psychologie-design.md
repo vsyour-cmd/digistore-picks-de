@@ -1,6 +1,6 @@
 # High-Ticket E-Book mit 40 % Provision: Psychologie + Design
 
-> Product ID `53233` · Digistore24 productId `624928` · [HTML profile page](../../reviews/high-ticket-e-book-mit-40-provision-psychologie-design-53233.html)
+> Product ID `53233` · Digistore24 productId `624928` · [HTML profile page](../../produkte/high-ticket-e-book-mit-40-provision-psychologie-design-53233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

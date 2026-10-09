@@ -1,6 +1,6 @@
 # Die Pharell Sportwetten Strategie
 
-> Product ID `31625` · Digistore24 productId `301360` · [HTML profile page](../../reviews/die-pharell-sportwetten-strategie-31625.html)
+> Product ID `31625` · Digistore24 productId `301360` · [HTML profile page](../../produkte/die-pharell-sportwetten-strategie-31625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

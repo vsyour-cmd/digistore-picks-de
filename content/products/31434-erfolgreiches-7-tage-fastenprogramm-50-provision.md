@@ -1,6 +1,6 @@
 # Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)
 
-> Product ID `31434` · Digistore24 productId `261488` · [HTML profile page](../../reviews/erfolgreiches-7-tage-fastenprogramm-50-provision-31434.html)
+> Product ID `31434` · Digistore24 productId `261488` · [HTML profile page](../../produkte/erfolgreiches-7-tage-fastenprogramm-50-provision-31434.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Pilates&Friends Abo - Das Online Pilates Paket
 
-> Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../reviews/pilates-friends-abo-das-online-pilates-paket-3663.html)
+> Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

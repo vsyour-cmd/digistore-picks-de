@@ -1,6 +1,6 @@
 # Vom Angestellten zum Online-Unternehmer
 
-> Product ID `57068` · Digistore24 productId `703409` · [HTML profile page](../../reviews/vom-angestellten-zum-online-unternehmer-57068.html)
+> Product ID `57068` · Digistore24 productId `703409` · [HTML profile page](../../produkte/vom-angestellten-zum-online-unternehmer-57068.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

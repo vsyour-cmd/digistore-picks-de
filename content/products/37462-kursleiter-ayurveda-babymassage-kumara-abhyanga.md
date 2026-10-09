@@ -1,6 +1,6 @@
 # Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga
 
-> Product ID `37462` · Digistore24 productId `364175` · [HTML profile page](../../reviews/kursleiter-ayurveda-babymassage-kumara-abhyanga-37462.html)
+> Product ID `37462` · Digistore24 productId `364175` · [HTML profile page](../../produkte/kursleiter-ayurveda-babymassage-kumara-abhyanga-37462.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

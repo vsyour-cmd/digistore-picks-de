@@ -1,6 +1,6 @@
 # OnlineTV 20 - Fernsehen am PC und Android Gerät
 
-> Product ID `51987` · Digistore24 productId `600405` · [HTML profile page](../../reviews/onlinetv-20-fernsehen-am-pc-und-android-ger-t-51987.html)
+> Product ID `51987` · Digistore24 productId `600405` · [HTML profile page](../../produkte/onlinetv-20-fernsehen-am-pc-und-android-ger-t-51987.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

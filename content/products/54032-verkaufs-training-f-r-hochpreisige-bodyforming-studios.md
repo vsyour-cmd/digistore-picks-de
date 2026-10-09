@@ -1,6 +1,6 @@
 # Verkaufs-Training für hochpreisige Bodyforming-Studios
 
-> Product ID `54032` · Digistore24 productId `616449` · [HTML profile page](../../reviews/verkaufs-training-f-r-hochpreisige-bodyforming-studios-54032.html)
+> Product ID `54032` · Digistore24 productId `616449` · [HTML profile page](../../produkte/verkaufs-training-f-r-hochpreisige-bodyforming-studios-54032.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

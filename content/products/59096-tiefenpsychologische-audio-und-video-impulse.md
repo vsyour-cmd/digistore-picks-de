@@ -1,6 +1,6 @@
 # Tiefenpsychologische Audio und Video Impulse
 
-> Product ID `59096` · Digistore24 productId `722640` · [HTML profile page](../../reviews/tiefenpsychologische-audio-und-video-impulse-59096.html)
+> Product ID `59096` · Digistore24 productId `722640` · [HTML profile page](../../produkte/tiefenpsychologische-audio-und-video-impulse-59096.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

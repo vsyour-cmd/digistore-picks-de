@@ -1,6 +1,6 @@
 # ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen
 
-> Product ID `36763` · Digistore24 productId `257434` · [HTML profile page](../../reviews/anima-stimmtraining-klangvolle-stimme-in-6-wochen-36763.html)
+> Product ID `36763` · Digistore24 productId `257434` · [HTML profile page](../../produkte/anima-stimmtraining-klangvolle-stimme-in-6-wochen-36763.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

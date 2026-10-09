@@ -1,6 +1,6 @@
 # Premium Online Kurs "Traumjob Transformation"
 
-> Product ID `59095` · Digistore24 productId `651818` · [HTML profile page](../../reviews/premium-online-kurs-traumjob-transformation-59095.html)
+> Product ID `59095` · Digistore24 productId `651818` · [HTML profile page](../../produkte/premium-online-kurs-traumjob-transformation-59095.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

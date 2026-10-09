@@ -1,6 +1,6 @@
 # Research Report - Krypto Technologie Analyse (PDF+Video)
 
-> Product ID `55275` · Digistore24 productId `656511` · [HTML profile page](../../reviews/research-report-krypto-technologie-analyse-pdf-video-55275.html)
+> Product ID `55275` · Digistore24 productId `656511` · [HTML profile page](../../produkte/research-report-krypto-technologie-analyse-pdf-video-55275.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

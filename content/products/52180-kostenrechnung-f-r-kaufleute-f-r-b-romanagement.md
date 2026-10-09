@@ -1,6 +1,6 @@
 # Kostenrechnung für Kaufleute für Büromanagement
 
-> Product ID `52180` · Digistore24 productId `607931` · [HTML profile page](../../reviews/kostenrechnung-f-r-kaufleute-f-r-b-romanagement-52180.html)
+> Product ID `52180` · Digistore24 productId `607931` · [HTML profile page](../../produkte/kostenrechnung-f-r-kaufleute-f-r-b-romanagement-52180.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

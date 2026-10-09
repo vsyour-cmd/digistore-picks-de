@@ -1,6 +1,6 @@
 # Klick-Tipp Manager
 
-> Product ID `22123` · Digistore24 productId `195791` · [HTML profile page](../../reviews/klick-tipp-manager-22123.html)
+> Product ID `22123` · Digistore24 productId `195791` · [HTML profile page](../../produkte/klick-tipp-manager-22123.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

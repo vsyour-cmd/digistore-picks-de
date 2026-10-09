@@ -1,6 +1,6 @@
 # Das Glück liebt glückliche Menschen - von Dejan Sekulic
 
-> Product ID `42797` · Digistore24 productId `466021` · [HTML profile page](../../reviews/das-gl-ck-liebt-gl-ckliche-menschen-von-dejan-sekulic-42797.html)
+> Product ID `42797` · Digistore24 productId `466021` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-von-dejan-sekulic-42797.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

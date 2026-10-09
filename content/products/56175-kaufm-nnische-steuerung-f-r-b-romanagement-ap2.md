@@ -1,6 +1,6 @@
 # Kaufmännische Steuerung für Büromanagement (AP2)
 
-> Product ID `56175` · Digistore24 productId `682425` · [HTML profile page](../../reviews/kaufm-nnische-steuerung-f-r-b-romanagement-ap2-56175.html)
+> Product ID `56175` · Digistore24 productId `682425` · [HTML profile page](../../produkte/kaufm-nnische-steuerung-f-r-b-romanagement-ap2-56175.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Logbuch Segeln. Puro.
 
-> Product ID `11937` · Digistore24 productId `83121` · [HTML profile page](../../reviews/logbuch-segeln-puro-11937.html)
+> Product ID `11937` · Digistore24 productId `83121` · [HTML profile page](../../produkte/logbuch-segeln-puro-11937.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Optionsstrategien Married Put und High Watermark Put
 
-> Product ID `54916` · Digistore24 productId `621710` · [HTML profile page](../../reviews/optionsstrategien-married-put-und-high-watermark-put-54916.html)
+> Product ID `54916` · Digistore24 productId `621710` · [HTML profile page](../../produkte/optionsstrategien-married-put-und-high-watermark-put-54916.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

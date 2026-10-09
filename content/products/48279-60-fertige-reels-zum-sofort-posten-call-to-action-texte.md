@@ -1,6 +1,6 @@
 # 60 fertige Reels zum sofort posten - Call to Action + Texte
 
-> Product ID `48279` · Digistore24 productId `555231` · [HTML profile page](../../reviews/60-fertige-reels-zum-sofort-posten-call-to-action-texte-48279.html)
+> Product ID `48279` · Digistore24 productId `555231` · [HTML profile page](../../produkte/60-fertige-reels-zum-sofort-posten-call-to-action-texte-48279.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dein Erfolgsleitfaden - Instagram leicht gemacht
 
-> Product ID `33756` · Digistore24 productId `341390` · [HTML profile page](../../reviews/dein-erfolgsleitfaden-instagram-leicht-gemacht-33756.html)
+> Product ID `33756` · Digistore24 productId `341390` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-instagram-leicht-gemacht-33756.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

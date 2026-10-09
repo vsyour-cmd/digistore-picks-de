@@ -1,6 +1,6 @@
 # SalesPals Systems - All-In Class
 
-> Product ID `55308` · Digistore24 productId `663868` · [HTML profile page](../../reviews/salespals-systems-all-in-class-55308.html)
+> Product ID `55308` · Digistore24 productId `663868` · [HTML profile page](../../produkte/salespals-systems-all-in-class-55308.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

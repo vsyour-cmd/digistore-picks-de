@@ -1,6 +1,6 @@
 # Overthinking stoppen - 21 Tage Anfänger Meditationskurs
 
-> Product ID `50617` · Digistore24 productId `578318` · [HTML profile page](../../reviews/overthinking-stoppen-21-tage-anf-nger-meditationskurs-50617.html)
+> Product ID `50617` · Digistore24 productId `578318` · [HTML profile page](../../produkte/overthinking-stoppen-21-tage-anf-nger-meditationskurs-50617.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

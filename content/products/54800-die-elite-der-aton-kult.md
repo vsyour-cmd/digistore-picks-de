@@ -1,6 +1,6 @@
 # Die „Elite“ Der Aton-Kult
 
-> Product ID `54800` · Digistore24 productId `651840` · [HTML profile page](../../reviews/die-elite-der-aton-kult-54800.html)
+> Product ID `54800` · Digistore24 productId `651840` · [HTML profile page](../../produkte/die-elite-der-aton-kult-54800.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

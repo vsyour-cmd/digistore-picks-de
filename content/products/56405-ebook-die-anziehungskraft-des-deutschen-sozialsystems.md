@@ -1,6 +1,6 @@
 # Ebook - Die Anziehungskraft des deutschen Sozialsystems
 
-> Product ID `56405` · Digistore24 productId `689177` · [HTML profile page](../../reviews/ebook-die-anziehungskraft-des-deutschen-sozialsystems-56405.html)
+> Product ID `56405` · Digistore24 productId `689177` · [HTML profile page](../../produkte/ebook-die-anziehungskraft-des-deutschen-sozialsystems-56405.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die Botschaft der Zukunft
 
-> Product ID `58722` · Digistore24 productId `720489` · [HTML profile page](../../reviews/die-botschaft-der-zukunft-58722.html)
+> Product ID `58722` · Digistore24 productId `720489` · [HTML profile page](../../produkte/die-botschaft-der-zukunft-58722.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

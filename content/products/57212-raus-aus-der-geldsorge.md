@@ -1,6 +1,6 @@
 # Raus aus der Geldsorge
 
-> Product ID `57212` · Digistore24 productId `701971` · [HTML profile page](../../reviews/raus-aus-der-geldsorge-57212.html)
+> Product ID `57212` · Digistore24 productId `701971` · [HTML profile page](../../produkte/raus-aus-der-geldsorge-57212.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

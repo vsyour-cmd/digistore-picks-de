@@ -1,6 +1,6 @@
 # Wie bekomme ich den Job 3.0 (EBook)
 
-> Product ID `43688` · Digistore24 productId `495370` · [HTML profile page](../../reviews/wie-bekomme-ich-den-job-3-0-ebook-43688.html)
+> Product ID `43688` · Digistore24 productId `495370` · [HTML profile page](../../produkte/wie-bekomme-ich-den-job-3-0-ebook-43688.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

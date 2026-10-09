@@ -1,6 +1,6 @@
 # Neurostreams™ Heiterkeit vor der Schlacht
 
-> Product ID `47044` · Digistore24 productId `250025` · [HTML profile page](../../reviews/neurostreams-heiterkeit-vor-der-schlacht-47044.html)
+> Product ID `47044` · Digistore24 productId `250025` · [HTML profile page](../../produkte/neurostreams-heiterkeit-vor-der-schlacht-47044.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

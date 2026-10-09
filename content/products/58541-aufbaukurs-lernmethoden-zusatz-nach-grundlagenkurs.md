@@ -1,6 +1,6 @@
 # Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs
 
-> Product ID `58541` · Digistore24 productId `684871` · [HTML profile page](../../reviews/aufbaukurs-lernmethoden-zusatz-nach-grundlagenkurs-58541.html)
+> Product ID `58541` · Digistore24 productId `684871` · [HTML profile page](../../produkte/aufbaukurs-lernmethoden-zusatz-nach-grundlagenkurs-58541.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

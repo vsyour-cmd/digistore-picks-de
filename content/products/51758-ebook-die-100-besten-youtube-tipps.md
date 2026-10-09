@@ -1,6 +1,6 @@
 # eBook: Die 100 besten Youtube Tipps
 
-> Product ID `51758` · Digistore24 productId `601987` · [HTML profile page](../../reviews/ebook-die-100-besten-youtube-tipps-51758.html)
+> Product ID `51758` · Digistore24 productId `601987` · [HTML profile page](../../produkte/ebook-die-100-besten-youtube-tipps-51758.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

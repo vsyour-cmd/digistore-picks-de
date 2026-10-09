@@ -1,6 +1,6 @@
 # Ebook - beWerbung - Eignungsanalyse, SoftSkills, Telefonat
 
-> Product ID `55225` · Digistore24 productId `660072` · [HTML profile page](../../reviews/ebook-bewerbung-eignungsanalyse-softskills-telefonat-55225.html)
+> Product ID `55225` · Digistore24 productId `660072` · [HTML profile page](../../produkte/ebook-bewerbung-eignungsanalyse-softskills-telefonat-55225.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

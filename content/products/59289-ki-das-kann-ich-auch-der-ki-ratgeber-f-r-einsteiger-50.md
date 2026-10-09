@@ -1,6 +1,6 @@
 # KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+
 
-> Product ID `59289` · Digistore24 productId `732960` · [HTML profile page](../../reviews/ki-das-kann-ich-auch-der-ki-ratgeber-f-r-einsteiger-50-59289.html)
+> Product ID `59289` · Digistore24 productId `732960` · [HTML profile page](../../produkte/ki-das-kann-ich-auch-der-ki-ratgeber-f-r-einsteiger-50-59289.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

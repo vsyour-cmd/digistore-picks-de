@@ -1,6 +1,6 @@
 # Systemisches Stellen für Tiere Online
 
-> Product ID `41973` · Digistore24 productId `389151` · [HTML profile page](../../reviews/systemisches-stellen-f-r-tiere-online-41973.html)
+> Product ID `41973` · Digistore24 productId `389151` · [HTML profile page](../../produkte/systemisches-stellen-f-r-tiere-online-41973.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

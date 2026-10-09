@@ -1,6 +1,6 @@
 # 24 Menüs aus Madeira - eine kulinarische Reise
 
-> Product ID `52745` · Digistore24 productId `616204` · [HTML profile page](../../reviews/24-men-s-aus-madeira-eine-kulinarische-reise-52745.html)
+> Product ID `52745` · Digistore24 productId `616204` · [HTML profile page](../../produkte/24-men-s-aus-madeira-eine-kulinarische-reise-52745.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

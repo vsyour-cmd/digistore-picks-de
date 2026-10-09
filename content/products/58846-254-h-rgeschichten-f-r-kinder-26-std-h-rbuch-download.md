@@ -1,6 +1,6 @@
 # 254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)
 
-> Product ID `58846` · Digistore24 productId `702149` · [HTML profile page](../../reviews/254-h-rgeschichten-f-r-kinder-26-std-h-rbuch-download-58846.html)
+> Product ID `58846` · Digistore24 productId `702149` · [HTML profile page](../../produkte/254-h-rgeschichten-f-r-kinder-26-std-h-rbuch-download-58846.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

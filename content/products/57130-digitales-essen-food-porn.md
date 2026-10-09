@@ -1,6 +1,6 @@
 # Digitales Essen & Food Porn
 
-> Product ID `57130` · Digistore24 productId `701812` · [HTML profile page](../../reviews/digitales-essen-food-porn-57130.html)
+> Product ID `57130` · Digistore24 productId `701812` · [HTML profile page](../../produkte/digitales-essen-food-porn-57130.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

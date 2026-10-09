@@ -1,6 +1,6 @@
 # TikTok Shop Affiliate für Anfänger – Kurs mit Matze
 
-> Product ID `59586` · Digistore24 productId `736413` · [HTML profile page](../../reviews/tiktok-shop-affiliate-f-r-anf-nger-kurs-mit-matze-59586.html)
+> Product ID `59586` · Digistore24 productId `736413` · [HTML profile page](../../produkte/tiktok-shop-affiliate-f-r-anf-nger-kurs-mit-matze-59586.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

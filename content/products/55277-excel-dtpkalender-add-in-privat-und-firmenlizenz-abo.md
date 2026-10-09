@@ -1,6 +1,6 @@
 # Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)
 
-> Product ID `55277` · Digistore24 productId `660386` · [HTML profile page](../../reviews/excel-dtpkalender-add-in-privat-und-firmenlizenz-abo-55277.html)
+> Product ID `55277` · Digistore24 productId `660386` · [HTML profile page](../../produkte/excel-dtpkalender-add-in-privat-und-firmenlizenz-abo-55277.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Grenzen-Kurs für Coaches, Berater und Unternehmer
 
-> Product ID `58351` · Digistore24 productId `720608` · [HTML profile page](../../reviews/grenzen-kurs-f-r-coaches-berater-und-unternehmer-58351.html)
+> Product ID `58351` · Digistore24 productId `720608` · [HTML profile page](../../produkte/grenzen-kurs-f-r-coaches-berater-und-unternehmer-58351.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

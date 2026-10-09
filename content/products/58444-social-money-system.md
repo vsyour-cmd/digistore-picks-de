@@ -1,6 +1,6 @@
 # Social Money System
 
-> Product ID `58444` · Digistore24 productId `711980` · [HTML profile page](../../reviews/social-money-system-58444.html)
+> Product ID `58444` · Digistore24 productId `711980` · [HTML profile page](../../produkte/social-money-system-58444.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

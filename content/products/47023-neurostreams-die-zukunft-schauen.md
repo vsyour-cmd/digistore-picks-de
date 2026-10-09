@@ -1,6 +1,6 @@
 # Neurostreams™ Die Zukunft schauen
 
-> Product ID `47023` · Digistore24 productId `21975` · [HTML profile page](../../reviews/neurostreams-die-zukunft-schauen-47023.html)
+> Product ID `47023` · Digistore24 productId `21975` · [HTML profile page](../../produkte/neurostreams-die-zukunft-schauen-47023.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

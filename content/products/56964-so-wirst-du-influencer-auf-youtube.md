@@ -1,6 +1,6 @@
 # So wirst du Influencer auf YouTube
 
-> Product ID `56964` · Digistore24 productId `701282` · [HTML profile page](../../reviews/so-wirst-du-influencer-auf-youtube-56964.html)
+> Product ID `56964` · Digistore24 productId `701282` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-youtube-56964.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

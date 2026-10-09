@@ -1,6 +1,6 @@
 # Das große Bewerbungs-Workbook - wie Personalerfragen beantwo
 
-> Product ID `55635` · Digistore24 productId `669036` · [HTML profile page](../../reviews/das-gro-e-bewerbungs-workbook-wie-personalerfragen-beantwo-55635.html)
+> Product ID `55635` · Digistore24 productId `669036` · [HTML profile page](../../produkte/das-gro-e-bewerbungs-workbook-wie-personalerfragen-beantwo-55635.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

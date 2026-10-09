@@ -1,6 +1,6 @@
 # Wild und Wundervoll (Film als Stream und Download)
 
-> Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../reviews/wild-und-wundervoll-film-als-stream-und-download-38531.html)
+> Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../produkte/wild-und-wundervoll-film-als-stream-und-download-38531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

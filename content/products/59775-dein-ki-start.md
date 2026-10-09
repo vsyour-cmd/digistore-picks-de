@@ -1,6 +1,6 @@
 # Dein KI-Start
 
-> Product ID `59775` · Digistore24 productId `735628` · [HTML profile page](../../reviews/dein-ki-start-59775.html)
+> Product ID `59775` · Digistore24 productId `735628` · [HTML profile page](../../produkte/dein-ki-start-59775.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

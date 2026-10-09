@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Kassel | Hint-Caching
 
-> Product ID `51149` · Digistore24 productId `485116` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-kassel-hint-caching-51149.html)
+> Product ID `51149` · Digistore24 productId `485116` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-kassel-hint-caching-51149.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

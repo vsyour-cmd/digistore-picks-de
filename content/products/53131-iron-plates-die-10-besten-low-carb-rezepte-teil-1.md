@@ -1,6 +1,6 @@
 # Iron Plates Die 10 besten Low-Carb-Rezepte Teil 1
 
-> Product ID `53131` · Digistore24 productId `623155` · [HTML profile page](../../reviews/iron-plates-die-10-besten-low-carb-rezepte-teil-1-53131.html)
+> Product ID `53131` · Digistore24 productId `623155` · [HTML profile page](../../produkte/iron-plates-die-10-besten-low-carb-rezepte-teil-1-53131.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

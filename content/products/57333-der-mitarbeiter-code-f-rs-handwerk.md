@@ -1,6 +1,6 @@
 # Der Mitarbeiter-Code fürs Handwerk
 
-> Product ID `57333` · Digistore24 productId `706662` · [HTML profile page](../../reviews/der-mitarbeiter-code-f-rs-handwerk-57333.html)
+> Product ID `57333` · Digistore24 productId `706662` · [HTML profile page](../../produkte/der-mitarbeiter-code-f-rs-handwerk-57333.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

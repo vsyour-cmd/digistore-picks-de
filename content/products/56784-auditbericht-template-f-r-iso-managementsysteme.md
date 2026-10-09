@@ -1,6 +1,6 @@
 # Auditbericht-Template für ISO-Managementsysteme
 
-> Product ID `56784` · Digistore24 productId `697117` · [HTML profile page](../../reviews/auditbericht-template-f-r-iso-managementsysteme-56784.html)
+> Product ID `56784` · Digistore24 productId `697117` · [HTML profile page](../../produkte/auditbericht-template-f-r-iso-managementsysteme-56784.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Osnabrück | Hint-Caching
 
-> Product ID `56420` · Digistore24 productId `689211` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-osnabr-ck-hint-caching-56420.html)
+> Product ID `56420` · Digistore24 productId `689211` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-osnabr-ck-hint-caching-56420.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

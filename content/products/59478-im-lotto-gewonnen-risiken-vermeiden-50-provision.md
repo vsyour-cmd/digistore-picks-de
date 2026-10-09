@@ -1,6 +1,6 @@
 # Im Lotto gewonnen? Risiken vermeiden – 50 % Provision
 
-> Product ID `59478` · Digistore24 productId `735106` · [HTML profile page](../../reviews/im-lotto-gewonnen-risiken-vermeiden-50-provision-59478.html)
+> Product ID `59478` · Digistore24 productId `735106` · [HTML profile page](../../produkte/im-lotto-gewonnen-risiken-vermeiden-50-provision-59478.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

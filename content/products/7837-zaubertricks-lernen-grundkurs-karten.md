@@ -1,6 +1,6 @@
 # Zaubertricks lernen - Grundkurs Karten
 
-> Product ID `7837` · Digistore24 productId `52623` · [HTML profile page](../../reviews/zaubertricks-lernen-grundkurs-karten-7837.html)
+> Product ID `7837` · Digistore24 productId `52623` · [HTML profile page](../../produkte/zaubertricks-lernen-grundkurs-karten-7837.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

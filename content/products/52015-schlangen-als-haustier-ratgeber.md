@@ -1,6 +1,6 @@
 # Schlangen als Haustier - Ratgeber
 
-> Product ID `52015` · Digistore24 productId `601255` · [HTML profile page](../../reviews/schlangen-als-haustier-ratgeber-52015.html)
+> Product ID `52015` · Digistore24 productId `601255` · [HTML profile page](../../produkte/schlangen-als-haustier-ratgeber-52015.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

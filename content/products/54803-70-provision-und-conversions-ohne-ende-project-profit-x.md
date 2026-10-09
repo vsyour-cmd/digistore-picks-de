@@ -1,6 +1,6 @@
 # 70% Provision und Conversions ohne Ende  Project Profit X
 
-> Product ID `54803` · Digistore24 productId `649034` · [HTML profile page](../../reviews/70-provision-und-conversions-ohne-ende-project-profit-x-54803.html)
+> Product ID `54803` · Digistore24 productId `649034` · [HTML profile page](../../produkte/70-provision-und-conversions-ohne-ende-project-profit-x-54803.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

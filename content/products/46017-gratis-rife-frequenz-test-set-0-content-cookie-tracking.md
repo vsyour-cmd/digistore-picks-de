@@ -1,6 +1,6 @@
 # Gratis Rife-Frequenz Test-Set – 0€ Content Cookie-Tracking
 
-> Product ID `46017` · Digistore24 productId `525889` · [HTML profile page](../../reviews/gratis-rife-frequenz-test-set-0-content-cookie-tracking-46017.html)
+> Product ID `46017` · Digistore24 productId `525889` · [HTML profile page](../../produkte/gratis-rife-frequenz-test-set-0-content-cookie-tracking-46017.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

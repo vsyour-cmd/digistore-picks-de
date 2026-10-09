@@ -1,6 +1,6 @@
 # WOWING
 
-> Product ID `28047` · Digistore24 productId `258330` · [HTML profile page](../../reviews/wowing-28047.html)
+> Product ID `28047` · Digistore24 productId `258330` · [HTML profile page](../../produkte/wowing-28047.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

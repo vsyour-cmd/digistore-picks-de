@@ -1,6 +1,6 @@
 # Ich höre auf meine Weise – Inklusives Malbuch für Kinder
 
-> Product ID `57537` · Digistore24 productId `711292` · [HTML profile page](../../reviews/ich-h-re-auf-meine-weise-inklusives-malbuch-f-r-kinder-57537.html)
+> Product ID `57537` · Digistore24 productId `711292` · [HTML profile page](../../produkte/ich-h-re-auf-meine-weise-inklusives-malbuch-f-r-kinder-57537.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

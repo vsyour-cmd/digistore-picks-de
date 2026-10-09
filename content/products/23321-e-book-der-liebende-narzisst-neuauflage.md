@@ -1,6 +1,6 @@
 # E-Book: "Der liebende Narzisst" - Neuauflage
 
-> Product ID `23321` · Digistore24 productId `201545` · [HTML profile page](../../reviews/e-book-der-liebende-narzisst-neuauflage-23321.html)
+> Product ID `23321` · Digistore24 productId `201545` · [HTML profile page](../../produkte/e-book-der-liebende-narzisst-neuauflage-23321.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

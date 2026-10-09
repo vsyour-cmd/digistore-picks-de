@@ -1,6 +1,6 @@
 # Top 10-High Protein Mahlzeiten (E-Book)
 
-> Product ID `57791` · Digistore24 productId `716036` · [HTML profile page](../../reviews/top-10-high-protein-mahlzeiten-e-book-57791.html)
+> Product ID `57791` · Digistore24 productId `716036` · [HTML profile page](../../produkte/top-10-high-protein-mahlzeiten-e-book-57791.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

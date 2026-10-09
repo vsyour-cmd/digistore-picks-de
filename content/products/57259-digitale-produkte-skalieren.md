@@ -1,6 +1,6 @@
 # Digitale Produkte skalieren
 
-> Product ID `57259` · Digistore24 productId `704237` · [HTML profile page](../../reviews/digitale-produkte-skalieren-57259.html)
+> Product ID `57259` · Digistore24 productId `704237` · [HTML profile page](../../produkte/digitale-produkte-skalieren-57259.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

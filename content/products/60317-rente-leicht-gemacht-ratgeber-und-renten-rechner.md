@@ -1,6 +1,6 @@
 # Rente leicht gemacht – Ratgeber und Renten-Rechner
 
-> Product ID `60317` · Digistore24 productId `708799` · [HTML profile page](../../reviews/rente-leicht-gemacht-ratgeber-und-renten-rechner-60317.html)
+> Product ID `60317` · Digistore24 productId `708799` · [HTML profile page](../../produkte/rente-leicht-gemacht-ratgeber-und-renten-rechner-60317.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

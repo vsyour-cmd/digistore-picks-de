@@ -1,6 +1,6 @@
 # Das grösste und umfangreichste RAP-TUTORIAL
 
-> Product ID `30263` · Digistore24 productId `277027` · [HTML profile page](../../reviews/das-gr-sste-und-umfangreichste-rap-tutorial-30263.html)
+> Product ID `30263` · Digistore24 productId `277027` · [HTML profile page](../../produkte/das-gr-sste-und-umfangreichste-rap-tutorial-30263.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

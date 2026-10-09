@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Erlangen | Hint-Caching
 
-> Product ID `51142` · Digistore24 productId `588747` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-erlangen-hint-caching-51142.html)
+> Product ID `51142` · Digistore24 productId `588747` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-erlangen-hint-caching-51142.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # " LandingPage " erstellen günstig mit 99
 
-> Product ID `58664` · Digistore24 productId `725025` · [HTML profile page](../../reviews/landingpage-erstellen-g-nstig-mit-99-58664.html)
+> Product ID `58664` · Digistore24 productId `725025` · [HTML profile page](../../produkte/landingpage-erstellen-g-nstig-mit-99-58664.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Photoshop CC Komplettkurs
 
-> Product ID `50225` · Digistore24 productId `633125` · [HTML profile page](../../reviews/photoshop-cc-komplettkurs-50225.html)
+> Product ID `50225` · Digistore24 productId `633125` · [HTML profile page](../../produkte/photoshop-cc-komplettkurs-50225.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

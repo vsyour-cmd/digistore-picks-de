@@ -1,6 +1,6 @@
 # Neukundengewinnung über Bluesky
 
-> Product ID `56977` · Digistore24 productId `701397` · [HTML profile page](../../reviews/neukundengewinnung-ber-bluesky-56977.html)
+> Product ID `56977` · Digistore24 productId `701397` · [HTML profile page](../../produkte/neukundengewinnung-ber-bluesky-56977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

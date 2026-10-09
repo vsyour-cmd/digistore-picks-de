@@ -1,6 +1,6 @@
 # Golf-Success Mental-Training
 
-> Product ID `28979` · Digistore24 productId `269752` · [HTML profile page](../../reviews/golf-success-mental-training-28979.html)
+> Product ID `28979` · Digistore24 productId `269752` · [HTML profile page](../../produkte/golf-success-mental-training-28979.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

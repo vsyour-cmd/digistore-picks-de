@@ -1,6 +1,6 @@
 # Leichtigkeit im Studium - Wohlbefinden für Studierende
 
-> Product ID `48990` · Digistore24 productId `558753` · [HTML profile page](../../reviews/leichtigkeit-im-studium-wohlbefinden-f-r-studierende-48990.html)
+> Product ID `48990` · Digistore24 productId `558753` · [HTML profile page](../../produkte/leichtigkeit-im-studium-wohlbefinden-f-r-studierende-48990.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

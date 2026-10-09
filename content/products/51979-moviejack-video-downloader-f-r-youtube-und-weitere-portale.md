@@ -1,6 +1,6 @@
 # MovieJack - Video-Downloader für YouTube und weitere Portale
 
-> Product ID `51979` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-f-r-youtube-und-weitere-portale-51979.html)
+> Product ID `51979` · Digistore24 productId `516334` · [HTML profile page](../../produkte/moviejack-video-downloader-f-r-youtube-und-weitere-portale-51979.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang
 
-> Product ID `58118` · Digistore24 productId `717920` · [HTML profile page](../../reviews/ruhig-durch-den-sturm-ein-warmherziger-begleiter-gegen-ang-58118.html)
+> Product ID `58118` · Digistore24 productId `717920` · [HTML profile page](../../produkte/ruhig-durch-den-sturm-ein-warmherziger-begleiter-gegen-ang-58118.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

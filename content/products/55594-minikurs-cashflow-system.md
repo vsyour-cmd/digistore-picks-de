@@ -1,6 +1,6 @@
 # Minikurs Cashflow System
 
-> Product ID `55594` · Digistore24 productId `643804` · [HTML profile page](../../reviews/minikurs-cashflow-system-55594.html)
+> Product ID `55594` · Digistore24 productId `643804` · [HTML profile page](../../produkte/minikurs-cashflow-system-55594.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

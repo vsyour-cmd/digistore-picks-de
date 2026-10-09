@@ -1,6 +1,6 @@
 # Flugfunkkurs BZF I Online-Kurs (Live)
 
-> Product ID `25491` · Digistore24 productId `230707` · [HTML profile page](../../reviews/flugfunkkurs-bzf-i-online-kurs-live-25491.html)
+> Product ID `25491` · Digistore24 productId `230707` · [HTML profile page](../../produkte/flugfunkkurs-bzf-i-online-kurs-live-25491.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Rechtstexte für Websites – easyRechtssicher Komplett-Schutz
 
-> Product ID `29456` · Digistore24 productId `223615` · [HTML profile page](../../reviews/rechtstexte-f-r-websites-easyrechtssicher-komplett-schutz-29456.html)
+> Product ID `29456` · Digistore24 productId `223615` · [HTML profile page](../../produkte/rechtstexte-f-r-websites-easyrechtssicher-komplett-schutz-29456.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

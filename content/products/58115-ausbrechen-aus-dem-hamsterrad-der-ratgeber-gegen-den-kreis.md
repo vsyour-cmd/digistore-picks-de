@@ -1,6 +1,6 @@
 # Ausbrechen aus dem Hamsterrad – Der Ratgeber gegen den Kreis
 
-> Product ID `58115` · Digistore24 productId `717907` · [HTML profile page](../../reviews/ausbrechen-aus-dem-hamsterrad-der-ratgeber-gegen-den-kreis-58115.html)
+> Product ID `58115` · Digistore24 productId `717907` · [HTML profile page](../../produkte/ausbrechen-aus-dem-hamsterrad-der-ratgeber-gegen-den-kreis-58115.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Neurostreams™ DNA Talk (in 432 Hertz)
 
-> Product ID `47019` · Digistore24 productId `21959` · [HTML profile page](../../reviews/neurostreams-dna-talk-in-432-hertz-47019.html)
+> Product ID `47019` · Digistore24 productId `21959` · [HTML profile page](../../produkte/neurostreams-dna-talk-in-432-hertz-47019.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 12 Archetypen in Socia-Media!
 
-> Product ID `38284` · Digistore24 productId `413924` · [HTML profile page](../../reviews/die-12-archetypen-in-socia-media-38284.html)
+> Product ID `38284` · Digistore24 productId `413924` · [HTML profile page](../../produkte/die-12-archetypen-in-socia-media-38284.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

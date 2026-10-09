@@ -1,6 +1,6 @@
 # Bot-Business Mastery - Praxiskurs
 
-> Product ID `50085` · Digistore24 productId `574111` · [HTML profile page](../../reviews/bot-business-mastery-praxiskurs-50085.html)
+> Product ID `50085` · Digistore24 productId `574111` · [HTML profile page](../../produkte/bot-business-mastery-praxiskurs-50085.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

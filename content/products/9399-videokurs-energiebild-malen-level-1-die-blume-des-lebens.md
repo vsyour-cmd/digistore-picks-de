@@ -1,6 +1,6 @@
 # Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"
 
-> Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../reviews/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)
+> Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../produkte/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

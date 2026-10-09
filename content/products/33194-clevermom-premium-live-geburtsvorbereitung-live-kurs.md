@@ -1,6 +1,6 @@
 # CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs
 
-> Product ID `33194` · Digistore24 productId `293258` · [HTML profile page](../../reviews/clevermom-premium-live-geburtsvorbereitung-live-kurs-33194.html)
+> Product ID `33194` · Digistore24 productId `293258` · [HTML profile page](../../produkte/clevermom-premium-live-geburtsvorbereitung-live-kurs-33194.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

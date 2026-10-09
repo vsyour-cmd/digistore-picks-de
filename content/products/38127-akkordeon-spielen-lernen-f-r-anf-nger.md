@@ -1,6 +1,6 @@
 # Akkordeon spielen lernen für Anfänger
 
-> Product ID `38127` · Digistore24 productId `13613` · [HTML profile page](../../reviews/akkordeon-spielen-lernen-f-r-anf-nger-38127.html)
+> Product ID `38127` · Digistore24 productId `13613` · [HTML profile page](../../produkte/akkordeon-spielen-lernen-f-r-anf-nger-38127.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

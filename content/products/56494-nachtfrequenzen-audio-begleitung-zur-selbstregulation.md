@@ -1,6 +1,6 @@
 # Nachtfrequenzen – Audio-Begleitung zur Selbstregulation
 
-> Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../reviews/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
+> Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../produkte/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

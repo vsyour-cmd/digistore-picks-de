@@ -1,6 +1,6 @@
 # eBay Gebührenrechner Pro 2026 – 30% Provision, Einmalkauf 39
 
-> Product ID `56621` · Digistore24 productId `694325` · [HTML profile page](../../reviews/ebay-geb-hrenrechner-pro-2026-30-provision-einmalkauf-39-56621.html)
+> Product ID `56621` · Digistore24 productId `694325` · [HTML profile page](../../produkte/ebay-geb-hrenrechner-pro-2026-30-provision-einmalkauf-39-56621.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

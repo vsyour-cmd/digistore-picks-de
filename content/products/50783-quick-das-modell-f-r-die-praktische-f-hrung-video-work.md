@@ -1,6 +1,6 @@
 # Quick – Das Modell für die praktische Führung – Video + Work
 
-> Product ID `50783` · Digistore24 productId `586708` · [HTML profile page](../../reviews/quick-das-modell-f-r-die-praktische-f-hrung-video-work-50783.html)
+> Product ID `50783` · Digistore24 productId `586708` · [HTML profile page](../../produkte/quick-das-modell-f-r-die-praktische-f-hrung-video-work-50783.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

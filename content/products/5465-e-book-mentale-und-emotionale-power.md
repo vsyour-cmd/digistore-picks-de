@@ -1,6 +1,6 @@
 # E-Book "Mentale und emotionale Power"
 
-> Product ID `5465` · Digistore24 productId `37771` · [HTML profile page](../../reviews/e-book-mentale-und-emotionale-power-5465.html)
+> Product ID `5465` · Digistore24 productId `37771` · [HTML profile page](../../produkte/e-book-mentale-und-emotionale-power-5465.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

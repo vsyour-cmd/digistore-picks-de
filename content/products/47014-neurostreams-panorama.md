@@ -1,6 +1,6 @@
 # Neurostreams™ Panorama
 
-> Product ID `47014` · Digistore24 productId `247293` · [HTML profile page](../../reviews/neurostreams-panorama-47014.html)
+> Product ID `47014` · Digistore24 productId `247293` · [HTML profile page](../../produkte/neurostreams-panorama-47014.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

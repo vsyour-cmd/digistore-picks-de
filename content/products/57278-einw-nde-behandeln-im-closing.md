@@ -1,6 +1,6 @@
 # Einwände behandeln im Closing
 
-> Product ID `57278` · Digistore24 productId `704255` · [HTML profile page](../../reviews/einw-nde-behandeln-im-closing-57278.html)
+> Product ID `57278` · Digistore24 productId `704255` · [HTML profile page](../../produkte/einw-nde-behandeln-im-closing-57278.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

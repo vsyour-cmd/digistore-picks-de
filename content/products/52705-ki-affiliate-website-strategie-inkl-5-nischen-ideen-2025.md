@@ -1,6 +1,6 @@
 # KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)
 
-> Product ID `52705` · Digistore24 productId `616090` · [HTML profile page](../../reviews/ki-affiliate-website-strategie-inkl-5-nischen-ideen-2025-52705.html)
+> Product ID `52705` · Digistore24 productId `616090` · [HTML profile page](../../produkte/ki-affiliate-website-strategie-inkl-5-nischen-ideen-2025-52705.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

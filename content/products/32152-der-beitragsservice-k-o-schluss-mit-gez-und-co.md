@@ -1,6 +1,6 @@
 # Der Beitragsservice K.O. - Schluss mit GEZ und Co.!
 
-> Product ID `32152` · Digistore24 productId `304949` · [HTML profile page](../../reviews/der-beitragsservice-k-o-schluss-mit-gez-und-co-32152.html)
+> Product ID `32152` · Digistore24 productId `304949` · [HTML profile page](../../produkte/der-beitragsservice-k-o-schluss-mit-gez-und-co-32152.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Schlagzeug lernen für Anfänger - der Jahreskurs
 
-> Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../reviews/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)
+> Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../produkte/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

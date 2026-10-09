@@ -1,6 +1,6 @@
 # Advernet.de DMS SaaS
 
-> Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../reviews/advernet-de-dms-saas-45932.html)
+> Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../produkte/advernet-de-dms-saas-45932.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

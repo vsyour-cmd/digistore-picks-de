@@ -1,6 +1,6 @@
 # Babyzeichensprache Für Anfänger
 
-> Product ID `59642` · Digistore24 productId `736748` · [HTML profile page](../../reviews/babyzeichensprache-f-r-anf-nger-59642.html)
+> Product ID `59642` · Digistore24 productId `736748` · [HTML profile page](../../produkte/babyzeichensprache-f-r-anf-nger-59642.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

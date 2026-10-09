@@ -1,6 +1,6 @@
 # Marmelade ohne Gelierzucker kochen
 
-> Product ID `53161` · Digistore24 productId `560236` · [HTML profile page](../../reviews/marmelade-ohne-gelierzucker-kochen-53161.html)
+> Product ID `53161` · Digistore24 productId `560236` · [HTML profile page](../../produkte/marmelade-ohne-gelierzucker-kochen-53161.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

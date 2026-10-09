@@ -1,6 +1,6 @@
 # Keyboardkurs Vol. 2 / Download
 
-> Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../reviews/keyboardkurs-vol-2-download-31432.html)
+> Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../produkte/keyboardkurs-vol-2-download-31432.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

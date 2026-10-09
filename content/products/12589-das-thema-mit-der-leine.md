@@ -1,6 +1,6 @@
 # Das Thema mit der Leine
 
-> Product ID `12589` · Digistore24 productId `88809` · [HTML profile page](../../reviews/das-thema-mit-der-leine-12589.html)
+> Product ID `12589` · Digistore24 productId `88809` · [HTML profile page](../../produkte/das-thema-mit-der-leine-12589.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

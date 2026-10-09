@@ -1,6 +1,6 @@
 # Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze
 
-> Product ID `59588` · Digistore24 productId `736415` · [HTML profile page](../../reviews/amazon-fba-f-r-anf-nger-kosten-und-risiken-pr-fen-mit-matze-59588.html)
+> Product ID `59588` · Digistore24 productId `736415` · [HTML profile page](../../produkte/amazon-fba-f-r-anf-nger-kosten-und-risiken-pr-fen-mit-matze-59588.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Klartraum Guide - Lerne deine Träume zu steuern
 
-> Product ID `55982` · Digistore24 productId `665191` · [HTML profile page](../../reviews/klartraum-guide-lerne-deine-tr-ume-zu-steuern-55982.html)
+> Product ID `55982` · Digistore24 productId `665191` · [HTML profile page](../../produkte/klartraum-guide-lerne-deine-tr-ume-zu-steuern-55982.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

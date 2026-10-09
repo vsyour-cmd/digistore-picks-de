@@ -1,6 +1,6 @@
 # Frauen glücklich machen - Buchfunnel
 
-> Product ID `33935` · Digistore24 productId `329526` · [HTML profile page](../../reviews/frauen-gl-cklich-machen-buchfunnel-33935.html)
+> Product ID `33935` · Digistore24 productId `329526` · [HTML profile page](../../produkte/frauen-gl-cklich-machen-buchfunnel-33935.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

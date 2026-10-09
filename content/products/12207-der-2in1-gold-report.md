@@ -1,6 +1,6 @@
 # DER 2in1 GOLD-REPORT
 
-> Product ID `12207` · Digistore24 productId `87349` · [HTML profile page](../../reviews/der-2in1-gold-report-12207.html)
+> Product ID `12207` · Digistore24 productId `87349` · [HTML profile page](../../produkte/der-2in1-gold-report-12207.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 15 Premium ChatGPT-Prompts für Unternehmer,Selbstständige
 
-> Product ID `59067` · Digistore24 productId `730823` · [HTML profile page](../../reviews/15-premium-chatgpt-prompts-f-r-unternehmer-selbstst-ndige-59067.html)
+> Product ID `59067` · Digistore24 productId `730823` · [HTML profile page](../../produkte/15-premium-chatgpt-prompts-f-r-unternehmer-selbstst-ndige-59067.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

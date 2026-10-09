@@ -1,6 +1,6 @@
 # 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)
 
-> Product ID `51468` · Digistore24 productId `594851` · [HTML profile page](../../reviews/7-tage-sm-strategie-kostenlos-gratis-e-book-buch-51468.html)
+> Product ID `51468` · Digistore24 productId `594851` · [HTML profile page](../../produkte/7-tage-sm-strategie-kostenlos-gratis-e-book-buch-51468.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

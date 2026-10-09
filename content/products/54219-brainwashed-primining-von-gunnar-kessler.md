@@ -1,6 +1,6 @@
 # Brainwashed Primining - von Gunnar Kessler
 
-> Product ID `54219` · Digistore24 productId `576787` · [HTML profile page](../../reviews/brainwashed-primining-von-gunnar-kessler-54219.html)
+> Product ID `54219` · Digistore24 productId `576787` · [HTML profile page](../../produkte/brainwashed-primining-von-gunnar-kessler-54219.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

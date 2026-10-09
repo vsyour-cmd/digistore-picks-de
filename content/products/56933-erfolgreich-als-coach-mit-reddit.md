@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Reddit
 
-> Product ID `56933` · Digistore24 productId `701367` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-reddit-56933.html)
+> Product ID `56933` · Digistore24 productId `701367` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-reddit-56933.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

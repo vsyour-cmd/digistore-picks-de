@@ -1,6 +1,6 @@
 # E-Book - Nebenverdienst Online mit Affiliate-Marketing
 
-> Product ID `52602` · Digistore24 productId `614461` · [HTML profile page](../../reviews/e-book-nebenverdienst-online-mit-affiliate-marketing-52602.html)
+> Product ID `52602` · Digistore24 productId `614461` · [HTML profile page](../../produkte/e-book-nebenverdienst-online-mit-affiliate-marketing-52602.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Eine Frage der Rasse - Nährstoffe und Gesundheit eBook
 
-> Product ID `49850` · Digistore24 productId `570504` · [HTML profile page](../../reviews/eine-frage-der-rasse-n-hrstoffe-und-gesundheit-ebook-49850.html)
+> Product ID `49850` · Digistore24 productId `570504` · [HTML profile page](../../produkte/eine-frage-der-rasse-n-hrstoffe-und-gesundheit-ebook-49850.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

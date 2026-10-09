@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Bremerhaven | Hint-Caching
 
-> Product ID `56421` · Digistore24 productId `689220` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-bremerhaven-hint-caching-56421.html)
+> Product ID `56421` · Digistore24 productId `689220` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-bremerhaven-hint-caching-56421.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

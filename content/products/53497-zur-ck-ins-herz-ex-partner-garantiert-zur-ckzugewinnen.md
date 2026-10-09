@@ -1,6 +1,6 @@
 # Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen
 
-> Product ID `53497` · Digistore24 productId `629200` · [HTML profile page](../../reviews/zur-ck-ins-herz-ex-partner-garantiert-zur-ckzugewinnen-53497.html)
+> Product ID `53497` · Digistore24 productId `629200` · [HTML profile page](../../produkte/zur-ck-ins-herz-ex-partner-garantiert-zur-ckzugewinnen-53497.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

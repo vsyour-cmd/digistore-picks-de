@@ -1,6 +1,6 @@
 # Affiliatemarketing mit KI
 
-> Product ID `56075` · Digistore24 productId `661727` · [HTML profile page](../../reviews/affiliatemarketing-mit-ki-56075.html)
+> Product ID `56075` · Digistore24 productId `661727` · [HTML profile page](../../produkte/affiliatemarketing-mit-ki-56075.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

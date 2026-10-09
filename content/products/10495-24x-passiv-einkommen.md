@@ -1,6 +1,6 @@
 # 24x Passiv-Einkommen
 
-> Product ID `10495` · Digistore24 productId `74091` · [HTML profile page](../../reviews/24x-passiv-einkommen-10495.html)
+> Product ID `10495` · Digistore24 productId `74091` · [HTML profile page](../../produkte/24x-passiv-einkommen-10495.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

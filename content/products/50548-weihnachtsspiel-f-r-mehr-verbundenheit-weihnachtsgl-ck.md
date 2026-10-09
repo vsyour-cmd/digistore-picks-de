@@ -1,6 +1,6 @@
 # Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück
 
-> Product ID `50548` · Digistore24 productId `583074` · [HTML profile page](../../reviews/weihnachtsspiel-f-r-mehr-verbundenheit-weihnachtsgl-ck-50548.html)
+> Product ID `50548` · Digistore24 productId `583074` · [HTML profile page](../../produkte/weihnachtsspiel-f-r-mehr-verbundenheit-weihnachtsgl-ck-50548.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

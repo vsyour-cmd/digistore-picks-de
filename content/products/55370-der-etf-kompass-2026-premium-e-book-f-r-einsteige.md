@@ -1,6 +1,6 @@
 # Der ETF-Kompass 2026 – Premium E-Book für Einsteige
 
-> Product ID `55370` · Digistore24 productId `662501` · [HTML profile page](../../reviews/der-etf-kompass-2026-premium-e-book-f-r-einsteige-55370.html)
+> Product ID `55370` · Digistore24 productId `662501` · [HTML profile page](../../produkte/der-etf-kompass-2026-premium-e-book-f-r-einsteige-55370.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

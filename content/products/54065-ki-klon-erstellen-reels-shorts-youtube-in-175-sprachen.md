@@ -1,6 +1,6 @@
 # Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen
 
-> Product ID `54065` · Digistore24 productId `635001` · [HTML profile page](../../reviews/ki-klon-erstellen-reels-shorts-youtube-in-175-sprachen-54065.html)
+> Product ID `54065` · Digistore24 productId `635001` · [HTML profile page](../../produkte/ki-klon-erstellen-reels-shorts-youtube-in-175-sprachen-54065.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop
 
-> Product ID `56765` · Digistore24 productId `697070` · [HTML profile page](../../reviews/die-12-ruhe-anker-mp3-e-book-karten-angstfrei-shop-56765.html)
+> Product ID `56765` · Digistore24 productId `697070` · [HTML profile page](../../produkte/die-12-ruhe-anker-mp3-e-book-karten-angstfrei-shop-56765.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

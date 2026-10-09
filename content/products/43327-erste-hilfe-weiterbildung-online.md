@@ -1,6 +1,6 @@
 # Erste Hilfe Weiterbildung ONLINE
 
-> Product ID `43327` · Digistore24 productId `491936` · [HTML profile page](../../reviews/erste-hilfe-weiterbildung-online-43327.html)
+> Product ID `43327` · Digistore24 productId `491936` · [HTML profile page](../../produkte/erste-hilfe-weiterbildung-online-43327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

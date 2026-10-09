@@ -1,6 +1,6 @@
 # Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision
 
-> Product ID `60299` · Digistore24 productId `741568` · [HTML profile page](../../reviews/digitale-speisekarte-mit-qr-code-f-r-italienischsprachige-betriebe-240-ca-45-provision-60299.html)
+> Product ID `60299` · Digistore24 productId `741568` · [HTML profile page](../../produkte/digitale-speisekarte-mit-qr-code-f-r-italienischsprachige-betriebe-240-ca-45-provision-60299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

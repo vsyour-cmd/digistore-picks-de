@@ -1,6 +1,6 @@
 # Der Perspektivwechsel - Premium
 
-> Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../reviews/der-perspektivwechsel-premium-59401.html)
+> Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../produkte/der-perspektivwechsel-premium-59401.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Videokurs "Cashflow-Formel für Immobilien-Investments"
 
-> Product ID `25587` · Digistore24 productId `363165` · [HTML profile page](../../reviews/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html)
+> Product ID `25587` · Digistore24 productId `363165` · [HTML profile page](../../produkte/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

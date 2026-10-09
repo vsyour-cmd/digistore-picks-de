@@ -1,6 +1,6 @@
 # Der Masterflow: Shopify-Produktseiten die verkaufen
 
-> Product ID `55848` · Digistore24 productId `674258` · [HTML profile page](../../reviews/der-masterflow-shopify-produktseiten-die-verkaufen-55848.html)
+> Product ID `55848` · Digistore24 productId `674258` · [HTML profile page](../../produkte/der-masterflow-shopify-produktseiten-die-verkaufen-55848.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

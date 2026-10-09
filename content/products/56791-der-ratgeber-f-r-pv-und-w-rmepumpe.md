@@ -1,6 +1,6 @@
 # Der Ratgeber für PV und Wärmepumpe
 
-> Product ID `56791` · Digistore24 productId `697092` · [HTML profile page](../../reviews/der-ratgeber-f-r-pv-und-w-rmepumpe-56791.html)
+> Product ID `56791` · Digistore24 productId `697092` · [HTML profile page](../../produkte/der-ratgeber-f-r-pv-und-w-rmepumpe-56791.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

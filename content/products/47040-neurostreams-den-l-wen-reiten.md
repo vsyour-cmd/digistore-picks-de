@@ -1,6 +1,6 @@
 # Neurostreams™ Den Löwen reiten
 
-> Product ID `47040` · Digistore24 productId `250033` · [HTML profile page](../../reviews/neurostreams-den-l-wen-reiten-47040.html)
+> Product ID `47040` · Digistore24 productId `250033` · [HTML profile page](../../produkte/neurostreams-den-l-wen-reiten-47040.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

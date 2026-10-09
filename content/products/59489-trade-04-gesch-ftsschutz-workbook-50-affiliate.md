@@ -1,6 +1,6 @@
 # TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate
 
-> Product ID `59489` · Digistore24 productId `735841` · [HTML profile page](../../reviews/trade-04-gesch-ftsschutz-workbook-50-affiliate-59489.html)
+> Product ID `59489` · Digistore24 productId `735841` · [HTML profile page](../../produkte/trade-04-gesch-ftsschutz-workbook-50-affiliate-59489.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Vom Leben geprägt – Eine inspirierende Lebensgeschichte über
 
-> Product ID `58874` · Digistore24 productId `727157` · [HTML profile page](../../reviews/vom-leben-gepr-gt-eine-inspirierende-lebensgeschichte-ber-58874.html)
+> Product ID `58874` · Digistore24 productId `727157` · [HTML profile page](../../produkte/vom-leben-gepr-gt-eine-inspirierende-lebensgeschichte-ber-58874.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

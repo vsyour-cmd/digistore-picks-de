@@ -1,6 +1,6 @@
 # 1% ELITE | Instagram - Verkaufen meistern
 
-> Product ID `32869` · Digistore24 productId `353302` · [HTML profile page](../../reviews/1-elite-instagram-verkaufen-meistern-32869.html)
+> Product ID `32869` · Digistore24 productId `353302` · [HTML profile page](../../produkte/1-elite-instagram-verkaufen-meistern-32869.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

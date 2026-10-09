@@ -1,6 +1,6 @@
 # Elterngeld-klar 2026/27 – 50 %, 39,95 € einmalig
 
-> Product ID `59099` · Digistore24 productId `729754` · [HTML profile page](../../reviews/elterngeld-klar-2026-27-50-39-95-einmalig-59099.html)
+> Product ID `59099` · Digistore24 productId `729754` · [HTML profile page](../../produkte/elterngeld-klar-2026-27-50-39-95-einmalig-59099.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

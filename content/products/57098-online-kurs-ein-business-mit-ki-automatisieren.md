@@ -1,6 +1,6 @@
 # (Online Kurs) Ein Business mit KI Automatisieren
 
-> Product ID `57098` · Digistore24 productId `698014` · [HTML profile page](../../reviews/online-kurs-ein-business-mit-ki-automatisieren-57098.html)
+> Product ID `57098` · Digistore24 productId `698014` · [HTML profile page](../../produkte/online-kurs-ein-business-mit-ki-automatisieren-57098.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

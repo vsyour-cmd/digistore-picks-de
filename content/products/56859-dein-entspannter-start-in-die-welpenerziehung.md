@@ -1,6 +1,6 @@
 # Dein entspannter Start  in die Welpenerziehung
 
-> Product ID `56859` · Digistore24 productId `700100` · [HTML profile page](../../reviews/dein-entspannter-start-in-die-welpenerziehung-56859.html)
+> Product ID `56859` · Digistore24 productId `700100` · [HTML profile page](../../produkte/dein-entspannter-start-in-die-welpenerziehung-56859.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Finanz-Organisator – KI sortiert deine Rechnungen und Belege automatisch
 
-> Product ID `59254` · Digistore24 productId `727290` · [HTML profile page](../../reviews/finanz-organisator-ki-sortiert-deine-rechnungen-und-belege-automatisch-59254.html)
+> Product ID `59254` · Digistore24 productId `727290` · [HTML profile page](../../produkte/finanz-organisator-ki-sortiert-deine-rechnungen-und-belege-automatisch-59254.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

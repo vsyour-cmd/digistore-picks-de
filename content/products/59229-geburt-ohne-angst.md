@@ -1,6 +1,6 @@
 # Geburt ohne Angst
 
-> Product ID `59229` · Digistore24 productId `733139` · [HTML profile page](../../reviews/geburt-ohne-angst-59229.html)
+> Product ID `59229` · Digistore24 productId `733139` · [HTML profile page](../../produkte/geburt-ohne-angst-59229.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

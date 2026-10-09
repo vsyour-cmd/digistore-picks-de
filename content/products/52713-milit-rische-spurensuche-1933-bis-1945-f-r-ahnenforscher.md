@@ -1,6 +1,6 @@
 # Militärische Spurensuche 1933 bis 1945 für Ahnenforscher
 
-> Product ID `52713` · Digistore24 productId `615255` · [HTML profile page](../../reviews/milit-rische-spurensuche-1933-bis-1945-f-r-ahnenforscher-52713.html)
+> Product ID `52713` · Digistore24 productId `615255` · [HTML profile page](../../produkte/milit-rische-spurensuche-1933-bis-1945-f-r-ahnenforscher-52713.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

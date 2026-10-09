@@ -1,6 +1,6 @@
 # Das Turbolernsystem - Ebook
 
-> Product ID `11575` · Digistore24 productId `24351` · [HTML profile page](../../reviews/das-turbolernsystem-ebook-11575.html)
+> Product ID `11575` · Digistore24 productId `24351` · [HTML profile page](../../produkte/das-turbolernsystem-ebook-11575.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Deutschland für kleine Entdecker – Mal-PDF (Kostenl
 
-> Product ID `57394` · Digistore24 productId `706605` · [HTML profile page](../../reviews/deutschland-f-r-kleine-entdecker-mal-pdf-kostenl-57394.html)
+> Product ID `57394` · Digistore24 productId `706605` · [HTML profile page](../../produkte/deutschland-f-r-kleine-entdecker-mal-pdf-kostenl-57394.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

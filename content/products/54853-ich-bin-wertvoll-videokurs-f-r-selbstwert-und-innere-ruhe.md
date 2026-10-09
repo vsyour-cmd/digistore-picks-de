@@ -1,6 +1,6 @@
 # Ich bin wertvoll VIDEOKURS für Selbstwert und innere Ruhe
 
-> Product ID `54853` · Digistore24 productId `651579` · [HTML profile page](../../reviews/ich-bin-wertvoll-videokurs-f-r-selbstwert-und-innere-ruhe-54853.html)
+> Product ID `54853` · Digistore24 productId `651579` · [HTML profile page](../../produkte/ich-bin-wertvoll-videokurs-f-r-selbstwert-und-innere-ruhe-54853.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

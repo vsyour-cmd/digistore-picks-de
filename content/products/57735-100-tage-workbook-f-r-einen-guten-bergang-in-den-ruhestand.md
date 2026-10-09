@@ -1,6 +1,6 @@
 # 100-Tage-Workbook für einen guten Übergang in den Ruhestand
 
-> Product ID `57735` · Digistore24 productId `695863` · [HTML profile page](../../reviews/100-tage-workbook-f-r-einen-guten-bergang-in-den-ruhestand-57735.html)
+> Product ID `57735` · Digistore24 productId `695863` · [HTML profile page](../../produkte/100-tage-workbook-f-r-einen-guten-bergang-in-den-ruhestand-57735.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

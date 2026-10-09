@@ -1,6 +1,6 @@
 # Masterclass „Die Kunst nachhaltiger (Selbst)Führung“
 
-> Product ID `54882` · Digistore24 productId `650117` · [HTML profile page](../../reviews/masterclass-die-kunst-nachhaltiger-selbst-f-hrung-54882.html)
+> Product ID `54882` · Digistore24 productId `650117` · [HTML profile page](../../produkte/masterclass-die-kunst-nachhaltiger-selbst-f-hrung-54882.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

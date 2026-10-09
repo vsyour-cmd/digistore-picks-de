@@ -1,6 +1,6 @@
 # Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs
 
-> Product ID `39196` · Digistore24 productId `428528` · [HTML profile page](../../reviews/reden-ohne-worte-ein-empathie-und-wahrnehmungskurs-39196.html)
+> Product ID `39196` · Digistore24 productId `428528` · [HTML profile page](../../produkte/reden-ohne-worte-ein-empathie-und-wahrnehmungskurs-39196.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

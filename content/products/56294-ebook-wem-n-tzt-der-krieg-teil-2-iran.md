@@ -1,6 +1,6 @@
 # Ebook - Wem nützt der Krieg - Teil 2 Iran
 
-> Product ID `56294` · Digistore24 productId `685092` · [HTML profile page](../../reviews/ebook-wem-n-tzt-der-krieg-teil-2-iran-56294.html)
+> Product ID `56294` · Digistore24 productId `685092` · [HTML profile page](../../produkte/ebook-wem-n-tzt-der-krieg-teil-2-iran-56294.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

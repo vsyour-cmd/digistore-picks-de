@@ -1,6 +1,6 @@
 # E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig
 
-> Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../reviews/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)
+> Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../produkte/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

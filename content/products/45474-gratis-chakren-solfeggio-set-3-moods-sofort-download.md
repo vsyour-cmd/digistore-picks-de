@@ -1,6 +1,6 @@
 # Gratis Chakren & Solfeggio Set (3 Moods) Sofort-Download
 
-> Product ID `45474` · Digistore24 productId `527124` · [HTML profile page](../../reviews/gratis-chakren-solfeggio-set-3-moods-sofort-download-45474.html)
+> Product ID `45474` · Digistore24 productId `527124` · [HTML profile page](../../produkte/gratis-chakren-solfeggio-set-3-moods-sofort-download-45474.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Stimmig starten: Minikurs Stimmtraining
 
-> Product ID `48614` · Digistore24 productId `560561` · [HTML profile page](../../reviews/stimmig-starten-minikurs-stimmtraining-48614.html)
+> Product ID `48614` · Digistore24 productId `560561` · [HTML profile page](../../produkte/stimmig-starten-minikurs-stimmtraining-48614.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

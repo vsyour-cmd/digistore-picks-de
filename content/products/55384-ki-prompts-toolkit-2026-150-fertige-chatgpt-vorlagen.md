@@ -1,6 +1,6 @@
 # KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen
 
-> Product ID `55384` · Digistore24 productId `663205` · [HTML profile page](../../reviews/ki-prompts-toolkit-2026-150-fertige-chatgpt-vorlagen-55384.html)
+> Product ID `55384` · Digistore24 productId `663205` · [HTML profile page](../../produkte/ki-prompts-toolkit-2026-150-fertige-chatgpt-vorlagen-55384.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

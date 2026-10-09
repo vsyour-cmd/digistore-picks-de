@@ -1,6 +1,6 @@
 # Die Experten Formel: 5€ Provision
 
-> Product ID `29319` · Digistore24 productId `272694` · [HTML profile page](../../reviews/die-experten-formel-5-provision-29319.html)
+> Product ID `29319` · Digistore24 productId `272694` · [HTML profile page](../../produkte/die-experten-formel-5-provision-29319.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

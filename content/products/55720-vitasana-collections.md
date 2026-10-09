@@ -1,6 +1,6 @@
 # VitaSana Collections
 
-> Product ID `55720` · Digistore24 productId `663520` · [HTML profile page](../../reviews/vitasana-collections-55720.html)
+> Product ID `55720` · Digistore24 productId `663520` · [HTML profile page](../../produkte/vitasana-collections-55720.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

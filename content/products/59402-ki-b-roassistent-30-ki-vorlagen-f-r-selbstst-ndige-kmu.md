@@ -1,6 +1,6 @@
 # KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU
 
-> Product ID `59402` · Digistore24 productId `734669` · [HTML profile page](../../reviews/ki-b-roassistent-30-ki-vorlagen-f-r-selbstst-ndige-kmu-59402.html)
+> Product ID `59402` · Digistore24 productId `734669` · [HTML profile page](../../produkte/ki-b-roassistent-30-ki-vorlagen-f-r-selbstst-ndige-kmu-59402.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

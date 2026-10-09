@@ -1,6 +1,6 @@
 # KI-Praxis-Guide 50+ | 50 % Affiliate-Provision
 
-> Product ID `59115` · Digistore24 productId `721750` · [HTML profile page](../../reviews/ki-praxis-guide-50-50-affiliate-provision-59115.html)
+> Product ID `59115` · Digistore24 productId `721750` · [HTML profile page](../../produkte/ki-praxis-guide-50-50-affiliate-provision-59115.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

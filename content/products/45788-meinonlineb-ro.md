@@ -1,6 +1,6 @@
 # meinOnlineBüro
 
-> Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../reviews/meinonlineb-ro-45788.html)
+> Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../produkte/meinonlineb-ro-45788.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

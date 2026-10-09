@@ -1,6 +1,6 @@
 # Gewinnbringende Newsletter - Schritt für Schritt Anleitung
 
-> Product ID `53395` · Digistore24 productId `627702` · [HTML profile page](../../reviews/gewinnbringende-newsletter-schritt-f-r-schritt-anleitung-53395.html)
+> Product ID `53395` · Digistore24 productId `627702` · [HTML profile page](../../produkte/gewinnbringende-newsletter-schritt-f-r-schritt-anleitung-53395.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

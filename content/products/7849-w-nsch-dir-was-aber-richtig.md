@@ -1,6 +1,6 @@
 # Wünsch dir was - aber richtig!
 
-> Product ID `7849` · Digistore24 productId `97531` · [HTML profile page](../../reviews/w-nsch-dir-was-aber-richtig-7849.html)
+> Product ID `7849` · Digistore24 productId `97531` · [HTML profile page](../../produkte/w-nsch-dir-was-aber-richtig-7849.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

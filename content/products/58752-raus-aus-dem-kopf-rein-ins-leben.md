@@ -1,6 +1,6 @@
 # Raus aus dem Kopf - Rein ins Leben
 
-> Product ID `58752` · Digistore24 productId `727201` · [HTML profile page](../../reviews/raus-aus-dem-kopf-rein-ins-leben-58752.html)
+> Product ID `58752` · Digistore24 productId `727201` · [HTML profile page](../../produkte/raus-aus-dem-kopf-rein-ins-leben-58752.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

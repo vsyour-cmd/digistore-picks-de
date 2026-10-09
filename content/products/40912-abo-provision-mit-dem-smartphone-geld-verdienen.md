@@ -1,6 +1,6 @@
 # ABO Provision - Mit dem Smartphone Geld verdienen
 
-> Product ID `40912` · Digistore24 productId `456148` · [HTML profile page](../../reviews/abo-provision-mit-dem-smartphone-geld-verdienen-40912.html)
+> Product ID `40912` · Digistore24 productId `456148` · [HTML profile page](../../produkte/abo-provision-mit-dem-smartphone-geld-verdienen-40912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

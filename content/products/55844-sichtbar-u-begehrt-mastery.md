@@ -1,6 +1,6 @@
 # Sichtbar u. Begehrt Mastery
 
-> Product ID `55844` · Digistore24 productId `672438` · [HTML profile page](../../reviews/sichtbar-u-begehrt-mastery-55844.html)
+> Product ID `55844` · Digistore24 productId `672438` · [HTML profile page](../../produkte/sichtbar-u-begehrt-mastery-55844.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

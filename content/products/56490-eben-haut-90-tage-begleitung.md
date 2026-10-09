@@ -1,6 +1,6 @@
 # eben.Haut 90 Tage Begleitung
 
-> Product ID `56490` · Digistore24 productId `690693` · [HTML profile page](../../reviews/eben-haut-90-tage-begleitung-56490.html)
+> Product ID `56490` · Digistore24 productId `690693` · [HTML profile page](../../produkte/eben-haut-90-tage-begleitung-56490.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

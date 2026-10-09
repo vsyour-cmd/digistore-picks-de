@@ -1,6 +1,6 @@
 # 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)
 
-> Product ID `52383` · Digistore24 productId `611531` · [HTML profile page](../../reviews/15-tage-ki-provision-challenge-inkl-gratis-prompts-e-book-52383.html)
+> Product ID `52383` · Digistore24 productId `611531` · [HTML profile page](../../produkte/15-tage-ki-provision-challenge-inkl-gratis-prompts-e-book-52383.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

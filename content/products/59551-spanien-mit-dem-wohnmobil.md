@@ -1,6 +1,6 @@
 # Spanien mit dem Wohnmobil
 
-> Product ID `59551` · Digistore24 productId `736195` · [HTML profile page](../../reviews/spanien-mit-dem-wohnmobil-59551.html)
+> Product ID `59551` · Digistore24 productId `736195` · [HTML profile page](../../produkte/spanien-mit-dem-wohnmobil-59551.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

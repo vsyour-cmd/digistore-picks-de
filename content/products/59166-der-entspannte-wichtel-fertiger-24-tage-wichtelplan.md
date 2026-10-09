@@ -1,6 +1,6 @@
 # Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan
 
-> Product ID `59166` · Digistore24 productId `723183` · [HTML profile page](../../reviews/der-entspannte-wichtel-fertiger-24-tage-wichtelplan-59166.html)
+> Product ID `59166` · Digistore24 productId `723183` · [HTML profile page](../../produkte/der-entspannte-wichtel-fertiger-24-tage-wichtelplan-59166.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

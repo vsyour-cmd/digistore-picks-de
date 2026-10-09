@@ -1,6 +1,6 @@
 # Bitcoin Einsteiger E-Book – 70 % Affiliate Provision
 
-> Product ID `55993` · Digistore24 productId `674475` · [HTML profile page](../../reviews/bitcoin-einsteiger-e-book-70-affiliate-provision-55993.html)
+> Product ID `55993` · Digistore24 productId `674475` · [HTML profile page](../../produkte/bitcoin-einsteiger-e-book-70-affiliate-provision-55993.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

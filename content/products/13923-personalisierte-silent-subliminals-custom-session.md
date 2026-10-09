@@ -1,6 +1,6 @@
 # Personalisierte Silent Subliminals (Custom Session)
 
-> Product ID `13923` · Digistore24 productId `295162` · [HTML profile page](../../reviews/personalisierte-silent-subliminals-custom-session-13923.html)
+> Product ID `13923` · Digistore24 productId `295162` · [HTML profile page](../../produkte/personalisierte-silent-subliminals-custom-session-13923.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

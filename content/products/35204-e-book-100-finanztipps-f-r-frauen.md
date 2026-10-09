@@ -1,6 +1,6 @@
 # E-Book "100 Finanztipps für Frauen"
 
-> Product ID `35204` · Digistore24 productId `358910` · [HTML profile page](../../reviews/e-book-100-finanztipps-f-r-frauen-35204.html)
+> Product ID `35204` · Digistore24 productId `358910` · [HTML profile page](../../produkte/e-book-100-finanztipps-f-r-frauen-35204.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

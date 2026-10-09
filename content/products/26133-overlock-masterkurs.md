@@ -1,6 +1,6 @@
 # Overlock Masterkurs
 
-> Product ID `26133` · Digistore24 productId `193615` · [HTML profile page](../../reviews/overlock-masterkurs-26133.html)
+> Product ID `26133` · Digistore24 productId `193615` · [HTML profile page](../../produkte/overlock-masterkurs-26133.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

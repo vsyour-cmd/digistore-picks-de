@@ -1,6 +1,6 @@
 # Email Klick Tipp Marketing Automations: Smarte Kampagnen und
 
-> Product ID `55339` · Digistore24 productId `664290` · [HTML profile page](../../reviews/email-klick-tipp-marketing-automations-smarte-kampagnen-und-55339.html)
+> Product ID `55339` · Digistore24 productId `664290` · [HTML profile page](../../produkte/email-klick-tipp-marketing-automations-smarte-kampagnen-und-55339.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

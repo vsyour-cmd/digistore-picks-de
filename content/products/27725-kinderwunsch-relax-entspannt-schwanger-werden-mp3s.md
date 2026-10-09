@@ -1,6 +1,6 @@
 # Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)
 
-> Product ID `27725` · Digistore24 productId `238483` · [HTML profile page](../../reviews/kinderwunsch-relax-entspannt-schwanger-werden-mp3s-27725.html)
+> Product ID `27725` · Digistore24 productId `238483` · [HTML profile page](../../produkte/kinderwunsch-relax-entspannt-schwanger-werden-mp3s-27725.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

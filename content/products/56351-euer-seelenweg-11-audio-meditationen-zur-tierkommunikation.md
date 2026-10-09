@@ -1,6 +1,6 @@
 # Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation
 
-> Product ID `56351` · Digistore24 productId `686408` · [HTML profile page](../../reviews/euer-seelenweg-11-audio-meditationen-zur-tierkommunikation-56351.html)
+> Product ID `56351` · Digistore24 productId `686408` · [HTML profile page](../../produkte/euer-seelenweg-11-audio-meditationen-zur-tierkommunikation-56351.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

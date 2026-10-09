@@ -1,6 +1,6 @@
 # Die 3-Fragen-Zielgruppenformel für Affiliates!
 
-> Product ID `53451` · Digistore24 productId `628538` · [HTML profile page](../../reviews/die-3-fragen-zielgruppenformel-f-r-affiliates-53451.html)
+> Product ID `53451` · Digistore24 productId `628538` · [HTML profile page](../../produkte/die-3-fragen-zielgruppenformel-f-r-affiliates-53451.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

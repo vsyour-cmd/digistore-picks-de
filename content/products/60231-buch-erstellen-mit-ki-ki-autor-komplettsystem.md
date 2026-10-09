@@ -1,6 +1,6 @@
 # Buch erstellen mit KI – KI-Autor Komplettsystem
 
-> Product ID `60231` · Digistore24 productId `734491` · [HTML profile page](../../reviews/buch-erstellen-mit-ki-ki-autor-komplettsystem-60231.html)
+> Product ID `60231` · Digistore24 productId `734491` · [HTML profile page](../../produkte/buch-erstellen-mit-ki-ki-autor-komplettsystem-60231.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

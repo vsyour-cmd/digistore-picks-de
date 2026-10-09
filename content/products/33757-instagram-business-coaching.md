@@ -1,6 +1,6 @@
 # Instagram Business Coaching
 
-> Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../reviews/instagram-business-coaching-33757.html)
+> Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../produkte/instagram-business-coaching-33757.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

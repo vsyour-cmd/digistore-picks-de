@@ -1,6 +1,6 @@
 # Dein eigenes Parfum selber machen
 
-> Product ID `50726` · Digistore24 productId `733806` · [HTML profile page](../../reviews/dein-eigenes-parfum-selber-machen-50726.html)
+> Product ID `50726` · Digistore24 productId `733806` · [HTML profile page](../../produkte/dein-eigenes-parfum-selber-machen-50726.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

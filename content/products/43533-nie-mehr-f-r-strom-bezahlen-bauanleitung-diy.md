@@ -1,6 +1,6 @@
 # Nie mehr für Strom bezahlen! - Bauanleitung DIY
 
-> Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../reviews/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)
+> Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../produkte/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

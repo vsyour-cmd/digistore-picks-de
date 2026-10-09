@@ -1,6 +1,6 @@
 # Ihr Weg zum Traumhaus
 
-> Product ID `58479` · Digistore24 productId `723049` · [HTML profile page](../../reviews/ihr-weg-zum-traumhaus-58479.html)
+> Product ID `58479` · Digistore24 productId `723049` · [HTML profile page](../../produkte/ihr-weg-zum-traumhaus-58479.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

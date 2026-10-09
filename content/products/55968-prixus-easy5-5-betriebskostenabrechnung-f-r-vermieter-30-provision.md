@@ -1,6 +1,6 @@
 # PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision
 
-> Product ID `55968` · Digistore24 productId `676802` · [HTML profile page](../../reviews/prixus-easy5-5-betriebskostenabrechnung-f-r-vermieter-30-provision-55968.html)
+> Product ID `55968` · Digistore24 productId `676802` · [HTML profile page](../../produkte/prixus-easy5-5-betriebskostenabrechnung-f-r-vermieter-30-provision-55968.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

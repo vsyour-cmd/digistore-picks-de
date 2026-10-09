@@ -1,6 +1,6 @@
 # StereoTrader MT4
 
-> Product ID `14441` · Digistore24 productId `86375` · [HTML profile page](../../reviews/stereotrader-mt4-14441.html)
+> Product ID `14441` · Digistore24 productId `86375` · [HTML profile page](../../produkte/stereotrader-mt4-14441.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision
 
-> Product ID `56671` · Digistore24 productId `691063` · [HTML profile page](../../reviews/ai-chatbot-basic-ki-kundenservice-f-r-kleine-unternehmen-wiederkehrende-provision-56671.html)
+> Product ID `56671` · Digistore24 productId `691063` · [HTML profile page](../../produkte/ai-chatbot-basic-ki-kundenservice-f-r-kleine-unternehmen-wiederkehrende-provision-56671.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

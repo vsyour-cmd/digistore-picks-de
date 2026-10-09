@@ -1,6 +1,6 @@
 # Innere Ruhe für empathische und sensible Menschen
 
-> Product ID `57467` · Digistore24 productId `697334` · [HTML profile page](../../reviews/innere-ruhe-f-r-empathische-und-sensible-menschen-57467.html)
+> Product ID `57467` · Digistore24 productId `697334` · [HTML profile page](../../produkte/innere-ruhe-f-r-empathische-und-sensible-menschen-57467.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

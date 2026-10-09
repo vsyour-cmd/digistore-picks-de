@@ -1,6 +1,6 @@
 # Pour Ellie – Bedarfsdeckende Rezepte für Hunde
 
-> Product ID `58881` · Digistore24 productId `670737` · [HTML profile page](../../reviews/pour-ellie-bedarfsdeckende-rezepte-f-r-hunde-58881.html)
+> Product ID `58881` · Digistore24 productId `670737` · [HTML profile page](../../produkte/pour-ellie-bedarfsdeckende-rezepte-f-r-hunde-58881.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

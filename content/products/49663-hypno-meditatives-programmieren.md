@@ -1,6 +1,6 @@
 # Hypno Meditatives Programmieren
 
-> Product ID `49663` · Digistore24 productId `116981` · [HTML profile page](../../reviews/hypno-meditatives-programmieren-49663.html)
+> Product ID `49663` · Digistore24 productId `116981` · [HTML profile page](../../produkte/hypno-meditatives-programmieren-49663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Internet Geld Geheimnisse
 
-> Product ID `38788` · Digistore24 productId `422807` · [HTML profile page](../../reviews/internet-geld-geheimnisse-38788.html)
+> Product ID `38788` · Digistore24 productId `422807` · [HTML profile page](../../produkte/internet-geld-geheimnisse-38788.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

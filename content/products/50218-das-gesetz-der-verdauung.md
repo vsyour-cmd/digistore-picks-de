@@ -1,6 +1,6 @@
 # Das Gesetz der Verdauung
 
-> Product ID `50218` · Digistore24 productId `572157` · [HTML profile page](../../reviews/das-gesetz-der-verdauung-50218.html)
+> Product ID `50218` · Digistore24 productId `572157` · [HTML profile page](../../produkte/das-gesetz-der-verdauung-50218.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

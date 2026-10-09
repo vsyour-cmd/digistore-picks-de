@@ -1,6 +1,6 @@
 # Erben und Vererben verständlich erklärt
 
-> Product ID `56897` · Digistore24 productId `697599` · [HTML profile page](../../reviews/erben-und-vererben-verst-ndlich-erkl-rt-56897.html)
+> Product ID `56897` · Digistore24 productId `697599` · [HTML profile page](../../produkte/erben-und-vererben-verst-ndlich-erkl-rt-56897.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

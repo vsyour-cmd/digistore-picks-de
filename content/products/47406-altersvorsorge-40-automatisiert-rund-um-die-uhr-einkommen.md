@@ -1,6 +1,6 @@
 # Altersvorsorge 40+: Automatisiert rund um die Uhr Einkommen
 
-> Product ID `47406` · Digistore24 productId `525976` · [HTML profile page](../../reviews/altersvorsorge-40-automatisiert-rund-um-die-uhr-einkommen-47406.html)
+> Product ID `47406` · Digistore24 productId `525976` · [HTML profile page](../../produkte/altersvorsorge-40-automatisiert-rund-um-die-uhr-einkommen-47406.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

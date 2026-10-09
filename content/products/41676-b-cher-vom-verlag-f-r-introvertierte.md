@@ -1,6 +1,6 @@
 # Bücher vom Verlag für Introvertierte
 
-> Product ID `41676` · Digistore24 productId `418781` · [HTML profile page](../../reviews/b-cher-vom-verlag-f-r-introvertierte-41676.html)
+> Product ID `41676` · Digistore24 productId `418781` · [HTML profile page](../../produkte/b-cher-vom-verlag-f-r-introvertierte-41676.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

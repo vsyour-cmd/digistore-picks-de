@@ -1,6 +1,6 @@
 # 10-Minuten-System
 
-> Product ID `48837` · Digistore24 productId `517395` · [HTML profile page](../../reviews/10-minuten-system-48837.html)
+> Product ID `48837` · Digistore24 productId `517395` · [HTML profile page](../../produkte/10-minuten-system-48837.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

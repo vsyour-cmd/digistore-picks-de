@@ -1,6 +1,6 @@
 # Auswandern auf die Kanaren: Ewiger Frühling statt deutscher Winter
 
-> Product ID `57030` · Digistore24 productId `702478` · [HTML profile page](../../reviews/auswandern-auf-die-kanaren-ewiger-fr-hling-statt-deutscher-winter-57030.html)
+> Product ID `57030` · Digistore24 productId `702478` · [HTML profile page](../../produkte/auswandern-auf-die-kanaren-ewiger-fr-hling-statt-deutscher-winter-57030.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

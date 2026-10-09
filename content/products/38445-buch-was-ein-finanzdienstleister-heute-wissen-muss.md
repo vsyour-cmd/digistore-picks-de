@@ -1,6 +1,6 @@
 # Buch: Was ein Finanzdienstleister Heute wissen muss…
 
-> Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../reviews/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
+> Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../produkte/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

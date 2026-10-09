@@ -1,6 +1,6 @@
 # von 0 auf Sichtbarkeit - mit Instagram
 
-> Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../reviews/von-0-auf-sichtbarkeit-mit-instagram-52471.html)
+> Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../produkte/von-0-auf-sichtbarkeit-mit-instagram-52471.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

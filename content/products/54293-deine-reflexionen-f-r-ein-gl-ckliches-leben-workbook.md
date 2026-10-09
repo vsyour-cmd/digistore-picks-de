@@ -1,6 +1,6 @@
 # „Deine Reflexionen – Für ein glückliches Leben“ - Workbook
 
-> Product ID `54293` · Digistore24 productId `631548` · [HTML profile page](../../reviews/deine-reflexionen-f-r-ein-gl-ckliches-leben-workbook-54293.html)
+> Product ID `54293` · Digistore24 productId `631548` · [HTML profile page](../../produkte/deine-reflexionen-f-r-ein-gl-ckliches-leben-workbook-54293.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

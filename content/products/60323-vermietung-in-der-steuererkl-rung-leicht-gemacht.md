@@ -1,6 +1,6 @@
 # Vermietung in der Steuererklärung leicht gemacht
 
-> Product ID `60323` · Digistore24 productId `741274` · [HTML profile page](../../reviews/vermietung-in-der-steuererkl-rung-leicht-gemacht-60323.html)
+> Product ID `60323` · Digistore24 productId `741274` · [HTML profile page](../../produkte/vermietung-in-der-steuererkl-rung-leicht-gemacht-60323.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

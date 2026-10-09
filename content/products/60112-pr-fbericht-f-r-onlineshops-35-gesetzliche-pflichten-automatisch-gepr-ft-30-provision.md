@@ -1,6 +1,6 @@
 # Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision
 
-> Product ID `60112` · Digistore24 productId `732126` · [HTML profile page](../../reviews/pr-fbericht-f-r-onlineshops-35-gesetzliche-pflichten-automatisch-gepr-ft-30-provision-60112.html)
+> Product ID `60112` · Digistore24 productId `732126` · [HTML profile page](../../produkte/pr-fbericht-f-r-onlineshops-35-gesetzliche-pflichten-automatisch-gepr-ft-30-provision-60112.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung
 
-> Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../reviews/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
+> Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../produkte/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

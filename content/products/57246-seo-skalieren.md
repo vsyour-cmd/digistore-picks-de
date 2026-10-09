@@ -1,6 +1,6 @@
 # SEO skalieren
 
-> Product ID `57246` · Digistore24 productId `704224` · [HTML profile page](../../reviews/seo-skalieren-57246.html)
+> Product ID `57246` · Digistore24 productId `704224` · [HTML profile page](../../produkte/seo-skalieren-57246.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

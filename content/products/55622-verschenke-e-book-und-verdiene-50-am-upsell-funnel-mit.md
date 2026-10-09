@@ -1,6 +1,6 @@
 # Verschenke E-Book und verdiene 50% am Upsell Funnel mit
 
-> Product ID `55622` · Digistore24 productId `563358` · [HTML profile page](../../reviews/verschenke-e-book-und-verdiene-50-am-upsell-funnel-mit-55622.html)
+> Product ID `55622` · Digistore24 productId `563358` · [HTML profile page](../../produkte/verschenke-e-book-und-verdiene-50-am-upsell-funnel-mit-55622.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

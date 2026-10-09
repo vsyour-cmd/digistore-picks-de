@@ -1,6 +1,6 @@
 # Facebook Ads für Anfänger
 
-> Product ID `57081` · Digistore24 productId `703518` · [HTML profile page](../../reviews/facebook-ads-f-r-anf-nger-57081.html)
+> Product ID `57081` · Digistore24 productId `703518` · [HTML profile page](../../produkte/facebook-ads-f-r-anf-nger-57081.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

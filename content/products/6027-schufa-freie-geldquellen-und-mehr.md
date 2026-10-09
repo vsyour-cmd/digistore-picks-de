@@ -1,6 +1,6 @@
 # SCHUFA-FREIE GELDQUELLEN und mehr
 
-> Product ID `6027` · Digistore24 productId `40579` · [HTML profile page](../../reviews/schufa-freie-geldquellen-und-mehr-6027.html)
+> Product ID `6027` · Digistore24 productId `40579` · [HTML profile page](../../produkte/schufa-freie-geldquellen-und-mehr-6027.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

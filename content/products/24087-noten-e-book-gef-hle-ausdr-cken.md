@@ -1,6 +1,6 @@
 # Noten-E-Book Gefühle ausdrücken
 
-> Product ID `24087` · Digistore24 productId `193571` · [HTML profile page](../../reviews/noten-e-book-gef-hle-ausdr-cken-24087.html)
+> Product ID `24087` · Digistore24 productId `193571` · [HTML profile page](../../produkte/noten-e-book-gef-hle-ausdr-cken-24087.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

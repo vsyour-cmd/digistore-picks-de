@@ -1,6 +1,6 @@
 # E-Book: "Babys Tage meistern"
 
-> Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../reviews/e-book-babys-tage-meistern-48660.html)
+> Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../produkte/e-book-babys-tage-meistern-48660.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

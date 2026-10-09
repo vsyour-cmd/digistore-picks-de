@@ -1,6 +1,6 @@
 # Inquisition der Neuzeit
 
-> Product ID `57733` · Digistore24 productId `714475` · [HTML profile page](../../reviews/inquisition-der-neuzeit-57733.html)
+> Product ID `57733` · Digistore24 productId `714475` · [HTML profile page](../../produkte/inquisition-der-neuzeit-57733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

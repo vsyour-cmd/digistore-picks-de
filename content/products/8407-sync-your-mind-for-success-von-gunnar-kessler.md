@@ -1,6 +1,6 @@
 # Sync Your Mind For Success - von Gunnar Kessler
 
-> Product ID `8407` · Digistore24 productId `44951` · [HTML profile page](../../reviews/sync-your-mind-for-success-von-gunnar-kessler-8407.html)
+> Product ID `8407` · Digistore24 productId `44951` · [HTML profile page](../../produkte/sync-your-mind-for-success-von-gunnar-kessler-8407.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

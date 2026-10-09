@@ -1,6 +1,6 @@
 # Party DJ Setbook - Business ENTERPRISE-Lizenz (B2B)
 
-> Product ID `57143` · Digistore24 productId `653513` · [HTML profile page](../../reviews/party-dj-setbook-business-enterprise-lizenz-b2b-57143.html)
+> Product ID `57143` · Digistore24 productId `653513` · [HTML profile page](../../produkte/party-dj-setbook-business-enterprise-lizenz-b2b-57143.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

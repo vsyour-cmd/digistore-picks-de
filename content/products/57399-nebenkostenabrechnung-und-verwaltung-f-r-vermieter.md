@@ -1,6 +1,6 @@
 # Nebenkostenabrechnung und -verwaltung für Vermieter
 
-> Product ID `57399` · Digistore24 productId `687248` · [HTML profile page](../../reviews/nebenkostenabrechnung-und-verwaltung-f-r-vermieter-57399.html)
+> Product ID `57399` · Digistore24 productId `687248` · [HTML profile page](../../produkte/nebenkostenabrechnung-und-verwaltung-f-r-vermieter-57399.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

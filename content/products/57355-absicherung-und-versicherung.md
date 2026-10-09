@@ -1,6 +1,6 @@
 # Absicherung und Versicherung
 
-> Product ID `57355` · Digistore24 productId `707518` · [HTML profile page](../../reviews/absicherung-und-versicherung-57355.html)
+> Product ID `57355` · Digistore24 productId `707518` · [HTML profile page](../../produkte/absicherung-und-versicherung-57355.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

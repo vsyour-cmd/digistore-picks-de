@@ -1,6 +1,6 @@
 # Online-Ausbildung "Waldbaden und Naturtherapie"
 
-> Product ID `28500` · Digistore24 productId `266706` · [HTML profile page](../../reviews/online-ausbildung-waldbaden-und-naturtherapie-28500.html)
+> Product ID `28500` · Digistore24 productId `266706` · [HTML profile page](../../produkte/online-ausbildung-waldbaden-und-naturtherapie-28500.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

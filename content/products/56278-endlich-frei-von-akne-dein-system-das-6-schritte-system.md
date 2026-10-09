@@ -1,6 +1,6 @@
 # Endlich frei von Akne – Dein System | Das 6-Schritte-System
 
-> Product ID `56278` · Digistore24 productId `164663` · [HTML profile page](../../reviews/endlich-frei-von-akne-dein-system-das-6-schritte-system-56278.html)
+> Product ID `56278` · Digistore24 productId `164663` · [HTML profile page](../../produkte/endlich-frei-von-akne-dein-system-das-6-schritte-system-56278.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

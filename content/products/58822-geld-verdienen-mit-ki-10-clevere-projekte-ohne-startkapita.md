@@ -1,6 +1,6 @@
 # Geld verdienen mit KI – 10 clevere Projekte ohne Startkapita
 
-> Product ID `58822` · Digistore24 productId `727505` · [HTML profile page](../../reviews/geld-verdienen-mit-ki-10-clevere-projekte-ohne-startkapita-58822.html)
+> Product ID `58822` · Digistore24 productId `727505` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-10-clevere-projekte-ohne-startkapita-58822.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

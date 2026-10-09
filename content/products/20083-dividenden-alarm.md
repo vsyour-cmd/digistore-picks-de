@@ -1,6 +1,6 @@
 # Dividenden-Alarm
 
-> Product ID `20083` · Digistore24 productId `174217` · [HTML profile page](../../reviews/dividenden-alarm-20083.html)
+> Product ID `20083` · Digistore24 productId `174217` · [HTML profile page](../../produkte/dividenden-alarm-20083.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

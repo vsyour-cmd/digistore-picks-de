@@ -1,6 +1,6 @@
 # Tinnitus verstehen und bewältigen
 
-> Product ID `57203` · Digistore24 productId `701961` · [HTML profile page](../../reviews/tinnitus-verstehen-und-bew-ltigen-57203.html)
+> Product ID `57203` · Digistore24 productId `701961` · [HTML profile page](../../produkte/tinnitus-verstehen-und-bew-ltigen-57203.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

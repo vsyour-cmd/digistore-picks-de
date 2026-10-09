@@ -1,6 +1,6 @@
 # Affilionär | Partnerprogramm
 
-> Product ID `56485` · Digistore24 productId `652688` · [HTML profile page](../../reviews/affilion-r-partnerprogramm-56485.html)
+> Product ID `56485` · Digistore24 productId `652688` · [HTML profile page](../../produkte/affilion-r-partnerprogramm-56485.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

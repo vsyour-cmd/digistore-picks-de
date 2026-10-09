@@ -1,6 +1,6 @@
 # Das ultimative Karriere Master-Kit für Pflegefachkräfte
 
-> Product ID `59057` · Digistore24 productId `727256` · [HTML profile page](../../reviews/das-ultimative-karriere-master-kit-f-r-pflegefachkr-fte-59057.html)
+> Product ID `59057` · Digistore24 productId `727256` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-pflegefachkr-fte-59057.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Blütengarten Onlinekurs
 
-> Product ID `45629` · Digistore24 productId `518323` · [HTML profile page](../../reviews/bl-tengarten-onlinekurs-45629.html)
+> Product ID `45629` · Digistore24 productId `518323` · [HTML profile page](../../produkte/bl-tengarten-onlinekurs-45629.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

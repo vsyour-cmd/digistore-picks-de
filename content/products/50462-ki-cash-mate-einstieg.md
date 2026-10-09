@@ -1,6 +1,6 @@
 # KI Cash Mate Einstieg:
 
-> Product ID `50462` · Digistore24 productId `579744` · [HTML profile page](../../reviews/ki-cash-mate-einstieg-50462.html)
+> Product ID `50462` · Digistore24 productId `579744` · [HTML profile page](../../produkte/ki-cash-mate-einstieg-50462.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Praxis Elektrik - Handwerkzeuge der Elektroinstallation
 
-> Product ID `41851` · Digistore24 productId `416568` · [HTML profile page](../../reviews/praxis-elektrik-handwerkzeuge-der-elektroinstallation-41851.html)
+> Product ID `41851` · Digistore24 productId `416568` · [HTML profile page](../../produkte/praxis-elektrik-handwerkzeuge-der-elektroinstallation-41851.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

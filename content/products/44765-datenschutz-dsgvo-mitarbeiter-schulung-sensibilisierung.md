@@ -1,6 +1,6 @@
 # Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung
 
-> Product ID `44765` · Digistore24 productId `507625` · [HTML profile page](../../reviews/datenschutz-dsgvo-mitarbeiter-schulung-sensibilisierung-44765.html)
+> Product ID `44765` · Digistore24 productId `507625` · [HTML profile page](../../produkte/datenschutz-dsgvo-mitarbeiter-schulung-sensibilisierung-44765.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

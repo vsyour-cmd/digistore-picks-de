@@ -1,6 +1,6 @@
 # Self-Care und Habit-Tracking Journal
 
-> Product ID `59059` · Digistore24 productId `729012` · [HTML profile page](../../reviews/self-care-und-habit-tracking-journal-59059.html)
+> Product ID `59059` · Digistore24 productId `729012` · [HTML profile page](../../produkte/self-care-und-habit-tracking-journal-59059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

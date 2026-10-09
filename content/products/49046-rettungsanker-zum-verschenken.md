@@ -1,6 +1,6 @@
 # Rettungsanker zum Verschenken
 
-> Product ID `49046` · Digistore24 productId `566045` · [HTML profile page](../../reviews/rettungsanker-zum-verschenken-49046.html)
+> Product ID `49046` · Digistore24 productId `566045` · [HTML profile page](../../produkte/rettungsanker-zum-verschenken-49046.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

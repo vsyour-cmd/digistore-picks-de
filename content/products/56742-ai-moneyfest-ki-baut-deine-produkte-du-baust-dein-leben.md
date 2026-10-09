@@ -1,6 +1,6 @@
 # AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |
 
-> Product ID `56742` · Digistore24 productId `694733` · [HTML profile page](../../reviews/ai-moneyfest-ki-baut-deine-produkte-du-baust-dein-leben-56742.html)
+> Product ID `56742` · Digistore24 productId `694733` · [HTML profile page](../../produkte/ai-moneyfest-ki-baut-deine-produkte-du-baust-dein-leben-56742.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

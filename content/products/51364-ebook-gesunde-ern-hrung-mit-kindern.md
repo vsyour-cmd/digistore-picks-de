@@ -1,6 +1,6 @@
 # eBook - Gesunde Ernährung mit Kindern
 
-> Product ID `51364` · Digistore24 productId `592116` · [HTML profile page](../../reviews/ebook-gesunde-ern-hrung-mit-kindern-51364.html)
+> Product ID `51364` · Digistore24 productId `592116` · [HTML profile page](../../produkte/ebook-gesunde-ern-hrung-mit-kindern-51364.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Führerschein-Kompass 2027 – 40 % Provision für Affiliates
 
-> Product ID `57835` · Digistore24 productId `711394` · [HTML profile page](../../reviews/f-hrerschein-kompass-2027-40-provision-f-r-affiliates-57835.html)
+> Product ID `57835` · Digistore24 productId `711394` · [HTML profile page](../../produkte/f-hrerschein-kompass-2027-40-provision-f-r-affiliates-57835.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

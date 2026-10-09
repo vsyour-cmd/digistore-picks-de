@@ -1,6 +1,6 @@
 # Mira, der Chatbot der Heilenergetik - Premium
 
-> Product ID `48327` · Digistore24 productId `544220` · [HTML profile page](../../reviews/mira-der-chatbot-der-heilenergetik-premium-48327.html)
+> Product ID `48327` · Digistore24 productId `544220` · [HTML profile page](../../produkte/mira-der-chatbot-der-heilenergetik-premium-48327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

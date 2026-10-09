@@ -1,6 +1,6 @@
 # Windows 11 Komplettkurs für Einsteiger
 
-> Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../reviews/windows-11-komplettkurs-f-r-einsteiger-59639.html)
+> Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../produkte/windows-11-komplettkurs-f-r-einsteiger-59639.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Leitfaden für mega Traffic im Online- und Affiliatemarketing
 
-> Product ID `46130` · Digistore24 productId `525532` · [HTML profile page](../../reviews/leitfaden-f-r-mega-traffic-im-online-und-affiliatemarketing-46130.html)
+> Product ID `46130` · Digistore24 productId `525532` · [HTML profile page](../../produkte/leitfaden-f-r-mega-traffic-im-online-und-affiliatemarketing-46130.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

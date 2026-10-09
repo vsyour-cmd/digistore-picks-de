@@ -1,6 +1,6 @@
 # Windows 11 offline installieren (2025) – Kein TPM, kein K
 
-> Product ID `52980` · Digistore24 productId `620070` · [HTML profile page](../../reviews/windows-11-offline-installieren-2025-kein-tpm-kein-k-52980.html)
+> Product ID `52980` · Digistore24 productId `620070` · [HTML profile page](../../produkte/windows-11-offline-installieren-2025-kein-tpm-kein-k-52980.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ebook - Ein langes und gutes Leben
 
-> Product ID `56336` · Digistore24 productId `685988` · [HTML profile page](../../reviews/ebook-ein-langes-und-gutes-leben-56336.html)
+> Product ID `56336` · Digistore24 productId `685988` · [HTML profile page](../../produkte/ebook-ein-langes-und-gutes-leben-56336.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

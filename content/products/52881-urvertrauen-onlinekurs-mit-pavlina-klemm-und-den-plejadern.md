@@ -1,6 +1,6 @@
 # Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
 
-> Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../reviews/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
+> Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../produkte/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

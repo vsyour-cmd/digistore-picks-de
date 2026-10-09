@@ -1,6 +1,6 @@
 # AccessyourAura- dein Zugang zu dir
 
-> Product ID `40488` · Digistore24 productId `435775` · [HTML profile page](../../reviews/accessyouraura-dein-zugang-zu-dir-40488.html)
+> Product ID `40488` · Digistore24 productId `435775` · [HTML profile page](../../produkte/accessyouraura-dein-zugang-zu-dir-40488.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

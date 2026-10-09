@@ -1,6 +1,6 @@
 # 98 Meta Paradoxons (für Facebook Creator)
 
-> Product ID `60225` · Digistore24 productId `734372` · [HTML profile page](../../reviews/98-meta-paradoxons-f-r-facebook-creator-60225.html)
+> Product ID `60225` · Digistore24 productId `734372` · [HTML profile page](../../produkte/98-meta-paradoxons-f-r-facebook-creator-60225.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

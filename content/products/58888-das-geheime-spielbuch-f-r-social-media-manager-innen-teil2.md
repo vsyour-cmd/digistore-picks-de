@@ -1,6 +1,6 @@
 # Das geheime Spielbuch für Social Media Manager:innen – Teil2
 
-> Product ID `58888` · Digistore24 productId `728339` · [HTML profile page](../../reviews/das-geheime-spielbuch-f-r-social-media-manager-innen-teil2-58888.html)
+> Product ID `58888` · Digistore24 productId `728339` · [HTML profile page](../../produkte/das-geheime-spielbuch-f-r-social-media-manager-innen-teil2-58888.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

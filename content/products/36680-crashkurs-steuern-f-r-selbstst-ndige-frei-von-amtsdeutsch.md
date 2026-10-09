@@ -1,6 +1,6 @@
 # Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!
 
-> Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../reviews/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)
+> Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../produkte/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

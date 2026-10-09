@@ -1,6 +1,6 @@
 # Affiliate Marketing einfach erklärt
 
-> Product ID `57227` · Digistore24 productId `704205` · [HTML profile page](../../reviews/affiliate-marketing-einfach-erkl-rt-57227.html)
+> Product ID `57227` · Digistore24 productId `704205` · [HTML profile page](../../produkte/affiliate-marketing-einfach-erkl-rt-57227.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Mietrecht leicht gemacht – Ratgeber für Mieter
 
-> Product ID `60316` · Digistore24 productId `708740` · [HTML profile page](../../reviews/mietrecht-leicht-gemacht-ratgeber-f-r-mieter-60316.html)
+> Product ID `60316` · Digistore24 productId `708740` · [HTML profile page](../../produkte/mietrecht-leicht-gemacht-ratgeber-f-r-mieter-60316.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

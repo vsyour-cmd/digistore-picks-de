@@ -1,6 +1,6 @@
 # Entspannung auf Knopfdruck - zert. PMR Präventionskurs
 
-> Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../reviews/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)
+> Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../produkte/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

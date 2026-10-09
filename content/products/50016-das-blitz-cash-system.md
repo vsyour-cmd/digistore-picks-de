@@ -1,6 +1,6 @@
 # Das Blitz Cash System
 
-> Product ID `50016` · Digistore24 productId `572139` · [HTML profile page](../../reviews/das-blitz-cash-system-50016.html)
+> Product ID `50016` · Digistore24 productId `572139` · [HTML profile page](../../produkte/das-blitz-cash-system-50016.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

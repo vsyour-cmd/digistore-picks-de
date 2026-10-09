@@ -1,6 +1,6 @@
 # Werde Digitaler Assistent: Starte dein Home-Office Business
 
-> Product ID `55416` · Digistore24 productId `665513` · [HTML profile page](../../reviews/werde-digitaler-assistent-starte-dein-home-office-business-55416.html)
+> Product ID `55416` · Digistore24 productId `665513` · [HTML profile page](../../produkte/werde-digitaler-assistent-starte-dein-home-office-business-55416.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

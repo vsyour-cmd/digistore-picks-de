@@ -1,6 +1,6 @@
 # Dein Minikurs in 24h!
 
-> Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../reviews/dein-minikurs-in-24h-37444.html)
+> Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../produkte/dein-minikurs-in-24h-37444.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

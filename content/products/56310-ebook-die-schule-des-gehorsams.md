@@ -1,6 +1,6 @@
 # Ebook - Die Schule des Gehorsams
 
-> Product ID `56310` · Digistore24 productId `685637` · [HTML profile page](../../reviews/ebook-die-schule-des-gehorsams-56310.html)
+> Product ID `56310` · Digistore24 productId `685637` · [HTML profile page](../../produkte/ebook-die-schule-des-gehorsams-56310.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

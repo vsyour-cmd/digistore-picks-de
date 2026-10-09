@@ -1,6 +1,6 @@
 # Der ultimative 90 Tagesplan - von Gunnar Kessler
 
-> Product ID `31341` · Digistore24 productId `286659` · [HTML profile page](../../reviews/der-ultimative-90-tagesplan-von-gunnar-kessler-31341.html)
+> Product ID `31341` · Digistore24 productId `286659` · [HTML profile page](../../produkte/der-ultimative-90-tagesplan-von-gunnar-kessler-31341.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ebook - Achtsam durch den Tag
 
-> Product ID `56424` · Digistore24 productId `689474` · [HTML profile page](../../reviews/ebook-achtsam-durch-den-tag-56424.html)
+> Product ID `56424` · Digistore24 productId `689474` · [HTML profile page](../../produkte/ebook-achtsam-durch-den-tag-56424.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

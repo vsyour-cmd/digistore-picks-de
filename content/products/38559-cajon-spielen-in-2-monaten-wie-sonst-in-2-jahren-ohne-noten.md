@@ -1,6 +1,6 @@
 # Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten
 
-> Product ID `38559` · Digistore24 productId `328707` · [HTML profile page](../../reviews/cajon-spielen-in-2-monaten-wie-sonst-in-2-jahren-ohne-noten-38559.html)
+> Product ID `38559` · Digistore24 productId `328707` · [HTML profile page](../../produkte/cajon-spielen-in-2-monaten-wie-sonst-in-2-jahren-ohne-noten-38559.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

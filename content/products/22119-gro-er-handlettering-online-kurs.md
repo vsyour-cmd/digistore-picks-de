@@ -1,6 +1,6 @@
 # Großer Handlettering Online Kurs
 
-> Product ID `22119` · Digistore24 productId `191879` · [HTML profile page](../../reviews/gro-er-handlettering-online-kurs-22119.html)
+> Product ID `22119` · Digistore24 productId `191879` · [HTML profile page](../../produkte/gro-er-handlettering-online-kurs-22119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

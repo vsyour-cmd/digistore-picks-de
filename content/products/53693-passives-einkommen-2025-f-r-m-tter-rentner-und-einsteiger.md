@@ -1,6 +1,6 @@
 # Passives Einkommen 2025 - für Mütter, Rentner und Einsteiger
 
-> Product ID `53693` · Digistore24 productId `631792` · [HTML profile page](../../reviews/passives-einkommen-2025-f-r-m-tter-rentner-und-einsteiger-53693.html)
+> Product ID `53693` · Digistore24 productId `631792` · [HTML profile page](../../produkte/passives-einkommen-2025-f-r-m-tter-rentner-und-einsteiger-53693.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €
 
-> Product ID `58739` · Digistore24 productId `725050` · [HTML profile page](../../reviews/der-longevity-guide-f-nf-s-ulen-ein-plan-14-90-58739.html)
+> Product ID `58739` · Digistore24 productId `725050` · [HTML profile page](../../produkte/der-longevity-guide-f-nf-s-ulen-ein-plan-14-90-58739.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

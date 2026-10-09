@@ -1,6 +1,6 @@
 # MET Einsteigerkurs. Gesundheit und Glück in deinem Leben
 
-> Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../reviews/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)
+> Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../produkte/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

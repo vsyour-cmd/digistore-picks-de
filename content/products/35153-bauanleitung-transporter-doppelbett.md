@@ -1,6 +1,6 @@
 # Bauanleitung - Transporter Doppelbett
 
-> Product ID `35153` · Digistore24 productId `325102` · [HTML profile page](../../reviews/bauanleitung-transporter-doppelbett-35153.html)
+> Product ID `35153` · Digistore24 productId `325102` · [HTML profile page](../../produkte/bauanleitung-transporter-doppelbett-35153.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

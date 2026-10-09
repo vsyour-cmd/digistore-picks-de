@@ -1,6 +1,6 @@
 # Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo
 
-> Product ID `58925` · Digistore24 productId `729864` · [HTML profile page](../../reviews/das-komplette-10-1-bonus-bundle-10-premium-ratgeber-1-bo-58925.html)
+> Product ID `58925` · Digistore24 productId `729864` · [HTML profile page](../../produkte/das-komplette-10-1-bonus-bundle-10-premium-ratgeber-1-bo-58925.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 3D-Druck Anleitung für Einsteiger
 
-> Product ID `32320` · Digistore24 productId `320187` · [HTML profile page](../../reviews/3d-druck-anleitung-f-r-einsteiger-32320.html)
+> Product ID `32320` · Digistore24 productId `320187` · [HTML profile page](../../produkte/3d-druck-anleitung-f-r-einsteiger-32320.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

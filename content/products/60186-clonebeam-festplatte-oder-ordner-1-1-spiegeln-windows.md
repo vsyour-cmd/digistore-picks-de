@@ -1,6 +1,6 @@
 # CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows)
 
-> Product ID `60186` · Digistore24 productId `719917` · [HTML profile page](../../reviews/clonebeam-festplatte-oder-ordner-1-1-spiegeln-windows-60186.html)
+> Product ID `60186` · Digistore24 productId `719917` · [HTML profile page](../../produkte/clonebeam-festplatte-oder-ordner-1-1-spiegeln-windows-60186.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

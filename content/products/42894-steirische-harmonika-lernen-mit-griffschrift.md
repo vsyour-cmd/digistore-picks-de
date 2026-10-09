@@ -1,6 +1,6 @@
 # Steirische Harmonika Lernen mit Griffschrift
 
-> Product ID `42894` · Digistore24 productId `358931` · [HTML profile page](../../reviews/steirische-harmonika-lernen-mit-griffschrift-42894.html)
+> Product ID `42894` · Digistore24 productId `358931` · [HTML profile page](../../produkte/steirische-harmonika-lernen-mit-griffschrift-42894.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

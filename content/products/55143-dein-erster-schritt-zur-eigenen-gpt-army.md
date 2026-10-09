@@ -1,6 +1,6 @@
 # Dein erster Schritt zur eigenen GPT Army
 
-> Product ID `55143` · Digistore24 productId `660001` · [HTML profile page](../../reviews/dein-erster-schritt-zur-eigenen-gpt-army-55143.html)
+> Product ID `55143` · Digistore24 productId `660001` · [HTML profile page](../../produkte/dein-erster-schritt-zur-eigenen-gpt-army-55143.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

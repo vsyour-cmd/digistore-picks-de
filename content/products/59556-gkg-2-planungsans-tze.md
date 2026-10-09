@@ -1,6 +1,6 @@
 # GKG-2 Planungsansätze
 
-> Product ID `59556` · Digistore24 productId `732155` · [HTML profile page](../../reviews/gkg-2-planungsans-tze-59556.html)
+> Product ID `59556` · Digistore24 productId `732155` · [HTML profile page](../../produkte/gkg-2-planungsans-tze-59556.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

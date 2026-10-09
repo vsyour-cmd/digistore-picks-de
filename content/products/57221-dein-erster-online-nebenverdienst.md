@@ -1,6 +1,6 @@
 # Dein erster Online-Nebenverdienst
 
-> Product ID `57221` · Digistore24 productId `701979` · [HTML profile page](../../reviews/dein-erster-online-nebenverdienst-57221.html)
+> Product ID `57221` · Digistore24 productId `701979` · [HTML profile page](../../produkte/dein-erster-online-nebenverdienst-57221.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

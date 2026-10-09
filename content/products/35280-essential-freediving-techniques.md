@@ -1,6 +1,6 @@
 # Essential Freediving Techniques
 
-> Product ID `35280` · Digistore24 productId `356494` · [HTML profile page](../../reviews/essential-freediving-techniques-35280.html)
+> Product ID `35280` · Digistore24 productId `356494` · [HTML profile page](../../produkte/essential-freediving-techniques-35280.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

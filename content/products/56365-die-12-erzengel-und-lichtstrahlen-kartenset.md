@@ -1,6 +1,6 @@
 # Die 12 Erzengel und Lichtstrahlen – Kartenset
 
-> Product ID `56365` · Digistore24 productId `687757` · [HTML profile page](../../reviews/die-12-erzengel-und-lichtstrahlen-kartenset-56365.html)
+> Product ID `56365` · Digistore24 productId `687757` · [HTML profile page](../../produkte/die-12-erzengel-und-lichtstrahlen-kartenset-56365.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

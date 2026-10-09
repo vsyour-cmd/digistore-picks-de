@@ -1,6 +1,6 @@
 # Online Fitness Programme von Nina Graber
 
-> Product ID `44435` · Digistore24 productId `497041` · [HTML profile page](../../reviews/online-fitness-programme-von-nina-graber-44435.html)
+> Product ID `44435` · Digistore24 productId `497041` · [HTML profile page](../../produkte/online-fitness-programme-von-nina-graber-44435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

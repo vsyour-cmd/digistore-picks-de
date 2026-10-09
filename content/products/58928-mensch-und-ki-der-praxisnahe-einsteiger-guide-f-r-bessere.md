@@ -1,6 +1,6 @@
 # Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere
 
-> Product ID `58928` · Digistore24 productId `727784` · [HTML profile page](../../reviews/mensch-und-ki-der-praxisnahe-einsteiger-guide-f-r-bessere-58928.html)
+> Product ID `58928` · Digistore24 productId `727784` · [HTML profile page](../../produkte/mensch-und-ki-der-praxisnahe-einsteiger-guide-f-r-bessere-58928.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

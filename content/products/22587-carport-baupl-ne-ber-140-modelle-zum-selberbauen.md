@@ -1,6 +1,6 @@
 # Carport-Baupläne – Über 140 Modelle zum Selberbauen
 
-> Product ID `22587` · Digistore24 productId `64947` · [HTML profile page](../../reviews/carport-baupl-ne-ber-140-modelle-zum-selberbauen-22587.html)
+> Product ID `22587` · Digistore24 productId `64947` · [HTML profile page](../../produkte/carport-baupl-ne-ber-140-modelle-zum-selberbauen-22587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

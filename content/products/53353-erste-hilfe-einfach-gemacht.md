@@ -1,6 +1,6 @@
 # Erste Hilfe einfach gemacht
 
-> Product ID `53353` · Digistore24 productId `623457` · [HTML profile page](../../reviews/erste-hilfe-einfach-gemacht-53353.html)
+> Product ID `53353` · Digistore24 productId `623457` · [HTML profile page](../../produkte/erste-hilfe-einfach-gemacht-53353.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

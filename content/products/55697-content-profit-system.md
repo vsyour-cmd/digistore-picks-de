@@ -1,6 +1,6 @@
 # Content Profit System
 
-> Product ID `55697` · Digistore24 productId `641365` · [HTML profile page](../../reviews/content-profit-system-55697.html)
+> Product ID `55697` · Digistore24 productId `641365` · [HTML profile page](../../produkte/content-profit-system-55697.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

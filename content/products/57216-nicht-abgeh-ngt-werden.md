@@ -1,6 +1,6 @@
 # Nicht abgehängt werden
 
-> Product ID `57216` · Digistore24 productId `701975` · [HTML profile page](../../reviews/nicht-abgeh-ngt-werden-57216.html)
+> Product ID `57216` · Digistore24 productId `701975` · [HTML profile page](../../produkte/nicht-abgeh-ngt-werden-57216.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

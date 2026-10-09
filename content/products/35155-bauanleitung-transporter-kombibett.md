@@ -1,6 +1,6 @@
 # Bauanleitung - Transporter Kombibett
 
-> Product ID `35155` · Digistore24 productId `325103` · [HTML profile page](../../reviews/bauanleitung-transporter-kombibett-35155.html)
+> Product ID `35155` · Digistore24 productId `325103` · [HTML profile page](../../produkte/bauanleitung-transporter-kombibett-35155.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

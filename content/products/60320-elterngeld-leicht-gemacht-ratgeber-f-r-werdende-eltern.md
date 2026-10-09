@@ -1,6 +1,6 @@
 # Elterngeld leicht gemacht – Ratgeber für werdende Eltern
 
-> Product ID `60320` · Digistore24 productId `740103` · [HTML profile page](../../reviews/elterngeld-leicht-gemacht-ratgeber-f-r-werdende-eltern-60320.html)
+> Product ID `60320` · Digistore24 productId `740103` · [HTML profile page](../../produkte/elterngeld-leicht-gemacht-ratgeber-f-r-werdende-eltern-60320.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

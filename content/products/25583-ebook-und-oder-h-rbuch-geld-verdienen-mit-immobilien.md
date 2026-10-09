@@ -1,6 +1,6 @@
 # eBook und/oder Hörbuch "Geld verdienen mit Immobilien"
 
-> Product ID `25583` · Digistore24 productId `162937` · [HTML profile page](../../reviews/ebook-und-oder-h-rbuch-geld-verdienen-mit-immobilien-25583.html)
+> Product ID `25583` · Digistore24 productId `162937` · [HTML profile page](../../produkte/ebook-und-oder-h-rbuch-geld-verdienen-mit-immobilien-25583.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

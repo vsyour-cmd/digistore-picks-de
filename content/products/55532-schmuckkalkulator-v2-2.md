@@ -1,6 +1,6 @@
 # Schmuckkalkulator V2.2
 
-> Product ID `55532` · Digistore24 productId `661685` · [HTML profile page](../../reviews/schmuckkalkulator-v2-2-55532.html)
+> Product ID `55532` · Digistore24 productId `661685` · [HTML profile page](../../produkte/schmuckkalkulator-v2-2-55532.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

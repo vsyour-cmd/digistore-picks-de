@@ -1,6 +1,6 @@
 # Das Partnerprogramm der OGS. 50% Provision auf neue Member
 
-> Product ID `57685` · Digistore24 productId `712902` · [HTML profile page](../../reviews/das-partnerprogramm-der-ogs-50-provision-auf-neue-member-57685.html)
+> Product ID `57685` · Digistore24 productId `712902` · [HTML profile page](../../produkte/das-partnerprogramm-der-ogs-50-provision-auf-neue-member-57685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

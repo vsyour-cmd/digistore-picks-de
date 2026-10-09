@@ -1,6 +1,6 @@
 # Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.
 
-> Product ID `56236` · Digistore24 productId `412211` · [HTML profile page](../../reviews/selbstf-hrung-to-go-f-r-eltern-gelassener-in-7-einheiten-56236.html)
+> Product ID `56236` · Digistore24 productId `412211` · [HTML profile page](../../produkte/selbstf-hrung-to-go-f-r-eltern-gelassener-in-7-einheiten-56236.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

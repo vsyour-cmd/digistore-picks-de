@@ -1,6 +1,6 @@
 # Instagram Hook Pack (Deutsch)
 
-> Product ID `60031` · Digistore24 productId `738802` · [HTML profile page](../../reviews/instagram-hook-pack-deutsch-60031.html)
+> Product ID `60031` · Digistore24 productId `738802` · [HTML profile page](../../produkte/instagram-hook-pack-deutsch-60031.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

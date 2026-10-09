@@ -1,6 +1,6 @@
 # Muster-Vorlage Sponsoren-Anschreiben
 
-> Product ID `50880` · Digistore24 productId `525933` · [HTML profile page](../../reviews/muster-vorlage-sponsoren-anschreiben-50880.html)
+> Product ID `50880` · Digistore24 productId `525933` · [HTML profile page](../../produkte/muster-vorlage-sponsoren-anschreiben-50880.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

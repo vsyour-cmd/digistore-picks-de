@@ -1,6 +1,6 @@
 # EU-Entschuldung in 3 Monaten
 
-> Product ID `12183` · Digistore24 productId `87233` · [HTML profile page](../../reviews/eu-entschuldung-in-3-monaten-12183.html)
+> Product ID `12183` · Digistore24 productId `87233` · [HTML profile page](../../produkte/eu-entschuldung-in-3-monaten-12183.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

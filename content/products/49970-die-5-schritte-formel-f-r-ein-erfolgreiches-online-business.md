@@ -1,6 +1,6 @@
 # Die 5-Schritte-Formel für ein erfolgreiches Online-Business
 
-> Product ID `49970` · Digistore24 productId `573766` · [HTML profile page](../../reviews/die-5-schritte-formel-f-r-ein-erfolgreiches-online-business-49970.html)
+> Product ID `49970` · Digistore24 productId `573766` · [HTML profile page](../../produkte/die-5-schritte-formel-f-r-ein-erfolgreiches-online-business-49970.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

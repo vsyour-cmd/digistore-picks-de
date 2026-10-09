@@ -1,6 +1,6 @@
 # 15 Abnehm-Tipps für den Alltag
 
-> Product ID `44404` · Digistore24 productId `435091` · [HTML profile page](../../reviews/15-abnehm-tipps-f-r-den-alltag-44404.html)
+> Product ID `44404` · Digistore24 productId `435091` · [HTML profile page](../../produkte/15-abnehm-tipps-f-r-den-alltag-44404.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

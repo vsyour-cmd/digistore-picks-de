@@ -1,6 +1,6 @@
 # Silent Sales Mastery
 
-> Product ID `55078` · Digistore24 productId `650438` · [HTML profile page](../../reviews/silent-sales-mastery-55078.html)
+> Product ID `55078` · Digistore24 productId `650438` · [HTML profile page](../../produkte/silent-sales-mastery-55078.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Shopmanagement-Kurs speziell für Tattoo und Piercing Studios
 
-> Product ID `53910` · Digistore24 productId `609856` · [HTML profile page](../../reviews/shopmanagement-kurs-speziell-f-r-tattoo-und-piercing-studios-53910.html)
+> Product ID `53910` · Digistore24 productId `609856` · [HTML profile page](../../produkte/shopmanagement-kurs-speziell-f-r-tattoo-und-piercing-studios-53910.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

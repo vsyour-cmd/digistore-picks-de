@@ -1,6 +1,6 @@
 # Dein Erfolgsleitfaden: In 5 Schritten zum profitablen...
 
-> Product ID `50603` · Digistore24 productId `583870` · [HTML profile page](../../reviews/dein-erfolgsleitfaden-in-5-schritten-zum-profitablen-50603.html)
+> Product ID `50603` · Digistore24 productId `583870` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-in-5-schritten-zum-profitablen-50603.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

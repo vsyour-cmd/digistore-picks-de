@@ -1,6 +1,6 @@
 # Portugiesisch Lernkarten für einen schnellen Spracherwerb
 
-> Product ID `20145` · Digistore24 productId `175237` · [HTML profile page](../../reviews/portugiesisch-lernkarten-f-r-einen-schnellen-spracherwerb-20145.html)
+> Product ID `20145` · Digistore24 productId `175237` · [HTML profile page](../../produkte/portugiesisch-lernkarten-f-r-einen-schnellen-spracherwerb-20145.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

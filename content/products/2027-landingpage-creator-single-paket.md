@@ -1,6 +1,6 @@
 # Landingpage-Creator Single Paket
 
-> Product ID `2027` · Digistore24 productId `20925` · [HTML profile page](../../reviews/landingpage-creator-single-paket-2027.html)
+> Product ID `2027` · Digistore24 productId `20925` · [HTML profile page](../../produkte/landingpage-creator-single-paket-2027.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

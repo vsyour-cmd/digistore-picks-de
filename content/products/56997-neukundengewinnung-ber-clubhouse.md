@@ -1,6 +1,6 @@
 # Neukundengewinnung über Clubhouse
 
-> Product ID `56997` · Digistore24 productId `701417` · [HTML profile page](../../reviews/neukundengewinnung-ber-clubhouse-56997.html)
+> Product ID `56997` · Digistore24 productId `701417` · [HTML profile page](../../produkte/neukundengewinnung-ber-clubhouse-56997.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

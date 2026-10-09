@@ -1,6 +1,6 @@
 # Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
 
-> Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../reviews/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
+> Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../produkte/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

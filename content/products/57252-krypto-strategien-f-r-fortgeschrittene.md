@@ -1,6 +1,6 @@
 # Krypto-Strategien für Fortgeschrittene
 
-> Product ID `57252` · Digistore24 productId `704230` · [HTML profile page](../../reviews/krypto-strategien-f-r-fortgeschrittene-57252.html)
+> Product ID `57252` · Digistore24 productId `704230` · [HTML profile page](../../produkte/krypto-strategien-f-r-fortgeschrittene-57252.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

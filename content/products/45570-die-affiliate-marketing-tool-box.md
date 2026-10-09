@@ -1,6 +1,6 @@
 # Die Affiliate Marketing Tool Box
 
-> Product ID `45570` · Digistore24 productId `519906` · [HTML profile page](../../reviews/die-affiliate-marketing-tool-box-45570.html)
+> Product ID `45570` · Digistore24 productId `519906` · [HTML profile page](../../produkte/die-affiliate-marketing-tool-box-45570.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # GEO-Traffic
 
-> Product ID `57215` · Digistore24 productId `701974` · [HTML profile page](../../reviews/geo-traffic-57215.html)
+> Product ID `57215` · Digistore24 productId `701974` · [HTML profile page](../../produkte/geo-traffic-57215.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

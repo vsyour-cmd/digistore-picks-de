@@ -1,6 +1,6 @@
 # Rückfall-Reset 24h – 0 € Soforthilfe + 50 % Provision
 
-> Product ID `58235` · Digistore24 productId `717825` · [HTML profile page](../../reviews/r-ckfall-reset-24h-0-soforthilfe-50-provision-58235.html)
+> Product ID `58235` · Digistore24 productId `717825` · [HTML profile page](../../produkte/r-ckfall-reset-24h-0-soforthilfe-50-provision-58235.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

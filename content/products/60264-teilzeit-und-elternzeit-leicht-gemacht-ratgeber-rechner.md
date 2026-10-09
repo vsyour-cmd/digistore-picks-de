@@ -1,6 +1,6 @@
 # Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
 
-> Product ID `60264` · Digistore24 productId `740831` · [HTML profile page](../../reviews/teilzeit-und-elternzeit-leicht-gemacht-ratgeber-rechner-60264.html)
+> Product ID `60264` · Digistore24 productId `740831` · [HTML profile page](../../produkte/teilzeit-und-elternzeit-leicht-gemacht-ratgeber-rechner-60264.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

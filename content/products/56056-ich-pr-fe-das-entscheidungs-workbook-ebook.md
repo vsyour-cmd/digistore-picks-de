@@ -1,6 +1,6 @@
 # ICH PRÜFE — Das Entscheidungs-Workbook (eBook)
 
-> Product ID `56056` · Digistore24 productId `679624` · [HTML profile page](../../reviews/ich-pr-fe-das-entscheidungs-workbook-ebook-56056.html)
+> Product ID `56056` · Digistore24 productId `679624` · [HTML profile page](../../produkte/ich-pr-fe-das-entscheidungs-workbook-ebook-56056.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

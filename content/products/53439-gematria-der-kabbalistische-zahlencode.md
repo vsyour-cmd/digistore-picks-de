@@ -1,6 +1,6 @@
 # GEMATRIA der kabbalistische Zahlencode
 
-> Product ID `53439` · Digistore24 productId `627487` · [HTML profile page](../../reviews/gematria-der-kabbalistische-zahlencode-53439.html)
+> Product ID `53439` · Digistore24 productId `627487` · [HTML profile page](../../produkte/gematria-der-kabbalistische-zahlencode-53439.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

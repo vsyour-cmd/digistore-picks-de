@@ -1,6 +1,6 @@
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
-> Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../reviews/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
+> Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

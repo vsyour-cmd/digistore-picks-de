@@ -1,6 +1,6 @@
 # Grenzen setzen und Nein sagen lernen
 
-> Product ID `58433` · Digistore24 productId `678845` · [HTML profile page](../../reviews/grenzen-setzen-und-nein-sagen-lernen-58433.html)
+> Product ID `58433` · Digistore24 productId `678845` · [HTML profile page](../../produkte/grenzen-setzen-und-nein-sagen-lernen-58433.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

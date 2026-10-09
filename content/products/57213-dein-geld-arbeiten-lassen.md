@@ -1,6 +1,6 @@
 # Dein Geld arbeiten lassen
 
-> Product ID `57213` · Digistore24 productId `701972` · [HTML profile page](../../reviews/dein-geld-arbeiten-lassen-57213.html)
+> Product ID `57213` · Digistore24 productId `701972` · [HTML profile page](../../produkte/dein-geld-arbeiten-lassen-57213.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

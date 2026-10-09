@@ -1,6 +1,6 @@
 # Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"
 
-> Product ID `37994` · Digistore24 productId `408957` · [HTML profile page](../../reviews/aquarell-malkurs-f-r-kinder-ab-10-jahren-4-jahreszeiten-37994.html)
+> Product ID `37994` · Digistore24 productId `408957` · [HTML profile page](../../produkte/aquarell-malkurs-f-r-kinder-ab-10-jahren-4-jahreszeiten-37994.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

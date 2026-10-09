@@ -1,6 +1,6 @@
 # Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me
 
-> Product ID `56279` · Digistore24 productId `684848` · [HTML profile page](../../reviews/der-gro-e-garten-malzauber-67-tier-abenteuer-f-r-kinder-me-56279.html)
+> Product ID `56279` · Digistore24 productId `684848` · [HTML profile page](../../produkte/der-gro-e-garten-malzauber-67-tier-abenteuer-f-r-kinder-me-56279.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

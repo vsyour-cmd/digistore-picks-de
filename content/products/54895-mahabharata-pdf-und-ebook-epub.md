@@ -1,6 +1,6 @@
 # Mahabharata (PDF und Ebook, epub)
 
-> Product ID `54895` · Digistore24 productId `654497` · [HTML profile page](../../reviews/mahabharata-pdf-und-ebook-epub-54895.html)
+> Product ID `54895` · Digistore24 productId `654497` · [HTML profile page](../../produkte/mahabharata-pdf-und-ebook-epub-54895.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

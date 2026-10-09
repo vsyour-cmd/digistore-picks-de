@@ -1,6 +1,6 @@
 # GirlsMoney – Finanzielle Unabhängigkeit mit MRR
 
-> Product ID `55204` · Digistore24 productId `661372` · [HTML profile page](../../reviews/girlsmoney-finanzielle-unabh-ngigkeit-mit-mrr-55204.html)
+> Product ID `55204` · Digistore24 productId `661372` · [HTML profile page](../../produkte/girlsmoney-finanzielle-unabh-ngigkeit-mit-mrr-55204.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

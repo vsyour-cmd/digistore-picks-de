@@ -1,6 +1,6 @@
 # Der Kunden Magnet für Freelancer und VAs
 
-> Product ID `56959` · Digistore24 productId `700739` · [HTML profile page](../../reviews/der-kunden-magnet-f-r-freelancer-und-vas-56959.html)
+> Product ID `56959` · Digistore24 productId `700739` · [HTML profile page](../../produkte/der-kunden-magnet-f-r-freelancer-und-vas-56959.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

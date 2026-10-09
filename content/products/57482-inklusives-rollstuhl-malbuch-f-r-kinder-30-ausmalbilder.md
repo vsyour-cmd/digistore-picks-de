@@ -1,6 +1,6 @@
 # Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +
 
-> Product ID `57482` · Digistore24 productId `710090` · [HTML profile page](../../reviews/inklusives-rollstuhl-malbuch-f-r-kinder-30-ausmalbilder-57482.html)
+> Product ID `57482` · Digistore24 productId `710090` · [HTML profile page](../../produkte/inklusives-rollstuhl-malbuch-f-r-kinder-30-ausmalbilder-57482.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

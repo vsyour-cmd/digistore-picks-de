@@ -1,6 +1,6 @@
 # SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal
 
-> Product ID `58663` · Digistore24 productId `726000` · [HTML profile page](../../reviews/softpac-whiskydatenbank-whisky-sammlung-einfach-und-lokal-58663.html)
+> Product ID `58663` · Digistore24 productId `726000` · [HTML profile page](../../produkte/softpac-whiskydatenbank-whisky-sammlung-einfach-und-lokal-58663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

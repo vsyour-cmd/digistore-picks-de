@@ -1,6 +1,6 @@
 # Neurostreams™ Co-Creation Galaxie
 
-> Product ID `47022` · Digistore24 productId `21941` · [HTML profile page](../../reviews/neurostreams-co-creation-galaxie-47022.html)
+> Product ID `47022` · Digistore24 productId `21941` · [HTML profile page](../../produkte/neurostreams-co-creation-galaxie-47022.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

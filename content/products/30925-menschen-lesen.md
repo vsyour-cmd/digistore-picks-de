@@ -1,6 +1,6 @@
 # Menschen lesen
 
-> Product ID `30925` · Digistore24 productId `303030` · [HTML profile page](../../reviews/menschen-lesen-30925.html)
+> Product ID `30925` · Digistore24 productId `303030` · [HTML profile page](../../produkte/menschen-lesen-30925.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

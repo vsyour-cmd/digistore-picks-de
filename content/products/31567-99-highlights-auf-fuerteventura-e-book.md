@@ -1,6 +1,6 @@
 # 99 Highlights auf Fuerteventura [E-Book]
 
-> Product ID `31567` · Digistore24 productId `99057` · [HTML profile page](../../reviews/99-highlights-auf-fuerteventura-e-book-31567.html)
+> Product ID `31567` · Digistore24 productId `99057` · [HTML profile page](../../produkte/99-highlights-auf-fuerteventura-e-book-31567.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

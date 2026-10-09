@@ -1,6 +1,6 @@
 # Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge
 
-> Product ID `48795` · Digistore24 productId `527635` · [HTML profile page](../../reviews/hat-gott-uns-verlassen-online-kongress-zur-krisenvorsorge-48795.html)
+> Product ID `48795` · Digistore24 productId `527635` · [HTML profile page](../../produkte/hat-gott-uns-verlassen-online-kongress-zur-krisenvorsorge-48795.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

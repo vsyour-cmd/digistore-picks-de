@@ -1,6 +1,6 @@
 # Ebook - Warum die Dümmsten die Macht übernehmen
 
-> Product ID `56415` · Digistore24 productId `689384` · [HTML profile page](../../reviews/ebook-warum-die-d-mmsten-die-macht-bernehmen-56415.html)
+> Product ID `56415` · Digistore24 productId `689384` · [HTML profile page](../../produkte/ebook-warum-die-d-mmsten-die-macht-bernehmen-56415.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

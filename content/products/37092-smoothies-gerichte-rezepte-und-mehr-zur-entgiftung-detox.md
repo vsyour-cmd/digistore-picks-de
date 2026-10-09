@@ -1,6 +1,6 @@
 # Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox
 
-> Product ID `37092` · Digistore24 productId `396927` · [HTML profile page](../../reviews/smoothies-gerichte-rezepte-und-mehr-zur-entgiftung-detox-37092.html)
+> Product ID `37092` · Digistore24 productId `396927` · [HTML profile page](../../produkte/smoothies-gerichte-rezepte-und-mehr-zur-entgiftung-detox-37092.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

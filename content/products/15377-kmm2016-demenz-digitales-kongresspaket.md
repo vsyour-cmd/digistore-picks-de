@@ -1,6 +1,6 @@
 # KMM2016 Demenz - Digitales Kongresspaket
 
-> Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../reviews/kmm2016-demenz-digitales-kongresspaket-15377.html)
+> Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../produkte/kmm2016-demenz-digitales-kongresspaket-15377.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

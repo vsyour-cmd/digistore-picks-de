@@ -1,6 +1,6 @@
 # Hunde Gesundheit - Alltags Guide
 
-> Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../reviews/hunde-gesundheit-alltags-guide-52526.html)
+> Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

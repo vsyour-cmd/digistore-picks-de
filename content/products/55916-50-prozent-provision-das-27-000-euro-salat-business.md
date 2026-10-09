@@ -1,6 +1,6 @@
 # 50 Prozent Provision: Das 27.000 Euro Salat-Business
 
-> Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../reviews/50-prozent-provision-das-27-000-euro-salat-business-55916.html)
+> Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../produkte/50-prozent-provision-das-27-000-euro-salat-business-55916.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

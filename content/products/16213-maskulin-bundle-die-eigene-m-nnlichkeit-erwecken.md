@@ -1,6 +1,6 @@
 # Maskulin Bundle – Die eigene Männlichkeit erwecken
 
-> Product ID `16213` · Digistore24 productId `133177` · [HTML profile page](../../reviews/maskulin-bundle-die-eigene-m-nnlichkeit-erwecken-16213.html)
+> Product ID `16213` · Digistore24 productId `133177` · [HTML profile page](../../produkte/maskulin-bundle-die-eigene-m-nnlichkeit-erwecken-16213.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

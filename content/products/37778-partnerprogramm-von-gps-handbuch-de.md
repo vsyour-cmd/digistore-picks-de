@@ -1,6 +1,6 @@
 # Partnerprogramm von GPS-Handbuch.de
 
-> Product ID `37778` · Digistore24 productId `379427` · [HTML profile page](../../reviews/partnerprogramm-von-gps-handbuch-de-37778.html)
+> Product ID `37778` · Digistore24 productId `379427` · [HTML profile page](../../produkte/partnerprogramm-von-gps-handbuch-de-37778.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

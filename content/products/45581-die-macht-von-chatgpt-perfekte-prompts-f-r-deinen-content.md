@@ -1,6 +1,6 @@
 # Die Macht von ChatGPT - Perfekte Prompts für deinen Content
 
-> Product ID `45581` · Digistore24 productId `519840` · [HTML profile page](../../reviews/die-macht-von-chatgpt-perfekte-prompts-f-r-deinen-content-45581.html)
+> Product ID `45581` · Digistore24 productId `519840` · [HTML profile page](../../produkte/die-macht-von-chatgpt-perfekte-prompts-f-r-deinen-content-45581.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

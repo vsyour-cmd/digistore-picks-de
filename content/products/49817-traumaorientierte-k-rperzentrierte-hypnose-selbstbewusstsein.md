@@ -1,6 +1,6 @@
 # Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein
 
-> Product ID `49817` · Digistore24 productId `567073` · [HTML profile page](../../reviews/traumaorientierte-k-rperzentrierte-hypnose-selbstbewusstsein-49817.html)
+> Product ID `49817` · Digistore24 productId `567073` · [HTML profile page](../../produkte/traumaorientierte-k-rperzentrierte-hypnose-selbstbewusstsein-49817.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

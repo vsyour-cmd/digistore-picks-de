@@ -1,6 +1,6 @@
 # Der Gesundheitscode
 
-> Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../reviews/der-gesundheitscode-14271.html)
+> Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../produkte/der-gesundheitscode-14271.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI SpeedCash
 
-> Product ID `47732` · Digistore24 productId `540894` · [HTML profile page](../../reviews/ki-speedcash-47732.html)
+> Product ID `47732` · Digistore24 productId `540894` · [HTML profile page](../../produkte/ki-speedcash-47732.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

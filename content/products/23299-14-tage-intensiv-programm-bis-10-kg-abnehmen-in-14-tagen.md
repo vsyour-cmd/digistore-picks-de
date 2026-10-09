@@ -1,6 +1,6 @@
 # 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen
 
-> Product ID `23299` · Digistore24 productId `81835` · [HTML profile page](../../reviews/14-tage-intensiv-programm-bis-10-kg-abnehmen-in-14-tagen-23299.html)
+> Product ID `23299` · Digistore24 productId `81835` · [HTML profile page](../../produkte/14-tage-intensiv-programm-bis-10-kg-abnehmen-in-14-tagen-23299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

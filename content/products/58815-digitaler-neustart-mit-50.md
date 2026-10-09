@@ -1,6 +1,6 @@
 # Digitaler Neustart mit 50+
 
-> Product ID `58815` · Digistore24 productId `727652` · [HTML profile page](../../reviews/digitaler-neustart-mit-50-58815.html)
+> Product ID `58815` · Digistore24 productId `727652` · [HTML profile page](../../produkte/digitaler-neustart-mit-50-58815.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

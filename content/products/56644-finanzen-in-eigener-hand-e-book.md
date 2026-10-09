@@ -1,6 +1,6 @@
 # Finanzen in eigener Hand (E-Book)
 
-> Product ID `56644` · Digistore24 productId `694925` · [HTML profile page](../../reviews/finanzen-in-eigener-hand-e-book-56644.html)
+> Product ID `56644` · Digistore24 productId `694925` · [HTML profile page](../../produkte/finanzen-in-eigener-hand-e-book-56644.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

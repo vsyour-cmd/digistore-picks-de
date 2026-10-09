@@ -1,6 +1,6 @@
 # Pre-Launch-Power
 
-> Product ID `57287` · Digistore24 productId `704264` · [HTML profile page](../../reviews/pre-launch-power-57287.html)
+> Product ID `57287` · Digistore24 productId `704264` · [HTML profile page](../../produkte/pre-launch-power-57287.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

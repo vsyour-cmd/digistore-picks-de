@@ -1,6 +1,6 @@
 # Geometrie und Körper verstehen für Lehrlinge/Azubis
 
-> Product ID `56631` · Digistore24 productId `694021` · [HTML profile page](../../reviews/geometrie-und-k-rper-verstehen-f-r-lehrlinge-azubis-56631.html)
+> Product ID `56631` · Digistore24 productId `694021` · [HTML profile page](../../produkte/geometrie-und-k-rper-verstehen-f-r-lehrlinge-azubis-56631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

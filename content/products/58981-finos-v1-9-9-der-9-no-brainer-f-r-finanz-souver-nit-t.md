@@ -1,6 +1,6 @@
 # FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität
 
-> Product ID `58981` · Digistore24 productId `725138` · [HTML profile page](../../reviews/finos-v1-9-9-der-9-no-brainer-f-r-finanz-souver-nit-t-58981.html)
+> Product ID `58981` · Digistore24 productId `725138` · [HTML profile page](../../produkte/finos-v1-9-9-der-9-no-brainer-f-r-finanz-souver-nit-t-58981.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Microneedling BB Glow -BB Lips
 
-> Product ID `55778` · Digistore24 productId `669897` · [HTML profile page](../../reviews/microneedling-bb-glow-bb-lips-55778.html)
+> Product ID `55778` · Digistore24 productId `669897` · [HTML profile page](../../produkte/microneedling-bb-glow-bb-lips-55778.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

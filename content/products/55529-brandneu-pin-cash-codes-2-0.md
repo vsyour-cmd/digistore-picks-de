@@ -1,6 +1,6 @@
 # BRANDNEU - Pin-Cash Codes 2.0
 
-> Product ID `55529` · Digistore24 productId `641118` · [HTML profile page](../../reviews/brandneu-pin-cash-codes-2-0-55529.html)
+> Product ID `55529` · Digistore24 productId `641118` · [HTML profile page](../../produkte/brandneu-pin-cash-codes-2-0-55529.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

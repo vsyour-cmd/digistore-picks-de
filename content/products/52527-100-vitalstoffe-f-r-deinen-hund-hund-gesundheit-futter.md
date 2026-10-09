@@ -1,6 +1,6 @@
 # 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter
 
-> Product ID `52527` · Digistore24 productId `546521` · [HTML profile page](../../reviews/100-vitalstoffe-f-r-deinen-hund-hund-gesundheit-futter-52527.html)
+> Product ID `52527` · Digistore24 productId `546521` · [HTML profile page](../../produkte/100-vitalstoffe-f-r-deinen-hund-hund-gesundheit-futter-52527.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

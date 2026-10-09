@@ -1,6 +1,6 @@
 # TikTok Cashflow
 
-> Product ID `52408` · Digistore24 productId `608021` · [HTML profile page](../../reviews/tiktok-cashflow-52408.html)
+> Product ID `52408` · Digistore24 productId `608021` · [HTML profile page](../../produkte/tiktok-cashflow-52408.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

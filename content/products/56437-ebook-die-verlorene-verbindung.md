@@ -1,6 +1,6 @@
 # Ebook - Die verlorene Verbindung
 
-> Product ID `56437` · Digistore24 productId `689638` · [HTML profile page](../../reviews/ebook-die-verlorene-verbindung-56437.html)
+> Product ID `56437` · Digistore24 productId `689638` · [HTML profile page](../../produkte/ebook-die-verlorene-verbindung-56437.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

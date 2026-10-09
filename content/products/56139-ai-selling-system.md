@@ -1,6 +1,6 @@
 # AI Selling System
 
-> Product ID `56139` · Digistore24 productId `679643` · [HTML profile page](../../reviews/ai-selling-system-56139.html)
+> Product ID `56139` · Digistore24 productId `679643` · [HTML profile page](../../produkte/ai-selling-system-56139.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 7 Schritte Brooklyn-Strategie
 
-> Product ID `51046` · Digistore24 productId `567558` · [HTML profile page](../../reviews/die-7-schritte-brooklyn-strategie-51046.html)
+> Product ID `51046` · Digistore24 productId `567558` · [HTML profile page](../../produkte/die-7-schritte-brooklyn-strategie-51046.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

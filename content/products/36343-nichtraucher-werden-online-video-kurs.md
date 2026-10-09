@@ -1,6 +1,6 @@
 # Nichtraucher werden Online-Video-Kurs
 
-> Product ID `36343` · Digistore24 productId `383424` · [HTML profile page](../../reviews/nichtraucher-werden-online-video-kurs-36343.html)
+> Product ID `36343` · Digistore24 productId `383424` · [HTML profile page](../../produkte/nichtraucher-werden-online-video-kurs-36343.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

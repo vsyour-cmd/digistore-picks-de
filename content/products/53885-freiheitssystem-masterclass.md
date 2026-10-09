@@ -1,6 +1,6 @@
 # Freiheitssystem Masterclass
 
-> Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../reviews/freiheitssystem-masterclass-53885.html)
+> Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../produkte/freiheitssystem-masterclass-53885.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

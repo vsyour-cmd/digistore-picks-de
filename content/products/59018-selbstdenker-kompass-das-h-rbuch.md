@@ -1,6 +1,6 @@
 # Selbstdenker-Kompass — Das Hörbuch
 
-> Product ID `59018` · Digistore24 productId `728238` · [HTML profile page](../../reviews/selbstdenker-kompass-das-h-rbuch-59018.html)
+> Product ID `59018` · Digistore24 productId `728238` · [HTML profile page](../../produkte/selbstdenker-kompass-das-h-rbuch-59018.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

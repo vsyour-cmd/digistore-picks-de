@@ -1,6 +1,6 @@
 # Heimarbeit Paket - VSL der Geld in deine Tasche spült
 
-> Product ID `52106` · Digistore24 productId `600240` · [HTML profile page](../../reviews/heimarbeit-paket-vsl-der-geld-in-deine-tasche-sp-lt-52106.html)
+> Product ID `52106` · Digistore24 productId `600240` · [HTML profile page](../../produkte/heimarbeit-paket-vsl-der-geld-in-deine-tasche-sp-lt-52106.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

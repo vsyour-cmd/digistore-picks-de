@@ -1,6 +1,6 @@
 # E-Book- Warum werde ich auf FB und Insta gesperrt?
 
-> Product ID `44516` · Digistore24 productId `505169` · [HTML profile page](../../reviews/e-book-warum-werde-ich-auf-fb-und-insta-gesperrt-44516.html)
+> Product ID `44516` · Digistore24 productId `505169` · [HTML profile page](../../produkte/e-book-warum-werde-ich-auf-fb-und-insta-gesperrt-44516.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

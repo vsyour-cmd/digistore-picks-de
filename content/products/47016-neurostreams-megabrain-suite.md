@@ -1,6 +1,6 @@
 # Neurostreams™ Megabrain Suite
 
-> Product ID `47016` · Digistore24 productId `24325` · [HTML profile page](../../reviews/neurostreams-megabrain-suite-47016.html)
+> Product ID `47016` · Digistore24 productId `24325` · [HTML profile page](../../produkte/neurostreams-megabrain-suite-47016.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

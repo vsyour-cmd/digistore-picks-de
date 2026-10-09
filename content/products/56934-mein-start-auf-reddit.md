@@ -1,6 +1,6 @@
 # Mein Start auf Reddit
 
-> Product ID `56934` · Digistore24 productId `701366` · [HTML profile page](../../reviews/mein-start-auf-reddit-56934.html)
+> Product ID `56934` · Digistore24 productId `701366` · [HTML profile page](../../produkte/mein-start-auf-reddit-56934.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

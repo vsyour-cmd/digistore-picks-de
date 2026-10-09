@@ -1,6 +1,6 @@
 # NATÜRLICH FOTOGEN!
 
-> Product ID `46811` · Digistore24 productId `534351` · [HTML profile page](../../reviews/nat-rlich-fotogen-46811.html)
+> Product ID `46811` · Digistore24 productId `534351` · [HTML profile page](../../produkte/nat-rlich-fotogen-46811.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

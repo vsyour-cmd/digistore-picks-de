@@ -1,6 +1,6 @@
 # BeatNews.de Pro-Abo – 40 % Provision dauerhaft
 
-> Product ID `57740` · Digistore24 productId `709841` · [HTML profile page](../../reviews/beatnews-de-pro-abo-40-provision-dauerhaft-57740.html)
+> Product ID `57740` · Digistore24 productId `709841` · [HTML profile page](../../produkte/beatnews-de-pro-abo-40-provision-dauerhaft-57740.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

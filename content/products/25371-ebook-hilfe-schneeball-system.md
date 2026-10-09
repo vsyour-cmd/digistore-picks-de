@@ -1,6 +1,6 @@
 # Ebook „HILFE!! SCHNEEBALL SYSTEM!“
 
-> Product ID `25371` · Digistore24 productId `215533` · [HTML profile page](../../reviews/ebook-hilfe-schneeball-system-25371.html)
+> Product ID `25371` · Digistore24 productId `215533` · [HTML profile page](../../produkte/ebook-hilfe-schneeball-system-25371.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Lexosleep light - Neurolinguistische Sprachförderung
 
-> Product ID `57362` · Digistore24 productId `670975` · [HTML profile page](../../reviews/lexosleep-light-neurolinguistische-sprachf-rderung-57362.html)
+> Product ID `57362` · Digistore24 productId `670975` · [HTML profile page](../../produkte/lexosleep-light-neurolinguistische-sprachf-rderung-57362.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

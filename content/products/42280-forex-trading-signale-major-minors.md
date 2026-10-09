@@ -1,6 +1,6 @@
 # Forex Trading Signale (Major + Minors)
 
-> Product ID `42280` · Digistore24 productId `56109` · [HTML profile page](../../reviews/forex-trading-signale-major-minors-42280.html)
+> Product ID `42280` · Digistore24 productId `56109` · [HTML profile page](../../produkte/forex-trading-signale-major-minors-42280.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

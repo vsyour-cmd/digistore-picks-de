@@ -1,6 +1,6 @@
 # KI Business Cash Box Abo + 150€ über Upsells verdienen
 
-> Product ID `20319` · Digistore24 productId `556089` · [HTML profile page](../../reviews/ki-business-cash-box-abo-150-ber-upsells-verdienen-20319.html)
+> Product ID `20319` · Digistore24 productId `556089` · [HTML profile page](../../produkte/ki-business-cash-box-abo-150-ber-upsells-verdienen-20319.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

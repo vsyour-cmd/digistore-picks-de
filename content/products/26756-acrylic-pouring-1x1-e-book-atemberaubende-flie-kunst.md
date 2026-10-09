@@ -1,6 +1,6 @@
 # Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!
 
-> Product ID `26756` · Digistore24 productId `228291` · [HTML profile page](../../reviews/acrylic-pouring-1x1-e-book-atemberaubende-flie-kunst-26756.html)
+> Product ID `26756` · Digistore24 productId `228291` · [HTML profile page](../../produkte/acrylic-pouring-1x1-e-book-atemberaubende-flie-kunst-26756.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

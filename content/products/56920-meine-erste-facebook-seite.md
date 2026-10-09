@@ -1,6 +1,6 @@
 # Meine erste Facebook-Seite
 
-> Product ID `56920` · Digistore24 productId `701353` · [HTML profile page](../../reviews/meine-erste-facebook-seite-56920.html)
+> Product ID `56920` · Digistore24 productId `701353` · [HTML profile page](../../produkte/meine-erste-facebook-seite-56920.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

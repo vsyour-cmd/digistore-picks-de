@@ -1,6 +1,6 @@
 # Story Sales System - 30 Stories für mehr Verkäufe.
 
-> Product ID `60208` · Digistore24 productId `719244` · [HTML profile page](../../reviews/story-sales-system-30-stories-f-r-mehr-verk-ufe-60208.html)
+> Product ID `60208` · Digistore24 productId `719244` · [HTML profile page](../../produkte/story-sales-system-30-stories-f-r-mehr-verk-ufe-60208.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

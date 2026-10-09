@@ -1,6 +1,6 @@
 # Soccerkinetics Fußballbuch
 
-> Product ID `37034` · Digistore24 productId `353628` · [HTML profile page](../../reviews/soccerkinetics-fu-ballbuch-37034.html)
+> Product ID `37034` · Digistore24 productId `353628` · [HTML profile page](../../produkte/soccerkinetics-fu-ballbuch-37034.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

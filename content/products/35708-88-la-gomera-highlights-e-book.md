@@ -1,6 +1,6 @@
 # 88 La Gomera Highlights [E-Book]
 
-> Product ID `35708` · Digistore24 productId `372319` · [HTML profile page](../../reviews/88-la-gomera-highlights-e-book-35708.html)
+> Product ID `35708` · Digistore24 productId `372319` · [HTML profile page](../../produkte/88-la-gomera-highlights-e-book-35708.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

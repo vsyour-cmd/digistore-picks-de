@@ -1,6 +1,6 @@
 # Hundeschule / Hundetraining - Mit Hunden sprechen
 
-> Product ID `40608` · Digistore24 productId `447671` · [HTML profile page](../../reviews/hundeschule-hundetraining-mit-hunden-sprechen-40608.html)
+> Product ID `40608` · Digistore24 productId `447671` · [HTML profile page](../../produkte/hundeschule-hundetraining-mit-hunden-sprechen-40608.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

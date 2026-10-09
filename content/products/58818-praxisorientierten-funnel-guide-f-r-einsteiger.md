@@ -1,6 +1,6 @@
 # Praxisorientierten Funnel-Guide für Einsteiger
 
-> Product ID `58818` · Digistore24 productId `496241` · [HTML profile page](../../reviews/praxisorientierten-funnel-guide-f-r-einsteiger-58818.html)
+> Product ID `58818` · Digistore24 productId `496241` · [HTML profile page](../../produkte/praxisorientierten-funnel-guide-f-r-einsteiger-58818.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

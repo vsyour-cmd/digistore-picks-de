@@ -1,6 +1,6 @@
 # Reicher als die Geissens - 50% Provision auf alle Upsells
 
-> Product ID `11531` · Digistore24 productId `78297` · [HTML profile page](../../reviews/reicher-als-die-geissens-50-provision-auf-alle-upsells-11531.html)
+> Product ID `11531` · Digistore24 productId `78297` · [HTML profile page](../../produkte/reicher-als-die-geissens-50-provision-auf-alle-upsells-11531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

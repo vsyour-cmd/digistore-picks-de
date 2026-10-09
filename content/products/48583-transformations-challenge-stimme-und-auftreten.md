@@ -1,6 +1,6 @@
 # Transformations-Challenge: Stimme und Auftreten
 
-> Product ID `48583` · Digistore24 productId `559815` · [HTML profile page](../../reviews/transformations-challenge-stimme-und-auftreten-48583.html)
+> Product ID `48583` · Digistore24 productId `559815` · [HTML profile page](../../produkte/transformations-challenge-stimme-und-auftreten-48583.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

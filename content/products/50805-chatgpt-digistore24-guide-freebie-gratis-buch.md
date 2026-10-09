@@ -1,6 +1,6 @@
 # ChatGPT & Digistore24 Guide (Freebie Gratis Buch)
 
-> Product ID `50805` · Digistore24 productId `586949` · [HTML profile page](../../reviews/chatgpt-digistore24-guide-freebie-gratis-buch-50805.html)
+> Product ID `50805` · Digistore24 productId `586949` · [HTML profile page](../../produkte/chatgpt-digistore24-guide-freebie-gratis-buch-50805.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

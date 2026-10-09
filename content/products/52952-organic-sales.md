@@ -1,6 +1,6 @@
 # Organic Sales
 
-> Product ID `52952` · Digistore24 productId `599906` · [HTML profile page](../../reviews/organic-sales-52952.html)
+> Product ID `52952` · Digistore24 productId `599906` · [HTML profile page](../../produkte/organic-sales-52952.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

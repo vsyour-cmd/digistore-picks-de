@@ -1,6 +1,6 @@
 # Amazon FBA Profi
 
-> Product ID `57226` · Digistore24 productId `704204` · [HTML profile page](../../reviews/amazon-fba-profi-57226.html)
+> Product ID `57226` · Digistore24 productId `704204` · [HTML profile page](../../produkte/amazon-fba-profi-57226.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

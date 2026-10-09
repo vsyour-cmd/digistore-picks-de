@@ -1,6 +1,6 @@
 # 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig
 
-> Product ID `42783` · Digistore24 productId `484335` · [HTML profile page](../../reviews/246-am-tag-methode-2-0-verschenken-verdienen-chris-boenig-42783.html)
+> Product ID `42783` · Digistore24 productId `484335` · [HTML profile page](../../produkte/246-am-tag-methode-2-0-verschenken-verdienen-chris-boenig-42783.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

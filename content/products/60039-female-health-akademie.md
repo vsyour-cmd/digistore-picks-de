@@ -1,6 +1,6 @@
 # Female Health Akademie
 
-> Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../reviews/female-health-akademie-60039.html)
+> Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../produkte/female-health-akademie-60039.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 60% Provision mit automatisiertem Webinar
 
-> Product ID `56026` · Digistore24 productId `564175` · [HTML profile page](../../reviews/60-provision-mit-automatisiertem-webinar-56026.html)
+> Product ID `56026` · Digistore24 productId `564175` · [HTML profile page](../../produkte/60-provision-mit-automatisiertem-webinar-56026.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

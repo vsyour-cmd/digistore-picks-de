@@ -1,6 +1,6 @@
 # 1-Klick Copy+Paste 100K Business | Partnerprogramm
 
-> Product ID `41946` · Digistore24 productId `462788` · [HTML profile page](../../reviews/1-klick-copy-paste-100k-business-partnerprogramm-41946.html)
+> Product ID `41946` · Digistore24 productId `462788` · [HTML profile page](../../produkte/1-klick-copy-paste-100k-business-partnerprogramm-41946.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

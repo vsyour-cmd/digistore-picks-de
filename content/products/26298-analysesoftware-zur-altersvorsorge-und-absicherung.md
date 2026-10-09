@@ -1,6 +1,6 @@
 # Analysesoftware zur Altersvorsorge und Absicherung
 
-> Product ID `26298` · Digistore24 productId `100331` · [HTML profile page](../../reviews/analysesoftware-zur-altersvorsorge-und-absicherung-26298.html)
+> Product ID `26298` · Digistore24 productId `100331` · [HTML profile page](../../produkte/analysesoftware-zur-altersvorsorge-und-absicherung-26298.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

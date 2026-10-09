@@ -1,6 +1,6 @@
 # Empowerment und Bias-Kompetenz im Vertrieb
 
-> Product ID `56885` · Digistore24 productId `640958` · [HTML profile page](../../reviews/empowerment-und-bias-kompetenz-im-vertrieb-56885.html)
+> Product ID `56885` · Digistore24 productId `640958` · [HTML profile page](../../produkte/empowerment-und-bias-kompetenz-im-vertrieb-56885.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

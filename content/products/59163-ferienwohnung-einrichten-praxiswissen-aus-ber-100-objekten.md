@@ -1,6 +1,6 @@
 # Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten
 
-> Product ID `59163` · Digistore24 productId `707689` · [HTML profile page](../../reviews/ferienwohnung-einrichten-praxiswissen-aus-ber-100-objekten-59163.html)
+> Product ID `59163` · Digistore24 productId `707689` · [HTML profile page](../../produkte/ferienwohnung-einrichten-praxiswissen-aus-ber-100-objekten-59163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

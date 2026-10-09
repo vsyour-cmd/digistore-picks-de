@@ -1,6 +1,6 @@
 # Warum deine Gefühle nicht das Problem sind
 
-> Product ID `58423` · Digistore24 productId `689590` · [HTML profile page](../../reviews/warum-deine-gef-hle-nicht-das-problem-sind-58423.html)
+> Product ID `58423` · Digistore24 productId `689590` · [HTML profile page](../../produkte/warum-deine-gef-hle-nicht-das-problem-sind-58423.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

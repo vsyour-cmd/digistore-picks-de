@@ -1,6 +1,6 @@
 # 50 % Provision: Führungs-Playbook für HR und Führungskräfte
 
-> Product ID `58785` · Digistore24 productId `692790` · [HTML profile page](../../reviews/50-provision-f-hrungs-playbook-f-r-hr-und-f-hrungskr-fte-58785.html)
+> Product ID `58785` · Digistore24 productId `692790` · [HTML profile page](../../produkte/50-provision-f-hrungs-playbook-f-r-hr-und-f-hrungskr-fte-58785.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

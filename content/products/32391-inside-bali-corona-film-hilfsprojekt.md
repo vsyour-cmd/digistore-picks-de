@@ -1,6 +1,6 @@
 # Inside Bali [Corona-Film-Hilfsprojekt]
 
-> Product ID `32391` · Digistore24 productId `165227` · [HTML profile page](../../reviews/inside-bali-corona-film-hilfsprojekt-32391.html)
+> Product ID `32391` · Digistore24 productId `165227` · [HTML profile page](../../produkte/inside-bali-corona-film-hilfsprojekt-32391.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

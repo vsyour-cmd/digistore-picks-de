@@ -1,6 +1,6 @@
 # Forex Trading-Signale (Majors)
 
-> Product ID `13477` · Digistore24 productId `52233` · [HTML profile page](../../reviews/forex-trading-signale-majors-13477.html)
+> Product ID `13477` · Digistore24 productId `52233` · [HTML profile page](../../produkte/forex-trading-signale-majors-13477.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

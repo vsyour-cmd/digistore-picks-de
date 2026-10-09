@@ -1,6 +1,6 @@
 # Direkt-Vertrieb - Die König Disziplin
 
-> Product ID `56886` · Digistore24 productId `649955` · [HTML profile page](../../reviews/direkt-vertrieb-die-k-nig-disziplin-56886.html)
+> Product ID `56886` · Digistore24 productId `649955` · [HTML profile page](../../produkte/direkt-vertrieb-die-k-nig-disziplin-56886.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

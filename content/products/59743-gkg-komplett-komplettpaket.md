@@ -1,6 +1,6 @@
 # GKG-KOMPLETT Komplettpaket
 
-> Product ID `59743` · Digistore24 productId `732246` · [HTML profile page](../../reviews/gkg-komplett-komplettpaket-59743.html)
+> Product ID `59743` · Digistore24 productId `732246` · [HTML profile page](../../produkte/gkg-komplett-komplettpaket-59743.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

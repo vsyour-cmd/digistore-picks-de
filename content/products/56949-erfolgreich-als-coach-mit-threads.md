@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Threads
 
-> Product ID `56949` · Digistore24 productId `701383` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-threads-56949.html)
+> Product ID `56949` · Digistore24 productId `701383` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-threads-56949.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

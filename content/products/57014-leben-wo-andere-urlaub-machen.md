@@ -1,6 +1,6 @@
 # Leben, wo andere Urlaub machen
 
-> Product ID `57014` · Digistore24 productId `702245` · [HTML profile page](../../reviews/leben-wo-andere-urlaub-machen-57014.html)
+> Product ID `57014` · Digistore24 productId `702245` · [HTML profile page](../../produkte/leben-wo-andere-urlaub-machen-57014.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

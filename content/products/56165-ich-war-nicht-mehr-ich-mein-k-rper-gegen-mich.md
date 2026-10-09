@@ -1,6 +1,6 @@
 # Ich war nicht mehr ich mein Körper gegen mich
 
-> Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../reviews/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)
+> Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../produkte/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

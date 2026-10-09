@@ -1,6 +1,6 @@
 # Das Casting-Profil, das überzeugt — Fokus-Kurs
 
-> Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../reviews/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)
+> Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../produkte/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kreativ Elfe
 
-> Product ID `56167` · Digistore24 productId `616785` · [HTML profile page](../../reviews/kreativ-elfe-56167.html)
+> Product ID `56167` · Digistore24 productId `616785` · [HTML profile page](../../produkte/kreativ-elfe-56167.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

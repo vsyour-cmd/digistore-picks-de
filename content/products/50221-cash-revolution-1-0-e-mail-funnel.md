@@ -1,6 +1,6 @@
 # Cash Revolution 1.0 + E-Mail Funnel
 
-> Product ID `50221` · Digistore24 productId `572135` · [HTML profile page](../../reviews/cash-revolution-1-0-e-mail-funnel-50221.html)
+> Product ID `50221` · Digistore24 productId `572135` · [HTML profile page](../../produkte/cash-revolution-1-0-e-mail-funnel-50221.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

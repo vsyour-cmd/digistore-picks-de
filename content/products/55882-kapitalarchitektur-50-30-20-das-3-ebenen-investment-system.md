@@ -1,6 +1,6 @@
 # Kapitalarchitektur 50/30/20 – Das 3-Ebenen-Investment-System
 
-> Product ID `55882` · Digistore24 productId `673050` · [HTML profile page](../../reviews/kapitalarchitektur-50-30-20-das-3-ebenen-investment-system-55882.html)
+> Product ID `55882` · Digistore24 productId `673050` · [HTML profile page](../../produkte/kapitalarchitektur-50-30-20-das-3-ebenen-investment-system-55882.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

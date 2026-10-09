@@ -1,6 +1,6 @@
 # Work Life Balance Onlinekurs für Frauen
 
-> Product ID `54412` · Digistore24 productId `641590` · [HTML profile page](../../reviews/work-life-balance-onlinekurs-f-r-frauen-54412.html)
+> Product ID `54412` · Digistore24 productId `641590` · [HTML profile page](../../produkte/work-life-balance-onlinekurs-f-r-frauen-54412.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die Angelika King Akademie
 
-> Product ID `23561` · Digistore24 productId `209737` · [HTML profile page](../../reviews/die-angelika-king-akademie-23561.html)
+> Product ID `23561` · Digistore24 productId `209737` · [HTML profile page](../../produkte/die-angelika-king-akademie-23561.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

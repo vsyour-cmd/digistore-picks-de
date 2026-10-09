@@ -1,6 +1,6 @@
 # Hundewelpen-Ratgeber 1 - 10 (Komplettpaket als eBook-Serie)
 
-> Product ID `48780` · Digistore24 productId `555560` · [HTML profile page](../../reviews/hundewelpen-ratgeber-1-10-komplettpaket-als-ebook-serie-48780.html)
+> Product ID `48780` · Digistore24 productId `555560` · [HTML profile page](../../produkte/hundewelpen-ratgeber-1-10-komplettpaket-als-ebook-serie-48780.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

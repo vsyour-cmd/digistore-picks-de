@@ -1,6 +1,6 @@
 # Geld- und andere Sorgen einfach ent-sorgen
 
-> Product ID `491` · Digistore24 productId `11155` · [HTML profile page](../../reviews/geld-und-andere-sorgen-einfach-ent-sorgen-491.html)
+> Product ID `491` · Digistore24 productId `11155` · [HTML profile page](../../produkte/geld-und-andere-sorgen-einfach-ent-sorgen-491.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

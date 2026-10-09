@@ -1,6 +1,6 @@
 # Das vegane Starterpaket (E-Book)
 
-> Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../reviews/das-vegane-starterpaket-e-book-31629.html)
+> Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../produkte/das-vegane-starterpaket-e-book-31629.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

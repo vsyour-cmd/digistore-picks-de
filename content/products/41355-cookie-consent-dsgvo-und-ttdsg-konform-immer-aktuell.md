@@ -1,6 +1,6 @@
 # Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell
 
-> Product ID `41355` · Digistore24 productId `462502` · [HTML profile page](../../reviews/cookie-consent-dsgvo-und-ttdsg-konform-immer-aktuell-41355.html)
+> Product ID `41355` · Digistore24 productId `462502` · [HTML profile page](../../produkte/cookie-consent-dsgvo-und-ttdsg-konform-immer-aktuell-41355.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

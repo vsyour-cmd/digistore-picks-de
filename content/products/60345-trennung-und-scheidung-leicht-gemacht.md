@@ -1,6 +1,6 @@
 # Trennung und Scheidung leicht gemacht
 
-> Product ID `60345` · Digistore24 productId `741733` · [HTML profile page](../../reviews/trennung-und-scheidung-leicht-gemacht-60345.html)
+> Product ID `60345` · Digistore24 productId `741733` · [HTML profile page](../../produkte/trennung-und-scheidung-leicht-gemacht-60345.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

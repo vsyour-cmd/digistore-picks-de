@@ -1,6 +1,6 @@
 # Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi
 
-> Product ID `58287` · Digistore24 productId `717833` · [HTML profile page](../../reviews/rauchfrei-stabilit-tspaket-68-inhalt-f-r-39-50-provi-58287.html)
+> Product ID `58287` · Digistore24 productId `717833` · [HTML profile page](../../produkte/rauchfrei-stabilit-tspaket-68-inhalt-f-r-39-50-provi-58287.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # "Meine Eltern go to Kita"-Eingewöhnung
 
-> Product ID `59792` · Digistore24 productId `737081` · [HTML profile page](../../reviews/meine-eltern-go-to-kita-eingew-hnung-59792.html)
+> Product ID `59792` · Digistore24 productId `737081` · [HTML profile page](../../produkte/meine-eltern-go-to-kita-eingew-hnung-59792.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

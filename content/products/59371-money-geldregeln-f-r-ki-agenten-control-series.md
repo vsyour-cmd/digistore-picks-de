@@ -1,6 +1,6 @@
 # MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)
 
-> Product ID `59371` · Digistore24 productId `734882` · [HTML profile page](../../reviews/money-geldregeln-f-r-ki-agenten-control-series-59371.html)
+> Product ID `59371` · Digistore24 productId `734882` · [HTML profile page](../../produkte/money-geldregeln-f-r-ki-agenten-control-series-59371.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

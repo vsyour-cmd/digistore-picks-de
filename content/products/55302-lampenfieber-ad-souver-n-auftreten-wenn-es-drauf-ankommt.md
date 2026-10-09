@@ -1,6 +1,6 @@
 # Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt
 
-> Product ID `55302` · Digistore24 productId `619107` · [HTML profile page](../../reviews/lampenfieber-ad-souver-n-auftreten-wenn-es-drauf-ankommt-55302.html)
+> Product ID `55302` · Digistore24 productId `619107` · [HTML profile page](../../produkte/lampenfieber-ad-souver-n-auftreten-wenn-es-drauf-ankommt-55302.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

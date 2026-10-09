@@ -1,6 +1,6 @@
 # Planungs-Bundle – Strukturiere dein KI-Universum in Minuten
 
-> Product ID `54379` · Digistore24 productId `641151` · [HTML profile page](../../reviews/planungs-bundle-strukturiere-dein-ki-universum-in-minuten-54379.html)
+> Product ID `54379` · Digistore24 productId `641151` · [HTML profile page](../../produkte/planungs-bundle-strukturiere-dein-ki-universum-in-minuten-54379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

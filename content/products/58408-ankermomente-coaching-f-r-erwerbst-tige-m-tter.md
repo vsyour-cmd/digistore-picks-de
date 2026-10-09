@@ -1,6 +1,6 @@
 # AnkerMomente – Coaching für erwerbstätige Mütter
 
-> Product ID `58408` · Digistore24 productId `722910` · [HTML profile page](../../reviews/ankermomente-coaching-f-r-erwerbst-tige-m-tter-58408.html)
+> Product ID `58408` · Digistore24 productId `722910` · [HTML profile page](../../produkte/ankermomente-coaching-f-r-erwerbst-tige-m-tter-58408.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

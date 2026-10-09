@@ -1,6 +1,6 @@
 # Die neue Volkskrankheit: Das Piriformis-Syndrom
 
-> Product ID `16245` · Digistore24 productId `132977` · [HTML profile page](../../reviews/die-neue-volkskrankheit-das-piriformis-syndrom-16245.html)
+> Product ID `16245` · Digistore24 productId `132977` · [HTML profile page](../../produkte/die-neue-volkskrankheit-das-piriformis-syndrom-16245.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

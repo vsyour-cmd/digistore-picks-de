@@ -1,6 +1,6 @@
 # Die ultimative Foren Liste: 500 deutschsprachige Foren
 
-> Product ID `51759` · Digistore24 productId `601991` · [HTML profile page](../../reviews/die-ultimative-foren-liste-500-deutschsprachige-foren-51759.html)
+> Product ID `51759` · Digistore24 productId `601991` · [HTML profile page](../../produkte/die-ultimative-foren-liste-500-deutschsprachige-foren-51759.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

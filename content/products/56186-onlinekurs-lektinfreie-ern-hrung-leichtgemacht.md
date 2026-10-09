@@ -1,6 +1,6 @@
 # Onlinekurs Lektinfreie Ernährung leichtgemacht!
 
-> Product ID `56186` · Digistore24 productId `662904` · [HTML profile page](../../reviews/onlinekurs-lektinfreie-ern-hrung-leichtgemacht-56186.html)
+> Product ID `56186` · Digistore24 productId `662904` · [HTML profile page](../../produkte/onlinekurs-lektinfreie-ern-hrung-leichtgemacht-56186.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

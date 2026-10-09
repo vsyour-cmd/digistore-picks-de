@@ -1,6 +1,6 @@
 # Die 5-Schritte zum Copywriting Erfolg
 
-> Product ID `51862` · Digistore24 productId `604124` · [HTML profile page](../../reviews/die-5-schritte-zum-copywriting-erfolg-51862.html)
+> Product ID `51862` · Digistore24 productId `604124` · [HTML profile page](../../produkte/die-5-schritte-zum-copywriting-erfolg-51862.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

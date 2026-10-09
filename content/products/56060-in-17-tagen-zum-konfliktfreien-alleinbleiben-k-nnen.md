@@ -1,6 +1,6 @@
 # In 17 Tagen zum konfliktfreien Alleinbleiben können
 
-> Product ID `56060` · Digistore24 productId `680050` · [HTML profile page](../../reviews/in-17-tagen-zum-konfliktfreien-alleinbleiben-k-nnen-56060.html)
+> Product ID `56060` · Digistore24 productId `680050` · [HTML profile page](../../produkte/in-17-tagen-zum-konfliktfreien-alleinbleiben-k-nnen-56060.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

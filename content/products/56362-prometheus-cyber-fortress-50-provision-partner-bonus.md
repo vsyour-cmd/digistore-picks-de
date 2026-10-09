@@ -1,6 +1,6 @@
 # PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus
 
-> Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../reviews/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)
+> Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../produkte/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

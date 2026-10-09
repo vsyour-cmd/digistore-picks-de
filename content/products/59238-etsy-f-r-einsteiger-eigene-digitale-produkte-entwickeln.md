@@ -1,6 +1,6 @@
 # Etsy für Einsteiger: Eigene digitale Produkte entwickeln
 
-> Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../reviews/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)
+> Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../produkte/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

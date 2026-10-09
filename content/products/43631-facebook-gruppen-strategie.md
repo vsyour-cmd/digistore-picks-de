@@ -1,6 +1,6 @@
 # Facebook Gruppen Strategie
 
-> Product ID `43631` · Digistore24 productId `493546` · [HTML profile page](../../reviews/facebook-gruppen-strategie-43631.html)
+> Product ID `43631` · Digistore24 productId `493546` · [HTML profile page](../../produkte/facebook-gruppen-strategie-43631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

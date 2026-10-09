@@ -1,6 +1,6 @@
 # AI4ALL.tools – 49+ KI-Tools für Marketing und Business
 
-> Product ID `57749` · Digistore24 productId `715281` · [HTML profile page](../../reviews/ai4all-tools-49-ki-tools-f-r-marketing-und-business-57749.html)
+> Product ID `57749` · Digistore24 productId `715281` · [HTML profile page](../../produkte/ai4all-tools-49-ki-tools-f-r-marketing-und-business-57749.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

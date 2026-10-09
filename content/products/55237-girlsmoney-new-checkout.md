@@ -1,6 +1,6 @@
 # GirlsMoney new checkout
 
-> Product ID `55237` · Digistore24 productId `662440` · [HTML profile page](../../reviews/girlsmoney-new-checkout-55237.html)
+> Product ID `55237` · Digistore24 productId `662440` · [HTML profile page](../../produkte/girlsmoney-new-checkout-55237.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

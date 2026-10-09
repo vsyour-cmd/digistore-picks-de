@@ -1,6 +1,6 @@
 # Affiliate Masterlizenz "TikiTok Online Business"
 
-> Product ID `41350` · Digistore24 productId `462015` · [HTML profile page](../../reviews/affiliate-masterlizenz-tikitok-online-business-41350.html)
+> Product ID `41350` · Digistore24 productId `462015` · [HTML profile page](../../produkte/affiliate-masterlizenz-tikitok-online-business-41350.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

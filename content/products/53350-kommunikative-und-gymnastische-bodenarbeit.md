@@ -1,6 +1,6 @@
 # Kommunikative und gymnastische Bodenarbeit
 
-> Product ID `53350` · Digistore24 productId `521851` · [HTML profile page](../../reviews/kommunikative-und-gymnastische-bodenarbeit-53350.html)
+> Product ID `53350` · Digistore24 productId `521851` · [HTML profile page](../../produkte/kommunikative-und-gymnastische-bodenarbeit-53350.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

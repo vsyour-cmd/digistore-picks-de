@@ -1,6 +1,6 @@
 # Geld verdienen mit Prompts
 
-> Product ID `58817` · Digistore24 productId `727651` · [HTML profile page](../../reviews/geld-verdienen-mit-prompts-58817.html)
+> Product ID `58817` · Digistore24 productId `727651` · [HTML profile page](../../produkte/geld-verdienen-mit-prompts-58817.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Online-Video-Kurs "Singen lernen - Das musst Du wissen"
 
-> Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../reviews/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)
+> Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../produkte/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

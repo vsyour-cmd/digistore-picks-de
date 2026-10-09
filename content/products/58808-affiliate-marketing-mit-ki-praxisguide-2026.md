@@ -1,6 +1,6 @@
 # Affiliate Marketing mit KI – Praxisguide 2026
 
-> Product ID `58808` · Digistore24 productId `549560` · [HTML profile page](../../reviews/affiliate-marketing-mit-ki-praxisguide-2026-58808.html)
+> Product ID `58808` · Digistore24 productId `549560` · [HTML profile page](../../produkte/affiliate-marketing-mit-ki-praxisguide-2026-58808.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

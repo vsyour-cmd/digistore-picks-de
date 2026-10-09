@@ -1,6 +1,6 @@
 # Rette deinen Rücken®
 
-> Product ID `38589` · Digistore24 productId `411373` · [HTML profile page](../../reviews/rette-deinen-r-cken-38589.html)
+> Product ID `38589` · Digistore24 productId `411373` · [HTML profile page](../../produkte/rette-deinen-r-cken-38589.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

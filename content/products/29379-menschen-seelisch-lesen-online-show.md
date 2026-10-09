@@ -1,6 +1,6 @@
 # Menschen seelisch lesen Online-Show
 
-> Product ID `29379` · Digistore24 productId `13857` · [HTML profile page](../../reviews/menschen-seelisch-lesen-online-show-29379.html)
+> Product ID `29379` · Digistore24 productId `13857` · [HTML profile page](../../produkte/menschen-seelisch-lesen-online-show-29379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

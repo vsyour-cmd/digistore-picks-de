@@ -1,6 +1,6 @@
 # Portugiesisch-Guide Deluxe
 
-> Product ID `58523` · Digistore24 productId `724898` · [HTML profile page](../../reviews/portugiesisch-guide-deluxe-58523.html)
+> Product ID `58523` · Digistore24 productId `724898` · [HTML profile page](../../produkte/portugiesisch-guide-deluxe-58523.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

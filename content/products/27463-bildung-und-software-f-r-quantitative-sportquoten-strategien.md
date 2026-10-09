@@ -1,6 +1,6 @@
 # Bildung und Software für quantitative Sportquoten-Strategien
 
-> Product ID `27463` · Digistore24 productId `439870` · [HTML profile page](../../reviews/bildung-und-software-f-r-quantitative-sportquoten-strategien-27463.html)
+> Product ID `27463` · Digistore24 productId `439870` · [HTML profile page](../../produkte/bildung-und-software-f-r-quantitative-sportquoten-strategien-27463.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

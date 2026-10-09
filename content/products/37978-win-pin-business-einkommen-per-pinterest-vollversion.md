@@ -1,6 +1,6 @@
 # Win Pin Business - Einkommen per Pinterest (Vollversion)
 
-> Product ID `37978` · Digistore24 productId `410015` · [HTML profile page](../../reviews/win-pin-business-einkommen-per-pinterest-vollversion-37978.html)
+> Product ID `37978` · Digistore24 productId `410015` · [HTML profile page](../../produkte/win-pin-business-einkommen-per-pinterest-vollversion-37978.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

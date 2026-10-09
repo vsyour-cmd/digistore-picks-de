@@ -1,6 +1,6 @@
 # SMMA skalieren
 
-> Product ID `57242` · Digistore24 productId `704220` · [HTML profile page](../../reviews/smma-skalieren-57242.html)
+> Product ID `57242` · Digistore24 productId `704220` · [HTML profile page](../../produkte/smma-skalieren-57242.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Excel-Vorlage für die DSGVO-Dokumentation
 
-> Product ID `27030` · Digistore24 productId `216935` · [HTML profile page](../../reviews/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html)
+> Product ID `27030` · Digistore24 productId `216935` · [HTML profile page](../../produkte/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

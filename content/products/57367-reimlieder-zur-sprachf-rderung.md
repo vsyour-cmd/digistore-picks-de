@@ -1,6 +1,6 @@
 # Reimlieder zur Sprachförderung
 
-> Product ID `57367` · Digistore24 productId `676727` · [HTML profile page](../../reviews/reimlieder-zur-sprachf-rderung-57367.html)
+> Product ID `57367` · Digistore24 productId `676727` · [HTML profile page](../../produkte/reimlieder-zur-sprachf-rderung-57367.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

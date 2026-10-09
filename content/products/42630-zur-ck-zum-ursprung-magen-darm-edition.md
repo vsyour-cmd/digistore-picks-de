@@ -1,6 +1,6 @@
 # „Zurück zum Ursprung - Magen Darm Edition“
 
-> Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../reviews/zur-ck-zum-ursprung-magen-darm-edition-42630.html)
+> Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

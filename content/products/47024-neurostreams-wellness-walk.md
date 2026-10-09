@@ -1,6 +1,6 @@
 # Neurostreams™ Wellness Walk
 
-> Product ID `47024` · Digistore24 productId `21973` · [HTML profile page](../../reviews/neurostreams-wellness-walk-47024.html)
+> Product ID `47024` · Digistore24 productId `21973` · [HTML profile page](../../produkte/neurostreams-wellness-walk-47024.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

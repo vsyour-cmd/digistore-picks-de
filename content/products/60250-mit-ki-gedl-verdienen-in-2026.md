@@ -1,6 +1,6 @@
 # Mit KI Gedl verdienen in 2026
 
-> Product ID `60250` · Digistore24 productId `741706` · [HTML profile page](../../reviews/mit-ki-gedl-verdienen-in-2026-60250.html)
+> Product ID `60250` · Digistore24 productId `741706` · [HTML profile page](../../produkte/mit-ki-gedl-verdienen-in-2026-60250.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

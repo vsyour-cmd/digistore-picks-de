@@ -1,6 +1,6 @@
 # Mindset + Motivation für ein erfolgreiches Online-Business
 
-> Product ID `53324` · Digistore24 productId `626639` · [HTML profile page](../../reviews/mindset-motivation-f-r-ein-erfolgreiches-online-business-53324.html)
+> Product ID `53324` · Digistore24 productId `626639` · [HTML profile page](../../produkte/mindset-motivation-f-r-ein-erfolgreiches-online-business-53324.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

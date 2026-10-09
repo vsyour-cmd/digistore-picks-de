@@ -1,6 +1,6 @@
 # Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute
 
-> Product ID `37407` · Digistore24 productId `331144` · [HTML profile page](../../reviews/selbsthilfe-im-alltag-tiere-messen-mit-tensor-einhandrute-37407.html)
+> Product ID `37407` · Digistore24 productId `331144` · [HTML profile page](../../produkte/selbsthilfe-im-alltag-tiere-messen-mit-tensor-einhandrute-37407.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

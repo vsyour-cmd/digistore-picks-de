@@ -1,6 +1,6 @@
 # Chatbot Business - Online erfolgreich mit ChatGPT
 
-> Product ID `43024` · Digistore24 productId `488196` · [HTML profile page](../../reviews/chatbot-business-online-erfolgreich-mit-chatgpt-43024.html)
+> Product ID `43024` · Digistore24 productId `488196` · [HTML profile page](../../produkte/chatbot-business-online-erfolgreich-mit-chatgpt-43024.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

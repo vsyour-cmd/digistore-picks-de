@@ -1,6 +1,6 @@
 # Die goldene Formel
 
-> Product ID `50220` · Digistore24 productId `572251` · [HTML profile page](../../reviews/die-goldene-formel-50220.html)
+> Product ID `50220` · Digistore24 productId `572251` · [HTML profile page](../../produkte/die-goldene-formel-50220.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

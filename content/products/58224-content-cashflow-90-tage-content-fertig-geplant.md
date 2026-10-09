@@ -1,6 +1,6 @@
 # Content Cashflow – 90 Tage Content. Fertig geplant.
 
-> Product ID `58224` · Digistore24 productId `719101` · [HTML profile page](../../reviews/content-cashflow-90-tage-content-fertig-geplant-58224.html)
+> Product ID `58224` · Digistore24 productId `719101` · [HTML profile page](../../produkte/content-cashflow-90-tage-content-fertig-geplant-58224.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

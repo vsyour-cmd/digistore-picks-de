@@ -1,6 +1,6 @@
 # Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!
 
-> Product ID `54232` · Digistore24 productId `614532` · [HTML profile page](../../reviews/mit-online-umfragen-geld-verdienen-brandneuer-vsl-54232.html)
+> Product ID `54232` · Digistore24 productId `614532` · [HTML profile page](../../produkte/mit-online-umfragen-geld-verdienen-brandneuer-vsl-54232.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

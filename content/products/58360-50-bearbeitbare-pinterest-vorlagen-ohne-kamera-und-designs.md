@@ -1,6 +1,6 @@
 # 50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs
 
-> Product ID `58360` · Digistore24 productId `721417` · [HTML profile page](../../reviews/50-bearbeitbare-pinterest-vorlagen-ohne-kamera-und-designs-58360.html)
+> Product ID `58360` · Digistore24 productId `721417` · [HTML profile page](../../produkte/50-bearbeitbare-pinterest-vorlagen-ohne-kamera-und-designs-58360.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

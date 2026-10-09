@@ -1,6 +1,6 @@
 # Affiliate Booster System (White-Label)
 
-> Product ID `56095` · Digistore24 productId `677256` · [HTML profile page](../../reviews/affiliate-booster-system-white-label-56095.html)
+> Product ID `56095` · Digistore24 productId `677256` · [HTML profile page](../../produkte/affiliate-booster-system-white-label-56095.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

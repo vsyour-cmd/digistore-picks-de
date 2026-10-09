@@ -1,6 +1,6 @@
 # Vermögensaufbau leicht gemacht - Das Buch
 
-> Product ID `38408` · Digistore24 productId `411785` · [HTML profile page](../../reviews/verm-gensaufbau-leicht-gemacht-das-buch-38408.html)
+> Product ID `38408` · Digistore24 productId `411785` · [HTML profile page](../../produkte/verm-gensaufbau-leicht-gemacht-das-buch-38408.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Hochzeitsreden Bundle - 17 Reden + Boni
 
-> Product ID `55650` · Digistore24 productId `669617` · [HTML profile page](../../reviews/hochzeitsreden-bundle-17-reden-boni-55650.html)
+> Product ID `55650` · Digistore24 productId `669617` · [HTML profile page](../../produkte/hochzeitsreden-bundle-17-reden-boni-55650.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

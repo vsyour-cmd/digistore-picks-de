@@ -1,6 +1,6 @@
 # InnenWerk-System – Werde, wer Du wirklich bist
 
-> Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../reviews/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)
+> Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../produkte/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

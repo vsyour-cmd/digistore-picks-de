@@ -1,6 +1,6 @@
 # Launch Page Starter™ – fertige B2B-Landingpage für Unternehm
 
-> Product ID `56899` · Digistore24 productId `701698` · [HTML profile page](../../reviews/launch-page-starter-fertige-b2b-landingpage-f-r-unternehm-56899.html)
+> Product ID `56899` · Digistore24 productId `701698` · [HTML profile page](../../produkte/launch-page-starter-fertige-b2b-landingpage-f-r-unternehm-56899.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

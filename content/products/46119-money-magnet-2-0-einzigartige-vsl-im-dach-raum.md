@@ -1,6 +1,6 @@
 # Money Magnet 2.0 - Einzigartige VSL im DACH Raum
 
-> Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../reviews/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)
+> Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../produkte/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

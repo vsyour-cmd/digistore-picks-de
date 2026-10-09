@@ -1,6 +1,6 @@
 # Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!
 
-> Product ID `52084` · Digistore24 productId `566575` · [HTML profile page](../../reviews/hundegruppen-im-gleichgewicht-dynamik-und-harmonie-f-rdern-52084.html)
+> Product ID `52084` · Digistore24 productId `566575` · [HTML profile page](../../produkte/hundegruppen-im-gleichgewicht-dynamik-und-harmonie-f-rdern-52084.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

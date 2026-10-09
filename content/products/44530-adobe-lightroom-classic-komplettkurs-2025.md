@@ -1,6 +1,6 @@
 # Adobe Lightroom Classic - Komplettkurs 2025
 
-> Product ID `44530` · Digistore24 productId `497054` · [HTML profile page](../../reviews/adobe-lightroom-classic-komplettkurs-2025-44530.html)
+> Product ID `44530` · Digistore24 productId `497054` · [HTML profile page](../../produkte/adobe-lightroom-classic-komplettkurs-2025-44530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Cybersecurity-Grundlagen – Awareness-Mission
 
-> Product ID `60104` · Digistore24 productId `735342` · [HTML profile page](../../reviews/cybersecurity-grundlagen-awareness-mission-60104.html)
+> Product ID `60104` · Digistore24 productId `735342` · [HTML profile page](../../produkte/cybersecurity-grundlagen-awareness-mission-60104.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

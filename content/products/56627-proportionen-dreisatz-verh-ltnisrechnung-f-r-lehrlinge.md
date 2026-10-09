@@ -1,6 +1,6 @@
 # Proportionen, Dreisatz, Verhältnisrechnung für Lehrlinge
 
-> Product ID `56627` · Digistore24 productId `693882` · [HTML profile page](../../reviews/proportionen-dreisatz-verh-ltnisrechnung-f-r-lehrlinge-56627.html)
+> Product ID `56627` · Digistore24 productId `693882` · [HTML profile page](../../produkte/proportionen-dreisatz-verh-ltnisrechnung-f-r-lehrlinge-56627.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

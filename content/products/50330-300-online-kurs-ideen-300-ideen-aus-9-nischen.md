@@ -1,6 +1,6 @@
 # 300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen
 
-> Product ID `50330` · Digistore24 productId `579061` · [HTML profile page](../../reviews/300-online-kurs-ideen-300-ideen-aus-9-nischen-50330.html)
+> Product ID `50330` · Digistore24 productId `579061` · [HTML profile page](../../produkte/300-online-kurs-ideen-300-ideen-aus-9-nischen-50330.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu
 
-> Product ID `56788` · Digistore24 productId `696011` · [HTML profile page](../../reviews/e-book-15-erprobte-briefvorlagen-f-r-selbst-ndige-mit-schu-56788.html)
+> Product ID `56788` · Digistore24 productId `696011` · [HTML profile page](../../produkte/e-book-15-erprobte-briefvorlagen-f-r-selbst-ndige-mit-schu-56788.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

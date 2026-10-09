@@ -1,6 +1,6 @@
 # Tschechisch in Häppchen - eBook
 
-> Product ID `34181` · Digistore24 productId `350016` · [HTML profile page](../../reviews/tschechisch-in-h-ppchen-ebook-34181.html)
+> Product ID `34181` · Digistore24 productId `350016` · [HTML profile page](../../produkte/tschechisch-in-h-ppchen-ebook-34181.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

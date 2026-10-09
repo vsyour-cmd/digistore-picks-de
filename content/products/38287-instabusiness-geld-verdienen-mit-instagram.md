@@ -1,6 +1,6 @@
 # InstaBusiness - Geld verdienen mit Instagram
 
-> Product ID `38287` · Digistore24 productId `411371` · [HTML profile page](../../reviews/instabusiness-geld-verdienen-mit-instagram-38287.html)
+> Product ID `38287` · Digistore24 productId `411371` · [HTML profile page](../../produkte/instabusiness-geld-verdienen-mit-instagram-38287.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

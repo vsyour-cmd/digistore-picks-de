@@ -1,6 +1,6 @@
 # Online-Kurs: Grundlagen der Schüßler Salze (für Laien)
 
-> Product ID `38188` · Digistore24 productId `412043` · [HTML profile page](../../reviews/online-kurs-grundlagen-der-sch-ler-salze-f-r-laien-38188.html)
+> Product ID `38188` · Digistore24 productId `412043` · [HTML profile page](../../produkte/online-kurs-grundlagen-der-sch-ler-salze-f-r-laien-38188.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

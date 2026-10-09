@@ -1,6 +1,6 @@
 # Klar durch den Elternkonflikt – digitaler Praxis-Ratgeber
 
-> Product ID `59121` · Digistore24 productId `731129` · [HTML profile page](../../reviews/klar-durch-den-elternkonflikt-digitaler-praxis-ratgeber-59121.html)
+> Product ID `59121` · Digistore24 productId `731129` · [HTML profile page](../../produkte/klar-durch-den-elternkonflikt-digitaler-praxis-ratgeber-59121.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

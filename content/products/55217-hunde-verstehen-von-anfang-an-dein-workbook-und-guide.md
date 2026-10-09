@@ -1,6 +1,6 @@
 # Hunde verstehen von Anfang an - Dein Workbook und Guide
 
-> Product ID `55217` · Digistore24 productId `661886` · [HTML profile page](../../reviews/hunde-verstehen-von-anfang-an-dein-workbook-und-guide-55217.html)
+> Product ID `55217` · Digistore24 productId `661886` · [HTML profile page](../../produkte/hunde-verstehen-von-anfang-an-dein-workbook-und-guide-55217.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

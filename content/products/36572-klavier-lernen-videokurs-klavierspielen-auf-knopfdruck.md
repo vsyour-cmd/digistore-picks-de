@@ -1,6 +1,6 @@
 # Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'
 
-> Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../reviews/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)
+> Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../produkte/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

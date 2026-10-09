@@ -1,6 +1,6 @@
 # Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check
 
-> Product ID `59094` · Digistore24 productId `651802` · [HTML profile page](../../reviews/mini-online-kurs-unzufrieden-im-job-job-realit-ts-check-59094.html)
+> Product ID `59094` · Digistore24 productId `651802` · [HTML profile page](../../produkte/mini-online-kurs-unzufrieden-im-job-job-realit-ts-check-59094.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

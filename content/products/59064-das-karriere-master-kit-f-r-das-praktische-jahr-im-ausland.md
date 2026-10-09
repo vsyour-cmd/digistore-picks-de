@@ -1,6 +1,6 @@
 # Das Karriere Master-Kit für das praktische Jahr im Ausland
 
-> Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../reviews/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)
+> Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

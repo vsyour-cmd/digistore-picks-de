@@ -1,6 +1,6 @@
 # Freelancing starten
 
-> Product ID `57237` · Digistore24 productId `704215` · [HTML profile page](../../reviews/freelancing-starten-57237.html)
+> Product ID `57237` · Digistore24 productId `704215` · [HTML profile page](../../produkte/freelancing-starten-57237.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

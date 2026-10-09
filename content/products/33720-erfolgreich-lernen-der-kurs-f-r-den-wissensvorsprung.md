@@ -1,6 +1,6 @@
 # ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung
 
-> Product ID `33720` · Digistore24 productId `319119` · [HTML profile page](../../reviews/erfolgreich-lernen-der-kurs-f-r-den-wissensvorsprung-33720.html)
+> Product ID `33720` · Digistore24 productId `319119` · [HTML profile page](../../produkte/erfolgreich-lernen-der-kurs-f-r-den-wissensvorsprung-33720.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

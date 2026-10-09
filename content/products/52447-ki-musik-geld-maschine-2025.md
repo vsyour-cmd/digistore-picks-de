@@ -1,6 +1,6 @@
 # KI Musik Geld Maschine (2025)
 
-> Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../reviews/ki-musik-geld-maschine-2025-52447.html)
+> Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../produkte/ki-musik-geld-maschine-2025-52447.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

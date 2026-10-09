@@ -1,6 +1,6 @@
 # LIEBE BIS ZUM LETZTEN PLANETEN - E-Book
 
-> Product ID `58450` · Digistore24 productId `723629` · [HTML profile page](../../reviews/liebe-bis-zum-letzten-planeten-e-book-58450.html)
+> Product ID `58450` · Digistore24 productId `723629` · [HTML profile page](../../produkte/liebe-bis-zum-letzten-planeten-e-book-58450.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

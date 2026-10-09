@@ -1,6 +1,6 @@
 # Content Sales Booster
 
-> Product ID `52983` · Digistore24 productId `599695` · [HTML profile page](../../reviews/content-sales-booster-52983.html)
+> Product ID `52983` · Digistore24 productId `599695` · [HTML profile page](../../produkte/content-sales-booster-52983.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

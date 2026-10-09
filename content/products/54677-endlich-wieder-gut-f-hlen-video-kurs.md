@@ -1,6 +1,6 @@
 # Endlich wieder gut fühlen - Video Kurs
 
-> Product ID `54677` · Digistore24 productId `649004` · [HTML profile page](../../reviews/endlich-wieder-gut-f-hlen-video-kurs-54677.html)
+> Product ID `54677` · Digistore24 productId `649004` · [HTML profile page](../../produkte/endlich-wieder-gut-f-hlen-video-kurs-54677.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

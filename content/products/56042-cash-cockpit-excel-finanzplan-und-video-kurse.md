@@ -1,6 +1,6 @@
 # Cash Cockpit | Excel-Finanzplan und Video-Kurse
 
-> Product ID `56042` · Digistore24 productId `679567` · [HTML profile page](../../reviews/cash-cockpit-excel-finanzplan-und-video-kurse-56042.html)
+> Product ID `56042` · Digistore24 productId `679567` · [HTML profile page](../../produkte/cash-cockpit-excel-finanzplan-und-video-kurse-56042.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

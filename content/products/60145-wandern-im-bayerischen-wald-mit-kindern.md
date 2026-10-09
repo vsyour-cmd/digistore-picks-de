@@ -1,6 +1,6 @@
 # Wandern im Bayerischen Wald mit Kindern
 
-> Product ID `60145` · Digistore24 productId `740971` · [HTML profile page](../../reviews/wandern-im-bayerischen-wald-mit-kindern-60145.html)
+> Product ID `60145` · Digistore24 productId `740971` · [HTML profile page](../../produkte/wandern-im-bayerischen-wald-mit-kindern-60145.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

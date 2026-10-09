@@ -1,6 +1,6 @@
 # Low Carb Backen und Naschen - 60 Rezepte ohne Zucker
 
-> Product ID `33557` · Digistore24 productId `264567` · [HTML profile page](../../reviews/low-carb-backen-und-naschen-60-rezepte-ohne-zucker-33557.html)
+> Product ID `33557` · Digistore24 productId `264567` · [HTML profile page](../../produkte/low-carb-backen-und-naschen-60-rezepte-ohne-zucker-33557.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

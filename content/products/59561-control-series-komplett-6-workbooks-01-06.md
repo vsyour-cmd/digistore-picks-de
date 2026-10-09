@@ -1,6 +1,6 @@
 # CONTROL Series Komplett — 6 Workbooks (01–06)
 
-> Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../reviews/control-series-komplett-6-workbooks-01-06-59561.html)
+> Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../produkte/control-series-komplett-6-workbooks-01-06-59561.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

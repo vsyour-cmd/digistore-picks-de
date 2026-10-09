@@ -1,6 +1,6 @@
 # Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen
 
-> Product ID `36460` · Digistore24 productId `385485` · [HTML profile page](../../reviews/affiliate-trainingslager-2-0-chris-boenig-einfach-verdienen-36460.html)
+> Product ID `36460` · Digistore24 productId `385485` · [HTML profile page](../../produkte/affiliate-trainingslager-2-0-chris-boenig-einfach-verdienen-36460.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

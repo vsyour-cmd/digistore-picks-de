@@ -1,6 +1,6 @@
 # Teig-Architekt
 
-> Product ID `59959` · Digistore24 productId `671870` · [HTML profile page](../../reviews/teig-architekt-59959.html)
+> Product ID `59959` · Digistore24 productId `671870` · [HTML profile page](../../produkte/teig-architekt-59959.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

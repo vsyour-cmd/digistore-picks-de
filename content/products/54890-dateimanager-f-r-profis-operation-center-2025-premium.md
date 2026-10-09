@@ -1,6 +1,6 @@
 # Dateimanager für Profis: Operation Center 2025 Premium
 
-> Product ID `54890` · Digistore24 productId `571730` · [HTML profile page](../../reviews/dateimanager-f-r-profis-operation-center-2025-premium-54890.html)
+> Product ID `54890` · Digistore24 productId `571730` · [HTML profile page](../../produkte/dateimanager-f-r-profis-operation-center-2025-premium-54890.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

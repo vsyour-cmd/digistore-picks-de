@@ -1,6 +1,6 @@
 # Rechtschreibprogramm
 
-> Product ID `57379` · Digistore24 productId `625038` · [HTML profile page](../../reviews/rechtschreibprogramm-57379.html)
+> Product ID `57379` · Digistore24 productId `625038` · [HTML profile page](../../produkte/rechtschreibprogramm-57379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

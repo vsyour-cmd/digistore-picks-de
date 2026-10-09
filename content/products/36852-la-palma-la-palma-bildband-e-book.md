@@ -1,6 +1,6 @@
 # LA PALMA: La Palma Bildband [E-Book]
 
-> Product ID `36852` · Digistore24 productId `392067` · [HTML profile page](../../reviews/la-palma-la-palma-bildband-e-book-36852.html)
+> Product ID `36852` · Digistore24 productId `392067` · [HTML profile page](../../produkte/la-palma-la-palma-bildband-e-book-36852.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

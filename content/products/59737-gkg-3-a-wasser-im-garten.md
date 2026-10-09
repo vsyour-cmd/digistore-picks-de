@@ -1,6 +1,6 @@
 # GKG-3.A Wasser im Garten
 
-> Product ID `59737` · Digistore24 productId `732235` · [HTML profile page](../../reviews/gkg-3-a-wasser-im-garten-59737.html)
+> Product ID `59737` · Digistore24 productId `732235` · [HTML profile page](../../produkte/gkg-3-a-wasser-im-garten-59737.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

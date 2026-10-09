@@ -1,6 +1,6 @@
 # Die EU Lieferantenliste - Zollreform 2026
 
-> Product ID `56301` · Digistore24 productId `678210` · [HTML profile page](../../reviews/die-eu-lieferantenliste-zollreform-2026-56301.html)
+> Product ID `56301` · Digistore24 productId `678210` · [HTML profile page](../../produkte/die-eu-lieferantenliste-zollreform-2026-56301.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

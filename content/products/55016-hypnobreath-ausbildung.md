@@ -1,6 +1,6 @@
 # Hypnobreath© Ausbildung
 
-> Product ID `55016` · Digistore24 productId `632070` · [HTML profile page](../../reviews/hypnobreath-ausbildung-55016.html)
+> Product ID `55016` · Digistore24 productId `632070` · [HTML profile page](../../produkte/hypnobreath-ausbildung-55016.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

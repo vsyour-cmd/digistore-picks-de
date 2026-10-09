@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Social Media
 
-> Product ID `56967` · Digistore24 productId `701334` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-social-media-56967.html)
+> Product ID `56967` · Digistore24 productId `701334` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-social-media-56967.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

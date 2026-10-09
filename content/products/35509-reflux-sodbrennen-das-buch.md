@@ -1,6 +1,6 @@
 # Reflux Sodbrennen - Das Buch
 
-> Product ID `35509` · Digistore24 productId `368076` · [HTML profile page](../../reviews/reflux-sodbrennen-das-buch-35509.html)
+> Product ID `35509` · Digistore24 productId `368076` · [HTML profile page](../../produkte/reflux-sodbrennen-das-buch-35509.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

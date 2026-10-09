@@ -1,6 +1,6 @@
 # Zuhause Geld verdienen für Anfänger - Abo Provision!
 
-> Product ID `40711` · Digistore24 productId `453066` · [HTML profile page](../../reviews/zuhause-geld-verdienen-f-r-anf-nger-abo-provision-40711.html)
+> Product ID `40711` · Digistore24 productId `453066` · [HTML profile page](../../produkte/zuhause-geld-verdienen-f-r-anf-nger-abo-provision-40711.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

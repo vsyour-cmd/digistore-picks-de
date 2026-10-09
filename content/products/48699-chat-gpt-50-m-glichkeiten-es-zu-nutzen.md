@@ -1,6 +1,6 @@
 # Chat GPT - 50 Möglichkeiten es zu nutzen
 
-> Product ID `48699` · Digistore24 productId `561918` · [HTML profile page](../../reviews/chat-gpt-50-m-glichkeiten-es-zu-nutzen-48699.html)
+> Product ID `48699` · Digistore24 productId `561918` · [HTML profile page](../../produkte/chat-gpt-50-m-glichkeiten-es-zu-nutzen-48699.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # FUERTE: Fuerteventura Bildband [E-Book]
 
-> Product ID `34089` · Digistore24 productId `93941` · [HTML profile page](../../reviews/fuerte-fuerteventura-bildband-e-book-34089.html)
+> Product ID `34089` · Digistore24 productId `93941` · [HTML profile page](../../produkte/fuerte-fuerteventura-bildband-e-book-34089.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

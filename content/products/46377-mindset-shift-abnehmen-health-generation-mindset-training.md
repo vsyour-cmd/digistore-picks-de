@@ -1,6 +1,6 @@
 # Mindset Shift Abnehmen - health-generation Mindset-Training
 
-> Product ID `46377` · Digistore24 productId `528752` · [HTML profile page](../../reviews/mindset-shift-abnehmen-health-generation-mindset-training-46377.html)
+> Product ID `46377` · Digistore24 productId `528752` · [HTML profile page](../../produkte/mindset-shift-abnehmen-health-generation-mindset-training-46377.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der KI-Exposé-Assistent – Software für Immobilien-Exposés
 
-> Product ID `56623` · Digistore24 productId `680539` · [HTML profile page](../../reviews/der-ki-expos-assistent-software-f-r-immobilien-expos-s-56623.html)
+> Product ID `56623` · Digistore24 productId `680539` · [HTML profile page](../../produkte/der-ki-expos-assistent-software-f-r-immobilien-expos-s-56623.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ahnenforschung digital organisieren - das e-Book
 
-> Product ID `22639` · Digistore24 productId `198697` · [HTML profile page](../../reviews/ahnenforschung-digital-organisieren-das-e-book-22639.html)
+> Product ID `22639` · Digistore24 productId `198697` · [HTML profile page](../../produkte/ahnenforschung-digital-organisieren-das-e-book-22639.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 21 Tage Dopamin Detox Challenge by Bastian
 
-> Product ID `56410` · Digistore24 productId `688410` · [HTML profile page](../../reviews/21-tage-dopamin-detox-challenge-by-bastian-56410.html)
+> Product ID `56410` · Digistore24 productId `688410` · [HTML profile page](../../produkte/21-tage-dopamin-detox-challenge-by-bastian-56410.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

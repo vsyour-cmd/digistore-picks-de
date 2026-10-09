@@ -1,6 +1,6 @@
 # Adult Instagram Kurs mit 3 Hochwertige Ebooks + BONUS
 
-> Product ID `58857` · Digistore24 productId `613450` · [HTML profile page](../../reviews/adult-instagram-kurs-mit-3-hochwertige-ebooks-bonus-58857.html)
+> Product ID `58857` · Digistore24 productId `613450` · [HTML profile page](../../produkte/adult-instagram-kurs-mit-3-hochwertige-ebooks-bonus-58857.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

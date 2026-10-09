@@ -1,6 +1,6 @@
 # Meine Erfahrung mit psychologischen Eignungstests
 
-> Product ID `12783` · Digistore24 productId `88083` · [HTML profile page](../../reviews/meine-erfahrung-mit-psychologischen-eignungstests-12783.html)
+> Product ID `12783` · Digistore24 productId `88083` · [HTML profile page](../../produkte/meine-erfahrung-mit-psychologischen-eignungstests-12783.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

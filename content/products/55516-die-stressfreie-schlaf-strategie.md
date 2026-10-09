@@ -1,6 +1,6 @@
 # Die stressfreie Schlaf-Strategie
 
-> Product ID `55516` · Digistore24 productId `665594` · [HTML profile page](../../reviews/die-stressfreie-schlaf-strategie-55516.html)
+> Product ID `55516` · Digistore24 productId `665594` · [HTML profile page](../../produkte/die-stressfreie-schlaf-strategie-55516.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

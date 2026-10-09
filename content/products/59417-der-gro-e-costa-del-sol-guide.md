@@ -1,6 +1,6 @@
 # Der große Costa-del-Sol-Guide
 
-> Product ID `59417` · Digistore24 productId `735052` · [HTML profile page](../../reviews/der-gro-e-costa-del-sol-guide-59417.html)
+> Product ID `59417` · Digistore24 productId `735052` · [HTML profile page](../../produkte/der-gro-e-costa-del-sol-guide-59417.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

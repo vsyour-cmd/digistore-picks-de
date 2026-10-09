@@ -1,6 +1,6 @@
 # Videokurs (Marketing-funnel inkl. Landingpage)
 
-> Product ID `57478` · Digistore24 productId `710042` · [HTML profile page](../../reviews/videokurs-marketing-funnel-inkl-landingpage-57478.html)
+> Product ID `57478` · Digistore24 productId `710042` · [HTML profile page](../../produkte/videokurs-marketing-funnel-inkl-landingpage-57478.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

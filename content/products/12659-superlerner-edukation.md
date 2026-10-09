@@ -1,6 +1,6 @@
 # Superlerner Edukation
 
-> Product ID `12659` · Digistore24 productId `64765` · [HTML profile page](../../reviews/superlerner-edukation-12659.html)
+> Product ID `12659` · Digistore24 productId `64765` · [HTML profile page](../../produkte/superlerner-edukation-12659.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

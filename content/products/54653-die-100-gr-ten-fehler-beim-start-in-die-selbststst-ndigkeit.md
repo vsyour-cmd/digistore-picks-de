@@ -1,6 +1,6 @@
 # Die 100 größten Fehler beim Start in die Selbststständigkeit
 
-> Product ID `54653` · Digistore24 productId `647949` · [HTML profile page](../../reviews/die-100-gr-ten-fehler-beim-start-in-die-selbststst-ndigkeit-54653.html)
+> Product ID `54653` · Digistore24 productId `647949` · [HTML profile page](../../produkte/die-100-gr-ten-fehler-beim-start-in-die-selbststst-ndigkeit-54653.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

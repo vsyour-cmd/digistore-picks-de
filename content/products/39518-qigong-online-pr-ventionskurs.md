@@ -1,6 +1,6 @@
 # Qigong Online Präventionskurs
 
-> Product ID `39518` · Digistore24 productId `391836` · [HTML profile page](../../reviews/qigong-online-pr-ventionskurs-39518.html)
+> Product ID `39518` · Digistore24 productId `391836` · [HTML profile page](../../produkte/qigong-online-pr-ventionskurs-39518.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

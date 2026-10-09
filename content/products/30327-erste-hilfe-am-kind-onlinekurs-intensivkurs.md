@@ -1,6 +1,6 @@
 # Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs
 
-> Product ID `30327` · Digistore24 productId `293192` · [HTML profile page](../../reviews/erste-hilfe-am-kind-onlinekurs-intensivkurs-30327.html)
+> Product ID `30327` · Digistore24 productId `293192` · [HTML profile page](../../produkte/erste-hilfe-am-kind-onlinekurs-intensivkurs-30327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

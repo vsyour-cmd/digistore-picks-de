@@ -1,6 +1,6 @@
 # VW Bus Ausbau Anleitung als E-Book
 
-> Product ID `22733` · Digistore24 productId `200115` · [HTML profile page](../../reviews/vw-bus-ausbau-anleitung-als-e-book-22733.html)
+> Product ID `22733` · Digistore24 productId `200115` · [HTML profile page](../../produkte/vw-bus-ausbau-anleitung-als-e-book-22733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

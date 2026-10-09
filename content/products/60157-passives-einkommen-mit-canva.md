@@ -1,6 +1,6 @@
 # PASSIVES EINKOMMEN MIT CANVA
 
-> Product ID `60157` · Digistore24 productId `705640` · [HTML profile page](../../reviews/passives-einkommen-mit-canva-60157.html)
+> Product ID `60157` · Digistore24 productId `705640` · [HTML profile page](../../produkte/passives-einkommen-mit-canva-60157.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

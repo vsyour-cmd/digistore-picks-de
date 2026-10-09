@@ -1,6 +1,6 @@
 # Sleep Bundle – Schnell einschlafen und gesund durchschlafen
 
-> Product ID `16189` · Digistore24 productId `116833` · [HTML profile page](../../reviews/sleep-bundle-schnell-einschlafen-und-gesund-durchschlafen-16189.html)
+> Product ID `16189` · Digistore24 productId `116833` · [HTML profile page](../../produkte/sleep-bundle-schnell-einschlafen-und-gesund-durchschlafen-16189.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

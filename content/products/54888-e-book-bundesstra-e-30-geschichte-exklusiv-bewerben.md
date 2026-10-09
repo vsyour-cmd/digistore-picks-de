@@ -1,6 +1,6 @@
 # E-Book Bundesstraße 30 – Geschichte exklusiv bewerben
 
-> Product ID `54888` · Digistore24 productId `654604` · [HTML profile page](../../reviews/e-book-bundesstra-e-30-geschichte-exklusiv-bewerben-54888.html)
+> Product ID `54888` · Digistore24 productId `654604` · [HTML profile page](../../produkte/e-book-bundesstra-e-30-geschichte-exklusiv-bewerben-54888.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

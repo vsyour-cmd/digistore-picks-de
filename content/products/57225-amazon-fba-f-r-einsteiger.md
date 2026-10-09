@@ -1,6 +1,6 @@
 # Amazon FBA für Einsteiger
 
-> Product ID `57225` · Digistore24 productId `704203` · [HTML profile page](../../reviews/amazon-fba-f-r-einsteiger-57225.html)
+> Product ID `57225` · Digistore24 productId `704203` · [HTML profile page](../../produkte/amazon-fba-f-r-einsteiger-57225.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

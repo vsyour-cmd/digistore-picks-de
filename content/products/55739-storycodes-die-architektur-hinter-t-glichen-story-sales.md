@@ -1,6 +1,6 @@
 # Storycodes - Die Architektur hinter täglichen Story-Sales
 
-> Product ID `55739` · Digistore24 productId `670959` · [HTML profile page](../../reviews/storycodes-die-architektur-hinter-t-glichen-story-sales-55739.html)
+> Product ID `55739` · Digistore24 productId `670959` · [HTML profile page](../../produkte/storycodes-die-architektur-hinter-t-glichen-story-sales-55739.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

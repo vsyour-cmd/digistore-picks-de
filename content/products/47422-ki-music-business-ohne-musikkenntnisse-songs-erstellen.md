@@ -1,6 +1,6 @@
 # KI Music Business – Ohne Musikkenntnisse Songs erstellen
 
-> Product ID `47422` · Digistore24 productId `542976` · [HTML profile page](../../reviews/ki-music-business-ohne-musikkenntnisse-songs-erstellen-47422.html)
+> Product ID `47422` · Digistore24 productId `542976` · [HTML profile page](../../produkte/ki-music-business-ohne-musikkenntnisse-songs-erstellen-47422.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

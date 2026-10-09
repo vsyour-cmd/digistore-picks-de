@@ -1,6 +1,6 @@
 # Kreativer Malkurs für Kinder "Bunte Tiere"
 
-> Product ID `37781` · Digistore24 productId `356056` · [HTML profile page](../../reviews/kreativer-malkurs-f-r-kinder-bunte-tiere-37781.html)
+> Product ID `37781` · Digistore24 productId `356056` · [HTML profile page](../../produkte/kreativer-malkurs-f-r-kinder-bunte-tiere-37781.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

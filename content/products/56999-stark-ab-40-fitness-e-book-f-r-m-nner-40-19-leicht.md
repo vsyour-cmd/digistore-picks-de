@@ -1,6 +1,6 @@
 # Stark ab 40 – Fitness-E-Book für Männer 40+ | 19 € | leicht
 
-> Product ID `56999` · Digistore24 productId `701188` · [HTML profile page](../../reviews/stark-ab-40-fitness-e-book-f-r-m-nner-40-19-leicht-56999.html)
+> Product ID `56999` · Digistore24 productId `701188` · [HTML profile page](../../produkte/stark-ab-40-fitness-e-book-f-r-m-nner-40-19-leicht-56999.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

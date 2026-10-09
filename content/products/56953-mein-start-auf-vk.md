@@ -1,6 +1,6 @@
 # Mein Start auf VK
 
-> Product ID `56953` · Digistore24 productId `701386` · [HTML profile page](../../reviews/mein-start-auf-vk-56953.html)
+> Product ID `56953` · Digistore24 productId `701386` · [HTML profile page](../../produkte/mein-start-auf-vk-56953.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

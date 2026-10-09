@@ -1,6 +1,6 @@
 # Das KI-Creator-System
 
-> Product ID `57275` · Digistore24 productId `704252` · [HTML profile page](../../reviews/das-ki-creator-system-57275.html)
+> Product ID `57275` · Digistore24 productId `704252` · [HTML profile page](../../produkte/das-ki-creator-system-57275.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

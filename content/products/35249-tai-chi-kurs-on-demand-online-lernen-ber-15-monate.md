@@ -1,6 +1,6 @@
 # Tai Chi Kurs on demand - online lernen über 15 Monate
 
-> Product ID `35249` · Digistore24 productId `351146` · [HTML profile page](../../reviews/tai-chi-kurs-on-demand-online-lernen-ber-15-monate-35249.html)
+> Product ID `35249` · Digistore24 productId `351146` · [HTML profile page](../../produkte/tai-chi-kurs-on-demand-online-lernen-ber-15-monate-35249.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

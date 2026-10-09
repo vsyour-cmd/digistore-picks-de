@@ -1,6 +1,6 @@
 # „Zurück zum Ursprung“ - Der einzigartige Onlinekurs
 
-> Product ID `31800` · Digistore24 productId `472467` · [HTML profile page](../../reviews/zur-ck-zum-ursprung-der-einzigartige-onlinekurs-31800.html)
+> Product ID `31800` · Digistore24 productId `472467` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-der-einzigartige-onlinekurs-31800.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

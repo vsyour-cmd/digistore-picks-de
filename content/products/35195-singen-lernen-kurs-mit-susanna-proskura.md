@@ -1,6 +1,6 @@
 # Singen lernen- Kurs mit Susanna Proskura
 
-> Product ID `35195` · Digistore24 productId `394849` · [HTML profile page](../../reviews/singen-lernen-kurs-mit-susanna-proskura-35195.html)
+> Product ID `35195` · Digistore24 productId `394849` · [HTML profile page](../../produkte/singen-lernen-kurs-mit-susanna-proskura-35195.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

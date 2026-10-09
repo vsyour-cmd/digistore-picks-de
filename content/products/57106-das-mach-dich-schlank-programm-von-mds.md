@@ -1,6 +1,6 @@
 # Das Mach dich schlank Programm von MDS
 
-> Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../reviews/das-mach-dich-schlank-programm-von-mds-57106.html)
+> Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../produkte/das-mach-dich-schlank-programm-von-mds-57106.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

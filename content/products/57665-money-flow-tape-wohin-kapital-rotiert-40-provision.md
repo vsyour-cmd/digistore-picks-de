@@ -1,6 +1,6 @@
 # Money Flow Tape – Wohin Kapital rotiert · 40 % Provision
 
-> Product ID `57665` · Digistore24 productId `712825` · [HTML profile page](../../reviews/money-flow-tape-wohin-kapital-rotiert-40-provision-57665.html)
+> Product ID `57665` · Digistore24 productId `712825` · [HTML profile page](../../produkte/money-flow-tape-wohin-kapital-rotiert-40-provision-57665.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

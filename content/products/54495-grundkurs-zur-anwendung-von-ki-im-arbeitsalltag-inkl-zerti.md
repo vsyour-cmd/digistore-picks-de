@@ -1,6 +1,6 @@
 # Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti
 
-> Product ID `54495` · Digistore24 productId `643686` · [HTML profile page](../../reviews/grundkurs-zur-anwendung-von-ki-im-arbeitsalltag-inkl-zerti-54495.html)
+> Product ID `54495` · Digistore24 productId `643686` · [HTML profile page](../../produkte/grundkurs-zur-anwendung-von-ki-im-arbeitsalltag-inkl-zerti-54495.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

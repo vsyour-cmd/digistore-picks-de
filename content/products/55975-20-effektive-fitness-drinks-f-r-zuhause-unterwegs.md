@@ -1,6 +1,6 @@
 # 20 effektive Fitness Drinks für Zuhause & Unterwegs
 
-> Product ID `55975` · Digistore24 productId `677845` · [HTML profile page](../../reviews/20-effektive-fitness-drinks-f-r-zuhause-unterwegs-55975.html)
+> Product ID `55975` · Digistore24 productId `677845` · [HTML profile page](../../produkte/20-effektive-fitness-drinks-f-r-zuhause-unterwegs-55975.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

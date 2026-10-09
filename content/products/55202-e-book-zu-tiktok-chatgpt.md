@@ -1,6 +1,6 @@
 # E-Book zu TikTok  ChatGPT
 
-> Product ID `55202` · Digistore24 productId `661107` · [HTML profile page](../../reviews/e-book-zu-tiktok-chatgpt-55202.html)
+> Product ID `55202` · Digistore24 productId `661107` · [HTML profile page](../../produkte/e-book-zu-tiktok-chatgpt-55202.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

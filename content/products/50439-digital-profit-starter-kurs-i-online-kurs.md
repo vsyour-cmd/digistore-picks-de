@@ -1,6 +1,6 @@
 # Digital Profit Starter Kurs I Online Kurs
 
-> Product ID `50439` · Digistore24 productId `578339` · [HTML profile page](../../reviews/digital-profit-starter-kurs-i-online-kurs-50439.html)
+> Product ID `50439` · Digistore24 productId `578339` · [HTML profile page](../../produkte/digital-profit-starter-kurs-i-online-kurs-50439.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

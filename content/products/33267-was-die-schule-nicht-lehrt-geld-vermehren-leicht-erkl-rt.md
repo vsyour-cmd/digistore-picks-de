@@ -1,6 +1,6 @@
 # Was die Schule nicht lehrt - Geld vermehren leicht erklärt
 
-> Product ID `33267` · Digistore24 productId `333486` · [HTML profile page](../../reviews/was-die-schule-nicht-lehrt-geld-vermehren-leicht-erkl-rt-33267.html)
+> Product ID `33267` · Digistore24 productId `333486` · [HTML profile page](../../produkte/was-die-schule-nicht-lehrt-geld-vermehren-leicht-erkl-rt-33267.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

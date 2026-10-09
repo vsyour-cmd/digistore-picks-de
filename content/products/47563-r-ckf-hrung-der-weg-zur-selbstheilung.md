@@ -1,6 +1,6 @@
 # Rückführung - Der Weg zur Selbstheilung
 
-> Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../reviews/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)
+> Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../produkte/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

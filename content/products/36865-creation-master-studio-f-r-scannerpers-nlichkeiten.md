@@ -1,6 +1,6 @@
 # Creation Master Studio - für Scannerpersönlichkeiten
 
-> Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../reviews/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)
+> Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../produkte/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

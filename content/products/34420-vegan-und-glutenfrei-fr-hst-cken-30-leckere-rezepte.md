@@ -1,6 +1,6 @@
 # Vegan und glutenfrei Frühstücken - 30 leckere Rezepte
 
-> Product ID `34420` · Digistore24 productId `352781` · [HTML profile page](../../reviews/vegan-und-glutenfrei-fr-hst-cken-30-leckere-rezepte-34420.html)
+> Product ID `34420` · Digistore24 productId `352781` · [HTML profile page](../../produkte/vegan-und-glutenfrei-fr-hst-cken-30-leckere-rezepte-34420.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

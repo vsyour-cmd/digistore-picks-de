@@ -1,6 +1,6 @@
 # Nexus Academy - New Era x Ultimate Scale
 
-> Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../reviews/nexus-academy-new-era-x-ultimate-scale-57512.html)
+> Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../produkte/nexus-academy-new-era-x-ultimate-scale-57512.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

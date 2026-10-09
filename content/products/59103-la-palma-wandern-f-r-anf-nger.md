@@ -1,6 +1,6 @@
 # La Palma Wandern für Anfänger
 
-> Product ID `59103` · Digistore24 productId `731803` · [HTML profile page](../../reviews/la-palma-wandern-f-r-anf-nger-59103.html)
+> Product ID `59103` · Digistore24 productId `731803` · [HTML profile page](../../produkte/la-palma-wandern-f-r-anf-nger-59103.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

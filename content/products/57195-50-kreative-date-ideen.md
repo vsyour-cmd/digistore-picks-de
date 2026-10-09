@@ -1,6 +1,6 @@
 # 50 kreative Date-Ideen
 
-> Product ID `57195` · Digistore24 productId `701953` · [HTML profile page](../../reviews/50-kreative-date-ideen-57195.html)
+> Product ID `57195` · Digistore24 productId `701953` · [HTML profile page](../../produkte/50-kreative-date-ideen-57195.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

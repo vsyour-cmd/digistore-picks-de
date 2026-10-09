@@ -1,6 +1,6 @@
 # EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)
 
-> Product ID `56483` · Digistore24 productId `690545` · [HTML profile page](../../reviews/e-r-excel-vorlage-f-r-kleinunternehmer-deutschland-56483.html)
+> Product ID `56483` · Digistore24 productId `690545` · [HTML profile page](../../produkte/e-r-excel-vorlage-f-r-kleinunternehmer-deutschland-56483.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

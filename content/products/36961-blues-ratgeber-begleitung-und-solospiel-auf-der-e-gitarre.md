@@ -1,6 +1,6 @@
 # Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre
 
-> Product ID `36961` · Digistore24 productId `394565` · [HTML profile page](../../reviews/blues-ratgeber-begleitung-und-solospiel-auf-der-e-gitarre-36961.html)
+> Product ID `36961` · Digistore24 productId `394565` · [HTML profile page](../../produkte/blues-ratgeber-begleitung-und-solospiel-auf-der-e-gitarre-36961.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # SIC - Checkliste zur Bestandsaufnahme bei Verkaufsstagnation
 
-> Product ID `56778` · Digistore24 productId `692376` · [HTML profile page](../../reviews/sic-checkliste-zur-bestandsaufnahme-bei-verkaufsstagnation-56778.html)
+> Product ID `56778` · Digistore24 productId `692376` · [HTML profile page](../../produkte/sic-checkliste-zur-bestandsaufnahme-bei-verkaufsstagnation-56778.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

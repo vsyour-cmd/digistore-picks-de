@@ -1,6 +1,6 @@
 # Fachkundige Stellungnahme
 
-> Product ID `35105` · Digistore24 productId `333355` · [HTML profile page](../../reviews/fachkundige-stellungnahme-35105.html)
+> Product ID `35105` · Digistore24 productId `333355` · [HTML profile page](../../produkte/fachkundige-stellungnahme-35105.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Social Media Jahres Planer
 
-> Product ID `30856` · Digistore24 productId `298305` · [HTML profile page](../../reviews/social-media-jahres-planer-30856.html)
+> Product ID `30856` · Digistore24 productId `298305` · [HTML profile page](../../produkte/social-media-jahres-planer-30856.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

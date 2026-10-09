@@ -1,6 +1,6 @@
 # FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo
 
-> Product ID `58728` · Digistore24 productId `720586` · [HTML profile page](../../reviews/f-hrerscheinkompass-kompass-plus-leitfaden-plus-praxis-vo-58728.html)
+> Product ID `58728` · Digistore24 productId `720586` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-plus-leitfaden-plus-praxis-vo-58728.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

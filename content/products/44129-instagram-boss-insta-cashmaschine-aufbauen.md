@@ -1,6 +1,6 @@
 # Instagram Boss - Insta Cashmaschine aufbauen
 
-> Product ID `44129` · Digistore24 productId `482124` · [HTML profile page](../../reviews/instagram-boss-insta-cashmaschine-aufbauen-44129.html)
+> Product ID `44129` · Digistore24 productId `482124` · [HTML profile page](../../produkte/instagram-boss-insta-cashmaschine-aufbauen-44129.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

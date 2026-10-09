@@ -1,6 +1,6 @@
 # Bangkok Bier und Gitterstäbe
 
-> Product ID `58548` · Digistore24 productId `715806` · [HTML profile page](../../reviews/bangkok-bier-und-gitterst-be-58548.html)
+> Product ID `58548` · Digistore24 productId `715806` · [HTML profile page](../../produkte/bangkok-bier-und-gitterst-be-58548.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

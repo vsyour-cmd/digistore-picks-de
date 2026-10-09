@@ -1,6 +1,6 @@
 # Content König-100% automatische XXL-Artikelerstellung mit KI
 
-> Product ID `44619` · Digistore24 productId `540204` · [HTML profile page](../../reviews/content-k-nig-100-automatische-xxl-artikelerstellung-mit-ki-44619.html)
+> Product ID `44619` · Digistore24 productId `540204` · [HTML profile page](../../produkte/content-k-nig-100-automatische-xxl-artikelerstellung-mit-ki-44619.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

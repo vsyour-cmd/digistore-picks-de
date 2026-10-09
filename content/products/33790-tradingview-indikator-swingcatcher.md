@@ -1,6 +1,6 @@
 # TradingView Indikator | SwingCatcher
 
-> Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../reviews/tradingview-indikator-swingcatcher-33790.html)
+> Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../produkte/tradingview-indikator-swingcatcher-33790.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

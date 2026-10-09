@@ -1,6 +1,6 @@
 # Tierschutz-Guide
 
-> Product ID `55040` · Digistore24 productId `614526` · [HTML profile page](../../reviews/tierschutz-guide-55040.html)
+> Product ID `55040` · Digistore24 productId `614526` · [HTML profile page](../../produkte/tierschutz-guide-55040.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

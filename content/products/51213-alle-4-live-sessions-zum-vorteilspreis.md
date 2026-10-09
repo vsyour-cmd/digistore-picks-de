@@ -1,6 +1,6 @@
 # Alle 4 Live-Sessions zum Vorteilspreis!
 
-> Product ID `51213` · Digistore24 productId `594364` · [HTML profile page](../../reviews/alle-4-live-sessions-zum-vorteilspreis-51213.html)
+> Product ID `51213` · Digistore24 productId `594364` · [HTML profile page](../../produkte/alle-4-live-sessions-zum-vorteilspreis-51213.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Websites & SEO für KMU weltweit: 30 % Provision
 
-> Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../reviews/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)
+> Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../produkte/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

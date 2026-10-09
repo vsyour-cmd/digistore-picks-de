@@ -1,6 +1,6 @@
 # Deine Fitnessdrinks
 
-> Product ID `56070` · Digistore24 productId `680183` · [HTML profile page](../../reviews/deine-fitnessdrinks-56070.html)
+> Product ID `56070` · Digistore24 productId `680183` · [HTML profile page](../../produkte/deine-fitnessdrinks-56070.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

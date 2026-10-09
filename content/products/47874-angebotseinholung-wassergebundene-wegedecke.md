@@ -1,6 +1,6 @@
 # Angebotseinholung wassergebundene Wegedecke
 
-> Product ID `47874` · Digistore24 productId `498168` · [HTML profile page](../../reviews/angebotseinholung-wassergebundene-wegedecke-47874.html)
+> Product ID `47874` · Digistore24 productId `498168` · [HTML profile page](../../produkte/angebotseinholung-wassergebundene-wegedecke-47874.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

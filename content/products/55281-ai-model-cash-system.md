@@ -1,6 +1,6 @@
 # AI Model Cash System
 
-> Product ID `55281` · Digistore24 productId `662782` · [HTML profile page](../../reviews/ai-model-cash-system-55281.html)
+> Product ID `55281` · Digistore24 productId `662782` · [HTML profile page](../../produkte/ai-model-cash-system-55281.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

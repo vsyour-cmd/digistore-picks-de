@@ -1,6 +1,6 @@
 # Erfolg ist Kopfsache
 
-> Product ID `59785` · Digistore24 productId `735332` · [HTML profile page](../../reviews/erfolg-ist-kopfsache-59785.html)
+> Product ID `59785` · Digistore24 productId `735332` · [HTML profile page](../../produkte/erfolg-ist-kopfsache-59785.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

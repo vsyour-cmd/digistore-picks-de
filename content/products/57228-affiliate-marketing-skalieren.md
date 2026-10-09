@@ -1,6 +1,6 @@
 # Affiliate Marketing skalieren
 
-> Product ID `57228` · Digistore24 productId `704206` · [HTML profile page](../../reviews/affiliate-marketing-skalieren-57228.html)
+> Product ID `57228` · Digistore24 productId `704206` · [HTML profile page](../../produkte/affiliate-marketing-skalieren-57228.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

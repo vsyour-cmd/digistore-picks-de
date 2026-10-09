@@ -1,6 +1,6 @@
 # Gold/Silber-Ratio Scanner - automatische Telegram-Signale
 
-> Product ID `59255` · Digistore24 productId `728830` · [HTML profile page](../../reviews/gold-silber-ratio-scanner-automatische-telegram-signale-59255.html)
+> Product ID `59255` · Digistore24 productId `728830` · [HTML profile page](../../produkte/gold-silber-ratio-scanner-automatische-telegram-signale-59255.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

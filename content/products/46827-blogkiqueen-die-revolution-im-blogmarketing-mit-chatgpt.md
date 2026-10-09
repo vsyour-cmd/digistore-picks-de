@@ -1,6 +1,6 @@
 # BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT
 
-> Product ID `46827` · Digistore24 productId `516555` · [HTML profile page](../../reviews/blogkiqueen-die-revolution-im-blogmarketing-mit-chatgpt-46827.html)
+> Product ID `46827` · Digistore24 productId `516555` · [HTML profile page](../../produkte/blogkiqueen-die-revolution-im-blogmarketing-mit-chatgpt-46827.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

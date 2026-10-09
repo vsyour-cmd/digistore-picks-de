@@ -1,6 +1,6 @@
 # Verkaufsschlager: Easy Income System - von Gunnar Kessler
 
-> Product ID `16957` · Digistore24 productId `273637` · [HTML profile page](../../reviews/verkaufsschlager-easy-income-system-von-gunnar-kessler-16957.html)
+> Product ID `16957` · Digistore24 productId `273637` · [HTML profile page](../../produkte/verkaufsschlager-easy-income-system-von-gunnar-kessler-16957.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

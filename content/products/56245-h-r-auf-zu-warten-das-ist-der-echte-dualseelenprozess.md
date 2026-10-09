@@ -1,6 +1,6 @@
 # Hör auf zu warten – das ist der echte Dualseelenprozess
 
-> Product ID `56245` · Digistore24 productId `667607` · [HTML profile page](../../reviews/h-r-auf-zu-warten-das-ist-der-echte-dualseelenprozess-56245.html)
+> Product ID `56245` · Digistore24 productId `667607` · [HTML profile page](../../produkte/h-r-auf-zu-warten-das-ist-der-echte-dualseelenprozess-56245.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

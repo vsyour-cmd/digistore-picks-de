@@ -1,6 +1,6 @@
 # Berufs-Ausbildung Privatdetektiv/in
 
-> Product ID `54407` · Digistore24 productId `632952` · [HTML profile page](../../reviews/berufs-ausbildung-privatdetektiv-in-54407.html)
+> Product ID `54407` · Digistore24 productId `632952` · [HTML profile page](../../produkte/berufs-ausbildung-privatdetektiv-in-54407.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

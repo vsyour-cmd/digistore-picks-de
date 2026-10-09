@@ -1,6 +1,6 @@
 # Mit Hypnologik das Leben verbessern
 
-> Product ID `27081` · Digistore24 productId `248660` · [HTML profile page](../../reviews/mit-hypnologik-das-leben-verbessern-27081.html)
+> Product ID `27081` · Digistore24 productId `248660` · [HTML profile page](../../produkte/mit-hypnologik-das-leben-verbessern-27081.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

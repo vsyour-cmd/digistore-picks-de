@@ -1,6 +1,6 @@
 # Yoga Fit - Das Yogaworkoutprogramm
 
-> Product ID `30395` · Digistore24 productId `274760` · [HTML profile page](../../reviews/yoga-fit-das-yogaworkoutprogramm-30395.html)
+> Product ID `30395` · Digistore24 productId `274760` · [HTML profile page](../../produkte/yoga-fit-das-yogaworkoutprogramm-30395.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

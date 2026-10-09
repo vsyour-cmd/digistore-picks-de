@@ -1,6 +1,6 @@
 # Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE
 
-> Product ID `51109` · Digistore24 productId `562471` · [HTML profile page](../../reviews/adobe-lightroom-presets-boudoir-secrets-masterclass-de-51109.html)
+> Product ID `51109` · Digistore24 productId `562471` · [HTML profile page](../../produkte/adobe-lightroom-presets-boudoir-secrets-masterclass-de-51109.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

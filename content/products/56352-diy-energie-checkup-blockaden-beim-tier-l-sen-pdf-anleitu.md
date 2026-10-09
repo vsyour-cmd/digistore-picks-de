@@ -1,6 +1,6 @@
 # DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu
 
-> Product ID `56352` · Digistore24 productId `686756` · [HTML profile page](../../reviews/diy-energie-checkup-blockaden-beim-tier-l-sen-pdf-anleitu-56352.html)
+> Product ID `56352` · Digistore24 productId `686756` · [HTML profile page](../../produkte/diy-energie-checkup-blockaden-beim-tier-l-sen-pdf-anleitu-56352.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

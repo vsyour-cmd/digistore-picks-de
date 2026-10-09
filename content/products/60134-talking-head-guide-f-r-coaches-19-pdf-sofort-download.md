@@ -1,6 +1,6 @@
 # Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download
 
-> Product ID `60134` · Digistore24 productId `740688` · [HTML profile page](../../reviews/talking-head-guide-f-r-coaches-19-pdf-sofort-download-60134.html)
+> Product ID `60134` · Digistore24 productId `740688` · [HTML profile page](../../produkte/talking-head-guide-f-r-coaches-19-pdf-sofort-download-60134.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

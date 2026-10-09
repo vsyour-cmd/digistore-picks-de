@@ -1,6 +1,6 @@
 # NextGenFusion - Starter
 
-> Product ID `50501` · Digistore24 productId `580819` · [HTML profile page](../../reviews/nextgenfusion-starter-50501.html)
+> Product ID `50501` · Digistore24 productId `580819` · [HTML profile page](../../produkte/nextgenfusion-starter-50501.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

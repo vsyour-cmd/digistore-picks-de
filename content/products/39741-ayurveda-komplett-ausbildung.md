@@ -1,6 +1,6 @@
 # Ayurveda-Komplett-Ausbildung
 
-> Product ID `39741` · Digistore24 productId `369670` · [HTML profile page](../../reviews/ayurveda-komplett-ausbildung-39741.html)
+> Product ID `39741` · Digistore24 productId `369670` · [HTML profile page](../../produkte/ayurveda-komplett-ausbildung-39741.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

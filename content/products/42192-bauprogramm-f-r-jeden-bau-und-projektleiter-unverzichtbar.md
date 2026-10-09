@@ -1,6 +1,6 @@
 # Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar
 
-> Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../reviews/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)
+> Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../produkte/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

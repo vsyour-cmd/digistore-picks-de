@@ -1,6 +1,6 @@
 # Bauanleitung - Peugeot Rifter Kombibett
 
-> Product ID `35162` · Digistore24 productId `330351` · [HTML profile page](../../reviews/bauanleitung-peugeot-rifter-kombibett-35162.html)
+> Product ID `35162` · Digistore24 productId `330351` · [HTML profile page](../../produkte/bauanleitung-peugeot-rifter-kombibett-35162.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

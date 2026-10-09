@@ -1,6 +1,6 @@
 # FLEX3 - Online auf die Drogen MPU vorbereiten
 
-> Product ID `36417` · Digistore24 productId `369514` · [HTML profile page](../../reviews/flex3-online-auf-die-drogen-mpu-vorbereiten-36417.html)
+> Product ID `36417` · Digistore24 productId `369514` · [HTML profile page](../../produkte/flex3-online-auf-die-drogen-mpu-vorbereiten-36417.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

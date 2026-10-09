@@ -1,6 +1,6 @@
 # Business Bundle – Erfolgreich, glücklich und finanziell frei
 
-> Product ID `16203` · Digistore24 productId `133099` · [HTML profile page](../../reviews/business-bundle-erfolgreich-gl-cklich-und-finanziell-frei-16203.html)
+> Product ID `16203` · Digistore24 productId `133099` · [HTML profile page](../../produkte/business-bundle-erfolgreich-gl-cklich-und-finanziell-frei-16203.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

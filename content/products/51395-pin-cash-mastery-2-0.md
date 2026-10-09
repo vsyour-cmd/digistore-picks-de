@@ -1,6 +1,6 @@
 # Pin-Cash Mastery 2.0
 
-> Product ID `51395` · Digistore24 productId `577857` · [HTML profile page](../../reviews/pin-cash-mastery-2-0-51395.html)
+> Product ID `51395` · Digistore24 productId `577857` · [HTML profile page](../../produkte/pin-cash-mastery-2-0-51395.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

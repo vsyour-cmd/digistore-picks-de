@@ -1,6 +1,6 @@
 # Gründerinnen-Kurs mit über 200 Seiten Praxis-Material
 
-> Product ID `59435` · Digistore24 productId `735383` · [HTML profile page](../../reviews/gr-nderinnen-kurs-mit-ber-200-seiten-praxis-material-59435.html)
+> Product ID `59435` · Digistore24 productId `735383` · [HTML profile page](../../produkte/gr-nderinnen-kurs-mit-ber-200-seiten-praxis-material-59435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

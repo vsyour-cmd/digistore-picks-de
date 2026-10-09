@@ -1,6 +1,6 @@
 # So baust du eine Community auf WhatsApp
 
-> Product ID `56931` · Digistore24 productId `701364` · [HTML profile page](../../reviews/so-baust-du-eine-community-auf-whatsapp-56931.html)
+> Product ID `56931` · Digistore24 productId `701364` · [HTML profile page](../../produkte/so-baust-du-eine-community-auf-whatsapp-56931.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # CashCockpit - Das GeldKontroll-System | Exceltool und Videos
 
-> Product ID `56220` · Digistore24 productId `679666` · [HTML profile page](../../reviews/cashcockpit-das-geldkontroll-system-exceltool-und-videos-56220.html)
+> Product ID `56220` · Digistore24 productId `679666` · [HTML profile page](../../produkte/cashcockpit-das-geldkontroll-system-exceltool-und-videos-56220.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

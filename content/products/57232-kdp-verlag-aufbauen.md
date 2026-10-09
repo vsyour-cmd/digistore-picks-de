@@ -1,6 +1,6 @@
 # KDP-Verlag aufbauen
 
-> Product ID `57232` · Digistore24 productId `704210` · [HTML profile page](../../reviews/kdp-verlag-aufbauen-57232.html)
+> Product ID `57232` · Digistore24 productId `704210` · [HTML profile page](../../produkte/kdp-verlag-aufbauen-57232.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

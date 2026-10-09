@@ -1,6 +1,6 @@
 # Photoshop CC Bildbearbeitung Komplettkurs
 
-> Product ID `59635` · Digistore24 productId `734140` · [HTML profile page](../../reviews/photoshop-cc-bildbearbeitung-komplettkurs-59635.html)
+> Product ID `59635` · Digistore24 productId `734140` · [HTML profile page](../../produkte/photoshop-cc-bildbearbeitung-komplettkurs-59635.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

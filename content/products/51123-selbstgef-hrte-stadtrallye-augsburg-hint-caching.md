@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Augsburg | Hint-Caching
 
-> Product ID `51123` · Digistore24 productId `433657` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-augsburg-hint-caching-51123.html)
+> Product ID `51123` · Digistore24 productId `433657` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-augsburg-hint-caching-51123.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

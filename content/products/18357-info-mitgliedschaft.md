@@ -1,6 +1,6 @@
 # Info-Mitgliedschaft
 
-> Product ID `18357` · Digistore24 productId `59099` · [HTML profile page](../../reviews/info-mitgliedschaft-18357.html)
+> Product ID `18357` · Digistore24 productId `59099` · [HTML profile page](../../produkte/info-mitgliedschaft-18357.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

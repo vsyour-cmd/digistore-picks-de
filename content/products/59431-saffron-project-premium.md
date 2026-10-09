@@ -1,6 +1,6 @@
 # Saffron Project Premium | Проект Шафран Премиум
 
-> Product ID `59431` · Digistore24 productId `724814` · [HTML profile page](../../reviews/saffron-project-premium-59431.html)
+> Product ID `59431` · Digistore24 productId `724814` · [HTML profile page](../../produkte/saffron-project-premium-59431.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

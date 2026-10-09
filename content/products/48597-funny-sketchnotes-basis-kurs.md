@@ -1,6 +1,6 @@
 # Funny Sketchnotes Basis Kurs
 
-> Product ID `48597` · Digistore24 productId `235281` · [HTML profile page](../../reviews/funny-sketchnotes-basis-kurs-48597.html)
+> Product ID `48597` · Digistore24 productId `235281` · [HTML profile page](../../produkte/funny-sketchnotes-basis-kurs-48597.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

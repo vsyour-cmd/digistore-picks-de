@@ -1,6 +1,6 @@
 # Persönliches Beziehungs-E-Mail Coaching
 
-> Product ID `30056` · Digistore24 productId `155861` · [HTML profile page](../../reviews/pers-nliches-beziehungs-e-mail-coaching-30056.html)
+> Product ID `30056` · Digistore24 productId `155861` · [HTML profile page](../../produkte/pers-nliches-beziehungs-e-mail-coaching-30056.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kostenloses Training - Automatisierte Online-Einnahmen
 
-> Product ID `50491` · Digistore24 productId `571680` · [HTML profile page](../../reviews/kostenloses-training-automatisierte-online-einnahmen-50491.html)
+> Product ID `50491` · Digistore24 productId `571680` · [HTML profile page](../../produkte/kostenloses-training-automatisierte-online-einnahmen-50491.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

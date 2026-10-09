@@ -1,6 +1,6 @@
 # Selbstudium  Klassische Gesichtsbehandlung
 
-> Product ID `55746` · Digistore24 productId `671942` · [HTML profile page](../../reviews/selbstudium-klassische-gesichtsbehandlung-55746.html)
+> Product ID `55746` · Digistore24 productId `671942` · [HTML profile page](../../produkte/selbstudium-klassische-gesichtsbehandlung-55746.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

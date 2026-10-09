@@ -1,6 +1,6 @@
 # Parkinson RESET dein Weg zu Stabilität, Energie, Freude
 
-> Product ID `55180` · Digistore24 productId `645643` · [HTML profile page](../../reviews/parkinson-reset-dein-weg-zu-stabilit-t-energie-freude-55180.html)
+> Product ID `55180` · Digistore24 productId `645643` · [HTML profile page](../../produkte/parkinson-reset-dein-weg-zu-stabilit-t-energie-freude-55180.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

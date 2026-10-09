@@ -1,6 +1,6 @@
 # So wirst du Influencer auf Facebook
 
-> Product ID `56923` · Digistore24 productId `701355` · [HTML profile page](../../reviews/so-wirst-du-influencer-auf-facebook-56923.html)
+> Product ID `56923` · Digistore24 productId `701355` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-facebook-56923.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

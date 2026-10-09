@@ -1,6 +1,6 @@
 # eBook Spanische Kurzgeschichten für Anfänger
 
-> Product ID `53013` · Digistore24 productId `614660` · [HTML profile page](../../reviews/ebook-spanische-kurzgeschichten-f-r-anf-nger-53013.html)
+> Product ID `53013` · Digistore24 productId `614660` · [HTML profile page](../../produkte/ebook-spanische-kurzgeschichten-f-r-anf-nger-53013.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

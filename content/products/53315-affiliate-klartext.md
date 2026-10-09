@@ -1,6 +1,6 @@
 # Affiliate Klartext
 
-> Product ID `53315` · Digistore24 productId `624283` · [HTML profile page](../../reviews/affiliate-klartext-53315.html)
+> Product ID `53315` · Digistore24 productId `624283` · [HTML profile page](../../produkte/affiliate-klartext-53315.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

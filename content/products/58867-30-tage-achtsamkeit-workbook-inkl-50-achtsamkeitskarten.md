@@ -1,6 +1,6 @@
 # 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten
 
-> Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../reviews/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)
+> Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../produkte/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 9 Online-Business-Modelle im Überblick
 
-> Product ID `58816` · Digistore24 productId `503378` · [HTML profile page](../../reviews/9-online-business-modelle-im-berblick-58816.html)
+> Product ID `58816` · Digistore24 productId `503378` · [HTML profile page](../../produkte/9-online-business-modelle-im-berblick-58816.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

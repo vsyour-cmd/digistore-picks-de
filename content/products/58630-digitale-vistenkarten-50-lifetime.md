@@ -1,6 +1,6 @@
 # Digitale Vistenkarten - 50% Lifetime
 
-> Product ID `58630` · Digistore24 productId `723280` · [HTML profile page](../../reviews/digitale-vistenkarten-50-lifetime-58630.html)
+> Product ID `58630` · Digistore24 productId `723280` · [HTML profile page](../../produkte/digitale-vistenkarten-50-lifetime-58630.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

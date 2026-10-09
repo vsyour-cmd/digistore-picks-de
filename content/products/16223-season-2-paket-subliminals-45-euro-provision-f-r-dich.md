@@ -1,6 +1,6 @@
 # Season 2 Paket (Subliminals) – 45 Euro Provision für dich!
 
-> Product ID `16223` · Digistore24 productId `133191` · [HTML profile page](../../reviews/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html)
+> Product ID `16223` · Digistore24 productId `133191` · [HTML profile page](../../produkte/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Wachstumsmarkt Parkinson – werde Partner unserer Bücher.
 
-> Product ID `55155` · Digistore24 productId `654187` · [HTML profile page](../../reviews/wachstumsmarkt-parkinson-werde-partner-unserer-b-cher-55155.html)
+> Product ID `55155` · Digistore24 productId `654187` · [HTML profile page](../../produkte/wachstumsmarkt-parkinson-werde-partner-unserer-b-cher-55155.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

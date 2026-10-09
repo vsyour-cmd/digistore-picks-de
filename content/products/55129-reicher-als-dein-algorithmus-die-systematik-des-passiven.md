@@ -1,6 +1,6 @@
 # Reicher als Dein Algorithmus - Die Systematik des passiven..
 
-> Product ID `55129` · Digistore24 productId `658591` · [HTML profile page](../../reviews/reicher-als-dein-algorithmus-die-systematik-des-passiven-55129.html)
+> Product ID `55129` · Digistore24 productId `658591` · [HTML profile page](../../produkte/reicher-als-dein-algorithmus-die-systematik-des-passiven-55129.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

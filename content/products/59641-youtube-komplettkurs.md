@@ -1,6 +1,6 @@
 # Youtube Komplettkurs
 
-> Product ID `59641` · Digistore24 productId `734231` · [HTML profile page](../../reviews/youtube-komplettkurs-59641.html)
+> Product ID `59641` · Digistore24 productId `734231` · [HTML profile page](../../produkte/youtube-komplettkurs-59641.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

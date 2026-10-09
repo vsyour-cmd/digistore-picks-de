@@ -1,6 +1,6 @@
 # GKG-3.B Mauern im Garten
 
-> Product ID `59738` · Digistore24 productId `732238` · [HTML profile page](../../reviews/gkg-3-b-mauern-im-garten-59738.html)
+> Product ID `59738` · Digistore24 productId `732238` · [HTML profile page](../../produkte/gkg-3-b-mauern-im-garten-59738.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

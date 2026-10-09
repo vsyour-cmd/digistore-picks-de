@@ -1,6 +1,6 @@
 # Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials
 
-> Product ID `34468` · Digistore24 productId `152767` · [HTML profile page](../../reviews/mitgliederbereich-f-r-1-500-rohkost-rezepte-50-tutorials-34468.html)
+> Product ID `34468` · Digistore24 productId `152767` · [HTML profile page](../../produkte/mitgliederbereich-f-r-1-500-rohkost-rezepte-50-tutorials-34468.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

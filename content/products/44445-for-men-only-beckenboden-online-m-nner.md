@@ -1,6 +1,6 @@
 # for men only "Beckenboden-ONLINE Männer"
 
-> Product ID `44445` · Digistore24 productId `501740` · [HTML profile page](../../reviews/for-men-only-beckenboden-online-m-nner-44445.html)
+> Product ID `44445` · Digistore24 productId `501740` · [HTML profile page](../../produkte/for-men-only-beckenboden-online-m-nner-44445.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

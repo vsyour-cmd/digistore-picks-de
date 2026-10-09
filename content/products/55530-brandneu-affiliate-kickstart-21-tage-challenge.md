@@ -1,6 +1,6 @@
 # BRANDNEU - Affiliate-Kickstart - 21-Tage-Challenge
 
-> Product ID `55530` · Digistore24 productId `640341` · [HTML profile page](../../reviews/brandneu-affiliate-kickstart-21-tage-challenge-55530.html)
+> Product ID `55530` · Digistore24 productId `640341` · [HTML profile page](../../produkte/brandneu-affiliate-kickstart-21-tage-challenge-55530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

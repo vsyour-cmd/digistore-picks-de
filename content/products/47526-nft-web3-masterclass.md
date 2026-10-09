@@ -1,6 +1,6 @@
 # NFT & Web3 Masterclass
 
-> Product ID `47526` · Digistore24 productId `526446` · [HTML profile page](../../reviews/nft-web3-masterclass-47526.html)
+> Product ID `47526` · Digistore24 productId `526446` · [HTML profile page](../../produkte/nft-web3-masterclass-47526.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

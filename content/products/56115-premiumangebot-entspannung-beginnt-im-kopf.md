@@ -1,6 +1,6 @@
 # Premiumangebot Entspannung beginnt im Kopf
 
-> Product ID `56115` · Digistore24 productId `680855` · [HTML profile page](../../reviews/premiumangebot-entspannung-beginnt-im-kopf-56115.html)
+> Product ID `56115` · Digistore24 productId `680855` · [HTML profile page](../../produkte/premiumangebot-entspannung-beginnt-im-kopf-56115.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 2Punkt-Onlineschule
 
-> Product ID `37263` · Digistore24 productId `389005` · [HTML profile page](../../reviews/die-2punkt-onlineschule-37263.html)
+> Product ID `37263` · Digistore24 productId `389005` · [HTML profile page](../../produkte/die-2punkt-onlineschule-37263.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

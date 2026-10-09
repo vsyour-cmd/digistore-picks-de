@@ -1,6 +1,6 @@
 # Mit Lead Magneten Online Geld verdienen
 
-> Product ID `44072` · Digistore24 productId `498994` · [HTML profile page](../../reviews/mit-lead-magneten-online-geld-verdienen-44072.html)
+> Product ID `44072` · Digistore24 productId `498994` · [HTML profile page](../../produkte/mit-lead-magneten-online-geld-verdienen-44072.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 15 Fitness Drinks für Zuhause & Unterwegs
 
-> Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../reviews/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)
+> Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../produkte/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs
 
-> Product ID `57335` · Digistore24 productId `568921` · [HTML profile page](../../reviews/bricscad-2d-umstieg-von-autocad-lt-video-kurs-57335.html)
+> Product ID `57335` · Digistore24 productId `568921` · [HTML profile page](../../produkte/bricscad-2d-umstieg-von-autocad-lt-video-kurs-57335.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

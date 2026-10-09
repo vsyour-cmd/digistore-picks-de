@@ -1,6 +1,6 @@
 # Erotik als Business – Der Einsteiger-Guide
 
-> Product ID `52079` · Digistore24 productId `605665` · [HTML profile page](../../reviews/erotik-als-business-der-einsteiger-guide-52079.html)
+> Product ID `52079` · Digistore24 productId `605665` · [HTML profile page](../../produkte/erotik-als-business-der-einsteiger-guide-52079.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

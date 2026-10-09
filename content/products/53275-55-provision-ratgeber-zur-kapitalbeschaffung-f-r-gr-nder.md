@@ -1,6 +1,6 @@
 # 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer
 
-> Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../reviews/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)
+> Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../produkte/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

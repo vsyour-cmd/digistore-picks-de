@@ -1,6 +1,6 @@
 # Kreativer online Malkurs für Kinder "Sommer Motive"
 
-> Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../reviews/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)
+> Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../produkte/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

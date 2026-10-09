@@ -1,6 +1,6 @@
 # URLAUB ZUM NULLTARIF
 
-> Product ID `5987` · Digistore24 productId `40363` · [HTML profile page](../../reviews/urlaub-zum-nulltarif-5987.html)
+> Product ID `5987` · Digistore24 productId `40363` · [HTML profile page](../../produkte/urlaub-zum-nulltarif-5987.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

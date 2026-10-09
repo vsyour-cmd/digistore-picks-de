@@ -1,6 +1,6 @@
 # misslogopage Magazin
 
-> Product ID `57364` · Digistore24 productId `625138` · [HTML profile page](../../reviews/misslogopage-magazin-57364.html)
+> Product ID `57364` · Digistore24 productId `625138` · [HTML profile page](../../produkte/misslogopage-magazin-57364.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

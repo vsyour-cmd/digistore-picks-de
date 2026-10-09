@@ -1,6 +1,6 @@
 # Hörbuch Börse und (Day) - Trading für Einsteiger
 
-> Product ID `15389` · Digistore24 productId `122973` · [HTML profile page](../../reviews/h-rbuch-b-rse-und-day-trading-f-r-einsteiger-15389.html)
+> Product ID `15389` · Digistore24 productId `122973` · [HTML profile page](../../produkte/h-rbuch-b-rse-und-day-trading-f-r-einsteiger-15389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

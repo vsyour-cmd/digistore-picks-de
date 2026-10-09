@@ -1,6 +1,6 @@
 # Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm
 
-> Product ID `46569` · Digistore24 productId `411939` · [HTML profile page](../../reviews/digitale-mitglieder-plattform-simpel-abnehmen-programm-46569.html)
+> Product ID `46569` · Digistore24 productId `411939` · [HTML profile page](../../produkte/digitale-mitglieder-plattform-simpel-abnehmen-programm-46569.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

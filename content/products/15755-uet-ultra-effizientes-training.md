@@ -1,6 +1,6 @@
 # UET - Ultra Effizientes Training
 
-> Product ID `15755` · Digistore24 productId `118627` · [HTML profile page](../../reviews/uet-ultra-effizientes-training-15755.html)
+> Product ID `15755` · Digistore24 productId `118627` · [HTML profile page](../../produkte/uet-ultra-effizientes-training-15755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

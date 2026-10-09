@@ -1,6 +1,6 @@
 # Online Präsenz 2.0 - Deine Website und Blog einfach erstellt
 
-> Product ID `53325` · Digistore24 productId `626644` · [HTML profile page](../../reviews/online-pr-senz-2-0-deine-website-und-blog-einfach-erstellt-53325.html)
+> Product ID `53325` · Digistore24 productId `626644` · [HTML profile page](../../produkte/online-pr-senz-2-0-deine-website-und-blog-einfach-erstellt-53325.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

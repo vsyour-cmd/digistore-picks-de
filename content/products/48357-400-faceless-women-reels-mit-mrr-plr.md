@@ -1,6 +1,6 @@
 # 400+ Faceless Women Reels mit MRR/PLR
 
-> Product ID `48357` · Digistore24 productId `556355` · [HTML profile page](../../reviews/400-faceless-women-reels-mit-mrr-plr-48357.html)
+> Product ID `48357` · Digistore24 productId `556355` · [HTML profile page](../../produkte/400-faceless-women-reels-mit-mrr-plr-48357.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

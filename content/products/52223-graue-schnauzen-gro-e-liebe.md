@@ -1,6 +1,6 @@
 # Graue Schnauzen große Liebe
 
-> Product ID `52223` · Digistore24 productId `608625` · [HTML profile page](../../reviews/graue-schnauzen-gro-e-liebe-52223.html)
+> Product ID `52223` · Digistore24 productId `608625` · [HTML profile page](../../produkte/graue-schnauzen-gro-e-liebe-52223.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

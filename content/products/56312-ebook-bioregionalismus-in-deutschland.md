@@ -1,6 +1,6 @@
 # Ebook - Bioregionalismus in Deutschland
 
-> Product ID `56312` · Digistore24 productId `685697` · [HTML profile page](../../reviews/ebook-bioregionalismus-in-deutschland-56312.html)
+> Product ID `56312` · Digistore24 productId `685697` · [HTML profile page](../../produkte/ebook-bioregionalismus-in-deutschland-56312.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

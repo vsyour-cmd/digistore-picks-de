@@ -1,6 +1,6 @@
 # Heimatgeber Academy
 
-> Product ID `51503` · Digistore24 productId `508997` · [HTML profile page](../../reviews/heimatgeber-academy-51503.html)
+> Product ID `51503` · Digistore24 productId `508997` · [HTML profile page](../../produkte/heimatgeber-academy-51503.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

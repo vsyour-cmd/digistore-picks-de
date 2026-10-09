@@ -1,6 +1,6 @@
 # Virtuelles Klassenzimmer: Lernen mit Spaß und Leichtigkeit
 
-> Product ID `43568` · Digistore24 productId `303023` · [HTML profile page](../../reviews/virtuelles-klassenzimmer-lernen-mit-spa-und-leichtigkeit-43568.html)
+> Product ID `43568` · Digistore24 productId `303023` · [HTML profile page](../../produkte/virtuelles-klassenzimmer-lernen-mit-spa-und-leichtigkeit-43568.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

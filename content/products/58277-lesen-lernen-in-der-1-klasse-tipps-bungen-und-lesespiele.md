@@ -1,6 +1,6 @@
 # Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele
 
-> Product ID `58277` · Digistore24 productId `713986` · [HTML profile page](../../reviews/lesen-lernen-in-der-1-klasse-tipps-bungen-und-lesespiele-58277.html)
+> Product ID `58277` · Digistore24 productId `713986` · [HTML profile page](../../produkte/lesen-lernen-in-der-1-klasse-tipps-bungen-und-lesespiele-58277.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

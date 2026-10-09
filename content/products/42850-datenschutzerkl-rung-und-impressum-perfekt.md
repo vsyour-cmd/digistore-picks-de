@@ -1,6 +1,6 @@
 # Datenschutzerklärung und Impressum perfekt
 
-> Product ID `42850` · Digistore24 productId `461891` · [HTML profile page](../../reviews/datenschutzerkl-rung-und-impressum-perfekt-42850.html)
+> Product ID `42850` · Digistore24 productId `461891` · [HTML profile page](../../produkte/datenschutzerkl-rung-und-impressum-perfekt-42850.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

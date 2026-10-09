@@ -1,6 +1,6 @@
 # 200+ Pressemitteilungen veröffentlichen
 
-> Product ID `37126` · Digistore24 productId `330267` · [HTML profile page](../../reviews/200-pressemitteilungen-ver-ffentlichen-37126.html)
+> Product ID `37126` · Digistore24 productId `330267` · [HTML profile page](../../produkte/200-pressemitteilungen-ver-ffentlichen-37126.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

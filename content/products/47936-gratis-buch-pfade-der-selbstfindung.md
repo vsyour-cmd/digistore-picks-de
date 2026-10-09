@@ -1,6 +1,6 @@
 # Gratis Buch: Pfade der Selbstfindung
 
-> Product ID `47936` · Digistore24 productId `549810` · [HTML profile page](../../reviews/gratis-buch-pfade-der-selbstfindung-47936.html)
+> Product ID `47936` · Digistore24 productId `549810` · [HTML profile page](../../produkte/gratis-buch-pfade-der-selbstfindung-47936.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
-> Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../reviews/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
+> Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

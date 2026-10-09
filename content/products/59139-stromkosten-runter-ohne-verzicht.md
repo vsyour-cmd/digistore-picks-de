@@ -1,6 +1,6 @@
 # Stromkosten runter – ohne Verzicht
 
-> Product ID `59139` · Digistore24 productId `732572` · [HTML profile page](../../reviews/stromkosten-runter-ohne-verzicht-59139.html)
+> Product ID `59139` · Digistore24 productId `732572` · [HTML profile page](../../produkte/stromkosten-runter-ohne-verzicht-59139.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

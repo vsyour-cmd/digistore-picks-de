@@ -1,6 +1,6 @@
 # Website Lounge
 
-> Product ID `39798` · Digistore24 productId `433212` · [HTML profile page](../../reviews/website-lounge-39798.html)
+> Product ID `39798` · Digistore24 productId `433212` · [HTML profile page](../../produkte/website-lounge-39798.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

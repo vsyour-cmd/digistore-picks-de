@@ -1,6 +1,6 @@
 # KI Affiliate
 
-> Product ID `55284` · Digistore24 productId `659997` · [HTML profile page](../../reviews/ki-affiliate-55284.html)
+> Product ID `55284` · Digistore24 productId `659997` · [HTML profile page](../../produkte/ki-affiliate-55284.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # InsiderWeek Tradinggruppe Praxis 6 Monate Mitgliedschaft
 
-> Product ID `33953` · Digistore24 productId `312804` · [HTML profile page](../../reviews/insiderweek-tradinggruppe-praxis-6-monate-mitgliedschaft-33953.html)
+> Product ID `33953` · Digistore24 productId `312804` · [HTML profile page](../../produkte/insiderweek-tradinggruppe-praxis-6-monate-mitgliedschaft-33953.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

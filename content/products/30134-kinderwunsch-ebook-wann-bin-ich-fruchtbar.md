@@ -1,6 +1,6 @@
 # Kinderwunsch eBook - WANN BIN ICH FRUCHTBAR?
 
-> Product ID `30134` · Digistore24 productId `164435` · [HTML profile page](../../reviews/kinderwunsch-ebook-wann-bin-ich-fruchtbar-30134.html)
+> Product ID `30134` · Digistore24 productId `164435` · [HTML profile page](../../produkte/kinderwunsch-ebook-wann-bin-ich-fruchtbar-30134.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

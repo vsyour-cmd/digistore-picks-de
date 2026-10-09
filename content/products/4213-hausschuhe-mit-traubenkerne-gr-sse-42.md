@@ -1,6 +1,6 @@
 # Hausschuhe mit Traubenkerne Grösse: 42
 
-> Product ID `4213` · Digistore24 productId `15353` · [HTML profile page](../../reviews/hausschuhe-mit-traubenkerne-gr-sse-42-4213.html)
+> Product ID `4213` · Digistore24 productId `15353` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-42-4213.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Einfach visualisieren am Flipchart
 
-> Product ID `42072` · Digistore24 productId `472315` · [HTML profile page](../../reviews/einfach-visualisieren-am-flipchart-42072.html)
+> Product ID `42072` · Digistore24 productId `472315` · [HTML profile page](../../produkte/einfach-visualisieren-am-flipchart-42072.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

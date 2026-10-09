@@ -1,6 +1,6 @@
 # 365 Beitragsideen für Social-Media
 
-> Product ID `33676` · Digistore24 productId `313884` · [HTML profile page](../../reviews/365-beitragsideen-f-r-social-media-33676.html)
+> Product ID `33676` · Digistore24 productId `313884` · [HTML profile page](../../produkte/365-beitragsideen-f-r-social-media-33676.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

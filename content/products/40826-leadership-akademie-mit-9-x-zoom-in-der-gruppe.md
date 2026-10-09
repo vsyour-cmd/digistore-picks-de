@@ -1,6 +1,6 @@
 # Leadership-Akademie mit 9 x Zoom in der Gruppe
 
-> Product ID `40826` · Digistore24 productId `401127` · [HTML profile page](../../reviews/leadership-akademie-mit-9-x-zoom-in-der-gruppe-40826.html)
+> Product ID `40826` · Digistore24 productId `401127` · [HTML profile page](../../produkte/leadership-akademie-mit-9-x-zoom-in-der-gruppe-40826.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

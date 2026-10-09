@@ -1,6 +1,6 @@
 # Schufa-freie Bankkonten
 
-> Product ID `12175` · Digistore24 productId `87111` · [HTML profile page](../../reviews/schufa-freie-bankkonten-12175.html)
+> Product ID `12175` · Digistore24 productId `87111` · [HTML profile page](../../produkte/schufa-freie-bankkonten-12175.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

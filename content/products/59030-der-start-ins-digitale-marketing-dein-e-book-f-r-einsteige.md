@@ -1,6 +1,6 @@
 # Der Start ins Digitale Marketing – Dein E-Book für Einsteige
 
-> Product ID `59030` · Digistore24 productId `730724` · [HTML profile page](../../reviews/der-start-ins-digitale-marketing-dein-e-book-f-r-einsteige-59030.html)
+> Product ID `59030` · Digistore24 productId `730724` · [HTML profile page](../../produkte/der-start-ins-digitale-marketing-dein-e-book-f-r-einsteige-59030.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

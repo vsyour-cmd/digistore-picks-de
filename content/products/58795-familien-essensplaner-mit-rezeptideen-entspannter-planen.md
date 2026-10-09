@@ -1,6 +1,6 @@
 # Familien-Essensplaner mit Rezeptideen – Entspannter planen,
 
-> Product ID `58795` · Digistore24 productId `727010` · [HTML profile page](../../reviews/familien-essensplaner-mit-rezeptideen-entspannter-planen-58795.html)
+> Product ID `58795` · Digistore24 productId `727010` · [HTML profile page](../../produkte/familien-essensplaner-mit-rezeptideen-entspannter-planen-58795.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

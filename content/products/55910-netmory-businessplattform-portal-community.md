@@ -1,6 +1,6 @@
 # NETMORY | Businessplattform - Portal & Community
 
-> Product ID `55910` · Digistore24 productId `670531` · [HTML profile page](../../reviews/netmory-businessplattform-portal-community-55910.html)
+> Product ID `55910` · Digistore24 productId `670531` · [HTML profile page](../../produkte/netmory-businessplattform-portal-community-55910.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Build a Powerful Body
 
-> Product ID `26261` · Digistore24 productId `212591` · [HTML profile page](../../reviews/build-a-powerful-body-26261.html)
+> Product ID `26261` · Digistore24 productId `212591` · [HTML profile page](../../produkte/build-a-powerful-body-26261.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

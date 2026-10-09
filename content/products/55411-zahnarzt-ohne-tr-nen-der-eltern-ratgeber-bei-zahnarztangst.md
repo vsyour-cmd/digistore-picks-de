@@ -1,6 +1,6 @@
 # Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst
 
-> Product ID `55411` · Digistore24 productId `665348` · [HTML profile page](../../reviews/zahnarzt-ohne-tr-nen-der-eltern-ratgeber-bei-zahnarztangst-55411.html)
+> Product ID `55411` · Digistore24 productId `665348` · [HTML profile page](../../produkte/zahnarzt-ohne-tr-nen-der-eltern-ratgeber-bei-zahnarztangst-55411.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
-> Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../reviews/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
+> Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

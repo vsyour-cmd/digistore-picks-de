@@ -1,6 +1,6 @@
 # Die ersten 90 Tage
 
-> Product ID `57176` · Digistore24 productId `701932` · [HTML profile page](../../reviews/die-ersten-90-tage-57176.html)
+> Product ID `57176` · Digistore24 productId `701932` · [HTML profile page](../../produkte/die-ersten-90-tage-57176.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

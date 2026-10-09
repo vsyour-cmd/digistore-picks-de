@@ -1,6 +1,6 @@
 # Instagram Online Coaching Kurs
 
-> Product ID `27783` · Digistore24 productId `257135` · [HTML profile page](../../reviews/instagram-online-coaching-kurs-27783.html)
+> Product ID `27783` · Digistore24 productId `257135` · [HTML profile page](../../produkte/instagram-online-coaching-kurs-27783.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Amazon KDP Starterkurs
 
-> Product ID `28508` · Digistore24 productId `266561` · [HTML profile page](../../reviews/amazon-kdp-starterkurs-28508.html)
+> Product ID `28508` · Digistore24 productId `266561` · [HTML profile page](../../produkte/amazon-kdp-starterkurs-28508.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

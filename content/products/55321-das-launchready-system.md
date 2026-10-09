@@ -1,6 +1,6 @@
 # Das LaunchReady System
 
-> Product ID `55321` · Digistore24 productId `605495` · [HTML profile page](../../reviews/das-launchready-system-55321.html)
+> Product ID `55321` · Digistore24 productId `605495` · [HTML profile page](../../produkte/das-launchready-system-55321.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

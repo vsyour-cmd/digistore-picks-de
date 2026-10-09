@@ -1,6 +1,6 @@
 # Ebook - Vergeuden Sie Ihre Abende nicht
 
-> Product ID `56268` · Digistore24 productId `682677` · [HTML profile page](../../reviews/ebook-vergeuden-sie-ihre-abende-nicht-56268.html)
+> Product ID `56268` · Digistore24 productId `682677` · [HTML profile page](../../produkte/ebook-vergeuden-sie-ihre-abende-nicht-56268.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

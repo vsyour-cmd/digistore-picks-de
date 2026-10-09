@@ -1,6 +1,6 @@
 # „Die Heilung des Schoßraumes, der Sexualorgane und der...“
 
-> Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../reviews/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)
+> Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../produkte/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

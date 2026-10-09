@@ -1,6 +1,6 @@
 # Selbstbewusstseins-Direkt-Premium
 
-> Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../reviews/selbstbewusstseins-direkt-premium-4969.html)
+> Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../produkte/selbstbewusstseins-direkt-premium-4969.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

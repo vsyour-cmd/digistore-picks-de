@@ -1,6 +1,6 @@
 # paket_4_sprachfuehrer
 
-> Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../reviews/paket-4-sprachfuehrer-58522.html)
+> Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../produkte/paket-4-sprachfuehrer-58522.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

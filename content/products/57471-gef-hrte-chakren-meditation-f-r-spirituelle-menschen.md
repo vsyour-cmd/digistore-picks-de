@@ -1,6 +1,6 @@
 # Geführte Chakren Meditation für spirituelle Menschen
 
-> Product ID `57471` · Digistore24 productId `527524` · [HTML profile page](../../reviews/gef-hrte-chakren-meditation-f-r-spirituelle-menschen-57471.html)
+> Product ID `57471` · Digistore24 productId `527524` · [HTML profile page](../../produkte/gef-hrte-chakren-meditation-f-r-spirituelle-menschen-57471.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

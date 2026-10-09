@@ -1,6 +1,6 @@
 # Deeskalation und Selbstverteidigung - Texte, Audios, Videos
 
-> Product ID `47501` · Digistore24 productId `462309` · [HTML profile page](../../reviews/deeskalation-und-selbstverteidigung-texte-audios-videos-47501.html)
+> Product ID `47501` · Digistore24 productId `462309` · [HTML profile page](../../produkte/deeskalation-und-selbstverteidigung-texte-audios-videos-47501.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

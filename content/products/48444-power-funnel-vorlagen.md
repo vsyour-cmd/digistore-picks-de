@@ -1,6 +1,6 @@
 # Power Funnel Vorlagen
 
-> Product ID `48444` · Digistore24 productId `557337` · [HTML profile page](../../reviews/power-funnel-vorlagen-48444.html)
+> Product ID `48444` · Digistore24 productId `557337` · [HTML profile page](../../produkte/power-funnel-vorlagen-48444.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

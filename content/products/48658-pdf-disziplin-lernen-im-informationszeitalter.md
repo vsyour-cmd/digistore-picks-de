@@ -1,6 +1,6 @@
 # PDF - Disziplin lernen im Informationszeitalter
 
-> Product ID `48658` · Digistore24 productId `559429` · [HTML profile page](../../reviews/pdf-disziplin-lernen-im-informationszeitalter-48658.html)
+> Product ID `48658` · Digistore24 productId `559429` · [HTML profile page](../../produkte/pdf-disziplin-lernen-im-informationszeitalter-48658.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

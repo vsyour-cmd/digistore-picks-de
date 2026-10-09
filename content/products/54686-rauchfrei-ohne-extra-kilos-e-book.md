@@ -1,6 +1,6 @@
 # Rauchfrei ohne Extra-Kilos – E-Book
 
-> Product ID `54686` · Digistore24 productId `639678` · [HTML profile page](../../reviews/rauchfrei-ohne-extra-kilos-e-book-54686.html)
+> Product ID `54686` · Digistore24 productId `639678` · [HTML profile page](../../produkte/rauchfrei-ohne-extra-kilos-e-book-54686.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

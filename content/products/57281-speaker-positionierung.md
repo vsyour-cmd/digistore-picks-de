@@ -1,6 +1,6 @@
 # Speaker-Positionierung
 
-> Product ID `57281` · Digistore24 productId `704258` · [HTML profile page](../../reviews/speaker-positionierung-57281.html)
+> Product ID `57281` · Digistore24 productId `704258` · [HTML profile page](../../produkte/speaker-positionierung-57281.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

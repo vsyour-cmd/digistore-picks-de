@@ -1,6 +1,6 @@
 # Home-Party-Verkaufsakademie
 
-> Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../reviews/home-party-verkaufsakademie-57173.html)
+> Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../produkte/home-party-verkaufsakademie-57173.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

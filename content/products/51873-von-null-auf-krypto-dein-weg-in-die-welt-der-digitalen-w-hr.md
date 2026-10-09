@@ -1,6 +1,6 @@
 # Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ
 
-> Product ID `51873` · Digistore24 productId `604298` · [HTML profile page](../../reviews/von-null-auf-krypto-dein-weg-in-die-welt-der-digitalen-w-hr-51873.html)
+> Product ID `51873` · Digistore24 productId `604298` · [HTML profile page](../../produkte/von-null-auf-krypto-dein-weg-in-die-welt-der-digitalen-w-hr-51873.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

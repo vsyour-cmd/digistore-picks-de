@@ -1,6 +1,6 @@
 # Melonen - Kochbuch für Familien  - 50 % Provision
 
-> Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../reviews/melonen-kochbuch-f-r-familien-50-provision-57587.html)
+> Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../produkte/melonen-kochbuch-f-r-familien-50-provision-57587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

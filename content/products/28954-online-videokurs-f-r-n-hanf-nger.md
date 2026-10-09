@@ -1,6 +1,6 @@
 # Online-Videokurs für Nähanfänger
 
-> Product ID `28954` · Digistore24 productId `213283` · [HTML profile page](../../reviews/online-videokurs-f-r-n-hanf-nger-28954.html)
+> Product ID `28954` · Digistore24 productId `213283` · [HTML profile page](../../produkte/online-videokurs-f-r-n-hanf-nger-28954.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

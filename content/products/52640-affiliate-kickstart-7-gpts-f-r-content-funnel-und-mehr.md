@@ -1,6 +1,6 @@
 # Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr
 
-> Product ID `52640` · Digistore24 productId `611742` · [HTML profile page](../../reviews/affiliate-kickstart-7-gpts-f-r-content-funnel-und-mehr-52640.html)
+> Product ID `52640` · Digistore24 productId `611742` · [HTML profile page](../../produkte/affiliate-kickstart-7-gpts-f-r-content-funnel-und-mehr-52640.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

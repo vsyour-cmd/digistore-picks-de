@@ -1,6 +1,6 @@
 # Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF
 
-> Product ID `56856` · Digistore24 productId `699174` · [HTML profile page](../../reviews/finanz-freiheit-audio-bundle-3-finanzh-rb-cher-bonus-pdf-56856.html)
+> Product ID `56856` · Digistore24 productId `699174` · [HTML profile page](../../produkte/finanz-freiheit-audio-bundle-3-finanzh-rb-cher-bonus-pdf-56856.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

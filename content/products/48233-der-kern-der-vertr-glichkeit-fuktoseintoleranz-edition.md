@@ -1,6 +1,6 @@
 # Der Kern der Verträglichkeit - Fuktoseintoleranz Edition
 
-> Product ID `48233` · Digistore24 productId `722699` · [HTML profile page](../../reviews/der-kern-der-vertr-glichkeit-fuktoseintoleranz-edition-48233.html)
+> Product ID `48233` · Digistore24 productId `722699` · [HTML profile page](../../produkte/der-kern-der-vertr-glichkeit-fuktoseintoleranz-edition-48233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

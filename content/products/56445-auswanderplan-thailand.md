@@ -1,6 +1,6 @@
 # Auswanderplan – Thailand
 
-> Product ID `56445` · Digistore24 productId `689756` · [HTML profile page](../../reviews/auswanderplan-thailand-56445.html)
+> Product ID `56445` · Digistore24 productId `689756` · [HTML profile page](../../produkte/auswanderplan-thailand-56445.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

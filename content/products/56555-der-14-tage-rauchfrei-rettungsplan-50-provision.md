@@ -1,6 +1,6 @@
 # Der 14-Tage-Rauchfrei-Rettungsplan – 50 % Provision
 
-> Product ID `56555` · Digistore24 productId `693363` · [HTML profile page](../../reviews/der-14-tage-rauchfrei-rettungsplan-50-provision-56555.html)
+> Product ID `56555` · Digistore24 productId `693363` · [HTML profile page](../../produkte/der-14-tage-rauchfrei-rettungsplan-50-provision-56555.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

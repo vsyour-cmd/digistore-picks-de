@@ -1,6 +1,6 @@
 # Länder, die Einwanderer bezahlen & belohnen
 
-> Product ID `21489` · Digistore24 productId `187905` · [HTML profile page](../../reviews/l-nder-die-einwanderer-bezahlen-belohnen-21489.html)
+> Product ID `21489` · Digistore24 productId `187905` · [HTML profile page](../../produkte/l-nder-die-einwanderer-bezahlen-belohnen-21489.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Disziplin, Motivation und Businessaufbau – Der Grundbaustein
 
-> Product ID `52912` · Digistore24 productId `618706` · [HTML profile page](../../reviews/disziplin-motivation-und-businessaufbau-der-grundbaustein-52912.html)
+> Product ID `52912` · Digistore24 productId `618706` · [HTML profile page](../../produkte/disziplin-motivation-und-businessaufbau-der-grundbaustein-52912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

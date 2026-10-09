@@ -1,6 +1,6 @@
 # Manychat Facebook Flow
 
-> Product ID `56159` · Digistore24 productId `613500` · [HTML profile page](../../reviews/manychat-facebook-flow-56159.html)
+> Product ID `56159` · Digistore24 productId `613500` · [HTML profile page](../../produkte/manychat-facebook-flow-56159.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

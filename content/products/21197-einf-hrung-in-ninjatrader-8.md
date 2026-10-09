@@ -1,6 +1,6 @@
 # Einführung in NinjaTrader 8
 
-> Product ID `21197` · Digistore24 productId `183803` · [HTML profile page](../../reviews/einf-hrung-in-ninjatrader-8-21197.html)
+> Product ID `21197` · Digistore24 productId `183803` · [HTML profile page](../../produkte/einf-hrung-in-ninjatrader-8-21197.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

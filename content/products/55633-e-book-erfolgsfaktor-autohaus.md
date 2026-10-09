@@ -1,6 +1,6 @@
 # E-Book „Erfolgsfaktor Autohaus“
 
-> Product ID `55633` · Digistore24 productId `668613` · [HTML profile page](../../reviews/e-book-erfolgsfaktor-autohaus-55633.html)
+> Product ID `55633` · Digistore24 productId `668613` · [HTML profile page](../../produkte/e-book-erfolgsfaktor-autohaus-55633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

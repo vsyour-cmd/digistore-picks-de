@@ -1,6 +1,6 @@
 # Merchreport für Merch by Amazon (Basic Membership)
 
-> Product ID `27310` · Digistore24 productId `248860` · [HTML profile page](../../reviews/merchreport-f-r-merch-by-amazon-basic-membership-27310.html)
+> Product ID `27310` · Digistore24 productId `248860` · [HTML profile page](../../produkte/merchreport-f-r-merch-by-amazon-basic-membership-27310.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

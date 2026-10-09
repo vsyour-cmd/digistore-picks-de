@@ -1,6 +1,6 @@
 # Die verblühte Republik
 
-> Product ID `58734` · Digistore24 productId `723057` · [HTML profile page](../../reviews/die-verbl-hte-republik-58734.html)
+> Product ID `58734` · Digistore24 productId `723057` · [HTML profile page](../../produkte/die-verbl-hte-republik-58734.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

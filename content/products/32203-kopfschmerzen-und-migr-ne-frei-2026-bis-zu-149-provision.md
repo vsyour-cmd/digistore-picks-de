@@ -1,6 +1,6 @@
 # Kopfschmerzen und Migräne Frei 2026 bis zu 149€ Provision
 
-> Product ID `32203` · Digistore24 productId `309689` · [HTML profile page](../../reviews/kopfschmerzen-und-migr-ne-frei-2026-bis-zu-149-provision-32203.html)
+> Product ID `32203` · Digistore24 productId `309689` · [HTML profile page](../../produkte/kopfschmerzen-und-migr-ne-frei-2026-bis-zu-149-provision-32203.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

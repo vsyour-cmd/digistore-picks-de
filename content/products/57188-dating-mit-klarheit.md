@@ -1,6 +1,6 @@
 # Dating mit Klarheit
 
-> Product ID `57188` · Digistore24 productId `701946` · [HTML profile page](../../reviews/dating-mit-klarheit-57188.html)
+> Product ID `57188` · Digistore24 productId `701946` · [HTML profile page](../../produkte/dating-mit-klarheit-57188.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

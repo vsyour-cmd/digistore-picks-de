@@ -1,6 +1,6 @@
 # Entgiftung und Darmsanierung Masterclass
 
-> Product ID `52028` · Digistore24 productId `601680` · [HTML profile page](../../reviews/entgiftung-und-darmsanierung-masterclass-52028.html)
+> Product ID `52028` · Digistore24 productId `601680` · [HTML profile page](../../produkte/entgiftung-und-darmsanierung-masterclass-52028.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

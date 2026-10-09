@@ -1,6 +1,6 @@
 # Mit Inbound-Marketing zum MLM-Superstar
 
-> Product ID `11113` · Digistore24 productId `71693` · [HTML profile page](../../reviews/mit-inbound-marketing-zum-mlm-superstar-11113.html)
+> Product ID `11113` · Digistore24 productId `71693` · [HTML profile page](../../produkte/mit-inbound-marketing-zum-mlm-superstar-11113.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

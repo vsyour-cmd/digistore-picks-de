@@ -1,6 +1,6 @@
 # Die Launch-E-Mail-Sequenz
 
-> Product ID `57286` · Digistore24 productId `704263` · [HTML profile page](../../reviews/die-launch-e-mail-sequenz-57286.html)
+> Product ID `57286` · Digistore24 productId `704263` · [HTML profile page](../../produkte/die-launch-e-mail-sequenz-57286.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Mundharmonika spielen: Melodiespiel mit Noten und Playbacks
 
-> Product ID `15055` · Digistore24 productId `113631` · [HTML profile page](../../reviews/mundharmonika-spielen-melodiespiel-mit-noten-und-playbacks-15055.html)
+> Product ID `15055` · Digistore24 productId `113631` · [HTML profile page](../../produkte/mundharmonika-spielen-melodiespiel-mit-noten-und-playbacks-15055.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

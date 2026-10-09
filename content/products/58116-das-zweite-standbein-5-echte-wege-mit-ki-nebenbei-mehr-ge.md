@@ -1,6 +1,6 @@
 # Das zweite Standbein – 5 echte Wege, mit KI nebenbei mehr Ge
 
-> Product ID `58116` · Digistore24 productId `717911` · [HTML profile page](../../reviews/das-zweite-standbein-5-echte-wege-mit-ki-nebenbei-mehr-ge-58116.html)
+> Product ID `58116` · Digistore24 productId `717911` · [HTML profile page](../../produkte/das-zweite-standbein-5-echte-wege-mit-ki-nebenbei-mehr-ge-58116.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

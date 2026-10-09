@@ -1,6 +1,6 @@
 # DAS FREIGEIST KONGRESS PAKET
 
-> Product ID `47576` · Digistore24 productId `543394` · [HTML profile page](../../reviews/das-freigeist-kongress-paket-47576.html)
+> Product ID `47576` · Digistore24 productId `543394` · [HTML profile page](../../produkte/das-freigeist-kongress-paket-47576.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

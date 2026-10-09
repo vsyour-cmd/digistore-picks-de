@@ -1,6 +1,6 @@
 # 55 Traffic-Quellen 2026
 
-> Product ID `57268` · Digistore24 productId `704246` · [HTML profile page](../../reviews/55-traffic-quellen-2026-57268.html)
+> Product ID `57268` · Digistore24 productId `704246` · [HTML profile page](../../produkte/55-traffic-quellen-2026-57268.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

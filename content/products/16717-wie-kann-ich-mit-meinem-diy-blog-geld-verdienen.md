@@ -1,6 +1,6 @@
 # Wie kann ich mit meinem DIY-Blog Geld verdienen?
 
-> Product ID `16717` · Digistore24 productId `132869` · [HTML profile page](../../reviews/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen-16717.html)
+> Product ID `16717` · Digistore24 productId `132869` · [HTML profile page](../../produkte/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen-16717.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Goldfinger Report™ - Der etwas andere Börsenbrief!
 
-> Product ID `14547` · Digistore24 productId `78137` · [HTML profile page](../../reviews/der-goldfinger-report-der-etwas-andere-b-rsenbrief-14547.html)
+> Product ID `14547` · Digistore24 productId `78137` · [HTML profile page](../../produkte/der-goldfinger-report-der-etwas-andere-b-rsenbrief-14547.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

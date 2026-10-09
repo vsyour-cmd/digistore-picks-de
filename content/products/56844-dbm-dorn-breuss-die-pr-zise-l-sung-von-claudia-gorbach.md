@@ -1,6 +1,6 @@
 # DBM - Dorn-Breuss die präzise Lösung von Claudia Gorbach
 
-> Product ID `56844` · Digistore24 productId `698552` · [HTML profile page](../../reviews/dbm-dorn-breuss-die-pr-zise-l-sung-von-claudia-gorbach-56844.html)
+> Product ID `56844` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-breuss-die-pr-zise-l-sung-von-claudia-gorbach-56844.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

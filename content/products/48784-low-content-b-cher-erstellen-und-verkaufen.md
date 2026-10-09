@@ -1,6 +1,6 @@
 # Low Content Bücher erstellen und verkaufen
 
-> Product ID `48784` · Digistore24 productId `557396` · [HTML profile page](../../reviews/low-content-b-cher-erstellen-und-verkaufen-48784.html)
+> Product ID `48784` · Digistore24 productId `557396` · [HTML profile page](../../produkte/low-content-b-cher-erstellen-und-verkaufen-48784.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

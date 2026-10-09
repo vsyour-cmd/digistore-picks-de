@@ -1,6 +1,6 @@
 # Einsteiger Video Cellokurs
 
-> Product ID `36125` · Digistore24 productId `378778` · [HTML profile page](../../reviews/einsteiger-video-cellokurs-36125.html)
+> Product ID `36125` · Digistore24 productId `378778` · [HTML profile page](../../produkte/einsteiger-video-cellokurs-36125.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

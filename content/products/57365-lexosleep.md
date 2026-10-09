@@ -1,6 +1,6 @@
 # Lexosleep
 
-> Product ID `57365` · Digistore24 productId `689271` · [HTML profile page](../../reviews/lexosleep-57365.html)
+> Product ID `57365` · Digistore24 productId `689271` · [HTML profile page](../../produkte/lexosleep-57365.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

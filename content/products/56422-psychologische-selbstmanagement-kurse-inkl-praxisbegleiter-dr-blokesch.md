@@ -1,6 +1,6 @@
 # Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch
 
-> Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../reviews/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)
+> Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../produkte/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

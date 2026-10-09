@@ -1,6 +1,6 @@
 # Was ich wirklich brauche
 
-> Product ID `58424` · Digistore24 productId `695513` · [HTML profile page](../../reviews/was-ich-wirklich-brauche-58424.html)
+> Product ID `58424` · Digistore24 productId `695513` · [HTML profile page](../../produkte/was-ich-wirklich-brauche-58424.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

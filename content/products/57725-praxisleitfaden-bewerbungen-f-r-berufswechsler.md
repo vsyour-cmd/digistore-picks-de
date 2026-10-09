@@ -1,6 +1,6 @@
 # Praxisleitfaden: Bewerbungen für Berufswechsler
 
-> Product ID `57725` · Digistore24 productId `689817` · [HTML profile page](../../reviews/praxisleitfaden-bewerbungen-f-r-berufswechsler-57725.html)
+> Product ID `57725` · Digistore24 productId `689817` · [HTML profile page](../../produkte/praxisleitfaden-bewerbungen-f-r-berufswechsler-57725.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Das E-Book zur Oberfräse
 
-> Product ID `27491` · Digistore24 productId `147941` · [HTML profile page](../../reviews/das-e-book-zur-oberfr-se-27491.html)
+> Product ID `27491` · Digistore24 productId `147941` · [HTML profile page](../../produkte/das-e-book-zur-oberfr-se-27491.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

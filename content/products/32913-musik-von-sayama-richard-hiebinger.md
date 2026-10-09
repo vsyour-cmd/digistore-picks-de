@@ -1,6 +1,6 @@
 # Musik von Sayama - Richard Hiebinger
 
-> Product ID `32913` · Digistore24 productId `255194` · [HTML profile page](../../reviews/musik-von-sayama-richard-hiebinger-32913.html)
+> Product ID `32913` · Digistore24 productId `255194` · [HTML profile page](../../produkte/musik-von-sayama-richard-hiebinger-32913.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

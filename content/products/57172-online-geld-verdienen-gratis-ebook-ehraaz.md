@@ -1,6 +1,6 @@
 # Online Geld verdienen Gratis eBook - Ehraaz
 
-> Product ID `57172` · Digistore24 productId `675272` · [HTML profile page](../../reviews/online-geld-verdienen-gratis-ebook-ehraaz-57172.html)
+> Product ID `57172` · Digistore24 productId `675272` · [HTML profile page](../../produkte/online-geld-verdienen-gratis-ebook-ehraaz-57172.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

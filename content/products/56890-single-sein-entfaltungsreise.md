@@ -1,6 +1,6 @@
 # Single-Sein Entfaltungsreise
 
-> Product ID `56890` · Digistore24 productId `653344` · [HTML profile page](../../reviews/single-sein-entfaltungsreise-56890.html)
+> Product ID `56890` · Digistore24 productId `653344` · [HTML profile page](../../produkte/single-sein-entfaltungsreise-56890.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

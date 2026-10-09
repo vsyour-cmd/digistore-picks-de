@@ -1,6 +1,6 @@
 # Die Mobility-Lösung (Mobility Warm-ups)
 
-> Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../reviews/die-mobility-l-sung-mobility-warm-ups-33342.html)
+> Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../produkte/die-mobility-l-sung-mobility-warm-ups-33342.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

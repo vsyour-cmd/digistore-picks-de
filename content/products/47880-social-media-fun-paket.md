@@ -1,6 +1,6 @@
 # Social Media FUN Paket
 
-> Product ID `47880` · Digistore24 productId `548132` · [HTML profile page](../../reviews/social-media-fun-paket-47880.html)
+> Product ID `47880` · Digistore24 productId `548132` · [HTML profile page](../../produkte/social-media-fun-paket-47880.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

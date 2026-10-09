@@ -1,6 +1,6 @@
 # FRMB - Faceless Reels Mastery Book 2026
 
-> Product ID `56252` · Digistore24 productId `683957` · [HTML profile page](../../reviews/frmb-faceless-reels-mastery-book-2026-56252.html)
+> Product ID `56252` · Digistore24 productId `683957` · [HTML profile page](../../produkte/frmb-faceless-reels-mastery-book-2026-56252.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Webseite in 48 – Webseiten-Paket zum Upload
 
-> Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../reviews/webseite-in-48-webseiten-paket-zum-upload-52918.html)
+> Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

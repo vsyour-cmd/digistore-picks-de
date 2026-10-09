@@ -1,6 +1,6 @@
 # Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen
 
-> Product ID `50239` · Digistore24 productId `569177` · [HTML profile page](../../reviews/madeira-by-bus-mit-ffentlichen-bussen-zu-24-top-zielen-50239.html)
+> Product ID `50239` · Digistore24 productId `569177` · [HTML profile page](../../produkte/madeira-by-bus-mit-ffentlichen-bussen-zu-24-top-zielen-50239.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

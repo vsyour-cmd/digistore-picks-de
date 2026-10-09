@@ -1,6 +1,6 @@
 # OnlyFans und Co. Masterclass
 
-> Product ID `52467` · Digistore24 productId `578122` · [HTML profile page](../../reviews/onlyfans-und-co-masterclass-52467.html)
+> Product ID `52467` · Digistore24 productId `578122` · [HTML profile page](../../produkte/onlyfans-und-co-masterclass-52467.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

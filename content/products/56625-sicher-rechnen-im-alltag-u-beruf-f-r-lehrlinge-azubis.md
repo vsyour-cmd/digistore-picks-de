@@ -1,6 +1,6 @@
 # Sicher Rechnen im Alltag u. Beruf für Lehrlinge/Azubis
 
-> Product ID `56625` · Digistore24 productId `692262` · [HTML profile page](../../reviews/sicher-rechnen-im-alltag-u-beruf-f-r-lehrlinge-azubis-56625.html)
+> Product ID `56625` · Digistore24 productId `692262` · [HTML profile page](../../produkte/sicher-rechnen-im-alltag-u-beruf-f-r-lehrlinge-azubis-56625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Content Creator Clone Masterclass 70% Affiliate
 
-> Product ID `53726` · Digistore24 productId `627890` · [HTML profile page](../../reviews/content-creator-clone-masterclass-70-affiliate-53726.html)
+> Product ID `53726` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creator-clone-masterclass-70-affiliate-53726.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

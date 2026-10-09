@@ -1,6 +1,6 @@
 # Fit unterwegs – 4-Wochen-Workoutplan für Reisende
 
-> Product ID `60239` · Digistore24 productId `737329` · [HTML profile page](../../reviews/fit-unterwegs-4-wochen-workoutplan-f-r-reisende-60239.html)
+> Product ID `60239` · Digistore24 productId `737329` · [HTML profile page](../../produkte/fit-unterwegs-4-wochen-workoutplan-f-r-reisende-60239.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

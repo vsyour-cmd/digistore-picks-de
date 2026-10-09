@@ -1,6 +1,6 @@
 # PrepMyMeal – Wochen-Mealprep einfach geplant
 
-> Product ID `55127` · Digistore24 productId `659489` · [HTML profile page](../../reviews/prepmymeal-wochen-mealprep-einfach-geplant-55127.html)
+> Product ID `55127` · Digistore24 productId `659489` · [HTML profile page](../../produkte/prepmymeal-wochen-mealprep-einfach-geplant-55127.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

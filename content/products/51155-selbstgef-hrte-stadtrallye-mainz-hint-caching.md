@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Mainz | Hint-Caching
 
-> Product ID `51155` · Digistore24 productId `453706` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-mainz-hint-caching-51155.html)
+> Product ID `51155` · Digistore24 productId `453706` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-mainz-hint-caching-51155.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

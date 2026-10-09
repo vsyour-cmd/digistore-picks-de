@@ -1,6 +1,6 @@
 # Dropshipping skalieren
 
-> Product ID `57078` · Digistore24 productId `703515` · [HTML profile page](../../reviews/dropshipping-skalieren-57078.html)
+> Product ID `57078` · Digistore24 productId `703515` · [HTML profile page](../../produkte/dropshipping-skalieren-57078.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

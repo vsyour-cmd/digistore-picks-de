@@ -1,6 +1,6 @@
 # KI Affiliate Marketer
 
-> Product ID `44576` · Digistore24 productId `502221` · [HTML profile page](../../reviews/ki-affiliate-marketer-44576.html)
+> Product ID `44576` · Digistore24 productId `502221` · [HTML profile page](../../produkte/ki-affiliate-marketer-44576.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

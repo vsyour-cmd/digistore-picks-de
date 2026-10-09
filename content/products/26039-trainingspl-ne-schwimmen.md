@@ -1,6 +1,6 @@
 # Trainingspläne Schwimmen
 
-> Product ID `26039` · Digistore24 productId `62339` · [HTML profile page](../../reviews/trainingspl-ne-schwimmen-26039.html)
+> Product ID `26039` · Digistore24 productId `62339` · [HTML profile page](../../produkte/trainingspl-ne-schwimmen-26039.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

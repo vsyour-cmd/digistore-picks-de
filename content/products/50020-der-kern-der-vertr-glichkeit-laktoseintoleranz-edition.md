@@ -1,6 +1,6 @@
 # Der Kern der Verträglichkeit - Laktoseintoleranz Edition
 
-> Product ID `50020` · Digistore24 productId `722695` · [HTML profile page](../../reviews/der-kern-der-vertr-glichkeit-laktoseintoleranz-edition-50020.html)
+> Product ID `50020` · Digistore24 productId `722695` · [HTML profile page](../../produkte/der-kern-der-vertr-glichkeit-laktoseintoleranz-edition-50020.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

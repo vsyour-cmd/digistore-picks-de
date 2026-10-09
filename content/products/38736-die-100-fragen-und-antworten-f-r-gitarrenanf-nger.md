@@ -1,6 +1,6 @@
 # Die 100 Fragen und Antworten für Gitarrenanfänger
 
-> Product ID `38736` · Digistore24 productId `379627` · [HTML profile page](../../reviews/die-100-fragen-und-antworten-f-r-gitarrenanf-nger-38736.html)
+> Product ID `38736` · Digistore24 productId `379627` · [HTML profile page](../../produkte/die-100-fragen-und-antworten-f-r-gitarrenanf-nger-38736.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

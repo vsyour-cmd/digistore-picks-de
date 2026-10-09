@@ -1,6 +1,6 @@
 # Online Business Blueprint – Kurs für 97 €, 50 % Provision
 
-> Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../reviews/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)
+> Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../produkte/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

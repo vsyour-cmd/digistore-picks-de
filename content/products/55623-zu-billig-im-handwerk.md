@@ -1,6 +1,6 @@
 # Zu billig im Handwerk?
 
-> Product ID `55623` · Digistore24 productId `667257` · [HTML profile page](../../reviews/zu-billig-im-handwerk-55623.html)
+> Product ID `55623` · Digistore24 productId `667257` · [HTML profile page](../../produkte/zu-billig-im-handwerk-55623.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

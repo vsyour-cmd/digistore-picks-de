@@ -1,6 +1,6 @@
 # Socialcreator Starterkit 2026 - 50% Provision
 
-> Product ID `55163` · Digistore24 productId `660143` · [HTML profile page](../../reviews/socialcreator-starterkit-2026-50-provision-55163.html)
+> Product ID `55163` · Digistore24 productId `660143` · [HTML profile page](../../produkte/socialcreator-starterkit-2026-50-provision-55163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

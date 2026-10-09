@@ -1,6 +1,6 @@
 # [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de
 
-> Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../reviews/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
+> Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../produkte/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

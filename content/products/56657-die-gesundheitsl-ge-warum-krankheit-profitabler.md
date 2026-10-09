@@ -1,6 +1,6 @@
 # Die Gesundheitslüge – Warum Krankheit profitabler
 
-> Product ID `56657` · Digistore24 productId `694506` · [HTML profile page](../../reviews/die-gesundheitsl-ge-warum-krankheit-profitabler-56657.html)
+> Product ID `56657` · Digistore24 productId `694506` · [HTML profile page](../../produkte/die-gesundheitsl-ge-warum-krankheit-profitabler-56657.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kinder sind der Schlüssel ins Goldene Zeitalter
 
-> Product ID `40612` · Digistore24 productId `452041` · [HTML profile page](../../reviews/kinder-sind-der-schl-ssel-ins-goldene-zeitalter-40612.html)
+> Product ID `40612` · Digistore24 productId `452041` · [HTML profile page](../../produkte/kinder-sind-der-schl-ssel-ins-goldene-zeitalter-40612.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

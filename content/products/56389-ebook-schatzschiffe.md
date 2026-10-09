@@ -1,6 +1,6 @@
 # Ebook - Schatzschiffe
 
-> Product ID `56389` · Digistore24 productId `688752` · [HTML profile page](../../reviews/ebook-schatzschiffe-56389.html)
+> Product ID `56389` · Digistore24 productId `688752` · [HTML profile page](../../produkte/ebook-schatzschiffe-56389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

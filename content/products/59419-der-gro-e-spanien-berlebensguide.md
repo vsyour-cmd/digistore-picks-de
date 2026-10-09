@@ -1,6 +1,6 @@
 # Der große Spanien-Überlebensguide
 
-> Product ID `59419` · Digistore24 productId `735238` · [HTML profile page](../../reviews/der-gro-e-spanien-berlebensguide-59419.html)
+> Product ID `59419` · Digistore24 productId `735238` · [HTML profile page](../../produkte/der-gro-e-spanien-berlebensguide-59419.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

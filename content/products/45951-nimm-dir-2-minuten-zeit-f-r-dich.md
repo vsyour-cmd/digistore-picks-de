@@ -1,6 +1,6 @@
 # Nimm dir 2 Minuten Zeit - für DICH!
 
-> Product ID `45951` · Digistore24 productId `523760` · [HTML profile page](../../reviews/nimm-dir-2-minuten-zeit-f-r-dich-45951.html)
+> Product ID `45951` · Digistore24 productId `523760` · [HTML profile page](../../produkte/nimm-dir-2-minuten-zeit-f-r-dich-45951.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

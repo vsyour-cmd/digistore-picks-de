@@ -1,6 +1,6 @@
 # Hochzeitsgast-Rundum-Sorglos-Paket - für die Hochzeitssaison
 
-> Product ID `57007` · Digistore24 productId `699782` · [HTML profile page](../../reviews/hochzeitsgast-rundum-sorglos-paket-f-r-die-hochzeitssaison-57007.html)
+> Product ID `57007` · Digistore24 productId `699782` · [HTML profile page](../../produkte/hochzeitsgast-rundum-sorglos-paket-f-r-die-hochzeitssaison-57007.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

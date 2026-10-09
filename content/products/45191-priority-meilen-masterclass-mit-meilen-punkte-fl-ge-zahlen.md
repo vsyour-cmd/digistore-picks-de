@@ -1,6 +1,6 @@
 # Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen
 
-> Product ID `45191` · Digistore24 productId `515126` · [HTML profile page](../../reviews/priority-meilen-masterclass-mit-meilen-punkte-fl-ge-zahlen-45191.html)
+> Product ID `45191` · Digistore24 productId `515126` · [HTML profile page](../../produkte/priority-meilen-masterclass-mit-meilen-punkte-fl-ge-zahlen-45191.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

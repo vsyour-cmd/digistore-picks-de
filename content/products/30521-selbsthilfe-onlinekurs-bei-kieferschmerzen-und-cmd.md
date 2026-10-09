@@ -1,6 +1,6 @@
 # Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD
 
-> Product ID `30521` · Digistore24 productId `284857` · [HTML profile page](../../reviews/selbsthilfe-onlinekurs-bei-kieferschmerzen-und-cmd-30521.html)
+> Product ID `30521` · Digistore24 productId `284857` · [HTML profile page](../../produkte/selbsthilfe-onlinekurs-bei-kieferschmerzen-und-cmd-30521.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

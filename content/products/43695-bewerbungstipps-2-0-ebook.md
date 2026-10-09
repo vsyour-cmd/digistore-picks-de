@@ -1,6 +1,6 @@
 # Bewerbungstipps 2.0 (EBook)
 
-> Product ID `43695` · Digistore24 productId `495370` · [HTML profile page](../../reviews/bewerbungstipps-2-0-ebook-43695.html)
+> Product ID `43695` · Digistore24 productId `495370` · [HTML profile page](../../produkte/bewerbungstipps-2-0-ebook-43695.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

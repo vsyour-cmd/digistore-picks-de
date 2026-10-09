@@ -1,6 +1,6 @@
 # Starke Kinder stärken
 
-> Product ID `51419` · Digistore24 productId `597672` · [HTML profile page](../../reviews/starke-kinder-st-rken-51419.html)
+> Product ID `51419` · Digistore24 productId `597672` · [HTML profile page](../../produkte/starke-kinder-st-rken-51419.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

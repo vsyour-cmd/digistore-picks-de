@@ -1,6 +1,6 @@
 # Der Nr. 1 Sportwetten Tippgeber in Deutschland
 
-> Product ID `41360` · Digistore24 productId `450204` · [HTML profile page](../../reviews/der-nr-1-sportwetten-tippgeber-in-deutschland-41360.html)
+> Product ID `41360` · Digistore24 productId `450204` · [HTML profile page](../../produkte/der-nr-1-sportwetten-tippgeber-in-deutschland-41360.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

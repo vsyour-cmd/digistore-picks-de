@@ -1,6 +1,6 @@
 # Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)
 
-> Product ID `55639` · Digistore24 productId `665920` · [HTML profile page](../../reviews/das-5-minuten-ausflugs-kartendeck-digitaler-download-55639.html)
+> Product ID `55639` · Digistore24 productId `665920` · [HTML profile page](../../produkte/das-5-minuten-ausflugs-kartendeck-digitaler-download-55639.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Eicheln essen: Traditionelle Verarbeitung und Rezepte
 
-> Product ID `35185` · Digistore24 productId `364724` · [HTML profile page](../../reviews/eicheln-essen-traditionelle-verarbeitung-und-rezepte-35185.html)
+> Product ID `35185` · Digistore24 productId `364724` · [HTML profile page](../../produkte/eicheln-essen-traditionelle-verarbeitung-und-rezepte-35185.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

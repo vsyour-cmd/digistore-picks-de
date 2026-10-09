@@ -1,6 +1,6 @@
 # Vertrag und AGB für Online Unternehmer
 
-> Product ID `29096` · Digistore24 productId `174749` · [HTML profile page](../../reviews/vertrag-und-agb-f-r-online-unternehmer-29096.html)
+> Product ID `29096` · Digistore24 productId `174749` · [HTML profile page](../../produkte/vertrag-und-agb-f-r-online-unternehmer-29096.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

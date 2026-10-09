@@ -1,6 +1,6 @@
 # Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger
 
-> Product ID `59483` · Digistore24 productId `735782` · [HTML profile page](../../reviews/digistore24-mit-matze-pdf-praxiskurs-f-r-einsteiger-59483.html)
+> Product ID `59483` · Digistore24 productId `735782` · [HTML profile page](../../produkte/digistore24-mit-matze-pdf-praxiskurs-f-r-einsteiger-59483.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

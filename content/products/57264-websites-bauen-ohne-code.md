@@ -1,6 +1,6 @@
 # Websites bauen ohne Code
 
-> Product ID `57264` · Digistore24 productId `704242` · [HTML profile page](../../reviews/websites-bauen-ohne-code-57264.html)
+> Product ID `57264` · Digistore24 productId `704242` · [HTML profile page](../../produkte/websites-bauen-ohne-code-57264.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

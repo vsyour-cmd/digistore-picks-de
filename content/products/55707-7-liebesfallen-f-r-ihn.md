@@ -1,6 +1,6 @@
 # 7 LIEBESFALLEN für IHN
 
-> Product ID `55707` · Digistore24 productId `670682` · [HTML profile page](../../reviews/7-liebesfallen-f-r-ihn-55707.html)
+> Product ID `55707` · Digistore24 productId `670682` · [HTML profile page](../../produkte/7-liebesfallen-f-r-ihn-55707.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

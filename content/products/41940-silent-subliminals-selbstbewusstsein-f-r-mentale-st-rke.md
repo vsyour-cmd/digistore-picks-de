@@ -1,6 +1,6 @@
 # Silent Subliminals Selbstbewusstsein - Für mentale Stärke
 
-> Product ID `41940` · Digistore24 productId `448781` · [HTML profile page](../../reviews/silent-subliminals-selbstbewusstsein-f-r-mentale-st-rke-41940.html)
+> Product ID `41940` · Digistore24 productId `448781` · [HTML profile page](../../produkte/silent-subliminals-selbstbewusstsein-f-r-mentale-st-rke-41940.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # DaVinci Resolve Videoschnitt Komplettkurs
 
-> Product ID `59633` · Digistore24 productId `734137` · [HTML profile page](../../reviews/davinci-resolve-videoschnitt-komplettkurs-59633.html)
+> Product ID `59633` · Digistore24 productId `734137` · [HTML profile page](../../produkte/davinci-resolve-videoschnitt-komplettkurs-59633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

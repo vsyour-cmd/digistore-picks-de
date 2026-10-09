@@ -1,6 +1,6 @@
 # 50 % Provision: Struktur-Playbook für Organisations-Teams
 
-> Product ID `58787` · Digistore24 productId `692786` · [HTML profile page](../../reviews/50-provision-struktur-playbook-f-r-organisations-teams-58787.html)
+> Product ID `58787` · Digistore24 productId `692786` · [HTML profile page](../../produkte/50-provision-struktur-playbook-f-r-organisations-teams-58787.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

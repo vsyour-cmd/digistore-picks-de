@@ -1,6 +1,6 @@
 # Wenn sich alles verändert
 
-> Product ID `58990` · Digistore24 productId `730789` · [HTML profile page](../../reviews/wenn-sich-alles-ver-ndert-58990.html)
+> Product ID `58990` · Digistore24 productId `730789` · [HTML profile page](../../produkte/wenn-sich-alles-ver-ndert-58990.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

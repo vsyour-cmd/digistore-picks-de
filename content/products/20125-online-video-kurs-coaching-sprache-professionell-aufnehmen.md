@@ -1,6 +1,6 @@
 # Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"
 
-> Product ID `20125` · Digistore24 productId `171853` · [HTML profile page](../../reviews/online-video-kurs-coaching-sprache-professionell-aufnehmen-20125.html)
+> Product ID `20125` · Digistore24 productId `171853` · [HTML profile page](../../produkte/online-video-kurs-coaching-sprache-professionell-aufnehmen-20125.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

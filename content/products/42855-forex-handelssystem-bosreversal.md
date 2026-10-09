@@ -1,6 +1,6 @@
 # Forex-Handelssystem BOSreversal
 
-> Product ID `42855` · Digistore24 productId `319463` · [HTML profile page](../../reviews/forex-handelssystem-bosreversal-42855.html)
+> Product ID `42855` · Digistore24 productId `319463` · [HTML profile page](../../produkte/forex-handelssystem-bosreversal-42855.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Mit 50+ zum eigenen Online-Business
 
-> Product ID `53199` · Digistore24 productId `624013` · [HTML profile page](../../reviews/mit-50-zum-eigenen-online-business-53199.html)
+> Product ID `53199` · Digistore24 productId `624013` · [HTML profile page](../../produkte/mit-50-zum-eigenen-online-business-53199.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

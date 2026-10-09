@@ -1,6 +1,6 @@
 # Das kleine 1x1 der Kommunikation - Webinar
 
-> Product ID `51039` · Digistore24 productId `585598` · [HTML profile page](../../reviews/das-kleine-1x1-der-kommunikation-webinar-51039.html)
+> Product ID `51039` · Digistore24 productId `585598` · [HTML profile page](../../produkte/das-kleine-1x1-der-kommunikation-webinar-51039.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

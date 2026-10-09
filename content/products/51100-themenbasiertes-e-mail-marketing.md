@@ -1,6 +1,6 @@
 # Themenbasiertes E-Mail-Marketing
 
-> Product ID `51100` · Digistore24 productId `592432` · [HTML profile page](../../reviews/themenbasiertes-e-mail-marketing-51100.html)
+> Product ID `51100` · Digistore24 productId `592432` · [HTML profile page](../../produkte/themenbasiertes-e-mail-marketing-51100.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

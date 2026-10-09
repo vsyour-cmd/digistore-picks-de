@@ -1,6 +1,6 @@
 # Mehr Geld mehr Freiheit
 
-> Product ID `58984` · Digistore24 productId `730690` · [HTML profile page](../../reviews/mehr-geld-mehr-freiheit-58984.html)
+> Product ID `58984` · Digistore24 productId `730690` · [HTML profile page](../../produkte/mehr-geld-mehr-freiheit-58984.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

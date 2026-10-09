@@ -1,6 +1,6 @@
 # LINKAUFBAU PRAXISHANDBUCH (eBook)
 
-> Product ID `38943` · Digistore24 productId `151651` · [HTML profile page](../../reviews/linkaufbau-praxishandbuch-ebook-38943.html)
+> Product ID `38943` · Digistore24 productId `151651` · [HTML profile page](../../produkte/linkaufbau-praxishandbuch-ebook-38943.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

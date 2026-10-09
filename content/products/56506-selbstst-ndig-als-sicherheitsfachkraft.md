@@ -1,6 +1,6 @@
 # Selbstständig als Sicherheitsfachkraft
 
-> Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../reviews/selbstst-ndig-als-sicherheitsfachkraft-56506.html)
+> Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../produkte/selbstst-ndig-als-sicherheitsfachkraft-56506.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

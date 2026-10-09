@@ -1,6 +1,6 @@
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
-> Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../reviews/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
+> Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

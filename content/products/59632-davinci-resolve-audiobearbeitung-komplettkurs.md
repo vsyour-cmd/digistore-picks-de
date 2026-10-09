@@ -1,6 +1,6 @@
 # DaVinci Resolve Audiobearbeitung Komplettkurs
 
-> Product ID `59632` · Digistore24 productId `734136` · [HTML profile page](../../reviews/davinci-resolve-audiobearbeitung-komplettkurs-59632.html)
+> Product ID `59632` · Digistore24 productId `734136` · [HTML profile page](../../produkte/davinci-resolve-audiobearbeitung-komplettkurs-59632.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

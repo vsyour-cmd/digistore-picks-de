@@ -1,6 +1,6 @@
 # WAWIKUKL Artikelverwaltung Freischaltcode
 
-> Product ID `60228` · Digistore24 productId `733314` · [HTML profile page](../../reviews/wawikukl-artikelverwaltung-freischaltcode-60228.html)
+> Product ID `60228` · Digistore24 productId `733314` · [HTML profile page](../../produkte/wawikukl-artikelverwaltung-freischaltcode-60228.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand
 
-> Product ID `24585` · Digistore24 productId `218797` · [HTML profile page](../../reviews/der-80-20-networker-mehr-erreichen-mit-weniger-aufwand-24585.html)
+> Product ID `24585` · Digistore24 productId `218797` · [HTML profile page](../../produkte/der-80-20-networker-mehr-erreichen-mit-weniger-aufwand-24585.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dominiere dein Leben - Das Buch
 
-> Product ID `39755` · Digistore24 productId `382593` · [HTML profile page](../../reviews/dominiere-dein-leben-das-buch-39755.html)
+> Product ID `39755` · Digistore24 productId `382593` · [HTML profile page](../../produkte/dominiere-dein-leben-das-buch-39755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

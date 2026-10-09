@@ -1,6 +1,6 @@
 # DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten
 
-> Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../reviews/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)
+> Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../produkte/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

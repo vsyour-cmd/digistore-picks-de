@@ -1,6 +1,6 @@
 # Wecke den "Optimisten" in Deinem Hund - von Mirjam Cordt
 
-> Product ID `28615` · Digistore24 productId `259648` · [HTML profile page](../../reviews/wecke-den-optimisten-in-deinem-hund-von-mirjam-cordt-28615.html)
+> Product ID `28615` · Digistore24 productId `259648` · [HTML profile page](../../produkte/wecke-den-optimisten-in-deinem-hund-von-mirjam-cordt-28615.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dein Unterbewusstsein
 
-> Product ID `56074` · Digistore24 productId `620855` · [HTML profile page](../../reviews/dein-unterbewusstsein-56074.html)
+> Product ID `56074` · Digistore24 productId `620855` · [HTML profile page](../../produkte/dein-unterbewusstsein-56074.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

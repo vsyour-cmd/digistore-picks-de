@@ -1,6 +1,6 @@
 # The Little Good Life
 
-> Product ID `53706` · Digistore24 productId `631078` · [HTML profile page](../../reviews/the-little-good-life-53706.html)
+> Product ID `53706` · Digistore24 productId `631078` · [HTML profile page](../../produkte/the-little-good-life-53706.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

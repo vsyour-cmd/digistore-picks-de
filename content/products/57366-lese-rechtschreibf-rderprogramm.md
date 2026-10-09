@@ -1,6 +1,6 @@
 # Lese-Rechtschreibförderprogramm
 
-> Product ID `57366` · Digistore24 productId `680632` · [HTML profile page](../../reviews/lese-rechtschreibf-rderprogramm-57366.html)
+> Product ID `57366` · Digistore24 productId `680632` · [HTML profile page](../../produkte/lese-rechtschreibf-rderprogramm-57366.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

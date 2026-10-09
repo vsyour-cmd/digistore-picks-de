@@ -1,6 +1,6 @@
 # Auswandern nach Ungarn – Praxis-Guide für Auswanderer
 
-> Product ID `58391` · Digistore24 productId `721645` · [HTML profile page](../../reviews/auswandern-nach-ungarn-praxis-guide-f-r-auswanderer-58391.html)
+> Product ID `58391` · Digistore24 productId `721645` · [HTML profile page](../../produkte/auswandern-nach-ungarn-praxis-guide-f-r-auswanderer-58391.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

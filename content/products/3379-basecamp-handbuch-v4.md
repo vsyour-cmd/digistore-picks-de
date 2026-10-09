@@ -1,6 +1,6 @@
 # BaseCamp Handbuch V4
 
-> Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../reviews/basecamp-handbuch-v4-3379.html)
+> Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../produkte/basecamp-handbuch-v4-3379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

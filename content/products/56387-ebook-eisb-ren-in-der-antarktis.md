@@ -1,6 +1,6 @@
 # Ebook - Eisbären in der Antarktis
 
-> Product ID `56387` · Digistore24 productId `688702` · [HTML profile page](../../reviews/ebook-eisb-ren-in-der-antarktis-56387.html)
+> Product ID `56387` · Digistore24 productId `688702` · [HTML profile page](../../produkte/ebook-eisb-ren-in-der-antarktis-56387.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

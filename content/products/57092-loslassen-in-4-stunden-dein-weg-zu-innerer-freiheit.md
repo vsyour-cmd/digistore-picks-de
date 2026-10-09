@@ -1,6 +1,6 @@
 # Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit
 
-> Product ID `57092` · Digistore24 productId `629547` · [HTML profile page](../../reviews/loslassen-in-4-stunden-dein-weg-zu-innerer-freiheit-57092.html)
+> Product ID `57092` · Digistore24 productId `629547` · [HTML profile page](../../produkte/loslassen-in-4-stunden-dein-weg-zu-innerer-freiheit-57092.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

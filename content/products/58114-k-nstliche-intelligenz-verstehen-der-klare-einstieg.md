@@ -1,6 +1,6 @@
 # Künstliche Intelligenz verstehen der klare Einstieg
 
-> Product ID `58114` · Digistore24 productId `717798` · [HTML profile page](../../reviews/k-nstliche-intelligenz-verstehen-der-klare-einstieg-58114.html)
+> Product ID `58114` · Digistore24 productId `717798` · [HTML profile page](../../produkte/k-nstliche-intelligenz-verstehen-der-klare-einstieg-58114.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

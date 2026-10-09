@@ -1,6 +1,6 @@
 # Abschlussgarant Selbstlernkurs
 
-> Product ID `56884` · Digistore24 productId `625312` · [HTML profile page](../../reviews/abschlussgarant-selbstlernkurs-56884.html)
+> Product ID `56884` · Digistore24 productId `625312` · [HTML profile page](../../produkte/abschlussgarant-selbstlernkurs-56884.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

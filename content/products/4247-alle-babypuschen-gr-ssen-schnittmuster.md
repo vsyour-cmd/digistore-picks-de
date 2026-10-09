@@ -1,6 +1,6 @@
 # Alle Babypuschen Grössen Schnittmuster
 
-> Product ID `4247` · Digistore24 productId `16315` · [HTML profile page](../../reviews/alle-babypuschen-gr-ssen-schnittmuster-4247.html)
+> Product ID `4247` · Digistore24 productId `16315` · [HTML profile page](../../produkte/alle-babypuschen-gr-ssen-schnittmuster-4247.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

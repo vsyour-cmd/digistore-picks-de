@@ -1,6 +1,6 @@
 # Digitalisierungsfahrplan für KMU
 
-> Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../reviews/digitalisierungsfahrplan-f-r-kmu-59481.html)
+> Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../produkte/digitalisierungsfahrplan-f-r-kmu-59481.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

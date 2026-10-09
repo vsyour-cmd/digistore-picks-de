@@ -1,6 +1,6 @@
 # ALOE VERA - Allroundtalent für Mensch und Tier
 
-> Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../reviews/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)
+> Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../produkte/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

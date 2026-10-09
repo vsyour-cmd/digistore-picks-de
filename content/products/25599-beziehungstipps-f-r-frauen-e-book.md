@@ -1,6 +1,6 @@
 # Beziehungstipps für Frauen [E-Book]
 
-> Product ID `25599` · Digistore24 productId `88745` · [HTML profile page](../../reviews/beziehungstipps-f-r-frauen-e-book-25599.html)
+> Product ID `25599` · Digistore24 productId `88745` · [HTML profile page](../../produkte/beziehungstipps-f-r-frauen-e-book-25599.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

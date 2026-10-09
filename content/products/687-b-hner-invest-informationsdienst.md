@@ -1,6 +1,6 @@
 # Bühner Invest Informationsdienst
 
-> Product ID `687` · Digistore24 productId `12187` · [HTML profile page](../../reviews/b-hner-invest-informationsdienst-687.html)
+> Product ID `687` · Digistore24 productId `12187` · [HTML profile page](../../produkte/b-hner-invest-informationsdienst-687.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

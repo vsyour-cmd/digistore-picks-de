@@ -1,6 +1,6 @@
 # Free Keto Gemüse Checkliste 70% auf Add-on
 
-> Product ID `57071` · Digistore24 productId `674681` · [HTML profile page](../../reviews/free-keto-gem-se-checkliste-70-auf-add-on-57071.html)
+> Product ID `57071` · Digistore24 productId `674681` · [HTML profile page](../../produkte/free-keto-gem-se-checkliste-70-auf-add-on-57071.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

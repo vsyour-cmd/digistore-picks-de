@@ -1,6 +1,6 @@
 # In 4 Schritten Depressionen überwinden
 
-> Product ID `40388` · Digistore24 productId `436672` · [HTML profile page](../../reviews/in-4-schritten-depressionen-berwinden-40388.html)
+> Product ID `40388` · Digistore24 productId `436672` · [HTML profile page](../../produkte/in-4-schritten-depressionen-berwinden-40388.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

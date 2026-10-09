@@ -1,6 +1,6 @@
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
-> Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../reviews/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
+> Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../produkte/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

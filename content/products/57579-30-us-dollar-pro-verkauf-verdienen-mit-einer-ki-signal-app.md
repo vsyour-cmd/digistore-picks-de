@@ -1,6 +1,6 @@
 # 30 $ US Dollar pro Verkauf verdienen mit einer KI Signal App
 
-> Product ID `57579` · Digistore24 productId `713919` · [HTML profile page](../../reviews/30-us-dollar-pro-verkauf-verdienen-mit-einer-ki-signal-app-57579.html)
+> Product ID `57579` · Digistore24 productId `713919` · [HTML profile page](../../produkte/30-us-dollar-pro-verkauf-verdienen-mit-einer-ki-signal-app-57579.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Airdrops Ratgeber eBook
 
-> Product ID `42150` · Digistore24 productId `467099` · [HTML profile page](../../reviews/airdrops-ratgeber-ebook-42150.html)
+> Product ID `42150` · Digistore24 productId `467099` · [HTML profile page](../../produkte/airdrops-ratgeber-ebook-42150.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

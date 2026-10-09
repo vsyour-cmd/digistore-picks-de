@@ -1,6 +1,6 @@
 # eBook Marktplatz Business PLUS + (Amazon Kindle Business)
 
-> Product ID `38022` · Digistore24 productId `410768` · [HTML profile page](../../reviews/ebook-marktplatz-business-plus-amazon-kindle-business-38022.html)
+> Product ID `38022` · Digistore24 productId `410768` · [HTML profile page](../../produkte/ebook-marktplatz-business-plus-amazon-kindle-business-38022.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

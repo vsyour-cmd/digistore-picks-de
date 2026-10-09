@@ -1,6 +1,6 @@
 # Freiheitsoffenbarung
 
-> Product ID `57373` · Digistore24 productId `688698` · [HTML profile page](../../reviews/freiheitsoffenbarung-57373.html)
+> Product ID `57373` · Digistore24 productId `688698` · [HTML profile page](../../produkte/freiheitsoffenbarung-57373.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

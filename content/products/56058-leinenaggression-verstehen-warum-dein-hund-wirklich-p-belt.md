@@ -1,6 +1,6 @@
 # Leinenaggression verstehen - Warum dein Hund wirklich pöbelt
 
-> Product ID `56058` · Digistore24 productId `680021` · [HTML profile page](../../reviews/leinenaggression-verstehen-warum-dein-hund-wirklich-p-belt-56058.html)
+> Product ID `56058` · Digistore24 productId `680021` · [HTML profile page](../../produkte/leinenaggression-verstehen-warum-dein-hund-wirklich-p-belt-56058.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

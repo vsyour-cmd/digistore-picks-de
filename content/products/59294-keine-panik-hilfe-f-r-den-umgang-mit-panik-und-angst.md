@@ -1,6 +1,6 @@
 # „Keine Panik! – Hilfe für den Umgang mit Panik und Angst
 
-> Product ID `59294` · Digistore24 productId `731756` · [HTML profile page](../../reviews/keine-panik-hilfe-f-r-den-umgang-mit-panik-und-angst-59294.html)
+> Product ID `59294` · Digistore24 productId `731756` · [HTML profile page](../../produkte/keine-panik-hilfe-f-r-den-umgang-mit-panik-und-angst-59294.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

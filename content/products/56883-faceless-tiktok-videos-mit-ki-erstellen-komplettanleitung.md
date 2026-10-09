@@ -1,6 +1,6 @@
 # Faceless TikTok Videos mit KI erstellen - Komplettanleitung
 
-> Product ID `56883` · Digistore24 productId `699161` · [HTML profile page](../../reviews/faceless-tiktok-videos-mit-ki-erstellen-komplettanleitung-56883.html)
+> Product ID `56883` · Digistore24 productId `699161` · [HTML profile page](../../produkte/faceless-tiktok-videos-mit-ki-erstellen-komplettanleitung-56883.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

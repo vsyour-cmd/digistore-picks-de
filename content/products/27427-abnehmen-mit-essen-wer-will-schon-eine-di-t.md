@@ -1,6 +1,6 @@
 # Abnehmen mit Essen! Wer will schon eine Diät...
 
-> Product ID `27427` · Digistore24 productId `252613` · [HTML profile page](../../reviews/abnehmen-mit-essen-wer-will-schon-eine-di-t-27427.html)
+> Product ID `27427` · Digistore24 productId `252613` · [HTML profile page](../../produkte/abnehmen-mit-essen-wer-will-schon-eine-di-t-27427.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

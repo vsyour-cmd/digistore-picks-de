@@ -1,6 +1,6 @@
 # Visitenseite | Onepager-Website für 299 €
 
-> Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../reviews/visitenseite-onepager-website-f-r-299-50448.html)
+> Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../produkte/visitenseite-onepager-website-f-r-299-50448.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

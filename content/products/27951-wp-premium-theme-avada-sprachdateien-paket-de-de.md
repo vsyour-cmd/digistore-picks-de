@@ -1,6 +1,6 @@
 # WP-Premium Theme - AVADA - Sprachdateien Paket de_De
 
-> Product ID `27951` · Digistore24 productId `252172` · [HTML profile page](../../reviews/wp-premium-theme-avada-sprachdateien-paket-de-de-27951.html)
+> Product ID `27951` · Digistore24 productId `252172` · [HTML profile page](../../produkte/wp-premium-theme-avada-sprachdateien-paket-de-de-27951.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

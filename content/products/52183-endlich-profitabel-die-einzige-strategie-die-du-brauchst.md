@@ -1,6 +1,6 @@
 # Endlich Profitabel – Die einzige Strategie, die du brauchst
 
-> Product ID `52183` · Digistore24 productId `608833` · [HTML profile page](../../reviews/endlich-profitabel-die-einzige-strategie-die-du-brauchst-52183.html)
+> Product ID `52183` · Digistore24 productId `608833` · [HTML profile page](../../produkte/endlich-profitabel-die-einzige-strategie-die-du-brauchst-52183.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen
 
-> Product ID `4199` · Digistore24 productId `15333` · [HTML profile page](../../reviews/alle-hausschuhe-mit-traubenkerne-erwachsenen-gr-ssen-4199.html)
+> Product ID `4199` · Digistore24 productId `15333` · [HTML profile page](../../produkte/alle-hausschuhe-mit-traubenkerne-erwachsenen-gr-ssen-4199.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

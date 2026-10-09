@@ -1,6 +1,6 @@
 # Reel Studio Pro © - 9:16 Content & Reel-Generator
 
-> Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../reviews/reel-studio-pro-9-16-content-reel-generator-59985.html)
+> Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../produkte/reel-studio-pro-9-16-content-reel-generator-59985.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # DJ Kurs für Fortgeschrittene
 
-> Product ID `42525` · Digistore24 productId `476406` · [HTML profile page](../../reviews/dj-kurs-f-r-fortgeschrittene-42525.html)
+> Product ID `42525` · Digistore24 productId `476406` · [HTML profile page](../../produkte/dj-kurs-f-r-fortgeschrittene-42525.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

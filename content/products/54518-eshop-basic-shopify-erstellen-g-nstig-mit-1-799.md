@@ -1,6 +1,6 @@
 # Eshop " Basic Shopify " erstellen günstig mit 1.799 €
 
-> Product ID `54518` · Digistore24 productId `644814` · [HTML profile page](../../reviews/eshop-basic-shopify-erstellen-g-nstig-mit-1-799-54518.html)
+> Product ID `54518` · Digistore24 productId `644814` · [HTML profile page](../../produkte/eshop-basic-shopify-erstellen-g-nstig-mit-1-799-54518.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

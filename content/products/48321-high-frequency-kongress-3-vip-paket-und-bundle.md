@@ -1,6 +1,6 @@
 # High Frequency Kongress 3 - VIP Paket und Bundle
 
-> Product ID `48321` · Digistore24 productId `543980` · [HTML profile page](../../reviews/high-frequency-kongress-3-vip-paket-und-bundle-48321.html)
+> Product ID `48321` · Digistore24 productId `543980` · [HTML profile page](../../produkte/high-frequency-kongress-3-vip-paket-und-bundle-48321.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

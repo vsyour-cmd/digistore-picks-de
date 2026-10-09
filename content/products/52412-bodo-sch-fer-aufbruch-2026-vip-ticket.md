@@ -1,6 +1,6 @@
 # Bodo Schäfer AUFBRUCH 2026 VIP-Ticket
 
-> Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../reviews/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)
+> Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../produkte/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

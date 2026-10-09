@@ -1,6 +1,6 @@
 # Dankbarkeitstagebuch für Kinder
 
-> Product ID `31633` · Digistore24 productId `305926` · [HTML profile page](../../reviews/dankbarkeitstagebuch-f-r-kinder-31633.html)
+> Product ID `31633` · Digistore24 productId `305926` · [HTML profile page](../../produkte/dankbarkeitstagebuch-f-r-kinder-31633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

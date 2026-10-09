@@ -1,6 +1,6 @@
 # Suspendiert - Thriller (eBook)
 
-> Product ID `55587` · Digistore24 productId `664543` · [HTML profile page](../../reviews/suspendiert-thriller-ebook-55587.html)
+> Product ID `55587` · Digistore24 productId `664543` · [HTML profile page](../../produkte/suspendiert-thriller-ebook-55587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Headline Generator (Yellow-Press-Methode)
 
-> Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../reviews/der-headline-generator-yellow-press-methode-40766.html)
+> Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../produkte/der-headline-generator-yellow-press-methode-40766.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

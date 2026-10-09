@@ -1,6 +1,6 @@
 # Schwangerschaft leicht gemacht – mit Schwangerschafts-Planer
 
-> Product ID `60359` · Digistore24 productId `741784` · [HTML profile page](../../reviews/schwangerschaft-leicht-gemacht-mit-schwangerschafts-planer-60359.html)
+> Product ID `60359` · Digistore24 productId `741784` · [HTML profile page](../../produkte/schwangerschaft-leicht-gemacht-mit-schwangerschafts-planer-60359.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

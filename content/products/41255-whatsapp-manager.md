@@ -1,6 +1,6 @@
 # WhatsApp Manager
 
-> Product ID `41255` · Digistore24 productId `456259` · [HTML profile page](../../reviews/whatsapp-manager-41255.html)
+> Product ID `41255` · Digistore24 productId `456259` · [HTML profile page](../../produkte/whatsapp-manager-41255.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download
 
-> Product ID `54514` · Digistore24 productId `644072` · [HTML profile page](../../reviews/identit-tsdiebstahl-soforthilfe-notfallpaket-zum-download-54514.html)
+> Product ID `54514` · Digistore24 productId `644072` · [HTML profile page](../../produkte/identit-tsdiebstahl-soforthilfe-notfallpaket-zum-download-54514.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

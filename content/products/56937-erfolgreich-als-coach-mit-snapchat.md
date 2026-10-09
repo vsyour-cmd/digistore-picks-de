@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Snapchat
 
-> Product ID `56937` · Digistore24 productId `701371` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-snapchat-56937.html)
+> Product ID `56937` · Digistore24 productId `701371` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-snapchat-56937.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

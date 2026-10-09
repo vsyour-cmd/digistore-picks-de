@@ -1,6 +1,6 @@
 # Kennenlernen im echten Leben
 
-> Product ID `57181` · Digistore24 productId `701938` · [HTML profile page](../../reviews/kennenlernen-im-echten-leben-57181.html)
+> Product ID `57181` · Digistore24 productId `701938` · [HTML profile page](../../produkte/kennenlernen-im-echten-leben-57181.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

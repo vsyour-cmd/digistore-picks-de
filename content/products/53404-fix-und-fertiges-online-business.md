@@ -1,6 +1,6 @@
 # Fix und fertiges Online Business
 
-> Product ID `53404` · Digistore24 productId `627525` · [HTML profile page](../../reviews/fix-und-fertiges-online-business-53404.html)
+> Product ID `53404` · Digistore24 productId `627525` · [HTML profile page](../../produkte/fix-und-fertiges-online-business-53404.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

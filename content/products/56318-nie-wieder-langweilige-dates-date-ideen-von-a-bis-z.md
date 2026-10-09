@@ -1,6 +1,6 @@
 # Nie wieder langweilige Dates - Date-Ideen von A bis Z
 
-> Product ID `56318` · Digistore24 productId `685825` · [HTML profile page](../../reviews/nie-wieder-langweilige-dates-date-ideen-von-a-bis-z-56318.html)
+> Product ID `56318` · Digistore24 productId `685825` · [HTML profile page](../../produkte/nie-wieder-langweilige-dates-date-ideen-von-a-bis-z-56318.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

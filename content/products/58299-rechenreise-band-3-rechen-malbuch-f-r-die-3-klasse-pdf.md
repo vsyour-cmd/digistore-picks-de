@@ -1,6 +1,6 @@
 # Rechenreise Band 3 – Rechen-Malbuch für die 3. Klasse (PDF)
 
-> Product ID `58299` · Digistore24 productId `720424` · [HTML profile page](../../reviews/rechenreise-band-3-rechen-malbuch-f-r-die-3-klasse-pdf-58299.html)
+> Product ID `58299` · Digistore24 productId `720424` · [HTML profile page](../../produkte/rechenreise-band-3-rechen-malbuch-f-r-die-3-klasse-pdf-58299.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Krypto für Einsteiger
 
-> Product ID `57251` · Digistore24 productId `704229` · [HTML profile page](../../reviews/krypto-f-r-einsteiger-57251.html)
+> Product ID `57251` · Digistore24 productId `704229` · [HTML profile page](../../produkte/krypto-f-r-einsteiger-57251.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

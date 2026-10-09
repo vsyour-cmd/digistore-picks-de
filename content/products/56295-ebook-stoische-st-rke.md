@@ -1,6 +1,6 @@
 # Ebook - Stoische Stärke
 
-> Product ID `56295` · Digistore24 productId `685114` · [HTML profile page](../../reviews/ebook-stoische-st-rke-56295.html)
+> Product ID `56295` · Digistore24 productId `685114` · [HTML profile page](../../produkte/ebook-stoische-st-rke-56295.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

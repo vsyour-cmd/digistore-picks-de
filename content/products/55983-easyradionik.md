@@ -1,6 +1,6 @@
 # EasyRadionik
 
-> Product ID `55983` · Digistore24 productId `670575` · [HTML profile page](../../reviews/easyradionik-55983.html)
+> Product ID `55983` · Digistore24 productId `670575` · [HTML profile page](../../produkte/easyradionik-55983.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

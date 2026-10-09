@@ -1,6 +1,6 @@
 # Ebook - Das geheime Netzwerk der Meere
 
-> Product ID `56401` · Digistore24 productId `689162` · [HTML profile page](../../reviews/ebook-das-geheime-netzwerk-der-meere-56401.html)
+> Product ID `56401` · Digistore24 productId `689162` · [HTML profile page](../../produkte/ebook-das-geheime-netzwerk-der-meere-56401.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

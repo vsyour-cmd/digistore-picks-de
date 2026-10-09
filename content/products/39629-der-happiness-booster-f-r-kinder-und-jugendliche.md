@@ -1,6 +1,6 @@
 # Der Happiness Booster für Kinder und Jugendliche
 
-> Product ID `39629` · Digistore24 productId `379592` · [HTML profile page](../../reviews/der-happiness-booster-f-r-kinder-und-jugendliche-39629.html)
+> Product ID `39629` · Digistore24 productId `379592` · [HTML profile page](../../produkte/der-happiness-booster-f-r-kinder-und-jugendliche-39629.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

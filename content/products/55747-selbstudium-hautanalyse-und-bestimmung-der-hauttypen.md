@@ -1,6 +1,6 @@
 # Selbstudium Hautanalyse und Bestimmung der Hauttypen
 
-> Product ID `55747` · Digistore24 productId `671945` · [HTML profile page](../../reviews/selbstudium-hautanalyse-und-bestimmung-der-hauttypen-55747.html)
+> Product ID `55747` · Digistore24 productId `671945` · [HTML profile page](../../produkte/selbstudium-hautanalyse-und-bestimmung-der-hauttypen-55747.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

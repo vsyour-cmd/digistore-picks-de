@@ -1,6 +1,6 @@
 # Das perfekte Feierabend-Business
 
-> Product ID `57327` · Digistore24 productId `706656` · [HTML profile page](../../reviews/das-perfekte-feierabend-business-57327.html)
+> Product ID `57327` · Digistore24 productId `706656` · [HTML profile page](../../produkte/das-perfekte-feierabend-business-57327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

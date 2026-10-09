@@ -1,6 +1,6 @@
 # ClicksLog Professional - Dokumentieren wie von selbst
 
-> Product ID `46977` · Digistore24 productId `533821` · [HTML profile page](../../reviews/clickslog-professional-dokumentieren-wie-von-selbst-46977.html)
+> Product ID `46977` · Digistore24 productId `533821` · [HTML profile page](../../produkte/clickslog-professional-dokumentieren-wie-von-selbst-46977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

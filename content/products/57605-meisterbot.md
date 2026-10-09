@@ -1,6 +1,6 @@
 # Meisterbot
 
-> Product ID `57605` · Digistore24 productId `711958` · [HTML profile page](../../reviews/meisterbot-57605.html)
+> Product ID `57605` · Digistore24 productId `711958` · [HTML profile page](../../produkte/meisterbot-57605.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

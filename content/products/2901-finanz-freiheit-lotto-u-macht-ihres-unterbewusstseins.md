@@ -1,6 +1,6 @@
 # FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS
 
-> Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../reviews/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)
+> Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../produkte/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

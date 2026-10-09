@@ -1,6 +1,6 @@
 # Ebook - Die Heilkraft des Klangs
 
-> Product ID `56434` · Digistore24 productId `689587` · [HTML profile page](../../reviews/ebook-die-heilkraft-des-klangs-56434.html)
+> Product ID `56434` · Digistore24 productId `689587` · [HTML profile page](../../produkte/ebook-die-heilkraft-des-klangs-56434.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

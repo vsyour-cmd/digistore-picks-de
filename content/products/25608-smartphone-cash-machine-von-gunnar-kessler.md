@@ -1,6 +1,6 @@
 # Smartphone Cash Machine - von Gunnar Kessler
 
-> Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../reviews/smartphone-cash-machine-von-gunnar-kessler-25608.html)
+> Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

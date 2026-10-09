@@ -1,6 +1,6 @@
 # Success Bundle (Subliminal) – Absoluter Bestseller seit 2016
 
-> Product ID `16219` · Digistore24 productId `133183` · [HTML profile page](../../reviews/success-bundle-subliminal-absoluter-bestseller-seit-2016-16219.html)
+> Product ID `16219` · Digistore24 productId `133183` · [HTML profile page](../../produkte/success-bundle-subliminal-absoluter-bestseller-seit-2016-16219.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

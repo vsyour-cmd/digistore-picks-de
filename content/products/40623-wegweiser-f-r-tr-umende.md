@@ -1,6 +1,6 @@
 # Wegweiser für Träumende
 
-> Product ID `40623` · Digistore24 productId `426584` · [HTML profile page](../../reviews/wegweiser-f-r-tr-umende-40623.html)
+> Product ID `40623` · Digistore24 productId `426584` · [HTML profile page](../../produkte/wegweiser-f-r-tr-umende-40623.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

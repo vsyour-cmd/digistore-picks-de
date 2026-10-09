@@ -1,6 +1,6 @@
 # 99 gratis Traffic-Quellen
 
-> Product ID `57276` · Digistore24 productId `704253` · [HTML profile page](../../reviews/99-gratis-traffic-quellen-57276.html)
+> Product ID `57276` · Digistore24 productId `704253` · [HTML profile page](../../produkte/99-gratis-traffic-quellen-57276.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

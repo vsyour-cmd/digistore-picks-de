@@ -1,6 +1,6 @@
 # Der Sportwagen-Händler
 
-> Product ID `57329` · Digistore24 productId `706658` · [HTML profile page](../../reviews/der-sportwagen-h-ndler-57329.html)
+> Product ID `57329` · Digistore24 productId `706658` · [HTML profile page](../../produkte/der-sportwagen-h-ndler-57329.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

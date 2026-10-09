@@ -1,6 +1,6 @@
 # Lernstrategien mit KI – Bessere Noten für Schüler
 
-> Product ID `55233` · Digistore24 productId `662151` · [HTML profile page](../../reviews/lernstrategien-mit-ki-bessere-noten-f-r-sch-ler-55233.html)
+> Product ID `55233` · Digistore24 productId `662151` · [HTML profile page](../../produkte/lernstrategien-mit-ki-bessere-noten-f-r-sch-ler-55233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

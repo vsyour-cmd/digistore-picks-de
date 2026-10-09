@@ -1,6 +1,6 @@
 # Volles Haar zurückgewinnen
 
-> Product ID `57018` · Digistore24 productId `702249` · [HTML profile page](../../reviews/volles-haar-zur-ckgewinnen-57018.html)
+> Product ID `57018` · Digistore24 productId `702249` · [HTML profile page](../../produkte/volles-haar-zur-ckgewinnen-57018.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

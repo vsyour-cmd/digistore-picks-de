@@ -1,6 +1,6 @@
 # Videokurs: Level Up Affiliate - Vendor Mastery
 
-> Product ID `46121` · Digistore24 productId `521838` · [HTML profile page](../../reviews/videokurs-level-up-affiliate-vendor-mastery-46121.html)
+> Product ID `46121` · Digistore24 productId `521838` · [HTML profile page](../../produkte/videokurs-level-up-affiliate-vendor-mastery-46121.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

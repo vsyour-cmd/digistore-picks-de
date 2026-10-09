@@ -1,6 +1,6 @@
 # 74Seiten XXL Malbuch: Deutsche Nationalmannschaft
 
-> Product ID `57573` · Digistore24 productId `712352` · [HTML profile page](../../reviews/74seiten-xxl-malbuch-deutsche-nationalmannschaft-57573.html)
+> Product ID `57573` · Digistore24 productId `712352` · [HTML profile page](../../produkte/74seiten-xxl-malbuch-deutsche-nationalmannschaft-57573.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Bauanleitung - Dacia Dokker Einzelbett
 
-> Product ID `35173` · Digistore24 productId `340378` · [HTML profile page](../../reviews/bauanleitung-dacia-dokker-einzelbett-35173.html)
+> Product ID `35173` · Digistore24 productId `340378` · [HTML profile page](../../produkte/bauanleitung-dacia-dokker-einzelbett-35173.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

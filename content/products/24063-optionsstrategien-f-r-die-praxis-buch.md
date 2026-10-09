@@ -1,6 +1,6 @@
 # Optionsstrategien für die Praxis ( Buch )
 
-> Product ID `24063` · Digistore24 productId `123139` · [HTML profile page](../../reviews/optionsstrategien-f-r-die-praxis-buch-24063.html)
+> Product ID `24063` · Digistore24 productId `123139` · [HTML profile page](../../produkte/optionsstrategien-f-r-die-praxis-buch-24063.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

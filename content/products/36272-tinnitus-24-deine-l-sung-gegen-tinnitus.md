@@ -1,6 +1,6 @@
 # Tinnitus 24 - Deine Lösung gegen Tinnitus
 
-> Product ID `36272` · Digistore24 productId `297768` · [HTML profile page](../../reviews/tinnitus-24-deine-l-sung-gegen-tinnitus-36272.html)
+> Product ID `36272` · Digistore24 productId `297768` · [HTML profile page](../../produkte/tinnitus-24-deine-l-sung-gegen-tinnitus-36272.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

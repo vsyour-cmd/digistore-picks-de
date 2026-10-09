@@ -1,6 +1,6 @@
 # Deine Digistore24 Einstands-Party
 
-> Product ID `47970` · Digistore24 productId `550134` · [HTML profile page](../../reviews/deine-digistore24-einstands-party-47970.html)
+> Product ID `47970` · Digistore24 productId `550134` · [HTML profile page](../../produkte/deine-digistore24-einstands-party-47970.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

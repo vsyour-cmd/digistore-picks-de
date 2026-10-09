@@ -1,6 +1,6 @@
 # Inner Circle Mitgliedschaft. Trading & Investment Gruppe
 
-> Product ID `44934` · Digistore24 productId `502495` · [HTML profile page](../../reviews/inner-circle-mitgliedschaft-trading-investment-gruppe-44934.html)
+> Product ID `44934` · Digistore24 productId `502495` · [HTML profile page](../../produkte/inner-circle-mitgliedschaft-trading-investment-gruppe-44934.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

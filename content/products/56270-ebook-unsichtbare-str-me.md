@@ -1,6 +1,6 @@
 # Ebook - Unsichtbare Ströme
 
-> Product ID `56270` · Digistore24 productId `683241` · [HTML profile page](../../reviews/ebook-unsichtbare-str-me-56270.html)
+> Product ID `56270` · Digistore24 productId `683241` · [HTML profile page](../../produkte/ebook-unsichtbare-str-me-56270.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

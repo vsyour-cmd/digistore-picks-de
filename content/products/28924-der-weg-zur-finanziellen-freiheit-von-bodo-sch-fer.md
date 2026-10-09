@@ -1,6 +1,6 @@
 # Der Weg zur finanziellen Freiheit von Bodo Schäfer
 
-> Product ID `28924` · Digistore24 productId `267357` · [HTML profile page](../../reviews/der-weg-zur-finanziellen-freiheit-von-bodo-sch-fer-28924.html)
+> Product ID `28924` · Digistore24 productId `267357` · [HTML profile page](../../produkte/der-weg-zur-finanziellen-freiheit-von-bodo-sch-fer-28924.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

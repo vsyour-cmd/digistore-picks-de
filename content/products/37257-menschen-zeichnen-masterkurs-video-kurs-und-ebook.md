@@ -1,6 +1,6 @@
 # Menschen Zeichnen Masterkurs: Video-Kurs und eBook
 
-> Product ID `37257` · Digistore24 productId `398268` · [HTML profile page](../../reviews/menschen-zeichnen-masterkurs-video-kurs-und-ebook-37257.html)
+> Product ID `37257` · Digistore24 productId `398268` · [HTML profile page](../../produkte/menschen-zeichnen-masterkurs-video-kurs-und-ebook-37257.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

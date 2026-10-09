@@ -1,6 +1,6 @@
 # Blockchain Business mit NFTs (mit Kryptowerken)
 
-> Product ID `39086` · Digistore24 productId `429081` · [HTML profile page](../../reviews/blockchain-business-mit-nfts-mit-kryptowerken-39086.html)
+> Product ID `39086` · Digistore24 productId `429081` · [HTML profile page](../../produkte/blockchain-business-mit-nfts-mit-kryptowerken-39086.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

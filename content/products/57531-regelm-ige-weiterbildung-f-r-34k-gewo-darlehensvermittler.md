@@ -1,6 +1,6 @@
 # Regelmäßige Weiterbildung für § 34k GewO Darlehensvermittler
 
-> Product ID `57531` · Digistore24 productId `711653` · [HTML profile page](../../reviews/regelm-ige-weiterbildung-f-r-34k-gewo-darlehensvermittler-57531.html)
+> Product ID `57531` · Digistore24 productId `711653` · [HTML profile page](../../produkte/regelm-ige-weiterbildung-f-r-34k-gewo-darlehensvermittler-57531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

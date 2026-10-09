@@ -1,6 +1,6 @@
 # IHR NEUER NAME
 
-> Product ID `12171` · Digistore24 productId `87093` · [HTML profile page](../../reviews/ihr-neuer-name-12171.html)
+> Product ID `12171` · Digistore24 productId `87093` · [HTML profile page](../../produkte/ihr-neuer-name-12171.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KetoSana - Metabolic Breakthrough Drops (DACH Market)
 
-> Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../reviews/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)
+> Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

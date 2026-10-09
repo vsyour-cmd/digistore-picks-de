@@ -1,6 +1,6 @@
 # „Die Kraft der Ahnen“ - Klärt das Familiensystem
 
-> Product ID `40829` · Digistore24 productId `119917` · [HTML profile page](../../reviews/die-kraft-der-ahnen-kl-rt-das-familiensystem-40829.html)
+> Product ID `40829` · Digistore24 productId `119917` · [HTML profile page](../../produkte/die-kraft-der-ahnen-kl-rt-das-familiensystem-40829.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # OnlineBiz24 - Deine 7 Schritte zum profitablen Online Busine
 
-> Product ID `49977` · Digistore24 productId `573843` · [HTML profile page](../../reviews/onlinebiz24-deine-7-schritte-zum-profitablen-online-busine-49977.html)
+> Product ID `49977` · Digistore24 productId `573843` · [HTML profile page](../../produkte/onlinebiz24-deine-7-schritte-zum-profitablen-online-busine-49977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

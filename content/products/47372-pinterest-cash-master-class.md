@@ -1,6 +1,6 @@
 # Pinterest Cash - Master Class
 
-> Product ID `47372` · Digistore24 productId `541165` · [HTML profile page](../../reviews/pinterest-cash-master-class-47372.html)
+> Product ID `47372` · Digistore24 productId `541165` · [HTML profile page](../../produkte/pinterest-cash-master-class-47372.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

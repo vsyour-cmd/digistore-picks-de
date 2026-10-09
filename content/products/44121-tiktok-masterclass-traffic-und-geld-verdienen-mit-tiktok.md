@@ -1,6 +1,6 @@
 # TikTok Masterclass - Traffic und Geld verdienen mit TikTok
 
-> Product ID `44121` · Digistore24 productId `482121` · [HTML profile page](../../reviews/tiktok-masterclass-traffic-und-geld-verdienen-mit-tiktok-44121.html)
+> Product ID `44121` · Digistore24 productId `482121` · [HTML profile page](../../produkte/tiktok-masterclass-traffic-und-geld-verdienen-mit-tiktok-44121.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

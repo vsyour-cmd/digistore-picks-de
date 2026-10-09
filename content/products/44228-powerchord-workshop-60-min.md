@@ -1,6 +1,6 @@
 # Powerchord-Workshop (60 min)
 
-> Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../reviews/powerchord-workshop-60-min-44228.html)
+> Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../produkte/powerchord-workshop-60-min-44228.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Hautpflege mit Kaffee
 
-> Product ID `53733` · Digistore24 productId `529405` · [HTML profile page](../../reviews/hautpflege-mit-kaffee-53733.html)
+> Product ID `53733` · Digistore24 productId `529405` · [HTML profile page](../../produkte/hautpflege-mit-kaffee-53733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

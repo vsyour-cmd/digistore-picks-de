@@ -1,6 +1,6 @@
 # Verschenke Business Check und verdiene automatisch mit
 
-> Product ID `56462` · Digistore24 productId `689864` · [HTML profile page](../../reviews/verschenke-business-check-und-verdiene-automatisch-mit-56462.html)
+> Product ID `56462` · Digistore24 productId `689864` · [HTML profile page](../../produkte/verschenke-business-check-und-verdiene-automatisch-mit-56462.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

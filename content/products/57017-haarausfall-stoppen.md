@@ -1,6 +1,6 @@
 # Haarausfall stoppen
 
-> Product ID `57017` · Digistore24 productId `702248` · [HTML profile page](../../reviews/haarausfall-stoppen-57017.html)
+> Product ID `57017` · Digistore24 productId `702248` · [HTML profile page](../../produkte/haarausfall-stoppen-57017.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

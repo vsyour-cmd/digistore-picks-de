@@ -1,6 +1,6 @@
 # NFT Akademie Grundkurs - From Zero To Moon
 
-> Product ID `39379` · Digistore24 productId `422668` · [HTML profile page](../../reviews/nft-akademie-grundkurs-from-zero-to-moon-39379.html)
+> Product ID `39379` · Digistore24 productId `422668` · [HTML profile page](../../produkte/nft-akademie-grundkurs-from-zero-to-moon-39379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Bluesharp lernen - Melodiespiel und Bluesharptechniken ...
 
-> Product ID `15571` · Digistore24 productId `125203` · [HTML profile page](../../reviews/bluesharp-lernen-melodiespiel-und-bluesharptechniken-15571.html)
+> Product ID `15571` · Digistore24 productId `125203` · [HTML profile page](../../produkte/bluesharp-lernen-melodiespiel-und-bluesharptechniken-15571.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Humor im Dating
 
-> Product ID `57198` · Digistore24 productId `701956` · [HTML profile page](../../reviews/humor-im-dating-57198.html)
+> Product ID `57198` · Digistore24 productId `701956` · [HTML profile page](../../produkte/humor-im-dating-57198.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

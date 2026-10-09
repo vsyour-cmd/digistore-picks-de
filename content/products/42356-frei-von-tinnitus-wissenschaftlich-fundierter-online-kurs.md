@@ -1,6 +1,6 @@
 # Frei von Tinnitus - wissenschaftlich fundierter Online Kurs
 
-> Product ID `42356` · Digistore24 productId `472214` · [HTML profile page](../../reviews/frei-von-tinnitus-wissenschaftlich-fundierter-online-kurs-42356.html)
+> Product ID `42356` · Digistore24 productId `472214` · [HTML profile page](../../produkte/frei-von-tinnitus-wissenschaftlich-fundierter-online-kurs-42356.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

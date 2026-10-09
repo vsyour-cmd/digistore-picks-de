@@ -1,6 +1,6 @@
 # ALOE-VERA für meinen Hund
 
-> Product ID `44111` · Digistore24 productId `500332` · [HTML profile page](../../reviews/aloe-vera-f-r-meinen-hund-44111.html)
+> Product ID `44111` · Digistore24 productId `500332` · [HTML profile page](../../produkte/aloe-vera-f-r-meinen-hund-44111.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

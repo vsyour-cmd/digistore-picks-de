@@ -1,6 +1,6 @@
 # Die 100 Google Ranker
 
-> Product ID `13563` · Digistore24 productId `98545` · [HTML profile page](../../reviews/die-100-google-ranker-13563.html)
+> Product ID `13563` · Digistore24 productId `98545` · [HTML profile page](../../produkte/die-100-google-ranker-13563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

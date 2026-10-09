@@ -1,6 +1,6 @@
 # Optionsgewinne mit System: Wie jeder an der Börse mit Option
 
-> Product ID `48800` · Digistore24 productId `309523` · [HTML profile page](../../reviews/optionsgewinne-mit-system-wie-jeder-an-der-b-rse-mit-option-48800.html)
+> Product ID `48800` · Digistore24 productId `309523` · [HTML profile page](../../produkte/optionsgewinne-mit-system-wie-jeder-an-der-b-rse-mit-option-48800.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

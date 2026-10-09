@@ -1,6 +1,6 @@
 # 50% Provision: "Einfach Canva!" (No-Brainer + Upsells)
 
-> Product ID `56509` · Digistore24 productId `687137` · [HTML profile page](../../reviews/50-provision-einfach-canva-no-brainer-upsells-56509.html)
+> Product ID `56509` · Digistore24 productId `687137` · [HTML profile page](../../produkte/50-provision-einfach-canva-no-brainer-upsells-56509.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

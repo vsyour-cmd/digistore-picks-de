@@ -1,6 +1,6 @@
 # UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®
 
-> Product ID `55092` · Digistore24 productId `451681` · [HTML profile page](../../reviews/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html)
+> Product ID `55092` · Digistore24 productId `451681` · [HTML profile page](../../produkte/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

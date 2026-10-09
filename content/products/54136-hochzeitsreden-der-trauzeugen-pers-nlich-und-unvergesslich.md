@@ -1,6 +1,6 @@
 # Hochzeitsreden der Trauzeugen: Persönlich und Unvergesslich
 
-> Product ID `54136` · Digistore24 productId `574623` · [HTML profile page](../../reviews/hochzeitsreden-der-trauzeugen-pers-nlich-und-unvergesslich-54136.html)
+> Product ID `54136` · Digistore24 productId `574623` · [HTML profile page](../../produkte/hochzeitsreden-der-trauzeugen-pers-nlich-und-unvergesslich-54136.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

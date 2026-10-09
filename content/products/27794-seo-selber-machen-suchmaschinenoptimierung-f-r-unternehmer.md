@@ -1,6 +1,6 @@
 # SEO selber machen - Suchmaschinenoptimierung für Unternehmer
 
-> Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../reviews/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)
+> Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../produkte/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

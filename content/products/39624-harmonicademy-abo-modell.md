@@ -1,6 +1,6 @@
 # Harmonicademy Abo-Modell
 
-> Product ID `39624` · Digistore24 productId `432992` · [HTML profile page](../../reviews/harmonicademy-abo-modell-39624.html)
+> Product ID `39624` · Digistore24 productId `432992` · [HTML profile page](../../produkte/harmonicademy-abo-modell-39624.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Paarmassage Geschenkbox – Erlebnis zum Auspacken
 
-> Product ID `40794` · Digistore24 productId `450935` · [HTML profile page](../../reviews/paarmassage-geschenkbox-erlebnis-zum-auspacken-40794.html)
+> Product ID `40794` · Digistore24 productId `450935` · [HTML profile page](../../produkte/paarmassage-geschenkbox-erlebnis-zum-auspacken-40794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

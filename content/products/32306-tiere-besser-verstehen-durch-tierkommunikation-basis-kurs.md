@@ -1,6 +1,6 @@
 # Tiere besser verstehen durch Tierkommunikation Basis Kurs
 
-> Product ID `32306` · Digistore24 productId `319374` · [HTML profile page](../../reviews/tiere-besser-verstehen-durch-tierkommunikation-basis-kurs-32306.html)
+> Product ID `32306` · Digistore24 productId `319374` · [HTML profile page](../../produkte/tiere-besser-verstehen-durch-tierkommunikation-basis-kurs-32306.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

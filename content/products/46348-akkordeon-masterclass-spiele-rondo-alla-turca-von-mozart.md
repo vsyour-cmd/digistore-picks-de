@@ -1,6 +1,6 @@
 # Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart
 
-> Product ID `46348` · Digistore24 productId `516036` · [HTML profile page](../../reviews/akkordeon-masterclass-spiele-rondo-alla-turca-von-mozart-46348.html)
+> Product ID `46348` · Digistore24 productId `516036` · [HTML profile page](../../produkte/akkordeon-masterclass-spiele-rondo-alla-turca-von-mozart-46348.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

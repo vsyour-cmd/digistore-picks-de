@@ -1,6 +1,6 @@
 # Erfolg Als Mann
 
-> Product ID `59437` · Digistore24 productId `735393` · [HTML profile page](../../reviews/erfolg-als-mann-59437.html)
+> Product ID `59437` · Digistore24 productId `735393` · [HTML profile page](../../produkte/erfolg-als-mann-59437.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

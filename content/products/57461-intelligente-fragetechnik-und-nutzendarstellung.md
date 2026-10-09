@@ -1,6 +1,6 @@
 # Intelligente Fragetechnik und Nutzendarstellung
 
-> Product ID `57461` · Digistore24 productId `707205` · [HTML profile page](../../reviews/intelligente-fragetechnik-und-nutzendarstellung-57461.html)
+> Product ID `57461` · Digistore24 productId `707205` · [HTML profile page](../../produkte/intelligente-fragetechnik-und-nutzendarstellung-57461.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

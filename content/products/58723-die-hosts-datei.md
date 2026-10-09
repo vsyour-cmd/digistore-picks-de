@@ -1,6 +1,6 @@
 # Die Hosts  Datei
 
-> Product ID `58723` · Digistore24 productId `716974` · [HTML profile page](../../reviews/die-hosts-datei-58723.html)
+> Product ID `58723` · Digistore24 productId `716974` · [HTML profile page](../../produkte/die-hosts-datei-58723.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

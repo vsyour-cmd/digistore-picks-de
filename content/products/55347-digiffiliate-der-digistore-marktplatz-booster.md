@@ -1,6 +1,6 @@
 # Digiffiliate – Der Digistore Marktplatz-Booster
 
-> Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../reviews/digiffiliate-der-digistore-marktplatz-booster-55347.html)
+> Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../produkte/digiffiliate-der-digistore-marktplatz-booster-55347.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Fantasie an – 50 Geschichten zum Mitgestalten
 
-> Product ID `52493` · Digistore24 productId `613510` · [HTML profile page](../../reviews/fantasie-an-50-geschichten-zum-mitgestalten-52493.html)
+> Product ID `52493` · Digistore24 productId `613510` · [HTML profile page](../../produkte/fantasie-an-50-geschichten-zum-mitgestalten-52493.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

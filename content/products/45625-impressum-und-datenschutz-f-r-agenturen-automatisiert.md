@@ -1,6 +1,6 @@
 # Impressum und Datenschutz für Agenturen automatisiert
 
-> Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../reviews/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
+> Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../produkte/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

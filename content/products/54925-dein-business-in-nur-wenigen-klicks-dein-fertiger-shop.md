@@ -1,6 +1,6 @@
 # Dein Business in nur wenigen Klicks-Dein fertiger Shop
 
-> Product ID `54925` · Digistore24 productId `638313` · [HTML profile page](../../reviews/dein-business-in-nur-wenigen-klicks-dein-fertiger-shop-54925.html)
+> Product ID `54925` · Digistore24 productId `638313` · [HTML profile page](../../produkte/dein-business-in-nur-wenigen-klicks-dein-fertiger-shop-54925.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

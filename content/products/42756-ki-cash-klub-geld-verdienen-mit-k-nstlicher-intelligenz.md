@@ -1,6 +1,6 @@
 # KI Cash Klub - Geld verdienen mit künstlicher Intelligenz
 
-> Product ID `42756` · Digistore24 productId `482586` · [HTML profile page](../../reviews/ki-cash-klub-geld-verdienen-mit-k-nstlicher-intelligenz-42756.html)
+> Product ID `42756` · Digistore24 productId `482586` · [HTML profile page](../../produkte/ki-cash-klub-geld-verdienen-mit-k-nstlicher-intelligenz-42756.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

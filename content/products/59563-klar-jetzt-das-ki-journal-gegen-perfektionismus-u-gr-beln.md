@@ -1,6 +1,6 @@
 # KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln
 
-> Product ID `59563` · Digistore24 productId `736066` · [HTML profile page](../../reviews/klar-jetzt-das-ki-journal-gegen-perfektionismus-u-gr-beln-59563.html)
+> Product ID `59563` · Digistore24 productId `736066` · [HTML profile page](../../produkte/klar-jetzt-das-ki-journal-gegen-perfektionismus-u-gr-beln-59563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

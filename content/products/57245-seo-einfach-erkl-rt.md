@@ -1,6 +1,6 @@
 # SEO einfach erklärt
 
-> Product ID `57245` · Digistore24 productId `704223` · [HTML profile page](../../reviews/seo-einfach-erkl-rt-57245.html)
+> Product ID `57245` · Digistore24 productId `704223` · [HTML profile page](../../produkte/seo-einfach-erkl-rt-57245.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K
 
-> Product ID `58725` · Digistore24 productId `720560` · [HTML profile page](../../reviews/f-hrerscheinkompass-das-e-book-kompletter-leitfaden-f-r-k-58725.html)
+> Product ID `58725` · Digistore24 productId `720560` · [HTML profile page](../../produkte/f-hrerscheinkompass-das-e-book-kompletter-leitfaden-f-r-k-58725.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

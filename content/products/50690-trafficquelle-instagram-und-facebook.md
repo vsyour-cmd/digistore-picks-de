@@ -1,6 +1,6 @@
 # Trafficquelle Instagram und Facebook
 
-> Product ID `50690` · Digistore24 productId `585597` · [HTML profile page](../../reviews/trafficquelle-instagram-und-facebook-50690.html)
+> Product ID `50690` · Digistore24 productId `585597` · [HTML profile page](../../produkte/trafficquelle-instagram-und-facebook-50690.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 99 Teneriffa Sehenswürdigkeiten [E-Book]
 
-> Product ID `26512` · Digistore24 productId `240854` · [HTML profile page](../../reviews/99-teneriffa-sehensw-rdigkeiten-e-book-26512.html)
+> Product ID `26512` · Digistore24 productId `240854` · [HTML profile page](../../produkte/99-teneriffa-sehensw-rdigkeiten-e-book-26512.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

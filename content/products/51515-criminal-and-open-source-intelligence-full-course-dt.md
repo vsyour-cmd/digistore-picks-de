@@ -1,6 +1,6 @@
 # Criminal and Open Source Intelligence - Full Course (dt.)
 
-> Product ID `51515` · Digistore24 productId `572458` · [HTML profile page](../../reviews/criminal-and-open-source-intelligence-full-course-dt-51515.html)
+> Product ID `51515` · Digistore24 productId `572458` · [HTML profile page](../../produkte/criminal-and-open-source-intelligence-full-course-dt-51515.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

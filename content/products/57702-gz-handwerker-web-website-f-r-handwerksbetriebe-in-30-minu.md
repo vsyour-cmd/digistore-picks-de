@@ -1,6 +1,6 @@
 # GZ Handwerker-Web – Website für Handwerksbetriebe in 30 Minu
 
-> Product ID `57702` · Digistore24 productId `703271` · [HTML profile page](../../reviews/gz-handwerker-web-website-f-r-handwerksbetriebe-in-30-minu-57702.html)
+> Product ID `57702` · Digistore24 productId `703271` · [HTML profile page](../../produkte/gz-handwerker-web-website-f-r-handwerksbetriebe-in-30-minu-57702.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

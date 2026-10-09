@@ -1,6 +1,6 @@
 # Rauchfrei-Rückfall-Reset – 103 Seiten + 50 % Provision
 
-> Product ID `58236` · Digistore24 productId `717826` · [HTML profile page](../../reviews/rauchfrei-r-ckfall-reset-103-seiten-50-provision-58236.html)
+> Product ID `58236` · Digistore24 productId `717826` · [HTML profile page](../../produkte/rauchfrei-r-ckfall-reset-103-seiten-50-provision-58236.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # EU AI Act Komplettpaket – 9 PDF-Arbeitshefte
 
-> Product ID `59654` · Digistore24 productId `733579` · [HTML profile page](../../reviews/eu-ai-act-komplettpaket-9-pdf-arbeitshefte-59654.html)
+> Product ID `59654` · Digistore24 productId `733579` · [HTML profile page](../../produkte/eu-ai-act-komplettpaket-9-pdf-arbeitshefte-59654.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

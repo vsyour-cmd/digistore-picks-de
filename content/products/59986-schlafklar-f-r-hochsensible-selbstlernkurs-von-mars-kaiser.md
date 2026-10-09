@@ -1,6 +1,6 @@
 # Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser
 
-> Product ID `59986` · Digistore24 productId `730272` · [HTML profile page](../../reviews/schlafklar-f-r-hochsensible-selbstlernkurs-von-mars-kaiser-59986.html)
+> Product ID `59986` · Digistore24 productId `730272` · [HTML profile page](../../produkte/schlafklar-f-r-hochsensible-selbstlernkurs-von-mars-kaiser-59986.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

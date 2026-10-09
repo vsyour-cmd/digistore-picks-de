@@ -1,6 +1,6 @@
 # Grundschul-Übungshefte: Mathe, Englisch u. Deutsch Klasse1-4
 
-> Product ID `55327` · Digistore24 productId `663677` · [HTML profile page](../../reviews/grundschul-bungshefte-mathe-englisch-u-deutsch-klasse1-4-55327.html)
+> Product ID `55327` · Digistore24 productId `663677` · [HTML profile page](../../produkte/grundschul-bungshefte-mathe-englisch-u-deutsch-klasse1-4-55327.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

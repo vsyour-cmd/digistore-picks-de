@@ -1,6 +1,6 @@
 # Fumarexin® Partnereintrag für Therapeuten
 
-> Product ID `57448` · Digistore24 productId `589645` · [HTML profile page](../../reviews/fumarexin-partnereintrag-f-r-therapeuten-57448.html)
+> Product ID `57448` · Digistore24 productId `589645` · [HTML profile page](../../produkte/fumarexin-partnereintrag-f-r-therapeuten-57448.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
-> Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../reviews/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
+> Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../produkte/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

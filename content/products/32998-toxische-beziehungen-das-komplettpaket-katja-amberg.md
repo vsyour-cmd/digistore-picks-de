@@ -1,6 +1,6 @@
 # TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg
 
-> Product ID `32998` · Digistore24 productId `322151` · [HTML profile page](../../reviews/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html)
+> Product ID `32998` · Digistore24 productId `322151` · [HTML profile page](../../produkte/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

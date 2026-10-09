@@ -1,6 +1,6 @@
 # Praxiserprobte Checklisten für pflegende Angehörige
 
-> Product ID `56837` · Digistore24 productId `696952` · [HTML profile page](../../reviews/praxiserprobte-checklisten-f-r-pflegende-angeh-rige-56837.html)
+> Product ID `56837` · Digistore24 productId `696952` · [HTML profile page](../../produkte/praxiserprobte-checklisten-f-r-pflegende-angeh-rige-56837.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

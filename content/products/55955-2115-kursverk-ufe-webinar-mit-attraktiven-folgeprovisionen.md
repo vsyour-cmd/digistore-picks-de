@@ -1,6 +1,6 @@
 # 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen
 
-> Product ID `55955` · Digistore24 productId `662545` · [HTML profile page](../../reviews/2115-kursverk-ufe-webinar-mit-attraktiven-folgeprovisionen-55955.html)
+> Product ID `55955` · Digistore24 productId `662545` · [HTML profile page](../../produkte/2115-kursverk-ufe-webinar-mit-attraktiven-folgeprovisionen-55955.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

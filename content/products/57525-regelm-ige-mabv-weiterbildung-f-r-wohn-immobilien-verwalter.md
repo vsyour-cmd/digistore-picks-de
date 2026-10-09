@@ -1,6 +1,6 @@
 # Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter
 
-> Product ID `57525` · Digistore24 productId `709305` · [HTML profile page](../../reviews/regelm-ige-mabv-weiterbildung-f-r-wohn-immobilien-verwalter-57525.html)
+> Product ID `57525` · Digistore24 productId `709305` · [HTML profile page](../../produkte/regelm-ige-mabv-weiterbildung-f-r-wohn-immobilien-verwalter-57525.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

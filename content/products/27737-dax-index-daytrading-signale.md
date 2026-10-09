@@ -1,6 +1,6 @@
 # DAX Index Daytrading Signale
 
-> Product ID `27737` · Digistore24 productId `190945` · [HTML profile page](../../reviews/dax-index-daytrading-signale-27737.html)
+> Product ID `27737` · Digistore24 productId `190945` · [HTML profile page](../../produkte/dax-index-daytrading-signale-27737.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

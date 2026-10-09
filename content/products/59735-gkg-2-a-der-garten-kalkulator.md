@@ -1,6 +1,6 @@
 # GKG-2.A Der Garten-Kalkulator
 
-> Product ID `59735` · Digistore24 productId `732158` · [HTML profile page](../../reviews/gkg-2-a-der-garten-kalkulator-59735.html)
+> Product ID `59735` · Digistore24 productId `732158` · [HTML profile page](../../produkte/gkg-2-a-der-garten-kalkulator-59735.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

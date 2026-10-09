@@ -1,6 +1,6 @@
 # Abmahnung leicht gemacht – Ratgeber + Abmahnungs-Prüfer
 
-> Product ID `60262` · Digistore24 productId `740794` · [HTML profile page](../../reviews/abmahnung-leicht-gemacht-ratgeber-abmahnungs-pr-fer-60262.html)
+> Product ID `60262` · Digistore24 productId `740794` · [HTML profile page](../../produkte/abmahnung-leicht-gemacht-ratgeber-abmahnungs-pr-fer-60262.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

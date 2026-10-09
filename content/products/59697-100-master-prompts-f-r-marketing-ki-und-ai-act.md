@@ -1,6 +1,6 @@
 # 100 Master-Prompts für Marketing-KI und AI Act
 
-> Product ID `59697` · Digistore24 productId `649003` · [HTML profile page](../../reviews/100-master-prompts-f-r-marketing-ki-und-ai-act-59697.html)
+> Product ID `59697` · Digistore24 productId `649003` · [HTML profile page](../../produkte/100-master-prompts-f-r-marketing-ki-und-ai-act-59697.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Praxisorientierter Affiliate-Marketing-Leitfaden
 
-> Product ID `58811` · Digistore24 productId `537438` · [HTML profile page](../../reviews/praxisorientierter-affiliate-marketing-leitfaden-58811.html)
+> Product ID `58811` · Digistore24 productId `537438` · [HTML profile page](../../produkte/praxisorientierter-affiliate-marketing-leitfaden-58811.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

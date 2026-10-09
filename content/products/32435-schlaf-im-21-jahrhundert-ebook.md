@@ -1,6 +1,6 @@
 # Schlaf im 21. Jahrhundert - eBook
 
-> Product ID `32435` · Digistore24 productId `320088` · [HTML profile page](../../reviews/schlaf-im-21-jahrhundert-ebook-32435.html)
+> Product ID `32435` · Digistore24 productId `320088` · [HTML profile page](../../produkte/schlaf-im-21-jahrhundert-ebook-32435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Astrologische Beratung - Radix-Reading Geburtshoroskop
 
-> Product ID `39461` · Digistore24 productId `334784` · [HTML profile page](../../reviews/astrologische-beratung-radix-reading-geburtshoroskop-39461.html)
+> Product ID `39461` · Digistore24 productId `334784` · [HTML profile page](../../produkte/astrologische-beratung-radix-reading-geburtshoroskop-39461.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

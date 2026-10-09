@@ -1,6 +1,6 @@
 # Influencer Secrets - Die anonyme Cash KI
 
-> Product ID `46565` · Digistore24 productId `531287` · [HTML profile page](../../reviews/influencer-secrets-die-anonyme-cash-ki-46565.html)
+> Product ID `46565` · Digistore24 productId `531287` · [HTML profile page](../../produkte/influencer-secrets-die-anonyme-cash-ki-46565.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

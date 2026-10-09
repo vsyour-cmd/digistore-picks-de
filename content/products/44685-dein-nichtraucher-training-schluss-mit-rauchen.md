@@ -1,6 +1,6 @@
 # Dein Nichtraucher Training - Schluss mit Rauchen
 
-> Product ID `44685` · Digistore24 productId `327046` · [HTML profile page](../../reviews/dein-nichtraucher-training-schluss-mit-rauchen-44685.html)
+> Product ID `44685` · Digistore24 productId `327046` · [HTML profile page](../../produkte/dein-nichtraucher-training-schluss-mit-rauchen-44685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

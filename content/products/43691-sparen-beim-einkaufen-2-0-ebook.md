@@ -1,6 +1,6 @@
 # Sparen beim Einkaufen 2.0 (EBook)
 
-> Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../reviews/sparen-beim-einkaufen-2-0-ebook-43691.html)
+> Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../produkte/sparen-beim-einkaufen-2-0-ebook-43691.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

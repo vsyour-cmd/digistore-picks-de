@@ -1,6 +1,6 @@
 # Dein Affiliate-Einstieg mit KI
 
-> Product ID `59772` · Digistore24 productId `735639` · [HTML profile page](../../reviews/dein-affiliate-einstieg-mit-ki-59772.html)
+> Product ID `59772` · Digistore24 productId `735639` · [HTML profile page](../../produkte/dein-affiliate-einstieg-mit-ki-59772.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

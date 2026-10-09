@@ -1,6 +1,6 @@
 # Bauanleitung - Renault Kangoo W Doppelbett
 
-> Product ID `35150` · Digistore24 productId `328645` · [HTML profile page](../../reviews/bauanleitung-renault-kangoo-w-doppelbett-35150.html)
+> Product ID `35150` · Digistore24 productId `328645` · [HTML profile page](../../produkte/bauanleitung-renault-kangoo-w-doppelbett-35150.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

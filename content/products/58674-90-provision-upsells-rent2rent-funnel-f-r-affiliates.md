@@ -1,6 +1,6 @@
 # 90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates
 
-> Product ID `58674` · Digistore24 productId `628360` · [HTML profile page](../../reviews/90-provision-upsells-rent2rent-funnel-f-r-affiliates-58674.html)
+> Product ID `58674` · Digistore24 productId `628360` · [HTML profile page](../../produkte/90-provision-upsells-rent2rent-funnel-f-r-affiliates-58674.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

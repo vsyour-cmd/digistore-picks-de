@@ -1,6 +1,6 @@
 # Kostenrechnung für Anfänger
 
-> Product ID `52184` · Digistore24 productId `607922` · [HTML profile page](../../reviews/kostenrechnung-f-r-anf-nger-52184.html)
+> Product ID `52184` · Digistore24 productId `607922` · [HTML profile page](../../produkte/kostenrechnung-f-r-anf-nger-52184.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

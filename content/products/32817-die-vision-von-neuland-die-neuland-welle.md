@@ -1,6 +1,6 @@
 # Die Vision von Neuland + Die NeuLand Welle
 
-> Product ID `32817` · Digistore24 productId `321105` · [HTML profile page](../../reviews/die-vision-von-neuland-die-neuland-welle-32817.html)
+> Product ID `32817` · Digistore24 productId `321105` · [HTML profile page](../../produkte/die-vision-von-neuland-die-neuland-welle-32817.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

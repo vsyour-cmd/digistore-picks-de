@@ -1,6 +1,6 @@
 # Horse Agility Grundkurs
 
-> Product ID `52703` · Digistore24 productId `528446` · [HTML profile page](../../reviews/horse-agility-grundkurs-52703.html)
+> Product ID `52703` · Digistore24 productId `528446` · [HTML profile page](../../produkte/horse-agility-grundkurs-52703.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

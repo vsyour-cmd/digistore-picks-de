@@ -1,6 +1,6 @@
 # Gunnar Kessler's "Digitale Geldmaschine"
 
-> Product ID `49296` · Digistore24 productId `714148` · [HTML profile page](../../reviews/gunnar-kessler-s-digitale-geldmaschine-49296.html)
+> Product ID `49296` · Digistore24 productId `714148` · [HTML profile page](../../produkte/gunnar-kessler-s-digitale-geldmaschine-49296.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

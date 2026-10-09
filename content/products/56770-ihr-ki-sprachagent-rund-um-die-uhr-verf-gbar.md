@@ -1,6 +1,6 @@
 # Ihr KI-Sprachagent. Rund um die Uhr verfügbar.
 
-> Product ID `56770` · Digistore24 productId `689970` · [HTML profile page](../../reviews/ihr-ki-sprachagent-rund-um-die-uhr-verf-gbar-56770.html)
+> Product ID `56770` · Digistore24 productId `689970` · [HTML profile page](../../produkte/ihr-ki-sprachagent-rund-um-die-uhr-verf-gbar-56770.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

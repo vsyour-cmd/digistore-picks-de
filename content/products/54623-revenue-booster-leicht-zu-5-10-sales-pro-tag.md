@@ -1,6 +1,6 @@
 # Revenue Booster - leicht zu 5-10 Sales pro Tag
 
-> Product ID `54623` · Digistore24 productId `603392` · [HTML profile page](../../reviews/revenue-booster-leicht-zu-5-10-sales-pro-tag-54623.html)
+> Product ID `54623` · Digistore24 productId `603392` · [HTML profile page](../../produkte/revenue-booster-leicht-zu-5-10-sales-pro-tag-54623.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

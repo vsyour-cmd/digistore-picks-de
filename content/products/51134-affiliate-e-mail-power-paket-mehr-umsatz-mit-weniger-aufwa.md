@@ -1,6 +1,6 @@
 # Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa
 
-> Product ID `51134` · Digistore24 productId `581050` · [HTML profile page](../../reviews/affiliate-e-mail-power-paket-mehr-umsatz-mit-weniger-aufwa-51134.html)
+> Product ID `51134` · Digistore24 productId `581050` · [HTML profile page](../../produkte/affiliate-e-mail-power-paket-mehr-umsatz-mit-weniger-aufwa-51134.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

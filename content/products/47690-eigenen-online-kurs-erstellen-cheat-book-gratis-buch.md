@@ -1,6 +1,6 @@
 # Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)
 
-> Product ID `47690` · Digistore24 productId `546702` · [HTML profile page](../../reviews/eigenen-online-kurs-erstellen-cheat-book-gratis-buch-47690.html)
+> Product ID `47690` · Digistore24 productId `546702` · [HTML profile page](../../produkte/eigenen-online-kurs-erstellen-cheat-book-gratis-buch-47690.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Gesund abnehmen Schritt für schritt
 
-> Product ID `54978` · Digistore24 productId `656794` · [HTML profile page](../../reviews/gesund-abnehmen-schritt-f-r-schritt-54978.html)
+> Product ID `54978` · Digistore24 productId `656794` · [HTML profile page](../../produkte/gesund-abnehmen-schritt-f-r-schritt-54978.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

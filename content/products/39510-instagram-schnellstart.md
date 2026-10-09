@@ -1,6 +1,6 @@
 # Instagram Schnellstart
 
-> Product ID `39510` · Digistore24 productId `435135` · [HTML profile page](../../reviews/instagram-schnellstart-39510.html)
+> Product ID `39510` · Digistore24 productId `435135` · [HTML profile page](../../produkte/instagram-schnellstart-39510.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der ultimative christliche Suno AI Prompt Guide
 
-> Product ID `60016` · Digistore24 productId `738557` · [HTML profile page](../../reviews/der-ultimative-christliche-suno-ai-prompt-guide-60016.html)
+> Product ID `60016` · Digistore24 productId `738557` · [HTML profile page](../../produkte/der-ultimative-christliche-suno-ai-prompt-guide-60016.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

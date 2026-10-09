@@ -1,6 +1,6 @@
 # Online starten – Dein klarer 30-Tage-Fahrplan zum eigenen On
 
-> Product ID `58141` · Digistore24 productId `718583` · [HTML profile page](../../reviews/online-starten-dein-klarer-30-tage-fahrplan-zum-eigenen-on-58141.html)
+> Product ID `58141` · Digistore24 productId `718583` · [HTML profile page](../../produkte/online-starten-dein-klarer-30-tage-fahrplan-zum-eigenen-on-58141.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

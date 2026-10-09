@@ -1,6 +1,6 @@
 # 99 Lanzarote Highlights [E-Book]
 
-> Product ID `32893` · Digistore24 productId `98523` · [HTML profile page](../../reviews/99-lanzarote-highlights-e-book-32893.html)
+> Product ID `32893` · Digistore24 productId `98523` · [HTML profile page](../../produkte/99-lanzarote-highlights-e-book-32893.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

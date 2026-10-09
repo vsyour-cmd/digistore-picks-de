@@ -1,6 +1,6 @@
 # Finanzielle Grundlagen für Selbstständige
 
-> Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../reviews/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)
+> Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../produkte/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

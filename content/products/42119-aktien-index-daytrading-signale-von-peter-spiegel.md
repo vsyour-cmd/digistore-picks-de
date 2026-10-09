@@ -1,6 +1,6 @@
 # Aktien-Index Daytrading Signale von Peter Spiegel
 
-> Product ID `42119` · Digistore24 productId `467093` · [HTML profile page](../../reviews/aktien-index-daytrading-signale-von-peter-spiegel-42119.html)
+> Product ID `42119` · Digistore24 productId `467093` · [HTML profile page](../../produkte/aktien-index-daytrading-signale-von-peter-spiegel-42119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

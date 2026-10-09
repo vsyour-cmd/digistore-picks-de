@@ -1,6 +1,6 @@
 # 90-Tage-Gründungssystem – Selbstständigkeit starten
 
-> Product ID `59321` · Digistore24 productId `734403` · [HTML profile page](../../reviews/90-tage-gr-ndungssystem-selbstst-ndigkeit-starten-59321.html)
+> Product ID `59321` · Digistore24 productId `734403` · [HTML profile page](../../produkte/90-tage-gr-ndungssystem-selbstst-ndigkeit-starten-59321.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi
 
-> Product ID `55877` · Digistore24 productId `675824` · [HTML profile page](../../reviews/eigenes-e-book-erstellen-bundle-mit-ki-system-canva-desi-55877.html)
+> Product ID `55877` · Digistore24 productId `675824` · [HTML profile page](../../produkte/eigenes-e-book-erstellen-bundle-mit-ki-system-canva-desi-55877.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

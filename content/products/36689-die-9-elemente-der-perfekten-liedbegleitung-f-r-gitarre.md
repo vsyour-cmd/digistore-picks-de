@@ -1,6 +1,6 @@
 # Die 9 Elemente der perfekten Liedbegleitung für Gitarre
 
-> Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../reviews/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)
+> Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../produkte/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

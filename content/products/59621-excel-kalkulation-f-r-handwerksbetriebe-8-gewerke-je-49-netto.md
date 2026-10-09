@@ -1,6 +1,6 @@
 # Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto
 
-> Product ID `59621` · Digistore24 productId `734487` · [HTML profile page](../../reviews/excel-kalkulation-f-r-handwerksbetriebe-8-gewerke-je-49-netto-59621.html)
+> Product ID `59621` · Digistore24 productId `734487` · [HTML profile page](../../produkte/excel-kalkulation-f-r-handwerksbetriebe-8-gewerke-je-49-netto-59621.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

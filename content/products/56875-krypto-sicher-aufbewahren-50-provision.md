@@ -1,6 +1,6 @@
 # Krypto sicher aufbewahren — 50 % Provision
 
-> Product ID `56875` · Digistore24 productId `699224` · [HTML profile page](../../reviews/krypto-sicher-aufbewahren-50-provision-56875.html)
+> Product ID `56875` · Digistore24 productId `699224` · [HTML profile page](../../produkte/krypto-sicher-aufbewahren-50-provision-56875.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

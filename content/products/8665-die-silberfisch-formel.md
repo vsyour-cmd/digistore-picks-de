@@ -1,6 +1,6 @@
 # Die Silberfisch-Formel
 
-> Product ID `8665` · Digistore24 productId `59641` · [HTML profile page](../../reviews/die-silberfisch-formel-8665.html)
+> Product ID `8665` · Digistore24 productId `59641` · [HTML profile page](../../produkte/die-silberfisch-formel-8665.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

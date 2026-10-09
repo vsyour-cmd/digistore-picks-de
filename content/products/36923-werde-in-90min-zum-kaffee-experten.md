@@ -1,6 +1,6 @@
 # Werde in 90min. zum KAFFEE EXPERTEN!
 
-> Product ID `36923` · Digistore24 productId `708642` · [HTML profile page](../../reviews/werde-in-90min-zum-kaffee-experten-36923.html)
+> Product ID `36923` · Digistore24 productId `708642` · [HTML profile page](../../produkte/werde-in-90min-zum-kaffee-experten-36923.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

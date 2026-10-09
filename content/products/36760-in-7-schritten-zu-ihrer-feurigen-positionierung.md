@@ -1,6 +1,6 @@
 # In 7 Schritten zu Ihrer feurigen Positionierung
 
-> Product ID `36760` · Digistore24 productId `376616` · [HTML profile page](../../reviews/in-7-schritten-zu-ihrer-feurigen-positionierung-36760.html)
+> Product ID `36760` · Digistore24 productId `376616` · [HTML profile page](../../produkte/in-7-schritten-zu-ihrer-feurigen-positionierung-36760.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

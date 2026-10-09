@@ -1,6 +1,6 @@
 # Schnelle Rezepte fürs Home-Office
 
-> Product ID `36146` · Digistore24 productId `379290` · [HTML profile page](../../reviews/schnelle-rezepte-f-rs-home-office-36146.html)
+> Product ID `36146` · Digistore24 productId `379290` · [HTML profile page](../../produkte/schnelle-rezepte-f-rs-home-office-36146.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

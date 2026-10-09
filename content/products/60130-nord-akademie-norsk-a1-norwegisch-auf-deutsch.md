@@ -1,6 +1,6 @@
 # NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch
 
-> Product ID `60130` · Digistore24 productId `733775` · [HTML profile page](../../reviews/nord-akademie-norsk-a1-norwegisch-auf-deutsch-60130.html)
+> Product ID `60130` · Digistore24 productId `733775` · [HTML profile page](../../produkte/nord-akademie-norsk-a1-norwegisch-auf-deutsch-60130.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

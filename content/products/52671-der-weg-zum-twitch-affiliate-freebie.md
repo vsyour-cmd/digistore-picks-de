@@ -1,6 +1,6 @@
 # Der Weg zum Twitch Affiliate (Freebie)
 
-> Product ID `52671` · Digistore24 productId `551034` · [HTML profile page](../../reviews/der-weg-zum-twitch-affiliate-freebie-52671.html)
+> Product ID `52671` · Digistore24 productId `551034` · [HTML profile page](../../produkte/der-weg-zum-twitch-affiliate-freebie-52671.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

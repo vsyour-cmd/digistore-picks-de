@@ -1,6 +1,6 @@
 # Finanz - Skaliere Dein Vermögen
 
-> Product ID `48399` · Digistore24 productId `556138` · [HTML profile page](../../reviews/finanz-skaliere-dein-verm-gen-48399.html)
+> Product ID `48399` · Digistore24 productId `556138` · [HTML profile page](../../produkte/finanz-skaliere-dein-verm-gen-48399.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

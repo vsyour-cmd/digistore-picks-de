@@ -1,6 +1,6 @@
 # Vom Anfänger zum Profi: Online-Business für Jedermannn
 
-> Product ID `49975` · Digistore24 productId `573840` · [HTML profile page](../../reviews/vom-anf-nger-zum-profi-online-business-f-r-jedermannn-49975.html)
+> Product ID `49975` · Digistore24 productId `573840` · [HTML profile page](../../produkte/vom-anf-nger-zum-profi-online-business-f-r-jedermannn-49975.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

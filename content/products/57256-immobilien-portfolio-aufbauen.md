@@ -1,6 +1,6 @@
 # Immobilien-Portfolio aufbauen
 
-> Product ID `57256` · Digistore24 productId `704234` · [HTML profile page](../../reviews/immobilien-portfolio-aufbauen-57256.html)
+> Product ID `57256` · Digistore24 productId `704234` · [HTML profile page](../../produkte/immobilien-portfolio-aufbauen-57256.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

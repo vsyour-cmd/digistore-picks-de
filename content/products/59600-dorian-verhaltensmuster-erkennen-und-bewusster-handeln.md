@@ -1,6 +1,6 @@
 # Dorian – Verhaltensmuster erkennen und bewusster handeln
 
-> Product ID `59600` · Digistore24 productId `731286` · [HTML profile page](../../reviews/dorian-verhaltensmuster-erkennen-und-bewusster-handeln-59600.html)
+> Product ID `59600` · Digistore24 productId `731286` · [HTML profile page](../../produkte/dorian-verhaltensmuster-erkennen-und-bewusster-handeln-59600.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

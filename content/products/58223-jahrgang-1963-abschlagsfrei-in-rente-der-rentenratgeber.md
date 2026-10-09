@@ -1,6 +1,6 @@
 # Jahrgang 1963-abschlagsfrei in Rente: Der Rentenratgeber
 
-> Product ID `58223` · Digistore24 productId `710704` · [HTML profile page](../../reviews/jahrgang-1963-abschlagsfrei-in-rente-der-rentenratgeber-58223.html)
+> Product ID `58223` · Digistore24 productId `710704` · [HTML profile page](../../produkte/jahrgang-1963-abschlagsfrei-in-rente-der-rentenratgeber-58223.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

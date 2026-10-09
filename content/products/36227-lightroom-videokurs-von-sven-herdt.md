@@ -1,6 +1,6 @@
 # Lightroom Videokurs von Sven Herdt
 
-> Product ID `36227` · Digistore24 productId `381498` · [HTML profile page](../../reviews/lightroom-videokurs-von-sven-herdt-36227.html)
+> Product ID `36227` · Digistore24 productId `381498` · [HTML profile page](../../produkte/lightroom-videokurs-von-sven-herdt-36227.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

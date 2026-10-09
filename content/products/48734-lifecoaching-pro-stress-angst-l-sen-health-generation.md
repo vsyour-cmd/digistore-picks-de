@@ -1,6 +1,6 @@
 # LifeCoaching Pro Stress, Angst lösen - health-generation
 
-> Product ID `48734` · Digistore24 productId `547958` · [HTML profile page](../../reviews/lifecoaching-pro-stress-angst-l-sen-health-generation-48734.html)
+> Product ID `48734` · Digistore24 productId `547958` · [HTML profile page](../../produkte/lifecoaching-pro-stress-angst-l-sen-health-generation-48734.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

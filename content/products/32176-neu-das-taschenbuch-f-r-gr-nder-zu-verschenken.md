@@ -1,6 +1,6 @@
 # [NEU] Das Taschenbuch für Gründer - zu verschenken
 
-> Product ID `32176` · Digistore24 productId `309536` · [HTML profile page](../../reviews/neu-das-taschenbuch-f-r-gr-nder-zu-verschenken-32176.html)
+> Product ID `32176` · Digistore24 productId `309536` · [HTML profile page](../../produkte/neu-das-taschenbuch-f-r-gr-nder-zu-verschenken-32176.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # GELD: Monatsübersicht erstellen | Vorlage und Anleitung
 
-> Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../reviews/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)
+> Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../produkte/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

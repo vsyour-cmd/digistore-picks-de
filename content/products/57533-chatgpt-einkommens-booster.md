@@ -1,6 +1,6 @@
 # ChatGPT Einkommens-Booster
 
-> Product ID `57533` · Digistore24 productId `711522` · [HTML profile page](../../reviews/chatgpt-einkommens-booster-57533.html)
+> Product ID `57533` · Digistore24 productId `711522` · [HTML profile page](../../produkte/chatgpt-einkommens-booster-57533.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

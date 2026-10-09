@@ -1,6 +1,6 @@
 # Das Beutetierkontinuum – Hundeernährung neu verstehen
 
-> Product ID `57128` · Digistore24 productId `680025` · [HTML profile page](../../reviews/das-beutetierkontinuum-hundeern-hrung-neu-verstehen-57128.html)
+> Product ID `57128` · Digistore24 productId `680025` · [HTML profile page](../../produkte/das-beutetierkontinuum-hundeern-hrung-neu-verstehen-57128.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

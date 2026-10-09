@@ -1,6 +1,6 @@
 # Heilige Geometrie - Materialkurs
 
-> Product ID `22445` · Digistore24 productId `198891` · [HTML profile page](../../reviews/heilige-geometrie-materialkurs-22445.html)
+> Product ID `22445` · Digistore24 productId `198891` · [HTML profile page](../../produkte/heilige-geometrie-materialkurs-22445.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

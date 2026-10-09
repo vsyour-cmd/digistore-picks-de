@@ -1,6 +1,6 @@
 # Algebra einfach verstehen für Lehrlinge und Azubis
 
-> Product ID `56626` · Digistore24 productId `693788` · [HTML profile page](../../reviews/algebra-einfach-verstehen-f-r-lehrlinge-und-azubis-56626.html)
+> Product ID `56626` · Digistore24 productId `693788` · [HTML profile page](../../produkte/algebra-einfach-verstehen-f-r-lehrlinge-und-azubis-56626.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)
 
-> Product ID `40659` · Digistore24 productId `450943` · [HTML profile page](../../reviews/geniale-spielvorlage-stadt-land-gl-ckstraining-pdf-png-40659.html)
+> Product ID `40659` · Digistore24 productId `450943` · [HTML profile page](../../produkte/geniale-spielvorlage-stadt-land-gl-ckstraining-pdf-png-40659.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

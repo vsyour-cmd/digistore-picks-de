@@ -1,6 +1,6 @@
 # Meine TikTok Shop Sperre: Fehler-Analyse
 
-> Product ID `56280` · Digistore24 productId `684494` · [HTML profile page](../../reviews/meine-tiktok-shop-sperre-fehler-analyse-56280.html)
+> Product ID `56280` · Digistore24 productId `684494` · [HTML profile page](../../produkte/meine-tiktok-shop-sperre-fehler-analyse-56280.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

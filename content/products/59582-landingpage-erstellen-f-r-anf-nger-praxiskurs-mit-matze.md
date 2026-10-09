@@ -1,6 +1,6 @@
 # Landingpage erstellen für Anfänger – Praxiskurs mit Matze
 
-> Product ID `59582` · Digistore24 productId `736407` · [HTML profile page](../../reviews/landingpage-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59582.html)
+> Product ID `59582` · Digistore24 productId `736407` · [HTML profile page](../../produkte/landingpage-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59582.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

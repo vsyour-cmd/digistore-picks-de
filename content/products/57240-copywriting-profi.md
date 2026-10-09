@@ -1,6 +1,6 @@
 # Copywriting Profi
 
-> Product ID `57240` · Digistore24 productId `704218` · [HTML profile page](../../reviews/copywriting-profi-57240.html)
+> Product ID `57240` · Digistore24 productId `704218` · [HTML profile page](../../produkte/copywriting-profi-57240.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

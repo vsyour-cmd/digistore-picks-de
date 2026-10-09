@@ -1,6 +1,6 @@
 # 21-Tage Leberentgiftung und Darmreinigung
 
-> Product ID `36237` · Digistore24 productId `352602` · [HTML profile page](../../reviews/21-tage-leberentgiftung-und-darmreinigung-36237.html)
+> Product ID `36237` · Digistore24 productId `352602` · [HTML profile page](../../produkte/21-tage-leberentgiftung-und-darmreinigung-36237.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

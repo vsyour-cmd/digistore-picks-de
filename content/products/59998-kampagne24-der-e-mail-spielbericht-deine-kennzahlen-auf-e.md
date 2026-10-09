@@ -1,6 +1,6 @@
 # Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e
 
-> Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../reviews/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)
+> Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../produkte/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # AMAZON KDP - Dein Weg zur finanziellen Freiheit
 
-> Product ID `49141` · Digistore24 productId `564511` · [HTML profile page](../../reviews/amazon-kdp-dein-weg-zur-finanziellen-freiheit-49141.html)
+> Product ID `49141` · Digistore24 productId `564511` · [HTML profile page](../../produkte/amazon-kdp-dein-weg-zur-finanziellen-freiheit-49141.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

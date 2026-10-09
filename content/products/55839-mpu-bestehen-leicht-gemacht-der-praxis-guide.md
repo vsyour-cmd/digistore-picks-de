@@ -1,6 +1,6 @@
 # MPU bestehen leicht gemacht – Der Praxis-Guide
 
-> Product ID `55839` · Digistore24 productId `670358` · [HTML profile page](../../reviews/mpu-bestehen-leicht-gemacht-der-praxis-guide-55839.html)
+> Product ID `55839` · Digistore24 productId `670358` · [HTML profile page](../../produkte/mpu-bestehen-leicht-gemacht-der-praxis-guide-55839.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

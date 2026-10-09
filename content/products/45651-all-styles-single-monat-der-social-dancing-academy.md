@@ -1,6 +1,6 @@
 # All Styles Single-Monat der Social Dancing Academy
 
-> Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../reviews/all-styles-single-monat-der-social-dancing-academy-45651.html)
+> Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../produkte/all-styles-single-monat-der-social-dancing-academy-45651.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

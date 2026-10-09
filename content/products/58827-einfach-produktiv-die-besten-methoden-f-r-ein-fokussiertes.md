@@ -1,6 +1,6 @@
 # Einfach produktiv – Die besten Methoden für ein fokussiertes
 
-> Product ID `58827` · Digistore24 productId `727962` · [HTML profile page](../../reviews/einfach-produktiv-die-besten-methoden-f-r-ein-fokussiertes-58827.html)
+> Product ID `58827` · Digistore24 productId `727962` · [HTML profile page](../../produkte/einfach-produktiv-die-besten-methoden-f-r-ein-fokussiertes-58827.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KiFlowPilot WhatsappBot
 
-> Product ID `58440` · Digistore24 productId `714591` · [HTML profile page](../../reviews/kiflowpilot-whatsappbot-58440.html)
+> Product ID `58440` · Digistore24 productId `714591` · [HTML profile page](../../produkte/kiflowpilot-whatsappbot-58440.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

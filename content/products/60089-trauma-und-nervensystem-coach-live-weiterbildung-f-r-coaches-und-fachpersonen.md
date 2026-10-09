@@ -1,6 +1,6 @@
 # Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
-> Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../reviews/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)
+> Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../produkte/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

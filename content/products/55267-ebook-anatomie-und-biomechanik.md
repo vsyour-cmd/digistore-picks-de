@@ -1,6 +1,6 @@
 # eBook: Anatomie und Biomechanik
 
-> Product ID `55267` · Digistore24 productId `642294` · [HTML profile page](../../reviews/ebook-anatomie-und-biomechanik-55267.html)
+> Product ID `55267` · Digistore24 productId `642294` · [HTML profile page](../../produkte/ebook-anatomie-und-biomechanik-55267.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

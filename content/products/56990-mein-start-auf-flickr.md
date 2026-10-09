@@ -1,6 +1,6 @@
 # Mein Start auf Flickr
 
-> Product ID `56990` · Digistore24 productId `701410` · [HTML profile page](../../reviews/mein-start-auf-flickr-56990.html)
+> Product ID `56990` · Digistore24 productId `701410` · [HTML profile page](../../produkte/mein-start-auf-flickr-56990.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

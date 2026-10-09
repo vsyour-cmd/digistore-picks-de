@@ -1,6 +1,6 @@
 # BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !
 
-> Product ID `33265` · Digistore24 productId `668972` · [HTML profile page](../../reviews/bauchtotal-28-tage-training-nach-dem-pareto-prinzip-33265.html)
+> Product ID `33265` · Digistore24 productId `668972` · [HTML profile page](../../produkte/bauchtotal-28-tage-training-nach-dem-pareto-prinzip-33265.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

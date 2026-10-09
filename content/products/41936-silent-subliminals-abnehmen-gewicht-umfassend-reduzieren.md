@@ -1,6 +1,6 @@
 # Silent Subliminals Abnehmen - Gewicht umfassend reduzieren
 
-> Product ID `41936` · Digistore24 productId `421452` · [HTML profile page](../../reviews/silent-subliminals-abnehmen-gewicht-umfassend-reduzieren-41936.html)
+> Product ID `41936` · Digistore24 productId `421452` · [HTML profile page](../../produkte/silent-subliminals-abnehmen-gewicht-umfassend-reduzieren-41936.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

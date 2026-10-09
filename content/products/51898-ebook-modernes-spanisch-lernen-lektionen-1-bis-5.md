@@ -1,6 +1,6 @@
 # eBook Modernes Spanisch lernen - Lektionen 1 bis 5
 
-> Product ID `51898` · Digistore24 productId `595192` · [HTML profile page](../../reviews/ebook-modernes-spanisch-lernen-lektionen-1-bis-5-51898.html)
+> Product ID `51898` · Digistore24 productId `595192` · [HTML profile page](../../produkte/ebook-modernes-spanisch-lernen-lektionen-1-bis-5-51898.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

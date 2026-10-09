@@ -1,6 +1,6 @@
 # Workbook: Erhelle deine Leben
 
-> Product ID `56012` · Digistore24 productId `672238` · [HTML profile page](../../reviews/workbook-erhelle-deine-leben-56012.html)
+> Product ID `56012` · Digistore24 productId `672238` · [HTML profile page](../../produkte/workbook-erhelle-deine-leben-56012.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

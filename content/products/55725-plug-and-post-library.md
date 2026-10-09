@@ -1,6 +1,6 @@
 # Plug and Post Library
 
-> Product ID `55725` · Digistore24 productId `616970` · [HTML profile page](../../reviews/plug-and-post-library-55725.html)
+> Product ID `55725` · Digistore24 productId `616970` · [HTML profile page](../../produkte/plug-and-post-library-55725.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

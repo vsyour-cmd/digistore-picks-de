@@ -1,6 +1,6 @@
 # Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act
 
-> Product ID `59702` · Digistore24 productId `649019` · [HTML profile page](../../reviews/stadt-und-wasserwerke-100-prompts-f-r-nis2-und-ai-act-59702.html)
+> Product ID `59702` · Digistore24 productId `649019` · [HTML profile page](../../produkte/stadt-und-wasserwerke-100-prompts-f-r-nis2-und-ai-act-59702.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

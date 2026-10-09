@@ -1,6 +1,6 @@
 # Stilvoll Fotografieren
 
-> Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../reviews/stilvoll-fotografieren-48680.html)
+> Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../produkte/stilvoll-fotografieren-48680.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

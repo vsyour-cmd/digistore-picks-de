@@ -1,6 +1,6 @@
 # Altersvorsorge 40+: Als Affiliate finanziell unabhängig
 
-> Product ID `44873` · Digistore24 productId `509495` · [HTML profile page](../../reviews/altersvorsorge-40-als-affiliate-finanziell-unabh-ngig-44873.html)
+> Product ID `44873` · Digistore24 productId `509495` · [HTML profile page](../../produkte/altersvorsorge-40-als-affiliate-finanziell-unabh-ngig-44873.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

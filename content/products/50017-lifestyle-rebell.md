@@ -1,6 +1,6 @@
 # Lifestyle Rebell
 
-> Product ID `50017` · Digistore24 productId `608337` · [HTML profile page](../../reviews/lifestyle-rebell-50017.html)
+> Product ID `50017` · Digistore24 productId `608337` · [HTML profile page](../../produkte/lifestyle-rebell-50017.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

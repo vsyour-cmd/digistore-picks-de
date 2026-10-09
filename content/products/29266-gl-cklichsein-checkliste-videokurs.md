@@ -1,6 +1,6 @@
 # Glücklichsein-Checkliste + Videokurs
 
-> Product ID `29266` · Digistore24 productId `249553` · [HTML profile page](../../reviews/gl-cklichsein-checkliste-videokurs-29266.html)
+> Product ID `29266` · Digistore24 productId `249553` · [HTML profile page](../../produkte/gl-cklichsein-checkliste-videokurs-29266.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

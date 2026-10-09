@@ -1,6 +1,6 @@
 # Steuerbescheid leicht gemacht – mit Einspruchs-Helfer
 
-> Product ID `60379` · Digistore24 productId `742658` · [HTML profile page](../../reviews/steuerbescheid-leicht-gemacht-mit-einspruchs-helfer-60379.html)
+> Product ID `60379` · Digistore24 productId `742658` · [HTML profile page](../../produkte/steuerbescheid-leicht-gemacht-mit-einspruchs-helfer-60379.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

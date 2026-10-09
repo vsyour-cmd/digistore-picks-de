@@ -1,6 +1,6 @@
 # Der heilige Gral des Listbuildings: 15 top Strategien
 
-> Product ID `48087` · Digistore24 productId `551964` · [HTML profile page](../../reviews/der-heilige-gral-des-listbuildings-15-top-strategien-48087.html)
+> Product ID `48087` · Digistore24 productId `551964` · [HTML profile page](../../produkte/der-heilige-gral-des-listbuildings-15-top-strategien-48087.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

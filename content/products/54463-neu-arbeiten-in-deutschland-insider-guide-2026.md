@@ -1,6 +1,6 @@
 # NEU: Arbeiten in Deutschland – Insider Guide 2026
 
-> Product ID `54463` · Digistore24 productId `642256` · [HTML profile page](../../reviews/neu-arbeiten-in-deutschland-insider-guide-2026-54463.html)
+> Product ID `54463` · Digistore24 productId `642256` · [HTML profile page](../../produkte/neu-arbeiten-in-deutschland-insider-guide-2026-54463.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

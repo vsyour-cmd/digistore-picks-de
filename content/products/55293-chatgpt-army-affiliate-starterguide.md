@@ -1,6 +1,6 @@
 # ChatGPT ARMY – Affiliate Starterguide
 
-> Product ID `55293` · Digistore24 productId `648277` · [HTML profile page](../../reviews/chatgpt-army-affiliate-starterguide-55293.html)
+> Product ID `55293` · Digistore24 productId `648277` · [HTML profile page](../../produkte/chatgpt-army-affiliate-starterguide-55293.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

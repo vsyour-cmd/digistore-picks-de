@@ -1,6 +1,6 @@
 # Heilpraktikerausbildung - Online-Akademie
 
-> Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../reviews/heilpraktikerausbildung-online-akademie-56046.html)
+> Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../produkte/heilpraktikerausbildung-online-akademie-56046.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

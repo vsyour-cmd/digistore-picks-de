@@ -1,6 +1,6 @@
 # Finanzierung einfach erklärt – für Ausbildung und Beruf
 
-> Product ID `52171` · Digistore24 productId `607799` · [HTML profile page](../../reviews/finanzierung-einfach-erkl-rt-f-r-ausbildung-und-beruf-52171.html)
+> Product ID `52171` · Digistore24 productId `607799` · [HTML profile page](../../produkte/finanzierung-einfach-erkl-rt-f-r-ausbildung-und-beruf-52171.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

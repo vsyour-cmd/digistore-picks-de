@@ -1,6 +1,6 @@
 # Meta Ads Elite
 
-> Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../reviews/meta-ads-elite-50413.html)
+> Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../produkte/meta-ads-elite-50413.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # ALOE-VERA Produkte selber machen
 
-> Product ID `22435` · Digistore24 productId `196089` · [HTML profile page](../../reviews/aloe-vera-produkte-selber-machen-22435.html)
+> Product ID `22435` · Digistore24 productId `196089` · [HTML profile page](../../produkte/aloe-vera-produkte-selber-machen-22435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

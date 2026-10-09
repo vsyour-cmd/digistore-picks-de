@@ -1,6 +1,6 @@
 # Social Media Masterclass FÜR FRAUEN
 
-> Product ID `60061` · Digistore24 productId `716535` · [HTML profile page](../../reviews/social-media-masterclass-f-r-frauen-60061.html)
+> Product ID `60061` · Digistore24 productId `716535` · [HTML profile page](../../produkte/social-media-masterclass-f-r-frauen-60061.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

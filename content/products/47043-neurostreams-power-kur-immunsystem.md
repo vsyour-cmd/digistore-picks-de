@@ -1,6 +1,6 @@
 # Neurostreams™ Power-Kur Immunsystem
 
-> Product ID `47043` · Digistore24 productId `250028` · [HTML profile page](../../reviews/neurostreams-power-kur-immunsystem-47043.html)
+> Product ID `47043` · Digistore24 productId `250028` · [HTML profile page](../../produkte/neurostreams-power-kur-immunsystem-47043.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

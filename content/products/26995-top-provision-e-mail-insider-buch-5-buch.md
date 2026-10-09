@@ -1,6 +1,6 @@
 # TOP Provision! E-Mail Insider BUCH - 5€/BUCH
 
-> Product ID `26995` · Digistore24 productId `250950` · [HTML profile page](../../reviews/top-provision-e-mail-insider-buch-5-buch-26995.html)
+> Product ID `26995` · Digistore24 productId `250950` · [HTML profile page](../../produkte/top-provision-e-mail-insider-buch-5-buch-26995.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

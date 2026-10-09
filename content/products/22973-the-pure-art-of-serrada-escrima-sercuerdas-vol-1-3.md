@@ -1,6 +1,6 @@
 # The Pure Art of Serrada Escrima SerCuerdas Vol 1-3
 
-> Product ID `22973` · Digistore24 productId `202839` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-vol-1-3-22973.html)
+> Product ID `22973` · Digistore24 productId `202839` · [HTML profile page](../../produkte/the-pure-art-of-serrada-escrima-sercuerdas-vol-1-3-22973.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

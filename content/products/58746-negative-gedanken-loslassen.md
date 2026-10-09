@@ -1,6 +1,6 @@
 # Negative Gedanken loslassen
 
-> Product ID `58746` · Digistore24 productId `726201` · [HTML profile page](../../reviews/negative-gedanken-loslassen-58746.html)
+> Product ID `58746` · Digistore24 productId `726201` · [HTML profile page](../../produkte/negative-gedanken-loslassen-58746.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

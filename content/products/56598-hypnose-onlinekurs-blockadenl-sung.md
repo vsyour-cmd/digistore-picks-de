@@ -1,6 +1,6 @@
 # Hypnose-Onlinekurs Blockadenlösung
 
-> Product ID `56598` · Digistore24 productId `500873` · [HTML profile page](../../reviews/hypnose-onlinekurs-blockadenl-sung-56598.html)
+> Product ID `56598` · Digistore24 productId `500873` · [HTML profile page](../../produkte/hypnose-onlinekurs-blockadenl-sung-56598.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

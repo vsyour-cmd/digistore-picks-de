@@ -1,6 +1,6 @@
 # Das Farbrad der inneren Lebensräume
 
-> Product ID `58209` · Digistore24 productId `700139` · [HTML profile page](../../reviews/das-farbrad-der-inneren-lebensr-ume-58209.html)
+> Product ID `58209` · Digistore24 productId `700139` · [HTML profile page](../../produkte/das-farbrad-der-inneren-lebensr-ume-58209.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

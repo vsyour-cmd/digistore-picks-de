@@ -1,6 +1,6 @@
 # Pilates Beginner - Die Geheimwaffe der Stars
 
-> Product ID `25755` · Digistore24 productId `228293` · [HTML profile page](../../reviews/pilates-beginner-die-geheimwaffe-der-stars-25755.html)
+> Product ID `25755` · Digistore24 productId `228293` · [HTML profile page](../../produkte/pilates-beginner-die-geheimwaffe-der-stars-25755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

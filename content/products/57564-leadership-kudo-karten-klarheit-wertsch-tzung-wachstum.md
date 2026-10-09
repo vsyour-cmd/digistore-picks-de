@@ -1,6 +1,6 @@
 # Leadership KUDO Karten – Klarheit, Wertschätzung, Wachstum
 
-> Product ID `57564` · Digistore24 productId `596482` · [HTML profile page](../../reviews/leadership-kudo-karten-klarheit-wertsch-tzung-wachstum-57564.html)
+> Product ID `57564` · Digistore24 productId `596482` · [HTML profile page](../../produkte/leadership-kudo-karten-klarheit-wertsch-tzung-wachstum-57564.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

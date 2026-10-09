@@ -1,6 +1,6 @@
 # Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision
 
-> Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../reviews/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)
+> Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../produkte/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

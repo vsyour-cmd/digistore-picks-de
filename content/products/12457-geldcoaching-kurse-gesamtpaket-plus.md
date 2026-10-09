@@ -1,6 +1,6 @@
 # Geldcoaching-Kurse Gesamtpaket PLUS
 
-> Product ID `12457` · Digistore24 productId `50399` · [HTML profile page](../../reviews/geldcoaching-kurse-gesamtpaket-plus-12457.html)
+> Product ID `12457` · Digistore24 productId `50399` · [HTML profile page](../../produkte/geldcoaching-kurse-gesamtpaket-plus-12457.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

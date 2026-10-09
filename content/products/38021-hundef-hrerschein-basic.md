@@ -1,6 +1,6 @@
 # Hundeführerschein Basic
 
-> Product ID `38021` · Digistore24 productId `388540` · [HTML profile page](../../reviews/hundef-hrerschein-basic-38021.html)
+> Product ID `38021` · Digistore24 productId `388540` · [HTML profile page](../../produkte/hundef-hrerschein-basic-38021.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

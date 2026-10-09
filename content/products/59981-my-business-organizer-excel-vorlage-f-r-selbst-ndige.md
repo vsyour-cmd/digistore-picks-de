@@ -1,6 +1,6 @@
 # My Business Organizer - Excel-Vorlage für Selbständige
 
-> Product ID `59981` · Digistore24 productId `732970` · [HTML profile page](../../reviews/my-business-organizer-excel-vorlage-f-r-selbst-ndige-59981.html)
+> Product ID `59981` · Digistore24 productId `732970` · [HTML profile page](../../produkte/my-business-organizer-excel-vorlage-f-r-selbst-ndige-59981.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Silent Subliminals - Unterschwellige Botschaften
 
-> Product ID `10645` · Digistore24 productId `72705` · [HTML profile page](../../reviews/silent-subliminals-unterschwellige-botschaften-10645.html)
+> Product ID `10645` · Digistore24 productId `72705` · [HTML profile page](../../produkte/silent-subliminals-unterschwellige-botschaften-10645.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

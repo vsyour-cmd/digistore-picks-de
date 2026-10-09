@@ -1,6 +1,6 @@
 # Ebook - Chinas Handelsrouten
 
-> Product ID `57051` · Digistore24 productId `703295` · [HTML profile page](../../reviews/ebook-chinas-handelsrouten-57051.html)
+> Product ID `57051` · Digistore24 productId `703295` · [HTML profile page](../../produkte/ebook-chinas-handelsrouten-57051.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

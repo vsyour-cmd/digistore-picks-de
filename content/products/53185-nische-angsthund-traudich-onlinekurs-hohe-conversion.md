@@ -1,6 +1,6 @@
 # Nische Angsthund: TrauDich- Onlinekurs, hohe Conversion
 
-> Product ID `53185` · Digistore24 productId `622374` · [HTML profile page](../../reviews/nische-angsthund-traudich-onlinekurs-hohe-conversion-53185.html)
+> Product ID `53185` · Digistore24 productId `622374` · [HTML profile page](../../produkte/nische-angsthund-traudich-onlinekurs-hohe-conversion-53185.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

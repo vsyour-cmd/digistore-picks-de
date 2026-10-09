@@ -1,6 +1,6 @@
 # Ebook - Die Kraft niemanden zu brauchen
 
-> Product ID `56297` · Digistore24 productId `685159` · [HTML profile page](../../reviews/ebook-die-kraft-niemanden-zu-brauchen-56297.html)
+> Product ID `56297` · Digistore24 productId `685159` · [HTML profile page](../../produkte/ebook-die-kraft-niemanden-zu-brauchen-56297.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

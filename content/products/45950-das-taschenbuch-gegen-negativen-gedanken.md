@@ -1,6 +1,6 @@
 # Das Taschenbuch gegen negativen Gedanken
 
-> Product ID `45950` · Digistore24 productId `523668` · [HTML profile page](../../reviews/das-taschenbuch-gegen-negativen-gedanken-45950.html)
+> Product ID `45950` · Digistore24 productId `523668` · [HTML profile page](../../produkte/das-taschenbuch-gegen-negativen-gedanken-45950.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # designdeinverein.de – Einfaches Vereins-Branding für Social
 
-> Product ID `53718` · Digistore24 productId `620915` · [HTML profile page](../../reviews/designdeinverein-de-einfaches-vereins-branding-f-r-social-53718.html)
+> Product ID `53718` · Digistore24 productId `620915` · [HTML profile page](../../produkte/designdeinverein-de-einfaches-vereins-branding-f-r-social-53718.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

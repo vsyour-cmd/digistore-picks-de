@@ -1,6 +1,6 @@
 # EU AI Act – Transparenzpflichten
 
-> Product ID `59715` · Digistore24 productId `652361` · [HTML profile page](../../reviews/eu-ai-act-transparenzpflichten-59715.html)
+> Product ID `59715` · Digistore24 productId `652361` · [HTML profile page](../../produkte/eu-ai-act-transparenzpflichten-59715.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Creator Content Kit (Deutsch)
 
-> Product ID `60037` · Digistore24 productId `738781` · [HTML profile page](../../reviews/creator-content-kit-deutsch-60037.html)
+> Product ID `60037` · Digistore24 productId `738781` · [HTML profile page](../../produkte/creator-content-kit-deutsch-60037.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

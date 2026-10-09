@@ -1,6 +1,6 @@
 # Videokurs - Hormonfrei und Sicher Verhüten
 
-> Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../reviews/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)
+> Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../produkte/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

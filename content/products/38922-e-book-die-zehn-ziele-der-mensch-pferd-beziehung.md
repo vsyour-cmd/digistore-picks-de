@@ -1,6 +1,6 @@
 # E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"
 
-> Product ID `38922` · Digistore24 productId `214963` · [HTML profile page](../../reviews/e-book-die-zehn-ziele-der-mensch-pferd-beziehung-38922.html)
+> Product ID `38922` · Digistore24 productId `214963` · [HTML profile page](../../produkte/e-book-die-zehn-ziele-der-mensch-pferd-beziehung-38922.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Flyerando - Werbeflächen an Flyerverteiler vermieten
 
-> Product ID `42095` · Digistore24 productId `468667` · [HTML profile page](../../reviews/flyerando-werbefl-chen-an-flyerverteiler-vermieten-42095.html)
+> Product ID `42095` · Digistore24 productId `468667` · [HTML profile page](../../produkte/flyerando-werbefl-chen-an-flyerverteiler-vermieten-42095.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

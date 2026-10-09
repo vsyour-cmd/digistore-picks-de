@@ -1,6 +1,6 @@
 # Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)
 
-> Product ID `43676` · Digistore24 productId `356906` · [HTML profile page](../../reviews/kinderwunsch-relax-nat-rliche-empf-ngnis-mp3s-43676.html)
+> Product ID `43676` · Digistore24 productId `356906` · [HTML profile page](../../produkte/kinderwunsch-relax-nat-rliche-empf-ngnis-mp3s-43676.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg
 
-> Product ID `40073` · Digistore24 productId `311670` · [HTML profile page](../../reviews/negative-gef-hle-aufl-sen-meditation-katja-amberg-40073.html)
+> Product ID `40073` · Digistore24 productId `311670` · [HTML profile page](../../produkte/negative-gef-hle-aufl-sen-meditation-katja-amberg-40073.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

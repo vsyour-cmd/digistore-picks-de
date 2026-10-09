@@ -1,6 +1,6 @@
 # Ola`s Dankbarkeitsbuch - gedrucktes Buch
 
-> Product ID `55037` · Digistore24 productId `644165` · [HTML profile page](../../reviews/ola-s-dankbarkeitsbuch-gedrucktes-buch-55037.html)
+> Product ID `55037` · Digistore24 productId `644165` · [HTML profile page](../../produkte/ola-s-dankbarkeitsbuch-gedrucktes-buch-55037.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

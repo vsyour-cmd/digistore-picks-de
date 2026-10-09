@@ -1,6 +1,6 @@
 # Affiliate Marketing Leitfaden 2023 (EBOOK)
 
-> Product ID `43694` · Digistore24 productId `495370` · [HTML profile page](../../reviews/affiliate-marketing-leitfaden-2023-ebook-43694.html)
+> Product ID `43694` · Digistore24 productId `495370` · [HTML profile page](../../produkte/affiliate-marketing-leitfaden-2023-ebook-43694.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

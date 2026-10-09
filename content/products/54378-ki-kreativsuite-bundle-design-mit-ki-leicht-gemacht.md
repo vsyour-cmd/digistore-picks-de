@@ -1,6 +1,6 @@
 # KI-KreativSuite Bundle – Design mit KI leicht gemacht
 
-> Product ID `54378` · Digistore24 productId `641150` · [HTML profile page](../../reviews/ki-kreativsuite-bundle-design-mit-ki-leicht-gemacht-54378.html)
+> Product ID `54378` · Digistore24 productId `641150` · [HTML profile page](../../produkte/ki-kreativsuite-bundle-design-mit-ki-leicht-gemacht-54378.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

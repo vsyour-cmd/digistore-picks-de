@@ -1,6 +1,6 @@
 # Reklamation leicht gemacht – mit Reklamations-Generator
 
-> Product ID `60344` · Digistore24 productId `741728` · [HTML profile page](../../reviews/reklamation-leicht-gemacht-mit-reklamations-generator-60344.html)
+> Product ID `60344` · Digistore24 productId `741728` · [HTML profile page](../../produkte/reklamation-leicht-gemacht-mit-reklamations-generator-60344.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

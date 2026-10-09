@@ -1,6 +1,6 @@
 # Affiliate Marketing Praxisplan – 5 Strategien für den Start
 
-> Product ID `58813` · Digistore24 productId `535366` · [HTML profile page](../../reviews/affiliate-marketing-praxisplan-5-strategien-f-r-den-start-58813.html)
+> Product ID `58813` · Digistore24 productId `535366` · [HTML profile page](../../produkte/affiliate-marketing-praxisplan-5-strategien-f-r-den-start-58813.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

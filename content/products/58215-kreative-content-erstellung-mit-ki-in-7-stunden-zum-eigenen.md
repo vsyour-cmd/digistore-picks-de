@@ -1,6 +1,6 @@
 # Kreative Content-Erstellung mit KI: In 7 Stunden zum eigenen
 
-> Product ID `58215` · Digistore24 productId `689461` · [HTML profile page](../../reviews/kreative-content-erstellung-mit-ki-in-7-stunden-zum-eigenen-58215.html)
+> Product ID `58215` · Digistore24 productId `689461` · [HTML profile page](../../produkte/kreative-content-erstellung-mit-ki-in-7-stunden-zum-eigenen-58215.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

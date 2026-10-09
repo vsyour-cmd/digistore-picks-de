@@ -1,6 +1,6 @@
 # Mein erstes Webinar
 
-> Product ID `57272` · Digistore24 productId `704250` · [HTML profile page](../../reviews/mein-erstes-webinar-57272.html)
+> Product ID `57272` · Digistore24 productId `704250` · [HTML profile page](../../produkte/mein-erstes-webinar-57272.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI-Flatrate
 
-> Product ID `54120` · Digistore24 productId `634205` · [HTML profile page](../../reviews/ki-flatrate-54120.html)
+> Product ID `54120` · Digistore24 productId `634205` · [HTML profile page](../../produkte/ki-flatrate-54120.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

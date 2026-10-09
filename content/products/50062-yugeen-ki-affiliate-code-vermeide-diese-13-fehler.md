@@ -1,6 +1,6 @@
 # Yugeen KI Affiliate Code - Vermeide diese 13 Fehler
 
-> Product ID `50062` · Digistore24 productId `572915` · [HTML profile page](../../reviews/yugeen-ki-affiliate-code-vermeide-diese-13-fehler-50062.html)
+> Product ID `50062` · Digistore24 productId `572915` · [HTML profile page](../../produkte/yugeen-ki-affiliate-code-vermeide-diese-13-fehler-50062.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

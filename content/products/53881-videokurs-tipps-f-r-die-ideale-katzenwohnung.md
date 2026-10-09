@@ -1,6 +1,6 @@
 # Videokurs "Tipps für die ideale Katzenwohnung"
 
-> Product ID `53881` · Digistore24 productId `633650` · [HTML profile page](../../reviews/videokurs-tipps-f-r-die-ideale-katzenwohnung-53881.html)
+> Product ID `53881` · Digistore24 productId `633650` · [HTML profile page](../../produkte/videokurs-tipps-f-r-die-ideale-katzenwohnung-53881.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

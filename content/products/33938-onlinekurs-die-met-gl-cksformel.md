@@ -1,6 +1,6 @@
 # Onlinekurs "Die MET-Glücksformel"
 
-> Product ID `33938` · Digistore24 productId `38629` · [HTML profile page](../../reviews/onlinekurs-die-met-gl-cksformel-33938.html)
+> Product ID `33938` · Digistore24 productId `38629` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-33938.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS
 
-> Product ID `29810` · Digistore24 productId `283003` · [HTML profile page](../../reviews/der-kostenlose-multiple-sklerose-kongress-29810.html)
+> Product ID `29810` · Digistore24 productId `283003` · [HTML profile page](../../produkte/der-kostenlose-multiple-sklerose-kongress-29810.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

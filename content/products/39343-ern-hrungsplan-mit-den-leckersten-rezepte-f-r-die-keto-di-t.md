@@ -1,6 +1,6 @@
 # Ernährungsplan mit den leckersten Rezepte für die Keto Diät
 
-> Product ID `39343` · Digistore24 productId `432689` · [HTML profile page](../../reviews/ern-hrungsplan-mit-den-leckersten-rezepte-f-r-die-keto-di-t-39343.html)
+> Product ID `39343` · Digistore24 productId `432689` · [HTML profile page](../../produkte/ern-hrungsplan-mit-den-leckersten-rezepte-f-r-die-keto-di-t-39343.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

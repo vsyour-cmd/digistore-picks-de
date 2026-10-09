@@ -1,6 +1,6 @@
 # So besteht jede/r die Theorieprüfung
 
-> Product ID `45042` · Digistore24 productId `475255` · [HTML profile page](../../reviews/so-besteht-jede-r-die-theoriepr-fung-45042.html)
+> Product ID `45042` · Digistore24 productId `475255` · [HTML profile page](../../produkte/so-besteht-jede-r-die-theoriepr-fung-45042.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

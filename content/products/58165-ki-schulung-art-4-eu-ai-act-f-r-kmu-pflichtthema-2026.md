@@ -1,6 +1,6 @@
 # KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026
 
-> Product ID `58165` · Digistore24 productId `716903` · [HTML profile page](../../reviews/ki-schulung-art-4-eu-ai-act-f-r-kmu-pflichtthema-2026-58165.html)
+> Product ID `58165` · Digistore24 productId `716903` · [HTML profile page](../../produkte/ki-schulung-art-4-eu-ai-act-f-r-kmu-pflichtthema-2026-58165.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

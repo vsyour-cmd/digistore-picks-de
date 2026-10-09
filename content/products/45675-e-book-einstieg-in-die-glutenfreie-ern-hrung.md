@@ -1,6 +1,6 @@
 # e-Book Einstieg in die Glutenfreie Ernährung
 
-> Product ID `45675` · Digistore24 productId `491217` · [HTML profile page](../../reviews/e-book-einstieg-in-die-glutenfreie-ern-hrung-45675.html)
+> Product ID `45675` · Digistore24 productId `491217` · [HTML profile page](../../produkte/e-book-einstieg-in-die-glutenfreie-ern-hrung-45675.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

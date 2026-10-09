@@ -1,6 +1,6 @@
 # Der Auto-Nischen-Marketer
 
-> Product ID `12969` · Digistore24 productId `78501` · [HTML profile page](../../reviews/der-auto-nischen-marketer-12969.html)
+> Product ID `12969` · Digistore24 productId `78501` · [HTML profile page](../../produkte/der-auto-nischen-marketer-12969.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Evergreen-Launch
 
-> Product ID `57279` · Digistore24 productId `704256` · [HTML profile page](../../reviews/der-evergreen-launch-57279.html)
+> Product ID `57279` · Digistore24 productId `704256` · [HTML profile page](../../produkte/der-evergreen-launch-57279.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

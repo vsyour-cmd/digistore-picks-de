@@ -1,6 +1,6 @@
 # Wäscheklar - Nie wieder Wäscheberge
 
-> Product ID `58687` · Digistore24 productId `724373` · [HTML profile page](../../reviews/w-scheklar-nie-wieder-w-scheberge-58687.html)
+> Product ID `58687` · Digistore24 productId `724373` · [HTML profile page](../../produkte/w-scheklar-nie-wieder-w-scheberge-58687.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

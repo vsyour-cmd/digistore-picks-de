@@ -1,6 +1,6 @@
 # Sprache lernen mit Frida
 
-> Product ID `57371` · Digistore24 productId `671226` · [HTML profile page](../../reviews/sprache-lernen-mit-frida-57371.html)
+> Product ID `57371` · Digistore24 productId `671226` · [HTML profile page](../../produkte/sprache-lernen-mit-frida-57371.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

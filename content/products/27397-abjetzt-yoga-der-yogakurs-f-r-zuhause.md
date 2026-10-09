@@ -1,6 +1,6 @@
 # ABJETZT/YOGA - Der Yogakurs für Zuhause
 
-> Product ID `27397` · Digistore24 productId `245625` · [HTML profile page](../../reviews/abjetzt-yoga-der-yogakurs-f-r-zuhause-27397.html)
+> Product ID `27397` · Digistore24 productId `245625` · [HTML profile page](../../produkte/abjetzt-yoga-der-yogakurs-f-r-zuhause-27397.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

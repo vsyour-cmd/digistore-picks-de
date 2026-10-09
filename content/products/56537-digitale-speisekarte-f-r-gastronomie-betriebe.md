@@ -1,6 +1,6 @@
 # Digitale Speisekarte für Gastronomie Betriebe
 
-> Product ID `56537` · Digistore24 productId `692801` · [HTML profile page](../../reviews/digitale-speisekarte-f-r-gastronomie-betriebe-56537.html)
+> Product ID `56537` · Digistore24 productId `692801` · [HTML profile page](../../produkte/digitale-speisekarte-f-r-gastronomie-betriebe-56537.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

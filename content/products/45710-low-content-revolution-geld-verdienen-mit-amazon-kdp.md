@@ -1,6 +1,6 @@
 # Low Content Revolution - Geld verdienen mit Amazon KDP
 
-> Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../reviews/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)
+> Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../produkte/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

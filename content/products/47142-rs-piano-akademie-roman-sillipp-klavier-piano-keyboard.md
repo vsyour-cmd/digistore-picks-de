@@ -1,6 +1,6 @@
 # RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)
 
-> Product ID `47142` · Digistore24 productId `604618` · [HTML profile page](../../reviews/rs-piano-akademie-roman-sillipp-klavier-piano-keyboard-47142.html)
+> Product ID `47142` · Digistore24 productId `604618` · [HTML profile page](../../produkte/rs-piano-akademie-roman-sillipp-klavier-piano-keyboard-47142.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

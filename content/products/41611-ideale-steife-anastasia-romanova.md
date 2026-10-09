@@ -1,6 +1,6 @@
 # Ideale Steife - Anastasia Romanova
 
-> Product ID `41611` · Digistore24 productId `432922` · [HTML profile page](../../reviews/ideale-steife-anastasia-romanova-41611.html)
+> Product ID `41611` · Digistore24 productId `432922` · [HTML profile page](../../produkte/ideale-steife-anastasia-romanova-41611.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

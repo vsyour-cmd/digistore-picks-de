@@ -1,6 +1,6 @@
 # Quittungen und Lieferscheine leicht gemacht
 
-> Product ID `60332` · Digistore24 productId `741644` · [HTML profile page](../../reviews/quittungen-und-lieferscheine-leicht-gemacht-60332.html)
+> Product ID `60332` · Digistore24 productId `741644` · [HTML profile page](../../produkte/quittungen-und-lieferscheine-leicht-gemacht-60332.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

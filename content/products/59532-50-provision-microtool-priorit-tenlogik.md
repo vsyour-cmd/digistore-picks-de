@@ -1,6 +1,6 @@
 # 50% Provision: MicroTool PrioritätenLogik
 
-> Product ID `59532` · Digistore24 productId `692792` · [HTML profile page](../../reviews/50-provision-microtool-priorit-tenlogik-59532.html)
+> Product ID `59532` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-microtool-priorit-tenlogik-59532.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

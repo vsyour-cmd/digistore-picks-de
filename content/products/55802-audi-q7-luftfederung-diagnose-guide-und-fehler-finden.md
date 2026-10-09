@@ -1,6 +1,6 @@
 # Audi Q7 Luftfederung Diagnose Guide und Fehler finden
 
-> Product ID `55802` · Digistore24 productId `673947` · [HTML profile page](../../reviews/audi-q7-luftfederung-diagnose-guide-und-fehler-finden-55802.html)
+> Product ID `55802` · Digistore24 productId `673947` · [HTML profile page](../../produkte/audi-q7-luftfederung-diagnose-guide-und-fehler-finden-55802.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

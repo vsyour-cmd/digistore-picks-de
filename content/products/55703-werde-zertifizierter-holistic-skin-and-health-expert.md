@@ -1,6 +1,6 @@
 # Werde zertifizierter Holistic Skin and Health Expert
 
-> Product ID `55703` · Digistore24 productId `662876` · [HTML profile page](../../reviews/werde-zertifizierter-holistic-skin-and-health-expert-55703.html)
+> Product ID `55703` · Digistore24 productId `662876` · [HTML profile page](../../produkte/werde-zertifizierter-holistic-skin-and-health-expert-55703.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

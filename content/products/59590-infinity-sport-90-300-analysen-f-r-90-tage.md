@@ -1,6 +1,6 @@
 # INFINITY SPORT 90 – 300 Analysen für 90 Tage
 
-> Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../reviews/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)
+> Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../produkte/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 99 Gran Canaria Highlights [E-Book]
 
-> Product ID `39210` · Digistore24 productId `430908` · [HTML profile page](../../reviews/99-gran-canaria-highlights-e-book-39210.html)
+> Product ID `39210` · Digistore24 productId `430908` · [HTML profile page](../../produkte/99-gran-canaria-highlights-e-book-39210.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

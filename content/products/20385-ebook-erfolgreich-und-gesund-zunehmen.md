@@ -1,6 +1,6 @@
 # eBook - Erfolgreich und gesund Zunehmen
 
-> Product ID `20385` · Digistore24 productId `176051` · [HTML profile page](../../reviews/ebook-erfolgreich-und-gesund-zunehmen-20385.html)
+> Product ID `20385` · Digistore24 productId `176051` · [HTML profile page](../../produkte/ebook-erfolgreich-und-gesund-zunehmen-20385.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

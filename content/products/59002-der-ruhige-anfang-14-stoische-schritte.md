@@ -1,6 +1,6 @@
 # Der ruhige Anfang – 14 stoische Schritte
 
-> Product ID `59002` · Digistore24 productId `725967` · [HTML profile page](../../reviews/der-ruhige-anfang-14-stoische-schritte-59002.html)
+> Product ID `59002` · Digistore24 productId `725967` · [HTML profile page](../../produkte/der-ruhige-anfang-14-stoische-schritte-59002.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

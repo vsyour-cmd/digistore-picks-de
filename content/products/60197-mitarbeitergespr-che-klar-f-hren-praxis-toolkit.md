@@ -1,6 +1,6 @@
 # Mitarbeitergespräche klar führen – Praxis-Toolkit
 
-> Product ID `60197` · Digistore24 productId `742021` · [HTML profile page](../../reviews/mitarbeitergespr-che-klar-f-hren-praxis-toolkit-60197.html)
+> Product ID `60197` · Digistore24 productId `742021` · [HTML profile page](../../produkte/mitarbeitergespr-che-klar-f-hren-praxis-toolkit-60197.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

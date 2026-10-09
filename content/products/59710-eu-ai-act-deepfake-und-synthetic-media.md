@@ -1,6 +1,6 @@
 # EU AI Act – Deepfake und Synthetic Media
 
-> Product ID `59710` · Digistore24 productId `652453` · [HTML profile page](../../reviews/eu-ai-act-deepfake-und-synthetic-media-59710.html)
+> Product ID `59710` · Digistore24 productId `652453` · [HTML profile page](../../produkte/eu-ai-act-deepfake-und-synthetic-media-59710.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

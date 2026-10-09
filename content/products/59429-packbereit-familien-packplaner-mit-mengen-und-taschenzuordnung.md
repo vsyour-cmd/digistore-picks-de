@@ -1,6 +1,6 @@
 # Packbereit: Familien-Packplaner mit Mengen und Taschenzuordnung
 
-> Product ID `59429` · Digistore24 productId `735328` · [HTML profile page](../../reviews/packbereit-familien-packplaner-mit-mengen-und-taschenzuordnung-59429.html)
+> Product ID `59429` · Digistore24 productId `735328` · [HTML profile page](../../produkte/packbereit-familien-packplaner-mit-mengen-und-taschenzuordnung-59429.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

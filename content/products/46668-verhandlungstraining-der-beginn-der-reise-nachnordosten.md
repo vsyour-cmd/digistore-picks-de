@@ -1,6 +1,6 @@
 # Verhandlungstraining - Der Beginn der Reise nachnordosten
 
-> Product ID `46668` · Digistore24 productId `529562` · [HTML profile page](../../reviews/verhandlungstraining-der-beginn-der-reise-nachnordosten-46668.html)
+> Product ID `46668` · Digistore24 productId `529562` · [HTML profile page](../../produkte/verhandlungstraining-der-beginn-der-reise-nachnordosten-46668.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

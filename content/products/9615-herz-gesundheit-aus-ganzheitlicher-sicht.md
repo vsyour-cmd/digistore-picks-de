@@ -1,6 +1,6 @@
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
-> Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../reviews/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
+> Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)
 
-> Product ID `55963` · Digistore24 productId `686387` · [HTML profile page](../../reviews/individuelles-mentoring-zur-hinterbliebenenrente-60-min-55963.html)
+> Product ID `55963` · Digistore24 productId `686387` · [HTML profile page](../../produkte/individuelles-mentoring-zur-hinterbliebenenrente-60-min-55963.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

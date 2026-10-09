@@ -1,6 +1,6 @@
 # Bewirb das Freebie "SEO-Leitfaden". Profitiere von 3 Upsells
 
-> Product ID `54863` · Digistore24 productId `611758` · [HTML profile page](../../reviews/bewirb-das-freebie-seo-leitfaden-profitiere-von-3-upsells-54863.html)
+> Product ID `54863` · Digistore24 productId `611758` · [HTML profile page](../../produkte/bewirb-das-freebie-seo-leitfaden-profitiere-von-3-upsells-54863.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

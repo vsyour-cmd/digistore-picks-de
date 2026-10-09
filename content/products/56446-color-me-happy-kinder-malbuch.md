@@ -1,6 +1,6 @@
 # Color Me Happy - Kinder Malbuch
 
-> Product ID `56446` · Digistore24 productId `689765` · [HTML profile page](../../reviews/color-me-happy-kinder-malbuch-56446.html)
+> Product ID `56446` · Digistore24 productId `689765` · [HTML profile page](../../produkte/color-me-happy-kinder-malbuch-56446.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

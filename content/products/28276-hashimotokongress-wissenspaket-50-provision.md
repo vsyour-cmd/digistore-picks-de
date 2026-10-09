@@ -1,6 +1,6 @@
 # Hashimotokongress Wissenspaket 50% Provision
 
-> Product ID `28276` · Digistore24 productId `239771` · [HTML profile page](../../reviews/hashimotokongress-wissenspaket-50-provision-28276.html)
+> Product ID `28276` · Digistore24 productId `239771` · [HTML profile page](../../produkte/hashimotokongress-wissenspaket-50-provision-28276.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Chakren & Solfeggio Komplettpaket (2,5 GB) 50% Provision
 
-> Product ID `37522` · Digistore24 productId `138095` · [HTML profile page](../../reviews/chakren-solfeggio-komplettpaket-2-5-gb-50-provision-37522.html)
+> Product ID `37522` · Digistore24 productId `138095` · [HTML profile page](../../produkte/chakren-solfeggio-komplettpaket-2-5-gb-50-provision-37522.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

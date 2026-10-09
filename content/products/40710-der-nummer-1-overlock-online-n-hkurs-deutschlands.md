@@ -1,6 +1,6 @@
 # Der Nummer 1 Overlock Online Nähkurs Deutschlands
 
-> Product ID `40710` · Digistore24 productId `292094` · [HTML profile page](../../reviews/der-nummer-1-overlock-online-n-hkurs-deutschlands-40710.html)
+> Product ID `40710` · Digistore24 productId `292094` · [HTML profile page](../../produkte/der-nummer-1-overlock-online-n-hkurs-deutschlands-40710.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

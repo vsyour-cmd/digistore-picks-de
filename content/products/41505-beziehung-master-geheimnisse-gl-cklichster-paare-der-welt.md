@@ -1,6 +1,6 @@
 # Beziehung Master: Geheimnisse glücklichster Paare der Welt
 
-> Product ID `41505` · Digistore24 productId `454935` · [HTML profile page](../../reviews/beziehung-master-geheimnisse-gl-cklichster-paare-der-welt-41505.html)
+> Product ID `41505` · Digistore24 productId `454935` · [HTML profile page](../../produkte/beziehung-master-geheimnisse-gl-cklichster-paare-der-welt-41505.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision
 
-> Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../reviews/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)
+> Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../produkte/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

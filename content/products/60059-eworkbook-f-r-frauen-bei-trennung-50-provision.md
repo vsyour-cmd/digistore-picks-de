@@ -1,6 +1,6 @@
 # eWorkbook für Frauen bei Trennung / 50% Provision
 
-> Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../reviews/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)
+> Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../produkte/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

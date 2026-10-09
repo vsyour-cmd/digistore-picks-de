@@ -1,6 +1,6 @@
 # Hundewissen Sachkunde - Der Digitale Hundeführerschein
 
-> Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../reviews/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)
+> Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../produkte/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # In 4 Schritten sexuelle Probleme abbauen
 
-> Product ID `40397` · Digistore24 productId `436116` · [HTML profile page](../../reviews/in-4-schritten-sexuelle-probleme-abbauen-40397.html)
+> Product ID `40397` · Digistore24 productId `436116` · [HTML profile page](../../produkte/in-4-schritten-sexuelle-probleme-abbauen-40397.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

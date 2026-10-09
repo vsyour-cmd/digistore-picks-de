@@ -1,6 +1,6 @@
 # „Die No-Go-Liste für Werber“ – Hochkonvertierendes PDF (40%)
 
-> Product ID `53243` · Digistore24 productId `625074` · [HTML profile page](../../reviews/die-no-go-liste-f-r-werber-hochkonvertierendes-pdf-40-53243.html)
+> Product ID `53243` · Digistore24 productId `625074` · [HTML profile page](../../produkte/die-no-go-liste-f-r-werber-hochkonvertierendes-pdf-40-53243.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

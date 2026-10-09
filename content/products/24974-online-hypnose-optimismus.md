@@ -1,6 +1,6 @@
 # Online Hypnose Optimismus
 
-> Product ID `24974` · Digistore24 productId `211703` · [HTML profile page](../../reviews/online-hypnose-optimismus-24974.html)
+> Product ID `24974` · Digistore24 productId `211703` · [HTML profile page](../../produkte/online-hypnose-optimismus-24974.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

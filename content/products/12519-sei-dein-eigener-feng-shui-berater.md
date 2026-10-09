@@ -1,6 +1,6 @@
 # Sei Dein eigener Feng Shui Berater
 
-> Product ID `12519` · Digistore24 productId `89821` · [HTML profile page](../../reviews/sei-dein-eigener-feng-shui-berater-12519.html)
+> Product ID `12519` · Digistore24 productId `89821` · [HTML profile page](../../produkte/sei-dein-eigener-feng-shui-berater-12519.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

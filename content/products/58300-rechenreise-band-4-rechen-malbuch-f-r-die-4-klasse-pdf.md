@@ -1,6 +1,6 @@
 # Rechenreise Band 4 – Rechen-Malbuch für die 4. Klasse (PDF)
 
-> Product ID `58300` · Digistore24 productId `720431` · [HTML profile page](../../reviews/rechenreise-band-4-rechen-malbuch-f-r-die-4-klasse-pdf-58300.html)
+> Product ID `58300` · Digistore24 productId `720431` · [HTML profile page](../../produkte/rechenreise-band-4-rechen-malbuch-f-r-die-4-klasse-pdf-58300.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Insider-Profit-App (geheimer Zugang)
 
-> Product ID `54766` · Digistore24 productId `650659` · [HTML profile page](../../reviews/insider-profit-app-geheimer-zugang-54766.html)
+> Product ID `54766` · Digistore24 productId `650659` · [HTML profile page](../../produkte/insider-profit-app-geheimer-zugang-54766.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

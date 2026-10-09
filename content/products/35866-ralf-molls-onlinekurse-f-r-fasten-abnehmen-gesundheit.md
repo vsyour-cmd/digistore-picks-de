@@ -1,6 +1,6 @@
 # Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit
 
-> Product ID `35866` · Digistore24 productId `462653` · [HTML profile page](../../reviews/ralf-molls-onlinekurse-f-r-fasten-abnehmen-gesundheit-35866.html)
+> Product ID `35866` · Digistore24 productId `462653` · [HTML profile page](../../produkte/ralf-molls-onlinekurse-f-r-fasten-abnehmen-gesundheit-35866.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

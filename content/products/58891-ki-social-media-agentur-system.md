@@ -1,6 +1,6 @@
 # KI Social Media Agentur System
 
-> Product ID `58891` · Digistore24 productId `728897` · [HTML profile page](../../reviews/ki-social-media-agentur-system-58891.html)
+> Product ID `58891` · Digistore24 productId `728897` · [HTML profile page](../../produkte/ki-social-media-agentur-system-58891.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

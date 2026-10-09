@@ -1,6 +1,6 @@
 # Workshop-Bundle: Vom Funktionieren zur Selbstverbindung
 
-> Product ID `58498` · Digistore24 productId `718693` · [HTML profile page](../../reviews/workshop-bundle-vom-funktionieren-zur-selbstverbindung-58498.html)
+> Product ID `58498` · Digistore24 productId `718693` · [HTML profile page](../../produkte/workshop-bundle-vom-funktionieren-zur-selbstverbindung-58498.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

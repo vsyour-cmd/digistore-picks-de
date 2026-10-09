@@ -1,6 +1,6 @@
 # RegulationsCoach Home – Ganzheitliche Gesundheit selbst in die Hand nehmen
 
-> Product ID `57549` · Digistore24 productId `705509` · [HTML profile page](../../reviews/regulationscoach-home-ganzheitliche-gesundheit-selbst-in-die-hand-nehmen-57549.html)
+> Product ID `57549` · Digistore24 productId `705509` · [HTML profile page](../../produkte/regulationscoach-home-ganzheitliche-gesundheit-selbst-in-die-hand-nehmen-57549.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

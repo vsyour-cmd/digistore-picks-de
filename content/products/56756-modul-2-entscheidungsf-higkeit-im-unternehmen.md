@@ -1,6 +1,6 @@
 # Modul 2 – Entscheidungsfähigkeit im Unternehmen
 
-> Product ID `56756` · Digistore24 productId `688214` · [HTML profile page](../../reviews/modul-2-entscheidungsf-higkeit-im-unternehmen-56756.html)
+> Product ID `56756` · Digistore24 productId `688214` · [HTML profile page](../../produkte/modul-2-entscheidungsf-higkeit-im-unternehmen-56756.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

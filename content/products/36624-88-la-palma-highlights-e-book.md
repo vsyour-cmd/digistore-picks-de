@@ -1,6 +1,6 @@
 # 88 La Palma Highlights [E-Book]
 
-> Product ID `36624` · Digistore24 productId `388840` · [HTML profile page](../../reviews/88-la-palma-highlights-e-book-36624.html)
+> Product ID `36624` · Digistore24 productId `388840` · [HTML profile page](../../produkte/88-la-palma-highlights-e-book-36624.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

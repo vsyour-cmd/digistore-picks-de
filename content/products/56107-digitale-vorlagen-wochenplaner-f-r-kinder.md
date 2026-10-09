@@ -1,6 +1,6 @@
 # Digitale Vorlagen Wochenplaner für Kinder
 
-> Product ID `56107` · Digistore24 productId `679530` · [HTML profile page](../../reviews/digitale-vorlagen-wochenplaner-f-r-kinder-56107.html)
+> Product ID `56107` · Digistore24 productId `679530` · [HTML profile page](../../produkte/digitale-vorlagen-wochenplaner-f-r-kinder-56107.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

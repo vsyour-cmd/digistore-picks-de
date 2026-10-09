@@ -1,6 +1,6 @@
 # Mein Wochenplaner - Gerichte planen, smarter einkaufen
 
-> Product ID `57113` · Digistore24 productId `700947` · [HTML profile page](../../reviews/mein-wochenplaner-gerichte-planen-smarter-einkaufen-57113.html)
+> Product ID `57113` · Digistore24 productId `700947` · [HTML profile page](../../produkte/mein-wochenplaner-gerichte-planen-smarter-einkaufen-57113.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

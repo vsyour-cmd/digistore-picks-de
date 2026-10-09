@@ -1,6 +1,6 @@
 # KI EVENT MASTERCLASS 2.0
 
-> Product ID `48450` · Digistore24 productId `555162` · [HTML profile page](../../reviews/ki-event-masterclass-2-0-48450.html)
+> Product ID `48450` · Digistore24 productId `555162` · [HTML profile page](../../produkte/ki-event-masterclass-2-0-48450.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

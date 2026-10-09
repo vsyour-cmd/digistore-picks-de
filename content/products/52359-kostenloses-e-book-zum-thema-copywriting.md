@@ -1,6 +1,6 @@
 # Kostenloses E-Book zum Thema Copywriting
 
-> Product ID `52359` · Digistore24 productId `611125` · [HTML profile page](../../reviews/kostenloses-e-book-zum-thema-copywriting-52359.html)
+> Product ID `52359` · Digistore24 productId `611125` · [HTML profile page](../../produkte/kostenloses-e-book-zum-thema-copywriting-52359.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

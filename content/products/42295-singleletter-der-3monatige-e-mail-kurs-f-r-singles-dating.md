@@ -1,6 +1,6 @@
 # Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating
 
-> Product ID `42295` · Digistore24 productId `471435` · [HTML profile page](../../reviews/singleletter-der-3monatige-e-mail-kurs-f-r-singles-dating-42295.html)
+> Product ID `42295` · Digistore24 productId `471435` · [HTML profile page](../../produkte/singleletter-der-3monatige-e-mail-kurs-f-r-singles-dating-42295.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Abnehmen für Anfänger – Das 12-Wochen-System
 
-> Product ID `59043` · Digistore24 productId `731158` · [HTML profile page](../../reviews/abnehmen-f-r-anf-nger-das-12-wochen-system-59043.html)
+> Product ID `59043` · Digistore24 productId `731158` · [HTML profile page](../../produkte/abnehmen-f-r-anf-nger-das-12-wochen-system-59043.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

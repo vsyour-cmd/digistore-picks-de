@@ -1,6 +1,6 @@
 # E-Rechnungen in Sekunden erstellen Webbasierte Software Tool
 
-> Product ID `60164` · Digistore24 productId `738530` · [HTML profile page](../../reviews/e-rechnungen-in-sekunden-erstellen-webbasierte-software-tool-60164.html)
+> Product ID `60164` · Digistore24 productId `738530` · [HTML profile page](../../produkte/e-rechnungen-in-sekunden-erstellen-webbasierte-software-tool-60164.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

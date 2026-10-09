@@ -1,6 +1,6 @@
 # Buch Bist du auf stumm geschaltet?
 
-> Product ID `36219` · Digistore24 productId `350206` · [HTML profile page](../../reviews/buch-bist-du-auf-stumm-geschaltet-36219.html)
+> Product ID `36219` · Digistore24 productId `350206` · [HTML profile page](../../produkte/buch-bist-du-auf-stumm-geschaltet-36219.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

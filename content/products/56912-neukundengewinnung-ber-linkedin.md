@@ -1,6 +1,6 @@
 # Neukundengewinnung über LinkedIn
 
-> Product ID `56912` · Digistore24 productId `701348` · [HTML profile page](../../reviews/neukundengewinnung-ber-linkedin-56912.html)
+> Product ID `56912` · Digistore24 productId `701348` · [HTML profile page](../../produkte/neukundengewinnung-ber-linkedin-56912.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

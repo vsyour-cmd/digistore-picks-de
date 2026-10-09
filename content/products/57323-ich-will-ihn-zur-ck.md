@@ -1,6 +1,6 @@
 # Ich will ihn zurück
 
-> Product ID `57323` · Digistore24 productId `706652` · [HTML profile page](../../reviews/ich-will-ihn-zur-ck-57323.html)
+> Product ID `57323` · Digistore24 productId `706652` · [HTML profile page](../../produkte/ich-will-ihn-zur-ck-57323.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Waldtier-Printable-Bundle für Kinder: 90 liebevolle Seiten z
 
-> Product ID `57108` · Digistore24 productId `703324` · [HTML profile page](../../reviews/waldtier-printable-bundle-f-r-kinder-90-liebevolle-seiten-z-57108.html)
+> Product ID `57108` · Digistore24 productId `703324` · [HTML profile page](../../produkte/waldtier-printable-bundle-f-r-kinder-90-liebevolle-seiten-z-57108.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

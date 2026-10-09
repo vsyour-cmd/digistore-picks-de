@@ -1,6 +1,6 @@
 # Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)
 
-> Product ID `57118` · Digistore24 productId `701298` · [HTML profile page](../../reviews/abnehmen-f-r-m-nner-ab-40-keto-reset-system-50-prov-57118.html)
+> Product ID `57118` · Digistore24 productId `701298` · [HTML profile page](../../produkte/abnehmen-f-r-m-nner-ab-40-keto-reset-system-50-prov-57118.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

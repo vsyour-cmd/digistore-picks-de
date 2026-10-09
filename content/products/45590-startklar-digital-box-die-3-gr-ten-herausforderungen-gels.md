@@ -1,6 +1,6 @@
 # StartKlar Digital-Box - Die 3 größten Herausforderungen gels
 
-> Product ID `45590` · Digistore24 productId `519822` · [HTML profile page](../../reviews/startklar-digital-box-die-3-gr-ten-herausforderungen-gels-45590.html)
+> Product ID `45590` · Digistore24 productId `519822` · [HTML profile page](../../produkte/startklar-digital-box-die-3-gr-ten-herausforderungen-gels-45590.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)
 
-> Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../reviews/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)
+> Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../produkte/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

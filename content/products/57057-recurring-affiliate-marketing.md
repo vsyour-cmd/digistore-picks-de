@@ -1,6 +1,6 @@
 # Recurring Affiliate Marketing
 
-> Product ID `57057` · Digistore24 productId `703383` · [HTML profile page](../../reviews/recurring-affiliate-marketing-57057.html)
+> Product ID `57057` · Digistore24 productId `703383` · [HTML profile page](../../produkte/recurring-affiliate-marketing-57057.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

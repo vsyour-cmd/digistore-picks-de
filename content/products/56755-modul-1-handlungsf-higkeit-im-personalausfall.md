@@ -1,6 +1,6 @@
 # Modul 1 – Handlungsfähigkeit im Personalausfall
 
-> Product ID `56755` · Digistore24 productId `669458` · [HTML profile page](../../reviews/modul-1-handlungsf-higkeit-im-personalausfall-56755.html)
+> Product ID `56755` · Digistore24 productId `669458` · [HTML profile page](../../produkte/modul-1-handlungsf-higkeit-im-personalausfall-56755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Ein Produkt, das sich von selbst verkauft - 50% Provision
 
-> Product ID `59349` · Digistore24 productId `733005` · [HTML profile page](../../reviews/ein-produkt-das-sich-von-selbst-verkauft-50-provision-59349.html)
+> Product ID `59349` · Digistore24 productId `733005` · [HTML profile page](../../produkte/ein-produkt-das-sich-von-selbst-verkauft-50-provision-59349.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Altersvorsorge 40+: Die geheime Affiliate Hoch Drei Formel
 
-> Product ID `47565` · Digistore24 productId `543528` · [HTML profile page](../../reviews/altersvorsorge-40-die-geheime-affiliate-hoch-drei-formel-47565.html)
+> Product ID `47565` · Digistore24 productId `543528` · [HTML profile page](../../produkte/altersvorsorge-40-die-geheime-affiliate-hoch-drei-formel-47565.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

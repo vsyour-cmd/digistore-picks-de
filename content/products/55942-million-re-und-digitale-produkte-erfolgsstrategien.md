@@ -1,6 +1,6 @@
 # Millionäre und digitale Produkte – Erfolgsstrategien
 
-> Product ID `55942` · Digistore24 productId `674269` · [HTML profile page](../../reviews/million-re-und-digitale-produkte-erfolgsstrategien-55942.html)
+> Product ID `55942` · Digistore24 productId `674269` · [HTML profile page](../../produkte/million-re-und-digitale-produkte-erfolgsstrategien-55942.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

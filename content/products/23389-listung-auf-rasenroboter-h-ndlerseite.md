@@ -1,6 +1,6 @@
 # Listung auf Rasenroboter-Händlerseite
 
-> Product ID `23389` · Digistore24 productId `191677` · [HTML profile page](../../reviews/listung-auf-rasenroboter-h-ndlerseite-23389.html)
+> Product ID `23389` · Digistore24 productId `191677` · [HTML profile page](../../produkte/listung-auf-rasenroboter-h-ndlerseite-23389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

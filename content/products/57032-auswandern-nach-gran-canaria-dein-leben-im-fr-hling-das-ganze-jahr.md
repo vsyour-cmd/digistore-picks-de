@@ -1,6 +1,6 @@
 # Auswandern nach Gran Canaria – dein Leben im Frühling, das ganze Jahr
 
-> Product ID `57032` · Digistore24 productId `702480` · [HTML profile page](../../reviews/auswandern-nach-gran-canaria-dein-leben-im-fr-hling-das-ganze-jahr-57032.html)
+> Product ID `57032` · Digistore24 productId `702480` · [HTML profile page](../../produkte/auswandern-nach-gran-canaria-dein-leben-im-fr-hling-das-ganze-jahr-57032.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

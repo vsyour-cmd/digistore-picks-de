@@ -1,6 +1,6 @@
 # eBook: SEO für Affiliates
 
-> Product ID `51742` · Digistore24 productId `597885` · [HTML profile page](../../reviews/ebook-seo-f-r-affiliates-51742.html)
+> Product ID `51742` · Digistore24 productId `597885` · [HTML profile page](../../produkte/ebook-seo-f-r-affiliates-51742.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

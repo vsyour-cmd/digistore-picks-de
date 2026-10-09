@@ -1,6 +1,6 @@
 # Low Budget Küche - Kochen trotz wenig Geld
 
-> Product ID `56029` · Digistore24 productId `679284` · [HTML profile page](../../reviews/low-budget-k-che-kochen-trotz-wenig-geld-56029.html)
+> Product ID `56029` · Digistore24 productId `679284` · [HTML profile page](../../produkte/low-budget-k-che-kochen-trotz-wenig-geld-56029.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

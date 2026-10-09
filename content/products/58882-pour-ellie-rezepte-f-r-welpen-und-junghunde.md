@@ -1,6 +1,6 @@
 # Pour Ellie – Rezepte für Welpen und Junghunde
 
-> Product ID `58882` · Digistore24 productId `712072` · [HTML profile page](../../reviews/pour-ellie-rezepte-f-r-welpen-und-junghunde-58882.html)
+> Product ID `58882` · Digistore24 productId `712072` · [HTML profile page](../../produkte/pour-ellie-rezepte-f-r-welpen-und-junghunde-58882.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

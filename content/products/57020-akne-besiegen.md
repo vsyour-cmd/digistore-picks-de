@@ -1,6 +1,6 @@
 # Akne besiegen
 
-> Product ID `57020` · Digistore24 productId `702251` · [HTML profile page](../../reviews/akne-besiegen-57020.html)
+> Product ID `57020` · Digistore24 productId `702251` · [HTML profile page](../../produkte/akne-besiegen-57020.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

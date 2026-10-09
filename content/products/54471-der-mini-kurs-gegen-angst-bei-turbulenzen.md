@@ -1,6 +1,6 @@
 # Der Mini-Kurs gegen Angst bei Turbulenzen
 
-> Product ID `54471` · Digistore24 productId `596988` · [HTML profile page](../../reviews/der-mini-kurs-gegen-angst-bei-turbulenzen-54471.html)
+> Product ID `54471` · Digistore24 productId `596988` · [HTML profile page](../../produkte/der-mini-kurs-gegen-angst-bei-turbulenzen-54471.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

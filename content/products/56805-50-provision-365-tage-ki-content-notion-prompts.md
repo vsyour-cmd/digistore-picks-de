@@ -1,6 +1,6 @@
 # 50% Provision! 365 Tage KI content (Notion,Prompts)
 
-> Product ID `56805` · Digistore24 productId `698309` · [HTML profile page](../../reviews/50-provision-365-tage-ki-content-notion-prompts-56805.html)
+> Product ID `56805` · Digistore24 productId `698309` · [HTML profile page](../../produkte/50-provision-365-tage-ki-content-notion-prompts-56805.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Microsoft OneNote im Unternehmen
 
-> Product ID `44151` · Digistore24 productId `488374` · [HTML profile page](../../reviews/microsoft-onenote-im-unternehmen-44151.html)
+> Product ID `44151` · Digistore24 productId `488374` · [HTML profile page](../../produkte/microsoft-onenote-im-unternehmen-44151.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

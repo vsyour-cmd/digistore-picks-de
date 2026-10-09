@@ -1,6 +1,6 @@
 # THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter
 
-> Product ID `53873` · Digistore24 productId `626900` · [HTML profile page](../../reviews/the-power-of-love-i-der-heilige-pfad-der-13-clanm-tter-53873.html)
+> Product ID `53873` · Digistore24 productId `626900` · [HTML profile page](../../produkte/the-power-of-love-i-der-heilige-pfad-der-13-clanm-tter-53873.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

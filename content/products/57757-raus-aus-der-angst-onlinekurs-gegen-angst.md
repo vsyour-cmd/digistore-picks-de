@@ -1,6 +1,6 @@
 # Raus aus der Angst – Onlinekurs gegen Angst
 
-> Product ID `57757` · Digistore24 productId `694978` · [HTML profile page](../../reviews/raus-aus-der-angst-onlinekurs-gegen-angst-57757.html)
+> Product ID `57757` · Digistore24 productId `694978` · [HTML profile page](../../produkte/raus-aus-der-angst-onlinekurs-gegen-angst-57757.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

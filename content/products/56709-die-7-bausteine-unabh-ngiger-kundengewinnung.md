@@ -1,6 +1,6 @@
 # Die 7 Bausteine unabhängiger Kundengewinnung
 
-> Product ID `56709` · Digistore24 productId `695002` · [HTML profile page](../../reviews/die-7-bausteine-unabh-ngiger-kundengewinnung-56709.html)
+> Product ID `56709` · Digistore24 productId `695002` · [HTML profile page](../../produkte/die-7-bausteine-unabh-ngiger-kundengewinnung-56709.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

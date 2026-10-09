@@ -1,6 +1,6 @@
 # Blick hinter die Kulissen – 10K Cash Club für nur 1€
 
-> Product ID `54218` · Digistore24 productId `632954` · [HTML profile page](../../reviews/blick-hinter-die-kulissen-10k-cash-club-f-r-nur-1-54218.html)
+> Product ID `54218` · Digistore24 productId `632954` · [HTML profile page](../../produkte/blick-hinter-die-kulissen-10k-cash-club-f-r-nur-1-54218.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

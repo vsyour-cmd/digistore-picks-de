@@ -1,6 +1,6 @@
 # Der richtige Umgang mit deinem Hund
 
-> Product ID `56230` · Digistore24 productId `684095` · [HTML profile page](../../reviews/der-richtige-umgang-mit-deinem-hund-56230.html)
+> Product ID `56230` · Digistore24 productId `684095` · [HTML profile page](../../produkte/der-richtige-umgang-mit-deinem-hund-56230.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

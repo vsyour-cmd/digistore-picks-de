@@ -1,6 +1,6 @@
 # Traffic Commando
 
-> Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../reviews/traffic-commando-36702.html)
+> Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../produkte/traffic-commando-36702.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Social Media Post Generator
 
-> Product ID `55570` · Digistore24 productId `668180` · [HTML profile page](../../reviews/social-media-post-generator-55570.html)
+> Product ID `55570` · Digistore24 productId `668180` · [HTML profile page](../../produkte/social-media-post-generator-55570.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

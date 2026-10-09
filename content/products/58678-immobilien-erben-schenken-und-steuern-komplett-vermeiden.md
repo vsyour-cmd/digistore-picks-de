@@ -1,6 +1,6 @@
 # Immobilien: Erben, Schenken und Steuern komplett vermeiden
 
-> Product ID `58678` · Digistore24 productId `733505` · [HTML profile page](../../reviews/immobilien-erben-schenken-und-steuern-komplett-vermeiden-58678.html)
+> Product ID `58678` · Digistore24 productId `733505` · [HTML profile page](../../produkte/immobilien-erben-schenken-und-steuern-komplett-vermeiden-58678.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

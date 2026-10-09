@@ -1,6 +1,6 @@
 # Minijob und Nebenjob leicht gemacht – Ratgeber + Minijob-Rec
 
-> Product ID `60265` · Digistore24 productId `741095` · [HTML profile page](../../reviews/minijob-und-nebenjob-leicht-gemacht-ratgeber-minijob-rec-60265.html)
+> Product ID `60265` · Digistore24 productId `741095` · [HTML profile page](../../produkte/minijob-und-nebenjob-leicht-gemacht-ratgeber-minijob-rec-60265.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

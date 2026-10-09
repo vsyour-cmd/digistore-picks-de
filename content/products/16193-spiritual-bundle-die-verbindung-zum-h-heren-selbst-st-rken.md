@@ -1,6 +1,6 @@
 # Spiritual Bundle – Die Verbindung zum höheren Selbst stärken
 
-> Product ID `16193` · Digistore24 productId `116847` · [HTML profile page](../../reviews/spiritual-bundle-die-verbindung-zum-h-heren-selbst-st-rken-16193.html)
+> Product ID `16193` · Digistore24 productId `116847` · [HTML profile page](../../produkte/spiritual-bundle-die-verbindung-zum-h-heren-selbst-st-rken-16193.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

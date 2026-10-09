@@ -1,6 +1,6 @@
 # Die Udemy Masterclass (15 Stunden Onlinekurs)
 
-> Product ID `27035` · Digistore24 productId `184381` · [HTML profile page](../../reviews/die-udemy-masterclass-15-stunden-onlinekurs-27035.html)
+> Product ID `27035` · Digistore24 productId `184381` · [HTML profile page](../../produkte/die-udemy-masterclass-15-stunden-onlinekurs-27035.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

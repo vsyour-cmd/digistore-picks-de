@@ -1,6 +1,6 @@
 # Trockenwerden ohne Druck – 50 % Provision auf Familien-Navigator
 
-> Product ID `59264` · Digistore24 productId `733839` · [HTML profile page](../../reviews/trockenwerden-ohne-druck-50-provision-auf-familien-navigator-59264.html)
+> Product ID `59264` · Digistore24 productId `733839` · [HTML profile page](../../produkte/trockenwerden-ohne-druck-50-provision-auf-familien-navigator-59264.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

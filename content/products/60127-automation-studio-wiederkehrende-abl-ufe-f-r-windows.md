@@ -1,6 +1,6 @@
 # Automation Studio – Wiederkehrende Abläufe für Windows
 
-> Product ID `60127` · Digistore24 productId `740613` · [HTML profile page](../../reviews/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html)
+> Product ID `60127` · Digistore24 productId `740613` · [HTML profile page](../../produkte/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

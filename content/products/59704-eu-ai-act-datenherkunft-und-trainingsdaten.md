@@ -1,6 +1,6 @@
 # EU AI Act – Datenherkunft und Trainingsdaten
 
-> Product ID `59704` · Digistore24 productId `652374` · [HTML profile page](../../reviews/eu-ai-act-datenherkunft-und-trainingsdaten-59704.html)
+> Product ID `59704` · Digistore24 productId `652374` · [HTML profile page](../../produkte/eu-ai-act-datenherkunft-und-trainingsdaten-59704.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

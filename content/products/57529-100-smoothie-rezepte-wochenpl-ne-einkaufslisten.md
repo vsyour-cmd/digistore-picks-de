@@ -1,6 +1,6 @@
 # 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten
 
-> Product ID `57529` · Digistore24 productId `711237` · [HTML profile page](../../reviews/100-smoothie-rezepte-wochenpl-ne-einkaufslisten-57529.html)
+> Product ID `57529` · Digistore24 productId `711237` · [HTML profile page](../../produkte/100-smoothie-rezepte-wochenpl-ne-einkaufslisten-57529.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

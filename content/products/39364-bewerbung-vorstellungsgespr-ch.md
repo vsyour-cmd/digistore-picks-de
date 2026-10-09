@@ -1,6 +1,6 @@
 # Bewerbung - Vorstellungsgespräch
 
-> Product ID `39364` · Digistore24 productId `433358` · [HTML profile page](../../reviews/bewerbung-vorstellungsgespr-ch-39364.html)
+> Product ID `39364` · Digistore24 productId `433358` · [HTML profile page](../../produkte/bewerbung-vorstellungsgespr-ch-39364.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

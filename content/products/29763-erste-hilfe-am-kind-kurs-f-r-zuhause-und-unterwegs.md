@@ -1,6 +1,6 @@
 # Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs
 
-> Product ID `29763` · Digistore24 productId `282703` · [HTML profile page](../../reviews/erste-hilfe-am-kind-kurs-f-r-zuhause-und-unterwegs-29763.html)
+> Product ID `29763` · Digistore24 productId `282703` · [HTML profile page](../../produkte/erste-hilfe-am-kind-kurs-f-r-zuhause-und-unterwegs-29763.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

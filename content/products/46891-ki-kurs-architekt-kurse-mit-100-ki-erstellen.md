@@ -1,6 +1,6 @@
 # KI-Kurs Architekt - Kurse mit 100% KI erstellen
 
-> Product ID `46891` · Digistore24 productId `535689` · [HTML profile page](../../reviews/ki-kurs-architekt-kurse-mit-100-ki-erstellen-46891.html)
+> Product ID `46891` · Digistore24 productId `535689` · [HTML profile page](../../produkte/ki-kurs-architekt-kurse-mit-100-ki-erstellen-46891.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

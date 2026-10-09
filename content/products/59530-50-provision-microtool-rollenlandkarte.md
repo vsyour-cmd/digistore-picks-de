@@ -1,6 +1,6 @@
 # 50% Provision: MicroTool RollenLandkarte
 
-> Product ID `59530` · Digistore24 productId `692789` · [HTML profile page](../../reviews/50-provision-microtool-rollenlandkarte-59530.html)
+> Product ID `59530` · Digistore24 productId `692789` · [HTML profile page](../../produkte/50-provision-microtool-rollenlandkarte-59530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

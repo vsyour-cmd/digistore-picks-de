@@ -1,6 +1,6 @@
 # Digitale Bachblüten – ein weltweit neuartiges Produkt
 
-> Product ID `55105` · Digistore24 productId `653727` · [HTML profile page](../../reviews/digitale-bachbl-ten-ein-weltweit-neuartiges-produkt-55105.html)
+> Product ID `55105` · Digistore24 productId `653727` · [HTML profile page](../../produkte/digitale-bachbl-ten-ein-weltweit-neuartiges-produkt-55105.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Digitale Vorlage Stundenplan für Kinder
 
-> Product ID `56140` · Digistore24 productId `680026` · [HTML profile page](../../reviews/digitale-vorlage-stundenplan-f-r-kinder-56140.html)
+> Product ID `56140` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlage-stundenplan-f-r-kinder-56140.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

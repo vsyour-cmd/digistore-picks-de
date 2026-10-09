@@ -1,6 +1,6 @@
 # Der große Familien-Wohnmobil-Guide
 
-> Product ID `58877` · Digistore24 productId `711041` · [HTML profile page](../../reviews/der-gro-e-familien-wohnmobil-guide-58877.html)
+> Product ID `58877` · Digistore24 productId `711041` · [HTML profile page](../../produkte/der-gro-e-familien-wohnmobil-guide-58877.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # The Affiliate Academy Plus
 
-> Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../reviews/the-affiliate-academy-plus-51269.html)
+> Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../produkte/the-affiliate-academy-plus-51269.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

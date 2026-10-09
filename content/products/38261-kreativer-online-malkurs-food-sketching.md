@@ -1,6 +1,6 @@
 # Kreativer online Malkurs "Food Sketching"
 
-> Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../reviews/kreativer-online-malkurs-food-sketching-38261.html)
+> Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../produkte/kreativer-online-malkurs-food-sketching-38261.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

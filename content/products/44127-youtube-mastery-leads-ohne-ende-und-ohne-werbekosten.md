@@ -1,6 +1,6 @@
 # YouTube Mastery - Leads ohne Ende und ohne Werbekosten
 
-> Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../reviews/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)
+> Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../produkte/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

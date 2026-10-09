@@ -1,6 +1,6 @@
 # Affiliate Marketing mit Pinterest und Amazon PartnerNet – Sc
 
-> Product ID `60114` · Digistore24 productId `739579` · [HTML profile page](../../reviews/affiliate-marketing-mit-pinterest-und-amazon-partnernet-sc-60114.html)
+> Product ID `60114` · Digistore24 productId `739579` · [HTML profile page](../../produkte/affiliate-marketing-mit-pinterest-und-amazon-partnernet-sc-60114.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # PLR-E-Book-Bundle
 
-> Product ID `57116` · Digistore24 productId `683631` · [HTML profile page](../../reviews/plr-e-book-bundle-57116.html)
+> Product ID `57116` · Digistore24 productId `683631` · [HTML profile page](../../produkte/plr-e-book-bundle-57116.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

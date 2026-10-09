@@ -1,6 +1,6 @@
 # Das Karriere Master-Kit für die medizinische Doktorarbeit
 
-> Product ID `59063` · Digistore24 productId `727266` · [HTML profile page](../../reviews/das-karriere-master-kit-f-r-die-medizinische-doktorarbeit-59063.html)
+> Product ID `59063` · Digistore24 productId `727266` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-die-medizinische-doktorarbeit-59063.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

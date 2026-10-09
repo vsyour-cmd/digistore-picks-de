@@ -1,6 +1,6 @@
 # Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler
 
-> Product ID `36527` · Digistore24 productId `13293` · [HTML profile page](../../reviews/keyboard-kurs-der-1000-tipps-f-r-fortgeschrittene-spieler-36527.html)
+> Product ID `36527` · Digistore24 productId `13293` · [HTML profile page](../../produkte/keyboard-kurs-der-1000-tipps-f-r-fortgeschrittene-spieler-36527.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Freelance-Agentur aufbauen
 
-> Product ID `57238` · Digistore24 productId `704216` · [HTML profile page](../../reviews/freelance-agentur-aufbauen-57238.html)
+> Product ID `57238` · Digistore24 productId `704216` · [HTML profile page](../../produkte/freelance-agentur-aufbauen-57238.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

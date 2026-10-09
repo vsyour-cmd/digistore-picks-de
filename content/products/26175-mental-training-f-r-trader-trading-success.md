@@ -1,6 +1,6 @@
 # Mental-Training für Trader - TRADING SUCCESS
 
-> Product ID `26175` · Digistore24 productId `377032` · [HTML profile page](../../reviews/mental-training-f-r-trader-trading-success-26175.html)
+> Product ID `26175` · Digistore24 productId `377032` · [HTML profile page](../../produkte/mental-training-f-r-trader-trading-success-26175.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

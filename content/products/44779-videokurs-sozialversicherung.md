@@ -1,6 +1,6 @@
 # Videokurs: Sozialversicherung
 
-> Product ID `44779` · Digistore24 productId `423080` · [HTML profile page](../../reviews/videokurs-sozialversicherung-44779.html)
+> Product ID `44779` · Digistore24 productId `423080` · [HTML profile page](../../produkte/videokurs-sozialversicherung-44779.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

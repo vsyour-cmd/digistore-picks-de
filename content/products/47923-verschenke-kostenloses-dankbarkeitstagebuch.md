@@ -1,6 +1,6 @@
 # VERSCHENKE: Kostenloses Dankbarkeitstagebuch
 
-> Product ID `47923` · Digistore24 productId `549630` · [HTML profile page](../../reviews/verschenke-kostenloses-dankbarkeitstagebuch-47923.html)
+> Product ID `47923` · Digistore24 productId `549630` · [HTML profile page](../../produkte/verschenke-kostenloses-dankbarkeitstagebuch-47923.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

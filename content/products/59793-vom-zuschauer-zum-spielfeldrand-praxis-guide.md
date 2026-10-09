@@ -1,6 +1,6 @@
 # Vom Zuschauer zum Spielfeldrand | Praxis-Guide
 
-> Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../reviews/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)
+> Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../produkte/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

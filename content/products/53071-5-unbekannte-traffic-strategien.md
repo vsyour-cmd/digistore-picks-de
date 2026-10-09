@@ -1,6 +1,6 @@
 # 5 unbekannte Traffic-Strategien
 
-> Product ID `53071` · Digistore24 productId `603631` · [HTML profile page](../../reviews/5-unbekannte-traffic-strategien-53071.html)
+> Product ID `53071` · Digistore24 productId `603631` · [HTML profile page](../../produkte/5-unbekannte-traffic-strategien-53071.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

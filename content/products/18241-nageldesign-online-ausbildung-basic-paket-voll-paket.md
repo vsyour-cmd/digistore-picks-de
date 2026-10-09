@@ -1,6 +1,6 @@
 # Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)
 
-> Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../reviews/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)
+> Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../produkte/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

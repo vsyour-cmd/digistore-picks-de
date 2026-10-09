@@ -1,6 +1,6 @@
 # Pflegende Angehörige Wie du für andere da sein kannst, ohne
 
-> Product ID `58128` · Digistore24 productId `717925` · [HTML profile page](../../reviews/pflegende-angeh-rige-wie-du-f-r-andere-da-sein-kannst-ohne-58128.html)
+> Product ID `58128` · Digistore24 productId `717925` · [HTML profile page](../../produkte/pflegende-angeh-rige-wie-du-f-r-andere-da-sein-kannst-ohne-58128.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

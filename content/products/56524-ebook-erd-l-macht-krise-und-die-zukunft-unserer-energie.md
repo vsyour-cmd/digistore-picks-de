@@ -1,6 +1,6 @@
 # Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie
 
-> Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../reviews/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)
+> Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../produkte/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Darmtagebuch – 8 Wochen Klarheit im Alltag
 
-> Product ID `60172` · Digistore24 productId `741326` · [HTML profile page](../../reviews/darmtagebuch-8-wochen-klarheit-im-alltag-60172.html)
+> Product ID `60172` · Digistore24 productId `741326` · [HTML profile page](../../produkte/darmtagebuch-8-wochen-klarheit-im-alltag-60172.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Das 90/10-System – In 7 Schritten zu deinem ersten digitalen
 
-> Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../reviews/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)
+> Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../produkte/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # VIDEOKURS "Seife einfach selber machen"
 
-> Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../reviews/videokurs-seife-einfach-selber-machen-20955.html)
+> Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../produkte/videokurs-seife-einfach-selber-machen-20955.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

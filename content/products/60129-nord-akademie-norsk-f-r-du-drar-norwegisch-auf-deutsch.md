@@ -1,6 +1,6 @@
 # NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch
 
-> Product ID `60129` · Digistore24 productId `733774` · [HTML profile page](../../reviews/nord-akademie-norsk-f-r-du-drar-norwegisch-auf-deutsch-60129.html)
+> Product ID `60129` · Digistore24 productId `733774` · [HTML profile page](../../produkte/nord-akademie-norsk-f-r-du-drar-norwegisch-auf-deutsch-60129.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

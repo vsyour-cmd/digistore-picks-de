@@ -1,6 +1,6 @@
 # Buchführung einfach erklärt - für Ausbildung, Beruf und mehr
 
-> Product ID `52155` · Digistore24 productId `607730` · [HTML profile page](../../reviews/buchf-hrung-einfach-erkl-rt-f-r-ausbildung-beruf-und-mehr-52155.html)
+> Product ID `52155` · Digistore24 productId `607730` · [HTML profile page](../../produkte/buchf-hrung-einfach-erkl-rt-f-r-ausbildung-beruf-und-mehr-52155.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI Online Kurs Masterclass
 
-> Product ID `47705` · Digistore24 productId `546649` · [HTML profile page](../../reviews/ki-online-kurs-masterclass-47705.html)
+> Product ID `47705` · Digistore24 productId `546649` · [HTML profile page](../../produkte/ki-online-kurs-masterclass-47705.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

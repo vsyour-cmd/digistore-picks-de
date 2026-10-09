@@ -1,6 +1,6 @@
 # AI Funnels in 5 Minuten (Freebie)
 
-> Product ID `55234` · Digistore24 productId `661679` · [HTML profile page](../../reviews/ai-funnels-in-5-minuten-freebie-55234.html)
+> Product ID `55234` · Digistore24 productId `661679` · [HTML profile page](../../produkte/ai-funnels-in-5-minuten-freebie-55234.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

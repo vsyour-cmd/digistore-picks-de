@@ -1,6 +1,6 @@
 # Mit einer kraftvollen Haltung von innen heraus!
 
-> Product ID `34702` · Digistore24 productId `353666` · [HTML profile page](../../reviews/mit-einer-kraftvollen-haltung-von-innen-heraus-34702.html)
+> Product ID `34702` · Digistore24 productId `353666` · [HTML profile page](../../produkte/mit-einer-kraftvollen-haltung-von-innen-heraus-34702.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

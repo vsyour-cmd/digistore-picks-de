@@ -1,6 +1,6 @@
 # KREDITE VON PRIVAT
 
-> Product ID `6173` · Digistore24 productId `41181` · [HTML profile page](../../reviews/kredite-von-privat-6173.html)
+> Product ID `6173` · Digistore24 productId `41181` · [HTML profile page](../../produkte/kredite-von-privat-6173.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

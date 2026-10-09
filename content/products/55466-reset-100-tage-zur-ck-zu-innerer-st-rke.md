@@ -1,6 +1,6 @@
 # RESET 100 Tage zurück zu innerer Stärke
 
-> Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../reviews/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)
+> Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../produkte/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

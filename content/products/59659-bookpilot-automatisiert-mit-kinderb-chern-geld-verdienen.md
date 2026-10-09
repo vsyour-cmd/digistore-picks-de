@@ -1,6 +1,6 @@
 # BookPilot - Automatisiert mit Kinderbüchern Geld verdienen
 
-> Product ID `59659` · Digistore24 productId `735224` · [HTML profile page](../../reviews/bookpilot-automatisiert-mit-kinderb-chern-geld-verdienen-59659.html)
+> Product ID `59659` · Digistore24 productId `735224` · [HTML profile page](../../produkte/bookpilot-automatisiert-mit-kinderb-chern-geld-verdienen-59659.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

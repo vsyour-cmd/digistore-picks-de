@@ -1,6 +1,6 @@
 # Tiktok System New Checkout
 
-> Product ID `55235` · Digistore24 productId `662442` · [HTML profile page](../../reviews/tiktok-system-new-checkout-55235.html)
+> Product ID `55235` · Digistore24 productId `662442` · [HTML profile page](../../produkte/tiktok-system-new-checkout-55235.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

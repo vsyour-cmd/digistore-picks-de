@@ -1,6 +1,6 @@
 # KI Cash Secrets
 
-> Product ID `47783` · Digistore24 productId `547805` · [HTML profile page](../../reviews/ki-cash-secrets-47783.html)
+> Product ID `47783` · Digistore24 productId `547805` · [HTML profile page](../../produkte/ki-cash-secrets-47783.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Feng Shui Ausbildung, Zertifiziert
 
-> Product ID `39664` · Digistore24 productId `422725` · [HTML profile page](../../reviews/feng-shui-ausbildung-zertifiziert-39664.html)
+> Product ID `39664` · Digistore24 productId `422725` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-39664.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

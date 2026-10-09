@@ -1,6 +1,6 @@
 # Krebs und Stoffwechsel. Wie ketogene Ernährung Perspektiven
 
-> Product ID `56650` · Digistore24 productId `694511` · [HTML profile page](../../reviews/krebs-und-stoffwechsel-wie-ketogene-ern-hrung-perspektiven-56650.html)
+> Product ID `56650` · Digistore24 productId `694511` · [HTML profile page](../../produkte/krebs-und-stoffwechsel-wie-ketogene-ern-hrung-perspektiven-56650.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

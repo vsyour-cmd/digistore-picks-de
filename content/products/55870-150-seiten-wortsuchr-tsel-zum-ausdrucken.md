@@ -1,6 +1,6 @@
 # 150 Seiten Wortsuchrätsel zum Ausdrucken
 
-> Product ID `55870` · Digistore24 productId `661805` · [HTML profile page](../../reviews/150-seiten-wortsuchr-tsel-zum-ausdrucken-55870.html)
+> Product ID `55870` · Digistore24 productId `661805` · [HTML profile page](../../produkte/150-seiten-wortsuchr-tsel-zum-ausdrucken-55870.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

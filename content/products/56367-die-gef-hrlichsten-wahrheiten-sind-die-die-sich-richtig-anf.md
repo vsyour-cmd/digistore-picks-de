@@ -1,6 +1,6 @@
 # DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF
 
-> Product ID `56367` · Digistore24 productId `687847` · [HTML profile page](../../reviews/die-gef-hrlichsten-wahrheiten-sind-die-die-sich-richtig-anf-56367.html)
+> Product ID `56367` · Digistore24 productId `687847` · [HTML profile page](../../produkte/die-gef-hrlichsten-wahrheiten-sind-die-die-sich-richtig-anf-56367.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

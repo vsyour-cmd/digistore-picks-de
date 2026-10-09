@@ -1,6 +1,6 @@
 # Online-Business bei Null starten – Praxisguide 2026
 
-> Product ID `58820` · Digistore24 productId `494495` · [HTML profile page](../../reviews/online-business-bei-null-starten-praxisguide-2026-58820.html)
+> Product ID `58820` · Digistore24 productId `494495` · [HTML profile page](../../produkte/online-business-bei-null-starten-praxisguide-2026-58820.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

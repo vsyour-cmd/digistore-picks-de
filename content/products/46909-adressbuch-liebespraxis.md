@@ -1,6 +1,6 @@
 # Adressbuch Liebespraxis
 
-> Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../reviews/adressbuch-liebespraxis-46909.html)
+> Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../produkte/adressbuch-liebespraxis-46909.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

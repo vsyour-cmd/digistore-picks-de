@@ -1,6 +1,6 @@
 # 1000+ ChatGPT Prompts für Affiliate Marketing Workbook
 
-> Product ID `47683` · Digistore24 productId `545559` · [HTML profile page](../../reviews/1000-chatgpt-prompts-f-r-affiliate-marketing-workbook-47683.html)
+> Product ID `47683` · Digistore24 productId `545559` · [HTML profile page](../../produkte/1000-chatgpt-prompts-f-r-affiliate-marketing-workbook-47683.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)
 
-> Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../reviews/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)
+> Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../produkte/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

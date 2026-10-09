@@ -1,6 +1,6 @@
 # KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI
 
-> Product ID `58892` · Digistore24 productId `727271` · [HTML profile page](../../reviews/ki-kursportal-onlinekurs-flatrate-mit-schwerpunkt-ki-58892.html)
+> Product ID `58892` · Digistore24 productId `727271` · [HTML profile page](../../produkte/ki-kursportal-onlinekurs-flatrate-mit-schwerpunkt-ki-58892.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

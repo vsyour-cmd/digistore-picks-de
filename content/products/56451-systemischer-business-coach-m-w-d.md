@@ -1,6 +1,6 @@
 # Systemischer Business-Coach (m/w/d)
 
-> Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../reviews/systemischer-business-coach-m-w-d-56451.html)
+> Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../produkte/systemischer-business-coach-m-w-d-56451.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

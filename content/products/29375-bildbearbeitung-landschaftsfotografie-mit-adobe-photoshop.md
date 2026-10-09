@@ -1,6 +1,6 @@
 # Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop
 
-> Product ID `29375` · Digistore24 productId `106293` · [HTML profile page](../../reviews/bildbearbeitung-landschaftsfotografie-mit-adobe-photoshop-29375.html)
+> Product ID `29375` · Digistore24 productId `106293` · [HTML profile page](../../produkte/bildbearbeitung-landschaftsfotografie-mit-adobe-photoshop-29375.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Udemy Code (228 Seiten E-Book)
 
-> Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../reviews/der-udemy-code-228-seiten-e-book-28904.html)
+> Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../produkte/der-udemy-code-228-seiten-e-book-28904.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

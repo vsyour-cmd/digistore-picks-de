@@ -1,6 +1,6 @@
 # Online Videokurs
 
-> Product ID `45526` · Digistore24 productId `517496` · [HTML profile page](../../reviews/online-videokurs-45526.html)
+> Product ID `45526` · Digistore24 productId `517496` · [HTML profile page](../../produkte/online-videokurs-45526.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

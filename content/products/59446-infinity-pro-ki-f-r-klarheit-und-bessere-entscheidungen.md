@@ -1,6 +1,6 @@
 # INFINITY PRO KI für Klarheit und bessere Entscheidungen
 
-> Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../reviews/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)
+> Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../produkte/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

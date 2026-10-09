@@ -1,6 +1,6 @@
 # Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten
 
-> Product ID `59373` · Digistore24 productId `733172` · [HTML profile page](../../reviews/wohngeld-klar-2026-27-antrag-verstehen-und-vorbereiten-59373.html)
+> Product ID `59373` · Digistore24 productId `733172` · [HTML profile page](../../produkte/wohngeld-klar-2026-27-antrag-verstehen-und-vorbereiten-59373.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

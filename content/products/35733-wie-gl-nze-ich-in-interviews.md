@@ -1,6 +1,6 @@
 # Wie glänze ich in Interviews?
 
-> Product ID `35733` · Digistore24 productId `373521` · [HTML profile page](../../reviews/wie-gl-nze-ich-in-interviews-35733.html)
+> Product ID `35733` · Digistore24 productId `373521` · [HTML profile page](../../produkte/wie-gl-nze-ich-in-interviews-35733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

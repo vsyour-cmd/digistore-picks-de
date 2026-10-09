@@ -1,6 +1,6 @@
 # Affiliate Cash Club
 
-> Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../reviews/affiliate-cash-club-39052.html)
+> Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

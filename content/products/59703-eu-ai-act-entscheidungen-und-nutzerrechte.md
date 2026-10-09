@@ -1,6 +1,6 @@
 # EU AI Act – Entscheidungen und Nutzerrechte
 
-> Product ID `59703` · Digistore24 productId `652400` · [HTML profile page](../../reviews/eu-ai-act-entscheidungen-und-nutzerrechte-59703.html)
+> Product ID `59703` · Digistore24 productId `652400` · [HTML profile page](../../produkte/eu-ai-act-entscheidungen-und-nutzerrechte-59703.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

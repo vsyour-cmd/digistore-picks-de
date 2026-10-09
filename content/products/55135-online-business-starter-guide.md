@@ -1,6 +1,6 @@
 # Online Business Starter-Guide
 
-> Product ID `55135` · Digistore24 productId `658902` · [HTML profile page](../../reviews/online-business-starter-guide-55135.html)
+> Product ID `55135` · Digistore24 productId `658902` · [HTML profile page](../../produkte/online-business-starter-guide-55135.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

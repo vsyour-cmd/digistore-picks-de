@@ -1,6 +1,6 @@
 # Intensivkurs Cello
 
-> Product ID `31905` · Digistore24 productId `387861` · [HTML profile page](../../reviews/intensivkurs-cello-31905.html)
+> Product ID `31905` · Digistore24 productId `387861` · [HTML profile page](../../produkte/intensivkurs-cello-31905.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

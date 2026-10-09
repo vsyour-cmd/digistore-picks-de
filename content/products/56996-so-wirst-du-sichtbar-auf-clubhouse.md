@@ -1,6 +1,6 @@
 # So wirst du sichtbar auf Clubhouse
 
-> Product ID `56996` · Digistore24 productId `701416` · [HTML profile page](../../reviews/so-wirst-du-sichtbar-auf-clubhouse-56996.html)
+> Product ID `56996` · Digistore24 productId `701416` · [HTML profile page](../../produkte/so-wirst-du-sichtbar-auf-clubhouse-56996.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

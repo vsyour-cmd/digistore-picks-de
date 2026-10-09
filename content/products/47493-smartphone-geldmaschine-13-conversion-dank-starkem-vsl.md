@@ -1,6 +1,6 @@
 # Smartphone Geldmaschine - 13% Conversion dank starkem VSL
 
-> Product ID `47493` · Digistore24 productId `525405` · [HTML profile page](../../reviews/smartphone-geldmaschine-13-conversion-dank-starkem-vsl-47493.html)
+> Product ID `47493` · Digistore24 productId `525405` · [HTML profile page](../../produkte/smartphone-geldmaschine-13-conversion-dank-starkem-vsl-47493.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dividenden-Strategie
 
-> Product ID `57254` · Digistore24 productId `704232` · [HTML profile page](../../reviews/dividenden-strategie-57254.html)
+> Product ID `57254` · Digistore24 productId `704232` · [HTML profile page](../../produkte/dividenden-strategie-57254.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

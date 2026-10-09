@@ -1,6 +1,6 @@
 # Finde dich selbst Kongress
 
-> Product ID `53708` · Digistore24 productId `630271` · [HTML profile page](../../reviews/finde-dich-selbst-kongress-53708.html)
+> Product ID `53708` · Digistore24 productId `630271` · [HTML profile page](../../produkte/finde-dich-selbst-kongress-53708.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

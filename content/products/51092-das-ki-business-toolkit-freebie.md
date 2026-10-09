@@ -1,6 +1,6 @@
 # Das KI Business Toolkit (Freebie)
 
-> Product ID `51092` · Digistore24 productId `590210` · [HTML profile page](../../reviews/das-ki-business-toolkit-freebie-51092.html)
+> Product ID `51092` · Digistore24 productId `590210` · [HTML profile page](../../produkte/das-ki-business-toolkit-freebie-51092.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

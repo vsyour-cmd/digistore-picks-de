@@ -1,6 +1,6 @@
 # Rescue Stick - Erste Hilfe Paket für Windows
 
-> Product ID `51985` · Digistore24 productId `518675` · [HTML profile page](../../reviews/rescue-stick-erste-hilfe-paket-f-r-windows-51985.html)
+> Product ID `51985` · Digistore24 productId `518675` · [HTML profile page](../../produkte/rescue-stick-erste-hilfe-paket-f-r-windows-51985.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

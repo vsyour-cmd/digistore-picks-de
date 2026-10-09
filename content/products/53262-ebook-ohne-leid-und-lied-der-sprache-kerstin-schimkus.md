@@ -1,6 +1,6 @@
 # eBook "Ohne Leid und Lied der Sprache" Kerstin Schimkus
 
-> Product ID `53262` · Digistore24 productId `624962` · [HTML profile page](../../reviews/ebook-ohne-leid-und-lied-der-sprache-kerstin-schimkus-53262.html)
+> Product ID `53262` · Digistore24 productId `624962` · [HTML profile page](../../produkte/ebook-ohne-leid-und-lied-der-sprache-kerstin-schimkus-53262.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI Fluencer
 
-> Product ID `55694` · Digistore24 productId `638320` · [HTML profile page](../../reviews/ki-fluencer-55694.html)
+> Product ID `55694` · Digistore24 productId `638320` · [HTML profile page](../../produkte/ki-fluencer-55694.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

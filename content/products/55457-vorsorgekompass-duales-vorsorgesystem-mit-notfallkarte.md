@@ -1,6 +1,6 @@
 # Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte
 
-> Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../reviews/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)
+> Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../produkte/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

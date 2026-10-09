@@ -1,6 +1,6 @@
 # Workbook-Bundle „Unterlagen-Check"
 
-> Product ID `57096` · Digistore24 productId `676905` · [HTML profile page](../../reviews/workbook-bundle-unterlagen-check-57096.html)
+> Product ID `57096` · Digistore24 productId `676905` · [HTML profile page](../../produkte/workbook-bundle-unterlagen-check-57096.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

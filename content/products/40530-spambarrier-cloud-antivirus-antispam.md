@@ -1,6 +1,6 @@
 # Spambarrier Cloud Antivirus / Antispam
 
-> Product ID `40530` · Digistore24 productId `449534` · [HTML profile page](../../reviews/spambarrier-cloud-antivirus-antispam-40530.html)
+> Product ID `40530` · Digistore24 productId `449534` · [HTML profile page](../../produkte/spambarrier-cloud-antivirus-antispam-40530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

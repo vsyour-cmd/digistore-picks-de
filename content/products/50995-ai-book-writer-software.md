@@ -1,6 +1,6 @@
 # AI Book Writer Software
 
-> Product ID `50995` · Digistore24 productId `590928` · [HTML profile page](../../reviews/ai-book-writer-software-50995.html)
+> Product ID `50995` · Digistore24 productId `590928` · [HTML profile page](../../produkte/ai-book-writer-software-50995.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

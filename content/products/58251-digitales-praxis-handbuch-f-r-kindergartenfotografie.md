@@ -1,6 +1,6 @@
 # Digitales Praxis-Handbuch für Kindergartenfotografie
 
-> Product ID `58251` · Digistore24 productId `719271` · [HTML profile page](../../reviews/digitales-praxis-handbuch-f-r-kindergartenfotografie-58251.html)
+> Product ID `58251` · Digistore24 productId `719271` · [HTML profile page](../../produkte/digitales-praxis-handbuch-f-r-kindergartenfotografie-58251.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

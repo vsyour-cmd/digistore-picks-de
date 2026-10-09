@@ -1,6 +1,6 @@
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
-> Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../reviews/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
+> Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../produkte/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

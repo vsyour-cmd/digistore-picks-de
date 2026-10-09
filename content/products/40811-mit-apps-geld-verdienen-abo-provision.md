@@ -1,6 +1,6 @@
 # Mit Apps Geld verdienen - Abo Provision!
 
-> Product ID `40811` · Digistore24 productId `454379` · [HTML profile page](../../reviews/mit-apps-geld-verdienen-abo-provision-40811.html)
+> Product ID `40811` · Digistore24 productId `454379` · [HTML profile page](../../produkte/mit-apps-geld-verdienen-abo-provision-40811.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

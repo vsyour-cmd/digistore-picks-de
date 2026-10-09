@@ -1,6 +1,6 @@
 # ETERNUM Instagram Growth Workbook – Nischenprodukt für Creat
 
-> Product ID `56870` · Digistore24 productId `699152` · [HTML profile page](../../reviews/eternum-instagram-growth-workbook-nischenprodukt-f-r-creat-56870.html)
+> Product ID `56870` · Digistore24 productId `699152` · [HTML profile page](../../produkte/eternum-instagram-growth-workbook-nischenprodukt-f-r-creat-56870.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # High Frequency Kongress 4 - VIP Paket + Bundle
 
-> Product ID `51595` · Digistore24 productId `568283` · [HTML profile page](../../reviews/high-frequency-kongress-4-vip-paket-bundle-51595.html)
+> Product ID `51595` · Digistore24 productId `568283` · [HTML profile page](../../produkte/high-frequency-kongress-4-vip-paket-bundle-51595.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

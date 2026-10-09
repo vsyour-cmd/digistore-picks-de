@@ -1,6 +1,6 @@
 # Rauhnächte Workbook
 
-> Product ID `55764` · Digistore24 productId `569395` · [HTML profile page](../../reviews/rauhn-chte-workbook-55764.html)
+> Product ID `55764` · Digistore24 productId `569395` · [HTML profile page](../../produkte/rauhn-chte-workbook-55764.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

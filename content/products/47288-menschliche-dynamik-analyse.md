@@ -1,6 +1,6 @@
 # Menschliche Dynamik​ - Analyse
 
-> Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../reviews/menschliche-dynamik-analyse-47288.html)
+> Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../produkte/menschliche-dynamik-analyse-47288.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

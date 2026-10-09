@@ -1,6 +1,6 @@
 # Ayurveda-Lehrbuch Ebook (PDF und EPUP)
 
-> Product ID `53519` · Digistore24 productId `628412` · [HTML profile page](../../reviews/ayurveda-lehrbuch-ebook-pdf-und-epup-53519.html)
+> Product ID `53519` · Digistore24 productId `628412` · [HTML profile page](../../produkte/ayurveda-lehrbuch-ebook-pdf-und-epup-53519.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

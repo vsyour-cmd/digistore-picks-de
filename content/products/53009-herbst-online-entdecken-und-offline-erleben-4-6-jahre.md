@@ -1,6 +1,6 @@
 # Herbst online entdecken und offline erleben (4–6 Jahre)
 
-> Product ID `53009` · Digistore24 productId `616678` · [HTML profile page](../../reviews/herbst-online-entdecken-und-offline-erleben-4-6-jahre-53009.html)
+> Product ID `53009` · Digistore24 productId `616678` · [HTML profile page](../../produkte/herbst-online-entdecken-und-offline-erleben-4-6-jahre-53009.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

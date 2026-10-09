@@ -1,6 +1,6 @@
 # Todesfall leicht gemacht – Ratgeber mit Todesfall-Planer
 
-> Product ID `60343` · Digistore24 productId `741723` · [HTML profile page](../../reviews/todesfall-leicht-gemacht-ratgeber-mit-todesfall-planer-60343.html)
+> Product ID `60343` · Digistore24 productId `741723` · [HTML profile page](../../produkte/todesfall-leicht-gemacht-ratgeber-mit-todesfall-planer-60343.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

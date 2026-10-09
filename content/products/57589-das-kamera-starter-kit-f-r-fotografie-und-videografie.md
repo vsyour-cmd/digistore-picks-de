@@ -1,6 +1,6 @@
 # Das Kamera-Starter-Kit für Fotografie und Videografie.
 
-> Product ID `57589` · Digistore24 productId `710700` · [HTML profile page](../../reviews/das-kamera-starter-kit-f-r-fotografie-und-videografie-57589.html)
+> Product ID `57589` · Digistore24 productId `710700` · [HTML profile page](../../produkte/das-kamera-starter-kit-f-r-fotografie-und-videografie-57589.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

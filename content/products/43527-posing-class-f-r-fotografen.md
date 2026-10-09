@@ -1,6 +1,6 @@
 # POSING CLASS für Fotografen
 
-> Product ID `43527` · Digistore24 productId `281004` · [HTML profile page](../../reviews/posing-class-f-r-fotografen-43527.html)
+> Product ID `43527` · Digistore24 productId `281004` · [HTML profile page](../../produkte/posing-class-f-r-fotografen-43527.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

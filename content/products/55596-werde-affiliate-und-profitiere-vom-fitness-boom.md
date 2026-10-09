@@ -1,6 +1,6 @@
 # Werde Affiliate und profitiere vom Fitness-Boom
 
-> Product ID `55596` · Digistore24 productId `667201` · [HTML profile page](../../reviews/werde-affiliate-und-profitiere-vom-fitness-boom-55596.html)
+> Product ID `55596` · Digistore24 productId `667201` · [HTML profile page](../../produkte/werde-affiliate-und-profitiere-vom-fitness-boom-55596.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

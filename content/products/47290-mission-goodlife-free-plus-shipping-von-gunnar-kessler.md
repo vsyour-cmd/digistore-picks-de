@@ -1,6 +1,6 @@
 # Mission: Goodlife Free plus Shipping - von Gunnar Kessler
 
-> Product ID `47290` · Digistore24 productId `484846` · [HTML profile page](../../reviews/mission-goodlife-free-plus-shipping-von-gunnar-kessler-47290.html)
+> Product ID `47290` · Digistore24 productId `484846` · [HTML profile page](../../produkte/mission-goodlife-free-plus-shipping-von-gunnar-kessler-47290.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

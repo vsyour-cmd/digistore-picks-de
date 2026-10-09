@@ -1,6 +1,6 @@
 # Der Ernährungs-Blueprint und Stoffwechsel-Reset
 
-> Product ID `59060` · Digistore24 productId `727614` · [HTML profile page](../../reviews/der-ern-hrungs-blueprint-und-stoffwechsel-reset-59060.html)
+> Product ID `59060` · Digistore24 productId `727614` · [HTML profile page](../../produkte/der-ern-hrungs-blueprint-und-stoffwechsel-reset-59060.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI TEXT SERVICE
 
-> Product ID `47566` · Digistore24 productId `545133` · [HTML profile page](../../reviews/ki-text-service-47566.html)
+> Product ID `47566` · Digistore24 productId `545133` · [HTML profile page](../../produkte/ki-text-service-47566.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

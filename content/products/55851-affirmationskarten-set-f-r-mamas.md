@@ -1,6 +1,6 @@
 # Affirmationskarten-Set für Mamas
 
-> Product ID `55851` · Digistore24 productId `672302` · [HTML profile page](../../reviews/affirmationskarten-set-f-r-mamas-55851.html)
+> Product ID `55851` · Digistore24 productId `672302` · [HTML profile page](../../produkte/affirmationskarten-set-f-r-mamas-55851.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

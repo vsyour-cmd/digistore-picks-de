@@ -1,6 +1,6 @@
 # Die Spürnasen feiern das Jahreskreisfest Lughnasadh
 
-> Product ID `53295` · Digistore24 productId `620786` · [HTML profile page](../../reviews/die-sp-rnasen-feiern-das-jahreskreisfest-lughnasadh-53295.html)
+> Product ID `53295` · Digistore24 productId `620786` · [HTML profile page](../../produkte/die-sp-rnasen-feiern-das-jahreskreisfest-lughnasadh-53295.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

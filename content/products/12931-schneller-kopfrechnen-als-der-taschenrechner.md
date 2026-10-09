@@ -1,6 +1,6 @@
 # Schneller kopfrechnen als der Taschenrechner
 
-> Product ID `12931` · Digistore24 productId `24453` · [HTML profile page](../../reviews/schneller-kopfrechnen-als-der-taschenrechner-12931.html)
+> Product ID `12931` · Digistore24 productId `24453` · [HTML profile page](../../produkte/schneller-kopfrechnen-als-der-taschenrechner-12931.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Schlank mit Verstand für Frauen ab 40
 
-> Product ID `54868` · Digistore24 productId `651085` · [HTML profile page](../../reviews/schlank-mit-verstand-f-r-frauen-ab-40-54868.html)
+> Product ID `54868` · Digistore24 productId `651085` · [HTML profile page](../../produkte/schlank-mit-verstand-f-r-frauen-ab-40-54868.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

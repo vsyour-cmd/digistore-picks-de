@@ -1,6 +1,6 @@
 # Silent Subliminals Geld - Wohlstand magnetisch anziehen
 
-> Product ID `41938` · Digistore24 productId `421450` · [HTML profile page](../../reviews/silent-subliminals-geld-wohlstand-magnetisch-anziehen-41938.html)
+> Product ID `41938` · Digistore24 productId `421450` · [HTML profile page](../../produkte/silent-subliminals-geld-wohlstand-magnetisch-anziehen-41938.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

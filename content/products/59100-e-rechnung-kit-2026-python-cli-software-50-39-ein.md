@@ -1,6 +1,6 @@
 # E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein
 
-> Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../reviews/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)
+> Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../produkte/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

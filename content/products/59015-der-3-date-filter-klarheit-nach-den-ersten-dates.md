@@ -1,6 +1,6 @@
 # Der 3-Date-Filter – Klarheit nach den ersten Dates
 
-> Product ID `59015` · Digistore24 productId `711057` · [HTML profile page](../../reviews/der-3-date-filter-klarheit-nach-den-ersten-dates-59015.html)
+> Product ID `59015` · Digistore24 productId `711057` · [HTML profile page](../../produkte/der-3-date-filter-klarheit-nach-den-ersten-dates-59015.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

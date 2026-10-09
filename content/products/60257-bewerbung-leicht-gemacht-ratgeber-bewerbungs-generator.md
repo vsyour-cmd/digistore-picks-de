@@ -1,6 +1,6 @@
 # Bewerbung leicht gemacht – Ratgeber + Bewerbungs-Generator
 
-> Product ID `60257` · Digistore24 productId `740689` · [HTML profile page](../../reviews/bewerbung-leicht-gemacht-ratgeber-bewerbungs-generator-60257.html)
+> Product ID `60257` · Digistore24 productId `740689` · [HTML profile page](../../produkte/bewerbung-leicht-gemacht-ratgeber-bewerbungs-generator-60257.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

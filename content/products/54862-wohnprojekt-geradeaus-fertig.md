@@ -1,6 +1,6 @@
 # Wohnprojekt. Geradeaus. Fertig.
 
-> Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../reviews/wohnprojekt-geradeaus-fertig-54862.html)
+> Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../produkte/wohnprojekt-geradeaus-fertig-54862.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

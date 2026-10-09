@@ -1,6 +1,6 @@
 # Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
-> Product ID `60174` · Digistore24 productId `726272` · [HTML profile page](../../reviews/handwerker-ki-b-ro-30-provision-auf-39-starter-paket-60174.html)
+> Product ID `60174` · Digistore24 productId `726272` · [HTML profile page](../../produkte/handwerker-ki-b-ro-30-provision-auf-39-starter-paket-60174.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

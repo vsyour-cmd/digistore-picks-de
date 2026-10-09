@@ -1,6 +1,6 @@
 # Content System – Network Edition
 
-> Product ID `58873` · Digistore24 productId `728372` · [HTML profile page](../../reviews/content-system-network-edition-58873.html)
+> Product ID `58873` · Digistore24 productId `728372` · [HTML profile page](../../produkte/content-system-network-edition-58873.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

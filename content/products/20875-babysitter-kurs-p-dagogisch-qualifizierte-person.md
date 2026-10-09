@@ -1,6 +1,6 @@
 # Babysitter-Kurs: "Pädagogisch qualifizierte Person"
 
-> Product ID `20875` · Digistore24 productId `116929` · [HTML profile page](../../reviews/babysitter-kurs-p-dagogisch-qualifizierte-person-20875.html)
+> Product ID `20875` · Digistore24 productId `116929` · [HTML profile page](../../produkte/babysitter-kurs-p-dagogisch-qualifizierte-person-20875.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

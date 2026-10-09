@@ -1,6 +1,6 @@
 # Dejan Sekulics Amazon Bestseller Buch (Taschenbuch)
 
-> Product ID `44683` · Digistore24 productId `506655` · [HTML profile page](../../reviews/dejan-sekulics-amazon-bestseller-buch-taschenbuch-44683.html)
+> Product ID `44683` · Digistore24 productId `506655` · [HTML profile page](../../produkte/dejan-sekulics-amazon-bestseller-buch-taschenbuch-44683.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

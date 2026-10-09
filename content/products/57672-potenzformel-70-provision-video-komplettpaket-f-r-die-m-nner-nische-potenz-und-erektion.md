@@ -1,6 +1,6 @@
 # PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)
 
-> Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../reviews/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)
+> Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

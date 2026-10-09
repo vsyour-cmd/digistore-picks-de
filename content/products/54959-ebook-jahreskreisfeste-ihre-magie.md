@@ -1,6 +1,6 @@
 # eBook - Jahreskreisfeste & ihre Magie
 
-> Product ID `54959` · Digistore24 productId `653900` · [HTML profile page](../../reviews/ebook-jahreskreisfeste-ihre-magie-54959.html)
+> Product ID `54959` · Digistore24 productId `653900` · [HTML profile page](../../produkte/ebook-jahreskreisfeste-ihre-magie-54959.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

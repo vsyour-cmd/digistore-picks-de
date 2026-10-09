@@ -1,6 +1,6 @@
 # Rechenreise Band 2 – Rechen-Malbuch für die 2. Klasse (PDF)
 
-> Product ID `58298` · Digistore24 productId `720380` · [HTML profile page](../../reviews/rechenreise-band-2-rechen-malbuch-f-r-die-2-klasse-pdf-58298.html)
+> Product ID `58298` · Digistore24 productId `720380` · [HTML profile page](../../produkte/rechenreise-band-2-rechen-malbuch-f-r-die-2-klasse-pdf-58298.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

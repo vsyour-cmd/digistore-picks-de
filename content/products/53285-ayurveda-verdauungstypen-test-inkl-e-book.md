@@ -1,6 +1,6 @@
 # Ayurveda-Verdauungstypen-Test inkl. E-Book
 
-> Product ID `53285` · Digistore24 productId `621180` · [HTML profile page](../../reviews/ayurveda-verdauungstypen-test-inkl-e-book-53285.html)
+> Product ID `53285` · Digistore24 productId `621180` · [HTML profile page](../../produkte/ayurveda-verdauungstypen-test-inkl-e-book-53285.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

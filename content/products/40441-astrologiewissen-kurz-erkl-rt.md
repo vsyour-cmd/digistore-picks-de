@@ -1,6 +1,6 @@
 # Astrologiewissen kurz erklärt!
 
-> Product ID `40441` · Digistore24 productId `300847` · [HTML profile page](../../reviews/astrologiewissen-kurz-erkl-rt-40441.html)
+> Product ID `40441` · Digistore24 productId `300847` · [HTML profile page](../../produkte/astrologiewissen-kurz-erkl-rt-40441.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

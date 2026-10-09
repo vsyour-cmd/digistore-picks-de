@@ -1,6 +1,6 @@
 # In 7 Tagen sanft loslassen | Audiokurs mit E-Book
 
-> Product ID `56663` · Digistore24 productId `694749` · [HTML profile page](../../reviews/in-7-tagen-sanft-loslassen-audiokurs-mit-e-book-56663.html)
+> Product ID `56663` · Digistore24 productId `694749` · [HTML profile page](../../produkte/in-7-tagen-sanft-loslassen-audiokurs-mit-e-book-56663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

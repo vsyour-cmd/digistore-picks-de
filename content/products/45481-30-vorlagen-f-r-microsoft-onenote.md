@@ -1,6 +1,6 @@
 # 30+ Vorlagen für Microsoft OneNote
 
-> Product ID `45481` · Digistore24 productId `503462` · [HTML profile page](../../reviews/30-vorlagen-f-r-microsoft-onenote-45481.html)
+> Product ID `45481` · Digistore24 productId `503462` · [HTML profile page](../../produkte/30-vorlagen-f-r-microsoft-onenote-45481.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Expertenleitfaden Revolutionäre Highspeed Methode
 
-> Product ID `50575` · Digistore24 productId `575187` · [HTML profile page](../../reviews/expertenleitfaden-revolution-re-highspeed-methode-50575.html)
+> Product ID `50575` · Digistore24 productId `575187` · [HTML profile page](../../produkte/expertenleitfaden-revolution-re-highspeed-methode-50575.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

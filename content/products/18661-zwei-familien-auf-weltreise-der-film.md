@@ -1,6 +1,6 @@
 # Zwei Familien auf Weltreise – Der Film
 
-> Product ID `18661` · Digistore24 productId `138853` · [HTML profile page](../../reviews/zwei-familien-auf-weltreise-der-film-18661.html)
+> Product ID `18661` · Digistore24 productId `138853` · [HTML profile page](../../produkte/zwei-familien-auf-weltreise-der-film-18661.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

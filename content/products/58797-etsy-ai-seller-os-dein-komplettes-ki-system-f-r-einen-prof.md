@@ -1,6 +1,6 @@
 # Etsy AI Seller OS – dein komplettes KI-System für einen prof
 
-> Product ID `58797` · Digistore24 productId `727306` · [HTML profile page](../../reviews/etsy-ai-seller-os-dein-komplettes-ki-system-f-r-einen-prof-58797.html)
+> Product ID `58797` · Digistore24 productId `727306` · [HTML profile page](../../produkte/etsy-ai-seller-os-dein-komplettes-ki-system-f-r-einen-prof-58797.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

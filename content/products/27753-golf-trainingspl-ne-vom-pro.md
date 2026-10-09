@@ -1,6 +1,6 @@
 # Golf Trainingspläne vom Pro
 
-> Product ID `27753` · Digistore24 productId `256260` · [HTML profile page](../../reviews/golf-trainingspl-ne-vom-pro-27753.html)
+> Product ID `27753` · Digistore24 productId `256260` · [HTML profile page](../../produkte/golf-trainingspl-ne-vom-pro-27753.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

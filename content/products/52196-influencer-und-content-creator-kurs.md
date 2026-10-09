@@ -1,6 +1,6 @@
 # Influencer und Content Creator Kurs
 
-> Product ID `52196` · Digistore24 productId `602187` · [HTML profile page](../../reviews/influencer-und-content-creator-kurs-52196.html)
+> Product ID `52196` · Digistore24 productId `602187` · [HTML profile page](../../produkte/influencer-und-content-creator-kurs-52196.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

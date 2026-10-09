@@ -1,6 +1,6 @@
 # Spar-Masterplan – Der ultimative Finanzleitfaden
 
-> Product ID `57133` · Digistore24 productId `703771` · [HTML profile page](../../reviews/spar-masterplan-der-ultimative-finanzleitfaden-57133.html)
+> Product ID `57133` · Digistore24 productId `703771` · [HTML profile page](../../produkte/spar-masterplan-der-ultimative-finanzleitfaden-57133.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

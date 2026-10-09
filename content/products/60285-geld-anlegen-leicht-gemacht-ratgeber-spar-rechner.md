@@ -1,6 +1,6 @@
 # Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner
 
-> Product ID `60285` · Digistore24 productId `741230` · [HTML profile page](../../reviews/geld-anlegen-leicht-gemacht-ratgeber-spar-rechner-60285.html)
+> Product ID `60285` · Digistore24 productId `741230` · [HTML profile page](../../produkte/geld-anlegen-leicht-gemacht-ratgeber-spar-rechner-60285.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

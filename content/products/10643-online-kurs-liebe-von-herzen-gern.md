@@ -1,6 +1,6 @@
 # Online-Kurs " Liebe - von Herzen gern!"
 
-> Product ID `10643` · Digistore24 productId `72695` · [HTML profile page](../../reviews/online-kurs-liebe-von-herzen-gern-10643.html)
+> Product ID `10643` · Digistore24 productId `72695` · [HTML profile page](../../produkte/online-kurs-liebe-von-herzen-gern-10643.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

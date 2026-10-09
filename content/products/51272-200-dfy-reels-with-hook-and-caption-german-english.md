@@ -1,6 +1,6 @@
 # 200 DFY Reels with Hook and Caption(German-English)
 
-> Product ID `51272` · Digistore24 productId `594738` · [HTML profile page](../../reviews/200-dfy-reels-with-hook-and-caption-german-english-51272.html)
+> Product ID `51272` · Digistore24 productId `594738` · [HTML profile page](../../produkte/200-dfy-reels-with-hook-and-caption-german-english-51272.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

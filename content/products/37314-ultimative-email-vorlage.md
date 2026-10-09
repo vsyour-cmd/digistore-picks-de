@@ -1,6 +1,6 @@
 # Ultimative Email Vorlage
 
-> Product ID `37314` · Digistore24 productId `239710` · [HTML profile page](../../reviews/ultimative-email-vorlage-37314.html)
+> Product ID `37314` · Digistore24 productId `239710` · [HTML profile page](../../produkte/ultimative-email-vorlage-37314.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

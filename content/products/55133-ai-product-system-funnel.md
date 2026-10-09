@@ -1,6 +1,6 @@
 # AI Product System Funnel
 
-> Product ID `55133` · Digistore24 productId `657939` · [HTML profile page](../../reviews/ai-product-system-funnel-55133.html)
+> Product ID `55133` · Digistore24 productId `657939` · [HTML profile page](../../produkte/ai-product-system-funnel-55133.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

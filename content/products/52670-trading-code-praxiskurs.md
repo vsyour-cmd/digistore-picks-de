@@ -1,6 +1,6 @@
 # Trading-Code Praxiskurs
 
-> Product ID `52670` · Digistore24 productId `604570` · [HTML profile page](../../reviews/trading-code-praxiskurs-52670.html)
+> Product ID `52670` · Digistore24 productId `604570` · [HTML profile page](../../produkte/trading-code-praxiskurs-52670.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

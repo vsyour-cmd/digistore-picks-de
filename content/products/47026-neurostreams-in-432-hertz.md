@@ -1,6 +1,6 @@
 # Neurostreams™ in 432 Hertz
 
-> Product ID `47026` · Digistore24 productId `529264` · [HTML profile page](../../reviews/neurostreams-in-432-hertz-47026.html)
+> Product ID `47026` · Digistore24 productId `529264` · [HTML profile page](../../produkte/neurostreams-in-432-hertz-47026.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

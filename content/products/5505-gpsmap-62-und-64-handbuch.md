@@ -1,6 +1,6 @@
 # GPSMAP 62 und 64 Handbuch
 
-> Product ID `5505` · Digistore24 productId `36863` · [HTML profile page](../../reviews/gpsmap-62-und-64-handbuch-5505.html)
+> Product ID `5505` · Digistore24 productId `36863` · [HTML profile page](../../produkte/gpsmap-62-und-64-handbuch-5505.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

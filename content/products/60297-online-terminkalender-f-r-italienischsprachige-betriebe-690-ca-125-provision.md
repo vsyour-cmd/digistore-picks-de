@@ -1,6 +1,6 @@
 # Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision
 
-> Product ID `60297` · Digistore24 productId `741566` · [HTML profile page](../../reviews/online-terminkalender-f-r-italienischsprachige-betriebe-690-ca-125-provision-60297.html)
+> Product ID `60297` · Digistore24 productId `741566` · [HTML profile page](../../produkte/online-terminkalender-f-r-italienischsprachige-betriebe-690-ca-125-provision-60297.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

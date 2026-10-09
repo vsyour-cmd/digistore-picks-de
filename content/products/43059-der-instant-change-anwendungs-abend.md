@@ -1,6 +1,6 @@
 # Der Instant Change Anwendungs-Abend
 
-> Product ID `43059` · Digistore24 productId `349272` · [HTML profile page](../../reviews/der-instant-change-anwendungs-abend-43059.html)
+> Product ID `43059` · Digistore24 productId `349272` · [HTML profile page](../../produkte/der-instant-change-anwendungs-abend-43059.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

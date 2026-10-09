@@ -1,6 +1,6 @@
 # Das Buch: Erfolg ist leicht
 
-> Product ID `56191` · Digistore24 productId `669017` · [HTML profile page](../../reviews/das-buch-erfolg-ist-leicht-56191.html)
+> Product ID `56191` · Digistore24 productId `669017` · [HTML profile page](../../produkte/das-buch-erfolg-ist-leicht-56191.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

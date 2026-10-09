@@ -1,6 +1,6 @@
 # iPhone Fotokurs [Online-Kurs]
 
-> Product ID `35457` · Digistore24 productId `349188` · [HTML profile page](../../reviews/iphone-fotokurs-online-kurs-35457.html)
+> Product ID `35457` · Digistore24 productId `349188` · [HTML profile page](../../produkte/iphone-fotokurs-online-kurs-35457.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

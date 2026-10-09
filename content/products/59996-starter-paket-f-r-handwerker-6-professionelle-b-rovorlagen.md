@@ -1,6 +1,6 @@
 # Starter Paket für Handwerker 6 professionelle Bürovorlagen
 
-> Product ID `59996` · Digistore24 productId `736463` · [HTML profile page](../../reviews/starter-paket-f-r-handwerker-6-professionelle-b-rovorlagen-59996.html)
+> Product ID `59996` · Digistore24 productId `736463` · [HTML profile page](../../produkte/starter-paket-f-r-handwerker-6-professionelle-b-rovorlagen-59996.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

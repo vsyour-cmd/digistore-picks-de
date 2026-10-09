@@ -1,6 +1,6 @@
 # Offer Radar AI™ – Affiliate-Produkte besser bewerten und Kam
 
-> Product ID `57087` · Digistore24 productId `703396` · [HTML profile page](../../reviews/offer-radar-ai-affiliate-produkte-besser-bewerten-und-kam-57087.html)
+> Product ID `57087` · Digistore24 productId `703396` · [HTML profile page](../../produkte/offer-radar-ai-affiliate-produkte-besser-bewerten-und-kam-57087.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die Mühelos Marketing-Maschine - KI-gestütztes Marketing
 
-> Product ID `43893` · Digistore24 productId `491653` · [HTML profile page](../../reviews/die-m-helos-marketing-maschine-ki-gest-tztes-marketing-43893.html)
+> Product ID `43893` · Digistore24 productId `491653` · [HTML profile page](../../produkte/die-m-helos-marketing-maschine-ki-gest-tztes-marketing-43893.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Nach Panama Auswandern
 
-> Product ID `28880` · Digistore24 productId `242028` · [HTML profile page](../../reviews/nach-panama-auswandern-28880.html)
+> Product ID `28880` · Digistore24 productId `242028` · [HTML profile page](../../produkte/nach-panama-auswandern-28880.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

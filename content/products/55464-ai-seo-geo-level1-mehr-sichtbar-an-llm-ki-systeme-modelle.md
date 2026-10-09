@@ -1,6 +1,6 @@
 # AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle
 
-> Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../reviews/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)
+> Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../produkte/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

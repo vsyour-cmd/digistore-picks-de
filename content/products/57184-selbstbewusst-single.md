@@ -1,6 +1,6 @@
 # Selbstbewusst single
 
-> Product ID `57184` · Digistore24 productId `701942` · [HTML profile page](../../reviews/selbstbewusst-single-57184.html)
+> Product ID `57184` · Digistore24 productId `701942` · [HTML profile page](../../produkte/selbstbewusst-single-57184.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

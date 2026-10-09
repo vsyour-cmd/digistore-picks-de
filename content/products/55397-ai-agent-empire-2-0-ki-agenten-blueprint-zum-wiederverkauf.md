@@ -1,6 +1,6 @@
 # AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf
 
-> Product ID `55397` · Digistore24 productId `655486` · [HTML profile page](../../reviews/ai-agent-empire-2-0-ki-agenten-blueprint-zum-wiederverkauf-55397.html)
+> Product ID `55397` · Digistore24 productId `655486` · [HTML profile page](../../produkte/ai-agent-empire-2-0-ki-agenten-blueprint-zum-wiederverkauf-55397.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

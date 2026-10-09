@@ -1,6 +1,6 @@
 # So wirst du Influencer auf Instagram
 
-> Product ID `56907` · Digistore24 productId `701339` · [HTML profile page](../../reviews/so-wirst-du-influencer-auf-instagram-56907.html)
+> Product ID `56907` · Digistore24 productId `701339` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-instagram-56907.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

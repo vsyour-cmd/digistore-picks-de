@@ -1,6 +1,6 @@
 # Hypnose-Onlinekurs Grenzen Setzen und Nein sagen
 
-> Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../reviews/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)
+> Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../produkte/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

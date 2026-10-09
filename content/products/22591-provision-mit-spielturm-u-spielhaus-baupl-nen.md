@@ -1,6 +1,6 @@
 # Provision mit Spielturm- u. Spielhaus-Bauplänen
 
-> Product ID `22591` · Digistore24 productId `65971` · [HTML profile page](../../reviews/provision-mit-spielturm-u-spielhaus-baupl-nen-22591.html)
+> Product ID `22591` · Digistore24 productId `65971` · [HTML profile page](../../produkte/provision-mit-spielturm-u-spielhaus-baupl-nen-22591.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

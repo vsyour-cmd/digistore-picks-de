@@ -1,6 +1,6 @@
 # Struktur schlägt Style – High-Ticket-PDF (40% Provision)
 
-> Product ID `53242` · Digistore24 productId `625071` · [HTML profile page](../../reviews/struktur-schl-gt-style-high-ticket-pdf-40-provision-53242.html)
+> Product ID `53242` · Digistore24 productId `625071` · [HTML profile page](../../produkte/struktur-schl-gt-style-high-ticket-pdf-40-provision-53242.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

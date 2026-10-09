@@ -1,6 +1,6 @@
 # ​Paulownia Project Premium | Проект Павловния Премиум
 
-> Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../reviews/paulownia-project-premium-59433.html)
+> Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../produkte/paulownia-project-premium-59433.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

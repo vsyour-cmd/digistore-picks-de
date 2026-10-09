@@ -1,6 +1,6 @@
 # der Zahlen-Code (E-Book + Upsells)
 
-> Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../reviews/der-zahlen-code-e-book-upsells-5279.html)
+> Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../produkte/der-zahlen-code-e-book-upsells-5279.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

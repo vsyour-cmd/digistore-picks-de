@@ -1,6 +1,6 @@
 # Kostenloses E-Book: Online Geld verdienen mit Geschenken
 
-> Product ID `57773` · Digistore24 productId `714939` · [HTML profile page](../../reviews/kostenloses-e-book-online-geld-verdienen-mit-geschenken-57773.html)
+> Product ID `57773` · Digistore24 productId `714939` · [HTML profile page](../../produkte/kostenloses-e-book-online-geld-verdienen-mit-geschenken-57773.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

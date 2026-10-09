@@ -1,6 +1,6 @@
 # Netzwerk Marketing IN (Traffic per LinkedIn)
 
-> Product ID `38045` · Digistore24 productId `412309` · [HTML profile page](../../reviews/netzwerk-marketing-in-traffic-per-linkedin-38045.html)
+> Product ID `38045` · Digistore24 productId `412309` · [HTML profile page](../../produkte/netzwerk-marketing-in-traffic-per-linkedin-38045.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

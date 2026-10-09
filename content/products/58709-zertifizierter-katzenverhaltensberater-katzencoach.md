@@ -1,6 +1,6 @@
 # Zertifizierter Katzenverhaltensberater / Katzencoach
 
-> Product ID `58709` · Digistore24 productId `652421` · [HTML profile page](../../reviews/zertifizierter-katzenverhaltensberater-katzencoach-58709.html)
+> Product ID `58709` · Digistore24 productId `652421` · [HTML profile page](../../produkte/zertifizierter-katzenverhaltensberater-katzencoach-58709.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

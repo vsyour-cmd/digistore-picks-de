@@ -1,6 +1,6 @@
 # Interessanter biographischer Roman
 
-> Product ID `55151` · Digistore24 productId `658840` · [HTML profile page](../../reviews/interessanter-biographischer-roman-55151.html)
+> Product ID `55151` · Digistore24 productId `658840` · [HTML profile page](../../produkte/interessanter-biographischer-roman-55151.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

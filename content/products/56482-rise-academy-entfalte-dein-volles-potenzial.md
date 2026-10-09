@@ -1,6 +1,6 @@
 # RISE Academy – Entfalte dein volles Potenzial
 
-> Product ID `56482` · Digistore24 productId `688723` · [HTML profile page](../../reviews/rise-academy-entfalte-dein-volles-potenzial-56482.html)
+> Product ID `56482` · Digistore24 productId `688723` · [HTML profile page](../../produkte/rise-academy-entfalte-dein-volles-potenzial-56482.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

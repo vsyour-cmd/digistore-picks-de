@@ -1,6 +1,6 @@
 # DEIN DIGITALER DURCHBRUCH
 
-> Product ID `53588` · Digistore24 productId `630623` · [HTML profile page](../../reviews/dein-digitaler-durchbruch-53588.html)
+> Product ID `53588` · Digistore24 productId `630623` · [HTML profile page](../../produkte/dein-digitaler-durchbruch-53588.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

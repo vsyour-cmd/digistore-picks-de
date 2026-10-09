@@ -1,6 +1,6 @@
 # DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest
 
-> Product ID `56233` · Digistore24 productId `695423` · [HTML profile page](../../reviews/die-guten-7-jahre-mit-annette-das-aurachirurgie-fest-56233.html)
+> Product ID `56233` · Digistore24 productId `695423` · [HTML profile page](../../produkte/die-guten-7-jahre-mit-annette-das-aurachirurgie-fest-56233.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

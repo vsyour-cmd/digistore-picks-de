@@ -1,6 +1,6 @@
 # Hörgeschichte für Kinder: Die Zauberwelle
 
-> Product ID `46314` · Digistore24 productId `360334` · [HTML profile page](../../reviews/h-rgeschichte-f-r-kinder-die-zauberwelle-46314.html)
+> Product ID `46314` · Digistore24 productId `360334` · [HTML profile page](../../produkte/h-rgeschichte-f-r-kinder-die-zauberwelle-46314.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

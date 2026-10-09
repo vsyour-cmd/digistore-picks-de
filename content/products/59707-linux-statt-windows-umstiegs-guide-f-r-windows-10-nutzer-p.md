@@ -1,6 +1,6 @@
 # Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P
 
-> Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../reviews/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)
+> Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../produkte/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Deal Maker Academy
 
-> Product ID `52823` · Digistore24 productId `617594` · [HTML profile page](../../reviews/deal-maker-academy-52823.html)
+> Product ID `52823` · Digistore24 productId `617594` · [HTML profile page](../../produkte/deal-maker-academy-52823.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

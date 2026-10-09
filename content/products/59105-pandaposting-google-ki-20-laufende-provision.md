@@ -1,6 +1,6 @@
 # PandaPosting – Google- & KI – 20 % laufende Provision
 
-> Product ID `59105` · Digistore24 productId `731479` · [HTML profile page](../../reviews/pandaposting-google-ki-20-laufende-provision-59105.html)
+> Product ID `59105` · Digistore24 productId `731479` · [HTML profile page](../../produkte/pandaposting-google-ki-20-laufende-provision-59105.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

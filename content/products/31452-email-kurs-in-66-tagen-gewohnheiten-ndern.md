@@ -1,6 +1,6 @@
 # eMail-Kurs "In 66 Tagen Gewohnheiten ändern"
 
-> Product ID `31452` · Digistore24 productId `161889` · [HTML profile page](../../reviews/email-kurs-in-66-tagen-gewohnheiten-ndern-31452.html)
+> Product ID `31452` · Digistore24 productId `161889` · [HTML profile page](../../produkte/email-kurs-in-66-tagen-gewohnheiten-ndern-31452.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

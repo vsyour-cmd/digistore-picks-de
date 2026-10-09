@@ -1,6 +1,6 @@
 # Feuerbach´s Twelve
 
-> Product ID `49911` · Digistore24 productId `549125` · [HTML profile page](../../reviews/feuerbach-s-twelve-49911.html)
+> Product ID `49911` · Digistore24 productId `549125` · [HTML profile page](../../produkte/feuerbach-s-twelve-49911.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

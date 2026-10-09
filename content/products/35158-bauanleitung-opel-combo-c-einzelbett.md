@@ -1,6 +1,6 @@
 # Bauanleitung - Opel Combo C Einzelbett
 
-> Product ID `35158` · Digistore24 productId `325097` · [HTML profile page](../../reviews/bauanleitung-opel-combo-c-einzelbett-35158.html)
+> Product ID `35158` · Digistore24 productId `325097` · [HTML profile page](../../produkte/bauanleitung-opel-combo-c-einzelbett-35158.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

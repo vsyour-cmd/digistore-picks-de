@@ -1,6 +1,6 @@
 # Rückbildungskurs Online von Hebamme Nadine Beermann
 
-> Product ID `19947` · Digistore24 productId `152971` · [HTML profile page](../../reviews/r-ckbildungskurs-online-von-hebamme-nadine-beermann-19947.html)
+> Product ID `19947` · Digistore24 productId `152971` · [HTML profile page](../../produkte/r-ckbildungskurs-online-von-hebamme-nadine-beermann-19947.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.
 
-> Product ID `58353` · Digistore24 productId `686091` · [HTML profile page](../../reviews/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html)
+> Product ID `58353` · Digistore24 productId `686091` · [HTML profile page](../../produkte/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

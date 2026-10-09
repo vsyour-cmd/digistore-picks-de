@@ -1,6 +1,6 @@
 # Unterrichtsvideo "Shiatsu in der Sitzposition"
 
-> Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../reviews/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)
+> Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../produkte/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # CalisReneX – Calisthenics Anfänger-Guide
 
-> Product ID `59691` · Digistore24 productId `728739` · [HTML profile page](../../reviews/calisrenex-calisthenics-anf-nger-guide-59691.html)
+> Product ID `59691` · Digistore24 productId `728739` · [HTML profile page](../../produkte/calisrenex-calisthenics-anf-nger-guide-59691.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

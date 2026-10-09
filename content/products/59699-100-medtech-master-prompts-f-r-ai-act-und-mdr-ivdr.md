@@ -1,6 +1,6 @@
 # 100 MedTech Master-Prompts für AI Act und MDR/IVDR
 
-> Product ID `59699` · Digistore24 productId `649025` · [HTML profile page](../../reviews/100-medtech-master-prompts-f-r-ai-act-und-mdr-ivdr-59699.html)
+> Product ID `59699` · Digistore24 productId `649025` · [HTML profile page](../../produkte/100-medtech-master-prompts-f-r-ai-act-und-mdr-ivdr-59699.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

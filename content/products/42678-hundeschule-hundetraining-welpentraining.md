@@ -1,6 +1,6 @@
 # Hundeschule / Hundetraining - Welpentraining
 
-> Product ID `42678` · Digistore24 productId `479678` · [HTML profile page](../../reviews/hundeschule-hundetraining-welpentraining-42678.html)
+> Product ID `42678` · Digistore24 productId `479678` · [HTML profile page](../../produkte/hundeschule-hundetraining-welpentraining-42678.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

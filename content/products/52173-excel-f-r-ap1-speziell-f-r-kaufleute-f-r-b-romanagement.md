@@ -1,6 +1,6 @@
 # Excel für AP1 – speziell für Kaufleute für Büromanagement
 
-> Product ID `52173` · Digistore24 productId `607751` · [HTML profile page](../../reviews/excel-f-r-ap1-speziell-f-r-kaufleute-f-r-b-romanagement-52173.html)
+> Product ID `52173` · Digistore24 productId `607751` · [HTML profile page](../../produkte/excel-f-r-ap1-speziell-f-r-kaufleute-f-r-b-romanagement-52173.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

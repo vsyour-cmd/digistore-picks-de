@@ -1,6 +1,6 @@
 # Affiliate Marketing Masterguide
 
-> Product ID `56530` · Digistore24 productId `692634` · [HTML profile page](../../reviews/affiliate-marketing-masterguide-56530.html)
+> Product ID `56530` · Digistore24 productId `692634` · [HTML profile page](../../produkte/affiliate-marketing-masterguide-56530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

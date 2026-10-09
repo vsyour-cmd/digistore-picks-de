@@ -1,6 +1,6 @@
 # [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk
 
-> Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../reviews/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)
+> Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../produkte/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

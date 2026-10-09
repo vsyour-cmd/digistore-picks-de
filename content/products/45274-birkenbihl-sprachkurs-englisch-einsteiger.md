@@ -1,6 +1,6 @@
 # Birkenbihl Sprachkurs Englisch Einsteiger
 
-> Product ID `45274` · Digistore24 productId `347596` · [HTML profile page](../../reviews/birkenbihl-sprachkurs-englisch-einsteiger-45274.html)
+> Product ID `45274` · Digistore24 productId `347596` · [HTML profile page](../../produkte/birkenbihl-sprachkurs-englisch-einsteiger-45274.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

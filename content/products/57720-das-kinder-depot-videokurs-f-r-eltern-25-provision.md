@@ -1,6 +1,6 @@
 # Das Kinder-Depot – Videokurs für Eltern | 25 % Provision
 
-> Product ID `57720` · Digistore24 productId `674625` · [HTML profile page](../../reviews/das-kinder-depot-videokurs-f-r-eltern-25-provision-57720.html)
+> Product ID `57720` · Digistore24 productId `674625` · [HTML profile page](../../produkte/das-kinder-depot-videokurs-f-r-eltern-25-provision-57720.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

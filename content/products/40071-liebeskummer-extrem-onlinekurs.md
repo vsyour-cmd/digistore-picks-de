@@ -1,6 +1,6 @@
 # Liebeskummer Extrem! | Onlinekurs
 
-> Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../reviews/liebeskummer-extrem-onlinekurs-40071.html)
+> Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../produkte/liebeskummer-extrem-onlinekurs-40071.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

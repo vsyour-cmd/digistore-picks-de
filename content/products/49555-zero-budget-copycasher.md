@@ -1,6 +1,6 @@
 # Zero Budget CopyCasher
 
-> Product ID `49555` · Digistore24 productId `567551` · [HTML profile page](../../reviews/zero-budget-copycasher-49555.html)
+> Product ID `49555` · Digistore24 productId `567551` · [HTML profile page](../../produkte/zero-budget-copycasher-49555.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

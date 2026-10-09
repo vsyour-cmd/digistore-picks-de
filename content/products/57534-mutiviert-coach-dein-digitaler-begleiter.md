@@ -1,6 +1,6 @@
 # MUTiviert Coach - Dein digitaler Begleiter
 
-> Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../reviews/mutiviert-coach-dein-digitaler-begleiter-57534.html)
+> Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../produkte/mutiviert-coach-dein-digitaler-begleiter-57534.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

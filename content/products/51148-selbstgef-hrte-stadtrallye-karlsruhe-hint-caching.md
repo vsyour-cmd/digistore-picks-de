@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching
 
-> Product ID `51148` · Digistore24 productId `433660` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-karlsruhe-hint-caching-51148.html)
+> Product ID `51148` · Digistore24 productId `433660` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-karlsruhe-hint-caching-51148.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

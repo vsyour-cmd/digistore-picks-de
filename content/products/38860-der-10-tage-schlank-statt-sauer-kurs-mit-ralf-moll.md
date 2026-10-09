@@ -1,6 +1,6 @@
 # Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll
 
-> Product ID `38860` · Digistore24 productId `422975` · [HTML profile page](../../reviews/der-10-tage-schlank-statt-sauer-kurs-mit-ralf-moll-38860.html)
+> Product ID `38860` · Digistore24 productId `422975` · [HTML profile page](../../produkte/der-10-tage-schlank-statt-sauer-kurs-mit-ralf-moll-38860.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

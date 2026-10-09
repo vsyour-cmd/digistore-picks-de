@@ -1,6 +1,6 @@
 # 18 Bestseller Silent Subliminals (756 Tracks) 50% Provision
 
-> Product ID `46016` · Digistore24 productId `527159` · [HTML profile page](../../reviews/18-bestseller-silent-subliminals-756-tracks-50-provision-46016.html)
+> Product ID `46016` · Digistore24 productId `527159` · [HTML profile page](../../produkte/18-bestseller-silent-subliminals-756-tracks-50-provision-46016.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

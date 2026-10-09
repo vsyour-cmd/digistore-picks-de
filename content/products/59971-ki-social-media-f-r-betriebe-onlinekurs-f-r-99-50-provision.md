@@ -1,6 +1,6 @@
 # KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision
 
-> Product ID `59971` · Digistore24 productId `738051` · [HTML profile page](../../reviews/ki-social-media-f-r-betriebe-onlinekurs-f-r-99-50-provision-59971.html)
+> Product ID `59971` · Digistore24 productId `738051` · [HTML profile page](../../produkte/ki-social-media-f-r-betriebe-onlinekurs-f-r-99-50-provision-59971.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

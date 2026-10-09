@@ -1,6 +1,6 @@
 # 25+ EDU Quellen für Gratis* EDU Backlinks
 
-> Product ID `17765` · Digistore24 productId `150401` · [HTML profile page](../../reviews/25-edu-quellen-f-r-gratis-edu-backlinks-17765.html)
+> Product ID `17765` · Digistore24 productId `150401` · [HTML profile page](../../produkte/25-edu-quellen-f-r-gratis-edu-backlinks-17765.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

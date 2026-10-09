@@ -1,6 +1,6 @@
 # 7 Hauptchakren Kartenset
 
-> Product ID `56373` · Digistore24 productId `687904` · [HTML profile page](../../reviews/7-hauptchakren-kartenset-56373.html)
+> Product ID `56373` · Digistore24 productId `687904` · [HTML profile page](../../produkte/7-hauptchakren-kartenset-56373.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

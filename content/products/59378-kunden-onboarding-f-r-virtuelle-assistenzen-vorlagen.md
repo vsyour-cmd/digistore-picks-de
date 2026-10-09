@@ -1,6 +1,6 @@
 # Kunden-Onboarding für virtuelle Assistenzen – Vorlagen
 
-> Product ID `59378` · Digistore24 productId `735002` · [HTML profile page](../../reviews/kunden-onboarding-f-r-virtuelle-assistenzen-vorlagen-59378.html)
+> Product ID `59378` · Digistore24 productId `735002` · [HTML profile page](../../produkte/kunden-onboarding-f-r-virtuelle-assistenzen-vorlagen-59378.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

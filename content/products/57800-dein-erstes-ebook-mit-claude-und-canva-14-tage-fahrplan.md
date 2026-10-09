@@ -1,6 +1,6 @@
 # Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan
 
-> Product ID `57800` · Digistore24 productId `716190` · [HTML profile page](../../reviews/dein-erstes-ebook-mit-claude-und-canva-14-tage-fahrplan-57800.html)
+> Product ID `57800` · Digistore24 productId `716190` · [HTML profile page](../../produkte/dein-erstes-ebook-mit-claude-und-canva-14-tage-fahrplan-57800.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

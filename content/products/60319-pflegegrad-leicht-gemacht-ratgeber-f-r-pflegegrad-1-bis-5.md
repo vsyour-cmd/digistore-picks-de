@@ -1,6 +1,6 @@
 # Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5
 
-> Product ID `60319` · Digistore24 productId `740161` · [HTML profile page](../../reviews/pflegegrad-leicht-gemacht-ratgeber-f-r-pflegegrad-1-bis-5-60319.html)
+> Product ID `60319` · Digistore24 productId `740161` · [HTML profile page](../../produkte/pflegegrad-leicht-gemacht-ratgeber-f-r-pflegegrad-1-bis-5-60319.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 121 Social Media Posting Hacks
 
-> Product ID `39168` · Digistore24 productId `42599` · [HTML profile page](../../reviews/121-social-media-posting-hacks-39168.html)
+> Product ID `39168` · Digistore24 productId `42599` · [HTML profile page](../../produkte/121-social-media-posting-hacks-39168.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

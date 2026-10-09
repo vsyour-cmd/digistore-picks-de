@@ -1,6 +1,6 @@
 # Rücken- und Nacken-Schmerzen: 7-Minuten-Plan für Viel-Sitzer
 
-> Product ID `57463` · Digistore24 productId `708878` · [HTML profile page](../../reviews/r-cken-und-nacken-schmerzen-7-minuten-plan-f-r-viel-sitzer-57463.html)
+> Product ID `57463` · Digistore24 productId `708878` · [HTML profile page](../../produkte/r-cken-und-nacken-schmerzen-7-minuten-plan-f-r-viel-sitzer-57463.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

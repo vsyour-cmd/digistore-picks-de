@@ -1,6 +1,6 @@
 # Geld verdienen mit Immobilien ( Stefanie Schädel)
 
-> Product ID `12405` · Digistore24 productId `80125` · [HTML profile page](../../reviews/geld-verdienen-mit-immobilien-stefanie-sch-del-12405.html)
+> Product ID `12405` · Digistore24 productId `80125` · [HTML profile page](../../produkte/geld-verdienen-mit-immobilien-stefanie-sch-del-12405.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
-> Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../reviews/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
+> Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

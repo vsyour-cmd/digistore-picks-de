@@ -1,6 +1,6 @@
 # Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance
 
-> Product ID `56652` · Digistore24 productId `694607` · [HTML profile page](../../reviews/ihr-gefahrstoffkataster-ihr-sicherer-weg-zu-compliance-56652.html)
+> Product ID `56652` · Digistore24 productId `694607` · [HTML profile page](../../produkte/ihr-gefahrstoffkataster-ihr-sicherer-weg-zu-compliance-56652.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Mentale Exzellenz in 21 Tagen
 
-> Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../reviews/mentale-exzellenz-in-21-tagen-57398.html)
+> Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../produkte/mentale-exzellenz-in-21-tagen-57398.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

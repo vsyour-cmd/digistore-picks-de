@@ -1,6 +1,6 @@
 # 9 lukrative Möglichkeiten zum Geld verdienen im Internet.
 
-> Product ID `41914` · Digistore24 productId `472264` · [HTML profile page](../../reviews/9-lukrative-m-glichkeiten-zum-geld-verdienen-im-internet-41914.html)
+> Product ID `41914` · Digistore24 productId `472264` · [HTML profile page](../../produkte/9-lukrative-m-glichkeiten-zum-geld-verdienen-im-internet-41914.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

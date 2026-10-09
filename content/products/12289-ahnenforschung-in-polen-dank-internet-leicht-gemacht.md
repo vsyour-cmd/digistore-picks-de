@@ -1,6 +1,6 @@
 # Ahnenforschung in Polen dank Internet leicht gemacht
 
-> Product ID `12289` · Digistore24 productId `436380` · [HTML profile page](../../reviews/ahnenforschung-in-polen-dank-internet-leicht-gemacht-12289.html)
+> Product ID `12289` · Digistore24 productId `436380` · [HTML profile page](../../produkte/ahnenforschung-in-polen-dank-internet-leicht-gemacht-12289.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

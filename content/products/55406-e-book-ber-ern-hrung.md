@@ -1,6 +1,6 @@
 # E-Book über Ernährung
 
-> Product ID `55406` · Digistore24 productId `665463` · [HTML profile page](../../reviews/e-book-ber-ern-hrung-55406.html)
+> Product ID `55406` · Digistore24 productId `665463` · [HTML profile page](../../produkte/e-book-ber-ern-hrung-55406.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

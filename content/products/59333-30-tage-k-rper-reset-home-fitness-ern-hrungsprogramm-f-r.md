@@ -1,6 +1,6 @@
 # 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für
 
-> Product ID `59333` · Digistore24 productId `734087` · [HTML profile page](../../reviews/30-tage-k-rper-reset-home-fitness-ern-hrungsprogramm-f-r-59333.html)
+> Product ID `59333` · Digistore24 productId `734087` · [HTML profile page](../../produkte/30-tage-k-rper-reset-home-fitness-ern-hrungsprogramm-f-r-59333.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

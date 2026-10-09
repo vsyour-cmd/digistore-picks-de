@@ -1,6 +1,6 @@
 # KNX Wetterstation programmieren - 2h Videokurs Klickanleit.
 
-> Product ID `52163` · Digistore24 productId `360643` · [HTML profile page](../../reviews/knx-wetterstation-programmieren-2h-videokurs-klickanleit-52163.html)
+> Product ID `52163` · Digistore24 productId `360643` · [HTML profile page](../../produkte/knx-wetterstation-programmieren-2h-videokurs-klickanleit-52163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

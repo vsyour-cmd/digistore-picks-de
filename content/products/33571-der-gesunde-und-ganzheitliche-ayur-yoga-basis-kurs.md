@@ -1,6 +1,6 @@
 # Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs
 
-> Product ID `33571` · Digistore24 productId `337818` · [HTML profile page](../../reviews/der-gesunde-und-ganzheitliche-ayur-yoga-basis-kurs-33571.html)
+> Product ID `33571` · Digistore24 productId `337818` · [HTML profile page](../../produkte/der-gesunde-und-ganzheitliche-ayur-yoga-basis-kurs-33571.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

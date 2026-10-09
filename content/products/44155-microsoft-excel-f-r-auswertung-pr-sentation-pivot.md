@@ -1,6 +1,6 @@
 # Microsoft Excel für Auswertung, Präsentation, Pivot
 
-> Product ID `44155` · Digistore24 productId `488370` · [HTML profile page](../../reviews/microsoft-excel-f-r-auswertung-pr-sentation-pivot-44155.html)
+> Product ID `44155` · Digistore24 productId `488370` · [HTML profile page](../../produkte/microsoft-excel-f-r-auswertung-pr-sentation-pivot-44155.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

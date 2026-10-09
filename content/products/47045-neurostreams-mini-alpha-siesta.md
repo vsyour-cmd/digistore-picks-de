@@ -1,6 +1,6 @@
 # Neurostreams™ Mini Alpha Siesta
 
-> Product ID `47045` · Digistore24 productId `250035` · [HTML profile page](../../reviews/neurostreams-mini-alpha-siesta-47045.html)
+> Product ID `47045` · Digistore24 productId `250035` · [HTML profile page](../../produkte/neurostreams-mini-alpha-siesta-47045.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Dein Buch als Kundenmagnet
 
-> Product ID `51865` · Digistore24 productId `601291` · [HTML profile page](../../reviews/dein-buch-als-kundenmagnet-51865.html)
+> Product ID `51865` · Digistore24 productId `601291` · [HTML profile page](../../produkte/dein-buch-als-kundenmagnet-51865.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Herz und Energie Kongress - VIP Paket und Bundle
 
-> Product ID `40253` · Digistore24 productId `443717` · [HTML profile page](../../reviews/herz-und-energie-kongress-vip-paket-und-bundle-40253.html)
+> Product ID `40253` · Digistore24 productId `443717` · [HTML profile page](../../produkte/herz-und-energie-kongress-vip-paket-und-bundle-40253.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

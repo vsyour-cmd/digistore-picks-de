@@ -1,6 +1,6 @@
 # DSGVO Patron Classic Lizenz
 
-> Product ID `25163` · Digistore24 productId `217835` · [HTML profile page](../../reviews/dsgvo-patron-classic-lizenz-25163.html)
+> Product ID `25163` · Digistore24 productId `217835` · [HTML profile page](../../produkte/dsgvo-patron-classic-lizenz-25163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

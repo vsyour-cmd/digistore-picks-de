@@ -1,6 +1,6 @@
 # KI im Alltag meistern Das Praxis-Ebook
 
-> Product ID `54333` · Digistore24 productId `640393` · [HTML profile page](../../reviews/ki-im-alltag-meistern-das-praxis-ebook-54333.html)
+> Product ID `54333` · Digistore24 productId `640393` · [HTML profile page](../../produkte/ki-im-alltag-meistern-das-praxis-ebook-54333.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

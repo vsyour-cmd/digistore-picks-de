@@ -1,6 +1,6 @@
 # Dropshipping Leitfaden 2023 (Ebook)
 
-> Product ID `43690` · Digistore24 productId `495399` · [HTML profile page](../../reviews/dropshipping-leitfaden-2023-ebook-43690.html)
+> Product ID `43690` · Digistore24 productId `495399` · [HTML profile page](../../produkte/dropshipping-leitfaden-2023-ebook-43690.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

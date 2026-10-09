@@ -1,6 +1,6 @@
 # WordPress- und Joomla-Kurse von Oliver Pfeil
 
-> Product ID `8651` · Digistore24 productId `47529` · [HTML profile page](../../reviews/wordpress-und-joomla-kurse-von-oliver-pfeil-8651.html)
+> Product ID `8651` · Digistore24 productId `47529` · [HTML profile page](../../produkte/wordpress-und-joomla-kurse-von-oliver-pfeil-8651.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

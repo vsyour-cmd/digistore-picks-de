@@ -1,6 +1,6 @@
 # Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR
 
-> Product ID `53921` · Digistore24 productId `624279` · [HTML profile page](../../reviews/als-frau-mit-ugc-geld-verdienen-extreme-cold-traffic-cvr-53921.html)
+> Product ID `53921` · Digistore24 productId `624279` · [HTML profile page](../../produkte/als-frau-mit-ugc-geld-verdienen-extreme-cold-traffic-cvr-53921.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

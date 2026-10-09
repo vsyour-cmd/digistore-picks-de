@@ -1,6 +1,6 @@
 # VIP ONLINE DANCE ACADEMY ABO
 
-> Product ID `36096` · Digistore24 productId `324765` · [HTML profile page](../../reviews/vip-online-dance-academy-abo-36096.html)
+> Product ID `36096` · Digistore24 productId `324765` · [HTML profile page](../../produkte/vip-online-dance-academy-abo-36096.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

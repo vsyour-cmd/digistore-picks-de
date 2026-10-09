@@ -1,6 +1,6 @@
 # Familien-Wochenplaner – 4 Wochen für mehr Struktur, weniger
 
-> Product ID `58796` · Digistore24 productId `726990` · [HTML profile page](../../reviews/familien-wochenplaner-4-wochen-f-r-mehr-struktur-weniger-58796.html)
+> Product ID `58796` · Digistore24 productId `726990` · [HTML profile page](../../produkte/familien-wochenplaner-4-wochen-f-r-mehr-struktur-weniger-58796.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

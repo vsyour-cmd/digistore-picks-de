@@ -1,6 +1,6 @@
 # „Echte Energie. Echter Genuss." – 50 % Provision auf einen E
 
-> Product ID `57074` · Digistore24 productId `682173` · [HTML profile page](../../reviews/echte-energie-echter-genuss-50-provision-auf-einen-e-57074.html)
+> Product ID `57074` · Digistore24 productId `682173` · [HTML profile page](../../produkte/echte-energie-echter-genuss-50-provision-auf-einen-e-57074.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Besichtigungs-Check: Souverän durch jede Besichtigung
 
-> Product ID `57508` · Digistore24 productId `705881` · [HTML profile page](../../reviews/der-besichtigungs-check-souver-n-durch-jede-besichtigung-57508.html)
+> Product ID `57508` · Digistore24 productId `705881` · [HTML profile page](../../produkte/der-besichtigungs-check-souver-n-durch-jede-besichtigung-57508.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

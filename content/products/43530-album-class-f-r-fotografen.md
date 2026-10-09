@@ -1,6 +1,6 @@
 # ALBUM CLASS für Fotografen
 
-> Product ID `43530` · Digistore24 productId `474623` · [HTML profile page](../../reviews/album-class-f-r-fotografen-43530.html)
+> Product ID `43530` · Digistore24 productId `474623` · [HTML profile page](../../produkte/album-class-f-r-fotografen-43530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

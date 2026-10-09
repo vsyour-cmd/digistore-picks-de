@@ -1,6 +1,6 @@
 # Der Interview-Kompass für das Vorstellungsgespräch
 
-> Product ID `55664` · Digistore24 productId `670242` · [HTML profile page](../../reviews/der-interview-kompass-f-r-das-vorstellungsgespr-ch-55664.html)
+> Product ID `55664` · Digistore24 productId `670242` · [HTML profile page](../../produkte/der-interview-kompass-f-r-das-vorstellungsgespr-ch-55664.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

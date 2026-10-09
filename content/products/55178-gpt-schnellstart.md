@@ -1,6 +1,6 @@
 # GPT Schnellstart
 
-> Product ID `55178` · Digistore24 productId `612705` · [HTML profile page](../../reviews/gpt-schnellstart-55178.html)
+> Product ID `55178` · Digistore24 productId `612705` · [HTML profile page](../../produkte/gpt-schnellstart-55178.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

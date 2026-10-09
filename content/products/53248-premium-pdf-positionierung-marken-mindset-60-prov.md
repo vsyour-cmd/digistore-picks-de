@@ -1,6 +1,6 @@
 # Premium-PDF: "Positionierung + Marken-Mindset" – 60 € Prov.
 
-> Product ID `53248` · Digistore24 productId `625085` · [HTML profile page](../../reviews/premium-pdf-positionierung-marken-mindset-60-prov-53248.html)
+> Product ID `53248` · Digistore24 productId `625085` · [HTML profile page](../../produkte/premium-pdf-positionierung-marken-mindset-60-prov-53248.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

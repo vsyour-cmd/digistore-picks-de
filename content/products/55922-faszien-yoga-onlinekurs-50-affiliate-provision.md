@@ -1,6 +1,6 @@
 # Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision
 
-> Product ID `55922` · Digistore24 productId `659279` · [HTML profile page](../../reviews/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html)
+> Product ID `55922` · Digistore24 productId `659279` · [HTML profile page](../../produkte/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

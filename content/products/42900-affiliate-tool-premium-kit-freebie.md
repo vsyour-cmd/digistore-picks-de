@@ -1,6 +1,6 @@
 # Affiliate Tool - Premium Kit - FREEBIE
 
-> Product ID `42900` · Digistore24 productId `464835` · [HTML profile page](../../reviews/affiliate-tool-premium-kit-freebie-42900.html)
+> Product ID `42900` · Digistore24 productId `464835` · [HTML profile page](../../produkte/affiliate-tool-premium-kit-freebie-42900.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

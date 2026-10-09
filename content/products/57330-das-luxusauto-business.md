@@ -1,6 +1,6 @@
 # Das Luxusauto-Business
 
-> Product ID `57330` · Digistore24 productId `706659` · [HTML profile page](../../reviews/das-luxusauto-business-57330.html)
+> Product ID `57330` · Digistore24 productId `706659` · [HTML profile page](../../produkte/das-luxusauto-business-57330.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

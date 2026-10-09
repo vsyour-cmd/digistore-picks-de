@@ -1,6 +1,6 @@
 # Katzenfutter Selbermachen - Gesunde Rezepte
 
-> Product ID `12633` · Digistore24 productId `91407` · [HTML profile page](../../reviews/katzenfutter-selbermachen-gesunde-rezepte-12633.html)
+> Product ID `12633` · Digistore24 productId `91407` · [HTML profile page](../../produkte/katzenfutter-selbermachen-gesunde-rezepte-12633.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

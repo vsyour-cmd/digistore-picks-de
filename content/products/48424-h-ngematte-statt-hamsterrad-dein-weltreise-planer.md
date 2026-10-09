@@ -1,6 +1,6 @@
 # Hängematte statt Hamsterrad - Dein Weltreise-Planer
 
-> Product ID `48424` · Digistore24 productId `425343` · [HTML profile page](../../reviews/h-ngematte-statt-hamsterrad-dein-weltreise-planer-48424.html)
+> Product ID `48424` · Digistore24 productId `425343` · [HTML profile page](../../produkte/h-ngematte-statt-hamsterrad-dein-weltreise-planer-48424.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

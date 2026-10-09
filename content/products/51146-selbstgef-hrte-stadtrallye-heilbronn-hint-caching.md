@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Heilbronn | Hint-Caching
 
-> Product ID `51146` · Digistore24 productId `536119` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-heilbronn-hint-caching-51146.html)
+> Product ID `51146` · Digistore24 productId `536119` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-heilbronn-hint-caching-51146.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

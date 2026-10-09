@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye Salzburg | Hint-Caching
 
-> Product ID `51163` · Digistore24 productId `485121` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-salzburg-hint-caching-51163.html)
+> Product ID `51163` · Digistore24 productId `485121` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-salzburg-hint-caching-51163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

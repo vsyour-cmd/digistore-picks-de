@@ -1,6 +1,6 @@
 # Frauen und Rente-Was dir niemand früh genug sagt
 
-> Product ID `57793` · Digistore24 productId `708976` · [HTML profile page](../../reviews/frauen-und-rente-was-dir-niemand-fr-h-genug-sagt-57793.html)
+> Product ID `57793` · Digistore24 productId `708976` · [HTML profile page](../../produkte/frauen-und-rente-was-dir-niemand-fr-h-genug-sagt-57793.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

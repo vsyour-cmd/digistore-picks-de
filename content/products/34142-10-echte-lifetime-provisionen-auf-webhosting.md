@@ -1,6 +1,6 @@
 # 10% echte Lifetime Provisionen auf Webhosting!
 
-> Product ID `34142` · Digistore24 productId `35801` · [HTML profile page](../../reviews/10-echte-lifetime-provisionen-auf-webhosting-34142.html)
+> Product ID `34142` · Digistore24 productId `35801` · [HTML profile page](../../produkte/10-echte-lifetime-provisionen-auf-webhosting-34142.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

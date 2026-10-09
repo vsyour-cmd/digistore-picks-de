@@ -1,6 +1,6 @@
 # Griffkrafttraining für Hindernisläufer - 12 Wochen Plan
 
-> Product ID `32055` · Digistore24 productId `315225` · [HTML profile page](../../reviews/griffkrafttraining-f-r-hindernisl-ufer-12-wochen-plan-32055.html)
+> Product ID `32055` · Digistore24 productId `315225` · [HTML profile page](../../produkte/griffkrafttraining-f-r-hindernisl-ufer-12-wochen-plan-32055.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

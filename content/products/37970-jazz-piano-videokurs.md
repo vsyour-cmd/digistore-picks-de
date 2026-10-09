@@ -1,6 +1,6 @@
 # Jazz Piano Videokurs
 
-> Product ID `37970` · Digistore24 productId `402673` · [HTML profile page](../../reviews/jazz-piano-videokurs-37970.html)
+> Product ID `37970` · Digistore24 productId `402673` · [HTML profile page](../../produkte/jazz-piano-videokurs-37970.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

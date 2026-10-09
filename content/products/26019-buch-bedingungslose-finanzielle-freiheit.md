@@ -1,6 +1,6 @@
 # Buch Bedingungslose Finanzielle Freiheit
 
-> Product ID `26019` · Digistore24 productId `234476` · [HTML profile page](../../reviews/buch-bedingungslose-finanzielle-freiheit-26019.html)
+> Product ID `26019` · Digistore24 productId `234476` · [HTML profile page](../../produkte/buch-bedingungslose-finanzielle-freiheit-26019.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

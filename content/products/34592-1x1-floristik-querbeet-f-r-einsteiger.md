@@ -1,6 +1,6 @@
 # "1x1 Floristik - Querbeet für Einsteiger"
 
-> Product ID `34592` · Digistore24 productId `353359` · [HTML profile page](../../reviews/1x1-floristik-querbeet-f-r-einsteiger-34592.html)
+> Product ID `34592` · Digistore24 productId `353359` · [HTML profile page](../../produkte/1x1-floristik-querbeet-f-r-einsteiger-34592.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

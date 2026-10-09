@@ -1,6 +1,6 @@
 # Selbstdenker-Kompass — Wenn deine besten Argumente scheitern
 
-> Product ID `57780` · Digistore24 productId `712070` · [HTML profile page](../../reviews/selbstdenker-kompass-wenn-deine-besten-argumente-scheitern-57780.html)
+> Product ID `57780` · Digistore24 productId `712070` · [HTML profile page](../../produkte/selbstdenker-kompass-wenn-deine-besten-argumente-scheitern-57780.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Kompass der Persönlichkeit
 
-> Product ID `39685` · Digistore24 productId `429538` · [HTML profile page](../../reviews/kompass-der-pers-nlichkeit-39685.html)
+> Product ID `39685` · Digistore24 productId `429538` · [HTML profile page](../../produkte/kompass-der-pers-nlichkeit-39685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

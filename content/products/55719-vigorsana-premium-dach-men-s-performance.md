@@ -1,6 +1,6 @@
 # VigorSana - Premium DACH Men's Performance
 
-> Product ID `55719` · Digistore24 productId `671283` · [HTML profile page](../../reviews/vigorsana-premium-dach-men-s-performance-55719.html)
+> Product ID `55719` · Digistore24 productId `671283` · [HTML profile page](../../produkte/vigorsana-premium-dach-men-s-performance-55719.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

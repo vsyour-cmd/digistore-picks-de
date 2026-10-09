@@ -1,6 +1,6 @@
 # Luna und ihr neuer Freund - Gute-Nacht-Geschichte
 
-> Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../reviews/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)
+> Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../produkte/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

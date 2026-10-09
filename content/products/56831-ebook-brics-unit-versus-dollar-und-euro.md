@@ -1,6 +1,6 @@
 # Ebook - BRICS Unit versus Dollar und Euro
 
-> Product ID `56831` · Digistore24 productId `699390` · [HTML profile page](../../reviews/ebook-brics-unit-versus-dollar-und-euro-56831.html)
+> Product ID `56831` · Digistore24 productId `699390` · [HTML profile page](../../produkte/ebook-brics-unit-versus-dollar-und-euro-56831.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Bauanleitung - Opel Combo Life Doppelbett
 
-> Product ID `35169` · Digistore24 productId `330346` · [HTML profile page](../../reviews/bauanleitung-opel-combo-life-doppelbett-35169.html)
+> Product ID `35169` · Digistore24 productId `330346` · [HTML profile page](../../produkte/bauanleitung-opel-combo-life-doppelbett-35169.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

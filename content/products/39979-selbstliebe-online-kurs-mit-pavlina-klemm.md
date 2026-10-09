@@ -1,6 +1,6 @@
 # Selbstliebe - Online Kurs mit Pavlina Klemm
 
-> Product ID `39979` · Digistore24 productId `424136` · [HTML profile page](../../reviews/selbstliebe-online-kurs-mit-pavlina-klemm-39979.html)
+> Product ID `39979` · Digistore24 productId `424136` · [HTML profile page](../../produkte/selbstliebe-online-kurs-mit-pavlina-klemm-39979.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

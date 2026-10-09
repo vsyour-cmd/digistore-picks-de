@@ -1,6 +1,6 @@
 # Nie wieder generische KI Prompts
 
-> Product ID `59324` · Digistore24 productId `732789` · [HTML profile page](../../reviews/nie-wieder-generische-ki-prompts-59324.html)
+> Product ID `59324` · Digistore24 productId `732789` · [HTML profile page](../../produkte/nie-wieder-generische-ki-prompts-59324.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # YouTube Short Traffic Booster
 
-> Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../reviews/youtube-short-traffic-booster-52407.html)
+> Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../produkte/youtube-short-traffic-booster-52407.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

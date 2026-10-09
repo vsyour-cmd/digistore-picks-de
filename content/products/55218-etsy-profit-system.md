@@ -1,6 +1,6 @@
 # Etsy profit system
 
-> Product ID `55218` · Digistore24 productId `661750` · [HTML profile page](../../reviews/etsy-profit-system-55218.html)
+> Product ID `55218` · Digistore24 productId `661750` · [HTML profile page](../../produkte/etsy-profit-system-55218.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

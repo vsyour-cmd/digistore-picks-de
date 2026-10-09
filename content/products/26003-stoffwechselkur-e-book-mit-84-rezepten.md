@@ -1,6 +1,6 @@
 # Stoffwechselkur E-Book mit 84 Rezepten
 
-> Product ID `26003` · Digistore24 productId `215171` · [HTML profile page](../../reviews/stoffwechselkur-e-book-mit-84-rezepten-26003.html)
+> Product ID `26003` · Digistore24 productId `215171` · [HTML profile page](../../produkte/stoffwechselkur-e-book-mit-84-rezepten-26003.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

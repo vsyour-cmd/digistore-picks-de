@@ -1,6 +1,6 @@
 # Social Seeding: 25 echte deutsche Instagram Follower
 
-> Product ID `40681` · Digistore24 productId `339519` · [HTML profile page](../../reviews/social-seeding-25-echte-deutsche-instagram-follower-40681.html)
+> Product ID `40681` · Digistore24 productId `339519` · [HTML profile page](../../produkte/social-seeding-25-echte-deutsche-instagram-follower-40681.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

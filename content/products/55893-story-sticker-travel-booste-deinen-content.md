@@ -1,6 +1,6 @@
 # Story Sticker TRAVEL - Booste Deinen Content!
 
-> Product ID `55893` · Digistore24 productId `658183` · [HTML profile page](../../reviews/story-sticker-travel-booste-deinen-content-55893.html)
+> Product ID `55893` · Digistore24 productId `658183` · [HTML profile page](../../produkte/story-sticker-travel-booste-deinen-content-55893.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

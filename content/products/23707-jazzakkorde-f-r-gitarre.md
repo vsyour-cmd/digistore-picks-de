@@ -1,6 +1,6 @@
 # Jazzakkorde für Gitarre
 
-> Product ID `23707` · Digistore24 productId `209613` · [HTML profile page](../../reviews/jazzakkorde-f-r-gitarre-23707.html)
+> Product ID `23707` · Digistore24 productId `209613` · [HTML profile page](../../produkte/jazzakkorde-f-r-gitarre-23707.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

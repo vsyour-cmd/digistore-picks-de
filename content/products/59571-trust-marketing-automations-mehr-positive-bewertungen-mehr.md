@@ -1,6 +1,6 @@
 # Trust Marketing Automations: Mehr positive Bewertungen. Mehr
 
-> Product ID `59571` · Digistore24 productId `727806` · [HTML profile page](../../reviews/trust-marketing-automations-mehr-positive-bewertungen-mehr-59571.html)
+> Product ID `59571` · Digistore24 productId `727806` · [HTML profile page](../../produkte/trust-marketing-automations-mehr-positive-bewertungen-mehr-59571.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

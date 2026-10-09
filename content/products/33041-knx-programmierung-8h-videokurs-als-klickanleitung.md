@@ -1,6 +1,6 @@
 # KNX Programmierung - 8h Videokurs als Klickanleitung
 
-> Product ID `33041` · Digistore24 productId `282515` · [HTML profile page](../../reviews/knx-programmierung-8h-videokurs-als-klickanleitung-33041.html)
+> Product ID `33041` · Digistore24 productId `282515` · [HTML profile page](../../produkte/knx-programmierung-8h-videokurs-als-klickanleitung-33041.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

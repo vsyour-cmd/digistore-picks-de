@@ -1,6 +1,6 @@
 # Schnittmuster Ledertasche
 
-> Product ID `4159` · Digistore24 productId `11816` · [HTML profile page](../../reviews/schnittmuster-ledertasche-4159.html)
+> Product ID `4159` · Digistore24 productId `11816` · [HTML profile page](../../produkte/schnittmuster-ledertasche-4159.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

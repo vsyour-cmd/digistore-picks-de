@@ -1,6 +1,6 @@
 # Jesus, christliche Mystik & Weihnachten (Satsang)
 
-> Product ID `30807` · Digistore24 productId `300439` · [HTML profile page](../../reviews/jesus-christliche-mystik-weihnachten-satsang-30807.html)
+> Product ID `30807` · Digistore24 productId `300439` · [HTML profile page](../../produkte/jesus-christliche-mystik-weihnachten-satsang-30807.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

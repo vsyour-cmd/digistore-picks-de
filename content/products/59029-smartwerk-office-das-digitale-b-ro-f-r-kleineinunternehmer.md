@@ -1,6 +1,6 @@
 # SmartWerk Office – Das digitale Büro für Kleineinunternehmer
 
-> Product ID `59029` · Digistore24 productId `728452` · [HTML profile page](../../reviews/smartwerk-office-das-digitale-b-ro-f-r-kleineinunternehmer-59029.html)
+> Product ID `59029` · Digistore24 productId `728452` · [HTML profile page](../../produkte/smartwerk-office-das-digitale-b-ro-f-r-kleineinunternehmer-59029.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

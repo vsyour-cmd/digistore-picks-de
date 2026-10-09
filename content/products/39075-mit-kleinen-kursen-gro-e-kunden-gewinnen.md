@@ -1,6 +1,6 @@
 # Mit kleinen Kursen große Kunden gewinnen!
 
-> Product ID `39075` · Digistore24 productId `427805` · [HTML profile page](../../reviews/mit-kleinen-kursen-gro-e-kunden-gewinnen-39075.html)
+> Product ID `39075` · Digistore24 productId `427805` · [HTML profile page](../../produkte/mit-kleinen-kursen-gro-e-kunden-gewinnen-39075.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

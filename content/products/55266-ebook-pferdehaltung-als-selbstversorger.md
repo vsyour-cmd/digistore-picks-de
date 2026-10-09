@@ -1,6 +1,6 @@
 # eBook: Pferdehaltung als Selbstversorger
 
-> Product ID `55266` · Digistore24 productId `662781` · [HTML profile page](../../reviews/ebook-pferdehaltung-als-selbstversorger-55266.html)
+> Product ID `55266` · Digistore24 productId `662781` · [HTML profile page](../../produkte/ebook-pferdehaltung-als-selbstversorger-55266.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

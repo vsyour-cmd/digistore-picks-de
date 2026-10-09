@@ -1,6 +1,6 @@
 # Kanaren-Guide: Welche Insel passt zu deinem neuen Leben?
 
-> Product ID `57034` · Digistore24 productId `702482` · [HTML profile page](../../reviews/kanaren-guide-welche-insel-passt-zu-deinem-neuen-leben-57034.html)
+> Product ID `57034` · Digistore24 productId `702482` · [HTML profile page](../../produkte/kanaren-guide-welche-insel-passt-zu-deinem-neuen-leben-57034.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Instagram Theme Pages aufbauen & monetarisieren
 
-> Product ID `56326` · Digistore24 productId `686045` · [HTML profile page](../../reviews/instagram-theme-pages-aufbauen-monetarisieren-56326.html)
+> Product ID `56326` · Digistore24 productId `686045` · [HTML profile page](../../produkte/instagram-theme-pages-aufbauen-monetarisieren-56326.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

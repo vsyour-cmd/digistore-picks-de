@@ -1,6 +1,6 @@
 # Bedienungsanleitung für Kinder
 
-> Product ID `12977` · Digistore24 productId `93721` · [HTML profile page](../../reviews/bedienungsanleitung-f-r-kinder-12977.html)
+> Product ID `12977` · Digistore24 productId `93721` · [HTML profile page](../../produkte/bedienungsanleitung-f-r-kinder-12977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

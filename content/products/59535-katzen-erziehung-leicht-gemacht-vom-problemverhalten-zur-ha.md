@@ -1,6 +1,6 @@
 # Katzen-Erziehung leicht gemacht: Vom Problemverhalten zur ha
 
-> Product ID `59535` · Digistore24 productId `735706` · [HTML profile page](../../reviews/katzen-erziehung-leicht-gemacht-vom-problemverhalten-zur-ha-59535.html)
+> Product ID `59535` · Digistore24 productId `735706` · [HTML profile page](../../produkte/katzen-erziehung-leicht-gemacht-vom-problemverhalten-zur-ha-59535.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

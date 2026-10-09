@@ -1,6 +1,6 @@
 # Reset - Dein Einstieg
 
-> Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../reviews/reset-dein-einstieg-57374.html)
+> Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../produkte/reset-dein-einstieg-57374.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

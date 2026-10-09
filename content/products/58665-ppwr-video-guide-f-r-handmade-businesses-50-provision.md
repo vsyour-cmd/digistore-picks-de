@@ -1,6 +1,6 @@
 # PPWR Video-Guide für Handmade-Businesses – 50 % Provision
 
-> Product ID `58665` · Digistore24 productId `726045` · [HTML profile page](../../reviews/ppwr-video-guide-f-r-handmade-businesses-50-provision-58665.html)
+> Product ID `58665` · Digistore24 productId `726045` · [HTML profile page](../../produkte/ppwr-video-guide-f-r-handmade-businesses-50-provision-58665.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

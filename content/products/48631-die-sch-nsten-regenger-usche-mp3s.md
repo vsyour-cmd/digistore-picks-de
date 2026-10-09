@@ -1,6 +1,6 @@
 # Die schönsten Regengeräusche [MP3s]
 
-> Product ID `48631` · Digistore24 productId `131441` · [HTML profile page](../../reviews/die-sch-nsten-regenger-usche-mp3s-48631.html)
+> Product ID `48631` · Digistore24 productId `131441` · [HTML profile page](../../produkte/die-sch-nsten-regenger-usche-mp3s-48631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

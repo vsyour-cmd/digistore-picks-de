@@ -1,6 +1,6 @@
 # 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!
 
-> Product ID `44414` · Digistore24 productId `504054` · [HTML profile page](../../reviews/101-magische-verkaufstexte-so-geht-verkaufen-kinderleicht-44414.html)
+> Product ID `44414` · Digistore24 productId `504054` · [HTML profile page](../../produkte/101-magische-verkaufstexte-so-geht-verkaufen-kinderleicht-44414.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

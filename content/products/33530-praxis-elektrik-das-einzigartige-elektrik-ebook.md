@@ -1,6 +1,6 @@
 # Praxis Elektrik - das einzigartige Elektrik eBook
 
-> Product ID `33530` · Digistore24 productId `319140` · [HTML profile page](../../reviews/praxis-elektrik-das-einzigartige-elektrik-ebook-33530.html)
+> Product ID `33530` · Digistore24 productId `319140` · [HTML profile page](../../produkte/praxis-elektrik-das-einzigartige-elektrik-ebook-33530.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

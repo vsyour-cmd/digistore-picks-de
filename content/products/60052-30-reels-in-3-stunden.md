@@ -1,6 +1,6 @@
 # 30 Reels in 3 Stunden
 
-> Product ID `60052` · Digistore24 productId `738768` · [HTML profile page](../../reviews/30-reels-in-3-stunden-60052.html)
+> Product ID `60052` · Digistore24 productId `738768` · [HTML profile page](../../produkte/30-reels-in-3-stunden-60052.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

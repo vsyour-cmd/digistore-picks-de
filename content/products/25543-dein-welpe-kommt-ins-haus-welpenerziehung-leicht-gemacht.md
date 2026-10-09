@@ -1,6 +1,6 @@
 # Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht
 
-> Product ID `25543` · Digistore24 productId `231757` · [HTML profile page](../../reviews/dein-welpe-kommt-ins-haus-welpenerziehung-leicht-gemacht-25543.html)
+> Product ID `25543` · Digistore24 productId `231757` · [HTML profile page](../../produkte/dein-welpe-kommt-ins-haus-welpenerziehung-leicht-gemacht-25543.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

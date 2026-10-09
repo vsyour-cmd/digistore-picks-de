@@ -1,6 +1,6 @@
 # KI Starter System
 
-> Product ID `55319` · Digistore24 productId `586966` · [HTML profile page](../../reviews/ki-starter-system-55319.html)
+> Product ID `55319` · Digistore24 productId `586966` · [HTML profile page](../../produkte/ki-starter-system-55319.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

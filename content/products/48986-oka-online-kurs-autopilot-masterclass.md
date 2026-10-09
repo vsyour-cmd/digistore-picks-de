@@ -1,6 +1,6 @@
 # OKA - Online Kurs Autopilot Masterclass
 
-> Product ID `48986` · Digistore24 productId `506187` · [HTML profile page](../../reviews/oka-online-kurs-autopilot-masterclass-48986.html)
+> Product ID `48986` · Digistore24 productId `506187` · [HTML profile page](../../produkte/oka-online-kurs-autopilot-masterclass-48986.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

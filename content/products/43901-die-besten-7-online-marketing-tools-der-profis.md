@@ -1,6 +1,6 @@
 # Die besten 7 Online Marketing Tools der Profis
 
-> Product ID `43901` · Digistore24 productId `497278` · [HTML profile page](../../reviews/die-besten-7-online-marketing-tools-der-profis-43901.html)
+> Product ID `43901` · Digistore24 productId `497278` · [HTML profile page](../../produkte/die-besten-7-online-marketing-tools-der-profis-43901.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

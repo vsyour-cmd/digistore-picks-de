@@ -1,6 +1,6 @@
 # Real Fake Star - Dein KI Influencer
 
-> Product ID `53203` · Digistore24 productId `623906` · [HTML profile page](../../reviews/real-fake-star-dein-ki-influencer-53203.html)
+> Product ID `53203` · Digistore24 productId `623906` · [HTML profile page](../../produkte/real-fake-star-dein-ki-influencer-53203.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Happy Money Girl Bootcamp
 
-> Product ID `41911` · Digistore24 productId `97361` · [HTML profile page](../../reviews/happy-money-girl-bootcamp-41911.html)
+> Product ID `41911` · Digistore24 productId `97361` · [HTML profile page](../../produkte/happy-money-girl-bootcamp-41911.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

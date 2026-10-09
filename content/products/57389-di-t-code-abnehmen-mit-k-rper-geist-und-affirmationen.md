@@ -1,6 +1,6 @@
 # Diät Code: Abnehmen mit Körper, Geist und Affirmationen
 
-> Product ID `57389` · Digistore24 productId `585579` · [HTML profile page](../../reviews/di-t-code-abnehmen-mit-k-rper-geist-und-affirmationen-57389.html)
+> Product ID `57389` · Digistore24 productId `585579` · [HTML profile page](../../produkte/di-t-code-abnehmen-mit-k-rper-geist-und-affirmationen-57389.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

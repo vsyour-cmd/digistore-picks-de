@@ -1,6 +1,6 @@
 # High-Converting Audio-Programm - Raus aus dem inneren Chaos
 
-> Product ID `57312` · Digistore24 productId `692331` · [HTML profile page](../../reviews/high-converting-audio-programm-raus-aus-dem-inneren-chaos-57312.html)
+> Product ID `57312` · Digistore24 productId `692331` · [HTML profile page](../../produkte/high-converting-audio-programm-raus-aus-dem-inneren-chaos-57312.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

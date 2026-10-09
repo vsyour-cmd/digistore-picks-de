@@ -1,6 +1,6 @@
 # Storytelling im E-Mail-Marketing
 
-> Product ID `51913` · Digistore24 productId `604562` · [HTML profile page](../../reviews/storytelling-im-e-mail-marketing-51913.html)
+> Product ID `51913` · Digistore24 productId `604562` · [HTML profile page](../../produkte/storytelling-im-e-mail-marketing-51913.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

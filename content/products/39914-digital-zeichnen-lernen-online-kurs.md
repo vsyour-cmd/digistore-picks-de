@@ -1,6 +1,6 @@
 # Digital Zeichnen Lernen Online-Kurs
 
-> Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../reviews/digital-zeichnen-lernen-online-kurs-39914.html)
+> Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

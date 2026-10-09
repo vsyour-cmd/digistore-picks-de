@@ -1,6 +1,6 @@
 # eMTB – Der Express-Ratgeber rund ums E-Mountainbike
 
-> Product ID `55292` · Digistore24 productId `603807` · [HTML profile page](../../reviews/emtb-der-express-ratgeber-rund-ums-e-mountainbike-55292.html)
+> Product ID `55292` · Digistore24 productId `603807` · [HTML profile page](../../produkte/emtb-der-express-ratgeber-rund-ums-e-mountainbike-55292.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

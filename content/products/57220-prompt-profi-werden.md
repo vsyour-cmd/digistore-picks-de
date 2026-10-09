@@ -1,6 +1,6 @@
 # Prompt-Profi werden
 
-> Product ID `57220` · Digistore24 productId `701978` · [HTML profile page](../../reviews/prompt-profi-werden-57220.html)
+> Product ID `57220` · Digistore24 productId `701978` · [HTML profile page](../../produkte/prompt-profi-werden-57220.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

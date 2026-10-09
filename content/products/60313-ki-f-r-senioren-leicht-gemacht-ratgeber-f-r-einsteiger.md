@@ -1,6 +1,6 @@
 # KI für Senioren leicht gemacht – Ratgeber für Einsteiger
 
-> Product ID `60313` · Digistore24 productId `708665` · [HTML profile page](../../reviews/ki-f-r-senioren-leicht-gemacht-ratgeber-f-r-einsteiger-60313.html)
+> Product ID `60313` · Digistore24 productId `708665` · [HTML profile page](../../produkte/ki-f-r-senioren-leicht-gemacht-ratgeber-f-r-einsteiger-60313.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

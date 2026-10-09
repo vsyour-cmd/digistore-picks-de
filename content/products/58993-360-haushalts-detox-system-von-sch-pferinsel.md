@@ -1,6 +1,6 @@
 # 360° Haushalts-Detox-System (von Schöpferinsel)
 
-> Product ID `58993` · Digistore24 productId `724764` · [HTML profile page](../../reviews/360-haushalts-detox-system-von-sch-pferinsel-58993.html)
+> Product ID `58993` · Digistore24 productId `724764` · [HTML profile page](../../produkte/360-haushalts-detox-system-von-sch-pferinsel-58993.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

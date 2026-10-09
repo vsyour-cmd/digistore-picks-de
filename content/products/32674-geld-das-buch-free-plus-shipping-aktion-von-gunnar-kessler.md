@@ -1,6 +1,6 @@
 # Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler
 
-> Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../reviews/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)
+> Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../produkte/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Vendor Sofort-Start Anleitung - Freebie
 
-> Product ID `41304` · Digistore24 productId `460665` · [HTML profile page](../../reviews/vendor-sofort-start-anleitung-freebie-41304.html)
+> Product ID `41304` · Digistore24 productId `460665` · [HTML profile page](../../produkte/vendor-sofort-start-anleitung-freebie-41304.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

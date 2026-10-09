@@ -1,6 +1,6 @@
 # Geheimnisse und Tools der Super Affiliates (Geschenk)
 
-> Product ID `42218` · Digistore24 productId `474889` · [HTML profile page](../../reviews/geheimnisse-und-tools-der-super-affiliates-geschenk-42218.html)
+> Product ID `42218` · Digistore24 productId `474889` · [HTML profile page](../../produkte/geheimnisse-und-tools-der-super-affiliates-geschenk-42218.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # E-Book 9erReihe vom kleinen 1x1 - 50% pro Sale
 
-> Product ID `50428` · Digistore24 productId `579741` · [HTML profile page](../../reviews/e-book-9erreihe-vom-kleinen-1x1-50-pro-sale-50428.html)
+> Product ID `50428` · Digistore24 productId `579741` · [HTML profile page](../../produkte/e-book-9erreihe-vom-kleinen-1x1-50-pro-sale-50428.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

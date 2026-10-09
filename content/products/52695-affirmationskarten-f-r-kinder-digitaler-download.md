@@ -1,6 +1,6 @@
 # Affirmationskarten für Kinder – Digitaler Download
 
-> Product ID `52695` · Digistore24 productId `609576` · [HTML profile page](../../reviews/affirmationskarten-f-r-kinder-digitaler-download-52695.html)
+> Product ID `52695` · Digistore24 productId `609576` · [HTML profile page](../../produkte/affirmationskarten-f-r-kinder-digitaler-download-52695.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

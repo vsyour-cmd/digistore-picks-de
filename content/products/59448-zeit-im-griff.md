@@ -1,6 +1,6 @@
 # Zeit Im Griff
 
-> Product ID `59448` · Digistore24 productId `735538` · [HTML profile page](../../reviews/zeit-im-griff-59448.html)
+> Product ID `59448` · Digistore24 productId `735538` · [HTML profile page](../../produkte/zeit-im-griff-59448.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

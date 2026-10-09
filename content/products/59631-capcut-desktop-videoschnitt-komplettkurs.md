@@ -1,6 +1,6 @@
 # CapCut Desktop Videoschnitt Komplettkurs
 
-> Product ID `59631` · Digistore24 productId `733810` · [HTML profile page](../../reviews/capcut-desktop-videoschnitt-komplettkurs-59631.html)
+> Product ID `59631` · Digistore24 productId `733810` · [HTML profile page](../../produkte/capcut-desktop-videoschnitt-komplettkurs-59631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

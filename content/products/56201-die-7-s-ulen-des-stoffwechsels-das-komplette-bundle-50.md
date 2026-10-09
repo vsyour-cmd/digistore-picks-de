@@ -1,6 +1,6 @@
 # Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%
 
-> Product ID `56201` · Digistore24 productId `678558` · [HTML profile page](../../reviews/die-7-s-ulen-des-stoffwechsels-das-komplette-bundle-50-56201.html)
+> Product ID `56201` · Digistore24 productId `678558` · [HTML profile page](../../produkte/die-7-s-ulen-des-stoffwechsels-das-komplette-bundle-50-56201.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

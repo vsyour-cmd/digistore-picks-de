@@ -1,6 +1,6 @@
 # Wie man ein erfolgreicher Online Marketing Experte wird
 
-> Product ID `52098` · Digistore24 productId `607645` · [HTML profile page](../../reviews/wie-man-ein-erfolgreicher-online-marketing-experte-wird-52098.html)
+> Product ID `52098` · Digistore24 productId `607645` · [HTML profile page](../../produkte/wie-man-ein-erfolgreicher-online-marketing-experte-wird-52098.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

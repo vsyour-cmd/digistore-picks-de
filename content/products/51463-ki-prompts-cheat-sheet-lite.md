@@ -1,6 +1,6 @@
 # KI-Prompts Cheat Sheet Lite
 
-> Product ID `51463` · Digistore24 productId `598878` · [HTML profile page](../../reviews/ki-prompts-cheat-sheet-lite-51463.html)
+> Product ID `51463` · Digistore24 productId `598878` · [HTML profile page](../../produkte/ki-prompts-cheat-sheet-lite-51463.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # THE FUTURE SELF
 
-> Product ID `58904` · Digistore24 productId `366081` · [HTML profile page](../../reviews/the-future-self-58904.html)
+> Product ID `58904` · Digistore24 productId `366081` · [HTML profile page](../../produkte/the-future-self-58904.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

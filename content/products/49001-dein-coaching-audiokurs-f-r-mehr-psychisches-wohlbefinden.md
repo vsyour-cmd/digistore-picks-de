@@ -1,6 +1,6 @@
 # Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!
 
-> Product ID `49001` · Digistore24 productId `549971` · [HTML profile page](../../reviews/dein-coaching-audiokurs-f-r-mehr-psychisches-wohlbefinden-49001.html)
+> Product ID `49001` · Digistore24 productId `549971` · [HTML profile page](../../produkte/dein-coaching-audiokurs-f-r-mehr-psychisches-wohlbefinden-49001.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

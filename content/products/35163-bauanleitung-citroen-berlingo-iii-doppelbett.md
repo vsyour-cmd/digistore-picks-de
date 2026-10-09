@@ -1,6 +1,6 @@
 # Bauanleitung - Citroen Berlingo III Doppelbett
 
-> Product ID `35163` · Digistore24 productId `330336` · [HTML profile page](../../reviews/bauanleitung-citroen-berlingo-iii-doppelbett-35163.html)
+> Product ID `35163` · Digistore24 productId `330336` · [HTML profile page](../../produkte/bauanleitung-citroen-berlingo-iii-doppelbett-35163.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

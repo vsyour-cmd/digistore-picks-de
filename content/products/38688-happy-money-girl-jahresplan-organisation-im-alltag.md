@@ -1,6 +1,6 @@
 # Happy Money Girl Jahresplan - Organisation im Alltag
 
-> Product ID `38688` · Digistore24 productId `421775` · [HTML profile page](../../reviews/happy-money-girl-jahresplan-organisation-im-alltag-38688.html)
+> Product ID `38688` · Digistore24 productId `421775` · [HTML profile page](../../produkte/happy-money-girl-jahresplan-organisation-im-alltag-38688.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

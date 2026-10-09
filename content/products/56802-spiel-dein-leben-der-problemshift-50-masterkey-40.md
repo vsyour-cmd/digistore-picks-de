@@ -1,6 +1,6 @@
 # Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)
 
-> Product ID `56802` · Digistore24 productId `695292` · [HTML profile page](../../reviews/spiel-dein-leben-der-problemshift-50-masterkey-40-56802.html)
+> Product ID `56802` · Digistore24 productId `695292` · [HTML profile page](../../produkte/spiel-dein-leben-der-problemshift-50-masterkey-40-56802.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision
 
-> Product ID `59031` · Digistore24 productId `731276` · [HTML profile page](../../reviews/kfz-check-pro-digitales-fahrzeugbuch-40-provision-59031.html)
+> Product ID `59031` · Digistore24 productId `731276` · [HTML profile page](../../produkte/kfz-check-pro-digitales-fahrzeugbuch-40-provision-59031.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

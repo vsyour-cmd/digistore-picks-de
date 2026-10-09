@@ -1,6 +1,6 @@
 # SIC - Warum sich Immobilien nicht verkaufen
 
-> Product ID `56772` · Digistore24 productId `692320` · [HTML profile page](../../reviews/sic-warum-sich-immobilien-nicht-verkaufen-56772.html)
+> Product ID `56772` · Digistore24 productId `692320` · [HTML profile page](../../produkte/sic-warum-sich-immobilien-nicht-verkaufen-56772.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

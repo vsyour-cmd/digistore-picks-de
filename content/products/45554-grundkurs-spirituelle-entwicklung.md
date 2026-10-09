@@ -1,6 +1,6 @@
 # Grundkurs spirituelle Entwicklung
 
-> Product ID `45554` · Digistore24 productId `511224` · [HTML profile page](../../reviews/grundkurs-spirituelle-entwicklung-45554.html)
+> Product ID `45554` · Digistore24 productId `511224` · [HTML profile page](../../produkte/grundkurs-spirituelle-entwicklung-45554.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

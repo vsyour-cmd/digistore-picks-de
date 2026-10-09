@@ -1,6 +1,6 @@
 # TikTok Secrets
 
-> Product ID `35894` · Digistore24 productId `371975` · [HTML profile page](../../reviews/tiktok-secrets-35894.html)
+> Product ID `35894` · Digistore24 productId `371975` · [HTML profile page](../../produkte/tiktok-secrets-35894.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

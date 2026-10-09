@@ -1,6 +1,6 @@
 # Der Lifehack bei der Einkommensanrechnung
 
-> Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../reviews/der-lifehack-bei-der-einkommensanrechnung-55960.html)
+> Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../produkte/der-lifehack-bei-der-einkommensanrechnung-55960.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

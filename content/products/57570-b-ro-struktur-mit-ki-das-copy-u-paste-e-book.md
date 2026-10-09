@@ -1,6 +1,6 @@
 # BÜRO-STRUKTUR MIT KI - Das Copy u. Paste E-Book
 
-> Product ID `57570` · Digistore24 productId `712420` · [HTML profile page](../../reviews/b-ro-struktur-mit-ki-das-copy-u-paste-e-book-57570.html)
+> Product ID `57570` · Digistore24 productId `712420` · [HTML profile page](../../produkte/b-ro-struktur-mit-ki-das-copy-u-paste-e-book-57570.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

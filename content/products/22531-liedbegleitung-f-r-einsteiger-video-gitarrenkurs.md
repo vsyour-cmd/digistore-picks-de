@@ -1,6 +1,6 @@
 # Liedbegleitung für Einsteiger (Video-Gitarrenkurs)
 
-> Product ID `22531` · Digistore24 productId `199683` · [HTML profile page](../../reviews/liedbegleitung-f-r-einsteiger-video-gitarrenkurs-22531.html)
+> Product ID `22531` · Digistore24 productId `199683` · [HTML profile page](../../produkte/liedbegleitung-f-r-einsteiger-video-gitarrenkurs-22531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

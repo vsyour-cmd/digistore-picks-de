@@ -1,6 +1,6 @@
 # Feng Shui Ausbildung, zertifiziert, Betreuung
 
-> Product ID `39663` · Digistore24 productId `422652` · [HTML profile page](../../reviews/feng-shui-ausbildung-zertifiziert-betreuung-39663.html)
+> Product ID `39663` · Digistore24 productId `422652` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-betreuung-39663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

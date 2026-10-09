@@ -1,6 +1,6 @@
 # Online-Kurs Lymphzauber
 
-> Product ID `58101` · Digistore24 productId `717610` · [HTML profile page](../../reviews/online-kurs-lymphzauber-58101.html)
+> Product ID `58101` · Digistore24 productId `717610` · [HTML profile page](../../produkte/online-kurs-lymphzauber-58101.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

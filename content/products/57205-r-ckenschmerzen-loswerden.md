@@ -1,6 +1,6 @@
 # Rückenschmerzen loswerden
 
-> Product ID `57205` · Digistore24 productId `701963` · [HTML profile page](../../reviews/r-ckenschmerzen-loswerden-57205.html)
+> Product ID `57205` · Digistore24 productId `701963` · [HTML profile page](../../produkte/r-ckenschmerzen-loswerden-57205.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

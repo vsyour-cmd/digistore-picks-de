@@ -1,6 +1,6 @@
 # Affiliate Marketing mit Aboprodukten
 
-> Product ID `57055` · Digistore24 productId `703367` · [HTML profile page](../../reviews/affiliate-marketing-mit-aboprodukten-57055.html)
+> Product ID `57055` · Digistore24 productId `703367` · [HTML profile page](../../produkte/affiliate-marketing-mit-aboprodukten-57055.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

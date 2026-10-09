@@ -1,6 +1,6 @@
 # Ayurveda für Anfänger | E-Book
 
-> Product ID `41861` · Digistore24 productId `416910` · [HTML profile page](../../reviews/ayurveda-f-r-anf-nger-e-book-41861.html)
+> Product ID `41861` · Digistore24 productId `416910` · [HTML profile page](../../produkte/ayurveda-f-r-anf-nger-e-book-41861.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

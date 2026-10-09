@@ -1,6 +1,6 @@
 # Die Frau, die ihre Stimme erhebt - Audio Reise
 
-> Product ID `56350` · Digistore24 productId `686663` · [HTML profile page](../../reviews/die-frau-die-ihre-stimme-erhebt-audio-reise-56350.html)
+> Product ID `56350` · Digistore24 productId `686663` · [HTML profile page](../../produkte/die-frau-die-ihre-stimme-erhebt-audio-reise-56350.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

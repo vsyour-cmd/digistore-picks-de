@@ -1,6 +1,6 @@
 # TikTok Reichweiten Workbook
 
-> Product ID `51374` · Digistore24 productId `596741` · [HTML profile page](../../reviews/tiktok-reichweiten-workbook-51374.html)
+> Product ID `51374` · Digistore24 productId `596741` · [HTML profile page](../../produkte/tiktok-reichweiten-workbook-51374.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

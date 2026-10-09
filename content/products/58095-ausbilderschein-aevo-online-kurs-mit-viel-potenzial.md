@@ -1,6 +1,6 @@
 # Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial
 
-> Product ID `58095` · Digistore24 productId `612089` · [HTML profile page](../../reviews/ausbilderschein-aevo-online-kurs-mit-viel-potenzial-58095.html)
+> Product ID `58095` · Digistore24 productId `612089` · [HTML profile page](../../produkte/ausbilderschein-aevo-online-kurs-mit-viel-potenzial-58095.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # "The Black Book of Facebook Groups" E-Book + Minikurs
 
-> Product ID `44487` · Digistore24 productId `503958` · [HTML profile page](../../reviews/the-black-book-of-facebook-groups-e-book-minikurs-44487.html)
+> Product ID `44487` · Digistore24 productId `503958` · [HTML profile page](../../produkte/the-black-book-of-facebook-groups-e-book-minikurs-44487.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

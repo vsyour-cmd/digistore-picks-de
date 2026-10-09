@@ -1,6 +1,6 @@
 # Social Cashflow – mit System zu wiederkehrenden Einnahmen
 
-> Product ID `55621` · Digistore24 productId `668926` · [HTML profile page](../../reviews/social-cashflow-mit-system-zu-wiederkehrenden-einnahmen-55621.html)
+> Product ID `55621` · Digistore24 productId `668926` · [HTML profile page](../../produkte/social-cashflow-mit-system-zu-wiederkehrenden-einnahmen-55621.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

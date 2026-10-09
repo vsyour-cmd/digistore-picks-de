@@ -1,6 +1,6 @@
 # Der Traffic Schnellstarter Kurs - von Gunnar Kessler
 
-> Product ID `33576` · Digistore24 productId `349057` · [HTML profile page](../../reviews/der-traffic-schnellstarter-kurs-von-gunnar-kessler-33576.html)
+> Product ID `33576` · Digistore24 productId `349057` · [HTML profile page](../../produkte/der-traffic-schnellstarter-kurs-von-gunnar-kessler-33576.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

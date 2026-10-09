@@ -1,6 +1,6 @@
 # Leben und Arbeiten in Kroatien
 
-> Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../reviews/leben-und-arbeiten-in-kroatien-50964.html)
+> Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../produkte/leben-und-arbeiten-in-kroatien-50964.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

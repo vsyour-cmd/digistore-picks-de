@@ -1,6 +1,6 @@
 # Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P
 
-> Product ID `58975` · Digistore24 productId `730592` · [HTML profile page](../../reviews/haus-kaufen-in-spanien-unter-150-000-ratgeber-praxis-p-58975.html)
+> Product ID `58975` · Digistore24 productId `730592` · [HTML profile page](../../produkte/haus-kaufen-in-spanien-unter-150-000-ratgeber-praxis-p-58975.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

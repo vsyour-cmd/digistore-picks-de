@@ -1,6 +1,6 @@
 # Ebook - Katastrophenschutz in Deutschland
 
-> Product ID `56435` · Digistore24 productId `689595` · [HTML profile page](../../reviews/ebook-katastrophenschutz-in-deutschland-56435.html)
+> Product ID `56435` · Digistore24 productId `689595` · [HTML profile page](../../produkte/ebook-katastrophenschutz-in-deutschland-56435.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

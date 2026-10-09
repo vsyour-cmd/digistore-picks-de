@@ -1,6 +1,6 @@
 # Bilder SEO 2018 (E-Book)
 
-> Product ID `21921` · Digistore24 productId `174383` · [HTML profile page](../../reviews/bilder-seo-2018-e-book-21921.html)
+> Product ID `21921` · Digistore24 productId `174383` · [HTML profile page](../../produkte/bilder-seo-2018-e-book-21921.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

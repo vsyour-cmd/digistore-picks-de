@@ -1,6 +1,6 @@
 # SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen
 
-> Product ID `55264` · Digistore24 productId `646454` · [HTML profile page](../../reviews/sprachsoftware-verschenken-450-ber-upsell-verdienen-55264.html)
+> Product ID `55264` · Digistore24 productId `646454` · [HTML profile page](../../produkte/sprachsoftware-verschenken-450-ber-upsell-verdienen-55264.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

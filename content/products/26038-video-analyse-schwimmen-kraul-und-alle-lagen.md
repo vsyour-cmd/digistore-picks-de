@@ -1,6 +1,6 @@
 # Video-Analyse Schwimmen (Kraul und alle Lagen)
 
-> Product ID `26038` · Digistore24 productId `229099` · [HTML profile page](../../reviews/video-analyse-schwimmen-kraul-und-alle-lagen-26038.html)
+> Product ID `26038` · Digistore24 productId `229099` · [HTML profile page](../../produkte/video-analyse-schwimmen-kraul-und-alle-lagen-26038.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

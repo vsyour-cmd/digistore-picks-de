@@ -1,6 +1,6 @@
 # Panikattacken - Mein Weg aus der Angst
 
-> Product ID `57538` · Digistore24 productId `710074` · [HTML profile page](../../reviews/panikattacken-mein-weg-aus-der-angst-57538.html)
+> Product ID `57538` · Digistore24 productId `710074` · [HTML profile page](../../produkte/panikattacken-mein-weg-aus-der-angst-57538.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Minikurs-Methode, Ebook
 
-> Product ID `36765` · Digistore24 productId `391052` · [HTML profile page](../../reviews/minikurs-methode-ebook-36765.html)
+> Product ID `36765` · Digistore24 productId `391052` · [HTML profile page](../../produkte/minikurs-methode-ebook-36765.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

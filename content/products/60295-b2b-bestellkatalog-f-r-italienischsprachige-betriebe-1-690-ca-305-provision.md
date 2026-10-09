@@ -1,6 +1,6 @@
 # B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision
 
-> Product ID `60295` · Digistore24 productId `741562` · [HTML profile page](../../reviews/b2b-bestellkatalog-f-r-italienischsprachige-betriebe-1-690-ca-305-provision-60295.html)
+> Product ID `60295` · Digistore24 productId `741562` · [HTML profile page](../../produkte/b2b-bestellkatalog-f-r-italienischsprachige-betriebe-1-690-ca-305-provision-60295.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

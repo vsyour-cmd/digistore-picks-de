@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit Bluesky
 
-> Product ID `56975` · Digistore24 productId `701395` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-bluesky-56975.html)
+> Product ID `56975` · Digistore24 productId `701395` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-bluesky-56975.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

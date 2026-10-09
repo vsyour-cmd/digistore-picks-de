@@ -1,6 +1,6 @@
 # 121 Affiliate Marketing HACKZ
 
-> Product ID `39181` · Digistore24 productId `107607` · [HTML profile page](../../reviews/121-affiliate-marketing-hackz-39181.html)
+> Product ID `39181` · Digistore24 productId `107607` · [HTML profile page](../../produkte/121-affiliate-marketing-hackz-39181.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

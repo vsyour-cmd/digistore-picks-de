@@ -1,6 +1,6 @@
 # MyDF-Alive Publish Studio-24 Monate Zugang
 
-> Product ID `56876` · Digistore24 productId `682622` · [HTML profile page](../../reviews/mydf-alive-publish-studio-24-monate-zugang-56876.html)
+> Product ID `56876` · Digistore24 productId `682622` · [HTML profile page](../../produkte/mydf-alive-publish-studio-24-monate-zugang-56876.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

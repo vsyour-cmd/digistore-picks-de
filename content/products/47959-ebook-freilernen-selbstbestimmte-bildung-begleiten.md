@@ -1,6 +1,6 @@
 # eBook Freilernen - selbstbestimmte Bildung begleiten
 
-> Product ID `47959` · Digistore24 productId `549880` · [HTML profile page](../../reviews/ebook-freilernen-selbstbestimmte-bildung-begleiten-47959.html)
+> Product ID `47959` · Digistore24 productId `549880` · [HTML profile page](../../produkte/ebook-freilernen-selbstbestimmte-bildung-begleiten-47959.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

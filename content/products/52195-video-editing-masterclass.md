@@ -1,6 +1,6 @@
 # Video Editing Masterclass
 
-> Product ID `52195` · Digistore24 productId `607744` · [HTML profile page](../../reviews/video-editing-masterclass-52195.html)
+> Product ID `52195` · Digistore24 productId `607744` · [HTML profile page](../../produkte/video-editing-masterclass-52195.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

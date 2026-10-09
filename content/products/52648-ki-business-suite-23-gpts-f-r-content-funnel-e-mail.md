@@ -1,6 +1,6 @@
 # KI Business Suite, 23 GPTs für Content, Funnel, E-Mail
 
-> Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../reviews/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)
+> Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../produkte/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

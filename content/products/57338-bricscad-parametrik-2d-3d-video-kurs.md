@@ -1,6 +1,6 @@
 # BricsCAD Parametrik 2D/3D Video-Kurs
 
-> Product ID `57338` · Digistore24 productId `537260` · [HTML profile page](../../reviews/bricscad-parametrik-2d-3d-video-kurs-57338.html)
+> Product ID `57338` · Digistore24 productId `537260` · [HTML profile page](../../produkte/bricscad-parametrik-2d-3d-video-kurs-57338.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

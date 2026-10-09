@@ -1,6 +1,6 @@
 # Die große Quantenheilung Webinar Collection
 
-> Product ID `47830` · Digistore24 productId `511963` · [HTML profile page](../../reviews/die-gro-e-quantenheilung-webinar-collection-47830.html)
+> Product ID `47830` · Digistore24 productId `511963` · [HTML profile page](../../produkte/die-gro-e-quantenheilung-webinar-collection-47830.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

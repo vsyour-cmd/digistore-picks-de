@@ -1,6 +1,6 @@
 # Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision
 
-> Product ID `60111` · Digistore24 productId `635118` · [HTML profile page](../../reviews/familien-adventskalender-ohne-s-igkeiten-24-gemeinsame-erlebnisse-25-provision-60111.html)
+> Product ID `60111` · Digistore24 productId `635118` · [HTML profile page](../../produkte/familien-adventskalender-ohne-s-igkeiten-24-gemeinsame-erlebnisse-25-provision-60111.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

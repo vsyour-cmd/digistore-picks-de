@@ -1,6 +1,6 @@
 # Freundin finden + Frauen angstfrei ansprechen
 
-> Product ID `36827` · Digistore24 productId `392837` · [HTML profile page](../../reviews/freundin-finden-frauen-angstfrei-ansprechen-36827.html)
+> Product ID `36827` · Digistore24 productId `392837` · [HTML profile page](../../produkte/freundin-finden-frauen-angstfrei-ansprechen-36827.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Optionsscheine & Zertifikate Signale
 
-> Product ID `33787` · Digistore24 productId `264879` · [HTML profile page](../../reviews/optionsscheine-zertifikate-signale-33787.html)
+> Product ID `33787` · Digistore24 productId `264879` · [HTML profile page](../../produkte/optionsscheine-zertifikate-signale-33787.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

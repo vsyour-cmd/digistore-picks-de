@@ -1,6 +1,6 @@
 # Online-Kurs: Profiling Masterclass
 
-> Product ID `41413` · Digistore24 productId `438749` · [HTML profile page](../../reviews/online-kurs-profiling-masterclass-41413.html)
+> Product ID `41413` · Digistore24 productId `438749` · [HTML profile page](../../produkte/online-kurs-profiling-masterclass-41413.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

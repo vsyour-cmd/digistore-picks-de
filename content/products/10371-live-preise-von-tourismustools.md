@@ -1,6 +1,6 @@
 # Live-Preise von TourismusTools
 
-> Product ID `10371` · Digistore24 productId `72877` · [HTML profile page](../../reviews/live-preise-von-tourismustools-10371.html)
+> Product ID `10371` · Digistore24 productId `72877` · [HTML profile page](../../produkte/live-preise-von-tourismustools-10371.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # ScaleX
 
-> Product ID `54586` · Digistore24 productId `641679` · [HTML profile page](../../reviews/scalex-54586.html)
+> Product ID `54586` · Digistore24 productId `641679` · [HTML profile page](../../produkte/scalex-54586.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

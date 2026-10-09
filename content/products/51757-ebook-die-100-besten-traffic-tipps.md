@@ -1,6 +1,6 @@
 # eBook: Die 100 besten Traffic Tipps
 
-> Product ID `51757` · Digistore24 productId `601980` · [HTML profile page](../../reviews/ebook-die-100-besten-traffic-tipps-51757.html)
+> Product ID `51757` · Digistore24 productId `601980` · [HTML profile page](../../produkte/ebook-die-100-besten-traffic-tipps-51757.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

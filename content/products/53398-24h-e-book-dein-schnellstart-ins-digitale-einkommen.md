@@ -1,6 +1,6 @@
 # 24h E-Book: Dein Schnellstart ins digitale Einkommen
 
-> Product ID `53398` · Digistore24 productId `627668` · [HTML profile page](../../reviews/24h-e-book-dein-schnellstart-ins-digitale-einkommen-53398.html)
+> Product ID `53398` · Digistore24 productId `627668` · [HTML profile page](../../produkte/24h-e-book-dein-schnellstart-ins-digitale-einkommen-53398.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

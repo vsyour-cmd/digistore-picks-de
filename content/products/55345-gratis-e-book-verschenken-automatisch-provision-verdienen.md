@@ -1,6 +1,6 @@
 # Gratis E-Book verschenken / automatisch Provision verdienen
 
-> Product ID `55345` · Digistore24 productId `651790` · [HTML profile page](../../reviews/gratis-e-book-verschenken-automatisch-provision-verdienen-55345.html)
+> Product ID `55345` · Digistore24 productId `651790` · [HTML profile page](../../produkte/gratis-e-book-verschenken-automatisch-provision-verdienen-55345.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

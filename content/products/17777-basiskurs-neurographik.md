@@ -1,6 +1,6 @@
 # Basiskurs Neurographik
 
-> Product ID `17777` · Digistore24 productId `150465` · [HTML profile page](../../reviews/basiskurs-neurographik-17777.html)
+> Product ID `17777` · Digistore24 productId `150465` · [HTML profile page](../../produkte/basiskurs-neurographik-17777.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

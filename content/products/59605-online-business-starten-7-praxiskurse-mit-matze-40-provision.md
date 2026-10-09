@@ -1,6 +1,6 @@
 # Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision
 
-> Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../reviews/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)
+> Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../produkte/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # ABC-Fuchs - Handschrift-Lern-App für Kinder
 
-> Product ID `57810` · Digistore24 productId `706097` · [HTML profile page](../../reviews/abc-fuchs-handschrift-lern-app-f-r-kinder-57810.html)
+> Product ID `57810` · Digistore24 productId `706097` · [HTML profile page](../../produkte/abc-fuchs-handschrift-lern-app-f-r-kinder-57810.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

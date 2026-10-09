@@ -1,6 +1,6 @@
 # Zeichenkurs Natur und Landschaft zeichnen
 
-> Product ID `55147` · Digistore24 productId `660274` · [HTML profile page](../../reviews/zeichenkurs-natur-und-landschaft-zeichnen-55147.html)
+> Product ID `55147` · Digistore24 productId `660274` · [HTML profile page](../../produkte/zeichenkurs-natur-und-landschaft-zeichnen-55147.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

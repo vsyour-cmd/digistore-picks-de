@@ -1,6 +1,6 @@
 # Pin dich Reich - Geld verdienen mit Pinterest
 
-> Product ID `33936` · Digistore24 productId `336311` · [HTML profile page](../../reviews/pin-dich-reich-geld-verdienen-mit-pinterest-33936.html)
+> Product ID `33936` · Digistore24 productId `336311` · [HTML profile page](../../produkte/pin-dich-reich-geld-verdienen-mit-pinterest-33936.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

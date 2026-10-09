@@ -1,6 +1,6 @@
 # Ausbildung: Ayurveda-Ernährungsberatung
 
-> Product ID `39740` · Digistore24 productId `369652` · [HTML profile page](../../reviews/ausbildung-ayurveda-ern-hrungsberatung-39740.html)
+> Product ID `39740` · Digistore24 productId `369652` · [HTML profile page](../../produkte/ausbildung-ayurveda-ern-hrungsberatung-39740.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der 3 Wochen Power Rückrundenvorbereitungsplan
 
-> Product ID `14723` · Digistore24 productId `104389` · [HTML profile page](../../reviews/der-3-wochen-power-r-ckrundenvorbereitungsplan-14723.html)
+> Product ID `14723` · Digistore24 productId `104389` · [HTML profile page](../../produkte/der-3-wochen-power-r-ckrundenvorbereitungsplan-14723.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

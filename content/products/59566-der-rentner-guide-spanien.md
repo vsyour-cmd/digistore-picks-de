@@ -1,6 +1,6 @@
 # Der Rentner-Guide Spanien
 
-> Product ID `59566` · Digistore24 productId `735111` · [HTML profile page](../../reviews/der-rentner-guide-spanien-59566.html)
+> Product ID `59566` · Digistore24 productId `735111` · [HTML profile page](../../produkte/der-rentner-guide-spanien-59566.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

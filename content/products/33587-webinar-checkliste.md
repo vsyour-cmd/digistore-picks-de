@@ -1,6 +1,6 @@
 # Webinar Checkliste
 
-> Product ID `33587` · Digistore24 productId `338420` · [HTML profile page](../../reviews/webinar-checkliste-33587.html)
+> Product ID `33587` · Digistore24 productId `338420` · [HTML profile page](../../produkte/webinar-checkliste-33587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

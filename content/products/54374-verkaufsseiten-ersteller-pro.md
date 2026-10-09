@@ -1,6 +1,6 @@
 # Verkaufsseiten-Ersteller Pro
 
-> Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../reviews/verkaufsseiten-ersteller-pro-54374.html)
+> Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../produkte/verkaufsseiten-ersteller-pro-54374.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

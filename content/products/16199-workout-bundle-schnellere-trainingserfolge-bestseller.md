@@ -1,6 +1,6 @@
 # Workout Bundle – Schnellere Trainingserfolge (Bestseller)
 
-> Product ID `16199` · Digistore24 productId `116859` · [HTML profile page](../../reviews/workout-bundle-schnellere-trainingserfolge-bestseller-16199.html)
+> Product ID `16199` · Digistore24 productId `116859` · [HTML profile page](../../produkte/workout-bundle-schnellere-trainingserfolge-bestseller-16199.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

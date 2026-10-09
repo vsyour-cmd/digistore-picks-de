@@ -1,6 +1,6 @@
 # Erfolgreich als Coach mit X
 
-> Product ID `56921` · Digistore24 productId `701350` · [HTML profile page](../../reviews/erfolgreich-als-coach-mit-x-56921.html)
+> Product ID `56921` · Digistore24 productId `701350` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-x-56921.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

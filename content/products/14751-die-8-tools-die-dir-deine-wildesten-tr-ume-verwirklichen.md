@@ -1,6 +1,6 @@
 # „Die 8 Tools die Dir Deine wildesten Träume verwirklichen“
 
-> Product ID `14751` · Digistore24 productId `112111` · [HTML profile page](../../reviews/die-8-tools-die-dir-deine-wildesten-tr-ume-verwirklichen-14751.html)
+> Product ID `14751` · Digistore24 productId `112111` · [HTML profile page](../../produkte/die-8-tools-die-dir-deine-wildesten-tr-ume-verwirklichen-14751.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

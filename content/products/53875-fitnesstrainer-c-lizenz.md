@@ -1,6 +1,6 @@
 # Fitnesstrainer C-Lizenz
 
-> Product ID `53875` · Digistore24 productId `620102` · [HTML profile page](../../reviews/fitnesstrainer-c-lizenz-53875.html)
+> Product ID `53875` · Digistore24 productId `620102` · [HTML profile page](../../produkte/fitnesstrainer-c-lizenz-53875.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Zeichenschule für Kindergarten- und Vorschulkinder
 
-> Product ID `32161` · Digistore24 productId `316974` · [HTML profile page](../../reviews/zeichenschule-f-r-kindergarten-und-vorschulkinder-32161.html)
+> Product ID `32161` · Digistore24 productId `316974` · [HTML profile page](../../produkte/zeichenschule-f-r-kindergarten-und-vorschulkinder-32161.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

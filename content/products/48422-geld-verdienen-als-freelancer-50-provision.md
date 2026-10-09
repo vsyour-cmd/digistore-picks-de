@@ -1,6 +1,6 @@
 # Geld verdienen als Freelancer - 50 % Provision
 
-> Product ID `48422` · Digistore24 productId `557124` · [HTML profile page](../../reviews/geld-verdienen-als-freelancer-50-provision-48422.html)
+> Product ID `48422` · Digistore24 productId `557124` · [HTML profile page](../../produkte/geld-verdienen-als-freelancer-50-provision-48422.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

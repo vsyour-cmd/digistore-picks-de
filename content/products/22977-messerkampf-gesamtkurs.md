@@ -1,6 +1,6 @@
 # Messerkampf Gesamtkurs
 
-> Product ID `22977` · Digistore24 productId `201793` · [HTML profile page](../../reviews/messerkampf-gesamtkurs-22977.html)
+> Product ID `22977` · Digistore24 productId `201793` · [HTML profile page](../../produkte/messerkampf-gesamtkurs-22977.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

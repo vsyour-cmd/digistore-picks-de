@@ -1,6 +1,6 @@
 # Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download
 
-> Product ID `41070` · Digistore24 productId `456226` · [HTML profile page](../../reviews/angst-frisst-seele-ruediger-dahlke-h-rbuch-download-41070.html)
+> Product ID `41070` · Digistore24 productId `456226` · [HTML profile page](../../produkte/angst-frisst-seele-ruediger-dahlke-h-rbuch-download-41070.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

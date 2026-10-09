@@ -1,6 +1,6 @@
 # Der perfekte Lebenslauf 2.0
 
-> Product ID `56902` · Digistore24 productId `697430` · [HTML profile page](../../reviews/der-perfekte-lebenslauf-2-0-56902.html)
+> Product ID `56902` · Digistore24 productId `697430` · [HTML profile page](../../produkte/der-perfekte-lebenslauf-2-0-56902.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

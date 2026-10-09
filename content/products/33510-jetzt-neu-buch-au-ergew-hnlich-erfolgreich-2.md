@@ -1,6 +1,6 @@
 # [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2
 
-> Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../reviews/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)
+> Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../produkte/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

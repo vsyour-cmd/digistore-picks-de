@@ -1,6 +1,6 @@
 # Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern
 
-> Product ID `58403` · Digistore24 productId `663323` · [HTML profile page](../../reviews/freemor-breathing-teacher-modul-f-r-verbundenen-atem-und-neurogenes-zittern-58403.html)
+> Product ID `58403` · Digistore24 productId `663323` · [HTML profile page](../../produkte/freemor-breathing-teacher-modul-f-r-verbundenen-atem-und-neurogenes-zittern-58403.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision
 
-> Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../reviews/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)
+> Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../produkte/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

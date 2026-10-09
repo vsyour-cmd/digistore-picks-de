@@ -1,6 +1,6 @@
 # Das Bundle - DEIN NÄCHSTER SCHRITT
 
-> Product ID `57484` · Digistore24 productId `708858` · [HTML profile page](../../reviews/das-bundle-dein-n-chster-schritt-57484.html)
+> Product ID `57484` · Digistore24 productId `708858` · [HTML profile page](../../produkte/das-bundle-dein-n-chster-schritt-57484.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

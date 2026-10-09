@@ -1,6 +1,6 @@
 # Einfach schlank! In 8 Schritten zur Wunschfigur
 
-> Product ID `39852` · Digistore24 productId `371024` · [HTML profile page](../../reviews/einfach-schlank-in-8-schritten-zur-wunschfigur-39852.html)
+> Product ID `39852` · Digistore24 productId `371024` · [HTML profile page](../../produkte/einfach-schlank-in-8-schritten-zur-wunschfigur-39852.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

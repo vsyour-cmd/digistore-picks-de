@@ -1,6 +1,6 @@
 # Strom sparen mit Solar, Speicher und dynamischem Tarif
 
-> Product ID `57162` · Digistore24 productId `699090` · [HTML profile page](../../reviews/strom-sparen-mit-solar-speicher-und-dynamischem-tarif-57162.html)
+> Product ID `57162` · Digistore24 productId `699090` · [HTML profile page](../../produkte/strom-sparen-mit-solar-speicher-und-dynamischem-tarif-57162.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

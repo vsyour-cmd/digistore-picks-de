@@ -1,6 +1,6 @@
 # ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell
 
-> Product ID `55263` · Digistore24 productId `653336` · [HTML profile page](../../reviews/byebye-hamsterrad-community-gratis-einstieg-mit-upsell-55263.html)
+> Product ID `55263` · Digistore24 productId `653336` · [HTML profile page](../../produkte/byebye-hamsterrad-community-gratis-einstieg-mit-upsell-55263.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Notfallvorsorge und Betriebsausfall – Awareness-Mission
 
-> Product ID `60107` · Digistore24 productId `735344` · [HTML profile page](../../reviews/notfallvorsorge-und-betriebsausfall-awareness-mission-60107.html)
+> Product ID `60107` · Digistore24 productId `735344` · [HTML profile page](../../produkte/notfallvorsorge-und-betriebsausfall-awareness-mission-60107.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

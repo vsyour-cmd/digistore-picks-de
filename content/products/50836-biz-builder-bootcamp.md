@@ -1,6 +1,6 @@
 # Biz Builder Bootcamp
 
-> Product ID `50836` · Digistore24 productId `579927` · [HTML profile page](../../reviews/biz-builder-bootcamp-50836.html)
+> Product ID `50836` · Digistore24 productId `579927` · [HTML profile page](../../produkte/biz-builder-bootcamp-50836.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

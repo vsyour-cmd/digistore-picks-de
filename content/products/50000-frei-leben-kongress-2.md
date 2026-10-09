@@ -1,6 +1,6 @@
 # Frei Leben Kongress 2
 
-> Product ID `50000` · Digistore24 productId `568077` · [HTML profile page](../../reviews/frei-leben-kongress-2-50000.html)
+> Product ID `50000` · Digistore24 productId `568077` · [HTML profile page](../../produkte/frei-leben-kongress-2-50000.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

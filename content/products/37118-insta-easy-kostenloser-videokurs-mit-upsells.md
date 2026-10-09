@@ -1,6 +1,6 @@
 # Insta Easy - kostenloser Videokurs mit Upsells
 
-> Product ID `37118` · Digistore24 productId `297539` · [HTML profile page](../../reviews/insta-easy-kostenloser-videokurs-mit-upsells-37118.html)
+> Product ID `37118` · Digistore24 productId `297539` · [HTML profile page](../../produkte/insta-easy-kostenloser-videokurs-mit-upsells-37118.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

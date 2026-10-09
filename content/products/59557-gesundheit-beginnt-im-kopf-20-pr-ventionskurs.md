@@ -1,6 +1,6 @@
 # Gesundheit beginnt im Kopf - §20 Präventionskurs
 
-> Product ID `59557` · Digistore24 productId `702652` · [HTML profile page](../../reviews/gesundheit-beginnt-im-kopf-20-pr-ventionskurs-59557.html)
+> Product ID `59557` · Digistore24 productId `702652` · [HTML profile page](../../produkte/gesundheit-beginnt-im-kopf-20-pr-ventionskurs-59557.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

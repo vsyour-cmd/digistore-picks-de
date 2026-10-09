@@ -1,6 +1,6 @@
 # Selbstudium H1 und H2 Hygieneschulung
 
-> Product ID `55744` · Digistore24 productId `672222` · [HTML profile page](../../reviews/selbstudium-h1-und-h2-hygieneschulung-55744.html)
+> Product ID `55744` · Digistore24 productId `672222` · [HTML profile page](../../produkte/selbstudium-h1-und-h2-hygieneschulung-55744.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

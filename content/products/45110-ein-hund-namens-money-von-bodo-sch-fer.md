@@ -1,6 +1,6 @@
 # "Ein Hund Namens Money" von Bodo Schäfer
 
-> Product ID `45110` · Digistore24 productId `327088` · [HTML profile page](../../reviews/ein-hund-namens-money-von-bodo-sch-fer-45110.html)
+> Product ID `45110` · Digistore24 productId `327088` · [HTML profile page](../../produkte/ein-hund-namens-money-von-bodo-sch-fer-45110.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

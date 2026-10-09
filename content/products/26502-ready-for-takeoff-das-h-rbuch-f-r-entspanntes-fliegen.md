@@ -1,6 +1,6 @@
 # Ready for Takeoff - Das Hörbuch für entspanntes Fliegen
 
-> Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../reviews/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)
+> Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../produkte/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

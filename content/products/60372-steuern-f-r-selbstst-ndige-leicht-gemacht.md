@@ -1,6 +1,6 @@
 # Steuern für Selbstständige leicht gemacht
 
-> Product ID `60372` · Digistore24 productId `742038` · [HTML profile page](../../reviews/steuern-f-r-selbstst-ndige-leicht-gemacht-60372.html)
+> Product ID `60372` · Digistore24 productId `742038` · [HTML profile page](../../produkte/steuern-f-r-selbstst-ndige-leicht-gemacht-60372.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

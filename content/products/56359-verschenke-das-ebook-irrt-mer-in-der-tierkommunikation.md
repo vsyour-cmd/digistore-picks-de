@@ -1,6 +1,6 @@
 # VERSCHENKE das ebook Irrtümer in der Tierkommunikation
 
-> Product ID `56359` · Digistore24 productId `687840` · [HTML profile page](../../reviews/verschenke-das-ebook-irrt-mer-in-der-tierkommunikation-56359.html)
+> Product ID `56359` · Digistore24 productId `687840` · [HTML profile page](../../produkte/verschenke-das-ebook-irrt-mer-in-der-tierkommunikation-56359.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Geburtsvorbereitungskurs Online
 
-> Product ID `33272` · Digistore24 productId `364116` · [HTML profile page](../../reviews/geburtsvorbereitungskurs-online-33272.html)
+> Product ID `33272` · Digistore24 productId `364116` · [HTML profile page](../../produkte/geburtsvorbereitungskurs-online-33272.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

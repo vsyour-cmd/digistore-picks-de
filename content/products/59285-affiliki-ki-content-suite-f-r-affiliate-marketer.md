@@ -1,6 +1,6 @@
 # AffiliKI – KI-Content-Suite für Affiliate-Marketer
 
-> Product ID `59285` · Digistore24 productId `719411` · [HTML profile page](../../reviews/affiliki-ki-content-suite-f-r-affiliate-marketer-59285.html)
+> Product ID `59285` · Digistore24 productId `719411` · [HTML profile page](../../produkte/affiliki-ki-content-suite-f-r-affiliate-marketer-59285.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Goodbye 9 to 5 - ortsunabhängig arbeiten und leben [E-Book]
 
-> Product ID `25509` · Digistore24 productId `161321` · [HTML profile page](../../reviews/goodbye-9-to-5-ortsunabh-ngig-arbeiten-und-leben-e-book-25509.html)
+> Product ID `25509` · Digistore24 productId `161321` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-arbeiten-und-leben-e-book-25509.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

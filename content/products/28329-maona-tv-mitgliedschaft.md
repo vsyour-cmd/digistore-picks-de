@@ -1,6 +1,6 @@
 # maona.tv - Mitgliedschaft
 
-> Product ID `28329` · Digistore24 productId `248911` · [HTML profile page](../../reviews/maona-tv-mitgliedschaft-28329.html)
+> Product ID `28329` · Digistore24 productId `248911` · [HTML profile page](../../produkte/maona-tv-mitgliedschaft-28329.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

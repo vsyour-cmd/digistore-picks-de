@@ -1,6 +1,6 @@
 # SMS-Signale - einfach Geld verdienen an der Börse
 
-> Product ID `15267` · Digistore24 productId `99275` · [HTML profile page](../../reviews/sms-signale-einfach-geld-verdienen-an-der-b-rse-15267.html)
+> Product ID `15267` · Digistore24 productId `99275` · [HTML profile page](../../produkte/sms-signale-einfach-geld-verdienen-an-der-b-rse-15267.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

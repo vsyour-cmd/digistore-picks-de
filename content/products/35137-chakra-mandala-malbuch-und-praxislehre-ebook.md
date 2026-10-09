@@ -1,6 +1,6 @@
 # Chakra Mandala Malbuch und Praxislehre - eBook
 
-> Product ID `35137` · Digistore24 productId `314832` · [HTML profile page](../../reviews/chakra-mandala-malbuch-und-praxislehre-ebook-35137.html)
+> Product ID `35137` · Digistore24 productId `314832` · [HTML profile page](../../produkte/chakra-mandala-malbuch-und-praxislehre-ebook-35137.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

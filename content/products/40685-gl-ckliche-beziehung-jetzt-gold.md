@@ -1,6 +1,6 @@
 # Glückliche Beziehung Jetzt - Gold!
 
-> Product ID `40685` · Digistore24 productId `417298` · [HTML profile page](../../reviews/gl-ckliche-beziehung-jetzt-gold-40685.html)
+> Product ID `40685` · Digistore24 productId `417298` · [HTML profile page](../../produkte/gl-ckliche-beziehung-jetzt-gold-40685.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

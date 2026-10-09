@@ -1,6 +1,6 @@
 # Kostenrechnung für Industriemeister
 
-> Product ID `52182` · Digistore24 productId `607926` · [HTML profile page](../../reviews/kostenrechnung-f-r-industriemeister-52182.html)
+> Product ID `52182` · Digistore24 productId `607926` · [HTML profile page](../../produkte/kostenrechnung-f-r-industriemeister-52182.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

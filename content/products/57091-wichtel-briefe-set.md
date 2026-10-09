@@ -1,6 +1,6 @@
 # Wichtel Briefe Set
 
-> Product ID `57091` · Digistore24 productId `698672` · [HTML profile page](../../reviews/wichtel-briefe-set-57091.html)
+> Product ID `57091` · Digistore24 productId `698672` · [HTML profile page](../../produkte/wichtel-briefe-set-57091.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

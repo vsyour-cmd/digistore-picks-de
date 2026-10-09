@@ -1,6 +1,6 @@
 # Mit dem Bindungssignal kommt dein Hund immer zurück zu dir
 
-> Product ID `56062` · Digistore24 productId `680057` · [HTML profile page](../../reviews/mit-dem-bindungssignal-kommt-dein-hund-immer-zur-ck-zu-dir-56062.html)
+> Product ID `56062` · Digistore24 productId `680057` · [HTML profile page](../../produkte/mit-dem-bindungssignal-kommt-dein-hund-immer-zur-ck-zu-dir-56062.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

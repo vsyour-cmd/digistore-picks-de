@@ -1,6 +1,6 @@
 # Digitale Ordnung für Dateien und E-Mails
 
-> Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../reviews/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)
+> Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../produkte/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

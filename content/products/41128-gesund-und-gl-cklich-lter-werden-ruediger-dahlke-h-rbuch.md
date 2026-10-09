@@ -1,6 +1,6 @@
 # Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch
 
-> Product ID `41128` · Digistore24 productId `459068` · [HTML profile page](../../reviews/gesund-und-gl-cklich-lter-werden-ruediger-dahlke-h-rbuch-41128.html)
+> Product ID `41128` · Digistore24 productId `459068` · [HTML profile page](../../produkte/gesund-und-gl-cklich-lter-werden-ruediger-dahlke-h-rbuch-41128.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Digitale Produkte mit Digistore24 – Praxisleitfaden
 
-> Product ID `58451` · Digistore24 productId `718575` · [HTML profile page](../../reviews/digitale-produkte-mit-digistore24-praxisleitfaden-58451.html)
+> Product ID `58451` · Digistore24 productId `718575` · [HTML profile page](../../produkte/digitale-produkte-mit-digistore24-praxisleitfaden-58451.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

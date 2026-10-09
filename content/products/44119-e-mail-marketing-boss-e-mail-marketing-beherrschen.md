@@ -1,6 +1,6 @@
 # E-Mail-Marketing Boss - E-Mail-Marketing beherrschen
 
-> Product ID `44119` · Digistore24 productId `482128` · [HTML profile page](../../reviews/e-mail-marketing-boss-e-mail-marketing-beherrschen-44119.html)
+> Product ID `44119` · Digistore24 productId `482128` · [HTML profile page](../../produkte/e-mail-marketing-boss-e-mail-marketing-beherrschen-44119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

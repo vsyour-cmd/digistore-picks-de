@@ -1,6 +1,6 @@
 # Schatten und Licht – Dein 14-Tage-Journal
 
-> Product ID `59313` · Digistore24 productId `732563` · [HTML profile page](../../reviews/schatten-und-licht-dein-14-tage-journal-59313.html)
+> Product ID `59313` · Digistore24 productId `732563` · [HTML profile page](../../produkte/schatten-und-licht-dein-14-tage-journal-59313.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

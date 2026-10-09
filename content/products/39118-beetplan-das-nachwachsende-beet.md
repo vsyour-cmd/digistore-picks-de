@@ -1,6 +1,6 @@
 # Beetplan „Das Nachwachsende Beet“
 
-> Product ID `39118` · Digistore24 productId `380867` · [HTML profile page](../../reviews/beetplan-das-nachwachsende-beet-39118.html)
+> Product ID `39118` · Digistore24 productId `380867` · [HTML profile page](../../produkte/beetplan-das-nachwachsende-beet-39118.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

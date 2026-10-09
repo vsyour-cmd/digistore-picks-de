@@ -1,6 +1,6 @@
 # PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision
 
-> Product ID `55969` · Digistore24 productId `676766` · [HTML profile page](../../reviews/prixus-callbutler-ki-telefonassistent-f-r-unternehmen-30-provision-55969.html)
+> Product ID `55969` · Digistore24 productId `676766` · [HTML profile page](../../produkte/prixus-callbutler-ki-telefonassistent-f-r-unternehmen-30-provision-55969.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # E-Book "How to be rich: Geheimnisse der Millionäre"
 
-> Product ID `31940` · Digistore24 productId `314028` · [HTML profile page](../../reviews/e-book-how-to-be-rich-geheimnisse-der-million-re-31940.html)
+> Product ID `31940` · Digistore24 productId `314028` · [HTML profile page](../../produkte/e-book-how-to-be-rich-geheimnisse-der-million-re-31940.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

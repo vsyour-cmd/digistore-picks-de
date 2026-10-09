@@ -1,6 +1,6 @@
 # Microsoft Teams im Unternehmen
 
-> Product ID `44152` · Digistore24 productId `488373` · [HTML profile page](../../reviews/microsoft-teams-im-unternehmen-44152.html)
+> Product ID `44152` · Digistore24 productId `488373` · [HTML profile page](../../produkte/microsoft-teams-im-unternehmen-44152.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

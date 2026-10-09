@@ -1,6 +1,6 @@
 # Commission Kickstart: In 30 Tagen zur ersten Affiliate-Provi
 
-> Product ID `56624` · Digistore24 productId `693278` · [HTML profile page](../../reviews/commission-kickstart-in-30-tagen-zur-ersten-affiliate-provi-56624.html)
+> Product ID `56624` · Digistore24 productId `693278` · [HTML profile page](../../produkte/commission-kickstart-in-30-tagen-zur-ersten-affiliate-provi-56624.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

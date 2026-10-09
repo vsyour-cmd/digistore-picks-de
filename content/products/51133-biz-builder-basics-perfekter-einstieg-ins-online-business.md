@@ -1,6 +1,6 @@
 # Biz Builder Basics – Perfekter Einstieg ins Online-Business!
 
-> Product ID `51133` · Digistore24 productId `592109` · [HTML profile page](../../reviews/biz-builder-basics-perfekter-einstieg-ins-online-business-51133.html)
+> Product ID `51133` · Digistore24 productId `592109` · [HTML profile page](../../produkte/biz-builder-basics-perfekter-einstieg-ins-online-business-51133.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

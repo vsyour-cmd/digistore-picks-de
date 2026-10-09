@@ -1,6 +1,6 @@
 # Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)
 
-> Product ID `37344` · Digistore24 productId `395441` · [HTML profile page](../../reviews/verlustangst-berwinden-eifersucht-besiegen-onlinekurs-37344.html)
+> Product ID `37344` · Digistore24 productId `395441` · [HTML profile page](../../produkte/verlustangst-berwinden-eifersucht-besiegen-onlinekurs-37344.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

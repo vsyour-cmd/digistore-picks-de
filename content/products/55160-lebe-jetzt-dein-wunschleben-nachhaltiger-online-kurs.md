@@ -1,6 +1,6 @@
 # Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs
 
-> Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../reviews/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
+> Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../produkte/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

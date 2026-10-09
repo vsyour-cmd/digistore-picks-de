@@ -1,6 +1,6 @@
 # Digital Album "Love and Light" - high energy healing music
 
-> Product ID `47178` · Digistore24 productId `538504` · [HTML profile page](../../reviews/digital-album-love-and-light-high-energy-healing-music-47178.html)
+> Product ID `47178` · Digistore24 productId `538504` · [HTML profile page](../../produkte/digital-album-love-and-light-high-energy-healing-music-47178.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Mental Health Depression lösen - health-generation
 
-> Product ID `48733` · Digistore24 productId `547957` · [HTML profile page](../../reviews/mental-health-depression-l-sen-health-generation-48733.html)
+> Product ID `48733` · Digistore24 productId `547957` · [HTML profile page](../../produkte/mental-health-depression-l-sen-health-generation-48733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

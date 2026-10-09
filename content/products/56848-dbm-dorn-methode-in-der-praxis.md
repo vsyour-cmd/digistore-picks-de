@@ -1,6 +1,6 @@
 # DBM - Dorn-Methode in der Praxis
 
-> Product ID `56848` · Digistore24 productId `698552` · [HTML profile page](../../reviews/dbm-dorn-methode-in-der-praxis-56848.html)
+> Product ID `56848` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-methode-in-der-praxis-56848.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

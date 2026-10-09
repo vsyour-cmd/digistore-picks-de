@@ -1,6 +1,6 @@
 # GKG-BUNDLE 1+2+2.A Planungspaket
 
-> Product ID `59736` · Digistore24 productId `732161` · [HTML profile page](../../reviews/gkg-bundle-1-2-2-a-planungspaket-59736.html)
+> Product ID `59736` · Digistore24 productId `732161` · [HTML profile page](../../produkte/gkg-bundle-1-2-2-a-planungspaket-59736.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

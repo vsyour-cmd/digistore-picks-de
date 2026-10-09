@@ -1,6 +1,6 @@
 # New Spirit for Money und Business VIP Paket und Bundle
 
-> Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../reviews/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)
+> Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../produkte/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

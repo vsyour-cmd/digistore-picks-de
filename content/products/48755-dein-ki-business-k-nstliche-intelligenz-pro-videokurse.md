@@ -1,6 +1,6 @@
 # "Dein KI-Business" - Künstliche Intelligenz PRO - Videokurse
 
-> Product ID `48755` · Digistore24 productId `556468` · [HTML profile page](../../reviews/dein-ki-business-k-nstliche-intelligenz-pro-videokurse-48755.html)
+> Product ID `48755` · Digistore24 productId `556468` · [HTML profile page](../../produkte/dein-ki-business-k-nstliche-intelligenz-pro-videokurse-48755.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

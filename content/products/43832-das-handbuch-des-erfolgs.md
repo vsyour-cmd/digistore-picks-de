@@ -1,6 +1,6 @@
 # Das Handbuch des Erfolgs
 
-> Product ID `43832` · Digistore24 productId `487962` · [HTML profile page](../../reviews/das-handbuch-des-erfolgs-43832.html)
+> Product ID `43832` · Digistore24 productId `487962` · [HTML profile page](../../produkte/das-handbuch-des-erfolgs-43832.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

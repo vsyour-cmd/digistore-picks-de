@@ -1,6 +1,6 @@
 # Angstfrei mit Hypnobreath® – Bestseller-Audio
 
-> Product ID `58964` · Digistore24 productId `692857` · [HTML profile page](../../reviews/angstfrei-mit-hypnobreath-bestseller-audio-58964.html)
+> Product ID `58964` · Digistore24 productId `692857` · [HTML profile page](../../produkte/angstfrei-mit-hypnobreath-bestseller-audio-58964.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

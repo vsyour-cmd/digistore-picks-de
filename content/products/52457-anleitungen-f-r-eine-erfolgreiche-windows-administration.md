@@ -1,6 +1,6 @@
 # Anleitungen für eine erfolgreiche Windows Administration
 
-> Product ID `52457` · Digistore24 productId `597498` · [HTML profile page](../../reviews/anleitungen-f-r-eine-erfolgreiche-windows-administration-52457.html)
+> Product ID `52457` · Digistore24 productId `597498` · [HTML profile page](../../produkte/anleitungen-f-r-eine-erfolgreiche-windows-administration-52457.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

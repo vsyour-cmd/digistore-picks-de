@@ -1,6 +1,6 @@
 # Gitarre Lernen in 4 Wochen Crashkurs
 
-> Product ID `4809` · Digistore24 productId `33329` · [HTML profile page](../../reviews/gitarre-lernen-in-4-wochen-crashkurs-4809.html)
+> Product ID `4809` · Digistore24 productId `33329` · [HTML profile page](../../produkte/gitarre-lernen-in-4-wochen-crashkurs-4809.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

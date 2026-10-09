@@ -1,6 +1,6 @@
 # Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl
 
-> Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../reviews/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)
+> Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../produkte/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Digital Heart Business Academy ABO
 
-> Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../reviews/digital-heart-business-academy-abo-47158.html)
+> Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../produkte/digital-heart-business-academy-abo-47158.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

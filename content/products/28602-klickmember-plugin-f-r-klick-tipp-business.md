@@ -1,6 +1,6 @@
 # KlickMember Plugin für Klick-Tipp (Business)
 
-> Product ID `28602` · Digistore24 productId `179949` · [HTML profile page](../../reviews/klickmember-plugin-f-r-klick-tipp-business-28602.html)
+> Product ID `28602` · Digistore24 productId `179949` · [HTML profile page](../../produkte/klickmember-plugin-f-r-klick-tipp-business-28602.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

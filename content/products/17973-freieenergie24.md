@@ -1,6 +1,6 @@
 # FreieEnergie24
 
-> Product ID `17973` · Digistore24 productId `151443` · [HTML profile page](../../reviews/freieenergie24-17973.html)
+> Product ID `17973` · Digistore24 productId `151443` · [HTML profile page](../../produkte/freieenergie24-17973.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

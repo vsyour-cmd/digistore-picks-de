@@ -1,6 +1,6 @@
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
-> Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../reviews/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
+> Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../produkte/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

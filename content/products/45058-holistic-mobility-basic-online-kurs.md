@@ -1,6 +1,6 @@
 # Holistic Mobility BASIC [Online Kurs]
 
-> Product ID `45058` · Digistore24 productId `512313` · [HTML profile page](../../reviews/holistic-mobility-basic-online-kurs-45058.html)
+> Product ID `45058` · Digistore24 productId `512313` · [HTML profile page](../../produkte/holistic-mobility-basic-online-kurs-45058.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

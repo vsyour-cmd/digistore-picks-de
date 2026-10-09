@@ -1,6 +1,6 @@
 # High Frequency Kongress 6 - VIP Paket und Bundle
 
-> Product ID `57049` · Digistore24 productId `685840` · [HTML profile page](../../reviews/high-frequency-kongress-6-vip-paket-und-bundle-57049.html)
+> Product ID `57049` · Digistore24 productId `685840` · [HTML profile page](../../produkte/high-frequency-kongress-6-vip-paket-und-bundle-57049.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

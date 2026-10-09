@@ -1,6 +1,6 @@
 # Spanisch-Guide Deluxe
 
-> Product ID `58524` · Digistore24 productId `724895` · [HTML profile page](../../reviews/spanisch-guide-deluxe-58524.html)
+> Product ID `58524` · Digistore24 productId `724895` · [HTML profile page](../../produkte/spanisch-guide-deluxe-58524.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

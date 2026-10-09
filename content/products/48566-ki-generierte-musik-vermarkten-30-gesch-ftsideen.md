@@ -1,6 +1,6 @@
 # KI-generierte Musik vermarkten (30 Geschäftsideen)
 
-> Product ID `48566` · Digistore24 productId `559957` · [HTML profile page](../../reviews/ki-generierte-musik-vermarkten-30-gesch-ftsideen-48566.html)
+> Product ID `48566` · Digistore24 productId `559957` · [HTML profile page](../../produkte/ki-generierte-musik-vermarkten-30-gesch-ftsideen-48566.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

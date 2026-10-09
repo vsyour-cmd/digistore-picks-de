@@ -1,6 +1,6 @@
 # RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen
 
-> Product ID `57811` · Digistore24 productId `705800` · [HTML profile page](../../reviews/rootguide-pflanzen-und-d-nger-kompass-mit-pflanzabst-nden-57811.html)
+> Product ID `57811` · Digistore24 productId `705800` · [HTML profile page](../../produkte/rootguide-pflanzen-und-d-nger-kompass-mit-pflanzabst-nden-57811.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

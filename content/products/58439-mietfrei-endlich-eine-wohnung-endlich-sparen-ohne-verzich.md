@@ -1,6 +1,6 @@
 # MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich
 
-> Product ID `58439` · Digistore24 productId `715295` · [HTML profile page](../../reviews/mietfrei-endlich-eine-wohnung-endlich-sparen-ohne-verzich-58439.html)
+> Product ID `58439` · Digistore24 productId `715295` · [HTML profile page](../../produkte/mietfrei-endlich-eine-wohnung-endlich-sparen-ohne-verzich-58439.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

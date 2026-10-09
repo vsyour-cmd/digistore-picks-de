@@ -1,6 +1,6 @@
 # Nähre deine Seele - Raus aus der Essstörung
 
-> Product ID `53911` · Digistore24 productId `633705` · [HTML profile page](../../reviews/n-hre-deine-seele-raus-aus-der-essst-rung-53911.html)
+> Product ID `53911` · Digistore24 productId `633705` · [HTML profile page](../../produkte/n-hre-deine-seele-raus-aus-der-essst-rung-53911.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

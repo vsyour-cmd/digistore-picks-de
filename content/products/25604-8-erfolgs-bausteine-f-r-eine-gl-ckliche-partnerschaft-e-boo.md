@@ -1,6 +1,6 @@
 # 8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo
 
-> Product ID `25604` · Digistore24 productId `217161` · [HTML profile page](../../reviews/8-erfolgs-bausteine-f-r-eine-gl-ckliche-partnerschaft-e-boo-25604.html)
+> Product ID `25604` · Digistore24 productId `217161` · [HTML profile page](../../produkte/8-erfolgs-bausteine-f-r-eine-gl-ckliche-partnerschaft-e-boo-25604.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

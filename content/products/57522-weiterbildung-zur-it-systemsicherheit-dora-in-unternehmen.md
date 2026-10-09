@@ -1,6 +1,6 @@
 # Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen
 
-> Product ID `57522` · Digistore24 productId `711552` · [HTML profile page](../../reviews/weiterbildung-zur-it-systemsicherheit-dora-in-unternehmen-57522.html)
+> Product ID `57522` · Digistore24 productId `711552` · [HTML profile page](../../produkte/weiterbildung-zur-it-systemsicherheit-dora-in-unternehmen-57522.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

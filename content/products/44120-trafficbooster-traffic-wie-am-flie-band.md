@@ -1,6 +1,6 @@
 # TrafficBooster - Traffic wie am Fließband
 
-> Product ID `44120` · Digistore24 productId `482088` · [HTML profile page](../../reviews/trafficbooster-traffic-wie-am-flie-band-44120.html)
+> Product ID `44120` · Digistore24 productId `482088` · [HTML profile page](../../produkte/trafficbooster-traffic-wie-am-flie-band-44120.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

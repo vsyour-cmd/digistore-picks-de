@@ -1,6 +1,6 @@
 # 30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision
 
-> Product ID `58240` · Digistore24 productId `717830` · [HTML profile page](../../reviews/30-tage-rauchfrei-challenge-30-schritte-50-provision-58240.html)
+> Product ID `58240` · Digistore24 productId `717830` · [HTML profile page](../../produkte/30-tage-rauchfrei-challenge-30-schritte-50-provision-58240.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

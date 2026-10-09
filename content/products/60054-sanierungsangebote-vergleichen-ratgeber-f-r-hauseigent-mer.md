@@ -1,6 +1,6 @@
 # Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer
 
-> Product ID `60054` · Digistore24 productId `738953` · [HTML profile page](../../reviews/sanierungsangebote-vergleichen-ratgeber-f-r-hauseigent-mer-60054.html)
+> Product ID `60054` · Digistore24 productId `738953` · [HTML profile page](../../produkte/sanierungsangebote-vergleichen-ratgeber-f-r-hauseigent-mer-60054.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

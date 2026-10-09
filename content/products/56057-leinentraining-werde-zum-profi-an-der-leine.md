@@ -1,6 +1,6 @@
 # Leinentraining: Werde zum Profi an der Leine!
 
-> Product ID `56057` · Digistore24 productId `680013` · [HTML profile page](../../reviews/leinentraining-werde-zum-profi-an-der-leine-56057.html)
+> Product ID `56057` · Digistore24 productId `680013` · [HTML profile page](../../produkte/leinentraining-werde-zum-profi-an-der-leine-56057.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

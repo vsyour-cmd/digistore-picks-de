@@ -1,6 +1,6 @@
 # METEOR
 
-> Product ID `58733` · Digistore24 productId `717233` · [HTML profile page](../../reviews/meteor-58733.html)
+> Product ID `58733` · Digistore24 productId `717233` · [HTML profile page](../../produkte/meteor-58733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

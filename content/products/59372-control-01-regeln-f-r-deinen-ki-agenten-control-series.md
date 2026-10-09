@@ -1,6 +1,6 @@
 # CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)
 
-> Product ID `59372` · Digistore24 productId `733384` · [HTML profile page](../../reviews/control-01-regeln-f-r-deinen-ki-agenten-control-series-59372.html)
+> Product ID `59372` · Digistore24 productId `733384` · [HTML profile page](../../produkte/control-01-regeln-f-r-deinen-ki-agenten-control-series-59372.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

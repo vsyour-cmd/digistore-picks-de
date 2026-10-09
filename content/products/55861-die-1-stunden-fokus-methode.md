@@ -1,6 +1,6 @@
 # Die 1-Stunden-Fokus-Methode
 
-> Product ID `55861` · Digistore24 productId `674791` · [HTML profile page](../../reviews/die-1-stunden-fokus-methode-55861.html)
+> Product ID `55861` · Digistore24 productId `674791` · [HTML profile page](../../produkte/die-1-stunden-fokus-methode-55861.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

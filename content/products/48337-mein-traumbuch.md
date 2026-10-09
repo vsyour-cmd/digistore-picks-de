@@ -1,6 +1,6 @@
 # Mein Traumbuch
 
-> Product ID `48337` · Digistore24 productId `556195` · [HTML profile page](../../reviews/mein-traumbuch-48337.html)
+> Product ID `48337` · Digistore24 productId `556195` · [HTML profile page](../../produkte/mein-traumbuch-48337.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # 5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon
 
-> Product ID `18839` · Digistore24 productId `153427` · [HTML profile page](../../reviews/5-provision-pro-gratis-buchverkauf-immobilien-tycoon-18839.html)
+> Product ID `18839` · Digistore24 productId `153427` · [HTML profile page](../../produkte/5-provision-pro-gratis-buchverkauf-immobilien-tycoon-18839.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

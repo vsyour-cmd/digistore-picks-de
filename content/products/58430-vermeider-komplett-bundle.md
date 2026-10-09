@@ -1,6 +1,6 @@
 # Vermeider Komplett Bundle
 
-> Product ID `58430` · Digistore24 productId `717908` · [HTML profile page](../../reviews/vermeider-komplett-bundle-58430.html)
+> Product ID `58430` · Digistore24 productId `717908` · [HTML profile page](../../produkte/vermeider-komplett-bundle-58430.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

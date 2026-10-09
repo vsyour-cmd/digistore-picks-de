@@ -1,6 +1,6 @@
 # Sonne Karikatur Grafik
 
-> Product ID `55079` · Digistore24 productId `658510` · [HTML profile page](../../reviews/sonne-karikatur-grafik-55079.html)
+> Product ID `55079` · Digistore24 productId `658510` · [HTML profile page](../../produkte/sonne-karikatur-grafik-55079.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

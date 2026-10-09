@@ -1,6 +1,6 @@
 # Reel Mastery
 
-> Product ID `55684` · Digistore24 productId `595161` · [HTML profile page](../../reviews/reel-mastery-55684.html)
+> Product ID `55684` · Digistore24 productId `595161` · [HTML profile page](../../produkte/reel-mastery-55684.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

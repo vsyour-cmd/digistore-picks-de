@@ -1,6 +1,6 @@
 # Fullpage Webseite " 5-10 Page " erstellen günstig mit 899
 
-> Product ID `55668` · Digistore24 productId `654150` · [HTML profile page](../../reviews/fullpage-webseite-5-10-page-erstellen-g-nstig-mit-899-55668.html)
+> Product ID `55668` · Digistore24 productId `654150` · [HTML profile page](../../produkte/fullpage-webseite-5-10-page-erstellen-g-nstig-mit-899-55668.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Diamond Hands Kurs
 
-> Product ID `58515` · Digistore24 productId `680424` · [HTML profile page](../../reviews/diamond-hands-kurs-58515.html)
+> Product ID `58515` · Digistore24 productId `680424` · [HTML profile page](../../produkte/diamond-hands-kurs-58515.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

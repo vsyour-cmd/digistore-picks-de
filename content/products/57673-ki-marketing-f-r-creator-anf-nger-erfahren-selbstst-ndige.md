@@ -1,6 +1,6 @@
 # Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige
 
-> Product ID `57673` · Digistore24 productId `711211` · [HTML profile page](../../reviews/ki-marketing-f-r-creator-anf-nger-erfahren-selbstst-ndige-57673.html)
+> Product ID `57673` · Digistore24 productId `711211` · [HTML profile page](../../produkte/ki-marketing-f-r-creator-anf-nger-erfahren-selbstst-ndige-57673.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

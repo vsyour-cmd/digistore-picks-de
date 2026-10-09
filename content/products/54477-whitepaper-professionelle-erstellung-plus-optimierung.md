@@ -1,6 +1,6 @@
 # Whitepaper Professionelle Erstellung plus Optimierung
 
-> Product ID `54477` · Digistore24 productId `642742` · [HTML profile page](../../reviews/whitepaper-professionelle-erstellung-plus-optimierung-54477.html)
+> Product ID `54477` · Digistore24 productId `642742` · [HTML profile page](../../produkte/whitepaper-professionelle-erstellung-plus-optimierung-54477.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

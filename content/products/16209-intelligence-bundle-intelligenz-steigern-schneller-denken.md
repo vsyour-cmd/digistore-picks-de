@@ -1,6 +1,6 @@
 # Intelligence Bundle – Intelligenz steigern, schneller denken
 
-> Product ID `16209` · Digistore24 productId `133193` · [HTML profile page](../../reviews/intelligence-bundle-intelligenz-steigern-schneller-denken-16209.html)
+> Product ID `16209` · Digistore24 productId `133193` · [HTML profile page](../../produkte/intelligence-bundle-intelligenz-steigern-schneller-denken-16209.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

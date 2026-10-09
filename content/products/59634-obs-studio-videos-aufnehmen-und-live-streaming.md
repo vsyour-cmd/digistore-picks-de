@@ -1,6 +1,6 @@
 # OBS Studio - Videos aufnehmen und Live-Streaming
 
-> Product ID `59634` · Digistore24 productId `734139` · [HTML profile page](../../reviews/obs-studio-videos-aufnehmen-und-live-streaming-59634.html)
+> Product ID `59634` · Digistore24 productId `734139` · [HTML profile page](../../produkte/obs-studio-videos-aufnehmen-und-live-streaming-59634.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

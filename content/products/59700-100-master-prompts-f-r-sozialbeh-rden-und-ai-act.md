@@ -1,6 +1,6 @@
 # 100 Master-Prompts für Sozialbehörden und AI Act
 
-> Product ID `59700` · Digistore24 productId `649016` · [HTML profile page](../../reviews/100-master-prompts-f-r-sozialbeh-rden-und-ai-act-59700.html)
+> Product ID `59700` · Digistore24 productId `649016` · [HTML profile page](../../produkte/100-master-prompts-f-r-sozialbeh-rden-und-ai-act-59700.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

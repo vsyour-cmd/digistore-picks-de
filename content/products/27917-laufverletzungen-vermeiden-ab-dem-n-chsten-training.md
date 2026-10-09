@@ -1,6 +1,6 @@
 # Laufverletzungen vermeiden ab dem nächsten Training
 
-> Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../reviews/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)
+> Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../produkte/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

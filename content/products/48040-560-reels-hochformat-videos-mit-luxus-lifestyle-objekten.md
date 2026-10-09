@@ -1,6 +1,6 @@
 # 560+ Reels (Hochformat Videos) mit Luxus Lifestyle Objekten
 
-> Product ID `48040` · Digistore24 productId `551106` · [HTML profile page](../../reviews/560-reels-hochformat-videos-mit-luxus-lifestyle-objekten-48040.html)
+> Product ID `48040` · Digistore24 productId `551106` · [HTML profile page](../../produkte/560-reels-hochformat-videos-mit-luxus-lifestyle-objekten-48040.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

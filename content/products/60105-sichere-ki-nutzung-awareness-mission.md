@@ -1,6 +1,6 @@
 # Sichere KI-Nutzung – Awareness-Mission
 
-> Product ID `60105` · Digistore24 productId `735343` · [HTML profile page](../../reviews/sichere-ki-nutzung-awareness-mission-60105.html)
+> Product ID `60105` · Digistore24 productId `735343` · [HTML profile page](../../produkte/sichere-ki-nutzung-awareness-mission-60105.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

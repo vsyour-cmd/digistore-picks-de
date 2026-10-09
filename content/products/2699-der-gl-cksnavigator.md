@@ -1,6 +1,6 @@
 # Der Glücksnavigator
 
-> Product ID `2699` · Digistore24 productId `22771` · [HTML profile page](../../reviews/der-gl-cksnavigator-2699.html)
+> Product ID `2699` · Digistore24 productId `22771` · [HTML profile page](../../produkte/der-gl-cksnavigator-2699.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Intensiv Practitioner - 6 Tage am Stück
 
-> Product ID `56182` · Digistore24 productId `581072` · [HTML profile page](../../reviews/intensiv-practitioner-6-tage-am-st-ck-56182.html)
+> Product ID `56182` · Digistore24 productId `581072` · [HTML profile page](../../produkte/intensiv-practitioner-6-tage-am-st-ck-56182.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der KI-Vertriebsassistent
 
-> Product ID `60035` · Digistore24 productId `738797` · [HTML profile page](../../reviews/der-ki-vertriebsassistent-60035.html)
+> Product ID `60035` · Digistore24 productId `738797` · [HTML profile page](../../produkte/der-ki-vertriebsassistent-60035.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

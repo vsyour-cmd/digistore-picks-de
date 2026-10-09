@@ -1,6 +1,6 @@
 # Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs
 
-> Product ID `55183` · Digistore24 productId `655964` · [HTML profile page](../../reviews/mehr-aufmerksamkeit-beim-hund-einfacher-14-tage-mini-kurs-55183.html)
+> Product ID `55183` · Digistore24 productId `655964` · [HTML profile page](../../produkte/mehr-aufmerksamkeit-beim-hund-einfacher-14-tage-mini-kurs-55183.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

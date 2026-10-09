@@ -1,6 +1,6 @@
 # Instagram Playbook - Schritt für Schritt Guide
 
-> Product ID `50846` · Digistore24 productId `588455` · [HTML profile page](../../reviews/instagram-playbook-schritt-f-r-schritt-guide-50846.html)
+> Product ID `50846` · Digistore24 productId `588455` · [HTML profile page](../../produkte/instagram-playbook-schritt-f-r-schritt-guide-50846.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

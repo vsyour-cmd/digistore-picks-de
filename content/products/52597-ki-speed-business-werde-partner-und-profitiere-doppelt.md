@@ -1,6 +1,6 @@
 # KI Speed Business – Werde Partner und profitiere doppelt
 
-> Product ID `52597` · Digistore24 productId `607228` · [HTML profile page](../../reviews/ki-speed-business-werde-partner-und-profitiere-doppelt-52597.html)
+> Product ID `52597` · Digistore24 productId `607228` · [HTML profile page](../../produkte/ki-speed-business-werde-partner-und-profitiere-doppelt-52597.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

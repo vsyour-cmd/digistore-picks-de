@@ -1,6 +1,6 @@
 # Herausragende Raptexte schreiben - so geht's! [E-Book]
 
-> Product ID `34171` · Digistore24 productId `300907` · [HTML profile page](../../reviews/herausragende-raptexte-schreiben-so-geht-s-e-book-34171.html)
+> Product ID `34171` · Digistore24 productId `300907` · [HTML profile page](../../produkte/herausragende-raptexte-schreiben-so-geht-s-e-book-34171.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # So baust du eine Community auf Discord
 
-> Product ID `56984` · Digistore24 productId `701404` · [HTML profile page](../../reviews/so-baust-du-eine-community-auf-discord-56984.html)
+> Product ID `56984` · Digistore24 productId `701404` · [HTML profile page](../../produkte/so-baust-du-eine-community-auf-discord-56984.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

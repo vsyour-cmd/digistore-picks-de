@@ -1,6 +1,6 @@
 # Magnetic Manifestation Club (MMC)
 
-> Product ID `55996` · Digistore24 productId `674138` · [HTML profile page](../../reviews/magnetic-manifestation-club-mmc-55996.html)
+> Product ID `55996` · Digistore24 productId `674138` · [HTML profile page](../../produkte/magnetic-manifestation-club-mmc-55996.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

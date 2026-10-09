@@ -1,6 +1,6 @@
 # Social Media Erfolg - Die 15 besten Strategien
 
-> Product ID `47973` · Digistore24 productId `550042` · [HTML profile page](../../reviews/social-media-erfolg-die-15-besten-strategien-47973.html)
+> Product ID `47973` · Digistore24 productId `550042` · [HTML profile page](../../produkte/social-media-erfolg-die-15-besten-strategien-47973.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

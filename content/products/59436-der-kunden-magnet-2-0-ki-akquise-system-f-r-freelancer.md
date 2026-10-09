@@ -1,6 +1,6 @@
 # Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer
 
-> Product ID `59436` · Digistore24 productId `735162` · [HTML profile page](../../reviews/der-kunden-magnet-2-0-ki-akquise-system-f-r-freelancer-59436.html)
+> Product ID `59436` · Digistore24 productId `735162` · [HTML profile page](../../produkte/der-kunden-magnet-2-0-ki-akquise-system-f-r-freelancer-59436.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer
 
-> Product ID `58940` · Digistore24 productId `668719` · [HTML profile page](../../reviews/der-40-muskel-code-attraktiver-fitness-funnel-f-r-m-nner-58940.html)
+> Product ID `58940` · Digistore24 productId `668719` · [HTML profile page](../../produkte/der-40-muskel-code-attraktiver-fitness-funnel-f-r-m-nner-58940.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

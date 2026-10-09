@@ -1,6 +1,6 @@
 # Online Geld verdienen mit digitalen Dienstleistungen
 
-> Product ID `50228` · Digistore24 productId `734235` · [HTML profile page](../../reviews/online-geld-verdienen-mit-digitalen-dienstleistungen-50228.html)
+> Product ID `50228` · Digistore24 productId `734235` · [HTML profile page](../../produkte/online-geld-verdienen-mit-digitalen-dienstleistungen-50228.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

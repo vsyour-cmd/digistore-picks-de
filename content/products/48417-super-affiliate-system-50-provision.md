@@ -1,6 +1,6 @@
 # Super Affiliate System - 50% Provision
 
-> Product ID `48417` · Digistore24 productId `228247` · [HTML profile page](../../reviews/super-affiliate-system-50-provision-48417.html)
+> Product ID `48417` · Digistore24 productId `228247` · [HTML profile page](../../produkte/super-affiliate-system-50-provision-48417.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

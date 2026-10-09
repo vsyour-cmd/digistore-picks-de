@@ -1,6 +1,6 @@
 # Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz
 
-> Product ID `46957` · Digistore24 productId `227473` · [HTML profile page](../../reviews/neurostreams-blutdruck-schleusen-ffner-in-432-und-528-hertz-46957.html)
+> Product ID `46957` · Digistore24 productId `227473` · [HTML profile page](../../produkte/neurostreams-blutdruck-schleusen-ffner-in-432-und-528-hertz-46957.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

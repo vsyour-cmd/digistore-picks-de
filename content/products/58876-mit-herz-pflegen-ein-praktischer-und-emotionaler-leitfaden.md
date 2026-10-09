@@ -1,6 +1,6 @@
 # Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden
 
-> Product ID `58876` · Digistore24 productId `727344` · [HTML profile page](../../reviews/mit-herz-pflegen-ein-praktischer-und-emotionaler-leitfaden-58876.html)
+> Product ID `58876` · Digistore24 productId `727344` · [HTML profile page](../../produkte/mit-herz-pflegen-ein-praktischer-und-emotionaler-leitfaden-58876.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

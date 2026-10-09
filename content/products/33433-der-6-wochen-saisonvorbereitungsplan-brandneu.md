@@ -1,6 +1,6 @@
 # Der 6 Wochen Saisonvorbereitungsplan Brandneu
 
-> Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../reviews/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)
+> Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../produkte/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Die 17 Wege für lukratives Online-Business
 
-> Product ID `53667` · Digistore24 productId `631469` · [HTML profile page](../../reviews/die-17-wege-f-r-lukratives-online-business-53667.html)
+> Product ID `53667` · Digistore24 productId `631469` · [HTML profile page](../../produkte/die-17-wege-f-r-lukratives-online-business-53667.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

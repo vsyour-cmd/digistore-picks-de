@@ -1,6 +1,6 @@
 # 30 Tage Mamaentlastungsplaner
 
-> Product ID `58738` · Digistore24 productId `725415` · [HTML profile page](../../reviews/30-tage-mamaentlastungsplaner-58738.html)
+> Product ID `58738` · Digistore24 productId `725415` · [HTML profile page](../../produkte/30-tage-mamaentlastungsplaner-58738.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

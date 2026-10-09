@@ -1,6 +1,6 @@
 # Digital Reselling Masterclass Digistore24
 
-> Product ID `56649` · Digistore24 productId `693864` · [HTML profile page](../../reviews/digital-reselling-masterclass-digistore24-56649.html)
+> Product ID `56649` · Digistore24 productId `693864` · [HTML profile page](../../produkte/digital-reselling-masterclass-digistore24-56649.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

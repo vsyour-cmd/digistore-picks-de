@@ -1,6 +1,6 @@
 # ME-DARK SYSTEM  - Dein Online-Business starten
 
-> Product ID `58294` · Digistore24 productId `716340` · [HTML profile page](../../reviews/me-dark-system-dein-online-business-starten-58294.html)
+> Product ID `58294` · Digistore24 productId `716340` · [HTML profile page](../../produkte/me-dark-system-dein-online-business-starten-58294.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

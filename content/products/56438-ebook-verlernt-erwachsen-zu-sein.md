@@ -1,6 +1,6 @@
 # Ebook - Verlernt erwachsen zu sein
 
-> Product ID `56438` · Digistore24 productId `689698` · [HTML profile page](../../reviews/ebook-verlernt-erwachsen-zu-sein-56438.html)
+> Product ID `56438` · Digistore24 productId `689698` · [HTML profile page](../../produkte/ebook-verlernt-erwachsen-zu-sein-56438.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

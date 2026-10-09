@@ -1,6 +1,6 @@
 # Mini-Auszeiten für Lehrkräfte
 
-> Product ID `54551` · Digistore24 productId `644074` · [HTML profile page](../../reviews/mini-auszeiten-f-r-lehrkr-fte-54551.html)
+> Product ID `54551` · Digistore24 productId `644074` · [HTML profile page](../../produkte/mini-auszeiten-f-r-lehrkr-fte-54551.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

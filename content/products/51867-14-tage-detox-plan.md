@@ -1,6 +1,6 @@
 # 14 Tage Detox-Plan
 
-> Product ID `51867` · Digistore24 productId `601282` · [HTML profile page](../../reviews/14-tage-detox-plan-51867.html)
+> Product ID `51867` · Digistore24 productId `601282` · [HTML profile page](../../produkte/14-tage-detox-plan-51867.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

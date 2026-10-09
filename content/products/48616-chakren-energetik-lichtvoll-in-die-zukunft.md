@@ -1,6 +1,6 @@
 # Chakren-Energetik - Lichtvoll in die Zukunft
 
-> Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../reviews/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)
+> Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../produkte/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Feine Antennen – Hochsensibilität verstehen
 
-> Product ID `58920` · Digistore24 productId `729747` · [HTML profile page](../../reviews/feine-antennen-hochsensibilit-t-verstehen-58920.html)
+> Product ID `58920` · Digistore24 productId `729747` · [HTML profile page](../../produkte/feine-antennen-hochsensibilit-t-verstehen-58920.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

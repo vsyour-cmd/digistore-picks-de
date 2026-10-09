@@ -1,6 +1,6 @@
 # Mallorca Bucket List (Deutsch)
 
-> Product ID `55830` · Digistore24 productId `658172` · [HTML profile page](../../reviews/mallorca-bucket-list-deutsch-55830.html)
+> Product ID `55830` · Digistore24 productId `658172` · [HTML profile page](../../produkte/mallorca-bucket-list-deutsch-55830.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

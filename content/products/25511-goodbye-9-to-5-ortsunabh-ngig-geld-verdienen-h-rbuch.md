@@ -1,6 +1,6 @@
 # Goodbye 9 to 5 - ortsunabhängig Geld verdienen [Hörbuch]
 
-> Product ID `25511` · Digistore24 productId `161923` · [HTML profile page](../../reviews/goodbye-9-to-5-ortsunabh-ngig-geld-verdienen-h-rbuch-25511.html)
+> Product ID `25511` · Digistore24 productId `161923` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-geld-verdienen-h-rbuch-25511.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion
 
-> Product ID `44101` · Digistore24 productId `497890` · [HTML profile page](../../reviews/avatar-speak-pro-lebensechte-kiavatare-f-r-mehr-conversion-44101.html)
+> Product ID `44101` · Digistore24 productId `497890` · [HTML profile page](../../produkte/avatar-speak-pro-lebensechte-kiavatare-f-r-mehr-conversion-44101.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

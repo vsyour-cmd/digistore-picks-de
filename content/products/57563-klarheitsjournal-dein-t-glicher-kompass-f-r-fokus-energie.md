@@ -1,6 +1,6 @@
 # Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie
 
-> Product ID `57563` · Digistore24 productId `559233` · [HTML profile page](../../reviews/klarheitsjournal-dein-t-glicher-kompass-f-r-fokus-energie-57563.html)
+> Product ID `57563` · Digistore24 productId `559233` · [HTML profile page](../../produkte/klarheitsjournal-dein-t-glicher-kompass-f-r-fokus-energie-57563.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

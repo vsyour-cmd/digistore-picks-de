@@ -1,6 +1,6 @@
 # Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30
 
-> Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../reviews/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)
+> Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../produkte/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

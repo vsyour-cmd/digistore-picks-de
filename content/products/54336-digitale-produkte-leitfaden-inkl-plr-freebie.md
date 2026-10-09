@@ -1,6 +1,6 @@
 # Digitale Produkte Leitfaden inkl. PLR (Freebie)
 
-> Product ID `54336` · Digistore24 productId `639980` · [HTML profile page](../../reviews/digitale-produkte-leitfaden-inkl-plr-freebie-54336.html)
+> Product ID `54336` · Digistore24 productId `639980` · [HTML profile page](../../produkte/digitale-produkte-leitfaden-inkl-plr-freebie-54336.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

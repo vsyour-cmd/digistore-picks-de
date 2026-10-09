@@ -1,6 +1,6 @@
 # Affiliate Starter System
 
-> Product ID `58807` · Digistore24 productId `727464` · [HTML profile page](../../reviews/affiliate-starter-system-58807.html)
+> Product ID `58807` · Digistore24 productId `727464` · [HTML profile page](../../produkte/affiliate-starter-system-58807.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

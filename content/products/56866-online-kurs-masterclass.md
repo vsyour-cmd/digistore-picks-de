@@ -1,6 +1,6 @@
 # Online Kurs Masterclass
 
-> Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../reviews/online-kurs-masterclass-56866.html)
+> Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

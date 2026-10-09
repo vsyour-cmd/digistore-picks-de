@@ -1,6 +1,6 @@
 # Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch
 
-> Product ID `56510` · Digistore24 productId `683381` · [HTML profile page](../../reviews/mama-40-e-book-f-r-frauen-mir-sp-tem-kinderwunsch-56510.html)
+> Product ID `56510` · Digistore24 productId `683381` · [HTML profile page](../../produkte/mama-40-e-book-f-r-frauen-mir-sp-tem-kinderwunsch-56510.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

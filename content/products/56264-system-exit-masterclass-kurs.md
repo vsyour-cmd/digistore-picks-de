@@ -1,6 +1,6 @@
 # System-Exit- Masterclass Kurs
 
-> Product ID `56264` · Digistore24 productId `682394` · [HTML profile page](../../reviews/system-exit-masterclass-kurs-56264.html)
+> Product ID `56264` · Digistore24 productId `682394` · [HTML profile page](../../produkte/system-exit-masterclass-kurs-56264.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

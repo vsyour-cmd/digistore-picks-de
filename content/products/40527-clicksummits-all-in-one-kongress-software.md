@@ -1,6 +1,6 @@
 # ClickSummits - All-In-One Kongress Software
 
-> Product ID `40527` · Digistore24 productId `368373` · [HTML profile page](../../reviews/clicksummits-all-in-one-kongress-software-40527.html)
+> Product ID `40527` · Digistore24 productId `368373` · [HTML profile page](../../produkte/clicksummits-all-in-one-kongress-software-40527.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

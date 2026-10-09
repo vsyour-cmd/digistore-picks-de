@@ -1,6 +1,6 @@
 # Business starten leicht gemacht - Verdiene an den Ad On's
 
-> Product ID `56232` · Digistore24 productId `684108` · [HTML profile page](../../reviews/business-starten-leicht-gemacht-verdiene-an-den-ad-on-s-56232.html)
+> Product ID `56232` · Digistore24 productId `684108` · [HTML profile page](../../produkte/business-starten-leicht-gemacht-verdiene-an-den-ad-on-s-56232.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

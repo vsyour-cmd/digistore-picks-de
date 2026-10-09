@@ -1,6 +1,6 @@
 # Hausaufgaben ohne Tränen
 
-> Product ID `58278` · Digistore24 productId `681541` · [HTML profile page](../../reviews/hausaufgaben-ohne-tr-nen-58278.html)
+> Product ID `58278` · Digistore24 productId `681541` · [HTML profile page](../../produkte/hausaufgaben-ohne-tr-nen-58278.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

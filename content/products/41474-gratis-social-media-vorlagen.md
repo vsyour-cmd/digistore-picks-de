@@ -1,6 +1,6 @@
 # GRATIS Social Media Vorlagen
 
-> Product ID `41474` · Digistore24 productId `463226` · [HTML profile page](../../reviews/gratis-social-media-vorlagen-41474.html)
+> Product ID `41474` · Digistore24 productId `463226` · [HTML profile page](../../produkte/gratis-social-media-vorlagen-41474.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Praxisguide Nützlinge - chemiefrei in Garten u. Haus
 
-> Product ID `55886` · Digistore24 productId `668980` · [HTML profile page](../../reviews/praxisguide-n-tzlinge-chemiefrei-in-garten-u-haus-55886.html)
+> Product ID `55886` · Digistore24 productId `668980` · [HTML profile page](../../produkte/praxisguide-n-tzlinge-chemiefrei-in-garten-u-haus-55886.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

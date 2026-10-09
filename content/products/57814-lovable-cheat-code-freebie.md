@@ -1,6 +1,6 @@
 # Lovable Cheat Code (Freebie)
 
-> Product ID `57814` · Digistore24 productId `715694` · [HTML profile page](../../reviews/lovable-cheat-code-freebie-57814.html)
+> Product ID `57814` · Digistore24 productId `715694` · [HTML profile page](../../produkte/lovable-cheat-code-freebie-57814.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

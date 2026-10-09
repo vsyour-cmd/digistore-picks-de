@@ -1,6 +1,6 @@
 # PR Paket für Unternehmen und Dienstleister B2B und B2C
 
-> Product ID `54488` · Digistore24 productId `642951` · [HTML profile page](../../reviews/pr-paket-f-r-unternehmen-und-dienstleister-b2b-und-b2c-54488.html)
+> Product ID `54488` · Digistore24 productId `642951` · [HTML profile page](../../produkte/pr-paket-f-r-unternehmen-und-dienstleister-b2b-und-b2c-54488.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

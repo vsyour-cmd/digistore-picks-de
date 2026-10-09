@@ -1,6 +1,6 @@
 # Der KI-Produktdetektiv
 
-> Product ID `54425` · Digistore24 productId `640465` · [HTML profile page](../../reviews/der-ki-produktdetektiv-54425.html)
+> Product ID `54425` · Digistore24 productId `640465` · [HTML profile page](../../produkte/der-ki-produktdetektiv-54425.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

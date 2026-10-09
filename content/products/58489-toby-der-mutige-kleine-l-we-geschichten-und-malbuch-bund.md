@@ -1,6 +1,6 @@
 # Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund
 
-> Product ID `58489` · Digistore24 productId `723302` · [HTML profile page](../../reviews/toby-der-mutige-kleine-l-we-geschichten-und-malbuch-bund-58489.html)
+> Product ID `58489` · Digistore24 productId `723302` · [HTML profile page](../../produkte/toby-der-mutige-kleine-l-we-geschichten-und-malbuch-bund-58489.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

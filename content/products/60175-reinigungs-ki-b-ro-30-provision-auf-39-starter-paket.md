@@ -1,6 +1,6 @@
 # Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
-> Product ID `60175` · Digistore24 productId `732663` · [HTML profile page](../../reviews/reinigungs-ki-b-ro-30-provision-auf-39-starter-paket-60175.html)
+> Product ID `60175` · Digistore24 productId `732663` · [HTML profile page](../../produkte/reinigungs-ki-b-ro-30-provision-auf-39-starter-paket-60175.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Onlinekurse erstellen Workbook
 
-> Product ID `54066` · Digistore24 productId `494109` · [HTML profile page](../../reviews/onlinekurse-erstellen-workbook-54066.html)
+> Product ID `54066` · Digistore24 productId `494109` · [HTML profile page](../../produkte/onlinekurse-erstellen-workbook-54066.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

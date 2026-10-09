@@ -1,6 +1,6 @@
 # Neukundengewinnung über Skool
 
-> Product ID `56989` · Digistore24 productId `701409` · [HTML profile page](../../reviews/neukundengewinnung-ber-skool-56989.html)
+> Product ID `56989` · Digistore24 productId `701409` · [HTML profile page](../../produkte/neukundengewinnung-ber-skool-56989.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

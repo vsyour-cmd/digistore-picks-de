@@ -1,6 +1,6 @@
 # KATZENLIFECOACH® Onlinekurs
 
-> Product ID `58793` · Digistore24 productId `677027` · [HTML profile page](../../reviews/katzenlifecoach-onlinekurs-58793.html)
+> Product ID `58793` · Digistore24 productId `677027` · [HTML profile page](../../produkte/katzenlifecoach-onlinekurs-58793.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

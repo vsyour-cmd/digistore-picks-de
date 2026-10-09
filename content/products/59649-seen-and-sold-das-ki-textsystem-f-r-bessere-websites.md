@@ -1,6 +1,6 @@
 # Seen and Sold: Das KI-Textsystem für bessere Websites
 
-> Product ID `59649` · Digistore24 productId `733708` · [HTML profile page](../../reviews/seen-and-sold-das-ki-textsystem-f-r-bessere-websites-59649.html)
+> Product ID `59649` · Digistore24 productId `733708` · [HTML profile page](../../produkte/seen-and-sold-das-ki-textsystem-f-r-bessere-websites-59649.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

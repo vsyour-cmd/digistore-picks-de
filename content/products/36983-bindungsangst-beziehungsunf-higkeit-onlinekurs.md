@@ -1,6 +1,6 @@
 # Bindungsangst / Beziehungsunfähigkeit - Onlinekurs
 
-> Product ID `36983` · Digistore24 productId `392911` · [HTML profile page](../../reviews/bindungsangst-beziehungsunf-higkeit-onlinekurs-36983.html)
+> Product ID `36983` · Digistore24 productId `392911` · [HTML profile page](../../produkte/bindungsangst-beziehungsunf-higkeit-onlinekurs-36983.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

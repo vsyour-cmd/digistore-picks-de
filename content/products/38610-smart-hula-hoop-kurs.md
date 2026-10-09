@@ -1,6 +1,6 @@
 # Smart Hula Hoop Kurs
 
-> Product ID `38610` · Digistore24 productId `404895` · [HTML profile page](../../reviews/smart-hula-hoop-kurs-38610.html)
+> Product ID `38610` · Digistore24 productId `404895` · [HTML profile page](../../produkte/smart-hula-hoop-kurs-38610.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

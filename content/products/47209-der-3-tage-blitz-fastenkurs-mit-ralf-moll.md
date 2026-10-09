@@ -1,6 +1,6 @@
 # Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll
 
-> Product ID `47209` · Digistore24 productId `368229` · [HTML profile page](../../reviews/der-3-tage-blitz-fastenkurs-mit-ralf-moll-47209.html)
+> Product ID `47209` · Digistore24 productId `368229` · [HTML profile page](../../produkte/der-3-tage-blitz-fastenkurs-mit-ralf-moll-47209.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

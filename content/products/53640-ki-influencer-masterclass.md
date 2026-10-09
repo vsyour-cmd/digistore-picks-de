@@ -1,6 +1,6 @@
 # KI Influencer Masterclass
 
-> Product ID `53640` · Digistore24 productId `628584` · [HTML profile page](../../reviews/ki-influencer-masterclass-53640.html)
+> Product ID `53640` · Digistore24 productId `628584` · [HTML profile page](../../produkte/ki-influencer-masterclass-53640.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

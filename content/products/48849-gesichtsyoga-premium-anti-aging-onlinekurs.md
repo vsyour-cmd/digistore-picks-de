@@ -1,6 +1,6 @@
 # Gesichtsyoga Premium Anti-Aging Onlinekurs
 
-> Product ID `48849` · Digistore24 productId `563631` · [HTML profile page](../../reviews/gesichtsyoga-premium-anti-aging-onlinekurs-48849.html)
+> Product ID `48849` · Digistore24 productId `563631` · [HTML profile page](../../produkte/gesichtsyoga-premium-anti-aging-onlinekurs-48849.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

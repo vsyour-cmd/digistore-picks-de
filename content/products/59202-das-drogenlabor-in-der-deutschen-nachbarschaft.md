@@ -1,6 +1,6 @@
 # Das Drogenlabor in der Deutschen Nachbarschaft
 
-> Product ID `59202` · Digistore24 productId `717533` · [HTML profile page](../../reviews/das-drogenlabor-in-der-deutschen-nachbarschaft-59202.html)
+> Product ID `59202` · Digistore24 productId `717533` · [HTML profile page](../../produkte/das-drogenlabor-in-der-deutschen-nachbarschaft-59202.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

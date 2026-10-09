@@ -1,6 +1,6 @@
 # Instagram und Facebook: Von 0 auf sichtbar
 
-> Product ID `59647` · Digistore24 productId `736804` · [HTML profile page](../../reviews/instagram-und-facebook-von-0-auf-sichtbar-59647.html)
+> Product ID `59647` · Digistore24 productId `736804` · [HTML profile page](../../produkte/instagram-und-facebook-von-0-auf-sichtbar-59647.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

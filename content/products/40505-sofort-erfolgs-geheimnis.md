@@ -1,6 +1,6 @@
 # Sofort-Erfolgs-Geheimnis
 
-> Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../reviews/sofort-erfolgs-geheimnis-40505.html)
+> Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../produkte/sofort-erfolgs-geheimnis-40505.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

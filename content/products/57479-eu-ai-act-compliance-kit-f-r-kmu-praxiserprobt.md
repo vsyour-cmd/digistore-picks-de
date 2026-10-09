@@ -1,6 +1,6 @@
 # EU AI-Act Compliance Kit für KMU (Praxiserprobt)
 
-> Product ID `57479` · Digistore24 productId `679113` · [HTML profile page](../../reviews/eu-ai-act-compliance-kit-f-r-kmu-praxiserprobt-57479.html)
+> Product ID `57479` · Digistore24 productId `679113` · [HTML profile page](../../produkte/eu-ai-act-compliance-kit-f-r-kmu-praxiserprobt-57479.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

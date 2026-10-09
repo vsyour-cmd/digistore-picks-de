@@ -1,6 +1,6 @@
 # Gratis Silent Subliminals (126 Tracks / 0€ Freebie)
 
-> Product ID `45965` · Digistore24 productId `573555` · [HTML profile page](../../reviews/gratis-silent-subliminals-126-tracks-0-freebie-45965.html)
+> Product ID `45965` · Digistore24 productId `573555` · [HTML profile page](../../produkte/gratis-silent-subliminals-126-tracks-0-freebie-45965.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

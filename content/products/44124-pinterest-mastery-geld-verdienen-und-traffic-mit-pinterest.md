@@ -1,6 +1,6 @@
 # Pinterest Mastery - Geld verdienen und Traffic mit Pinterest
 
-> Product ID `44124` · Digistore24 productId `482126` · [HTML profile page](../../reviews/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html)
+> Product ID `44124` · Digistore24 productId `482126` · [HTML profile page](../../produkte/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

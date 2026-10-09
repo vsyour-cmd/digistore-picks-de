@@ -1,6 +1,6 @@
 # Profit Maxima - Profite einfach steigern
 
-> Product ID `44122` · Digistore24 productId `482093` · [HTML profile page](../../reviews/profit-maxima-profite-einfach-steigern-44122.html)
+> Product ID `44122` · Digistore24 productId `482093` · [HTML profile page](../../produkte/profit-maxima-profite-einfach-steigern-44122.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

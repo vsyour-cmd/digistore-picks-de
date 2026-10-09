@@ -1,6 +1,6 @@
 # KMM2017 Krebserkrankungen - Digitales Kongresspaket
 
-> Product ID `19587` · Digistore24 productId `164085` · [HTML profile page](../../reviews/kmm2017-krebserkrankungen-digitales-kongresspaket-19587.html)
+> Product ID `19587` · Digistore24 productId `164085` · [HTML profile page](../../produkte/kmm2017-krebserkrankungen-digitales-kongresspaket-19587.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

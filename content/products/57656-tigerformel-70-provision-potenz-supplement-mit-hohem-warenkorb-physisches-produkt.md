@@ -1,6 +1,6 @@
 # TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)
 
-> Product ID `57656` · Digistore24 productId `225242` · [HTML profile page](../../reviews/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html)
+> Product ID `57656` · Digistore24 productId `225242` · [HTML profile page](../../produkte/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # GEO Traffic - Das neue SEO im KI-Zeitalter
 
-> Product ID `56822` · Digistore24 productId `698057` · [HTML profile page](../../reviews/geo-traffic-das-neue-seo-im-ki-zeitalter-56822.html)
+> Product ID `56822` · Digistore24 productId `698057` · [HTML profile page](../../produkte/geo-traffic-das-neue-seo-im-ki-zeitalter-56822.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

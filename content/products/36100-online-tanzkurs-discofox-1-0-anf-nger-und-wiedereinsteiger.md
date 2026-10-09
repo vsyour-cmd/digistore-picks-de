@@ -1,6 +1,6 @@
 # ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER
 
-> Product ID `36100` · Digistore24 productId `332807` · [HTML profile page](../../reviews/online-tanzkurs-discofox-1-0-anf-nger-und-wiedereinsteiger-36100.html)
+> Product ID `36100` · Digistore24 productId `332807` · [HTML profile page](../../produkte/online-tanzkurs-discofox-1-0-anf-nger-und-wiedereinsteiger-36100.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # FlyCalm Ultimate – Der Komplettkurs gegen Flugangst
 
-> Product ID `55365` · Digistore24 productId `592495` · [HTML profile page](../../reviews/flycalm-ultimate-der-komplettkurs-gegen-flugangst-55365.html)
+> Product ID `55365` · Digistore24 productId `592495` · [HTML profile page](../../produkte/flycalm-ultimate-der-komplettkurs-gegen-flugangst-55365.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Online Selbstlernwebinar: Präsentieren ohne PowerPoint
 
-> Product ID `59005` · Digistore24 productId `722837` · [HTML profile page](../../reviews/online-selbstlernwebinar-pr-sentieren-ohne-powerpoint-59005.html)
+> Product ID `59005` · Digistore24 productId `722837` · [HTML profile page](../../produkte/online-selbstlernwebinar-pr-sentieren-ohne-powerpoint-59005.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

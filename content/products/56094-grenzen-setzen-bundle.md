@@ -1,6 +1,6 @@
 # Grenzen setzen Bundle
 
-> Product ID `56094` · Digistore24 productId `679892` · [HTML profile page](../../reviews/grenzen-setzen-bundle-56094.html)
+> Product ID `56094` · Digistore24 productId `679892` · [HTML profile page](../../produkte/grenzen-setzen-bundle-56094.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

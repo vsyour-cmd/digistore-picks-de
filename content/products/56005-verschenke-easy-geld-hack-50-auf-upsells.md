@@ -1,6 +1,6 @@
 # Verschenke Easy Geld Hack + 50% auf Upsells
 
-> Product ID `56005` · Digistore24 productId `603861` · [HTML profile page](../../reviews/verschenke-easy-geld-hack-50-auf-upsells-56005.html)
+> Product ID `56005` · Digistore24 productId `603861` · [HTML profile page](../../produkte/verschenke-easy-geld-hack-50-auf-upsells-56005.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

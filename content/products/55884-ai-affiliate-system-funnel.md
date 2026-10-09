@@ -1,6 +1,6 @@
 # AI Affiliate System Funnel
 
-> Product ID `55884` · Digistore24 productId `666648` · [HTML profile page](../../reviews/ai-affiliate-system-funnel-55884.html)
+> Product ID `55884` · Digistore24 productId `666648` · [HTML profile page](../../produkte/ai-affiliate-system-funnel-55884.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

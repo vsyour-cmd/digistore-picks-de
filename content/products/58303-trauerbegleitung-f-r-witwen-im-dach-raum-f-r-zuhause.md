@@ -1,6 +1,6 @@
 # Trauerbegleitung für Witwen im DACH-Raum für Zuhause
 
-> Product ID `58303` · Digistore24 productId `710690` · [HTML profile page](../../reviews/trauerbegleitung-f-r-witwen-im-dach-raum-f-r-zuhause-58303.html)
+> Product ID `58303` · Digistore24 productId `710690` · [HTML profile page](../../produkte/trauerbegleitung-f-r-witwen-im-dach-raum-f-r-zuhause-58303.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

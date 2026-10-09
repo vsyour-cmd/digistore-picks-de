@@ -1,6 +1,6 @@
 # Pinterest für Einsteiger: Vom Thema zum fertigen Pin
 
-> Product ID `59219` · Digistore24 productId `732832` · [HTML profile page](../../reviews/pinterest-f-r-einsteiger-vom-thema-zum-fertigen-pin-59219.html)
+> Product ID `59219` · Digistore24 productId `732832` · [HTML profile page](../../produkte/pinterest-f-r-einsteiger-vom-thema-zum-fertigen-pin-59219.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Typisch Spanien
 
-> Product ID `59567` · Digistore24 productId `736359` · [HTML profile page](../../reviews/typisch-spanien-59567.html)
+> Product ID `59567` · Digistore24 productId `736359` · [HTML profile page](../../produkte/typisch-spanien-59567.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

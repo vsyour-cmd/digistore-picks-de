@@ -1,6 +1,6 @@
 # Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
 
-> Product ID `60260` · Digistore24 productId `740755` · [HTML profile page](../../reviews/arbeitsvertrag-leicht-gemacht-ratgeber-vertrags-check-60260.html)
+> Product ID `60260` · Digistore24 productId `740755` · [HTML profile page](../../produkte/arbeitsvertrag-leicht-gemacht-ratgeber-vertrags-check-60260.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

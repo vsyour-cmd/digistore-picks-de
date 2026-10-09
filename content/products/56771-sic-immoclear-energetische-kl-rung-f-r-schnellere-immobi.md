@@ -1,6 +1,6 @@
 # SIC - ImmoClear – Energetische Klärung für schnellere Immobi
 
-> Product ID `56771` · Digistore24 productId `689183` · [HTML profile page](../../reviews/sic-immoclear-energetische-kl-rung-f-r-schnellere-immobi-56771.html)
+> Product ID `56771` · Digistore24 productId `689183` · [HTML profile page](../../produkte/sic-immoclear-energetische-kl-rung-f-r-schnellere-immobi-56771.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

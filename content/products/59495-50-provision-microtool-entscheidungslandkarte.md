@@ -1,6 +1,6 @@
 # 50% Provision: MicroTool EntscheidungsLandkarte
 
-> Product ID `59495` · Digistore24 productId `735906` · [HTML profile page](../../reviews/50-provision-microtool-entscheidungslandkarte-59495.html)
+> Product ID `59495` · Digistore24 productId `735906` · [HTML profile page](../../produkte/50-provision-microtool-entscheidungslandkarte-59495.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

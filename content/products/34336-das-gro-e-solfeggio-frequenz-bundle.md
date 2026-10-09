@@ -1,6 +1,6 @@
 # Das große Solfeggio-Frequenz Bundle
 
-> Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../reviews/das-gro-e-solfeggio-frequenz-bundle-34336.html)
+> Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../produkte/das-gro-e-solfeggio-frequenz-bundle-34336.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

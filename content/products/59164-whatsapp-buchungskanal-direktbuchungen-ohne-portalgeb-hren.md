@@ -1,6 +1,6 @@
 # WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren
 
-> Product ID `59164` · Digistore24 productId `711408` · [HTML profile page](../../reviews/whatsapp-buchungskanal-direktbuchungen-ohne-portalgeb-hren-59164.html)
+> Product ID `59164` · Digistore24 productId `711408` · [HTML profile page](../../produkte/whatsapp-buchungskanal-direktbuchungen-ohne-portalgeb-hren-59164.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

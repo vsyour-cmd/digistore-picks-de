@@ -1,6 +1,6 @@
 # „Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete
 
-> Product ID `57509` · Digistore24 productId `710085` · [HTML profile page](../../reviews/ich-bin-ich-mutmach-malbuch-f-r-kinder-mit-typ-1-diabete-57509.html)
+> Product ID `57509` · Digistore24 productId `710085` · [HTML profile page](../../produkte/ich-bin-ich-mutmach-malbuch-f-r-kinder-mit-typ-1-diabete-57509.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

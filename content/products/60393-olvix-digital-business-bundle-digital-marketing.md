@@ -1,6 +1,6 @@
 # OLVIX Digital Business Bundle – Digital + Marketing
 
-> Product ID `60393` · Digistore24 productId `743202` · [HTML profile page](../../reviews/olvix-digital-business-bundle-digital-marketing-60393.html)
+> Product ID `60393` · Digistore24 productId `743202` · [HTML profile page](../../produkte/olvix-digital-business-bundle-digital-marketing-60393.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

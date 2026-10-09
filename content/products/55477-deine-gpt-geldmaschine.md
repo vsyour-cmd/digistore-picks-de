@@ -1,6 +1,6 @@
 # Deine GPT Geldmaschine
 
-> Product ID `55477` · Digistore24 productId `660001` · [HTML profile page](../../reviews/deine-gpt-geldmaschine-55477.html)
+> Product ID `55477` · Digistore24 productId `660001` · [HTML profile page](../../produkte/deine-gpt-geldmaschine-55477.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

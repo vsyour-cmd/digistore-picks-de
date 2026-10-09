@@ -1,6 +1,6 @@
 # Das 24 Minuten Cash System - von Gunnar Kessler
 
-> Product ID `31921` · Digistore24 productId `295882` · [HTML profile page](../../reviews/das-24-minuten-cash-system-von-gunnar-kessler-31921.html)
+> Product ID `31921` · Digistore24 productId `295882` · [HTML profile page](../../produkte/das-24-minuten-cash-system-von-gunnar-kessler-31921.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Affiliate Marketing Hörbuch – Dein 30-Tage-Start
 
-> Product ID `55341` · Digistore24 productId `663853` · [HTML profile page](../../reviews/affiliate-marketing-h-rbuch-dein-30-tage-start-55341.html)
+> Product ID `55341` · Digistore24 productId `663853` · [HTML profile page](../../produkte/affiliate-marketing-h-rbuch-dein-30-tage-start-55341.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

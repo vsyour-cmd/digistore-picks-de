@@ -1,6 +1,6 @@
 # Geld verdienen im Internet - Schnellstart Video Anleitung
 
-> Product ID `33083` · Digistore24 productId `331030` · [HTML profile page](../../reviews/geld-verdienen-im-internet-schnellstart-video-anleitung-33083.html)
+> Product ID `33083` · Digistore24 productId `331030` · [HTML profile page](../../produkte/geld-verdienen-im-internet-schnellstart-video-anleitung-33083.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

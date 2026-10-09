@@ -1,6 +1,6 @@
 # neowake® Meditations Album Source Code - zu verschenken
 
-> Product ID `30554` · Digistore24 productId `287998` · [HTML profile page](../../reviews/neowake-meditations-album-source-code-zu-verschenken-30554.html)
+> Product ID `30554` · Digistore24 productId `287998` · [HTML profile page](../../produkte/neowake-meditations-album-source-code-zu-verschenken-30554.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

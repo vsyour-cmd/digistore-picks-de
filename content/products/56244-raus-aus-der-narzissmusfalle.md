@@ -1,6 +1,6 @@
 # Raus aus der Narzissmusfalle
 
-> Product ID `56244` · Digistore24 productId `660023` · [HTML profile page](../../reviews/raus-aus-der-narzissmusfalle-56244.html)
+> Product ID `56244` · Digistore24 productId `660023` · [HTML profile page](../../produkte/raus-aus-der-narzissmusfalle-56244.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

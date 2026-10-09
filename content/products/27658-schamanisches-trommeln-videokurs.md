@@ -1,6 +1,6 @@
 # Schamanisches Trommeln Videokurs
 
-> Product ID `27658` · Digistore24 productId `255743` · [HTML profile page](../../reviews/schamanisches-trommeln-videokurs-27658.html)
+> Product ID `27658` · Digistore24 productId `255743` · [HTML profile page](../../produkte/schamanisches-trommeln-videokurs-27658.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

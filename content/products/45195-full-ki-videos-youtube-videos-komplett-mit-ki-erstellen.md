@@ -1,6 +1,6 @@
 # Full KI Videos - YouTube Videos komplett mit KI erstellen
 
-> Product ID `45195` · Digistore24 productId `514484` · [HTML profile page](../../reviews/full-ki-videos-youtube-videos-komplett-mit-ki-erstellen-45195.html)
+> Product ID `45195` · Digistore24 productId `514484` · [HTML profile page](../../produkte/full-ki-videos-youtube-videos-komplett-mit-ki-erstellen-45195.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

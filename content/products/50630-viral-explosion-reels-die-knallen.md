@@ -1,6 +1,6 @@
 # Viral Explosion – Reels Die Knallen
 
-> Product ID `50630` · Digistore24 productId `584498` · [HTML profile page](../../reviews/viral-explosion-reels-die-knallen-50630.html)
+> Product ID `50630` · Digistore24 productId `584498` · [HTML profile page](../../produkte/viral-explosion-reels-die-knallen-50630.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

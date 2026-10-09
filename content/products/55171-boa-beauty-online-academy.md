@@ -1,6 +1,6 @@
 # BOA-Beauty Online Academy
 
-> Product ID `55171` · Digistore24 productId `658523` · [HTML profile page](../../reviews/boa-beauty-online-academy-55171.html)
+> Product ID `55171` · Digistore24 productId `658523` · [HTML profile page](../../produkte/boa-beauty-online-academy-55171.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

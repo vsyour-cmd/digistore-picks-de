@@ -1,6 +1,6 @@
 # Schüßler Salze Therapie Hund Online Kurs
 
-> Product ID `34046` · Digistore24 productId `315812` · [HTML profile page](../../reviews/sch-ler-salze-therapie-hund-online-kurs-34046.html)
+> Product ID `34046` · Digistore24 productId `315812` · [HTML profile page](../../produkte/sch-ler-salze-therapie-hund-online-kurs-34046.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

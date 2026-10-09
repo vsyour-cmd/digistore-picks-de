@@ -1,6 +1,6 @@
 # Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF
 
-> Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../reviews/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)
+> Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../produkte/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

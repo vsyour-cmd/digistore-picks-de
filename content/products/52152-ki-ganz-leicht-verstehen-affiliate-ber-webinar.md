@@ -1,6 +1,6 @@
 # KI ganz leicht verstehen – Affiliate über Webinar
 
-> Product ID `52152` · Digistore24 productId `648874` · [HTML profile page](../../reviews/ki-ganz-leicht-verstehen-affiliate-ber-webinar-52152.html)
+> Product ID `52152` · Digistore24 productId `648874` · [HTML profile page](../../produkte/ki-ganz-leicht-verstehen-affiliate-ber-webinar-52152.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

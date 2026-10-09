@@ -1,6 +1,6 @@
 # AI Growth Operator Masterclass mit Claude Code PDF-Kurs
 
-> Product ID `60179` · Digistore24 productId `741766` · [HTML profile page](../../reviews/ai-growth-operator-masterclass-mit-claude-code-pdf-kurs-60179.html)
+> Product ID `60179` · Digistore24 productId `741766` · [HTML profile page](../../produkte/ai-growth-operator-masterclass-mit-claude-code-pdf-kurs-60179.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

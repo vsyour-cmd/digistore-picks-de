@@ -1,6 +1,6 @@
 # Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern
 
-> Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../reviews/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)
+> Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../produkte/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

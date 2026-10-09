@@ -1,6 +1,6 @@
 # Google Ads Leitfaden für Affiliates | Freebie
 
-> Product ID `47302` · Digistore24 productId `551034` · [HTML profile page](../../reviews/google-ads-leitfaden-f-r-affiliates-freebie-47302.html)
+> Product ID `47302` · Digistore24 productId `551034` · [HTML profile page](../../produkte/google-ads-leitfaden-f-r-affiliates-freebie-47302.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

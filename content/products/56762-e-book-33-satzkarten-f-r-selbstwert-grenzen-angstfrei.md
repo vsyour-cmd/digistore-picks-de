@@ -1,6 +1,6 @@
 # E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei
 
-> Product ID `56762` · Digistore24 productId `697038` · [HTML profile page](../../reviews/e-book-33-satzkarten-f-r-selbstwert-grenzen-angstfrei-56762.html)
+> Product ID `56762` · Digistore24 productId `697038` · [HTML profile page](../../produkte/e-book-33-satzkarten-f-r-selbstwert-grenzen-angstfrei-56762.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

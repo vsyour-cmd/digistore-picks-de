@@ -1,6 +1,6 @@
 # Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates
 
-> Product ID `56554` · Digistore24 productId `693330` · [HTML profile page](../../reviews/das-rauchfrei-notfallkit-50-provision-f-r-affiliates-56554.html)
+> Product ID `56554` · Digistore24 productId `693330` · [HTML profile page](../../produkte/das-rauchfrei-notfallkit-50-provision-f-r-affiliates-56554.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

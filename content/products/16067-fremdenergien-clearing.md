@@ -1,6 +1,6 @@
 # Fremdenergien Clearing
 
-> Product ID `16067` · Digistore24 productId `113023` · [HTML profile page](../../reviews/fremdenergien-clearing-16067.html)
+> Product ID `16067` · Digistore24 productId `113023` · [HTML profile page](../../produkte/fremdenergien-clearing-16067.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

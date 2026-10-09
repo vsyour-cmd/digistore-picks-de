@@ -1,6 +1,6 @@
 # GUITestStudio – Testautomatisierung für Windows-Anwendunng
 
-> Product ID `60092` · Digistore24 productId `737377` · [HTML profile page](../../reviews/guiteststudio-testautomatisierung-f-r-windows-anwendunng-60092.html)
+> Product ID `60092` · Digistore24 productId `737377` · [HTML profile page](../../produkte/guiteststudio-testautomatisierung-f-r-windows-anwendunng-60092.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

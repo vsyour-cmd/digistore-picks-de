@@ -1,6 +1,6 @@
 # Goolux - Die All In One Lösung für Dein Online Marketing
 
-> Product ID `46828` · Digistore24 productId `504837` · [HTML profile page](../../reviews/goolux-die-all-in-one-l-sung-f-r-dein-online-marketing-46828.html)
+> Product ID `46828` · Digistore24 productId `504837` · [HTML profile page](../../produkte/goolux-die-all-in-one-l-sung-f-r-dein-online-marketing-46828.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

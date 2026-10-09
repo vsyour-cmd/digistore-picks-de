@@ -1,6 +1,6 @@
 # Der Verkaufsmagnet inkl. Bonus ChatGPT Prompt SqueezePage
 
-> Product ID `46226` · Digistore24 productId `527997` · [HTML profile page](../../reviews/der-verkaufsmagnet-inkl-bonus-chatgpt-prompt-squeezepage-46226.html)
+> Product ID `46226` · Digistore24 productId `527997` · [HTML profile page](../../produkte/der-verkaufsmagnet-inkl-bonus-chatgpt-prompt-squeezepage-46226.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

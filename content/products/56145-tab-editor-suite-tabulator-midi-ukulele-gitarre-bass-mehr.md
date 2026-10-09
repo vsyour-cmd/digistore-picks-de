@@ -1,6 +1,6 @@
 # Tab Editor Suite-Tabulator, MIDI, Ukulele Gitarre Bass mehr
 
-> Product ID `56145` · Digistore24 productId `678103` · [HTML profile page](../../reviews/tab-editor-suite-tabulator-midi-ukulele-gitarre-bass-mehr-56145.html)
+> Product ID `56145` · Digistore24 productId `678103` · [HTML profile page](../../produkte/tab-editor-suite-tabulator-midi-ukulele-gitarre-bass-mehr-56145.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
-> Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../reviews/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
+> Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

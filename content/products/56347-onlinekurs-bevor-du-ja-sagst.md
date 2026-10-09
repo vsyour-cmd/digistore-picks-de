@@ -1,6 +1,6 @@
 # Onlinekurs "Bevor du JA sagst"
 
-> Product ID `56347` · Digistore24 productId `676916` · [HTML profile page](../../reviews/onlinekurs-bevor-du-ja-sagst-56347.html)
+> Product ID `56347` · Digistore24 productId `676916` · [HTML profile page](../../produkte/onlinekurs-bevor-du-ja-sagst-56347.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

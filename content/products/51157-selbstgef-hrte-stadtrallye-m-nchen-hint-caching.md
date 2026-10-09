@@ -1,6 +1,6 @@
 # Selbstgeführte Stadtrallye München | Hint-Caching
 
-> Product ID `51157` · Digistore24 productId `433661` · [HTML profile page](../../reviews/selbstgef-hrte-stadtrallye-m-nchen-hint-caching-51157.html)
+> Product ID `51157` · Digistore24 productId `433661` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-m-nchen-hint-caching-51157.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

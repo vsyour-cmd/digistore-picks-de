@@ -1,6 +1,6 @@
 # Magnetische Frau
 
-> Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../reviews/magnetische-frau-57334.html)
+> Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../produkte/magnetische-frau-57334.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

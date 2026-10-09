@@ -1,6 +1,6 @@
 # Instagram Reels Handbuch
 
-> Product ID `45935` · Digistore24 productId `524437` · [HTML profile page](../../reviews/instagram-reels-handbuch-45935.html)
+> Product ID `45935` · Digistore24 productId `524437` · [HTML profile page](../../produkte/instagram-reels-handbuch-45935.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

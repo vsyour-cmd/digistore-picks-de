@@ -1,6 +1,6 @@
 # AI Avatar Studio Funnel
 
-> Product ID `55134` · Digistore24 productId `658818` · [HTML profile page](../../reviews/ai-avatar-studio-funnel-55134.html)
+> Product ID `55134` · Digistore24 productId `658818` · [HTML profile page](../../produkte/ai-avatar-studio-funnel-55134.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

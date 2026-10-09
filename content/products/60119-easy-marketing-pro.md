@@ -1,6 +1,6 @@
 # Easy Marketing PRO
 
-> Product ID `60119` · Digistore24 productId `740180` · [HTML profile page](../../reviews/easy-marketing-pro-60119.html)
+> Product ID `60119` · Digistore24 productId `740180` · [HTML profile page](../../produkte/easy-marketing-pro-60119.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

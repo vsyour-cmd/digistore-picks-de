@@ -1,6 +1,6 @@
 # Heizung und Förderung leicht gemacht – mit Heizungs-Rechner
 
-> Product ID `60365` · Digistore24 productId `741959` · [HTML profile page](../../reviews/heizung-und-f-rderung-leicht-gemacht-mit-heizungs-rechner-60365.html)
+> Product ID `60365` · Digistore24 productId `741959` · [HTML profile page](../../produkte/heizung-und-f-rderung-leicht-gemacht-mit-heizungs-rechner-60365.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

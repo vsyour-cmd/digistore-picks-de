@@ -1,6 +1,6 @@
 # Relationship Bundle – Innige Beziehung mit Partner aufbauen
 
-> Product ID `16195` · Digistore24 productId `116849` · [HTML profile page](../../reviews/relationship-bundle-innige-beziehung-mit-partner-aufbauen-16195.html)
+> Product ID `16195` · Digistore24 productId `116849` · [HTML profile page](../../produkte/relationship-bundle-innige-beziehung-mit-partner-aufbauen-16195.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

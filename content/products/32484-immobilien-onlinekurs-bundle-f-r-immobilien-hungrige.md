@@ -1,6 +1,6 @@
 # Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige
 
-> Product ID `32484` · Digistore24 productId `312437` · [HTML profile page](../../reviews/immobilien-onlinekurs-bundle-f-r-immobilien-hungrige-32484.html)
+> Product ID `32484` · Digistore24 productId `312437` · [HTML profile page](../../produkte/immobilien-onlinekurs-bundle-f-r-immobilien-hungrige-32484.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

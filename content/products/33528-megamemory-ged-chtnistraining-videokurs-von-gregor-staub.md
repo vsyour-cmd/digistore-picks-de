@@ -1,6 +1,6 @@
 # megamemory Gedächtnistraining Videokurs von Gregor Staub
 
-> Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../reviews/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)
+> Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../produkte/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Haus privat verkaufen - ohne hohe Maklerkosten
 
-> Product ID `53010` · Digistore24 productId `621099` · [HTML profile page](../../reviews/haus-privat-verkaufen-ohne-hohe-maklerkosten-53010.html)
+> Product ID `53010` · Digistore24 productId `621099` · [HTML profile page](../../produkte/haus-privat-verkaufen-ohne-hohe-maklerkosten-53010.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

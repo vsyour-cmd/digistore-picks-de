@@ -1,6 +1,6 @@
 # EU Digital Wallet – Unternehmer Transition Pack
 
-> Product ID `59706` · Digistore24 productId `652062` · [HTML profile page](../../reviews/eu-digital-wallet-unternehmer-transition-pack-59706.html)
+> Product ID `59706` · Digistore24 productId `652062` · [HTML profile page](../../produkte/eu-digital-wallet-unternehmer-transition-pack-59706.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

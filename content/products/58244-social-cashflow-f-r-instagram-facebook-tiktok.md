@@ -1,6 +1,6 @@
 # Social Cashflow für Instagram, Facebook Tiktok
 
-> Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../reviews/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)
+> Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../produkte/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

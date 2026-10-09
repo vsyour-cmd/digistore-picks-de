@@ -1,6 +1,6 @@
 # Der große Costa Blanca Guide
 
-> Product ID `59416` · Digistore24 productId `735068` · [HTML profile page](../../reviews/der-gro-e-costa-blanca-guide-59416.html)
+> Product ID `59416` · Digistore24 productId `735068` · [HTML profile page](../../produkte/der-gro-e-costa-blanca-guide-59416.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

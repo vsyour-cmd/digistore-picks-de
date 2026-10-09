@@ -1,6 +1,6 @@
 # Yoga-Präventionskurs als Onlinekurs
 
-> Product ID `31653` · Digistore24 productId `273107` · [HTML profile page](../../reviews/yoga-pr-ventionskurs-als-onlinekurs-31653.html)
+> Product ID `31653` · Digistore24 productId `273107` · [HTML profile page](../../produkte/yoga-pr-ventionskurs-als-onlinekurs-31653.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

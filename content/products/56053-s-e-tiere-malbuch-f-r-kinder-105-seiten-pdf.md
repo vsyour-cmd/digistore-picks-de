@@ -1,6 +1,6 @@
 # Süße Tiere Malbuch für Kinder – 105 Seiten PDF
 
-> Product ID `56053` · Digistore24 productId `678280` · [HTML profile page](../../reviews/s-e-tiere-malbuch-f-r-kinder-105-seiten-pdf-56053.html)
+> Product ID `56053` · Digistore24 productId `678280` · [HTML profile page](../../produkte/s-e-tiere-malbuch-f-r-kinder-105-seiten-pdf-56053.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

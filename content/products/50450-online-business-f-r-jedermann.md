@@ -1,6 +1,6 @@
 # Online Business für Jedermann
 
-> Product ID `50450` · Digistore24 productId `580214` · [HTML profile page](../../reviews/online-business-f-r-jedermann-50450.html)
+> Product ID `50450` · Digistore24 productId `580214` · [HTML profile page](../../produkte/online-business-f-r-jedermann-50450.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

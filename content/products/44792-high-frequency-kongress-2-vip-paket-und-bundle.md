@@ -1,6 +1,6 @@
 # High Frequency Kongress 2 - VIP Paket und Bundle
 
-> Product ID `44792` · Digistore24 productId `499480` · [HTML profile page](../../reviews/high-frequency-kongress-2-vip-paket-und-bundle-44792.html)
+> Product ID `44792` · Digistore24 productId `499480` · [HTML profile page](../../produkte/high-frequency-kongress-2-vip-paket-und-bundle-44792.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

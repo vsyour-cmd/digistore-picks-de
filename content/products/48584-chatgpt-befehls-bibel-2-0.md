@@ -1,6 +1,6 @@
 # ChatGPT Befehls-Bibel 2.0
 
-> Product ID `48584` · Digistore24 productId `553715` · [HTML profile page](../../reviews/chatgpt-befehls-bibel-2-0-48584.html)
+> Product ID `48584` · Digistore24 productId `553715` · [HTML profile page](../../produkte/chatgpt-befehls-bibel-2-0-48584.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

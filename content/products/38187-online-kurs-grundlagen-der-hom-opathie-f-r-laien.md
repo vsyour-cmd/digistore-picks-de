@@ -1,6 +1,6 @@
 # Online-Kurs: Grundlagen der Homöopathie (für Laien)
 
-> Product ID `38187` · Digistore24 productId `364005` · [HTML profile page](../../reviews/online-kurs-grundlagen-der-hom-opathie-f-r-laien-38187.html)
+> Product ID `38187` · Digistore24 productId `364005` · [HTML profile page](../../produkte/online-kurs-grundlagen-der-hom-opathie-f-r-laien-38187.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

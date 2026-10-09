@@ -1,6 +1,6 @@
 # E-Book: 1x1 an den Händen ablesen - 50% per Sale
 
-> Product ID `50245` · Digistore24 productId `576458` · [HTML profile page](../../reviews/e-book-1x1-an-den-h-nden-ablesen-50-per-sale-50245.html)
+> Product ID `50245` · Digistore24 productId `576458` · [HTML profile page](../../produkte/e-book-1x1-an-den-h-nden-ablesen-50-per-sale-50245.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Heilende Frequenzen - sehr beliebtes Affiliate-Produkt
 
-> Product ID `57464` · Digistore24 productId `310642` · [HTML profile page](../../reviews/heilende-frequenzen-sehr-beliebtes-affiliate-produkt-57464.html)
+> Product ID `57464` · Digistore24 productId `310642` · [HTML profile page](../../produkte/heilende-frequenzen-sehr-beliebtes-affiliate-produkt-57464.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

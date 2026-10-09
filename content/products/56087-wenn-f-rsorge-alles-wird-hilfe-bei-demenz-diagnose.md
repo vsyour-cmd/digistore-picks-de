@@ -1,6 +1,6 @@
 # Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose
 
-> Product ID `56087` · Digistore24 productId `677013` · [HTML profile page](../../reviews/wenn-f-rsorge-alles-wird-hilfe-bei-demenz-diagnose-56087.html)
+> Product ID `56087` · Digistore24 productId `677013` · [HTML profile page](../../produkte/wenn-f-rsorge-alles-wird-hilfe-bei-demenz-diagnose-56087.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

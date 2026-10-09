@@ -1,6 +1,6 @@
 # AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung
 
-> Product ID `56210` · Digistore24 productId `680591` · [HTML profile page](../../reviews/avatar-cashflow-system-ki-avatare-und-content-erstellung-56210.html)
+> Product ID `56210` · Digistore24 productId `680591` · [HTML profile page](../../produkte/avatar-cashflow-system-ki-avatare-und-content-erstellung-56210.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

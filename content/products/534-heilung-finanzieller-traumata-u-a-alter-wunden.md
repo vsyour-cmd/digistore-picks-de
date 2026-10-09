@@ -1,6 +1,6 @@
 # Heilung finanzieller Traumata u. a. alter Wunden
 
-> Product ID `534` · Digistore24 productId `11200` · [HTML profile page](../../reviews/heilung-finanzieller-traumata-u-a-alter-wunden-534.html)
+> Product ID `534` · Digistore24 productId `11200` · [HTML profile page](../../produkte/heilung-finanzieller-traumata-u-a-alter-wunden-534.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Schwangerschaft manifestieren
 
-> Product ID `47966` · Digistore24 productId `549121` · [HTML profile page](../../reviews/schwangerschaft-manifestieren-47966.html)
+> Product ID `47966` · Digistore24 productId `549121` · [HTML profile page](../../produkte/schwangerschaft-manifestieren-47966.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

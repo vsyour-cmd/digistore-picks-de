@@ -1,6 +1,6 @@
 # Der unterschätzte Tod im Betrieb Das gefährliche Spiel
 
-> Product ID `56654` · Digistore24 productId `694493` · [HTML profile page](../../reviews/der-untersch-tzte-tod-im-betrieb-das-gef-hrliche-spiel-56654.html)
+> Product ID `56654` · Digistore24 productId `694493` · [HTML profile page](../../produkte/der-untersch-tzte-tod-im-betrieb-das-gef-hrliche-spiel-56654.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

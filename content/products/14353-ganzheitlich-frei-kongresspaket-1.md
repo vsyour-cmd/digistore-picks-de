@@ -1,6 +1,6 @@
 # Ganzheitlich FREI Kongresspaket 1
 
-> Product ID `14353` · Digistore24 productId `88863` · [HTML profile page](../../reviews/ganzheitlich-frei-kongresspaket-1-14353.html)
+> Product ID `14353` · Digistore24 productId `88863` · [HTML profile page](../../produkte/ganzheitlich-frei-kongresspaket-1-14353.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # KI-Influencer monetarisieren
 
-> Product ID `57283` · Digistore24 productId `704260` · [HTML profile page](../../reviews/ki-influencer-monetarisieren-57283.html)
+> Product ID `57283` · Digistore24 productId `704260` · [HTML profile page](../../produkte/ki-influencer-monetarisieren-57283.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

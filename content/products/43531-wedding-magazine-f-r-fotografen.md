@@ -1,6 +1,6 @@
 # WEDDING MAGAZINE für Fotografen
 
-> Product ID `43531` · Digistore24 productId `461394` · [HTML profile page](../../reviews/wedding-magazine-f-r-fotografen-43531.html)
+> Product ID `43531` · Digistore24 productId `461394` · [HTML profile page](../../produkte/wedding-magazine-f-r-fotografen-43531.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

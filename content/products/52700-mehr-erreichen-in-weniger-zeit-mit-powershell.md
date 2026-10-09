@@ -1,6 +1,6 @@
 # Mehr erreichen in weniger Zeit – mit PowerShell
 
-> Product ID `52700` · Digistore24 productId `615123` · [HTML profile page](../../reviews/mehr-erreichen-in-weniger-zeit-mit-powershell-52700.html)
+> Product ID `52700` · Digistore24 productId `615123` · [HTML profile page](../../produkte/mehr-erreichen-in-weniger-zeit-mit-powershell-52700.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

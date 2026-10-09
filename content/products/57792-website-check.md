@@ -1,6 +1,6 @@
 # Website-Check
 
-> Product ID `57792` · Digistore24 productId `716154` · [HTML profile page](../../reviews/website-check-57792.html)
+> Product ID `57792` · Digistore24 productId `716154` · [HTML profile page](../../produkte/website-check-57792.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

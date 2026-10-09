@@ -1,6 +1,6 @@
 # Pflege zu Hause leicht gemacht – mit Pflege-Budget-Rechner
 
-> Product ID `60347` · Digistore24 productId `741744` · [HTML profile page](../../reviews/pflege-zu-hause-leicht-gemacht-mit-pflege-budget-rechner-60347.html)
+> Product ID `60347` · Digistore24 productId `741744` · [HTML profile page](../../produkte/pflege-zu-hause-leicht-gemacht-mit-pflege-budget-rechner-60347.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

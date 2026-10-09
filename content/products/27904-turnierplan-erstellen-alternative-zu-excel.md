@@ -1,6 +1,6 @@
 # Turnierplan erstellen - Alternative zu Excel
 
-> Product ID `27904` · Digistore24 productId `289633` · [HTML profile page](../../reviews/turnierplan-erstellen-alternative-zu-excel-27904.html)
+> Product ID `27904` · Digistore24 productId `289633` · [HTML profile page](../../produkte/turnierplan-erstellen-alternative-zu-excel-27904.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

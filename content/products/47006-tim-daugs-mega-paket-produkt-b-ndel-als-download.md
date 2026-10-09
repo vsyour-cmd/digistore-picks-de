@@ -1,6 +1,6 @@
 # Tim Daugs: MEGA Paket (Produkt-Bündel) als Download
 
-> Product ID `47006` · Digistore24 productId `615173` · [HTML profile page](../../reviews/tim-daugs-mega-paket-produkt-b-ndel-als-download-47006.html)
+> Product ID `47006` · Digistore24 productId `615173` · [HTML profile page](../../produkte/tim-daugs-mega-paket-produkt-b-ndel-als-download-47006.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

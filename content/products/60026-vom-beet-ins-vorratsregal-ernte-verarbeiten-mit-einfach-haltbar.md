@@ -1,6 +1,6 @@
 # Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar
 
-> Product ID `60026` · Digistore24 productId `738285` · [HTML profile page](../../reviews/vom-beet-ins-vorratsregal-ernte-verarbeiten-mit-einfach-haltbar-60026.html)
+> Product ID `60026` · Digistore24 productId `738285` · [HTML profile page](../../produkte/vom-beet-ins-vorratsregal-ernte-verarbeiten-mit-einfach-haltbar-60026.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

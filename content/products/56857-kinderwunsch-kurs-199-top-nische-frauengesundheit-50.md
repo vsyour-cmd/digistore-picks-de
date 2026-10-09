@@ -1,6 +1,6 @@
 # Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%
 
-> Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../reviews/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)
+> Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../produkte/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

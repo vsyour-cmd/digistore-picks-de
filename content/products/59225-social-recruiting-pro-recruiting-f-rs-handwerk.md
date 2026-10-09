@@ -1,6 +1,6 @@
 # Social Recruiting Pro | Recruiting fürs Handwerk
 
-> Product ID `59225` · Digistore24 productId `412270` · [HTML profile page](../../reviews/social-recruiting-pro-recruiting-f-rs-handwerk-59225.html)
+> Product ID `59225` · Digistore24 productId `412270` · [HTML profile page](../../produkte/social-recruiting-pro-recruiting-f-rs-handwerk-59225.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

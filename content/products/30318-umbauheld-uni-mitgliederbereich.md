@@ -1,6 +1,6 @@
 # UMBAUHELD UNI MITGLIEDERBEREICH
 
-> Product ID `30318` · Digistore24 productId `292330` · [HTML profile page](../../reviews/umbauheld-uni-mitgliederbereich-30318.html)
+> Product ID `30318` · Digistore24 productId `292330` · [HTML profile page](../../produkte/umbauheld-uni-mitgliederbereich-30318.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

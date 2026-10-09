@@ -1,6 +1,6 @@
 # AssetKi Advisor – 30 % monatlich wiederkehrende Provision
 
-> Product ID `58359` · Digistore24 productId `721170` · [HTML profile page](../../reviews/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html)
+> Product ID `58359` · Digistore24 productId `721170` · [HTML profile page](../../produkte/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

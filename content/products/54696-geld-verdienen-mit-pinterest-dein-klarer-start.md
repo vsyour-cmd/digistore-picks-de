@@ -1,6 +1,6 @@
 # Geld verdienen mit Pinterest – Dein klarer Start
 
-> Product ID `54696` · Digistore24 productId `649735` · [HTML profile page](../../reviews/geld-verdienen-mit-pinterest-dein-klarer-start-54696.html)
+> Product ID `54696` · Digistore24 productId `649735` · [HTML profile page](../../produkte/geld-verdienen-mit-pinterest-dein-klarer-start-54696.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

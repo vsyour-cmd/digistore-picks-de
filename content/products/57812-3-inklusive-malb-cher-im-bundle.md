@@ -1,6 +1,6 @@
 # 3 inklusive Malbücher im Bundle
 
-> Product ID `57812` · Digistore24 productId `712154` · [HTML profile page](../../reviews/3-inklusive-malb-cher-im-bundle-57812.html)
+> Product ID `57812` · Digistore24 productId `712154` · [HTML profile page](../../produkte/3-inklusive-malb-cher-im-bundle-57812.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

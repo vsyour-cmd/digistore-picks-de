@@ -1,6 +1,6 @@
 # Die Faceless Content Maschine – 50% Provision
 
-> Product ID `55733` · Digistore24 productId `671416` · [HTML profile page](../../reviews/die-faceless-content-maschine-50-provision-55733.html)
+> Product ID `55733` · Digistore24 productId `671416` · [HTML profile page](../../produkte/die-faceless-content-maschine-50-provision-55733.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

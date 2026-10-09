@@ -1,6 +1,6 @@
 # Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision
 
-> Product ID `37520` · Digistore24 productId `138033` · [HTML profile page](../../reviews/rife-frequenzen-komplettpaket-5-5-gb-50-provision-37520.html)
+> Product ID `37520` · Digistore24 productId `138033` · [HTML profile page](../../produkte/rife-frequenzen-komplettpaket-5-5-gb-50-provision-37520.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

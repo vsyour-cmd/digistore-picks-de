@@ -1,6 +1,6 @@
 # Dropship StarBox - Einkommen per Dropshipping (Vollversion)
 
-> Product ID `37980` · Digistore24 productId `410018` · [HTML profile page](../../reviews/dropship-starbox-einkommen-per-dropshipping-vollversion-37980.html)
+> Product ID `37980` · Digistore24 productId `410018` · [HTML profile page](../../produkte/dropship-starbox-einkommen-per-dropshipping-vollversion-37980.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

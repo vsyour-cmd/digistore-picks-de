@@ -1,6 +1,6 @@
 # Happy Money Girl "Starter"
 
-> Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../reviews/happy-money-girl-starter-38048.html)
+> Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../produkte/happy-money-girl-starter-38048.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

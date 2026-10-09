@@ -1,6 +1,6 @@
 # Pinterest Insider Secrets
 
-> Product ID `47265` · Digistore24 productId `541185` · [HTML profile page](../../reviews/pinterest-insider-secrets-47265.html)
+> Product ID `47265` · Digistore24 productId `541185` · [HTML profile page](../../produkte/pinterest-insider-secrets-47265.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Business & Marketing Strategie Planer – Canva Vorlage
 
-> Product ID `58512` · Digistore24 productId `720842` · [HTML profile page](../../reviews/business-marketing-strategie-planer-canva-vorlage-58512.html)
+> Product ID `58512` · Digistore24 productId `720842` · [HTML profile page](../../produkte/business-marketing-strategie-planer-canva-vorlage-58512.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

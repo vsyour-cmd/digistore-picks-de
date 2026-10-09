@@ -1,6 +1,6 @@
 # Haushaltsbuch Excel für Privatpersonen
 
-> Product ID `56484` · Digistore24 productId `690735` · [HTML profile page](../../reviews/haushaltsbuch-excel-f-r-privatpersonen-56484.html)
+> Product ID `56484` · Digistore24 productId `690735` · [HTML profile page](../../produkte/haushaltsbuch-excel-f-r-privatpersonen-56484.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

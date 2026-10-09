@@ -1,6 +1,6 @@
 # Onlinekongress Entzündungen entschlüsseln
 
-> Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../reviews/onlinekongress-entz-ndungen-entschl-sseln-54960.html)
+> Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../produkte/onlinekongress-entz-ndungen-entschl-sseln-54960.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

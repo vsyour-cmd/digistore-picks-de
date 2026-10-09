@@ -1,6 +1,6 @@
 # Das digistore24 Erfolgsrezept
 
-> Product ID `50217` · Digistore24 productId `733805` · [HTML profile page](../../reviews/das-digistore24-erfolgsrezept-50217.html)
+> Product ID `50217` · Digistore24 productId `733805` · [HTML profile page](../../produkte/das-digistore24-erfolgsrezept-50217.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

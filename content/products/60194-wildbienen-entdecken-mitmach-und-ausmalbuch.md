@@ -1,6 +1,6 @@
 # Wildbienen entdecken – Mitmach- und  Ausmalbuch
 
-> Product ID `60194` · Digistore24 productId `741971` · [HTML profile page](../../reviews/wildbienen-entdecken-mitmach-und-ausmalbuch-60194.html)
+> Product ID `60194` · Digistore24 productId `741971` · [HTML profile page](../../produkte/wildbienen-entdecken-mitmach-und-ausmalbuch-60194.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

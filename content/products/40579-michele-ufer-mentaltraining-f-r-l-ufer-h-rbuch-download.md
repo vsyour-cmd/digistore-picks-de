@@ -1,6 +1,6 @@
 # Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download
 
-> Product ID `40579` · Digistore24 productId `451371` · [HTML profile page](../../reviews/michele-ufer-mentaltraining-f-r-l-ufer-h-rbuch-download-40579.html)
+> Product ID `40579` · Digistore24 productId `451371` · [HTML profile page](../../produkte/michele-ufer-mentaltraining-f-r-l-ufer-h-rbuch-download-40579.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

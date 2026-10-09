@@ -1,6 +1,6 @@
 # Online-Kurs "Dein Leben nach der Krise"
 
-> Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../reviews/online-kurs-dein-leben-nach-der-krise-60176.html)
+> Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../produkte/online-kurs-dein-leben-nach-der-krise-60176.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

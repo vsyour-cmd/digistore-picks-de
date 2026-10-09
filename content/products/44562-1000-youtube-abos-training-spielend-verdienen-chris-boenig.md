@@ -1,6 +1,6 @@
 # 1000 YouTube Abos Training: Spielend Verdienen! Chris Boenig
 
-> Product ID `44562` · Digistore24 productId `504419` · [HTML profile page](../../reviews/1000-youtube-abos-training-spielend-verdienen-chris-boenig-44562.html)
+> Product ID `44562` · Digistore24 productId `504419` · [HTML profile page](../../produkte/1000-youtube-abos-training-spielend-verdienen-chris-boenig-44562.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

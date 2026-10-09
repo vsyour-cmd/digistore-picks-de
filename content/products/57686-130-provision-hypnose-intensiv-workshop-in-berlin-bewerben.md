@@ -1,6 +1,6 @@
 # 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben
 
-> Product ID `57686` · Digistore24 productId `711304` · [HTML profile page](../../reviews/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html)
+> Product ID `57686` · Digistore24 productId `711304` · [HTML profile page](../../produkte/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

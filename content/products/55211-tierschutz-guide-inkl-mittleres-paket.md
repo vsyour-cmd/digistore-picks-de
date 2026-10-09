@@ -1,6 +1,6 @@
 # Tierschutz-Guide – inkl. Mittleres Paket
 
-> Product ID `55211` · Digistore24 productId `616650` · [HTML profile page](../../reviews/tierschutz-guide-inkl-mittleres-paket-55211.html)
+> Product ID `55211` · Digistore24 productId `616650` · [HTML profile page](../../produkte/tierschutz-guide-inkl-mittleres-paket-55211.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Swipercash Affiliate Programm New High Conversion
 
-> Product ID `55330` · Digistore24 productId `661750` · [HTML profile page](../../reviews/swipercash-affiliate-programm-new-high-conversion-55330.html)
+> Product ID `55330` · Digistore24 productId `661750` · [HTML profile page](../../produkte/swipercash-affiliate-programm-new-high-conversion-55330.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Premium Tradingservice - DAX Professional - Partnerprogramm
 
-> Product ID `39889` · Digistore24 productId `427776` · [HTML profile page](../../reviews/premium-tradingservice-dax-professional-partnerprogramm-39889.html)
+> Product ID `39889` · Digistore24 productId `427776` · [HTML profile page](../../produkte/premium-tradingservice-dax-professional-partnerprogramm-39889.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

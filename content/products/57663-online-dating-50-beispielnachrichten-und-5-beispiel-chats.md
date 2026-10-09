@@ -1,6 +1,6 @@
 # Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats
 
-> Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../reviews/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)
+> Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../produkte/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

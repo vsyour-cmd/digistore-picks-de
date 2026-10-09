@@ -1,6 +1,6 @@
 # Passiv Cash System - Hohe Conversion dank VSL
 
-> Product ID `42631` · Digistore24 productId `478252` · [HTML profile page](../../reviews/passiv-cash-system-hohe-conversion-dank-vsl-42631.html)
+> Product ID `42631` · Digistore24 productId `478252` · [HTML profile page](../../produkte/passiv-cash-system-hohe-conversion-dank-vsl-42631.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

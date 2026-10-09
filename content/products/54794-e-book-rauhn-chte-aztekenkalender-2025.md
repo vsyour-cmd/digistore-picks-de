@@ -1,6 +1,6 @@
 # E-Book Rauhnächte / Aztekenkalender 2025
 
-> Product ID `54794` · Digistore24 productId `650073` · [HTML profile page](../../reviews/e-book-rauhn-chte-aztekenkalender-2025-54794.html)
+> Product ID `54794` · Digistore24 productId `650073` · [HTML profile page](../../produkte/e-book-rauhn-chte-aztekenkalender-2025-54794.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -1,6 +1,6 @@
 # Lecker Abnehmen - Das Komplettprogramm
 
-> Product ID `23809` · Digistore24 productId `206935` · [HTML profile page](../../reviews/lecker-abnehmen-das-komplettprogramm-23809.html)
+> Product ID `23809` · Digistore24 productId `206935` · [HTML profile page](../../produkte/lecker-abnehmen-das-komplettprogramm-23809.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

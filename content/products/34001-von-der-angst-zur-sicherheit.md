@@ -1,6 +1,6 @@
 # Von der ANGST zur SICHERHEIT
 
-> Product ID `34001` · Digistore24 productId `315825` · [HTML profile page](../../reviews/von-der-angst-zur-sicherheit-34001.html)
+> Product ID `34001` · Digistore24 productId `315825` · [HTML profile page](../../produkte/von-der-angst-zur-sicherheit-34001.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

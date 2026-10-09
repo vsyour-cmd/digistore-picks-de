@@ -1,6 +1,6 @@
 # Von Mama zur Affiliate-Queen
 
-> Product ID `49140` · Digistore24 productId `564575` · [HTML profile page](../../reviews/von-mama-zur-affiliate-queen-49140.html)
+> Product ID `49140` · Digistore24 productId `564575` · [HTML profile page](../../produkte/von-mama-zur-affiliate-queen-49140.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

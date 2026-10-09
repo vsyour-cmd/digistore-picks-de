@@ -1,6 +1,6 @@
 # Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete
 
-> Product ID `56905` · Digistore24 productId `698004` · [HTML profile page](../../reviews/book2profit-ki-plattform-f-r-digitale-e-books-leadmagnete-56905.html)
+> Product ID `56905` · Digistore24 productId `698004` · [HTML profile page](../../produkte/book2profit-ki-plattform-f-r-digitale-e-books-leadmagnete-56905.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

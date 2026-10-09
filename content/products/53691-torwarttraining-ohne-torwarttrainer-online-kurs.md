@@ -1,6 +1,6 @@
 # Torwarttraining ohne Torwarttrainer - Online-Kurs
 
-> Product ID `53691` · Digistore24 productId `611167` · [HTML profile page](../../reviews/torwarttraining-ohne-torwarttrainer-online-kurs-53691.html)
+> Product ID `53691` · Digistore24 productId `611167` · [HTML profile page](../../produkte/torwarttraining-ohne-torwarttrainer-online-kurs-53691.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

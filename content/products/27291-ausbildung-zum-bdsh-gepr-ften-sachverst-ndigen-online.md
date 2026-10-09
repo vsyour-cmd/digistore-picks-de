@@ -1,6 +1,6 @@
 # Ausbildung zum BDSH-geprüften Sachverständigen - Online
 
-> Product ID `27291` · Digistore24 productId `247449` · [HTML profile page](../../reviews/ausbildung-zum-bdsh-gepr-ften-sachverst-ndigen-online-27291.html)
+> Product ID `27291` · Digistore24 productId `247449` · [HTML profile page](../../produkte/ausbildung-zum-bdsh-gepr-ften-sachverst-ndigen-online-27291.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

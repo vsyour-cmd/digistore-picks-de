@@ -1,6 +1,6 @@
 # PDF Profit Sprint: Erste Auszahlung in 21 Tagen
 
-> Product ID `54701` · Digistore24 productId `649926` · [HTML profile page](../../reviews/pdf-profit-sprint-erste-auszahlung-in-21-tagen-54701.html)
+> Product ID `54701` · Digistore24 productId `649926` · [HTML profile page](../../produkte/pdf-profit-sprint-erste-auszahlung-in-21-tagen-54701.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

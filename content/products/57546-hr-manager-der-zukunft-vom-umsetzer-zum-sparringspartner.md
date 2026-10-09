@@ -1,6 +1,6 @@
 # HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner
 
-> Product ID `57546` · Digistore24 productId `711579` · [HTML profile page](../../reviews/hr-manager-der-zukunft-vom-umsetzer-zum-sparringspartner-57546.html)
+> Product ID `57546` · Digistore24 productId `711579` · [HTML profile page](../../produkte/hr-manager-der-zukunft-vom-umsetzer-zum-sparringspartner-57546.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

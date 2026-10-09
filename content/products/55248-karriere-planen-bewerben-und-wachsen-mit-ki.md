@@ -1,6 +1,6 @@
 # Karriere planen, bewerben und wachsen – mit KI
 
-> Product ID `55248` · Digistore24 productId `662111` · [HTML profile page](../../reviews/karriere-planen-bewerben-und-wachsen-mit-ki-55248.html)
+> Product ID `55248` · Digistore24 productId `662111` · [HTML profile page](../../produkte/karriere-planen-bewerben-und-wachsen-mit-ki-55248.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

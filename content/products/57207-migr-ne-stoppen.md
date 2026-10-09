@@ -1,6 +1,6 @@
 # Migräne stoppen
 
-> Product ID `57207` · Digistore24 productId `701966` · [HTML profile page](../../reviews/migr-ne-stoppen-57207.html)
+> Product ID `57207` · Digistore24 productId `701966` · [HTML profile page](../../produkte/migr-ne-stoppen-57207.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

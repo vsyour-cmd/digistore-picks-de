@@ -1,6 +1,6 @@
 # Große Linien - Ausmalbuch für Senioren und Menschen mit Deme
 
-> Product ID `54673` · Digistore24 productId `648294` · [HTML profile page](../../reviews/gro-e-linien-ausmalbuch-f-r-senioren-und-menschen-mit-deme-54673.html)
+> Product ID `54673` · Digistore24 productId `648294` · [HTML profile page](../../produkte/gro-e-linien-ausmalbuch-f-r-senioren-und-menschen-mit-deme-54673.html)
 > Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
