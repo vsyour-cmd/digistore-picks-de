@@ -3,6 +3,16 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Vertrauenswürdigkeits-Overhaul: Organization auf jeder Seite, Belegbasis-Box auf jeder Produktseite, verlinkte FAQ-Antworten, Kategorie-FAQs mit JSON-LD, Bild-Sitemap, Volltext-RSS, monatliche Übersicht, llms-full.txt. Audit: alle 4679 Seiten >=60 (Produkte 100/100).",
+      "changes": [
+        "Schema: Product sku/itemCondition/seller/Intended use; Organization mit Adresse & sameAs auf jeder Seite",
+        "Belege: jede Aussage zeigt Quelle, Datum und Prüfweg",
+        "Alternativen auf Top 200 erweitert (194 Seiten), Volltext-RSS, Bild-Sitemap (3732 Einträge)",
+        "QA-Gates jetzt 6 Prüfungen"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Neu: monatliche Übersichtsseite (Oktober 2026, neue Angebote nach Verdienst sortiert) und llms-full.txt — strukturierter Datensatz der Top 300 für KI-Retrieval.",
       "changes": [
         "monthly-new.html: alle Angebote der letzten 31 Tage mit offiziellen Statistiken",

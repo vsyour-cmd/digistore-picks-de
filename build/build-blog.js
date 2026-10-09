@@ -41,6 +41,15 @@ const capDesc = (s, max = 158) => {
   return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
 };
 
+const ORG_LD = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "adminstore",
+  url: SITE_URL + "/",
+  email: "admin@2bkf.com",
+  sameAs: ["https://github.com/vsyour-cmd/digistore-picks-de"],
+};
+
 function layout({ title, desc, body, rel = "..", file = "" }) {
   const canonical = SITE_URL + "/blog/" + file;
   const article = {
@@ -70,6 +79,7 @@ function layout({ title, desc, body, rel = "..", file = "" }) {
 <meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="${rel}/assets/style.css">
 <script type="application/ld+json">${jsonSafe(article)}</script>
+<script type="application/ld+json">${jsonSafe(ORG_LD)}</script>
 </head>
 <body>
 <header class="site"><div class="wrap">
@@ -139,6 +149,7 @@ ${tableRows(list)}
 </table>
 <p class="sub">* Checkout-Konversion = Anteil der Bestellformular-Besucher, die kaufen (von Digistore24 über den Traffic der Anbieter gemeldet). Hängt stark von der Traffic-Qualität ab, keine Prognose.</p>
 
+<p class="sub">Bewerte jedes Angebot mit unserem <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> — die Methode hinter jeder Seite dieser Website.</p>
 <h2>Wie man diese Zahlen liest</h2>
 <p><b>Hoher Verdienst/Verkauf ≠ einfaches Geld.</b> Ein Produkt mit 100 € Verdienst und 2 % Konversion kann weniger bringen als ein 30-€-Produkt mit 10 % — entscheidend ist die Passung Ihres Traffics. Vor der Bewerbung:</p>
 <ul>
@@ -244,7 +255,7 @@ ${tableRows(top)}
 </table>
 <p class="sub">* Checkout-Konversion = Anbieter-seitige Marktplatz-Daten, abhängig von der Traffic-Qualität — keine Prognose Ihrer Ergebnisse.</p>
 
-<p>Jedes Produkt verlinkt auf ein vollständiges Profil mit Stornoquote, Anbieter und Listungsalter. Ganze Kategorie: <a href="../kategorie/${cat.file}.html">alle ${items.length} Angebote in ${esc(catName(cat))}</a>. Kurzentschlossene: <a href="../empfehlungen/beste-${cat.file}.html">die rechnerischen Top-Empfehlungen</a>.</p>
+<p>Bewerte jedes Angebot mit der <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Checkliste</a> — die Methode hinter diesem Guide. Jedes Produkt verlinkt auf ein vollständiges Profil mit Stornoquote, Anbieter und Listungsalter. Ganze Kategorie: <a href="../kategorie/${cat.file}.html">alle ${items.length} Angebote in ${esc(catName(cat))}</a>. Kurzentschlossene: <a href="../empfehlungen/beste-${cat.file}.html">die rechnerischen Top-Empfehlungen</a>.</p>
 ${EN_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks/blog/guide-${EN_GUIDE_SLUGS[label]}.html" hreflang="en">Englisch verfügbar</a>.</p>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(catName(cat))}.html`), layout({

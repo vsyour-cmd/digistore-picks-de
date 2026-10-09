@@ -48,6 +48,28 @@ const VERIFY_META = (() => {
 })();
 const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
+// Herausgeber-Organization (auf jeder Seite, für KI-/Google-Entity-Erkennung)
+const ORG_LD = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "adminstore",
+  url: SITE_URL + "/",
+  email: "admin@2bkf.com",
+  description: "Unabhängiger Herausgeber von DigistorePicks DE, einem Verzeichnis von Digistore24-Marktplatz-Produkten mit überprüfbaren Marktplatz-Daten und gekennzeichneter Verkaufsseiten-Recherche.",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui",
+    addressLocality: "Kowloon",
+    addressRegion: "Kowloon",
+    postalCode: "999077",
+    addressCountry: "HK",
+  },
+  sameAs: [
+    "https://github.com/vsyour-cmd/digistore-picks-de",
+    "https://vsyour-cmd.github.io/digistore-picks/",
+  ],
+};
+
 // Deep details (Anwendung/Hinweise/Galerie, aus erneuter Verkaufsseiten-Recherche)
 const DETAILS_FILE = process.env.DETAILS_FILE || "G:/Digistore24/data-de/details-de.json";
 const DETAILS = fs.existsSync(DETAILS_FILE) ? JSON.parse(fs.readFileSync(DETAILS_FILE, "utf8")) : {};
@@ -106,6 +128,7 @@ const capDesc = (s, max = 158) => {
 };
 
 function layout({ title, desc, body, rel = ".", path = "", ogImage = null, jsonLd = [], crumb = null, hreflangLinks = "" }) {
+  const allLd = [ORG_LD, ...jsonLd];
   const canonical = SITE_URL + "/" + path;
   const ogImg = ogImage
     ? (ogImage.startsWith("http") ? ogImage : SITE_URL + "/" + ogImage.replace(/^(\.\.\/)+/, ""))
@@ -128,7 +151,7 @@ ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitt
 <link rel="alternate" type="application/atom+xml" title="Blog feed" href="${rel}/feed.xml">
 <link rel="stylesheet" href="${rel}/assets/style.css">
 ${hreflangLinks}${VERIFY_META}
-${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
+${allLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
 <a class="skip-link" href="#main">Zum Inhalt springen</a>
@@ -184,7 +207,7 @@ function productCard(p, rel = ".") {
 }
 
 const products = DATA.products
-  .map((p) => ({ ...p, slug: slug(p.label) + "-" + p.id }))
+  .map((p) => ({ ...p, label: p.label || `Digistore24 Produkt ${p.id}`, slug: slug(p.label || `produkt-${p.id}`) + "-" + p.id }))
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 
 {
@@ -233,6 +256,12 @@ function homePage() {
   const body = `
 <h1>Digistore24-Produkte, sortiert nach Zahlen</h1>
 <p class="sub">Ein unabhängiges Verzeichnis von ${DATA.total} deutschsprachigen Produkten im Digistore24-Marktplatz — ${DATA.categories.length} Kategorien, offizielle Preise und Provisionen, Verkaufsseiten-Recherche zu ${DATA.withResearch} Angeboten. Datenstand: ${datemark(DATA.scrapedAt)}.</p>
+<div class="tldr"><b>Auf einen Blick</b> (Daten vom ${datemark(DATA.scrapedAt)}):
+<ul>
+<li>${DATA.total} deutschsprachige Digistore24-Angebote in ${DATA.categories.length} Kategorien im Blick.</li>
+<li>Jede Seite kennzeichnet ihre Belege: offizielle Marktplatz-Statistiken vs. Anbieteraussagen.</li>
+<li>Einstieg: Top-Liste unten oder die <a href="blog/digistore24-zahlen-checkliste.html">6-Punkte-Bewertungsmethode</a>.</li>
+</ul></div>
 <h2>Top-Angebote nach Verdienst pro Verkauf</h2>
 <p class="sub">Rangliste nach dem vom Marktplatz gemeldeten Verdienst pro Verkauf. Offizielle Marktplatz-Statistiken, keine Prognosen von uns.</p>
 <div class="grid">
@@ -296,6 +325,9 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Wenig Zeit? Zu den <a href="../empfehlungen/beste-${c.file}.html">Top-Empfehlungen in ${esc(catName(c))}</a> — rechnerisch aus denselben Daten ermittelt.</p>` : "";
+      const tldrBlock = idx === 0 && isRealCat && items.length >= 8 ? `<div class="tldr"><b>Auf einen Blick</b> (Marktplatz-Daten vom ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} Angebote</b> in ${esc(catName(c))}, Durchschnittspreis ${money(avg, "USD")}.</li><li>Provisionen ${pct(minC)}–${pct(maxC)}; alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten.</li><li>Top-Auswahl: <a href="../empfehlungen/beste-${c.file}.html">beste ${esc(catName(c))}</a> · Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</li></ul></div>` : "";
+      const methodLine = `<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>.</p>`;
+      const evidenceLine = `<p class="sub">Beleg- &amp; Validierungsbedingungen: Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); aktuelle Preise immer auf offiziellen Seiten prüfen.</p>`;
       const body = `
 <h1>${esc(catName(c))}</h1>
 <p class="sub">${items.length} Produkte · Bereich: ${esc(c.sectionDe || c.section)}${pageSub} · <a href="../index.html">alle Kategorien</a> · <a href="../produkte/index.html">alle Produkte A–Z</a></p>
@@ -306,6 +338,9 @@ ${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
 ${pager(idx)}
 ${idx === 0 ? faqBlock : ""}
+${tldrBlock}
+${methodLine}
+${evidenceLine}
 <p class="sub" style="margin-top:22px">* Marktplatz-Statistiken werden von Digistore24 über den Traffic der Anbieter gemeldet; sie hängen von der Traffic-Qualität ab und sind keine Prognose.</p>`;
       const jsonLd = [
         ...(idx === 0 ? [faqLd] : []),
@@ -494,6 +529,8 @@ ${galleryBlock(p)}
 
 ${cautionSection(p)}
 
+${evidenceBox(p)}
+
 ${faqBlock}
 
 ${relatedBlock}
@@ -534,14 +571,22 @@ ${stickyCta}`;
         name: p.label,
         description: (p.research && p.research.metaDescription) || p.description || `${p.label} — ${p.typeDe} im Digistore24-Marktplatz`,
         ...(localImg ? { image: SITE_URL + "/" + localImg.path } : {}),
+        sku: "DS24-" + p.productId,
         brand: { "@type": "Brand", name: p.vendorName },
         category: (p.categories || [])[0] || "Uncategorized",
+        additionalProperty: [{
+          "@type": "PropertyValue",
+          name: "Intended use",
+          value: (TYPE_USAGE_DE[p.type] || `Digital über Digistore24 nach dem Checkout geliefert; genaue Nutzung siehe Verkaufsseite des Anbieters.`).split(";")[0].trim(),
+        }],
         offers: {
           "@type": "Offer",
           price: Number(Number(p.price).toFixed(2)),
           priceCurrency: p.currency === "EUR" ? "EUR" : "USD",
           availability: "https://schema.org/InStock",
+          itemCondition: "https://schema.org/NewCondition",
           url: `${SITE_URL}/produkte/${p.slug}.html`,
+          seller: { "@type": "Organization", name: p.vendorName },
         },
       },
       {
@@ -834,6 +879,20 @@ Falsche Zahl gefunden? <a href="mailto:admin@2bkf.com?subject=${mail}">Korrektur
 }
 
 // FAQ: Antworten ausschließlich aus offiziellen Marktplatz-Daten (berechnet) oder Anbieteraussagen (markiert), mit echten internen Links
+// Belegbasis & Validierungsbedingungen: jede Aussage → Quelle → Datum → Prüfweg
+function evidenceBox(p) {
+  const res = p.research && !p.research.error;
+  const srcPage = res ? (p.research.finalUrl || p.salesPageUrl) : p.salesPageUrl;
+  const method = res && p.research.method === "browser-render" ? "im Browser gerendert" : "rohes HTML";
+  return `<div class="tldr"><b>Belegbasis & Validierungsbedingungen</b>
+<ul>
+<li><b>Marktplatz-Zahlen</b> (Preis, Provision, Konversion, Stornoquote) — Quelle: offizielle Digistore24-Marktplatz-API (Affiliate-Sicht), Stand <b>${datemark(DATA.scrapedAt)}</b>. Gegenprüfung: Marktplatz-Suche nach Produkt-ID ${p.productId}.</li>
+<li><b>Verkaufsseiten-Zitate</b> — Quelle: ${esc(srcPage || "offizielle Verkaufsseite")}, abgerufen <b>${datemark(DATA.researchedAt) || "—"}</b> (Methode: ${method}). Verify: offizielle Seite öffnen.</li>
+<li><b>Garantie / Rückgabe</b> — vom Anbieter festgelegt; vor dem Kauf auf der Verkaufsseite bestätigen.</li>
+<li><b>Nicht von uns geprüft:</b> Produktqualität, Ergebnisse, Testimonials — kein Praxistest für dieses Listing durchgeführt.</li>
+</ul></div>`;
+}
+
 function faqData(p, altData) {
   const gm = p.research && !p.research.error && p.research.guaranteeMention;
   const q = encodeURIComponent(p.label);
@@ -869,11 +928,16 @@ function faqData(p, altData) {
     q: `Wo kann ich ${p.label} sicher kaufen?`,
     a: `Nur über die <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">offizielle Verkaufsseite</a>, die auf dieser Seite verlinkt ist (Checkout und Rückgaben laufen über Digistore24). Prüfen Sie dort Preis und Garantie vor der Bestellung. Der Link ist ein Affiliate-Link — der Kauf unterstützt diese Website ohne Mehrkosten für Sie.`,
   });
+  qas.push({
+    q: `Wie erhalte ich ${p.label} nach der Zahlung?`,
+    a: `Der Checkout läuft über Digistore24: Nach der Zahlung erhalten Sie <b>${(p.billingTypes || []).join(" oder ").toLowerCase().includes("subscription") ? "Zugangsdaten und Ihr Abo-Dashboard" : "Ihren Zugang oder Download per E-Mail und in Ihrem Digistore24-Kundenkonto"}</b>. Lieferdetails für diesen Produkttyp: ${esc((TYPE_USAGE_DE[p.type] || "siehe Verkaufsseite des Anbieters").replace(/\.$/, ""))}. Bei Problemen kann der Digistore24-Käufersupport Ihre Bestellung wiederherstellen.`,
+  });
   return qas;
 }
 
 function faqSection(p, qas) {
   return `<h2 id="faq">Häufige Fragen zu ${esc(p.label)}</h2>
+<p class="sub">Antworten aus dem Marktplatz-Snapshot (${datemark(DATA.scrapedAt)}) und der Verkaufsseiten-Recherche (${datemark(DATA.researchedAt) || "—"}); Anbieteraussagen sind inline gekennzeichnet.</p>
 ${qas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
 }
 
@@ -932,10 +996,31 @@ function staticPages() {
 <p>Diese Website enthält Affiliate-Links (Werbung im Sinne des § 56 UWG bzw. kennzeichnungsrechtlicher Vorgaben). Klicken Sie auf einen Link und kaufen, erhalten wir ggf. eine Provision vom Anbieter — ohne Mehrkosten für Sie. Links sind mit „Affiliate-Link" gekennzeichnet.</p>
 <h2>Kontakt & Datenquellen</h2>
 <p>Fragen oder Korrekturen? Öffnen Sie ein Issue in unserem <a href="https://github.com/vsyour-cmd/digistore-picks-de" rel="noopener">GitHub-Repository</a>. Die vollständige Recherche-Datei jedes Produkts liegt versioniert unter <code>content/products/</code>. Produktdaten kommen von der offiziellen Digistore24-Marktplatz-API (eingeloggte Affiliate-Sicht); die Verkaufsseiten-Recherche wird regelmäßig aktualisiert, jede Seite zeigt ihre Datenstände.</p>`;
+  const orgLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "adminstore",
+    url: SITE_URL + "/",
+    email: "admin@2bkf.com",
+    description: "Unabhängiger Herausgeber von DigistorePicks DE, einem Verzeichnis von Digistore24-Marktplatz-Produkten mit überprüfbaren Marktplatz-Daten und gekennzeichneter Verkaufsseiten-Recherche.",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui",
+      addressLocality: "Kowloon",
+      addressRegion: "Kowloon",
+      postalCode: "999077",
+      addressCountry: "HK",
+    },
+    sameAs: [
+      "https://github.com/vsyour-cmd/digistore-picks-de",
+      "https://vsyour-cmd.github.io/digistore-picks/",
+    ],
+  };
   fs.writeFileSync(outPath("about.html"), layout({
     title: `Über uns & Transparenz — ${SITE_NAME}`,
     desc: "Recherche-Methoden, Affiliate-Offenlegung und Kontaktdaten von DigistorePicks DE.",
     body: about, path: "about.html",
+    jsonLd: [orgLd],
     crumb: [{ label: "Start", href: "index.html" }, { label: "Über uns", href: "about.html" }],
   }));
 
