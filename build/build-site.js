@@ -1053,7 +1053,6 @@ function staticPages() {
     title: `Über uns & Transparenz — ${SITE_NAME}`,
     desc: "Recherche-Methoden, Affiliate-Offenlegung und Kontaktdaten von DigistorePicks DE.",
     body: about, path: "about.html",
-    jsonLd: [orgLd],
     crumb: [{ label: "Start", href: "index.html" }, { label: "Über uns", href: "about.html" }],
   }));
 
