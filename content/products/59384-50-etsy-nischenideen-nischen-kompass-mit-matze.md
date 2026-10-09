@@ -1,7 +1,7 @@
 # 50 Etsy-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59384` · Digistore24 productId `732926` · [HTML profile page](../../produkte/50-etsy-nischenideen-nischen-kompass-mit-matze-59384.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 50 Etsy-Nischenideen – Nischen-Kompass - Einfach mit Matze
+- **Headline (H1):**
+  > 50 Etsy-Nischenideen – Nischen-Kompass
+- **Section headlines (H2):**
+  - Das ist enthalten
+  - So nutzt du den Nischen-Kompass
+  - Eine freiwillige Ergänzung
+  - Bereitstellung und Voraussetzungen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/732926
+- **Opening copy (first paragraphs):**
+  > OPTIONALES ZUSATZPAKET Du möchtest digitale Produkte für Etsy entwickeln und suchst einen konkreten Ausgangspunkt? Nutze 50 Nischenideen für deine eigene Recherche und Produktentscheidung.
+  > Eine PDF-Sammlung mit 50 Etsy-Nischenideen. Die Ideen unterstützen deine Recherche; sie sind keine fertigen Shop-Produkte und keine Absatzprognosen.
+  > Wähle passende Ansätze aus und prüfe Zielgruppe, Nachfrage und Umsetzbarkeit, bevor du eigene Inhalte und Produkte entwickelst.
+  > Der Etsy-Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz vollständig. Du erhältst schriftliches Zusatzmaterial auf Deutsch, keine Videolektionen oder persönliche Betreuung. Verkäufe und Einnahmen werden nicht zugesagt.
+- **Page word count:** 393
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

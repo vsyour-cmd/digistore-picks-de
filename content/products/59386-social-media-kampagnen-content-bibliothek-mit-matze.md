@@ -1,7 +1,7 @@
 # Social-Media-Kampagnen – Content-Bibliothek mit Matze
 
 > Product ID `59386` · Digistore24 productId `733941` · [HTML profile page](../../produkte/social-media-kampagnen-content-bibliothek-mit-matze-59386.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Content-Kampagnenbibliothek - Einfach mit Matze
+- **Headline (H1):**
+  > Content-Kampagnenbibliothek
+- **Section headlines (H2):**
+  - Das ist enthalten
+  - So hilft dir das Paket
+  - Eine freiwillige Ergänzung
+  - Bereitstellung
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/733941
+- **Opening copy (first paragraphs):**
+  > OPTIONALES ZUSATZPAKET Du möchtest dein Angebot regelmäßig zeigen, ohne jedes Mal bei null anzufangen? Nutze zusätzliche Kampagnenbeispiele für deine eigene Planung.
+  > 12 zusätzliche Kampagnen mit jeweils drei Beiträgen als Ergänzung zum Kurs Social Media auf Autopilot.
+  > Übertrage passende Beispiele auf dein eigenes Angebot und entwickle daraus zusammenhängende Beiträge für deinen Contentplan.
+  > Digitales Zusatzmaterial auf Deutsch. Kein Live-Unterricht und keine persönliche Betreuung. Die Umsetzung übernimmst du selbst; bestimmte Reichweiten, Verkäufe oder Einnahmen werden nicht zugesagt.
+- **Page word count:** 375
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

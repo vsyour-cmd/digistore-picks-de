@@ -1,7 +1,7 @@
 # KI-Kundenservice – Antwortwerkstatt Plus mit Matze
 
 > Product ID `59388` · Digistore24 productId `733945` · [HTML profile page](../../produkte/ki-kundenservice-antwortwerkstatt-plus-mit-matze-59388.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Antwortwerkstatt Plus - Einfach mit Matze
+- **Headline (H1):**
+  > Antwortwerkstatt Plus
+- **Section headlines (H2):**
+  - Das ist enthalten
+  - So hilft dir das Paket
+  - Eine freiwillige Ergänzung
+  - Bereitstellung
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/733945
+- **Opening copy (first paragraphs):**
+  > OPTIONALES ZUSATZPAKET Du möchtest auch bei ungewohnten Kundenfragen ruhig und verständlich antworten? Übe deinen Prüfablauf an weiteren Beispielen.
+  > 20 zusätzliche Übungsfälle mit Antwortentwürfen und Prüfhinweisen als Ergänzung zum Kurs KI-Kundenservice.
+  > Vergleiche Entwürfe mit den verfügbaren Informationen und übe, fehlende Fakten, unzulässige Zusagen und notwendige Rückfragen zu erkennen.
+  > Digitales Zusatzmaterial auf Deutsch. Kein Live-Unterricht und keine persönliche Betreuung. Die Umsetzung übernimmst du selbst; bestimmte Reichweiten, Verkäufe oder Einnahmen werden nicht zugesagt.
+- **Page word count:** 374
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

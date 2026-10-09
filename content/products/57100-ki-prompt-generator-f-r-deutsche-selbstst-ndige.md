@@ -1,7 +1,7 @@
 # KI-Prompt-Generator für deutsche Selbstständige
 
 > Product ID `57100` · Digistore24 productId `704859` · [HTML profile page](../../produkte/ki-prompt-generator-f-r-deutsche-selbstst-ndige-57100.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** PromptForge Pro – KI-Prompt-Generator
+- **Final URL after redirects:** https://promptforge-salespage.pages.dev/
+- **Headline (H1):**
+  > Prompt Forge Pro
+- **Section headlines (H2):**
+  - PromptForge vs. ChatGPT Plus
+  - So funktioniert's
+  - Funktioniert für
+  - Was du bekommst
+  - Auslieferung
+- **Opening copy (first paragraphs):**
+  > Der erste KI-Assistent der nur für deutsche Selbstständige denkt – ohne Abo, ohne Datenweitergabe, jederzeit nutzbar nach Kauf.
+  > Du erhältst nach dem Kauf sofort den Zugang zur Web-App per E-Mail. Tipp: Speicher den Link aus der E-Mail – er ist dein Zugang zur App. Die Abbuchung erfolgt durch Digistore24.com
+  > Hinweis: Du benötigst einen kostenlosen Groq API-Key (Anleitung liegt bei) und ein kostenloses ChatGPT-Konto zum Ausführen der Prompts.
+  > Elektriker, SHK, Maler, Dachdecker, Friseur, Kosmetik, Gastronomie, Reinigung, Hausmeister, Gärtner, Schädlingsbekämpfer, Physio, Immobilien, Coach, Fahrzeugaufbereiter, IT
+- **Page word count:** 288
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

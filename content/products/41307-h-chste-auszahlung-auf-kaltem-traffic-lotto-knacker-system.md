@@ -1,7 +1,7 @@
 # Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)
 
 > Product ID `41307` · Digistore24 productId `242150` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-lotto-knacker-system-41307.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,12 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** video 3 Final - lottoknacker.net
+- **Headline (H1):**
+  > So Wählten 94% Der Leute, Die Im Lotto Gewonnen Haben, Ihre Zahlen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/242150?voucher=FREUNDERABATT600
+- **Page word count:** 66
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

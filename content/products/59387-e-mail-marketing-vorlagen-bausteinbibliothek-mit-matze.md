@@ -1,7 +1,7 @@
 # E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze
 
 > Product ID `59387` · Digistore24 productId `733943` · [HTML profile page](../../produkte/e-mail-marketing-vorlagen-bausteinbibliothek-mit-matze-59387.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,22 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** E-Mail-Bausteinbibliothek - Einfach mit Matze
+- **Headline (H1):**
+  > E-Mail-Bausteinbibliothek
+- **Section headlines (H2):**
+  - Das ist enthalten
+  - So hilft dir das Paket
+  - Eine freiwillige Ergänzung
+  - Bereitstellung
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/733943
+- **Opening copy (first paragraphs):**
+  > OPTIONALES ZUSATZPAKET Dein E-Mail-Ablauf steht, aber bei der Formulierung kommst du nicht weiter? Zusätzliche Textbausteine helfen dir beim Ausarbeiten deiner Nachrichten.
+  > Betreffzeilen, Vorschautexte, Handlungsaufforderungen und acht weitere Szenarien als Ergänzung zum Kurs E-Mail-Verkaufsablauf.
+  > Wähle passende Bausteine und passe sie an dein Angebot, deine Zielgruppe und den Zweck der jeweiligen Nachricht an.
+  > Digitales Zusatzmaterial auf Deutsch. Kein Live-Unterricht und keine persönliche Betreuung. Die Umsetzung übernimmst du selbst; bestimmte Reichweiten, Verkäufe oder Einnahmen werden nicht zugesagt.
+- **Page word count:** 375
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

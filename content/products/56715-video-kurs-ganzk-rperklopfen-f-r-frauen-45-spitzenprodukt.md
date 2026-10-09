@@ -1,7 +1,7 @@
 # Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt
 
 > Product ID `56715` · Digistore24 productId `555570` · [HTML profile page](../../produkte/video-kurs-ganzk-rperklopfen-f-r-frauen-45-spitzenprodukt-56715.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,20 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Ganzkörper-Klopfmassage für Frauen
+- **Section headlines (H3):**
+  - Was das Qigong-Meridian-Klopfen für dich tun kann?
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/555570
+- **Opening copy (first paragraphs):**
+  > 🌸 Stell dir vor, du beginnst deinen Tag mit einer sanften Klopfmassage , die nicht nur deinen Körper belebt , sondern auch deine Emotionen harmonisiert...
+  > Dieser Kurs ist speziell für Frauen entwickelt, die sich selbst wieder spüren möchten, sich nach innerer Balance, Leichtigkeit und Gesundheit sehnen.
+  > Dieser Kurs ist mehr als nur Bewegung - er ist eine Einladung, dich mit dir selbst zu verbinden, Altes loszulassen und neue Lebensenergie zu spüren. Ganz ohne Druck . In deinem Tempo . Mit meiner ❤️ liebevollen Begleitung.
+  > "Ich habe keine Erfahrungen mit Qigong - ist dieser Online-Kurs dann trotzdem für mich geeignet?"
+- **Questions the sales page answers:**
+  - Was das Qigong-Meridian-Klopfen für dich tun kann?
+  - Bist du vielleicht skeptisch, und fragst dich, ob Qigong wirklich helfen kann?
+- **Page word count:** 1326
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Sabines Qigong-Abo mit kostenloser Probewoche als Freebie
 
 > Product ID `57037` · Digistore24 productId `671247` · [HTML profile page](../../produkte/sabines-qigong-abo-mit-kostenloser-probewoche-als-freebie-57037.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,28 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Qigong-ABO
+- **Section headlines (H3):**
+  - Stress, Innere Unruhe & Körperliche Beschwerden machen dir zu schaffen?
+  - Was erwartet dich im Qigong Vitality Akademie Kursportal?
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/671247
+- **Opening copy (first paragraphs):**
+  > Mit Qigong kannst du Innere Ausgeglichenheit finden, deine Selbstheilung ankurbeln und deine eigene Power zurückerobern.
+  > Mein Einführungs-Geschenk 🎉an dich : Teste 1 Woche lang kostenlos mein komplettes Kurs-Portal mit kleineren und größeren Video-Kursen, die du ganz nach deinem Bedürfnis auswählen kannst. ☯️ Deiner emotionalen und körperlichen Gesundheit unterstützend zur Seite stehend. ☯️ Sabine
+  > Alles ist sanft, langsam, achtsam . Du lernst, deinen Körper wieder zu spüren , ihm zu vertrauen und ihn liebevoll zu bewegen – ganz ohne Druck. Selbst bei Bewegungseinschränkungen ist Qigong nützlich. Warum? Weil man es an deine Bedürfnisse anpassen kann.
+  > 💚 Wenn du dich nach mehr Energie, Lebensfreude & innere Ruhe sehnst. 💚 Wenn du dich nicht länger ausgelaugt und krank fühlen möchtest. 💚 Wenn du auf sanfte Weise etwas für deine Gesundheit tun willst. - ohne Druck und bequem von zu Hause aus
+- **Questions the sales page answers:**
+  - Stress, Innere Unruhe & Körperliche Beschwerden machen dir zu schaffen?
+  - Was erwartet dich im Qigong Vitality Akademie Kursportal?
+  - Bist du vielleicht skeptisch, und fragst dich, ob Qigong wirklich helfen kann?
+  - Was genau erwartet dich in Sabines Mitgliederbereich?
+  - Ich bin schon über 60 - ist das Qigong-Abo trotzdem für mich geeignet?
+  - ch kann keine Übungen im Stehen ausführen, ist das Qigong-Abo dann trotzdem für mich geeignet?
+  - Ich bin nicht gut mit Technik - wie funktioniert das online?
+  - Was, wenn Qigong doch nichts ist für mich und ich gar kein Abo anfangen möchte?
+  - Was, wenn ich das Abo beenden möchte?
+- **Page word count:** 1691
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

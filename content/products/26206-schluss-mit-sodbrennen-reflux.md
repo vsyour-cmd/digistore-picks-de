@@ -1,7 +1,7 @@
 # Schluss mit Sodbrennen (Reflux)
 
 > Product ID `26206` · Digistore24 productId `167027` · [HTML profile page](../../produkte/schluss-mit-sodbrennen-reflux-26206.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,30 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Schluss mit Sodbrennen: eBook gegen Sodbrennen | Refluxgate
+- **OG title:** Refluxgate
+- **Meta description:** Das eBook Schluss mit Sodbrennen: Erprobte Behandlungsstrategien, um Sodbrennen mit Ernährung statt Medikamenten loszuwerden.
+- **Final URL after redirects:** https://www.refluxgate.de/schluss-mit-sodbrennen/
+- **Headline (H1):**
+  > Sodbrennen loswerden: mit Ernährung statt Medikamenten
+- **Section headlines (H2):**
+  - Sodbrennen ist nicht dein Fehler
+  - Schluss mit Sodbrennen
+  - Was du im Buch lernst
+  - Willst du schnellstmögliche Hilfe?
+  - Was andere Leser zum Buch sagen:
+  - Lege noch heute los
+  - Häufig gestellte Fragen
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/161131
+  - https://www.digistore24.com/product/167025
+  - https://www.digistore24.com/product/167027
+- **Opening copy (first paragraphs):**
+  > Ich bin Gerrit, Gründer von Refluxgate. Lass mich dir zeigen, wie echte Experten Sodbrennen auslöserbasiert behandeln.
+  > Immer mehr Menschen sind von Sodbrennen betroffen. Derzeit verspüren 7% der Bevölkerung täglich Sodbrennen.
+  > Die Standardbehandlung sind Säureblocker (Protonenpumpenhemmer). Diese Medikamente unterdrücken jedoch nur die Symptome. Der Reflux selbst findet weiterhin statt, bis das Sodbrennen früher oder später wieder durchbricht.
+  > Zudem zeigten Studien in den vergangenen Jahren immer wieder das langfristige Schadenspotential der Protonenpumpenhemmer. Beispielsweise kann es zu Nierenschäden, Vitamin-B12-Mangel und Dünndarmfehlbesiedlung (SIBO) kommen.
+- **Page word count:** 2075
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

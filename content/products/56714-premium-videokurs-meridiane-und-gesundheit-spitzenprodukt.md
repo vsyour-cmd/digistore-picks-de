@@ -1,7 +1,7 @@
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
 > Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,21 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Verkaufsseite Meridian-Lehre
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/605434
+- **Opening copy (first paragraphs):**
+  > "Körperliche oder emotionale Beschwerden begrenzen dein Leben? Erfahre mehr über deinen eigenen Energiestatus und befreie dich mit Meridian-Dehnübungen von diesen Einschränkungen und erlebe wieder Freude und Bewegungsfreiheit!"
+  > Welche Symptome/Krankheiten treten auf, wenn sich der Meridian in einem disharmonischen Zustand befindet?
+  > Welches sind die körperlichen, geistigen und seelischen Funktionen der einzelnen Meridiane?
+  > Welche praktischen Dehnübungen helfen dir , um entsprechende Meridiane zu "erweitern", sodaß die Energie wieder leichter durchfließen kann.
+- **Questions the sales page answers:**
+  - Was sind die Voraussetzungen um an dem Kurs teilzunehmen?
+  - Wie lange dauert jede Unterrichtseinheit des Kurses?
+  - Kann ich den Kurs auch absolvieren, wenn ich körperliche Einschränkungen habe?
+  - Kann ich die Kursmaterialien auch nach Abschluss des Kurses weiterhin nutzen?
+  - Was, wenn mir nur wenig Zeit zum Üben zur Verfügung steht?
+- **Page word count:** 773
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
