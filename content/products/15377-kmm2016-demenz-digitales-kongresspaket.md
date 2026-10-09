@@ -58,6 +58,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sie bekommen Zugriff zu 19 hochkarätigen Vorträgen mit weltweit anerkannten Professoren und Experten . Schauen Sie alle Vorträge bequem zu Hause und setzen Sie danach Schritt für Schritt Ihre eigenen persönlichen Maßnahmen gegen die Demenz dank der verständlichen Anweisungen um. Sie haben etwas nicht ganz verstanden? Kein Problem, Sie können jederzeit die Vorträge erneut schauen .
+> Das digitale Kongresspaket gibt Ihnen jederzeit und überall Zugriff auf die wertvollen Ressourcen unserer Professoren, Mediziner und Experten, die Ihnen Schritt-für-Schritt zu Ihrem Ziel verhelfen. Egal wo Sie gerade stehen.
+
+### 3c. Cautions
+
+> Sie wollen die wichtigsten Fakten auf einen Blick? Gerade keine Zeit 11+ Stunden Vorträge zu sehen? Oder einfach als Unterstützung während Sie die Vorträge schauen?
+> Kein Problem. Mit dem kompakten Kongressprogramm, der alle wichtigen Informationen enthält, bekommen Sie eine Zusammenfassung der wichtigsten Inhalte , Methoden und Strategien unserer Professoren und Mediziner.
+> Also, wenn Ihnen das Thema Demenz wirklich wichtig ist (weil Sie selbst oder Angehörige betroffen sind) und Sie schnellstmöglich die effektivsten Methoden umsetzen wollen, wenn Sie Zeit und Mühe für Experimente und teure Behandlungen sparen wollen und stattdessen das tun wollen, was die aktuellste Forschung ergibt , wenn Sie Zugriff auf die kostbaren und exklusiven Bonusmaterialien haben wollen...
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KMM2016 Demenz - Digitales Kongresspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/119253
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KMM2016%20Demenz%20-%20Digitales%20Kongresspaket
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

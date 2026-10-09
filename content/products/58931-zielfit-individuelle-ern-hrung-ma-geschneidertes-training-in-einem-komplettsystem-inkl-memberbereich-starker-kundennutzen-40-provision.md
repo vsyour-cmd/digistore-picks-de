@@ -61,6 +61,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Klare Pläne, Rezepte und Anleitungen nehmen dir einen Großteil des Rätselratens ab.
+> Damit dir beim Essen nicht die Ideen ausgehen 200+ REZEPTE Mit Anleitung und mehreren Kalorienstufen.
+> „ Der Plan hat mir gezeigt, welche Schritte für mich wirklich wichtig sind. “ Sandra · Zielfit Kundenerfahrung
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58931-g1.webp
+- assets/products/58931-g2.webp
+- assets/products/58931-g3.webp
+- assets/products/58931-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/727105
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zielfit%20-%20Individuelle%20Ern%C3%A4hrung%20%26%20ma%C3%9Fgeschneidertes%20Training%20in%20einem%20Komplettsystem%20inkl.%20Memberbereich%20%7C%20starker%20Kundennutzen%20-%2040%20%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

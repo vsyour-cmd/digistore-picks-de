@@ -61,6 +61,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/90365
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazilon%20-%20Amazon%20PartnerNet%20Plugin%20-%20Medium%20Lizenz%20(6%20Stk.)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

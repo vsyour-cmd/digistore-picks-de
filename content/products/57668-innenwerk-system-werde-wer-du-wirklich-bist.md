@@ -69,6 +69,12 @@
 - assets/products/57668-g3.webp
 - assets/products/57668-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: InnenWerk-System – Werde, wer Du wirklich bist Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/689739
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=InnenWerk-System%20%E2%80%93%20Werde%2C%20wer%20Du%20wirklich%20bist
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

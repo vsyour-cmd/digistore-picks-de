@@ -58,6 +58,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 30+ Videolektionen in 6 Kapiteln. Strukturiert von der Theorie deines Nervensystems bis zur konkreten Anwendung am Chart. Du gehst Schritt f&uuml;r Schritt durch &ndash; oder springst gezielt zur Technik, die du gerade brauchst - nur Technik, keine Trading-Psychologie.
+> Nein. Der Kurs ist so aufgebaut, dass du bei null anf&auml;ngst. Du lernst die Techniken Schritt f&uuml;r Schritt &ndash; mit klaren Anleitungen und gef&uuml;hrten &Uuml;bungsvideos. Wenn du atmen kannst, kannst du den Kurs machen.
+
+### 3c. Cautions
+
+> Die universelle Grundtechnik &rarr; Vor wichtigen Entscheidungen &middot; als t&auml;gliche Basis Genutzt von US-Navy-SEALs unter dem Namen Tactical Breathing.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56468-g1.webp
+- assets/products/56468-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Trading Breathwork – Klar handeln statt emotional reagieren. Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/686937
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trading%20Breathwork%20%E2%80%93%20Klar%20handeln%20statt%20emotional%20reagieren.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

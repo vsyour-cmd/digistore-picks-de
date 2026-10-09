@@ -59,6 +59,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In 12 praxisnahen Lektionen lernst du, KI-Tools sicher und effektiv zu nutzen. Vom ersten Prompt bis zur rechtssicheren Anwendung – alles was du brauchst, um KI produktiv in deinen Job zu integrieren. Speziell für Anfänger, mit modernsten Lernmethoden, Lernvideos und interaktiven Hands-on-Trainings.
+> Von ChatGPT über Claude bis zu Perplexity – du kennst die wichtigsten KI-Anwendungen und ihre Stärken.
+> Nein, der Kurs ist speziell für Anfänger konzipiert. Du brauchst nur einen Computer mit Internetverbindung und Grundkenntnisse im Umgang mit dem Browser. Wir starten bei den absoluten Basics und führen dich Schritt für Schritt an die KI-Tools heran.
+
+### 3c. Cautions
+
+> KI lernen für Einsteiger: Online-Grundkurs – NEXperts Academy Zum Hauptinhalt springen Zum Footer springen Consulting
+> Um deine Anfrage und mögliche Rückfragen bearbeiten zu können, speichern wir deine persönlichen Angaben. Weitere Hinweise findest du in unserer Datenschutzerklärung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54495-g1.webp
+- assets/products/54495-g2.webp
+- assets/products/54495-g3.webp
+- assets/products/54495-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/643686
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Grundkurs%20zur%20Anwendung%20von%20KI%20im%20Arbeitsalltag%20(inkl.%20Zerti
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

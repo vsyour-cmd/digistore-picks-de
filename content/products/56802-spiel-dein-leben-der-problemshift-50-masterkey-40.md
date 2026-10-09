@@ -56,6 +56,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/695292
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spiel-dein-Leben%3A%20Der%20ProblemShift%20(50%20%25)%20%2B%20MasterKey%20(40%20%25)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

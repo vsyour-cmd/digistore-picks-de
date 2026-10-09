@@ -52,6 +52,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✅ Klarer Fahrplan für deinen YouTube Erfolg: Du erhältst Zugang zu dem gesamten Wissen, Vorlagen und Schritt-für-Schritt Anleitungen aus mehr als 10 Jahren Erfahrung mit YouTube, um in die Sichtbarkeit zu kommen und planbar Kunden zu gewinnen.
+> ✅ Klarer Fahrplan für deinen YouTube Erfolg: Du erhältst Zugang zu dem gesamten Wissen, Vorlagen und Schritt-für-Schritt Anleitungen aus mehr als 10 Jahren Erfahrung mit YouTube, um in die Sichtbarkeit zu kommen und planbar Kunden zu gewinnen.
+> ✅ Klarer Fahrplan für deinen YouTube Erfolg: Du erhältst Zugang zu dem gesamten Wissen, Vorlagen und Schritt-für-Schritt Anleitungen aus mehr als 10 Jahren Erfahrung mit YouTube, um in die Sichtbarkeit zu kommen und planbar Kunden zu gewinnen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/47987-g1.webp
+- assets/products/47987-g2.webp
+- assets/products/47987-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/554433
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%20-%20Lifetime%20Provisionen%5D%20Deutschlands%20YouTube%20Mastermind
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

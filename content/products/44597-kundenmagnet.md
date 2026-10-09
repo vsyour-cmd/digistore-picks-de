@@ -53,6 +53,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> INNERHALB VON KÜRZESTER ZEIT SO VIELE ANFRAGEN SEITDEM BIN ICH VOLL DIE WARTELISTE IST DER NÄCHSTE SCHRITT
+
+### 3c. Cautions
+
+> Eines meiner wichtigsten Erfolgsprinzipien ist, nur mit top-zufriedenen Kunden zu arbeiten. Wenn dich dieser Kurs aus irgendeinem Grund nicht komplett begeistert, erstatte ich den kompletten Kaufpreis ohne wenn und aber zurück. Diese Zufriedenheitsgarantie gilt 14 Tage. Schreibe eine Email an unseren Support *protected email* und du bekommst dein Geld zurück.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44597-g1.webp
+- assets/products/44597-g2.webp
+- assets/products/44597-g3.webp
+- assets/products/44597-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kundenmagnet Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/500301
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kundenmagnet
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

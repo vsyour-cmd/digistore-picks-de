@@ -60,6 +60,12 @@
 
 > Hinweis: Dieser Workshop hat informativen Charakter; die Teilnahme ist kostenlos. Im Rahmen des Workshops werden auch kostenpflichtige Produkte vorgestellt. Es werden keine Einkommen, Ergebnisse oder Erfolge zugesichert. Ergebnisse hängen von individuellen Faktoren ab und können nicht vorhergesagt werden.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Optin Pilot Software Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/528000
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Optin%20Pilot%20Software
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -56,6 +56,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ist Metaleve sicher? Ja, absolut. Metaleve ist eine exklusive natürliche Formel, die in einer FDA-registrierten und GMP-zertifizierten Anlage in den USA nach höchsten Hygiene- und Sicherheitsstandards hergestellt wird. Alle Inhaltsstoffe sind zu 100 % pflanzlichen Ursprungs, soja- und laktosefrei, vegetarisch und gentechnikfrei. Sie werden unabhängig auf Reinheit und Wirksamkeit geprüft. Wir empfehlen grundsätzlich, vor der Einnahme Rücksprache mit Ihrem Arzt zu halten.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59222-g2.webp
+- assets/products/59222-g3.webp
+- assets/products/59222-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Metaleve Germany Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/728953
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Metaleve%20Germany
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

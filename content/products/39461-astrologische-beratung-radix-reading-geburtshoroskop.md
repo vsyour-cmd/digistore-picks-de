@@ -56,6 +56,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ein persönliches Horoskop bietet nicht nur faszinierende Einblicke in Dein eigenes Leben, sondern auch praktische Anwendungen, die Dir helfen können, Deine Entscheidungen und Handlungen bewusster zu gestalten
+> Karrierewechsel: Die Beratung zeigte, dass ein Wechsel in meiner Karriere nicht nur möglich, sondern auch förderlich sein würde. Ich habe den Schritt gewagt und bin jetzt glücklicher in meinem neuen Berufsfeld," berichtet Anna, eine ehemalige Marketingleiterin.
+
+### 3c. Cautions
+
+> Ein persönlich erstelltes Geburtshoroskop ist mehr als nur ein Diagramm; es ist ein Spiegel Deiner Seele. Es zeigt, was Dich einzigartig macht und welche Stärken Du nutzen kannst, um Deine Träume zu verwirklichen. Kunden berichten immer wieder, wie diese Einsichten ihnen geholfen haben, wichtige Lebensentscheidungen zu treffen und sich selbst besser zu verstehen.
+> Astrologie ist eine komplexe und tiefgründige Disziplin, die auf der Interpretation der Positionen und Bewegungen von Himmelskörpern beruht, um menschliches Verhalten und zukünftige Ereignisse entdecken. Diese alte Wissenschaft bietet nicht nur Einblicke in persönliche Charakterzüge, sondern kann auch wichtige Wendepunkte im Leben eines Menschen beleuchten.
+> Lebensübergänge: David, ein Arzt, erklärt: Durch mein Horoskop wurde mir klar, wann der richtige Zeitpunkt für einen Ruhestand war, um mich mehr auf meine Familie zu konzentrieren."
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39461-g1.webp
+- assets/products/39461-g2.webp
+- assets/products/39461-g3.webp
+- assets/products/39461-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Astrologische Beratung - Radix-Reading Geburtshoroskop Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/334784
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Astrologische%20Beratung%20-%20Radix-Reading%20Geburtshoroskop
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

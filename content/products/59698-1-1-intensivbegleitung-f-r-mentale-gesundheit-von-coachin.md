@@ -67,6 +67,12 @@
 
 - assets/products/59698-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/731126
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%3A1-Intensivbegleitung%20f%C3%BCr%20mentale%20Gesundheit%20%E2%80%93%20von%20Coachin
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -65,6 +65,12 @@
 - assets/products/60198-g2.webp
 - assets/products/60198-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/739379
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Umsatz%2C%20mehr%20Freiheit%20als%20Verk%C3%A4ufer%2C%20Closer%2C%20Networker
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

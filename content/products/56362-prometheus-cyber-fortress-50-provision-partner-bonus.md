@@ -43,6 +43,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/679015
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PROMETHEUS%20Cyber%20Fortress%E2%84%A2%20%E2%80%93%2050%20%25%20Provision%20%2B%20Partner-Bonus
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

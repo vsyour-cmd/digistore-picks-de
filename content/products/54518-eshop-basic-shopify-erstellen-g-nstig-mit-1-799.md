@@ -73,6 +73,12 @@
 - assets/products/54518-g3.webp
 - assets/products/54518-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Eshop " Basic Shopify " erstellen günstig mit 1.799 € Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/644814
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Eshop%20%22%20Basic%20Shopify%20%22%20erstellen%20g%C3%BCnstig%20mit%201.799%20%E2%82%AC
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

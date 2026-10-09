@@ -48,6 +48,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✅ Ein klarer Fahrplan statt Trial & Error: Du musst nicht mehr raten, sondern folgst einem Schritt-für-Schritt-Weg.
+> ✅ Ein klarer Fahrplan statt Trial & Error: Du musst nicht mehr raten, sondern folgst einem Schritt-für-Schritt-Weg.
+> ✅ Ein klarer Fahrplan statt Trial & Error: Du musst nicht mehr raten, sondern folgst einem Schritt-für-Schritt-Weg.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50020-g1.webp
+- assets/products/50020-g2.webp
+- assets/products/50020-g3.webp
+- assets/products/50020-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der Kern der Verträglichkeit - Laktoseintoleranz Edition Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/722695
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kern%20der%20Vertr%C3%A4glichkeit%20-%20Laktoseintoleranz%20Edition
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

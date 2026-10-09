@@ -59,6 +59,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Der größte Fehler bei der Nutzung von Rife-Frequenzen liegt in stark komprimierten Audio-Streams auf Standard-Plattformen. Stark reduzierte Datenraten (wie oft bei YouTube-Uploads) verzerrungssensitive Sinuswellen und schneiden wichtige Frequenzanteile ab.
+> 3) Ist das Heilung"? Nein. Ich bin kein Arzt. Wenn du medizinische Probleme hast, geh zu einem Profi. Diese Frequenzen sind Werkzeuge zur Selbstwahrnehmung, Ausrichtung und Klangarbeit.
+> * = Affiliatelink/Werbelink Hinweis Hinweis: Alle Inhalte und Audio-Programme dienen ausschließlich dem mentalen Training, der Stressregulation und dem persönlichen Fokus. Sie stellen keine medizinische, psychologische oder therapeutische Behandlung dar.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37520-g2.webp
+- assets/products/37520-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/138033
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rife%20Frequenzen%20Komplettpaket%20(5%2C5%20GB)%20%E2%80%93%2050%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -52,6 +52,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ein endlos langer Kurs, den Sie sich nie zu Ende anschauen? Nein! In diesem Kurs bekommen Sie eine hoch komprimierte Schritt-für-Schritt-Anleitung ohne Wiederholungen und unnützes Blablabla!
+> „Sehr umsetzungsorientiert: Präzis das Wesentliche ohne unnötigen Ballast“ „Ein perfekter Dozent, vermittelt genau das, was es für gute Resultate braucht, und dies in sehr kompakter Form, ohne Zeit für Nebensächlichkeiten zu verlieren. In anderen Worten: Eine perfekte Anwendung des Pareto-Prinzips.“
+
+### 3c. Cautions
+
+> Wenn Sie trotzdem Hilfe brauchen, können Sie mich später separat für ein Audio-Consulting buchen!
+> „Ihr Kurs ist einer der Besten, die ich je gesehen habe. Kein BlaBla, sondern nur wichtige Info. Es ist wie bei einem Auto mit Zwölf-Zylinder-Motor. Ich muss den Motor nicht verstehen und ich muss ihn auch nicht reparieren können. Ich muss nur in der Lage sein, zu fahren.“
+> „Präzise Tipps vom Profi“ „Im Kurs lernt man die Tipps und Tricks, die der Dozent selbst auch als Profi anwendet. Dabei wird keine Zeit mit „Füllmaterial“ verschwendet, sondern Fakten auf den Punkt gebracht. Mir gefielen besonders gut die konkreten Hinweise zur Konfiguration der Audio-Filter, die auch programmübergreifend anwendbar sind (z.B. in Audacity). Genau nach meinem Geschmack. Danke!“
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/20125-g2.webp
+- assets/products/20125-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Online-Video-Kurs+Coaching "Sprache professionell aufnehmen" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/171853
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Video-Kurs%2BCoaching%20%22Sprache%20professionell%20aufnehmen%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

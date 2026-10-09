@@ -60,6 +60,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/725138
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FinOS%20v1.9.9%20%E2%80%93%20Der%209%E2%82%AC%20No-Brainer%20f%C3%BCr%20Finanz-Souver%C3%A4nit%C3%A4t
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

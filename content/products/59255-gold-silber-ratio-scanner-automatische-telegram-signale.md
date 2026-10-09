@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nächster Schritt Das Timing ist der Anfang — die Strategie ist das Ziel.
+
+### 3c. Cautions
+
+> Springt die Ratio an einem Tag um mehr als 2,5 %, kommt sofort ein Hinweis — auch ohne Schwellenkreuzung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59255-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Gold/Silber-Ratio Scanner - automatische Telegram-Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/728830
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gold%2FSilber-Ratio%20Scanner%20-%20automatische%20Telegram-Signale
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

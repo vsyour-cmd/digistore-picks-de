@@ -35,6 +35,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du liest, probierst aus und prüfst dein Ergebnis. Die Praxisaufgaben verbinden alle Schritte miteinander.
+> Was habe ich nach den Aufgaben erarbeitet? Du hast drei eigene Arbeitsproben geplant, davon den durchgehenden Musterauftrag Schritt für Schritt selbst umgesetzt, ein Portfolio vorbereitet und dein Angebot kalkuliert. Wie gut die Ergebnisse werden, hängt von deiner Umsetzung und Übung ab. Die Selbstprüfung ersetzt kein persönliches Feedback.
+> Vermittelt ihr mir Kunden oder garantiert ihr Einnahmen? Nein. Du lernst, passende Möglichkeiten zu prüfen, dich zu bewerben und professionell zusammenzuarbeiten. Eine Jobvermittlung, ein Abschlusszertifikat oder garantierte Aufträge gehören nicht zum Paket.
+
+### 3c. Cautions
+
+> Du übst mit dem Smartphone: Fensterlicht, Bildaufbau, Hände im Bild, verständlicher Ton und Schnitt. Untertitel bleiben lesbar und wichtige Bildteile außerhalb der Bedienelemente.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59266-g1.webp
+- assets/products/59266-g2.webp
+- assets/products/59266-g3.webp
+- assets/products/59266-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/733894
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=UGC%20Creator%20werden%20lernen%3A%20Vom%20ersten%20Clip%20zum%20eigenen%20Angebot
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -61,6 +61,12 @@
 - assets/products/50230-g2.webp
 - assets/products/50230-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Die 7 Säulen des Erfolgs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/733799
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%207%20S%C3%A4ulen%20des%20Erfolgs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

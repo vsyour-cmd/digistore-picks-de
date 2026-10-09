@@ -70,6 +70,12 @@
 - assets/products/55239-g1.webp
 - assets/products/55239-g2.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Brandschutzsystem für BSB / FaSi / Makler | 25% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/659667
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Brandschutzsystem%20f%C3%BCr%20BSB%20%2F%20FaSi%20%2F%20Makler%20%7C%2025%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

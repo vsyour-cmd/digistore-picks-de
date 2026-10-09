@@ -68,6 +68,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ❌ Reine Content-Mails sind zwar angenehm zu lesen... bringen dir aber oft kaum Einnahmen.
+> Dadurch entsteht ein System, das nicht auf Druck verkauft, sondern deine Leser Schritt für Schritt zur Entscheidung führt. Der geniale Nebeneffekt: Durch den Content baust du Vertrauen bei deinen Lesern auf und positionierst dich als Experte.
+> Eine gute Pre-Sale Page führt den Leser Schritt für Schritt vom ersten Interesse bis zur passenden Empfehlung.
+
+### 3c. Cautions
+
+> Du möchtest mit Affiliate-Marketing erfolgreich werden und hast verstanden, dass deine eigene E-Mail-Liste dein wichtigstes Werkzeug ist... sehr gut.
+> Deine E-Mail sorgt für den Klick. Die Pre-Sale Page übernimmt danach den wichtigsten Teil: Vertrauen aufbauen, Interesse verstärken und den Übergang zur Empfehlung vorbereiten.
+> Ja. Du kannst Links, Texte, Hinweise, Autor-Box und weitere Inhalte anpassen. Außerdem kannst du eigene Seiten ergänzen und dafür den mitgelieferten ChatGPT Prompt nutzen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56229-g1.webp
+- assets/products/56229-g2.webp
+- assets/products/56229-g3.webp
+- assets/products/56229-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pre-Sale Page System Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/683570
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pre-Sale%20Page%20System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

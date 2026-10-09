@@ -62,6 +62,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Es spielt keine Rolle, ob Du &uuml;ber keine technischen F&auml;higkeiten oder fr&uuml;here Erfahrungen beim Sprachenlernen verf&uuml;gst oder das Konzept der Input-Hypothese noch nicht verstehst. In diesem Schulungsprogramm wird alles Schritt f&uuml;r Schritt erkl&auml;rt.
+> Wir bei Sprachheld haben Jahre damit verbracht, eine einfache Methode aus drei Schritten zu entwickeln. Sie funktioniert nicht nur bei Spanisch: Ich habe damit 6 Sprachen gelernt, und tausende Teilnehmer nutzen sie fr Spanisch, Englisch, Franzsisch, Italienisch und andere Sprachen.
+> Mit diesen 3 Schritten wirst Du unweigerlich BESSER werden. Und so sehen sie in der Challenge konkret aus:
+
+### 3c. Cautions
+
+> Die Sprachwissenschaft erkennt immer mehr, wie wichtig ein ganz spezieller Faktor beim Sprachenlernen ist. Und nein, das sind nicht Grammatik oder Vokabeln, sondern Input .
+> Jedes Audio wird von einer Transkription und &Uuml;bersetzung begleitet. Einfach zum Ausdrucken oder am Computer oder Handy lesen. Sprachbl&ouml;cke sind &uuml;bersichtlich markiert, damit Du immer wei&szlig;t, was wichtig ist.
+> Das Problem: H&ouml;ren ist das Wichtigste beim Sprachenlernen, aber besonders am Anfang ist es sehr schwer zu verstehen, wo ein Wort anf&auml;ngt und wo es aufh&ouml;rt. Wir kennen manche T&ouml;ne noch nicht, weil es diese auf Deutsch nicht gibt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/41554-g1.webp
+- assets/products/41554-g2.webp
+- assets/products/41554-g3.webp
+- assets/products/41554-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Spanisch lernen mit der Sprachblock-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/187753
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spanisch%20lernen%20mit%20der%20Sprachblock-Methode
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -62,6 +62,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du bekommst meine Schritt-für-Schritt-Anleitung, um Low Content Bücher, Ausmalbücher, Tagebücher oder Spiele in wenigen Tagen zu erstellen und sofort zu verkaufen!
+> • Ich zeige dir die genaue Schritt-Für Schritt-Anleitung, wie du in wenigen Tagen bereits ein Low Content Buch erstellst und auf Amazon hochlädst!
+> • Du bekommst außerdem Anleitungen zum Buchlaunch und zum Verkauf, mit denen dein Low Content Buch zukünftig zum Erfolg wird!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48784-g2.webp
+- assets/products/48784-g3.webp
+- assets/products/48784-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Low Content Bücher erstellen und verkaufen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/557396
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Low%20Content%20B%C3%BCcher%20erstellen%20und%20verkaufen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

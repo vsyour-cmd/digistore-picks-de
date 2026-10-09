@@ -59,6 +59,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> M&ouml;chtest du einen konkreten Zielerreichungsplan, die sogenannte Zielerreichungsformel, mit an die Hand bekommen, um Schritt f&uuml;r Schritt das Leben zu leben, welches du verdienst?
+> Dieses Audioprogramm ist dein mentales Training für unterwegs. Lass die Suggestionen tief in dein Unterbewusstsein rein und programmiere dich Schritt für Schritt zu mehr Selbstvertrauen!
+> Schritt für Schritt Anleitung – einfach und verständlich bewährte universelle Erfolgsprinzipien, die für viele Lebensbereiche sehr gut anwendbar sind. Wertvolle Checklisten und Arbeitsunterlagen.
+
+### 3c. Cautions
+
+> ACHTUNG: NUR F&Uuml;R KURZE ZEIT ZUM SONDERPREIS ERH&Auml;LTLICH!
+> Im Sommer 2020 wurde Dejan Sekulic ganz offiziell f&uuml;r seine Expertise, die Potentialentfaltung und Selbstmotivation vom ERFOLG Magazin ausgezeichnet. Beim Erfolg Magazin versammeln sich die wichtigsten Experten aus Deutschland, &Ouml;sterreich und der Schweiz im Zirkel der TOP Experten. Dejan Sekulic liebt es, sein Wissen weiterzugeben, um den Menschen dadurch zu mehr Erfolg, Gl&uuml;ck und Lebensfreude zu verhelfen.
+> Achtung: NUR F&Uuml;R KURZE ZEIT ZUM SONDERPREIS ERH&Auml;LTLICH
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44684-g1.webp
+- assets/products/44684-g2.webp
+- assets/products/44684-g3.webp
+- assets/products/44684-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/341132
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kurs%20f%C3%BCr%20Potenzialentfaltung%20und%20MEHR%20Selbstvertrauen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

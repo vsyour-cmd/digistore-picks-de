@@ -56,6 +56,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Die App ist unglaublich gut aufgebaut – ich liebe sie. Super einfach anzuwenden, und schon nach der ersten Anwendung sehe ich, wie sich mein Gesicht verändert.“ Astrid, 42 München · verifizierter Kauf ★★★★★
+> „Die App ist unglaublich gut aufgebaut – ich liebe sie. Super einfach anzuwenden, und schon nach der ersten Anwendung sehe ich, wie sich mein Gesicht verändert.“ Astrid, 42 München · verifizierter Kauf ★★★★★
+> Aufbauplan für deine tägliche Routine Schritt für Schritt vom Kurs in den Alltag.
+
+### 3c. Cautions
+
+> Der LNA-Hauskurs ist ein kosmetischer Selbstanwendungskurs. Er ersetzt keine medizinische oder kosmetische Behandlung, stellt keine Diagnose und verspricht kein bestimmtes Ergebnis. Bei Hauterkrankungen, frischen Eingriffen oder Beschwerden im Gesichtsbereich sprich bitte vorher mit deiner Ärztin oder deinem Arzt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58354-g1.webp
+- assets/products/58354-g2.webp
+- assets/products/58354-g3.webp
+- assets/products/58354-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/715479
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LNA%20Hauskurs%20%E2%80%93%20Gesichtspflege-Methode%20f%C3%BCr%20zuhause%20mit%20hoher
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

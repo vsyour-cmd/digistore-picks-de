@@ -61,6 +61,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Wenn die Lust abhanden kommt, betrifft das beide Partner. Deswegen durchlauft Ihr diesen Kurs auch gemeinsam. Zudem ist es wichtig, sich auch mit dem eigenen Körper und der eigenen Lust zu beschäftigen. Deshalb gibt es für sie und ihn ein eigenes Bonusmodul. Wie sehe ich aus? Wie fühlen sich Berührungen an? Wie kann ich die Lust selber steigern? Um Euch die Erkundung zu erleichtern, setzt Ihr hier erst einmal die Forscherbrille auf.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38143-g1.webp
+- assets/products/38143-g2.webp
+- assets/products/38143-g3.webp
+- assets/products/38143-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Paarungszeit - Erobert Eure Lust zurück! Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/280180
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Paarungszeit%20-%20Erobert%20Eure%20Lust%20zur%C3%BCck!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -52,6 +52,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Danach weißt du wann die Klinik der richtige nächste Schritt ist. Und du gehst dort rein mit den richtigen Fragen statt überfordert.
+> Dann ist besonders Modul 6 wertvoll. Du verstehst was die Diagnostik gezeigt hat, was die nächsten Schritte bedeuten, und wie du das Gespräch auf Augenhöhe führst.
+> Das PDF gibt dir 7 Ursachen und 3 Schlüssel als Einstieg. Der Kurs gibt dir das vollständige System: 36 Lektionen die zeigen wie Blutwerte, Zyklus, Supplements, Lebensstil und männliche Fruchtbarkeit zusammenhängen und was dein nächster konkreter Schritt ist.
+
+### 3c. Cautions
+
+> Du hattest eine Fehlgeburt. Dein Arzt sagt: das kommt vor. Oder du kommst beim Kinderwunsch nicht weiter und niemand erklärt dir warum. Beides hat eine Antwort.
+> Du hattest eine Fehlgeburt. Vielleicht auch zwei. Dein Arzt sagt: das kommt vor. Und du weißt dass das keine Antwort ist.
+> Oder du tust alles richtig und kommst trotzdem nicht weiter. Du hast auf die Werte gepocht. Du hast Ärzte gewechselt. Dein Arzt sagt alles normal. Du willst keine probieren Sie weiter -Antworten mehr.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56857-g1.webp
+- assets/products/56857-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50% Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/688993
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinderwunsch%20Kurs%20(199%20%E2%82%AC)%3A%20Top-Nische%20Frauengesundheit%2C%2050%25
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

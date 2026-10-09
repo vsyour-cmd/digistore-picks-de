@@ -62,6 +62,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/741561
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Buchungen%20mit%20Anzahlung%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%201.680%20%E2%82%AC%2C%20ca.%20305%20%E2%82%AC%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

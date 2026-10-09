@@ -59,6 +59,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Starte Jetzt mit Modul 1 Für Mensch und Maschine sichtbar werden – Schritt für Schritt.
+> Das echte Unabhängigkeit und planbare Einnahmen als gefragter KI-Suchexperte bietet.
+> Kopieren Sie dazu einfach unsere glasklare Anleitung zur direkten Umsetzung dieser Dienstleistung, um Fehler zu vermeiden und wertvolle Zeit und Kosten zu sparen.
+
+### 3c. Cautions
+
+> ⚠️ Wichtiger Hinweis: Diese Analyse liefert eine erste technische Einschätzung im komplexen Thema der KI-Sichtbarkeit. Es handelt sich nicht um eine Garantie für Ranking, Sichtbarkeit oder Verkaufserfolg. Die Ergebnisse werden nach 30 Tagen automatisch gelöscht.
+> Disclaimer: Diese KI-Sichtbarkeits-Analyse dient als erste grobe Einschätzung und erhebt keinen Anspruch auf Vollständigkeit oder absolute Richtigkeit . Die Ergebnisse sind keine garantierte Prognose für tatsächliche Rankings in KI-Systemen.
+> Hinweis: "Details zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung unter Punkt 8."
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54998-g2.webp
+- assets/products/54998-g3.webp
+- assets/products/54998-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KI Konnekt - Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/654019
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Konnekt%20-%20Mastery
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

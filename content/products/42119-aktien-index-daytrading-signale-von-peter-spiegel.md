@@ -62,6 +62,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wir arbeiten bewusst ohne festen Take Profit, da Gewinne schrittweise über Teilgewinnmitnahmen und manuelle Schließungen gesichert werden. Das ermöglicht eine flexible Trade-Führung und eine bessere Anpassung an die aktuelle Marktentwicklung.
+
+### 3c. Cautions
+
+> Fokus auf die wichtigsten Indizes : Der Fokus liegt auf den wichtigsten Aktienindizes – dem DAX (FDAX), Nasdaq 100, S&P 500 und dem Dow Jones.
+> Peter beschäftigt sich seit vielen Jahren intensiv mit dem Day- und Swingtrading der wichtigsten Aktienindizes. Sein Schwerpunkt liegt auf der Analyse von Marktstrukturen, Schlüsselzonen und möglichen Reaktionen im Intraday-Handel.
+> Dann schreibe mir gerne eine E-Mail. Ich beantworte persönlich Deine Fragen. Mir ist wichtig, dass Du klare Entscheidungen treffen kannst, die Dich weiterbringen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/42119-g1.webp
+- assets/products/42119-g2.webp
+- assets/products/42119-g3.webp
+- assets/products/42119-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Aktien-Index Daytrading Signale von Peter Spiegel Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/467093
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aktien-Index%20Daytrading%20Signale%20von%20Peter%20Spiegel
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

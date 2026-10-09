@@ -69,6 +69,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Großartig, dass Sie SlimSana bestellt haben. Sie haben gerade den ersten wichtigen Schritt für Ihren Stoffwechsel gemacht.
+> Großartig, dass Sie SlimSana bestellt haben. Sie haben gerade den ersten wichtigen Schritt für Ihren Stoffwechsel gemacht.
+> Der Schlüssel liegt in einer präzisen Kombination von 11 wissenschaftlich erforschten Inhaltsstoffen, die in exakter Dosierung Ihre körpereigene "Sättigungs-Software" umprogrammieren.
+
+### 3c. Cautions
+
+> Großartig, dass Sie SlimSana bestellt haben. Sie haben gerade den ersten wichtigen Schritt für Ihren Stoffwechsel gemacht.
+> Großartig, dass Sie SlimSana bestellt haben. Sie haben gerade den ersten wichtigen Schritt für Ihren Stoffwechsel gemacht.
+> A: Absolut. Alle Inhaltsstoffe sind natürlich und in wissenschaftlich erprobten Dosierungen. Es gibt keine bekannten Nebenwirkungen. Bei bestehenden Medikamenten konsultieren Sie Ihren Arzt.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: CleanseSana: The Gut "Reboot" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/665412
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CleanseSana%3A%20The%20Gut%20%22Reboot%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

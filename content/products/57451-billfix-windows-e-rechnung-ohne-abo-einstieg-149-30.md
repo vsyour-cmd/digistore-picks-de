@@ -53,6 +53,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Windows zeigt beim ersten Start eine blaue Warnung? Billfix ist digital signiert — Windows zeigt „HEADUPHIGH GmbH" als geprüften Herausgeber. Bei ganz neuen Programmen erscheint trotzdem manchmal die SmartScreen-Meldung: „Weitere Informationen" → „Trotzdem ausführen" — einmalig, danach nie wieder. In der Anleitung Schritt für Schritt erklärt.
+> Gibt es Support? Billfix ist so gebaut und dokumentiert, dass du keinen brauchst — die Anleitung beantwortet alle typischen Fragen inklusive Problemlösungen. Einen Anspruch auf Einzelsupport gibt es nicht; genau deshalb kann Billfix ein fairer Einmalkauf sein.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57451-g1.webp
+- assets/products/57451-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30 Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/708969
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Billfix%20(Windows)%20%E2%80%93%20E-Rechnung%20ohne%20Abo%20%7C%20Einstieg%20149%20%E2%82%AC%2C%2030
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -57,6 +57,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Erfahre, was in Zukunft wichtig sein wird und wie du dich heute schon darauf vorbereiten kannst!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39593-g1.webp
+- assets/products/39593-g2.webp
+- assets/products/39593-g3.webp
+- assets/products/39593-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: High Frequency Evergreen Kongress - VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/431719
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=High%20Frequency%20Evergreen%20Kongress%20-%20VIP%20Paket%20und%20Bundle
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -54,6 +54,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Erstellung deines ersten Funnels: Schritt-für-Schritt-Anleitungen zur Erstellung eines voll funktionsfähigen Funnels innerhalb von 30 Minuten.
+> Als komplette Anfängerin war ich von der Welt des Online-Marketings völlig überfordert. Affili Forge hat mir die Angst vor den technischen Hürden genommen. Die Schritt-für-Schritt-Anleitungen von Michael und Kevin sind so einfach und verständlich erklärt, dass bei mir endlich der Knoten geplatzt ist. Nach nur wenigen Wochen habe ich meine erste Affiliate-Provision verdient – ein unglaubliches Gefühl! Tausend Dank!
+
+### 3c. Cautions
+
+> Endlich mehr Zeit für das Wichtige: Konzentriere Dich auf das Wesentliche und profitiere von Automatisierungen
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50085-g1.webp
+- assets/products/50085-g2.webp
+- assets/products/50085-g3.webp
+- assets/products/50085-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bot-Business Mastery - Praxiskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/574111
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bot-Business%20Mastery%20-%20Praxiskurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

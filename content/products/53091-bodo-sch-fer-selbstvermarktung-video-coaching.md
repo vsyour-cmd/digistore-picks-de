@@ -54,6 +54,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> > Aber dafür brauchen die meisten Menschen eine klare Schritt-für-Schritt-Anleitung. Und genau darum geht es in diesem Coaching.
+> Du bekommst die genauen Anleitungen der Menschen, die sich selbst ins rechte Licht gerückt haben.
+> Jetzt bist Du bereit für die Strategien 4-6 zum charismatischen Helden. Gehe Schritt-für-Schritt, genau wie ein Megastar. Verstehe, dass ein Held sich immer um andere kümmert .
+
+### 3c. Cautions
+
+> Es ist 10X WICHTIGER als jede Qualität, die Du in Deinem Beruf haben kannst!
+> Lerne die Wahrheit über charismatische Helden. Achtung: diese ersten 3 Strategien musst Du gut verinnerlichen. In #5 geht es heldenhaft weiter. Nicht Du bestimmst, was für Deine Kunden wertvoll ist. Das bestimmen sie . Es ist wichtig, dass wir das akzeptieren.
+> Achtung: es gibt genau 3 Möglichkeiten, um sofort sichtbar zu werden . Suche Dir von den 12 Regeln 3 bis 4 aus , auf die Du Dich wirklich freust, weil sie so gut zu Dir passen. Und Du wirst erleben, dass Du praktisch über Nacht sichtbar werden wirst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53091-g1.webp
+- assets/products/53091-g2.webp
+- assets/products/53091-g3.webp
+- assets/products/53091-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/622565
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bodo%20Sch%C3%A4fer%3A%20SELBSTVERMARKTUNG%20-%20Video-Coaching
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

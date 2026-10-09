@@ -49,6 +49,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dieses interaktive Selbstlern-Online-Kurs Bundle holt dich dort ab, wo du gerade stehst. Es setzt direkt bei deinem Denken, Fühlen und Handeln an und verändert Schritt für Schritt mehr, als du dir je zugetraut hättest. Du merkst sofort, wie erreichbar früher Unerreichbares wird – ohne Überforderung oder Burnout.
+> ✅ Klare Schritt-für-Schritt-Anleitungen statt abstrakter Theorie
+> ✅ Praxis statt grauer Theorie: Klare, sofort anwendbare Schritt-für-Schritt-Anleitungen für deinen echten Alltag.
+
+### 3c. Cautions
+
+> Überforderung & Stress: Der Alltag frisst dich auf, am Ende des Tages ist wenig geschafft. → Fokus & Produktivität: Du schaffst das Wichtige in weniger Zeit und hast pünktlich Feierabend.
+> DSGVO-Hinweis: Die rechtlichen Inhalte werden nach bestem Wissen aktualisiert, ersetzen jedoch keine fachmännische Rechtsberatung. Bitte hole dir im Zweifelsfall den Rat eines Experten ein.
+> Überforderung & Stress: Der Alltag frisst dich auf, am Ende des Tages ist wenig geschafft. → Fokus & Produktivität: Du schaffst das Wichtige in weniger Zeit und hast pünktlich Feierabend.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57677-g1.webp
+- assets/products/57677-g2.webp
+- assets/products/57677-g3.webp
+- assets/products/57677-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Mehr Leben. Mehr Erfolg. Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/713274
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Leben.%20Mehr%20Erfolg.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

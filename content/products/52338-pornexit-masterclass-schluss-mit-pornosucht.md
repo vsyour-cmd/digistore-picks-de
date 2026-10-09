@@ -63,6 +63,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mehr als 100 Männer haben Eriks Methode erfolgreich angewendet und spüren den Unterschied: mehr Klarheit, echte Lust und ein Leben frei von Scham und Rückfällen. Die Masterclass ist alltagstauglich, effektiv und bringt dich Schritt für Schritt raus aus der Pornosucht.
+
+### 3c. Cautions
+
+> Rückfälle sind Teil des Prozesses. Wichtig ist, dass du daraus lernst und weitermachst, statt dich selbst fertigzumachen. In der Masterclass bekommst du Strategien, um Rückfälle langfristig zu vermeiden.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52338-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: PornExit Masterclass: Schluss mit Pornosucht Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/607924
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PornExit%20Masterclass%3A%20Schluss%20mit%20Pornosucht
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -61,6 +61,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> KNX Programmierung Stand 2026: Klick-Anleitung für ETS Zum Inhalt springen Fragen? Ruf an! +49 (0) 89 215 297 80
+> DIY KNX Videokurse KNX Programmierung -8h Videokurs als Klick-Anleitung
+> Gira Homeserver programmieren – 3h Videokurs als Klick-Anleitung
+
+### 3c. Cautions
+
+> Wir zeigen Dir im KNX Kurs in 19 Schritten alle notwendigen Details , die zur KNX Parametrierung , KNX Programmierung und KNX Inbetriebnahme eines Hauses /Gebäudes wichtig sind
+> Die Antwort ist ganz einfach: KNX wird idealerweise innerhalb eines Gebäudes von Stockwerk zu Stockwerk verlegt. Dabei ist eine Baumstruktur" schon erlaubt, sollte aber mit Hinweis auf die maximale Leitungslänge (Spannungsabfall) nicht so sehr übertrieben werden. Ein Ring" ist unbedingt zu vermeiden und führt zum Ausfall/Fehlfunktionen des KNX Systems
+> Die wichtigste Phase zur Planung eines Smart Home mit KNX ist die Konzeptionsphase . Nach der Elektro-Installation erfolgt die Programmierung des KNX-Systems.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33041-g2.webp
+- assets/products/33041-g3.webp
+- assets/products/33041-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KNX Programmierung - 8h Videokurs als Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/282515
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KNX%20Programmierung%20-%208h%20Videokurs%20als%20Klickanleitung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -56,6 +56,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 5 ausfüllbare Premium-Ratgeber mit 210 Seiten und über 1.000 Eingabefeldern — plus ein persönliches 15-Minuten-Orientierungsgespräch mit dem Gründer. Kein Theorie-Dokument, sondern ein interaktives Arbeitssystem , das dich Schritt für Schritt begleitet. Von der ersten KI-Idee bis zum fertigen Angebot. Made in Austria. 30 Tage Geld-zurück-Garantie.
+> Brauche ich technische Vorkenntnisse? Nein. Die Ratgeber sind für komplette Einsteiger geschrieben. Wenn du ein Smartphone oder einen Laptop bedienen kannst, reicht das. Alles wird Schritt für Schritt erklärt.
+> Ratgeber + interaktive Software in einem — dein KI-Arbeitsplatz, der dich Schritt für Schritt durch den Aufbau führt.
+
+### 3c. Cautions
+
+> Wenn dir ein ehrlicher Start mit KI wichtig ist, ist ETERNUM für dich gemacht.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57404-g1.webp
+- assets/products/57404-g2.webp
+- assets/products/57404-g3.webp
+- assets/products/57404-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/708578
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ETERNUM%20KI-Komplettsystem%20GOLD%20%E2%80%93%205%20KI-Ratgeber%20f%C3%BCr%20Einsteige
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

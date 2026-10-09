@@ -62,6 +62,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/741560
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Website%20mit%20Kundenverwaltung%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%202.990%20%E2%82%AC%2C%20ca.%20540%20%E2%82%AC%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

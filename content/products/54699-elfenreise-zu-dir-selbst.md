@@ -48,6 +48,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Genau an diesem Punkt ist Elfenreise zu dir selbst nicht einfach nur ein digitales Produkt. Es ist eine geführte Innenschau. Ein Raum für Rückverbindung. Ein bewusster Schritt zurück zu deiner eigenen Wahrheit.
+> Dieses Angebot ist in deinem System kein hektisches Problemlösungsprodukt, sondern ein Schritt in Richtung Selbstverstehen, innere Tiefe und klare Rückverbindung zu dir selbst .
+> Wenn du tiefer gehen möchtest, wenn du dich nicht länger nur um dich kreisen, sondern dir wirklich begegnen willst, dann ist Elfenreise zu dir selbst für genau diesen Schritt da.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54699-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Elfenreise zu dir selbst Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/616025
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Elfenreise%20zu%20dir%20selbst
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

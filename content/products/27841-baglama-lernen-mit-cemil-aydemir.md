@@ -66,6 +66,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die Baglama ist mit ihren sechs bis sieben Saiten etwas schwieriger zu spielen, als eine klassische Gitarre. Das macht aber nichts – denn in meinem Kurs nehme ich dich mit und zeige dir Schritt für Schritt, wie du Baglama Techniken von Grund auf verinnerlichst. Ich erkläre dir alles verständlich und anhand von praktischen Musikstücken.
+
+### 3c. Cautions
+
+> In den Videos erhältst du von mir, neben der Lehrvideos, auch Übungen und Workouts für klare Klänge und zur Verschönerung deiner Töne. Denn das Entscheidende beim Spielen ist ja der Sound ;-) Außerdem gibt es Videos, bei denen die Technikübungen praktisch in einem Song umgesetzt werden. Hierauf lege ich wert, da es mir wichtig ist, dass du das Gelernte direkt umsetzt, übst und festigst.
+> DigiStore24 ist eine in Deutschland ansässige Affiliate- und Bezahlplattform, die sich auf digitale Produkte spezialisiert hat. Hunderte von Internetmarketern haben DigiStore24 als Partner gewählt, weil sie wissen wie wichtig es ist einen seriösen Zahlungsanbieter zu haben, der auch einen guten Support liefert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/27841-g1.webp
+- assets/products/27841-g2.webp
+- assets/products/27841-g3.webp
+- assets/products/27841-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Baglama lernen mit Cemil Aydemir Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/394006
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Baglama%20lernen%20mit%20Cemil%20Aydemir
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

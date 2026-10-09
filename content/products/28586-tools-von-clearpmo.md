@@ -52,6 +52,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Wir helfen kleinen und mittleren Unternehmen in Projekten erfolgreich zu sein. Wir unterstützen sie dabei, indem wir grundlegende Abläufe automatisieren und somit die Projekt-Welt Schritt für Schritt zu einem besseren Ort machen."
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/28586-g1.webp
+- assets/products/28586-g2.webp
+- assets/products/28586-g3.webp
+- assets/products/28586-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Tools von ClearPMO Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/266849
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tools%20von%20ClearPMO
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

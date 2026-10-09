@@ -48,6 +48,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 90-Tage-Plan und durchgehendes Fallbeispiel: Übertrage die Schritte auf dein eigenes Projekt.
+> Einmalzahlung ohne Kursabo. Externe Tools und Werbebudget sind nicht enthalten und können zusätzliche Kosten verursachen. Reichweite, Verkäufe und Einnahmen werden nicht garantiert. Einzelne Tool-Empfehlungen enthalten gekennzeichnete Affiliate-Links; ein Kauf ist freiwillig.
+> 90-Tage-Plan und durchgehendes Fallbeispiel: Übertrage die Schritte auf dein eigenes Projekt.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59545-g1.webp
+- assets/products/59545-g2.webp
+- assets/products/59545-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Affiliate Marketing für Anfänger – Praxiskurs mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/736121
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Praxiskurs%20mit%20Matze
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

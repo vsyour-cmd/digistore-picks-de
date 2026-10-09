@@ -65,6 +65,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/716903
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Schulung%20Art.%204%20EU%20AI%20Act%20f%C3%BCr%20KMU%20%E2%80%94%20Pflichtthema%202026
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

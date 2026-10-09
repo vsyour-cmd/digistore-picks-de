@@ -52,6 +52,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wann sind die Module verfügbar? Die Module werden sofort freigeschaltet. Sie können den Kurs aber Schritt für Schritt in Ihrem eigenen Tempo durcharbeiten.
+> Wann sind die Module verfügbar? Die Module werden sofort freigeschaltet. Sie können den Kurs aber Schritt für Schritt in Ihrem eigenen Tempo durcharbeiten.
+> Wann sind die Module verfügbar? Die Module werden sofort freigeschaltet. Sie können den Kurs aber Schritt für Schritt in Ihrem eigenen Tempo durcharbeiten.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55174-g1.webp
+- assets/products/55174-g2.webp
+- assets/products/55174-g3.webp
+- assets/products/55174-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/638932
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nat%C3%BCrlich%20in%20Balance%20%E2%80%93%20Ganzheitliche%20Hilfe%20bei%20chronischen%20B
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -76,6 +76,12 @@
 - assets/products/52196-g3.webp
 - assets/products/52196-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Influencer und Content Creator Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/602187
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Influencer%20und%20Content%20Creator%20Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -49,6 +49,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Keine Angst vor leeren Wohnzimmern oder kritischen Fragen. Lerne Schritt für Schritt, wie du Anfängerfehler vermeidest, echte Empfehlungen generierst und von der Vorbereitung bis zum Abschluss absolut professionell auftrittst.
+> Damit du vom ersten Tag an professionell auftrittst und kein Lehrgeld bezahlen musst, bietet dir die Home-Party Sales Academy kompakte, praxisnahe Online-Kurse mit vielen modernen, interaktiven Übungen. Du lernst Schritt für Schritt, wie du typische Anfängerfehler vermeidest und deine ersten Vorführungen direkt erfolgreich gestaltest.
+> Keine Angst vor leeren Wohnzimmern oder kritischen Fragen. Lerne Schritt für Schritt, wie du Anfängerfehler vermeidest, echte Empfehlungen generierst und von der Vorbereitung bis zum Abschluss absolut professionell auftrittst.
+
+### 3c. Cautions
+
+> ✅ Die 12 wichtigsten Verkaufsziele für digitale Erfolgsmeister
+> Hinweis: Diese Selbstlern-Kurse enthalten interaktive Übungen, die auf dem Smartphone nicht korrekt dargestellt werden. Für eine optimale Lernerfahrung nutzen Sie bitte ein Tablet, einen Laptop oder einen PC.
+> ✅ Die 12 wichtigsten Verkaufsziele für digitale Erfolgsmeister
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57173-g1.webp
+- assets/products/57173-g2.webp
+- assets/products/57173-g3.webp
+- assets/products/57173-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Home-Party-Verkaufsakademie Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/705582
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Home-Party-Verkaufsakademie
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

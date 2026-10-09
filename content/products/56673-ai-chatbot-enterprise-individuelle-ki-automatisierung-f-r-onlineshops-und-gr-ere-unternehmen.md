@@ -58,6 +58,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/691085
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20ChatBot%20Enterprise%20%E2%80%93%20Individuelle%20KI-Automatisierung%20f%C3%BCr%20Onlineshops%20und%20gr%C3%B6%C3%9Fere%20Unternehmen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

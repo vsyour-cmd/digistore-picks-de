@@ -71,6 +71,12 @@
 - assets/products/48986-g3.webp
 - assets/products/48986-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: OKA - Online Kurs Autopilot Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/506187
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=OKA%20-%20Online%20Kurs%20Autopilot%20Masterclass
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

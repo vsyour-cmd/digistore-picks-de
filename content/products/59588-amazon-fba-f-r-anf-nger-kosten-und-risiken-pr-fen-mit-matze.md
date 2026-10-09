@@ -48,6 +48,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du möchtest amazon fba für anfänger praktisch angehen? In diesem Selbstlernkurs führt Matze dich von einer konkreten Aufgabe bis zu einem eigenen prüfbaren Ergebnis. Jede der sechs Lektionen erklärt einen Schritt, zeigt ein Beispiel und nennt eine Aufgabe sowie ein Kriterium zur Selbstkontrolle. Der durchgehende Musterfall mit Mara veranschaulicht die Methode; du trägst deine eigenen Beobachtungen in die Arbeitsmappe ein.
+> Für wen: Anfängerinnen und Anfänger, die ein eigenes kleines Projekt bearbeiten möchten. Du solltest bereit sein, die Schritte selbst umzusetzen und externe Regeln für deinen Markt zu prüfen.
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+
+### 3c. Cautions
+
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+> Wichtige Grenzen: Keine individuelle Betreuung, keine garantierten Reichweiten oder Einnahmen und keine garantierte Zulassung durch Plattformen. Das Musterprojekt ist fiktiv. Vor eigenen Ausgaben oder Veröffentlichungen musst du aktuelle Gebühren, Rechte und Vorschriften deines Markts prüfen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59588-g1.webp
+- assets/products/59588-g2.webp
+- assets/products/59588-g3.webp
+- assets/products/59588-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/736415
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazon%20FBA%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Kosten%20und%20Risiken%20pr%C3%BCfen%20mit%20Matze
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

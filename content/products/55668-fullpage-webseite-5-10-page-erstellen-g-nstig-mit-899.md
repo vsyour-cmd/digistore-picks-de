@@ -72,6 +72,12 @@
 - assets/products/55668-g3.webp
 - assets/products/55668-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Fullpage Webseite " 5-10 Page " erstellen günstig mit 899 Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/654150
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fullpage%20Webseite%20%22%205-10%20Page%20%22%20erstellen%20g%C3%BCnstig%20mit%20899
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

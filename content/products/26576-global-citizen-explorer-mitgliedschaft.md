@@ -63,6 +63,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Plan B Elite Bereich wird in Zukunft natürlich stetig erweitert und Du bist so immer einen Schritt voraus.
+
+### 3c. Cautions
+
+> WEBINAR AUFZEICHNUNG: Die größten Fehler die Du bei Deiner Internationalisierung begehen kannst, wie Du sie gekonnt umschiffst & welche wichtige Komponente die meisten komplett außer Acht lassen!
+> In unserem Plan B Elite Mitgliederbereich geben wir Dir nicht nur detaillierte Informationen zu den wichtigsten und interessantesten Möglichkeiten Deinen eigenen Plan B umzusetzen, sondern wir haben für Dich unsere Partneranwälte und Kanzleien interviewt.
+> Du erhältst die wichtigsten Informationen direkt im Mitgliederbereich, durch Interviews die wir zusammen mit unserem Partnernetzwerk geführt haben!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26576-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Global Citizen Explorer Mitgliedschaft Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/233950
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Global%20Citizen%20Explorer%20Mitgliedschaft
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

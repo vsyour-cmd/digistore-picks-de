@@ -50,6 +50,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Selbsthypnose & H|H-Techniken (EnergieHypnose) – du lernst, wie du dein Unterbewusstsein sicher ansprichst und Energiearbeit gezielt einbindest, um innere Programme Schritt für Schritt zu verändern.
+> Praxis statt Theorie – üben in kleiner Gruppe, mit persönlicher Begleitung und konkreten Schritten, die du direkt in deinen Alltag und in deine Arbeit mit Menschen mitnehmen kannst.
+> Selbsthypnose & H|H-Techniken (EnergieHypnose) – du lernst, wie du dein Unterbewusstsein sicher ansprichst und Energiearbeit gezielt einbindest, um innere Programme Schritt für Schritt zu verändern.
+
+### 3c. Cautions
+
+> Rechtlicher Hinweis: Dieses Seminar dient der persönlichen Entwicklung und der Aktivierung körpereigener Ressourcen/Energiefelder. Es ersetzt keine medizinische, therapeutische oder psychotherapeutische Behandlung. Die Teilnahme erfolgt in eigener Verantwortung.
+> Rechtlicher Hinweis: Dieses Seminar dient der persönlichen Entwicklung und der Aktivierung körpereigener Ressourcen/Energiefelder. Es ersetzt keine medizinische, therapeutische oder psychotherapeutische Behandlung. Die Teilnahme erfolgt in eigener Verantwortung.
+> Rechtlicher Hinweis: Dieses Seminar dient der persönlichen Entwicklung und der Aktivierung körpereigener Ressourcen/Energiefelder. Es ersetzt keine medizinische, therapeutische oder psychotherapeutische Behandlung. Die Teilnahme erfolgt in eigener Verantwortung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56179-g1.webp
+- assets/products/56179-g2.webp
+- assets/products/56179-g3.webp
+- assets/products/56179-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Wochenendseminar EnergieHypnose Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/575305
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wochenendseminar%20EnergieHypnose
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -62,6 +62,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Wochenzusammenfassung: Einordnung der Handelswoche und Status der Positionen.Die wichtigsten Termine der Woche und mögliche Auswirkungen.
+> Dann schreibe mir gerne eine E-Mail. Ich beantworte persönlich Deine Fragen. Mir ist wichtig, dass Du klare Entscheidungen treffen kannst, die Dich weiterbringen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33787-g1.webp
+- assets/products/33787-g2.webp
+- assets/products/33787-g3.webp
+- assets/products/33787-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Optionsscheine & Zertifikate Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/264879
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Optionsscheine%20%26%20Zertifikate%20Signale
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

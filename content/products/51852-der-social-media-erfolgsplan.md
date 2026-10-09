@@ -68,6 +68,12 @@
 
 - assets/products/51852-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der Social Media Erfolgsplan Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/300338
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Social%20Media%20Erfolgsplan
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -54,6 +54,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Jede Einheit bringt dich weiter: mehr Fokus, mehr Energie, mehr Wirksamkeit. Nicht als Selbstoptimierungsdruck, sondern als bewusster Schritt zu echter Meisterschaft, Selbstvertrauen und Leichtigkeit im Tun.
+> Echte Entwicklung ist kein Zufall – sie ist das Ergebnis bewusster Richtung, klarer Strukturen und kontinuierlicher Anwendung.
+> Jeder Kurs ist klar aufgebaut, praxisnah und sofort anwendbar. Kein theoretisches Blabla, sondern präzise Impulse mit Struktur, Schritt für Schritt in Richtung mehr Klarheit, Fokus und Wirksamkeit.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59068-g2.webp
+- assets/products/59068-g3.webp
+- assets/products/59068-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Be Different ecademy – Entwicklung, die funktioniert Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/645039
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Be%20Different%20ecademy%20%E2%80%93%20Entwicklung%2C%20die%20funktioniert
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

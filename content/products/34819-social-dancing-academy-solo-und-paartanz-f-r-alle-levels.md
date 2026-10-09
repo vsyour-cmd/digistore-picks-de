@@ -55,6 +55,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Allem zugrunde liegt unser 3-Schritte-Tanzfluss-Konzept. Damit kreieren wir ein gut strukturiertes und leicht verständliches Figuren-Fundament für mehr Sicherheit, Freude und Leichtigkeit auf der Tanzfläche.
+> Musikalität wird im Social Dancing groß geschrieben. Zu recht! Sie bringt Emotionen zum Kochen! Unsere leicht verständliche Musikalitätsmethode baut auf einem 5-Schritte-System , das selbst unerfahrene Tänzer:innen nachvollziehen und umsetzen können.
+
+### 3c. Cautions
+
+> Hol dir die wichtigen Details und Basics, die du in deinem regulären Präsenzunterricht verpasst hast!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/34819-g2.webp
+- assets/products/34819-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Social Dancing Academy - Solo- und Paartanz für alle Levels Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/536805
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Dancing%20Academy%20-%20Solo-%20und%20Paartanz%20f%C3%BCr%20alle%20Levels
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

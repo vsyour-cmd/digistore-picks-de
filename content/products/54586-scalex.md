@@ -65,6 +65,12 @@
 - assets/products/54586-g3.webp
 - assets/products/54586-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ScaleX Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/641679
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ScaleX
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

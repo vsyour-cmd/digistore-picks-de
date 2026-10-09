@@ -73,6 +73,12 @@
 
 - assets/products/43350-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: PIP BOOSTER - *Exklusiv* Partner von UNDERGROUND-TRADERS.COM Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/447740
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PIP%20BOOSTER%20-%20*Exklusiv*%20Partner%20von%20UNDERGROUND-TRADERS.COM
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -57,6 +57,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Es ist die Geburt deines Babys. Diese eine Chance kommt nie wieder . Aufschieben macht es nicht besser – sondern kann zu spät sein für wichtige Entscheidungen.
+> Fast jede googelt, liest Foren, checkt ein paar Statistiken und denkt: ‚Das Wichtigste weiß ich jetzt bestimmt.‘ Aber kein Forum sagt dir, was eine Gynäkologin mit 30 Jahren Erfahrung weiß oder eine Hebamme, die mütterlich-assistierte Bauchgeburten begleitet. Denn auch die meisten Kaiserschnitt-Mamas waren selbst nicht vorbereitet – und wissen oft Jahre später nicht, was besser hätte laufen können.
+> , scoped CSS (Präfix .bg-sc), kein / . Einfach in ein Divi Code-Modul einfügen. --> Gedanke 01 „Hoffentlich läuft einfach alles gut.“ Gedanke 02 „Ich habe schon ein bisschen gegoogelt und mir Infos zusammengesucht.“ Gedanke 03 „Ich habe die wichtigen Entscheidungen getroffen und weiß, wie ich in den Schlüsselmomenten handle.“
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57042-g2.webp
+- assets/products/57042-g3.webp
+- assets/products/57042-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kaiserschnitt Geburtsvorbereitungskurs online Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/697364
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kaiserschnitt%20Geburtsvorbereitungskurs%20online
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

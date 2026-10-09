@@ -74,6 +74,12 @@
 - assets/products/40527-g3.webp
 - assets/products/40527-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ClickSummits - All-In-One Kongress Software Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/368373
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ClickSummits%20-%20All-In-One%20Kongress%20Software
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

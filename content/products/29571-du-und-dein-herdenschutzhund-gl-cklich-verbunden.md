@@ -65,6 +65,12 @@
 - assets/products/29571-g2.webp
 - assets/products/29571-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Du und Dein Herdenschutzhund - glücklich verbunden Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/276887
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Du%20und%20Dein%20Herdenschutzhund%20-%20gl%C3%BCcklich%20verbunden
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

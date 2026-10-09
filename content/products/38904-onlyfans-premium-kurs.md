@@ -59,6 +59,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Durch, die im Kurs vermittelten Fähigkeiten und erprobten Vorschläge kannst Du dein Onlyfans und Co. auf ein höhere Niveau bringen und deine Einnahmen dadurch kontinuierlich erhöhen.
+> Mehr als 200 Seiten voller hilfreicher und einfach umzusetzender Schritt-für-Schritt-Anleitungen
+> Der Kurs hat mir wirklich unglaublich weitergeholfen. Ich konnte meine Zahlen richtig steigern und das obwohl ich schon die Hoffnung aufgegeben hatte, dass mein Account Erfolg hat. Dank des Ratgebers und den Anleitungen, konnte ich meine Gewinne innerhalb von zwei Monaten um ein gutes Stück steigern. Vielen lieben Dank!
+
+### 3c. Cautions
+
+> Du teilst deine Zeit und deine Inhalte sinnvoll ein und postet diese dort, wo sie den größten Erfolg bringen. Mit Hilfe des Kurses erstellt und verbesserst Du kontinuierlich deinen Account, um ihn für Abonnenten attraktiver zu machen. Bei jeder wichtigen Entscheidung wirst Du mit an die Hand genommen und erfährst die Hintergründe, warum eine Aktion sinnvoll ist und wie Du alle Möglichkeiten effektiv nutzen kannst.
+> Ein kurzes Wort der Warnung: Hierbei handelt es sich um ein einzigartiges und exklusives Einführungsangebot. Alle Preise, die Du hier siehst, gelten nur zur Einführung des Produkts. Auch damit die dort gezeigten Methoden wirklich nur DIR zustehen und nicht Allgemeinwissen werden.
+> Der Erfolg im Internet kommt nicht zugeflogen und es gibt zahlreiche Hinweise, die man beachten muss, aber die Wahrheit ist: Absolut JEDER hat die gleiche Chance erfolgreich im Netz zu werden. Man muss weder unter 25 sein, noch in einer Medienstadt wie Köln geboren sein, noch Freunde in den besten Marketingagenturen. Mehr als alles andere: Kommt es auf deine Entschlossenheit und Disziplin an sowie zu verstehen, wie das Geschäft als Onlyfans-Model funktioniert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38904-g2.webp
+- assets/products/38904-g3.webp
+- assets/products/38904-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Onlyfans Premium Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/422798
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlyfans%20Premium%20Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

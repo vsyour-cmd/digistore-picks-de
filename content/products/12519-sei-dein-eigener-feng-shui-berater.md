@@ -59,6 +59,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du bekommst ein Arbeitsbuch das Dich Schritt für Schritt durch den Kurs begleitet.
+
+### 3c. Cautions
+
+> Vor 31 Jahren ging es mir genauso. Die Lehre des Feng Shui hat mir geholfen, eine Antwort auf die wichtige Frage zu finden:
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/12519-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Sei Dein eigener Feng Shui Berater Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/89821
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sei%20Dein%20eigener%20Feng%20Shui%20Berater
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

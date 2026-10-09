@@ -62,6 +62,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Für Kinder: Du weisst, wie wichtig es ist, dass deine Eltern dir vertrauen können und lernst, über deine Sorgen zu reden . Ihr findet einen Geheimsatz , der dir hilft mutig deinen Weg zu gehen!
+> Begleitung durch die Eltern: Alle Übungen werden anhand von Beispielen aus dem Familien- und Schulalltag veranschaulicht und kindgerecht erklärt. Du entscheidest, ob du den Kurs gemeinsam mit deinem Kind absolvieren möchtest oder ihn als Informationsquelle für wichtige Werkzeuge nutzt, die dich in der Begleitung deines Kindes unterstützen.
+> "Danke Eveline, für diese Schatzkiste , von der unsere Mädchen wie wir Eltern gleichermassen profitieren. Du führst mit viel Humor und Wärme durch diese wichtigen Themen und sprichst Situationen an, die wir alle kennen. Es ist dir gelungen, Inhalte kindgerecht aufzubereiten, ohne dabei an Tiefe zu verlieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44817-g1.webp
+- assets/products/44817-g2.webp
+- assets/products/44817-g3.webp
+- assets/products/44817-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Starke Wurzeln-Der Kurs für Kinder und Eltern Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/396831
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starke%20Wurzeln-Der%20Kurs%20f%C3%BCr%20Kinder%20und%20Eltern
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

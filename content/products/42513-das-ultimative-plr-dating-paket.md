@@ -67,6 +67,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> ACHTUNG: Hier siehst du die derzeit effektivste und einfachste Lösung, im Netz Geld zu verdienen!
+> Außerdem darfst du auch eigene Veränderungen oder Ergänzungen hinzufügen. Wichtig ist auch zu wissen, ob du bei dem jeweiligen PLR Produkt, die Master Resale Rechte inkludiert hast. Mit diesem Recht kannst du das gesamte Produkt auch an Wiederverkäufer weiterverkaufen. Beim PLR Dating Paket ist dies der Fall!
+> Hinweis: Seitenlinks dürfen abgeändert werden (z.B. in deine eigenen Affiliatelinks) Verkaufswert: 15,- Euro
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/42513-g1.webp
+- assets/products/42513-g2.webp
+- assets/products/42513-g3.webp
+- assets/products/42513-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Das ultimative PLR Dating Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/142235
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20PLR%20Dating%20Paket
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

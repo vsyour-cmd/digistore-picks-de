@@ -62,6 +62,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Hons bleib do“ ist eine flotte und schwungvolle Polka, die sich aufgrund der relativ einfachen Griffe auch für Anfänger gut eignet. Die größte Herausforderung liegt im schnellen Tempo, weshalb sich das Stück ideal zum schrittweisen Üben und Steigern eignet. Das Lernvideo ist für die 3- und 4-reihige Harmonika sowie für alle Basssysteme geeignet.
+> „Der Weltverdruss“ ist eine der bekanntesten Volksweisen im deutschsprachigen Raum. Bekannt wurde dieses Stück durch die Kern Buam. Hier findest du das Lernvideo, in dem ich jeden Griff Schritt für Schritt und langsam zeige. Lernvideo für 4- reihige Harmonika und für alle Basssysteme möglich.
+> Die "Eisschützen-Polka" ist ein zackiges, schwungvolles Stück und eine richtig coole Volksweise für die Steirischen Harmonika. Durch das sehr schnelle Tempo wird das Stück allerdings auch anspruchsvoll. In diesem Lernvideo zeige ich dir alles Schritt für Schritt und langsam. Das Lernvideo ist für 3- und 4-reihige Harmonika sowie für alle Basssysteme geeignet.
+
+### 3c. Cautions
+
+> Der Walzer „Ei, ei, ei, ei, die Goaß is weg“ ist ein sehr beliebtes Stück für Anfänger. Er ist leicht spielbar und eignet sich hervorragend, um wichtige Grundlagen auf der Harmonika zu erlernen. In diesem Stück finden wir tolle Griffe und wichtige Reihenwechsel, die besonders für Einsteiger sehr wichtig sind. Lernvideo für die 3- und 4-reihige Harmonika. Für alle Basssysteme geeignet.
+> "In die Berg bin i gern" ist eines der bekanntesten Volkslieder im gesamten Alpenraum. Wir finden hier relativ leichte Griffe und wichtige Basswechsel die jeder Harmonikaspieler beherrschen sollte. Lernvideo für 3- und 4- reihige Harmonika und für alle Basssysteme möglich.
+> Dieser wunderschöne Walzer ist sehr beliebt bei Anfängern auf der Steirischen Harmonika. Hier können wir wichtige Griffe, mehrere Reihensprünge und auch wichtige Basswechsel gut kennenlernen. Lernvideo für 3- und 4- reihige Harmonika.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39624-g1.webp
+- assets/products/39624-g2.webp
+- assets/products/39624-g3.webp
+- assets/products/39624-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Harmonicademy Abo-Modell Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/432992
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Harmonicademy%20Abo-Modell
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

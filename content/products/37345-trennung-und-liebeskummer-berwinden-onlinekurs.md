@@ -65,6 +65,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In diesem 10-Schritte-Videokurs lernst du, wie du mit deinen Gefühlen umgehst, deinen Ex-Partner loslässt und Schritt für Schritt wieder innere Ruhe und Lebensfreude findest.
+> Mit diesem 10-Schritte-Onlinekurs lernst du, wie du deine Trennung verarbeitest. Du erfährst, was dir hilft, was dich zurückhält und welche Schritte dich wieder zu innerer Ruhe und Lebensfreude führen. Über 20 praktische Übungen helfen dir dabei, die Inhalte umzusetzen und deinen Veränderungsprozess aktiv zu unterstützen.
+> Mit einer Schritt-für-Schritt-Anleitung, wie du deine Trennung überwinden und verarbeiten kannst. Mit allen wichtigen psychologischen Erkenntnissen, Übungen und Methoden aus meiner Praxis. Der Kurs ist nicht live, sodass du die Videos flexibel ansehen und beliebig oft wiederholen kannst.
+
+### 3c. Cautions
+
+> Erhalte 4 Monate lange wöchentlich eine E-Mail mit den wichtigsten Gedanken, Impulse und Übungen - die dir helfen, langfristig alles richtig zu machen und wirklich frei und glücklich zu werden.
+> Du erfährst, was in den ersten Tagen und Wochen nach der Trennung wichtig ist, welche Fehler du vermeiden solltest und was dir hilft, wieder erste Stabilität zu gewinnen.
+> Jedes Video hat eine Länge von etwa 20 Minuten. Eine Fülle an wichtigen Informationen, die jedoch kompakt zusammengefasst sind.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37345-g1.webp
+- assets/products/37345-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Trennung und Liebeskummer überwinden (Onlinekurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/395658
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trennung%20und%20Liebeskummer%20%C3%BCberwinden%20(Onlinekurs)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -175,6 +175,20 @@ function checklist() {
 }
 
 // ---------- Kategorie-Guides ----------
+// ---------- Kategorie-Guides ----------
+const EN_GUIDE_SLUGS = {
+  "Health & Fitness": "health-fitness",
+  "Personal Development": "personal-development",
+  "Business & Investment": "business-investment",
+  "Education": "education",
+  "Online Marketing & E-Business": "online-marketing-e-business",
+  "Computer & Internet": "computer-internet",
+  "Family & Children": "family-children",
+  "Dating, Relationships & Romance": "dating-relationships-romance",
+  "Software": "software",
+  "Social Media": "social-media",
+};
+
 function categoryGuides() {
   const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Computer & Internet", "Family & Children", "Dating, Relationships & Romance", "Software", "Social Media"];
   for (const label of majors) {
@@ -215,6 +229,7 @@ ${tableRows(top)}
 <p class="sub">* Checkout-Konversion = Anbieter-seitige Marktplatz-Daten, abhängig von der Traffic-Qualität — keine Prognose Ihrer Ergebnisse.</p>
 
 <p>Jedes Produkt verlinkt auf ein vollständiges Profil mit Stornoquote, Anbieter und Listungsalter. Ganze Kategorie: <a href="../kategorie/${cat.file}.html">alle ${items.length} Angebote in ${esc(catName(cat))}</a>. Kurzentschlossene: <a href="../empfehlungen/beste-${cat.file}.html">die rechnerischen Top-Empfehlungen</a>.</p>
+${EN_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks/blog/guide-${EN_GUIDE_SLUGS[label]}.html" hreflang="en">Englisch verfügbar</a>.</p>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(catName(cat))}.html`), layout({
       title: `${catName(cat)} auf Digistore24: ${items.length} Angebote analysiert — ${SITE_NAME}`,

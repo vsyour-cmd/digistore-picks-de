@@ -57,6 +57,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Lerne mit meiner Methode die wichtigsten Geheimnisse auf dem C1-Niveau!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48160-g1.webp
+- assets/products/48160-g2.webp
+- assets/products/48160-g3.webp
+- assets/products/48160-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/551151
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20Dein%20Sprachcoach%3A%20Der%20C1-Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

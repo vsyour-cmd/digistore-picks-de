@@ -51,6 +51,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mit der Pinterest Mastery lernst du Schritt für Schritt, wie du Pinterest als Suchmaschine nutzt, um langfristig Traffic aufzubauen und daraus Einnahmen zu generieren.
+> ✔ Einnahmen durch (digitale) Produkte, Affiliate-Marketing oder Werbung
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55801-g1.webp
+- assets/products/55801-g2.webp
+- assets/products/55801-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pinterest Mastery – Mit Pinterest planbar Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/673934
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pinterest%20Mastery%20%E2%80%93%20Mit%20Pinterest%20planbar
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

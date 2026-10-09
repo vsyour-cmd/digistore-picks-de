@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Genau dieses Wissen wirst du in diesem Kurs erlangen und lernen, es auf deine eigene Gesundheit anzuwenden. Da Ayurveda ein ganzheitliches Medizinsystem ist, ist der Onlinekurs auch nach einem ganzheitlichen Prinzip aufgebaut. In 8 Modulen führe ich dich Schritt für Schritt durch das Wissen vom Ayurveda und nehme dich mit auf eine Reise zu mehr Gesundheit, Wohlbefinden und Lebensfreude.
+
+### 3c. Cautions
+
+> Modul 3, Ernährung: Die Ernährung gehört zu einem der wichtigsten Grundpfeiler wenn es um die Gesundheit geht, deshalb erfährst du in diesem Modul mehr über die ayurvedischen Ernährungsprinzipien und wie du diese auf deine Konstitution anwenden kannst.
+> Für die Kursdauer sind 4 Wochen vorgesehen, in denen du pro Woche jeweils 2 Module absolvieren kannst. Solltest du mehr Zeit brauchen, lassen sich die 8 Module aber auch prima auf z.B. 8 Wochen aufteilen, oder du machst den Kurs ganz in deinem eigenen Tempo. Das wichtigste ist für mich, dass du dir keinen Druck machst und den Kurs genießen kannst.
+> Hinweis: Du kannst den Kurs jederzeit bestellen. & damit starten. Wir empfehlen den Kurs am übernächsten Montag nach der Bestellung zu beginnen, da bis dann auch das Paket bei dir angekommen sein wird. Der Zugriff auf den Mitgliederbereich ist ab Bestellung ein Jahr möglich.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37052-g1.webp
+- assets/products/37052-g2.webp
+- assets/products/37052-g3.webp
+- assets/products/37052-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Natürlich Ayurveda - Der Ayurveda Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/387003
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nat%C3%BCrlich%20Ayurveda%20-%20Der%20Ayurveda%20Onlinekurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

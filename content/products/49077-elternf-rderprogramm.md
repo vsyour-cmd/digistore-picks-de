@@ -45,6 +45,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ausgehend von der Sprachtreppe wei&szlig;t Du, welche Schritte es braucht, damit Dein Kind nichts verpasst. Dein Kind ist zwischen 1 und 4 Jahre alt? Dann ist das Programm genau das Richtige.
+> Du verpsst keinen Meilenstein. Strukturierter Aufbau, Anleitungsvideos und ausgew&auml;hltes Material. Du sorgst daf&uuml;r, dass der Grundstein gelegt ist. Gratuliere.
+> Lexosleep - den Grundstein im Schlaf legen 2 Audiodateien und Dein Ablaufplan inkl. Anleitungsvideos
+
+### 3c. Cautions
+
+> Dein lexosophie- Elternprogramm beinhaltet die wichtigsten Meilensteine der Entwicklung. Gemeinsam mit Kerstin f&ouml;rderst Du Dein Kind in den Bereichen Sprache, Motorik, Sensorik, Mundmotorik und Kognition.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/49077-g1.webp
+- assets/products/49077-g2.webp
+- assets/products/49077-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Elternförderprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/566922
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Elternf%C3%B6rderprogramm
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

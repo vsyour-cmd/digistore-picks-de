@@ -80,6 +80,12 @@
 - assets/products/58907-g3.webp
 - assets/products/58907-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/728106
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Uhrwerk-Prinzip%20%E2%80%93%20Vom%20Nadel%C3%B6hr%20zum%20Architekten
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -54,6 +54,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Einf&uuml;hrungsvideos in die Technik, um dich in der Anwendung sicher zu f&uuml;hlen
+> Zertifizierte Weiterbildung : Du erh&auml;ltst ein offizielles Zertifikat als Freemor Breathing&reg; Facilitator zur professionellen Anwendung.
+> Wenn du den K&ouml;rper nicht nur als Atemraum, sondern als Tr&auml;ger einer tiefen, intelligenten Bewegung begreifen m&ouml;chtest, ist Freemor Breathing&reg; dein n&auml;chster Schritt.
+
+### 3c. Cautions
+
+> Ein ausf&uuml;hrliches PDF-Skript mit allen Inhalten, Hintergrundwissen und praktischen Hinweisen
+> Du hast noch Fragen zum Ablauf, zu den Voraussetzungen oder zur Anwendung in deiner Praxis? Hier findest du die wichtigsten Antworten rund um das Freemor Breathing&reg; Teacher Modul &ndash; klar, ehrlich und auf den Punkt gebracht.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58403-g1.webp
+- assets/products/58403-g2.webp
+- assets/products/58403-g3.webp
+- assets/products/58403-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/663323
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Freemor%20Breathing%C2%AE%20%E2%80%94%20Teacher%20Modul%20f%C3%BCr%20verbundenen%20Atem%20und%20neurogenes%20Zittern
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

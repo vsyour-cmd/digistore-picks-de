@@ -54,6 +54,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich komme zu Dir nach Hause – und ich zeige Dir Schritt- für-Schritt das einzigartige Bodo Schäfer System, um vermögend zu werden.
+> Aber dafür brauchen die meisten Menschen eine klare Schritt-für-Schritt-Anleitung. Und genau darum geht es in diesem Coaching.
+> Ich wusste: Das wäre das Ende. Eines Nachts bin ich schweissnass aufgewacht, habe auf meine Frau geschaut und dachte: So haben wir uns das nicht vorgestellt. Wenn ich so cool bin, warum bin ich dann pleite? Ich wusste: So geht es nicht weiter. Ich habe einen Coach gesucht. So, wie Sportler einen Trainer haben, wollte ich jemanden finden, der mir zeigt, wie man mit Geld umgeht. Nun, ich habe einen Coach gefunden Der hat mir sechs klare Schritte beigebracht
+
+### 3c. Cautions
+
+> ​Du und die Menschen, die Dir wichtig sind, können in Sicherheit und Luxus leben.
+> Ohne Geld ist heute einwürdevolles und erfülltes Lebennicht möglich. Auch hier erhältst Du eine wichtige Hilfe: Dieses Paket hilft Dir, die richtigen mentalen Techniken anzuwenden.
+> ​Du und die Menschen, die Dir wichtig sind, können in Sicherheit und Luxus leben.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53029-g1.webp
+- assets/products/53029-g2.webp
+- assets/products/53029-g3.webp
+- assets/products/53029-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/619337
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bodo%20Sch%C3%A4fer%3A%20Wahrer%20Wohlstand%20(Online%20Video-Coaching)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

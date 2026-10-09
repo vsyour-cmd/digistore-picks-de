@@ -52,6 +52,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mindestens 12 Module (wird ständig erweitert) mit detaillierten Anleitungen zum Geld verdienen mit dem Smartphone, selbst ohne Vorkenntnisse
+> So funktioniert's: Das System zum Geld verdienen mit dem Smartphone
+> Denn du bekommst heute eine einzigartige Anleitung, die dir haargenau zeigt, was du tun musst, um dein Leben zu verändern!
+
+### 3c. Cautions
+
+> "Wichtig: Alles ist so einfach erklärt und zum 1:1 Nachmachen dargestellt, dass sogar Oma Hilde es versteht!"
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/25608-g1.webp
+- assets/products/25608-g2.webp
+- assets/products/25608-g3.webp
+- assets/products/25608-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Smartphone Cash Machine - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/230451
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smartphone%20Cash%20Machine%20-%20von%20Gunnar%20Kessler
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -59,6 +59,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ich habe im Alter von 13 Jahren einen Blues-Song im Radio gehört, in dem die Mundharmonika eine wichtige Rolle spielte. Das hat mich sofort fasziniert. Ich habe mir dann eine Mundharmonika gekauft und angefangen, mir selbst Mundharmonika beizubringen. Ich wollte mich mit meiner Gitarre auf der Mundharmonika begleiten so wie es z. B. Bob Dylan tat.
+> Das Wichtigste ist, dass man sich Zeit nimmt und geduldig ist. Die Mundharmonika ist ein Instrument, das man nicht von heute auf morgen lernt. Man muss viel üben und sich nicht entmutigen lassen, wenn es am Anfang nicht so gut klappt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/15571-g1.webp
+- assets/products/15571-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bluesharp lernen - Melodiespiel und Bluesharptechniken ... Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/125203
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bluesharp%20lernen%20-%20Melodiespiel%20und%20Bluesharptechniken%20...
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

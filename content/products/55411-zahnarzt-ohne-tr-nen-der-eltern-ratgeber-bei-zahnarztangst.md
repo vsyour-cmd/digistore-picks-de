@@ -46,6 +46,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/665348
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zahnarzt%20ohne%20Tr%C3%A4nen%20%E2%80%93%20Der%20Eltern-Ratgeber%20bei%20Zahnarztangst
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

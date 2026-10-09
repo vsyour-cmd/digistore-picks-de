@@ -52,6 +52,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ich war sehr neugierig auf den Kurs und konnte viele neue Anwendungsweisen kennenlernen. Der Kurs ist gut aufgegliedert und toll erklärt. Es hat Spaß gemacht, den Kurs zu durchlaufen. Das gemeinsame Üben an den Tieren ist sehr hilfreich, und das anschließende Feedback das man bekommt sehr bereichernd.
+
+### 3c. Cautions
+
+> Ich war sehr gespannt auf diesen Kurs. Der Kurs war sehr gut aufgebaut und ich war begeistert vom Inhalt und was man mit diesem Kurs alles machen und erreichen kann. Die Zusammenarbeit in der Facebookgruppe war ebenso toll und auch wichtig waren die Lives, wo man Fragen stellen konnte und sie ausreichend erklärt wurden. Alles in allem ein sehr toller Kurs.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/41973-g1.webp
+- assets/products/41973-g2.webp
+- assets/products/41973-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Systemisches Stellen für Tiere Online Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/389151
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Systemisches%20Stellen%20f%C3%BCr%20Tiere%20Online
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

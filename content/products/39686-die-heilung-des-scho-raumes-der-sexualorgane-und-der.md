@@ -62,6 +62,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die Videosessions werden Dir im Kursbereich schrittweise zur Verfügung gestellt.
+
+### 3c. Cautions
+
+> Behandlungsfehler während Arztterminen, Geburten, OP, therapeutischen oder Massage-Sitzungen hinterlassen oft tiefe Spuren in uns. Solange wir uns selbst dafür, in die Situation hineingegangen zu sein und dem Anderen für sein Verfehlen nicht vergeben haben, lastet die Erfahrung auf unserem Körper und unserer Seele. In der Session 19 entlasten wir unser Bewusstsein von diesen Erfahrungen und erlangen dadurch ein völlig neues Lebensgefühl.
+> Nach den Wechseljahren verändern sich oft die Hormonspiegel. Die Damen werden aktiver und bei den Herren lässt oft die Lust nach Sex nach. In Session 38 aktivieren wir die Hormonspiegel und harmonisieren wir Ungleichgewichte, so dass Lust, Verlangen, Genuss und Freude am Sex noch lange eine wichtige Rolle im Leben spielen können.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: „Die Heilung des Schoßraumes, der Sexualorgane und der...“ Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/425571
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EDie%20Heilung%20des%20Scho%C3%9Fraumes%2C%20der%20Sexualorgane%20und%20der...%E2%80%9C
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

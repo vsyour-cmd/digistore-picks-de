@@ -63,6 +63,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das strukturierte 6-Schritte-Programm, entwickelt aus über 15 Jahren dermatologischer Erfahrung – damit Sie die Zusammenhänge bei Akne verstehen und Schritt für Schritt im Alltag handeln können.
+> Aus ihrer langjährigen Praxis ist Dein System entstanden: ein 6-Schritte-Programm, das moderne Dermatologie, Ernährungswissenschaft, Hormone und Stressregulation verbindet – fundiert, alltagstauglich und mit viel Empathie für Ihren Weg.
+> Dein System führt Sie Schritt für Schritt durch die Bereiche, die ich bei Akne gemeinsam betrachte – klar strukturiert und mit konkreten Anregungen für Ihren Alltag.
+
+### 3c. Cautions
+
+> Nein, es ergänzt sie. Bei schweren oder unklaren Beschwerden kontaktieren Sie bitte Ihre Ärztin/Ihren Arzt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56278-g2.webp
+- assets/products/56278-g3.webp
+- assets/products/56278-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Endlich frei von Akne – Dein System | Das 6-Schritte-System Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/164663
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Endlich%20frei%20von%20Akne%20%E2%80%93%20Dein%20System%20%7C%20Das%206-Schritte-System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -69,6 +69,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ja, in der Regel sehr gut. Die Inhaltsstoffe wie L-Tyrosin sind sogar Vorstufen von Schilddrüsenhormonen und können die Funktion unterstützen. Da wir keine aggressiven Stimulanzien nutzen, wird die Schilddrüse nicht gestresst. Bitte halten Sie dennoch 30 Minuten Abstand zur Einnahme Ihrer Medikamente am Morgen.
+
+### 3c. Cautions
+
+> ⚠️ LABOR-WARNUNG: Aufgrund der komplexen CO2-Extraktion der Afrikanischen Mango sind unsere Laborkapazitäten limitiert. Maximale Abgabe: 12 Flaschen pro Haushalt. Nächste Charge erst in 9 Wochen. 30:00 Min reserviert
+> Mein Name ist Dr. Eric Wood. Ich bin kein gewöhnlicher Arzt, der Symptome verwaltet. Man nennt mich den „Pionier der Ursachenmedizin“.
+> "Ich bin Ingenieur. Ich glaube an Zahlen, nicht an Wunder. Mein Arzt sagte: 'Ihre Werte sind im kritischen Bereich, nehmen Sie ab.' Ich aß 1200 Kalorien am Tag. Nichts passierte. Mein Körper war im Streik.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KetoSana - Metabolic Breakthrough Drops (DACH Market) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/661129
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KetoSana%20-%20Metabolic%20Breakthrough%20Drops%20(DACH%20Market)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

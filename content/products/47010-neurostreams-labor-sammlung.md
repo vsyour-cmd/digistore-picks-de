@@ -58,6 +58,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der "Neurostreams -Katalog" enthält ausführliche Infos und praktische Anwendungshinweise für alle Titel des Neurostreams-Sortiments.
+
+### 3c. Cautions
+
+> Hinweis: Es ist wichtig zu beachten, dass die individuelle Wirksamkeit variieren kann und jedes noch so starke Audio-Programm keine medizinische Behandlung ersetzt. Bei ernsthaften gesundheitlichen Problemen sollte stets ein Arzt konsultiert werden - denn ich bin keiner.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/47010-g1.webp
+- assets/products/47010-g2.webp
+- assets/products/47010-g3.webp
+- assets/products/47010-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Neurostreams™ LABOR (Sammlung) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/258316
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20LABOR%20(Sammlung)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

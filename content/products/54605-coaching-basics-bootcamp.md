@@ -66,6 +66,12 @@
 - assets/products/54605-g2.webp
 - assets/products/54605-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Coaching Basics Bootcamp Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/642110
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Coaching%20Basics%20Bootcamp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

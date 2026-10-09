@@ -62,6 +62,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> EINFACH SCHLANK ist die ganzheitliche Ernährungsumstellung für deinen gesünderen Neustart! In diesem Onlinekurs lernst du Schritt für Schritt wie du in nur 8 Wochen deine Ernährung effektiv umstellen und ohne Verzicht und miese Laune deine Wunschfigur erreichen kannst.
+> Wähle die Zahlung, die zu dir passt. Profitiere von der Einmalzahlung in der Höhe von 499 Euro und spare 250 Euro gegenüber dem regulären Preis. Du kannst die Zahlungsoption im nächsten Schritt wählen.
+> Deine Ernährungstrainerin! In meinem Onlinekurs Einfach schlank erkläre ich dir Schritt für Schritt wie eine gesunde, ausgewogene Ernährung funktioniert und wie du garantiert dein Ziel erreichst.
+
+### 3c. Cautions
+
+> Da wir in Österreich aber eher dazu neigen zu viele tierische Produkte zu konsumieren, findest du im Cookbook auch viele vegetarische und vegane Gerichte sowie Hinweise für vegetarische und/oder vegane Alternativen in der Zubereitung.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39852-g1.webp
+- assets/products/39852-g2.webp
+- assets/products/39852-g3.webp
+- assets/products/39852-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Einfach schlank! In 8 Schritten zur Wunschfigur Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/371024
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einfach%20schlank!%20In%208%20Schritten%20zur%20Wunschfigur
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

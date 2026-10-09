@@ -59,6 +59,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Nein, die Nutzung ist ausschließlich für den privaten Gebrauch erlaubt. Durch die Besonderheit und Einzigartigkeit unserer Hacks wurden schon ganz zu Beginn der Pre-Course Phase von einem Marktteilnehmer Versuche unternommen die Inhalte zu kopieren, deswegen haben wir neue Sicherheitssysteme integriert, um dem vorzubeugen und halten uns auch rechtliche Schritte in solchen Fällen offen.
+
+### 3c. Cautions
+
+> In diesem Kurs lernst du die wichtigsten Hotelprogramme im Überblick kennen, einschließlich der von mir identifizierten Stärken und Schwächen. Du erstellst auch ein einfaches Hotelhacking-Portfolio und ich zeige dir direkt einfache Hacks, wie du gleich am Anfang auf einem neuen Level in die Buchungen hineingehst.
+> Bis jetzt ist dies in den vielen Jahren noch nicht vorgekommen und es ist wichtig hier die Grenzen und Erfahrungswerte zu lernen. Natürlich übernehmen Elite Travelhacking & Affiliates hier keinerlei Verantwortung und das Nutzen von unserem Geheimwissen und Optimierungsstrategien erfolgt auf eigene Gefahr.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48833-g2.webp
+- assets/products/48833-g3.webp
+- assets/products/48833-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Elite travelhacking - Living in Hotels BasiX Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/553720
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Elite%20travelhacking%20-%20Living%20in%20Hotels%20BasiX%20Videokurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

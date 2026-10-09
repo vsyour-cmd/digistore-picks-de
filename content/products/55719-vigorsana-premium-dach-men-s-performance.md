@@ -69,6 +69,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> VigorSana ist anders. Man merkt, dass da Power drin ist. Nach der Einnahme spüre ich dieses leichte, angenehme Kribbeln – Dr. Wood sagt, das ist das Niacin und die Durchblutung.
+> VigorSana ist anders. Man merkt, dass da Power drin ist. Nach der Einnahme spüre ich dieses leichte, angenehme Kribbeln – Dr. Wood sagt, das ist das Niacin und die Durchblutung.
+> Weil die Einnahme von synthetischem Testosteron Ihre körpereigene Produktion stoppt. Ihre Hoden schrumpfen, weil sie "arbeitslos" werden. VigorSana macht das Gegenteil: Mit Zink und Maca geben wir Ihrem Körper das Signal und die Rohstoffe, um selbst wieder mehr zu produzieren. Das ist nachhaltiger und sicherer.
+
+### 3c. Cautions
+
+> 🔴 LAGER-WARNUNG: Aufgrund viraler Nachfrage in den USA sind nur noch 14% der EU-Charge verfügbar.
+> „Seit über 17 Jahren beschäftige ich mich mit einer Frage, die Männer ab 40 mir immer wieder stellen: ‚ Warum fühle ich mich müde und ausgelaugt – obwohl mein Arzt sagt, alles sei normal?'
+> Mein Name ist Dr. Eric Wood. Ich bin Naturheilkundler, ausgebildet an der renommierten Harvard Medical School und der Georgetown University. In den USA nennt man mich den "Arzt der letzten Hoffnung". Zu mir kommen die Männer, wenn die Schulmedizin am Ende ist.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: VigorSana - Premium DACH Men's Performance Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/671283
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VigorSana%20-%20Premium%20DACH%20Men's%20Performance
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

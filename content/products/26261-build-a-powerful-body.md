@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du m&ouml;chtest direkt mit der Transformation deines Lebens starten? Du bist unsicher, wie Ern&auml;hrung und Training daf&uuml;r aussehen sollten? Du hast keine Lust, deine wertvolle Zeit erst f&uuml;r stundenlange Recherchen zu investieren? Du m&ouml;chtest direkt eine Komplett-Anleitung mit allen wichtigen Schritten haben?
+> Genaue Anleitungen f&uuml;r das richtige Training und die optimale Ern&auml;hrung.
+> Genaue Anleitungen f&uuml;r das richtige Training und die optimale Ern&auml;hrung willst.
+
+### 3c. Cautions
+
+> Das verstehe ich sehr gut, denn auch ich war an dem Punkt und musste viele Jahre in das Ausprobieren investieren, um heute zu wissen was wirklich die schnellsten Resultate generiert. Ich habe die kompliziertesten Pl&auml;ne ausprobiert und ein wichtiger Punkt ist mir immer wieder aufgefallen. Keep it simpel. Denn es kommt nicht nur darauf an, welchen Plan wir machen, noch wichtiger ist wie wir ihn ausf&uuml;hren.
+> 5 verschiedene Tools, die dir deinen Weg so leicht wie m&ouml;glich machen. Alles was wichtig ist auf Knopfdruck.
+> Trage dich hier ein, damit ich dir die 3 wichtigsten Strategien zusenden kann
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/26261-g2.webp
+- assets/products/26261-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Build a Powerful Body Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/212591
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Build%20a%20Powerful%20Body
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

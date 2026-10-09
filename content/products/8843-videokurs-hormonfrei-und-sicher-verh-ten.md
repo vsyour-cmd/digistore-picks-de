@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mit diesem Kurs lernst du Schritt für Schritt, wie du hormonfrei und sicher mit der symptothermalen Methode (NFP) verhüten kannst.
+> Umfangreiches Bonusmaterial, das die Anwendung von NFP im Alltag noch einfacher macht
+> In diesem Modul findest zu zahlreiche Bonus Videos, die dir die Anwendung der NFP Methode im Alltag deutlich erleichtern. Zum Beispiel gibt es Infos zu Zyklus Apps, Thermometern, Schichtarbeit, Zyklusregulation nach dem Absetzen der Pille und vielem mehr.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/8843-g1.webp
+- assets/products/8843-g2.webp
+- assets/products/8843-g3.webp
+- assets/products/8843-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Videokurs - Hormonfrei und Sicher Verhüten Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/59979
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20-%20Hormonfrei%20und%20Sicher%20Verh%C3%BCten
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

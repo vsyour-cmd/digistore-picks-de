@@ -68,6 +68,12 @@
 
 - assets/products/55845-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Krypto-Kickstart – Bitcoin kaufen für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/672877
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Krypto-Kickstart%20%E2%80%93%20Bitcoin%20kaufen%20f%C3%BCr%20Anf%C3%A4nger
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

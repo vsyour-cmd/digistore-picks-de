@@ -59,6 +59,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In diesem Programm erhältst du das Komplettpaket zur Lösung von Depressionen: Erhalte die Prinzipien einer artgerechten Lebensweise, alle wichtigen Nährstoffe für dein Gehirn und die effektivsten Hypnose-Methoden, um Depressionen an ihrem Ursprung im Unterbewusstsein aufzulösen und deinen Gefühlszustand nachhaltig zu verbessern.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Mental Health Depression lösen - health-generation Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/547957
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mental%20Health%20Depression%20l%C3%B6sen%20-%20health-generation
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

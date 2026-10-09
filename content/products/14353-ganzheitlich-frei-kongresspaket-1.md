@@ -41,6 +41,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Jenny ist überzeugt davon, dass jeder Mensch erst seine Urängste & Schuldgefühle überwinden muss, um sich selbst & andere wirklich lieben zu können. Eine der größten Urängste ist es zu verhungern. Daher sind ihre mittlerweile sehr beliebten 3-Tages-Seelen-Nahrungs-Seminare ein erster Schritt zur Souveränität.
+
+### 3c. Cautions
+
+> Ruediger Dahlke ist Arzt und Psychotherapeut. Zudem absolvierte er die Zusatzausbildung zum Arzt für Naturheilweisen. Er ist Autor von über 80 Büchern u.a. zur ganzheitlichen Psychosomatik wie „Krankheit als Symbol“ und „Krankheit als Sprache der Seele“ sowie „Peace Food wie der Verzicht auf Fleisch und Milch Körper und Seele heilt.“
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/14353-g2.webp
+- assets/products/14353-g3.webp
+- assets/products/14353-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ganzheitlich FREI Kongresspaket 1 Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/88863
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ganzheitlich%20FREI%20Kongresspaket%201
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

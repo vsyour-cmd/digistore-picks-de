@@ -77,6 +77,12 @@
 - assets/products/3663-g3.webp
 - assets/products/3663-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pilates&Friends Abo - Das Online Pilates Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/23599
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pilates%26Friends%20Abo%20-%20Das%20Online%20Pilates%20Paket
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

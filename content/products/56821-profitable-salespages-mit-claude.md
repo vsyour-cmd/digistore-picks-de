@@ -58,6 +58,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die schnellste und einfachste Methode, um als Affiliate oder Produktanbieter professionell per Verkaufsseite Einnahmen zu erzielen!
+> 60 Minuten bis zur fertigen Verkaufsseite Von null bis online in einer Stunde – auch wenn du noch nie eine Salespage erstellt hast, noch nie mit HTML gearbeitet hast und noch nie etwas im Internet angeboten hast. Claude führt dich Schritt für Schritt durch den gesamten Prozess.
+> Wie du mit Claude in wenigen Schritten eine komplette Salespage erstellst – ohne eine einzige Zeile Code selbst zu programmieren
+
+### 3c. Cautions
+
+> Welche simplen Eingaben reichen, damit Claude dir eine professionelle, sofort einsetzbare Verkaufsseite baut, die alle wichtigen verkaufspsychologischen Marketing-Elemente enthält
+> Welche simplen Eingaben reichen, damit Claude dir eine professionelle, sofort einsetzbare Verkaufsseite baut, die alle wichtigen verkaufspsychologischen Marketing-Elemente enthält
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Profitable Salespages mit Claude Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/697887
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profitable%20Salespages%20mit%20Claude
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

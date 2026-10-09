@@ -64,6 +64,12 @@
 - assets/products/56181-g2.webp
 - assets/products/56181-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Practitioner EnergieHypnose Modular Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/496251
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Practitioner%20EnergieHypnose%20Modular
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

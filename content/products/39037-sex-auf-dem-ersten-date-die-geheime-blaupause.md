@@ -49,6 +49,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die ultimative Schritt-für-Schritt-Anleitung , die leidenschaftliche Nächte garantiert - selbst wenn Du in der Vergangenheit nur langweilige und katastrophale Dates hattest (oder sogar noch niemals auf einem Date warst)
+> Die kugelsichere Schritt-für-Schritt Anleitung , mit der Du sie zu Dir nach Hause nimmst, sodass ihr schließlich einen unvergesslichen Abend miteinander habt, der euch aneinander schweißt (Ich zeige Dir sehr detailliert , wie das geht)
+
+### 3c. Cautions
+
+> Achtung! Dieses Angebot gibt es nur einmalig auf dieser Seite! Wir werden dieses Training niemals öffentlich verkaufen. Das bedeutet, das ist jetzt die einzige Chance in Deinem Leben diesen Kurs zu erhalten.
+> Jetzt sichern! Achtung! Nur auf dieser Seite einmalig erhältlich!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39037-g3.webp
+- assets/products/39037-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Sex Auf Dem Ersten Date: Die Geheime Blaupause Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/408109
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sex%20Auf%20Dem%20Ersten%20Date%3A%20Die%20Geheime%20Blaupause
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

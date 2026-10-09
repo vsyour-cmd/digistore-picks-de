@@ -48,6 +48,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✅ Wieder belastbarer werden: Ein klarer Plan, mit dem du Schritt für Schritt aktiv wirst, statt nur Symptome zu bekämpfen.
+> ✅ Wieder belastbarer werden: Ein klarer Plan, mit dem du Schritt für Schritt aktiv wirst, statt nur Symptome zu bekämpfen.
+> ✅ Wieder belastbarer werden: Ein klarer Plan, mit dem du Schritt für Schritt aktiv wirst, statt nur Symptome zu bekämpfen.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48988-g1.webp
+- assets/products/48988-g2.webp
+- assets/products/48988-g3.webp
+- assets/products/48988-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pain Zero - Verspannungskopfschmerzen in den Griff kriegen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/659619
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pain%20Zero%20-%20Verspannungskopfschmerzen%20in%20den%20Griff%20kriegen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

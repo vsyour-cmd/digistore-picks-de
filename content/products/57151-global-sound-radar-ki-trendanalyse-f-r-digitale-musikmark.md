@@ -48,6 +48,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/706016
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Global%20Sound%20Radar%E2%84%A2%20%E2%80%93%20KI-Trendanalyse%20f%C3%BCr%20digitale%20Musikmark
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

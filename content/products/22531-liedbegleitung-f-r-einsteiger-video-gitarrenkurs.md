@@ -60,6 +60,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du gehst Schritt für Schritt voran und bleibst automatisch am Ball.
+> „Ich habe kein Talent oder keine Vorkenntnisse.“ Genau dafür ist der Kurs gemacht. Du wirst Schritt für Schritt geführt – ohne Vorwissen.
+> Sofort nach erfolgter Buchung geht es los. Die Lektionen werden dann wöchentlich freigeschaltet, damit du Schritt für Schritt vorankommst. Auch die Freischaltung an einem bestimmten Wochentag (deiner Wahl) ist kein Problem. Wenn du möchtest, kannst du dir von mir auch alle Inhalte auf einmal freischalten lassen.
+
+### 3c. Cautions
+
+> Ein Ohr für Fehler entwickeln: mit der Zeit hörst du deine eigenen Patzer, bevor ich dich überhaupt darauf hinweisen muss
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/22531-g1.webp
+- assets/products/22531-g2.webp
+- assets/products/22531-g3.webp
+- assets/products/22531-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Liedbegleitung für Einsteiger (Video-Gitarrenkurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/199683
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Liedbegleitung%20f%C3%BCr%20Einsteiger%20(Video-Gitarrenkurs)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

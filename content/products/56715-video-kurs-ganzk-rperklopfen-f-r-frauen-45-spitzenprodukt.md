@@ -48,6 +48,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ... wenn du dich Tag für Tag ein Stück wohler in deinem Körper fühlst ... ✨ ... wenn du dein Inneres Gleichgewicht halten kannst, auch wenn im Außen alles tobt ... 🧘 ... 💚 wenn du wieder Freude mit dir selbst verspürst ... und voller Selbstvertrauen und Elan durch deinen Alltag gehst ... Diese Vision ist durchaus möglich. Und sie beginnt mit einem Schritt - mit deinem! 💚
+> J a! Der Kurs ist auch für Anfängerinnen gemacht - alles wird Schritt für Schritt erklärt . Du brauchst weder Vorkenntnisse noch besondere Fitness . Du kannst ganz in deinem Tempo und so wie es sich für dich gut anfühlt, üben .
+> Ja! Ich würde sogar sagen, daß sie gerade dann ideal für dich ist - durchs Klopfen kommt Vibration ins Gewebe - die Knochendichte baut sich bei regelmäßiger Anwendung langsam wieder auf und Muskeln und Haut straffen sich.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56715-g1.webp
+- assets/products/56715-g2.webp
+- assets/products/56715-g3.webp
+- assets/products/56715-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/555570
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Video-Kurs%3A%20Ganzk%C3%B6rperklopfen%20f%C3%BCr%20Frauen%2045%2B%20(Spitzenprodukt
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

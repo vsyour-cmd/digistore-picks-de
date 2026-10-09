@@ -49,6 +49,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Doch der entscheidende Schritt – das Verankern im Unterbewusstsein – gelingt nur durch interaktive Übungen . Nicht durch stumpfes Lesen. Nicht durch Passives Zuschauen. Sondern durch aktives Tun, das Spaß macht und dir echte Fortschritte liefert.
+> Nachhaltige Automatismen: Statt trockenem Wissen setzt du auf interaktive Übungen, die dein Unterbewusstsein prägen. So werden neue, gesunde Verhaltensweisen Schritt für Schritt zu deiner neuen Normalität.
+> Doch der entscheidende Schritt – das Verankern im Unterbewusstsein – gelingt nur durch interaktive Übungen . Nicht durch stumpfes Lesen. Nicht durch Passives Zuschauen. Sondern durch aktives Tun, das Spaß macht und dir echte Fortschritte liefert.
+
+### 3c. Cautions
+
+> Hinweis: Unsere KI-gestützten Selbstlernkurse (40–200 €) nutzen digitale Avatare sparsam für allgemeine Informationen. Der Lernerfolg wird durch den bewährten Dreiklang Wissen – Verstehen – Prägen erzielt – mit interaktiven Übungen als zentralem Game Changer, die das Gelernte im Unterbewusstsein verankern. Bitte prüfen Sie vor dem Kauf die Kursbeschreibung auf Ihren individuellen Nutzen.
+> Hinweis: Unsere KI-gestützten Selbstlernkurse (40–200 €) nutzen digitale Avatare sparsam für allgemeine Informationen. Der Lernerfolg wird durch den bewährten Dreiklang Wissen – Verstehen – Prägen erzielt – mit interaktiven Übungen als zentralem Game Changer, die das Gelernte im Unterbewusstsein verankern. Bitte prüfen Sie vor dem Kauf die Kursbeschreibung auf Ihren individuellen Nutzen.
+> Hinweis: Unsere KI-gestützten Selbstlernkurse (40–200 €) nutzen digitale Avatare sparsam für allgemeine Informationen. Der Lernerfolg wird durch den bewährten Dreiklang Wissen – Verstehen – Prägen erzielt – mit interaktiven Übungen als zentralem Game Changer, die das Gelernte im Unterbewusstsein verankern. Bitte prüfen Sie vor dem Kauf die Kursbeschreibung auf Ihren individuellen Nutzen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58281-g1.webp
+- assets/products/58281-g2.webp
+- assets/products/58281-g3.webp
+- assets/products/58281-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 66 Tage Stoffwechsel Reise Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/720178
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=66%20Tage%20Stoffwechsel%20Reise
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

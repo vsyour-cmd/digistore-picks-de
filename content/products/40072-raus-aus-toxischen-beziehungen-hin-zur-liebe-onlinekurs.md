@@ -51,6 +51,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du lernst Schritt für Schritt wie Du Dich aus dieser Beziehung befreist, Dein Herz heilst und Du wieder glücklich wirst.
+> Du lernst ganz in Deinem Tempo genau in der richtigen Reihenfolge wie Du die schmerzhaften Gefühle lösen kannst und wie Du mit Hilfe einer Selbsthypnose-Anwendung die Ursachen für diese schmerzhafte Beziehung findest und löst.
+
+### 3c. Cautions
+
+> Du erfährst warum Dein inneres Kind dabei so eine wichtige Rolle spielt und wie Du es finden und heilen kannst. Du bekommst Techniken und Selbsthypnoseanwendungen an die Hand.
+> Ein Kapitel zum Spezialfall: „Narzisstische Partner“ erklärt diesen Sonderfall und die Zusammenhänge mit Deinen Anteilen ganz genau. Du lernst wie Du Dein gebrochenes Herz wieder heilen kannst. Du lernst Deine Gedanken auf POSITIV zu programmieren. Das Wichtigste ist, dass Du lernst, wie Du wieder zu Dir selbst zurückfindest, Deinen Selbstwert erkennst und Selbstliebe immer mehr leben kannst.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40072-g1.webp
+- assets/products/40072-g2.webp
+- assets/products/40072-g3.webp
+- assets/products/40072-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/311659
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20TOXISCHEN%20Beziehungen%20-%20Hin%20zur%20Liebe%20%7C%20Onlinekurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

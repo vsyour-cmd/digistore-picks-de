@@ -46,6 +46,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Praktische Anleitungen, um die erlernten Techniken und Qualitäten dauerhaft in den Alltag zu integriere
+
+### 3c. Cautions
+
+> Ungesundes Üben verhindert die optimale Körperausrichtung und blockiert die freie Atmung, was Anspannung und Stress noch weiter erhöht. Deshalb ist es so wichtig, die Yoga-Übungen anatomisch korrekt auszuführen, wie es in diesem ganzheitlichen Yoga Kurs vermittelt wird.
+> Für dogmatische Yogaleute, die denken, dass Anatomie nicht wichtig ist und für Menschen mit starken gesundheitlichen Beschwerden, die eine therapeutische und ärztliche Begleitung brauchen.
+> Der Kurs ist auch für Yogalehrer/Innen geeignet, um die wichtigsten Punkte für gesunden und anatomisch korrekten Yoga zu lernen und zu vertiefen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33571-g1.webp
+- assets/products/33571-g2.webp
+- assets/products/33571-g3.webp
+- assets/products/33571-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/337818
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20gesunde%20und%20ganzheitliche%20Ayur-Yoga-Basis-Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

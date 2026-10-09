@@ -48,6 +48,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In diesem Kurs lernst du, wie du Texte gezielt für unterschiedliche Plattformen erstellst und automatisiert anpasst. KI unterstützt dich dabei Schritt für Schritt – von der Ideenfindung über die Textoptimierung bis hin zur Analyse deiner Ergebnisse.
+> In diesem Kurs lernst du, wie du Texte gezielt für unterschiedliche Plattformen erstellst und automatisiert anpasst. KI unterstützt dich dabei Schritt für Schritt – von der Ideenfindung über die Textoptimierung bis hin zur Analyse deiner Ergebnisse.
+> In diesem Kurs lernst du, wie du Texte gezielt für unterschiedliche Plattformen erstellst und automatisiert anpasst. KI unterstützt dich dabei Schritt für Schritt – von der Ideenfindung über die Textoptimierung bis hin zur Analyse deiner Ergebnisse.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58215-g1.webp
+- assets/products/58215-g2.webp
+- assets/products/58215-g3.webp
+- assets/products/58215-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kreative Content-Erstellung mit KI: In 7 Stunden zum eigenen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/689461
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kreative%20Content-Erstellung%20mit%20KI%3A%20In%207%20Stunden%20zum%20eigenen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

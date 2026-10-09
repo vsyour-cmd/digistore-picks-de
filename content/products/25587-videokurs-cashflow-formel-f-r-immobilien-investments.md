@@ -65,6 +65,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Weil dein Mieter für dich morgens aufsteht und arbeiten geht, nennen wir diese Einnahmen passives Einkommen. Du verdienst es auch, wenn du Zeit mit deinen Liebsten verbringst oder irgendwo in der Sonne liegst. Vielleicht ist das Investieren ja einfacher, als du bisher dachtest?
+> Wie du siehst, sind die Einnahmen deutlich höher als die Ausgaben. Für eine kleine 2-Zimmer-Wohnung bleibt also unter dem Strich ein sattes passives Einkommen übrig.
+> Anleitungsvideo für den Renditerechner (Wert: beim Renditerechner inkl.)
+
+### 3c. Cautions
+
+> Für ein gutes Investment ist es wichtig, eine zukunftsfähige Region zu finden, in der die Mietpreise möglichst hoch und die Kaufpreise möglichst niedrig sind. Außerdem muss das perfekte Objekt eine Reihe von Kriterien erfüllen, damit wir auch langfristig Geld damit verdienen.
+> Die Finanzierung ist eine der wichtigsten Stellschrauben für die Höhe des monatlichen Überschusses. Für Kapitalanlage Immobilien gelten völlig andere Regeln als für Eigenheime. Wer dieses Wissen anwendet, kann mit dem Geld der Bank echtes passives Einkommen verdienen!
+> Mit meiner Checkliste für den Unterlagencheck bekommst du einen praktischen Überblick über alle wichtigen Unterlagen und welche Punkte du dort besonders beachten solltest. Diese kannst du dann einfach abhaken und dir wichtige Dinge notieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/25587-g1.webp
+- assets/products/25587-g2.webp
+- assets/products/25587-g3.webp
+- assets/products/25587-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Videokurs "Cashflow-Formel für Immobilien-Investments" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/363165
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20%22Cashflow-Formel%20f%C3%BCr%20Immobilien-Investments%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

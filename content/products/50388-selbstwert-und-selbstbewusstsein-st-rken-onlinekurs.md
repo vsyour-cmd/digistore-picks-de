@@ -67,6 +67,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du kannst lernen, dich wirklich wertzuschätzen. Schritt für Schritt.
+> Du bekommst klare Schritte, mit denen du deinen Selbstwert im Alltag wirklich veränderst. Jedes Modul zeigt dir konkret, was du tun kannst - ganz ohne Theorie-Overload. Du kannst die Inhalte jederzeit anschauen und in deinem Tempo umsetzen. Kurze Videos (15–30 Minuten), die du direkt umsetzen kannst.
+> Ich zeige dir, wie du zu Selbstakzeptanz und innerem Frieden kommst. Mit diesen 11 Schritten:
+
+### 3c. Cautions
+
+> Wiederholungen wichtiger Inhalte unterstützen dich dabei, die Veränderungen nachhaltig zu verankern. Und die zusätzlichen Übungen helfen dir, deinen Selbstwert und deine Selbstakzeptanz weiter auszubauen.
+> Der Kurs hilft dir, wieder mehr Vertrauen in dich selbst aufzubauen und deine innere Stärke zu entwickeln. Oft unterschätzen wir, wie wichtig unser Selbstwertgefühl für alle Lebensbereiche ist. Ein gesunder Selbstwert verändert, wie du mit dir selbst, anderen Menschen und Herausforderungen umgehst:
+> In diesem Modul lernst du, klare Grenzen zu setzen und deine Bedürfnisse effektiv zu kommunizieren. Du nimmst dich selbst wichtiger und führst gesündere Beziehungen. In der Übung übst du, »Nein« zu sagen und People-Pleasing zu vermeiden, damit ein Leben auch dich erfüllt. Übung als PDF-Download: Die Schritte zur Erfüllung deiner Bedürfnisse
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50388-g1.webp
+- assets/products/50388-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Selbstwert und Selbstbewusstsein stärken - Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/567377
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstwert%20und%20Selbstbewusstsein%20st%C3%A4rken%20-%20Onlinekurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

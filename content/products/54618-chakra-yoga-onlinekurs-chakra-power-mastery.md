@@ -58,6 +58,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Genau dafür wurde dieser Kurs entwickelt – er öffnet dir die Tür zu deiner inneren Kraftquelle und zeigt dir Schritt für Schritt, wie du zurück in ein erfülltes, energiegeladenes Leben findest.
+> Lass dich von den mitreissenden Video-Anleitungen begeistern! Tauche ein in die Welt der Yoga-Asanas , entdecke die Kraft des bewussten Atmens , aktiviere dein Potenzial durch kraftvolle Affirmationen , erlebe tiefgreifende Meditationen und integriere spielerisch einfache, aber wirkungsvolle Alltagstipps . Egal, ob Anfänger oder Fortgeschrittener – diese Videos werden deine Chakra-Praxis vertiefen!
+> Lass dich von den mitreissenden Video-Anleitungen begeistern! Tauche ein in die Welt der Yoga-Asanas , entdecke die Kraft des bewussten Atmens , aktiviere dein Potenzial durch kraftvolle Affirmationen , erlebe tiefgreifende Meditationen und integriere spielerisch einfache, aber wirkungsvolle Alltagstipps . Egal, ob Anfänger oder Fortgeschrittener – diese Videos werden deine Chakra-Praxis vertiefen!
+
+### 3c. Cautions
+
+> Meine Leidenschaft für die Chakrenarbeit entflammte während meiner eigenen tiefgreifenden Transformation. Als ich in einer toxischen Beziehung steckte, entdeckte ich, wie die Chakren mir halfen, meinen Selbstwert wiederzufinden und mein Leben neu zu gestalten. Mentale Herausforderungen erinnern mich immer wieder daran, wie wichtig es ist, meine Chakren nicht zu vernachlässigen, um mein Wohlbefinden zu stärken und mein Leben in die richtige Richtung zu lenken.
+> Meine Leidenschaft für die Chakrenarbeit entflammte während meiner eigenen tiefgreifenden Transformation. Als ich in einer toxischen Beziehung steckte, entdeckte ich, wie die Chakren mir halfen, meinen Selbstwert wiederzufinden und mein Leben neu zu gestalten. Mentale Herausforderungen erinnern mich immer wieder daran, wie wichtig es ist, meine Chakren nicht zu vernachlässigen, um mein Wohlbefinden zu stärken und mein Leben in die richtige Richtung zu lenken.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54618-g1.webp
+- assets/products/54618-g2.webp
+- assets/products/54618-g3.webp
+- assets/products/54618-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Chakra-Yoga Onlinekurs - Chakra-Power-Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/558114
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chakra-Yoga%20Onlinekurs%20-%20Chakra-Power-Mastery
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -57,6 +57,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 1 Der Besucher sucht gezielt Er interessiert sich bereits für ein Produkt und ist nur einen Schritt vom Kauf entfernt.
+> Eine gute Review-Seite besteht nicht nur aus einem Text und einem Button. Sie führt den Besucher Schritt für Schritt durch die wichtigsten Informationen, baut Vertrauen auf und bereitet den Klick zum Angebot besser vor. Die dargestellte Review-Seite wurde mit dem ChatGPT Prompt erstellt und nicht manuell angepasst.
+> Mit Kategorie-Seiten kannst du mehrere Reviews übersichtlich bündeln. So entsteht aus einzelnen Produktempfehlungen Schritt für Schritt ein strukturiertes Review-Portal.
+
+### 3c. Cautions
+
+> Ein gutes Review ist nicht einfach nur ein kurzer Text mit einem Affiliate-Link. Du brauchst eine klare Struktur, gute Nutzerführung, sinnvolle CTA-Bereiche, Produktdaten, Bewertung, FAQ, Vorteile, Nachteile, Bonus-Hinweise und ein Design, das Vertrauen aufbaut.
+> Direkt darunter folgt der Kurzüberblick. Produktname, Kategorie, Anbieter und Thema werden übersichtlich dargestellt. Dadurch wirkt die Seite sofort strukturiert und der Besucher muss sich die wichtigsten Basisinformationen nicht mühsam zusammensuchen.
+> Gleichzeitig wird ein erster Call-to-Action eingebunden. Das ist wichtig, weil nicht jeder Besucher bis zum Ende liest. Wer bereits überzeugt ist, kann direkt zum Angebot weitergehen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56636-g1.webp
+- assets/products/56636-g2.webp
+- assets/products/56636-g3.webp
+- assets/products/56636-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Affiliate Review System Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/693024
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Review%20System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

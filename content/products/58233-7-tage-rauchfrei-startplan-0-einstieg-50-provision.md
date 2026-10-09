@@ -59,6 +59,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das erwartet dich Deine sieben Schritte bis zum ersten rauchfreien Tag
+> Notfallkarte Halte deine persönlichen Schritte für akutes Rauchverlangen fest.
+> So erhältst du das Workbook In drei Schritten zu deinem Startplan
+
+### 3c. Cautions
+
+> Jeder Tag hat einen eigenen Schwerpunkt. So weißt du, was heute wichtig ist, ohne dich mit allen Rauchstopp-Themen gleichzeitig beschäftigen zu müssen.
+> Du hältst deinen Termin, deine wichtigsten Auslöser, passende Alternativen und deinen persönlichen Notfallplan direkt im Workbook fest.
+> Du wählst deine drei wichtigsten Rauchtrigger und legst für jeden eine erste rauchfreie Reaktion fest.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58233-g1.webp
+- assets/products/58233-g2.webp
+- assets/products/58233-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/717823
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=7-Tage-Rauchfrei-Startplan%20%E2%80%93%200%20%E2%82%AC%20Einstieg%20%2B%2050%20%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

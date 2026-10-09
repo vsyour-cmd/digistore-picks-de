@@ -50,6 +50,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In diesem Onlinekurs lernst du Schritt für Schritt, wie du selbstgekochtes Hundefutter richtig zusammenstellst und praktisch im Alltag umsetzt.
+> In diesem Onlinekurs lernst du Schritt für Schritt, wie du selbstgekochtes Hundefutter richtig zusammenstellst und praktisch im Alltag umsetzt.
+> In diesem Onlinekurs lernst du Schritt für Schritt, wie du selbstgekochtes Hundefutter richtig zusammenstellst und praktisch im Alltag umsetzt.
+
+### 3c. Cautions
+
+> Doch eine ausgewogene Hundeernährung entsteht nicht zufällig. Auch beim Kochen ist es wichtig zu verstehen, wie eine Ration sinnvoll aufgebaut ist, damit dein Hund langfristig gut versorgt ist.
+> Hinweis: Die Inhalte ersetzen keine individuelle Ernährungsberatung bei Erkrankungen oder besonderen Anforderungen.
+> Doch eine ausgewogene Hundeernährung entsteht nicht zufällig. Auch beim Kochen ist es wichtig zu verstehen, wie eine Ration sinnvoll aufgebaut ist, damit dein Hund langfristig gut versorgt ist.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58878-g1.webp
+- assets/products/58878-g2.webp
+- assets/products/58878-g3.webp
+- assets/products/58878-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pour Ellie – Kochen für deinen Hund Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/677048
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pour%20Ellie%20%E2%80%93%20Kochen%20f%C3%BCr%20deinen%20Hund
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

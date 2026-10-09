@@ -50,6 +50,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Jetzt ist die Zeit, einzutauchen. Und einen Schritt zu wagen &ndash; f&uuml;r dich. F&uuml;r andere. F&uuml;r die Welt.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54882-g1.webp
+- assets/products/54882-g2.webp
+- assets/products/54882-g3.webp
+- assets/products/54882-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Masterclass „Die Kunst nachhaltiger (Selbst)Führung“ Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/650117
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Masterclass%20%E2%80%9EDie%20Kunst%20nachhaltiger%20(Selbst)F%C3%BChrung%E2%80%9C
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -50,6 +50,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das Trading Masterbook ist ein umfangreiches digitales Trading-Handbuch mit 483 Seiten , das dich Schritt für Schritt von den Grundlagen bis zu fortgeschrittenen Trading-Konzepten begleitet.
+> Das Trading Masterbook ist ein umfangreiches digitales Trading-Handbuch mit 483 Seiten , das dich Schritt für Schritt von den Grundlagen bis zu fortgeschrittenen Trading-Konzepten begleitet.
+> Das Trading Masterbook ist ein umfangreiches digitales Trading-Handbuch mit 483 Seiten , das dich Schritt für Schritt von den Grundlagen bis zu fortgeschrittenen Trading-Konzepten begleitet.
+
+### 3c. Cautions
+
+> Wichtiger Hinweis: Trading ist mit erheblichen finanziellen Risiken verbunden. Dieses Produkt dient ausschliesslich Bildungs- und Informationszwecken und stellt keine Anlage- oder Finanzberatung dar. Es werden keine Gewinne oder bestimmten Handelsergebnisse garantiert.
+> Wichtiger Hinweis: Trading ist mit erheblichen finanziellen Risiken verbunden. Dieses Produkt dient ausschliesslich Bildungs- und Informationszwecken und stellt keine Anlage- oder Finanzberatung dar. Es werden keine Gewinne oder bestimmten Handelsergebnisse garantiert.
+> Wichtiger Hinweis: Trading ist mit erheblichen finanziellen Risiken verbunden. Dieses Produkt dient ausschliesslich Bildungs- und Informationszwecken und stellt keine Anlage- oder Finanzberatung dar. Es werden keine Gewinne oder bestimmten Handelsergebnisse garantiert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60173-g1.webp
+- assets/products/60173-g2.webp
+- assets/products/60173-g3.webp
+- assets/products/60173-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Trading Masterbook Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/741558
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trading%20Masterbook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

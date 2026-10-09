@@ -45,6 +45,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Praktische Schritt-f&uuml;r-Schritt-Anleitungen, die du sofort umsetzen kannst
+> Du begleitest mich praxisnah im Alltag und siehst Schritt für Schritt, wie ich mit meinem Hund arbeite, um ruhige und entspannte Spaziergänge aufzubauen. Du lernst, wie dein Hund sich an dir orientiert, statt ständig in die Umwelt zu gehen.
+> So entwickelst du Schritt für Schritt echte Führung und eine stabile Orientierung im Alltag.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56057-g2.webp
+- assets/products/56057-g3.webp
+- assets/products/56057-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Leinentraining: Werde zum Profi an der Leine! Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/680013
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leinentraining%3A%20Werde%20zum%20Profi%20an%20der%20Leine!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

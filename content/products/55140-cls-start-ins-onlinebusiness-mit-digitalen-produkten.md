@@ -48,6 +48,12 @@
 > HINWEIS : Drücke F11 , oder nutze den Vollbildmodus um das Webinar anzusehen. Wenn du kein Ton hörst, klicke auf das Video .
 > HINWEIS : Drücke F11 , oder nutze den Vollbildmodus um das Webinar anzusehen. Wenn du kein Ton hörst, klicke auf das Video .
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: CLS Start ins Onlinebusiness mit digitalen Produkten Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/657175
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CLS%20Start%20ins%20Onlinebusiness%20mit%20digitalen%20Produkten
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

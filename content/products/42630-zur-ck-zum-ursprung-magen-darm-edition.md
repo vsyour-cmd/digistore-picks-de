@@ -51,6 +51,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ""Andreas Goldemann’s Arbeit ist das Kraftvollste, das ich jemals erlebt habe. Nach seiner Anwendung fühlte ich mich leichter, fröhlicher und lebendiger sowie sehr viel zentrierter in meinem Körper. Eine Erfahrung, die bis heute anhält. Die Welt braucht Talente wie Andreas Goldemann und ich kann ihn und seine Arbeit nur wärmstens empfehlen.""
+
+### 3c. Cautions
+
+> Du musst nicht mehr in die Apotheke, zum Arzt, Heilpraktiker, oder in den Drogeriemarkt
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: „Zurück zum Ursprung - Magen Darm Edition“ Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/450636
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EZur%C3%BCck%20zum%20Ursprung%20-%20Magen%20Darm%20Edition%E2%80%9C
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

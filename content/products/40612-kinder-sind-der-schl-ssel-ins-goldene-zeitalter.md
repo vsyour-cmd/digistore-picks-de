@@ -49,6 +49,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Warum die 4 Schritte zum Durchbrechen des Teufelskreises der Normopathie der Schlüssel ins Goldene Zeitalter sind
+
+### 3c. Cautions
+
+> Die 8 wichtigsten Entwicklungs-Engpässe und Herausforderungen
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40612-g1.webp
+- assets/products/40612-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kinder sind der Schlüssel ins Goldene Zeitalter Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/452041
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinder%20sind%20der%20Schl%C3%BCssel%20ins%20Goldene%20Zeitalter
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

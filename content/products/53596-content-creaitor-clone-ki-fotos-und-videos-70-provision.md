@@ -54,6 +54,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die Content Creator Clone Academy ist ein Schritt-f&uuml;r-Schritt KI Content System, das deine ganz normalen Fotos in Content verwandelt, der beim Scrollen stoppt, auf Instagram viral geht und dir Leads und Sales bringt, auch wenn du offline bist.
+> Genau diesen Ablauf zeige ich dir im Kurs, Schritt f&uuml;r Schritt, mit deinen eigenen Fotos.
+> In der Content Creator Clone Academy folgst du genau dem Schritt-f&uuml;r-Schritt-Ablauf, mit dem ich Millionen Views pro Monat auf meine Reels bekomme, 50+ neue Follower pro Tag gewinne und 300+ Euro pro Tag &uuml;ber Instagram verdiene.
+
+### 3c. Cautions
+
+> Ein Projekt von Oberst Consulting. &copy; 2026 Content CreAItor Clone
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53596-g1.webp
+- assets/products/53596-g2.webp
+- assets/products/53596-g3.webp
+- assets/products/53596-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/627890
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Content%20CreAItor%20Clone%20%7C%20KI-Fotos%20und%20Videos%20%7C%2070%20%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

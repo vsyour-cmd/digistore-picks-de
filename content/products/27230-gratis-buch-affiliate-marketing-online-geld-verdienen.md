@@ -45,6 +45,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Erhalte jetzt eine Schritt-für-Schritt Anleitung , wie du eine Webseite aufbaust und es mit Affiliate Marketing so einrichtest, dass es dir ein monatliches und überwiegend passives Einkommen erwirtschaftet automatisiert.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/27230-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Gratis Buch - Affiliate Marketing - Online Geld verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/250755
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis%20Buch%20-%20Affiliate%20Marketing%20-%20Online%20Geld%20verdienen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

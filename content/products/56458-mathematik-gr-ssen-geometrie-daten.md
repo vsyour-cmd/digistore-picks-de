@@ -56,6 +56,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mathe in der Berufsausbildung sicher bestehen - Schritt für Schritt erklärt
+> Du arbeitest dich Schritt für Schritt durch alle relevanten Grundlagen – in einer sinnvollen Reihenfolge.
+> Hier erhältst du einen strukturierten, jederzeit verfügbaren Lernweg, der dich Schritt für Schritt begleitet.
+
+### 3c. Cautions
+
+> Dieser Lehrgang führt dich in klarer Reihenfolge durch alle relevanten Themen und verhindert, dass wichtige Bausteine fehlen.
+> Hinweis zur Zahlungsabwicklung Die Bestellung und Zahlung werden über Digistore24 als offiziellen Verkaufspartner abgewickelt. Digistore24 übernimmt die Zahlungsabwicklung, Rechnungsstellung und die Bereitstellung des Zugangs.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Mathematik: Grössen, Geometrie, Daten Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/688847
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mathematik%3A%20Gr%C3%B6ssen%2C%20Geometrie%2C%20Daten
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

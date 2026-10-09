@@ -58,6 +58,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> „Besonders die Roadmap hat mir geholfen. Nicht irgendwelche vagen Ratschläge, sondern konkrete Schritte in der richtigen Reihenfolge. Ich wusste genau was als nächstes kommt – das hat den ganzen Prozess viel weniger stressig gemacht."
+> Ein konkreter 5-Phasen-Plan von der ersten Entscheidung bis zum laufenden Betrieb im Ausland. Keine vagen Ratschläge &ndash; konkrete Schritte in der richtigen Reihenfolge.
+> Ein vollständiges digitales Freelancer-Cockpit als Notion-Template: Kundenübersicht, Projekttracker, Einnahmen-Tracker und Jahresplanung.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 50% Provision: Premium Freelancer Auswanderer Toolkit (97€) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/684867
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20Premium%20Freelancer%20Auswanderer%20Toolkit%20(97%E2%82%AC)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

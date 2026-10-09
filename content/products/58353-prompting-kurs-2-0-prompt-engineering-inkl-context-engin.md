@@ -48,6 +48,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58353-g1.webp
+- assets/products/58353-g2.webp
+- assets/products/58353-g3.webp
+- assets/products/58353-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin. Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/686091
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Prompting%20Kurs%202.0%20Prompt%20Engineering%20inkl.%20Context%20Engin.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

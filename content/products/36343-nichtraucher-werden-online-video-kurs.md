@@ -55,6 +55,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ersetzt der Kurs eine medizinische Behandlung? Nein. Bei gesundheitlichen Beschwerden wenden Sie sich bitte an Ihre Ärztin oder Ihren Arzt.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Nichtraucher werden Online-Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/383424
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nichtraucher%20werden%20Online-Video-Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

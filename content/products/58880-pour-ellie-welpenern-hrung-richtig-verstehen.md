@@ -54,6 +54,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In diesem Onlinekurs lernst du Schritt für Schritt, worauf es bei der Ernährung von Welpen und Junghunden wirklich ankommt, verständlich, strukturiert und ohne Panikmache.
+> Zusätzlich erhältst du praktische PDF-Unterlagen, Checklisten, ein Wochenprotokoll, das PDF „Mein Welpe“ als Ernährungs- und Entwicklungsbegleiter sowie ein Beispielrezept mit Anleitung zur Umrechnung auf deinen Welpen.
+> In diesem Onlinekurs lernst du Schritt für Schritt, worauf es bei der Ernährung von Welpen und Junghunden wirklich ankommt, verständlich, strukturiert und ohne Panikmache.
+
+### 3c. Cautions
+
+> Ein Welpe ist kein kleiner erwachsener Hund. Er befindet sich in einer sensiblen Wachstumsphase, in der Ernährung besonders wichtig ist.
+> warum Calcium und Phosphor im Wachstum besonders wichtig sind
+> Hinweis: Die Inhalte ersetzen keine tierärztliche Behandlung und keine individuelle Ernährungsberatung bei Erkrankungen, auffälligem Wachstum oder besonderen Anforderungen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58880-g1.webp
+- assets/products/58880-g2.webp
+- assets/products/58880-g3.webp
+- assets/products/58880-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pour Ellie – Welpenernährung richtig verstehen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/712067
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pour%20Ellie%20%E2%80%93%20Welpenern%C3%A4hrung%20richtig%20verstehen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

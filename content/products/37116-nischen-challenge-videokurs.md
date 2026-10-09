@@ -50,6 +50,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Alle Vorg&auml;nge sind mit Strategie-Videos und Schritt-f&uuml;r-Schritt-Anleitungen best&uuml;ckt.
+> ➨ Wie Du links siehst, kleckerten die ersten Jahre die Einnahmen unter 50.000€. Ab einem Punkt kommt aber der Durchbruch – früher oder später auch bei Dir.
+> Du hast die Möglichkeit, Dir viele kostenlose Impulse über eine große Anzahl an Videos und Anleitungen über YouTube, Facebook und Instagram anzuschauen. Dein Vorteil: Rund um die Uhr an 365 Tagen im Jahr kannst Du in das Win Win Business reinschnuppern und ohne Druck und finanziellen Einsatz entscheiden, ob das etwas für Dich ist.
+
+### 3c. Cautions
+
+> ➨ Viele wollen sofort mit dem gro&szlig;en Business beginnen, untersch&auml;tzen aber den wichtigen Start, sich selbst durch die Startprobleme zu ackern und umsatzf&ouml;rdernde Ma&szlig;nahmen zu schaffen, bevor sie investieren.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37116-g1.webp
+- assets/products/37116-g2.webp
+- assets/products/37116-g3.webp
+- assets/products/37116-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Nischen-Challenge - Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/155549
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nischen-Challenge%20-%20Videokurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

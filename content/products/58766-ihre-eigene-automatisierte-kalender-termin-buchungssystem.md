@@ -70,6 +70,12 @@
 - assets/products/58766-g3.webp
 - assets/products/58766-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ihre eigene automatisierte Kalender  "Termin Buchungssystem" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/726452
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ihre%20eigene%20automatisierte%20Kalender%20%20%22Termin%20Buchungssystem%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

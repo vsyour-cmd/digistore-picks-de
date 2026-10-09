@@ -69,6 +69,12 @@
 - assets/products/50875-g3.webp
 - assets/products/50875-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/585772
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fotografie%20Grundkurs%20-%20In%207%20Wochen%20zu%20deinen%20Traum-Bildern
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

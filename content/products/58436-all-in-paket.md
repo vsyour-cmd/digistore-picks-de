@@ -54,6 +54,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dieses E-Book führt dich Schritt für Schritt durch die Wiederannäherung nach einer Trennung mit einem abweisend-vermeidenden Menschen.
+> Diese E-Book-Reihe begleitet dich Schritt für Schritt dabei, deine Grenzen zu erkennen, zu verstehen und klar zu kommunizieren.
+
+### 3c. Cautions
+
+> Dieses E-Book zeigt dir, welche Bedürfnisse bei einem Menschen mit abweisend-vermeidendem Bindungsmuster besonders wichtig sind und wie sie sich in Beziehungen zeigen. Du lernst, Bedürfnisse von Schutzstrategien zu unterscheiden und besser einzuschätzen, wie Autonomie, Verbindung und die Bedürfnisse beider Partner miteinander vereinbar werden können.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58436-g1.webp
+- assets/products/58436-g2.webp
+- assets/products/58436-g3.webp
+- assets/products/58436-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: All in Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/722598
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=All%20in%20Paket
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

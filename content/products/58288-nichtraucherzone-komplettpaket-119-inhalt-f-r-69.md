@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ein klar strukturierter Plan für schwierige erste Rauchfrei-Tage und -Wochen. Statt jeden Morgen neu überlegen zu müssen, konzentrierst du dich auf den nächsten passenden Schritt.
+
+### 3c. Cautions
+
+> Wichtig: Das Nichtraucherzone-Komplettpaket ist kein Lesemarathon. Wenn du gerade Rauchverlangen hast, liest du kein 100-Seiten-Programm. Du öffnest deine Schnellhilfe. Wenn du deinen ersten Monat planst, nutzt du die Challenge. Wenn du einen Ausrutscher hattest, gehst du direkt zum Rückfall-Reset.
+> Kläre, wo du gerade stehst und welches Problem im Moment am wichtigsten ist.
+> Statt heute dein gesamtes zukünftiges Rauchfrei-Leben lösen zu müssen, konzentrierst du dich auf das, was gerade wichtig ist.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58288-g1.webp
+- assets/products/58288-g2.webp
+- assets/products/58288-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Nichtraucherzone-Komplettpaket – 119 € Inhalt für 69 € Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/719675
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nichtraucherzone-Komplettpaket%20%E2%80%93%20119%20%E2%82%AC%20Inhalt%20f%C3%BCr%2069%20%E2%82%AC
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

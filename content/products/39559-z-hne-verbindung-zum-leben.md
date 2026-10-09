@@ -76,6 +76,12 @@
 > Wichtig ist, dass Du dranbleibst und Dir und Deinem Körper die Zeit gibst, die nötig ist, um alles zu integrieren.
 > Obwohl Du in dem Kurs „nur“ Zahn- und Kieferbelastungen und dazugehörige Ängste, Traumata und negative Emotionen loslässt, hat es massive Auswirkungen auf Dich als Mensch insgesamt. So wichtig ist das , was in den Zähnen und im Kiefer passiert.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: „Zähne - Verbindung zum Leben“ Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/203235
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EZ%C3%A4hne%20-%20Verbindung%20zum%20Leben%E2%80%9C
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

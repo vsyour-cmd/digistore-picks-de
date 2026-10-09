@@ -56,6 +56,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/726205
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verdiene%2050%20%25%20Provision%20auf%20einen%20699%20%E2%82%AC-Auftrag%20(ca.%20320%20%E2%82%AC%20n
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

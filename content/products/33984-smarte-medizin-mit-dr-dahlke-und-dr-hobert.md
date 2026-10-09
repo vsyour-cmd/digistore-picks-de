@@ -53,6 +53,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Egal, ob du therapeutisch als Arzt oder Heilpraktiker arbeitest, oder ob Du ein gesundheitsbewusster Mensch bist. Die Smarte Medizin wird Dir die Grundlage für ein bewussteres, gesünderes und vor allem längeres Leben mit an die Hand geben.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33984-g2.webp
+- assets/products/33984-g3.webp
+- assets/products/33984-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Smarte Medizin mit Dr. Dahlke und Dr. Hobert Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/275410
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smarte%20Medizin%20mit%20Dr.%20Dahlke%20und%20Dr.%20Hobert
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

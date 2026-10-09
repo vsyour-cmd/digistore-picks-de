@@ -58,6 +58,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> In diesem Kurs lernst du: • WARUM du immer wieder in dieselben Fallen tappst • WIE du deine Emotionen bewusst lenkst • UND wie du Schritt für Schritt neue Wege gehst – statt immer wieder in alte Muster zu verfallen.
+> Plane für die kommenden 7 Tage bewusst kleine, machbare Schritte für Regeneration, Bewegung und soziale Kontakte.
+> Mentale Gesundheit ist veränderbar. Jeder ehrliche Blick nach innen ist ein aktiver Schritt in Richtung Stabilität und Lebensqualität.
+
+### 3c. Cautions
+
+> Dieser Check dient ausschließlich der allgemeinen Information und ersetzt keine professionelle medizinische oder psychotherapeutische Diagnose oder Behandlung. Wende dich bei starken Beschwerden, Leidensdruck oder Suizidgedanken umgehend an einen Arzt, Therapeuten oder den Notruf (112).
+> Unterstützung & Umfeld Familie Freunde Partner/in Therapeut/in Arzt / Ärztin Kaum Unterstützung
+> Dieser Selbstcheck ist eine Orientierungshilfe und ersetzt keine professionelle Diagnostik. Wende dich bei starken Beschwerden, anhaltendem Leidensdruck oder Gedanken an Selbstverletzung oder Suizid an deinen Arzt, einen psychologischen Psychotherapeuten oder den Notruf (112). In akuten Krisen kannst du auch den ärztlichen Bereitschaftsdienst (116117) oder lokale Krisendienste kontaktieren.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/431301
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20alten%20Mustern%20%E2%80%93%20Der%20Psychologie%20Grundkurs%20zur%20Selbs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

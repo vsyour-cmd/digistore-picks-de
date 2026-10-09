@@ -51,6 +51,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Zum Keyboardkurs Vol. 1 möchte ich gerne ein sehr positives Feedback geben. Obwohl ich zuvor keine Notenkenntnisse hatte, konnte ich mit diesem Kurs meine ersten Schritte am Keyboard machen und habe im Selbststudium viel gelernt. Besonders gut gefällt mir, dass bekannte und eingängige Stücke verwendet werden, die man oft schon vom Hören kennt. Der Kurs hat mich so überzeugt, dass ich direkt auch Vol. 2 bestellt habe.
+> Mir ist wichtig, dass Lernen nicht kompliziert, sondern verständlich, motivierend und musikalisch lebendig ist. Genau deshalb sind meine Kurse so aufgebaut, dass Sie Schritt für Schritt weiterkommen und das Gelernte sofort praktisch am Keyboard anwenden können.
+> So entwickeln Sie Schritt für Schritt eine sichere Grundlage für Ihr Keyboardspiel – verständlich aufgebaut und mit viel Freude an der Musik.
+
+### 3c. Cautions
+
+> Modul 1 – Der sichere Einstieg ins Noten- und Tastensystem Sie lernen die wichtigsten Grundlagen, um sich auf dem Keyboard und in den Noten sicher zurechtzufinden.
+> Modul 2 – Rhythmus verstehen und erste Lieder spielen Jetzt lernen Sie die wichtigsten Notenwerte und den 4/4-Takt kennen – und setzen dieses Wissen direkt in Ihren ersten Liedern um.
+> Modul 3 – Erste Akkorde und musikalisches Verständnis Sie erweitern Ihr Spiel um wichtige musikalische Grundlagen und lernen, erste Akkorde sinnvoll einzusetzen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/14385-g1.webp
+- assets/products/14385-g2.webp
+- assets/products/14385-g3.webp
+- assets/products/14385-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/95881
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Keyboardkurs%20Vol.%201%2C%20Lehrbuch%20inkl.%20USB-Stick
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

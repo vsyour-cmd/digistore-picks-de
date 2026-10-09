@@ -59,6 +59,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Buch erstellen mit KI – Mitgliederbereich Schreiben Sie Ihr eigenes Buch mit KI – Schritt für Schritt
+> Geführter Buchprozess So entsteht Ihr Buch Schritt für Schritt
+> Ihre Projektinformationen werden gespeichert, sodass Sie Ihr Buch Schritt für Schritt weiterentwickeln können.
+
+### 3c. Cautions
+
+> Geführte Fragen helfen dabei, Figuren, Inhalte, Zielgruppe, Setting, Aufbau und weitere wichtige Buchinformationen zu bestimmen.
+> Behalten Sie wichtige Antworten und Informationen Ihres Buchprojekts übersichtlich im Blick.
+> Hinweis zum wirtschaftlichen Erfolg Der Mitgliederbereich vermittelt Werkzeuge, Wissen und Arbeitsabläufe zur Bucherstellung, Veröffentlichung und Vermarktung. Ein bestimmter Verkaufserfolg oder bestimmte Einnahmen können nicht garantiert werden und hängen unter anderem von Buchqualität, Thema, Nachfrage und Vermarktung ab.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60231-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Buch erstellen mit KI – KI-Autor Komplettsystem Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/734491
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20erstellen%20mit%20KI%20%E2%80%93%20KI-Autor%20Komplettsystem
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

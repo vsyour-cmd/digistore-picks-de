@@ -61,6 +61,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Warum ist digitale Barrierefreiheit wichtig? Und wieso solltest du dich darum kümmern? Lerne, wer die Personas sind, die digitale Barrierefreiheit dringend brauchen und warum es uns am Ende doch alle betrifft.
+> Um einen optimalen Prozess zu gewährleisten, ist es wichtig, deine Entscheidungen bezüglich digitaler Barrierefreiheit an die Entwickler richtig zu kommunizieren. Wir zeigen dir, wie das geht!
+> "Gehirngerecht Digital sind ein hervorragender Ansprechpartner für alles zum Thema digitale Barrierefreiheit. Mit ihrer umfangreichen Expertise können sie einem super vermitteln, was wichtig ist und worauf man achten muss. Klare Empfehlung."
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Digitale Barrierefreiheit für Designer*innen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/520506
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Barrierefreiheit%20f%C3%BCr%20Designer*innen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

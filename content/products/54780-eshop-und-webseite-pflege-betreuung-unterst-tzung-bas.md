@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Einfach und direkt – per E-Mail, WhatsApp oder Telefon. Ich melde mich proaktiv bei wichtigen Updates oder Problemen und schicke dir regelmäßig Statusberichte .
+> Eine Onepage, wie das Wort sagt ist uur eine Seite. Hat fast alles wichtige in Kürze. Damit Sie besser verstehen gibt keine Weitere Seiten in Menu. Die Menus falls es in eine Onepage Webseite gibt, gehen in die gleiche Seite auf die entsprechende Units, also Teil dieser Webseite.
+> Ich erstelle für dich einen voll funktionsfähigen Shopify E-Shop , komplett eingerichtet und startbereit. Dazu gehört das Setup, die Einrichtung des Designs, 50-100 Produkte, Zahlungsmethoden, Versand, rechtliche Seiten und alle wichtigen Grundeinstellungen. Die Basic Shopify Eshop wird mit einen von die kostenlosen Themes erstellt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54780-g1.webp
+- assets/products/54780-g2.webp
+- assets/products/54780-g3.webp
+- assets/products/54780-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/650787
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Eshop%20und%20Webseite%3A%20Pflege%20-%20Betreuung%20-%20Unterst%C3%BCtzung%20%22%20Bas
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

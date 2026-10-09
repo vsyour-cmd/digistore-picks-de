@@ -48,6 +48,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du willst deinen Hund erziehen? Hier ist die genaue Schritt-für-Schritt Anleitung!
+> Schritt-für-Schritt Anleitung für das Erlernen des perfekten Rückrufs
+> Schritt-für-Schritt die wichtigsten Grundsignale von Anfang an richtig beibringen
+
+### 3c. Cautions
+
+> Verantwortungsbewusste HundehalterInnen gehen heutzutage wie selbstverständlich in „die Hundeschule“. Dort lernen sie, wie sie ihrem Hund die wichtigsten Grundsignale beibringen, allerdings sind die Gruppen oft zu groß, die Abläufe zu standardisiert und es entsteht Frust, weil die Alltagstauglichkeit des Trainings ausbleibt.
+> Unsere Vision besteht also nicht in einer perfekten Welt, sondern aus Hundemenschen, die das Verhalten ihrer Tiere richtig interpretieren können und damit entsprechend umzugehen wissen. Genau hierbei unterstützen wir Dich! Und zwar nicht nur mit oberflächlichen 0815-Tipps, sondern mit auf deinen Hund angepassten Ratschlägen und vielen wichtigen Inputs für eine harmonische Beziehung mit deinem Hund .
+> Die 3 wichtigsten Signale und wie sie in jedem Fall funktionieren
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/32094-g2.webp
+- assets/products/32094-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/313967
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hundeschule%20mit%20Martin%20R%C3%BCtter%20DOGS%20Trainerin%20Conny%20Sporrer
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

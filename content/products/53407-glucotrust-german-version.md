@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Denn wenn Sie schlafen, schaltet Ihr Körper in den Reparaturmodus. Dies ist besonders wichtig, wenn Ihr Körper unter Stress steht.
+> Während des Tiefschlafs ist Ihr Körper in der Lage, wichtige Hormone auszugleichen, wie z. B. Cortisol, das Hormon, das Bauchfett speichert“.
+> Impressum I Datenschutz I Disclaimer I AGB I Versand I Rückerstattung/Rückgabe I Kontakt I Produkt-Label I Affiliates
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53407-g1.webp
+- assets/products/53407-g2.webp
+- assets/products/53407-g3.webp
+- assets/products/53407-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: GlucoTrust German Version Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/600906
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GlucoTrust%20German%20Version
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

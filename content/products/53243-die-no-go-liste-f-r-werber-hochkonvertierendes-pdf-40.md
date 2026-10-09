@@ -50,6 +50,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In diesem Modul lernst du die häufigsten Denkfehler und systematischen Schwächen kennen, die Werbewirkung sabotieren – oft unbemerkt und wiederholt. Du erhältst konkrete Hinweise, woran Marketing-Kampagnen in der Praxis scheitern – von Copywriting bis Timing.
+> In diesem Modul lernst du die häufigsten Denkfehler und systematischen Schwächen kennen, die Werbewirkung sabotieren – oft unbemerkt und wiederholt. Du erhältst konkrete Hinweise, woran Marketing-Kampagnen in der Praxis scheitern – von Copywriting bis Timing.
+> In diesem Modul lernst du die häufigsten Denkfehler und systematischen Schwächen kennen, die Werbewirkung sabotieren – oft unbemerkt und wiederholt. Du erhältst konkrete Hinweise, woran Marketing-Kampagnen in der Praxis scheitern – von Copywriting bis Timing.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53243-g1.webp
+- assets/products/53243-g2.webp
+- assets/products/53243-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: „Die No-Go-Liste für Werber“ – Hochkonvertierendes PDF (40%) Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/625074
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EDie%20No-Go-Liste%20f%C3%BCr%20Werber%E2%80%9C%20%E2%80%93%20Hochkonvertierendes%20PDF%20(40%25)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

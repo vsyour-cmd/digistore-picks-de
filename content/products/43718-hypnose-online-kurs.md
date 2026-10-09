@@ -50,6 +50,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dieser Kurs ist mehr als nur eine Sammlung von Lektionen er ist eine Reise zur Selbsterkenntnis und persönlichen Entwicklung. Schritt für Schritt wirst du von Markus Wolfahrt angeleitet, wie du deine innere Ruhe finden und in dein Leben integrieren kannst.
+> Checklisten: Nutze praktische Checklisten, um dich auf deine Ziele zu fokussieren und Schritt für Schritt voranzukommen.
+
+### 3c. Cautions
+
+> Dein Happiness for Senses" Kurs ist ein einzigartiges Werkzeug, das darauf abzielt, die Tür zu innerem Frieden, mehr Gesundheit, mehr Lebensfreude und einem erfüllten Leben zu öffnen. In einer Welt, die oft von Stress und Hektik geprägt ist, ist es wichtiger denn je, die Werkzeuge und Techniken zu erlernen, die dir helfen, deine Ängste zu überwinden, Blockaden zu lösen und deine mentale sowie emotionale Gesundheit zu stärken.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43718-g1.webp
+- assets/products/43718-g2.webp
+- assets/products/43718-g3.webp
+- assets/products/43718-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Hypnose Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/493770
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose%20Online%20Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

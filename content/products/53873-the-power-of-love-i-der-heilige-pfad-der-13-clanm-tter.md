@@ -54,6 +54,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/626900
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=THE%20POWER%20OF%20LOVE%20I%20Der%20Heilige%20Pfad%20der%2013%20Clanm%C3%BCtter
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

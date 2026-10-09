@@ -42,6 +42,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: CONNECT FIRST Professional – Kommunikation, Verkauf und Führ Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/723002
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CONNECT%20FIRST%20Professional%20%E2%80%93%20Kommunikation%2C%20Verkauf%20und%20F%C3%BChr
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

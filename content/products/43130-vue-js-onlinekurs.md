@@ -52,6 +52,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> You want to dive into Vue X and learn the philosophy behind Vue X and all the important basics you need to know? In this online course you will find the perfect mix of theory and hands on. We will show you the core concepts of VueX and also get you into the code.
+> You want to dive into Vue X and learn the philosophy behind Vue X and all the important basics you need to know? In this online course you will find the perfect mix of theory and hands on. We will show you the core concepts of VueX and also get you into the code.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43130-g1.webp
+- assets/products/43130-g2.webp
+- assets/products/43130-g3.webp
+- assets/products/43130-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Vue JS Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/445691
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vue%20JS%20Onlinekurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

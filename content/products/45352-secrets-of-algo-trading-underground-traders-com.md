@@ -62,6 +62,12 @@
 
 - assets/products/45352-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/502326
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SECRETS%20OF%20ALGO-TRADING%20-%20UNDERGROUND-TRADERS.COM
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

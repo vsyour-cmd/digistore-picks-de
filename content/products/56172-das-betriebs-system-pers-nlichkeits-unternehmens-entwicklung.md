@@ -69,6 +69,12 @@
 - assets/products/56172-g3.webp
 - assets/products/56172-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/650717
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Betriebs-System%3APers%C3%B6nlichkeits%2BUnternehmens-Entwicklung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

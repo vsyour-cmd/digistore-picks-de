@@ -51,6 +51,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> MODUL 1: Schnell hässliche Kratzer entfernen. SOFORT UMSETZBAR Technische Grundlagen und Schnellstart Praxisteil. Du bekommst unsere detailierte ProfiStrategie mit allen Schritt-für-Schritt Anleitungenzur Kratzerbeseitigung/Lackkorrektur, Scheinwerferaufbereitung mit allen wichtigen Zusatzangeboten und Oberflächenveredelung, damit du schnell zufriedene Kunden bekommst.
+> MODUL 2: Schnell profitabel. EXPERTENWISSEN Betriebswirtschaftliche Grundlagen und alle Angebote mitgenauen Anleitungen, die du deinen zukünftigen Kunden anbieten kannst, einen soliden Businessplan, Kostenkalkulationen für deine Angebote, Liquiditätsplanung und Preissstrategien, damit du sofort und profitabel loslegen kannst.
+> Modul 1: Schnelle Kratzerbeseitigung und Lackkorrektur. Du bekommst unsere detailierte ProfiStrategie mit allen Schritt-für-Schritt Anleitungenzur Lackkorrektur, Kratzerbeseitigung, Scheinwerferaufbereitung und Oberflächenverdedelung. Zusätzlich mit allen wichtigen Zusatzangeboten für garantierte Wertsteigerung, damit dein Umsatz stimmt und deine Kunden zufrieden sind.
+
+### 3c. Cautions
+
+> MODUL 5: ALLE VORLAGEN DABEI! Alle geschäftlichen Vorlagen inklusive. Du erhältst zudem alle rechtlichen Hinweise um dein Business problemlos zu starten und alle wichtigen Vorlagen wie Flyer, Angebote, Rechnungen, Social Media Vorlagen und wichtige Tipps zu Sicherheitsvorkehrungen und Versicherungen, damit du keine wertvolle Zeit verlierst.
+> Modul 5: Rechtliche Hinweise und alle geschäftlichen Vorlagen. Du erfährst alles zu rechtlichen Grundlagen um dein Business problemlos zu starten und bekommst alle wichtigen Vorlagen wie Flyer, Angebote, Rechnungen, Social Media Vorlagen und wichtige Tipps zu Sicherheitsvorkehrungen und Versicherungen, damit du keine wertvolle Zeit verlierst.
+> Modul 6: Bonus & Insider Tipps: Du bekommst exklusive Checklisten damit du nichts vergisst, Materiallisten zu günstigen aber erprobten und zuverlässigen Produkten, Video-Tutorials und eine wertvolle Liste mit allen wichtigen Kontakten zu bereit gestellten öffentlichen Fördermitteln, falls du expandieren und dein Business auf das nächste Level bringen möchtest.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52112-g3.webp
+- assets/products/52112-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Profistarter Kurs: Fahrzeug-Beauty Consultant Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/607630
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profistarter%20Kurs%3A%20Fahrzeug-Beauty%20Consultant
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

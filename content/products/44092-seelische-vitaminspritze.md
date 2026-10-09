@@ -62,6 +62,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Stelle dir mal bitte folgendes vor: Ich komme zu dir nach Hause... und zeige dir Schritt für Schritt wie du dein Unterbewusstsein umprogrammieren kannst, um somit mehr Glück, Erfolg und Lebensfreude in dein Leben zu ziehen. Was würdest du dazu sagen? Klingt verrückt, ja vielleicht auch etwas unglaubwürdig, doch weißt du was? Das geht sehr gut und sogar schneller als du jetzt noch denkst!
+
+### 3c. Cautions
+
+> Im Sommer 2020 wurde Dejan Sekulic ganz offiziell f&uuml;r seine Expertise, die Potentialentfaltung und Selbstmotivation vom ERFOLG Magazin ausgezeichnet. Beim Erfolg Magazin versammeln sich die wichtigsten Experten aus Deutschland, &Ouml;sterreich und der Schweiz im Zirkel der TOP Experten. Dejan Sekulic liebt es, sein Wissen weiterzugeben, um den Menschen dadurch zu mehr Erfolg, Gl&uuml;ck und Lebensfreude zu verhelfen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44092-g1.webp
+- assets/products/44092-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Seelische Vitaminspritze Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/296427
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Seelische%20Vitaminspritze
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -60,6 +60,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Danach beantworten wir deine Fragen. Zum Schluss bekommst du einen Schritt, den du in den nächsten 30 Tagen umsetzt.
+> Zum Schluss fassen wir zusammen und nennen dir einen Schritt für die nächsten 30 Tage.
+> Wie viel Zeit brauche ich? Ein Live Call pro Monat, in der Regel 60 bis 90 Minuten. Am Ende bekommst du einen Schritt für die nächsten 30 Tage. Wie viel Zeit du ins Umsetzen steckst, entscheidest du.
+
+### 3c. Cautions
+
+> Ehrlicher Hinweis: Die ProvenExpert-Bewertungen gehören zu Profit Buddies insgesamt, also zu Kursen, Live-Treffen und Support. Das Zitat von Maren stammt aus dem Mitglieder-Chat.
+> Hinweis: Wir geben keine Einkommens- oder Erfolgsgarantie. Ob und in welcher Höhe du Einnahmen erzielst, hängt von deinem eigenen Einsatz ab. Die genannten Umsatzzahlen sind unsere eigenen Ergebnisse und keine Zusage für deine Ergebnisse.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Profit Buddies Cash Club (einmalig im DACH Raum) | Partnerpr Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/475313
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profit%20Buddies%20Cash%20Club%20(einmalig%20im%20DACH%20Raum)%20%7C%20Partnerpr
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

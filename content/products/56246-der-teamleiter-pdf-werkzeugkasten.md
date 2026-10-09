@@ -49,6 +49,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Teamleiter Werkzeugkasten unterstützt Sie bei den typischen Herausforderungen zwischen Tagesgeschäft, Teamführung und operativen Störungen. Jedes Modul enthält praxisnahe Impulse, Vorlagen und Checklisten zur direkten Anwendung.
+> Überführen Sie gute Vorsätze in klare Routinen, Zuständigkeiten und überprüfbare nächste Schritte.
+> Aus Ihren Angaben erstelle ich eine übersichtliche Checkliste mit klaren Schritten, Zuständigkeiten, Prüfpunkten und möglichen Risiken. Sie erhalten eine praxistaugliche Grundlage, die Ihr Team im Arbeitsalltag direkt nutzen, testen und bei Bedarf weiterentwickeln kann.
+
+### 3c. Cautions
+
+> Sie schaffen klarere Zuständigkeiten, dokumentieren wichtige Punkte nachvollziehbar und reduzieren unnötige Rückfragen im Team. Entwickelt für Teamleiter in Handwerk, Service und Industrie.
+> Praktische Vorlagen unterstützen dabei, wichtige Informationen zwischen Schichten, Teams oder Kollegen strukturiert weiterzugeben.
+> Bitte tragen Sie die wichtigsten Informationen so konkret wie möglich ein. Auf dieser Basis kann ich die erste strukturierte Checkliste erstellen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56246-g1.webp
+- assets/products/56246-g2.webp
+- assets/products/56246-g3.webp
+- assets/products/56246-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der Teamleiter PDF Werkzeugkasten Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/684407
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Teamleiter%20PDF%20Werkzeugkasten
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

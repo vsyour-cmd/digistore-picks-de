@@ -53,6 +53,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Doch eines ist für uns alle gleich. Niemand ist mit der Gitarre in der Hand aus dem Mutterleib geschlüpft. Jeder einzelne Profi hat irgendwann genau den selben Schritt gewagt, denn du heute gehst: Seinen ersten Akkord greifen und die erste Saite zupfen. Und bei manchen Menschen ist es Liebe auf den ersten Griff.
+> Deshalb habe ich einen großen Schritt gewagt: Meine jahrzehntelange Erfahrung zu einem einzigartigen "Lernsystem für Gitarre" zu entwickeln. Die besten Methoden auf verständliche Weise zu erklären und echte Begeisterung bei dir zu wecken. Viele tausend Gitarrenstunden mit unzähligen Schülern haben dazu beigetragen, die beste Methode zu entwickeln, die du als Einsteiger zu deinem Vorteil nutzen kannst.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/4809-g1.webp
+- assets/products/4809-g2.webp
+- assets/products/4809-g3.webp
+- assets/products/4809-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Gitarre Lernen in 4 Wochen Crashkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/33329
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gitarre%20Lernen%20in%204%20Wochen%20Crashkurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

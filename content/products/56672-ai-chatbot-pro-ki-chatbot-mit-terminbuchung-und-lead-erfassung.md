@@ -64,6 +64,12 @@
 - assets/products/56672-g2.webp
 - assets/products/56672-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/691074
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20ChatBot%20Pro%20%E2%80%93%20KI-Chatbot%20mit%20Terminbuchung%20und%20Lead-Erfassung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

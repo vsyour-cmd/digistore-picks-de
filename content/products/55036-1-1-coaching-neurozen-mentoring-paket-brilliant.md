@@ -55,6 +55,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 1:1 Coaching / NeuroZen® Mentoring Paket "BRILLIANT" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/643829
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%3A1%20Coaching%20%2F%20NeuroZen%C2%AE%20Mentoring%20Paket%20%22BRILLIANT%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

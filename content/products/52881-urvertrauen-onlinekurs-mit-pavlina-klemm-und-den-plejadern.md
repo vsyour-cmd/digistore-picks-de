@@ -53,6 +53,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> »Das Thema ›Urvertrauen‹ ist in dieser Zeit besonders wichtig. Denn wir leben in einer magischen Zeit voller Veränderung und voller Möglichkeiten. Aber es ist nicht immer einfach. Es ist durch Manipulation viel Unsicherheit im Feld. Deswegen ist dieser Kurs entstanden, um Dich bei der Erweckung Deines Urvertrauens zu begleiten und zu unterstützen. Ich freue mich sehr, wenn Du diesen Weg gemeinsam mit mir gehst!« Deine Pavlina Klemm
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/610784
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Urvertrauen%20-%20Onlinekurs%20mit%20Pavlina%20Klemm%20und%20den%20Plejadern
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

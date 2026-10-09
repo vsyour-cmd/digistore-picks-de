@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Akupressur Onlinekurs – 33 + 2 Punkte sicher anwenden anlegen. Titel und Description in den SEO-Feldern von WebSite X5 eintragen (siehe Anleitung). Vorhandenes Canonical und manuelle Open-Graph-/Twitter-Blöcke ersetzen. Auch automatisch erzeugte OG-Werte in X5 angleichen; keine widersprüchlichen Duplikate. -->
+> Entdecke im Akupressur Onlinekurs 33 + 2 Punkte für dich. Ich zeige dir Schritt für Schritt, wie du sie findest und mit den Händen anwendest.
+> Du beginnst mit Orientierung und Grundlagen. Danach übst du die Punktlokalisation, lernst Stimulationstechniken kennen und verbindest einzelne Punkte zu Anwendungen. Im großen Praxis-Workshop werden alle 33 + 2 Punkte Schritt für Schritt vorgestellt.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55061-g2.webp
+- assets/products/55061-g3.webp
+- assets/products/55061-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Punktgenau Akupressur + Akupunktur – Fundiert, Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/651221
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Punktgenau%20Akupressur%20%2B%20Akupunktur%20%E2%80%93%20Fundiert%2C%20Alltag
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

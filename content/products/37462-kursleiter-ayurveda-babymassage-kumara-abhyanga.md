@@ -57,6 +57,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wolfgang Neutzler zeigt dir Schritt für Schritt, wie diese sanften Berührungen wirken – mit seiner langjährigen Erfahrung in Ayurveda und seiner besonderen Art, Wissen verständlich und praxisnah zu vermitteln.
+> Du gewinnst Sicherheit im Umgang mit Berührung. Klare Anleitungen und strukturierte Abläufe geben dir Vertrauen in deine Anwendung.
+> Im folgenden Abschnitt findest du Antworten auf häufige Fragen, damit du mit Klarheit und Vertrauen entscheiden kannst, ob dieser Kurs für dich – und vielleicht auch für viele Eltern – der richtige nächste Schritt ist.
+
+### 3c. Cautions
+
+> Die Sensibilität der Haut ist eine der am frühesten entwickelten und wichtigsten Körperfunktionen
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37462-g1.webp
+- assets/products/37462-g2.webp
+- assets/products/37462-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/364175
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kursleiter%20Ayurveda-Babymassage%20%E2%80%93%20Kumara-Abhyanga
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

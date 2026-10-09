@@ -46,6 +46,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/702688
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GZ%20Survival%20Kompass%20%E2%80%93%209%20Survival-Apps%20offline%2C%20f%C3%BCr%2017%2C90%E2%82%AC%20ei
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

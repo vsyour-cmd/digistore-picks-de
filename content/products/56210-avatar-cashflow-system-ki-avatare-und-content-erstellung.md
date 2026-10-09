@@ -59,6 +59,12 @@
 - assets/products/56210-g1.webp
 - assets/products/56210-g2.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/680591
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AVATAR%20CASHFLOW%20SYSTEM-KI%20Avatare%20und%20Content-Erstellung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

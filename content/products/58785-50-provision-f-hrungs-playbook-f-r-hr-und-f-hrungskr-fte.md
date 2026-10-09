@@ -50,6 +50,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Ralph Strobel — Organisationsarchitekt, Executive Consultant & Interim Manager. 70+ Mandate, über 2.300 begleitete Fach- und Führungskräfte.
+> Ralph Strobel — Organisationsarchitekt, Executive Consultant & Interim Manager. 70+ Mandate, über 2.300 begleitete Fach- und Führungskräfte.
+> Ralph Strobel — Organisationsarchitekt, Executive Consultant & Interim Manager. 70+ Mandate, über 2.300 begleitete Fach- und Führungskräfte.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58785-g1.webp
+- assets/products/58785-g2.webp
+- assets/products/58785-g3.webp
+- assets/products/58785-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 50 % Provision: Führungs-Playbook für HR und Führungskräfte Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/692790
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20Provision%3A%20F%C3%BChrungs-Playbook%20f%C3%BCr%20HR%20und%20F%C3%BChrungskr%C3%A4fte
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

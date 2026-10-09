@@ -60,6 +60,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> TopTen-Google-Platzierungen für praktisch alle wichtigen Keywords (Rasenroboter, Automower, usw…) ==> zur Live-Abfrage ==> hier klicken
+> Wichtig: Wenn Sie bereits gelistet sind, dann bitte nicht erneut buchen!! 300,00 Euro zzgl. Mwst. / Jahr zur Buchung ==> hier klicken
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Listung auf Rasenroboter-Händlerseite Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/191677
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Listung%20auf%20Rasenroboter-H%C3%A4ndlerseite
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

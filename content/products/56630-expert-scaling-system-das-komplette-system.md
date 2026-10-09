@@ -62,6 +62,12 @@
 - assets/products/56630-g2.webp
 - assets/products/56630-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Expert Scaling System — Das komplette System Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/623140
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Expert%20Scaling%20System%20%E2%80%94%20Das%20komplette%20System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

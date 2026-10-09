@@ -51,6 +51,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The learning units allow you to internalize the knowledge step by step.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53910-g2.webp
+- assets/products/53910-g3.webp
+- assets/products/53910-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Shopmanagement-Kurs speziell für Tattoo und Piercing Studios Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/609856
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Shopmanagement-Kurs%20speziell%20f%C3%BCr%20Tattoo%20und%20Piercing%20Studios
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

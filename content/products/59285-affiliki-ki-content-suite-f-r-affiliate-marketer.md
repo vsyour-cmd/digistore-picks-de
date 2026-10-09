@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Wie bekomme ich einen Anthropic API-Key? ▼ Geh auf console.anthropic.com , erstelle einen kostenlosen Account und lade dein Guthaben auf (ab ca. €5 möglich). Den API-Key trägst du dann einmalig in AffiliKI ein — fertig. Eine Schritt-für-Schritt-Anleitung liegt dem Kauf bei. Kreditkarte wird bei Anthropic benötigt.
+> Was bekomme ich nach dem Kauf? ▼ Sofort nach dem Kauf erhältst du einen Download-Link für die AffiliKI.exe plus eine Schritt-für-Schritt-Anleitung für die Einrichtung des API-Keys. Du bist in unter 5 Minuten startklar.
+> AffiliKI ist eine Einmalzahlung — aber das Tool nutzt die KI von Anthropic (Claude). Dafür brauchst du einen eigenen Anthropic-Account: Die Anmeldung ist kostenlos, das Guthaben lädst du per Kreditkarte auf — für die meisten Affiliates reichen €5–20 pro Monat (läuft separat über Anthropic, nicht über uns). Anleitung liegt dem Kauf bei.
+
+### 3c. Cautions
+
+> 🚀 Entdecke unseren Online-Kurs für Excel-Profis! Lerne wichtige Fähigkeiten und verbessere deine Karriere. Jetzt anmelden und durchstarten! #Excel #Onlinekurs #Weiterbildung
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59285-g1.webp
+- assets/products/59285-g2.webp
+- assets/products/59285-g3.webp
+- assets/products/59285-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AffiliKI – KI-Content-Suite für Affiliate-Marketer Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/719411
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AffiliKI%20%E2%80%93%20KI-Content-Suite%20f%C3%BCr%20Affiliate-Marketer
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

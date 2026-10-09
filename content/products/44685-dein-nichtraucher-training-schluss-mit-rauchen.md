@@ -63,6 +63,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Rauchen aufhören - sofort - Schritt für Schritt Anleitung Onlinekurs - Rauchen aufhören - sofort - Schritt für Schritt Anleitung Onlinekurs
+> Ich weiß, dass dieses System, welches in diesem Trainingsprogramm enthalten ist, auch dich Schritt für Schritt an dein Ziel – für immer Nichtraucher werden und bleiben - führen kann und wird.
+> Wenn du meine Schritt-f&uuml;r-Schritt Anleitung ausdr&uuml;cklich befolgst, dann kannst du nur Erfolg haben! Versprochen!
+
+### 3c. Cautions
+
+> Im Sommer 2020 wurde Dejan Sekulic ganz offiziell f&uuml;r seine Expertise, die Potentialentfaltung und Selbstmotivation vom ERFOLG Magazin ausgezeichnet. Beim Erfolg Magazin versammeln sich die wichtigsten Experten aus Deutschland, &Ouml;sterreich und der Schweiz im Zirkel der TOP Experten. Dejan Sekulic liebt es, sein Wissen weiterzugeben, um den Menschen dadurch zu mehr Erfolg, Gl&uuml;ck und Lebensfreude zu verhelfen.
+> Also ich muss schon sagen ich bin froh und dankbar, dass ich seit &uuml;ber einem Jahr zum Nichtraucher geworden bin und das alles ohne Arzt, Tabletten, Pflaster usw, sondern rein durch das Befolgen von Dejans Anweisungen. Hut ab, wie er das Schritt f&uuml;r Schritt einfach und verst&auml;ndlich in diesem Trainingsprogramm beschreibt. Grosses Dankesch&ouml;n und Lob an Dejan. Mein Rat an alle Raucher: Selber versuchen, du kannst nur als Gewinner hervorgehen!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44685-g1.webp
+- assets/products/44685-g2.webp
+- assets/products/44685-g3.webp
+- assets/products/44685-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Dein Nichtraucher Training - Schluss mit Rauchen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/327046
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Nichtraucher%20Training%20-%20Schluss%20mit%20Rauchen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

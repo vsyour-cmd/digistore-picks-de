@@ -57,6 +57,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> ACHTUNG: Diese Kurs-Version ist speziell für Frauen gedacht, die bereits einen Kaiserschnitt hatten. Falls es dein 1. Kaiserschnitt ist, besuche bitte → DIESE Seite ← .
+> Da es sich um einen Selbstlernkurs handelt und personenspezifische medizinische bzw. gesundheitsbezogene Fragen in diesem Rahmen nicht behandelt werden können und dürfen, ist eine Beantwortung leider nicht möglich. Aus Haftungsgründen richte deine Frage bitte immer an deine Gesundheitsdienstleister (Arzt, Hebamme etc.).
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57043-g2.webp
+- assets/products/57043-g3.webp
+- assets/products/57043-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/697892
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mein%20n%C3%A4chster%20Kaiserschnitt%20%E2%80%93%20Online%20Geburtsvorrbereitung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

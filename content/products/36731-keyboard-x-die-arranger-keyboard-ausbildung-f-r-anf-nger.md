@@ -52,6 +52,12 @@
 - assets/products/36731-g3.webp
 - assets/products/36731-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/12411
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KEYBOARD%20X%20-%20Die%20Arranger%20Keyboard%20Ausbildung%20f%C3%BCr%20Anf%C3%A4nger
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

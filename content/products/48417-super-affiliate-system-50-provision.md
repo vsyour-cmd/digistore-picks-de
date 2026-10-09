@@ -73,6 +73,12 @@
 > Achtung: in jedem Paket inklusive. Die Lifetime-Variante kostet einmalig 999 € – über 5 Jahre Nutzung gerechnet ist das in der Maximal-Variante ein Bruchteil des theoretischen Einzelkauf-Marktwerts.
 > Disclaimer: Reine Beispielrechnung. Tatsächliche Forum-Volumen schwanken pro Plattform, individuelle Linkpreise variieren stark. Die Berechnung dient als Größenordnung, nicht als garantierter Ertrag.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Super Affiliate System - 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/228247
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Super%20Affiliate%20System%20-%2050%25%20Provision
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

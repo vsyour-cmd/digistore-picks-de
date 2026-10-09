@@ -63,6 +63,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sowohl für Fortgeschrittene, als auch für Anfänger geeignet . Grundlagen werden fundiert beigebracht und Schritt für Schritt erweitert
+> In meinem Kurs „Singen lernen“ zeige ich dir schrittweise, wie du deine Stimme ausbilden kannst. Vorkenntnisse brauchst du keine. Wir beginnen bei Null. Ich bringe dir alles bei, was wichtig ist – Noten, Notenwerte, Takte, Harmonielehre und was du über Stimmbildung wissen musst.
+> In diesem Kurs lernst du innerhalb kurzer Zeit deine Stimme zu einer großartigen Singstimme auszubilden. Wir beginnen mit dem ersten Üben von Tonleitern und gehen Schritt für Schritt weiter, bis du reif für die Bühne bist .
+
+### 3c. Cautions
+
+> Finale: Beim Singen lernen hängt alles miteinander zusammen. Wir wiederholen das Wichtigste, was du in diesem Jahr gelernt hast an einem schönen Stück.
+> DigiStore24 ist eine in Deutschland ansässige Affiliate- und Bezahlplattform, die sich auf digitale Produkte spezialisiert hat. Hunderte von Internetmarketern haben DigiStore24 als Partner gewählt, weil sie wissen wie wichtig es ist einen seriösen Zahlungsanbieter zu haben, der auch einen guten Support liefert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35195-g1.webp
+- assets/products/35195-g2.webp
+- assets/products/35195-g3.webp
+- assets/products/35195-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Singen lernen- Kurs mit Susanna Proskura Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/394849
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Singen%20lernen-%20Kurs%20mit%20Susanna%20Proskura
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

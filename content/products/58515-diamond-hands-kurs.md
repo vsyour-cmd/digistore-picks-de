@@ -51,6 +51,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Kostenloses Live-Webinar: Erfahre, warum viele Frauen jahrelang sparen und trotzdem Kaufkraft verlieren , und wie du Bitcoin verständlich, sicher und Schritt für Schritt für deinen langfristigen Vermögensaufbau nutzen kannst.
+> Ohne Vorwissen, ohne riskante Strategien, Schritt für Schritt erklärt.
+> In einfachen Schritten und ganz unkompliziert. Mit dem Ziel: Rentenlücke füllen und finanziell unabhängig werden.
+
+### 3c. Cautions
+
+> Hinweis: Die Inhalte dieser Masterclass dienen der allgemeinen Information und Bildung. Sie stellen keine Anlageberatung, Steuerberatung oder Kaufempfehlung dar. Investitionen in Kryptowährungen und andere Vermögenswerte sind mit Risiken verbunden, bis hin zum Totalverlust des eingesetzten Kapitals. Vergangene Wertentwicklungen sind kein Hinweis auf zukünftige Ergebnisse. Triff deine Entscheidungen eigenverantwortlich.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58515-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Diamond Hands Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/680424
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Diamond%20Hands%20Kurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

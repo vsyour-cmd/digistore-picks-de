@@ -57,6 +57,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Es ist Zeit, aktiv zu werden! Mache den nächsten Schritt und lerne, wie man am Forex-Markt handelt.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/42133-g1.webp
+- assets/products/42133-g2.webp
+- assets/products/42133-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der ultimative FOREX Trading Kurs: Währungshandel von A-Z Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/467934
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20ultimative%20FOREX%20Trading%20Kurs%3A%20W%C3%A4hrungshandel%20von%20A-Z
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

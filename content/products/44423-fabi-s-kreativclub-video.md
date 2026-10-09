@@ -50,6 +50,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mein Ziel ist es, Kinder zu animieren etwas ohne Anleitungen zu kreieren. Sie werden somit aktiv und lassen sich nicht in die Passivität digitaler Medien ziehen.
+
+### 3c. Cautions
+
+> Kreative Auszeiten kommen leider viel zu kurz, dabei wäre es besonders wichtig den Kindern eine Pause vom tristen und trotzdem stressigen Alltag zu geben und Freiräume für ihre kreative Entfaltung zu schaffen.
+> Dein Kind wird spielerisch in der Entwicklung von vielen wichtigen Fähigkeiten gefördert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44423-g2.webp
+- assets/products/44423-g3.webp
+- assets/products/44423-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: FABI's Kreativclub "Video" Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/466465
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FABI's%20Kreativclub%20%22Video%22
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

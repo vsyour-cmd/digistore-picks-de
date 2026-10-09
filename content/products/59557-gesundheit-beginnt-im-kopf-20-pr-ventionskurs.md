@@ -61,6 +61,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Im diesem Onlinekurs begleite ich dich acht Wochen lang dabei, diese drei Gesundheits-Schl&uuml;ssel in dein Leben zu integrieren &ndash; mit kleinen, machbaren Schritten, die wirklich Wirkung zeigen.
+> Es ist eine 8‑w&ouml;chige Reise zur&uuml;ck zu dir &ndash; in kleinen Schritten, die sich gut anf&uuml;hlen. Mit sanfter Orientierung und Methoden , die wissenschaftlich fundiert sind und im echten Alltag funktionieren .
+> 8 aufeinander aufgebaute Wochen-module, die dich Schritt f&uuml;r Schritt durch deine Ver&auml;nderung begleiten.
+
+### 3c. Cautions
+
+> Du erforschst deine Werte & inneren Bed&uuml;rfnisse und erkennst, was dir wirklich wichtig ist. ​
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59557-g1.webp
+- assets/products/59557-g2.webp
+- assets/products/59557-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Gesundheit beginnt im Kopf - §20 Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/702652
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gesundheit%20beginnt%20im%20Kopf%20-%20%C2%A720%20Pr%C3%A4ventionskurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -56,6 +56,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 % Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/736582
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Business-Komplettpaket%20%E2%80%93%20alle%2016%20Praxiskurse%20mit%20Matze%20%7C%2040%20%25
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

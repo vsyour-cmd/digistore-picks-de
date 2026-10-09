@@ -52,6 +52,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Sie wollen mehr Deals abschließen, Kunden begeistern und Ihren Umsatz steigern – ganz ohne Zeitdruck und ohne Abo? Mit diesem KI-gestützten Selbstlernpaket verinnerlichen Sie das Gelernte nachhaltig und wenden es Step by Step im Vertriebsalltag an – genau dann, wenn Sie bereit sind!
+> ▸ 124+ PRAXIS-MODULE Schritt-für-Schritt-Anleitungen ohne Theorie-Ballast
+> Kann ich die Reihenfolge selbst bestimmen? Ja! Sie lernen in Ihrem eigenen Tempo und springen frei zwischen allen Modulen – ohne Überforderung, Step by Step.
+
+### 3c. Cautions
+
+> Hinweis: Flexibel lernen – ohne Bürokratie: Dieser Kurs unterliegt nicht dem FernUSG, weil Sie selbst bestimmen, wann und wie Sie lernen. Keine systematische Lernkontrolle durch uns. So sparen wir Kosten und geben diesen Vorteil gerne an Sie weiter.
+> Hinweis : Unsere KI-gestützten Selbstlernkurse (40–200 €) nutzen digitale Avatare sparsam für allgemeine Informationen. Der Lernerfolg wird durch den bewährten Dreiklang Wissen – Verstehen – Prägen erzielt – mit interaktiven Übungen als zentralem Game Changer, die das Gelernte im Unterbewusstsein verankern. Bitte prüfen Sie vor dem Kauf die Kursbeschreibung auf Ihren individuellen Nutzen.
+> Hinweis: Flexibel lernen – ohne Bürokratie: Dieser Kurs unterliegt nicht dem FernUSG, weil Sie selbst bestimmen, wann und wie Sie lernen. Keine systematische Lernkontrolle durch uns. So sparen wir Kosten und geben diesen Vorteil gerne an Sie weiter.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56884-g1.webp
+- assets/products/56884-g2.webp
+- assets/products/56884-g3.webp
+- assets/products/56884-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Abschlussgarant Selbstlernkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/625312
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abschlussgarant%20Selbstlernkurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

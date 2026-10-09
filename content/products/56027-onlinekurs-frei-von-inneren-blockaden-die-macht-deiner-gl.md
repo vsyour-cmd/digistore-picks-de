@@ -42,6 +42,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/650491
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%3A%C2%A0%20Frei%20von%20inneren%20Blockaden%20%20Die%20Macht%20deiner%20Gl
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

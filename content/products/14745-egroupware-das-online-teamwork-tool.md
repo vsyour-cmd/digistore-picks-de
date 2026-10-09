@@ -67,6 +67,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Support via Ticketsystem Zugang zur EGroupware Support-Plattform MyEGroupware: Anwendungs-Support inklusive Fragen zu generellen Features und Funktionen über MyEGroupware
+> Zugang zur EGroupware Support-Plattform MyEGroupware Anwendungs-Support inklusive Fragen zu generellen Features und Funktionen über MyEGroupware Zusätzliche Support-Budgets empfehlen wir für Training und Beratung
+> Stellen Sie Ihr EGroupware Cloud Paket mit unserem Konfigurator individuell zusammen. Die Buchung erfolgt erst im nächsten Schritt. Alle Preise sind zzgl. MwSt. Hier finden Sie die Unterschiede zwischen der CE und der EPL Version.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: EGroupware - Das Online Teamwork Tool Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/164599
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=EGroupware%20-%20Das%20Online%20Teamwork%20Tool
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

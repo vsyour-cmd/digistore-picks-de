@@ -66,6 +66,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ein Cajon und ein Gerät mit Internetverbindung. Vorkenntnisse oder Erfahrung brauchst du nicht, wir beginnen Schritt-für-Schritt von vorne.
+> Mit dem Kurs bekommst du eine Cajon Schule zu dir nach Hause. Spannende Theorie, damit du das Instrument verstehst. Viel Praxis – denn davon kann es nie genug sein. Abwechslung, Groove, Rock und Pop. Schritt-für-Schritt begleitet dich dieser Kurs vom Anfänger bis zur Bühne. Vom ersten rhythmischen Trommeln bis zu kräftigem, satten Sound.
+
+### 3c. Cautions
+
+> wie du auf der Cajon richtig sitzt, denn eine gute Haltung ist wichtig.
+> DigiStore24 ist eine in Deutschland ansässige Affiliate- und Bezahlplattform, die sich auf digitale Produkte spezialisiert hat. Hunderte von Internetmarketern haben DigiStore24 als Partner gewählt, weil sie wissen wie wichtig es ist einen seriösen Zahlungsanbieter zu haben, der auch einen guten Support liefert.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/27839-g1.webp
+- assets/products/27839-g2.webp
+- assets/products/27839-g3.webp
+- assets/products/27839-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Cajon lernen mit Peter Lorson Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/392303
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cajon%20lernen%20mit%20Peter%20Lorson
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

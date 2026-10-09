@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Von der Installation über Signal-Modi bis zum Performance-Dashboard : In 8 kurzen Erklärvideos siehst Du Schritt für Schritt, wie Du den Fibo Cross einrichtest, verstehst und im TradingView-Chart sinnvoll einsetzt. Ideal, wenn Du den Indikator nicht nur kaufen, sondern auch sicher und strukturiert nutzen willst.
+> Du erhältst eine klare Anleitung zur Einrichtung , damit Du den Fibo Cross ohne unnötige Hürden in TradingView nutzen kannst.
+> Die Anwendung ist einfach. Du klickst bei einem geöffneten Chart-Fenster auf Indikatoren & Strategien und anschließend auf Auf Einladung Skripte . Fertig!
+
+### 3c. Cautions
+
+> Hier beantworten wir die wichtigsten Fragen rund um Einrichtung, Nutzung, Signale und Einstellungen .
+> Hier findest Du die wichtigsten Antworten rund um Nutzung, Freischaltung, Update 2026 und TradingView .
+> Dann schreibe uns gerne eine E-Mail. Unser Support-Team beantwortet deine offenen Fragen persönlich. Uns ist wichtig, dass du klare Entscheidungen treffen kannst, die dich weiterbringen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33792-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: FiboCross | TradingView Indikator Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/305369
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FiboCross%20%7C%20TradingView%20Indikator
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

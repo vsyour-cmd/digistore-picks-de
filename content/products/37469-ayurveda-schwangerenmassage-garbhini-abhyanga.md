@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du kannst eine besonders geschätzte Anwendung im Ayurveda-Zentrum anbieten. Garbhini-Abhyanga gilt als sanfte, nährende Massageform, die viele Schwangere als tief entspannend erleben.
+> Vielleicht möchtest du noch mehr über Voraussetzungen, Sicherheitsaspekte oder Anwendungsbereiche erfahren.
+> Im folgenden Abschnitt findest du Antworten auf häufige Fragen, damit du mit Klarheit und Vertrauen entscheiden kannst, ob diese besondere Form der ayurvedischen Massage dein nächster Schritt ist – im professionellen Kontext oder im persönlichen Umfeld.
+
+### 3c. Cautions
+
+> Q&A - Antworten zu wichtigen Fragen zu diesem Fachseminar "Ayurveda-Schwangerenmassage"
+> Ja, die Module sind so aufgebaut, dass Du das Hintergrund-Wissen bekommst zum Thema Schwangerschaft, die Grundlagen des Ayurveda mitbekommst und die Massage qualifiziert über Videos stufenweise erlernst. Übungs ist natürlich wichtig damit Du Routine bekommst
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37469-g1.webp
+- assets/products/37469-g2.webp
+- assets/products/37469-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ayurveda-Schwangerenmassage – Garbhini-Abhyanga Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/364181
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ayurveda-Schwangerenmassage%20%E2%80%93%20Garbhini-Abhyanga
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

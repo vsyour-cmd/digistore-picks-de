@@ -69,6 +69,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mit &bdquo;Zaubern f&uuml;r Kids" entdeckt dein Kind Woche f&uuml;r Woche ein neues Zauberprojekt. Manche Tricks k&ouml;nnen direkt ge&uuml;bt werden, bei anderen wird zun&auml;chst ein einfaches Requisit gebastelt. Verst&auml;ndliche Videos f&uuml;hren Schritt f&uuml;r Schritt durch Vorbereitung, Geheimnis und Vorf&uuml;hrung.
+> Anschlie&szlig;end wird das Geheimnis Schritt f&uuml;r Schritt erkl&auml;rt.
+> Kindgerechte Erkl&auml;rungen in &uuml;berschaubaren Schritten
+
+### 3c. Cautions
+
+> Mir war wichtig, die Erkl&auml;rungen so aufzubauen, dass Kinder m&ouml;glichst viel selbst nachvollziehen k&ouml;nnen.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/8619-g1.webp
+- assets/products/8619-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Zauberkurs für Kids Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/58279
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zauberkurs%20f%C3%BCr%20Kids
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -54,6 +54,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Seit über 11 Jahren helfe ich Gartenbesitzern dabei, aus frustrierenden Gärten wunderschöne Wohlfühlorte zu schaffen. Und weißt du was? Gärtnern ist wie italienisch kochen. Nicht kompliziert. Nicht theoretisch. Nicht für „Naturgenies“. Es braucht nur: ein paar wenige, richtig gute Pflanzen, ein einfaches, bewährtes System, und den Mut, Fehlkäufe ein für alle Mal zu beenden. Ich zeige dir Schritt für Schritt, wie dein Garten endlich so schön wird, wie du ihn dir schon so lange vorstellst.
+> Keine Vorkenntnisse nötig – einfach starten. Schritt für Schritt zu fertigen Beeten, sicheren Pflanzlisten und einem Garten, der dich wirklich glücklich macht.
+> Alle 5 Module als Videolektionen, in denen ich dich durch die 5 Schritte führe.
+
+### 3c. Cautions
+
+> 5. Ab ins Beet Pflanzen, pflegen, genießen. Deine Beete sind angelegt – und du weißt, was wann wirklich wichtig ist.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/45629-g1.webp
+- assets/products/45629-g2.webp
+- assets/products/45629-g3.webp
+- assets/products/45629-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Blütengarten Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/518323
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bl%C3%BCtengarten%20Onlinekurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

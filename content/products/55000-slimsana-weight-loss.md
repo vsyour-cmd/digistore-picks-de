@@ -69,6 +69,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Der Schlüssel liegt in einer präzisen Kombination von 11 wissenschaftlich erforschten Inhaltsstoffen, die in exakter Dosierung Ihre körpereigene "Sättigungs-Software" umprogrammieren.
+> Keine komplizierten Schritte. Keine invasiven Methoden. Keine Terminprobleme. Keine Wartelisten.
+> Der Schlüssel liegt in einer präzisen Kombination von 11 wissenschaftlich erforschten Inhaltsstoffen, die in exakter Dosierung Ihre körpereigene "Sättigungs-Software" umprogrammieren.
+
+### 3c. Cautions
+
+> A: Bei Diabetes-Medikamenten oder Blutverdünnern konsultieren Sie bitte Ihren Arzt, da Berberin und Chrom die Blutzuckerwerte beeinflussen können. Für gesunde Erwachsene ist SlimSana unbedenklich.
+> A: Ja. Berberin und Chrom unterstützen eine gesunde Stoffwechselfunktion, was für das Gewichtsmanagement wichtig ist. Unsere Kunden sind über 45 und berichten von ausgezeichneten Ergebnissen.
+> A: Komplett diskret. Neutrale Verpackung ohne Hinweis auf Abnehm-Produkt. Ihr Nachbar erfährt nichts von Ihrer Transformation.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: SlimSana Weight Loss Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/651454
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SlimSana%20Weight%20Loss
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

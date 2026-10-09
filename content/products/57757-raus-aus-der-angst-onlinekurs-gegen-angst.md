@@ -51,6 +51,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Dein erster Schritt zurück in mehr Sicherheit und Lebensqualität
+> Raus aus der Angst ist eine strukturierte Begleitung, die Dich Schritt für Schritt auf Deinem Weg unterstützt und Dir hilft, Dein Leben Stück für Stück zurückzugewinnen.
+> Dieser Kurs unterstützt Dich dabei, zu verstehen, was bei Angst und Panik in Deinem Körper geschieht, warum sich die Symptome oft so bedrohlich anfühlen und wie Du Schritt für Schritt wieder mehr Sicherheit entwickeln kannst.
+
+### 3c. Cautions
+
+> Der Kurs vermittelt Dir verständlich und praxisnah die wichtigsten Grundlagen für Deinen weiteren Weg.
+> Gemeinsam besprechen wir Deine Fragen in Ruhe und schauen, ob der Kurs für Dich im Moment der richtige Weg ist. Mir ist wichtig, dass Du eine Entscheidung triffst, mit der Du Dich wohlfühlst.
+> Der Kurs vermittelt Dir verständlich und praxisnah die wichtigsten Grundlagen für Deinen weiteren Weg.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57757-g1.webp
+- assets/products/57757-g2.webp
+- assets/products/57757-g3.webp
+- assets/products/57757-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Raus aus der Angst – Onlinekurs gegen Angst Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/694978
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20der%20Angst%20%E2%80%93%20Onlinekurs%20gegen%20Angst
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

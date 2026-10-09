@@ -73,6 +73,12 @@
 - assets/products/5609-g1.webp
 - assets/products/5609-g2.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Das Partnerprogramm von KlickTipp. Das Beste oder nichts. Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/38219
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20KlickTipp.%20Das%20Beste%20oder%20nichts.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

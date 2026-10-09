@@ -72,6 +72,12 @@
 - assets/products/59261-g3.webp
 - assets/products/59261-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov. Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/733493
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=neofire%20Core%20Basic%20Shopsystem%20im%20Abo%2020%20%25%20wiederk.%20Prov.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

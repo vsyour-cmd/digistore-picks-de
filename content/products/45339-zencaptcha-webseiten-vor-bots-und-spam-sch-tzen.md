@@ -62,6 +62,12 @@
 - assets/products/45339-g1.webp
 - assets/products/45339-g2.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Zencaptcha - Webseiten vor Bots und Spam schützen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/504248
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zencaptcha%20-%20Webseiten%20vor%20Bots%20und%20Spam%20sch%C3%BCtzen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

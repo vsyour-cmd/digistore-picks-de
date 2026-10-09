@@ -43,6 +43,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> *Es handelt sich um einen Affiliate-Link. Wenn du dar&uuml;ber etwas kaufst, erhalte ich eine kleine Provision, die mir hilft, die Hosting-Kosten meines Blogs zu decken &ndash; f&uuml;r dich bleibt der Preis selbstverst&auml;ndlich gleich. Hinweis: Einige Beitragsbilder auf dieser Website wurden mit KI erstellt und dienen nur zur Illustration
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59720-g1.webp
+- assets/products/59720-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Online Hormonkurs: PMS verstehen - natürlich handeln Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/734498
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Hormonkurs%3A%20PMS%20verstehen%20-%20nat%C3%BCrlich%20handeln
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

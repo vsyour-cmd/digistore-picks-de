@@ -55,6 +55,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: RegulationsCoach Home – Ganzheitliche Gesundheit selbst in die Hand nehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/705509
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=RegulationsCoach%20Home%20%E2%80%93%20Ganzheitliche%20Gesundheit%20selbst%20in%20die%20Hand%20nehmen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

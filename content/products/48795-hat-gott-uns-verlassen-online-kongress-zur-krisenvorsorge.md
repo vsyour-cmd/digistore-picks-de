@@ -56,6 +56,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> So funktioniert's: Sende uns eine Mail mit deinem Zahlungsvorschlag (z. B. 59 CHF + 100 Gradido). Du tauschst deine Gradido gegen einen Gutscheincode, der den Preis entsprechend reduziert. Dann zahlst du nur noch den CHF-Restbetrag bei DS24.
+> So funktioniert's: Sende uns eine Mail mit deinem Zahlungsvorschlag (z. B. 59 CHF + 100 Gradido). Du tauschst deine Gradido gegen einen Gutscheincode, der den Preis entsprechend reduziert. Dann zahlst du nur noch den CHF-Restbetrag bei DS24.
+> So funktioniert's: Sende uns eine Mail mit deinem Zahlungsvorschlag (z. B. 59 CHF + 100 Gradido). Du tauschst deine Gradido gegen einen Gutscheincode, der den Preis entsprechend reduziert. Dann zahlst du nur noch den CHF-Restbetrag bei DS24.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48795-g1.webp
+- assets/products/48795-g2.webp
+- assets/products/48795-g3.webp
+- assets/products/48795-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/527635
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hat%20Gott%20uns%20verlassen%3F%20Online-Kongress%20zur%20Krisenvorsorge
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

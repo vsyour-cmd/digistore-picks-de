@@ -65,6 +65,12 @@
 - assets/products/48233-g3.webp
 - assets/products/48233-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Der Kern der Verträglichkeit - Fuktoseintoleranz Edition Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/722699
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kern%20der%20Vertr%C3%A4glichkeit%20-%20Fuktoseintoleranz%20Edition
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

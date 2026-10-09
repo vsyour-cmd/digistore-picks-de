@@ -62,6 +62,12 @@
 - assets/products/58439-g3.webp
 - assets/products/58439-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/715295
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MIETfrei%20%E2%80%94%20endlich%20eine%20Wohnung%2C%20endlich%20sparen%20ohne%20Verzich
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

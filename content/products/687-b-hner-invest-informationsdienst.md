@@ -62,6 +62,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> UND als Abonnent bekommen Sie alle Informationen und Anleitungen für Ihr eigenes Depot und Sie erfahren noch darüber hinaus: Wie lege ich mein Geld am besten an? Die Antwort heißt Bühner Invest Informationsdienst mit zusätzlichen hoch interessanten Infos zu Geldanlagen, die Ihnen sonst bewusst vorenthalten werden.
+
+### 3c. Cautions
+
+> Hier jetzt sofort mehr erfahren und Member werden ! Aktuell befinden wir uns in einer wirtschaftlich extremen Situation. Uns drohen Hyperinflation, Währungsreform, möglicherweise Enteignungen, sowie Deindustrialisierung und Destabilisierung der Volkswirtschaft. Geldanlagen gegen Inflation sind jetzt mehr denn je existenziell wichtig.
+> Sie bekommen darüber hinaus Insider Informationen zu Themen wie Geldsicherung vor staatlicher Willkür und Kontrolle, Vermögenssicherung vor dem sicheren Crash, wirksamer Inflationsschutz, Informationen zu hoch lukrativen Investments, die Sie vor dem finanziellen Kollaps retten können. Erfahren Sie, wie Sie sich niemals arm sparen können. Und erfahren Sie weiterhin alles über die zukunftsträchtige und existenziell wichtige Kryptowelt!
+> Die wirklich beste Geldanlage zu finden ist für den Laien doch fast unmöglich. Und jeder hat sicher andere Erwartungen. Mir war eine Geldanlage mit einer relativen Sicherheit und gute Rendite immer wichtig.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/687-g1.webp
+- assets/products/687-g2.webp
+- assets/products/687-g3.webp
+- assets/products/687-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bühner Invest Informationsdienst Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/12187
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=B%C3%BChner%20Invest%20Informationsdienst
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Stark ab 40 – Fitness-E-Book für Männer 40+ | 19 € | leicht Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/701188
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stark%20ab%2040%20%E2%80%93%20Fitness-E-Book%20f%C3%BCr%20M%C3%A4nner%2040%2B%20%7C%2019%20%E2%82%AC%20%7C%20leicht
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -61,6 +61,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du lernst, wie Resilienz funktioniert, wie du diesen Kurs f&uuml;r dich nutzen kannst und wie kleine Schritte gro&szlig;e Wirkung entfalten k&ouml;nnen.
+> Wie du klarer denken, Probleme strukturieren und Schritt f&uuml;r Schritt gute Entscheidungen treffen kannst.
+> Mit diesem Kurs m&ouml;chten wir nun auch dich unterst&uuml;tzen. Weil wir wissen, wie kraftvoll Resilienz sein kann. Und weil wir erlebt haben, dass Ver&auml;nderung m&ouml;glich ist &ndash; Schritt f&uuml;r Schritt.
+
+### 3c. Cautions
+
+> Wichtig: dieser Kurs ist leider nichts f&uuml;r dich, wenn du ​ ​
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/36078-g1.webp
+- assets/products/36078-g2.webp
+- assets/products/36078-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Innere Stärke dank Resilienz - ZPP Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/350964
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innere%20St%C3%A4rke%20dank%20Resilienz%20-%20ZPP%20Pr%C3%A4ventionskurs
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

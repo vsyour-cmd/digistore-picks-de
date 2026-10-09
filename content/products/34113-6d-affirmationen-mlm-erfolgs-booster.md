@@ -55,6 +55,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Mit diesen Informationen kannst du bereits sehr genau beurteilen, welche Network-Company seriös und für dich am besten geeignet ist und bei der du dich wirklich wohl fühlst. Das ist der erste Schritt zu deinem Erfolg. Weitere Informationen und eine 2-seitige Checkliste zur schnellen Überprüfung einer Network-Company findest du im eBook (s.u.).
+> Die gute Nachricht ist, dass du dein Unterbewusstsein umprogrammieren kannst. Das heißt, die behindernden negativen Programme werden durch positive Programme ersetzt. Dies dauert bei regelmäßiger Anwendung häufig nur 21-30 Tage, manchmal länger, abhängig davon, wie stark die negativen Programme im Unterbewussten verankert sind. Während der regelmäßigen Anwendung bilden sich neue (positive) neuronale Verbindungen und stärken die neuen Glaubenssätze.
+> Die hochwirksame Technik der 6D-Affirmationen sorgt dafür, dass positive Informationen direkt ins Unterbewusstsein gelangen. Die negativen Programmierungen lösen sich im Laufe der regelmäßigen Anwendung auf, die positiven Programme manifestieren sich, du bekommst ein neues Mindset und somit auch schnell neue, positive Resultate.
+
+### 3c. Cautions
+
+> Obwohl Network Marketing als eines der besten Geschäftsmodelle gilt, ist es Fakt, dass viele, die mit großer Hoffnung und Begeisterung starten, nicht den erhofften Erfolg haben. Dafür gibt es zahlreiche Gründe. Damit es dir nicht auch so ergeht und du sofort starten kannst, habe ich hier für dich die wichtigsten Bedingungen zusammengefasst, die dir einen gewaltigen Vorsprung geben und die optimale Basis für dein erfolgreiches Network Marketing Geschäft sind.
+> Auf dieser Seite erfährst du alle wichtigen Kriterien, die eine gute Network-Company ausmachen.
+> Zuerst schauen wir uns an, was für deine erste Erfolgs-Säule - die optimale Network-Company - wichtig ist.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/34113-g1.webp
+- assets/products/34113-g2.webp
+- assets/products/34113-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 6D-Affirmationen - MLM - Erfolgs-Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/346312
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=6D-Affirmationen%20-%20MLM%20-%20Erfolgs-Booster
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

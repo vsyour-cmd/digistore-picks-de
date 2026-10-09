@@ -52,6 +52,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Das ist kein loses PDF mehr – sondern dein eigener, geschützter Software-Bereich. Eine vollkommene Neuheit: dein interner Arbeitsplatz, in dem dich KI Schritt für Schritt an die Hand nimmt. Du loggst dich ein, setzt um und siehst deine Ergebnisse – ehrlich, bodenständig und in deinem Tempo.
+> Im Cockpit findest du alle Werkzeuge, die du brauchst, um mit KI wirklich ins Tun zu kommen. Klar strukturiert, Schritt für Schritt.
+> Ein geführter Pfad – ob du ein Unternehmen hast oder neu startest. Schritt für Schritt, ohne dich zu verlieren.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57159-g1.webp
+- assets/products/57159-g2.webp
+- assets/products/57159-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 € Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/706557
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ETERNUM%20KI-Cockpit%20%E2%80%93%20KI-Schaltzentrale%20%2B%20Ratgeber%20%7C%20199%20%E2%82%AC
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

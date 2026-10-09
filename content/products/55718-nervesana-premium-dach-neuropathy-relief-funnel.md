@@ -69,6 +69,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Entwickelt in Zusammenarbeit mit führenden internationalen Universitäten, kombiniert NerveSana die Ikaria-Weisheit mit modernster Wissenschaft und deutscher Präzision. Jeder Inhaltsstoff wurde von Elite-Universitäten getestet, validiert und in der optimalen Dosierung formuliert, um die Enzym-Kaskade zu stoppen.
+> Anwendung: 600mg Alpha-Liponsäure intravenös täglich, 3 Wochen
+> Dosierung: CoQ10 3x 100mg täglich zusätzlich zur Standardversorgung
+
+### 3c. Cautions
+
+> Aber die Menschen, die mich wirklich beschäftigen, sind die anderen. Die von Arzt zu Arzt wandern. Die irgendwann aufhören zu fragen und anfangen zu akzeptieren.
+> Wirksamkeits-Faktor NerveSana Standard-Produkte Arzt + Medikamente Alpha-Liponsäure
+> ⚠️ IMPORTANT NOTICE: Raw material shortage for pharmaceutical Alpha-Lipoic Acid. Due to high demand, we can only produce 500 bottles per month. Current waiting list: 247 people. Next batch not available for 6 weeks.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55718-g1.webp
+- assets/products/55718-g2.webp
+- assets/products/55718-g3.webp
+- assets/products/55718-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NerveSana - Premium DACH Neuropathy Relief Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/670068
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NerveSana%20-%20Premium%20DACH%20Neuropathy%20Relief%20Funnel
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

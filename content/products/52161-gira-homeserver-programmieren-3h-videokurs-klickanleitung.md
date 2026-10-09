@@ -53,6 +53,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Gira Homeserver Programmierung - 3 Stunden Klick-Anleitung Zum Inhalt springen Fragen? Ruf an! +49 (0) 89 215 297 80
+> DIY KNX Videokurse KNX Programmierung -8h Videokurs als Klick-Anleitung
+> Gira Homeserver programmieren – 3h Videokurs als Klick-Anleitung
+
+### 3c. Cautions
+
+> Wir zeigen Dir in 12 Schritten alle notwendigen Details , die zur Einrichtung und Inbetriebnahme eines Einfamilienhauses, einer Villa oder Gewerbegebäudes wichtig sind
+> Firmware des Gira Homeserver 4 updaten und auf aktuellsten Stand bringen (Achtung: behandelt auch ganz schwierige Fälle!)
+> 4. Gira Experte: Import ETS-Projekt - Achtung viele Fallstricke!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52161-g1.webp
+- assets/products/52161-g2.webp
+- assets/products/52161-g3.webp
+- assets/products/52161-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Gira Homeserver programmieren - 3h Videokurs Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/320544
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gira%20Homeserver%20programmieren%20-%203h%20Videokurs%20Klickanleitung
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

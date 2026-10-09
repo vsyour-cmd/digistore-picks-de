@@ -57,6 +57,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Die Marmapunktmassage ist eine der faszinierendsten Anwendungen des Ayurveda. Über 100 Energiepunkte (Marmas) verbinden Körper, Geist und Seele. In diesem Kurs lernst du, diese Punkte zu finden und zu behandeln – eine Kunst, die tiefe Entspannung, Vitalität und Balance schenkt. Mit mehr als 30 Jahren Erfahrung zeigt dir Wolfgang Neutzler nicht nur die Technik, sondern auch, wie du die Marma-Lehre verantwortungsvoll in Praxis, Coaching oder Wellness einsetzen kannst
+> Ja. Der Kurs erklärt die Lage, Wirkung und Anwendung der Marmapunkte in Theorie und Praxis.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39734-g1.webp
+- assets/products/39734-g2.webp
+- assets/products/39734-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ayurveda-Marmapunktmassage – Marma-Chikitsa Alternativen · Preis & Daten · Erfahrungen & Recherche
+- Public Digistore24 product page: https://www.digistore24.com/product/369646
+- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ayurveda-Marmapunktmassage%20%E2%80%93%20Marma-Chikitsa
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)
