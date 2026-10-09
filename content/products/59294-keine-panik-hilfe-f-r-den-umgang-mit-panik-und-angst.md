@@ -50,6 +50,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist „Keine Panik! – Hilfe für den Umgang mit Panik und Angst? — Typ: Downloads, Anbieter: atelierlichtgestalt, gelistet seit 2026-09-16
+- Wie viel kostet es? — 32.898026 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Keine Panik! – Hilfe für den Umgang mit Panik und Angst Alternativen · Preis & Daten · Erfahrungen & Recherche

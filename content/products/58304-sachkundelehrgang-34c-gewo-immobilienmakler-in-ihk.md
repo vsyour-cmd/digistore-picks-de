@@ -65,6 +65,13 @@
 > Lernen Sie wichtige Pflichten, Erlaubnisvoraussetzungen, Nachweise und typische Prüfungskonstellationen kennen.
 > Trainieren Sie wichtige Grundlagen zu Grundstücken, Rechten, Belastungen, Grundbuch und Eigentumsfragen.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-08-12
+- Wie viel kostet es? — 281.059436 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK) Alternativen · Preis & Daten · Erfahrungen & Recherche

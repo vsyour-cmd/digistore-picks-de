@@ -62,6 +62,13 @@
 - assets/products/40071-g3.webp
 - assets/products/40071-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Liebeskummer Extrem! | Onlinekurs? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-14
+- Wie viel kostet es? — 337.459248 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Liebeskummer Extrem! | Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche

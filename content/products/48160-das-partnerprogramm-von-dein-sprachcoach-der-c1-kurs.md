@@ -72,6 +72,13 @@
 - assets/products/48160-g3.webp
 - assets/products/48160-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs? — Typ: Member area and video courses, Anbieter: DeinSprachcoach, gelistet seit 2024-05-05
+- Wie viel kostet es? — 268.050118 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

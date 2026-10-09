@@ -52,6 +52,13 @@
 > ACHTUNG! Dieser Online Workshop ist nicht für die Öffentlichkeit zugänglich, sondern nur auf persönliche Einladung und aufgrund der technischen Gegebenheiten auf 100 Teilnehmer begrenzt - 100% KOSTENLOS.
 > ACHTUNG! Dieser Online Workshop ist nicht für die Öffentlichkeit zugänglich, sondern nur auf persönliche Einladung und aufgrund der technischen Gegebenheiten auf 1.000 Teilnehmer begrenzt. Sind diese Plätze vergeben, gibt es keine Chance mehr dabei zu sein.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Premium Mastermind Coaching - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-12-18
+- Wie viel kostet es? — 504.77943600000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Premium Mastermind Coaching - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche

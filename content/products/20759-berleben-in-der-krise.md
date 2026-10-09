@@ -49,6 +49,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Überleben in der Krise? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-04-26
+- Wie viel kostet es? — 31.052336000000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Überleben in der Krise Alternativen · Preis & Daten · Erfahrungen & Recherche

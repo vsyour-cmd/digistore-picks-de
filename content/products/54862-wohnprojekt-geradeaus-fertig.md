@@ -68,6 +68,13 @@
 - assets/products/54862-g3.webp
 - assets/products/54862-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Wohnprojekt. Geradeaus. Fertig.? — Typ: Telephone coaching, Anbieter: BaukeinScheiss, gelistet seit 2025-12-06
+- Wie viel kostet es? — 93.056334 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wohnprojekt. Geradeaus. Fertig. Alternativen · Preis & Daten · Erfahrungen & Recherche

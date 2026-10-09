@@ -71,6 +71,13 @@
 - assets/products/48986-g3.webp
 - assets/products/48986-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist OKA - Online Kurs Autopilot Masterclass? — Typ: Member area and video courses, Anbieter: MichoWorldwide, gelistet seit 2023-07-06
+- Wie viel kostet es? — 2250.3547360000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OKA - Online Kurs Autopilot Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche

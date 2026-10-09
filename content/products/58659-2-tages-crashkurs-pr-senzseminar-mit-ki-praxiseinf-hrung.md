@@ -68,6 +68,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 2-Tages-Crashkurs-Präsenzseminar mit KI-Praxiseinführung? — Typ: Seminar for business customers, Anbieter: Arndt-Timo_Niggemeyer, gelistet seit 2026-08-25
+- Wie viel kostet es? — 1117.4814000000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 2-Tages-Crashkurs-Präsenzseminar mit KI-Praxiseinführung Alternativen · Preis & Daten · Erfahrungen & Recherche

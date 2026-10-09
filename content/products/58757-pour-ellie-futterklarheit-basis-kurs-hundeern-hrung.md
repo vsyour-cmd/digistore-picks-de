@@ -65,6 +65,13 @@
 - assets/products/58757-g3.webp
 - assets/products/58757-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Pour Ellie – Futterklarheit: Basis-Kurs Hundeernährung? — Typ: Member area and video courses, Anbieter: PourEllie, gelistet seit 2026-08-28
+- Wie viel kostet es? — 185.03045017586354 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pour Ellie – Futterklarheit: Basis-Kurs Hundeernährung Alternativen · Preis & Daten · Erfahrungen & Recherche

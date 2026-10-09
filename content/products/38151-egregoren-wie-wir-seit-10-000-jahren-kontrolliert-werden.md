@@ -56,6 +56,13 @@
 - assets/products/38151-g1.webp
 - assets/products/38151-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden? — Typ: Webinar, Anbieter: Thuphi888, gelistet seit 2021-10-04
+- Wie viel kostet es? — 279.18018800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden Alternativen · Preis & Daten · Erfahrungen & Recherche

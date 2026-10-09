@@ -77,6 +77,13 @@
 - assets/products/54495-g3.webp
 - assets/products/54495-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti? — Typ: Member area and video courses, Anbieter: NEXperts, gelistet seit 2025-10-24
+- Wie viel kostet es? — 186.123854 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti Alternativen · Preis & Daten · Erfahrungen & Recherche

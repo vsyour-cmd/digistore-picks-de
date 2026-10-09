@@ -66,6 +66,13 @@
 - assets/products/34001-g3.webp
 - assets/products/34001-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Von der ANGST zur SICHERHEIT? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-26
+- Wie viel kostet es? — 230.297368 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Von der ANGST zur SICHERHEIT Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Future Skills für Einsteiger – Orientierung in der KI-Arbeit? — Typ: Downloads, Anbieter: SkillVibeCampus, gelistet seit 2026-01-17
+- Wie viel kostet es? — 276.2942 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Future Skills für Einsteiger – Orientierung in der KI-Arbeit Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -77,6 +77,13 @@
 - assets/products/54998-g3.webp
 - assets/products/54998-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KI Konnekt - Mastery? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2025-12-08
+- Wie viel kostet es? — 115.61849600000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Konnekt - Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche

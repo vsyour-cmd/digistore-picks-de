@@ -66,6 +66,13 @@
 - assets/products/37263-g3.webp
 - assets/products/37263-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die 2Punkt-Onlineschule? — Typ: Member area and video courses, Anbieter: ResonanceQuantique, gelistet seit 2021-05-10
+- Wie viel kostet es? — 281.99906 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 2Punkt-Onlineschule Alternativen · Preis & Daten · Erfahrungen & Recherche

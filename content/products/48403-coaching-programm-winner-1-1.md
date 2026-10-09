@@ -67,6 +67,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Coaching-Programm WINNER 1:1? — Typ: Online coaching, Anbieter: OneHeart4All, gelistet seit 2022-10-01
+- Wie viel kostet es? — 4350.324888 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Coaching-Programm WINNER 1:1 Alternativen · Preis & Daten · Erfahrungen & Recherche

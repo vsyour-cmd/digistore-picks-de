@@ -63,6 +63,13 @@
 - assets/products/33310-g3.webp
 - assets/products/33310-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter? — Typ: Software, Anbieter: Act_by_Dirk_Kreuter, gelistet seit 2020-04-28
+- Wie viel kostet es? — 222.6014 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter Alternativen · Preis & Daten · Erfahrungen & Recherche

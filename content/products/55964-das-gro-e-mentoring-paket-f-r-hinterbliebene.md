@@ -71,6 +71,13 @@
 - assets/products/55964-g3.webp
 - assets/products/55964-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das große Mentoring Paket für Hinterbliebene? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-03-01
+- Wie viel kostet es? — 41.130922000000005 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das große Mentoring Paket für Hinterbliebene Alternativen · Preis & Daten · Erfahrungen & Recherche

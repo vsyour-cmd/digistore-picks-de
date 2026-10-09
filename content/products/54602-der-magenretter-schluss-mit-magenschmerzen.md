@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Der Magenretter - Schluss mit Magenschmerzen? — Typ: Member area and video courses, Anbieter: Lobato1, gelistet seit 2025-08-31
+- Wie viel kostet es? — 1015.196616 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Magenretter - Schluss mit Magenschmerzen Alternativen · Preis & Daten · Erfahrungen & Recherche

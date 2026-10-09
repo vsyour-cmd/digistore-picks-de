@@ -52,6 +52,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch? — Typ: E-books, Anbieter: Fittastetic, gelistet seit 2020-06-09
+- Wie viel kostet es? — 8.355942 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch Alternativen · Preis & Daten · Erfahrungen & Recherche

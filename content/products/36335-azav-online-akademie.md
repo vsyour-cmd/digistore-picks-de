@@ -64,6 +64,13 @@
 
 - assets/products/36335-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist AZAV Online-Akademie? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-03-25
+- Wie viel kostet es? — 187.063478 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AZAV Online-Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche

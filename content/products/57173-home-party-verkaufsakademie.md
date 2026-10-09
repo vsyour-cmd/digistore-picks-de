@@ -68,6 +68,13 @@
 - assets/products/57173-g3.webp
 - assets/products/57173-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Home-Party-Verkaufsakademie? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-06-29
+- Wie viel kostet es? — 168.25981199999998 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home-Party-Verkaufsakademie Alternativen · Preis & Daten · Erfahrungen & Recherche

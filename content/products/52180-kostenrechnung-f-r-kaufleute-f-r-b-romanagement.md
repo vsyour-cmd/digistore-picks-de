@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Kostenrechnung für Kaufleute für Büromanagement? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-17
+- Wie viel kostet es? — 93.056334 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kostenrechnung für Kaufleute für Büromanagement Alternativen · Preis & Daten · Erfahrungen & Recherche

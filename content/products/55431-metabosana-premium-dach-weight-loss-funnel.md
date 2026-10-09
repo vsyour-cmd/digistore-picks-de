@@ -80,6 +80,13 @@
 > A: Bei Diabetes-Medikamenten Rücksprache mit Arzt (Berberin senkt Blutzucker). Für Gesunde völlig unbedenklich.
 > Impressum I Datenschutz I Disclaimer I AGB I Versand I Rückerstattung/Rückgabe I Kontakt I Produkt-Label
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist MetaboSana - Premium DACH Weight Loss Funnel? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-21
+- Wie viel kostet es? — 164.624362 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MetaboSana - Premium DACH Weight Loss Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche

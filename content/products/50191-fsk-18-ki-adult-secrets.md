@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist FSK 18 KI - Adult Secrets? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-10-24
+- Wie viel kostet es? — 119.376992 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FSK 18 KI - Adult Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche

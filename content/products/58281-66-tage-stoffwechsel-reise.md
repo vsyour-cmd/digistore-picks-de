@@ -68,6 +68,13 @@
 - assets/products/58281-g3.webp
 - assets/products/58281-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 66 Tage Stoffwechsel Reise? — Typ: Member area and video courses, Anbieter: mutpunkt-pro, gelistet seit 2026-08-11
+- Wie viel kostet es? — 111.86 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 66 Tage Stoffwechsel Reise Alternativen · Preis & Daten · Erfahrungen & Recherche

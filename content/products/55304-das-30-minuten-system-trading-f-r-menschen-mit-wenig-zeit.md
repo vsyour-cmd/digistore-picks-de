@@ -67,6 +67,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das 30-Minuten-System - Trading für Menschen mit wenig Zeit? — Typ: Member area and video courses, Anbieter: Your-Trading, gelistet seit 2025-11-14
+- Wie viel kostet es? — 444.0842 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 30-Minuten-System - Trading für Menschen mit wenig Zeit Alternativen · Preis & Daten · Erfahrungen & Recherche

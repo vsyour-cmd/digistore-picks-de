@@ -68,6 +68,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Gunnar Kessler's "Digitale Geldmaschine"? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2024-08-06
+- Wie viel kostet es? — 185.18423 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gunnar Kessler's "Digitale Geldmaschine" Alternativen · Preis & Daten · Erfahrungen & Recherche

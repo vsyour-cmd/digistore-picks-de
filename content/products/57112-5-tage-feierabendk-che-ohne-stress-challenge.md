@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 5 Tage Feierabendküche ohne Stress Challenge? — Typ: Member area and video courses, Anbieter: pakohli8ptrick, gelistet seit 2026-06-23
+- Wie viel kostet es? — 110.7414 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 5 Tage Feierabendküche ohne Stress Challenge Alternativen · Preis & Daten · Erfahrungen & Recherche

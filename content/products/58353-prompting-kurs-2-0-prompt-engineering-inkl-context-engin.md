@@ -63,6 +63,13 @@
 - assets/products/58353-g3.webp
 - assets/products/58353-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.? — Typ: Member area and video courses, Anbieter: annette99cf, gelistet seit 2026-08-14
+- Wie viel kostet es? — 328.06300799999997 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin. Alternativen · Preis & Daten · Erfahrungen & Recherche

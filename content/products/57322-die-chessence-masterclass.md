@@ -80,6 +80,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die Chessence Masterclass? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-01
+- Wie viel kostet es? — 1033.060658 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Chessence Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche

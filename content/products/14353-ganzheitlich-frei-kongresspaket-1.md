@@ -55,6 +55,13 @@
 - assets/products/14353-g3.webp
 - assets/products/14353-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ganzheitlich FREI Kongresspaket 1? — Typ: Member area and video courses, Anbieter: kandina, gelistet seit 2016-07-24
+- Wie viel kostet es? — 122.15112 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ganzheitlich FREI Kongresspaket 1 Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -58,6 +58,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs? — Typ: Member area and video courses, Anbieter: innerwise, gelistet seit 2022-02-07
+- Wie viel kostet es? — 36.656522 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -63,6 +63,13 @@
 
 > Nutzen Sie das FINBOT KI-Lexikon für gezielte Fachfragen und zum schnellen Nachschlagen wichtiger Begriffe.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sachkundelehrgang · § 26a WEG zertifizierter Verwalter (IHK)? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
+- Wie viel kostet es? — 281.059436 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sachkundelehrgang · § 26a WEG zertifizierter Verwalter (IHK) Alternativen · Preis & Daten · Erfahrungen & Recherche

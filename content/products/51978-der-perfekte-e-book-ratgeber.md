@@ -48,6 +48,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Der perfekte E-Book Ratgeber? — Typ: Member area and video courses, Anbieter: gehtanders, gelistet seit 2025-03-29
+- Wie viel kostet es? — 27.528746 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der perfekte E-Book Ratgeber Alternativen · Preis & Daten · Erfahrungen & Recherche

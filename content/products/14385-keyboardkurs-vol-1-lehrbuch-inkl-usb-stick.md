@@ -70,6 +70,13 @@
 - assets/products/14385-g3.webp
 - assets/products/14385-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick? — Typ: Deliverable, Anbieter: PeterNeuhof, gelistet seit 2016-09-18
+- Wie viel kostet es? — 155.105076 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick Alternativen · Preis & Daten · Erfahrungen & Recherche

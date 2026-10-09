@@ -71,6 +71,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision? — Typ: Software, Anbieter: Listimo, gelistet seit 2026-08-21
+- Wie viel kostet es? — 561.179248 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche

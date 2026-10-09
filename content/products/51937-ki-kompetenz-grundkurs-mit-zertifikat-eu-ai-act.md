@@ -60,6 +60,13 @@
 - assets/products/51937-g1.webp
 - assets/products/51937-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KI Kompetenz Grundkurs mit Zertifikat, EU-AI-Act? — Typ: Member area and video courses, Anbieter: lairnen, gelistet seit 2025-03-13
+- Wie viel kostet es? — 324.394 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Kompetenz Grundkurs mit Zertifikat, EU-AI-Act Alternativen · Preis & Daten · Erfahrungen & Recherche

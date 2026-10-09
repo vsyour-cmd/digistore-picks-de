@@ -63,6 +63,13 @@
 - assets/products/58888-g3.webp
 - assets/products/58888-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das geheime Spielbuch für Social Media Manager:innen – Teil2? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-03
+- Wie viel kostet es? — 208.037228 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das geheime Spielbuch für Social Media Manager:innen – Teil2 Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -65,6 +65,13 @@
 - assets/products/57368-g3.webp
 - assets/products/57368-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Seminar zur Sprachförderung von Kleinkindern? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
+- Wie viel kostet es? — 671.16 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Seminar zur Sprachförderung von Kleinkindern Alternativen · Preis & Daten · Erfahrungen & Recherche

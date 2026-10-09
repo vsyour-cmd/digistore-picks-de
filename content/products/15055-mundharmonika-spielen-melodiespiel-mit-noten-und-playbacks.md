@@ -72,6 +72,13 @@
 - assets/products/15055-g1.webp
 - assets/products/15055-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Mundharmonika spielen: Melodiespiel mit Noten und Playbacks? — Typ: Member area and video courses, Anbieter: Activent, gelistet seit 2017-01-15
+- Wie viel kostet es? — 140.910042 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mundharmonika spielen: Melodiespiel mit Noten und Playbacks Alternativen · Preis & Daten · Erfahrungen & Recherche

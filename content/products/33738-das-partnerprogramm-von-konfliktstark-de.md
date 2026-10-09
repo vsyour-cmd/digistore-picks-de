@@ -51,6 +51,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das Partnerprogramm von "KonfliktStark.de"? — Typ: Member area and video courses, Anbieter: christophmarkss, gelistet seit 2017-02-08
+- Wie viel kostet es? — 92.11671 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von "KonfliktStark.de" Alternativen · Preis & Daten · Erfahrungen & Recherche

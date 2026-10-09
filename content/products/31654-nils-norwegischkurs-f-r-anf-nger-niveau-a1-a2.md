@@ -64,6 +64,13 @@
 
 - assets/products/31654-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Nils (Norwegischkurs für Anfänger) Niveau A1/A2? — Typ: Member area and video courses, Anbieter: Skapago, gelistet seit 2020-02-08
+- Wie viel kostet es? — 303.38669200000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nils (Norwegischkurs für Anfänger) Niveau A1/A2 Alternativen · Preis & Daten · Erfahrungen & Recherche

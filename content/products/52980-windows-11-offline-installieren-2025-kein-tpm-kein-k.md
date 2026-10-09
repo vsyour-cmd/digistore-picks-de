@@ -47,6 +47,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Windows 11 offline installieren (2025) – Kein TPM, kein K? — Typ: E-books, Anbieter: WindowsHandyTipps, gelistet seit 2025-06-23
+- Wie viel kostet es? — 8.255268000000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Windows 11 offline installieren (2025) – Kein TPM, kein K Alternativen · Preis & Daten · Erfahrungen & Recherche

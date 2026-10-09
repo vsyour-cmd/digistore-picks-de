@@ -64,6 +64,13 @@
 - assets/products/56672-g2.webp
 - assets/products/56672-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung? — Typ: Remote service provided electronically, Anbieter: Dani2002, gelistet seit 2026-05-25
+- Wie viel kostet es? — 1398.25 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung Alternativen · Preis & Daten · Erfahrungen & Recherche

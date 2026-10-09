@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch? — Typ: Member area and video courses, Anbieter: DrBlokesch, gelistet seit 2026-04-15
+- Wie viel kostet es? — 187.063478 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch Alternativen · Preis & Daten · Erfahrungen & Recherche

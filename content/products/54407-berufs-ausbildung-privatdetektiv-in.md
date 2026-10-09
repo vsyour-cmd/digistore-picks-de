@@ -65,6 +65,13 @@
 - assets/products/54407-g3.webp
 - assets/products/54407-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Berufs-Ausbildung Privatdetektiv/in? — Typ: Member area and video courses, Anbieter: LBBBildungsmanagement, gelistet seit 2025-09-01
+- Wie viel kostet es? — 488.79464200000007 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Berufs-Ausbildung Privatdetektiv/in Alternativen · Preis & Daten · Erfahrungen & Recherche

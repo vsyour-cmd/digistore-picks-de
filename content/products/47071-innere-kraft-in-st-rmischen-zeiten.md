@@ -57,6 +57,13 @@
 - assets/products/47071-g1.webp
 - assets/products/47071-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Innere Kraft in stürmischen Zeiten? — Typ: Member area and video courses, Anbieter: changenow, gelistet seit 2013-06-21
+- Wie viel kostet es? — 91.177086 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Kraft in stürmischen Zeiten Alternativen · Preis & Daten · Erfahrungen & Recherche

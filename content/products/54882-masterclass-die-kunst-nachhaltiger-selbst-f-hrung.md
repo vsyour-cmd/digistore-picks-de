@@ -65,6 +65,13 @@
 - assets/products/54882-g3.webp
 - assets/products/54882-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Masterclass „Die Kunst nachhaltiger (Selbst)Führung“? — Typ: Member area and video courses, Anbieter: DariusGoetsch, gelistet seit 2025-11-21
+- Wie viel kostet es? — 234.055864 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Masterclass „Die Kunst nachhaltiger (Selbst)Führung“ Alternativen · Preis & Daten · Erfahrungen & Recherche

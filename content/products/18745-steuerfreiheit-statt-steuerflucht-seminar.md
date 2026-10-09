@@ -62,6 +62,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Steuerfreiheit statt Steuerflucht, Seminar? — Typ: Seminar for business customers, Anbieter: SG1503, gelistet seit 2017-09-04
+- Wie viel kostet es? — 1409.0556760000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Steuerfreiheit statt Steuerflucht, Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche

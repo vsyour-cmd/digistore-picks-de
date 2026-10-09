@@ -67,6 +67,13 @@
 - assets/products/31967-g3.webp
 - assets/products/31967-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Bestseller: CAJON ONLINE-KURS - Die Krendl Technik? — Typ: Member area and video courses, Anbieter: martin0852, gelistet seit 2019-07-10
+- Wie viel kostet es? — 135.831598 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bestseller: CAJON ONLINE-KURS - Die Krendl Technik Alternativen · Preis & Daten · Erfahrungen & Recherche

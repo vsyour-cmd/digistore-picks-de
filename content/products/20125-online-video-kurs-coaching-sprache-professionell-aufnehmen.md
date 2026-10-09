@@ -68,6 +68,13 @@
 - assets/products/20125-g2.webp
 - assets/products/20125-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"? — Typ: Remote service provided electronically, Anbieter: isidde, gelistet seit 2017-10-20
+- Wie viel kostet es? — 279.18018800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Video-Kurs+Coaching "Sprache professionell aufnehmen" Alternativen · Preis & Daten · Erfahrungen & Recherche

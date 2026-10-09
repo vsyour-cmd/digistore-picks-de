@@ -63,6 +63,13 @@
 - assets/products/25783-g1.webp
 - assets/products/25783-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2018-07-23
+- Wie viel kostet es? — 286.24974000000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess Alternativen · Preis & Daten · Erfahrungen & Recherche

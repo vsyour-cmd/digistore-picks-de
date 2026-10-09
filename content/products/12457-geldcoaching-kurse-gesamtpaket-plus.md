@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Geldcoaching-Kurse Gesamtpaket PLUS? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2015-05-29
+- Wie viel kostet es? — 104.34300800000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geldcoaching-Kurse Gesamtpaket PLUS Alternativen · Preis & Daten · Erfahrungen & Recherche

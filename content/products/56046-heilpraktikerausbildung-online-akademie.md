@@ -55,6 +55,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Heilpraktikerausbildung - Online-Akademie? — Typ: Online coaching, Anbieter: info8293, gelistet seit 2026-03-25
+- Wie viel kostet es? — 2650.80235 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilpraktikerausbildung - Online-Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche

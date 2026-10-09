@@ -106,6 +106,13 @@ for (const p of DATA.products) {
       lines.push("");
     }
   }
+  lines.push("### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)");
+  lines.push("");
+  lines.push("- Was ist " + p.label + "? — Typ: " + p.type + ", Anbieter: " + p.vendorName + ", gelistet seit " + (p.createdAt || "").slice(0, 10));
+  lines.push("- Wie viel kostet es? — " + p.price + " " + (p.currency || "USD"));
+  lines.push("- Garantie? — " + ((p.research && p.research.guaranteeMention) ? p.research.guaranteeMention : "nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen"));
+  lines.push("- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite");
+  lines.push("");
   lines.push("### 3e. Related links & interaction");
   lines.push("");
   lines.push("- Related searches on the profile page: " + p.label + " Alternativen · Preis & Daten · Erfahrungen & Recherche");

@@ -66,6 +66,13 @@
 - assets/products/57092-g3.webp
 - assets/products/57092-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit? — Typ: Member area and video courses, Anbieter: manlex, gelistet seit 2026-06-21
+- Wie viel kostet es? — 234.99548800000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche

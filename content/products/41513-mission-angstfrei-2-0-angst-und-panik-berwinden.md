@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Mission Angstfrei 2.0: Angst und Panik überwinden? — Typ: Member area and video courses, Anbieter: saschajurek, gelistet seit 2022-06-18
+- Wie viel kostet es? — 301.306096 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mission Angstfrei 2.0: Angst und Panik überwinden Alternativen · Preis & Daten · Erfahrungen & Recherche

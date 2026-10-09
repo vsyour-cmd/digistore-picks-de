@@ -69,6 +69,13 @@
 - assets/products/56179-g3.webp
 - assets/products/56179-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Wochenendseminar EnergieHypnose? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2024-10-15
+- Wie viel kostet es? — 742.940562 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wochenendseminar EnergieHypnose Alternativen · Preis & Daten · Erfahrungen & Recherche

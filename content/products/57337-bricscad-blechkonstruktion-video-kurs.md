@@ -62,6 +62,13 @@
 - assets/products/57337-g3.webp
 - assets/products/57337-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist BricsCAD Blechkonstruktion Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
+- Wie viel kostet es? — 423.9494 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BricsCAD Blechkonstruktion Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

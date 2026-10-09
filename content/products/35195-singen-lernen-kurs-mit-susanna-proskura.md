@@ -81,6 +81,13 @@
 - assets/products/35195-g3.webp
 - assets/products/35195-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Singen lernen- Kurs mit Susanna Proskura? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-06-18
+- Wie viel kostet es? — 346.855488 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Singen lernen- Kurs mit Susanna Proskura Alternativen · Preis & Daten · Erfahrungen & Recherche

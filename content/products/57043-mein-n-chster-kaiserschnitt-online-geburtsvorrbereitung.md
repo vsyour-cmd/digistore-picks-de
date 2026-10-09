@@ -72,6 +72,13 @@
 - assets/products/57043-g3.webp
 - assets/products/57043-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung? — Typ: Member area and video courses, Anbieter: bcamp8501, gelistet seit 2026-06-18
+- Wie viel kostet es? — 329.002632 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -67,6 +67,13 @@
 
 - assets/products/59698-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin? — Typ: Online coaching, Anbieter: SonjaHolzweiler, gelistet seit 2026-09-25
+- Wie viel kostet es? — 2631.05906 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin Alternativen · Preis & Daten · Erfahrungen & Recherche

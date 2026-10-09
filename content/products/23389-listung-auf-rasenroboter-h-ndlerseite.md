@@ -69,6 +69,13 @@
 > TopTen-Google-Platzierungen für praktisch alle wichtigen Keywords (Rasenroboter, Automower, usw…) ==> zur Live-Abfrage ==> hier klicken
 > Wichtig: Wenn Sie bereits gelistet sind, dann bitte nicht erneut buchen!! 300,00 Euro zzgl. Mwst. / Jahr zur Buchung ==> hier klicken
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Listung auf Rasenroboter-Händlerseite? — Typ: Remote service provided electronically, Anbieter: mhaeussler, gelistet seit 2018-01-05
+- Wie viel kostet es? — 335.58 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Listung auf Rasenroboter-Händlerseite Alternativen · Preis & Daten · Erfahrungen & Recherche

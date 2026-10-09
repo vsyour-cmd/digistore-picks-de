@@ -60,6 +60,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Wecke den "Optimisten" in Deinem Hund - von Mirjam Cordt? — Typ: Online coaching, Anbieter: ZappZapp, gelistet seit 2019-02-07
+- Wie viel kostet es? — 184.714418 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wecke den "Optimisten" in Deinem Hund - von Mirjam Cordt Alternativen · Preis & Daten · Erfahrungen & Recherche

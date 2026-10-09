@@ -49,6 +49,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)? — Typ: Supplements - for slimming, Anbieter: profitbiz, gelistet seit 2026-07-21
+- Wie viel kostet es? — 187.130594 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt) Alternativen · Preis & Daten · Erfahrungen & Recherche

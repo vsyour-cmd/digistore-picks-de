@@ -71,6 +71,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Quantenheilung - umfangreiches Video Kompendium? — Typ: Member area and video courses, Anbieter: bjheede, gelistet seit 2023-08-11
+- Wie viel kostet es? — 1054.683196 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantenheilung - umfangreiches Video Kompendium Alternativen · Preis & Daten · Erfahrungen & Recherche

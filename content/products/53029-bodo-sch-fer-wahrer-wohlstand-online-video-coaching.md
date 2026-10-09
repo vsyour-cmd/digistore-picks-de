@@ -73,6 +73,13 @@
 - assets/products/53029-g3.webp
 - assets/products/53029-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)? — Typ: Member area and video courses, Anbieter: BodoSchaefer, gelistet seit 2025-06-18
+- Wie viel kostet es? — 608.1828200000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching) Alternativen · Preis & Daten · Erfahrungen & Recherche

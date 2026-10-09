@@ -73,6 +73,13 @@
 - assets/products/48795-g3.webp
 - assets/products/48795-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge? — Typ: Member area and video courses, Anbieter: naturheilzentrum, gelistet seit 2023-11-30
+- Wie viel kostet es? — 149.45614600000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge Alternativen · Preis & Daten · Erfahrungen & Recherche

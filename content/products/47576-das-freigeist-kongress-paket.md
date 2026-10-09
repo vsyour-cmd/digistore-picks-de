@@ -64,6 +64,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist DAS FREIGEIST KONGRESS PAKET? — Typ: Downloads, Anbieter: KompassDerFreiheit, gelistet seit 2024-03-13
+- Wie viel kostet es? — 375.05539400000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DAS FREIGEIST KONGRESS PAKET Alternativen · Preis & Daten · Erfahrungen & Recherche

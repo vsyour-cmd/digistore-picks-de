@@ -71,6 +71,13 @@
 
 - assets/products/12519-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sei Dein eigener Feng Shui Berater? — Typ: Member area and video courses, Anbieter: Feng-Shui-Digital, gelistet seit 2016-08-01
+- Wie viel kostet es? — 169.199436 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sei Dein eigener Feng Shui Berater Alternativen · Preis & Daten · Erfahrungen & Recherche

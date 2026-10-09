@@ -67,6 +67,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Absoluter Nischen-Börsenbrief im deutschsprachigen Raum!? — Typ: Downloads, Anbieter: Goldfinger23, gelistet seit 2016-04-25
+- Wie viel kostet es? — 467.18329 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Absoluter Nischen-Börsenbrief im deutschsprachigen Raum! Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -60,6 +60,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist meinOnlineBüro? — Typ: Remote service provided electronically, Anbieter: rbirgmeier, gelistet seit 2016-10-12
+- Wie viel kostet es? — 783.02 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: meinOnlineBüro Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -71,6 +71,13 @@
 > Behandlungsfehler während Arztterminen, Geburten, OP, therapeutischen oder Massage-Sitzungen hinterlassen oft tiefe Spuren in uns. Solange wir uns selbst dafür, in die Situation hineingegangen zu sein und dem Anderen für sein Verfehlen nicht vergeben haben, lastet die Erfahrung auf unserem Körper und unserer Seele. In der Session 19 entlasten wir unser Bewusstsein von diesen Erfahrungen und erlangen dadurch ein völlig neues Lebensgefühl.
 > Nach den Wechseljahren verändern sich oft die Hormonspiegel. Die Damen werden aktiver und bei den Herren lässt oft die Lust nach Sex nach. In Session 38 aktivieren wir die Hormonspiegel und harmonisieren wir Ungleichgewichte, so dass Lust, Verlangen, Genuss und Freude am Sex noch lange eine wichtige Rolle im Leben spielen können.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist „Die Heilung des Schoßraumes, der Sexualorgane und der...“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2022-01-19
+- Wie viel kostet es? — 464.67762600000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Die Heilung des Schoßraumes, der Sexualorgane und der...“ Alternativen · Preis & Daten · Erfahrungen & Recherche

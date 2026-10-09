@@ -55,6 +55,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das komplette Notion Business System für Selbständige? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-27
+- Wie viel kostet es? — 417.12594 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das komplette Notion Business System für Selbständige Alternativen · Preis & Daten · Erfahrungen & Recherche

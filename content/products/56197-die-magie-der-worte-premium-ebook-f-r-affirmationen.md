@@ -57,6 +57,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die Magie der Worte – Premium-eBook für Affirmationen? — Typ: E-books, Anbieter: Motivation-Lebensfreude, gelistet seit 2026-04-01
+- Wie viel kostet es? — 17.774554000000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Magie der Worte – Premium-eBook für Affirmationen Alternativen · Preis & Daten · Erfahrungen & Recherche

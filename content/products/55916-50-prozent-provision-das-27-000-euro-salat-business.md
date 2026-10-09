@@ -52,6 +52,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 50 Prozent Provision: Das 27.000 Euro Salat-Business? — Typ: Member area and video courses, Anbieter: infob1d6, gelistet seit 2026-03-09
+- Wie viel kostet es? — 504.77943600000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Prozent Provision: Das 27.000 Euro Salat-Business Alternativen · Preis & Daten · Erfahrungen & Recherche

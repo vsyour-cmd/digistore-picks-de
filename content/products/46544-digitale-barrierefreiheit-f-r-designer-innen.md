@@ -71,6 +71,13 @@
 > Um einen optimalen Prozess zu gewährleisten, ist es wichtig, deine Entscheidungen bezüglich digitaler Barrierefreiheit an die Entwickler richtig zu kommunizieren. Wir zeigen dir, wie das geht!
 > "Gehirngerecht Digital sind ein hervorragender Ansprechpartner für alles zum Thema digitale Barrierefreiheit. Mit ihrer umfangreichen Expertise können sie einem super vermitteln, was wichtig ist und worauf man achten muss. Klare Empfehlung."
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Digitale Barrierefreiheit für Designer*innen? — Typ: Member area and video courses, Anbieter: GehirngerechtDigitalGmbH, gelistet seit 2023-10-12
+- Wie viel kostet es? — 272.60282 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Barrierefreiheit für Designer*innen Alternativen · Preis & Daten · Erfahrungen & Recherche

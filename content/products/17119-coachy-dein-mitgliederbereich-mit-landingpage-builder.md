@@ -66,6 +66,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist COACHY - Dein Mitgliederbereich mit Landingpage Builder!? — Typ: Member area and video courses, Anbieter: Coachy, gelistet seit 2019-09-29
+- Wie viel kostet es? — 1177.7963120000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: COACHY - Dein Mitgliederbereich mit Landingpage Builder! Alternativen · Preis & Daten · Erfahrungen & Recherche

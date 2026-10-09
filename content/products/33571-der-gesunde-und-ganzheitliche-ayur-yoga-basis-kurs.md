@@ -63,6 +63,13 @@
 - assets/products/33571-g3.webp
 - assets/products/33571-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs? — Typ: Member area and video courses, Anbieter: RaymondRittiner, gelistet seit 2020-07-22
+- Wie viel kostet es? — 86.534896 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -69,6 +69,13 @@
 - assets/products/55174-g3.webp
 - assets/products/55174-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B? — Typ: Member area and video courses, Anbieter: DrImhofNaturLifeBalance, gelistet seit 2025-09-30
+- Wie viel kostet es? — 185.18423 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B Alternativen · Preis & Daten · Erfahrungen & Recherche

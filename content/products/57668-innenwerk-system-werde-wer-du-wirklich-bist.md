@@ -69,6 +69,13 @@
 - assets/products/57668-g3.webp
 - assets/products/57668-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist InnenWerk-System – Werde, wer Du wirklich bist? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-07-22
+- Wie viel kostet es? — 973.182 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: InnenWerk-System – Werde, wer Du wirklich bist Alternativen · Preis & Daten · Erfahrungen & Recherche

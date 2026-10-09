@@ -64,6 +64,13 @@
 - assets/products/56181-g2.webp
 - assets/products/56181-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Practitioner EnergieHypnose Modular? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2023-04-26
+- Wie viel kostet es? — 5558.513562 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Practitioner EnergieHypnose Modular Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -66,6 +66,13 @@
 > Dieser Lehrgang führt dich in klarer Reihenfolge durch alle relevanten Themen und verhindert, dass wichtige Bausteine fehlen.
 > Hinweis zur Zahlungsabwicklung Die Bestellung und Zahlung werden über Digistore24 als offiziellen Verkaufspartner abgewickelt. Digistore24 übernimmt die Zahlungsabwicklung, Rechnungsstellung und die Bereitstellung des Zugangs.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Gesamte Mathematik für Lehrlinge in der Berufsausbildung? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-04-28
+- Wie viel kostet es? — 138.180658 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesamte Mathematik für Lehrlinge in der Berufsausbildung Alternativen · Preis & Daten · Erfahrungen & Recherche

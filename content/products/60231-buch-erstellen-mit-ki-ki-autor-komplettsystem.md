@@ -75,6 +75,13 @@
 
 - assets/products/60231-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Buch erstellen mit KI – KI-Autor Komplettsystem? — Typ: Member area and video courses, Anbieter: BroLimits, gelistet seit 2026-10-06
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch erstellen mit KI – KI-Autor Komplettsystem Alternativen · Preis & Daten · Erfahrungen & Recherche

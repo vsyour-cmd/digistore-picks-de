@@ -76,6 +76,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)? — Typ: Online coaching, Anbieter: wielandstolzenburg, gelistet seit 2022-05-29
+- Wie viel kostet es? — 169.199436 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung) Alternativen · Preis & Daten · Erfahrungen & Recherche

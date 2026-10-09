@@ -76,6 +76,13 @@
 - assets/products/52196-g3.webp
 - assets/products/52196-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Influencer und Content Creator Kurs? — Typ: Member area and video courses, Anbieter: NatureHeartAcademy, gelistet seit 2025-03-17
+- Wie viel kostet es? — 935.295018 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Influencer und Content Creator Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

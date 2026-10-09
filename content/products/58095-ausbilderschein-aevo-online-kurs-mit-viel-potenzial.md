@@ -64,6 +64,13 @@
 - assets/products/58095-g3.webp
 - assets/products/58095-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial? — Typ: Member area and video courses, Anbieter: resal-coaching, gelistet seit 2026-08-02
+- Wie viel kostet es? — 467.18329 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial Alternativen · Preis & Daten · Erfahrungen & Recherche

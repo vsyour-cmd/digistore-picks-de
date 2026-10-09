@@ -80,6 +80,13 @@
 - assets/products/58907-g3.webp
 - assets/products/58907-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-09-04
+- Wie viel kostet es? — 1107.414 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten Alternativen · Preis & Daten · Erfahrungen & Recherche

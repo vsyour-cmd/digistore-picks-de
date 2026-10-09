@@ -60,6 +60,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Seelenname — dein persönlicher 33-Seiten-Guide? — Typ: Downloads, Anbieter: dotrockets, gelistet seit 2026-08-19
+- Wie viel kostet es? — 82.72047 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Seelenname — dein persönlicher 33-Seiten-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche

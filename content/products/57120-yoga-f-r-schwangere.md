@@ -53,6 +53,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Yoga für Schwangere? — Typ: Downloads, Anbieter: ersanfidan6767c470, gelistet seit 2026-06-24
+- Wie viel kostet es? — 46.992385999999996 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yoga für Schwangere Alternativen · Preis & Daten · Erfahrungen & Recherche

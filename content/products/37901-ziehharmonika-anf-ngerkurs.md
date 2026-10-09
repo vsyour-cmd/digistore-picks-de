@@ -68,6 +68,13 @@
 - assets/products/37901-g3.webp
 - assets/products/37901-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ziehharmonika Anfängerkurs? — Typ: Member area and video courses, Anbieter: harmonicademy, gelistet seit 2021-08-25
+- Wie viel kostet es? — 202.477786 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ziehharmonika Anfängerkurs Alternativen · Preis & Daten · Erfahrungen & Recherche

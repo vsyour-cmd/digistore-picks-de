@@ -86,6 +86,13 @@
 - assets/products/12405-g3.webp
 - assets/products/12405-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Geld verdienen mit Immobilien ( Stefanie Schädel)? — Typ: Member area and video courses, Anbieter: Jederkannimmobilien, gelistet seit 2016-05-04
+- Wie viel kostet es? — 250.98028200000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld verdienen mit Immobilien ( Stefanie Schädel) Alternativen · Preis & Daten · Erfahrungen & Recherche

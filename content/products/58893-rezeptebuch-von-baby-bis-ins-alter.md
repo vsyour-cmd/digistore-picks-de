@@ -47,6 +47,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Rezeptebuch von Baby bis ins Alter? — Typ: E-books, Anbieter: mamaplaneinfach, gelistet seit 2026-09-03
+- Wie viel kostet es? — 15.582098 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rezeptebuch von Baby bis ins Alter Alternativen · Preis & Daten · Erfahrungen & Recherche

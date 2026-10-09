@@ -54,6 +54,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist SchlafKompass Baby Schlafcoaching? — Typ: Member area and video courses, Anbieter: Traumwerkstatt-Schlafberatung, gelistet seit 2025-05-08
+- Wie viel kostet es? — 140.99953 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SchlafKompass Baby Schlafcoaching Alternativen · Preis & Daten · Erfahrungen & Recherche

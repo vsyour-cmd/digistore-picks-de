@@ -59,6 +59,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2023-09-05
+- Wie viel kostet es? — 370.35727399999996 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen Alternativen · Preis & Daten · Erfahrungen & Recherche

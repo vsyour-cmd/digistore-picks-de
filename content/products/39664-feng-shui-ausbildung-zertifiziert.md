@@ -69,6 +69,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Feng Shui Ausbildung, Zertifiziert? — Typ: Distance learning (Germany), Anbieter: Feng-Shui-Digital, gelistet seit 2022-01-01
+- Wie viel kostet es? — 2932.80141 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Feng Shui Ausbildung, Zertifiziert Alternativen · Preis & Daten · Erfahrungen & Recherche

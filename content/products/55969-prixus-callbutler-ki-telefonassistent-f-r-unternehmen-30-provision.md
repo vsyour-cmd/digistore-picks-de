@@ -62,6 +62,13 @@
 - assets/products/55969-g1.webp
 - assets/products/55969-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision? — Typ: Software, Anbieter: PRIXUS-UG, gelistet seit 2026-03-16
+- Wie viel kostet es? — 375.05539400000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche

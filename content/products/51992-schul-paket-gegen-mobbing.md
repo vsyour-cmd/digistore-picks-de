@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Schul-Paket gegen Mobbing? — Typ: Member area and video courses, Anbieter: walk-around-the-world, gelistet seit 2024-12-07
+- Wie viel kostet es? — 4220.600846 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schul-Paket gegen Mobbing Alternativen · Preis & Daten · Erfahrungen & Recherche

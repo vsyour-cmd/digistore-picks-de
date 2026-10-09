@@ -63,6 +63,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Gira X1 programmieren - 2h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-01-18
+- Wie viel kostet es? — 238.07163800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gira X1 programmieren - 2h Videokurs Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche

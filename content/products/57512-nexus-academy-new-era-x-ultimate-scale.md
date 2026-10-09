@@ -64,6 +64,13 @@
 - assets/products/57512-g3.webp
 - assets/products/57512-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Nexus Academy - New Era x Ultimate Scale? — Typ: Member area and video courses, Anbieter: bandolero, gelistet seit 2026-07-13
+- Wie viel kostet es? — 146.63727400000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nexus Academy - New Era x Ultimate Scale Alternativen · Preis & Daten · Erfahrungen & Recherche

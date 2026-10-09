@@ -73,6 +73,13 @@
 - assets/products/20875-g3.webp
 - assets/products/20875-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Babysitter-Kurs: "Pädagogisch qualifizierte Person"? — Typ: Downloads, Anbieter: IT-Projekte, gelistet seit 2017-02-01
+- Wie viel kostet es? — 184.56900000000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Babysitter-Kurs: "Pädagogisch qualifizierte Person" Alternativen · Preis & Daten · Erfahrungen & Recherche

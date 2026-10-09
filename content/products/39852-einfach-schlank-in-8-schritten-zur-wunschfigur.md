@@ -79,6 +79,13 @@
 - assets/products/39852-g3.webp
 - assets/products/39852-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Einfach schlank! In 8 Schritten zur Wunschfigur? — Typ: Member area and video courses, Anbieter: wildkitchen, gelistet seit 2021-01-31
+- Wie viel kostet es? — 552.722632 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einfach schlank! In 8 Schritten zur Wunschfigur Alternativen · Preis & Daten · Erfahrungen & Recherche

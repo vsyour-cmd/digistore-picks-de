@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Tinnitus Coach - das wirksame Selbsthilfeprogramm? — Typ: Downloads, Anbieter: Institut_MH, gelistet seit 2016-08-06
+- Wie viel kostet es? — 342.000764 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tinnitus Coach - das wirksame Selbsthilfeprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche

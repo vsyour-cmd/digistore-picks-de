@@ -61,6 +61,13 @@
 - assets/products/33528-g2.webp
 - assets/products/33528-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist megamemory Gedächtnistraining Videokurs von Gregor Staub? — Typ: Downloads, Anbieter: megamemory, gelistet seit 2018-10-16
+- Wie viel kostet es? — 239.704794 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: megamemory Gedächtnistraining Videokurs von Gregor Staub Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -72,6 +72,13 @@
 - assets/products/56543-g3.webp
 - assets/products/56543-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Individuelles Mentoring – 3 Monate intensiv? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-05-16
+- Wie viel kostet es? — 733.1975560000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Individuelles Mentoring – 3 Monate intensiv Alternativen · Preis & Daten · Erfahrungen & Recherche

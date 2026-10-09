@@ -64,6 +64,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Tage der Entscheidung? — Typ: Seminar/event for recreation, Anbieter: Joerg-Loehr-ET, gelistet seit 2025-06-30
+- Wie viel kostet es? — 2107.4424 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tage der Entscheidung Alternativen · Preis & Daten · Erfahrungen & Recherche

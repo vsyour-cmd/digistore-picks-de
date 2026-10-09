@@ -48,6 +48,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Werde Digitaler Assistent: Starte dein Home-Office Business? — Typ: Member area and video courses, Anbieter: iloveit24, gelistet seit 2026-01-31
+- Wie viel kostet es? — 279.18018800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werde Digitaler Assistent: Starte dein Home-Office Business Alternativen · Preis & Daten · Erfahrungen & Recherche

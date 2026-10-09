@@ -62,6 +62,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist DER KOSTENLOSE AUTOIMMUNKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2019-04-11
+- Wie viel kostet es? — 53.58094 USD
+- Garantie? — 30
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER KOSTENLOSE AUTOIMMUNKONGRESS Alternativen · Preis & Daten · Erfahrungen & Recherche

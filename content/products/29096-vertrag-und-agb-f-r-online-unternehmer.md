@@ -65,6 +65,13 @@
 
 > Kompletter AVV inkl. Hinweisen und TOM-Beispielen — für die DSGVO im Projekt.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Vertrag und AGB für Online Unternehmer? — Typ: Downloads, Anbieter: Paragraf7, gelistet seit 2017-10-28
+- Wie viel kostet es? — 890.7747380000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vertrag und AGB für Online Unternehmer Alternativen · Preis & Daten · Erfahrungen & Recherche

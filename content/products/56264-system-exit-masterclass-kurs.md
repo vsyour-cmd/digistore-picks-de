@@ -56,6 +56,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist System-Exit- Masterclass Kurs? — Typ: Member area and video courses, Anbieter: kuerschnermarketinga439, gelistet seit 2026-04-06
+- Wie viel kostet es? — 978.540094 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: System-Exit- Masterclass Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

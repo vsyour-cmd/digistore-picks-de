@@ -69,6 +69,13 @@
 - assets/products/34819-g2.webp
 - assets/products/34819-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Social Dancing Academy - Solo- und Paartanz für alle Levels? — Typ: Member area and video courses, Anbieter: DadoIbrakovic, gelistet seit 2024-01-30
+- Wie viel kostet es? — 138.616912 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Dancing Academy - Solo- und Paartanz für alle Levels Alternativen · Preis & Daten · Erfahrungen & Recherche

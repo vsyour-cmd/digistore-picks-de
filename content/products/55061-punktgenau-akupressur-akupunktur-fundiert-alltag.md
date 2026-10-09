@@ -74,6 +74,13 @@
 - assets/products/55061-g3.webp
 - assets/products/55061-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Punktgenau Akupressur + Akupunktur – Fundiert, Alltag? — Typ: Member area and video courses, Anbieter: live-natural-life, gelistet seit 2025-11-26
+- Wie viel kostet es? — 346.855488 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Punktgenau Akupressur + Akupunktur – Fundiert, Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche

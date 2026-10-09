@@ -59,6 +59,13 @@
 
 > Du musst nicht mehr in die Apotheke, zum Arzt, Heilpraktiker, oder in den Drogeriemarkt
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist „Zurück zum Ursprung - Magen Darm Edition“? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-07-11
+- Wie viel kostet es? — 429.173262 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Zurück zum Ursprung - Magen Darm Edition“ Alternativen · Preis & Daten · Erfahrungen & Recherche

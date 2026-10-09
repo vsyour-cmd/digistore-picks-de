@@ -77,6 +77,13 @@
 - assets/products/36078-g2.webp
 - assets/products/36078-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Innere Stärke dank Resilienz - ZPP Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2020-10-05
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Stärke dank Resilienz - ZPP Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche

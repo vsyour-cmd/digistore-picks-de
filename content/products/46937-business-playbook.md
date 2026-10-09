@@ -65,6 +65,13 @@
 - assets/products/46937-g2.webp
 - assets/products/46937-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Business Playbook? — Typ: Member area and video courses, Anbieter: jonahstruck, gelistet seit 2019-10-03
+- Wie viel kostet es? — 1409.4360000000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business Playbook Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Kalkulationsprogramm Gastronomie und Konditorei? — Typ: Software, Anbieter: szkubidoo, gelistet seit 2026-09-14
+- Wie viel kostet es? — 324.394 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kalkulationsprogramm Gastronomie und Konditorei Alternativen · Preis & Daten · Erfahrungen & Recherche

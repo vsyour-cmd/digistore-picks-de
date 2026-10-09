@@ -67,6 +67,13 @@
 - assets/products/34480-g3.webp
 - assets/products/34480-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist „Heile-Dein-Herz“-7-Tage-Online-Training? — Typ: Member area and video courses, Anbieter: Katerina_DLK, gelistet seit 2019-07-29
+- Wie viel kostet es? — 288.576428 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Heile-Dein-Herz“-7-Tage-Online-Training Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -65,6 +65,13 @@
 - assets/products/54586-g3.webp
 - assets/products/54586-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist ScaleX? — Typ: Member area and video courses, Anbieter: TheWolfofSales, gelistet seit 2025-10-16
+- Wie viel kostet es? — 3355.8 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ScaleX Alternativen · Preis & Daten · Erfahrungen & Recherche

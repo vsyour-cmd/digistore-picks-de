@@ -70,6 +70,13 @@
 > Unterstützung & Umfeld Familie Freunde Partner/in Therapeut/in Arzt / Ärztin Kaum Unterstützung
 > Dieser Selbstcheck ist eine Orientierungshilfe und ersetzt keine professionelle Diagnostik. Wende dich bei starken Beschwerden, anhaltendem Leidensdruck oder Gedanken an Selbstverletzung oder Suizid an deinen Arzt, einen psychologischen Psychotherapeuten oder den Notruf (112). In akuten Krisen kannst du auch den ärztlichen Bereitschaftsdienst (116117) oder lokale Krisendienste kontaktieren.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2022-02-23
+- Wie viel kostet es? — 163.561692 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs Alternativen · Preis & Daten · Erfahrungen & Recherche

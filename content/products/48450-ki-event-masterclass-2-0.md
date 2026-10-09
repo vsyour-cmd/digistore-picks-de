@@ -56,6 +56,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KI EVENT MASTERCLASS 2.0? — Typ: Member area and video courses, Anbieter: KESCHAcademy, gelistet seit 2024-06-03
+- Wie viel kostet es? — 281.059436 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI EVENT MASTERCLASS 2.0 Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -70,6 +70,13 @@
 - assets/products/55963-g3.webp
 - assets/products/55963-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2025-05-21
+- Wie viel kostet es? — 41.130922000000005 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Individuelles Mentoring zur Hinterbliebenenrente (60 Min.) Alternativen · Preis & Daten · Erfahrungen & Recherche

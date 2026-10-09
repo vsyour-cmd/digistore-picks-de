@@ -55,6 +55,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Grenzen setzen Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-03-27
+- Wie viel kostet es? — 104.432496 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grenzen setzen Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche

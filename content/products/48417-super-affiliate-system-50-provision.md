@@ -73,6 +73,13 @@
 > Achtung: in jedem Paket inklusive. Die Lifetime-Variante kostet einmalig 999 € – über 5 Jahre Nutzung gerechnet ist das in der Maximal-Variante ein Bruchteil des theoretischen Einzelkauf-Marktwerts.
 > Disclaimer: Reine Beispielrechnung. Tatsächliche Forum-Volumen schwanken pro Plattform, individuelle Linkpreise variieren stark. Die Berechnung dient als Größenordnung, nicht als garantierter Ertrag.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Super Affiliate System - 50% Provision? — Typ: Member area and video courses, Anbieter: pixonmedia, gelistet seit 2018-06-17
+- Wie viel kostet es? — 548.114 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Super Affiliate System - 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche

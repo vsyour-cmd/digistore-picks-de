@@ -74,6 +74,13 @@
 
 - assets/products/33792-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist FiboCross | TradingView Indikator? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2020-01-27
+- Wie viel kostet es? — 329.002632 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FiboCross | TradingView Indikator Alternativen · Preis & Daten · Erfahrungen & Recherche

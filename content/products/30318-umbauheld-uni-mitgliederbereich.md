@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist UMBAUHELD UNI MITGLIEDERBEREICH? — Typ: Member area and video courses, Anbieter: Kamille69, gelistet seit 2019-10-27
+- Wie viel kostet es? — 157.7226 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: UMBAUHELD UNI MITGLIEDERBEREICH Alternativen · Preis & Daten · Erfahrungen & Recherche

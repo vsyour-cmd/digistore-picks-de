@@ -52,6 +52,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Kinderbuch - Familie ist besonders, einzigartig, ganz normal? — Typ: Book (printed), Anbieter: franziboerner, gelistet seit 2022-01-25
+- Wie viel kostet es? — 15.682772 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinderbuch - Familie ist besonders, einzigartig, ganz normal Alternativen · Preis & Daten · Erfahrungen & Recherche

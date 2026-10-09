@@ -74,6 +74,13 @@
 - assets/products/37520-g2.webp
 - assets/products/37520-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2017-05-14
+- Wie viel kostet es? — 0.458626 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche

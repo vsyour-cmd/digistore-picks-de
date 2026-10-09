@@ -46,6 +46,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist AI Cash Page System? — Typ: Member area and video courses, Anbieter: CashUnity, gelistet seit 2025-10-21
+- Wie viel kostet es? — 34.777274 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Cash Page System Alternativen · Preis & Daten · Erfahrungen & Recherche

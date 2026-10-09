@@ -65,6 +65,13 @@
 > Nutzen Sie das FINBOT KI-Lexikon für gezielte Fachfragen und zum schnellen Nachschlagen wichtiger Begriffe.
 > Lernen Sie wichtige Darlehensarten, Vertragsstrukturen und typische Merkmale verbraucherbezogener Finanzierungen kennen.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
+- Wie viel kostet es? — 390.39140000000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl? — Typ: Member area and video courses, Anbieter: Calls-und-Chats-26, gelistet seit 2025-11-23
+- Wie viel kostet es? — 1447.6026319999999 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl Alternativen · Preis & Daten · Erfahrungen & Recherche

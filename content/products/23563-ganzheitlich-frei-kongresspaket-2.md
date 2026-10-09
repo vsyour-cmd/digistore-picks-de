@@ -60,6 +60,13 @@
 - assets/products/23563-g3.webp
 - assets/products/23563-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ganzheitlich FREI Kongresspaket 2? — Typ: Member area and video courses, Anbieter: kandina, gelistet seit 2017-11-04
+- Wie viel kostet es? — 122.15112 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ganzheitlich FREI Kongresspaket 2 Alternativen · Preis & Daten · Erfahrungen & Recherche

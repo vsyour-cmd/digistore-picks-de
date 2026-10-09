@@ -63,6 +63,13 @@
 - assets/products/32998-g3.webp
 - assets/products/32998-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-04-21
+- Wie viel kostet es? — 469.062538 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg Alternativen · Preis & Daten · Erfahrungen & Recherche

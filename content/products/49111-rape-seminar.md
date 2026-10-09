@@ -54,6 +54,13 @@
 
 - assets/products/49111-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Rape Seminar? — Typ: Downloads, Anbieter: MDretreat, gelistet seit 2024-07-28
+- Wie viel kostet es? — 187.063478 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rape Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche

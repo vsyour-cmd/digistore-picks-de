@@ -34,6 +34,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 70 Aloe Vera Cocktailrezepte? — Typ: E-books, Anbieter: chef63, gelistet seit 2020-06-07
+- Wie viel kostet es? — 5.123188 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 70 Aloe Vera Cocktailrezepte Alternativen · Preis & Daten · Erfahrungen & Recherche

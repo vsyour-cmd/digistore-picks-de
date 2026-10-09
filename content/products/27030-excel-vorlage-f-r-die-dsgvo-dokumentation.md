@@ -75,6 +75,13 @@
 
 - assets/products/27030-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Excel-Vorlage für die DSGVO-Dokumentation? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-04-23
+- Wie viel kostet es? — 390.39140000000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Excel-Vorlage für die DSGVO-Dokumentation Alternativen · Preis & Daten · Erfahrungen & Recherche

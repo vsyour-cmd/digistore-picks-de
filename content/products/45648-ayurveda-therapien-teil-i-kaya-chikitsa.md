@@ -55,6 +55,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ayurveda Therapien Teil I / Kaya Chikitsa? — Typ: Member area and video courses, Anbieter: HarshaGramminger, gelistet seit 2023-10-03
+- Wie viel kostet es? — 2820.0017860000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ayurveda Therapien Teil I / Kaya Chikitsa Alternativen · Preis & Daten · Erfahrungen & Recherche

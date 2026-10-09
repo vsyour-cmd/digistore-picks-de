@@ -69,6 +69,13 @@
 - assets/products/50875-g3.webp
 - assets/products/50875-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern? — Typ: Member area and video courses, Anbieter: ChristofArnold, gelistet seit 2024-12-13
+- Wie viel kostet es? — 346.855488 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern Alternativen · Preis & Daten · Erfahrungen & Recherche

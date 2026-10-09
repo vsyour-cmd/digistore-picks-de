@@ -57,6 +57,13 @@
 
 - assets/products/56756-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Modul 2 – Entscheidungsfähigkeit im Unternehmen? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
+- Wie viel kostet es? — 328.06300799999997 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Modul 2 – Entscheidungsfähigkeit im Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -62,6 +62,13 @@
 
 > »Der beste Kurs, den ich bis jetzt von Maxim durchgearbeitet habe! Man merkt, dass Maxim ihn sehr lange vorbereitet hat. Er führt strukturiert durch all die wichtigen Themen, auf die es in zwischenmenschlichen Beziehungen ankommt. Vielen Dank dafür. Der Kurs ist definitiv eine Bereicherung für mein ganzes Leben!«
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Beziehung Master: Geheimnisse glücklichster Paare der Welt? — Typ: Webinar, Anbieter: Koepfe-der-Genies, gelistet seit 2022-08-10
+- Wie viel kostet es? — 276.808756 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehung Master: Geheimnisse glücklichster Paare der Welt Alternativen · Preis & Daten · Erfahrungen & Recherche

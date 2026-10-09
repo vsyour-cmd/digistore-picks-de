@@ -70,6 +70,13 @@
 - assets/products/27248-g3.webp
 - assets/products/27248-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2018-05-02
+- Wie viel kostet es? — 136.267852 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket Alternativen · Preis & Daten · Erfahrungen & Recherche

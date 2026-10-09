@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®? — Typ: Member area and video courses, Anbieter: KellyMalottke, gelistet seit 2022-07-19
+- Wie viel kostet es? — 122.65449000000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände® Alternativen · Preis & Daten · Erfahrungen & Recherche

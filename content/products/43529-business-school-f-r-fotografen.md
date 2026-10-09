@@ -73,6 +73,13 @@
 - assets/products/43529-g3.webp
 - assets/products/43529-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist BUSINESS SCHOOL für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2020-05-18
+- Wie viel kostet es? — 2226.014 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BUSINESS SCHOOL für Fotografen Alternativen · Preis & Daten · Erfahrungen & Recherche

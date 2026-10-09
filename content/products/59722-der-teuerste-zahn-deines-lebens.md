@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Der teuerste Zahn deines Lebens? — Typ: Member area and video courses, Anbieter: SocratesDentalAcademy, gelistet seit 2026-09-25
+- Wie viel kostet es? — 176.716428 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der teuerste Zahn deines Lebens Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%? — Typ: E-books, Anbieter: info4833, gelistet seit 2026-03-23
+- Wie viel kostet es? — 93.98477199999999 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50% Alternativen · Preis & Daten · Erfahrungen & Recherche

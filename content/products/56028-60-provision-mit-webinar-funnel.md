@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 60% Provision mit Webinar-Funnel? — Typ: Member area and video courses, Anbieter: jessicabusse, gelistet seit 2025-06-17
+- Wie viel kostet es? — 462.48517 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 60% Provision mit Webinar-Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche

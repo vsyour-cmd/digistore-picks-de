@@ -63,6 +63,13 @@
 
 > Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Passives Einkommen mit Dividenden – Einsteiger-Kurs? — Typ: Member area and video courses, Anbieter: FinanzKalkuel, gelistet seit 2026-09-16
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Passives Einkommen mit Dividenden – Einsteiger-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

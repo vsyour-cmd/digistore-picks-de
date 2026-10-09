@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Meta Ads Elite? — Typ: Member area and video courses, Anbieter: Homer25, gelistet seit 2024-09-02
+- Wie viel kostet es? — 107.16188 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meta Ads Elite Alternativen · Preis & Daten · Erfahrungen & Recherche

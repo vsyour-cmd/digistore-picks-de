@@ -61,6 +61,13 @@
 - assets/products/52357-g3.webp
 - assets/products/52357-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Barakah durch Harakah? — Typ: Member area and video courses, Anbieter: Indira_bdh, gelistet seit 2025-04-13
+- Wie viel kostet es? — 233.61961 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Barakah durch Harakah Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -76,6 +76,13 @@
 > Wichtig ist, dass Du dranbleibst und Dir und Deinem Körper die Zeit gibst, die nötig ist, um alles zu integrieren.
 > Obwohl Du in dem Kurs „nur“ Zahn- und Kieferbelastungen und dazugehörige Ängste, Traumata und negative Emotionen loslässt, hat es massive Auswirkungen auf Dich als Mensch insgesamt. So wichtig ist das , was in den Zähnen und im Kiefer passiert.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist „Zähne - Verbindung zum Leben“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2018-02-22
+- Wie viel kostet es? — 998.059664 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Zähne - Verbindung zum Leben“ Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -69,6 +69,13 @@
 > Kein Problem. Mit dem kompakten Kongressprogramm, der alle wichtigen Informationen enthält, bekommen Sie eine Zusammenfassung der wichtigsten Inhalte , Methoden und Strategien unserer Professoren und Mediziner.
 > Also, wenn Ihnen das Thema Demenz wirklich wichtig ist (weil Sie selbst oder Angehörige betroffen sind) und Sie schnellstmöglich die effektivsten Methoden umsetzen wollen, wenn Sie Zeit und Mühe für Experimente und teure Behandlungen sparen wollen und stattdessen das tun wollen, was die aktuellste Forschung ergibt , wenn Sie Zugriff auf die kostbaren und exklusiven Bonusmaterialien haben wollen...
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KMM2016 Demenz - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2017-02-12
+- Wie viel kostet es? — 117.46418600000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KMM2016 Demenz - Digitales Kongresspaket Alternativen · Preis & Daten · Erfahrungen & Recherche

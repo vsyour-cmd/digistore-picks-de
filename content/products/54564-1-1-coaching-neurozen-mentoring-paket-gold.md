@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 1:1 Coaching / NeuroZen® Mentoring Paket "Gold"? — Typ: Online coaching, Anbieter: OlgaHein, gelistet seit 2025-09-10
+- Wie viel kostet es? — 5580.26851782103 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1:1 Coaching / NeuroZen® Mentoring Paket "Gold" Alternativen · Preis & Daten · Erfahrungen & Recherche

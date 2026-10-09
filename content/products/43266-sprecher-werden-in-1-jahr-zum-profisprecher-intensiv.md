@@ -60,6 +60,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv? — Typ: Online coaching, Anbieter: isidde, gelistet seit 2023-03-25
+- Wie viel kostet es? — 1704.7464 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv Alternativen · Preis & Daten · Erfahrungen & Recherche

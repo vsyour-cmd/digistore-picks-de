@@ -79,6 +79,13 @@
 - assets/products/56144-g3.webp
 - assets/products/56144-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Rauchfrei für immer - Rauchstopp Programm? — Typ: Downloads, Anbieter: MoruecoCoaching, gelistet seit 2024-04-02
+- Wie viel kostet es? — 156.98432400000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei für immer - Rauchstopp Programm Alternativen · Preis & Daten · Erfahrungen & Recherche

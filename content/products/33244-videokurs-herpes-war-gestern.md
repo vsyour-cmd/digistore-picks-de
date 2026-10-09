@@ -75,6 +75,13 @@
 - assets/products/33244-g3.webp
 - assets/products/33244-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Videokurs "Herpes war gestern!"? — Typ: Member area and video courses, Anbieter: h2-akademie, gelistet seit 2020-04-25
+- Wie viel kostet es? — 163.561692 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs "Herpes war gestern!" Alternativen · Preis & Daten · Erfahrungen & Recherche

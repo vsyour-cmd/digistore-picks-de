@@ -395,6 +395,9 @@ ${enList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks/r
       : "";
     const methodBox = `<h2 id="method">Wie wir Produkte wie ${esc(p.label)} bewerten</h2>
 <p class="sub">Sechs Prüfungen, ausschließlich mit offiziellen Marktplatz-Zahlen. <a href="../blog/digistore24-zahlen-checkliste.html">Die vollständige Bewertungsmethode lesen</a> · <a href="../about.html">unsere Recherche-Standards &amp; Kennzeichnung</a>.</p>`;
+    const faqQas = faqData(p, altData);
+    const faqBlock = faqSection(p, faqQas);
+    const faqLd = faqJsonLd(p, faqQas);
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Start", href: "../index.html" }];
@@ -438,6 +441,8 @@ ${usageSection(p)}
 ${galleryBlock(p)}
 
 ${cautionSection(p)}
+
+${faqBlock}
 
 ${relatedBlock}
 
@@ -499,7 +504,7 @@ ${interactionBlock}`;
     fs.writeFileSync(file, layout({
       title: `${p.label} — Preis, Provision & Verkaufsseiten-Recherche (${p.typeDe})`,
       desc: `${p.label}: ${p.typeDe} von ${p.vendorName} auf Digistore24. Preis ${money(p.price, p.currency)}, ${pct(p.commission)} Provision, Marktplatz-Statistiken und wörtliche Verkaufsseiten-Recherche. Stand ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `produkte/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd,
+      body, rel: "..", path: `produkte/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd: [...jsonLd, faqLd],
       crumb: crumbItems,
     }));
   }
@@ -746,6 +751,7 @@ function relatedSearches(p, altSlugs) {
     pills.push([`${catName(cat)} auf Digistore24`, `../kategorie/${cat.file}.html`]);
     if (cat.count >= 8) pills.push([`Beste ${catName(cat)} Produkte`, `../empfehlungen/beste-${cat.file}.html`]);
   }
+  pills.push([`${p.label} FAQ`, "#faq"]);
   pills.push([`Wie wir Produkte bewerten`, `../blog/digistore24-zahlen-checkliste.html`]);
   return `<h2>Ähnliche Suchanfragen</h2>
 <div class="pills">
@@ -771,6 +777,58 @@ function interactionBlock(p) {
 <p>Praxis-Tests veröffentlichen wir erst, nachdem wir ein Produkt selbst gekauft haben — aber Ihre Erfahrung hilft anderen Lesern:
 <a href="https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=${q}" rel="noopener" target="_blank">Diskussion zu ${esc(p.label)} auf GitHub starten/verfolgen</a>.
 Falsche Zahl gefunden? <a href="mailto:admin@2bkf.com?subject=${mail}">Korrektur melden</a> — jede Seite zeigt ihre Datenstände, Korrekturen gelten für die ganze Website.</p>`;
+}
+
+// FAQ: Antworten ausschließlich aus offiziellen Marktplatz-Daten (berechnet) oder Anbieteraussagen (markiert)
+function faqData(p, altData) {
+  const gm = p.research && !p.research.error && p.research.guaranteeMention;
+  const qas = [];
+  qas.push({
+    q: `Was ist ${p.label}?`,
+    a: `${p.label} ist ein Angebot des Typs „${p.typeDe}" im Digistore24-Marktplatz, Anbieter: ${p.vendorName}, gelistet seit ${datemark(p.createdAt)}.${(p.categories || []).length ? ` Eingepflegt unter ${p.categories.slice(0, 2).join(" und ")}.` : ""} Digistore24 wickelt Checkout, Lieferung und Rückgaben ab.`,
+  });
+  qas.push({
+    q: `Wie viel kostet ${p.label}?`,
+    a: `Der Digistore24-Marktplatz listet es für ${money(p.price, p.currency)} (${(p.billingTypes || []).join(", ").toLowerCase() || "siehe Verkaufsseite"}). Preise legt der Anbieter fest und können sich ändern — die offizielle Verkaufsseite zeigt den aktuellen Preis.`,
+  });
+  qas.push({
+    q: `Gibt es eine Geld-zurück-Garantie für ${p.label}?`,
+    a: gm
+      ? `Die Verkaufsseite des Anbieters wirbt mit: „${p.research.guaranteeMention}". Das Garantiefenster legt der Anbieter fest — prüfen Sie die aktuellen Bedingungen vor dem Kauf auf der offiziellen Seite. Die Abwicklung läuft über Digistore24.`
+      : `Unsere Verkaufsseiten-Recherche hat keine explizite Garantie-Formulierung gefunden. Viele Digistore24-Produkte bieten 60 Tage Geld-zurück, aber das legt jeder Anbieter selbst fest — bestätigen Sie es auf der offiziellen Verkaufsseite, bevor Sie kaufen.`,
+  });
+  qas.push({
+    q: `Ist ${p.label} seriös?`,
+    a: `Wir bewerten keine Seriosität — wir veröffentlichen überprüfbare Zahlen: Anbieter ${p.vendorName} (gelistet seit ${datemark(p.createdAt)}), Checkout-Konversion ${pct(p.conversionRate)}, Stornoquote ${pct(p.cancelRate)}, Affiliate-Verdienst/Verkauf ${money(p.earningsPerSale, p.currency)} (alles Anbieter-seitige Marktplatz-Statistiken). Lesen Sie unsere Recherche-Standards und entscheiden Sie anhand der Zahlen.`,
+  });
+  if (altData && altData.length >= 3) {
+    qas.push({
+      q: `Gibt es Alternativen zu ${p.label}?`,
+      a: `Ja — die nächstähnlichen Angebote derselben Kategorie sind ${altData.slice(0, 3).map((x) => x.label).join(", ")}. Details in der Vergleichstabelle oben bzw. auf der Alternativen-Seite mit allen Marktplatz-Zahlen.`,
+    });
+  }
+  qas.push({
+    q: `Wo kann ich ${p.label} sicher kaufen?`,
+    a: `Nur über die offizielle Verkaufsseite, die auf dieser Seite verlinkt ist (Checkout und Rückgaben laufen über Digistore24). Prüfen Sie dort Preis und Garantie vor der Bestellung. Der Link ist ein Affiliate-Link — der Kauf unterstützt diese Website ohne Mehrkosten für Sie.`,
+  });
+  return qas;
+}
+
+function faqSection(p, qas) {
+  return `<h2 id="faq">Häufige Fragen zu ${esc(p.label)}</h2>
+${qas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
+}
+
+function faqJsonLd(p, qas) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: qas.map(({ q, a }) => ({
+      "@type": "Question",
+      name: q,
+      acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") },
+    })),
+  };
 }
 
 // ---------- Über uns / Impressum / Datenschutz / 404 ----------

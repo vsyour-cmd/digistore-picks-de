@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist CONNECT FIRST Professional – Kommunikation, Verkauf und Führ? — Typ: Member area and video courses, Anbieter: fischerundreichfc38, gelistet seit 2026-08-17
+- Wie viel kostet es? — 984.1778380000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CONNECT FIRST Professional – Kommunikation, Verkauf und Führ Alternativen · Preis & Daten · Erfahrungen & Recherche

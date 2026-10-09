@@ -46,6 +46,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten? — Typ: Downloads, Anbieter: drum-online, gelistet seit 2020-05-27
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten Alternativen · Preis & Daten · Erfahrungen & Recherche

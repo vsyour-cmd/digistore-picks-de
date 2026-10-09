@@ -50,6 +50,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Ihre Immobilie als Renditebooster inkl. Potentialanalyse? — Typ: E-books, Anbieter: info8c24, gelistet seit 2026-03-11
+- Wie viel kostet es? — 20.805960000000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ihre Immobilie als Renditebooster inkl. Potentialanalyse Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -87,6 +87,13 @@
 - assets/products/56229-g3.webp
 - assets/products/56229-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Pre-Sale Page System? — Typ: Software, Anbieter: MachtundNussbaumGbR, gelistet seit 2026-04-09
+- Wie viel kostet es? — 185.18423 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pre-Sale Page System Alternativen · Preis & Daten · Erfahrungen & Recherche

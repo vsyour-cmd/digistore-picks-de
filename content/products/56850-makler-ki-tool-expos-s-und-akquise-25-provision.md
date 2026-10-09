@@ -70,6 +70,13 @@
 
 - assets/products/56850-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Makler KI-Tool – Exposés und Akquise | 25% Provision? — Typ: Downloads, Anbieter: jan86e2, gelistet seit 2026-06-10
+- Wie viel kostet es? — 279.18018800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Makler KI-Tool – Exposés und Akquise | 25% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche

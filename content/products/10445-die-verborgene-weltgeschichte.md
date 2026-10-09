@@ -62,6 +62,13 @@
 - assets/products/10445-g1.webp
 - assets/products/10445-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die verborgene Weltgeschichte? — Typ: Member area and video courses, Anbieter: RaGarve, gelistet seit 2016-03-01
+- Wie viel kostet es? — 377.628174 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die verborgene Weltgeschichte Alternativen · Preis & Daten · Erfahrungen & Recherche

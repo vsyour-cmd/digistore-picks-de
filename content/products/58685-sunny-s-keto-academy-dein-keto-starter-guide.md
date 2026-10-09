@@ -55,6 +55,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Sunny’s Keto Academy – Dein Keto Starter Guide? — Typ: E-books, Anbieter: nadinesunny, gelistet seit 2026-08-26
+- Wie viel kostet es? — 67.95495 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sunny’s Keto Academy – Dein Keto Starter Guide Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -42,6 +42,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist The Affiliate Academy Pro? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2024-11-30
+- Wie viel kostet es? — 1409.626162 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Affiliate Academy Pro Alternativen · Preis & Daten · Erfahrungen & Recherche

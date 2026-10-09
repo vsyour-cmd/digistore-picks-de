@@ -54,6 +54,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist A TOUCH OF ALOHA - Berühre das Licht deiner Seele? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2026-02-12
+- Wie viel kostet es? — 942.0178040000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: A TOUCH OF ALOHA - Berühre das Licht deiner Seele Alternativen · Preis & Daten · Erfahrungen & Recherche

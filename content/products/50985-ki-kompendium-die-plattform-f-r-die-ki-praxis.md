@@ -58,6 +58,13 @@
 
 - assets/products/50985-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist KI-Kompendium: Die Plattform für die KI-Praxis? — Typ: Member area and video courses, Anbieter: MibeneUG, gelistet seit 2025-01-05
+- Wie viel kostet es? — 558.1814 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Kompendium: Die Plattform für die KI-Praxis Alternativen · Preis & Daten · Erfahrungen & Recherche

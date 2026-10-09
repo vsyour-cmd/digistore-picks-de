@@ -74,6 +74,13 @@
 - assets/products/59561-g3.webp
 - assets/products/59561-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist CONTROL Series Komplett — 6 Workbooks (01–06)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-23
+- Wie viel kostet es? — 208.037228 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CONTROL Series Komplett — 6 Workbooks (01–06) Alternativen · Preis & Daten · Erfahrungen & Recherche

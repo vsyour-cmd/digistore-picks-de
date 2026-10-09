@@ -80,6 +80,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2020-04-28
+- Wie viel kostet es? — 185.18423 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck' Alternativen · Preis & Daten · Erfahrungen & Recherche

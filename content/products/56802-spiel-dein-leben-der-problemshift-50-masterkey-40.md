@@ -56,6 +56,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)? — Typ: E-books, Anbieter: infonewlifegamesccfe, gelistet seit 2026-06-04
+- Wie viel kostet es? — 993.1490100000001 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %) Alternativen · Preis & Daten · Erfahrungen & Recherche

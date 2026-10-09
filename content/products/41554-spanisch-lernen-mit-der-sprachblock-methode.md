@@ -81,6 +81,13 @@
 - assets/products/41554-g3.webp
 - assets/products/41554-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Spanisch lernen mit der Sprachblock-Methode? — Typ: Member area and video courses, Anbieter: Sprachheld, gelistet seit 2017-12-15
+- Wie viel kostet es? — 135.898714 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spanisch lernen mit der Sprachblock-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche

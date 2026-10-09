@@ -75,6 +75,13 @@
 - assets/products/32306-g3.webp
 - assets/products/32306-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Tiere besser verstehen durch Tierkommunikation Basis Kurs? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-04-08
+- Wie viel kostet es? — 441.84700000000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tiere besser verstehen durch Tierkommunikation Basis Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche

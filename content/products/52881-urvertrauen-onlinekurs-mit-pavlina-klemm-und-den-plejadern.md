@@ -61,6 +61,13 @@
 
 > »Das Thema ›Urvertrauen‹ ist in dieser Zeit besonders wichtig. Denn wir leben in einer magischen Zeit voller Veränderung und voller Möglichkeiten. Aber es ist nicht immer einfach. Es ist durch Manipulation viel Unsicherheit im Feld. Deswegen ist dieser Kurs entstanden, um Dich bei der Erweckung Deines Urvertrauens zu begleiten und zu unterstützen. Ich freue mich sehr, wenn Du diesen Weg gemeinsam mit mir gehst!« Deine Pavlina Klemm
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern? — Typ: Member area and video courses, Anbieter: ChannelingKongress, gelistet seit 2025-05-04
+- Wie viel kostet es? — 168.83029800000003 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern Alternativen · Preis & Daten · Erfahrungen & Recherche

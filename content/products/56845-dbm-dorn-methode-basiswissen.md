@@ -56,6 +56,13 @@
 
 > Hinweis zur Zahlungsabwicklung Die Bestellung und Zahlung werden über Digistore24 als offiziellen Verkaufspartner abgewickelt. Digistore24 übernimmt die Zahlungsabwicklung, Rechnungsstellung und die Bereitstellung des Zugangs.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist DBM - Dorn-Methode Basiswissen? — Typ: Member area and video courses, Anbieter: dornbreuss, gelistet seit 2026-06-09
+- Wie viel kostet es? — 133.381864 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DBM - Dorn-Methode Basiswissen Alternativen · Preis & Daten · Erfahrungen & Recherche

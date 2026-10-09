@@ -59,6 +59,13 @@
 
 - assets/products/56757-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Modul 3 – Organisations- und Prozessstabilität? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
+- Wie viel kostet es? — 328.06300799999997 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Modul 3 – Organisations- und Prozessstabilität Alternativen · Preis & Daten · Erfahrungen & Recherche

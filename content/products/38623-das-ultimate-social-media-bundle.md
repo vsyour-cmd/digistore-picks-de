@@ -50,6 +50,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das "Ultimate Social Media Bundle"? — Typ: Member area and video courses, Anbieter: DanielKocks, gelistet seit 2021-12-17
+- Wie viel kostet es? — 28.18872 USD
+- Garantie? — 14
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das "Ultimate Social Media Bundle" Alternativen · Preis & Daten · Erfahrungen & Recherche

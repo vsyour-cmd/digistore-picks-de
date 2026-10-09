@@ -70,6 +70,13 @@
 - assets/products/57757-g3.webp
 - assets/products/57757-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Raus aus der Angst – Onlinekurs gegen Angst? — Typ: Member area and video courses, Anbieter: coaching-am-meer, gelistet seit 2026-07-27
+- Wie viel kostet es? — 281.99906 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus der Angst – Onlinekurs gegen Angst Alternativen · Preis & Daten · Erfahrungen & Recherche

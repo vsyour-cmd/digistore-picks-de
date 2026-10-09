@@ -76,6 +76,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Jazz Piano Videokurs? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2021-08-14
+- Wie viel kostet es? — 493.50394800000004 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Jazz Piano Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche

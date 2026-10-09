@@ -45,6 +45,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier? — Typ: Deliverable, Anbieter: raiblo, gelistet seit 2023-12-05
+- Wie viel kostet es? — 61.097932 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier Alternativen · Preis & Daten · Erfahrungen & Recherche

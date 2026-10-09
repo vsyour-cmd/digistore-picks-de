@@ -49,6 +49,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Raus aus der Müdigkeit (E-Book)? — Typ: E-books, Anbieter: worldxpb, gelistet seit 2026-07-11
+- Wie viel kostet es? — 15.626842000000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus der Müdigkeit (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche

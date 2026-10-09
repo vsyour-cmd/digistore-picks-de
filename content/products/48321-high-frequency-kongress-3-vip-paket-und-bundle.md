@@ -65,6 +65,13 @@
 - assets/products/48321-g3.webp
 - assets/products/48321-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist High Frequency Kongress 3 - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2024-03-17
+- Wie viel kostet es? — 121.9274 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High Frequency Kongress 3 - VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche

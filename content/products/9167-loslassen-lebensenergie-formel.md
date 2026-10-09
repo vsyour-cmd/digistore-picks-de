@@ -63,6 +63,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Loslassen-Lebensenergie-Formel? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2015-10-14
+- Wie viel kostet es? — 24.72106 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loslassen-Lebensenergie-Formel Alternativen · Preis & Daten · Erfahrungen & Recherche

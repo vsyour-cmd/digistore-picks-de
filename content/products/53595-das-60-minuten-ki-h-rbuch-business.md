@@ -47,6 +47,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Das 60-Minuten KI Hörbuch-Business? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-08-21
+- Wie viel kostet es? — 3.8815420000000005 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 60-Minuten KI Hörbuch-Business Alternativen · Preis & Daten · Erfahrungen & Recherche

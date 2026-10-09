@@ -69,6 +69,13 @@
 - assets/products/25608-g3.webp
 - assets/products/25608-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Smartphone Cash Machine - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-06-26
+- Wie viel kostet es? — 183.036518 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smartphone Cash Machine - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche

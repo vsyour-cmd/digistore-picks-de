@@ -82,6 +82,13 @@
 - assets/products/37345-g1.webp
 - assets/products/37345-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Trennung und Liebeskummer überwinden (Onlinekurs)? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-24
+- Wie viel kostet es? — 270.72357200000005 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trennung und Liebeskummer überwinden (Onlinekurs) Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -76,6 +76,13 @@
 - assets/products/56256-g3.webp
 - assets/products/56256-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Breathwork und Beambreath Grundausbildung? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2024-05-16
+- Wie viel kostet es? — 1177.818684 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Breathwork und Beambreath Grundausbildung Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Magic Profit 2.0 - Partnerprogramm? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2024-05-06
+- Wie viel kostet es? — 91.177086 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magic Profit 2.0 - Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche

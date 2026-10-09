@@ -78,6 +78,13 @@
 - assets/products/44684-g3.webp
 - assets/products/44684-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen? — Typ: Member area and video courses, Anbieter: Deinechance, gelistet seit 2020-08-16
+- Wie viel kostet es? — 220.3642 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen Alternativen · Preis & Daten · Erfahrungen & Recherche

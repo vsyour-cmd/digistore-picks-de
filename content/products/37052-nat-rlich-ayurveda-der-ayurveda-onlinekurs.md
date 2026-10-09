@@ -72,6 +72,13 @@
 - assets/products/37052-g3.webp
 - assets/products/37052-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Natürlich Ayurveda - Der Ayurveda Onlinekurs? — Typ: Member area and video courses, Anbieter: tastykaty, gelistet seit 2021-04-28
+- Wie viel kostet es? — 271.663196 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Natürlich Ayurveda - Der Ayurveda Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche

@@ -62,6 +62,13 @@
 - assets/products/45057-g3.webp
 - assets/products/45057-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Holistic Mobility DEEP [Online Kurs]? — Typ: Member area and video courses, Anbieter: timboettner, gelistet seit 2023-08-17
+- Wie viel kostet es? — 328.06300799999997 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Holistic Mobility DEEP [Online Kurs] Alternativen · Preis & Daten · Erfahrungen & Recherche

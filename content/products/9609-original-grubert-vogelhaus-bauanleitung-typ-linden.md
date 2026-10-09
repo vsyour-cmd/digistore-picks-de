@@ -53,6 +53,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Original Grubert Vogelhaus Bauanleitung Typ "Linden"? — Typ: Member area and video courses, Anbieter: spike76, gelistet seit 2015-11-04
+- Wie viel kostet es? — 55.460188 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Original Grubert Vogelhaus Bauanleitung Typ "Linden" Alternativen · Preis & Daten · Erfahrungen & Recherche

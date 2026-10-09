@@ -77,6 +77,13 @@
 - assets/products/59557-g2.webp
 - assets/products/59557-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Gesundheit beginnt im Kopf - §20 Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2026-09-22
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesundheit beginnt im Kopf - §20 Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche

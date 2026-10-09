@@ -65,6 +65,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist FunnelCockpit - Die All-In-One Marketing Software? — Typ: Software, Anbieter: justviral, gelistet seit 2016-10-04
+- Wie viel kostet es? — 811.454812 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FunnelCockpit - Die All-In-One Marketing Software Alternativen · Preis & Daten · Erfahrungen & Recherche

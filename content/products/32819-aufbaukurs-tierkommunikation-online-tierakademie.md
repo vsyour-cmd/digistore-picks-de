@@ -73,6 +73,13 @@
 - assets/products/32819-g3.webp
 - assets/products/32819-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Aufbaukurs Tierkommunikation Online - Tierakademie? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-04-28
+- Wie viel kostet es? — 424.877838 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aufbaukurs Tierkommunikation Online - Tierakademie Alternativen · Preis & Daten · Erfahrungen & Recherche

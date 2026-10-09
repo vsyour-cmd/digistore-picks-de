@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-12-14
+- Wie viel kostet es? — 220.3642 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen Alternativen · Preis & Daten · Erfahrungen & Recherche

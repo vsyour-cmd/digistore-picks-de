@@ -57,6 +57,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Wegweiser für Träumende? — Typ: Book (printed), Anbieter: GeromeEhrler, gelistet seit 2022-01-25
+- Wie viel kostet es? — 26.275914 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wegweiser für Träumende Alternativen · Preis & Daten · Erfahrungen & Recherche

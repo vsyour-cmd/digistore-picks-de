@@ -71,6 +71,13 @@
 
 - assets/products/57047-g1.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist 75% Prov | Higher Self Audios + Buch (€39)? — Typ: Downloads, Anbieter: Nico1999, gelistet seit 2026-06-18
+- Wie viel kostet es? — 131.60329000000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Prov | Higher Self Audios + Buch (€39) Alternativen · Preis & Daten · Erfahrungen & Recherche

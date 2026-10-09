@@ -49,6 +49,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist AI Act Starter-Kit für Arztpraxen und MVZ? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
+- Wie viel kostet es? — 103.492872 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Act Starter-Kit für Arztpraxen und MVZ Alternativen · Preis & Daten · Erfahrungen & Recherche

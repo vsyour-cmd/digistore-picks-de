@@ -66,6 +66,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Digital Success Bundle? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-22
+- Wie viel kostet es? — 172.342702 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Success Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche

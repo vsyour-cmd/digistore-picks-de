@@ -60,6 +60,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Female Health Akademie? — Typ: Member area and video courses, Anbieter: JohannaKlatt, gelistet seit 2026-09-29
+- Wie viel kostet es? — 745.423854 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Female Health Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche

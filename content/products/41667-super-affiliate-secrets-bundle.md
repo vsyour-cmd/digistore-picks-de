@@ -43,6 +43,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Super-Affiliate Secrets Bundle? — Typ: Member area and video courses, Anbieter: startuprakete, gelistet seit 2020-12-23
+- Wie viel kostet es? — 7.71834 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Super-Affiliate Secrets Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche

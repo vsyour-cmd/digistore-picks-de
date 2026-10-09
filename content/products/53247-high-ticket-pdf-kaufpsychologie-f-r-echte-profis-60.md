@@ -64,6 +64,13 @@
 - assets/products/53247-g2.webp
 - assets/products/53247-g3.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist High-Ticket PDF: "Kaufpsychologie für echte Profis" – 60 €? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-21
+- Wie viel kostet es? — 167.778814 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High-Ticket PDF: "Kaufpsychologie für echte Profis" – 60 € Alternativen · Preis & Daten · Erfahrungen & Recherche

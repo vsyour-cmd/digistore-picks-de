@@ -55,6 +55,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-21
+- Wie viel kostet es? — 1398.238814 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK Alternativen · Preis & Daten · Erfahrungen & Recherche

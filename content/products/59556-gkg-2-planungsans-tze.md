@@ -62,6 +62,13 @@
 - assets/products/59556-g3.webp
 - assets/products/59556-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist GKG-2 Planungsansätze? — Typ: Downloads, Anbieter: unew_m8, gelistet seit 2026-09-22
+- Wie viel kostet es? — 140.05990599999998 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GKG-2 Planungsansätze Alternativen · Preis & Daten · Erfahrungen & Recherche

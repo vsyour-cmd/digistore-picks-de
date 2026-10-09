@@ -69,6 +69,13 @@
 - assets/products/4809-g3.webp
 - assets/products/4809-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Gitarre Lernen in 4 Wochen Crashkurs? — Typ: Member area and video courses, Anbieter: norberg, gelistet seit 2014-09-22
+- Wie viel kostet es? — 188.003102 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gitarre Lernen in 4 Wochen Crashkurs Alternativen · Preis & Daten · Erfahrungen & Recherche

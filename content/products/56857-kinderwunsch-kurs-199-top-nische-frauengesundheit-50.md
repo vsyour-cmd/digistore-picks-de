@@ -69,6 +69,13 @@
 - assets/products/56857-g1.webp
 - assets/products/56857-g2.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%? — Typ: Member area and video courses, Anbieter: travelmom89, gelistet seit 2026-06-10
+- Wie viel kostet es? — 187.958358 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50% Alternativen · Preis & Daten · Erfahrungen & Recherche

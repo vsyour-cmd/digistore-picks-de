@@ -46,6 +46,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich? — Typ: Member area and video courses, Anbieter: Selfievideo-Finanzmedia, gelistet seit 2025-09-29
+- Wie viel kostet es? — 188.79730800000002 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich Alternativen · Preis & Daten · Erfahrungen & Recherche

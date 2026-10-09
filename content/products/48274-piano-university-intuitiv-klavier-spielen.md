@@ -64,6 +64,13 @@
 - assets/products/48274-g3.webp
 - assets/products/48274-g4.webp
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Piano.University - Intuitiv Klavier spielen? — Typ: Member area and video courses, Anbieter: gordonnovember, gelistet seit 2024-04-19
+- Wie viel kostet es? — 422.058966 USD
+- Garantie? — 30
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Piano.University - Intuitiv Klavier spielen Alternativen · Preis & Daten · Erfahrungen & Recherche

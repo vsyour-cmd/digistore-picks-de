@@ -63,6 +63,13 @@
 
 > Ersetzt der Kurs eine medizinische Behandlung? Nein. Bei gesundheitlichen Beschwerden wenden Sie sich bitte an Ihre Ärztin oder Ihren Arzt.
 
+### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
+
+- Was ist Nichtraucher werden Online-Video-Kurs? — Typ: Online coaching, Anbieter: walter444, gelistet seit 2021-04-08
+- Wie viel kostet es? — 138.180658 USD
+- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nichtraucher werden Online-Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
