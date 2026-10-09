@@ -52,6 +52,21 @@ const DETAILS_FILE = process.env.DETAILS_FILE || "G:/Digistore24/data-de/details
 const DETAILS = fs.existsSync(DETAILS_FILE) ? JSON.parse(fs.readFileSync(DETAILS_FILE, "utf8")) : {};
 const productDetails = (id) => DETAILS[id] || null;
 
+// Cross-Language: Datensatz der englischen Website (gleiche Anbieter verlinken sich gegenseitig)
+const EN_DATASET_FILE = "G:/Digistore24/site/data/dataset.json";
+const EN_DATA = fs.existsSync(EN_DATASET_FILE) ? JSON.parse(fs.readFileSync(EN_DATASET_FILE, "utf8")) : null;
+const enVendorMap = (() => {
+  if (!EN_DATA) return new Map();
+  const m = new Map();
+  for (const p of EN_DATA.products) {
+    const k = (p.vendorName || "").toLowerCase();
+    if (!m.has(k)) m.set(k, []);
+    m.get(k).push(p);
+  }
+  for (const [, arr] of m) arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  return m;
+})();
+
 const TYPE_USAGE_DE = {
   "E-books": "E-Books auf Digistore24 werden als digitaler Download geliefert (meist PDF/EPUB): direkt nach dem Checkout erhalten Sie einen Downloadlink oder Mitgliederzugang und können auf jedem Gerät lesen.",
   "Downloads": "Download-Produkte werden digital geliefert: sofort nach dem Checkout erhalten Sie Downloadlinks (oder Zugang zu einem Mitgliederbereich) — kein physischer Versand.",
@@ -302,7 +317,7 @@ function researchSection(p) {
   if (r.guaranteeMention) parts.push(`<p><b>Garantie-Formulierung:</b> „${esc(r.guaranteeMention)}" — bitte vor dem Kauf immer die aktuellen Bedingungen auf der offiziellen Seite prüfen.</p>`);
   if (r.ctaTexts && r.ctaTexts.length) parts.push(`<p><b>CTA-Buttons:</b> ${r.ctaTexts.map((t) => `„${esc(t)}"`).join(" · ")}</p>`);
   parts.push(`<p class="sub">Recherche-Methode: ${r.method === "browser-render" ? "gerenderte Seite (Browser)" : "rohes HTML"} · ${r.wordCount} Wörter · Qualität: ${r.quality} · recherchiert am ${datemark(DATA.researchedAt)}. <a href="https://github.com/vsyour-cmd/digistore-picks-de/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">Vollständige Recherche-Datei (MD) ↗</a></p>`);
-  return `<h2>Von der Verkaufsseite des Anbieters</h2>
+  return `<h2 id="research">Von der Verkaufsseite des Anbieters</h2>
 <div class="notice"><b>Dies sind die eigenen Werbeaussagen des Anbieters</b>, wörtlich aus der offiziellen Verkaufsseite übernommen${r.finalUrl && r.finalUrl !== p.salesPageUrl ? ` (finale URL: ${esc(r.finalUrl)})` : ""}. Wir überprüfen weder Ergebnisse, Testimonials noch Einkommensversprechen.</div>
 ${parts.join("\n")}`;
 }
@@ -338,8 +353,9 @@ function profilePages(altSlugs) {
       : "";
 
     const vendorSiblings = products.filter((x) => x.id !== p.id && x.vendorName === p.vendorName).slice(0, 4);
+    p.vendorSiblings = vendorSiblings;
     const vendorBlock = vendorSiblings.length
-      ? `<h2>Weitere Angebote von ${esc(p.vendorName)}</h2>
+      ? `<h2 id="vendor">Weitere Angebote von ${esc(p.vendorName)}</h2>
 <div class="grid">${vendorSiblings.map((x) => productCard(x, "..")).join("\n")}</div>`
       : "";
 
@@ -354,6 +370,31 @@ function profilePages(altSlugs) {
 ${compareTable(p, altData)}
 <p class="sub">* Anbieter-seitige Statistiken; abhängig von der Traffic-Qualität, keine Prognose. Vollständiger Kontext: <a href="../alternativen/${p.slug}.html">Alternativen-Seite zu ${esc(p.label)}</a>.</p>`
       : "";
+
+    // Verknüpfungen: gleicher Anbieter auf EN-Seite / weitere Kategorien / ähnlicher Preis
+    const enList = (enVendorMap.get((p.vendorName || "").toLowerCase()) || []).slice(0, 3);
+    const crossBlock = enList.length
+      ? `<h2>Gleicher Anbieter auf unserer englischen Website</h2>
+<ul style="line-height:1.9">
+${enList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks/reviews/${slug(x.label)}-${x.id}.html" hreflang="en">${esc(x.label)}</a> — ${money(x.price, x.currency)}${x.categories && x.categories.length ? ` <span class="sub">(${esc(x.categories[0])})</span>` : ""}</li>`).join("\n")}
+</ul>
+<p class="sub">Gleicher Anbieter, englischsprachige Marktplatz-Listings.</p>`
+      : "";
+    const relatedIds = new Set(related.map((r) => r.id));
+    const priceNear = primaryCatId
+      ? products.filter((x) => x.id !== p.id && !relatedIds.has(x.id) && (x.categoryIds || []).includes(String(primaryCatId)) && x.price && p.price && Math.abs(x.price - p.price) / Math.max(p.price, 1) <= 0.35).slice(0, 4)
+      : [];
+    const priceNearBlock = priceNear.length
+      ? `<h2>Ähnliche Preislage in ${esc(p.categories[0] ? catName(DATA.categories.find((c) => c.label === p.categories[0]) || { labelDe: p.categories[0] }) : "dieser Kategorie")}</h2>
+<div class="grid">${priceNear.map((x) => productCard(x, "..")).join("\n")}</div>`
+      : "";
+    const otherCats = (p.categoryIds || []).slice(1).map((id) => DATA.categories.find((c) => String(c.catId) === String(id))).filter(Boolean).slice(0, 2);
+    const otherCatsBlock = otherCats.length
+      ? `<h2>${esc(p.label)} ist auch gelistet in</h2>
+<p>${otherCats.map((c) => `<a href="../kategorie/${c.file}.html">${esc(catName(c))}</a> (${c.count} Produkte)`).join(" · ")}</p>`
+      : "";
+    const methodBox = `<h2 id="method">Wie wir Produkte wie ${esc(p.label)} bewerten</h2>
+<p class="sub">Sechs Prüfungen, ausschließlich mit offiziellen Marktplatz-Zahlen. <a href="../blog/digistore24-zahlen-checkliste.html">Die vollständige Bewertungsmethode lesen</a> · <a href="../about.html">unsere Recherche-Standards &amp; Kennzeichnung</a>.</p>`;
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Start", href: "../index.html" }];
@@ -378,7 +419,7 @@ ${topCta}
 
 ${imgTag}
 
-<h2>Marktplatz-Daten</h2>
+<h2 id="record">Marktplatz-Daten</h2>
 <table class="specs">
 <tr><th>Produkttyp</th><td>${esc(p.typeDe)}</td></tr>
 <tr><th>Preis</th><td>${money(p.price, p.currency)} (${esc((p.billingTypes || []).join(", ")) || "siehe Verkaufsseite"})</td></tr>
@@ -402,14 +443,30 @@ ${relatedBlock}
 
 ${vendorBlock}
 
+${crossBlock}
+
 ${altLink}
 
 ${compareBlock}
 
+${otherCatsBlock}
+
+${priceNearBlock}
+
+${relatedSearches(p, altSlugs)}
+
+<h2>Wo Sie es sich ansehen können</h2>
+
 <h2>Wo Sie es sich ansehen können</h2>
 <p>Aktuelle Preise, Garantie und Boni finden Sie auf der offiziellen Verkaufsseite:<br>
 <a class="cta" href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">Offizielle Verkaufsseite ansehen</a></p>
-<p style="font-size:.88rem;color:var(--ink-soft)">Das ist ein Affiliate-Link (Werbung) — kaufen Sie darüber, verdienen wir ggf. eine Provision, ohne Mehrkosten für Sie.</p>`;
+<p style="font-size:.88rem;color:var(--ink-soft)">Das ist ein Affiliate-Link (Werbung) — kaufen Sie darüber, verdienen wir ggf. eine Provision, ohne Mehrkosten für Sie.</p>
+
+${sourcesBlock(p)}
+
+${methodBox}
+
+${interactionBlock}`;
 
     const jsonLd = [
       {
@@ -675,6 +732,45 @@ function compareTable(p, alts) {
 ${row(p, true)}
 ${alts.map((x) => row(x)).join("\n")}
 </table>`;
+}
+
+// Keyword-Tags (interne Verlinkung) + Quellen + Bewertungsmethode + Interaktion
+function relatedSearches(p, altSlugs) {
+  const pills = [];
+  if (altSlugs && altSlugs.has(p.slug)) pills.push([`${p.label} Alternativen`, `../alternativen/${p.slug}.html`]);
+  pills.push([`${p.label} Preis & Daten`, "#record"]);
+  pills.push([`${p.label} Erfahrungen & Recherche`, "#research"]);
+  if (p.vendorSiblings && p.vendorSiblings.length) pills.push([`Alle ${p.vendorName} Angebote`, "#vendor"]);
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  if (cat) {
+    pills.push([`${catName(cat)} auf Digistore24`, `../kategorie/${cat.file}.html`]);
+    if (cat.count >= 8) pills.push([`Beste ${catName(cat)} Produkte`, `../empfehlungen/beste-${cat.file}.html`]);
+  }
+  pills.push([`Wie wir Produkte bewerten`, `../blog/digistore24-zahlen-checkliste.html`]);
+  return `<h2>Ähnliche Suchanfragen</h2>
+<div class="pills">
+${pills.map(([t, href]) => `<a href="${href}">${esc(t)}</a>`).join("\n")}
+</div>`;
+}
+
+function sourcesBlock(p) {
+  return `<h2>Quellen &amp; weiterführende Informationen</h2>
+<ul style="line-height:1.9">
+<li><b>Offizielle Verkaufsseite</b> (aktueller Preis, Garantie, Boni): <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">${esc((p.salesPageUrl || "").replace(/^https?:\/\//, "").slice(0, 60))}</a> (Affiliate-Link)</li>
+<li><b>Öffentliche Digistore24-Produktseite:</b> <a href="https://www.digistore24.com/product/${p.productId}" rel="nofollow noopener" target="_blank">digistore24.com/product/${p.productId}</a></li>
+<li><b>Vollständige Recherche-Datei (Markdown, versioniert):</b> <a href="https://github.com/vsyour-cmd/digistore-picks-de/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">content/products/${p.id}-${slug(p.label)}.md</a></li>
+${p.affiliateSupportPageUrl ? `<li><b>Affiliate-Supportseite des Anbieters:</b> <a href="${esc(p.affiliateSupportPageUrl)}" rel="nofollow noopener" target="_blank">${esc(p.affiliateSupportPageUrl.replace(/^https?:\/\//, "").slice(0, 60))}</a></li>` : ""}
+<li><b>Marktplatz-Kategorie:</b> ${(p.categories || [])[0] ? `<a href="../kategorie/${(DATA.categories.find((c) => c.label === p.categories[0]) || {}).file || ""}.html">${esc(catName(DATA.categories.find((c) => c.label === p.categories[0]) || { labelDe: p.categories[0] }))}</a>` : "Ohne Kategorie"}</li>
+</ul>`;
+}
+
+function interactionBlock(p) {
+  const q = encodeURIComponent(p.label);
+  const mail = encodeURIComponent("Korrektur: " + p.label);
+  return `<h2>Fragen oder eigene Erfahrungen mit ${esc(p.label)}?</h2>
+<p>Praxis-Tests veröffentlichen wir erst, nachdem wir ein Produkt selbst gekauft haben — aber Ihre Erfahrung hilft anderen Lesern:
+<a href="https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=${q}" rel="noopener" target="_blank">Diskussion zu ${esc(p.label)} auf GitHub starten/verfolgen</a>.
+Falsche Zahl gefunden? <a href="mailto:admin@2bkf.com?subject=${mail}">Korrektur melden</a> — jede Seite zeigt ihre Datenstände, Korrekturen gelten für die ganze Website.</p>`;
 }
 
 // ---------- Über uns / Impressum / Datenschutz / 404 ----------
