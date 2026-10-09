@@ -327,7 +327,9 @@ ${idx === 0 ? faqBlock : ""}
         },
       ];
       fs.writeFileSync(path.join(dir, file), layout({
-        title: `${catName(c)} — ${items.length} Digistore24-Produkte: Preise & Provisionen${pages.length > 1 ? ` (Seite ${idx + 1})` : ""}`,
+        title: idx === 0
+          ? `${catName(c)} — ${items.length} Digistore24-Produkte: Preise & Provisionen`
+          : `${catName(c)} (${idx + 1}/${pages.length}) — ${items.length} Digistore24-Produkte`,
         desc: `${items.length} Digistore24-Produkte in ${catName(c)}: offizielle Preise, Provisionen (Ø ${money(avg, "USD")}), Konversion und Stornoquoten. Stand ${datemark(DATA.scrapedAt)}.`,
         body, rel: "..", path: `kategorie/${file}`, jsonLd, hreflangLinks: enCatHref(c.catId) || "",
         crumb: [{ label: "Start", href: "../index.html" }, { label: catName(c), href: `../kategorie/${file}` }],
@@ -638,7 +640,7 @@ ${alts.map(row).join("\n")}
       })),
     }];
     fs.writeFileSync(path.join(dir, p.slug + ".html"), layout({
-      title: `${p.label} Alternativen: die 4 nächsten Digistore24-Angebote im Vergleich`,
+      title: `Alternativen zu ${p.label}: die 4 nächsten Angebote im Vergleich`,
       desc: `${p.label} (${money(p.price, p.currency)}) im Vergleich mit den nächsten Alternativen in ${catObj ? catName(catObj) : "Marktplatz"}: Preis, Provision, Konversion und Stornoquote nebeneinander.`,
       body, rel: "..", path: `alternativen/${p.slug}.html`, jsonLd,
       crumb: [{ label: "Start", href: "../index.html" }, { label: p.label, href: `../produkte/${p.slug}.html` }, { label: "Alternativen", href: `../alternativen/${p.slug}.html` }],
