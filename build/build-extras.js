@@ -45,7 +45,7 @@ add("impressum.html", TODAY);
 add("datenschutz.html", TODAY);
 add("produkte/index.html", DATA_DATE);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
-for (const d of ["kategorie", "alternativen", "empfehlungen", "blog"]) {
+for (const d of ["kategorie", "alternativen", "empfehlungen", "blog", "hersteller"]) {
   const dir = path.join(ROOT, d);
   if (!fs.existsSync(dir)) continue;
   for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".html"))) add(`${d}/${f}`, d === "blog" ? TODAY : DATA_DATE);
