@@ -43,6 +43,10 @@ add("about.html", TODAY);
 add("monthly-new.html", TODAY);
 add("impressum.html", TODAY);
 add("datenschutz.html", TODAY);
+add("changelog.html", TODAY);
+add("digistore24-rueckerstattung.html", TODAY);
+add("ist-digistore24-sicher.html", TODAY);
+add("sicher-kaufen.html", TODAY);
 add("produkte/index.html", DATA_DATE);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
 for (const d of ["kategorie", "alternativen", "empfehlungen", "blog", "hersteller"]) {

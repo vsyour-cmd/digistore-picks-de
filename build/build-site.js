@@ -170,7 +170,8 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie entstehen keine Mehrkosten. Alle Marktplatz-Statistiken (Preis, Provision, Konversion, Verdienst) stammen vom offiziellen Digistore24-Marktplatz und sind keine Prognose Ihrer Ergebnisse.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site: 1243 Digistore24 products</a> · <a href="${rel}/changelog.html">Neuigkeiten</a></div>
+  <div class="buyerlinks"><b>Käufer-Hilfe:</b> <a href="${rel}/digistore24-rueckerstattung.html">Rückerstattungen: So funktioniert's</a> · <a href="${rel}/ist-digistore24-sicher.html">Ist Digistore24 sicher?</a> · <a href="${rel}/sicher-kaufen.html">Checkliste vor dem Kauf</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site</a> · <a href="${rel}/changelog.html">Neuigkeiten</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -1217,6 +1218,141 @@ ${catObj ? `<p>Primärkategorie: <a href="../kategorie/${catObj.file}.html">${es
   console.log("vendor hubs:", vendors.length);
 }
 
+function trustPages() {
+  // 信任枢纽页(德语):事实仅来自官方页面+本站研究扫描,逐项标注来源与日期。
+  const disclaimer = `<p class="sub"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links; kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie keine Mehrkosten. ${SITE_NAME} ist ein unabhängiges Verzeichnis – nicht Digistore24 und darüber hinaus nur über das Affiliate-Programm verbunden.</p>`;
+
+  const refundsBody = `
+<h1>Digistore24 Rückerstattung: Ablauf, Fristen, offizielle Wege</h1>
+<p class="sub">Wer für Rückerstattungen verantwortlich ist, wie der Ablauf funktioniert und wie Sie die Garantie <em>vor</em> dem Kauf prüfen.</p>
+<div class="tldr"><b>Das Wichtigste</b>
+<ul>
+<li>Digistore24 verkauft Produkte <b>als Reseller im eigenen Namen</b> und übernimmt Kundensupport, Reklamationsbearbeitung und Rückgabeverwaltung – Rückerstattungsanfragen laufen also über Digistore24, nicht über den einzelnen Anbieter (offizielle Anbieterangabe, abgerufen 2026-10-10).</li>
+<li>Die Garantie dauert <b>je Angebot unterschiedlich</b>, zentral geregelt ist sie nicht. In unserem Scan von 4.293 Verkaufsseiten nennen nur 10 % direkt Garantie-/Widerrufsformulierungen; wo Tage genannt werden, sind <b>90 Tage am häufigsten</b> (52 Angebote, dann 30/14/60 Tage).</li>
+<li>Offizielle Wege: der Link in der Bestellbestätigungs-E-Mail oder das Digistore24-Helpcenter.</li>
+<li>Wir sind ein unabhängiges Verzeichnis – wir verarbeiten keine Zahlungen und keine Rückerstattungen.</li>
+</ul></div>
+<h2>Wer über Ihr Geld – und Ihre Rückerstattung – wacht</h2>
+<p>Laut offizieller Anbieter-Dokumentation verkauft Digistore24 Produkte „als Reseller im eigenen Namen“ und übernimmt Buchhaltung, Rechnungserstellung, Steuermanagement, Kundensupport, Reklamationsbearbeitung und Rückgabeverwaltung. Für Käufer bedeutet das: Der Zahlungsvertrag besteht mit Digistore24, und Rückerstattungen werden über Digistore24 abgewickelt – nicht über den einzelnen Anbieter.</p>
+<p>Die offiziellen Käufer-Informationen von Digistore24 beschreiben zwei Wege für eine Rückerstattungsanfrage: über den Link in Ihrer <b>Bestellbestätigungs-E-Mail</b> („Do you have an urgent question about the product…“) oder über das Helpcenter unter <a href="https://help.digistore24.com" rel="noopener">help.digistore24.com</a>. Halten Sie Ihre Bestelldaten bereit (E-Mail-Adresse, Rechnungs- oder Transaktionsnummer).</p>
+<h2>Wie lang ist die Garantie? Je Angebot unterschiedlich – unsere Daten</h2>
+<p>Eine seitenweite Garantie gibt es nicht – <b>jeder Anbieter legt die Bedingungen für sein Angebot fest</b>. Für ein realistisches Bild haben wir die Verkaufsseiten von <b>4.293 Digistore24-Angeboten</b> in unserer Recherche-Datenbank ausgewertet (Stand 2026-10-10):</p>
+<table class="specs">
+<tr><th>Was die Anbieter-Verkaufsseiten zeigen</th><th>Angebote</th></tr>
+<tr><td>Nennen Garantie-, Geld-zurück-, Widerrufs- oder Rückerstattungsformulierungen</td><td>431 von 4.293 (10 %)</td></tr>
+<tr><td>Nennen eine explizite Tagesangabe</td><td>195</td></tr>
+</table>
+<p>Warum nur 10 %? Deutsche Anbieter verweisen das gesetzliche <b>Widerrufsrecht</b> oft in verlinkte AGB-/Impressum-Seiten statt auf die Verkaufsseite selbst. Dort, wo Tage genannt werden, ist das Bild klar:</p>
+<table class="specs">
+<tr><th>Genannte Garantiedauer (Anbieterangaben)</th><th>Angebote</th></tr>
+<tr><td>90 Tage</td><td>52</td></tr>
+<tr><td>30 Tage</td><td>49</td></tr>
+<tr><td>14 Tage</td><td>46</td></tr>
+<tr><td>60 Tage</td><td>24</td></tr>
+<tr><td>Sonstige (7, 21 Tage…)</td><td>24</td></tr>
+</table>
+<p class="sub"><b>Anbieterangaben, nicht von uns geprüft.</b> Aus den Verkaufsseiten der Anbieter, abgerufen 2026-10-10; Bedingungen können sich jederzeit ändern. Bestätigen Sie die Garantie immer auf der Kassenseite – diese Version zählt.</p>
+<h2>Garantie vor dem Kauf prüfen (2 Minuten)</h2>
+<ol>
+<li>Produktprofil auf dieser Seite öffnen – jedes Profil verlinkt die offizielle Verkaufsseite und zeigt die <b>Zahlungsart</b> (Einmalzahlung, Ratenkauf oder Abo).</li>
+<li>Garantie-Formulierung auf der Verkaufsseite lesen.</li>
+<li>An der Kasse bestätigen, dass dieselbe Garantie genannt wird.</li>
+<li>Bei Abos: klären, wie die <b>Laufzeit-Kündigung</b> getrennt von der Geld-zurück-Frist funktioniert.</li>
+<li>Kassenbedingungen als Screenshot sichern.</li>
+</ol>
+<h2>Falls etwas schiefgeht</h2>
+<p>Rückerstattung über die offiziellen Digistore24-Kanäle beantragen (Bestätigungs-E-Mail oder Helpcenter). Wird eine zugesagte Garantie abgelehnt, sind Ihre Kassen-Screenshots die Dokumentation – eskalieren Sie über den Digistore24-Support, der als Reseller Rückgaben und Reklamationen verwaltet.</p>
+<p>Unser Teil: Jedes Profil ist mit seiner Recherche-Methode gekennzeichnet, und wenn eine Verkaufsseite nicht erreichbar ist, sagen wir das offen. Siehe auch <a href="ist-digistore24-sicher.html">was wir über die Plattform prüfen können</a> und die <a href="sicher-kaufen.html">Checkliste vor dem Kauf</a>.</p>
+<h2>Quellen &amp; Methode</h2>
+<ul>
+<li>Digistore24-Homepage (digistore24.com) – Reseller-Modell, Support- und Rückgabeverwaltung; abgerufen 2026-10-10.</li>
+<li>Offizielle Käufer-Informationen von Digistore24 – Rückerstattungswege; abgerufen 2026-10-10.</li>
+<li>${SITE_NAME} Verkaufsseiten-Scan – 4.293 recherchierte Angebote, Garantieformulierungen wörtlich extrahiert; Stand 2026-10-10. Anbieterangaben, nicht von uns geprüft.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("digistore24-rueckerstattung.html"), layout({
+    title: "Digistore24 Rückerstattung: Ablauf, Fristen, offizielle Wege",
+    desc: `Wer Rückerstattungen bei Digistore24 bearbeitet, wie Sie eine beantragen und was unser Scan von 4.293 Verkaufsseiten über Garantiefristen zeigt (90 Tage am häufigsten). Stand ${datemark(DATA.scrapedAt)}.`,
+    body: refundsBody, path: "digistore24-rueckerstattung.html", hreflangLinks: HREF_HOME,
+  }));
+
+  const safeBody = `
+<h1>Ist Digistore24 seriös und sicher? Was wir prüfen – und was nicht</h1>
+<p class="sub">Ein unabhängiger Blick auf die Plattform selbst: Wer dahintersteckt, was sie tut – und was das für Käufer bedeutet.</p>
+<div class="tldr"><b>Das Wichtigste</b>
+<ul>
+<li>Digistore24 verkauft digitale Produkte <b>als Reseller im eigenen Namen</b> – Buchhaltung, Rechnungen, Steuern, Kundensupport, Reklamationen und Rückgaben übernimmt die Plattform (offizielle Angabe, abgerufen 2026-10-10).</li>
+<li>Die Plattform veröffentlicht live Kennzahlen auf der eigenen Homepage (87 % Kundenzufriedenheit, 22.701 gelöste Tickets in den letzten 30 Tagen, Stand 2026-10-10 – Anbieterangaben).</li>
+<li>Plattform ≠ Produktqualität: Jeder Anbieter kann ein Angebot einstellen. Bewerten Sie jedes Produkt einzeln – genau dafür ist dieses Verzeichnis da.</li>
+</ul></div>
+<h2>Was Digistore24 ist (offizielle Fakten)</h2>
+<ul>
+<li><b>Reseller of Record:</b> Produkte werden im eigenen Namen von Digistore24 verkauft; die Plattform übernimmt Buchhaltung, Rechnungserstellung, Steuermanagement, Kundensupport, Reklamationsbearbeitung und Rückgabeverwaltung (offizielle Homepage, abgerufen 2026-10-10).</li>
+<li><b>Gründer &amp; CEO:</b> Sven Platte (offizielle Homepage).</li>
+<li><b>Infrastruktur (Anbieterangaben):</b> TÜV-zertifizierte IT-Infrastruktur, 30-köpfiges deutsches Inhouse-Entwicklerteam, AWS-Hosting.</li>
+<li><b>Zahlungsarten (Anbieterangaben):</b> Kreditkarte, Rechnung, PayPal, Klarna inkl. Pay-Later; Ratenkauf und Abos werden unterstützt.</li>
+<li><b>Skalierung (Anbieterangaben):</b> 3 Mrd. € Umsatz über Affiliates und Vendoren, 100+ Mio. verkaufte Produkte, 10.000+ aktive Affiliates, 8.000+ Angebote in 44+ Nischen.</li>
+<li><b>Veröffentlichte Support-Kennzahlen:</b> 87 % Kundenzufriedenheit (letzte 30 Tage), 22.701 gelöste Tickets (letzte 30 Tage), 100,0 % Uptime (letzte 90 Tage) – angezeigt auf der offiziellen Homepage am 2026-10-10; Anbieterangaben, ändern sich laufend.</li>
+</ul>
+<h2>Was das für Sie als Käufer bedeutet</h2>
+<p>Zahlungen laufen über die Plattform als Reseller, Rückerstattungsanfragen über Digistore24 (<a href="digistore24-rueckerstattung.html">siehe Rückerstattungs-Guide</a>). Aber die Plattform ist ein Marktplatz: <b>Die Angebotsqualität variiert, weil jeder Anbieter selbst entscheidet, was er verkauft und wie.</b> Eine sichere Kasse macht noch kein gutes Angebot – deshalb ist die Einzelduell-Prüfung wichtig.</p>
+<h2>Was wir je Angebot prüfen – und wie</h2>
+<ul>
+<li><b>Offizielle Marktplatz-Kennzahlen:</b> Preis, Provision, Kassen-Konversion, Stornoquote, Verdienst pro Verkauf – gekennzeichnet als Anbieter-seitige Marktplatzdaten, nie als Prognosen.</li>
+<li><b>Verkaufsseiten-Recherche:</b> wörtliche Auszüge markiert als „Anbieteraussagen, nicht von uns geprüft“.</li>
+<li><b>Erreichbarkeit:</b> Tote Domains und abgelaufene Zertifikate werden offen ausgewiesen – das ist Information über den Angebotszustand.</li>
+<li><b>Methoden-Kennzeichnung:</b> jede Seite sagt „Datenprofil“ oder „Praxis-Test“.</li>
+<li><b>Keine bezahlten Platzierungen:</b> Wir nehmen kein Geld für Listenposition oder Bewertungen. Wir verdienen Affilate-Provisionen bei Kauf über Links – ohne Mehrkosten für Sie.</li>
+</ul>
+<h2>Warnsignale, die wir ausweisen statt verstecken</h2>
+<p>Nicht erreichbare oder nur per JS gerenderte Verkaufsseiten, fehlende performance-Kennzahlen, Auffälligkeiten bei der Stornoquote – jedes Produktprofil zeigt, was Marktplatz und Verkaufsseite tatsächlich sagen, einschließlich der Lücken. Nutzen Sie die <a href="sicher-kaufen.html">Checkliste vor dem Kauf</a> als Routine.</p>
+<h2>Quellen &amp; Methode</h2>
+<ul>
+<li>Digistore24-Homepage (digistore24.com) – Unternehmen, Reseller-Modell, Support-Kennzahlen; abgerufen 2026-10-10.</li>
+<li>${SITE_NAME} Marktplatz-Snapshot von ${DATA.total} Angeboten und Verkaufsseiten-Recherche (${DATA.withResearch} recherchiert); Stand 2026-10-10.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("ist-digistore24-sicher.html"), layout({
+    title: "Ist Digistore24 seriös und sicher? Was wir prüfen – und was nicht",
+    desc: `Unabhängige Einschätzung von Digistore24: Reseller-Modell, Unternehmensfakten, veröffentlichte Support-Zahlen – und was Käufer je Angebot prüfen sollten. Stand ${datemark(DATA.scrapedAt)}.`,
+    body: safeBody, path: "ist-digistore24-sicher.html", hreflangLinks: HREF_HOME,
+  }));
+
+  const checklistBody = `
+<h1>Vor dem Kauf auf Digistore24: Checkliste in 5 Minuten</h1>
+<p class="sub">Sechs Prüfungen, fünf Minuten – und die häufigsten Kaufreuegründe sind abgedeckt. Funktioniert für jedes Angebot der Plattform.</p>
+<div class="tldr"><b>Die Checkliste</b>
+<ol>
+<li><b>Verkaufsseite des Anbieters lesen</b> – jedes Profil verlinkt sie. Ist eine Seite nicht erreichbar, sagt unser Profil das offen.</li>
+<li><b>Garantie an der Kasse bestätigen</b> – wo eine Tagesangabe steht, sind 90 Tage am häufigsten (Anbieterangaben aus unserem Scan). Die Kassenseite ist die Version, die zählt.</li>
+<li><b>Zahlungsart kennen</b> – Einmalzahlung, Ratenkauf oder Abo steht in jedem Profil. Abos brauchen eine separate Kündigung, getrennt von der Geld-zurück-Frist.</li>
+<li><b>Anbieter &amp; Support-Kanäle notieren</b> – Profile nennen den Anbieternamen; Rückerstattungen laufen über Digistore24 (siehe Rückerstattungs-Guide).</li>
+<li><b>Kassenbedingungen screenshoten</b> – das ist Ihre Dokumentation.</li>
+<li><b>Bei Problemen den offiziellen Weg nutzen</b> – Bestellbestätigungs-E-Mail oder Digistore24-Helpcenter.</li>
+</ol></div>
+<h2>So lesen Sie unsere Produktprofile</h2>
+<p>Jedes Profil zeigt die offiziellen Marktplatz-Zahlen (Preis, Provision, Kassen-Konversion, Stornoquote, Verdienst pro Verkauf – Anbieter-seitige Daten, keine Prognosen), wörtliche Auszüge aus der Verkaufsseite markiert als „Anbieteraussagen, nicht von uns geprüft“ und eine Methoden-Kennzeichnung: <b>Datenprofil</b> (Fakten aus Listing und öffentlicher Verkaufsseite) oder <b>Praxis-Test</b> (selbst gekauft und genutzt). Ist eine Verkaufsseite nicht erreichbar, steht das im Profil.</p>
+<h2>Drei Zahlen mit doppeltem Blickwert</h2>
+<ul>
+<li><b>Stornoquote</b> – wie oft Käufer stornieren oder zurückgeben, laut Marktplatz für dieses Angebot. Hohe Werte verdienen Extra-Skepsis gegenüber den Versprechen der Verkaufsseite.</li>
+<li><b>Kassen-Konversion</b> – hängt von der Traffic-Qualität des Anbieters ab; Funnel-Performance, kein Versprechen für Ihr Erlebnis.</li>
+<li><b>Zahlungsarten</b> – ein „Einmalzahlung“-Angebot verhält sich nach Ablauf der Rückgabefrist sehr anders als ein Abo.</li>
+</ul>
+<h2>Quellen &amp; Methode</h2>
+<ul>
+<li>Offizielle Marktplatzdaten: Digistore24-Marktplatz, Stand ${datemark(DATA.scrapedAt)}.</li>
+<li>Garantie-Scan: ${DATA.withResearch} recherchierte Verkaufsseiten, Stand 2026-10-10 – Anbieterangaben, nicht von uns geprüft.</li>
+<li>Rückerstattungswege: offizielle Käufer-Informationen von Digistore24, abgerufen 2026-10-10.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("sicher-kaufen.html"), layout({
+    title: "Vor dem Kauf auf Digistore24: Checkliste in 5 Minuten",
+    desc: `Sechs Prüfungen vor der Zahlung auf Digistore24: Garantie an der Kasse, Zahlungsart, Anbieter und Support-Wege – mit Daten aus ${DATA.withResearch} recherchierten Verkaufsseiten.`,
+    body: checklistBody, path: "sicher-kaufen.html", hreflangLinks: HREF_HOME,
+  }));
+  console.log("trust pages (DE): 3");
+}
+
 function changelogPage() {
   const f = path.join(ROOT, "build", "changelog.json");
   if (!fs.existsSync(f)) return;
@@ -1236,6 +1372,7 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 staticPages();
+trustPages();
 monthlyNewPage();
 changelogPage();
 vendorHubs();

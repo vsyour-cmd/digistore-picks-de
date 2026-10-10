@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Käufer-Vertrauensseiten: drei neue seitenweite Seiten — Rückerstattung, Seriosität und Kauf-Checkliste. Basieren auf offiziellen Digistore24-Angaben plus eigenem Garantie-Scan (nur 10 % der deutschen Verkaufsseiten nennen Garantie-Formulierungen direkt; wo Tage genannt werden: 90 am häufigsten). QA-Fix: Sitemap-Abdeckung ist jetzt eine echte Prüfung.",
+      "changes": [
+        "3 neue deutsche Käufer-Seiten (Rückerstattung / Seriosität / Checkliste), seitenweit im Footer verlinkt",
+        "Sitemap: changelog.html + die 3 Vertrauensseiten ergänzt",
+        "qa-links.js: wirkungsloser Sitemap-Abdeckungsfilter repariert — fehlende Seiten werden jetzt gemeldet"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Recherche-Nachtrag: 38 zuvor fehlende Verkaufsseiten-Studien ergänzt (Abdeckung jetzt 3726/4270, 87 %); 544 tote Domains bleiben ehrlich gekennzeichnet. Aufgaben-Warteschlange mit 8 neuen Verbesserungen befüllt.",
       "changes": [
         "fetch-research: 38 Angebote wiederhergestellt",
