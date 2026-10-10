@@ -268,6 +268,55 @@ ${EN_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="htt
 }
 
 // ---------- Blog-Index ----------
+// ---------- Head-to-head: Top20 相邻两两对比(德语) ----------
+function headToHead() {
+  const top = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 20);
+  fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
+  let built = 0;
+  for (let i = 0; i + 1 < top.length; i += 2) {
+    const A = top[i], B = top[i + 1];
+    const slugName = "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html";
+    const row = (p, self) => `<tr${self ? ' class="self"' : ""}><td>${self ? `<b>${esc(p.label)}</b>` : `<a href="../produkte/${p.slug}.html">${esc(p.label)}</a>`}</td><td>${esc(p.typeDe)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`;
+    const pick = (label, p) => `<li><b>${label}:</b> <a href="../produkte/${p.slug}.html">${esc(p.label)}</a> — ${money(p.earningsPerSale, p.currency)}/Verkauf, ${pct(p.commission)} Provision, ${money(p.price, p.currency)}</li>`;
+    const cheaper = (A.price || 1e9) <= (B.price || 1e9) ? A : B;
+    const biggerEps = (A.earningsPerSale || 0) >= (B.earningsPerSale || 0) ? A : B;
+    const betterConv = (A.conversionRate || 0) >= (B.conversionRate || 0) ? A : B;
+    const lowerCancel = (A.cancelRate || 99) <= (B.cancelRate || 99) ? A : B;
+    const body = `<article class="review">
+<h1>${esc(A.label)} vs ${esc(B.label)}: welches passt zu dir?</h1>
+<p class="sub">Direktvergleich · offizielle Marktplatz-Daten vom ${UPDATED} · Teil der <a href="top-20-hoechster-verdienst-digistore24-produkte.html">Top-Verdienst-Serie</a></p>
+<div class="notice"><b>Wie dieser Vergleich entstand:</b> beide Angebote liegen nebeneinander im Top-Verdienst-Ranking. Alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten (Snapshot ${UPDATED}) — ein Vergleich der Listings, kein Praxistest.</div>
+<div class="tldr"><b>Auf einen Blick:</b>
+<ul>
+<li><b>${esc(A.label)}</b>: ${money(A.price, A.currency)}, ${pct(A.commission)} Provision, ${money(A.earningsPerSale, A.currency)}/Verkauf.</li>
+<li><b>${esc(B.label)}</b>: ${money(B.price, B.currency)}, ${pct(B.commission)} Provision, ${money(B.earningsPerSale, B.currency)}/Verkauf.</li>
+<li>Günstiger: ${esc((A.price || 1e9) <= (B.price || 1e9) ? A.label : B.label)} · Höherer Verdienst/Verkauf: ${esc(biggerEps.label)} · Niedrigere Stornoquote: ${esc(lowerCancel.label)}.</li>
+</ul>
+</div>
+<h2>Side by side</h2>
+<table class="specs">
+<tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Checkout-CR*</th><th>Storno*</th></tr>
+${row(A, true)}
+${row(B)}
+</table>
+<p class="sub">* Anbieter-seitige Marktplatz-Statistiken; abhängig von der Traffic-Qualität, keine Prognose.</p>
+<h2>Die Zahlen einzeln</h2>
+<ul>
+<li><b>Günstigster Einstieg:</b> <a href="../produkte/${cheaper.slug}.html">${esc(cheaper.label)}</a> (${money(cheaper.price, cheaper.currency)})</li>
+<li><b>Höchster Verdienst/Verkauf:</b> <a href="../produkte/${biggerEps.slug}.html">${esc(biggerEps.label)}</a> (${money(biggerEps.earningsPerSale, biggerEps.currency)})</li>
+<li><b>Niedrigste Stornoquote:</b> <a href="../produkte/${lowerCancel.slug}.html">${esc(lowerCancel.label)}</a> (${pct(lowerCancel.cancelRate)})</li>
+<li><b>Beste Checkout-Konversion:</b> <a href="../produkte/${betterConv.slug}.html">${esc(betterConv.label)}</a> (${pct(betterConv.conversionRate)})</li>
+</ul>
+<h2>Passung schlägt Zahlen</h2>
+<p>Beide sind High-Ticket-Listings — die richtige Wahl hängt von Zielgruppe und Bewerbungsstil ab, nicht von einer Kennzahl. Lies beide Vollprofile (oben verlinkt) und prüfe die aktuellen Garantien auf den Verkaufsseiten.</p>
+<p>Alternativen: <a href="../alternativen/${A.slug}.html">Alternativen zu ${esc(A.label)}</a> · <a href="../alternativen/${B.slug}.html">Alternativen zu ${esc(B.label)}</a></p>
+</article>`;
+    fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${A.label} vs ${B.label} — welches passt zu dir? — ${SITE_NAME}`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): Preis, Provision, Konversion und Stornoquote im Vergleich auf offiziellen Marktplatz-Daten.`, body, rel: "..", file: slugName }));
+    built++;
+  }
+  console.log("head-to-head (DE):", built, "Artikel");
+}
+
 function blogIndex() {
   const files = [
     ["top-20-hoechster-verdienst-digistore24-produkte.html", `Die 20 Digistore24-Produkte mit dem höchsten Verdienst`, `Alle ${DATA.total} deutschen Angebote nach offiziellem Verdienst pro Verkauf. Automatisch aktualisiert.`],
@@ -291,6 +340,10 @@ function blogIndex() {
 <ul style="line-height:2.1;max-width:760px">
 ${bestOf.map((c) => `<li><a href="../empfehlungen/beste-${c.file}.html"><b>Beste ${esc(catName(c))}-Produkte auf Digistore24</b></a><br><span class="sub">${c.count} Angebote analysiert, Auswahl aus offiziellen Statistiken berechnet.</span></li>`).join("\n")}
 </ul>
+<h2>Head-to-head-Vergleiche</h2>
+<ul style="line-height:2.1;max-width:760px">
+${fs.readdirSync(path.join(ROOT, "blog")).filter((vf) => vf.startsWith("vs-") && vf.endsWith(".html")).map((vf) => { const vh = fs.readFileSync(path.join(ROOT, "blog", vf), "utf8"); const vt = (vh.match(/<h1>([^<]*)<\/h1>/) || [])[1] || vf; return `<li><a href="${vf}"><b>${vt}</b></a></li>`; }).join("\n")}
+</ul>
 <h2>Guides &amp; Ranglisten</h2>
 <ul style="line-height:2.1;max-width:760px">
 ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span class="sub">${esc(d)}</span></li>`).join("\n")}
@@ -305,6 +358,7 @@ ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span cla
 fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
 top20();
 checklist();
+headToHead();
 categoryGuides();
 blogIndex();
 console.log("blog (DE) built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");
