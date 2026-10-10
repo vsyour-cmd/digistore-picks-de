@@ -4,15 +4,15 @@ digistore24_product_id: 661107
 title: "E-Book zu TikTok  ChatGPT"
 vendor: "startsocial"
 product_type: "Online coaching"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.7
+earnings_per_sale: 12.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/661107?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book zu TikTok  ChatGPT
 
 > Product ID `55202` · Digistore24 productId `661107` · [HTML profile page](../../produkte/e-book-zu-tiktok-chatgpt-55202.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.70 |
+| Earnings/sale* | $12.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | startsocial |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book zu TikTok  ChatGPT? — Typ: Online coaching, Anbieter: startsocial, gelistet seit 2026-01-13
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

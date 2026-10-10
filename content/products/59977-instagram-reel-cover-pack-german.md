@@ -4,15 +4,15 @@ digistore24_product_id: 737331
 title: "Instagram Reel Cover Pack (German)"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 14.11
+price: 14.13
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.52
+earnings_per_sale: 3.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/reel-cover-starter-pack-de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram Reel Cover Pack (German)
 
 > Product ID `59977` · Digistore24 productId `737331` · [HTML profile page](../../produkte/instagram-reel-cover-pack-german-59977.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.11 (Single payment) |
+| Price | $14.13 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.52 |
+| Earnings/sale* | $3.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Reel Cover Pack (German)? — Typ: Downloads, Anbieter: xarutacom, gelistet seit 2026-09-27
-- Wie viel kostet es? — 14.105546 USD
+- Wie viel kostet es? — 14.130766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 58279
 title: "Zauberkurs für Kids"
 vendor: "Magingo"
 product_type: "Member area and video courses"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.54
+earnings_per_sale: 93.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2015-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zauberkurs für Kids
 
 > Product ID `8619` · Digistore24 productId `58279` · [HTML profile page](../../produkte/zauberkurs-f-r-kids-8619.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.06 (Subscription) |
+| Price | $187.40 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.54 |
+| Earnings/sale* | $93.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magingo |
@@ -108,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zauberkurs für Kids? — Typ: Member area and video courses, Anbieter: Magingo, gelistet seit 2015-09-07
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

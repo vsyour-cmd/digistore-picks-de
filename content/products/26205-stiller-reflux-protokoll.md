@@ -4,15 +4,15 @@ digistore24_product_id: 151257
 title: "Stiller Reflux Protokoll"
 vendor: "Sanariver"
 product_type: "Downloads"
-price: 114.78
+price: 114.98
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.91
+earnings_per_sale: 31.97
 cart_conversion_pct: 21
 cancel_rate_pct: 14.86
 categories: ["Health & Fitness"]
 listed_since: "2017-07-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.refluxgate.de/stiller-reflux-protokoll?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Stiller Reflux Protokoll
 
 > Product ID `26205` · Digistore24 productId `151257` · [HTML profile page](../../produkte/stiller-reflux-protokoll-26205.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $114.78 (Single payment) |
+| Price | $114.98 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.91 |
+| Earnings/sale* | $31.97 |
 | Cart conversion* | 21% |
 | Cancel rate* | 14.86% |
 | Vendor | Sanariver |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stiller Reflux Protokoll? — Typ: Downloads, Anbieter: Sanariver, gelistet seit 2017-07-17
-- Wie viel kostet es? — 114.779546 USD
+- Wie viel kostet es? — 114.98476600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

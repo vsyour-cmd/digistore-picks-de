@@ -4,15 +4,15 @@ digistore24_product_id: 716420
 title: "Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
 vendor: "Neurotraining_Akademie"
 product_type: "Online coaching"
-price: 2591.58
+price: 2596.22
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 259.16
+earnings_per_sale: 259.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Personal Development"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://neurotraining-akademie.de/neurodivergenz-coach?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../produkte/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2591.58 (Single payment, Installment) |
+| Price | $2596.22 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $259.16 |
+| Earnings/sale* | $259.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Neurotraining_Akademie |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen? — Typ: Online coaching, Anbieter: Neurotraining_Akademie, gelistet seit 2026-10-01
-- Wie viel kostet es? — 2591.583666 USD
+- Wie viel kostet es? — 2596.217286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 727941
 title: "Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 14.05
+price: 14.07
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 4.92
+earnings_per_sale: 4.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/dein-praktischer-stressmanagement-planer?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag
 
 > Product ID `58871` · Digistore24 productId `727941` · [HTML profile page](../../produkte/stressmanagement-planer-mehr-ruhe-und-klarheit-im-alltag-58871.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.05 (Single payment) |
+| Price | $14.07 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $4.92 |
+| Earnings/sale* | $4.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 14.049616 USD
+- Wie viel kostet es? — 14.074736000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

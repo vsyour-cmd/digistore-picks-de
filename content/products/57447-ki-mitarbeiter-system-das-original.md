@@ -4,15 +4,15 @@ digistore24_product_id: 707215
 title: "KI-Mitarbeiter-System - Das Original"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 265.11
+price: 265.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 132.55
+earnings_per_sale: 132.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ralfwenda.education/ki-mitarbeiter-system/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Mitarbeiter-System - Das Original
 
 > Product ID `57447` · Digistore24 productId `707215` · [HTML profile page](../../produkte/ki-mitarbeiter-system-das-original-57447.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $265.11 (Single payment, Installment) |
+| Price | $265.58 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $132.55 |
+| Earnings/sale* | $132.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Mitarbeiter-System - Das Original? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2026-07-07
-- Wie viel kostet es? — 265.1082 USD
+- Wie viel kostet es? — 265.5822 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

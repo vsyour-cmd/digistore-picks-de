@@ -4,15 +4,15 @@ digistore24_product_id: 662876
 title: "Werde zertifizierter Holistic Skin and Health Expert"
 vendor: "Gesundhaut"
 product_type: "Distance learning (Germany)"
-price: 3750.6
+price: 3757.3
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 562.59
+earnings_per_sale: 563.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.gesundhaut.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Werde zertifizierter Holistic Skin and Health Expert
 
 > Product ID `55703` · Digistore24 productId `662876` · [HTML profile page](../../produkte/werde-zertifizierter-holistic-skin-and-health-expert-55703.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Distance learning (Germany) |
-| Price | $3750.60 (Single payment, Installment) |
+| Price | $3757.30 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $562.59 |
+| Earnings/sale* | $563.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gesundhaut |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde zertifizierter Holistic Skin and Health Expert? — Typ: Distance learning (Germany), Anbieter: Gesundhaut, gelistet seit 2026-01-20
-- Wie viel kostet es? — 3750.598684 USD
+- Wie viel kostet es? — 3757.304564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

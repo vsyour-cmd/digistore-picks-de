@@ -4,15 +4,15 @@ digistore24_product_id: 364829
 title: "Instagram online Kurs 3.0"
 vendor: "TanjaV"
 product_type: "Member area and video courses"
-price: 96.24
+price: 96.42
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.51
+earnings_per_sale: 43.59
 cart_conversion_pct: 11
 cancel_rate_pct: 0.72
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://tanjavallee.de/instagramonlinekurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram online Kurs 3.0
 
 > Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $96.24 (Single payment, Installment) |
+| Price | $96.42 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.51 |
+| Earnings/sale* | $43.59 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.72% |
 | Vendor | TanjaV |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram online Kurs 3.0? — Typ: Member area and video courses, Anbieter: TanjaV, gelistet seit 2020-12-28
-- Wie viel kostet es? — 96.24434400000001 USD
+- Wie viel kostet es? — 96.416424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

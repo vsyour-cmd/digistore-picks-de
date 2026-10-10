@@ -4,15 +4,15 @@ digistore24_product_id: 286333
 title: "E-Book: Bindungsorientiert durchschlafen lernen"
 vendor: "babyschlummerland"
 product_type: "E-books"
-price: 28.7
+price: 28.75
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.41
+earnings_per_sale: 9.42
 cart_conversion_pct: 2
 cancel_rate_pct: 2.34
 categories: ["Family & Children"]
 listed_since: "2019-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.babyschlummerland.de/durchschlafen-lernen-bindungsorientiert/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: Bindungsorientiert durchschlafen lernen
 
 > Product ID `37631` · Digistore24 productId `286333` · [HTML profile page](../../produkte/e-book-bindungsorientiert-durchschlafen-lernen-37631.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.70 (Single payment) |
+| Price | $28.75 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.42 |
 | Cart conversion* | 2% |
 | Cancel rate* | 2.34% |
 | Vendor | babyschlummerland |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Bindungsorientiert durchschlafen lernen? — Typ: E-books, Anbieter: babyschlummerland, gelistet seit 2019-09-10
-- Wie viel kostet es? — 28.703276000000002 USD
+- Wie viel kostet es? — 28.754596000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

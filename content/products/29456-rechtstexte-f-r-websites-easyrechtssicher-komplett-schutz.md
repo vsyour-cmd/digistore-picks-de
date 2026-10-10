@@ -4,15 +4,15 @@ digistore24_product_id: 223615
 title: "Rechtstexte für Websites – easyRechtssicher Komplett-Schutz"
 vendor: "Paragraf7"
 product_type: "Member area and video courses"
-price: 1446.2
+price: 1448.79
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 18.9
+earnings_per_sale: 18.94
 cart_conversion_pct: 12
 cancel_rate_pct: 2.7
 categories: ["Law & Justice"]
 listed_since: "2018-05-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://easyrechtssicher.de/produkte/datenschutz-generator/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rechtstexte für Websites – easyRechtssicher Komplett-Schutz
 
 > Product ID `29456` · Digistore24 productId `223615` · [HTML profile page](../../produkte/rechtstexte-f-r-websites-easyrechtssicher-komplett-schutz-29456.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1446.20 (Subscription) |
+| Price | $1448.79 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $18.90 |
+| Earnings/sale* | $18.94 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.7% |
 | Vendor | Paragraf7 |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechtstexte für Websites – easyRechtssicher Komplett-Schutz? — Typ: Member area and video courses, Anbieter: Paragraf7, gelistet seit 2018-05-24
-- Wie viel kostet es? — 1446.204382 USD
+- Wie viel kostet es? — 1448.7901219999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

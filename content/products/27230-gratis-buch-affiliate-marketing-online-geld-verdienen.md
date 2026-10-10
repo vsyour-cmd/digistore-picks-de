@@ -4,15 +4,15 @@ digistore24_product_id: 250755
 title: "Gratis Buch - Affiliate Marketing - Online Geld verdienen"
 vendor: "webpirat"
 product_type: "Member area and video courses"
-price: 108.5
+price: 108.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.25
+earnings_per_sale: 54.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-11-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://webpirat.de/dein-gratis-e-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gratis Buch - Affiliate Marketing - Online Geld verdienen
 
 > Product ID `27230` · Digistore24 productId `250755` · [HTML profile page](../../produkte/gratis-buch-affiliate-marketing-online-geld-verdienen-27230.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.50 (Single payment) |
+| Price | $108.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.25 |
+| Earnings/sale* | $54.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | webpirat |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis Buch - Affiliate Marketing - Online Geld verdienen? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2018-11-30
-- Wie viel kostet es? — 108.5042 USD
+- Wie viel kostet es? — 108.6982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 701254
 title: "Auswandern nach Thailand - Planen"
 vendor: "auswandern-planen"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.02
+earnings_per_sale: 56.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Travel & Culture"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://auswandern-planen.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern nach Thailand - Planen
 
 > Product ID `57135` · Digistore24 productId `701254` · [HTML profile page](../../produkte/auswandern-nach-thailand-planen-57135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment) |
+| Price | $140.31 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.02 |
+| Earnings/sale* | $56.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | auswandern-planen |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Thailand - Planen? — Typ: Member area and video courses, Anbieter: auswandern-planen, gelistet seit 2026-06-25
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

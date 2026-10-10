@@ -4,15 +4,15 @@ digistore24_product_id: 731015
 title: "Das stabile Unternehmen – Praxis- und Umsetzungspaket"
 vendor: "dejo777"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.02
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.softpac.de/cms/das-stabile-unternehmen-praxispaket.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das stabile Unternehmen – Praxis- und Umsetzungspaket
 
 > Product ID `59027` · Digistore24 productId `731015` · [HTML profile page](../../produkte/das-stabile-unternehmen-praxis-und-umsetzungspaket-59027.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dejo777 |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das stabile Unternehmen – Praxis- und Umsetzungspaket? — Typ: Downloads, Anbieter: dejo777, gelistet seit 2026-09-08
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

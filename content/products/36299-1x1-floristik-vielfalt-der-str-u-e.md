@@ -4,15 +4,15 @@ digistore24_product_id: 377512
 title: "1x1 Floristik - Vielfalt der Sträuße"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 371.57
+price: 372.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.08
+earnings_per_sale: 45.16
 cart_conversion_pct: 9
 cancel_rate_pct: 0.95
 categories: ["Education"]
 listed_since: "2021-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Floristik - Vielfalt der Sträuße
 
 > Product ID `36299` · Digistore24 productId `377512` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-str-u-e-36299.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $371.57 (Single payment) |
+| Price | $372.23 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.08 |
+| Earnings/sale* | $45.16 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.95% |
 | Vendor | Elobana |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Vielfalt der Sträuße? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2021-03-05
-- Wie viel kostet es? — 371.56536200000005 USD
+- Wie viel kostet es? — 372.22970200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

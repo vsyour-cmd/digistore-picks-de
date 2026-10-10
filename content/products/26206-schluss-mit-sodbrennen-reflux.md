@@ -4,15 +4,15 @@ digistore24_product_id: 167027
 title: "Schluss mit Sodbrennen (Reflux)"
 vendor: "Sanariver"
 product_type: "Downloads"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 41.46
+earnings_per_sale: 41.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.refluxgate.de/schluss-mit-sodbrennen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schluss mit Sodbrennen (Reflux)
 
 > Product ID `26206` · Digistore24 productId `167027` · [HTML profile page](../../produkte/schluss-mit-sodbrennen-reflux-26206.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $138.18 (Single payment) |
+| Price | $138.43 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $41.46 |
+| Earnings/sale* | $41.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sanariver |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Sodbrennen (Reflux)? — Typ: Downloads, Anbieter: Sanariver, gelistet seit 2017-10-02
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 38851
 title: "Onlinekurs \"Die MET-Glücksformel\"-reduzierter Preis"
 vendor: "franke2met"
 product_type: "Member area and video courses"
-price: 94.11
+price: 94.28
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 25.88
+earnings_per_sale: 25.93
 cart_conversion_pct: 32
 cancel_rate_pct: 3.75
 categories: ["Health & Fitness"]
 listed_since: "2014-12-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel-instagram?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"-reduzierter Preis
 
 > Product ID `55676` · Digistore24 productId `38851` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-reduzierter-preis-55676.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $94.11 (Single payment) |
+| Price | $94.28 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $25.88 |
+| Earnings/sale* | $25.93 |
 | Cart conversion* | 32% |
 | Cancel rate* | 3.75% |
 | Vendor | franke2met |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Die MET-Glücksformel"-reduzierter Preis? — Typ: Member area and video courses, Anbieter: franke2met, gelistet seit 2014-12-16
-- Wie viel kostet es? — 94.107818 USD
+- Wie viel kostet es? — 94.276078 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

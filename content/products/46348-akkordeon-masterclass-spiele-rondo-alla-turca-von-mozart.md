@@ -4,15 +4,15 @@ digistore24_product_id: 516036
 title: "Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.23
+earnings_per_sale: 37.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2023-09-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/akkordeon-masterclass-rondo-alla-turca/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart
 
 > Product ID `46348` · Digistore24 productId `516036` · [HTML profile page](../../produkte/akkordeon-masterclass-spiele-rondo-alla-turca-von-mozart-46348.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.23 |
+| Earnings/sale* | $37.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meineMusikschule |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Akkordeon Masterclass – Spiele ‚Rondo Alla Turca‘ von Mozart? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2023-09-11
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 583879
 title: "Affiliate Booster Masterplan"
 vendor: "Brauerbursch"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.7
+earnings_per_sale: 12.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/mQuAQJFXMnpvXRFtx?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Booster Masterplan
 
 > Product ID `50606` · Digistore24 productId `583879` · [HTML profile page](../../produkte/affiliate-booster-masterplan-50606.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.70 |
+| Earnings/sale* | $12.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Brauerbursch |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Booster Masterplan? — Typ: Downloads, Anbieter: Brauerbursch, gelistet seit 2024-12-02
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

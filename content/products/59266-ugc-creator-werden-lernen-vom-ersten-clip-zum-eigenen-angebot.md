@@ -4,15 +4,15 @@ digistore24_product_id: 733894
 title: "UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.63
+earnings_per_sale: 60.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://einfachmitmatze.de/ugc/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
 > Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.26 (Single payment) |
+| Price | $121.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.63 |
+| Earnings/sale* | $60.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 627902
 title: "Individuelle Chakra-Auswertung (PDF) | Schicksalsmatrix und"
 vendor: "codegbee"
 product_type: "Downloads"
-price: 31.02
+price: 31.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.41
+earnings_per_sale: 12.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schicksalsmatrix-rechner.com/product/chakra-auswertung-individuell/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Individuelle Chakra-Auswertung (PDF) | Schicksalsmatrix und
 
 > Product ID `57717` · Digistore24 productId `627902` · [HTML profile page](../../produkte/individuelle-chakra-auswertung-pdf-schicksalsmatrix-und-57717.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.02 (Single payment) |
+| Price | $31.07 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.41 |
+| Earnings/sale* | $12.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | codegbee |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Individuelle Chakra-Auswertung (PDF) | Schicksalsmatrix und? — Typ: Downloads, Anbieter: codegbee, gelistet seit 2026-07-24
-- Wie viel kostet es? — 31.018778 USD
+- Wie viel kostet es? — 31.074238 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

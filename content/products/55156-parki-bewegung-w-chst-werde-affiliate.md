@@ -4,15 +4,15 @@ digistore24_product_id: 658975
 title: "Parki-Bewegung wächst – werde Affiliate."
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 52.17
+price: 52.26
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 7.83
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658975?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Parki-Bewegung wächst – werde Affiliate.
 
 > Product ID `55156` · Digistore24 productId `658975` · [HTML profile page](../../produkte/parki-bewegung-w-chst-werde-affiliate-55156.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.17 (Single payment) |
+| Price | $52.26 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Parki-Bewegung wächst – werde Affiliate.? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2026-01-05
-- Wie viel kostet es? — 52.171504000000006 USD
+- Wie viel kostet es? — 52.264784000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

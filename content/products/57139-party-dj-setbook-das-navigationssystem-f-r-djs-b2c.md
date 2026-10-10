@@ -4,15 +4,15 @@ digistore24_product_id: 651700
 title: "Party DJ Setbook – Das Navigationssystem für DJs (B2C)"
 vendor: "djnicogoetze"
 product_type: "Downloads"
-price: 158.86
+price: 159.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.66
+earnings_per_sale: 47.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.dj-setbook.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Party DJ Setbook – Das Navigationssystem für DJs (B2C)
 
 > Product ID `57139` · Digistore24 productId `651700` · [HTML profile page](../../produkte/party-dj-setbook-das-navigationssystem-f-r-djs-b2c-57139.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $158.86 (Single payment) |
+| Price | $159.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.66 |
+| Earnings/sale* | $47.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | djnicogoetze |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Party DJ Setbook – Das Navigationssystem für DJs (B2C)? — Typ: Downloads, Anbieter: djnicogoetze, gelistet seit 2026-06-26
-- Wie viel kostet es? — 158.863572 USD
+- Wie viel kostet es? — 159.147612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

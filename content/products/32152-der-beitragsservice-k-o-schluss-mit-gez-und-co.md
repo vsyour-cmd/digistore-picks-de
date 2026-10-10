@@ -4,15 +4,15 @@ digistore24_product_id: 304949
 title: "Der Beitragsservice K.O. - Schluss mit GEZ und Co.!"
 vendor: "SG1503"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 42
-earnings_per_sale: 8.74
+earnings_per_sale: 8.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2020-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.wissenmachtfrei.com/beitragsservice-gez.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Beitragsservice K.O. - Schluss mit GEZ und Co.!
 
 > Product ID `32152` · Digistore24 productId `304949` · [HTML profile page](../../produkte/der-beitragsservice-k-o-schluss-mit-gez-und-co-32152.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 42% |
-| Earnings/sale* | $8.74 |
+| Earnings/sale* | $8.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SG1503 |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Beitragsservice K.O. - Schluss mit GEZ und Co.!? — Typ: E-books, Anbieter: SG1503, gelistet seit 2020-01-23
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

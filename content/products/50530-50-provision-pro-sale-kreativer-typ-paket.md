@@ -4,15 +4,15 @@ digistore24_product_id: 582138
 title: "50 % Provision pro Sale –„Kreativer-Typ“-Paket!"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 16.44
+price: 16.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.22
+earnings_per_sale: 8.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale –„Kreativer-Typ“-Paket!
 
 > Product ID `50530` · Digistore24 productId `582138` · [HTML profile page](../../produkte/50-provision-pro-sale-kreativer-typ-paket-50530.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.44 (Single payment) |
+| Price | $16.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.22 |
+| Earnings/sale* | $8.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale –„Kreativer-Typ“-Paket!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 16.44342 USD
+- Wie viel kostet es? — 16.47282 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

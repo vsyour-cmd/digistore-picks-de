@@ -4,15 +4,15 @@ digistore24_product_id: 432682
 title: "GRAN CANARIA: Gran Canaria Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.3
+price: 14.32
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 2.95
+earnings_per_sale: 2.96
 cart_conversion_pct: 31
 cancel_rate_pct: 0.79
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2022-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/gran-canaria-bildband/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GRAN CANARIA: Gran Canaria Bildband [E-Book]
 
 > Product ID `39374` · Digistore24 productId `432682` · [HTML profile page](../../produkte/gran-canaria-gran-canaria-bildband-e-book-39374.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.30 (Single payment) |
+| Price | $14.32 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $2.95 |
+| Earnings/sale* | $2.96 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.79% |
 | Vendor | rheinrost |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRAN CANARIA: Gran Canaria Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2022-03-04
-- Wie viel kostet es? — 14.295708 USD
+- Wie viel kostet es? — 14.321268 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

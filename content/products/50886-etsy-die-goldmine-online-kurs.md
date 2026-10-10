@@ -12,7 +12,7 @@ cart_conversion_pct: 29
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Online Marketing"]
 listed_since: "2024-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://book-pilot.app/etsy1euro?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Etsy- Die Goldmine Online Kurs
 
 > Product ID `50886` · Digistore24 productId `588844` · [HTML profile page](../../produkte/etsy-die-goldmine-online-kurs-50886.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy- Die Goldmine Online Kurs? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2024-08-02
-- Wie viel kostet es? — 0.939624 USD
+- Wie viel kostet es? — 0.941304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

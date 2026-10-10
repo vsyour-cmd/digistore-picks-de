@@ -4,15 +4,15 @@ digistore24_product_id: 650491
 title: "Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl"
 vendor: "Calls-und-Chats-26"
 product_type: "Member area and video courses"
-price: 1447.6
+price: 1450.19
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 579.04
+earnings_per_sale: 580.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl
 
 > Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../produkte/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1447.60 (Single payment, Installment) |
+| Price | $1450.19 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $579.04 |
+| Earnings/sale* | $580.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Calls-und-Chats-26 |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl? — Typ: Member area and video courses, Anbieter: Calls-und-Chats-26, gelistet seit 2025-11-23
-- Wie viel kostet es? — 1447.6026319999999 USD
+- Wie viel kostet es? — 1450.190872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

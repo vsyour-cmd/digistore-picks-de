@@ -4,15 +4,15 @@ digistore24_product_id: 727464
 title: "Affiliate Starter System"
 vendor: "gowxsese"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.11
+earnings_per_sale: 3.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/727464?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Starter System
 
 > Product ID `58807` · Digistore24 productId `727464` · [HTML profile page](../../produkte/affiliate-starter-system-58807.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.11 |
+| Earnings/sale* | $3.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Starter System? — Typ: E-books, Anbieter: gowxsese, gelistet seit 2026-08-31
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

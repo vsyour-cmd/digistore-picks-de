@@ -4,15 +4,15 @@ digistore24_product_id: 689909
 title: "Nexus Academy - New Era x Ultimate Scale"
 vendor: "bandolero"
 product_type: "Member area and video courses"
-price: 146.64
+price: 146.9
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 65.99
+earnings_per_sale: 66.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/689909?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nexus Academy - New Era x Ultimate Scale
 
 > Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../produkte/nexus-academy-new-era-x-ultimate-scale-57512.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $146.64 (Single payment, Installment) |
+| Price | $146.90 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $65.99 |
+| Earnings/sale* | $66.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bandolero |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nexus Academy - New Era x Ultimate Scale? — Typ: Member area and video courses, Anbieter: bandolero, gelistet seit 2026-07-13
-- Wie viel kostet es? — 146.63727400000002 USD
+- Wie viel kostet es? — 146.89945400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

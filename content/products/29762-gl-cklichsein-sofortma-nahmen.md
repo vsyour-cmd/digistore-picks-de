@@ -4,7 +4,7 @@ digistore24_product_id: 245692
 title: "Glücklichsein-Sofortmaßnahmen"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 8.04
+price: 8.06
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.17
@@ -12,7 +12,7 @@ cart_conversion_pct: 23
 cancel_rate_pct: 6.3
 categories: ["Personal Development"]
 listed_since: "2018-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecklichsein-sofortmassnahmen?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Glücklichsein-Sofortmaßnahmen
 
 > Product ID `29762` · Digistore24 productId `245692` · [HTML profile page](../../produkte/gl-cklichsein-sofortma-nahmen-29762.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.04 (Single payment) |
+| Price | $8.06 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.17 |
 | Cart conversion* | 23% |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glücklichsein-Sofortmaßnahmen? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2018-10-29
-- Wie viel kostet es? — 8.042734000000001 USD
+- Wie viel kostet es? — 8.057114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

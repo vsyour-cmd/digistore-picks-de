@@ -4,15 +4,15 @@ digistore24_product_id: 716154
 title: "Website-Check"
 vendor: "bites24"
 product_type: "Software"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.48
+earnings_per_sale: 7.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Online Marketing & E-Business","Services"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/716154/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Website-Check
 
 > Product ID `57792` · Digistore24 productId `716154` · [HTML profile page](../../produkte/website-check-57792.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.48 |
+| Earnings/sale* | $7.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bites24 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website-Check? — Typ: Software, Anbieter: bites24, gelistet seit 2026-07-29
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

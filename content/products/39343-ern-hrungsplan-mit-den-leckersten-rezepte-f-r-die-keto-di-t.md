@@ -4,15 +4,15 @@ digistore24_product_id: 432689
 title: "Ernährungsplan mit den leckersten Rezepte für die Keto Diät"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 25.08
+earnings_per_sale: 25.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ernährungsplan mit den leckersten Rezepte für die Keto Diät
 
 > Product ID `39343` · Digistore24 productId `432689` · [HTML profile page](../../produkte/ern-hrungsplan-mit-den-leckersten-rezepte-f-r-die-keto-di-t-39343.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $25.08 |
+| Earnings/sale* | $25.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ernährungsplan mit den leckersten Rezepte für die Keto Diät? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-04
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

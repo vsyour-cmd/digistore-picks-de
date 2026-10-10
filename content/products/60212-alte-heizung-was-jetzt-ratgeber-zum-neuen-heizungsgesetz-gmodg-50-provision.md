@@ -4,15 +4,15 @@ digistore24_product_id: 739008
 title: "Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision"
 vendor: "info0eba"
 product_type: "E-books"
-price: 18.3
+price: 18.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.15
+earnings_per_sale: 9.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Law & Justice","Real Estate"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision
 
 > Product ID `60212` · Digistore24 productId `739008` · [HTML profile page](../../produkte/alte-heizung-was-jetzt-ratgeber-zum-neuen-heizungsgesetz-gmodg-50-provision-60212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.30 (Single payment) |
+| Price | $18.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.15 |
+| Earnings/sale* | $9.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info0eba |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision? — Typ: E-books, Anbieter: info0eba, gelistet seit 2026-10-05
-- Wie viel kostet es? — 18.300296 USD
+- Wie viel kostet es? — 18.333016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 429538
 title: "Kompass der Persönlichkeit"
 vendor: "TJakobs"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.35
+earnings_per_sale: 27.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-02-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/geheimnis-deines-typs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kompass der Persönlichkeit
 
 > Product ID `39685` · Digistore24 productId `429538` · [HTML profile page](../../produkte/kompass-der-pers-nlichkeit-39685.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.35 |
+| Earnings/sale* | $27.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TJakobs |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kompass der Persönlichkeit? — Typ: Member area and video courses, Anbieter: TJakobs, gelistet seit 2022-02-14
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

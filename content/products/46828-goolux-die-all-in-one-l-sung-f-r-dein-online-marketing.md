@@ -4,15 +4,15 @@ digistore24_product_id: 504837
 title: "Goolux - Die All In One Lösung für Dein Online Marketing"
 vendor: "dooplix"
 product_type: "Software"
-price: 528.83
+price: 529.77
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 57.65
+earnings_per_sale: 57.76
 cart_conversion_pct: 18
 cancel_rate_pct: 1.97
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2023-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://goolux24.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Goolux - Die All In One Lösung für Dein Online Marketing
 
 > Product ID `46828` · Digistore24 productId `504837` · [HTML profile page](../../produkte/goolux-die-all-in-one-l-sung-f-r-dein-online-marketing-46828.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $528.83 (Subscription) |
+| Price | $529.77 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $57.65 |
+| Earnings/sale* | $57.76 |
 | Cart conversion* | 18% |
 | Cancel rate* | 1.97% |
 | Vendor | dooplix |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Goolux - Die All In One Lösung für Dein Online Marketing? — Typ: Software, Anbieter: dooplix, gelistet seit 2023-06-27
-- Wie viel kostet es? — 528.829336 USD
+- Wie viel kostet es? — 529.774856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

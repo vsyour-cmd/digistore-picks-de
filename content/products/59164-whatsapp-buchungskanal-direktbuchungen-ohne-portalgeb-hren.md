@@ -4,15 +4,15 @@ digistore24_product_id: 711408
 title: "WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren"
 vendor: "Anha13"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.41
+earnings_per_sale: 10.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ahliving.de/whatsapp-buchungskanal-ferienwohnung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren
 
 > Product ID `59164` · Digistore24 productId `711408` · [HTML profile page](../../produkte/whatsapp-buchungskanal-direktbuchungen-ohne-portalgeb-hren-59164.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.41 |
+| Earnings/sale* | $10.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

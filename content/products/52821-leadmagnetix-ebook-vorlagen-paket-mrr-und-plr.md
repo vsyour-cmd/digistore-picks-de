@@ -4,7 +4,7 @@ digistore24_product_id: 616881
 title: "Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 5.63
+price: 5.64
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.82
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/616881?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)
 
 > Product ID `52821` · Digistore24 productId `616881` · [HTML profile page](../../produkte/leadmagnetix-ebook-vorlagen-paket-mrr-und-plr-52821.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $5.63 (Single payment) |
+| Price | $5.64 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 5.626558 USD
+- Wie viel kostet es? — 5.636618 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

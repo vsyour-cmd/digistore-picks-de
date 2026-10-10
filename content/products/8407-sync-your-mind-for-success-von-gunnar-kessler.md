@@ -4,15 +4,15 @@ digistore24_product_id: 44951
 title: "Sync Your Mind For Success - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Downloads"
-price: 44.18
+price: 44.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.09
+earnings_per_sale: 22.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2015-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/sync-your-mind-for-success-7500/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sync Your Mind For Success - von Gunnar Kessler
 
 > Product ID `8407` · Digistore24 productId `44951` · [HTML profile page](../../produkte/sync-your-mind-for-success-von-gunnar-kessler-8407.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.18 (Single payment) |
+| Price | $44.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.09 |
+| Earnings/sale* | $22.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GTK-littlefreilich |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sync Your Mind For Success - von Gunnar Kessler? — Typ: Downloads, Anbieter: GTK-littlefreilich, gelistet seit 2015-03-15
-- Wie viel kostet es? — 44.1847 USD
+- Wie viel kostet es? — 44.2637 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

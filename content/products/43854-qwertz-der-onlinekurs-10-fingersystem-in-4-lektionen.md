@@ -4,15 +4,15 @@ digistore24_product_id: 489246
 title: "QWERTZ: Der Onlinekurs \"10-Fingersystem\" in 4 Lektionen"
 vendor: "QWERTZTraining"
 product_type: "Webinar"
-price: 183.3
+price: 183.63
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 54.99
+earnings_per_sale: 55.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2023-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/489246?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # QWERTZ: Der Onlinekurs "10-Fingersystem" in 4 Lektionen
 
 > Product ID `43854` · Digistore24 productId `489246` · [HTML profile page](../../produkte/qwertz-der-onlinekurs-10-fingersystem-in-4-lektionen-43854.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $183.30 (Single payment) |
+| Price | $183.63 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $54.99 |
+| Earnings/sale* | $55.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | QWERTZTraining |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist QWERTZ: Der Onlinekurs "10-Fingersystem" in 4 Lektionen? — Typ: Webinar, Anbieter: QWERTZTraining, gelistet seit 2023-03-15
-- Wie viel kostet es? — 183.30498200000002 USD
+- Wie viel kostet es? — 183.632722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 506187
 title: "OKA - Online Kurs Autopilot Masterclass"
 vendor: "MichoWorldwide"
 product_type: "Member area and video courses"
-price: 2250.35
+price: 2254.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1125.18
+earnings_per_sale: 1127.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2023-07-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/506187?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # OKA - Online Kurs Autopilot Masterclass
 
 > Product ID `48986` · Digistore24 productId `506187` · [HTML profile page](../../produkte/oka-online-kurs-autopilot-masterclass-48986.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2250.35 (Single payment, Installment) |
+| Price | $2254.38 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1125.18 |
+| Earnings/sale* | $1127.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichoWorldwide |
@@ -125,7 +125,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OKA - Online Kurs Autopilot Masterclass? — Typ: Member area and video courses, Anbieter: MichoWorldwide, gelistet seit 2023-07-06
-- Wie viel kostet es? — 2250.3547360000002 USD
+- Wie viel kostet es? — 2254.378256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

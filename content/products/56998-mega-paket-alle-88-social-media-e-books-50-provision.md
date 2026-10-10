@@ -4,15 +4,15 @@ digistore24_product_id: 701425
 title: "Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 519.58
+price: 520.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 259.79
+earnings_per_sale: 260.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/pakete/mega-paket?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
 > Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $519.58 (Single payment) |
+| Price | $520.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $259.79 |
+| Earnings/sale* | $260.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 519.578514 USD
+- Wie viel kostet es? — 520.5074940000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

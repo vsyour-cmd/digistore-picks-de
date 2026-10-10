@@ -4,15 +4,15 @@ digistore24_product_id: 564188
 title: "Online Kurs Mehrere Hunde"
 vendor: "KarineMastroleo"
 product_type: "Member area and video courses"
-price: 185.03
+price: 185.36
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 61.12
+earnings_per_sale: 61.23
 cart_conversion_pct: 12
 cancel_rate_pct: 2.11
 categories: ["Animals & Pets"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.mehrerehunde-einteam.de/mehrerehunde-einteam/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Kurs Mehrere Hunde
 
 > Product ID `52082` · Digistore24 productId `564188` · [HTML profile page](../../produkte/online-kurs-mehrere-hunde-52082.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.03 (Single payment, Installment) |
+| Price | $185.36 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $61.12 |
+| Earnings/sale* | $61.23 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.11% |
 | Vendor | KarineMastroleo |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs Mehrere Hunde? — Typ: Member area and video courses, Anbieter: KarineMastroleo, gelistet seit 2024-08-06
-- Wie viel kostet es? — 185.027626 USD
+- Wie viel kostet es? — 185.35844600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

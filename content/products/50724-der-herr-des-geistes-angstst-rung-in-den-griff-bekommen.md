@@ -4,15 +4,15 @@ digistore24_product_id: 722701
 title: "Der Herr des Geistes - Angststörung in den Griff bekommen"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.74
+price: 302.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.6
+earnings_per_sale: 94.77
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722701?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Herr des Geistes - Angststörung in den Griff bekommen
 
 > Product ID `50724` · Digistore24 productId `722701` · [HTML profile page](../../produkte/der-herr-des-geistes-angstst-rung-in-den-griff-bekommen-50724.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.74 (Single payment, Installment) |
+| Price | $302.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.60 |
+| Earnings/sale* | $94.77 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Herr des Geistes - Angststörung in den Griff bekommen? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 301.74235 USD
+- Wie viel kostet es? — 302.28185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

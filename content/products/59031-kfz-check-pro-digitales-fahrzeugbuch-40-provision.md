@@ -4,15 +4,15 @@ digistore24_product_id: 731276
 title: "KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision"
 vendor: "KFZCHECKPRO"
 product_type: "Downloads"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.24
+earnings_per_sale: 11.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/731276?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision
 
 > Product ID `59031` · Digistore24 productId `731276` · [HTML profile page](../../produkte/kfz-check-pro-digitales-fahrzeugbuch-40-provision-59031.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.24 |
+| Earnings/sale* | $11.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KFZCHECKPRO |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision? — Typ: Downloads, Anbieter: KFZCHECKPRO, gelistet seit 2026-09-08
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

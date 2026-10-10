@@ -4,15 +4,15 @@ digistore24_product_id: 630623
 title: "DEIN DIGITALER DURCHBRUCH"
 vendor: "thefemininebusiness"
 product_type: "E-books"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 44.3
+earnings_per_sale: 44.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-08-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630623?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DEIN DIGITALER DURCHBRUCH
 
 > Product ID `53588` · Digistore24 productId `630623` · [HTML profile page](../../produkte/dein-digitaler-durchbruch-53588.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $44.30 |
+| Earnings/sale* | $44.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thefemininebusiness |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DEIN DIGITALER DURCHBRUCH? — Typ: E-books, Anbieter: thefemininebusiness, gelistet seit 2025-08-19
-- Wie viel kostet es? — 110.7414 USD
+- Wie viel kostet es? — 110.9394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

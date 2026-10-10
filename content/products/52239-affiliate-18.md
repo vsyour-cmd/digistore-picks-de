@@ -12,7 +12,7 @@ cart_conversion_pct: 40
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/gaJerak6CekEB9e8z?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate 18+
 
 > Product ID `52239` · Digistore24 productId `608162` · [HTML profile page](../../produkte/affiliate-18-52239.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

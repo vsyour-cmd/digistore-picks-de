@@ -4,15 +4,15 @@ digistore24_product_id: 88925
 title: "Das Geheimnis der Faszienrolle"
 vendor: "EquilibriumState"
 product_type: "Downloads"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.03
+earnings_per_sale: 23.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2016-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://es-welt.de/das-geheimnis-der-faszienrolle-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Geheimnis der Faszienrolle
 
 > Product ID `12377` · Digistore24 productId `88925` · [HTML profile page](../../produkte/das-geheimnis-der-faszienrolle-12377.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.03 |
+| Earnings/sale* | $23.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EquilibriumState |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Geheimnis der Faszienrolle? — Typ: Downloads, Anbieter: EquilibriumState, gelistet seit 2016-07-25
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

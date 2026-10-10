@@ -4,15 +4,15 @@ digistore24_product_id: 600405
 title: "OnlineTV 20 - Fernsehen am PC und Android Gerät"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.19
+price: 28.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2025-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/600405?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # OnlineTV 20 - Fernsehen am PC und Android Gerät
 
 > Product ID `51987` · Digistore24 productId `600405` · [HTML profile page](../../produkte/onlinetv-20-fernsehen-am-pc-und-android-ger-t-51987.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.19 (Single payment) |
+| Price | $28.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OnlineTV 20 - Fernsehen am PC und Android Gerät? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2025-03-07
-- Wie viel kostet es? — 28.18872 USD
+- Wie viel kostet es? — 28.23912 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/5min?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # 5-min Leitfaden: Dein eigener Online Kurs (Freebie)
 
 > Product ID `52361` · Digistore24 productId `609924` · [HTML profile page](../../produkte/5-min-leitfaden-dein-eigener-online-kurs-freebie-52361.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5-min Leitfaden: Dein eigener Online Kurs (Freebie)? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2025-04-29
-- Wie viel kostet es? — 0.50337 USD
+- Wie viel kostet es? — 0.50427 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

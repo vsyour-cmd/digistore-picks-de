@@ -4,15 +4,15 @@ digistore24_product_id: 611715
 title: "Kurs \"Hundeerziehung - Wie Hunde soziale Kompetenzen lernen\""
 vendor: "NinaNowak"
 product_type: "Member area and video courses"
-price: 33.84
+price: 33.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.92
+earnings_per_sale: 16.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Finances","Marketing Services"]
 listed_since: "2025-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.hundesozialisation.de/digistore24-hunde-sozialisieren/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kurs "Hundeerziehung - Wie Hunde soziale Kompetenzen lernen"
 
 > Product ID `52405` · Digistore24 productId `611715` · [HTML profile page](../../produkte/kurs-hundeerziehung-wie-hunde-soziale-kompetenzen-lernen-52405.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.84 (Single payment, Installment) |
+| Price | $33.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.92 |
+| Earnings/sale* | $16.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NinaNowak |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kurs "Hundeerziehung - Wie Hunde soziale Kompetenzen lernen"? — Typ: Member area and video courses, Anbieter: NinaNowak, gelistet seit 2025-05-08
-- Wie viel kostet es? — 33.837650000000004 USD
+- Wie viel kostet es? — 33.89815 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

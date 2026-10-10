@@ -4,15 +4,15 @@ digistore24_product_id: 585267
 title: "BRANDNEU - Endless Pin-Bundle"
 vendor: "YannickBre"
 product_type: "Downloads"
-price: 62.98
+price: 63.09
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 37.79
+earnings_per_sale: 37.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-12-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.affiliate-akademie.com/endless-pin-bundle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BRANDNEU - Endless Pin-Bundle
 
 > Product ID `55531` · Digistore24 productId `585267` · [HTML profile page](../../produkte/brandneu-endless-pin-bundle-55531.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $62.98 (Single payment) |
+| Price | $63.09 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $37.79 |
+| Earnings/sale* | $37.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | YannickBre |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BRANDNEU - Endless Pin-Bundle? — Typ: Downloads, Anbieter: YannickBre, gelistet seit 2024-12-10
-- Wie viel kostet es? — 62.97718 USD
+- Wie viel kostet es? — 63.08978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

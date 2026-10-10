@@ -4,15 +4,15 @@ digistore24_product_id: 605258
 title: "Energy Healing Ausbildung"
 vendor: "reichl"
 product_type: "Downloads"
-price: 1870.6
+price: 1873.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 217.6
+earnings_per_sale: 217.99
 cart_conversion_pct: 5
 cancel_rate_pct: 1.19
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-04-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.energy-healing.bayern/ausbildung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Energy Healing Ausbildung
 
 > Product ID `52306` · Digistore24 productId `605258` · [HTML profile page](../../produkte/energy-healing-ausbildung-52306.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1870.60 (Single payment, Installment) |
+| Price | $1873.95 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $217.60 |
+| Earnings/sale* | $217.99 |
 | Cart conversion* | 5% |
 | Cancel rate* | 1.19% |
 | Vendor | reichl |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energy Healing Ausbildung? — Typ: Downloads, Anbieter: reichl, gelistet seit 2025-04-02
-- Wie viel kostet es? — 1870.601222 USD
+- Wie viel kostet es? — 1873.945762 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

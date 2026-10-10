@@ -4,15 +4,15 @@ digistore24_product_id: 607730
 title: "Buchführung einfach erklärt - für Ausbildung, Beruf und mehr"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 83.84
+price: 83.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.6
+earnings_per_sale: 41.68
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buchführung einfach erklärt - für Ausbildung, Beruf und mehr
 
 > Product ID `52155` · Digistore24 productId `607730` · [HTML profile page](../../produkte/buchf-hrung-einfach-erkl-rt-f-r-ausbildung-beruf-und-mehr-52155.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.84 (Single payment) |
+| Price | $83.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.60 |
+| Earnings/sale* | $41.68 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | wileleg |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buchführung einfach erklärt - für Ausbildung, Beruf und mehr? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-16
-- Wie viel kostet es? — 83.83907 USD
+- Wie viel kostet es? — 83.98897000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 634096
 title: "12K Aesthetic Luxury Reels + PLR/MRR Lizenz"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Social Media","Online Marketing"]
 listed_since: "2025-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/12kreels?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 12K Aesthetic Luxury Reels + PLR/MRR Lizenz
 
 > Product ID `54059` · Digistore24 productId `634096` · [HTML profile page](../../produkte/12k-aesthetic-luxury-reels-plr-mrr-lizenz-54059.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12K Aesthetic Luxury Reels + PLR/MRR Lizenz? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-09-06
-- Wie viel kostet es? — 9.385054 USD
+- Wie viel kostet es? — 9.401834000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

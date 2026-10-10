@@ -4,15 +4,15 @@ digistore24_product_id: 439451
 title: "Digital Zeichnen Lernen Online-Kurs"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.95
+earnings_per_sale: 29
 cart_conversion_pct: 6
 cancel_rate_pct: 1.03
 categories: ["Hobby & Craft"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/digitales-zeichnen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Zeichnen Lernen Online-Kurs
 
 > Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.95 |
+| Earnings/sale* | $29.00 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.03% |
 | Vendor | DrawTut |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Zeichnen Lernen Online-Kurs? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2022-04-19
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

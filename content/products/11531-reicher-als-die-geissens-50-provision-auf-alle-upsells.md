@@ -4,7 +4,7 @@ digistore24_product_id: 78297
 title: "Reicher als die Geissens - 50% Provision auf alle Upsells"
 vendor: "AFMedia"
 product_type: "Book (printed)"
-price: 24.03
+price: 24.07
 currency: "USD"
 affiliate_commission_pct: 1
 earnings_per_sale: 2.73
@@ -12,7 +12,7 @@ cart_conversion_pct: 17
 cancel_rate_pct: 18.84
 categories: ["Business & Investment"]
 listed_since: "2016-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://alex-fischer-duesseldorf.de/fnl/reicher-als-die-geissens/bestellen?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Reicher als die Geissens - 50% Provision auf alle Upsells
 
 > Product ID `11531` · Digistore24 productId `78297` · [HTML profile page](../../produkte/reicher-als-die-geissens-50-provision-auf-alle-upsells-11531.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $24.03 (Single payment) |
+| Price | $24.07 (Single payment) |
 | Affiliate commission | 1% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | 17% |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reicher als die Geissens - 50% Provision auf alle Upsells? — Typ: Book (printed), Anbieter: AFMedia, gelistet seit 2016-04-18
-- Wie viel kostet es? — 24.027528 USD
+- Wie viel kostet es? — 24.070488 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

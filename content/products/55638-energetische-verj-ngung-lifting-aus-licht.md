@@ -4,15 +4,15 @@ digistore24_product_id: 620580
 title: "Energetische Verjüngung / Lifting aus Licht"
 vendor: "margit-eres"
 product_type: "Member area and video courses"
-price: 374.12
+price: 374.78
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 93.53
+earnings_per_sale: 93.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://energetischesfacelifting.funnelcockpit.com/sales/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Energetische Verjüngung / Lifting aus Licht
 
 > Product ID `55638` · Digistore24 productId `620580` · [HTML profile page](../../produkte/energetische-verj-ngung-lifting-aus-licht-55638.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $374.12 (Single payment) |
+| Price | $374.78 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $93.53 |
+| Earnings/sale* | $93.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | margit-eres |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetische Verjüngung / Lifting aus Licht? — Typ: Member area and video courses, Anbieter: margit-eres, gelistet seit 2025-06-25
-- Wie viel kostet es? — 374.11577 USD
+- Wie viel kostet es? — 374.78467 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

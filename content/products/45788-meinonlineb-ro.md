@@ -4,15 +4,15 @@ digistore24_product_id: 99407
 title: "meinOnlineBüro"
 vendor: "rbirgmeier"
 product_type: "Remote service provided electronically"
-price: 783.02
+price: 784.42
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 313.21
+earnings_per_sale: 313.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2016-10-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.meinonlinebuero.de/features-und-preise-3/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # meinOnlineBüro
 
 > Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../produkte/meinonlineb-ro-45788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $783.02 (Subscription) |
+| Price | $784.42 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $313.21 |
+| Earnings/sale* | $313.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rbirgmeier |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist meinOnlineBüro? — Typ: Remote service provided electronically, Anbieter: rbirgmeier, gelistet seit 2016-10-12
-- Wie viel kostet es? — 783.02 USD
+- Wie viel kostet es? — 784.4200000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

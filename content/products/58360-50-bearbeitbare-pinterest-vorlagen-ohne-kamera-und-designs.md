@@ -4,15 +4,15 @@ digistore24_product_id: 721417
 title: "50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 14
+price: 14.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7
+earnings_per_sale: 7.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://rita-scheer.de/50-pinterest-vorlagen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs
 
 > Product ID `58360` · Digistore24 productId `721417` · [HTML profile page](../../produkte/50-bearbeitbare-pinterest-vorlagen-ohne-kamera-und-designs-58360.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.00 |
+| Earnings/sale* | $7.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-14
-- Wie viel kostet es? — 14.004872 USD
+- Wie viel kostet es? — 14.029912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 735317
 title: "Reel Studio Pro © - 9:16 Content & Reel-Generator"
 vendor: "remotecreator"
 product_type: "Software"
-price: 185.18
+price: 185.52
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 61.11
+earnings_per_sale: 61.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://alex1.work/reel-studio-pro?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reel Studio Pro © - 9:16 Content & Reel-Generator
 
 > Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../produkte/reel-studio-pro-9-16-content-reel-generator-59985.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $185.18 (Single payment) |
+| Price | $185.52 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $61.11 |
+| Earnings/sale* | $61.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | remotecreator |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reel Studio Pro © - 9:16 Content & Reel-Generator? — Typ: Software, Anbieter: remotecreator, gelistet seit 2026-09-28
-- Wie viel kostet es? — 185.18423 USD
+- Wie viel kostet es? — 185.51533 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

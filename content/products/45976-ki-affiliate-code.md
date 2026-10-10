@@ -4,15 +4,15 @@ digistore24_product_id: 524999
 title: "KI Affiliate Code"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 357.2
+price: 357.84
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 151.55
+earnings_per_sale: 151.82
 cart_conversion_pct: 11
 cancel_rate_pct: 0.75
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.ki-affiliate-code.de/kacaff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Affiliate Code
 
 > Product ID `45976` · Digistore24 productId `524999` · [HTML profile page](../../produkte/ki-affiliate-code-45976.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $357.20 (Single payment, Installment) |
+| Price | $357.84 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $151.55 |
+| Earnings/sale* | $151.82 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.75% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Affiliate Code? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-11-13
-- Wie viel kostet es? — 357.202538 USD
+- Wie viel kostet es? — 357.841198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

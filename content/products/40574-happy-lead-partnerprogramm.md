@@ -4,15 +4,15 @@ digistore24_product_id: 451098
 title: "Happy Lead Partnerprogramm"
 vendor: "Robinfocke"
 product_type: "Software"
-price: 302.02
+price: 302.56
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 75.51
+earnings_per_sale: 75.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/451098/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Happy Lead Partnerprogramm
 
 > Product ID `40574` · Digistore24 productId `451098` · [HTML profile page](../../produkte/happy-lead-partnerprogramm-40574.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $302.02 (Subscription) |
+| Price | $302.56 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $75.51 |
+| Earnings/sale* | $75.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Lead Partnerprogramm? — Typ: Software, Anbieter: Robinfocke, gelistet seit 2022-07-14
-- Wie viel kostet es? — 302.022 USD
+- Wie viel kostet es? — 302.562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

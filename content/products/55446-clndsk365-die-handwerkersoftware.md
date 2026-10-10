@@ -4,15 +4,15 @@ digistore24_product_id: 638846
 title: "CLNDSK365 - Die Handwerkersoftware"
 vendor: "Cleandesk365"
 product_type: "Software"
-price: 444.08
+price: 444.88
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 133.23
+earnings_per_sale: 133.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Software"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638846?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CLNDSK365 - Die Handwerkersoftware
 
 > Product ID `55446` · Digistore24 productId `638846` · [HTML profile page](../../produkte/clndsk365-die-handwerkersoftware-55446.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $444.08 (Subscription) |
+| Price | $444.88 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $133.23 |
+| Earnings/sale* | $133.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleandesk365 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CLNDSK365 - Die Handwerkersoftware? — Typ: Software, Anbieter: Cleandesk365, gelistet seit 2025-09-30
-- Wie viel kostet es? — 444.0842 USD
+- Wie viel kostet es? — 444.8782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

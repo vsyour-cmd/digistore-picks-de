@@ -4,15 +4,15 @@ digistore24_product_id: 335392
 title: "Realistisch Zeichnen lernen von Martin Mißfeldt"
 vendor: "Missfeldt"
 product_type: "E-books"
-price: 20.9
+price: 20.93
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 2.09
+earnings_per_sale: 2.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-07-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.martin-missfeldt.de/realistisch-zeichnen-lernen.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Realistisch Zeichnen lernen von Martin Mißfeldt
 
 > Product ID `33551` · Digistore24 productId `335392` · [HTML profile page](../../produkte/realistisch-zeichnen-lernen-von-martin-mi-feldt-33551.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.93 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $2.09 |
+| Earnings/sale* | $2.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Missfeldt |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Realistisch Zeichnen lernen von Martin Mißfeldt? — Typ: E-books, Anbieter: Missfeldt, gelistet seit 2020-07-07
-- Wie viel kostet es? — 20.895448000000002 USD
+- Wie viel kostet es? — 20.932808 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

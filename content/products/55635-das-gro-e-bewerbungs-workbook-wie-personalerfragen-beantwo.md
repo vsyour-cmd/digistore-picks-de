@@ -4,15 +4,15 @@ digistore24_product_id: 669036
 title: "Das große Bewerbungs-Workbook - wie Personalerfragen beantwo"
 vendor: "Diveco"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.8
+earnings_per_sale: 7.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-02-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-bewerbungsworkbook-personalerfragen-beantworten-landingpage/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Bewerbungs-Workbook - wie Personalerfragen beantwo
 
 > Product ID `55635` · Digistore24 productId `669036` · [HTML profile page](../../produkte/das-gro-e-bewerbungs-workbook-wie-personalerfragen-beantwo-55635.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.80 |
+| Earnings/sale* | $7.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Bewerbungs-Workbook - wie Personalerfragen beantwo? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-02-16
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

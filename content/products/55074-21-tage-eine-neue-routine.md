@@ -4,15 +4,15 @@ digistore24_product_id: 658216
 title: "21 Tage Eine neue Routine"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 26.32
+price: 26.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.17
+earnings_per_sale: 13.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://niux.my.canva.site/21-tage-eine-neue-routine?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 21 Tage Eine neue Routine
 
 > Product ID `55074` · Digistore24 productId `658216` · [HTML profile page](../../produkte/21-tage-eine-neue-routine-55074.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.32 (Single payment) |
+| Price | $26.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.17 |
+| Earnings/sale* | $13.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21 Tage Eine neue Routine? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2025-12-31
-- Wie viel kostet es? — 26.320658 USD
+- Wie viel kostet es? — 26.367718000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

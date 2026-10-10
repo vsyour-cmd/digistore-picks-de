@@ -4,15 +4,15 @@ digistore24_product_id: 364310
 title: "Super-Affiliate Secrets Bundle"
 vendor: "startuprakete"
 product_type: "Member area and video courses"
-price: 7.72
+price: 7.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 173.92
+earnings_per_sale: 174.23
 cart_conversion_pct: 4
 cancel_rate_pct: 2.67
 categories: ["Computer & Internet"]
 listed_since: "2020-12-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://startuprakete.funnelcockpit.com/super-affiliate-secrets-bundle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Super-Affiliate Secrets Bundle
 
 > Product ID `41667` · Digistore24 productId `364310` · [HTML profile page](../../produkte/super-affiliate-secrets-bundle-41667.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $7.72 (Single payment) |
+| Price | $7.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $173.92 |
+| Earnings/sale* | $174.23 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.67% |
 | Vendor | startuprakete |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Super-Affiliate Secrets Bundle? — Typ: Member area and video courses, Anbieter: startuprakete, gelistet seit 2020-12-23
-- Wie viel kostet es? — 7.71834 USD
+- Wie viel kostet es? — 7.73214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

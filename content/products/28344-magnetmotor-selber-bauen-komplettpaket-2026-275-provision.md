@@ -4,15 +4,15 @@ digistore24_product_id: 211195
 title: "Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision"
 vendor: "deinwissen"
 product_type: "Member area and video courses"
-price: 35.26
+price: 35.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.9
+earnings_per_sale: 13.93
 cart_conversion_pct: 3
 cancel_rate_pct: 7.97
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
 listed_since: "2018-03-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.magnet-motor4u.de/12-tage?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision
 
 > Product ID `28344` · Digistore24 productId `211195` · [HTML profile page](../../produkte/magnetmotor-selber-bauen-komplettpaket-2026-275-provision-28344.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.26 (Single payment) |
+| Price | $35.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.90 |
+| Earnings/sale* | $13.93 |
 | Cart conversion* | 3% |
 | Cancel rate* | 7.97% |
 | Vendor | deinwissen |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision? — Typ: Member area and video courses, Anbieter: deinwissen, gelistet seit 2018-03-28
-- Wie viel kostet es? — 35.258272 USD
+- Wie viel kostet es? — 35.321312 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 563094
 title: "Cash Maximus VSL"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 314.9
+price: 315.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 157.45
+earnings_per_sale: 157.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.cashmaximus.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Maximus VSL
 
 > Product ID `50232` · Digistore24 productId `563094` · [HTML profile page](../../produkte/cash-maximus-vsl-50232.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $314.90 (Single payment, Installment) |
+| Price | $315.46 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $157.45 |
+| Earnings/sale* | $157.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Maximus VSL? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 314.897086 USD
+- Wie viel kostet es? — 315.460106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

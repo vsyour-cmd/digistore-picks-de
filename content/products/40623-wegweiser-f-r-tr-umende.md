@@ -4,7 +4,7 @@ digistore24_product_id: 426584
 title: "Wegweiser für Träumende"
 vendor: "GeromeEhrler"
 product_type: "Book (printed)"
-price: 26.28
+price: 26.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.18
@@ -12,7 +12,7 @@ cart_conversion_pct: 20
 cancel_rate_pct: 5.46
 categories: ["Profession & Job"]
 listed_since: "2022-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gerome-ehrler.com/bestseller-buch?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Wegweiser für Träumende
 
 > Product ID `40623` · Digistore24 productId `426584` · [HTML profile page](../../produkte/wegweiser-f-r-tr-umende-40623.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $26.28 (Single payment) |
+| Price | $26.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.18 |
 | Cart conversion* | 20% |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wegweiser für Träumende? — Typ: Book (printed), Anbieter: GeromeEhrler, gelistet seit 2022-01-25
-- Wie viel kostet es? — 26.275914 USD
+- Wie viel kostet es? — 26.322893999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

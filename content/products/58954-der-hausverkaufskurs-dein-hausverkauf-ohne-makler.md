@@ -4,15 +4,15 @@ digistore24_product_id: 729362
 title: "Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ..."
 vendor: "hausverkaufskurs"
 product_type: "Member area and video courses"
-price: 685.27
+price: 686.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 342.64
+earnings_per_sale: 343.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Real Estate","Sales Training"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729362?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ...
 
 > Product ID `58954` · Digistore24 productId `729362` · [HTML profile page](../../produkte/der-hausverkaufskurs-dein-hausverkauf-ohne-makler-58954.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $685.27 (Single payment, Installment) |
+| Price | $686.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $342.64 |
+| Earnings/sale* | $343.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hausverkaufskurs |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ...? — Typ: Member area and video courses, Anbieter: hausverkaufskurs, gelistet seit 2026-09-05
-- Wie viel kostet es? — 685.2655460000001 USD
+- Wie viel kostet es? — 686.490766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

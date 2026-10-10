@@ -4,15 +4,15 @@ digistore24_product_id: 495400
 title: "Sparen beim Einkaufen 2.0 (EBook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 20.9
+price: 20.93
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/495400?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sparen beim Einkaufen 2.0 (EBook)
 
 > Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../produkte/sparen-beim-einkaufen-2-0-ebook-43691.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.93 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sparen beim Einkaufen 2.0 (EBook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 20.895448000000002 USD
+- Wie viel kostet es? — 20.932808 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

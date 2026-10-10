@@ -4,15 +4,15 @@ digistore24_product_id: 725050
 title: "Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €"
 vendor: "emmadmrss"
 product_type: "E-books"
-price: 15.67
+price: 15.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.84
+earnings_per_sale: 7.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://mindfulhealth.de/longevity-guide/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €
 
 > Product ID `58739` · Digistore24 productId `725050` · [HTML profile page](../../produkte/der-longevity-guide-f-nf-s-ulen-ein-plan-14-90-58739.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.67 (Single payment) |
+| Price | $15.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.84 |
+| Earnings/sale* | $7.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emmadmrss |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €? — Typ: E-books, Anbieter: emmadmrss, gelistet seit 2026-08-27
-- Wie viel kostet es? — 15.671586 USD
+- Wie viel kostet es? — 15.699606000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 147033
 title: "Partnerprogramm \"Digital University\""
 vendor: "netdesign2014"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.54
+earnings_per_sale: 234.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-06-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Partnerprogramm "Digital University"
 
 > Product ID `17491` · Digistore24 productId `147033` · [HTML profile page](../../produkte/partnerprogramm-digital-university-17491.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Single payment, Installment) |
+| Price | $469.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.54 |
+| Earnings/sale* | $234.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | netdesign2014 |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Partnerprogramm "Digital University"? — Typ: Member area and video courses, Anbieter: netdesign2014, gelistet seit 2017-06-28
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

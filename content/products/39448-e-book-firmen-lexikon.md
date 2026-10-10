@@ -4,15 +4,15 @@ digistore24_product_id: 289503
 title: "E-Book: Firmen Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 49.22
+price: 49.31
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 25.1
+earnings_per_sale: 25.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2019-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/firmen-lexikon/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: Firmen Lexikon
 
 > Product ID `39448` · Digistore24 productId `289503` · [HTML profile page](../../produkte/e-book-firmen-lexikon-39448.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.22 (Single payment) |
+| Price | $49.31 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $25.10 |
+| Earnings/sale* | $25.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Staatenlos |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Firmen Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2019-10-04
-- Wie viel kostet es? — 49.2184 USD
+- Wie viel kostet es? — 49.306400000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

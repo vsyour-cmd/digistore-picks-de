@@ -4,15 +4,15 @@ digistore24_product_id: 412270
 title: "Social Recruiting Pro | Recruiting fürs Handwerk"
 vendor: "SOMEONMARKETING"
 product_type: "Remote service provided electronically"
-price: 2785.31
+price: 2790.29
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 417.8
+earnings_per_sale: 418.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Marketing Services"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://someonmarketing.com/social-media-betreuung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Recruiting Pro | Recruiting fürs Handwerk
 
 > Product ID `59225` · Digistore24 productId `412270` · [HTML profile page](../../produkte/social-recruiting-pro-recruiting-f-rs-handwerk-59225.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2785.31 (Single payment) |
+| Price | $2790.29 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $417.80 |
+| Earnings/sale* | $418.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOMEONMARKETING |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Recruiting Pro | Recruiting fürs Handwerk? — Typ: Remote service provided electronically, Anbieter: SOMEONMARKETING, gelistet seit 2026-09-14
-- Wie viel kostet es? — 2785.3140000000003 USD
+- Wie viel kostet es? — 2790.2940000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

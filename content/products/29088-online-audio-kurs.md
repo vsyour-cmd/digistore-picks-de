@@ -4,15 +4,15 @@ digistore24_product_id: 198057
 title: "Online Audio Kurs"
 vendor: "glueckswissenschaften"
 product_type: "Member area and video courses"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 28.05
+earnings_per_sale: 28.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.glueckswissenschaften.de/jetzt-kaufen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Audio Kurs
 
 > Product ID `29088` · Digistore24 productId `198057` · [HTML profile page](../../produkte/online-audio-kurs-29088.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.06 (Single payment, Installment) |
+| Price | $187.40 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $28.05 |
+| Earnings/sale* | $28.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckswissenschaften |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Audio Kurs? — Typ: Member area and video courses, Anbieter: glueckswissenschaften, gelistet seit 2018-02-02
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

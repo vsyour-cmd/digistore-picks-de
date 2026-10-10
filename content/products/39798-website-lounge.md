@@ -4,15 +4,15 @@ digistore24_product_id: 433212
 title: "Website Lounge"
 vendor: "StefanieBlume"
 product_type: "Member area and video courses"
-price: 66
+price: 66.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.8
+earnings_per_sale: 19.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2022-03-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/433212?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Website Lounge
 
 > Product ID `39798` · Digistore24 productId `433212` · [HTML profile page](../../produkte/website-lounge-39798.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $66.00 (Subscription) |
+| Price | $66.12 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.80 |
+| Earnings/sale* | $19.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieBlume |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website Lounge? — Typ: Member area and video courses, Anbieter: StefanieBlume, gelistet seit 2022-03-08
-- Wie viel kostet es? — 65.9974 USD
+- Wie viel kostet es? — 66.11540000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

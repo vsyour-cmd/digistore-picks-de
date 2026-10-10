@@ -4,15 +4,15 @@ digistore24_product_id: 241171
 title: "Premium Silent Subliminals – Positive Transformation"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 38.01
+price: 38.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.04
+earnings_per_sale: 11.06
 cart_conversion_pct: 3
 cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2018-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/home?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Silent Subliminals – Positive Transformation
 
 > Product ID `27218` · Digistore24 productId `241171` · [HTML profile page](../../produkte/premium-silent-subliminals-positive-transformation-27218.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $38.01 (Single payment) |
+| Price | $38.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.04 |
+| Earnings/sale* | $11.06 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.26% |
 | Vendor | OKsuccess |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Silent Subliminals – Positive Transformation? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2018-09-24
-- Wie viel kostet es? — 38.010028 USD
+- Wie viel kostet es? — 38.077988 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

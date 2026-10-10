@@ -4,15 +4,15 @@ digistore24_product_id: 680539
 title: "Der KI-Exposé-Assistent – Software für Immobilien-Exposés"
 vendor: "EnricoLanciani"
 product_type: "Software"
-price: 55.46
+price: 55.56
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 22.18
+earnings_per_sale: 22.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://nexilolab.com/de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der KI-Exposé-Assistent – Software für Immobilien-Exposés
 
 > Product ID `56623` · Digistore24 productId `680539` · [HTML profile page](../../produkte/der-ki-expos-assistent-software-f-r-immobilien-expos-s-56623.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $55.46 (Single payment) |
+| Price | $55.56 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $22.18 |
+| Earnings/sale* | $22.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EnricoLanciani |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der KI-Exposé-Assistent – Software für Immobilien-Exposés? — Typ: Software, Anbieter: EnricoLanciani, gelistet seit 2026-05-20
-- Wie viel kostet es? — 55.460188 USD
+- Wie viel kostet es? — 55.559348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

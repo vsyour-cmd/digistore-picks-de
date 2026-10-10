@@ -4,15 +4,15 @@ digistore24_product_id: 44409
 title: "Digital Money Maker Club - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 125.42
+price: 125.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 240.07
+earnings_per_sale: 240.5
 cart_conversion_pct: 2
 cancel_rate_pct: 10.14
 categories: ["Profession & Job"]
 listed_since: "2015-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/dmmc-7500/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Money Maker Club - von Gunnar Kessler
 
 > Product ID `6671` · Digistore24 productId `44409` · [HTML profile page](../../produkte/digital-money-maker-club-von-gunnar-kessler-6671.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $125.42 (Subscription) |
+| Price | $125.64 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $240.07 |
+| Earnings/sale* | $240.50 |
 | Cart conversion* | 2% |
 | Cancel rate* | 10.14% |
 | Vendor | GTK-littlefreilich |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Money Maker Club - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2015-03-05
-- Wie viel kostet es? — 125.417432 USD
+- Wie viel kostet es? — 125.64167200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

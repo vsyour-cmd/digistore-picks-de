@@ -4,15 +4,15 @@ digistore24_product_id: 217835
 title: "DSGVO Patron Classic Lizenz"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 47
+price: 47.09
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 7.05
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2018-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://wpliftup.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DSGVO Patron Classic Lizenz
 
 > Product ID `25163` · Digistore24 productId `217835` · [HTML profile page](../../produkte/dsgvo-patron-classic-lizenz-25163.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.00 (Subscription) |
+| Price | $47.09 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DSGVO Patron Classic Lizenz? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2018-04-27
-- Wie viel kostet es? — 47.003572000000005 USD
+- Wie viel kostet es? — 47.08761200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 347596
 title: "Birkenbihl Sprachkurs Englisch Einsteiger"
 vendor: "birkenbihltv"
 product_type: "Member area and video courses"
-price: 189.66
+price: 190
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 40.31
+earnings_per_sale: 40.39
 cart_conversion_pct: 9
 cancel_rate_pct: 0.22
 categories: ["Education","Personal Development"]
 listed_since: "2020-09-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.klarsicht-verlag.de/news/original-birkenbihl-sprachkurs-englisch-fuer-einsteiger/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Birkenbihl Sprachkurs Englisch Einsteiger
 
 > Product ID `45274` · Digistore24 productId `347596` · [HTML profile page](../../produkte/birkenbihl-sprachkurs-englisch-einsteiger-45274.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $189.66 (Subscription) |
+| Price | $190.00 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $40.31 |
+| Earnings/sale* | $40.39 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.22% |
 | Vendor | birkenbihltv |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Birkenbihl Sprachkurs Englisch Einsteiger? — Typ: Member area and video courses, Anbieter: birkenbihltv, gelistet seit 2020-09-11
-- Wie viel kostet es? — 189.65863000000002 USD
+- Wie viel kostet es? — 189.99773000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

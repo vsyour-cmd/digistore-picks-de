@@ -4,15 +4,15 @@ digistore24_product_id: 723647
 title: "Notfallmappe Digital – alles Wichtige für den Notfall"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 21.52
+price: 21.56
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.45
+earnings_per_sale: 6.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Software"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/723647?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Notfallmappe Digital – alles Wichtige für den Notfall
 
 > Product ID `60182` · Digistore24 productId `723647` · [HTML profile page](../../produkte/notfallmappe-digital-alles-wichtige-f-r-den-notfall-60182.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $21.52 (Single payment) |
+| Price | $21.56 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.45 |
+| Earnings/sale* | $6.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Notfallmappe Digital – alles Wichtige für den Notfall? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-10-05
-- Wie viel kostet es? — 21.521864 USD
+- Wie viel kostet es? — 21.560344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

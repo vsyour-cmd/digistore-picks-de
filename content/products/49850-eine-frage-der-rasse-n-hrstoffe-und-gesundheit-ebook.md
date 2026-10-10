@@ -4,15 +4,15 @@ digistore24_product_id: 570504
 title: "Eine Frage der Rasse - Nährstoffe und Gesundheit eBook"
 vendor: "stable-stuff"
 product_type: "E-books"
-price: 25.09
+price: 25.14
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 3.76
+earnings_per_sale: 3.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2024-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://stable-stuff.com/pferde-herkunft-naehrstoffe-kraeuter/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Eine Frage der Rasse - Nährstoffe und Gesundheit eBook
 
 > Product ID `49850` · Digistore24 productId `570504` · [HTML profile page](../../produkte/eine-frage-der-rasse-n-hrstoffe-und-gesundheit-ebook-49850.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.09 (Single payment) |
+| Price | $25.14 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $3.76 |
+| Earnings/sale* | $3.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stable-stuff |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eine Frage der Rasse - Nährstoffe und Gesundheit eBook? — Typ: E-books, Anbieter: stable-stuff, gelistet seit 2024-09-16
-- Wie viel kostet es? — 25.090198 USD
+- Wie viel kostet es? — 25.135058 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

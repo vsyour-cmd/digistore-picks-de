@@ -4,15 +4,15 @@ digistore24_product_id: 608751
 title: "von 0 auf Sichtbarkeit - mit Instagram"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 45.88
+price: 45.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.73
+earnings_per_sale: 11.76
 cart_conversion_pct: 2
 cancel_rate_pct: 3.64
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/608751?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # von 0 auf Sichtbarkeit - mit Instagram
 
 > Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../produkte/von-0-auf-sichtbarkeit-mit-instagram-52471.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.88 (Single payment) |
+| Price | $45.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.73 |
+| Earnings/sale* | $11.76 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.64% |
 | Vendor | AnneWuensche |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist von 0 auf Sichtbarkeit - mit Instagram? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2025-04-22
-- Wie viel kostet es? — 45.884972000000005 USD
+- Wie viel kostet es? — 45.967012000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

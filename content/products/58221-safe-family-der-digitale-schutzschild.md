@@ -4,15 +4,15 @@ digistore24_product_id: 718869
 title: "Safe Family – Der digitale Schutzschild"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 65.75
+price: 65.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.88
+earnings_per_sale: 32.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-08-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718869?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Safe Family – Der digitale Schutzschild
 
 > Product ID `58221` · Digistore24 productId `718869` · [HTML profile page](../../produkte/safe-family-der-digitale-schutzschild-58221.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.75 (Single payment) |
+| Price | $65.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.88 |
+| Earnings/sale* | $32.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Safe Family – Der digitale Schutzschild? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-08-08
-- Wie viel kostet es? — 65.75130800000001 USD
+- Wie viel kostet es? — 65.868868 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 35449
 title: "Englisch lernen - Einfach sprechen!"
 vendor: "Natural-Learning"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 19.04
+earnings_per_sale: 19.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2014-10-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.natural-language-system.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Englisch lernen - Einfach sprechen!
 
 > Product ID `5273` · Digistore24 productId `35449` · [HTML profile page](../../produkte/englisch-lernen-einfach-sprechen-5273.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $19.04 |
+| Earnings/sale* | $19.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Natural-Learning |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch lernen - Einfach sprechen!? — Typ: Downloads, Anbieter: Natural-Learning, gelistet seit 2014-10-30
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

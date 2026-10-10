@@ -4,7 +4,7 @@ digistore24_product_id: 653900
 title: "eBook - Jahreskreisfeste & ihre Magie"
 vendor: "werbezone"
 product_type: "E-books"
-price: 9.35
+price: 9.37
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.87
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ritualwelten.de/jahreskreisfeste-workbook-ebook/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Jahreskreisfeste & ihre Magie
 
 > Product ID `54959` · Digistore24 productId `653900` · [HTML profile page](../../produkte/ebook-jahreskreisfeste-ihre-magie-54959.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.35 (Single payment) |
+| Price | $9.37 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.87 |
 | Cart conversion* | — |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Jahreskreisfeste & ihre Magie? — Typ: E-books, Anbieter: werbezone, gelistet seit 2025-12-08
-- Wie viel kostet es? — 9.351496 USD
+- Wie viel kostet es? — 9.368216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

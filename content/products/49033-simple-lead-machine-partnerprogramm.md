@@ -4,15 +4,15 @@ digistore24_product_id: 506275
 title: "Simple Lead Machine | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 188.81
+price: 189.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 141.98
+earnings_per_sale: 142.24
 cart_conversion_pct: 1
 cancel_rate_pct: 2.38
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-07-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/506275/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Simple Lead Machine | Partnerprogramm
 
 > Product ID `49033` · Digistore24 productId `506275` · [HTML profile page](../../produkte/simple-lead-machine-partnerprogramm-49033.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.81 (Single payment, Installment) |
+| Price | $189.15 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $141.98 |
+| Earnings/sale* | $142.24 |
 | Cart conversion* | 1% |
 | Cancel rate* | 2.38% |
 | Vendor | profitbuddies |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Simple Lead Machine | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2023-07-06
-- Wie viel kostet es? — 188.808494 USD
+- Wie viel kostet es? — 189.146074 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

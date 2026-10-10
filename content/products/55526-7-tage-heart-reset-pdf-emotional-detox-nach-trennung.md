@@ -4,15 +4,15 @@ digistore24_product_id: 667194
 title: "7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung"
 vendor: "HEART-RESET"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.64
+earnings_per_sale: 13.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Personal Development"]
 listed_since: "2026-02-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/667194?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung
 
 > Product ID `55526` · Digistore24 productId `667194` · [HTML profile page](../../produkte/7-tage-heart-reset-pdf-emotional-detox-nach-trennung-55526.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.64 |
+| Earnings/sale* | $13.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HEART-RESET |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7-Tage Heart Reset (PDF) – Emotional Detox nach Trennung? — Typ: Downloads, Anbieter: HEART-RESET, gelistet seit 2026-02-07
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

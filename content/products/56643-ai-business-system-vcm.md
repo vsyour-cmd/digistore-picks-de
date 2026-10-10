@@ -4,15 +4,15 @@ digistore24_product_id: 689432
 title: "AI- Business System™ VCM"
 vendor: "smartboostAI"
 product_type: "Member area and video courses"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 327.03
+earnings_per_sale: 327.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ai-agent-business.com/vcm-start?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI- Business System™ VCM
 
 > Product ID `56643` · Digistore24 productId `689432` · [HTML profile page](../../produkte/ai-business-system-vcm-56643.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $467.18 (Single payment, Installment) |
+| Price | $468.02 (Single payment, Installment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $327.03 |
+| Earnings/sale* | $327.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI- Business System™ VCM? — Typ: Member area and video courses, Anbieter: smartboostAI, gelistet seit 2026-05-21
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

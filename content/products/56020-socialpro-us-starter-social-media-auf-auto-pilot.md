@@ -4,15 +4,15 @@ digistore24_product_id: 675783
 title: "SocialPro.us (Starter) Social Media auf Auto-Pilot"
 vendor: "nixotec"
 product_type: "Software"
-price: 74.95
+price: 75.08
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.98
+earnings_per_sale: 30.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Software","Marketing Services"]
 listed_since: "2026-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/675783?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SocialPro.us (Starter) Social Media auf Auto-Pilot
 
 > Product ID `56020` · Digistore24 productId `675783` · [HTML profile page](../../produkte/socialpro-us-starter-social-media-auf-auto-pilot-56020.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $74.95 (Single payment) |
+| Price | $75.08 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.98 |
+| Earnings/sale* | $30.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nixotec |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SocialPro.us (Starter) Social Media auf Auto-Pilot? — Typ: Software, Anbieter: nixotec, gelistet seit 2026-03-12
-- Wie viel kostet es? — 74.9462 USD
+- Wie viel kostet es? — 75.0802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

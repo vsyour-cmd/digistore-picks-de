@@ -4,15 +4,15 @@ digistore24_product_id: 116859
 title: "Workout Bundle – Schnellere Trainingserfolge (Bestseller)"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.66
+price: 267.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.93
+earnings_per_sale: 99.11
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Health & Fitness"]
 listed_since: "2017-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/workout-bundle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Workout Bundle – Schnellere Trainingserfolge (Bestseller)
 
 > Product ID `16199` · Digistore24 productId `116859` · [HTML profile page](../../produkte/workout-bundle-schnellere-trainingserfolge-bestseller-16199.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.66 (Single payment) |
+| Price | $267.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.93 |
+| Earnings/sale* | $99.11 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workout Bundle – Schnellere Trainingserfolge (Bestseller)? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-01-31
-- Wie viel kostet es? — 266.663054 USD
+- Wie viel kostet es? — 267.139834 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

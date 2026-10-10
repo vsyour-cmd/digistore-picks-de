@@ -4,15 +4,15 @@ digistore24_product_id: 72705
 title: "Silent Subliminals - Unterschwellige Botschaften"
 vendor: "Quanten-Resonanz"
 product_type: "Downloads"
-price: 27.14
+price: 27.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.52
+earnings_per_sale: 9.54
 cart_conversion_pct: 20
 cancel_rate_pct: 3.05
 categories: ["Personal Development"]
 listed_since: "2016-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://quantenresonanz.de/silent_subliminals_v1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Silent Subliminals - Unterschwellige Botschaften
 
 > Product ID `10645` · Digistore24 productId `72705` · [HTML profile page](../../produkte/silent-subliminals-unterschwellige-botschaften-10645.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.14 (Single payment) |
+| Price | $27.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.52 |
+| Earnings/sale* | $9.54 |
 | Cart conversion* | 20% |
 | Cancel rate* | 3.05% |
 | Vendor | Quanten-Resonanz |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals - Unterschwellige Botschaften? — Typ: Downloads, Anbieter: Quanten-Resonanz, gelistet seit 2016-02-22
-- Wie viel kostet es? — 27.137236 USD
+- Wie viel kostet es? — 27.185756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

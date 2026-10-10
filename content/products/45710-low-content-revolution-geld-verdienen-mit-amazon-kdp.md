@@ -4,15 +4,15 @@ digistore24_product_id: 513325
 title: "Low Content Revolution - Geld verdienen mit Amazon KDP"
 vendor: "nomadpublishing"
 product_type: "Member area and video courses"
-price: 1199.35
+price: 1201.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 251.95
+earnings_per_sale: 252.4
 cart_conversion_pct: 8
 cancel_rate_pct: 10.93
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-08-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lowcontent.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Low Content Revolution - Geld verdienen mit Amazon KDP
 
 > Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../produkte/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1199.35 (Single payment, Installment) |
+| Price | $1201.50 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $251.95 |
+| Earnings/sale* | $252.40 |
 | Cart conversion* | 8% |
 | Cancel rate* | 10.93% |
 | Vendor | nomadpublishing |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Content Revolution - Geld verdienen mit Amazon KDP? — Typ: Member area and video courses, Anbieter: nomadpublishing, gelistet seit 2023-08-23
-- Wie viel kostet es? — 1199.351734 USD
+- Wie viel kostet es? — 1201.496114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

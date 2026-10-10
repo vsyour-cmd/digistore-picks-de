@@ -4,15 +4,15 @@ digistore24_product_id: 675624
 title: "Wie du 2026 mit KI ein Online-Einkommen aufbaust"
 vendor: "MSY-COMMERCE-DE"
 product_type: "E-books"
-price: 83.58
+price: 83.73
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 50.15
+earnings_per_sale: 50.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-03-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/675624?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wie du 2026 mit KI ein Online-Einkommen aufbaust
 
 > Product ID `55866` · Digistore24 productId `675624` · [HTML profile page](../../produkte/wie-du-2026-mit-ki-ein-online-einkommen-aufbaust-55866.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $83.58 (Single payment) |
+| Price | $83.73 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $50.15 |
+| Earnings/sale* | $50.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MSY-COMMERCE-DE |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie du 2026 mit KI ein Online-Einkommen aufbaust? — Typ: E-books, Anbieter: MSY-COMMERCE-DE, gelistet seit 2026-03-11
-- Wie viel kostet es? — 83.58179200000001 USD
+- Wie viel kostet es? — 83.731232 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 536014
 title: "Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!"
 vendor: "family2be"
 product_type: "Member area and video courses"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 14.86
+earnings_per_sale: 14.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2024-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://we4fam.de/daddy/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!
 
 > Product ID `48028` · Digistore24 productId `536014` · [HTML profile page](../../produkte/daddy2be-der-no-1-vorbereitungskurs-f-r-werdende-v-ter-48028.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.26 (Single payment, Installment) |
+| Price | $74.40 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $14.86 |
+| Earnings/sale* | $14.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | family2be |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!? — Typ: Member area and video courses, Anbieter: family2be, gelistet seit 2024-01-25
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

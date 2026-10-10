@@ -4,15 +4,15 @@ digistore24_product_id: 636228
 title: "Grundlagen der Betriebshygiene"
 vendor: "WirtschaftspraxisJuergens"
 product_type: "Member area and video courses"
-price: 83.66
+price: 83.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.84
+earnings_per_sale: 41.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-deutsch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Grundlagen der Betriebshygiene
 
 > Product ID `54941` · Digistore24 productId `636228` · [HTML profile page](../../produkte/grundlagen-der-betriebshygiene-54941.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.66 (Single payment) |
+| Price | $83.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.84 |
+| Earnings/sale* | $41.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WirtschaftspraxisJuergens |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundlagen der Betriebshygiene? — Typ: Member area and video courses, Anbieter: WirtschaftspraxisJuergens, gelistet seit 2025-09-17
-- Wie viel kostet es? — 83.66009400000002 USD
+- Wie viel kostet es? — 83.80967400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

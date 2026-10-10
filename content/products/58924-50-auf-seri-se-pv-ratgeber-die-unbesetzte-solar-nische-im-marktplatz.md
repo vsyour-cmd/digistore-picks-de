@@ -4,15 +4,15 @@ digistore24_product_id: 721062
 title: "50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz"
 vendor: "Feo-Media"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.03
+earnings_per_sale: 23.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://wattvoll.de/produkt/komplett-paket?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz
 
 > Product ID `58924` · Digistore24 productId `721062` · [HTML profile page](../../produkte/50-auf-seri-se-pv-ratgeber-die-unbesetzte-solar-nische-im-marktplatz-58924.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.03 |
+| Earnings/sale* | $23.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feo-Media |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz? — Typ: Member area and video courses, Anbieter: Feo-Media, gelistet seit 2026-09-04
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

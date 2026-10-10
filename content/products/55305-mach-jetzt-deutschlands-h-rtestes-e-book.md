@@ -4,15 +4,15 @@ digistore24_product_id: 663769
 title: "Mach. Jetzt. - Deutschlands härtestes E-Book"
 vendor: "gbuiss"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.28
+earnings_per_sale: 8.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663769?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mach. Jetzt. - Deutschlands härtestes E-Book
 
 > Product ID `55305` · Digistore24 productId `663769` · [HTML profile page](../../produkte/mach-jetzt-deutschlands-h-rtestes-e-book-55305.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.28 |
+| Earnings/sale* | $8.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gbuiss |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mach. Jetzt. - Deutschlands härtestes E-Book? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-01-23
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

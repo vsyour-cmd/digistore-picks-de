@@ -4,15 +4,15 @@ digistore24_product_id: 733557
 title: "reset Leadership Mastery Class"
 vendor: "sperber9a48"
 product_type: "Member area and video courses"
-price: 1316
+price: 1318.35
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 263.2
+earnings_per_sale: 263.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Leadership & Management"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733557?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # reset Leadership Mastery Class
 
 > Product ID `59290` · Digistore24 productId `733557` · [HTML profile page](../../produkte/reset-leadership-mastery-class-59290.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1316.00 (Single payment, Installment) |
+| Price | $1318.35 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $263.20 |
+| Earnings/sale* | $263.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sperber9a48 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist reset Leadership Mastery Class? — Typ: Member area and video courses, Anbieter: sperber9a48, gelistet seit 2026-09-16
-- Wie viel kostet es? — 1315.999342 USD
+- Wie viel kostet es? — 1318.352282 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

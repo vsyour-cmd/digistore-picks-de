@@ -4,15 +4,15 @@ digistore24_product_id: 471840
 title: "Die Chessence Premium-Mitgliedschaft"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.38
+earnings_per_sale: 36.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://chessence.de/premium/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Chessence Premium-Mitgliedschaft
 
 > Product ID `57431` · Digistore24 productId `471840` · [HTML profile page](../../produkte/die-chessence-premium-mitgliedschaft-57431.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.26 (Subscription) |
+| Price | $121.47 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.38 |
+| Earnings/sale* | $36.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Chessence Premium-Mitgliedschaft? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-06
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

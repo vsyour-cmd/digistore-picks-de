@@ -4,7 +4,7 @@ digistore24_product_id: 659704
 title: "Digiffiliate – Der Digistore Marktplatz-Booster"
 vendor: "digiffiliateapp"
 product_type: "Software"
-price: 1.9
+price: 1.91
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.36
@@ -12,7 +12,7 @@ cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://digiffiliate.com/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Digiffiliate – Der Digistore Marktplatz-Booster
 
 > Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../produkte/digiffiliate-der-digistore-marktplatz-booster-55347.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1.90 (Single payment) |
+| Price | $1.91 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.36 |
 | Cart conversion* | 39% |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digiffiliate – Der Digistore Marktplatz-Booster? — Typ: Software, Anbieter: digiffiliateapp, gelistet seit 2026-01-07
-- Wie viel kostet es? — 1.90162 USD
+- Wie viel kostet es? — 1.90502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

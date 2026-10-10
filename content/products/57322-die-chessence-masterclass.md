@@ -4,15 +4,15 @@ digistore24_product_id: 606037
 title: "Die Chessence Masterclass"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 1033.06
+price: 1034.91
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 309.92
+earnings_per_sale: 310.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://chessence.de/masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Chessence Masterclass
 
 > Product ID `57322` · Digistore24 productId `606037` · [HTML profile page](../../produkte/die-chessence-masterclass-57322.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1033.06 (Single payment, Subscription) |
+| Price | $1034.91 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $309.92 |
+| Earnings/sale* | $310.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -104,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Chessence Masterclass? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-01
-- Wie viel kostet es? — 1033.060658 USD
+- Wie viel kostet es? — 1034.907718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

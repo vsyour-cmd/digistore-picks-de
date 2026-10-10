@@ -4,15 +4,15 @@ digistore24_product_id: 725025
 title: "\" LandingPage \" erstellen günstig mit 99"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 27.69
+earnings_per_sale: 27.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-landingpage-erstellen-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # " LandingPage " erstellen günstig mit 99
 
 > Product ID `58664` · Digistore24 productId `725025` · [HTML profile page](../../produkte/landingpage-erstellen-g-nstig-mit-99-58664.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $27.69 |
+| Earnings/sale* | $27.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist " LandingPage " erstellen günstig mit 99? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-08-25
-- Wie viel kostet es? — 110.7414 USD
+- Wie viel kostet es? — 110.9394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

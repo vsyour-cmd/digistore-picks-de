@@ -4,15 +4,15 @@ digistore24_product_id: 735217
 title: "Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.76
+earnings_per_sale: 18.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/hochzeitsplaner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
 > Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../produkte/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.51 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.76 |
+| Earnings/sale* | $18.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-20
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

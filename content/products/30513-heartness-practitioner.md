@@ -4,15 +4,15 @@ digistore24_product_id: 293858
 title: "Heartness Practitioner"
 vendor: "heartness"
 product_type: "Member area and video courses"
-price: 232.18
+price: 232.59
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 46.43
+earnings_per_sale: 46.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-11-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://academy.heartness.info/heartness-practitioner-bestellung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Heartness Practitioner
 
 > Product ID `30513` · Digistore24 productId `293858` · [HTML profile page](../../produkte/heartness-practitioner-30513.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $232.18 (Single payment) |
+| Price | $232.59 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $46.43 |
+| Earnings/sale* | $46.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | heartness |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heartness Practitioner? — Typ: Member area and video courses, Anbieter: heartness, gelistet seit 2019-11-06
-- Wie viel kostet es? — 232.17661600000002 USD
+- Wie viel kostet es? — 232.591736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

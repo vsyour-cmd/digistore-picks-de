@@ -4,15 +4,15 @@ digistore24_product_id: 601282
 title: "14 Tage Detox-Plan"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 261.75
+price: 262.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 130.88
+earnings_per_sale: 131.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.startimpulse.online/14-tage-detox-plan/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 14 Tage Detox-Plan
 
 > Product ID `51867` · Digistore24 productId `601282` · [HTML profile page](../../produkte/14-tage-detox-plan-51867.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $261.75 (Single payment, Installment) |
+| Price | $262.22 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $130.88 |
+| Earnings/sale* | $131.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 14 Tage Detox-Plan? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2025-03-12
-- Wie viel kostet es? — 261.7524 USD
+- Wie viel kostet es? — 262.2204 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

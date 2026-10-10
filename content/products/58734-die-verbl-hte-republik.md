@@ -4,15 +4,15 @@ digistore24_product_id: 723057
 title: "Die verblühte Republik"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 11.76
+price: 11.78
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.17
+earnings_per_sale: 1.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/verbluehte_republik.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die verblühte Republik
 
 > Product ID `58734` · Digistore24 productId `723057` · [HTML profile page](../../produkte/die-verbl-hte-republik-58734.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $11.76 (Single payment) |
+| Price | $11.78 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.17 |
+| Earnings/sale* | $1.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die verblühte Republik? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 11.756486 USD
+- Wie viel kostet es? — 11.777506 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

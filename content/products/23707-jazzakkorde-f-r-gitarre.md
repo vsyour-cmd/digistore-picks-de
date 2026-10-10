@@ -4,15 +4,15 @@ digistore24_product_id: 209613
 title: "Jazzakkorde für Gitarre"
 vendor: "musiklehrer"
 product_type: "Downloads"
-price: 83.1
+price: 83.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.24
+earnings_per_sale: 16.27
 cart_conversion_pct: 15
 cancel_rate_pct: 2.88
 categories: ["Dancing & Music"]
 listed_since: "2018-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Jazzakkorde für Gitarre
 
 > Product ID `23707` · Digistore24 productId `209613` · [HTML profile page](../../produkte/jazzakkorde-f-r-gitarre-23707.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.10 (Single payment) |
+| Price | $83.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.24 |
+| Earnings/sale* | $16.27 |
 | Cart conversion* | 15% |
 | Cancel rate* | 2.88% |
 | Vendor | musiklehrer |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jazzakkorde für Gitarre? — Typ: Downloads, Anbieter: musiklehrer, gelistet seit 2018-03-20
-- Wie viel kostet es? — 83.10079400000001 USD
+- Wie viel kostet es? — 83.249374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

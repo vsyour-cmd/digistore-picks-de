@@ -4,7 +4,7 @@ digistore24_product_id: 662640
 title: "15 Min nach dem Streit:Meditation zur emotionalen Beruhigung"
 vendor: "PaarpsychologieHamburg"
 product_type: "Downloads"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 4.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/662640?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 15 Min nach dem Streit:Meditation zur emotionalen Beruhigung
 
 > Product ID `55256` · Digistore24 productId `662640` · [HTML profile page](../../produkte/15-min-nach-dem-streit-meditation-zur-emotionalen-beruhigung-55256.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $4.68 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Min nach dem Streit:Meditation zur emotionalen Beruhigung? — Typ: Downloads, Anbieter: PaarpsychologieHamburg, gelistet seit 2026-01-19
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

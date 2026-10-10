@@ -4,15 +4,15 @@ digistore24_product_id: 627890
 title: "Content Creator Clone Masterclass 70% Affiliate"
 vendor: "jusaconsulting"
 product_type: "Member area and video courses"
-price: 262.59
+price: 263.06
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 75.75
+earnings_per_sale: 75.89
 cart_conversion_pct: 7
 cancel_rate_pct: 5.82
 categories: ["Marketing Services"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Content Creator Clone Masterclass 70% Affiliate
 
 > Product ID `53726` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creator-clone-masterclass-70-affiliate-53726.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $262.59 (Single payment) |
+| Price | $263.06 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $75.75 |
+| Earnings/sale* | $75.89 |
 | Cart conversion* | 7% |
 | Cancel rate* | 5.82% |
 | Vendor | jusaconsulting |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content Creator Clone Masterclass 70% Affiliate? — Typ: Member area and video courses, Anbieter: jusaconsulting, gelistet seit 2025-08-05
-- Wie viel kostet es? — 262.59135000000003 USD
+- Wie viel kostet es? — 263.06085 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

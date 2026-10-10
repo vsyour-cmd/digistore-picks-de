@@ -4,15 +4,15 @@ digistore24_product_id: 648512
 title: "Das 30-Minuten-System - Trading für Menschen mit wenig Zeit"
 vendor: "Your-Trading"
 product_type: "Member area and video courses"
-price: 444.08
+price: 444.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 222.04
+earnings_per_sale: 222.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Services"]
 listed_since: "2025-11-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://your-trading.com/einstieg?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das 30-Minuten-System - Trading für Menschen mit wenig Zeit
 
 > Product ID `55304` · Digistore24 productId `648512` · [HTML profile page](../../produkte/das-30-minuten-system-trading-f-r-menschen-mit-wenig-zeit-55304.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $444.08 (Single payment, Subscription) |
+| Price | $444.88 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $222.04 |
+| Earnings/sale* | $222.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Your-Trading |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 30-Minuten-System - Trading für Menschen mit wenig Zeit? — Typ: Member area and video courses, Anbieter: Your-Trading, gelistet seit 2025-11-14
-- Wie viel kostet es? — 444.0842 USD
+- Wie viel kostet es? — 444.8782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

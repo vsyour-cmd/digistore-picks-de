@@ -4,15 +4,15 @@ digistore24_product_id: 448788
 title: "Schwinge in deiner Essenz - Audio"
 vendor: "allsenses"
 product_type: "Downloads"
-price: 70.51
+price: 70.63
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 14.11
+earnings_per_sale: 14.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-06-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.allsenses.de/produkt/transformation-essenzatem-lange-version/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schwinge in deiner Essenz - Audio
 
 > Product ID `40427` · Digistore24 productId `448788` · [HTML profile page](../../produkte/schwinge-in-deiner-essenz-audio-40427.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $70.51 (Single payment) |
+| Price | $70.63 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | allsenses |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwinge in deiner Essenz - Audio? — Typ: Downloads, Anbieter: allsenses, gelistet seit 2022-06-28
-- Wie viel kostet es? — 70.505358 USD
+- Wie viel kostet es? — 70.63141800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

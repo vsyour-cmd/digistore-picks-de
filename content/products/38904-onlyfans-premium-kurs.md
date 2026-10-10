@@ -4,15 +4,15 @@ digistore24_product_id: 422798
 title: "Onlyfans Premium Kurs"
 vendor: "MTernes"
 product_type: "Downloads"
-price: 140.99
+price: 141.24
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.4
+earnings_per_sale: 56.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-01-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://prestige101.de/onlyfans-kurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlyfans Premium Kurs
 
 > Product ID `38904` · Digistore24 productId `422798` · [HTML profile page](../../produkte/onlyfans-premium-kurs-38904.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $140.99 (Single payment) |
+| Price | $141.24 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.40 |
+| Earnings/sale* | $56.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MTernes |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlyfans Premium Kurs? — Typ: Downloads, Anbieter: MTernes, gelistet seit 2022-01-02
-- Wie viel kostet es? — 140.988344 USD
+- Wie viel kostet es? — 141.24042400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

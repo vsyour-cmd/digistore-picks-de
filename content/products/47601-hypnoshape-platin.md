@@ -4,15 +4,15 @@ digistore24_product_id: 473710
 title: "Hypnoshape - Platin"
 vendor: "Glowing_Media"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.03
+earnings_per_sale: 23.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Services"]
 listed_since: "2022-12-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/473710?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnoshape - Platin
 
 > Product ID `47601` · Digistore24 productId `473710` · [HTML profile page](../../produkte/hypnoshape-platin-47601.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Subscription) |
+| Price | $46.15 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.03 |
+| Earnings/sale* | $23.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glowing_Media |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnoshape - Platin? — Typ: Member area and video courses, Anbieter: Glowing_Media, gelistet seit 2022-12-07
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

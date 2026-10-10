@@ -4,15 +4,15 @@ digistore24_product_id: 611531
 title: "15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 1.72
+price: 1.73
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 3.14
+earnings_per_sale: 3.15
 cart_conversion_pct: 19
 cancel_rate_pct: 0.65
 categories: ["Computer & Internet","Software"]
 listed_since: "2025-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/15-tage-ki-provision-challenge/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)
 
 > Product ID `52383` · Digistore24 productId `611531` · [HTML profile page](../../produkte/15-tage-ki-provision-challenge-inkl-gratis-prompts-e-book-52383.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1.72 (Single payment) |
+| Price | $1.73 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $3.14 |
+| Earnings/sale* | $3.15 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0.65% |
 | Vendor | webpirat |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-05-08
-- Wie viel kostet es? — 1.722644 USD
+- Wie viel kostet es? — 1.725724 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

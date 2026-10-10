@@ -4,15 +4,15 @@ digistore24_product_id: 232026
 title: "Blitzerwarner 2024 (für VW, Seat und Skoda)"
 vendor: "Paisla"
 product_type: "Downloads"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 28.5
-earnings_per_sale: 5.65
+earnings_per_sale: 5.66
 cart_conversion_pct: 21
 cancel_rate_pct: 4.94
 categories: ["Software"]
 listed_since: "2018-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.blitzerwarner.autoradio-info.de/go/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Blitzerwarner 2024 (für VW, Seat und Skoda)
 
 > Product ID `25920` · Digistore24 productId `232026` · [HTML profile page](../../produkte/blitzerwarner-2024-f-r-vw-seat-und-skoda-25920.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 28.5% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.66 |
 | Cart conversion* | 21% |
 | Cancel rate* | 4.94% |
 | Vendor | Paisla |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blitzerwarner 2024 (für VW, Seat und Skoda)? — Typ: Downloads, Anbieter: Paisla, gelistet seit 2018-07-05
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

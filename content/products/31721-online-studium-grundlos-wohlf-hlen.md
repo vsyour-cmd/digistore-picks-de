@@ -4,15 +4,15 @@ digistore24_product_id: 241880
 title: "Online-Studium: \"Grundlos Wohlfühlen\""
 vendor: "commedi"
 product_type: "Member area and video courses"
-price: 683.74
+price: 684.97
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 167.69
+earnings_per_sale: 167.99
 cart_conversion_pct: 12
 cancel_rate_pct: 1.43
 categories: ["Education","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2018-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.praesenzmedizin.de/grundlos-wohlfuehlen-das-studium?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Studium: "Grundlos Wohlfühlen"
 
 > Product ID `31721` · Digistore24 productId `241880` · [HTML profile page](../../produkte/online-studium-grundlos-wohlf-hlen-31721.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $683.74 (Single payment, Installment) |
+| Price | $684.97 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $167.69 |
+| Earnings/sale* | $167.99 |
 | Cart conversion* | 12% |
 | Cancel rate* | 1.43% |
 | Vendor | commedi |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Studium: "Grundlos Wohlfühlen"? — Typ: Member area and video courses, Anbieter: commedi, gelistet seit 2018-09-29
-- Wie viel kostet es? — 683.7442500000001 USD
+- Wie viel kostet es? — 684.96675 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

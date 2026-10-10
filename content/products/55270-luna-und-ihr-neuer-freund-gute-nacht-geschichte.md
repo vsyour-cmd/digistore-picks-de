@@ -4,7 +4,7 @@ digistore24_product_id: 642306
 title: "Luna und ihr neuer Freund - Gute-Nacht-Geschichte"
 vendor: "Cleverkopf"
 product_type: "Downloads"
-price: 9.37
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.75
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2025-10-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/642306?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Luna und ihr neuer Freund - Gute-Nacht-Geschichte
 
 > Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../produkte/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.37 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.75 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luna und ihr neuer Freund - Gute-Nacht-Geschichte? — Typ: Downloads, Anbieter: Cleverkopf, gelistet seit 2025-10-19
-- Wie viel kostet es? — 9.373868000000002 USD
+- Wie viel kostet es? — 9.390628000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

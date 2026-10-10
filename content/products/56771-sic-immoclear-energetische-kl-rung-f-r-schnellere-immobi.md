@@ -4,15 +4,15 @@ digistore24_product_id: 689183
 title: "SIC - ImmoClear – Energetische Klärung für schnellere Immobi"
 vendor: "Immoclear"
 product_type: "Member area and video courses"
-price: 47.94
+price: 48.03
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 33.56
+earnings_per_sale: 33.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SIC - ImmoClear – Energetische Klärung für schnellere Immobi
 
 > Product ID `56771` · Digistore24 productId `689183` · [HTML profile page](../../produkte/sic-immoclear-energetische-kl-rung-f-r-schnellere-immobi-56771.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.94 (Single payment) |
+| Price | $48.03 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $33.56 |
+| Earnings/sale* | $33.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Immoclear |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SIC - ImmoClear – Energetische Klärung für schnellere Immobi? — Typ: Member area and video courses, Anbieter: Immoclear, gelistet seit 2026-06-01
-- Wie viel kostet es? — 47.943196 USD
+- Wie viel kostet es? — 48.028916 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

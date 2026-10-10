@@ -4,15 +4,15 @@ digistore24_product_id: 67593
 title: "HERZ Gesundheit aus ganzheitlicher Sicht"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 187.97
+price: 188.31
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 55.24
+earnings_per_sale: 55.34
 cart_conversion_pct: 31
 cancel_rate_pct: 5.11
 categories: ["Health & Fitness"]
 listed_since: "2016-01-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
 > Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.97 (Single payment) |
+| Price | $188.31 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $55.24 |
+| Earnings/sale* | $55.34 |
 | Cart conversion* | 31% |
 | Cancel rate* | 5.11% |
 | Vendor | RaGarve |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HERZ Gesundheit aus ganzheitlicher Sicht? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2016-01-02
-- Wie viel kostet es? — 187.96954399999998 USD
+- Wie viel kostet es? — 188.305624 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

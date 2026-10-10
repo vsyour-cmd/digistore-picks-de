@@ -4,15 +4,15 @@ digistore24_product_id: 640014
 title: "Platin PLR Bundle"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 37.6
+price: 37.66
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13.15
+earnings_per_sale: 13.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/platin-bundle?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Platin PLR Bundle
 
 > Product ID `54337` · Digistore24 productId `640014` · [HTML profile page](../../produkte/platin-plr-bundle-54337.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.60 (Single payment) |
+| Price | $37.66 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.15 |
+| Earnings/sale* | $13.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Platin PLR Bundle? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-10-07
-- Wie viel kostet es? — 37.596146 USD
+- Wie viel kostet es? — 37.663366 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

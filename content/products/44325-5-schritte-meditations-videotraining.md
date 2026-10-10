@@ -4,15 +4,15 @@ digistore24_product_id: 501143
 title: "5-Schritte-Meditations-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 32.64
+price: 32.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.06
+earnings_per_sale: 14.09
 cart_conversion_pct: 17
 cancel_rate_pct: 6.36
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-05-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/meditation-anleitung-videotraining/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 5-Schritte-Meditations-Videotraining
 
 > Product ID `44325` · Digistore24 productId `501143` · [HTML profile page](../../produkte/5-schritte-meditations-videotraining-44325.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.64 (Single payment) |
+| Price | $32.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.06 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.36% |
 | Vendor | Erfolg-Intuitiv |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5-Schritte-Meditations-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2023-05-30
-- Wie viel kostet es? — 32.640748 USD
+- Wie viel kostet es? — 32.699108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

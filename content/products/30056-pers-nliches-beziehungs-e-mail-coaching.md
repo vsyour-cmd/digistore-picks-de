@@ -4,15 +4,15 @@ digistore24_product_id: 155861
 title: "Persönliches Beziehungs-E-Mail Coaching"
 vendor: "rheinrost"
 product_type: "Online coaching"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 9.31
+earnings_per_sale: 9.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2017-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/beziehungsberatung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Persönliches Beziehungs-E-Mail Coaching
 
 > Product ID `30056` · Digistore24 productId `155861` · [HTML profile page](../../produkte/pers-nliches-beziehungs-e-mail-coaching-30056.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $9.31 |
+| Earnings/sale* | $9.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Persönliches Beziehungs-E-Mail Coaching? — Typ: Online coaching, Anbieter: rheinrost, gelistet seit 2017-08-05
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

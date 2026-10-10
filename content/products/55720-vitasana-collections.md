@@ -4,15 +4,15 @@ digistore24_product_id: 663520
 title: "VitaSana Collections"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 52.57
+price: 52.67
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 31.54
+earnings_per_sale: 31.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://vitasanacollection.com/8-products-pdp?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VitaSana Collections
 
 > Product ID `55720` · Digistore24 productId `663520` · [HTML profile page](../../produkte/vitasana-collections-55720.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $52.57 (Single payment) |
+| Price | $52.67 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $31.54 |
+| Earnings/sale* | $31.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-MySana |
@@ -106,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VitaSana Collections? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-22
-- Wie viel kostet es? — 52.574200000000005 USD
+- Wie viel kostet es? — 52.6682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

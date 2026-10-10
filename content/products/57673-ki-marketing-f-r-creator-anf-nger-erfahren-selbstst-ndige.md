@@ -4,15 +4,15 @@ digistore24_product_id: 711211
 title: "Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige"
 vendor: "24kibibliotheker"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.45
+earnings_per_sale: 10.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige
 
 > Product ID `57673` · Digistore24 productId `711211` · [HTML profile page](../../produkte/ki-marketing-f-r-creator-anf-nger-erfahren-selbstst-ndige-57673.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.45 |
+| Earnings/sale* | $10.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | 24kibibliotheker |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige? — Typ: E-books, Anbieter: 24kibibliotheker, gelistet seit 2026-07-22
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

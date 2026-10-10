@@ -4,15 +4,15 @@ digistore24_product_id: 703324
 title: "Waldtier-Printable-Bundle für Kinder: 90 liebevolle Seiten z"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 18.22
+earnings_per_sale: 18.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Fun & Games"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/susses-waldtier-bundle-fur-kinder/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Waldtier-Printable-Bundle für Kinder: 90 liebevolle Seiten z
 
 > Product ID `57108` · Digistore24 productId `703324` · [HTML profile page](../../produkte/waldtier-printable-bundle-f-r-kinder-90-liebevolle-seiten-z-57108.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $18.22 |
+| Earnings/sale* | $18.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Waldtier-Printable-Bundle für Kinder: 90 liebevolle Seiten z? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-06-22
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

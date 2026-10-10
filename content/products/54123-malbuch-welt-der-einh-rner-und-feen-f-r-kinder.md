@@ -7,12 +7,12 @@ product_type: "Downloads"
 price: 1.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 0.7
+earnings_per_sale: 0.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Social Media"]
 listed_since: "2025-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/637140/adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Malbuch Welt der Einhörner und Feen für Kinder
 
 > Product ID `54123` · Digistore24 productId `637140` · [HTML profile page](../../produkte/malbuch-welt-der-einh-rner-und-feen-f-r-kinder-54123.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $1.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $0.70 |
+| Earnings/sale* | $0.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Arsoda |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Malbuch Welt der Einhörner und Feen für Kinder? — Typ: Downloads, Anbieter: Arsoda, gelistet seit 2025-09-22
-- Wie viel kostet es? — 1.39825 USD
+- Wie viel kostet es? — 1.40075 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 585579
 title: "Diät Code: Abnehmen mit Körper, Geist und Affirmationen"
 vendor: "Michalis"
 product_type: "Downloads"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.02
+earnings_per_sale: 3.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.mybodycode.net/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Diät Code: Abnehmen mit Körper, Geist und Affirmationen
 
 > Product ID `57389` · Digistore24 productId `585579` · [HTML profile page](../../produkte/di-t-code-abnehmen-mit-k-rper-geist-und-affirmationen-57389.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.02 |
+| Earnings/sale* | $3.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Michalis |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Diät Code: Abnehmen mit Körper, Geist und Affirmationen? — Typ: Downloads, Anbieter: Michalis, gelistet seit 2026-07-03
-- Wie viel kostet es? — 30.2022 USD
+- Wie viel kostet es? — 30.2562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

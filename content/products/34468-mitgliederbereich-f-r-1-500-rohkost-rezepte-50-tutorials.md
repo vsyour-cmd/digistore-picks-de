@@ -4,15 +4,15 @@ digistore24_product_id: 152767
 title: "Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials"
 vendor: "createrawvision"
 product_type: "Downloads"
-price: 27.17
+price: 27.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.59
+earnings_per_sale: 13.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://createrawvision.de/meine-40-roh-veganen-lieblingsgerichte-mit-genussgarantie/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials
 
 > Product ID `34468` · Digistore24 productId `152767` · [HTML profile page](../../produkte/mitgliederbereich-f-r-1-500-rohkost-rezepte-50-tutorials-34468.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.17 (Single payment) |
+| Price | $27.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.59 |
+| Earnings/sale* | $13.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | createrawvision |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials? — Typ: Downloads, Anbieter: createrawvision, gelistet seit 2017-07-24
-- Wie viel kostet es? — 27.170794 USD
+- Wie viel kostet es? — 27.219374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

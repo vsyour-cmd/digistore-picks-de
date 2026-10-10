@@ -4,15 +4,15 @@ digistore24_product_id: 671870
 title: "Teig-Architekt"
 vendor: "succeed"
 product_type: "Software"
-price: 83.66
+price: 83.81
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 8.37
+earnings_per_sale: 8.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Hobby & Craft","Software"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://brotmitherz.de/brot-hydratationsrechner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Teig-Architekt
 
 > Product ID `59959` · Digistore24 productId `671870` · [HTML profile page](../../produkte/teig-architekt-59959.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $83.66 (Single payment, Subscription) |
+| Price | $83.81 (Single payment, Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $8.37 |
+| Earnings/sale* | $8.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | succeed |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Teig-Architekt? — Typ: Software, Anbieter: succeed, gelistet seit 2026-09-27
-- Wie viel kostet es? — 83.66009400000002 USD
+- Wie viel kostet es? — 83.80967400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

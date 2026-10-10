@@ -4,15 +4,15 @@ digistore24_product_id: 706659
 title: "Das Luxusauto-Business"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 36.53
+price: 36.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.27
+earnings_per_sale: 18.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/luxusauto-business?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Luxusauto-Business
 
 > Product ID `57330` · Digistore24 productId `706659` · [HTML profile page](../../produkte/das-luxusauto-business-57330.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.53 (Single payment) |
+| Price | $36.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.27 |
+| Earnings/sale* | $18.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Luxusauto-Business? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 36.533476 USD
+- Wie viel kostet es? — 36.598796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

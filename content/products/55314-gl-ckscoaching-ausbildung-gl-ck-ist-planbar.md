@@ -4,15 +4,15 @@ digistore24_product_id: 663971
 title: "Glückscoaching-Ausbildung: Glück ist planbar!"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 1353.6
+price: 1356.02
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 541.44
+earnings_per_sale: 542.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://magierschule.de/glueckscoach?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Glückscoaching-Ausbildung: Glück ist planbar!
 
 > Product ID `55314` · Digistore24 productId `663971` · [HTML profile page](../../produkte/gl-ckscoaching-ausbildung-gl-ck-ist-planbar-55314.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1353.60 (Single payment, Installment) |
+| Price | $1356.02 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $541.44 |
+| Earnings/sale* | $542.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glückscoaching-Ausbildung: Glück ist planbar!? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2026-01-25
-- Wie viel kostet es? — 1353.595488 USD
+- Wie viel kostet es? — 1356.015648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

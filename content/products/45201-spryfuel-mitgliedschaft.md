@@ -4,15 +4,15 @@ digistore24_product_id: 451065
 title: "spryfuel® Mitgliedschaft"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 267.9
+price: 268.38
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 93.77
+earnings_per_sale: 93.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.spryfuel.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # spryfuel® Mitgliedschaft
 
 > Product ID `45201` · Digistore24 productId `451065` · [HTML profile page](../../produkte/spryfuel-mitgliedschaft-45201.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $267.90 (Subscription) |
+| Price | $268.38 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $93.77 |
+| Earnings/sale* | $93.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist spryfuel® Mitgliedschaft? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2022-07-14
-- Wie viel kostet es? — 267.9047 USD
+- Wie viel kostet es? — 268.38370000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 314290
 title: "Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten"
 vendor: "SOjstersek"
 product_type: "E-books"
-price: 11.13
+price: 11.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.57
+earnings_per_sale: 5.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten
 
 > Product ID `32085` · Digistore24 productId `314290` · [HTML profile page](../../produkte/apnoetauchen-schritt-f-r-schritt-100-meter-und-5-minuten-32085.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.13 (Single payment) |
+| Price | $11.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.57 |
+| Earnings/sale* | $5.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOjstersek |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten? — Typ: E-books, Anbieter: SOjstersek, gelistet seit 2020-03-20
-- Wie viel kostet es? — 11.13007 USD
+- Wie viel kostet es? — 11.14997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

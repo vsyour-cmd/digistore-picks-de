@@ -4,15 +4,15 @@ digistore24_product_id: 423080
 title: "Videokurs: Sozialversicherung"
 vendor: "Steinkellner"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 36.85
+earnings_per_sale: 36.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2022-01-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.lern-impuls.at/sozialversicherung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs: Sozialversicherung
 
 > Product ID `44779` · Digistore24 productId `423080` · [HTML profile page](../../produkte/videokurs-sozialversicherung-44779.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $36.85 |
+| Earnings/sale* | $36.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steinkellner |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Sozialversicherung? — Typ: Member area and video courses, Anbieter: Steinkellner, gelistet seit 2022-01-04
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

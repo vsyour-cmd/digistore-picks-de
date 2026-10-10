@@ -4,15 +4,15 @@ digistore24_product_id: 352053
 title: "1% Reels| Instagram Neukundenmaschine"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.9
+price: 35.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.62
+earnings_per_sale: 28.68
 cart_conversion_pct: 9
 cancel_rate_pct: 1.23
 categories: ["Business & Investment"]
 listed_since: "2020-10-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://einprozentclub.com/reels-neukundenmaschine/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1% Reels| Instagram Neukundenmaschine
 
 > Product ID `34982` · Digistore24 productId `352053` · [HTML profile page](../../produkte/1-reels-instagram-neukundenmaschine-34982.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.90 (Single payment, Installment) |
+| Price | $35.96 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.62 |
+| Earnings/sale* | $28.68 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.23% |
 | Vendor | moserda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% Reels| Instagram Neukundenmaschine? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-10-13
-- Wie viel kostet es? — 35.895874000000006 USD
+- Wie viel kostet es? — 35.96005400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

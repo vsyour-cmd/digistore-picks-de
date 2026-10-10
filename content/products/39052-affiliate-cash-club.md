@@ -4,15 +4,15 @@ digistore24_product_id: 420804
 title: "Affiliate Cash Club"
 vendor: "Robinfocke"
 product_type: "Member area and video courses"
-price: 488.83
+price: 489.7
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 146.65
+earnings_per_sale: 146.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/420804/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Cash Club
 
 > Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $488.83 (Single payment, Installment) |
+| Price | $489.70 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $146.65 |
+| Earnings/sale* | $146.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
@@ -64,7 +64,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Cash Club? — Typ: Member area and video courses, Anbieter: Robinfocke, gelistet seit 2021-12-14
-- Wie viel kostet es? — 488.82820000000004 USD
+- Wie viel kostet es? — 489.7022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 429003
 title: "Fragetechnik im Verkauf - Kurs 1"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.44
+earnings_per_sale: 10.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-02-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://heinzbader.com/fragetechnik-kurs1-lp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fragetechnik im Verkauf - Kurs 1
 
 > Product ID `39104` · Digistore24 productId `429003` · [HTML profile page](../../produkte/fragetechnik-im-verkauf-kurs-1-39104.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fragetechnik im Verkauf - Kurs 1? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2022-02-10
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

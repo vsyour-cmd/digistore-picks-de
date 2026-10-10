@@ -4,15 +4,15 @@ digistore24_product_id: 144799
 title: "CAPITOL POST"
 vendor: "am-publishing"
 product_type: "E-books"
-price: 31.05
+price: 31.11
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 27.94
+earnings_per_sale: 27.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-06-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/144799?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CAPITOL POST
 
 > Product ID `26779` · Digistore24 productId `144799` · [HTML profile page](../../produkte/capitol-post-26779.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.05 (Single payment) |
+| Price | $31.11 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $27.94 |
+| Earnings/sale* | $27.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | am-publishing |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CAPITOL POST? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-06-20
-- Wie viel kostet es? — 31.052336000000004 USD
+- Wie viel kostet es? — 31.107856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

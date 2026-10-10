@@ -4,15 +4,15 @@ digistore24_product_id: 688723
 title: "RISE Academy – Entfalte dein volles Potenzial"
 vendor: "riseby2souls1mission"
 product_type: "Member area and video courses"
-price: 279.18
+price: 279.68
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 45.22
+earnings_per_sale: 45.31
 cart_conversion_pct: 46
 cancel_rate_pct: 0.63
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2026-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://2souls1mission.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # RISE Academy – Entfalte dein volles Potenzial
 
 > Product ID `56482` · Digistore24 productId `688723` · [HTML profile page](../../produkte/rise-academy-entfalte-dein-volles-potenzial-56482.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.18 (Single payment) |
+| Price | $279.68 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $45.22 |
+| Earnings/sale* | $45.31 |
 | Cart conversion* | 46% |
 | Cancel rate* | 0.63% |
 | Vendor | riseby2souls1mission |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RISE Academy – Entfalte dein volles Potenzial? — Typ: Member area and video courses, Anbieter: riseby2souls1mission, gelistet seit 2026-04-29
-- Wie viel kostet es? — 279.18018800000004 USD
+- Wie viel kostet es? — 279.679348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

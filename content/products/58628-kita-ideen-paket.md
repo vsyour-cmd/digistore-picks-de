@@ -4,15 +4,15 @@ digistore24_product_id: 611508
 title: "Kita-Ideen Paket"
 vendor: "AndiS411"
 product_type: "Downloads"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.48
+earnings_per_sale: 7.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://kindergarten-lieder.de/kita-ideen-paket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kita-Ideen Paket
 
 > Product ID `58628` · Digistore24 productId `611508` · [HTML profile page](../../produkte/kita-ideen-paket-58628.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.48 |
+| Earnings/sale* | $7.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndiS411 |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kita-Ideen Paket? — Typ: Downloads, Anbieter: AndiS411, gelistet seit 2026-08-24
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

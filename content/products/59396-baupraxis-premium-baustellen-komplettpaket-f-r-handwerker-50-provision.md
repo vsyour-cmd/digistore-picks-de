@@ -4,15 +4,15 @@ digistore24_product_id: 735085
 title: "BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.46
+earnings_per_sale: 23.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Project Management"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/baupaket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision
 
 > Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../produkte/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.46 |
+| Earnings/sale* | $23.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-19
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

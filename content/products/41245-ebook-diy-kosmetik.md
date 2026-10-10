@@ -4,15 +4,15 @@ digistore24_product_id: 307364
 title: "Ebook DIY Kosmetik"
 vendor: "Naturseife30"
 product_type: "E-books"
-price: 7.27
+price: 7.28
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 2.18
+earnings_per_sale: 2.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-02-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://naturseife-und-kosmetik.de/diy-kosmetik-ebook-kosmetik-selber-machen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook DIY Kosmetik
 
 > Product ID `41245` · Digistore24 productId `307364` · [HTML profile page](../../produkte/ebook-diy-kosmetik-41245.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.27 (Single payment) |
+| Price | $7.28 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $2.18 |
+| Earnings/sale* | $2.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Naturseife30 |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook DIY Kosmetik? — Typ: E-books, Anbieter: Naturseife30, gelistet seit 2020-02-10
-- Wie viel kostet es? — 7.2709 USD
+- Wie viel kostet es? — 7.2839 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

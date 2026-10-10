@@ -4,15 +4,15 @@ digistore24_product_id: 732868
 title: "Pinterest Geld verdienen – Einsteiger-Guide"
 vendor: "Medina88"
 product_type: "E-books"
-price: 103.49
+price: 103.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.05
+earnings_per_sale: 31.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/732868?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest Geld verdienen – Einsteiger-Guide
 
 > Product ID `59323` · Digistore24 productId `732868` · [HTML profile page](../../produkte/pinterest-geld-verdienen-einsteiger-guide-59323.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.49 (Single payment) |
+| Price | $103.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.05 |
+| Earnings/sale* | $31.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Geld verdienen – Einsteiger-Guide? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-17
-- Wie viel kostet es? — 103.492872 USD
+- Wie viel kostet es? — 103.677912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

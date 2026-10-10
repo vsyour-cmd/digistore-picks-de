@@ -4,15 +4,15 @@ digistore24_product_id: 643365
 title: "Geld verdienen mit Kinderbücher - Schritt für Schritt"
 vendor: "LidoConsultingAps"
 product_type: "Downloads"
-price: 19.74
+price: 19.78
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.93
+earnings_per_sale: 4.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Family & Children"]
 listed_since: "2025-10-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/643365?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geld verdienen mit Kinderbücher - Schritt für Schritt
 
 > Product ID `54476` · Digistore24 productId `643365` · [HTML profile page](../../produkte/geld-verdienen-mit-kinderb-cher-schritt-f-r-schritt-54476.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $19.74 (Single payment) |
+| Price | $19.78 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.93 |
+| Earnings/sale* | $4.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LidoConsultingAps |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit Kinderbücher - Schritt für Schritt? — Typ: Downloads, Anbieter: LidoConsultingAps, gelistet seit 2025-10-23
-- Wie viel kostet es? — 19.74329 USD
+- Wie viel kostet es? — 19.778589999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 735941
 title: "50% Provision: MicroTool KommunikationsKompass"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.64
+earnings_per_sale: 13.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735941?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: MicroTool KommunikationsKompass
 
 > Product ID `59496` · Digistore24 productId `735941` · [HTML profile page](../../produkte/50-provision-microtool-kommunikationskompass-59496.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.64 |
+| Earnings/sale* | $13.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool KommunikationsKompass? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

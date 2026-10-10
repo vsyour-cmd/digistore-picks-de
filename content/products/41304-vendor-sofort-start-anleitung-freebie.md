@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.09
+earnings_per_sale: 5.1
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2022-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.kb-om.com/der-weg-zum-affiliate-millionaer-ebook-ds24?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Vendor Sofort-Start Anleitung - Freebie
 
 > Product ID `41304` · Digistore24 productId `460665` · [HTML profile page](../../produkte/vendor-sofort-start-anleitung-freebie-41304.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.09 |
+| Earnings/sale* | $5.10 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.86% |
 | Vendor | Plebvin |
@@ -65,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vendor Sofort-Start Anleitung - Freebie? — Typ: E-books, Anbieter: Plebvin, gelistet seit 2022-09-15
-- Wie viel kostet es? — 0.6264160000000001 USD
+- Wie viel kostet es? — 0.6275360000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

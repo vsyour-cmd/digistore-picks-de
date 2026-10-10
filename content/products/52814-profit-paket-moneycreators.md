@@ -4,15 +4,15 @@ digistore24_product_id: 609922
 title: "Profit Paket MoneyCreators"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 26.35
+price: 26.4
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.8
+earnings_per_sale: 9.82
 cart_conversion_pct: 8
 cancel_rate_pct: 2.37
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/profitbundle?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Profit Paket MoneyCreators
 
 > Product ID `52814` · Digistore24 productId `609922` · [HTML profile page](../../produkte/profit-paket-moneycreators-52814.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $26.35 (Single payment) |
+| Price | $26.40 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.80 |
+| Earnings/sale* | $9.82 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.37% |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profit Paket MoneyCreators? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-04-29
-- Wie viel kostet es? — 26.354216 USD
+- Wie viel kostet es? — 26.401336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

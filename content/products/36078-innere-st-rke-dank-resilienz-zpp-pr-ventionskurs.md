@@ -4,15 +4,15 @@ digistore24_product_id: 350964
 title: "Innere Stärke dank Resilienz - ZPP Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.02
+earnings_per_sale: 56.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2020-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.glueckwaerts.com/ok-ds?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
 > Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../produkte/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment, Installment) |
+| Price | $140.31 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.02 |
+| Earnings/sale* | $56.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Stärke dank Resilienz - ZPP Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2020-10-05
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 556189
 title: "Mein erstes Ausmalbuch - Entdecke die Farben"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 7.3
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2024-06-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556189?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Mein erstes Ausmalbuch - Entdecke die Farben
 
 > Product ID `48338` · Digistore24 productId `556189` · [HTML profile page](../../produkte/mein-erstes-ausmalbuch-entdecke-die-farben-48338.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein erstes Ausmalbuch - Entdecke die Farben? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2024-06-10
-- Wie viel kostet es? — 7.304458 USD
+- Wie viel kostet es? — 7.317518000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

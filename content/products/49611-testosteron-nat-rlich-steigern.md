@@ -4,7 +4,7 @@ digistore24_product_id: 554727
 title: "Testosteron natürlich steigern"
 vendor: "optima_gesundheitsberatung"
 product_type: "E-books"
-price: 3.96
+price: 3.97
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 1.19
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-05-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://optima-gesundheitsberatung.de/shop/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Testosteron natürlich steigern
 
 > Product ID `49611` · Digistore24 productId `554727` · [HTML profile page](../../produkte/testosteron-nat-rlich-steigern-49611.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.96 (Single payment) |
+| Price | $3.97 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $1.19 |
 | Cart conversion* | — |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Testosteron natürlich steigern? — Typ: E-books, Anbieter: optima_gesundheitsberatung, gelistet seit 2024-05-30
-- Wie viel kostet es? — 3.9598440000000004 USD
+- Wie viel kostet es? — 3.966924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

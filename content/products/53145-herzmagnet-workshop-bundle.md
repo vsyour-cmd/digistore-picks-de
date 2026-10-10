@@ -4,15 +4,15 @@ digistore24_product_id: 419785
 title: "Herzmagnet Workshop Bundle"
 vendor: "MariaBraunsdorf"
 product_type: "Downloads"
-price: 51.7
+price: 51.79
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 23.27
+earnings_per_sale: 23.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/419785?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Herzmagnet Workshop Bundle
 
 > Product ID `53145` · Digistore24 productId `419785` · [HTML profile page](../../produkte/herzmagnet-workshop-bundle-53145.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $51.70 (Single payment) |
+| Price | $51.79 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $23.27 |
+| Earnings/sale* | $23.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MariaBraunsdorf |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herzmagnet Workshop Bundle? — Typ: Downloads, Anbieter: MariaBraunsdorf, gelistet seit 2021-12-08
-- Wie viel kostet es? — 51.701692 USD
+- Wie viel kostet es? — 51.794132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

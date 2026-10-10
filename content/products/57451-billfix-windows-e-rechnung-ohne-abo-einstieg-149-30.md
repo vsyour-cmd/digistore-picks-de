@@ -4,15 +4,15 @@ digistore24_product_id: 708969
 title: "Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30"
 vendor: "pelcita"
 product_type: "Software"
-price: 222.6
+price: 223
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 66.78
+earnings_per_sale: 66.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Finances"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.headuphigh.de/billfix?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30
 
 > Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../produkte/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $222.60 (Single payment) |
+| Price | $223.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $66.78 |
+| Earnings/sale* | $66.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pelcita |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30? — Typ: Software, Anbieter: pelcita, gelistet seit 2026-07-07
-- Wie viel kostet es? — 222.6014 USD
+- Wie viel kostet es? — 222.9994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

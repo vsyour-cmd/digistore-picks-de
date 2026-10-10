@@ -4,7 +4,7 @@ digistore24_product_id: 719716
 title: "Fußreflexzonenmassage"
 vendor: "Novaris_web"
 product_type: "E-books"
-price: 18.66
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.87
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/reflex.php?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Fußreflexzonenmassage
 
 > Product ID `58716` · Digistore24 productId `719716` · [HTML profile page](../../produkte/fu-reflexzonenmassage-58716.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.66 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.87 |
 | Cart conversion* | — |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fußreflexzonenmassage? — Typ: E-books, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 18.658248 USD
+- Wie viel kostet es? — 18.691608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

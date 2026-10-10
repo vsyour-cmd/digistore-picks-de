@@ -4,15 +4,15 @@ digistore24_product_id: 701424
 title: "Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P"
 vendor: "pvamaxfe8b"
 product_type: "E-books"
-price: 13.58
+price: 13.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.79
+earnings_per_sale: 6.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://shop.code-content-ai.com/linux-statt-windows?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P
 
 > Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../produkte/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.58 (Single payment) |
+| Price | $13.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.79 |
+| Earnings/sale* | $6.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pvamaxfe8b |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P? — Typ: E-books, Anbieter: pvamaxfe8b, gelistet seit 2026-09-25
-- Wie viel kostet es? — 13.579804000000001 USD
+- Wie viel kostet es? — 13.604084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

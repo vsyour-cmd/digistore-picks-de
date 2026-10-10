@@ -4,15 +4,15 @@ digistore24_product_id: 654671
 title: "Contentqueen app"
 vendor: "JuliaSievers"
 product_type: "Software"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.27
+earnings_per_sale: 23.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-12-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.contentqueen.app?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Contentqueen app
 
 > Product ID `54894` · Digistore24 productId `654671` · [HTML profile page](../../produkte/contentqueen-app-54894.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.06 (Subscription) |
+| Price | $93.22 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.27 |
+| Earnings/sale* | $23.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuliaSievers |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Contentqueen app? — Typ: Software, Anbieter: JuliaSievers, gelistet seit 2025-12-11
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

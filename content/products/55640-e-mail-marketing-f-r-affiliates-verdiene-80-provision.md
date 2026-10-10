@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.online-starten.info/checkliste-email-marketing/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Verdiene 80% Provision
 
 > Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Marketing für Affiliates - Verdiene 80% Provision? — Typ: E-books, Anbieter: onlinesuccess, gelistet seit 2026-02-09
-- Wie viel kostet es? — 1.0402980000000002 USD
+- Wie viel kostet es? — 1.0421580000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 652044
 title: "Innerer Reset - Tagesseminar"
 vendor: "hh-akademie"
 product_type: "Seminar for business customers"
-price: 164
+price: 164.29
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 17.23
+earnings_per_sale: 17.26
 cart_conversion_pct: 8
 cancel_rate_pct: 4.87
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-12-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/652044?voucher=IRMC&aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Innerer Reset - Tagesseminar
 
 > Product ID `56180` · Digistore24 productId `652044` · [HTML profile page](../../produkte/innerer-reset-tagesseminar-56180.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $164.00 (Single payment) |
+| Price | $164.29 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $17.23 |
+| Earnings/sale* | $17.26 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.87% |
 | Vendor | hh-akademie |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innerer Reset - Tagesseminar? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2025-12-01
-- Wie viel kostet es? — 163.997946 USD
+- Wie viel kostet es? — 164.29116600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

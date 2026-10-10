@@ -4,15 +4,15 @@ digistore24_product_id: 607922
 title: "Kostenrechnung für Anfänger"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.53
+earnings_per_sale: 46.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-anfanger-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kostenrechnung für Anfänger
 
 > Product ID `52184` · Digistore24 productId `607922` · [HTML profile page](../../produkte/kostenrechnung-f-r-anf-nger-52184.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.53 |
+| Earnings/sale* | $46.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wileleg |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kostenrechnung für Anfänger? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-17
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

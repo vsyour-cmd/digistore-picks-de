@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 2.33
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 2.49
+earnings_per_sale: 2.5
 cart_conversion_pct: 16
 cancel_rate_pct: 0.49
 categories: ["Computer & Internet","Software"]
 listed_since: "2025-05-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/ki-musik-geld-maschine/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # KI Musik Geld Maschine (2025)
 
 > Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../produkte/ki-musik-geld-maschine-2025-52447.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $2.33 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $2.49 |
+| Earnings/sale* | $2.50 |
 | Cart conversion* | 16% |
 | Cancel rate* | 0.49% |
 | Vendor | webpirat |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Musik Geld Maschine (2025)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-05-16
-- Wie viel kostet es? — 2.3266880000000003 USD
+- Wie viel kostet es? — 2.330848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

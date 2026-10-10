@@ -4,15 +4,15 @@ digistore24_product_id: 638320
 title: "KI Fluencer"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 46.43
+price: 46.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 21.14
+earnings_per_sale: 21.18
 cart_conversion_pct: 14
 cancel_rate_pct: 0.78
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.kimate.de/kifvideo/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Fluencer
 
 > Product ID `55694` · Digistore24 productId `638320` · [HTML profile page](../../produkte/ki-fluencer-55694.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.43 (Single payment, Installment) |
+| Price | $46.52 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $21.14 |
+| Earnings/sale* | $21.18 |
 | Cart conversion* | 14% |
 | Cancel rate* | 0.78% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Fluencer? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-09-27
-- Wie viel kostet es? — 46.433085999999996 USD
+- Wie viel kostet es? — 46.516106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

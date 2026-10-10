@@ -4,15 +4,15 @@ digistore24_product_id: 655964
 title: "Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs"
 vendor: "HundundDu"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.07
+earnings_per_sale: 13.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-12-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://willkommen.hund-und-du.de/Minikurs_Aufmerksamkeitsbooster/Fokus?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs
 
 > Product ID `55183` · Digistore24 productId `655964` · [HTML profile page](../../produkte/mehr-aufmerksamkeit-beim-hund-einfacher-14-tage-mini-kurs-55183.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.07 |
+| Earnings/sale* | $13.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HundundDu |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs? — Typ: E-books, Anbieter: HundundDu, gelistet seit 2025-12-16
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

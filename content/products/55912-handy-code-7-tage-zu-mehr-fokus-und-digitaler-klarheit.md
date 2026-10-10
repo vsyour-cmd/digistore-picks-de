@@ -4,15 +4,15 @@ digistore24_product_id: 670079
 title: "HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit"
 vendor: "TanjaAmari"
 product_type: "Downloads"
-price: 31.02
+price: 31.07
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.75
+earnings_per_sale: 7.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/670079?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit
 
 > Product ID `55912` · Digistore24 productId `670079` · [HTML profile page](../../produkte/handy-code-7-tage-zu-mehr-fokus-und-digitaler-klarheit-55912.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.02 (Single payment) |
+| Price | $31.07 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.75 |
+| Earnings/sale* | $7.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TanjaAmari |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HANDY-CODE - 7 Tage zu mehr Fokus und digitaler Klarheit? — Typ: Downloads, Anbieter: TanjaAmari, gelistet seit 2026-02-19
-- Wie viel kostet es? — 31.018778 USD
+- Wie viel kostet es? — 31.074238 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

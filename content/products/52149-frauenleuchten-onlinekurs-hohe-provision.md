@@ -4,15 +4,15 @@ digistore24_product_id: 608205
 title: "Frauenleuchten Onlinekurs- Hohe Provision"
 vendor: "Sinnplauderei"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 42.01
+earnings_per_sale: 42.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2025-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/608205?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frauenleuchten Onlinekurs- Hohe Provision
 
 > Product ID `52149` · Digistore24 productId `608205` · [HTML profile page](../../produkte/frauenleuchten-onlinekurs-hohe-provision-52149.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment) |
+| Price | $140.31 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $42.01 |
+| Earnings/sale* | $42.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sinnplauderei |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frauenleuchten Onlinekurs- Hohe Provision? — Typ: Member area and video courses, Anbieter: Sinnplauderei, gelistet seit 2025-04-18
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

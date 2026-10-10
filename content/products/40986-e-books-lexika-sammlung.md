@@ -4,15 +4,15 @@ digistore24_product_id: 461920
 title: "E-Books: Lexika Sammlung"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 123.77
+price: 123.99
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 55.01
+earnings_per_sale: 55.11
 cart_conversion_pct: 19
 cancel_rate_pct: 4.52
 categories: ["Finances"]
 listed_since: "2022-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/lexika-sammlung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Books: Lexika Sammlung
 
 > Product ID `40986` · Digistore24 productId `461920` · [HTML profile page](../../produkte/e-books-lexika-sammlung-40986.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $123.77 (Single payment) |
+| Price | $123.99 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $55.01 |
+| Earnings/sale* | $55.11 |
 | Cart conversion* | 19% |
 | Cancel rate* | 4.52% |
 | Vendor | Staatenlos |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Books: Lexika Sammlung? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2022-09-24
-- Wie viel kostet es? — 123.77309000000001 USD
+- Wie viel kostet es? — 123.99439000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

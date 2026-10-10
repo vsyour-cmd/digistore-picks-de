@@ -4,7 +4,7 @@ digistore24_product_id: 631078
 title: "The Little Good Life"
 vendor: "TheLittleGoodLife"
 product_type: "Audio book (download)"
-price: 7.3
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 2.92
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/631078/?campaignKey=allg&aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # The Little Good Life
 
 > Product ID `53706` · Digistore24 productId `631078` · [HTML profile page](../../produkte/the-little-good-life-53706.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $7.30 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $2.92 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Little Good Life? — Typ: Audio book (download), Anbieter: TheLittleGoodLife, gelistet seit 2025-08-21
-- Wie viel kostet es? — 7.304458 USD
+- Wie viel kostet es? — 7.317518000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

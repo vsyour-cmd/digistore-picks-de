@@ -4,15 +4,15 @@ digistore24_product_id: 458710
 title: "Digital Heart Business Kongress - VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 113.74
+price: 113.94
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 11.38
+earnings_per_sale: 11.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digitalheartbusiness.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Heart Business Kongress - VIP Paket und Bundle
 
 > Product ID `41299` · Digistore24 productId `458710` · [HTML profile page](../../produkte/digital-heart-business-kongress-vip-paket-und-bundle-41299.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $113.74 (Single payment, Installment) |
+| Price | $113.94 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $11.38 |
+| Earnings/sale* | $11.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Heart Business Kongress - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-09-04
-- Wie viel kostet es? — 113.73924800000002 USD
+- Wie viel kostet es? — 113.942608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

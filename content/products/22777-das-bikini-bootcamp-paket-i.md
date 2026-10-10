@@ -4,15 +4,15 @@ digistore24_product_id: 199127
 title: "Das Bikini Bootcamp: Paket I"
 vendor: "bodyLIFE"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.64
+earnings_per_sale: 13.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.das-bikini-bootcamp.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Bikini Bootcamp: Paket I
 
 > Product ID `22777` · Digistore24 productId `199127` · [HTML profile page](../../produkte/das-bikini-bootcamp-paket-i-22777.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.64 |
+| Earnings/sale* | $13.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bodyLIFE |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Bikini Bootcamp: Paket I? — Typ: Downloads, Anbieter: bodyLIFE, gelistet seit 2018-02-06
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

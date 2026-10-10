@@ -4,15 +4,15 @@ digistore24_product_id: 634063
 title: "30-Tage Keto-Plan für Einsteiger – 60% Provision"
 vendor: "Hei-Mel"
 product_type: "E-books"
-price: 10.4
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.24
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 30-Tage Keto-Plan für Einsteiger – 60% Provision
 
 > Product ID `53939` · Digistore24 productId `634063` · [HTML profile page](../../produkte/30-tage-keto-plan-f-r-einsteiger-60-provision-53939.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.24 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hei-Mel |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30-Tage Keto-Plan für Einsteiger – 60% Provision? — Typ: E-books, Anbieter: Hei-Mel, gelistet seit 2025-09-05
-- Wie viel kostet es? — 10.402980000000001 USD
+- Wie viel kostet es? — 10.42158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

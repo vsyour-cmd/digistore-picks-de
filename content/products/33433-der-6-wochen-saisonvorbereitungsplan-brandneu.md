@@ -4,15 +4,15 @@ digistore24_product_id: 225984
 title: "Der 6 Wochen Saisonvorbereitungsplan Brandneu"
 vendor: "fussballtraining-renno"
 product_type: "Downloads"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.66
+earnings_per_sale: 14.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der 6 Wochen Saisonvorbereitungsplan Brandneu
 
 > Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../produkte/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.66 |
+| Earnings/sale* | $14.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fussballtraining-renno |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 6 Wochen Saisonvorbereitungsplan Brandneu? — Typ: Downloads, Anbieter: fussballtraining-renno, gelistet seit 2018-06-06
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

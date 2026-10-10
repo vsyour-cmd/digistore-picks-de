@@ -4,15 +4,15 @@ digistore24_product_id: 657175
 title: "CLS Start ins Onlinebusiness mit digitalen Produkten"
 vendor: "CleanLearn"
 product_type: "Member area and video courses"
-price: 2820
+price: 2825.04
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 223.72
+earnings_per_sale: 224.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Marketing Services"]
 listed_since: "2025-12-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.cleanlearn.de/startedeinonlinebusiness-dae8c16e?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CLS Start ins Onlinebusiness mit digitalen Produkten
 
 > Product ID `55140` · Digistore24 productId `657175` · [HTML profile page](../../produkte/cls-start-ins-onlinebusiness-mit-digitalen-produkten-55140.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2820.00 (Single payment, Installment) |
+| Price | $2825.04 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $223.72 |
+| Earnings/sale* | $224.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CleanLearn |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CLS Start ins Onlinebusiness mit digitalen Produkten? — Typ: Member area and video courses, Anbieter: CleanLearn, gelistet seit 2025-12-23
-- Wie viel kostet es? — 2820.0017860000003 USD
+- Wie viel kostet es? — 2825.043806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

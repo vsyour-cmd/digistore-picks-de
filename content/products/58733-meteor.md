@@ -4,7 +4,7 @@ digistore24_product_id: 717233
 title: "METEOR"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 9.35
+price: 9.37
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://novaris.de.cool/meteor.php?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # METEOR
 
 > Product ID `58733` · Digistore24 productId `717233` · [HTML profile page](../../produkte/meteor-58733.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $9.35 (Single payment) |
+| Price | $9.37 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist METEOR? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 9.351496 USD
+- Wie viel kostet es? — 9.368216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

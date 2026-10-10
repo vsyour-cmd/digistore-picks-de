@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2024-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://mariokozlowski2.funnelcockpit.com/sq2/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Der Urknall Deiner E-Mail-Liste eBook PDF-Download
 
 > Product ID `46911` · Digistore24 productId `535694` · [HTML profile page](../../produkte/der-urknall-deiner-e-mail-liste-ebook-pdf-download-46911.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

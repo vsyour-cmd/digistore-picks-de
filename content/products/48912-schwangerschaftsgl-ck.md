@@ -4,15 +4,15 @@ digistore24_product_id: 564702
 title: "Schwangerschaftsglück"
 vendor: "MamaAlice"
 product_type: "E-books"
-price: 40.76
+price: 40.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Family & Children"]
 listed_since: "2024-08-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/564702?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schwangerschaftsglück
 
 > Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../produkte/schwangerschaftsgl-ck-48912.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.76 (Single payment) |
+| Price | $40.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MamaAlice |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwangerschaftsglück? — Typ: E-books, Anbieter: MamaAlice, gelistet seit 2024-08-10
-- Wie viel kostet es? — 40.761784 USD
+- Wie viel kostet es? — 40.834664 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

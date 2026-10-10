@@ -4,15 +4,15 @@ digistore24_product_id: 738079
 title: "Online Business Blueprint – Kurs für 97 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.59
+earnings_per_sale: 45.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/738079?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Business Blueprint – Kurs für 97 €, 50 % Provision
 
 > Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../produkte/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.59 |
+| Earnings/sale* | $45.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business Blueprint – Kurs für 97 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

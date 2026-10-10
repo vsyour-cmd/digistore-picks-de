@@ -4,15 +4,15 @@ digistore24_product_id: 712825
 title: "Money Flow Tape – Wohin Kapital rotiert · 40 % Provision"
 vendor: "pgventures"
 product_type: "Member area and video courses"
-price: 100.95
+price: 101.13
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 40.38
+earnings_per_sale: 40.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products","Finances"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://indicator.trading/de/money-flow?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Money Flow Tape – Wohin Kapital rotiert · 40 % Provision
 
 > Product ID `57665` · Digistore24 productId `712825` · [HTML profile page](../../produkte/money-flow-tape-wohin-kapital-rotiert-40-provision-57665.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $100.95 (Subscription) |
+| Price | $101.13 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $40.38 |
+| Earnings/sale* | $40.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pgventures |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Flow Tape – Wohin Kapital rotiert · 40 % Provision? — Typ: Member area and video courses, Anbieter: pgventures, gelistet seit 2026-07-21
-- Wie viel kostet es? — 100.95365000000001 USD
+- Wie viel kostet es? — 101.13415 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

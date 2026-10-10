@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob
 
 > Product ID `56773` · Digistore24 productId `692449` · [HTML profile page](../../produkte/sic-syst-ursachenanalyse-von-verkaufsstagnation-bei-immob-56773.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

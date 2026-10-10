@@ -4,15 +4,15 @@ digistore24_product_id: 642378
 title: "Die Regeln der Menschenbeeinflussung"
 vendor: "hansenconsulting"
 product_type: "E-books"
-price: 9.93
+price: 9.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.97
+earnings_per_sale: 4.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2025-10-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/642378?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Regeln der Menschenbeeinflussung
 
 > Product ID `54449` · Digistore24 productId `642378` · [HTML profile page](../../produkte/die-regeln-der-menschenbeeinflussung-54449.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.93 (Single payment) |
+| Price | $9.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.97 |
+| Earnings/sale* | $4.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hansenconsulting |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Regeln der Menschenbeeinflussung? — Typ: E-books, Anbieter: hansenconsulting, gelistet seit 2025-10-20
-- Wie viel kostet es? — 9.933168000000002 USD
+- Wie viel kostet es? — 9.950928000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 728953
 title: "Metaleve Germany"
 vendor: "DS24-nordinary"
 product_type: "Supplements - health"
-price: 127.23
+price: 127.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 76.33
+earnings_per_sale: 76.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://metaleve.com/home-page-de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Metaleve Germany
 
 > Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../produkte/metaleve-germany-59222.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $127.23 (Single payment) |
+| Price | $127.46 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $76.33 |
+| Earnings/sale* | $76.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-nordinary |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Metaleve Germany? — Typ: Supplements - health, Anbieter: DS24-nordinary, gelistet seit 2026-09-14
-- Wie viel kostet es? — 127.229564 USD
+- Wie viel kostet es? — 127.457044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

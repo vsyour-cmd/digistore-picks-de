@@ -260,7 +260,7 @@ function homePage() {
 <ul>
 <li>${DATA.total} deutschsprachige Digistore24-Angebote in ${DATA.categories.length} Kategorien im Blick.</li>
 <li>Jede Seite kennzeichnet ihre Belege: offizielle Marktplatz-Statistiken vs. Anbieteraussagen.</li>
-<li>Einstieg: Top-Liste unten oder die <a href="blog/digistore24-zahlen-checkliste.html">6-Punkte-Bewertungsmethode</a>.</li>
+<li>Einstieg: Top-Liste unten, die <a href="monthly-new.html">neuesten Angebote</a> oder die <a href="blog/digistore24-zahlen-checkliste.html">6-Punkte-Bewertungsmethode</a>.</li>
 </ul></div>
 <h2>Top-Angebote nach Verdienst pro Verkauf</h2>
 <p class="sub">Rangliste nach dem vom Marktplatz gemeldeten Verdienst pro Verkauf. Offizielle Marktplatz-Statistiken, keine Prognosen von uns.</p>
@@ -1201,7 +1201,8 @@ ${rows}
 </table>
 <p class="sub">* Anbieter-seitige Marktplatz-Statistiken von Digistore24; abhängig von der Traffic-Qualität, keine Prognose. Preise und Garantien auf offiziellen Seiten prüfen.</p>
 <h2>Weiterlesen</h2>
-${catObj ? `<p>Primärkategorie: <a href="../kategorie/${catObj.file}.html">${esc(catName(catObj))}</a> (${catObj.count} Produkte) · Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</p>` : ""}`;
+${catObj ? `<p>Primärkategorie: <a href="../kategorie/${catObj.file}.html">${esc(catName(catObj))}</a> (${catObj.count} Produkte) · Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</p>` : ""}
+<p><a href="index.html">← Anbieter-Verzeichnis</a> — alle Top-Anbieter mit ihren Listings.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",

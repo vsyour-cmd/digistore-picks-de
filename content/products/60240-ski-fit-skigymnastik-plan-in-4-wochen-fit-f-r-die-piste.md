@@ -4,15 +4,15 @@ digistore24_product_id: 737391
 title: "Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste"
 vendor: "blitzferien"
 product_type: "E-books"
-price: 13.49
+price: 13.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.05
+earnings_per_sale: 4.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://blitzferien.de/ski-fit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
 
 > Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../produkte/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.49 (Single payment) |
+| Price | $13.51 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.05 |
+| Earnings/sale* | $4.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blitzferien |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste? — Typ: E-books, Anbieter: blitzferien, gelistet seit 2026-10-06
-- Wie viel kostet es? — 13.490316000000002 USD
+- Wie viel kostet es? — 13.514436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

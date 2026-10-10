@@ -4,15 +4,15 @@ digistore24_product_id: 450943
 title: "Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)"
 vendor: "wiegehtliebe-de"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.65
+earnings_per_sale: 4.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
 listed_since: "2022-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://melli-seedorf.de/stadt-land-glueckstraining?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)
 
 > Product ID `40659` · Digistore24 productId `450943` · [HTML profile page](../../produkte/geniale-spielvorlage-stadt-land-gl-ckstraining-pdf-png-40659.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.65 |
+| Earnings/sale* | $4.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wiegehtliebe-de |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geniale Spielvorlage - Stadt, Land, Glückstraining (PDF+PNG)? — Typ: Downloads, Anbieter: wiegehtliebe-de, gelistet seit 2022-07-13
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

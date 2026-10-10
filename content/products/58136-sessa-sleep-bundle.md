@@ -4,15 +4,15 @@ digistore24_product_id: 711145
 title: "SESSA - Sleep Bundle"
 vendor: "ulrikelinke"
 product_type: "Member area and video courses"
-price: 126.91
+price: 127.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 63.46
+earnings_per_sale: 63.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/711145?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SESSA - Sleep Bundle
 
 > Product ID `58136` · Digistore24 productId `711145` · [HTML profile page](../../produkte/sessa-sleep-bundle-58136.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $126.91 (Single payment) |
+| Price | $127.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $63.46 |
+| Earnings/sale* | $63.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ulrikelinke |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SESSA - Sleep Bundle? — Typ: Member area and video courses, Anbieter: ulrikelinke, gelistet seit 2026-08-04
-- Wie viel kostet es? — 126.90517000000001 USD
+- Wie viel kostet es? — 127.13207000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

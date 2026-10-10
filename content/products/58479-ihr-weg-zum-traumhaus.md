@@ -4,15 +4,15 @@ digistore24_product_id: 723049
 title: "Ihr Weg zum Traumhaus"
 vendor: "fdamberger246a843"
 product_type: "E-books"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/723049?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ihr Weg zum Traumhaus
 
 > Product ID `58479` · Digistore24 productId `723049` · [HTML profile page](../../produkte/ihr-weg-zum-traumhaus-58479.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fdamberger246a843 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihr Weg zum Traumhaus? — Typ: E-books, Anbieter: fdamberger246a843, gelistet seit 2026-08-20
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

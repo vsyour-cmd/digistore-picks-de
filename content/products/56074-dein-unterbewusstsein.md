@@ -4,15 +4,15 @@ digistore24_product_id: 620855
 title: "Dein Unterbewusstsein"
 vendor: "CarstenTeich"
 product_type: "Member area and video courses"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 18.62
+earnings_per_sale: 18.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.carstenteich.com/unterbewusstsein/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Unterbewusstsein
 
 > Product ID `56074` · Digistore24 productId `620855` · [HTML profile page](../../produkte/dein-unterbewusstsein-56074.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $18.62 |
+| Earnings/sale* | $18.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CarstenTeich |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Unterbewusstsein? — Typ: Member area and video courses, Anbieter: CarstenTeich, gelistet seit 2025-06-26
-- Wie viel kostet es? — 41.388200000000005 USD
+- Wie viel kostet es? — 41.4622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

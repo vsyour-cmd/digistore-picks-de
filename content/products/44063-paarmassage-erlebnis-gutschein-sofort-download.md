@@ -4,15 +4,15 @@ digistore24_product_id: 460409
 title: "Paarmassage Erlebnis-Gutschein (Sofort-Download)"
 vendor: "magoody"
 product_type: "Downloads"
-price: 58.26
+price: 58.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 27.6
+earnings_per_sale: 27.65
 cart_conversion_pct: 10
 cancel_rate_pct: 1.73
 categories: ["Health & Fitness"]
 listed_since: "2022-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Paarmassage Erlebnis-Gutschein (Sofort-Download)
 
 > Product ID `44063` · Digistore24 productId `460409` · [HTML profile page](../../produkte/paarmassage-erlebnis-gutschein-sofort-download-44063.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $58.26 (Single payment) |
+| Price | $58.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $27.60 |
+| Earnings/sale* | $27.65 |
 | Cart conversion* | 10% |
 | Cancel rate* | 1.73% |
 | Vendor | magoody |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paarmassage Erlebnis-Gutschein (Sofort-Download)? — Typ: Downloads, Anbieter: magoody, gelistet seit 2022-09-14
-- Wie viel kostet es? — 58.256688 USD
+- Wie viel kostet es? — 58.360848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

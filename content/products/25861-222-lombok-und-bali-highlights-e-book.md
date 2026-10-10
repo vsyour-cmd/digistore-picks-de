@@ -4,15 +4,15 @@ digistore24_product_id: 235358
 title: "222 Lombok und Bali Highlights [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 5.46
+earnings_per_sale: 5.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2018-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/222-lombok-bali-highlights/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 222 Lombok und Bali Highlights [E-Book]
 
 > Product ID `25861` · Digistore24 productId `235358` · [HTML profile page](../../produkte/222-lombok-und-bali-highlights-e-book-25861.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $5.46 |
+| Earnings/sale* | $5.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 222 Lombok und Bali Highlights [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2018-08-02
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

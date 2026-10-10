@@ -4,15 +4,15 @@ digistore24_product_id: 118555
 title: "Das Partnerprogramm von \"KonfliktStark.de\""
 vendor: "christophmarkss"
 product_type: "Member area and video courses"
-price: 92.12
+price: 92.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.06
+earnings_per_sale: 46.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://konfliktstark.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von "KonfliktStark.de"
 
 > Product ID `33738` · Digistore24 productId `118555` · [HTML profile page](../../produkte/das-partnerprogramm-von-konfliktstark-de-33738.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $92.12 (Single payment, Installment) |
+| Price | $92.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.06 |
+| Earnings/sale* | $46.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | christophmarkss |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von "KonfliktStark.de"? — Typ: Member area and video courses, Anbieter: christophmarkss, gelistet seit 2017-02-08
-- Wie viel kostet es? — 92.11671 USD
+- Wie viel kostet es? — 92.28141 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

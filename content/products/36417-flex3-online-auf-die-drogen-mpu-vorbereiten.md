@@ -4,15 +4,15 @@ digistore24_product_id: 369514
 title: "FLEX3 - Online auf die Drogen MPU vorbereiten"
 vendor: "jh3011"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 140.72
+earnings_per_sale: 140.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mpu-konkret.de/flex3-drogen-mpu/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FLEX3 - Online auf die Drogen MPU vorbereiten
 
 > Product ID `36417` · Digistore24 productId `369514` · [HTML profile page](../../produkte/flex3-online-auf-die-drogen-mpu-vorbereiten-36417.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Single payment, Installment) |
+| Price | $469.90 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $140.72 |
+| Earnings/sale* | $140.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jh3011 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FLEX3 - Online auf die Drogen MPU vorbereiten? — Typ: Member area and video courses, Anbieter: jh3011, gelistet seit 2021-01-22
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 607895
 title: "Karriere mit System von Bodo Schäfer Buch (gedruckt)"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 6.29
+price: 6.3
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.58
+earnings_per_sale: 5.59
 cart_conversion_pct: 13
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/karriere-mit-system-aff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Karriere mit System von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../produkte/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.29 (Single payment) |
+| Price | $6.30 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.58 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0% |
 | Vendor | BodoSchaefer |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Karriere mit System von Bodo Schäfer Buch (gedruckt)? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2025-04-17
-- Wie viel kostet es? — 6.286532 USD
+- Wie viel kostet es? — 6.297772 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 662706
 title: "FinanzFlow -"
 vendor: "Kaiwgt"
 product_type: "Downloads"
-price: 37.55
+price: 37.62
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances","Office Organization"]
 listed_since: "2026-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/662706?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FinanzFlow -
 
 > Product ID `55741` · Digistore24 productId `662706` · [HTML profile page](../../produkte/finanzflow-55741.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.55 (Single payment) |
+| Price | $37.62 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kaiwgt |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FinanzFlow -? — Typ: Downloads, Anbieter: Kaiwgt, gelistet seit 2026-01-19
-- Wie viel kostet es? — 37.551402 USD
+- Wie viel kostet es? — 37.618542000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

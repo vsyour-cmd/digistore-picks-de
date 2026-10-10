@@ -4,7 +4,7 @@ digistore24_product_id: 449302
 title: "Sofort-Erfolgs-Geheimnis"
 vendor: "CyrilCash"
 product_type: "E-books"
-price: 2.56
+price: 2.57
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 1.71
@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 0.59
 categories: ["Education"]
 listed_since: "2022-07-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/erfolgsgeheimnis-lp1/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Sofort-Erfolgs-Geheimnis
 
 > Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../produkte/sofort-erfolgs-geheimnis-40505.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $2.56 (Single payment) |
+| Price | $2.57 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $1.71 |
 | Cart conversion* | 18% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sofort-Erfolgs-Geheimnis? — Typ: E-books, Anbieter: CyrilCash, gelistet seit 2022-07-01
-- Wie viel kostet es? — 2.561594 USD
+- Wie viel kostet es? — 2.566174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

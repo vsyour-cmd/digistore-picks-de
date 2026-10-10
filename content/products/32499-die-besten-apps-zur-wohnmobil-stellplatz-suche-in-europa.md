@@ -4,7 +4,7 @@ digistore24_product_id: 323258
 title: "Die besten Apps zur Wohnmobil-Stellplatz-Suche in Europa"
 vendor: "umiwo67"
 product_type: "E-books"
-price: 3.12
+price: 3.13
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.31
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2020-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.umiwo.de/e-books?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Die besten Apps zur Wohnmobil-Stellplatz-Suche in Europa
 
 > Product ID `32499` · Digistore24 productId `323258` · [HTML profile page](../../produkte/die-besten-apps-zur-wohnmobil-stellplatz-suche-in-europa-32499.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.12 (Single payment) |
+| Price | $3.13 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.31 |
 | Cart conversion* | — |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die besten Apps zur Wohnmobil-Stellplatz-Suche in Europa? — Typ: E-books, Anbieter: umiwo67, gelistet seit 2020-04-27
-- Wie viel kostet es? — 3.1208940000000003 USD
+- Wie viel kostet es? — 3.126474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

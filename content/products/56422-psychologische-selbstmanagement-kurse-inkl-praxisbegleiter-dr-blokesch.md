@@ -4,15 +4,15 @@ digistore24_product_id: 684851
 title: "Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch"
 vendor: "DrBlokesch"
 product_type: "Member area and video courses"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.54
+earnings_per_sale: 93.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch
 
 > Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../produkte/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.06 (Single payment) |
+| Price | $187.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.54 |
+| Earnings/sale* | $93.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrBlokesch |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch? — Typ: Member area and video courses, Anbieter: DrBlokesch, gelistet seit 2026-04-15
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

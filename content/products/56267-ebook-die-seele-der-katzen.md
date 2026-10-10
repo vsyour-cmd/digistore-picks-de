@@ -4,15 +4,15 @@ digistore24_product_id: 682542
 title: "Ebook - Die Seele der Katzen"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 5.74
+price: 5.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.87
+earnings_per_sale: 2.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682542?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Die Seele der Katzen
 
 > Product ID `56267` · Digistore24 productId `682542` · [HTML profile page](../../produkte/ebook-die-seele-der-katzen-56267.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.74 (Single payment) |
+| Price | $5.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.87 |
+| Earnings/sale* | $2.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die Seele der Katzen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-06
-- Wie viel kostet es? — 5.738418 USD
+- Wie viel kostet es? — 5.748678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

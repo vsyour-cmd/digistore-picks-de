@@ -4,15 +4,15 @@ digistore24_product_id: 685754
 title: "Fixkosten-Retter AI Premium – Windows Software"
 vendor: "EnricoLanciani"
 product_type: "Software"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.66
+earnings_per_sale: 14.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://nexilolab.com/de/fixkosten-retter-ai-premium/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fixkosten-Retter AI Premium – Windows Software
 
 > Product ID `56622` · Digistore24 productId `685754` · [HTML profile page](../../produkte/fixkosten-retter-ai-premium-windows-software-56622.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.66 |
+| Earnings/sale* | $14.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EnricoLanciani |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fixkosten-Retter AI Premium – Windows Software? — Typ: Software, Anbieter: EnricoLanciani, gelistet seit 2026-05-20
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

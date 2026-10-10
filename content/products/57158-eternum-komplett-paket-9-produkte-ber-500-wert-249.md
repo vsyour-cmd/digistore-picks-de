@@ -4,15 +4,15 @@ digistore24_product_id: 706619
 title: "ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €"
 vendor: "megareichtum"
 product_type: "Member area and video courses"
-price: 234.06
+price: 234.47
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 140.43
+earnings_per_sale: 140.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/komplett-paket?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €
 
 > Product ID `57158` · Digistore24 productId `706619` · [HTML profile page](../../produkte/eternum-komplett-paket-9-produkte-ber-500-wert-249-57158.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.06 (Single payment) |
+| Price | $234.47 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $140.43 |
+| Earnings/sale* | $140.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €? — Typ: Member area and video courses, Anbieter: megareichtum, gelistet seit 2026-06-28
-- Wie viel kostet es? — 234.055864 USD
+- Wie viel kostet es? — 234.47434400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

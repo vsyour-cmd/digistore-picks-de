@@ -4,15 +4,15 @@ digistore24_product_id: 719242
 title: "Kurven und Klasse – Stil- und Beauty-Guide für Frauen ab 50"
 vendor: "ITServiceMB"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.4
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fashion"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.kurven-klasse.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kurven und Klasse – Stil- und Beauty-Guide für Frauen ab 50
 
 > Product ID `60023` · Digistore24 productId `719242` · [HTML profile page](../../produkte/kurven-und-klasse-stil-und-beauty-guide-f-r-frauen-ab-50-60023.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.40 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ITServiceMB |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kurven und Klasse – Stil- und Beauty-Guide für Frauen ab 50? — Typ: E-books, Anbieter: ITServiceMB, gelistet seit 2026-09-29
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

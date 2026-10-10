@@ -4,15 +4,15 @@ digistore24_product_id: 698923
 title: "75% Prov | Higher Self Audios + Buch (€39)"
 vendor: "Nico1999"
 product_type: "Downloads"
-price: 131.6
+price: 131.84
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 98.71
+earnings_per_sale: 98.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://de.highersync.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 75% Prov | Higher Self Audios + Buch (€39)
 
 > Product ID `57047` · Digistore24 productId `698923` · [HTML profile page](../../produkte/75-prov-higher-self-audios-buch-39-57047.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $131.60 (Single payment) |
+| Price | $131.84 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $98.71 |
+| Earnings/sale* | $98.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nico1999 |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 75% Prov | Higher Self Audios + Buch (€39)? — Typ: Downloads, Anbieter: Nico1999, gelistet seit 2026-06-18
-- Wie viel kostet es? — 131.60329000000002 USD
+- Wie viel kostet es? — 131.83859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

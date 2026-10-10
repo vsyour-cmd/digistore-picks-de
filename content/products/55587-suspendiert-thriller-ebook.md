@@ -4,15 +4,15 @@ digistore24_product_id: 664543
 title: "Suspendiert - Thriller (eBook)"
 vendor: "gbuiss"
 product_type: "E-books"
-price: 18.14
+price: 18.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.7
+earnings_per_sale: 17.73
 cart_conversion_pct: 10
 cancel_rate_pct: 2.05
 categories: ["Personal Development"]
 listed_since: "2026-01-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/664543?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Suspendiert - Thriller (eBook)
 
 > Product ID `55587` · Digistore24 productId `664543` · [HTML profile page](../../produkte/suspendiert-thriller-ebook-55587.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.14 (Single payment) |
+| Price | $18.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.70 |
+| Earnings/sale* | $17.73 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.05% |
 | Vendor | gbuiss |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Suspendiert - Thriller (eBook)? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-01-27
-- Wie viel kostet es? — 18.143691999999998 USD
+- Wie viel kostet es? — 18.176132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

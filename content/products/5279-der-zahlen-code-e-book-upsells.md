@@ -4,15 +4,15 @@ digistore24_product_id: 28579
 title: "der Zahlen-Code (E-Book + Upsells)"
 vendor: "rosinakaiser"
 product_type: "Downloads"
-price: 669.08
+price: 670.28
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 43.52
+earnings_per_sale: 43.6
 cart_conversion_pct: 4
 cancel_rate_pct: 2.09
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2014-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # der Zahlen-Code (E-Book + Upsells)
 
 > Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../produkte/der-zahlen-code-e-book-upsells-5279.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $669.08 (Single payment) |
+| Price | $670.28 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $43.52 |
+| Earnings/sale* | $43.60 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.09% |
 | Vendor | rosinakaiser |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist der Zahlen-Code (E-Book + Upsells)? — Typ: Downloads, Anbieter: rosinakaiser, gelistet seit 2014-07-04
-- Wie viel kostet es? — 669.079404 USD
+- Wie viel kostet es? — 670.275684 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

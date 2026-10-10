@@ -4,15 +4,15 @@ digistore24_product_id: 623140
 title: "Expert Scaling System — Das komplette System"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 1442.99
+price: 1445.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 721.5
+earnings_per_sale: 722.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/623140?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Expert Scaling System — Das komplette System
 
 > Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../produkte/expert-scaling-system-das-komplette-system-56630.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1442.99 (Single payment, Installment) |
+| Price | $1445.57 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $721.50 |
+| Earnings/sale* | $722.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Expert Scaling System — Das komplette System? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2026-05-20
-- Wie viel kostet es? — 1442.9940000000001 USD
+- Wie viel kostet es? — 1445.574 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

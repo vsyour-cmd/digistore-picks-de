@@ -4,15 +4,15 @@ digistore24_product_id: 466021
 title: "Das Glück liebt glückliche Menschen - von Dejan Sekulic"
 vendor: "Deinechance"
 product_type: "E-books"
-price: 3.12
+price: 3.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 2.49
+earnings_per_sale: 2.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Profession & Job","Services"]
 listed_since: "2022-10-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dejansekulic.ch/glueck-ebook?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Glück liebt glückliche Menschen - von Dejan Sekulic
 
 > Product ID `42797` · Digistore24 productId `466021` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-von-dejan-sekulic-42797.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.12 (Single payment) |
+| Price | $3.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $2.49 |
+| Earnings/sale* | $2.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Glück liebt glückliche Menschen - von Dejan Sekulic? — Typ: E-books, Anbieter: Deinechance, gelistet seit 2022-10-22
-- Wie viel kostet es? — 3.1208940000000003 USD
+- Wie viel kostet es? — 3.126474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

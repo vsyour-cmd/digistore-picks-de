@@ -4,7 +4,7 @@ digistore24_product_id: 11816
 title: "Schnittmuster Ledertasche"
 vendor: "DotsDesigns"
 product_type: "Downloads"
-price: 5.63
+price: 5.64
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.82
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/naehkurs-ledertasche/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Schnittmuster Ledertasche
 
 > Product ID `4159` · Digistore24 productId `11816` · [HTML profile page](../../produkte/schnittmuster-ledertasche-4159.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $5.63 (Single payment) |
+| Price | $5.64 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schnittmuster Ledertasche? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-04-27
-- Wie viel kostet es? — 5.626558 USD
+- Wie viel kostet es? — 5.636618 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

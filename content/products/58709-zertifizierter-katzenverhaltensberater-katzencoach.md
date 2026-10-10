@@ -4,15 +4,15 @@ digistore24_product_id: 652421
 title: "Zertifizierter Katzenverhaltensberater / Katzencoach"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 1316
+price: 1318.35
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 263.2
+earnings_per_sale: 263.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Profession & Job"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zertifizierter Katzenverhaltensberater / Katzencoach
 
 > Product ID `58709` · Digistore24 productId `652421` · [HTML profile page](../../produkte/zertifizierter-katzenverhaltensberater-katzencoach-58709.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1316.00 (Single payment, Installment) |
+| Price | $1318.35 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $263.20 |
+| Earnings/sale* | $263.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zertifizierter Katzenverhaltensberater / Katzencoach? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-27
-- Wie viel kostet es? — 1315.999342 USD
+- Wie viel kostet es? — 1318.352282 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

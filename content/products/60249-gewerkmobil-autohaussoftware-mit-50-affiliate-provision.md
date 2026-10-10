@@ -4,15 +4,15 @@ digistore24_product_id: 741140
 title: "GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision"
 vendor: "Gewerkflow"
 product_type: "Software"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.76
+earnings_per_sale: 18.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gewerkflow.com/GewerkMobil?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision
 
 > Product ID `60249` · Digistore24 productId `741140` · [HTML profile page](../../produkte/gewerkmobil-autohaussoftware-mit-50-affiliate-provision-60249.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.51 (Single payment, Subscription) |
+| Price | $37.57 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.76 |
+| Earnings/sale* | $18.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gewerkflow |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision? — Typ: Software, Anbieter: Gewerkflow, gelistet seit 2026-10-06
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

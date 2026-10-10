@@ -4,15 +4,15 @@ digistore24_product_id: 439414
 title: "Triple Momentum Indikator | TradingView | mega Performance"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 281.61
+price: 282.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 246.01
+earnings_per_sale: 246.45
 cart_conversion_pct: 7
 cancel_rate_pct: 10.09
 categories: ["Trading Products"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/triple-momentum-trading-indikator/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Triple Momentum Indikator | TradingView | mega Performance
 
 > Product ID `49662` · Digistore24 productId `439414` · [HTML profile page](../../produkte/triple-momentum-indikator-tradingview-mega-performance-49662.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $281.61 (Single payment, Subscription) |
+| Price | $282.11 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $246.01 |
+| Earnings/sale* | $246.45 |
 | Cart conversion* | 7% |
 | Cancel rate* | 10.09% |
 | Vendor | kagels-trading |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Triple Momentum Indikator | TradingView | mega Performance? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2022-04-19
-- Wie viel kostet es? — 281.60755 USD
+- Wie viel kostet es? — 282.11105000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

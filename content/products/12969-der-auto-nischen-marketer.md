@@ -4,15 +4,15 @@ digistore24_product_id: 78501
 title: "Der Auto-Nischen-Marketer"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.54
+earnings_per_sale: 93.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-04-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Auto-Nischen-Marketer
 
 > Product ID `12969` · Digistore24 productId `78501` · [HTML profile page](../../produkte/der-auto-nischen-marketer-12969.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.06 (Subscription) |
+| Price | $187.40 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.54 |
+| Earnings/sale* | $93.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Auto-Nischen-Marketer? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2016-04-20
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

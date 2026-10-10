@@ -4,15 +4,15 @@ digistore24_product_id: 617594
 title: "Deal Maker Academy"
 vendor: "diegoki"
 product_type: "Member area and video courses"
-price: 65.8
+price: 65.91
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.74
+earnings_per_sale: 19.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/617594?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Deal Maker Academy
 
 > Product ID `52823` · Digistore24 productId `617594` · [HTML profile page](../../produkte/deal-maker-academy-52823.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.80 (Single payment, Installment) |
+| Price | $65.91 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.74 |
+| Earnings/sale* | $19.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | diegoki |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deal Maker Academy? — Typ: Member area and video courses, Anbieter: diegoki, gelistet seit 2025-06-09
-- Wie viel kostet es? — 65.796052 USD
+- Wie viel kostet es? — 65.913692 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

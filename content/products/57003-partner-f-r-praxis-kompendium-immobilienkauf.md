@@ -4,15 +4,15 @@ digistore24_product_id: 700172
 title: "Partner für Praxis-Kompendium Immobilienkauf"
 vendor: "praxiskompendiume000"
 product_type: "E-books"
-price: 51.22
+price: 51.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.62
+earnings_per_sale: 25.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://www.praxis-kompendium.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Partner für Praxis-Kompendium Immobilienkauf
 
 > Product ID `57003` · Digistore24 productId `700172` · [HTML profile page](../../produkte/partner-f-r-praxis-kompendium-immobilienkauf-57003.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.22 (Single payment) |
+| Price | $51.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.62 |
+| Earnings/sale* | $25.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiskompendiume000 |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Partner für Praxis-Kompendium Immobilienkauf? — Typ: E-books, Anbieter: praxiskompendiume000, gelistet seit 2026-06-16
-- Wie viel kostet es? — 51.220694 USD
+- Wie viel kostet es? — 51.312274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

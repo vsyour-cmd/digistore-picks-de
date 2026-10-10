@@ -4,15 +4,15 @@ digistore24_product_id: 734859
 title: "Steuer 1×1 für Creator – von Almedina Hajro"
 vendor: "Medina88"
 product_type: "E-books"
-price: 417.13
+price: 417.87
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 166.85
+earnings_per_sale: 167.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Finances"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/734859?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Steuer 1×1 für Creator – von Almedina Hajro
 
 > Product ID `59363` · Digistore24 productId `734859` · [HTML profile page](../../produkte/steuer-1-1-f-r-creator-von-almedina-hajro-59363.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $417.13 (Single payment) |
+| Price | $417.87 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $166.85 |
+| Earnings/sale* | $167.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuer 1×1 für Creator – von Almedina Hajro? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-19
-- Wie viel kostet es? — 417.12594 USD
+- Wie viel kostet es? — 417.87174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 57475
 title: "Videokurs Energiebild malen \"Level 1 - Die Blume des Lebens\""
 vendor: "RaulFalco"
 product_type: "Member area and video courses"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.45
+earnings_per_sale: 19.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"
 
 > Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../produkte/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.45 |
+| Earnings/sale* | $19.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RaulFalco |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"? — Typ: Member area and video courses, Anbieter: RaulFalco, gelistet seit 2015-08-27
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

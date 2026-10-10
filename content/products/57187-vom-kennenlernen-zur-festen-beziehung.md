@@ -4,15 +4,15 @@ digistore24_product_id: 701945
 title: "Vom Kennenlernen zur festen Beziehung"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.4
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/vom-kennenlernen-zur-beziehung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vom Kennenlernen zur festen Beziehung
 
 > Product ID `57187` · Digistore24 productId `701945` · [HTML profile page](../../produkte/vom-kennenlernen-zur-festen-beziehung-57187.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.40 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Kennenlernen zur festen Beziehung? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

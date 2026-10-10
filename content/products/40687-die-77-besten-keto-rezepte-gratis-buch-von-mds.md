@@ -4,7 +4,7 @@ digistore24_product_id: 371872
 title: "Die 77 besten Keto Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 18.85
+price: 18.88
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 2.73
@@ -12,7 +12,7 @@ cart_conversion_pct: 40
 cancel_rate_pct: 12.34
 categories: ["Food & Drink"]
 listed_since: "2021-02-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Die 77 besten Keto Rezepte Gratis Buch von MDS
 
 > Product ID `40687` · Digistore24 productId `371872` · [HTML profile page](../../produkte/die-77-besten-keto-rezepte-gratis-buch-von-mds-40687.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.85 (Single payment) |
+| Price | $18.88 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | 40% |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 77 besten Keto Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-02-04
-- Wie viel kostet es? — 18.84841 USD
+- Wie viel kostet es? — 18.88211 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

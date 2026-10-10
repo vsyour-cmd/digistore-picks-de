@@ -4,15 +4,15 @@ digistore24_product_id: 595161
 title: "Reel Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 310.18
+price: 310.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.21
+earnings_per_sale: 111.41
 cart_conversion_pct: 10
 cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/reel-mastery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reel Mastery
 
 > Product ID `55684` · Digistore24 productId `595161` · [HTML profile page](../../produkte/reel-mastery-55684.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $310.18 (Single payment) |
+| Price | $310.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.21 |
+| Earnings/sale* | $111.41 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.77% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reel Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 310.176594 USD
+- Wie viel kostet es? — 310.731174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

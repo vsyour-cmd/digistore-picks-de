@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/proportionen-dreisatz-verhaeltnisse?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Proportionen, Dreisatz, Verhältnisrechnung für Lehrlinge
 
 > Product ID `56627` · Digistore24 productId `693882` · [HTML profile page](../../produkte/proportionen-dreisatz-verh-ltnisrechnung-f-r-lehrlinge-56627.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

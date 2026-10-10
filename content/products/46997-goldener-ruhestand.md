@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.hubertpuehringer.com/goldenerruhestand/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Goldener Ruhestand
 
 > Product ID `46997` · Digistore24 productId `535516` · [HTML profile page](../../produkte/goldener-ruhestand-46997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

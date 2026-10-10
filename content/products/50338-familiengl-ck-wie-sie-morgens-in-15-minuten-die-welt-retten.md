@@ -4,7 +4,7 @@ digistore24_product_id: 577855
 title: "Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!"
 vendor: "AndreaHeinemannDigital"
 product_type: "E-books"
-price: 6.7
+price: 6.71
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.67
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2024-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/577855?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!
 
 > Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../produkte/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.70 (Single payment) |
+| Price | $6.71 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.67 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!? — Typ: E-books, Anbieter: AndreaHeinemannDigital, gelistet seit 2024-10-29
-- Wie viel kostet es? — 6.700414 USD
+- Wie viel kostet es? — 6.712394000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

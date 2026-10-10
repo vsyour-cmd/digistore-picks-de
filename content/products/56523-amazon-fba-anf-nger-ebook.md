@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/GS8iWqjRYzGA6DPeu?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Amazon FBA Anfänger-Ebook
 
 > Product ID `56523` · Digistore24 productId `692005` · [HTML profile page](../../produkte/amazon-fba-anf-nger-ebook-56523.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

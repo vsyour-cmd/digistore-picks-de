@@ -4,15 +4,15 @@ digistore24_product_id: 547957
 title: "Mental Health Depression lösen - health-generation"
 vendor: "Josef85"
 product_type: "Member area and video courses"
-price: 232.18
+price: 232.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 116.09
+earnings_per_sale: 116.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://academy.health-generation.com/salespage-mental-health-depression?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mental Health Depression lösen - health-generation
 
 > Product ID `48733` · Digistore24 productId `547957` · [HTML profile page](../../produkte/mental-health-depression-l-sen-health-generation-48733.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $232.18 (Single payment) |
+| Price | $232.59 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $116.09 |
+| Earnings/sale* | $116.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Josef85 |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mental Health Depression lösen - health-generation? — Typ: Member area and video courses, Anbieter: Josef85, gelistet seit 2024-04-13
-- Wie viel kostet es? — 232.17661600000002 USD
+- Wie viel kostet es? — 232.591736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

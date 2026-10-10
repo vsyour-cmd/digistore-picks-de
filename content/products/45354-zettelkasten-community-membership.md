@@ -4,15 +4,15 @@ digistore24_product_id: 516474
 title: "Zettelkasten-Community - Membership"
 vendor: "StephanieSelmer"
 product_type: "Member area and video courses"
-price: 389.27
+price: 389.97
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 38.93
+earnings_per_sale: 39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2023-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/516474?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zettelkasten-Community - Membership
 
 > Product ID `45354` · Digistore24 productId `516474` · [HTML profile page](../../produkte/zettelkasten-community-membership-45354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $389.27 (Subscription) |
+| Price | $389.97 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $38.93 |
+| Earnings/sale* | $39.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StephanieSelmer |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zettelkasten-Community - Membership? — Typ: Member area and video courses, Anbieter: StephanieSelmer, gelistet seit 2023-09-14
-- Wie viel kostet es? — 389.2728 USD
+- Wie viel kostet es? — 389.9688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

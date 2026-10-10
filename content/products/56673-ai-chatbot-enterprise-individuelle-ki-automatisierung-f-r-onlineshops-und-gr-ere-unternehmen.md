@@ -4,15 +4,15 @@ digistore24_product_id: 691085
 title: "AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen"
 vendor: "Dani2002"
 product_type: "Remote service provided electronically"
-price: 2796.5
+price: 2801.5
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 559.3
+earnings_per_sale: 560.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/691085?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen
 
 > Product ID `56673` · Digistore24 productId `691085` · [HTML profile page](../../produkte/ai-chatbot-enterprise-individuelle-ki-automatisierung-f-r-onlineshops-und-gr-ere-unternehmen-56673.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2796.50 (Subscription) |
+| Price | $2801.50 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $559.30 |
+| Earnings/sale* | $560.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dani2002 |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen? — Typ: Remote service provided electronically, Anbieter: Dani2002, gelistet seit 2026-05-25
-- Wie viel kostet es? — 2796.5 USD
+- Wie viel kostet es? — 2801.5 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

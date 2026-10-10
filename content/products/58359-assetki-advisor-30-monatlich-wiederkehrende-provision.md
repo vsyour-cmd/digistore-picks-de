@@ -4,15 +4,15 @@ digistore24_product_id: 721170
 title: "AssetKi Advisor – 30 % monatlich wiederkehrende Provision"
 vendor: "genion"
 product_type: "Software"
-price: 334.46
+price: 335.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.34
+earnings_per_sale: 100.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Real Estate"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://assetki.de/go/advisor?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AssetKi Advisor – 30 % monatlich wiederkehrende Provision
 
 > Product ID `58359` · Digistore24 productId `721170` · [HTML profile page](../../produkte/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $334.46 (Subscription) |
+| Price | $335.06 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.34 |
+| Earnings/sale* | $100.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | genion |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AssetKi Advisor – 30 % monatlich wiederkehrende Provision? — Typ: Software, Anbieter: genion, gelistet seit 2026-08-14
-- Wie viel kostet es? — 334.4614 USD
+- Wie viel kostet es? — 335.05940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.67
+earnings_per_sale: 2.68
 cart_conversion_pct: 33
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.cash-unity.de/storytelling-affiliate-marketing/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing: Storytelling-Formel
 
 > Product ID `54127` · Digistore24 productId `634986` · [HTML profile page](../../produkte/affiliate-marketing-storytelling-formel-54127.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.67 |
+| Earnings/sale* | $2.68 |
 | Cart conversion* | 33% |
 | Cancel rate* | 0% |
 | Vendor | CashUnity |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing: Storytelling-Formel? — Typ: E-books, Anbieter: CashUnity, gelistet seit 2025-09-10
-- Wie viel kostet es? — 0.246092 USD
+- Wie viel kostet es? — 0.246532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

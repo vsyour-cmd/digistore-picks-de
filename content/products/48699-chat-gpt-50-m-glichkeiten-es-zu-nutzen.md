@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.91
+earnings_per_sale: 9.93
 cart_conversion_pct: 41
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-moeglichkeiten/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - 50 Möglichkeiten es zu nutzen
 
 > Product ID `48699` · Digistore24 productId `561918` · [HTML profile page](../../produkte/chat-gpt-50-m-glichkeiten-es-zu-nutzen-48699.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.91 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | 41% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |

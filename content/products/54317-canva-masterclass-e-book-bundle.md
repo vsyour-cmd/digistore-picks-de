@@ -4,15 +4,15 @@ digistore24_product_id: 640205
 title: "Canva Masterclass E-Book Bundle"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 11.81
+price: 11.83
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.72
+earnings_per_sale: 4.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2025-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/640205?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Canva Masterclass E-Book Bundle
 
 > Product ID `54317` · Digistore24 productId `640205` · [HTML profile page](../../produkte/canva-masterclass-e-book-bundle-54317.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.81 (Single payment) |
+| Price | $11.83 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.72 |
+| Earnings/sale* | $4.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva Masterclass E-Book Bundle? — Typ: Downloads, Anbieter: jabbusiness, gelistet seit 2025-10-08
-- Wie viel kostet es? — 11.812416 USD
+- Wie viel kostet es? — 11.833536 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

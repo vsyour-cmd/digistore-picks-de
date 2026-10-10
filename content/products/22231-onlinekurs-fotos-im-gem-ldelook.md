@@ -4,15 +4,15 @@ digistore24_product_id: 359862
 title: "Onlinekurs Fotos im Gemäldelook"
 vendor: "KuhwedeMedia"
 product_type: "Downloads"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.59
+earnings_per_sale: 45.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2020-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fotogrow.de/fotos-im-gemaeldelook/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs Fotos im Gemäldelook
 
 > Product ID `22231` · Digistore24 productId `359862` · [HTML profile page](../../produkte/onlinekurs-fotos-im-gem-ldelook-22231.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.59 |
+| Earnings/sale* | $45.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KuhwedeMedia |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs Fotos im Gemäldelook? — Typ: Downloads, Anbieter: KuhwedeMedia, gelistet seit 2020-11-27
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 708578
 title: "ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige"
 vendor: "megareichtum"
 product_type: "Downloads"
-price: 196.46
+price: 196.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 117.88
+earnings_per_sale: 118.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Social Media","Marketing Services"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/ki-komplettsystem-gold?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige
 
 > Product ID `57404` · Digistore24 productId `708578` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-gold-5-ki-ratgeber-f-r-einsteige-57404.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $196.46 (Single payment) |
+| Price | $196.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $117.88 |
+| Earnings/sale* | $118.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-07-05
-- Wie viel kostet es? — 196.459718 USD
+- Wie viel kostet es? — 196.810978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 738781
 title: "AI Content Prompt Pack (Deutsch)"
 vendor: "xarutacom"
 product_type: "E-books"
-price: 24.05
+price: 24.09
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 6.02
+earnings_per_sale: 6.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI Content Prompt Pack (Deutsch)
 
 > Product ID `60032` · Digistore24 productId `738781` · [HTML profile page](../../produkte/ai-content-prompt-pack-deutsch-60032.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.05 (Single payment) |
+| Price | $24.09 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $6.02 |
+| Earnings/sale* | $6.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Content Prompt Pack (Deutsch)? — Typ: E-books, Anbieter: xarutacom, gelistet seit 2026-09-29
-- Wie viel kostet es? — 24.0499 USD
+- Wie viel kostet es? — 24.0929 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

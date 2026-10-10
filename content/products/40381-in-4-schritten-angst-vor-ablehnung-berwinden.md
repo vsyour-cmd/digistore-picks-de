@@ -4,7 +4,7 @@ digistore24_product_id: 436246
 title: "In 4 Schritten Angst vor Ablehnung überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 14
+price: 14.03
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.21
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-03-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/220-0-4-Schritte-gegen-Angst-vor-Ablehnung.html?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # In 4 Schritten Angst vor Ablehnung überwinden
 
 > Product ID `40381` · Digistore24 productId `436246` · [HTML profile page](../../produkte/in-4-schritten-angst-vor-ablehnung-berwinden-40381.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.03 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.21 |
 | Cart conversion* | — |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten Angst vor Ablehnung überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-03-28
-- Wie viel kostet es? — 14.004872 USD
+- Wie viel kostet es? — 14.029912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

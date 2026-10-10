@@ -4,15 +4,15 @@ digistore24_product_id: 242150
 title: "Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)"
 vendor: "system"
 product_type: "E-books"
-price: 365.89
+price: 366.55
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 274.43
+earnings_per_sale: 274.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2018-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://lottoknacker.net/ds/video-3/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)
 
 > Product ID `41307` · Digistore24 productId `242150` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-lotto-knacker-system-41307.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $365.89 (Single payment) |
+| Price | $366.55 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $274.43 |
+| Earnings/sale* | $274.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | system |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)? — Typ: E-books, Anbieter: system, gelistet seit 2018-10-02
-- Wie viel kostet es? — 365.89406 USD
+- Wie viel kostet es? — 366.54826 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

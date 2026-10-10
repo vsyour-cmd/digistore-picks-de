@@ -4,15 +4,15 @@ digistore24_product_id: 147941
 title: "Das E-Book zur Oberfräse"
 vendor: "lukasundandreas"
 product_type: "Downloads"
-price: 18.75
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2017-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://oberfraese-experten.de/oberfraese-handbuch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das E-Book zur Oberfräse
 
 > Product ID `27491` · Digistore24 productId `147941` · [HTML profile page](../../produkte/das-e-book-zur-oberfr-se-27491.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.75 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lukasundandreas |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das E-Book zur Oberfräse? — Typ: Downloads, Anbieter: lukasundandreas, gelistet seit 2017-07-04
-- Wie viel kostet es? — 18.747736000000003 USD
+- Wie viel kostet es? — 18.781256000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

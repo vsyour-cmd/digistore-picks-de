@@ -4,15 +4,15 @@ digistore24_product_id: 140951
 title: "Bewegen wie die Meister Teil 2"
 vendor: "EquilibriumState"
 product_type: "Downloads"
-price: 37.58
+price: 37.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.79
+earnings_per_sale: 18.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bewegen wie die Meister Teil 2
 
 > Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../produkte/bewegen-wie-die-meister-teil-2-16857.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.79 |
+| Earnings/sale* | $18.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EquilibriumState |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewegen wie die Meister Teil 2? — Typ: Downloads, Anbieter: EquilibriumState, gelistet seit 2017-05-31
-- Wie viel kostet es? — 37.58496 USD
+- Wie viel kostet es? — 37.65216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 527635
 title: "Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge"
 vendor: "naturheilzentrum"
 product_type: "Member area and video courses"
-price: 149.46
+price: 149.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.73
+earnings_per_sale: 74.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/527635?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge
 
 > Product ID `48795` · Digistore24 productId `527635` · [HTML profile page](../../produkte/hat-gott-uns-verlassen-online-kongress-zur-krisenvorsorge-48795.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $149.46 (Single payment) |
+| Price | $149.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.73 |
+| Earnings/sale* | $74.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | naturheilzentrum |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge? — Typ: Member area and video courses, Anbieter: naturheilzentrum, gelistet seit 2023-11-30
-- Wie viel kostet es? — 149.45614600000002 USD
+- Wie viel kostet es? — 149.72336600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

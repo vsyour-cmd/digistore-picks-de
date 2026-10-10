@@ -4,15 +4,15 @@ digistore24_product_id: 653546
 title: "LiRa Dashboard – Effizientes Offline-Fallmanagement"
 vendor: "LiraDigiPro"
 product_type: "Software"
-price: 75.2
+price: 75.34
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 26.32
+earnings_per_sale: 26.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Software"]
 listed_since: "2025-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/653546?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LiRa Dashboard – Effizientes Offline-Fallmanagement
 
 > Product ID `54876` · Digistore24 productId `653546` · [HTML profile page](../../produkte/lira-dashboard-effizientes-offline-fallmanagement-54876.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.20 (Single payment) |
+| Price | $75.34 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $26.32 |
+| Earnings/sale* | $26.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LiraDigiPro |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LiRa Dashboard – Effizientes Offline-Fallmanagement? — Typ: Software, Anbieter: LiraDigiPro, gelistet seit 2025-12-06
-- Wie viel kostet es? — 75.203478 USD
+- Wie viel kostet es? — 75.33793800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

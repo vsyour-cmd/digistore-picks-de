@@ -4,15 +4,15 @@ digistore24_product_id: 736264
 title: "LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.06
+price: 52.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.03
+earnings_per_sale: 26.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://life-06-ege.pages.dev/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)
 
 > Product ID `59558` · Digistore24 productId `736264` · [HTML profile page](../../produkte/life-06-life-profil-gesamtsystem-pdf-workbook-59558.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.06 (Single payment) |
+| Price | $52.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.03 |
+| Earnings/sale* | $26.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-22
-- Wie viel kostet es? — 52.059644 USD
+- Wie viel kostet es? — 52.152724 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

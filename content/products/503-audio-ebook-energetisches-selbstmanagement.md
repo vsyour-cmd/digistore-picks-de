@@ -4,15 +4,15 @@ digistore24_product_id: 11330
 title: "Audio-Ebook Energetisches Selbstmanagement"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.59
+earnings_per_sale: 45.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2013-03-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://angelika-king.app.mentortools.com/energetisches-selbstmanagement?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Audio-Ebook Energetisches Selbstmanagement
 
 > Product ID `503` · Digistore24 productId `11330` · [HTML profile page](../../produkte/audio-ebook-energetisches-selbstmanagement-503.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.59 |
+| Earnings/sale* | $45.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio-Ebook Energetisches Selbstmanagement? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2013-03-14
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 647186
 title: "Malbuch - Winterzauber"
 vendor: "Bo3y87"
 product_type: "E-books"
-price: 5.58
+price: 5.59
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Fun & Games"]
 listed_since: "2025-11-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/647186?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Malbuch - Winterzauber
 
 > Product ID `54608` · Digistore24 productId `647186` · [HTML profile page](../../produkte/malbuch-winterzauber-54608.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.58 (Single payment) |
+| Price | $5.59 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Malbuch - Winterzauber? — Typ: E-books, Anbieter: Bo3y87, gelistet seit 2025-11-09
-- Wie viel kostet es? — 5.5818140000000005 USD
+- Wie viel kostet es? — 5.591794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

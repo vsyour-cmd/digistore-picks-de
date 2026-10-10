@@ -4,7 +4,7 @@ digistore24_product_id: 716036
 title: "Top 10-High Protein Mahlzeiten (E-Book)"
 vendor: "worldxpb"
 product_type: "E-books"
-price: 15.67
+price: 15.7
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.92
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/716036?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Top 10-High Protein Mahlzeiten (E-Book)
 
 > Product ID `57791` · Digistore24 productId `716036` · [HTML profile page](../../produkte/top-10-high-protein-mahlzeiten-e-book-57791.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.67 (Single payment) |
+| Price | $15.70 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.92 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Top 10-High Protein Mahlzeiten (E-Book)? — Typ: E-books, Anbieter: worldxpb, gelistet seit 2026-07-29
-- Wie viel kostet es? — 15.671586 USD
+- Wie viel kostet es? — 15.699606000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

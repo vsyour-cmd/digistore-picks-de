@@ -4,7 +4,7 @@ digistore24_product_id: 195957
 title: "Hörbuch \"Erfolgsgeheimnissen auf der Spur\""
 vendor: "Wirtschaftverstehen"
 product_type: "Downloads"
-price: 9.35
+price: 9.37
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2018-01-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Hörbuch "Erfolgsgeheimnissen auf der Spur"
 
 > Product ID `22211` · Digistore24 productId `195957` · [HTML profile page](../../produkte/h-rbuch-erfolgsgeheimnissen-auf-der-spur-22211.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.35 (Single payment) |
+| Price | $9.37 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.68 |
 | Cart conversion* | — |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörbuch "Erfolgsgeheimnissen auf der Spur"? — Typ: Downloads, Anbieter: Wirtschaftverstehen, gelistet seit 2018-01-24
-- Wie viel kostet es? — 9.351496 USD
+- Wie viel kostet es? — 9.368216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

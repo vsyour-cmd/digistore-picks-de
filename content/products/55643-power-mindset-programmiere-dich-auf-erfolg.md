@@ -7,12 +7,12 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.79
+earnings_per_sale: 6.8
 cart_conversion_pct: 65
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-02-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Power Mindset - Programmiere Dich auf Erfolg
 
 > Product ID `55643` · Digistore24 productId `668819` · [HTML profile page](../../produkte/power-mindset-programmiere-dich-auf-erfolg-55643.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.79 |
+| Earnings/sale* | $6.80 |
 | Cart conversion* | 65% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |

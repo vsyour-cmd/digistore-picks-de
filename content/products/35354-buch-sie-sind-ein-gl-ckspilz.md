@@ -4,15 +4,15 @@ digistore24_product_id: 349940
 title: "Buch: Sie sind ein Glückspilz"
 vendor: "Lichtkraftquelle"
 product_type: "Book (printed)"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 16
-earnings_per_sale: 2.49
+earnings_per_sale: 2.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.akademie-fsl.de/buch-glueckspilz-349940/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch: Sie sind ein Glückspilz
 
 > Product ID `35354` · Digistore24 productId `349940` · [HTML profile page](../../produkte/buch-sie-sind-ein-gl-ckspilz-35354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 16% |
-| Earnings/sale* | $2.49 |
+| Earnings/sale* | $2.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Lichtkraftquelle |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Sie sind ein Glückspilz? — Typ: Book (printed), Anbieter: Lichtkraftquelle, gelistet seit 2020-09-28
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

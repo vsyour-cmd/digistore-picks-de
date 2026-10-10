@@ -4,15 +4,15 @@ digistore24_product_id: 144229
 title: "VIDEOKURS \"Seife einfach selber machen\""
 vendor: "aditsbest"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.92
+earnings_per_sale: 13.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2017-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://seifen-tutorials.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VIDEOKURS "Seife einfach selber machen"
 
 > Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../produkte/videokurs-seife-einfach-selber-machen-20955.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.92 |
+| Earnings/sale* | $13.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aditsbest |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIDEOKURS "Seife einfach selber machen"? — Typ: Downloads, Anbieter: aditsbest, gelistet seit 2017-06-17
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

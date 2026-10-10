@@ -4,15 +4,15 @@ digistore24_product_id: 228247
 title: "Super Affiliate System - 50% Provision"
 vendor: "pixonmedia"
 product_type: "Member area and video courses"
-price: 548.11
+price: 549.09
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 164.43
+earnings_per_sale: 164.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
 listed_since: "2018-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://forenmax.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Super Affiliate System - 50% Provision
 
 > Product ID `48417` · Digistore24 productId `228247` · [HTML profile page](../../produkte/super-affiliate-system-50-provision-48417.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $548.11 (Subscription) |
+| Price | $549.09 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $164.43 |
+| Earnings/sale* | $164.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Super Affiliate System - 50% Provision? — Typ: Member area and video courses, Anbieter: pixonmedia, gelistet seit 2018-06-17
-- Wie viel kostet es? — 548.114 USD
+- Wie viel kostet es? — 549.094 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

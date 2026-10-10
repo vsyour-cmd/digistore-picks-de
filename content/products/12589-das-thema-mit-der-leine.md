@@ -4,15 +4,15 @@ digistore24_product_id: 88809
 title: "Das Thema mit der Leine"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 28.19
+price: 28.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-07-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Thema mit der Leine
 
 > Product ID `12589` · Digistore24 productId `88809` · [HTML profile page](../../produkte/das-thema-mit-der-leine-12589.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $28.19 (Single payment) |
+| Price | $28.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Thema mit der Leine? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2016-07-23
-- Wie viel kostet es? — 28.18872 USD
+- Wie viel kostet es? — 28.23912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

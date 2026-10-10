@@ -4,15 +4,15 @@ digistore24_product_id: 715773
 title: "Main Character Energy"
 vendor: "tmgpde"
 product_type: "Member area and video courses"
-price: 44.18
+price: 44.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.09
+earnings_per_sale: 22.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://themindfulgrowthproject.de/main-character-energy/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Main Character Energy
 
 > Product ID `58093` · Digistore24 productId `715773` · [HTML profile page](../../produkte/main-character-energy-58093.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.18 (Single payment) |
+| Price | $44.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.09 |
+| Earnings/sale* | $22.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tmgpde |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Main Character Energy? — Typ: Member area and video courses, Anbieter: tmgpde, gelistet seit 2026-08-02
-- Wie viel kostet es? — 44.1847 USD
+- Wie viel kostet es? — 44.2637 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

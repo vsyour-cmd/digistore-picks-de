@@ -4,15 +4,15 @@ digistore24_product_id: 681456
 title: "Verdiene 100% Provision auf Funnel Einstieg"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 10.32
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 1.45
+earnings_per_sale: 1.46
 cart_conversion_pct: 35
 cancel_rate_pct: 4.82
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-04-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/easy-membership-kickstart/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Verdiene 100% Provision auf Funnel Einstieg
 
 > Product ID `56150` · Digistore24 productId `681456` · [HTML profile page](../../produkte/verdiene-100-provision-auf-funnel-einstieg-56150.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $10.32 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $1.45 |
+| Earnings/sale* | $1.46 |
 | Cart conversion* | 35% |
 | Cancel rate* | 4.82% |
 | Vendor | MSFS_2218 |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verdiene 100% Provision auf Funnel Einstieg? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-04-02
-- Wie viel kostet es? — 10.324678 USD
+- Wie viel kostet es? — 10.343138000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

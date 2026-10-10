@@ -4,15 +4,15 @@ digistore24_product_id: 721184
 title: "Küchen Planungshilfe | Gutsmann Küchen-Checkliste"
 vendor: "kuechegutallesgut"
 product_type: "Downloads"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.43
+earnings_per_sale: 8.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Services"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.gutsmann-kuechen.de/kuechenstudio/checkliste?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Küchen Planungshilfe | Gutsmann Küchen-Checkliste
 
 > Product ID `58912` · Digistore24 productId `721184` · [HTML profile page](../../produkte/k-chen-planungshilfe-gutsmann-k-chen-checkliste-58912.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kuechegutallesgut |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Küchen Planungshilfe | Gutsmann Küchen-Checkliste? — Typ: Downloads, Anbieter: kuechegutallesgut, gelistet seit 2026-09-04
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

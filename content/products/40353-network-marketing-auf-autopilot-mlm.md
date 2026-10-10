@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-06-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://networkmarketingautopilot.de/aff-buch-audio-kostenlos/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Network Marketing auf Autopilot - MLM
 
 > Product ID `40353` · Digistore24 productId `447453` · [HTML profile page](../../produkte/network-marketing-auf-autopilot-mlm-40353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Network Marketing auf Autopilot - MLM? — Typ: E-books, Anbieter: teamlifebydesign, gelistet seit 2022-06-19
-- Wie viel kostet es? — 1.1186 USD
+- Wie viel kostet es? — 1.1206 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

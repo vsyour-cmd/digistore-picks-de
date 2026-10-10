@@ -4,15 +4,15 @@ digistore24_product_id: 643769
 title: "Lexosleep plus"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 755.06
+price: 756.41
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 75.51
+earnings_per_sale: 75.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-plus-2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lexosleep plus
 
 > Product ID `57370` · Digistore24 productId `643769` · [HTML profile page](../../produkte/lexosleep-plus-57370.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $755.06 (Single payment, Installment) |
+| Price | $756.40 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $75.51 |
+| Earnings/sale* | $75.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lexosleep plus? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 755.0550000000001 USD
+- Wie viel kostet es? — 756.405 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

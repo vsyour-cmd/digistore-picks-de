@@ -4,15 +4,15 @@ digistore24_product_id: 727269
 title: "Das ultimative Karriere Master-Kit für das praktische Jahr"
 vendor: "VeloxForge"
 product_type: "Downloads"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.14
+earnings_per_sale: 37.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://auranit.de/praktisches-jahr/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Karriere Master-Kit für das praktische Jahr
 
 > Product ID `59062` · Digistore24 productId `727269` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-das-praktische-jahr-59062.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.26 (Single payment) |
+| Price | $74.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.14 |
+| Earnings/sale* | $37.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Karriere Master-Kit für das praktische Jahr? — Typ: Downloads, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

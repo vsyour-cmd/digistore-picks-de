@@ -4,15 +4,15 @@ digistore24_product_id: 407028
 title: "Der Schlüpferstürmer"
 vendor: "benlindner"
 product_type: "Webinar"
-price: 4.7
+price: 4.71
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 3.76
+earnings_per_sale: 3.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://frau-rumkriegen.de/schluepferstuermer/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Schlüpferstürmer
 
 > Product ID `37873` · Digistore24 productId `407028` · [HTML profile page](../../produkte/der-schl-pferst-rmer-37873.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $4.70 (Single payment) |
+| Price | $4.71 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $3.76 |
+| Earnings/sale* | $3.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | benlindner |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Schlüpferstürmer? — Typ: Webinar, Anbieter: benlindner, gelistet seit 2021-09-13
-- Wie viel kostet es? — 4.69812 USD
+- Wie viel kostet es? — 4.70652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

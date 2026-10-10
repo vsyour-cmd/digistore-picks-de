@@ -4,15 +4,15 @@ digistore24_product_id: 722699
 title: "Der Kern der Verträglichkeit - Fuktoseintoleranz Edition"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.74
+price: 302.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 150.88
+earnings_per_sale: 151.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2024-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722699?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Kern der Verträglichkeit - Fuktoseintoleranz Edition
 
 > Product ID `48233` · Digistore24 productId `722699` · [HTML profile page](../../produkte/der-kern-der-vertr-glichkeit-fuktoseintoleranz-edition-48233.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.74 (Single payment, Installment) |
+| Price | $302.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $150.88 |
+| Earnings/sale* | $151.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kern der Verträglichkeit - Fuktoseintoleranz Edition? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-05-27
-- Wie viel kostet es? — 301.74235 USD
+- Wie viel kostet es? — 302.28185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

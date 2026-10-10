@@ -4,15 +4,15 @@ digistore24_product_id: 674625
 title: "Das Kinder-Depot – Videokurs für Eltern | 25 % Provision"
 vendor: "meyermatthias75a7be"
 product_type: "Member area and video courses"
-price: 608.19
+price: 609.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 152.05
+earnings_per_sale: 152.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Finances"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.das-kinder-depot.de/challenge/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Kinder-Depot – Videokurs für Eltern | 25 % Provision
 
 > Product ID `57720` · Digistore24 productId `674625` · [HTML profile page](../../produkte/das-kinder-depot-videokurs-f-r-eltern-25-provision-57720.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $608.19 (Single payment, Installment) |
+| Price | $609.28 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $152.05 |
+| Earnings/sale* | $152.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meyermatthias75a7be |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Kinder-Depot – Videokurs für Eltern | 25 % Provision? — Typ: Member area and video courses, Anbieter: meyermatthias75a7be, gelistet seit 2026-07-24
-- Wie viel kostet es? — 608.1940060000001 USD
+- Wie viel kostet es? — 609.281426 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

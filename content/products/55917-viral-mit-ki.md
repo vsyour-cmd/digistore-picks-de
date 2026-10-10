@@ -4,15 +4,15 @@ digistore24_product_id: 676399
 title: "Viral mit KI"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.48
+earnings_per_sale: 12.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Viral mit KI
 
 > Product ID `55917` · Digistore24 productId `676399` · [HTML profile page](../../produkte/viral-mit-ki-55917.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.48 |
+| Earnings/sale* | $12.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Viral mit KI? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2026-03-15
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

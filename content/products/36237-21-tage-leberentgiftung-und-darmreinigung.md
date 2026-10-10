@@ -4,15 +4,15 @@ digistore24_product_id: 352602
 title: "21-Tage Leberentgiftung und Darmreinigung"
 vendor: "digicube"
 product_type: "Member area and video courses"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.43
+earnings_per_sale: 32.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 21-Tage Leberentgiftung und Darmreinigung
 
 > Product ID `36237` · Digistore24 productId `352602` · [HTML profile page](../../produkte/21-tage-leberentgiftung-und-darmreinigung-36237.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.43 |
+| Earnings/sale* | $32.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21-Tage Leberentgiftung und Darmreinigung? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2020-10-16
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

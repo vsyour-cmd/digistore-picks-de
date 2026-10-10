@@ -4,15 +4,15 @@ digistore24_product_id: 654150
 title: "Fullpage Webseite \" 5-10 Page \" erstellen günstig mit 899"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 1006.74
+price: 1008.54
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 251.69
+earnings_per_sale: 252.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-5-10page-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fullpage Webseite " 5-10 Page " erstellen günstig mit 899
 
 > Product ID `55668` · Digistore24 productId `654150` · [HTML profile page](../../produkte/fullpage-webseite-5-10-page-erstellen-g-nstig-mit-899-55668.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1006.74 (Single payment, Installment) |
+| Price | $1008.54 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $251.69 |
+| Earnings/sale* | $252.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fullpage Webseite " 5-10 Page " erstellen günstig mit 899? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-12-08
-- Wie viel kostet es? — 1006.74 USD
+- Wie viel kostet es? — 1008.5400000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

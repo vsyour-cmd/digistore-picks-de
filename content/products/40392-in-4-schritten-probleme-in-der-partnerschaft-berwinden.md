@@ -4,15 +4,15 @@ digistore24_product_id: 442578
 title: "In 4 Schritten Probleme in der Partnerschaft überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.62
+earnings_per_sale: 7.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/238-0-Partnerprobleme.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # In 4 Schritten Probleme in der Partnerschaft überwinden
 
 > Product ID `40392` · Digistore24 productId `442578` · [HTML profile page](../../produkte/in-4-schritten-probleme-in-der-partnerschaft-berwinden-40392.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.62 |
+| Earnings/sale* | $7.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vkleber |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten Probleme in der Partnerschaft überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-05-12
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

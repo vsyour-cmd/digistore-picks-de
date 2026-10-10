@@ -4,15 +4,15 @@ digistore24_product_id: 252623
 title: "Häußler Rasenroboter Club - SILBER"
 vendor: "haeussler"
 product_type: "Remote service provided electronically"
-price: 53.58
+price: 53.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.79
+earnings_per_sale: 26.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2018-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robomaeher.de/blog/robomaeher-club/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Häußler Rasenroboter Club - SILBER
 
 > Product ID `27470` · Digistore24 productId `252623` · [HTML profile page](../../produkte/h-u-ler-rasenroboter-club-silber-27470.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $53.58 (Subscription) |
+| Price | $53.68 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.79 |
+| Earnings/sale* | $26.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | haeussler |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Häußler Rasenroboter Club - SILBER? — Typ: Remote service provided electronically, Anbieter: haeussler, gelistet seit 2018-12-14
-- Wie viel kostet es? — 53.58094 USD
+- Wie viel kostet es? — 53.67674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

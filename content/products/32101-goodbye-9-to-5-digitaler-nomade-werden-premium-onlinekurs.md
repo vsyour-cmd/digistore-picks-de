@@ -4,15 +4,15 @@ digistore24_product_id: 165221
 title: "Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]"
 vendor: "rheinrost"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 164.18
+earnings_per_sale: 164.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
 listed_since: "2017-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.unaufschiebbar.de/digitaler-nomade-werden/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]
 
 > Product ID `32101` · Digistore24 productId `165221` · [HTML profile page](../../produkte/goodbye-9-to-5-digitaler-nomade-werden-premium-onlinekurs-32101.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Single payment) |
+| Price | $469.90 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $164.18 |
+| Earnings/sale* | $164.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]? — Typ: Member area and video courses, Anbieter: rheinrost, gelistet seit 2017-09-23
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

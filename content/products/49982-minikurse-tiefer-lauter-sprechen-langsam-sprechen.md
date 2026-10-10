@@ -4,15 +4,15 @@ digistore24_product_id: 574531
 title: "Minikurse: Tiefer | Lauter sprechen | Langsam sprechen"
 vendor: "Stimmfluencer"
 product_type: "Downloads"
-price: 20.08
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.05
+earnings_per_sale: 10.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2024-10-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/minikurse?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurse: Tiefer | Lauter sprechen | Langsam sprechen
 
 > Product ID `49982` · Digistore24 productId `574531` · [HTML profile page](../../produkte/minikurse-tiefer-lauter-sprechen-langsam-sprechen-49982.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.08 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.05 |
+| Earnings/sale* | $10.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurse: Tiefer | Lauter sprechen | Langsam sprechen? — Typ: Downloads, Anbieter: Stimmfluencer, gelistet seit 2024-10-10
-- Wie viel kostet es? — 20.07887 USD
+- Wie viel kostet es? — 20.11477 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 545452
 title: "[NEUES KOSTENLOSES BUCH] Charismatic Leadership"
 vendor: "AFMedia"
 product_type: "Book (printed)"
-price: 17.25
+price: 17.28
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 3.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 16
 cancel_rate_pct: 2.98
 categories: ["Business & Investment","Profession & Job","Leadership & Management"]
 listed_since: "2024-03-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/545452/?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # [NEUES KOSTENLOSES BUCH] Charismatic Leadership
 
 > Product ID `48141` · Digistore24 productId `545452` · [HTML profile page](../../produkte/neues-kostenloses-buch-charismatic-leadership-48141.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $17.25 (Single payment) |
+| Price | $17.28 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $3.94 |
 | Cart conversion* | 16% |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEUES KOSTENLOSES BUCH] Charismatic Leadership? — Typ: Book (printed), Anbieter: AFMedia, gelistet seit 2024-03-26
-- Wie viel kostet es? — 17.248812 USD
+- Wie viel kostet es? — 17.279652000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

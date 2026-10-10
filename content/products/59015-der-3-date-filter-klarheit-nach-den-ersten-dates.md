@@ -4,15 +4,15 @@ digistore24_product_id: 711057
 title: "Der 3-Date-Filter – Klarheit nach den ersten Dates"
 vendor: "artigital"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.18
+earnings_per_sale: 5.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://artigital.de/der-3-date-filter/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der 3-Date-Filter – Klarheit nach den ersten Dates
 
 > Product ID `59015` · Digistore24 productId `711057` · [HTML profile page](../../produkte/der-3-date-filter-klarheit-nach-den-ersten-dates-59015.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.18 |
+| Earnings/sale* | $5.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | artigital |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 3-Date-Filter – Klarheit nach den ersten Dates? — Typ: E-books, Anbieter: artigital, gelistet seit 2026-09-07
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

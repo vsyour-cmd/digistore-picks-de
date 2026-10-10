@@ -4,15 +4,15 @@ digistore24_product_id: 666736
 title: "Talking Head Videos mit KI"
 vendor: "dergoldeneWandel"
 product_type: "Member area and video courses"
-price: 83.66
+price: 83.81
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 37.65
+earnings_per_sale: 37.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://avatar-kurs-claudia.my.canva.site/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Talking Head Videos mit KI
 
 > Product ID `55487` · Digistore24 productId `666736` · [HTML profile page](../../produkte/talking-head-videos-mit-ki-55487.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.66 (Single payment) |
+| Price | $83.81 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $37.65 |
+| Earnings/sale* | $37.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dergoldeneWandel |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Talking Head Videos mit KI? — Typ: Member area and video courses, Anbieter: dergoldeneWandel, gelistet seit 2026-02-05
-- Wie viel kostet es? — 83.66009400000002 USD
+- Wie viel kostet es? — 83.80967400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

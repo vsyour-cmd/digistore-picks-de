@@ -4,7 +4,7 @@ digistore24_product_id: 555231
 title: "60 fertige Reels zum sofort posten - Call to Action + Texte"
 vendor: "NiclasH"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 0.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Photography & Film"]
 listed_since: "2024-06-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/555231?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 60 fertige Reels zum sofort posten - Call to Action + Texte
 
 > Product ID `48279` · Digistore24 productId `555231` · [HTML profile page](../../produkte/60-fertige-reels-zum-sofort-posten-call-to-action-texte-48279.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60 fertige Reels zum sofort posten - Call to Action + Texte? — Typ: Downloads, Anbieter: NiclasH, gelistet seit 2024-06-03
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

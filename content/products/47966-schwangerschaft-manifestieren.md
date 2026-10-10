@@ -4,15 +4,15 @@ digistore24_product_id: 549121
 title: "Schwangerschaft manifestieren"
 vendor: "StephanieCekon"
 product_type: "Downloads"
-price: 51.7
+price: 51.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.85
+earnings_per_sale: 25.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2024-04-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kinderwunsch.stephaniecekon.com/motherhood-manifestation?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schwangerschaft manifestieren
 
 > Product ID `47966` · Digistore24 productId `549121` · [HTML profile page](../../produkte/schwangerschaft-manifestieren-47966.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $51.70 (Single payment) |
+| Price | $51.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.85 |
+| Earnings/sale* | $25.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StephanieCekon |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwangerschaft manifestieren? — Typ: Downloads, Anbieter: StephanieCekon, gelistet seit 2024-04-21
-- Wie viel kostet es? — 51.701692 USD
+- Wie viel kostet es? — 51.794132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 131511
 title: "Online Nackt Yoga mit Elke"
 vendor: "Nacktyoga-mit-Elke"
 product_type: "Member area and video courses"
-price: 403.49
+price: 404.21
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 25.05
+earnings_per_sale: 25.09
 cart_conversion_pct: 5
 cancel_rate_pct: 2.63
 categories: ["Health & Fitness"]
 listed_since: "2017-04-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://nacktyoga.net/mitgliedschaft/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Nackt Yoga mit Elke
 
 > Product ID `20203` · Digistore24 productId `131511` · [HTML profile page](../../produkte/online-nackt-yoga-mit-elke-20203.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $403.49 (Subscription) |
+| Price | $404.21 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $25.05 |
+| Earnings/sale* | $25.09 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.63% |
 | Vendor | Nacktyoga-mit-Elke |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Nackt Yoga mit Elke? — Typ: Member area and video courses, Anbieter: Nacktyoga-mit-Elke, gelistet seit 2017-04-09
-- Wie viel kostet es? — 403.490206 USD
+- Wie viel kostet es? — 404.21162599999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

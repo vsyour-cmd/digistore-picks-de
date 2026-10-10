@@ -4,15 +4,15 @@ digistore24_product_id: 238483
 title: "Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)"
 vendor: "Kinderwunsch-Relax"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.64
+earnings_per_sale: 13.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2018-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)
 
 > Product ID `27725` · Digistore24 productId `238483` · [HTML profile page](../../produkte/kinderwunsch-relax-entspannt-schwanger-werden-mp3s-27725.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.64 |
+| Earnings/sale* | $13.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kinderwunsch-Relax |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)? — Typ: Downloads, Anbieter: Kinderwunsch-Relax, gelistet seit 2018-09-01
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

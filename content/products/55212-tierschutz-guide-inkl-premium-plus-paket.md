@@ -4,15 +4,15 @@ digistore24_product_id: 616656
 title: "Tierschutz-Guide – inkl. Premium Plus Paket"
 vendor: "Tierheimsponsoring"
 product_type: "Downloads"
-price: 473.76
+price: 474.61
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 118.44
+earnings_per_sale: 118.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/616656?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide – inkl. Premium Plus Paket
 
 > Product ID `55212` · Digistore24 productId `616656` · [HTML profile page](../../produkte/tierschutz-guide-inkl-premium-plus-paket-55212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $473.76 (Subscription) |
+| Price | $474.61 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $118.44 |
+| Earnings/sale* | $118.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide – inkl. Premium Plus Paket? — Typ: Downloads, Anbieter: Tierheimsponsoring, gelistet seit 2025-06-04
-- Wie viel kostet es? — 473.760658 USD
+- Wie viel kostet es? — 474.607718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

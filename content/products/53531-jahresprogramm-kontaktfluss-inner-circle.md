@@ -4,15 +4,15 @@ digistore24_product_id: 626509
 title: "Jahresprogramm: Kontaktfluss Inner Circle"
 vendor: "Marcel_Renner"
 product_type: "Online coaching"
-price: 324.63
+price: 325.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 15.74
+earnings_per_sale: 15.77
 cart_conversion_pct: 21
 cancel_rate_pct: 2.3
 categories: ["Personal Development"]
 listed_since: "2025-07-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/626509?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Jahresprogramm: Kontaktfluss Inner Circle
 
 > Product ID `53531` · Digistore24 productId `626509` · [HTML profile page](../../produkte/jahresprogramm-kontaktfluss-inner-circle-53531.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $324.63 (Subscription) |
+| Price | $325.21 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $15.74 |
+| Earnings/sale* | $15.77 |
 | Cart conversion* | 21% |
 | Cancel rate* | 2.3% |
 | Vendor | Marcel_Renner |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jahresprogramm: Kontaktfluss Inner Circle? — Typ: Online coaching, Anbieter: Marcel_Renner, gelistet seit 2025-07-28
-- Wie viel kostet es? — 324.628906 USD
+- Wie viel kostet es? — 325.209326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

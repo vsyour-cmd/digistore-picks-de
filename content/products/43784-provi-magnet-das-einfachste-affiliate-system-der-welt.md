@@ -4,15 +4,15 @@ digistore24_product_id: 481921
 title: "Provi Magnet - Das einfachste Affiliate-System der Welt"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 174.65
+price: 174.96
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 116.64
+earnings_per_sale: 116.84
 cart_conversion_pct: 5
 cancel_rate_pct: 1.6
 categories: ["Business & Investment"]
 listed_since: "2023-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/pmotaff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Provi Magnet - Das einfachste Affiliate-System der Welt
 
 > Product ID `43784` · Digistore24 productId `481921` · [HTML profile page](../../produkte/provi-magnet-das-einfachste-affiliate-system-der-welt-43784.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $174.65 (Single payment, Installment) |
+| Price | $174.96 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $116.64 |
+| Earnings/sale* | $116.84 |
 | Cart conversion* | 5% |
 | Cancel rate* | 1.6% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Provi Magnet - Das einfachste Affiliate-System der Welt? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-30
-- Wie viel kostet es? — 174.647018 USD
+- Wie viel kostet es? — 174.959278 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

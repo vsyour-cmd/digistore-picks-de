@@ -4,15 +4,15 @@ digistore24_product_id: 682394
 title: "System-Exit- Masterclass Kurs"
 vendor: "kuerschnermarketinga439"
 product_type: "Member area and video courses"
-price: 978.54
+price: 980.29
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 587.12
+earnings_per_sale: 588.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://system-exit.mydigibiz24.com/system-exit-verkauf?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # System-Exit- Masterclass Kurs
 
 > Product ID `56264` · Digistore24 productId `682394` · [HTML profile page](../../produkte/system-exit-masterclass-kurs-56264.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $978.54 (Single payment, Installment) |
+| Price | $980.29 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $587.12 |
+| Earnings/sale* | $588.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kuerschnermarketinga439 |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist System-Exit- Masterclass Kurs? — Typ: Member area and video courses, Anbieter: kuerschnermarketinga439, gelistet seit 2026-04-06
-- Wie viel kostet es? — 978.540094 USD
+- Wie viel kostet es? — 980.289674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

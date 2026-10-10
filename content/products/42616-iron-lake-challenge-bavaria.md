@@ -4,15 +4,15 @@ digistore24_product_id: 476026
 title: "Iron Lake Challenge Bavaria"
 vendor: "rockyourgoal"
 product_type: "Deliverable"
-price: 22.62
+price: 22.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.66
+earnings_per_sale: 7.68
 cart_conversion_pct: 31
 cancel_rate_pct: 0.35
 categories: ["Health & Fitness"]
 listed_since: "2022-12-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://rockyourgoal.de/iron-lake-challenge/bavaria?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Iron Lake Challenge Bavaria
 
 > Product ID `42616` · Digistore24 productId `476026` · [HTML profile page](../../produkte/iron-lake-challenge-bavaria-42616.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $22.62 (Single payment) |
+| Price | $22.66 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.66 |
+| Earnings/sale* | $7.68 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.35% |
 | Vendor | rockyourgoal |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Iron Lake Challenge Bavaria? — Typ: Deliverable, Anbieter: rockyourgoal, gelistet seit 2022-12-21
-- Wie viel kostet es? — 22.618092 USD
+- Wie viel kostet es? — 22.658532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

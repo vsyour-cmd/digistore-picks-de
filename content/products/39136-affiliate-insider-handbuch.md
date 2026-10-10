@@ -4,15 +4,15 @@ digistore24_product_id: 429459
 title: "Affiliate Insider Handbuch"
 vendor: "sattelitevendor"
 product_type: "Downloads"
-price: 68.74
+price: 68.86
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 66.62
+earnings_per_sale: 66.74
 cart_conversion_pct: 8
 cancel_rate_pct: 0.96
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-02-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://aiffilateinsider.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Insider Handbuch
 
 > Product ID `39136` · Digistore24 productId `429459` · [HTML profile page](../../produkte/affiliate-insider-handbuch-39136.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $68.74 (Single payment) |
+| Price | $68.86 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $66.62 |
+| Earnings/sale* | $66.74 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.96% |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Insider Handbuch? — Typ: Downloads, Anbieter: sattelitevendor, gelistet seit 2022-02-13
-- Wie viel kostet es? — 68.73797 USD
+- Wie viel kostet es? — 68.86087 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

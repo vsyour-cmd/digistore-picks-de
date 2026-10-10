@@ -4,15 +4,15 @@ digistore24_product_id: 98201
 title: "FunnelCockpit - Die All-In-One Marketing Software"
 vendor: "justviral"
 product_type: "Software"
-price: 811.45
+price: 812.91
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 290.99
+earnings_per_sale: 291.51
 cart_conversion_pct: 8
 cancel_rate_pct: 1.86
 categories: ["Software"]
 listed_since: "2016-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://funnelcockpit.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FunnelCockpit - Die All-In-One Marketing Software
 
 > Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../produkte/funnelcockpit-die-all-in-one-marketing-software-15707.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $811.45 (Subscription) |
+| Price | $812.91 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $290.99 |
+| Earnings/sale* | $291.51 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.86% |
 | Vendor | justviral |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FunnelCockpit - Die All-In-One Marketing Software? — Typ: Software, Anbieter: justviral, gelistet seit 2016-10-04
-- Wie viel kostet es? — 811.454812 USD
+- Wie viel kostet es? — 812.905652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

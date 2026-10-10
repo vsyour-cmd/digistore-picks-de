@@ -4,15 +4,15 @@ digistore24_product_id: 710042
 title: "Videokurs (Marketing-funnel inkl. Landingpage)"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.28
+earnings_per_sale: 22.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710042?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs (Marketing-funnel inkl. Landingpage)
 
 > Product ID `57478` · Digistore24 productId `710042` · [HTML profile page](../../produkte/videokurs-marketing-funnel-inkl-landingpage-57478.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.26 (Single payment) |
+| Price | $74.40 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.28 |
+| Earnings/sale* | $22.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs (Marketing-funnel inkl. Landingpage)? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-07-10
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

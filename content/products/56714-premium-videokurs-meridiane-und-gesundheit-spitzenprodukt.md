@@ -4,15 +4,15 @@ digistore24_product_id: 605434
 title: "Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 444.08
+price: 444.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 222.04
+earnings_per_sale: 222.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
 > Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $444.08 (Single payment) |
+| Price | $444.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $222.04 |
+| Earnings/sale* | $222.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-05-27
-- Wie viel kostet es? — 444.0842 USD
+- Wie viel kostet es? — 444.8782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 738864
 title: "Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)"
 vendor: "setwert"
 product_type: "Member area and video courses"
-price: 98.71
+price: 98.88
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 39.49
+earnings_per_sale: 39.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://setwert.de/halteplan/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)
 
 > Product ID `60120` · Digistore24 productId `738864` · [HTML profile page](../../produkte/setwert-halteplan-gewicht-halten-nach-dem-abnehmen-40-provision-60120.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.71 (Single payment, Installment) |
+| Price | $98.88 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $39.49 |
+| Earnings/sale* | $39.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | setwert |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)? — Typ: Member area and video courses, Anbieter: setwert, gelistet seit 2026-10-02
-- Wie viel kostet es? — 98.705264 USD
+- Wie viel kostet es? — 98.881744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

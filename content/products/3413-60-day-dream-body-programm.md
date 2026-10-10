@@ -4,15 +4,15 @@ digistore24_product_id: 24859
 title: "60 Day Dream Body Programm"
 vendor: "gk-health"
 product_type: "Downloads"
-price: 52.57
+price: 52.67
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.29
+earnings_per_sale: 26.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-05-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://produkte.60daydreambody.com/abnehmenohnediaet/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 60 Day Dream Body Programm
 
 > Product ID `3413` · Digistore24 productId `24859` · [HTML profile page](../../produkte/60-day-dream-body-programm-3413.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.57 (Single payment) |
+| Price | $52.67 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.29 |
+| Earnings/sale* | $26.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gk-health |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60 Day Dream Body Programm? — Typ: Downloads, Anbieter: gk-health, gelistet seit 2014-05-01
-- Wie viel kostet es? — 52.574200000000005 USD
+- Wie viel kostet es? — 52.6682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

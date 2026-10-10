@@ -4,15 +4,15 @@ digistore24_product_id: 735068
 title: "Der große Costa Blanca Guide"
 vendor: "blockchainmediagroupes"
 product_type: "E-books"
-price: 13.49
+price: 13.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.75
+earnings_per_sale: 6.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/735068?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der große Costa Blanca Guide
 
 > Product ID `59416` · Digistore24 productId `735068` · [HTML profile page](../../produkte/der-gro-e-costa-blanca-guide-59416.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.49 (Single payment) |
+| Price | $13.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.75 |
+| Earnings/sale* | $6.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blockchainmediagroupes |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der große Costa Blanca Guide? — Typ: E-books, Anbieter: blockchainmediagroupes, gelistet seit 2026-09-20
-- Wie viel kostet es? — 13.490316000000002 USD
+- Wie viel kostet es? — 13.514436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 737772
 title: "POD Prompt Studio – Normal 50: KI-Motive als PNG"
 vendor: "gowxsese"
 product_type: "Software"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 5
-earnings_per_sale: 1.36
+earnings_per_sale: 1.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://dein-wunschdesign.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # POD Prompt Studio – Normal 50: KI-Motive als PNG
 
 > Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../produkte/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.26 (Subscription) |
+| Price | $27.31 (Subscription) |
 | Affiliate commission | 5% |
-| Earnings/sale* | $1.36 |
+| Earnings/sale* | $1.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist POD Prompt Studio – Normal 50: KI-Motive als PNG? — Typ: Software, Anbieter: gowxsese, gelistet seit 2026-09-30
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

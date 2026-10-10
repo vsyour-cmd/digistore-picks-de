@@ -4,15 +4,15 @@ digistore24_product_id: 396921
 title: "E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung"
 vendor: "Uwi2016"
 product_type: "E-books"
-price: 11.07
+price: 11.09
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.86
+earnings_per_sale: 8.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.mhs-4-you.com/entgiftungsplan?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung
 
 > Product ID `37090` · Digistore24 productId `396921` · [HTML profile page](../../produkte/e-book-zur-entgiftung-selbstheilung-gesundheit-ern-hrung-37090.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.07 (Single payment) |
+| Price | $11.09 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.86 |
+| Earnings/sale* | $8.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Uwi2016 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung? — Typ: E-books, Anbieter: Uwi2016, gelistet seit 2021-07-05
-- Wie viel kostet es? — 11.074140000000002 USD
+- Wie viel kostet es? — 11.09394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

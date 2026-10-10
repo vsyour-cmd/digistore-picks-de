@@ -4,15 +4,15 @@ digistore24_product_id: 334681
 title: "\"Schluß mit schlechten Preisen und Abschlüssen\""
 vendor: "dealwinner"
 product_type: "Webinar"
-price: 17.86
+price: 17.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.36
+earnings_per_sale: 5.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sales Training"]
 listed_since: "2020-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # "Schluß mit schlechten Preisen und Abschlüssen"
 
 > Product ID `33337` · Digistore24 productId `334681` · [HTML profile page](../../produkte/schlu-mit-schlechten-preisen-und-abschl-ssen-33337.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $17.86 (Single payment) |
+| Price | $17.90 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.36 |
+| Earnings/sale* | $5.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dealwinner |
@@ -63,7 +63,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Schluß mit schlechten Preisen und Abschlüssen"? — Typ: Webinar, Anbieter: dealwinner, gelistet seit 2020-07-03
-- Wie viel kostet es? — 17.864042 USD
+- Wie viel kostet es? — 17.895982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

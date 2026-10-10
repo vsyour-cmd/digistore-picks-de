@@ -12,7 +12,7 @@ cart_conversion_pct: 19
 cancel_rate_pct: 0.26
 categories: ["Business & Investment","Health & Fitness","Personal Development"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/bestseller?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # 18 Bestseller Silent Subliminals (756 Tracks) 50% Provision
 
 > Product ID `46016` · Digistore24 productId `527159` · [HTML profile page](../../produkte/18-bestseller-silent-subliminals-756-tracks-50-provision-46016.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 18 Bestseller Silent Subliminals (756 Tracks) 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2023-11-16
-- Wie viel kostet es? — 0.458626 USD
+- Wie viel kostet es? — 0.45944599999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

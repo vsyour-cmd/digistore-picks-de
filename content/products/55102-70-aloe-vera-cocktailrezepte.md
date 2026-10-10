@@ -4,7 +4,7 @@ digistore24_product_id: 330482
 title: "70 Aloe Vera Cocktailrezepte"
 vendor: "chef63"
 product_type: "E-books"
-price: 5.12
+price: 5.13
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 3.08
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-06-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://trafficstrategien.funnelcockpit.com/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 70 Aloe Vera Cocktailrezepte
 
 > Product ID `55102` · Digistore24 productId `330482` · [HTML profile page](../../produkte/70-aloe-vera-cocktailrezepte-55102.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.12 (Single payment) |
+| Price | $5.13 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $3.08 |
 | Cart conversion* | — |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70 Aloe Vera Cocktailrezepte? — Typ: E-books, Anbieter: chef63, gelistet seit 2020-06-07
-- Wie viel kostet es? — 5.123188 USD
+- Wie viel kostet es? — 5.132348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

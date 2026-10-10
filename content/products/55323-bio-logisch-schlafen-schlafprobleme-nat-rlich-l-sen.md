@@ -4,15 +4,15 @@ digistore24_product_id: 664116
 title: "Bio-logisch Schlafen - Schlafprobleme natürlich lösen"
 vendor: "katerhumpel"
 product_type: "Downloads"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 27.64
+earnings_per_sale: 27.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://bio-logisch-schlafen-ds24.carrd.co/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bio-logisch Schlafen - Schlafprobleme natürlich lösen
 
 > Product ID `55323` · Digistore24 productId `664116` · [HTML profile page](../../produkte/bio-logisch-schlafen-schlafprobleme-nat-rlich-l-sen-55323.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $27.64 |
+| Earnings/sale* | $27.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | katerhumpel |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bio-logisch Schlafen - Schlafprobleme natürlich lösen? — Typ: Downloads, Anbieter: katerhumpel, gelistet seit 2026-01-26
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

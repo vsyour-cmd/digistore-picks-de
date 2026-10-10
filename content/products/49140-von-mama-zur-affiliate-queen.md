@@ -4,15 +4,15 @@ digistore24_product_id: 564575
 title: "Von Mama zur Affiliate-Queen"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 49.81
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.45
+earnings_per_sale: 11.47
 cart_conversion_pct: 1
 cancel_rate_pct: 6.61
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-08-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/564575?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Von Mama zur Affiliate-Queen
 
 > Product ID `49140` · Digistore24 productId `564575` · [HTML profile page](../../produkte/von-mama-zur-affiliate-queen-49140.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $49.81 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.45 |
+| Earnings/sale* | $11.47 |
 | Cart conversion* | 1% |
 | Cancel rate* | 6.61% |
 | Vendor | AnneWuensche |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Von Mama zur Affiliate-Queen? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2024-08-08
-- Wie viel kostet es? — 49.811258 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

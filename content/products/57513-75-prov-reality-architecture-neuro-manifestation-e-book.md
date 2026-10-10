@@ -4,15 +4,15 @@ digistore24_product_id: 711207
 title: "75% Prov! Reality Architecture: Neuro-Manifestation E-Book"
 vendor: "Nico1999"
 product_type: "E-books"
-price: 25.09
+price: 25.14
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 18.81
+earnings_per_sale: 18.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Finances","Personal Development"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://de.highersync.com/reality-architecture.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 75% Prov! Reality Architecture: Neuro-Manifestation E-Book
 
 > Product ID `57513` · Digistore24 productId `711207` · [HTML profile page](../../produkte/75-prov-reality-architecture-neuro-manifestation-e-book-57513.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.09 (Single payment) |
+| Price | $25.14 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $18.81 |
+| Earnings/sale* | $18.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nico1999 |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 75% Prov! Reality Architecture: Neuro-Manifestation E-Book? — Typ: E-books, Anbieter: Nico1999, gelistet seit 2026-07-14
-- Wie viel kostet es? — 25.090198 USD
+- Wie viel kostet es? — 25.135058 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

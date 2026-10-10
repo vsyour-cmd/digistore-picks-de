@@ -4,15 +4,15 @@ digistore24_product_id: 435384
 title: "Online Business Komplett System | 152€ pro Verkauf!"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 97.35
+price: 97.53
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 152.45
+earnings_per_sale: 152.73
 cart_conversion_pct: 8
 cancel_rate_pct: 9.56
 categories: ["Education"]
 listed_since: "2022-03-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/obks-v2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Business Komplett System | 152€ pro Verkauf!
 
 > Product ID `39563` · Digistore24 productId `435384` · [HTML profile page](../../produkte/online-business-komplett-system-152-pro-verkauf-39563.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $97.35 (Single payment, Installment) |
+| Price | $97.53 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $152.45 |
+| Earnings/sale* | $152.73 |
 | Cart conversion* | 8% |
 | Cancel rate* | 9.56% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business Komplett System | 152€ pro Verkauf!? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-03-22
-- Wie viel kostet es? — 97.351758 USD
+- Wie viel kostet es? — 97.525818 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 485352
 title: "Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 23.48
+price: 23.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.87
+earnings_per_sale: 5.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2023-02-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg
 
 > Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../produkte/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.48 (Single payment) |
+| Price | $23.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.87 |
+| Earnings/sale* | $5.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2023-02-20
-- Wie viel kostet es? — 23.479414 USD
+- Wie viel kostet es? — 23.521394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 661886
 title: "Hunde verstehen von Anfang an - Dein Workbook und Guide"
 vendor: "HundecoachWolfgangSiebel"
 product_type: "E-books"
-price: 29.22
+price: 29.27
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.84
+earnings_per_sale: 5.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.hunde-coach.com/hunde-verstehen-von-anfang-an-dein-digitaler-trainingsleitfaden-guide-fuer-eine-faire-hundeerziehung-dg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hunde verstehen von Anfang an - Dein Workbook und Guide
 
 > Product ID `55217` · Digistore24 productId `661886` · [HTML profile page](../../produkte/hunde-verstehen-von-anfang-an-dein-workbook-und-guide-55217.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.22 (Single payment) |
+| Price | $29.27 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.84 |
+| Earnings/sale* | $5.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HundecoachWolfgangSiebel |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hunde verstehen von Anfang an - Dein Workbook und Guide? — Typ: E-books, Anbieter: HundecoachWolfgangSiebel, gelistet seit 2026-01-16
-- Wie viel kostet es? — 29.217832 USD
+- Wie viel kostet es? — 29.270072000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

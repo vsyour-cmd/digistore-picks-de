@@ -4,15 +4,15 @@ digistore24_product_id: 269292
 title: "Live Mixing - Mixing Small Gigs Like A Pro"
 vendor: "GRZAudio"
 product_type: "E-books"
-price: 30.18
+price: 30.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2019-04-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.grzaudio.com/live-mixing-ebook/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Live Mixing - Mixing Small Gigs Like A Pro
 
 > Product ID `28769` · Digistore24 productId `269292` · [HTML profile page](../../produkte/live-mixing-mixing-small-gigs-like-a-pro-28769.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.18 (Single payment) |
+| Price | $30.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GRZAudio |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live Mixing - Mixing Small Gigs Like A Pro? — Typ: E-books, Anbieter: GRZAudio, gelistet seit 2019-04-24
-- Wie viel kostet es? — 30.179828 USD
+- Wie viel kostet es? — 30.233788 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

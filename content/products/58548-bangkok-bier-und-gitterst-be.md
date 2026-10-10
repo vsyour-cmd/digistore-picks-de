@@ -4,7 +4,7 @@ digistore24_product_id: 715806
 title: "Bangkok Bier und Gitterstäbe"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 8.26
+price: 8.27
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.83
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/bbg.php?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Bangkok Bier und Gitterstäbe
 
 > Product ID `58548` · Digistore24 productId `715806` · [HTML profile page](../../produkte/bangkok-bier-und-gitterst-be-58548.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.26 (Single payment) |
+| Price | $8.27 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.83 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bangkok Bier und Gitterstäbe? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-24
-- Wie viel kostet es? — 8.255268000000001 USD
+- Wie viel kostet es? — 8.270028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

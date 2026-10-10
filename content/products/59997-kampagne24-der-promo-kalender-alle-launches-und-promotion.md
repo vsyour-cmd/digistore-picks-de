@@ -4,15 +4,15 @@ digistore24_product_id: 717711
 title: "Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion"
 vendor: "carstenfeuerbach"
 product_type: "Member area and video courses"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.69
+earnings_per_sale: 20.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kampagne24.com/sales-promokalender?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion
 
 > Product ID `59997` · Digistore24 productId `717711` · [HTML profile page](../../produkte/kampagne24-der-promo-kalender-alle-launches-und-promotion-59997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.69 |
+| Earnings/sale* | $20.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | carstenfeuerbach |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion? — Typ: Member area and video courses, Anbieter: carstenfeuerbach, gelistet seit 2026-09-28
-- Wie viel kostet es? — 41.388200000000005 USD
+- Wie viel kostet es? — 41.4622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 728311
 title: "E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 70.05
+price: 70.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.02
+earnings_per_sale: 35.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://finanzamt-klar.pages.dev?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig
 
 > Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../produkte/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $70.05 (Single payment) |
+| Price | $70.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.02 |
+| Earnings/sale* | $35.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-01
-- Wie viel kostet es? — 70.046732 USD
+- Wie viel kostet es? — 70.171972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

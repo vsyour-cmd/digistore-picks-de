@@ -4,15 +4,15 @@ digistore24_product_id: 722376
 title: "Rauchfrei ohne Druck | Personalisierte App + Guide"
 vendor: "daorauchfrei"
 product_type: "Software"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.46
+earnings_per_sale: 23.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://dao-methode.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchfrei ohne Druck | Personalisierte App + Guide
 
 > Product ID `59320` · Digistore24 productId `722376` · [HTML profile page](../../produkte/rauchfrei-ohne-druck-personalisierte-app-guide-59320.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.46 |
+| Earnings/sale* | $23.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | daorauchfrei |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei ohne Druck | Personalisierte App + Guide? — Typ: Software, Anbieter: daorauchfrei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

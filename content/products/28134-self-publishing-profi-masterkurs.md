@@ -4,15 +4,15 @@ digistore24_product_id: 250395
 title: "Self Publishing Profi Masterkurs"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 575.92
+price: 576.95
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 230.36
+earnings_per_sale: 230.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-11-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-publisher-profi-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Self Publishing Profi Masterkurs
 
 > Product ID `28134` · Digistore24 productId `250395` · [HTML profile page](../../produkte/self-publishing-profi-masterkurs-28134.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $575.92 (Single payment, Installment) |
+| Price | $576.95 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $230.36 |
+| Earnings/sale* | $230.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Self Publishing Profi Masterkurs? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2018-11-29
-- Wie viel kostet es? — 575.922396 USD
+- Wie viel kostet es? — 576.952116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

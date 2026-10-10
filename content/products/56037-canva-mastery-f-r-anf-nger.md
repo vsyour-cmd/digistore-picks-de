@@ -4,15 +4,15 @@ digistore24_product_id: 679299
 title: "Canva Mastery für Anfänger"
 vendor: "MagicPotter"
 product_type: "Downloads"
-price: 14.09
+price: 14.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.05
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679299?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Canva Mastery für Anfänger
 
 > Product ID `56037` · Digistore24 productId `679299` · [HTML profile page](../../produkte/canva-mastery-f-r-anf-nger-56037.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.09 (Single payment) |
+| Price | $14.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva Mastery für Anfänger? — Typ: Downloads, Anbieter: MagicPotter, gelistet seit 2026-03-25
-- Wie viel kostet es? — 14.09436 USD
+- Wie viel kostet es? — 14.11956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

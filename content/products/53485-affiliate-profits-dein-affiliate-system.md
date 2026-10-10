@@ -4,15 +4,15 @@ digistore24_product_id: 629062
 title: "Affiliate Profits – Dein Affiliate-System"
 vendor: "Challenge24ST"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 20.3
+earnings_per_sale: 20.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2025-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://stephantiegel.online/affiliate-profits?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Profits – Dein Affiliate-System
 
 > Product ID `53485` · Digistore24 productId `629062` · [HTML profile page](../../produkte/affiliate-profits-dein-affiliate-system-53485.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $20.30 |
+| Earnings/sale* | $20.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Challenge24ST |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Profits – Dein Affiliate-System? — Typ: Downloads, Anbieter: Challenge24ST, gelistet seit 2025-08-11
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

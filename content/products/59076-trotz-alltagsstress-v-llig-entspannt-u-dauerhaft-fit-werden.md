@@ -4,15 +4,15 @@ digistore24_product_id: 729471
 title: "Trotz Alltagsstress völlig entspannt u.dauerhaft fit werden!"
 vendor: "yourweightchanger"
 product_type: "E-books"
-price: 72.14
+price: 72.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 21.64
+earnings_per_sale: 21.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729471?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trotz Alltagsstress völlig entspannt u.dauerhaft fit werden!
 
 > Product ID `59076` · Digistore24 productId `729471` · [HTML profile page](../../produkte/trotz-alltagsstress-v-llig-entspannt-u-dauerhaft-fit-werden-59076.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.14 (Single payment) |
+| Price | $72.27 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $21.64 |
+| Earnings/sale* | $21.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | yourweightchanger |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trotz Alltagsstress völlig entspannt u.dauerhaft fit werden!? — Typ: E-books, Anbieter: yourweightchanger, gelistet seit 2026-09-09
-- Wie viel kostet es? — 72.138514 USD
+- Wie viel kostet es? — 72.267494 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 700739
 title: "Der Kunden Magnet für Freelancer und VAs"
 vendor: "freelancerkitools"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://freelancer-ki-tools.de/kunden-magnet/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Kunden Magnet für Freelancer und VAs
 
 > Product ID `56959` · Digistore24 productId `700739` · [HTML profile page](../../produkte/der-kunden-magnet-f-r-freelancer-und-vas-56959.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freelancerkitools |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kunden Magnet für Freelancer und VAs? — Typ: E-books, Anbieter: freelancerkitools, gelistet seit 2026-06-15
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

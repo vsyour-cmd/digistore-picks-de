@@ -4,15 +4,15 @@ digistore24_product_id: 644225
 title: "Fachübersetzung Deutsch zu Englisch"
 vendor: "LidoConsultingAps"
 product_type: "Remote service provided electronically"
-price: 200.23
+price: 200.59
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.05
+earnings_per_sale: 40.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Profession & Job","Marketing Services"]
 listed_since: "2025-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/644225?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fachübersetzung Deutsch zu Englisch
 
 > Product ID `54505` · Digistore24 productId `644225` · [HTML profile page](../../produkte/fach-bersetzung-deutsch-zu-englisch-54505.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $200.23 (Single payment) |
+| Price | $200.59 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.05 |
+| Earnings/sale* | $40.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LidoConsultingAps |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fachübersetzung Deutsch zu Englisch? — Typ: Remote service provided electronically, Anbieter: LidoConsultingAps, gelistet seit 2025-10-27
-- Wie viel kostet es? — 200.2294 USD
+- Wie viel kostet es? — 200.5874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 666542
 title: "Minibuch: Einfach starten - sicher aufbauen"
 vendor: "digitalesonlinebusiness"
 product_type: "E-books"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.juergen-luber.com/minibuch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Minibuch: Einfach starten - sicher aufbauen
 
 > Product ID `56036` · Digistore24 productId `666542` · [HTML profile page](../../produkte/minibuch-einfach-starten-sicher-aufbauen-56036.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minibuch: Einfach starten - sicher aufbauen? — Typ: E-books, Anbieter: digitalesonlinebusiness, gelistet seit 2026-02-04
-- Wie viel kostet es? — 22.360813999999998 USD
+- Wie viel kostet es? — 22.400793999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

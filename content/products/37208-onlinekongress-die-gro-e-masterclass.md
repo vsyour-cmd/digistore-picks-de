@@ -4,15 +4,15 @@ digistore24_product_id: 356633
 title: "Onlinekongress • Die große Masterclass"
 vendor: "gdorsch"
 product_type: "Online coaching"
-price: 4474.4
+price: 4482.4
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 335.58
+earnings_per_sale: 336.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-11-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/356633?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekongress • Die große Masterclass
 
 > Product ID `37208` · Digistore24 productId `356633` · [HTML profile page](../../produkte/onlinekongress-die-gro-e-masterclass-37208.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $4474.40 (Installment) |
+| Price | $4482.40 (Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $335.58 |
+| Earnings/sale* | $336.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gdorsch |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekongress • Die große Masterclass? — Typ: Online coaching, Anbieter: gdorsch, gelistet seit 2020-11-10
-- Wie viel kostet es? — 4474.400000000001 USD
+- Wie viel kostet es? — 4482.400000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

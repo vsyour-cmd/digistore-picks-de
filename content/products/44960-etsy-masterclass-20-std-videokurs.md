@@ -4,15 +4,15 @@ digistore24_product_id: 510068
 title: "Etsy Masterclass - 20 Std Videokurs"
 vendor: "CharlotteKster"
 product_type: "Member area and video courses"
-price: 322.28
+price: 322.86
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 71.18
+earnings_per_sale: 71.3
 cart_conversion_pct: 14
 cancel_rate_pct: 6.63
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.lottismasterclass.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy Masterclass - 20 Std Videokurs
 
 > Product ID `44960` · Digistore24 productId `510068` · [HTML profile page](../../produkte/etsy-masterclass-20-std-videokurs-44960.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.28 (Single payment, Installment) |
+| Price | $322.86 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $71.18 |
+| Earnings/sale* | $71.30 |
 | Cart conversion* | 14% |
 | Cancel rate* | 6.63% |
 | Vendor | CharlotteKster |
@@ -109,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy Masterclass - 20 Std Videokurs? — Typ: Member area and video courses, Anbieter: CharlotteKster, gelistet seit 2023-08-03
-- Wie viel kostet es? — 322.279846 USD
+- Wie viel kostet es? — 322.85606600000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

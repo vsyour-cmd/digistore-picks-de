@@ -4,15 +4,15 @@ digistore24_product_id: 55161
 title: "Spanisch ohne Vorkenntnisse direkt anwenden"
 vendor: "findsbesserraus"
 product_type: "Downloads"
-price: 20.64
+price: 20.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.32
+earnings_per_sale: 10.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2015-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.spanisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Spanisch ohne Vorkenntnisse direkt anwenden
 
 > Product ID `5245` · Digistore24 productId `55161` · [HTML profile page](../../produkte/spanisch-ohne-vorkenntnisse-direkt-anwenden-5245.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.64 (Single payment) |
+| Price | $20.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.32 |
+| Earnings/sale* | $10.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | findsbesserraus |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spanisch ohne Vorkenntnisse direkt anwenden? — Typ: Downloads, Anbieter: findsbesserraus, gelistet seit 2015-07-25
-- Wie viel kostet es? — 20.63817 USD
+- Wie viel kostet es? — 20.67507 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

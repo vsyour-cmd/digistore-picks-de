@@ -4,15 +4,15 @@ digistore24_product_id: 21781
 title: "Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten"
 vendor: "keinepanikattacken"
 product_type: "Downloads"
-price: 31.96
+price: 32.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.98
+earnings_per_sale: 16.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://mein-abnehmblog.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
 > Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.96 (Single payment) |
+| Price | $32.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.98 |
+| Earnings/sale* | $16.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | keinepanikattacken |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten? — Typ: Downloads, Anbieter: keinepanikattacken, gelistet seit 2014-02-24
-- Wie viel kostet es? — 31.958402000000003 USD
+- Wie viel kostet es? — 32.015542 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

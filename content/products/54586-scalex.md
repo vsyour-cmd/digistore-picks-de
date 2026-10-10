@@ -4,15 +4,15 @@ digistore24_product_id: 641679
 title: "ScaleX"
 vendor: "TheWolfofSales"
 product_type: "Member area and video courses"
-price: 3355.8
+price: 3361.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1677.9
+earnings_per_sale: 1680.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/641679?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ScaleX
 
 > Product ID `54586` · Digistore24 productId `641679` · [HTML profile page](../../produkte/scalex-54586.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3355.80 (Single payment) |
+| Price | $3361.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1677.90 |
+| Earnings/sale* | $1680.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheWolfofSales |
@@ -119,7 +119,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ScaleX? — Typ: Member area and video courses, Anbieter: TheWolfofSales, gelistet seit 2025-10-16
-- Wie viel kostet es? — 3355.8 USD
+- Wie viel kostet es? — 3361.8 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

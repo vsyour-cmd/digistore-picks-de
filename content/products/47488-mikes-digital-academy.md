@@ -4,15 +4,15 @@ digistore24_product_id: 539552
 title: "Mikes Digital Academy"
 vendor: "m012692"
 product_type: "Member area and video courses"
-price: 144.76
+price: 145.02
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 16.41
+earnings_per_sale: 16.44
 cart_conversion_pct: 8
 cancel_rate_pct: 4.9
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2024-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/539552?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mikes Digital Academy
 
 > Product ID `47488` · Digistore24 productId `539552` · [HTML profile page](../../produkte/mikes-digital-academy-47488.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $144.76 (Single payment, Installment) |
+| Price | $145.02 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $16.41 |
+| Earnings/sale* | $16.44 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.9% |
 | Vendor | m012692 |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mikes Digital Academy? — Typ: Member area and video courses, Anbieter: m012692, gelistet seit 2024-02-18
-- Wie viel kostet es? — 144.758026 USD
+- Wie viel kostet es? — 145.01684600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

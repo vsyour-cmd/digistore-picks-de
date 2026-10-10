@@ -4,15 +4,15 @@ digistore24_product_id: 711552
 title: "Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11
+earnings_per_sale: 11.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Law & Justice","Profession & Job"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-it-systemsicherheit-dora/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen
 
 > Product ID `57522` · Digistore24 productId `711552` · [HTML profile page](../../produkte/weiterbildung-zur-it-systemsicherheit-dora-in-unternehmen-57522.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.00 |
+| Earnings/sale* | $11.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

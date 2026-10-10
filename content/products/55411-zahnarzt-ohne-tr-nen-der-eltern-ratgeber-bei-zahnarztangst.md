@@ -4,7 +4,7 @@ digistore24_product_id: 665348
 title: "Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst"
 vendor: "StudioSusi"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/665348?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst
 
 > Product ID `55411` · Digistore24 productId `665348` · [HTML profile page](../../produkte/zahnarzt-ohne-tr-nen-der-eltern-ratgeber-bei-zahnarztangst-55411.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zahnarzt ohne Tränen – Der Eltern-Ratgeber bei Zahnarztangst? — Typ: Downloads, Anbieter: StudioSusi, gelistet seit 2026-01-30
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

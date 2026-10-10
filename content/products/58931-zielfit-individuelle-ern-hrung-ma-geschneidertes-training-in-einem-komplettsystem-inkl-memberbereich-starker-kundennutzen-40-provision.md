@@ -4,15 +4,15 @@ digistore24_product_id: 727105
 title: "Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision"
 vendor: "Zielfit"
 product_type: "Remote service provided electronically"
-price: 168.26
+price: 168.56
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.31
+earnings_per_sale: 67.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Sport"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://zielfit-pt.com/partner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision
 
 > Product ID `58931` · Digistore24 productId `727105` · [HTML profile page](../../produkte/zielfit-individuelle-ern-hrung-ma-geschneidertes-training-in-einem-komplettsystem-inkl-memberbereich-starker-kundennutzen-40-provision-58931.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $168.26 (Single payment) |
+| Price | $168.56 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.31 |
+| Earnings/sale* | $67.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Zielfit |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision? — Typ: Remote service provided electronically, Anbieter: Zielfit, gelistet seit 2026-09-05
-- Wie viel kostet es? — 168.25981199999998 USD
+- Wie viel kostet es? — 168.560652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

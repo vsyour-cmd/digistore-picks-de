@@ -4,15 +4,15 @@ digistore24_product_id: 465280
 title: "Höchste Auszahlung auf kaltem Traffic (Stromfrei System)"
 vendor: "system"
 product_type: "E-books"
-price: 968.22
+price: 969.95
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 58.27
+earnings_per_sale: 58.37
 cart_conversion_pct: 5
 cancel_rate_pct: 8.48
 categories: ["Survival"]
 listed_since: "2022-10-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/465280/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Höchste Auszahlung auf kaltem Traffic (Stromfrei System)
 
 > Product ID `44606` · Digistore24 productId `465280` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-stromfrei-system-44606.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $968.22 (Single payment) |
+| Price | $969.95 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $58.27 |
+| Earnings/sale* | $58.37 |
 | Cart conversion* | 5% |
 | Cancel rate* | 8.48% |
 | Vendor | system |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Höchste Auszahlung auf kaltem Traffic (Stromfrei System)? — Typ: E-books, Anbieter: system, gelistet seit 2022-10-18
-- Wie viel kostet es? — 968.215416 USD
+- Wie viel kostet es? — 969.9465359999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 244166
 title: "megamemory Gedächtnistraining Videokurs von Gregor Staub"
 vendor: "megamemory"
 product_type: "Downloads"
-price: 239.7
+price: 240.13
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 47.94
+earnings_per_sale: 48.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/244166?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # megamemory Gedächtnistraining Videokurs von Gregor Staub
 
 > Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../produkte/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $239.70 (Single payment, Installment) |
+| Price | $240.13 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $47.94 |
+| Earnings/sale* | $48.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megamemory |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist megamemory Gedächtnistraining Videokurs von Gregor Staub? — Typ: Downloads, Anbieter: megamemory, gelistet seit 2018-10-16
-- Wie viel kostet es? — 239.704794 USD
+- Wie viel kostet es? — 240.133374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

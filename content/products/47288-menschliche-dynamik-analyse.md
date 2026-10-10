@@ -4,15 +4,15 @@ digistore24_product_id: 531838
 title: "Menschliche Dynamik​ - Analyse"
 vendor: "talent-score"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.27
+earnings_per_sale: 23.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Sport"]
 listed_since: "2023-12-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://talentscore.de/menschliche-dynamik/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Menschliche Dynamik​ - Analyse
 
 > Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../produkte/menschliche-dynamik-analyse-47288.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.27 |
+| Earnings/sale* | $23.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | talent-score |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschliche Dynamik​ - Analyse? — Typ: Member area and video courses, Anbieter: talent-score, gelistet seit 2023-12-28
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

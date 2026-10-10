@@ -4,15 +4,15 @@ digistore24_product_id: 474623
 title: "ALBUM CLASS für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 334.46
+price: 335.06
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 16.78
+earnings_per_sale: 16.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://juliaandgil.education/album-class/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ALBUM CLASS für Fotografen
 
 > Product ID `43530` · Digistore24 productId `474623` · [HTML profile page](../../produkte/album-class-f-r-fotografen-43530.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.46 (Single payment, Installment) |
+| Price | $335.06 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $16.78 |
+| Earnings/sale* | $16.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juliaundgil |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALBUM CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-12-13
-- Wie viel kostet es? — 334.4614 USD
+- Wie viel kostet es? — 335.05940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 721750
 title: "KI-Praxis-Guide 50+ | 50 % Affiliate-Provision"
 vendor: "DiamondNetwork"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.16
+earnings_per_sale: 15.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2026-09-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/721750?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Praxis-Guide 50+ | 50 % Affiliate-Provision
 
 > Product ID `59115` · Digistore24 productId `721750` · [HTML profile page](../../produkte/ki-praxis-guide-50-50-affiliate-provision-59115.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.16 |
+| Earnings/sale* | $15.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DiamondNetwork |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Praxis-Guide 50+ | 50 % Affiliate-Provision? — Typ: E-books, Anbieter: DiamondNetwork, gelistet seit 2026-09-11
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

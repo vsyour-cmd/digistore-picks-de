@@ -4,15 +4,15 @@ digistore24_product_id: 394849
 title: "Singen lernen- Kurs mit Susanna Proskura"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 346.86
+price: 347.48
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 138.74
+earnings_per_sale: 138.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/singen-klassisch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Singen lernen- Kurs mit Susanna Proskura
 
 > Product ID `35195` · Digistore24 productId `394849` · [HTML profile page](../../produkte/singen-lernen-kurs-mit-susanna-proskura-35195.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $346.86 (Single payment, Installment) |
+| Price | $347.48 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $138.74 |
+| Earnings/sale* | $138.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meineMusikschule |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Singen lernen- Kurs mit Susanna Proskura? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-06-18
-- Wie viel kostet es? — 346.855488 USD
+- Wie viel kostet es? — 347.475648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

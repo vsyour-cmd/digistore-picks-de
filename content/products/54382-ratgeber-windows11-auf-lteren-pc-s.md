@@ -4,7 +4,7 @@ digistore24_product_id: 630302
 title: "Ratgeber Windows11 auf älteren PC`s"
 vendor: "MS_Dynamics"
 product_type: "E-books"
-price: 15.68
+price: 15.71
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630302?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Ratgeber Windows11 auf älteren PC`s
 
 > Product ID `54382` · Digistore24 productId `630302` · [HTML profile page](../../produkte/ratgeber-windows11-auf-lteren-pc-s-54382.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.71 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ratgeber Windows11 auf älteren PC`s? — Typ: E-books, Anbieter: MS_Dynamics, gelistet seit 2025-08-18
-- Wie viel kostet es? — 15.682772 USD
+- Wie viel kostet es? — 15.710812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

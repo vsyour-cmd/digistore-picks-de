@@ -4,15 +4,15 @@ digistore24_product_id: 615883
 title: "Wimpern und Browlifting Komplettschulung inkl Zertifikat"
 vendor: "Nadinesbeautyoasedeluxe"
 product_type: "Member area and video courses"
-price: 70.51
+price: 70.63
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 7.05
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-05-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/615883?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wimpern und Browlifting Komplettschulung inkl Zertifikat
 
 > Product ID `52717` · Digistore24 productId `615883` · [HTML profile page](../../produkte/wimpern-und-browlifting-komplettschulung-inkl-zertifikat-52717.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $70.51 (Single payment) |
+| Price | $70.63 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nadinesbeautyoasedeluxe |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wimpern und Browlifting Komplettschulung inkl Zertifikat? — Typ: Member area and video courses, Anbieter: Nadinesbeautyoasedeluxe, gelistet seit 2025-05-30
-- Wie viel kostet es? — 70.505358 USD
+- Wie viel kostet es? — 70.63141800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 90663
 title: "Der Zielnavigator"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 100.67
+price: 100.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.34
+earnings_per_sale: 50.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2016-08-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/zielnavigator-online-seminar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Zielnavigator
 
 > Product ID `12851` · Digistore24 productId `90663` · [HTML profile page](../../produkte/der-zielnavigator-12851.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $100.67 (Single payment, Installment) |
+| Price | $100.85 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.34 |
+| Earnings/sale* | $50.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Zielnavigator? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2016-08-09
-- Wie viel kostet es? — 100.674 USD
+- Wie viel kostet es? — 100.854 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

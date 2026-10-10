@@ -4,15 +4,15 @@ digistore24_product_id: 272694
 title: "Die Experten Formel: 5€ Provision"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 909.3
+price: 910.92
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.84
+earnings_per_sale: 31.89
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/272694/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Experten Formel: 5€ Provision
 
 > Product ID `29319` · Digistore24 productId `272694` · [HTML profile page](../../produkte/die-experten-formel-5-provision-29319.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $909.30 (Single payment) |
+| Price | $910.92 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.84 |
+| Earnings/sale* | $31.89 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Experten Formel: 5€ Provision? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2019-05-21
-- Wie viel kostet es? — 909.298754 USD
+- Wie viel kostet es? — 910.924534 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 461682
 title: "[JETZT NEU] Buch Außergewöhnlich Erfolgreich 2"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 6.24
+price: 6.25
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.49
+earnings_per_sale: 5.5
 cart_conversion_pct: 7
 cancel_rate_pct: 1.8
 categories: ["Personal Development"]
 listed_since: "2022-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/461682/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2
 
 > Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../produkte/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.24 (Single payment) |
+| Price | $6.25 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.49 |
+| Earnings/sale* | $5.50 |
 | Cart conversion* | 7% |
 | Cancel rate* | 1.8% |
 | Vendor | digitalbeat |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2022-09-22
-- Wie viel kostet es? — 6.241788000000001 USD
+- Wie viel kostet es? — 6.252948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

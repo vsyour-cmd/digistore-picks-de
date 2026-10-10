@@ -4,15 +4,15 @@ digistore24_product_id: 683899
 title: "pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video"
 vendor: "mxxt11"
 product_type: "Software"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.01
+earnings_per_sale: 35.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://pssthi.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video
 
 > Product ID `56222` · Digistore24 productId `683899` · [HTML profile page](../../produkte/pssthi-25-lifetime-provision-auf-modernes-saas-f-r-video-56222.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $140.06 (Subscription) |
+| Price | $140.31 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.01 |
+| Earnings/sale* | $35.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mxxt11 |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video? — Typ: Software, Anbieter: mxxt11, gelistet seit 2026-04-10
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

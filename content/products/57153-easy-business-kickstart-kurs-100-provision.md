@@ -4,15 +4,15 @@ digistore24_product_id: 647121
 title: "Easy Business Kickstart Kurs – 100 % Provision"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 15.98
+price: 16.01
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 15.98
+earnings_per_sale: 16.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/easy-business-kickstart/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Easy Business Kickstart Kurs – 100 % Provision
 
 > Product ID `57153` · Digistore24 productId `647121` · [HTML profile page](../../produkte/easy-business-kickstart-kurs-100-provision-57153.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $15.98 (Single payment) |
+| Price | $16.01 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $15.98 |
+| Earnings/sale* | $16.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MSFS_2218 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Easy Business Kickstart Kurs – 100 % Provision? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-06-27
-- Wie viel kostet es? — 15.984793999999999 USD
+- Wie viel kostet es? — 16.013374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

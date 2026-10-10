@@ -12,7 +12,7 @@ cart_conversion_pct: 44
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate-Business mit KI-Unterstützung
 
 > Product ID `50822` · Digistore24 productId `582043` · [HTML profile page](../../produkte/affiliate-business-mit-ki-unterst-tzung-50822.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Business mit KI-Unterstützung? — Typ: E-books, Anbieter: ReneAktivNetz, gelistet seit 2024-11-21
-- Wie viel kostet es? — 0.31320800000000004 USD
+- Wie viel kostet es? — 0.31376800000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

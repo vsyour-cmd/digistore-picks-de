@@ -4,15 +4,15 @@ digistore24_product_id: 58827
 title: "Körperfeldcoaching Clips - Körperintelligenz nutzen"
 vendor: "doitAkademie"
 product_type: "Member area and video courses"
-price: 214.22
+price: 214.61
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 426.84
+earnings_per_sale: 427.6
 cart_conversion_pct: 4
 cancel_rate_pct: 10.43
 categories: ["Health & Fitness"]
 listed_since: "2015-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://bodysense.de/koerperfeldcoaching-clips/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Körperfeldcoaching Clips - Körperintelligenz nutzen
 
 > Product ID `25913` · Digistore24 productId `58827` · [HTML profile page](../../produkte/k-rperfeldcoaching-clips-k-rperintelligenz-nutzen-25913.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $214.22 (Single payment, Subscription) |
+| Price | $214.61 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $426.84 |
+| Earnings/sale* | $427.60 |
 | Cart conversion* | 4% |
 | Cancel rate* | 10.43% |
 | Vendor | doitAkademie |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Körperfeldcoaching Clips - Körperintelligenz nutzen? — Typ: Member area and video courses, Anbieter: doitAkademie, gelistet seit 2015-09-14
-- Wie viel kostet es? — 214.223086 USD
+- Wie viel kostet es? — 214.606106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

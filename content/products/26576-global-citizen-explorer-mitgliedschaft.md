@@ -4,15 +4,15 @@ digistore24_product_id: 233950
 title: "Global Citizen Explorer Mitgliedschaft"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 1412.91
+price: 1415.44
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 106.62
+earnings_per_sale: 106.82
 cart_conversion_pct: 1
 cancel_rate_pct: 1.75
 categories: ["Business & Investment"]
 listed_since: "2018-07-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.globalcitizenexplorer.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Global Citizen Explorer Mitgliedschaft
 
 > Product ID `26576` · Digistore24 productId `233950` · [HTML profile page](../../produkte/global-citizen-explorer-mitgliedschaft-26576.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1412.91 (Subscription) |
+| Price | $1415.44 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $106.62 |
+| Earnings/sale* | $106.82 |
 | Cart conversion* | 1% |
 | Cancel rate* | 1.75% |
 | Vendor | serfanoo |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Global Citizen Explorer Mitgliedschaft? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2018-07-20
-- Wie viel kostet es? — 1412.914846 USD
+- Wie viel kostet es? — 1415.4410659999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

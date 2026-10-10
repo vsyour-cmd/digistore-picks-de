@@ -4,15 +4,15 @@ digistore24_product_id: 687904
 title: "7 Hauptchakren Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.45
+earnings_per_sale: 5.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/687904?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 7 Hauptchakren Kartenset
 
 > Product ID `56373` · Digistore24 productId `687904` · [HTML profile page](../../produkte/7-hauptchakren-kartenset-56373.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.45 |
+| Earnings/sale* | $5.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Hauptchakren Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-27
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

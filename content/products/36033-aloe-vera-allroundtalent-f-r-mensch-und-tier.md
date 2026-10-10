@@ -4,15 +4,15 @@ digistore24_product_id: 378176
 title: "ALOE VERA - Allroundtalent für Mensch und Tier"
 vendor: "chef63"
 product_type: "E-books"
-price: 7.21
+price: 7.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.61
+earnings_per_sale: 3.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://aloe-vera.funnelcockpit.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ALOE VERA - Allroundtalent für Mensch und Tier
 
 > Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../produkte/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.21 (Single payment) |
+| Price | $7.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.61 |
+| Earnings/sale* | $3.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chef63 |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALOE VERA - Allroundtalent für Mensch und Tier? — Typ: E-books, Anbieter: chef63, gelistet seit 2021-03-09
-- Wie viel kostet es? — 7.21497 USD
+- Wie viel kostet es? — 7.22787 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/632954?aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Blick hinter die Kulissen – 10K Cash Club für nur 1€
 
 > Product ID `54218` · Digistore24 productId `632954` · [HTML profile page](../../produkte/blick-hinter-die-kulissen-10k-cash-club-f-r-nur-1-54218.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blick hinter die Kulissen – 10K Cash Club für nur 1€? — Typ: Member area and video courses, Anbieter: TheWolfofSales, gelistet seit 2025-09-01
-- Wie viel kostet es? — 0.939624 USD
+- Wie viel kostet es? — 0.941304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

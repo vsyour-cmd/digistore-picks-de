@@ -4,15 +4,15 @@ digistore24_product_id: 726452
 title: "Ihre eigene automatisierte Kalender  \"Termin Buchungssystem\""
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 503.37
+price: 504.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 151.01
+earnings_per_sale: 151.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ihre eigene automatisierte Kalender  "Termin Buchungssystem"
 
 > Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../produkte/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $503.37 (Single payment, Installment) |
+| Price | $504.27 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $151.01 |
+| Earnings/sale* | $151.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihre eigene automatisierte Kalender  "Termin Buchungssystem"? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-08-29
-- Wie viel kostet es? — 503.37 USD
+- Wie viel kostet es? — 504.27000000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 485187
 title: "Dein Inselmoment für Zuhause"
 vendor: "lauraknillcoaching"
 product_type: "Online coaching"
-price: 33.84
+price: 33.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.16
+earnings_per_sale: 10.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-02-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/485187?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Inselmoment für Zuhause
 
 > Product ID `54331` · Digistore24 productId `485187` · [HTML profile page](../../produkte/dein-inselmoment-f-r-zuhause-54331.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $33.84 (Single payment, Installment) |
+| Price | $33.90 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.16 |
+| Earnings/sale* | $10.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lauraknillcoaching |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Inselmoment für Zuhause? — Typ: Online coaching, Anbieter: lauraknillcoaching, gelistet seit 2023-02-19
-- Wie viel kostet es? — 33.837650000000004 USD
+- Wie viel kostet es? — 33.89815 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

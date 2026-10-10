@@ -4,15 +4,15 @@ digistore24_product_id: 724354
 title: "ContentPlan 30"
 vendor: "rs-onlineagentur"
 product_type: "Software"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.48
+earnings_per_sale: 7.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724354?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ContentPlan 30
 
 > Product ID `58631` · Digistore24 productId `724354` · [HTML profile page](../../produkte/contentplan-30-58631.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.48 |
+| Earnings/sale* | $7.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ContentPlan 30? — Typ: Software, Anbieter: rs-onlineagentur, gelistet seit 2026-08-24
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 677845
 title: "20 effektive Fitness Drinks für Zuhause & Unterwegs"
 vendor: "Freifone"
 product_type: "E-books"
-price: 17.72
+price: 17.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.86
+earnings_per_sale: 8.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Sport"]
 listed_since: "2026-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/20-fitness-drinks?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 20 effektive Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `55975` · Digistore24 productId `677845` · [HTML profile page](../../produkte/20-effektive-fitness-drinks-f-r-zuhause-unterwegs-55975.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.72 (Single payment) |
+| Price | $17.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.86 |
+| Earnings/sale* | $8.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 20 effektive Fitness Drinks für Zuhause & Unterwegs? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-20
-- Wie viel kostet es? — 17.718624000000002 USD
+- Wie viel kostet es? — 17.750304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

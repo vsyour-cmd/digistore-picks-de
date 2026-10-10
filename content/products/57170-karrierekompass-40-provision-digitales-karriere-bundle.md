@@ -4,15 +4,15 @@ digistore24_product_id: 701844
 title: "Karrierekompass 40% Provision digitales Karriere-Bundle"
 vendor: "neustartkompass"
 product_type: "E-books"
-price: 72.14
+price: 72.27
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 28.86
+earnings_per_sale: 28.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://karrierekompass-guide.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Karrierekompass 40% Provision digitales Karriere-Bundle
 
 > Product ID `57170` · Digistore24 productId `701844` · [HTML profile page](../../produkte/karrierekompass-40-provision-digitales-karriere-bundle-57170.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.14 (Single payment) |
+| Price | $72.27 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $28.86 |
+| Earnings/sale* | $28.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | neustartkompass |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Karrierekompass 40% Provision digitales Karriere-Bundle? — Typ: E-books, Anbieter: neustartkompass, gelistet seit 2026-06-29
-- Wie viel kostet es? — 72.138514 USD
+- Wie viel kostet es? — 72.267494 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

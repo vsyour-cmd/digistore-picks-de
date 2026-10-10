@@ -4,15 +4,15 @@ digistore24_product_id: 569395
 title: "Rauhnächte Workbook"
 vendor: "aktiv-entspannt-eifel"
 product_type: "E-books"
-price: 12.96
+price: 12.99
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.22
+earnings_per_sale: 3.23
 cart_conversion_pct: 5
 cancel_rate_pct: 0.95
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/569395?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rauhnächte Workbook
 
 > Product ID `55764` · Digistore24 productId `569395` · [HTML profile page](../../produkte/rauhn-chte-workbook-55764.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.96 (Single payment) |
+| Price | $12.99 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.22 |
+| Earnings/sale* | $3.23 |
 | Cart conversion* | 5% |
 | Cancel rate* | 0.95% |
 | Vendor | aktiv-entspannt-eifel |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauhnächte Workbook? — Typ: E-books, Anbieter: aktiv-entspannt-eifel, gelistet seit 2024-09-09
-- Wie viel kostet es? — 12.964574 USD
+- Wie viel kostet es? — 12.987754 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

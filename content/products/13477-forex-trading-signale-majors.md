@@ -4,15 +4,15 @@ digistore24_product_id: 52233
 title: "Forex Trading-Signale (Majors)"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 190.35
+price: 190.69
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 34.99
+earnings_per_sale: 35.05
 cart_conversion_pct: 8
 cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2015-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/forex-signale/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Forex Trading-Signale (Majors)
 
 > Product ID `13477` · Digistore24 productId `52233` · [HTML profile page](../../produkte/forex-trading-signale-majors-13477.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $190.35 (Subscription) |
+| Price | $190.69 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $34.99 |
+| Earnings/sale* | $35.05 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.25% |
 | Vendor | kagels-trading |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Forex Trading-Signale (Majors)? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2015-06-18
-- Wie viel kostet es? — 190.352162 USD
+- Wie viel kostet es? — 190.692502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

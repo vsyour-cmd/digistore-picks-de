@@ -4,15 +4,15 @@ digistore24_product_id: 660957
 title: "AI-Influencer System"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 186.71
+price: 187.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 131
+earnings_per_sale: 131.23
 cart_conversion_pct: 9
 cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://aifluencersystem.de/start?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI-Influencer System
 
 > Product ID `55780` · Digistore24 productId `660957` · [HTML profile page](../../produkte/ai-influencer-system-55780.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.71 (Single payment, Installment) |
+| Price | $187.04 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $131.00 |
+| Earnings/sale* | $131.23 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.99% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Influencer System? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2026-01-13
-- Wie viel kostet es? — 186.705526 USD
+- Wie viel kostet es? — 187.039346 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

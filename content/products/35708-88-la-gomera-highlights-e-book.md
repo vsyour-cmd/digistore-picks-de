@@ -4,7 +4,7 @@ digistore24_product_id: 372319
 title: "88 La Gomera Highlights [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.7
+price: 14.72
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 30
 cancel_rate_pct: 0.69
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2021-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/88-la-gomera-highlights/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 88 La Gomera Highlights [E-Book]
 
 > Product ID `35708` · Digistore24 productId `372319` · [HTML profile page](../../produkte/88-la-gomera-highlights-e-book-35708.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.70 (Single payment) |
+| Price | $14.72 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.94 |
 | Cart conversion* | 30% |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 88 La Gomera Highlights [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2021-02-06
-- Wie viel kostet es? — 14.698404000000002 USD
+- Wie viel kostet es? — 14.724684000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

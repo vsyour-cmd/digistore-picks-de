@@ -4,7 +4,7 @@ digistore24_product_id: 356059
 title: "Einfach gelegt mit dem Tarot von Waite und Smith"
 vendor: "ArminDenner"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 3.36
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-11-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://bewusstseinscoach.com/ebooks?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Einfach gelegt mit dem Tarot von Waite und Smith
 
 > Product ID `34694` · Digistore24 productId `356059` · [HTML profile page](../../produkte/einfach-gelegt-mit-dem-tarot-von-waite-und-smith-34694.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $3.36 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach gelegt mit dem Tarot von Waite und Smith? — Typ: E-books, Anbieter: ArminDenner, gelistet seit 2020-11-06
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

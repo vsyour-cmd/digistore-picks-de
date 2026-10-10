@@ -4,15 +4,15 @@ digistore24_product_id: 616648
 title: "Tierschutz-Guide – inkl. Kleines Paket"
 vendor: "Tierheimsponsoring"
 product_type: "Downloads"
-price: 157.92
+price: 158.21
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 39.49
+earnings_per_sale: 39.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/616648?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide – inkl. Kleines Paket
 
 > Product ID `55210` · Digistore24 productId `616648` · [HTML profile page](../../produkte/tierschutz-guide-inkl-kleines-paket-55210.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $157.92 (Subscription) |
+| Price | $158.21 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $39.49 |
+| Earnings/sale* | $39.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide – inkl. Kleines Paket? — Typ: Downloads, Anbieter: Tierheimsponsoring, gelistet seit 2025-06-04
-- Wie viel kostet es? — 157.92394800000002 USD
+- Wie viel kostet es? — 158.206308 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

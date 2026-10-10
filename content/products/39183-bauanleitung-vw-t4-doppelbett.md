@@ -4,15 +4,15 @@ digistore24_product_id: 389344
 title: "Bauanleitung - VW T4 Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 20.4
+price: 20.44
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 12.15
+earnings_per_sale: 12.17
 cart_conversion_pct: 2
 cancel_rate_pct: 3.19
 categories: ["Hobby & Craft"]
 listed_since: "2021-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/vw-t4?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bauanleitung - VW T4 Doppelbett
 
 > Product ID `39183` · Digistore24 productId `389344` · [HTML profile page](../../produkte/bauanleitung-vw-t4-doppelbett-39183.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.40 (Single payment) |
+| Price | $20.44 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $12.15 |
+| Earnings/sale* | $12.17 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.19% |
 | Vendor | mobilesbett |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - VW T4 Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2021-05-12
-- Wie viel kostet es? — 20.403264 USD
+- Wie viel kostet es? — 20.439743999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

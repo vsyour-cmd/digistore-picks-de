@@ -4,15 +4,15 @@ digistore24_product_id: 725111
 title: "Der Fels im Sturm – Stoische Stärke für den modernen Alltag"
 vendor: "urkraftmindset"
 product_type: "Downloads"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.06
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://urkraftmindset.ch/der-fels-im-sturm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Fels im Sturm – Stoische Stärke für den modernen Alltag
 
 > Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../produkte/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.06 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | urkraftmindset |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Fels im Sturm – Stoische Stärke für den modernen Alltag? — Typ: Downloads, Anbieter: urkraftmindset, gelistet seit 2026-09-07
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 672238
 title: "Workbook: Erhelle deine Leben"
 vendor: "ReinerKatzinger"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.22
+earnings_per_sale: 5.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.reinergeist.com/workbook-klarheit-freiheit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Workbook: Erhelle deine Leben
 
 > Product ID `56012` · Digistore24 productId `672238` · [HTML profile page](../../produkte/workbook-erhelle-deine-leben-56012.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.22 |
+| Earnings/sale* | $5.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReinerKatzinger |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workbook: Erhelle deine Leben? — Typ: E-books, Anbieter: ReinerKatzinger, gelistet seit 2026-02-27
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

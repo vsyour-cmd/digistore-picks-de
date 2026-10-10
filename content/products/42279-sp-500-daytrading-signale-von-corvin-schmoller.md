@@ -4,15 +4,15 @@ digistore24_product_id: 450197
 title: "SP 500 Daytrading Signale von Corvin Schmoller"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 190.35
+price: 190.69
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 25.68
+earnings_per_sale: 25.73
 cart_conversion_pct: 8
 cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2022-07-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/sp-500-cfd-daytrading/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SP 500 Daytrading Signale von Corvin Schmoller
 
 > Product ID `42279` · Digistore24 productId `450197` · [HTML profile page](../../produkte/sp-500-daytrading-signale-von-corvin-schmoller-42279.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $190.35 (Subscription) |
+| Price | $190.69 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $25.68 |
+| Earnings/sale* | $25.73 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.25% |
 | Vendor | kagels-trading |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SP 500 Daytrading Signale von Corvin Schmoller? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2022-07-07
-- Wie viel kostet es? — 190.352162 USD
+- Wie viel kostet es? — 190.692502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

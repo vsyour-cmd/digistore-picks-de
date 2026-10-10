@@ -4,15 +4,15 @@ digistore24_product_id: 553772
 title: "Online-Kurs: GEHALTSSPRUNG für \"SIE\"!"
 vendor: "KarinSchwaer"
 product_type: "Member area and video courses"
-price: 279.18
+price: 279.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.59
+earnings_per_sale: 139.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.piazzaformel.com/onlinekurs-gehaltsverhandlung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs: GEHALTSSPRUNG für "SIE"!
 
 > Product ID `51908` · Digistore24 productId `553772` · [HTML profile page](../../produkte/online-kurs-gehaltssprung-f-r-sie-51908.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.18 (Single payment) |
+| Price | $279.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.59 |
+| Earnings/sale* | $139.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KarinSchwaer |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: GEHALTSSPRUNG für "SIE"!? — Typ: Member area and video courses, Anbieter: KarinSchwaer, gelistet seit 2024-05-23
-- Wie viel kostet es? — 279.18018800000004 USD
+- Wie viel kostet es? — 279.679348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 694607
 title: "Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance"
 vendor: "PERSOFIT"
 product_type: "Remote service provided electronically"
-price: 2796.5
+price: 2801.5
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 559.3
+earnings_per_sale: 560.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Law & Justice"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694607?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance
 
 > Product ID `56652` · Digistore24 productId `694607` · [HTML profile page](../../produkte/ihr-gefahrstoffkataster-ihr-sicherer-weg-zu-compliance-56652.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2796.50 (Single payment) |
+| Price | $2801.50 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $559.30 |
+| Earnings/sale* | $560.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PERSOFIT |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihr Gefahrstoffkataster – Ihr sicherer Weg zu Compliance? — Typ: Remote service provided electronically, Anbieter: PERSOFIT, gelistet seit 2026-05-22
-- Wie viel kostet es? — 2796.5 USD
+- Wie viel kostet es? — 2801.5 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

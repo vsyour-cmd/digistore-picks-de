@@ -4,15 +4,15 @@ digistore24_product_id: 660725
 title: "[NEU] Viral Skript™ - Reichweiten System"
 vendor: "zedkev"
 product_type: "Software"
-price: 14
+price: 14.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.48
+earnings_per_sale: 3.49
 cart_conversion_pct: 7
 cancel_rate_pct: 5.9
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-01-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://viralskript.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] Viral Skript™ - Reichweiten System
 
 > Product ID `55723` · Digistore24 productId `660725` · [HTML profile page](../../produkte/neu-viral-skript-reichweiten-system-55723.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.00 (Subscription) |
+| Price | $14.03 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.48 |
+| Earnings/sale* | $3.49 |
 | Cart conversion* | 7% |
 | Cancel rate* | 5.9% |
 | Vendor | zedkev |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Viral Skript™ - Reichweiten System? — Typ: Software, Anbieter: zedkev, gelistet seit 2026-01-12
-- Wie viel kostet es? — 14.004872 USD
+- Wie viel kostet es? — 14.029912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

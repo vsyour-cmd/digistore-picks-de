@@ -4,15 +4,15 @@ digistore24_product_id: 670438
 title: "10K-Management – 24h Implementierung"
 vendor: "AT-Media"
 product_type: "E-books"
-price: 51.22
+price: 51.31
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 17.93
+earnings_per_sale: 17.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://at-teamtools.de/10k-management/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10K-Management – 24h Implementierung
 
 > Product ID `56154` · Digistore24 productId `670438` · [HTML profile page](../../produkte/10k-management-24h-implementierung-56154.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.22 (Single payment) |
+| Price | $51.31 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $17.93 |
+| Earnings/sale* | $17.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AT-Media |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10K-Management – 24h Implementierung? — Typ: E-books, Anbieter: AT-Media, gelistet seit 2026-02-20
-- Wie viel kostet es? — 51.220694 USD
+- Wie viel kostet es? — 51.312274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

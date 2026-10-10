@@ -12,7 +12,7 @@ cart_conversion_pct: 54
 cancel_rate_pct: 5.11
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/digiplrfreebie?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Digitale Produkte Leitfaden inkl. PLR (Freebie)
 
 > Product ID `54336` · Digistore24 productId `639980` · [HTML profile page](../../produkte/digitale-produkte-leitfaden-inkl-plr-freebie-54336.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Produkte Leitfaden inkl. PLR (Freebie)? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-10-07
-- Wie viel kostet es? — 0.816578 USD
+- Wie viel kostet es? — 0.818038 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 24
 cancel_rate_pct: 1.37
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-05-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affiliatesecrets.de?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Secrets
 
 > Product ID `33035` · Digistore24 productId `324686` · [HTML profile page](../../produkte/affiliate-secrets-33035.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

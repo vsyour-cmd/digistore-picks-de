@@ -4,15 +4,15 @@ digistore24_product_id: 674774
 title: "Reset - Dein Einstieg"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 73.83
+price: 73.96
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 7.38
+earnings_per_sale: 7.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reset - Dein Einstieg
 
 > Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../produkte/reset-dein-einstieg-57374.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.83 (Single payment) |
+| Price | $73.96 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $7.38 |
+| Earnings/sale* | $7.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reset - Dein Einstieg? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 73.8276 USD
+- Wie viel kostet es? — 73.95960000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

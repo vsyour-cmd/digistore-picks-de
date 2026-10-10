@@ -4,15 +4,15 @@ digistore24_product_id: 640917
 title: "Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen"
 vendor: "MS_Dynamics"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.68
+earnings_per_sale: 15.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-10-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/640917?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen
 
 > Product ID `54423` · Digistore24 productId `640917` · [HTML profile page](../../produkte/notfallsanit-ter-100-pr-fungsfragen-mit-erkl-rungen-54423.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.68 |
+| Earnings/sale* | $15.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MS_Dynamics |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Notfallsanitäter – 100 Prüfungsfragen mit Erklärungen? — Typ: E-books, Anbieter: MS_Dynamics, gelistet seit 2025-10-12
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

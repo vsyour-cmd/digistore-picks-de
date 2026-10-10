@@ -4,15 +4,15 @@ digistore24_product_id: 174719
 title: "KlickMember Plugin Standard"
 vendor: "intellicon"
 product_type: "Downloads"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.38
+earnings_per_sale: 36.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.klicksuite.de/bestellung/?product=174719&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KlickMember Plugin Standard
 
 > Product ID `21697` · Digistore24 productId `174719` · [HTML profile page](../../produkte/klickmember-plugin-standard-21697.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.26 (Subscription) |
+| Price | $121.47 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.38 |
+| Earnings/sale* | $36.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | intellicon |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KlickMember Plugin Standard? — Typ: Downloads, Anbieter: intellicon, gelistet seit 2017-10-27
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

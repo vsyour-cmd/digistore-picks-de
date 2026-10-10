@@ -4,15 +4,15 @@ digistore24_product_id: 267357
 title: "Der Weg zur finanziellen Freiheit von Bodo Schäfer"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 8.53
+price: 8.55
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.58
+earnings_per_sale: 5.59
 cart_conversion_pct: 46
 cancel_rate_pct: 2.09
 categories: ["Personal Development"]
 listed_since: "2019-04-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/der-weg-zur-finanziellen-freiheit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Weg zur finanziellen Freiheit von Bodo Schäfer
 
 > Product ID `28924` · Digistore24 productId `267357` · [HTML profile page](../../produkte/der-weg-zur-finanziellen-freiheit-von-bodo-sch-fer-28924.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $8.53 (Single payment) |
+| Price | $8.55 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.58 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | 46% |
 | Cancel rate* | 2.09% |
 | Vendor | BodoSchaefer |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Weg zur finanziellen Freiheit von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2019-04-09
-- Wie viel kostet es? — 8.534918 USD
+- Wie viel kostet es? — 8.550178 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

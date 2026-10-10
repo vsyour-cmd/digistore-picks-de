@@ -4,15 +4,15 @@ digistore24_product_id: 644814
 title: "Eshop \" Basic Shopify \" erstellen günstig mit 1.799 €"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 2012.36
+price: 2015.96
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 603.71
+earnings_per_sale: 604.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-erstellen-guenstig-digistore24-1-landing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Eshop " Basic Shopify " erstellen günstig mit 1.799 €
 
 > Product ID `54518` · Digistore24 productId `644814` · [HTML profile page](../../produkte/eshop-basic-shopify-erstellen-g-nstig-mit-1-799-54518.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2012.36 (Installment) |
+| Price | $2015.96 (Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $603.71 |
+| Earnings/sale* | $604.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eshop " Basic Shopify " erstellen günstig mit 1.799 €? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-10-28
-- Wie viel kostet es? — 2012.3614 USD
+- Wie viel kostet es? — 2015.9594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

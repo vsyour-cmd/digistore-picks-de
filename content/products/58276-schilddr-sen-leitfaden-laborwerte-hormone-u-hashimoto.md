@@ -4,7 +4,7 @@ digistore24_product_id: 715776
 title: "Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto"
 vendor: "infoaae9"
 product_type: "E-books"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heilpraktiker-emden.de/gesundheits-leitfaeden/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto
 
 > Product ID `58276` · Digistore24 productId `715776` · [HTML profile page](../../produkte/schilddr-sen-leitfaden-laborwerte-hormone-u-hashimoto-58276.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schilddrüsen-Leitfaden – Laborwerte, Hormone u. Hashimoto? — Typ: E-books, Anbieter: infoaae9, gelistet seit 2026-08-11
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

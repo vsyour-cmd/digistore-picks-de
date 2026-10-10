@@ -4,15 +4,15 @@ digistore24_product_id: 660251
 title: "Zeichenmaterial für realistisches Zeichnen"
 vendor: "SchmidtsZeichenwelt"
 product_type: "Downloads"
-price: 4.7
+price: 4.71
 currency: "USD"
 affiliate_commission_pct: 41
-earnings_per_sale: 1.92
+earnings_per_sale: 1.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-01-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schmidtszeichenwelt.de/bleistifte-zeichnen-material/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zeichenmaterial für realistisches Zeichnen
 
 > Product ID `55153` · Digistore24 productId `660251` · [HTML profile page](../../produkte/zeichenmaterial-f-r-realistisches-zeichnen-55153.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.70 (Single payment) |
+| Price | $4.71 (Single payment) |
 | Affiliate commission | 41% |
-| Earnings/sale* | $1.92 |
+| Earnings/sale* | $1.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SchmidtsZeichenwelt |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeichenmaterial für realistisches Zeichnen? — Typ: Downloads, Anbieter: SchmidtsZeichenwelt, gelistet seit 2026-01-09
-- Wie viel kostet es? — 4.69812 USD
+- Wie viel kostet es? — 4.70652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

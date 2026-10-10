@@ -4,15 +4,15 @@ digistore24_product_id: 693722
 title: "Claude AI, Dein persönlicher KI-Assistent"
 vendor: "Ronin1960"
 product_type: "E-books"
-price: 20.85
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.34
+earnings_per_sale: 8.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Software"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/693722?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Claude AI, Dein persönlicher KI-Assistent
 
 > Product ID `56634` · Digistore24 productId `693722` · [HTML profile page](../../produkte/claude-ai-dein-pers-nlicher-ki-assistent-56634.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.85 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ronin1960 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Claude AI, Dein persönlicher KI-Assistent? — Typ: E-books, Anbieter: Ronin1960, gelistet seit 2026-05-20
-- Wie viel kostet es? — 20.850704 USD
+- Wie viel kostet es? — 20.887984000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

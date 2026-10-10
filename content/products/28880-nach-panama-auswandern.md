@@ -4,15 +4,15 @@ digistore24_product_id: 242028
 title: "Nach Panama Auswandern"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 52.57
+price: 52.67
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.14
+earnings_per_sale: 13.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.globalcitizenexplorer.com/index.php?page_id=676&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nach Panama Auswandern
 
 > Product ID `28880` · Digistore24 productId `242028` · [HTML profile page](../../produkte/nach-panama-auswandern-28880.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.57 (Single payment) |
+| Price | $52.67 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.14 |
+| Earnings/sale* | $13.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serfanoo |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nach Panama Auswandern? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2018-10-01
-- Wie viel kostet es? — 52.574200000000005 USD
+- Wie viel kostet es? — 52.6682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

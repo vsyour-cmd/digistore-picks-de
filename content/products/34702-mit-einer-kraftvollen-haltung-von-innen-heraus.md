@@ -4,7 +4,7 @@ digistore24_product_id: 353666
 title: "Mit einer kraftvollen Haltung von innen heraus!"
 vendor: "AlexandraLohr"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-10-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Mit einer kraftvollen Haltung von innen heraus!
 
 > Product ID `34702` · Digistore24 productId `353666` · [HTML profile page](../../produkte/mit-einer-kraftvollen-haltung-von-innen-heraus-34702.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit einer kraftvollen Haltung von innen heraus!? — Typ: Downloads, Anbieter: AlexandraLohr, gelistet seit 2020-10-22
-- Wie viel kostet es? — 9.385054 USD
+- Wie viel kostet es? — 9.401834000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

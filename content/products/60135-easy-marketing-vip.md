@@ -4,15 +4,15 @@ digistore24_product_id: 740784
 title: "Easy Marketing VIP"
 vendor: "easymarketingccaf"
 product_type: "Downloads"
-price: 140.99
+price: 141.24
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.4
+earnings_per_sale: 56.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740784?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Easy Marketing VIP
 
 > Product ID `60135` · Digistore24 productId `740784` · [HTML profile page](../../produkte/easy-marketing-vip-60135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $140.99 (Single payment) |
+| Price | $141.24 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.40 |
+| Earnings/sale* | $56.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | easymarketingccaf |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Easy Marketing VIP? — Typ: Downloads, Anbieter: easymarketingccaf, gelistet seit 2026-10-02
-- Wie viel kostet es? — 140.988344 USD
+- Wie viel kostet es? — 141.24042400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

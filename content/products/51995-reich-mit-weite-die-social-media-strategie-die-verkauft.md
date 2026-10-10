@@ -4,15 +4,15 @@ digistore24_product_id: 595777
 title: "Reich mit Weite – Die Social-Media-Strategie, die verkauft!"
 vendor: "powerupbusiness"
 product_type: "Member area and video courses"
-price: 1328.9
+price: 1331.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 664.45
+earnings_per_sale: 665.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/595777/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reich mit Weite – Die Social-Media-Strategie, die verkauft!
 
 > Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../produkte/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1328.90 (Single payment, Installment) |
+| Price | $1331.27 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $664.45 |
+| Earnings/sale* | $665.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | powerupbusiness |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reich mit Weite – Die Social-Media-Strategie, die verkauft!? — Typ: Member area and video courses, Anbieter: powerupbusiness, gelistet seit 2025-02-12
-- Wie viel kostet es? — 1328.8968 USD
+- Wie viel kostet es? — 1331.2728 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

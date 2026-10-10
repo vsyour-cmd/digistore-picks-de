@@ -4,15 +4,15 @@ digistore24_product_id: 576551
 title: "Etsy - 10 Vorlagen (MRR und PLR)"
 vendor: "MoneyCreators"
 product_type: "E-books"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2024-10-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/576551?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy - 10 Vorlagen (MRR und PLR)
 
 > Product ID `50145` · Digistore24 productId `576551` · [HTML profile page](../../produkte/etsy-10-vorlagen-mrr-und-plr-50145.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy - 10 Vorlagen (MRR und PLR)? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2024-10-22
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

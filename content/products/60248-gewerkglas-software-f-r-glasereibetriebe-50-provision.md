@@ -4,15 +4,15 @@ digistore24_product_id: 741139
 title: "GewerKGlas – Software für Glasereibetriebe | 50 % Provision"
 vendor: "Gewerkflow"
 product_type: "Software"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gewerkflow.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GewerKGlas – Software für Glasereibetriebe | 50 % Provision
 
 > Product ID `60248` · Digistore24 productId `741139` · [HTML profile page](../../produkte/gewerkglas-software-f-r-glasereibetriebe-50-provision-60248.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gewerkflow |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GewerKGlas – Software für Glasereibetriebe | 50 % Provision? — Typ: Software, Anbieter: Gewerkflow, gelistet seit 2026-10-06
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

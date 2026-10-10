@@ -4,7 +4,7 @@ digistore24_product_id: 629052
 title: "Affiliate Startplan – Erfolgreich starten"
 vendor: "Challenge24ST"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 80
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 44
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2025-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://stephantiegel.online?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Affiliate Startplan – Erfolgreich starten
 
 > Product ID `53538` · Digistore24 productId `629052` · [HTML profile page](../../produkte/affiliate-startplan-erfolgreich-starten-53538.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 80% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 44% |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Startplan – Erfolgreich starten? — Typ: E-books, Anbieter: Challenge24ST, gelistet seit 2025-08-11
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

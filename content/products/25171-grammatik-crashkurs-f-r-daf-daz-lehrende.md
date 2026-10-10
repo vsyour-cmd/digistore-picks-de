@@ -4,15 +4,15 @@ digistore24_product_id: 226193
 title: "Grammatik-Crashkurs für DaF/DaZ-Lehrende"
 vendor: "justynahaas"
 product_type: "Downloads"
-price: 130.66
+price: 130.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 39.2
+earnings_per_sale: 39.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2018-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.justynahaas.eu/index.php?page_id=1236&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Grammatik-Crashkurs für DaF/DaZ-Lehrende
 
 > Product ID `25171` · Digistore24 productId `226193` · [HTML profile page](../../produkte/grammatik-crashkurs-f-r-daf-daz-lehrende-25171.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $130.66 (Single payment) |
+| Price | $130.90 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $39.20 |
+| Earnings/sale* | $39.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | justynahaas |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grammatik-Crashkurs für DaF/DaZ-Lehrende? — Typ: Downloads, Anbieter: justynahaas, gelistet seit 2018-06-06
-- Wie viel kostet es? — 130.663666 USD
+- Wie viel kostet es? — 130.897286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

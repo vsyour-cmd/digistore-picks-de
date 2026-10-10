@@ -4,15 +4,15 @@ digistore24_product_id: 585598
 title: "Das kleine 1x1 der Kommunikation - Webinar"
 vendor: "Wirtschaftsmediation_CS"
 product_type: "Member area and video courses"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2024-12-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/585598?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das kleine 1x1 der Kommunikation - Webinar
 
 > Product ID `51039` · Digistore24 productId `585598` · [HTML profile page](../../produkte/das-kleine-1x1-der-kommunikation-webinar-51039.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wirtschaftsmediation_CS |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das kleine 1x1 der Kommunikation - Webinar? — Typ: Member area and video courses, Anbieter: Wirtschaftsmediation_CS, gelistet seit 2024-12-12
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

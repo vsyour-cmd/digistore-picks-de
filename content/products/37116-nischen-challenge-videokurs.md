@@ -4,15 +4,15 @@ digistore24_product_id: 155549
 title: "Nischen-Challenge - Videokurs"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 232.18
+price: 232.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 116.09
+earnings_per_sale: 116.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/nischen-challenge/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nischen-Challenge - Videokurs
 
 > Product ID `37116` · Digistore24 productId `155549` · [HTML profile page](../../produkte/nischen-challenge-videokurs-37116.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $232.18 (Subscription) |
+| Price | $232.59 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $116.09 |
+| Earnings/sale* | $116.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischen-Challenge - Videokurs? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2017-08-03
-- Wie viel kostet es? — 232.17661600000002 USD
+- Wie viel kostet es? — 232.591736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

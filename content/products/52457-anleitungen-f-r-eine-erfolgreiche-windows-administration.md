@@ -4,15 +4,15 @@ digistore24_product_id: 597498
 title: "Anleitungen für eine erfolgreiche Windows Administration"
 vendor: "MElsberger"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.18
+earnings_per_sale: 5.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2025-02-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/597498?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Anleitungen für eine erfolgreiche Windows Administration
 
 > Product ID `52457` · Digistore24 productId `597498` · [HTML profile page](../../produkte/anleitungen-f-r-eine-erfolgreiche-windows-administration-52457.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.18 |
+| Earnings/sale* | $5.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MElsberger |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anleitungen für eine erfolgreiche Windows Administration? — Typ: E-books, Anbieter: MElsberger, gelistet seit 2025-02-20
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

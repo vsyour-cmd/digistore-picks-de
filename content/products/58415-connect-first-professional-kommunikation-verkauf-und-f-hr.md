@@ -4,15 +4,15 @@ digistore24_product_id: 723002
 title: "CONNECT FIRST Professional – Kommunikation, Verkauf und Führ"
 vendor: "fischerundreichfc38"
 product_type: "Member area and video courses"
-price: 984.18
+price: 985.94
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 344.46
+earnings_per_sale: 345.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://connect-first-professional.akeshawarz22.chatgpt.site/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CONNECT FIRST Professional – Kommunikation, Verkauf und Führ
 
 > Product ID `58415` · Digistore24 productId `723002` · [HTML profile page](../../produkte/connect-first-professional-kommunikation-verkauf-und-f-hr-58415.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $984.18 (Single payment, Installment) |
+| Price | $985.94 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $344.46 |
+| Earnings/sale* | $345.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fischerundreichfc38 |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CONNECT FIRST Professional – Kommunikation, Verkauf und Führ? — Typ: Member area and video courses, Anbieter: fischerundreichfc38, gelistet seit 2026-08-17
-- Wie viel kostet es? — 984.1778380000001 USD
+- Wie viel kostet es? — 985.9374980000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

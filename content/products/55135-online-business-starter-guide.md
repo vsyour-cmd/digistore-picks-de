@@ -4,15 +4,15 @@ digistore24_product_id: 658902
 title: "Online Business Starter-Guide"
 vendor: "DigiHeld"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.4
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-01-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://internet-online-geldverdienen.de/e-book_kaufen.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Business Starter-Guide
 
 > Product ID `55135` · Digistore24 productId `658902` · [HTML profile page](../../produkte/online-business-starter-guide-55135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.40 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DigiHeld |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business Starter-Guide? — Typ: E-books, Anbieter: DigiHeld, gelistet seit 2026-01-04
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

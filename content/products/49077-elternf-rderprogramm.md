@@ -4,15 +4,15 @@ digistore24_product_id: 566922
 title: "Elternförderprogramm"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 749.46
+price: 750.8
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 74.95
+earnings_per_sale: 75.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2024-08-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexosophie-elterncoaching-2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Elternförderprogramm
 
 > Product ID `49077` · Digistore24 productId `566922` · [HTML profile page](../../produkte/elternf-rderprogramm-49077.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $749.46 (Single payment, Installment) |
+| Price | $750.80 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $74.95 |
+| Earnings/sale* | $75.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elternförderprogramm? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2024-08-25
-- Wie viel kostet es? — 749.462 USD
+- Wie viel kostet es? — 750.802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 300338
 title: "Der Social Media Erfolgsplan"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 446.32
+price: 447.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 223.16
+earnings_per_sale: 223.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2019-12-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/social-media-erfolgsplan?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Social Media Erfolgsplan
 
 > Product ID `51852` · Digistore24 productId `300338` · [HTML profile page](../../produkte/der-social-media-erfolgsplan-51852.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $446.32 (Single payment) |
+| Price | $447.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $223.16 |
+| Earnings/sale* | $223.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Social Media Erfolgsplan? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2019-12-18
-- Wie viel kostet es? — 446.32140000000004 USD
+- Wie viel kostet es? — 447.11940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

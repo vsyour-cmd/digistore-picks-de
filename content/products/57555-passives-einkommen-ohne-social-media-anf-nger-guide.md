@@ -4,15 +4,15 @@ digistore24_product_id: 710228
 title: "Passives Einkommen ohne Social Media – Anfänger Guide"
 vendor: "soudmohsin68cc4f"
 product_type: "E-books"
-price: 37.13
+price: 37.19
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13
+earnings_per_sale: 13.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/710228?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Passives Einkommen ohne Social Media – Anfänger Guide
 
 > Product ID `57555` · Digistore24 productId `710228` · [HTML profile page](../../produkte/passives-einkommen-ohne-social-media-anf-nger-guide-57555.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.13 (Single payment) |
+| Price | $37.19 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.00 |
+| Earnings/sale* | $13.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soudmohsin68cc4f |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passives Einkommen ohne Social Media – Anfänger Guide? — Typ: E-books, Anbieter: soudmohsin68cc4f, gelistet seit 2026-07-16
-- Wie viel kostet es? — 37.126334 USD
+- Wie viel kostet es? — 37.192714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

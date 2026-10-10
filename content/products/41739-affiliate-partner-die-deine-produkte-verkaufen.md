@@ -7,12 +7,12 @@ product_type: "Downloads"
 price: 0.17
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 5.5
+earnings_per_sale: 5.51
 cart_conversion_pct: 48
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-11-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/FNGNLgBvrxEwjMFk4?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Partner, die Deine Produkte verkaufen!
 
 > Product ID `41739` · Digistore24 productId `468518` · [HTML profile page](../../produkte/affiliate-partner-die-deine-produkte-verkaufen-41739.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.17 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $5.50 |
+| Earnings/sale* | $5.51 |
 | Cart conversion* | 48% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Partner, die Deine Produkte verkaufen!? — Typ: Downloads, Anbieter: Spekulatius, gelistet seit 2022-11-08
-- Wie viel kostet es? — 0.16779 USD
+- Wie viel kostet es? — 0.16809 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

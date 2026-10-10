@@ -4,15 +4,15 @@ digistore24_product_id: 515148
 title: "Englisch lernen mit der Sprachblock-Methode"
 vendor: "Sprachheld"
 product_type: "Member area and video courses"
-price: 126.35
+price: 126.57
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.33
+earnings_per_sale: 47.41
 cart_conversion_pct: 3
 cancel_rate_pct: 6.28
 categories: ["Languages"]
 listed_since: "2023-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.sprachheld.de/12-wochen-englisch-challenge/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Englisch lernen mit der Sprachblock-Methode
 
 > Product ID `45349` · Digistore24 productId `515148` · [HTML profile page](../../produkte/englisch-lernen-mit-der-sprachblock-methode-45349.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $126.35 (Single payment) |
+| Price | $126.57 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.33 |
+| Earnings/sale* | $47.41 |
 | Cart conversion* | 3% |
 | Cancel rate* | 6.28% |
 | Vendor | Sprachheld |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch lernen mit der Sprachblock-Methode? — Typ: Member area and video courses, Anbieter: Sprachheld, gelistet seit 2023-09-05
-- Wie viel kostet es? — 126.34587 USD
+- Wie viel kostet es? — 126.57177 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

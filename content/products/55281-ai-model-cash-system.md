@@ -4,15 +4,15 @@ digistore24_product_id: 662782
 title: "AI Model Cash System"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 15.68
+earnings_per_sale: 15.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/utgme8SJanh7EgQWf?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI Model Cash System
 
 > Product ID `55281` · Digistore24 productId `662782` · [HTML profile page](../../produkte/ai-model-cash-system-55281.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $15.68 |
+| Earnings/sale* | $15.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Model Cash System? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2026-01-20
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

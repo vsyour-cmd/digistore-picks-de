@@ -4,15 +4,15 @@ digistore24_product_id: 312437
 title: "Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige"
 vendor: "immlab"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.59
+earnings_per_sale: 45.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://produkte.immlab.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige
 
 > Product ID `32484` · Digistore24 productId `312437` · [HTML profile page](../../produkte/immobilien-onlinekurs-bundle-f-r-immobilien-hungrige-32484.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment, Subscription) |
+| Price | $91.34 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.59 |
+| Earnings/sale* | $45.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | immlab |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige? — Typ: Member area and video courses, Anbieter: immlab, gelistet seit 2020-03-12
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

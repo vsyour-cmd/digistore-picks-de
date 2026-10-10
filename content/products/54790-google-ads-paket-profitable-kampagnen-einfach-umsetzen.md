@@ -4,15 +4,15 @@ digistore24_product_id: 651637
 title: "Google Ads Paket – Profitable Kampagnen einfach umsetzen"
 vendor: "GrowthMarket24"
 product_type: "E-books"
-price: 99.32
+price: 99.5
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 39.73
+earnings_per_sale: 39.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing","Sales Training"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/651637?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Google Ads Paket – Profitable Kampagnen einfach umsetzen
 
 > Product ID `54790` · Digistore24 productId `651637` · [HTML profile page](../../produkte/google-ads-paket-profitable-kampagnen-einfach-umsetzen-54790.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $99.32 (Single payment) |
+| Price | $99.50 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $39.73 |
+| Earnings/sale* | $39.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GrowthMarket24 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Google Ads Paket – Profitable Kampagnen einfach umsetzen? — Typ: E-books, Anbieter: GrowthMarket24, gelistet seit 2025-11-28
-- Wie viel kostet es? — 99.32049400000001 USD
+- Wie viel kostet es? — 99.49807400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

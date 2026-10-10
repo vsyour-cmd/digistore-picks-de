@@ -4,7 +4,7 @@ digistore24_product_id: 491217
 title: "e-Book Einstieg in die Glutenfreie Ernährung"
 vendor: "gesundheitsglueck"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2023-03-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/491217?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # e-Book Einstieg in die Glutenfreie Ernährung
 
 > Product ID `45675` · Digistore24 productId `491217` · [HTML profile page](../../produkte/e-book-einstieg-in-die-glutenfreie-ern-hrung-45675.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist e-Book Einstieg in die Glutenfreie Ernährung? — Typ: E-books, Anbieter: gesundheitsglueck, gelistet seit 2023-03-27
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

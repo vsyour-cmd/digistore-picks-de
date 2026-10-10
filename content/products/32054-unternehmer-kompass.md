@@ -4,15 +4,15 @@ digistore24_product_id: 303498
 title: "Unternehmer Kompass"
 vendor: "FischerAcademy"
 product_type: "Member area and video courses"
-price: 281.06
+price: 281.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.53
+earnings_per_sale: 140.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-01-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Unternehmer Kompass
 
 > Product ID `32054` · Digistore24 productId `303498` · [HTML profile page](../../produkte/unternehmer-kompass-32054.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.06 (Single payment, Installment) |
+| Price | $281.56 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.53 |
+| Earnings/sale* | $140.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FischerAcademy |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unternehmer Kompass? — Typ: Member area and video courses, Anbieter: FischerAcademy, gelistet seit 2020-01-16
-- Wie viel kostet es? — 281.059436 USD
+- Wie viel kostet es? — 281.561956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

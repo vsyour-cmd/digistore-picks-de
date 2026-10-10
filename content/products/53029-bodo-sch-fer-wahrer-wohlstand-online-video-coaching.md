@@ -4,15 +4,15 @@ digistore24_product_id: 619337
 title: "Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)"
 vendor: "BodoSchaefer"
 product_type: "Member area and video courses"
-price: 608.18
+price: 609.27
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 121.64
+earnings_per_sale: 121.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://millionaer7.de/wahrer-wohlstand-aff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)
 
 > Product ID `53029` · Digistore24 productId `619337` · [HTML profile page](../../produkte/bodo-sch-fer-wahrer-wohlstand-online-video-coaching-53029.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $608.18 (Single payment) |
+| Price | $609.27 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $121.64 |
+| Earnings/sale* | $121.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BodoSchaefer |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)? — Typ: Member area and video courses, Anbieter: BodoSchaefer, gelistet seit 2025-06-18
-- Wie viel kostet es? — 608.1828200000001 USD
+- Wie viel kostet es? — 609.2702200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 685825
 title: "Nie wieder langweilige Dates - Date-Ideen von A bis Z"
 vendor: "Freifone"
 product_type: "E-books"
-price: 15.63
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.82
+earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-04-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/nie-wieder-langweilige-dates?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nie wieder langweilige Dates - Date-Ideen von A bis Z
 
 > Product ID `56318` · Digistore24 productId `685825` · [HTML profile page](../../produkte/nie-wieder-langweilige-dates-date-ideen-von-a-bis-z-56318.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.63 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie wieder langweilige Dates - Date-Ideen von A bis Z? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-19
-- Wie viel kostet es? — 15.626842000000002 USD
+- Wie viel kostet es? — 15.654782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

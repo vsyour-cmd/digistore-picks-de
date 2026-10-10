@@ -4,7 +4,7 @@ digistore24_product_id: 324309
 title: "Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Book (printed)"
-price: 2.39
+price: 2.4
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.46
@@ -12,7 +12,7 @@ cart_conversion_pct: 39
 cancel_rate_pct: 4.72
 categories: ["Personal Development"]
 listed_since: "2020-05-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gelddasbuch.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler
 
 > Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../produkte/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $2.39 (Single payment) |
+| Price | $2.40 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.46 |
 | Cart conversion* | 39% |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler? — Typ: Book (printed), Anbieter: GTK-littlefreilich, gelistet seit 2020-05-01
-- Wie viel kostet es? — 2.3938040000000003 USD
+- Wie viel kostet es? — 2.3980840000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

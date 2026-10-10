@@ -4,15 +4,15 @@ digistore24_product_id: 708735
 title: "Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)"
 vendor: "diepraxisfamily"
 product_type: "Member area and video courses"
-price: 8356.6
+price: 8371.54
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 223.72
+earnings_per_sale: 224.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/708735?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)
 
 > Product ID `57550` · Digistore24 productId `708735` · [HTML profile page](../../produkte/regulations-coach-pro-zfu-zertifizierte-fernausbildung-selbstlernprogramm-57550.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $8356.60 (Single payment) |
+| Price | $8371.54 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $223.72 |
+| Earnings/sale* | $224.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | diepraxisfamily |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)? — Typ: Member area and video courses, Anbieter: diepraxisfamily, gelistet seit 2026-07-15
-- Wie viel kostet es? — 8356.601974000001 USD
+- Wie viel kostet es? — 8371.543154 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

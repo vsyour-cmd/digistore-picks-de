@@ -4,15 +4,15 @@ digistore24_product_id: 666177
 title: "RESET 100 Tage zurück zu innerer Stärke"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 46.99
+price: 47.08
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.79
+earnings_per_sale: 18.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666177?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # RESET 100 Tage zurück zu innerer Stärke
 
 > Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../produkte/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.99 (Single payment) |
+| Price | $47.08 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.79 |
+| Earnings/sale* | $18.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RESET 100 Tage zurück zu innerer Stärke? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2026-02-03
-- Wie viel kostet es? — 46.992385999999996 USD
+- Wie viel kostet es? — 47.076406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

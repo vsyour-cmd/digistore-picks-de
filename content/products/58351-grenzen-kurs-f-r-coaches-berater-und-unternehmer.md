@@ -4,15 +4,15 @@ digistore24_product_id: 720608
 title: "Grenzen-Kurs für Coaches, Berater und Unternehmer"
 vendor: "beatelindemann"
 product_type: "Member area and video courses"
-price: 420.18
+price: 420.93
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 168.07
+earnings_per_sale: 168.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beate-lindemann.systeme.io/klare-grenzen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Grenzen-Kurs für Coaches, Berater und Unternehmer
 
 > Product ID `58351` · Digistore24 productId `720608` · [HTML profile page](../../produkte/grenzen-kurs-f-r-coaches-berater-und-unternehmer-58351.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $420.18 (Single payment, Installment) |
+| Price | $420.93 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $168.07 |
+| Earnings/sale* | $168.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | beatelindemann |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grenzen-Kurs für Coaches, Berater und Unternehmer? — Typ: Member area and video courses, Anbieter: beatelindemann, gelistet seit 2026-08-14
-- Wie viel kostet es? — 420.17971800000004 USD
+- Wie viel kostet es? — 420.930978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

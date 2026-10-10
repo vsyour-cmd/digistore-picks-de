@@ -4,15 +4,15 @@ digistore24_product_id: 690595
 title: "50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 7.51
+price: 7.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.76
+earnings_per_sale: 3.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-05-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/band-1-bundle-die-angst-nicht-gut-genug-zu-sein/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte
 
 > Product ID `56609` · Digistore24 productId `690595` · [HTML profile page](../../produkte/50-5-sub-40-hochrelevante-angst-frei-produkte-56609.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.51 (Single payment) |
+| Price | $7.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.76 |
+| Earnings/sale* | $3.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Seelendank |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% + 5% Sub: 40 hochrelevante Angst-frei-Produkte? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-05-19
-- Wie viel kostet es? — 7.505806000000001 USD
+- Wie viel kostet es? — 7.519226000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

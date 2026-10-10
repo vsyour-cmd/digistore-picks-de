@@ -4,15 +4,15 @@ digistore24_product_id: 202637
 title: "10 Checklisten für Ihren klaren Ausdruck"
 vendor: "ThiloBaum"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.65
+earnings_per_sale: 4.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10 Checklisten für Ihren klaren Ausdruck
 
 > Product ID `28842` · Digistore24 productId `202637` · [HTML profile page](../../produkte/10-checklisten-f-r-ihren-klaren-ausdruck-28842.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.65 |
+| Earnings/sale* | $4.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThiloBaum |
@@ -65,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 Checklisten für Ihren klaren Ausdruck? — Typ: Downloads, Anbieter: ThiloBaum, gelistet seit 2018-02-20
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

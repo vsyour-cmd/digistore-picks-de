@@ -4,7 +4,7 @@ digistore24_product_id: 738837
 title: "99 Social-Media-Prompts für Claude"
 vendor: "AlcaAzar5f7"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://nine-to-never.systeme.io/bb724170?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 99 Social-Media-Prompts für Claude
 
 > Product ID `60051` · Digistore24 productId `738837` · [HTML profile page](../../produkte/99-social-media-prompts-f-r-claude-60051.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Social-Media-Prompts für Claude? — Typ: Downloads, Anbieter: AlcaAzar5f7, gelistet seit 2026-09-30
-- Wie viel kostet es? — 9.385054 USD
+- Wie viel kostet es? — 9.401834000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

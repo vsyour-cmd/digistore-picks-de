@@ -4,15 +4,15 @@ digistore24_product_id: 637957
 title: "FLÜGELZART - in 21 Tagen genährt und gehalten bei dir"
 vendor: "jennifersubke"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.61
+earnings_per_sale: 18.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/637957?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FLÜGELZART - in 21 Tagen genährt und gehalten bei dir
 
 > Product ID `60306` · Digistore24 productId `637957` · [HTML profile page](../../produkte/fl-gelzart-in-21-tagen-gen-hrt-und-gehalten-bei-dir-60306.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.61 |
+| Earnings/sale* | $18.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jennifersubke |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FLÜGELZART - in 21 Tagen genährt und gehalten bei dir? — Typ: Member area and video courses, Anbieter: jennifersubke, gelistet seit 2026-10-07
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

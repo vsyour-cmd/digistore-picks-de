@@ -4,15 +4,15 @@ digistore24_product_id: 673947
 title: "Audi Q7 Luftfederung Diagnose Guide und Fehler finden"
 vendor: "infod31e"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.02
+earnings_per_sale: 13.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/673947?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Audi Q7 Luftfederung Diagnose Guide und Fehler finden
 
 > Product ID `55802` · Digistore24 productId `673947` · [HTML profile page](../../produkte/audi-q7-luftfederung-diagnose-guide-und-fehler-finden-55802.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.02 |
+| Earnings/sale* | $13.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infod31e |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audi Q7 Luftfederung Diagnose Guide und Fehler finden? — Typ: E-books, Anbieter: infod31e, gelistet seit 2026-03-05
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

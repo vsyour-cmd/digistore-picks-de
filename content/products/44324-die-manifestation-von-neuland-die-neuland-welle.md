@@ -4,15 +4,15 @@ digistore24_product_id: 499575
 title: "Die Manifestation von NeuLand​ + Die NeuLand Welle"
 vendor: "jwalaundkarlgamper"
 product_type: "Downloads"
-price: 921.2
+price: 922.85
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 184.24
+earnings_per_sale: 184.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-05-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/499575?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Manifestation von NeuLand​ + Die NeuLand Welle
 
 > Product ID `44324` · Digistore24 productId `499575` · [HTML profile page](../../produkte/die-manifestation-von-neuland-die-neuland-welle-44324.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $921.20 (Single payment) |
+| Price | $922.85 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $184.24 |
+| Earnings/sale* | $184.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jwalaundkarlgamper |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Manifestation von NeuLand​ + Die NeuLand Welle? — Typ: Downloads, Anbieter: jwalaundkarlgamper, gelistet seit 2023-05-19
-- Wie viel kostet es? — 921.200658 USD
+- Wie viel kostet es? — 922.847718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

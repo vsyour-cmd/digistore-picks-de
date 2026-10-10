@@ -4,15 +4,15 @@ digistore24_product_id: 234476
 title: "Buch Bedingungslose Finanzielle Freiheit"
 vendor: "Cleriker"
 product_type: "Book (printed)"
-price: 5.21
+price: 5.22
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 5.21
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2018-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/buch-bedingungslose-finanzielle-freiheit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch Bedingungslose Finanzielle Freiheit
 
 > Product ID `26019` · Digistore24 productId `234476` · [HTML profile page](../../produkte/buch-bedingungslose-finanzielle-freiheit-26019.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $5.21 (Single payment) |
+| Price | $5.22 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $5.21 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch Bedingungslose Finanzielle Freiheit? — Typ: Book (printed), Anbieter: Cleriker, gelistet seit 2018-07-25
-- Wie viel kostet es? — 5.212676 USD
+- Wie viel kostet es? — 5.221996000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 711087
 title: "Mini-Schlaf-Guide"
 vendor: "markuskorn5700"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.mini-guides.info?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Mini-Schlaf-Guide
 
 > Product ID `58847` · Digistore24 productId `711087` · [HTML profile page](../../produkte/mini-schlaf-guide-58847.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.68 |
 | Cart conversion* | — |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini-Schlaf-Guide? — Typ: E-books, Anbieter: markuskorn5700, gelistet seit 2026-09-01
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

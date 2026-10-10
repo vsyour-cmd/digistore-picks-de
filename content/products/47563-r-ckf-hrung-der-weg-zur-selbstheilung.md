@@ -4,15 +4,15 @@ digistore24_product_id: 531731
 title: "Rückführung - Der Weg zur Selbstheilung"
 vendor: "ElenaSeeKraft"
 product_type: "Book (printed)"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2023-12-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rückführung - Der Weg zur Selbstheilung
 
 > Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../produkte/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ElenaSeeKraft |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückführung - Der Weg zur Selbstheilung? — Typ: Book (printed), Anbieter: ElenaSeeKraft, gelistet seit 2023-12-28
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

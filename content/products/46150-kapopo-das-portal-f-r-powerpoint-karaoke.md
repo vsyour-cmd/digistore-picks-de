@@ -4,7 +4,7 @@ digistore24_product_id: 477995
 title: "KAPOPO - Das Portal für PowerPoint Karaoke"
 vendor: "sndgmedia"
 product_type: "Member area and video courses"
-price: 33.56
+price: 33.62
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.59
@@ -12,7 +12,7 @@ cart_conversion_pct: 36
 cancel_rate_pct: 0.83
 categories: ["Fun & Games","Software"]
 listed_since: "2023-01-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kapopo.de/preise/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # KAPOPO - Das Portal für PowerPoint Karaoke
 
 > Product ID `46150` · Digistore24 productId `477995` · [HTML profile page](../../produkte/kapopo-das-portal-f-r-powerpoint-karaoke-46150.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.56 (Subscription) |
+| Price | $33.62 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.59 |
 | Cart conversion* | 36% |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KAPOPO - Das Portal für PowerPoint Karaoke? — Typ: Member area and video courses, Anbieter: sndgmedia, gelistet seit 2023-01-06
-- Wie viel kostet es? — 33.558 USD
+- Wie viel kostet es? — 33.618 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

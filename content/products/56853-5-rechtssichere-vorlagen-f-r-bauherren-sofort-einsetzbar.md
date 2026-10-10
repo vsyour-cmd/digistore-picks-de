@@ -4,15 +4,15 @@ digistore24_product_id: 697963
 title: "5 rechtssichere Vorlagen für Bauherren – sofort einsetzbar"
 vendor: "infoc416"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.02
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://bauherren-paket.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 5 rechtssichere Vorlagen für Bauherren – sofort einsetzbar
 
 > Product ID `56853` · Digistore24 productId `697963` · [HTML profile page](../../produkte/5-rechtssichere-vorlagen-f-r-bauherren-sofort-einsetzbar-56853.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infoc416 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5 rechtssichere Vorlagen für Bauherren – sofort einsetzbar? — Typ: Downloads, Anbieter: infoc416, gelistet seit 2026-06-10
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 729669
 title: "eBook - Mit KI Ordnung schaffen"
 vendor: "dejo777"
 product_type: "E-books"
-price: 13.58
+price: 13.6
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.07
+earnings_per_sale: 4.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.softpac.de/cms/D24-affiliate-ebook-mit-ki-ordnung-schaffen.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eBook - Mit KI Ordnung schaffen
 
 > Product ID `58917` · Digistore24 productId `729669` · [HTML profile page](../../produkte/ebook-mit-ki-ordnung-schaffen-58917.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.58 (Single payment) |
+| Price | $13.60 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.07 |
+| Earnings/sale* | $4.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dejo777 |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Mit KI Ordnung schaffen? — Typ: E-books, Anbieter: dejo777, gelistet seit 2026-09-04
-- Wie viel kostet es? — 13.579804000000001 USD
+- Wie viel kostet es? — 13.604084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

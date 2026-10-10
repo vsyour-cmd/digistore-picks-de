@@ -4,15 +4,15 @@ digistore24_product_id: 684873
 title: "Kaloriendefizit leicht gemacht - Einfach abnehmen"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.54
+price: 13.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.77
+earnings_per_sale: 6.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/kaloriendefizit?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kaloriendefizit leicht gemacht - Einfach abnehmen
 
 > Product ID `56302` · Digistore24 productId `684873` · [HTML profile page](../../produkte/kaloriendefizit-leicht-gemacht-einfach-abnehmen-56302.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.54 (Single payment) |
+| Price | $13.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.77 |
+| Earnings/sale* | $6.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kaloriendefizit leicht gemacht - Einfach abnehmen? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-15
-- Wie viel kostet es? — 13.53506 USD
+- Wie viel kostet es? — 13.55926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 532258
 title: "Kräuterheilmittel für Frauenleiden"
 vendor: "Bauchkompass"
 product_type: "E-books"
-price: 10.96
+price: 10.98
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 1.64
+earnings_per_sale: 1.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Food Supplements"]
 listed_since: "2024-01-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/532258?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kräuterheilmittel für Frauenleiden
 
 > Product ID `46719` · Digistore24 productId `532258` · [HTML profile page](../../produkte/kr-uterheilmittel-f-r-frauenleiden-46719.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.96 (Single payment) |
+| Price | $10.98 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $1.64 |
+| Earnings/sale* | $1.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bauchkompass |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kräuterheilmittel für Frauenleiden? — Typ: E-books, Anbieter: Bauchkompass, gelistet seit 2024-01-01
-- Wie viel kostet es? — 10.962280000000002 USD
+- Wie viel kostet es? — 10.98188 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

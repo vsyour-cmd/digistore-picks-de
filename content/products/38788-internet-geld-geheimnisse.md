@@ -4,15 +4,15 @@ digistore24_product_id: 422807
 title: "Internet Geld Geheimnisse"
 vendor: "CyrilCash"
 product_type: "Downloads"
-price: 207.91
+price: 208.29
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 151.95
+earnings_per_sale: 152.22
 cart_conversion_pct: 8
 cancel_rate_pct: 2.04
 categories: ["Computer & Internet"]
 listed_since: "2022-01-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://app-cash-system.de/social/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Internet Geld Geheimnisse
 
 > Product ID `38788` · Digistore24 productId `422807` · [HTML profile page](../../produkte/internet-geld-geheimnisse-38788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $207.91 (Single payment) |
+| Price | $208.29 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $151.95 |
+| Earnings/sale* | $152.22 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.04% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Internet Geld Geheimnisse? — Typ: Downloads, Anbieter: CyrilCash, gelistet seit 2022-01-02
-- Wie viel kostet es? — 207.914182 USD
+- Wie viel kostet es? — 208.285922 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

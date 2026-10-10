@@ -4,15 +4,15 @@ digistore24_product_id: 285007
 title: "Gesund werden mit Heilpflanzen Teile 1 + 2 + 3"
 vendor: "aquarius"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.7
+earnings_per_sale: 12.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://pflanzenmedizin.phytocontentus.eu/landingpage/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gesund werden mit Heilpflanzen Teile 1 + 2 + 3
 
 > Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../produkte/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.70 |
+| Earnings/sale* | $12.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aquarius |
@@ -64,7 +64,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesund werden mit Heilpflanzen Teile 1 + 2 + 3? — Typ: Downloads, Anbieter: aquarius, gelistet seit 2019-09-01
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

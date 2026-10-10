@@ -4,15 +4,15 @@ digistore24_product_id: 672563
 title: "Das große Mentoring Paket für Hinterbliebene"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 41.13
+price: 41.2
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 142.76
+earnings_per_sale: 143.01
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2026-03-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/672563/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Mentoring Paket für Hinterbliebene
 
 > Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.13 (Single payment, Installment) |
+| Price | $41.20 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $142.76 |
+| Earnings/sale* | $143.01 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Mentoring Paket für Hinterbliebene? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-03-01
-- Wie viel kostet es? — 41.130922000000005 USD
+- Wie viel kostet es? — 41.20446200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

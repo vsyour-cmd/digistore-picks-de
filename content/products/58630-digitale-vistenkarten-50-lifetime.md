@@ -4,15 +4,15 @@ digistore24_product_id: 723280
 title: "Digitale Vistenkarten - 50% Lifetime"
 vendor: "digital-railways"
 product_type: "Software"
-price: 253.8
+price: 254.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 126.91
+earnings_per_sale: 127.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kontaktkarte.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Vistenkarten - 50% Lifetime
 
 > Product ID `58630` · Digistore24 productId `723280` · [HTML profile page](../../produkte/digitale-vistenkarten-50-lifetime-58630.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $253.80 (Subscription) |
+| Price | $254.25 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $126.91 |
+| Earnings/sale* | $127.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digital-railways |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Vistenkarten - 50% Lifetime? — Typ: Software, Anbieter: digital-railways, gelistet seit 2026-08-24
-- Wie viel kostet es? — 253.799154 USD
+- Wie viel kostet es? — 254.25293399999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 305284
 title: "Silent Subliminals ULTRA Paket"
 vendor: "newdimension"
 product_type: "Software"
-price: 112.69
+price: 112.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.12
+earnings_per_sale: 32.17
 cart_conversion_pct: 5
 cancel_rate_pct: 4.19
 categories: ["Personal Development"]
 listed_since: "2020-01-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://silent-subliminals.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Silent Subliminals ULTRA Paket
 
 > Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../produkte/silent-subliminals-ultra-paket-46819.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $112.69 (Single payment) |
+| Price | $112.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.12 |
+| Earnings/sale* | $32.17 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.19% |
 | Vendor | newdimension |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals ULTRA Paket? — Typ: Software, Anbieter: newdimension, gelistet seit 2020-01-26
-- Wie viel kostet es? — 112.687764 USD
+- Wie viel kostet es? — 112.889244 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

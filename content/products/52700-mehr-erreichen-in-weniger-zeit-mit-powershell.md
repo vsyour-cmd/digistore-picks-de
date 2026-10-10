@@ -4,15 +4,15 @@ digistore24_product_id: 615123
 title: "Mehr erreichen in weniger Zeit – mit PowerShell"
 vendor: "MElsberger"
 product_type: "E-books"
-price: 8.26
+price: 8.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.13
+earnings_per_sale: 4.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/615123?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr erreichen in weniger Zeit – mit PowerShell
 
 > Product ID `52700` · Digistore24 productId `615123` · [HTML profile page](../../produkte/mehr-erreichen-in-weniger-zeit-mit-powershell-52700.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.26 (Single payment) |
+| Price | $8.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.13 |
+| Earnings/sale* | $4.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MElsberger |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr erreichen in weniger Zeit – mit PowerShell? — Typ: E-books, Anbieter: MElsberger, gelistet seit 2025-05-27
-- Wie viel kostet es? — 8.255268000000001 USD
+- Wie viel kostet es? — 8.270028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

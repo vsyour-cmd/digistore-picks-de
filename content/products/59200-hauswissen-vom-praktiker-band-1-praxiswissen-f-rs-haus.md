@@ -4,15 +4,15 @@ digistore24_product_id: 711257
 title: "Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus"
 vendor: "jrings30da"
 product_type: "E-books"
-price: 13.49
+price: 13.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.39
+earnings_per_sale: 5.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://all-in-one-aw.de/hauswissen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus
 
 > Product ID `59200` · Digistore24 productId `711257` · [HTML profile page](../../produkte/hauswissen-vom-praktiker-band-1-praxiswissen-f-rs-haus-59200.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.49 (Single payment) |
+| Price | $13.51 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.39 |
+| Earnings/sale* | $5.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jrings30da |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus? — Typ: E-books, Anbieter: jrings30da, gelistet seit 2026-09-13
-- Wie viel kostet es? — 13.490316000000002 USD
+- Wie viel kostet es? — 13.514436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

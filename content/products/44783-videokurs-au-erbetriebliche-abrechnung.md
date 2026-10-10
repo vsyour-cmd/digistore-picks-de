@@ -4,15 +4,15 @@ digistore24_product_id: 507243
 title: "Videokurs: Außerbetriebliche Abrechnung"
 vendor: "Steinkellner"
 product_type: "Member area and video courses"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 7.45
+earnings_per_sale: 7.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2023-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.lern-impuls.at/ausserbetriebliche-abrechnung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs: Außerbetriebliche Abrechnung
 
 > Product ID `44783` · Digistore24 productId `507243` · [HTML profile page](../../produkte/videokurs-au-erbetriebliche-abrechnung-44783.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $7.45 |
+| Earnings/sale* | $7.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steinkellner |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Außerbetriebliche Abrechnung? — Typ: Member area and video courses, Anbieter: Steinkellner, gelistet seit 2023-07-13
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

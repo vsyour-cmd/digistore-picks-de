@@ -4,15 +4,15 @@ digistore24_product_id: 676081
 title: "Microsoft Office 2024 Professional Plus"
 vendor: "info6f32"
 product_type: "Software"
-price: 122.11
+price: 122.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.63
+earnings_per_sale: 36.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-03-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676081?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Microsoft Office 2024 Professional Plus
 
 > Product ID `55892` · Digistore24 productId `676081` · [HTML profile page](../../produkte/microsoft-office-2024-professional-plus-55892.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $122.11 (Single payment) |
+| Price | $122.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.63 |
+| Earnings/sale* | $36.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info6f32 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Office 2024 Professional Plus? — Typ: Software, Anbieter: info6f32, gelistet seit 2026-03-13
-- Wie viel kostet es? — 122.106376 USD
+- Wie viel kostet es? — 122.324696 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 507625
 title: "Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung"
 vendor: "DTNSCHTZ"
 product_type: "Downloads"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.52
+earnings_per_sale: 11.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2023-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/507625?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung
 
 > Product ID `44765` · Digistore24 productId `507625` · [HTML profile page](../../produkte/datenschutz-dsgvo-mitarbeiter-schulung-sensibilisierung-44765.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.52 |
+| Earnings/sale* | $11.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DTNSCHTZ |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Datenschutz DSGVO Mitarbeiter Schulung Sensibilisierung? — Typ: Downloads, Anbieter: DTNSCHTZ, gelistet seit 2023-07-16
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

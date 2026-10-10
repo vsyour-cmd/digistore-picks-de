@@ -4,15 +4,15 @@ digistore24_product_id: 729781
 title: "E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein"
 vendor: "lvlBoZzlvl"
 product_type: "Software"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://e-rechnung-kit.pages.dev/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein
 
 > Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../produkte/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein? — Typ: Software, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-10
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

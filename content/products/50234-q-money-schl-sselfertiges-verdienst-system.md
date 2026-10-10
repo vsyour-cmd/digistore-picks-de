@@ -4,15 +4,15 @@ digistore24_product_id: 582847
 title: "Q-Money - Schlüsselfertiges Verdienst-System"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.45
+price: 141.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.28
+earnings_per_sale: 86.43
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-11-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.q-money.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Q-Money - Schlüsselfertiges Verdienst-System
 
 > Product ID `50234` · Digistore24 productId `582847` · [HTML profile page](../../produkte/q-money-schl-sselfertiges-verdienst-system-50234.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.45 (Single payment, Installment) |
+| Price | $141.70 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.28 |
+| Earnings/sale* | $86.43 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Q-Money - Schlüsselfertiges Verdienst-System? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-11-26
-- Wie viel kostet es? — 141.44697000000002 USD
+- Wie viel kostet es? — 141.69987 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

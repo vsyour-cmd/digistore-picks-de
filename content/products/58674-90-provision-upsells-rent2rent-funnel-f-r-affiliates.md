@@ -4,15 +4,15 @@ digistore24_product_id: 628360
 title: "90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates"
 vendor: "ericpromm"
 product_type: "Book (printed)"
-price: 7.27
+price: 7.28
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 6.54
+earnings_per_sale: 6.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Real Estate"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://promm.de/buch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates
 
 > Product ID `58674` · Digistore24 productId `628360` · [HTML profile page](../../produkte/90-provision-upsells-rent2rent-funnel-f-r-affiliates-58674.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.27 (Single payment) |
+| Price | $7.28 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $6.54 |
+| Earnings/sale* | $6.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ericpromm |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 90 % Provision + Upsells: Rent2Rent-Funnel für Affiliates? — Typ: Book (printed), Anbieter: ericpromm, gelistet seit 2026-08-26
-- Wie viel kostet es? — 7.2709 USD
+- Wie viel kostet es? — 7.2839 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

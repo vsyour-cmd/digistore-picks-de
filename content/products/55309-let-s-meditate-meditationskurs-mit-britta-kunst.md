@@ -4,15 +4,15 @@ digistore24_product_id: 603639
 title: "Let's Meditate Meditationskurs mit Britta Kunst"
 vendor: "BrittaKunst"
 product_type: "Member area and video courses"
-price: 177.66
+price: 177.97
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 44.42
+earnings_per_sale: 44.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://britta-kunst.app.mentortools.com/lets-meditate?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Let's Meditate Meditationskurs mit Britta Kunst
 
 > Product ID `55309` · Digistore24 productId `603639` · [HTML profile page](../../produkte/let-s-meditate-meditationskurs-mit-britta-kunst-55309.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $177.66 (Single payment) |
+| Price | $177.97 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $44.42 |
+| Earnings/sale* | $44.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BrittaKunst |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Let's Meditate Meditationskurs mit Britta Kunst? — Typ: Member area and video courses, Anbieter: BrittaKunst, gelistet seit 2025-03-25
-- Wie viel kostet es? — 177.656052 USD
+- Wie viel kostet es? — 177.973692 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

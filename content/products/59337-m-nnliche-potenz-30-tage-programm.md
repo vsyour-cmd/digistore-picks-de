@@ -4,15 +4,15 @@ digistore24_product_id: 733993
 title: "Männliche Potenz – 30-Tage-Programm"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 63
-earnings_per_sale: 21.91
+earnings_per_sale: 21.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://potenz-programm.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Männliche Potenz – 30-Tage-Programm
 
 > Product ID `59337` · Digistore24 productId `733993` · [HTML profile page](../../produkte/m-nnliche-potenz-30-tage-programm-59337.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 63% |
-| Earnings/sale* | $21.91 |
+| Earnings/sale* | $21.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Männliche Potenz – 30-Tage-Programm? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-09-17
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

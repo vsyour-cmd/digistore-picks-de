@@ -4,15 +4,15 @@ digistore24_product_id: 449008
 title: "E-Book: \"Babys Tage meistern\""
 vendor: "babyschlummerland"
 product_type: "E-books"
-price: 28.59
+price: 28.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.38
+earnings_per_sale: 6.39
 cart_conversion_pct: 8
 cancel_rate_pct: 1.86
 categories: ["Family & Children"]
 listed_since: "2022-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: "Babys Tage meistern"
 
 > Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../produkte/e-book-babys-tage-meistern-48660.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.59 (Single payment) |
+| Price | $28.64 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.38 |
+| Earnings/sale* | $6.39 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.86% |
 | Vendor | babyschlummerland |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: "Babys Tage meistern"? — Typ: E-books, Anbieter: babyschlummerland, gelistet seit 2022-06-29
-- Wie viel kostet es? — 28.591416 USD
+- Wie viel kostet es? — 28.642536 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

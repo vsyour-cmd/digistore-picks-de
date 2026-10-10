@@ -4,15 +4,15 @@ digistore24_product_id: 123139
 title: "Optionsstrategien für die Praxis ( Buch )"
 vendor: "r2finance"
 product_type: "Book (printed)"
-price: 36.49
+price: 36.55
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.95
+earnings_per_sale: 10.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-03-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/123139?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Optionsstrategien für die Praxis ( Buch )
 
 > Product ID `24063` · Digistore24 productId `123139` · [HTML profile page](../../produkte/optionsstrategien-f-r-die-praxis-buch-24063.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $36.49 (Single payment) |
+| Price | $36.55 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.95 |
+| Earnings/sale* | $10.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | r2finance |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Optionsstrategien für die Praxis ( Buch )? — Typ: Book (printed), Anbieter: r2finance, gelistet seit 2017-03-02
-- Wie viel kostet es? — 36.488732 USD
+- Wie viel kostet es? — 36.553972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

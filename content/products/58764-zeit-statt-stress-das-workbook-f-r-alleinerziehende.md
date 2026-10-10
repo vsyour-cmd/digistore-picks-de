@@ -4,15 +4,15 @@ digistore24_product_id: 697048
 title: "Zeit statt Stress – Das Workbook für Alleinerziehende"
 vendor: "Kuechen-Otto"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.93
+earnings_per_sale: 9.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://zeitstattstress.petraotto.de/verkaufsseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zeit statt Stress – Das Workbook für Alleinerziehende
 
 > Product ID `58764` · Digistore24 productId `697048` · [HTML profile page](../../produkte/zeit-statt-stress-das-workbook-f-r-alleinerziehende-58764.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.93 |
+| Earnings/sale* | $9.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kuechen-Otto |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeit statt Stress – Das Workbook für Alleinerziehende? — Typ: E-books, Anbieter: Kuechen-Otto, gelistet seit 2026-08-29
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

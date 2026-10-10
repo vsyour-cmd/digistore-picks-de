@@ -4,15 +4,15 @@ digistore24_product_id: 50399
 title: "Geldcoaching-Kurse Gesamtpaket PLUS"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 104.34
+price: 104.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 52.17
+earnings_per_sale: 52.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-05-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geldcoaching-Kurse Gesamtpaket PLUS
 
 > Product ID `12457` · Digistore24 productId `50399` · [HTML profile page](../../produkte/geldcoaching-kurse-gesamtpaket-plus-12457.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $104.34 (Single payment, Installment) |
+| Price | $104.53 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $52.17 |
+| Earnings/sale* | $52.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geldcoaching-Kurse Gesamtpaket PLUS? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2015-05-29
-- Wie viel kostet es? — 104.34300800000001 USD
+- Wie viel kostet es? — 104.52956800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

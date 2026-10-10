@@ -4,15 +4,15 @@ digistore24_product_id: 681767
 title: "50% Provision: \"Die Profil Blaupause\" (No-Brainer + Upsells)"
 vendor: "SiNagel01"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-04-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://die-profil-blaupause.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: "Die Profil Blaupause" (No-Brainer + Upsells)
 
 > Product ID `56508` · Digistore24 productId `681767` · [HTML profile page](../../produkte/50-provision-die-profil-blaupause-no-brainer-upsells-56508.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SiNagel01 |
@@ -62,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: "Die Profil Blaupause" (No-Brainer + Upsells)? — Typ: E-books, Anbieter: SiNagel01, gelistet seit 2026-04-02
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 720782
 title: "Senioren-Handyhilfe 60+: Android-E-Book, 50 % Provision"
 vendor: "GewinnWerk"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.22
+earnings_per_sale: 5.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720782?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Senioren-Handyhilfe 60+: Android-E-Book, 50 % Provision
 
 > Product ID `58393` · Digistore24 productId `720782` · [HTML profile page](../../produkte/senioren-handyhilfe-60-android-e-book-50-provision-58393.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.22 |
+| Earnings/sale* | $5.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GewinnWerk |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Senioren-Handyhilfe 60+: Android-E-Book, 50 % Provision? — Typ: E-books, Anbieter: GewinnWerk, gelistet seit 2026-08-16
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

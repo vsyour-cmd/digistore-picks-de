@@ -4,15 +4,15 @@ digistore24_product_id: 289005
 title: "GELD: Monatsübersicht erstellen | Vorlage und Anleitung"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 53.58
+price: 53.68
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 14.69
+earnings_per_sale: 14.71
 cart_conversion_pct: 9
 cancel_rate_pct: 5.08
 categories: ["Education"]
 listed_since: "2019-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GELD: Monatsübersicht erstellen | Vorlage und Anleitung
 
 > Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../produkte/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $53.58 (Single payment, Installment) |
+| Price | $53.68 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $14.69 |
+| Earnings/sale* | $14.71 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.08% |
 | Vendor | NilsWarnecke |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GELD: Monatsübersicht erstellen | Vorlage und Anleitung? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2019-10-02
-- Wie viel kostet es? — 53.58094 USD
+- Wie viel kostet es? — 53.67674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

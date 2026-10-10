@@ -4,15 +4,15 @@ digistore24_product_id: 269752
 title: "Golf-Success Mental-Training"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 38.01
+price: 38.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.04
+earnings_per_sale: 11.06
 cart_conversion_pct: 3
 cancel_rate_pct: 0.26
 categories: ["Personal Development","Sport"]
 listed_since: "2019-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/269752?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Golf-Success Mental-Training
 
 > Product ID `28979` · Digistore24 productId `269752` · [HTML profile page](../../produkte/golf-success-mental-training-28979.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $38.01 (Single payment) |
+| Price | $38.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.04 |
+| Earnings/sale* | $11.06 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.26% |
 | Vendor | OKsuccess |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Golf-Success Mental-Training? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2019-04-28
-- Wie viel kostet es? — 38.010028 USD
+- Wie viel kostet es? — 38.077988 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

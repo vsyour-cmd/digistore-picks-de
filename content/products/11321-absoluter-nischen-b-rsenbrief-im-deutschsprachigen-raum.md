@@ -4,15 +4,15 @@ digistore24_product_id: 78889
 title: "Absoluter Nischen-Börsenbrief im deutschsprachigen Raum!"
 vendor: "Goldfinger23"
 product_type: "Downloads"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 186.87
+earnings_per_sale: 187.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-04-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.goldfinger-report.com/de/sl/geld-ohne-arbeit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Absoluter Nischen-Börsenbrief im deutschsprachigen Raum!
 
 > Product ID `11321` · Digistore24 productId `78889` · [HTML profile page](../../produkte/absoluter-nischen-b-rsenbrief-im-deutschsprachigen-raum-11321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $467.18 (Single payment, Subscription) |
+| Price | $468.02 (Single payment, Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $186.87 |
+| Earnings/sale* | $187.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Goldfinger23 |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Absoluter Nischen-Börsenbrief im deutschsprachigen Raum!? — Typ: Downloads, Anbieter: Goldfinger23, gelistet seit 2016-04-25
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

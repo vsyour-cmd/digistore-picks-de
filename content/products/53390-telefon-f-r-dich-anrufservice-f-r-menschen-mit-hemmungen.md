@@ -4,15 +4,15 @@ digistore24_product_id: 627419
 title: "„Telefon für dich“ - Anrufservice für Menschen mit Hemmungen"
 vendor: "Telefonfuerdich"
 product_type: "Telephone coaching"
-price: 158.86
+price: 159.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.66
+earnings_per_sale: 47.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2025-08-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/627419?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen
 
 > Product ID `53390` · Digistore24 productId `627419` · [HTML profile page](../../produkte/telefon-f-r-dich-anrufservice-f-r-menschen-mit-hemmungen-53390.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $158.86 (Subscription) |
+| Price | $159.15 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.66 |
+| Earnings/sale* | $47.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Telefonfuerdich |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen? — Typ: Telephone coaching, Anbieter: Telefonfuerdich, gelistet seit 2025-08-01
-- Wie viel kostet es? — 158.863572 USD
+- Wie viel kostet es? — 159.147612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

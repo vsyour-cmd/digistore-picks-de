@@ -4,15 +4,15 @@ digistore24_product_id: 197811
 title: "Die 12 Chakren"
 vendor: "StefanieMenzel"
 product_type: "Downloads"
-price: 55.46
+price: 55.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.73
+earnings_per_sale: 27.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-02-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://ich-bin-so-frei.com/die-12-chakren/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 Chakren
 
 > Product ID `22385` · Digistore24 productId `197811` · [HTML profile page](../../produkte/die-12-chakren-22385.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.46 (Single payment) |
+| Price | $55.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.73 |
+| Earnings/sale* | $27.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieMenzel |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Chakren? — Typ: Downloads, Anbieter: StefanieMenzel, gelistet seit 2018-02-01
-- Wie viel kostet es? — 55.460188 USD
+- Wie viel kostet es? — 55.559348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

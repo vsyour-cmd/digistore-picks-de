@@ -4,15 +4,15 @@ digistore24_product_id: 636229
 title: "KI im HR – Zukunft gestalten Strategien, Prompts und Praxis"
 vendor: "HRruns"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 27.64
+earnings_per_sale: 27.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2025-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andreasguenzel.coachy.net/lp/ki-hr-runs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI im HR – Zukunft gestalten Strategien, Prompts und Praxis
 
 > Product ID `54121` · Digistore24 productId `636229` · [HTML profile page](../../produkte/ki-im-hr-zukunft-gestalten-strategien-prompts-und-praxis-54121.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $27.64 |
+| Earnings/sale* | $27.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HRruns |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI im HR – Zukunft gestalten Strategien, Prompts und Praxis? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2025-09-17
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

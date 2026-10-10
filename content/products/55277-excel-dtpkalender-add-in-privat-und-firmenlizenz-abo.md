@@ -4,15 +4,15 @@ digistore24_product_id: 660386
 title: "Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)"
 vendor: "KnappEDV"
 product_type: "Software"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.45
+earnings_per_sale: 19.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-01-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.knapp-edv.de/dtpkalender?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)
 
 > Product ID `55277` · Digistore24 productId `660386` · [HTML profile page](../../produkte/excel-dtpkalender-add-in-privat-und-firmenlizenz-abo-55277.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $64.86 (Subscription) |
+| Price | $64.97 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.45 |
+| Earnings/sale* | $19.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KnappEDV |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)? — Typ: Software, Anbieter: KnappEDV, gelistet seit 2026-01-10
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

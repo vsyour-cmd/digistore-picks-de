@@ -4,15 +4,15 @@ digistore24_product_id: 557923
 title: "Closet Cleanse und  Style Transformation Kurs"
 vendor: "PersonalStylistSabine"
 product_type: "Member area and video courses"
-price: 158.84
+price: 159.13
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 23.83
+earnings_per_sale: 23.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Fashion"]
 listed_since: "2024-06-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/557923?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Closet Cleanse und  Style Transformation Kurs
 
 > Product ID `55518` · Digistore24 productId `557923` · [HTML profile page](../../produkte/closet-cleanse-und-style-transformation-kurs-55518.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $158.84 (Single payment, Installment) |
+| Price | $159.13 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $23.83 |
+| Earnings/sale* | $23.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PersonalStylistSabine |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Closet Cleanse und  Style Transformation Kurs? — Typ: Member area and video courses, Anbieter: PersonalStylistSabine, gelistet seit 2024-06-21
-- Wie viel kostet es? — 158.84120000000001 USD
+- Wie viel kostet es? — 159.1252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

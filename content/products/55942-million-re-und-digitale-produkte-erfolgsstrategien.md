@@ -4,15 +4,15 @@ digistore24_product_id: 674269
 title: "Millionäre und digitale Produkte – Erfolgsstrategien"
 vendor: "Tradeventures"
 product_type: "E-books"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.37
+earnings_per_sale: 55.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Online Marketing"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://www.tradeventures.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Millionäre und digitale Produkte – Erfolgsstrategien
 
 > Product ID `55942` · Digistore24 productId `674269` · [HTML profile page](../../produkte/million-re-und-digitale-produkte-erfolgsstrategien-55942.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.37 |
+| Earnings/sale* | $55.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tradeventures |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Millionäre und digitale Produkte – Erfolgsstrategien? — Typ: E-books, Anbieter: Tradeventures, gelistet seit 2026-03-06
-- Wie viel kostet es? — 110.7414 USD
+- Wie viel kostet es? — 110.9394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

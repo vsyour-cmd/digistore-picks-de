@@ -4,15 +4,15 @@ digistore24_product_id: 479897
 title: "Dividenden Strategie Masterclass"
 vendor: "DividendenBackpacker"
 product_type: "Member area and video courses"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.12
+earnings_per_sale: 56.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2023-01-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/479897?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dividenden Strategie Masterclass
 
 > Product ID `42793` · Digistore24 productId `479897` · [HTML profile page](../../produkte/dividenden-strategie-masterclass-42793.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.06 (Single payment) |
+| Price | $187.40 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $56.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DividendenBackpacker |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dividenden Strategie Masterclass? — Typ: Member area and video courses, Anbieter: DividendenBackpacker, gelistet seit 2023-01-18
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

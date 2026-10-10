@@ -4,15 +4,15 @@ digistore24_product_id: 722598
 title: "All in Paket"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 240.34
+price: 240.77
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 72.1
+earnings_per_sale: 72.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # All in Paket
 
 > Product ID `58436` · Digistore24 productId `722598` · [HTML profile page](../../produkte/all-in-paket-58436.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $240.34 (Single payment) |
+| Price | $240.77 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $72.10 |
+| Earnings/sale* | $72.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All in Paket? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 240.34239600000004 USD
+- Wie viel kostet es? — 240.772116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

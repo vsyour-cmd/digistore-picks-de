@@ -4,15 +4,15 @@ digistore24_product_id: 320187
 title: "3D-Druck Anleitung für Einsteiger"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 26.31
+price: 26.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.15
+earnings_per_sale: 13.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2020-04-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.3ddruckerlernen.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 3D-Druck Anleitung für Einsteiger
 
 > Product ID `32320` · Digistore24 productId `320187` · [HTML profile page](../../produkte/3d-druck-anleitung-f-r-einsteiger-32320.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.31 (Single payment) |
+| Price | $26.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.15 |
+| Earnings/sale* | $13.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3D-Druck Anleitung für Einsteiger? — Typ: Downloads, Anbieter: FIMA2011, gelistet seit 2020-04-11
-- Wie viel kostet es? — 26.309472 USD
+- Wie viel kostet es? — 26.356512000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

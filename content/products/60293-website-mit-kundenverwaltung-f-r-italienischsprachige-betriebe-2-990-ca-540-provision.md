@@ -4,15 +4,15 @@ digistore24_product_id: 741560
 title: "Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 3344.61
+price: 3350.59
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 668.92
+earnings_per_sale: 670.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/sito-e-gestionale?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision
 
 > Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../produkte/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3344.61 (Single payment) |
+| Price | $3350.59 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $668.92 |
+| Earnings/sale* | $670.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 3344.614 USD
+- Wie viel kostet es? — 3350.594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

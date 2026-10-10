@@ -4,15 +4,15 @@ digistore24_product_id: 468667
 title: "Flyerando - Werbeflächen an Flyerverteiler vermieten"
 vendor: "flyerando"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.02
+earnings_per_sale: 56.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-11-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://flyerando.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Flyerando - Werbeflächen an Flyerverteiler vermieten
 
 > Product ID `42095` · Digistore24 productId `468667` · [HTML profile page](../../produkte/flyerando-werbefl-chen-an-flyerverteiler-vermieten-42095.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Subscription) |
+| Price | $140.31 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.02 |
+| Earnings/sale* | $56.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | flyerando |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flyerando - Werbeflächen an Flyerverteiler vermieten? — Typ: Member area and video courses, Anbieter: flyerando, gelistet seit 2022-11-08
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

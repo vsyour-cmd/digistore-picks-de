@@ -4,15 +4,15 @@ digistore24_product_id: 219451
 title: "Das Herz eines Mannes erobern [Hörbuch]"
 vendor: "rheinrost"
 product_type: "Audio book (download)"
-price: 41.71
+price: 41.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.86
+earnings_per_sale: 20.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2018-05-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/das-herz-eines-mannes-erobern-hoerbuch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Herz eines Mannes erobern [Hörbuch]
 
 > Product ID `25595` · Digistore24 productId `219451` · [HTML profile page](../../produkte/das-herz-eines-mannes-erobern-h-rbuch-25595.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $41.71 (Single payment) |
+| Price | $41.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.86 |
+| Earnings/sale* | $20.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Herz eines Mannes erobern [Hörbuch]? — Typ: Audio book (download), Anbieter: rheinrost, gelistet seit 2018-05-05
-- Wie viel kostet es? — 41.712594 USD
+- Wie viel kostet es? — 41.787174 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

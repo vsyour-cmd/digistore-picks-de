@@ -4,15 +4,15 @@ digistore24_product_id: 567423
 title: "Online-Ukulelekurs für Anfänger"
 vendor: "AvaMusik"
 product_type: "Member area and video courses"
-price: 42.31
+price: 42.38
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 10.58
+earnings_per_sale: 10.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2024-08-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Ukulelekurs für Anfänger
 
 > Product ID `50479` · Digistore24 productId `567423` · [HTML profile page](../../produkte/online-ukulelekurs-f-r-anf-nger-50479.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.31 (Single payment) |
+| Price | $42.38 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $10.58 |
+| Earnings/sale* | $10.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AvaMusik |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ukulelekurs für Anfänger? — Typ: Member area and video courses, Anbieter: AvaMusik, gelistet seit 2024-08-28
-- Wie viel kostet es? — 42.305452 USD
+- Wie viel kostet es? — 42.381092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

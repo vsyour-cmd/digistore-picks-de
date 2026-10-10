@@ -4,15 +4,15 @@ digistore24_product_id: 663491
 title: "Newsletter KI-Automation Masterclass"
 vendor: "CleverMangos"
 product_type: "Member area and video courses"
-price: 1365.81
+price: 1368.25
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 546.32
+earnings_per_sale: 547.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663491?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Newsletter KI-Automation Masterclass
 
 > Product ID `55324` · Digistore24 productId `663491` · [HTML profile page](../../produkte/newsletter-ki-automation-masterclass-55324.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1365.81 (Single payment) |
+| Price | $1368.25 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $546.32 |
+| Earnings/sale* | $547.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CleverMangos |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Newsletter KI-Automation Masterclass? — Typ: Member area and video courses, Anbieter: CleverMangos, gelistet seit 2026-01-22
-- Wie viel kostet es? — 1365.8106 USD
+- Wie viel kostet es? — 1368.2526 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

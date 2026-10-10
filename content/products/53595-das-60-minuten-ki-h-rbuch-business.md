@@ -4,15 +4,15 @@ digistore24_product_id: 631079
 title: "Das 60-Minuten KI Hörbuch-Business"
 vendor: "webpirat"
 product_type: "E-books"
-price: 3.88
+price: 3.89
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 2.29
+earnings_per_sale: 2.3
 cart_conversion_pct: 16
 cancel_rate_pct: 3.27
 categories: ["Business & Investment","Computer & Internet","Dancing & Music"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/60-minuten-ki-hoerbuch-business/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das 60-Minuten KI Hörbuch-Business
 
 > Product ID `53595` · Digistore24 productId `631079` · [HTML profile page](../../produkte/das-60-minuten-ki-h-rbuch-business-53595.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.88 (Single payment) |
+| Price | $3.89 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $2.29 |
+| Earnings/sale* | $2.30 |
 | Cart conversion* | 16% |
 | Cancel rate* | 3.27% |
 | Vendor | webpirat |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 60-Minuten KI Hörbuch-Business? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-08-21
-- Wie viel kostet es? — 3.8815420000000005 USD
+- Wie viel kostet es? — 3.888482 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

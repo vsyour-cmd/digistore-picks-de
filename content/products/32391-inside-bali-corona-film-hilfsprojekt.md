@@ -4,15 +4,15 @@ digistore24_product_id: 165227
 title: "Inside Bali [Corona-Film-Hilfsprojekt]"
 vendor: "rheinrost"
 product_type: "Downloads"
-price: 14.11
+price: 14.13
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 4.93
+earnings_per_sale: 4.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film","Social Media","Travel & Culture"]
 listed_since: "2017-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/bali-guides/inside-bali/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Inside Bali [Corona-Film-Hilfsprojekt]
 
 > Product ID `32391` · Digistore24 productId `165227` · [HTML profile page](../../produkte/inside-bali-corona-film-hilfsprojekt-32391.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.11 (Single payment) |
+| Price | $14.13 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $4.93 |
+| Earnings/sale* | $4.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inside Bali [Corona-Film-Hilfsprojekt]? — Typ: Downloads, Anbieter: rheinrost, gelistet seit 2017-09-23
-- Wie viel kostet es? — 14.105546 USD
+- Wie viel kostet es? — 14.130766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

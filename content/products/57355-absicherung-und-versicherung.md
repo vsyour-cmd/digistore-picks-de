@@ -4,15 +4,15 @@ digistore24_product_id: 707518
 title: "Absicherung und Versicherung"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 29.22
+price: 29.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.77
+earnings_per_sale: 8.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/707518?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Absicherung und Versicherung
 
 > Product ID `57355` · Digistore24 productId `707518` · [HTML profile page](../../produkte/absicherung-und-versicherung-57355.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.22 (Single payment) |
+| Price | $29.27 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.77 |
+| Earnings/sale* | $8.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buergelconsulting |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Absicherung und Versicherung? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 29.217832 USD
+- Wie viel kostet es? — 29.270072000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 653336
 title: "ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 6.51
+price: 6.52
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 0.11
@@ -12,7 +12,7 @@ cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-12-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/Member/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell
 
 > Product ID `55263` · Digistore24 productId `653336` · [HTML profile page](../../produkte/byebye-hamsterrad-community-gratis-einstieg-mit-upsell-55263.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.51 (Single payment) |
+| Price | $6.52 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $0.11 |
 | Cart conversion* | 39% |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2025-12-05
-- Wie viel kostet es? — 6.510252 USD
+- Wie viel kostet es? — 6.521892 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

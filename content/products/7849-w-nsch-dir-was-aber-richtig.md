@@ -4,15 +4,15 @@ digistore24_product_id: 97531
 title: "Wünsch dir was - aber richtig!"
 vendor: "Quanten-Resonanz"
 product_type: "Downloads"
-price: 96.55
+price: 96.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.35
+earnings_per_sale: 37.42
 cart_conversion_pct: 18
 cancel_rate_pct: 8.81
 categories: ["Personal Development"]
 listed_since: "2016-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://quantenresonanz.de/gesetz-der-anziehung-webinar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wünsch dir was - aber richtig!
 
 > Product ID `7849` · Digistore24 productId `97531` · [HTML profile page](../../produkte/w-nsch-dir-was-aber-richtig-7849.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $96.55 (Single payment, Installment) |
+| Price | $96.72 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.35 |
+| Earnings/sale* | $37.42 |
 | Cart conversion* | 18% |
 | Cancel rate* | 8.81% |
 | Vendor | Quanten-Resonanz |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wünsch dir was - aber richtig!? — Typ: Downloads, Anbieter: Quanten-Resonanz, gelistet seit 2016-09-29
-- Wie viel kostet es? — 96.546366 USD
+- Wie viel kostet es? — 96.718986 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

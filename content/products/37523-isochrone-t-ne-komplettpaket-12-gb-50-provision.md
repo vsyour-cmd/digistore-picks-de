@@ -4,15 +4,15 @@ digistore24_product_id: 526536
 title: "Isochrone Töne Komplettpaket (12 GB) – 50% Provision"
 vendor: "mldesign"
 product_type: "Downloads"
-price: 0.46
+price: 225.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.44
+earnings_per_sale: 7.45
 cart_conversion_pct: 19
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2019-11-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/brainwave-quickies-entrainment-audio-mp3-downloads/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Isochrone Töne Komplettpaket (12 GB) – 50% Provision
 
 > Product ID `37523` · Digistore24 productId `526536` · [HTML profile page](../../produkte/isochrone-t-ne-komplettpaket-12-gb-50-provision-37523.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $0.46 (Single payment) |
+| Price | $225.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.44 |
+| Earnings/sale* | $7.45 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0% |
 | Vendor | mldesign |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Isochrone Töne Komplettpaket (12 GB) – 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2019-11-18
-- Wie viel kostet es? — 0.458626 USD
+- Wie viel kostet es? — 225.061304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

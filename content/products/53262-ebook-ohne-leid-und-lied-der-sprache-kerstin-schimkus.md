@@ -4,7 +4,7 @@ digistore24_product_id: 624962
 title: "eBook \"Ohne Leid und Lied der Sprache\" Kerstin Schimkus"
 vendor: "KerstinSchimkus"
 product_type: "E-books"
-price: 18.8
+price: 18.84
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.88
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-07-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/preview/249c6cac-f73e-4c5d-aa98-132fc299ccfa/59e27087b9f718922f3249e9988f8a2b?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # eBook "Ohne Leid und Lied der Sprache" Kerstin Schimkus
 
 > Product ID `53262` · Digistore24 productId `624962` · [HTML profile page](../../produkte/ebook-ohne-leid-und-lied-der-sprache-kerstin-schimkus-53262.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.80 (Single payment) |
+| Price | $18.84 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook "Ohne Leid und Lied der Sprache" Kerstin Schimkus? — Typ: E-books, Anbieter: KerstinSchimkus, gelistet seit 2025-07-20
-- Wie viel kostet es? — 18.803666 USD
+- Wie viel kostet es? — 18.837286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

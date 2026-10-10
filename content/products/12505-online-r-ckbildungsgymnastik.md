@@ -4,15 +4,15 @@ digistore24_product_id: 84939
 title: "Online Rückbildungsgymnastik"
 vendor: "marketingpro"
 product_type: "Downloads"
-price: 43.14
+price: 43.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.94
+earnings_per_sale: 17.97
 cart_conversion_pct: 8
 cancel_rate_pct: 1.22
 categories: ["Health & Fitness"]
 listed_since: "2016-06-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://mami-first.de/lpg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Rückbildungsgymnastik
 
 > Product ID `12505` · Digistore24 productId `84939` · [HTML profile page](../../produkte/online-r-ckbildungsgymnastik-12505.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $43.14 (Single payment) |
+| Price | $43.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.94 |
+| Earnings/sale* | $17.97 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.22% |
 | Vendor | marketingpro |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Rückbildungsgymnastik? — Typ: Downloads, Anbieter: marketingpro, gelistet seit 2016-06-19
-- Wie viel kostet es? — 43.144402 USD
+- Wie viel kostet es? — 43.221542 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

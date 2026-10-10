@@ -4,15 +4,15 @@ digistore24_product_id: 455291
 title: "Geldwert-Protektor Premium Online Ausbildung"
 vendor: "myworldofwealth"
 product_type: "Member area and video courses"
-price: 584.04
+price: 585.09
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 146.97
+earnings_per_sale: 147.24
 cart_conversion_pct: 3
 cancel_rate_pct: 2.78
 categories: ["Business & Investment","Survival"]
 listed_since: "2022-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://webinare.forexfreiheit.com/geldwert-protektor/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geldwert-Protektor Premium Online Ausbildung
 
 > Product ID `41553` · Digistore24 productId `455291` · [HTML profile page](../../produkte/geldwert-protektor-premium-online-ausbildung-41553.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $584.04 (Subscription) |
+| Price | $585.09 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $146.97 |
+| Earnings/sale* | $147.24 |
 | Cart conversion* | 3% |
 | Cancel rate* | 2.78% |
 | Vendor | myworldofwealth |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geldwert-Protektor Premium Online Ausbildung? — Typ: Member area and video courses, Anbieter: myworldofwealth, gelistet seit 2022-08-12
-- Wie viel kostet es? — 584.043432 USD
+- Wie viel kostet es? — 585.087672 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

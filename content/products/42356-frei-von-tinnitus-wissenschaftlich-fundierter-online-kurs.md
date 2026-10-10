@@ -4,15 +4,15 @@ digistore24_product_id: 472214
 title: "Frei von Tinnitus - wissenschaftlich fundierter Online Kurs"
 vendor: "trafficoftrust"
 product_type: "Member area and video courses"
-price: 338.29
+price: 338.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 169.14
+earnings_per_sale: 169.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://jetzt-tinnitus-loswerden.net?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frei von Tinnitus - wissenschaftlich fundierter Online Kurs
 
 > Product ID `42356` · Digistore24 productId `472214` · [HTML profile page](../../produkte/frei-von-tinnitus-wissenschaftlich-fundierter-online-kurs-42356.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $338.29 (Single payment, Installment) |
+| Price | $338.89 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $169.14 |
+| Earnings/sale* | $169.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | trafficoftrust |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei von Tinnitus - wissenschaftlich fundierter Online Kurs? — Typ: Member area and video courses, Anbieter: trafficoftrust, gelistet seit 2022-11-27
-- Wie viel kostet es? — 338.287012 USD
+- Wie viel kostet es? — 338.89185200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

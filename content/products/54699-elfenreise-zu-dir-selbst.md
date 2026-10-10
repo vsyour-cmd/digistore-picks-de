@@ -4,15 +4,15 @@ digistore24_product_id: 616025
 title: "Elfenreise zu dir selbst"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 205.95
+price: 206.31
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 51.49
+earnings_per_sale: 51.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dreamelfes-buisness.systeme.io/elfenreise-zu-dir-selbst?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Elfenreise zu dir selbst
 
 > Product ID `54699` · Digistore24 productId `616025` · [HTML profile page](../../produkte/elfenreise-zu-dir-selbst-54699.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $205.95 (Single payment) |
+| Price | $206.31 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $51.49 |
+| Earnings/sale* | $51.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DreamElfe |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elfenreise zu dir selbst? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-05-31
-- Wie viel kostet es? — 205.94544600000003 USD
+- Wie viel kostet es? — 206.313666 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

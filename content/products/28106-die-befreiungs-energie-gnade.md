@@ -4,15 +4,15 @@ digistore24_product_id: 260422
 title: "Die Befreiungs-Energie Gnade"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 42.31
+price: 42.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.7
+earnings_per_sale: 12.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-02-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.compose-media.de/die-befreiungsenergie-gnade-musik-fuer-die-seele/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Befreiungs-Energie Gnade
 
 > Product ID `28106` · Digistore24 productId `260422` · [HTML profile page](../../produkte/die-befreiungs-energie-gnade-28106.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.31 (Single payment) |
+| Price | $42.38 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.70 |
+| Earnings/sale* | $12.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musik-Apotheke |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Befreiungs-Energie Gnade? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2019-02-14
-- Wie viel kostet es? — 42.305452 USD
+- Wie viel kostet es? — 42.381092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

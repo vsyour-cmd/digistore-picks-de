@@ -4,15 +4,15 @@ digistore24_product_id: 713047
 title: "70K 4K Luxury Videos Bundle + PLR"
 vendor: "MoneyCreators"
 product_type: "E-books"
-price: 15.67
+price: 15.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.84
+earnings_per_sale: 7.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/70kreels?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 70K 4K Luxury Videos Bundle + PLR
 
 > Product ID `57647` · Digistore24 productId `713047` · [HTML profile page](../../produkte/70k-4k-luxury-videos-bundle-plr-57647.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.67 (Single payment) |
+| Price | $15.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.84 |
+| Earnings/sale* | $7.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70K 4K Luxury Videos Bundle + PLR? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2026-07-21
-- Wie viel kostet es? — 15.671586 USD
+- Wie viel kostet es? — 15.699606000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

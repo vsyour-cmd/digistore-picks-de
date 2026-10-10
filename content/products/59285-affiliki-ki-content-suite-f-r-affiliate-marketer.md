@@ -4,15 +4,15 @@ digistore24_product_id: 719411
 title: "AffiliKI – KI-Content-Suite für Affiliate-Marketer"
 vendor: "Elemweb"
 product_type: "Software"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.1
+earnings_per_sale: 69.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affiliki.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AffiliKI – KI-Content-Suite für Affiliate-Marketer
 
 > Product ID `59285` · Digistore24 productId `719411` · [HTML profile page](../../produkte/affiliki-ki-content-suite-f-r-affiliate-marketer-59285.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $138.18 (Single payment) |
+| Price | $138.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.10 |
+| Earnings/sale* | $69.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elemweb |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Achtung!!! Verkauf und Early Bird starten am 01.10.2026 um 20:00 Uhr AffiliKI ist eine deutschsprachige Windows-Software, die Affiliate-Marketern hilft, KI-gestützt Content für ihre Promotions zu erstellen – ohne Abo, mit einer einmaligen Zahlung. Warum sich die Bewerbung lohnt: 50 % Provision pro Verkauf Klare, wachsende Nische: deutschsprachige Affiliate-Marketer, die KI-Tools für ihre Arbeit su…
+**Vendor's marketplace description:** AffiliKI ist eine deutschsprachige Windows-Software, die Affiliate-Marketern hilft, KI-gestützt Content für ihre Promotions zu erstellen – ohne Abo, mit einer einmaligen Zahlung. Warum sich die Bewerbung lohnt: 50 % Provision pro Verkauf Klare, wachsende Nische: deutschsprachige Affiliate-Marketer, die KI-Tools für ihre Arbeit suchen Einmalzahlung statt Abo – leichter zu verkaufen, kein "schon wie…
 
 ## 2. Links
 
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AffiliKI – KI-Content-Suite für Affiliate-Marketer? — Typ: Software, Anbieter: Elemweb, gelistet seit 2026-09-16
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

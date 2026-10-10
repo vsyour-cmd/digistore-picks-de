@@ -4,15 +4,15 @@ digistore24_product_id: 672126
 title: "Ich war nicht mehr ich mein Körper gegen mich"
 vendor: "fantasticman36"
 product_type: "E-books"
-price: 20.9
+price: 20.93
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.36
+earnings_per_sale: 8.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hormoncod.pages.dev?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ich war nicht mehr ich mein Körper gegen mich
 
 > Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../produkte/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.93 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.36 |
+| Earnings/sale* | $8.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fantasticman36 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich war nicht mehr ich mein Körper gegen mich? — Typ: E-books, Anbieter: fantasticman36, gelistet seit 2026-02-27
-- Wie viel kostet es? — 20.895448000000002 USD
+- Wie viel kostet es? — 20.932808 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

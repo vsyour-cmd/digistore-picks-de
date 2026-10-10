@@ -4,15 +4,15 @@ digistore24_product_id: 695292
 title: "Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)"
 vendor: "infonewlifegamesccfe"
 product_type: "E-books"
-price: 993.15
+price: 994.92
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 397.26
+earnings_per_sale: 397.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695292?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)
 
 > Product ID `56802` · Digistore24 productId `695292` · [HTML profile page](../../produkte/spiel-dein-leben-der-problemshift-50-masterkey-40-56802.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $993.15 (Single payment, Installment) |
+| Price | $994.92 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $397.26 |
+| Earnings/sale* | $397.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infonewlifegamesccfe |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spiel-dein-Leben: Der ProblemShift (50 %) + MasterKey (40 %)? — Typ: E-books, Anbieter: infonewlifegamesccfe, gelistet seit 2026-06-04
-- Wie viel kostet es? — 993.1490100000001 USD
+- Wie viel kostet es? — 994.9247100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

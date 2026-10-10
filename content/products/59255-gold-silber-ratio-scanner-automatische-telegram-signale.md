@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Software"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gsr.siluna.li?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Gold/Silber-Ratio Scanner - automatische Telegram-Signale
 
 > Product ID `59255` · Digistore24 productId `728830` · [HTML profile page](../../produkte/gold-silber-ratio-scanner-automatische-telegram-signale-59255.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

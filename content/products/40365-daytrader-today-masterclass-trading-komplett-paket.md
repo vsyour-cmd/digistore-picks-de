@@ -4,15 +4,15 @@ digistore24_product_id: 429360
 title: "Daytrader Today Masterclass Trading Komplett Paket"
 vendor: "DaytraderToday"
 product_type: "Member area and video courses"
-price: 893.76
+price: 895.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 357.5
+earnings_per_sale: 358.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-02-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://daytrader-today.coachy.net/lp/daytrader-today-masterclass-trading-komplett-paket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Daytrader Today Masterclass Trading Komplett Paket
 
 > Product ID `40365` · Digistore24 productId `429360` · [HTML profile page](../../produkte/daytrader-today-masterclass-trading-komplett-paket-40365.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $893.76 (Single payment) |
+| Price | $895.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $357.50 |
+| Earnings/sale* | $358.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DaytraderToday |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Daytrader Today Masterclass Trading Komplett Paket? — Typ: Member area and video courses, Anbieter: DaytraderToday, gelistet seit 2022-02-12
-- Wie viel kostet es? — 893.7614 USD
+- Wie viel kostet es? — 895.3594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

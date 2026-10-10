@@ -4,15 +4,15 @@ digistore24_product_id: 467934
 title: "Der ultimative FOREX Trading Kurs: Währungshandel von A-Z"
 vendor: "LebensfrohLLC"
 product_type: "Member area and video courses"
-price: 555.94
+price: 556.94
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 111.19
+earnings_per_sale: 111.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-11-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/der-ultimative-forex-trading-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der ultimative FOREX Trading Kurs: Währungshandel von A-Z
 
 > Product ID `42133` · Digistore24 productId `467934` · [HTML profile page](../../produkte/der-ultimative-forex-trading-kurs-w-hrungshandel-von-a-z-42133.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $555.94 (Single payment) |
+| Price | $556.94 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $111.19 |
+| Earnings/sale* | $111.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LebensfrohLLC |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ultimative FOREX Trading Kurs: Währungshandel von A-Z? — Typ: Member area and video courses, Anbieter: LebensfrohLLC, gelistet seit 2022-11-03
-- Wie viel kostet es? — 555.9442 USD
+- Wie viel kostet es? — 556.9382 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

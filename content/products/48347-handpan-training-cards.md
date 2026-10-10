@@ -4,15 +4,15 @@ digistore24_product_id: 554153
 title: "Handpan Training Cards"
 vendor: "Kirchhofer"
 product_type: "Downloads"
-price: 27.53
+price: 27.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.9
+earnings_per_sale: 5.91
 cart_conversion_pct: 5
 cancel_rate_pct: 2.01
 categories: ["Dancing & Music","Fun & Games","Hobby & Craft"]
 listed_since: "2024-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/554153?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Handpan Training Cards
 
 > Product ID `48347` · Digistore24 productId `554153` · [HTML profile page](../../produkte/handpan-training-cards-48347.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.53 (Single payment) |
+| Price | $27.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.90 |
+| Earnings/sale* | $5.91 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.01% |
 | Vendor | Kirchhofer |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handpan Training Cards? — Typ: Downloads, Anbieter: Kirchhofer, gelistet seit 2024-05-27
-- Wie viel kostet es? — 27.528746 USD
+- Wie viel kostet es? — 27.577966 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

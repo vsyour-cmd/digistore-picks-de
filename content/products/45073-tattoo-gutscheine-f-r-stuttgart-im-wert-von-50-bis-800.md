@@ -4,15 +4,15 @@ digistore24_product_id: 511930
 title: "Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€"
 vendor: "TaurusTattooStuttgart"
 product_type: "In-person service"
-price: 140.54
+price: 140.79
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 65.02
+earnings_per_sale: 65.14
 cart_conversion_pct: 7
 cancel_rate_pct: 6.26
 categories: ["Fashion"]
 listed_since: "2023-08-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/511930?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€
 
 > Product ID `45073` · Digistore24 productId `511930` · [HTML profile page](../../produkte/tattoo-gutscheine-f-r-stuttgart-im-wert-von-50-bis-800-45073.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | In-person service |
-| Price | $140.54 (Single payment) |
+| Price | $140.79 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $65.02 |
+| Earnings/sale* | $65.14 |
 | Cart conversion* | 7% |
 | Cancel rate* | 6.26% |
 | Vendor | TaurusTattooStuttgart |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€? — Typ: In-person service, Anbieter: TaurusTattooStuttgart, gelistet seit 2023-08-15
-- Wie viel kostet es? — 140.540904 USD
+- Wie viel kostet es? — 140.792184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

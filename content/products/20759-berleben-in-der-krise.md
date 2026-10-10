@@ -4,15 +4,15 @@ digistore24_product_id: 134769
 title: "Überleben in der Krise"
 vendor: "am-publishing"
 product_type: "E-books"
-price: 31.05
+price: 31.11
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.11
+earnings_per_sale: 3.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-04-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/134769?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Überleben in der Krise
 
 > Product ID `20759` · Digistore24 productId `134769` · [HTML profile page](../../produkte/berleben-in-der-krise-20759.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.05 (Single payment) |
+| Price | $31.11 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.11 |
+| Earnings/sale* | $3.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | am-publishing |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Überleben in der Krise? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-04-26
-- Wie viel kostet es? — 31.052336000000004 USD
+- Wie viel kostet es? — 31.107856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

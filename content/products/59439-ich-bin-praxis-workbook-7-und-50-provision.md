@@ -4,7 +4,7 @@ digistore24_product_id: 693319
 title: "ICH BIN Praxis-Workbook: 7 € und 50 % Provision"
 vendor: "Motivation-Lebensfreude"
 product_type: "Downloads"
-price: 6.58
+price: 6.59
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.29
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://motivation-lebensfreude.de/ich-bin-praxis-workbook/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # ICH BIN Praxis-Workbook: 7 € und 50 % Provision
 
 > Product ID `59439` · Digistore24 productId `693319` · [HTML profile page](../../produkte/ich-bin-praxis-workbook-7-und-50-provision-59439.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.58 (Single payment) |
+| Price | $6.59 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ICH BIN Praxis-Workbook: 7 € und 50 % Provision? — Typ: Downloads, Anbieter: Motivation-Lebensfreude, gelistet seit 2026-09-21
-- Wie viel kostet es? — 6.577368 USD
+- Wie viel kostet es? — 6.5891280000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

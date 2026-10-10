@@ -4,15 +4,15 @@ digistore24_product_id: 578318
 title: "Overthinking stoppen - 21 Tage Anfänger Meditationskurs"
 vendor: "manlex"
 product_type: "Member area and video courses"
-price: 94
+price: 94.16
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 32.9
+earnings_per_sale: 32.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-11-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.momentmeditation.de/lp/overthinking-stoppen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Overthinking stoppen - 21 Tage Anfänger Meditationskurs
 
 > Product ID `50617` · Digistore24 productId `578318` · [HTML profile page](../../produkte/overthinking-stoppen-21-tage-anf-nger-meditationskurs-50617.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $94.00 (Single payment) |
+| Price | $94.16 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $32.90 |
+| Earnings/sale* | $32.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manlex |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Overthinking stoppen - 21 Tage Anfänger Meditationskurs? — Typ: Member area and video courses, Anbieter: manlex, gelistet seit 2024-11-01
-- Wie viel kostet es? — 93.995958 USD
+- Wie viel kostet es? — 94.164018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

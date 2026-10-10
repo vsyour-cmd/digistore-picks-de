@@ -4,15 +4,15 @@ digistore24_product_id: 711056
 title: "Digitales Marketing - Geld online verdienen Online Business"
 vendor: "FreedomBusinessSH3"
 product_type: "Member area and video courses"
-price: 375.08
+price: 375.75
 currency: "USD"
 affiliate_commission_pct: 57
-earnings_per_sale: 213.8
+earnings_per_sale: 214.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-07-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.freedom-online-business.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitales Marketing - Geld online verdienen Online Business
 
 > Product ID `57495` · Digistore24 productId `711056` · [HTML profile page](../../produkte/digitales-marketing-geld-online-verdienen-online-business-57495.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $375.08 (Single payment) |
+| Price | $375.75 (Single payment) |
 | Affiliate commission | 57% |
-| Earnings/sale* | $213.80 |
+| Earnings/sale* | $214.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreedomBusinessSH3 |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Marketing - Geld online verdienen Online Business? — Typ: Member area and video courses, Anbieter: FreedomBusinessSH3, gelistet seit 2026-07-12
-- Wie viel kostet es? — 375.077766 USD
+- Wie viel kostet es? — 375.74838600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 203235
 title: "„Zähne - Verbindung zum Leben“"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 998.06
+price: 999.84
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 329.36
+earnings_per_sale: 329.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2018-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/zzu-zahnedition-e?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Zähne - Verbindung zum Leben“
 
 > Product ID `39559` · Digistore24 productId `203235` · [HTML profile page](../../produkte/z-hne-verbindung-zum-leben-39559.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $998.06 (Single payment, Installment) |
+| Price | $999.84 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $329.36 |
+| Earnings/sale* | $329.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | phoenix999 |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zähne - Verbindung zum Leben“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2018-02-22
-- Wie viel kostet es? — 998.059664 USD
+- Wie viel kostet es? — 999.844144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

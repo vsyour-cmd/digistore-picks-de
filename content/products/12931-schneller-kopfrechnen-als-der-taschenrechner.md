@@ -4,15 +4,15 @@ digistore24_product_id: 24453
 title: "Schneller kopfrechnen als der Taschenrechner"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://www.literatur-mathematik.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schneller kopfrechnen als der Taschenrechner
 
 > Product ID `12931` · Digistore24 productId `24453` · [HTML profile page](../../produkte/schneller-kopfrechnen-als-der-taschenrechner-12931.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schneller kopfrechnen als der Taschenrechner? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-21
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

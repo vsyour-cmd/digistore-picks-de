@@ -4,15 +4,15 @@ digistore24_product_id: 532231
 title: "Kalkulationsprogramm Gastronomie und Konditorei"
 vendor: "szkubidoo"
 product_type: "Software"
-price: 324.39
+price: 324.97
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 50.34
+earnings_per_sale: 50.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Software"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://rezeptrechner.de/preise?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kalkulationsprogramm Gastronomie und Konditorei
 
 > Product ID `59212` · Digistore24 productId `532231` · [HTML profile page](../../produkte/kalkulationsprogramm-gastronomie-und-konditorei-59212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $324.39 (Subscription) |
+| Price | $324.97 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $50.34 |
+| Earnings/sale* | $50.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | szkubidoo |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kalkulationsprogramm Gastronomie und Konditorei? — Typ: Software, Anbieter: szkubidoo, gelistet seit 2026-09-14
-- Wie viel kostet es? — 324.394 USD
+- Wie viel kostet es? — 324.974 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

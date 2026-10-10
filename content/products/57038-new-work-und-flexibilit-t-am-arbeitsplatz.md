@@ -4,15 +4,15 @@ digistore24_product_id: 701161
 title: "New Work und Flexibilität am Arbeitsplatz"
 vendor: "SPBS-Business"
 product_type: "Downloads"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.72
+earnings_per_sale: 11.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/701161?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # New Work und Flexibilität am Arbeitsplatz
 
 > Product ID `57038` · Digistore24 productId `701161` · [HTML profile page](../../produkte/new-work-und-flexibilit-t-am-arbeitsplatz-57038.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SPBS-Business |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New Work und Flexibilität am Arbeitsplatz? — Typ: Downloads, Anbieter: SPBS-Business, gelistet seit 2026-06-17
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

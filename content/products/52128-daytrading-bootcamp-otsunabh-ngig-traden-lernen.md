@@ -4,15 +4,15 @@ digistore24_product_id: 565645
 title: "Daytrading Bootcamp - Otsunabhängig traden lernen"
 vendor: "rheinrost"
 product_type: "Member area and video courses"
-price: 43.18
+price: 43.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.59
+earnings_per_sale: 11.61
 cart_conversion_pct: 16
 cancel_rate_pct: 1.52
 categories: ["Politics & Economy","Profession & Job","Trading Products"]
 listed_since: "2024-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/daytrading-bootcamp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Daytrading Bootcamp - Otsunabhängig traden lernen
 
 > Product ID `52128` · Digistore24 productId `565645` · [HTML profile page](../../produkte/daytrading-bootcamp-otsunabh-ngig-traden-lernen-52128.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.18 (Single payment) |
+| Price | $43.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.59 |
+| Earnings/sale* | $11.61 |
 | Cart conversion* | 16% |
 | Cancel rate* | 1.52% |
 | Vendor | rheinrost |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Daytrading Bootcamp - Otsunabhängig traden lernen? — Typ: Member area and video courses, Anbieter: rheinrost, gelistet seit 2024-08-16
-- Wie viel kostet es? — 43.177960000000006 USD
+- Wie viel kostet es? — 43.255160000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

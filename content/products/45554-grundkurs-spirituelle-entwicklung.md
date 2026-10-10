@@ -4,15 +4,15 @@ digistore24_product_id: 511224
 title: "Grundkurs spirituelle Entwicklung"
 vendor: "andyschwab"
 product_type: "Member area and video courses"
-price: 413.88
+price: 414.62
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 41.39
+earnings_per_sale: 41.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://grundkurs.andyschwab.com/landing-page/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Grundkurs spirituelle Entwicklung
 
 > Product ID `45554` · Digistore24 productId `511224` · [HTML profile page](../../produkte/grundkurs-spirituelle-entwicklung-45554.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $413.88 (Single payment, Installment) |
+| Price | $414.62 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $41.39 |
+| Earnings/sale* | $41.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andyschwab |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundkurs spirituelle Entwicklung? — Typ: Member area and video courses, Anbieter: andyschwab, gelistet seit 2023-08-09
-- Wie viel kostet es? — 413.882 USD
+- Wie viel kostet es? — 414.622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

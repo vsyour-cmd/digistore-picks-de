@@ -4,15 +4,15 @@ digistore24_product_id: 712631
 title: "Skandinavisch einrichten leicht gemacht - Persönliche Ideen"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/712631?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Skandinavisch einrichten leicht gemacht - Persönliche Ideen
 
 > Product ID `57761` · Digistore24 productId `712631` · [HTML profile page](../../produkte/skandinavisch-einrichten-leicht-gemacht-pers-nliche-ideen-57761.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.79 (Single payment) |
+| Price | $18.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skandinavisch einrichten leicht gemacht - Persönliche Ideen? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-07-27
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

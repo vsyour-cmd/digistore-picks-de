@@ -4,15 +4,15 @@ digistore24_product_id: 341389
 title: "Instagram Business Coaching"
 vendor: "TanjaV"
 product_type: "Online coaching"
-price: 28.52
+price: 28.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.98
+earnings_per_sale: 3.99
 cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/341389?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram Business Coaching
 
 > Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../produkte/instagram-business-coaching-33757.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.52 (Single payment) |
+| Price | $28.58 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.98 |
+| Earnings/sale* | $3.99 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.5% |
 | Vendor | TanjaV |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Business Coaching? — Typ: Online coaching, Anbieter: TanjaV, gelistet seit 2020-08-17
-- Wie viel kostet es? — 28.5243 USD
+- Wie viel kostet es? — 28.575300000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

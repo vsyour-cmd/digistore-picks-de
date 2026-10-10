@@ -4,15 +4,15 @@ digistore24_product_id: 735303
 title: "Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen"
 vendor: "kiagent007"
 product_type: "Software"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.62
+earnings_per_sale: 5.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Project Management"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735303?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen
 
 > Product ID `59425` · Digistore24 productId `735303` · [HTML profile page](../../produkte/projektpreis-projekte-kalkulieren-puffer-und-marge-verstehen-59425.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.62 |
+| Earnings/sale* | $5.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kiagent007 |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen? — Typ: Software, Anbieter: kiagent007, gelistet seit 2026-09-20
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

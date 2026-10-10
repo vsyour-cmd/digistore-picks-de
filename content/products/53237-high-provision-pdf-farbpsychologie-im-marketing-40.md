@@ -4,15 +4,15 @@ digistore24_product_id: 624980
 title: "High-Provision PDF – Farbpsychologie im Marketing (40 %)"
 vendor: "JumbMedia-Store"
 product_type: "E-books"
-price: 167.78
+price: 168.08
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.12
+earnings_per_sale: 67.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-07-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/624980?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # High-Provision PDF – Farbpsychologie im Marketing (40 %)
 
 > Product ID `53237` · Digistore24 productId `624980` · [HTML profile page](../../produkte/high-provision-pdf-farbpsychologie-im-marketing-40-53237.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $167.78 (Single payment) |
+| Price | $168.08 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.12 |
+| Earnings/sale* | $67.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JumbMedia-Store |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High-Provision PDF – Farbpsychologie im Marketing (40 %)? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-20
-- Wie viel kostet es? — 167.778814 USD
+- Wie viel kostet es? — 168.07879400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

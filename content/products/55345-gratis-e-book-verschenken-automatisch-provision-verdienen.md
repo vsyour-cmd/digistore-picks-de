@@ -4,7 +4,7 @@ digistore24_product_id: 651790
 title: "Gratis E-Book verschenken / automatisch Provision verdienen"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 5.5
+price: 5.51
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.1
@@ -12,7 +12,7 @@ cart_conversion_pct: 40
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-11-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Gratis E-Book verschenken / automatisch Provision verdienen
 
 > Product ID `55345` · Digistore24 productId `651790` · [HTML profile page](../../produkte/gratis-e-book-verschenken-automatisch-provision-verdienen-55345.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $5.50 (Single payment) |
+| Price | $5.51 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.10 |
 | Cart conversion* | 40% |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis E-Book verschenken / automatisch Provision verdienen? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2025-11-29
-- Wie viel kostet es? — 5.503512 USD
+- Wie viel kostet es? — 5.513352 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

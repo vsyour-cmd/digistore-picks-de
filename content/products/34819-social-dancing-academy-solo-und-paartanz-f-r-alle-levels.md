@@ -4,15 +4,15 @@ digistore24_product_id: 536805
 title: "Social Dancing Academy - Solo- und Paartanz für alle Levels"
 vendor: "DadoIbrakovic"
 product_type: "Member area and video courses"
-price: 138.62
+price: 138.86
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 102.92
+earnings_per_sale: 103.11
 cart_conversion_pct: 21
 cancel_rate_pct: 4.21
 categories: ["Dancing & Music"]
 listed_since: "2024-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://socialdancingacademy.com/preise/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Dancing Academy - Solo- und Paartanz für alle Levels
 
 > Product ID `34819` · Digistore24 productId `536805` · [HTML profile page](../../produkte/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.62 (Subscription) |
+| Price | $138.86 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $102.92 |
+| Earnings/sale* | $103.11 |
 | Cart conversion* | 21% |
 | Cancel rate* | 4.21% |
 | Vendor | DadoIbrakovic |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Dancing Academy - Solo- und Paartanz für alle Levels? — Typ: Member area and video courses, Anbieter: DadoIbrakovic, gelistet seit 2024-01-30
-- Wie viel kostet es? — 138.616912 USD
+- Wie viel kostet es? — 138.864752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 663597
 title: "7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit"
 vendor: "Perspektiv-Akademie"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.92
+earnings_per_sale: 27.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Profession & Job"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663597?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit
 
 > Product ID `56205` · Digistore24 productId `663597` · [HTML profile page](../../produkte/7-tages-kurs-deine-natur-routine-f-r-mehr-gelassenheit-56205.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.92 |
+| Earnings/sale* | $27.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Perspektiv-Akademie |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit? — Typ: Member area and video courses, Anbieter: Perspektiv-Akademie, gelistet seit 2026-01-23
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

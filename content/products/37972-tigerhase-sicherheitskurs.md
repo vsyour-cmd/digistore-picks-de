@@ -4,15 +4,15 @@ digistore24_product_id: 406643
 title: "Tigerhase Sicherheitskurs"
 vendor: "tigerhase"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.23
+earnings_per_sale: 18.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://werde.tigerhase.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tigerhase Sicherheitskurs
 
 > Product ID `37972` · Digistore24 productId `406643` · [HTML profile page](../../produkte/tigerhase-sicherheitskurs-37972.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.23 |
+| Earnings/sale* | $18.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tigerhase |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tigerhase Sicherheitskurs? — Typ: Member area and video courses, Anbieter: tigerhase, gelistet seit 2021-09-09
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 682814
 title: "Inner Circle - Die Community für Event-/Hochzeitsdienstl."
 vendor: "eventworker"
 product_type: "Member area and video courses"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 24.25
+earnings_per_sale: 24.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.eventworker.net/inner-circle?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Inner Circle - Die Community für Event-/Hochzeitsdienstl.
 
 > Product ID `57504` · Digistore24 productId `682814` · [HTML profile page](../../produkte/inner-circle-die-community-f-r-event-hochzeitsdienstl-57504.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.26 (Subscription) |
+| Price | $121.47 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $24.25 |
+| Earnings/sale* | $24.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | eventworker |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inner Circle - Die Community für Event-/Hochzeitsdienstl.? — Typ: Member area and video courses, Anbieter: eventworker, gelistet seit 2026-07-13
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 696011
 title: "E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu"
 vendor: "Mawarth"
 product_type: "E-books"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 22.57
+earnings_per_sale: 22.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Software"]
 listed_since: "2026-06-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schuldenpilot.com/buch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu
 
 > Product ID `56788` · Digistore24 productId `696011` · [HTML profile page](../../produkte/e-book-15-erprobte-briefvorlagen-f-r-selbst-ndige-mit-schu-56788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $22.57 |
+| Earnings/sale* | $22.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mawarth |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu? — Typ: E-books, Anbieter: Mawarth, gelistet seit 2026-06-02
-- Wie viel kostet es? — 28.222278000000003 USD
+- Wie viel kostet es? — 28.272738 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

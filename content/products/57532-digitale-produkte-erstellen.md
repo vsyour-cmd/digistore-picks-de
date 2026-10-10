@@ -4,15 +4,15 @@ digistore24_product_id: 711227
 title: "Digitale Produkte erstellen"
 vendor: "Caffiliate"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.03
+earnings_per_sale: 3.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/711227?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Produkte erstellen
 
 > Product ID `57532` · Digistore24 productId `711227` · [HTML profile page](../../produkte/digitale-produkte-erstellen-57532.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.03 |
+| Earnings/sale* | $3.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Caffiliate |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Produkte erstellen? — Typ: E-books, Anbieter: Caffiliate, gelistet seit 2026-07-14
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

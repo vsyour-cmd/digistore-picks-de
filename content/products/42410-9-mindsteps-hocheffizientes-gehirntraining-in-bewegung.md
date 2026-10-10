@@ -4,15 +4,15 @@ digistore24_product_id: 468846
 title: "9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung"
 vendor: "erich1702"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.24
+earnings_per_sale: 12.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2022-11-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://erichfrischenschlager.com/9-mindsteps/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung
 
 > Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../produkte/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.24 |
+| Earnings/sale* | $12.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | erich1702 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung? — Typ: E-books, Anbieter: erich1702, gelistet seit 2022-11-09
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

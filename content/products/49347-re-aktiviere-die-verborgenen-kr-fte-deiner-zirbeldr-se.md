@@ -4,15 +4,15 @@ digistore24_product_id: 569534
 title: "(Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 166.38
+price: 166.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 49.91
+earnings_per_sale: 50
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://zirbeldruese.spryfuel.com/zirbeldrse-aktivieren-komplettkurs-3889?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # (Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse
 
 > Product ID `49347` · Digistore24 productId `569534` · [HTML profile page](../../produkte/re-aktiviere-die-verborgenen-kr-fte-deiner-zirbeldr-se-49347.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $166.38 (Single payment) |
+| Price | $166.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $49.91 |
+| Earnings/sale* | $50.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist (Re)Aktiviere die verborgenen Kräfte deiner Zirbeldrüse? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2024-09-10
-- Wie viel kostet es? — 166.38056400000002 USD
+- Wie viel kostet es? — 166.67804400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

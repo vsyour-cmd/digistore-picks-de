@@ -4,15 +4,15 @@ digistore24_product_id: 730592
 title: "Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P"
 vendor: "ammadi83"
 product_type: "Downloads"
-price: 13.49
+price: 13.51
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 6.07
+earnings_per_sale: 6.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Travel & Culture"]
 listed_since: "2026-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/730592?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P
 
 > Product ID `58975` · Digistore24 productId `730592` · [HTML profile page](../../produkte/haus-kaufen-in-spanien-unter-150-000-ratgeber-praxis-p-58975.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.49 (Single payment) |
+| Price | $13.51 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $6.07 |
+| Earnings/sale* | $6.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ammadi83 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haus kaufen in Spanien unter 150.000 € – Ratgeber + Praxis-P? — Typ: Downloads, Anbieter: ammadi83, gelistet seit 2026-09-06
-- Wie viel kostet es? — 13.490316000000002 USD
+- Wie viel kostet es? — 13.514436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

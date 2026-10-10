@@ -4,7 +4,7 @@ digistore24_product_id: 732970
 title: "My Business Organizer - Excel-Vorlage für Selbständige"
 vendor: "mybusinessorganizer"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.73
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Software"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://checkout-ds24.com/product/732970.?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # My Business Organizer - Excel-Vorlage für Selbständige
 
 > Product ID `59981` · Digistore24 productId `732970` · [HTML profile page](../../produkte/my-business-organizer-excel-vorlage-f-r-selbst-ndige-59981.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist My Business Organizer - Excel-Vorlage für Selbständige? — Typ: Downloads, Anbieter: mybusinessorganizer, gelistet seit 2026-09-28
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

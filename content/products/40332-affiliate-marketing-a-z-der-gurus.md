@@ -4,15 +4,15 @@ digistore24_product_id: 442666
 title: "Affiliate-Marketing A-Z der Gurus"
 vendor: "ss-business"
 product_type: "E-books"
-price: 49.88
+price: 49.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.11
+earnings_per_sale: 7.13
 cart_conversion_pct: 10
 cancel_rate_pct: 2.32
 categories: ["Computer & Internet"]
 listed_since: "2022-05-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://florianschaefer.de/affiliate-marketing-a-z/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate-Marketing A-Z der Gurus
 
 > Product ID `40332` · Digistore24 productId `442666` · [HTML profile page](../../produkte/affiliate-marketing-a-z-der-gurus-40332.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.88 (Single payment) |
+| Price | $49.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.13 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.32% |
 | Vendor | ss-business |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Marketing A-Z der Gurus? — Typ: E-books, Anbieter: ss-business, gelistet seit 2022-05-13
-- Wie viel kostet es? — 49.87837400000001 USD
+- Wie viel kostet es? — 49.96755400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

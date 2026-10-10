@@ -4,15 +4,15 @@ digistore24_product_id: 10373
 title: "Lead-Motor jährlich - 540€"
 vendor: "LeadMotor"
 product_type: "Downloads"
-price: 604.04
+price: 605.12
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 211.42
+earnings_per_sale: 211.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2012-12-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lead-motor.com/online-schulung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lead-Motor jährlich - 540€
 
 > Product ID `1389` · Digistore24 productId `10373` · [HTML profile page](../../produkte/lead-motor-j-hrlich-540-1389.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $604.04 (Subscription) |
+| Price | $605.12 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $211.42 |
+| Earnings/sale* | $211.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LeadMotor |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lead-Motor jährlich - 540€? — Typ: Downloads, Anbieter: LeadMotor, gelistet seit 2012-12-11
-- Wie viel kostet es? — 604.044 USD
+- Wie viel kostet es? — 605.124 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

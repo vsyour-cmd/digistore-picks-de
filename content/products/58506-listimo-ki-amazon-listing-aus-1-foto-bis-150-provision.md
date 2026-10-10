@@ -4,15 +4,15 @@ digistore24_product_id: 724741
 title: "Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision"
 vendor: "Listimo"
 product_type: "Software"
-price: 561.18
+price: 562.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 168.35
+earnings_per_sale: 168.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://listimo.ai/angebot.html?utm_source=digistore24&utm_medium=affiliate&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision
 
 > Product ID `58506` · Digistore24 productId `724741` · [HTML profile page](../../produkte/listimo-ki-amazon-listing-aus-1-foto-bis-150-provision-58506.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $561.18 (Single payment) |
+| Price | $562.18 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $168.35 |
+| Earnings/sale* | $168.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Listimo |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision? — Typ: Software, Anbieter: Listimo, gelistet seit 2026-08-21
-- Wie viel kostet es? — 561.179248 USD
+- Wie viel kostet es? — 562.1826080000001 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

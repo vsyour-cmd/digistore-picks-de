@@ -4,15 +4,15 @@ digistore24_product_id: 674159
 title: "Into The Deep — Atempausen und Retention für Fortgeschrittene"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 141
+price: 141.25
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.11
+earnings_per_sale: 14.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/videokurse/into-the-deep-breathretention-kurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Into The Deep — Atempausen und Retention für Fortgeschrittene
 
 > Product ID `58399` · Digistore24 productId `674159` · [HTML profile page](../../produkte/into-the-deep-atempausen-und-retention-f-r-fortgeschrittene-58399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.00 (Single payment, Installment) |
+| Price | $141.25 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Deep — Atempausen und Retention für Fortgeschrittene? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 140.99953 USD
+- Wie viel kostet es? — 141.25163 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

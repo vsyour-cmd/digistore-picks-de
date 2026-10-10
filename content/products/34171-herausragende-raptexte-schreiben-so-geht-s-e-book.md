@@ -4,7 +4,7 @@ digistore24_product_id: 300907
 title: "Herausragende Raptexte schreiben - so geht's! [E-Book]"
 vendor: "Benjamin_Eidam"
 product_type: "Downloads"
-price: 14.05
+price: 14.07
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.81
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2019-12-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://rap-text.com/rap-texte-schreiben?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Herausragende Raptexte schreiben - so geht's! [E-Book]
 
 > Product ID `34171` · Digistore24 productId `300907` · [HTML profile page](../../produkte/herausragende-raptexte-schreiben-so-geht-s-e-book-34171.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.05 (Single payment) |
+| Price | $14.07 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.81 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herausragende Raptexte schreiben - so geht's! [E-Book]? — Typ: Downloads, Anbieter: Benjamin_Eidam, gelistet seit 2019-12-23
-- Wie viel kostet es? — 14.049616 USD
+- Wie viel kostet es? — 14.074736000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

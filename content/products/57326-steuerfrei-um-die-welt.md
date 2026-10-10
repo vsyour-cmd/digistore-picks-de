@@ -4,15 +4,15 @@ digistore24_product_id: 706655
 title: "Steuerfrei um die Welt"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 38.68
+price: 38.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.34
+earnings_per_sale: 19.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/steuerfrei-um-die-welt?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Steuerfrei um die Welt
 
 > Product ID `57326` · Digistore24 productId `706655` · [HTML profile page](../../produkte/steuerfrei-um-die-welt-57326.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.68 (Single payment) |
+| Price | $38.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.34 |
+| Earnings/sale* | $19.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuerfrei um die Welt? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 38.681188 USD
+- Wie viel kostet es? — 38.750348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

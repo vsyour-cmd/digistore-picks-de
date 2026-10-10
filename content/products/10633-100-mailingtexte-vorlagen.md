@@ -4,15 +4,15 @@ digistore24_product_id: 20609
 title: "100 Mailingtexte Vorlagen"
 vendor: "rnabenhauer"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 12.17
+earnings_per_sale: 12.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2014-02-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://100mailings.presalesmarketing.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 100 Mailingtexte Vorlagen
 
 > Product ID `10633` · Digistore24 productId `20609` · [HTML profile page](../../produkte/100-mailingtexte-vorlagen-10633.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $12.17 |
+| Earnings/sale* | $12.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rnabenhauer |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Mailingtexte Vorlagen? — Typ: Downloads, Anbieter: rnabenhauer, gelistet seit 2014-02-01
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

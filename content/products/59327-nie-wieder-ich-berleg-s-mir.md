@@ -4,15 +4,15 @@ digistore24_product_id: 733257
 title: "Nie wieder \"Ich überleg's mir\""
 vendor: "ManfredKloos"
 product_type: "Downloads"
-price: 53.58
+price: 53.68
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.43
+earnings_per_sale: 21.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nie wieder "Ich überleg's mir"
 
 > Product ID `59327` · Digistore24 productId `733257` · [HTML profile page](../../produkte/nie-wieder-ich-berleg-s-mir-59327.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $53.58 (Single payment) |
+| Price | $53.68 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.43 |
+| Earnings/sale* | $21.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManfredKloos |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie wieder "Ich überleg's mir"? — Typ: Downloads, Anbieter: ManfredKloos, gelistet seit 2026-09-17
-- Wie viel kostet es? — 53.58094 USD
+- Wie viel kostet es? — 53.67674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

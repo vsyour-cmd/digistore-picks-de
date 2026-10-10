@@ -4,15 +4,15 @@ digistore24_product_id: 558417
 title: "Aktien-Community sharedealsPlus"
 vendor: "BullMarketsMedia"
 product_type: "Member area and video courses"
-price: 112.24
+price: 112.44
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 17.08
+earnings_per_sale: 17.11
 cart_conversion_pct: 2
 cancel_rate_pct: 2.39
 categories: ["Business & Investment","Finances"]
 listed_since: "2024-06-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.sharedeals.de/sdp-aktien-community/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Aktien-Community sharedealsPlus
 
 > Product ID `54867` · Digistore24 productId `558417` · [HTML profile page](../../produkte/aktien-community-sharedealsplus-54867.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.24 (Single payment, Subscription) |
+| Price | $112.44 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $17.08 |
+| Earnings/sale* | $17.11 |
 | Cart conversion* | 2% |
 | Cancel rate* | 2.39% |
 | Vendor | BullMarketsMedia |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aktien-Community sharedealsPlus? — Typ: Member area and video courses, Anbieter: BullMarketsMedia, gelistet seit 2024-06-25
-- Wie viel kostet es? — 112.240324 USD
+- Wie viel kostet es? — 112.441004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

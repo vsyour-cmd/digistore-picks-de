@@ -4,15 +4,15 @@ digistore24_product_id: 525719
 title: "Dienstplan: Effiziente Schichtplanung mit Excel"
 vendor: "CemisCode"
 product_type: "Downloads"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.61
+earnings_per_sale: 4.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Software"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.cemiscode.com/dienstplan/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dienstplan: Effiziente Schichtplanung mit Excel
 
 > Product ID `46816` · Digistore24 productId `525719` · [HTML profile page](../../produkte/dienstplan-effiziente-schichtplanung-mit-excel-46816.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.61 |
+| Earnings/sale* | $4.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CemisCode |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dienstplan: Effiziente Schichtplanung mit Excel? — Typ: Downloads, Anbieter: CemisCode, gelistet seit 2023-11-17
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

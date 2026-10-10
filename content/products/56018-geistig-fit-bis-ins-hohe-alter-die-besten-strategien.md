@@ -4,15 +4,15 @@ digistore24_product_id: 678953
 title: "Geistig fit bis ins hohe Alter - Die besten Strategien"
 vendor: "Freifone"
 product_type: "E-books"
-price: 46.99
+price: 47.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.5
+earnings_per_sale: 23.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2026-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/geistig-fit-bis-ins-hohe-alter?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geistig fit bis ins hohe Alter - Die besten Strategien
 
 > Product ID `56018` · Digistore24 productId `678953` · [HTML profile page](../../produkte/geistig-fit-bis-ins-hohe-alter-die-besten-strategien-56018.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $46.99 (Single payment) |
+| Price | $47.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geistig fit bis ins hohe Alter - Die besten Strategien? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-24
-- Wie viel kostet es? — 46.992385999999996 USD
+- Wie viel kostet es? — 47.076406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

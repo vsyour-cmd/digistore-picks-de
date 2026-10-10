@@ -4,15 +4,15 @@ digistore24_product_id: 682175
 title: "Hypnobreath Bibliothek I Alle Sessions"
 vendor: "fabianries"
 product_type: "Member area and video courses"
-price: 373.18
+price: 373.84
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 88.06
+earnings_per_sale: 88.21
 cart_conversion_pct: 4
 cancel_rate_pct: 2.87
 categories: ["Personal Development"]
 listed_since: "2026-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hypnobreath.de/kurse?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnobreath Bibliothek I Alle Sessions
 
 > Product ID `56196` · Digistore24 productId `682175` · [HTML profile page](../../produkte/hypnobreath-bibliothek-i-alle-sessions-56196.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $373.18 (Subscription) |
+| Price | $373.84 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $88.06 |
+| Earnings/sale* | $88.21 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.87% |
 | Vendor | fabianries |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnobreath Bibliothek I Alle Sessions? — Typ: Member area and video courses, Anbieter: fabianries, gelistet seit 2026-04-04
-- Wie viel kostet es? — 373.176146 USD
+- Wie viel kostet es? — 373.843366 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

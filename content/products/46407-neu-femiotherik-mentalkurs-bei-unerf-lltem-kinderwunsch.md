@@ -4,15 +4,15 @@ digistore24_product_id: 528239
 title: "[NEU} FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!"
 vendor: "rkovarik"
 product_type: "Audio book (download)"
-price: 19.33
+price: 19.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.73
+earnings_per_sale: 7.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2023-12-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://femiotherik.de/digistore-partnerbereich/digi-horbuch-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-konnen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU} FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!
 
 > Product ID `46407` · Digistore24 productId `528239` · [HTML profile page](../../produkte/neu-femiotherik-mentalkurs-bei-unerf-lltem-kinderwunsch-46407.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $19.33 (Single payment) |
+| Price | $19.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.73 |
+| Earnings/sale* | $7.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rkovarik |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU} FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!? — Typ: Audio book (download), Anbieter: rkovarik, gelistet seit 2023-12-04
-- Wie viel kostet es? — 19.329408 USD
+- Wie viel kostet es? — 19.363968000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

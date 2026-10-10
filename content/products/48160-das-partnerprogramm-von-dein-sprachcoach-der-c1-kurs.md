@@ -4,15 +4,15 @@ digistore24_product_id: 551151
 title: "Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs"
 vendor: "DeinSprachcoach"
 product_type: "Member area and video courses"
-price: 268.05
+price: 268.53
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 104.89
+earnings_per_sale: 105.08
 cart_conversion_pct: 4
 cancel_rate_pct: 2.13
 categories: ["Education"]
 listed_since: "2024-05-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dein-sprachcoach.de/c1-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
 
 > Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $268.05 (Single payment, Installment) |
+| Price | $268.53 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $104.89 |
+| Earnings/sale* | $105.08 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.13% |
 | Vendor | DeinSprachcoach |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs? — Typ: Member area and video courses, Anbieter: DeinSprachcoach, gelistet seit 2024-05-05
-- Wie viel kostet es? — 268.050118 USD
+- Wie viel kostet es? — 268.529378 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

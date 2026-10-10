@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2023-06-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Black-Book-of-FB-Groups?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # "The Black Book of Facebook Groups" E-Book + Minikurs
 
 > Product ID `44487` · Digistore24 productId `503958` · [HTML profile page](../../produkte/the-black-book-of-facebook-groups-e-book-minikurs-44487.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "The Black Book of Facebook Groups" E-Book + Minikurs? — Typ: E-books, Anbieter: MSchlinder, gelistet seit 2023-06-21
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 352781
 title: "Vegan und glutenfrei Frühstücken - 30 leckere Rezepte"
 vendor: "tastykaty"
 product_type: "E-books"
-price: 12.49
+price: 12.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.25
+earnings_per_sale: 6.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-10-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://tastykaty.de/vegan-glutenfrei-fruehstuecken-e-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vegan und glutenfrei Frühstücken - 30 leckere Rezepte
 
 > Product ID `34420` · Digistore24 productId `352781` · [HTML profile page](../../produkte/vegan-und-glutenfrei-fr-hst-cken-30-leckere-rezepte-34420.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.49 (Single payment) |
+| Price | $12.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tastykaty |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan und glutenfrei Frühstücken - 30 leckere Rezepte? — Typ: E-books, Anbieter: tastykaty, gelistet seit 2020-10-18
-- Wie viel kostet es? — 12.494762 USD
+- Wie viel kostet es? — 12.517102 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

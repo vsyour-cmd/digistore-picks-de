@@ -4,15 +4,15 @@ digistore24_product_id: 695863
 title: "100-Tage-Workbook für einen guten Übergang in den Ruhestand"
 vendor: "ruhestandmitplan"
 product_type: "Downloads"
-price: 22.56
+price: 22.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.29
+earnings_per_sale: 11.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://ruhestand-mit-plan.com/100-tage-plan?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 100-Tage-Workbook für einen guten Übergang in den Ruhestand
 
 > Product ID `57735` · Digistore24 productId `695863` · [HTML profile page](../../produkte/100-tage-workbook-f-r-einen-guten-bergang-in-den-ruhestand-57735.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.56 (Single payment) |
+| Price | $22.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.29 |
+| Earnings/sale* | $11.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ruhestandmitplan |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100-Tage-Workbook für einen guten Übergang in den Ruhestand? — Typ: Downloads, Anbieter: ruhestandmitplan, gelistet seit 2026-07-24
-- Wie viel kostet es? — 22.562162000000004 USD
+- Wie viel kostet es? — 22.602502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

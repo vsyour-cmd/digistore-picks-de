@@ -4,15 +4,15 @@ digistore24_product_id: 450935
 title: "Paarmassage Geschenkbox – Erlebnis zum Auspacken"
 vendor: "magoody"
 product_type: "Deliverable"
-price: 58.26
+price: 58.36
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 24.92
+earnings_per_sale: 24.97
 cart_conversion_pct: 10
 cancel_rate_pct: 1.73
 categories: ["Health & Fitness"]
 listed_since: "2022-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Paarmassage Geschenkbox – Erlebnis zum Auspacken
 
 > Product ID `40794` · Digistore24 productId `450935` · [HTML profile page](../../produkte/paarmassage-geschenkbox-erlebnis-zum-auspacken-40794.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $58.26 (Single payment) |
+| Price | $58.36 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $24.92 |
+| Earnings/sale* | $24.97 |
 | Cart conversion* | 10% |
 | Cancel rate* | 1.73% |
 | Vendor | magoody |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paarmassage Geschenkbox – Erlebnis zum Auspacken? — Typ: Deliverable, Anbieter: magoody, gelistet seit 2022-07-13
-- Wie viel kostet es? — 58.256688 USD
+- Wie viel kostet es? — 58.360848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

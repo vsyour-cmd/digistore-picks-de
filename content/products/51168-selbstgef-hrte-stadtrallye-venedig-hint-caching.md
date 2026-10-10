@@ -4,15 +4,15 @@ digistore24_product_id: 485124
 title: "Selbstgeführte Stadtrallye Venedig | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.22
+earnings_per_sale: 9.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2023-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-venedig/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Venedig | Hint-Caching
 
 > Product ID `51168` · Digistore24 productId `485124` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-venedig-hint-caching-51168.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.22 |
+| Earnings/sale* | $9.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hintcaching |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Venedig | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2023-02-18
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

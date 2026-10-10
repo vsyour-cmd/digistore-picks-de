@@ -4,15 +4,15 @@ digistore24_product_id: 699040
 title: "ETERNUM Digital Business System – 50% auf den ganzen Funnel"
 vendor: "megareichtum"
 product_type: "Downloads"
-price: 44.18
+price: 44.26
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 26.51
+earnings_per_sale: 26.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-06-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/system?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM Digital Business System – 50% auf den ganzen Funnel
 
 > Product ID `56828` · Digistore24 productId `699040` · [HTML profile page](../../produkte/eternum-digital-business-system-50-auf-den-ganzen-funnel-56828.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.18 (Single payment) |
+| Price | $44.26 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $26.51 |
+| Earnings/sale* | $26.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM Digital Business System – 50% auf den ganzen Funnel? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-06-07
-- Wie viel kostet es? — 44.1847 USD
+- Wie viel kostet es? — 44.2637 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

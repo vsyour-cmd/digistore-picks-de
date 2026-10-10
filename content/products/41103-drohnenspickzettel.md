@@ -4,7 +4,7 @@ digistore24_product_id: 458745
 title: "Drohnenspickzettel"
 vendor: "EliasO"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film"]
 listed_since: "2022-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://eliasobersteiner.wixsite.com/meinewebsite/drohnenspickzettel-digistore?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Drohnenspickzettel
 
 > Product ID `41103` · Digistore24 productId `458745` · [HTML profile page](../../produkte/drohnenspickzettel-41103.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | — |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Drohnenspickzettel? — Typ: Downloads, Anbieter: EliasO, gelistet seit 2022-09-04
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

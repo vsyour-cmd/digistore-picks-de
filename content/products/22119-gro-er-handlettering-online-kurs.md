@@ -4,15 +4,15 @@ digistore24_product_id: 191879
 title: "Großer Handlettering Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 76.59
+price: 76.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.38
+earnings_per_sale: 37.45
 cart_conversion_pct: 23
 cancel_rate_pct: 0.39
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2018-01-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://handletteringlernen.de/handlettering-online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Großer Handlettering Online Kurs
 
 > Product ID `22119` · Digistore24 productId `191879` · [HTML profile page](../../produkte/gro-er-handlettering-online-kurs-22119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $76.59 (Single payment, Installment) |
+| Price | $76.73 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.38 |
+| Earnings/sale* | $37.45 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.39% |
 | Vendor | Timothy90 |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Großer Handlettering Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2018-01-06
-- Wie viel kostet es? — 76.590542 USD
+- Wie viel kostet es? — 76.727482 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

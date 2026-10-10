@@ -4,15 +4,15 @@ digistore24_product_id: 544220
 title: "Mira, der Chatbot der Heilenergetik - Premium"
 vendor: "StefanieMenzel"
 product_type: "Member area and video courses"
-price: 31.02
+price: 31.07
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.19
+earnings_per_sale: 9.21
 cart_conversion_pct: 28
 cancel_rate_pct: 0.59
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://fragdochmenzel.net/_premium_abo/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mira, der Chatbot der Heilenergetik - Premium
 
 > Product ID `48327` · Digistore24 productId `544220` · [HTML profile page](../../produkte/mira-der-chatbot-der-heilenergetik-premium-48327.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $31.02 (Subscription) |
+| Price | $31.07 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.19 |
+| Earnings/sale* | $9.21 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0.59% |
 | Vendor | StefanieMenzel |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mira, der Chatbot der Heilenergetik - Premium? — Typ: Member area and video courses, Anbieter: StefanieMenzel, gelistet seit 2024-03-19
-- Wie viel kostet es? — 31.018778 USD
+- Wie viel kostet es? — 31.074238 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

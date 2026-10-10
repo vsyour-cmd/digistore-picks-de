@@ -4,15 +4,15 @@ digistore24_product_id: 627890
 title: "Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision"
 vendor: "jusaconsulting"
 product_type: "Member area and video courses"
-price: 241.43
+price: 241.86
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 71.28
+earnings_per_sale: 71.4
 cart_conversion_pct: 7
 cancel_rate_pct: 7.53
 categories: ["Social Media"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision
 
 > Product ID `53596` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creaitor-clone-ki-fotos-und-videos-70-provision-53596.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $241.43 (Single payment) |
+| Price | $241.86 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $71.28 |
+| Earnings/sale* | $71.40 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.53% |
 | Vendor | jusaconsulting |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision? — Typ: Member area and video courses, Anbieter: jusaconsulting, gelistet seit 2025-08-05
-- Wie viel kostet es? — 241.42743800000002 USD
+- Wie viel kostet es? — 241.85909800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

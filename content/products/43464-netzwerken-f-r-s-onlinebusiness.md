@@ -4,15 +4,15 @@ digistore24_product_id: 473279
 title: "Netzwerken für's Onlinebusiness"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 489.75
+price: 490.62
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 48.97
+earnings_per_sale: 49.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/473279?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Netzwerken für's Onlinebusiness
 
 > Product ID `43464` · Digistore24 productId `473279` · [HTML profile page](../../produkte/netzwerken-f-r-s-onlinebusiness-43464.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $489.75 (Single payment, Installment) |
+| Price | $490.62 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $48.97 |
+| Earnings/sale* | $49.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Netzwerken für's Onlinebusiness? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-12-04
-- Wie viel kostet es? — 489.745452 USD
+- Wie viel kostet es? — 490.62109200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

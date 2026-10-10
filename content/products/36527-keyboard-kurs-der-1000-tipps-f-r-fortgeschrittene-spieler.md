@@ -4,15 +4,15 @@ digistore24_product_id: 13293
 title: "Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler"
 vendor: "doormaker"
 product_type: "Member area and video courses"
-price: 1060.32
+price: 1062.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 530.16
+earnings_per_sale: 531.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2013-06-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://onlinemusikschule.info/am-genos-keyboard-lernen-fortgeschritten-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler
 
 > Product ID `36527` · Digistore24 productId `13293` · [HTML profile page](../../produkte/keyboard-kurs-der-1000-tipps-f-r-fortgeschrittene-spieler-36527.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1060.32 (Installment) |
+| Price | $1062.22 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $530.16 |
+| Earnings/sale* | $531.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | doormaker |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Keyboard Kurs der 1000 Tipps für fortgeschrittene Spieler? — Typ: Member area and video courses, Anbieter: doormaker, gelistet seit 2013-06-26
-- Wie viel kostet es? — 1060.32094 USD
+- Wie viel kostet es? — 1062.21674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

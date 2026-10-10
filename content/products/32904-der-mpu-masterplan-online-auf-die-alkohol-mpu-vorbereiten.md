@@ -4,15 +4,15 @@ digistore24_product_id: 308549
 title: "Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten"
 vendor: "jh3011"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 140.72
+earnings_per_sale: 140.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-02-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://mpu-konkret.de/alkohol-vorbereitungskurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten
 
 > Product ID `32904` · Digistore24 productId `308549` · [HTML profile page](../../produkte/der-mpu-masterplan-online-auf-die-alkohol-mpu-vorbereiten-32904.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Single payment, Installment) |
+| Price | $469.90 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $140.72 |
+| Earnings/sale* | $140.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jh3011 |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten? — Typ: Member area and video courses, Anbieter: jh3011, gelistet seit 2020-02-17
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

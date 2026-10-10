@@ -4,15 +4,15 @@ digistore24_product_id: 432992
 title: "Harmonicademy Abo-Modell"
 vendor: "harmonicademy"
 product_type: "Member area and video courses"
-price: 202.48
+price: 202.84
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 96.39
+earnings_per_sale: 96.56
 cart_conversion_pct: 6
 cancel_rate_pct: 5.61
 categories: ["Dancing & Music"]
 listed_since: "2022-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.harmonicademy.com/einzellieder/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Harmonicademy Abo-Modell
 
 > Product ID `39624` · Digistore24 productId `432992` · [HTML profile page](../../produkte/harmonicademy-abo-modell-39624.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $202.48 (Subscription) |
+| Price | $202.84 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $96.39 |
+| Earnings/sale* | $96.56 |
 | Cart conversion* | 6% |
 | Cancel rate* | 5.61% |
 | Vendor | harmonicademy |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Harmonicademy Abo-Modell? — Typ: Member area and video courses, Anbieter: harmonicademy, gelistet seit 2022-03-07
-- Wie viel kostet es? — 202.477786 USD
+- Wie viel kostet es? — 202.839806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

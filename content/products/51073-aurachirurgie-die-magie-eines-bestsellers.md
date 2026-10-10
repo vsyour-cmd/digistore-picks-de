@@ -4,15 +4,15 @@ digistore24_product_id: 587210
 title: "Aurachirurgie - die Magie eines Bestsellers"
 vendor: "mindstream"
 product_type: "Book (printed)"
-price: 321.25
+price: 321.83
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 13.03
+earnings_per_sale: 13.05
 cart_conversion_pct: 8
 cancel_rate_pct: 1.5
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/587210?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Aurachirurgie - die Magie eines Bestsellers
 
 > Product ID `51073` · Digistore24 productId `587210` · [HTML profile page](../../produkte/aurachirurgie-die-magie-eines-bestsellers-51073.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $321.25 (Single payment) |
+| Price | $321.83 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $13.03 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.5% |
 | Vendor | mindstream |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aurachirurgie - die Magie eines Bestsellers? — Typ: Book (printed), Anbieter: mindstream, gelistet seit 2024-12-21
-- Wie viel kostet es? — 321.250734 USD
+- Wie viel kostet es? — 321.825114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

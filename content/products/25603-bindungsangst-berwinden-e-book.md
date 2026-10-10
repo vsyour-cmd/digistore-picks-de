@@ -4,15 +4,15 @@ digistore24_product_id: 217159
 title: "Bindungsangst überwinden [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 8.26
+price: 8.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.13
+earnings_per_sale: 4.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2018-04-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/bindungsangst-ueberwinden/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bindungsangst überwinden [E-Book]
 
 > Product ID `25603` · Digistore24 productId `217159` · [HTML profile page](../../produkte/bindungsangst-berwinden-e-book-25603.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.26 (Single payment) |
+| Price | $8.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.13 |
+| Earnings/sale* | $4.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bindungsangst überwinden [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2018-04-24
-- Wie viel kostet es? — 8.255268000000001 USD
+- Wie viel kostet es? — 8.270028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 709846
 title: "Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.81
+earnings_per_sale: 13.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zum-datenschutz-dsgvo/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen
 
 > Product ID `57524` · Digistore24 productId `709846` · [HTML profile page](../../produkte/weiterbildung-zum-datenschutz-dsgvo-f-r-unternehmer-innen-57524.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.81 |
+| Earnings/sale* | $13.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

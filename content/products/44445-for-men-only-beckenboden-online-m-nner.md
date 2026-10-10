@@ -4,15 +4,15 @@ digistore24_product_id: 501740
 title: "for men only \"Beckenboden-ONLINE Männer\""
 vendor: "SilkeTiede"
 product_type: "Member area and video courses"
-price: 235
+price: 235.42
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.5
+earnings_per_sale: 23.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-maenner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # for men only "Beckenboden-ONLINE Männer"
 
 > Product ID `44445` · Digistore24 productId `501740` · [HTML profile page](../../produkte/for-men-only-beckenboden-online-m-nner-44445.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $235.00 (Single payment) |
+| Price | $235.42 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SilkeTiede |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist for men only "Beckenboden-ONLINE Männer"? — Typ: Member area and video courses, Anbieter: SilkeTiede, gelistet seit 2023-06-05
-- Wie viel kostet es? — 234.99548800000002 USD
+- Wie viel kostet es? — 235.41564800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

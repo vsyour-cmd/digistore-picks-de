@@ -4,15 +4,15 @@ digistore24_product_id: 196089
 title: "ALOE-VERA Produkte selber machen"
 vendor: "chef63"
 product_type: "Downloads"
-price: 6.49
+price: 6.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.24
+earnings_per_sale: 3.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-01-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://aloe-vera.funnelcockpit.com/produkte/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ALOE-VERA Produkte selber machen
 
 > Product ID `22435` · Digistore24 productId `196089` · [HTML profile page](../../produkte/aloe-vera-produkte-selber-machen-22435.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.49 (Single payment) |
+| Price | $6.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.24 |
+| Earnings/sale* | $3.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chef63 |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALOE-VERA Produkte selber machen? — Typ: Downloads, Anbieter: chef63, gelistet seit 2018-01-24
-- Wie viel kostet es? — 6.48788 USD
+- Wie viel kostet es? — 6.49948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

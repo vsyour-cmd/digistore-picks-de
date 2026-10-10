@@ -4,7 +4,7 @@ digistore24_product_id: 740175
 title: "Aktiv und satt – 21-Tage-Fitnesschallenge mit Trainings- und"
 vendor: "selinascheerer934dbc"
 product_type: "E-books"
-price: 4.13
+price: 4.14
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 1.66
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740175?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Aktiv und satt – 21-Tage-Fitnesschallenge mit Trainings- und
 
 > Product ID `60113` · Digistore24 productId `740175` · [HTML profile page](../../produkte/aktiv-und-satt-21-tage-fitnesschallenge-mit-trainings-und-60113.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $4.13 (Single payment) |
+| Price | $4.14 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $1.66 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aktiv und satt – 21-Tage-Fitnesschallenge mit Trainings- und? — Typ: E-books, Anbieter: selinascheerer934dbc, gelistet seit 2026-10-01
-- Wie viel kostet es? — 4.1276340000000005 USD
+- Wie viel kostet es? — 4.135014 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

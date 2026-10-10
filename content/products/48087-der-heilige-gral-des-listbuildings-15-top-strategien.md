@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Der-heilige-Gral?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Der heilige Gral des Listbuildings: 15 top Strategien
 
 > Product ID `48087` · Digistore24 productId `551964` · [HTML profile page](../../produkte/der-heilige-gral-des-listbuildings-15-top-strategien-48087.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der heilige Gral des Listbuildings: 15 top Strategien? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-05-12
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

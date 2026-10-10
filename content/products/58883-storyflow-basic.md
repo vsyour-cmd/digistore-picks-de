@@ -4,15 +4,15 @@ digistore24_product_id: 720863
 title: "StoryFlow - Basic"
 vendor: "Verdienst-Kompass"
 product_type: "Software"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.52
+earnings_per_sale: 7.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://story-flow-ai.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # StoryFlow - Basic
 
 > Product ID `58883` · Digistore24 productId `720863` · [HTML profile page](../../produkte/storyflow-basic-58883.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.79 (Single payment, Installment) |
+| Price | $18.83 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.52 |
+| Earnings/sale* | $7.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Verdienst-Kompass |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StoryFlow - Basic? — Typ: Software, Anbieter: Verdienst-Kompass, gelistet seit 2026-09-02
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

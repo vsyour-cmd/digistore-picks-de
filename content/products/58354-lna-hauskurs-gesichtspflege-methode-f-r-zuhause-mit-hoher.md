@@ -4,15 +4,15 @@ digistore24_product_id: 715479
 title: "LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher"
 vendor: "L-N-Academy"
 product_type: "Member area and video courses"
-price: 329
+price: 329.59
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.71
+earnings_per_sale: 98.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.l-n-a.com/lna-hauskurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher
 
 > Product ID `58354` · Digistore24 productId `715479` · [HTML profile page](../../produkte/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $329.00 (Single payment) |
+| Price | $329.59 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.71 |
+| Earnings/sale* | $98.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | L-N-Academy |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher? — Typ: Member area and video courses, Anbieter: L-N-Academy, gelistet seit 2026-08-14
-- Wie viel kostet es? — 329.002632 USD
+- Wie viel kostet es? — 329.590872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

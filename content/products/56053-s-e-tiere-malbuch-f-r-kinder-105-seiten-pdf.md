@@ -4,15 +4,15 @@ digistore24_product_id: 678280
 title: "Süße Tiere Malbuch für Kinder – 105 Seiten PDF"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 13.62
+price: 13.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.81
+earnings_per_sale: 6.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-03-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ausmalbush24-de.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Süße Tiere Malbuch für Kinder – 105 Seiten PDF
 
 > Product ID `56053` · Digistore24 productId `678280` · [HTML profile page](../../produkte/s-e-tiere-malbuch-f-r-kinder-105-seiten-pdf-56053.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.62 (Single payment) |
+| Price | $13.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.81 |
+| Earnings/sale* | $6.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Süße Tiere Malbuch für Kinder – 105 Seiten PDF? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-03-22
-- Wie viel kostet es? — 13.624548 USD
+- Wie viel kostet es? — 13.648908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

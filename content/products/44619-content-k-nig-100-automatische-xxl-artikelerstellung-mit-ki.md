@@ -4,15 +4,15 @@ digistore24_product_id: 540204
 title: "Content König-100% automatische XXL-Artikelerstellung mit KI"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 281.06
+price: 281.56
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.27
+earnings_per_sale: 70.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://contentkoenig.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Content König-100% automatische XXL-Artikelerstellung mit KI
 
 > Product ID `44619` · Digistore24 productId `540204` · [HTML profile page](../../produkte/content-k-nig-100-automatische-xxl-artikelerstellung-mit-ki-44619.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.06 (Subscription) |
+| Price | $281.56 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.27 |
+| Earnings/sale* | $70.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content König-100% automatische XXL-Artikelerstellung mit KI? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2024-02-22
-- Wie viel kostet es? — 281.059436 USD
+- Wie viel kostet es? — 281.561956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

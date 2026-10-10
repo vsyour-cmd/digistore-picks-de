@@ -4,15 +4,15 @@ digistore24_product_id: 402815
 title: "Dein Minikurs in 24h!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 46.56
+price: 46.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.75
+earnings_per_sale: 14.78
 cart_conversion_pct: 4
 cancel_rate_pct: 1.21
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/minikurs-in-24h/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Minikurs in 24h!
 
 > Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../produkte/dein-minikurs-in-24h-37444.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.56 (Single payment, Installment) |
+| Price | $46.64 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.75 |
+| Earnings/sale* | $14.78 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.21% |
 | Vendor | Jyotima |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Minikurs in 24h!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2021-08-16
-- Wie viel kostet es? — 46.556132 USD
+- Wie viel kostet es? — 46.639372 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

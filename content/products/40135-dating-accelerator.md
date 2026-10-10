@@ -4,15 +4,15 @@ digistore24_product_id: 443639
 title: "Dating Accelerator"
 vendor: "herozon"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.59
+earnings_per_sale: 45.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/443639?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dating Accelerator
 
 > Product ID `40135` · Digistore24 productId `443639` · [HTML profile page](../../produkte/dating-accelerator-40135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.59 |
+| Earnings/sale* | $45.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herozon |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dating Accelerator? — Typ: Member area and video courses, Anbieter: herozon, gelistet seit 2022-05-21
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

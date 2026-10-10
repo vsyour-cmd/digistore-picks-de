@@ -4,15 +4,15 @@ digistore24_product_id: 728676
 title: "Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 15.65
+earnings_per_sale: 15.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728676?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch
 
 > Product ID `58896` · Digistore24 productId `728676` · [HTML profile page](../../produkte/das-ultimative-mega-bundle-der-magischen-abenteuer-3-magisch-58896.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $15.65 |
+| Earnings/sale* | $15.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | a968403496d45 |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-09-03
-- Wie viel kostet es? — 22.360813999999998 USD
+- Wie viel kostet es? — 22.400793999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

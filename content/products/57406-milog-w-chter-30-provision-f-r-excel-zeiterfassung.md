@@ -4,15 +4,15 @@ digistore24_product_id: 706672
 title: "MiLoG-Wächter — 30% Provision für Excel-Zeiterfassung"
 vendor: "martinburr1a63"
 product_type: "Downloads"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11
+earnings_per_sale: 11.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706672?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MiLoG-Wächter — 30% Provision für Excel-Zeiterfassung
 
 > Product ID `57406` · Digistore24 productId `706672` · [HTML profile page](../../produkte/milog-w-chter-30-provision-f-r-excel-zeiterfassung-57406.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.00 |
+| Earnings/sale* | $11.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | martinburr1a63 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MiLoG-Wächter — 30% Provision für Excel-Zeiterfassung? — Typ: Downloads, Anbieter: martinburr1a63, gelistet seit 2026-07-05
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

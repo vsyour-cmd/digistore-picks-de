@@ -4,7 +4,7 @@ digistore24_product_id: 508793
 title: "Kontakt findet an der Grenze statt"
 vendor: "MirjamBuchmann"
 product_type: "E-books"
-price: 20.38
+price: 20.42
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.04
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2023-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/508793?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Kontakt findet an der Grenze statt
 
 > Product ID `44823` · Digistore24 productId `508793` · [HTML profile page](../../produkte/kontakt-findet-an-der-grenze-statt-44823.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.38 (Single payment) |
+| Price | $20.42 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.04 |
 | Cart conversion* | — |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kontakt findet an der Grenze statt? — Typ: E-books, Anbieter: MirjamBuchmann, gelistet seit 2023-07-25
-- Wie viel kostet es? — 20.380892 USD
+- Wie viel kostet es? — 20.417332 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

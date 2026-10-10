@@ -4,15 +4,15 @@ digistore24_product_id: 703358
 title: "Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 375.06
+price: 375.73
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 56.25
+earnings_per_sale: 56.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://affyro.com/b2b-services.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)
 
 > Product ID `57053` · Digistore24 productId `703358` · [HTML profile page](../../produkte/affyro-b2b-premium-webdesign-visitenkarte-bis-onlineshop-57053.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $375.06 (Single payment, Installment) |
+| Price | $375.73 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $56.25 |
+| Earnings/sale* | $56.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-06-19
-- Wie viel kostet es? — 375.05539400000004 USD
+- Wie viel kostet es? — 375.72597400000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

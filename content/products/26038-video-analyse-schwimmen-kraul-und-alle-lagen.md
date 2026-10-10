@@ -4,15 +4,15 @@ digistore24_product_id: 229099
 title: "Video-Analyse Schwimmen (Kraul und alle Lagen)"
 vendor: "jschueren"
 product_type: "Remote service provided electronically"
-price: 46.99
+price: 47.08
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/229099/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Video-Analyse Schwimmen (Kraul und alle Lagen)
 
 > Product ID `26038` · Digistore24 productId `229099` · [HTML profile page](../../produkte/video-analyse-schwimmen-kraul-und-alle-lagen-26038.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $46.99 (Single payment) |
+| Price | $47.08 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jschueren |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Analyse Schwimmen (Kraul und alle Lagen)? — Typ: Remote service provided electronically, Anbieter: jschueren, gelistet seit 2018-06-20
-- Wie viel kostet es? — 46.992385999999996 USD
+- Wie viel kostet es? — 47.076406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

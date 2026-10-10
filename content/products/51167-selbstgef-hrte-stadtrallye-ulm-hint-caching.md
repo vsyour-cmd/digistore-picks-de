@@ -4,15 +4,15 @@ digistore24_product_id: 423116
 title: "Selbstgeführte Stadtrallye Ulm | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 25.18
+price: 25.22
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.98
+earnings_per_sale: 7.99
 cart_conversion_pct: 10
 cancel_rate_pct: 1.75
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2022-01-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-ulm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Ulm | Hint-Caching
 
 > Product ID `51167` · Digistore24 productId `423116` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-ulm-hint-caching-51167.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.18 (Single payment) |
+| Price | $25.22 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.98 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | 10% |
 | Cancel rate* | 1.75% |
 | Vendor | hintcaching |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Ulm | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-01-04
-- Wie viel kostet es? — 25.179686000000004 USD
+- Wie viel kostet es? — 25.224706 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 683766
 title: "Lostminer – Der einfache Einstieg"
 vendor: "Kerem88"
 product_type: "Software"
-price: 56.39
+price: 56.49
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances","Marketing Services"]
 listed_since: "2026-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://keremcapone.systeme.io/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lostminer – Der einfache Einstieg
 
 > Product ID `56813` · Digistore24 productId `683766` · [HTML profile page](../../produkte/lostminer-der-einfache-einstieg-56813.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $56.39 (Single payment) |
+| Price | $56.49 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kerem88 |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lostminer – Der einfache Einstieg? — Typ: Software, Anbieter: Kerem88, gelistet seit 2026-06-05
-- Wie viel kostet es? — 56.388625999999995 USD
+- Wie viel kostet es? — 56.489446 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

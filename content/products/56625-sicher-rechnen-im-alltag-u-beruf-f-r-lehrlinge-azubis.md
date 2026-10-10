@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/sicher-rechnen-im-alltag-beruf/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Sicher Rechnen im Alltag u. Beruf für Lehrlinge/Azubis
 
 > Product ID `56625` · Digistore24 productId `692262` · [HTML profile page](../../produkte/sicher-rechnen-im-alltag-u-beruf-f-r-lehrlinge-azubis-56625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

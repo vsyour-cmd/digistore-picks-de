@@ -4,15 +4,15 @@ digistore24_product_id: 668613
 title: "E-Book „Erfolgsfaktor Autohaus“"
 vendor: "ManuDo"
 product_type: "E-books"
-price: 41.71
+price: 41.79
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.34
+earnings_per_sale: 8.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-02-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/668613?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book „Erfolgsfaktor Autohaus“
 
 > Product ID `55633` · Digistore24 productId `668613` · [HTML profile page](../../produkte/e-book-erfolgsfaktor-autohaus-55633.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.71 (Single payment) |
+| Price | $41.79 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManuDo |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book „Erfolgsfaktor Autohaus“? — Typ: E-books, Anbieter: ManuDo, gelistet seit 2026-02-13
-- Wie viel kostet es? — 41.712594 USD
+- Wie viel kostet es? — 41.787174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

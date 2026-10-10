@@ -4,15 +4,15 @@ digistore24_product_id: 296282
 title: "Sisers Stretching - Stretchingprogramm für Tänzer"
 vendor: "Sisers-Stretching"
 product_type: "Member area and video courses"
-price: 360.85
+price: 361.49
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.75
+earnings_per_sale: 4.76
 cart_conversion_pct: 35
 cancel_rate_pct: 0.53
 categories: ["Sport"]
 listed_since: "2019-11-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sisers-stretching.at/stretching-programm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sisers Stretching - Stretchingprogramm für Tänzer
 
 > Product ID `29962` · Digistore24 productId `296282` · [HTML profile page](../../produkte/sisers-stretching-stretchingprogramm-f-r-t-nzer-29962.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $360.85 (Subscription) |
+| Price | $361.49 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.75 |
+| Earnings/sale* | $4.76 |
 | Cart conversion* | 35% |
 | Cancel rate* | 0.53% |
 | Vendor | Sisers-Stretching |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sisers Stretching - Stretchingprogramm für Tänzer? — Typ: Member area and video courses, Anbieter: Sisers-Stretching, gelistet seit 2019-11-22
-- Wie viel kostet es? — 360.849174 USD
+- Wie viel kostet es? — 361.494354 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 574111
 title: "Bot-Business Mastery"
 vendor: "AffiliForge"
 product_type: "Member area and video courses"
-price: 143.07
+price: 143.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 71.53
+earnings_per_sale: 71.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Bot-Mastery?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bot-Business Mastery
 
 > Product ID `49995` · Digistore24 productId `574111` · [HTML profile page](../../produkte/bot-business-mastery-49995.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $143.07 (Single payment) |
+| Price | $143.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $71.53 |
+| Earnings/sale* | $71.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AffiliForge |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bot-Business Mastery? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-10-08
-- Wie viel kostet es? — 143.06894 USD
+- Wie viel kostet es? — 143.32474000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 10451
 title: "Laufband-Werbung auf 4 Werbeplattformen (7 Tage)"
 vendor: "kostenlos"
 product_type: "Remote service provided electronically"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 6.34
+earnings_per_sale: 6.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Services","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://maximails.de/laufband/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Laufband-Werbung auf 4 Werbeplattformen (7 Tage)
 
 > Product ID `60041` · Digistore24 productId `10451` · [HTML profile page](../../produkte/laufband-werbung-auf-4-werbeplattformen-7-tage-60041.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $6.34 |
+| Earnings/sale* | $6.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kostenlos |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Laufband-Werbung auf 4 Werbeplattformen (7 Tage)? — Typ: Remote service provided electronically, Anbieter: kostenlos, gelistet seit 2026-09-29
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 510260
 title: "Seelenplan Report: 180 Tage Garantie, Lifetimeprovision"
 vendor: "GeorgMartinka"
 product_type: "E-books"
-price: 32.72
+price: 32.78
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 4.71
+earnings_per_sale: 4.72
 cart_conversion_pct: 37
 cancel_rate_pct: 4.35
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2023-08-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://sandrahirsch.com/seelenplan?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
 > Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../produkte/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.72 (Single payment) |
+| Price | $32.78 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.72 |
 | Cart conversion* | 37% |
 | Cancel rate* | 4.35% |
 | Vendor | GeorgMartinka |
@@ -62,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seelenplan Report: 180 Tage Garantie, Lifetimeprovision? — Typ: E-books, Anbieter: GeorgMartinka, gelistet seit 2023-08-04
-- Wie viel kostet es? — 32.71905 USD
+- Wie viel kostet es? — 32.77755 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

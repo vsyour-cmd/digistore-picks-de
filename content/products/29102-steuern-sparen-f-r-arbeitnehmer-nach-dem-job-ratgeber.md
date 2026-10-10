@@ -4,15 +4,15 @@ digistore24_product_id: 274687
 title: "Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)"
 vendor: "TEESchulze"
 product_type: "E-books"
-price: 72.14
+price: 72.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.07
+earnings_per_sale: 36.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Law & Justice","Profession & Job"]
 listed_since: "2019-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.abfindunginfo.de/abfindungsrechner-mein-persoenliches-dankeschoen.html/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)
 
 > Product ID `29102` · Digistore24 productId `274687` · [HTML profile page](../../produkte/steuern-sparen-f-r-arbeitnehmer-nach-dem-job-ratgeber-29102.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.14 (Single payment) |
+| Price | $72.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.07 |
+| Earnings/sale* | $36.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TEESchulze |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)? — Typ: E-books, Anbieter: TEESchulze, gelistet seit 2019-06-06
-- Wie viel kostet es? — 72.138514 USD
+- Wie viel kostet es? — 72.267494 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 462653
 title: "Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 43.44
+price: 43.51
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 6.13
+earnings_per_sale: 6.14
 cart_conversion_pct: 13
 cancel_rate_pct: 1.35
 categories: ["Health & Fitness"]
 listed_since: "2022-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit
 
 > Product ID `35866` · Digistore24 productId `462653` · [HTML profile page](../../produkte/ralf-molls-onlinekurse-f-r-fasten-abnehmen-gesundheit-35866.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $43.44 (Single payment) |
+| Price | $43.51 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $6.13 |
+| Earnings/sale* | $6.14 |
 | Cart conversion* | 13% |
 | Cancel rate* | 1.35% |
 | Vendor | RalfMollFastensuppen |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2022-09-29
-- Wie viel kostet es? — 43.435238 USD
+- Wie viel kostet es? — 43.512898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

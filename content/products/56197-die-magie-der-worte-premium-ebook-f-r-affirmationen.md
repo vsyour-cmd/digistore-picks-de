@@ -4,15 +4,15 @@ digistore24_product_id: 681264
 title: "Die Magie der Worte – Premium-eBook für Affirmationen"
 vendor: "Motivation-Lebensfreude"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.89
+earnings_per_sale: 8.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://motivation-lebensfreude.de/ebook/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Magie der Worte – Premium-eBook für Affirmationen
 
 > Product ID `56197` · Digistore24 productId `681264` · [HTML profile page](../../produkte/die-magie-der-worte-premium-ebook-f-r-affirmationen-56197.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.89 |
+| Earnings/sale* | $8.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Motivation-Lebensfreude |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Magie der Worte – Premium-eBook für Affirmationen? — Typ: E-books, Anbieter: Motivation-Lebensfreude, gelistet seit 2026-04-01
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

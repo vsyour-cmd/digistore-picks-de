@@ -4,15 +4,15 @@ digistore24_product_id: 391836
 title: "Qigong Online Präventionskurs"
 vendor: "DirkOrt"
 product_type: "Member area and video courses"
-price: 103.4
+price: 103.59
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.3
+earnings_per_sale: 35.37
 cart_conversion_pct: 6
 cancel_rate_pct: 4.65
 categories: ["Health & Fitness"]
 listed_since: "2021-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Qigong Online Präventionskurs
 
 > Product ID `39518` · Digistore24 productId `391836` · [HTML profile page](../../produkte/qigong-online-pr-ventionskurs-39518.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $103.40 (Single payment) |
+| Price | $103.59 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.30 |
+| Earnings/sale* | $35.37 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.65% |
 | Vendor | DirkOrt |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Qigong Online Präventionskurs? — Typ: Member area and video courses, Anbieter: DirkOrt, gelistet seit 2021-05-27
-- Wie viel kostet es? — 103.403384 USD
+- Wie viel kostet es? — 103.588264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 334784
 title: "Astrologische Beratung - Radix-Reading Geburtshoroskop"
 vendor: "starsandbusiness"
 product_type: "Remote service provided electronically"
-price: 545.19
+price: 546.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 98.65
+earnings_per_sale: 98.83
 cart_conversion_pct: 5
 cancel_rate_pct: 3.02
 categories: ["Personal Development"]
 listed_since: "2020-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://starsandbusiness.de/astrologie-beratung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Astrologische Beratung - Radix-Reading Geburtshoroskop
 
 > Product ID `39461` · Digistore24 productId `334784` · [HTML profile page](../../produkte/astrologische-beratung-radix-reading-geburtshoroskop-39461.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $545.19 (Single payment) |
+| Price | $546.17 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $98.65 |
+| Earnings/sale* | $98.83 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.02% |
 | Vendor | starsandbusiness |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Astrologische Beratung - Radix-Reading Geburtshoroskop? — Typ: Remote service provided electronically, Anbieter: starsandbusiness, gelistet seit 2020-07-03
-- Wie viel kostet es? — 545.194454 USD
+- Wie viel kostet es? — 546.169234 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

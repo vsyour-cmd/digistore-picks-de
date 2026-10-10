@@ -4,15 +4,15 @@ digistore24_product_id: 556574
 title: "Live-Retreat: Bindungsängste und Verlustängste auflösen"
 vendor: "jennifersubke"
 product_type: "Seminar/event for recreation"
-price: 3.77
+price: 3.78
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 286.64
+earnings_per_sale: 287.15
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556574?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Live-Retreat: Bindungsängste und Verlustängste auflösen
 
 > Product ID `49818` · Digistore24 productId `556574` · [HTML profile page](../../produkte/live-retreat-bindungs-ngste-und-verlust-ngste-aufl-sen-49818.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar/event for recreation |
-| Price | $3.77 (Single payment, Installment) |
+| Price | $3.78 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $286.64 |
+| Earnings/sale* | $287.15 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live-Retreat: Bindungsängste und Verlustängste auflösen? — Typ: Seminar/event for recreation, Anbieter: jennifersubke, gelistet seit 2024-06-12
-- Wie viel kostet es? — 3.7696820000000004 USD
+- Wie viel kostet es? — 3.776422 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

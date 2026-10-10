@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.02
+earnings_per_sale: 7.04
 cart_conversion_pct: 28
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-04-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # VERSCHENKE: Kostenloses Dankbarkeitstagebuch
 
 > Product ID `47923` · Digistore24 productId `549630` · [HTML profile page](../../produkte/verschenke-kostenloses-dankbarkeitstagebuch-47923.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0% |
 | Vendor | coachingtrip |

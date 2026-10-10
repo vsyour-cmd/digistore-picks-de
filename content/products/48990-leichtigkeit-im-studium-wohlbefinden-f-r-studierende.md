@@ -4,15 +4,15 @@ digistore24_product_id: 558753
 title: "Leichtigkeit im Studium - Wohlbefinden für Studierende"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 35.27
+price: 35.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.07
+earnings_per_sale: 9.09
 cart_conversion_pct: 3
 cancel_rate_pct: 0.17
 categories: ["Education","Personal Development"]
 listed_since: "2024-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/lp-leichtigkeit-im-studium-album?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Leichtigkeit im Studium - Wohlbefinden für Studierende
 
 > Product ID `48990` · Digistore24 productId `558753` · [HTML profile page](../../produkte/leichtigkeit-im-studium-wohlbefinden-f-r-studierende-48990.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $35.27 (Single payment) |
+| Price | $35.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.07 |
+| Earnings/sale* | $9.09 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.17% |
 | Vendor | OKsuccess |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leichtigkeit im Studium - Wohlbefinden für Studierende? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2024-06-27
-- Wie viel kostet es? — 35.269458 USD
+- Wie viel kostet es? — 35.332518 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

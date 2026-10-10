@@ -4,15 +4,15 @@ digistore24_product_id: 323967
 title: "Der nackte Kaiser - Impfen entlarvt"
 vendor: "SG1503"
 product_type: "E-books"
-price: 24.99
+price: 25.03
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10
+earnings_per_sale: 10.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.wissenmachtfrei.com/das-impfen-und-der-tod.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der nackte Kaiser - Impfen entlarvt
 
 > Product ID `32629` · Digistore24 productId `323967` · [HTML profile page](../../produkte/der-nackte-kaiser-impfen-entlarvt-32629.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.99 (Single payment) |
+| Price | $25.03 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.00 |
+| Earnings/sale* | $10.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SG1503 |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der nackte Kaiser - Impfen entlarvt? — Typ: E-books, Anbieter: SG1503, gelistet seit 2020-04-29
-- Wie viel kostet es? — 24.989524 USD
+- Wie viel kostet es? — 25.034204 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

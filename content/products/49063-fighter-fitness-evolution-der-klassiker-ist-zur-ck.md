@@ -4,15 +4,15 @@ digistore24_product_id: 530236
 title: "Fighter-Fitness Evolution - Der Klassiker ist zurück"
 vendor: "FighterFitness"
 product_type: "Downloads"
-price: 46.95
+price: 47.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.48
+earnings_per_sale: 23.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2023-12-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fighterfitness.de/fighter-fitness-evolution?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fighter-Fitness Evolution - Der Klassiker ist zurück
 
 > Product ID `49063` · Digistore24 productId `530236` · [HTML profile page](../../produkte/fighter-fitness-evolution-der-klassiker-ist-zur-ck-49063.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.95 (Single payment) |
+| Price | $47.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.48 |
+| Earnings/sale* | $23.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FighterFitness |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fighter-Fitness Evolution - Der Klassiker ist zurück? — Typ: Downloads, Anbieter: FighterFitness, gelistet seit 2023-12-17
-- Wie viel kostet es? — 46.947642 USD
+- Wie viel kostet es? — 47.031582 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

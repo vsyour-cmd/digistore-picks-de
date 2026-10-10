@@ -4,15 +4,15 @@ digistore24_product_id: 91407
 title: "Katzenfutter Selbermachen - Gesunde Rezepte"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 17.57
+price: 17.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.79
+earnings_per_sale: 8.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-08-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Katzenfutter Selbermachen - Gesunde Rezepte
 
 > Product ID `12633` · Digistore24 productId `91407` · [HTML profile page](../../produkte/katzenfutter-selbermachen-gesunde-rezepte-12633.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.57 (Single payment) |
+| Price | $17.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.79 |
+| Earnings/sale* | $8.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Katzenfutter Selbermachen - Gesunde Rezepte? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2016-08-15
-- Wie viel kostet es? — 17.573206000000003 USD
+- Wie viel kostet es? — 17.604626000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

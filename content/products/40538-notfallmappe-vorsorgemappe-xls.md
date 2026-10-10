@@ -4,15 +4,15 @@ digistore24_product_id: 450500
 title: "Notfallmappe / Vorsorgemappe XLS"
 vendor: "huestel"
 product_type: "Downloads"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.06
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://notfallmappe-xls.de/download-vorsorgemappe/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Notfallmappe / Vorsorgemappe XLS
 
 > Product ID `40538` · Digistore24 productId `450500` · [HTML profile page](../../produkte/notfallmappe-vorsorgemappe-xls-40538.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.06 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | huestel |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Notfallmappe / Vorsorgemappe XLS? — Typ: Downloads, Anbieter: huestel, gelistet seit 2022-07-09
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

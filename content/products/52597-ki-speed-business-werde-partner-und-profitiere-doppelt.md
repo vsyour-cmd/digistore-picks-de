@@ -4,15 +4,15 @@ digistore24_product_id: 607228
 title: "KI Speed Business – Werde Partner und profitiere doppelt"
 vendor: "powerupbusiness"
 product_type: "Member area and video courses"
-price: 303.04
+price: 303.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 553.83
+earnings_per_sale: 554.82
 cart_conversion_pct: 14
 cancel_rate_pct: 2.08
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-04-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/607228/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Speed Business – Werde Partner und profitiere doppelt
 
 > Product ID `52597` · Digistore24 productId `607228` · [HTML profile page](../../produkte/ki-speed-business-werde-partner-und-profitiere-doppelt-52597.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $303.04 (Single payment, Installment) |
+| Price | $303.58 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $553.83 |
+| Earnings/sale* | $554.82 |
 | Cart conversion* | 14% |
 | Cancel rate* | 2.08% |
 | Vendor | powerupbusiness |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Speed Business – Werde Partner und profitiere doppelt? — Typ: Member area and video courses, Anbieter: powerupbusiness, gelistet seit 2025-04-14
-- Wie viel kostet es? — 303.03992600000004 USD
+- Wie viel kostet es? — 303.58174600000007 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

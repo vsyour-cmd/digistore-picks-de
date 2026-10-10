@@ -4,15 +4,15 @@ digistore24_product_id: 314566
 title: "DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten"
 vendor: "opticlix"
 product_type: "E-books"
-price: 18.71
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.36
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kaninchenstallwelt.de/kaninchen-e-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten
 
 > Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../produkte/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.36 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | opticlix |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten? — Typ: E-books, Anbieter: opticlix, gelistet seit 2020-03-21
-- Wie viel kostet es? — 18.714178 USD
+- Wie viel kostet es? — 18.747638000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 717610
 title: "Online-Kurs Lymphzauber"
 vendor: "SkinBalanceAesthetic"
 product_type: "Member area and video courses"
-price: 234.06
+price: 234.47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 46.81
+earnings_per_sale: 46.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/717610?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs Lymphzauber
 
 > Product ID `58101` · Digistore24 productId `717610` · [HTML profile page](../../produkte/online-kurs-lymphzauber-58101.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.06 (Single payment) |
+| Price | $234.47 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $46.81 |
+| Earnings/sale* | $46.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SkinBalanceAesthetic |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs Lymphzauber? — Typ: Member area and video courses, Anbieter: SkinBalanceAesthetic, gelistet seit 2026-08-03
-- Wie viel kostet es? — 234.055864 USD
+- Wie viel kostet es? — 234.47434400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

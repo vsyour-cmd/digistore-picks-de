@@ -4,15 +4,15 @@ digistore24_product_id: 722816
 title: "Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle"
 vendor: "Solusandson"
 product_type: "E-books"
-price: 20.9
+price: 20.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.45
+earnings_per_sale: 10.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Personal Development"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://toxischefakten.de/buch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle
 
 > Product ID `58494` · Digistore24 productId `722816` · [HTML profile page](../../produkte/narzissmus-und-toxische-beziehungen-e-book-h-rbuch-und-bundle-58494.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.45 |
+| Earnings/sale* | $10.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Solusandson |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle? — Typ: E-books, Anbieter: Solusandson, gelistet seit 2026-08-21
-- Wie viel kostet es? — 20.895448000000002 USD
+- Wie viel kostet es? — 20.932808 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

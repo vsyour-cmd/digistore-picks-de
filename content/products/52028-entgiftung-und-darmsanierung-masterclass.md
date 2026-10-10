@@ -4,15 +4,15 @@ digistore24_product_id: 601680
 title: "Entgiftung und Darmsanierung Masterclass"
 vendor: "NatureHeartAcademy"
 product_type: "Member area and video courses"
-price: 89.66
+price: 89.82
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 64.73
+earnings_per_sale: 64.85
 cart_conversion_pct: 30
 cancel_rate_pct: 7.61
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-03-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.fabiankowallikacademy.de/start/entgiftung-und-darmsanierung-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Entgiftung und Darmsanierung Masterclass
 
 > Product ID `52028` · Digistore24 productId `601680` · [HTML profile page](../../produkte/entgiftung-und-darmsanierung-masterclass-52028.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $89.66 (Single payment) |
+| Price | $89.82 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $64.73 |
+| Earnings/sale* | $64.85 |
 | Cart conversion* | 30% |
 | Cancel rate* | 7.61% |
 | Vendor | NatureHeartAcademy |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entgiftung und Darmsanierung Masterclass? — Typ: Member area and video courses, Anbieter: NatureHeartAcademy, gelistet seit 2025-03-14
-- Wie viel kostet es? — 89.65579000000001 USD
+- Wie viel kostet es? — 89.81609 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

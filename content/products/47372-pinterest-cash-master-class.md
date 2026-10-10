@@ -4,15 +4,15 @@ digistore24_product_id: 541165
 title: "Pinterest Cash - Master Class"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 109.98
+price: 110.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.99
+earnings_per_sale: 55.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/pinterest-ki-master-class/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest Cash - Master Class
 
 > Product ID `47372` · Digistore24 productId `541165` · [HTML profile page](../../produkte/pinterest-cash-master-class-47372.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $109.98 (Single payment) |
+| Price | $110.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.99 |
+| Earnings/sale* | $55.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Cash - Master Class? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-02-27
-- Wie viel kostet es? — 109.980752 USD
+- Wie viel kostet es? — 110.177392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

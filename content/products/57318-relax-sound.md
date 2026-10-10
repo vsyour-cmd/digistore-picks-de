@@ -4,15 +4,15 @@ digistore24_product_id: 706371
 title: "Relax sound"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 1.17
+earnings_per_sale: 1.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706371?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Relax sound
 
 > Product ID `57318` · Digistore24 productId `706371` · [HTML profile page](../../produkte/relax-sound-57318.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $1.17 |
+| Earnings/sale* | $1.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Relax sound? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-06-30
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

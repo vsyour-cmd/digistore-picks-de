@@ -4,15 +4,15 @@ digistore24_product_id: 662440
 title: "GirlsMoney new checkout"
 vendor: "IGCLOSE"
 product_type: "Downloads"
-price: 40.42
+price: 40.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.21
+earnings_per_sale: 20.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2026-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/662440?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GirlsMoney new checkout
 
 > Product ID `55237` · Digistore24 productId `662440` · [HTML profile page](../../produkte/girlsmoney-new-checkout-55237.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $40.42 (Single payment) |
+| Price | $40.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.21 |
+| Earnings/sale* | $20.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IGCLOSE |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GirlsMoney new checkout? — Typ: Downloads, Anbieter: IGCLOSE, gelistet seit 2026-01-19
-- Wie viel kostet es? — 40.415018 USD
+- Wie viel kostet es? — 40.487278 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 596333
 title: "Videokurs \"Futterumstellung bei Katzen\""
 vendor: "MiriamKnischewski"
 product_type: "Member area and video courses"
-price: 22.56
+price: 22.6
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.26
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-02-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://shop.katzen-fieber.de/futterumstellung-kurs?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Videokurs "Futterumstellung bei Katzen"
 
 > Product ID `51718` · Digistore24 productId `596333` · [HTML profile page](../../produkte/videokurs-futterumstellung-bei-katzen-51718.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.56 (Single payment) |
+| Price | $22.60 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.26 |
 | Cart conversion* | — |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Futterumstellung bei Katzen"? — Typ: Member area and video courses, Anbieter: MiriamKnischewski, gelistet seit 2025-02-14
-- Wie viel kostet es? — 22.562162000000004 USD
+- Wie viel kostet es? — 22.602502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://seelen-treffpunkt.de/e-book-seelische-blockaden/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Freebie mit 50 % Detox-Upsell-Provision
 
 > Product ID `50622` · Digistore24 productId `583788` · [HTML profile page](../../produkte/freebie-mit-50-detox-upsell-provision-50622.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

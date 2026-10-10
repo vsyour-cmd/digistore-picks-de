@@ -4,15 +4,15 @@ digistore24_product_id: 693418
 title: "Bewerbung + Interview – perfekt meistern!"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 37.55
+price: 37.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.78
+earnings_per_sale: 18.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/693418?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bewerbung + Interview – perfekt meistern!
 
 > Product ID `56637` · Digistore24 productId `693418` · [HTML profile page](../../produkte/bewerbung-interview-perfekt-meistern-56637.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $37.55 (Single payment) |
+| Price | $37.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.78 |
+| Earnings/sale* | $18.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewerbung + Interview – perfekt meistern!? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-05-21
-- Wie viel kostet es? — 37.551402 USD
+- Wie viel kostet es? — 37.618542000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

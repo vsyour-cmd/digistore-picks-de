@@ -4,15 +4,15 @@ digistore24_product_id: 196689
 title: "Forex Daytrading Signale"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 254.32
+price: 254.78
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 79.31
+earnings_per_sale: 79.45
 cart_conversion_pct: 5
 cancel_rate_pct: 10.51
 categories: ["Trading Products"]
 listed_since: "2018-01-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/forex-daytrading-live/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Forex Daytrading Signale
 
 > Product ID `27739` · Digistore24 productId `196689` · [HTML profile page](../../produkte/forex-daytrading-signale-27739.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $254.32 (Subscription) |
+| Price | $254.78 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $79.31 |
+| Earnings/sale* | $79.45 |
 | Cart conversion* | 5% |
 | Cancel rate* | 10.51% |
 | Vendor | daxtrading |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Forex Daytrading Signale? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2018-01-27
-- Wie viel kostet es? — 254.32489600000002 USD
+- Wie viel kostet es? — 254.77961600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

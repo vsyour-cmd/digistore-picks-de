@@ -4,15 +4,15 @@ digistore24_product_id: 408648
 title: "Das Super-Affiliate-Partnerprogramm der Finest Audience"
 vendor: "FinestAudience"
 product_type: "Member area and video courses"
-price: 670.04
+price: 671.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 335.02
+earnings_per_sale: 335.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/408648/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Super-Affiliate-Partnerprogramm der Finest Audience
 
 > Product ID `37820` · Digistore24 productId `408648` · [HTML profile page](../../produkte/das-super-affiliate-partnerprogramm-der-finest-audience-37820.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $670.04 (Single payment) |
+| Price | $671.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $335.02 |
+| Earnings/sale* | $335.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FinestAudience |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Super-Affiliate-Partnerprogramm der Finest Audience? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2021-09-22
-- Wie viel kostet es? — 670.0414000000001 USD
+- Wie viel kostet es? — 671.2394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 323042
 title: "Freediving Masterclass"
 vendor: "SOjstersek"
 product_type: "E-books"
-price: 51.22
+price: 51.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.62
+earnings_per_sale: 25.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-04-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.freitauchen-lernen.com/freediving-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Freediving Masterclass
 
 > Product ID `33412` · Digistore24 productId `323042` · [HTML profile page](../../produkte/freediving-masterclass-33412.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.22 (Single payment) |
+| Price | $51.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.62 |
+| Earnings/sale* | $25.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOjstersek |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freediving Masterclass? — Typ: E-books, Anbieter: SOjstersek, gelistet seit 2020-04-25
-- Wie viel kostet es? — 51.220694 USD
+- Wie viel kostet es? — 51.312274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

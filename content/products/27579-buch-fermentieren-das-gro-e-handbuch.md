@@ -4,15 +4,15 @@ digistore24_product_id: 246171
 title: "Buch: Fermentieren - das große Handbuch!"
 vendor: "sauermachtgluecklich"
 product_type: "Downloads"
-price: 18.75
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-11-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.fermentationsbuch.de/fermentieren-leicht-gemacht?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch: Fermentieren - das große Handbuch!
 
 > Product ID `27579` · Digistore24 productId `246171` · [HTML profile page](../../produkte/buch-fermentieren-das-gro-e-handbuch-27579.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.75 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sauermachtgluecklich |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Fermentieren - das große Handbuch!? — Typ: Downloads, Anbieter: sauermachtgluecklich, gelistet seit 2018-11-01
-- Wie viel kostet es? — 18.747736000000003 USD
+- Wie viel kostet es? — 18.781256000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

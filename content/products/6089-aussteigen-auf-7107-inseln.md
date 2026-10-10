@@ -4,15 +4,15 @@ digistore24_product_id: 40773
 title: "AUSSTEIGEN AUF 7107 INSELN"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 24.96
+price: 25
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.07
+earnings_per_sale: 11.09
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Travel & Culture"]
 listed_since: "2015-01-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-phil/index.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AUSSTEIGEN AUF 7107 INSELN
 
 > Product ID `6089` · Digistore24 productId `40773` · [HTML profile page](../../produkte/aussteigen-auf-7107-inseln-6089.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.96 (Single payment) |
+| Price | $25.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.07 |
+| Earnings/sale* | $11.09 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AUSSTEIGEN AUF 7107 INSELN? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2015-01-16
-- Wie viel kostet es? — 24.955966 USD
+- Wie viel kostet es? — 25.000586 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

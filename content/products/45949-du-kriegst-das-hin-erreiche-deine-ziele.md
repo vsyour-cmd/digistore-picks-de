@@ -4,15 +4,15 @@ digistore24_product_id: 523522
 title: "Du kriegst das hin! Erreiche deine Ziele!"
 vendor: "Deinechance"
 product_type: "Book (printed)"
-price: 11.17
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.82
+earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Food & Drink","Home & Garden"]
 listed_since: "2023-11-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dejansekulic.ch/du-kriegst-das-hin?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Du kriegst das hin! Erreiche deine Ziele!
 
 > Product ID `45949` · Digistore24 productId `523522` · [HTML profile page](../../produkte/du-kriegst-das-hin-erreiche-deine-ziele-45949.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.17 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Du kriegst das hin! Erreiche deine Ziele!? — Typ: Book (printed), Anbieter: Deinechance, gelistet seit 2023-11-02
-- Wie viel kostet es? — 11.174814000000001 USD
+- Wie viel kostet es? — 11.194794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

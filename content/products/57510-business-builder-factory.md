@@ -4,15 +4,15 @@ digistore24_product_id: 703268
 title: "Business Builder Factory"
 vendor: "Verdienst-Kompass"
 product_type: "Member area and video courses"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://lp-mircodigital.de/bbf?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Business Builder Factory
 
 > Product ID `57510` · Digistore24 productId `703268` · [HTML profile page](../../produkte/business-builder-factory-57510.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.79 (Single payment) |
+| Price | $18.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Verdienst-Kompass |
@@ -62,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Business Builder Factory? — Typ: Member area and video courses, Anbieter: Verdienst-Kompass, gelistet seit 2026-07-13
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

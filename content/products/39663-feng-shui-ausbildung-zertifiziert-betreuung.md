@@ -4,15 +4,15 @@ digistore24_product_id: 422652
 title: "Feng Shui Ausbildung, zertifiziert, Betreuung"
 vendor: "Feng-Shui-Digital"
 product_type: "Distance learning (Germany)"
-price: 3863.4
+price: 3870.31
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 313.21
+earnings_per_sale: 313.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://feng-shui.de/feng-shui-online/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Feng Shui Ausbildung, zertifiziert, Betreuung
 
 > Product ID `39663` · Digistore24 productId `422652` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-betreuung-39663.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Distance learning (Germany) |
-| Price | $3863.40 (Single payment, Installment) |
+| Price | $3870.31 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $313.21 |
+| Earnings/sale* | $313.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feng-Shui-Digital |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feng Shui Ausbildung, zertifiziert, Betreuung? — Typ: Distance learning (Germany), Anbieter: Feng-Shui-Digital, gelistet seit 2021-12-31
-- Wie viel kostet es? — 3863.3983080000003 USD
+- Wie viel kostet es? — 3870.3058680000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

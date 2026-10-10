@@ -4,15 +4,15 @@ digistore24_product_id: 23861
 title: "Video-Seminar \"Nichtraucher in 5 Stunden\""
 vendor: "bbGmbH"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 8.69
+earnings_per_sale: 8.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-04-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nichtraucher-in-5-stunden.at/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Video-Seminar "Nichtraucher in 5 Stunden"
 
 > Product ID `3247` · Digistore24 productId `23861` · [HTML profile page](../../produkte/video-seminar-nichtraucher-in-5-stunden-3247.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $8.69 |
+| Earnings/sale* | $8.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bbGmbH |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Seminar "Nichtraucher in 5 Stunden"? — Typ: Downloads, Anbieter: bbGmbH, gelistet seit 2014-04-08
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

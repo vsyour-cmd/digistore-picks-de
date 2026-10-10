@@ -4,15 +4,15 @@ digistore24_product_id: 482119
 title: "YouTube Mastery - Leads ohne Ende und ohne Werbekosten"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 261.98
+price: 262.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 186.56
+earnings_per_sale: 186.89
 cart_conversion_pct: 3
 cancel_rate_pct: 1.76
 categories: ["Profession & Job"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/ytvkslp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # YouTube Mastery - Leads ohne Ende und ohne Werbekosten
 
 > Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../produkte/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $261.98 (Single payment, Installment) |
+| Price | $262.44 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $186.56 |
+| Earnings/sale* | $186.89 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.76% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist YouTube Mastery - Leads ohne Ende und ohne Werbekosten? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 261.97612 USD
+- Wie viel kostet es? — 262.44452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

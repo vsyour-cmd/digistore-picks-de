@@ -4,15 +4,15 @@ digistore24_product_id: 725318
 title: "ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi"
 vendor: "stellenmanufaktur"
 product_type: "Member area and video courses"
-price: 22.26
+price: 22.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.13
+earnings_per_sale: 11.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725318?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi
 
 > Product ID `58549` · Digistore24 productId `725318` · [HTML profile page](../../produkte/scalebase-die-impact-lounge-dein-exklusiver-hub-f-r-busi-58549.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.26 (Single payment) |
+| Price | $22.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.13 |
+| Earnings/sale* | $11.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stellenmanufaktur |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi? — Typ: Member area and video courses, Anbieter: stellenmanufaktur, gelistet seit 2026-08-24
-- Wie viel kostet es? — 22.26014 USD
+- Wie viel kostet es? — 22.29994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

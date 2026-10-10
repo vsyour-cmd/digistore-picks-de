@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Software"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/733111?aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # WAWIKUKL 14-tägige Testversion
 
 > Product ID `60230` · Digistore24 productId `733111` · [HTML profile page](../../produkte/wawikukl-14-t-gige-testversion-60230.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 14-Tage - Testversion, erst unbegrenzt lauffähig nach Eingabe des Freischaltcodes
+**Vendor's marketplace description:** 14-Tage - Testversion, erst nach Eingabe des Freischaltcodes ist WAWIKUKL unbegrenzt lauffähig.
 
 ## 2. Links
 

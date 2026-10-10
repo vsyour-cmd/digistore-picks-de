@@ -4,15 +4,15 @@ digistore24_product_id: 643804
 title: "Minikurs Cashflow System"
 vendor: "Business_Kickstart"
 product_type: "E-books"
-price: 38.68
+price: 38.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.34
+earnings_per_sale: 19.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.businesskickstart.de/instagram-30-tage-challenge?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurs Cashflow System
 
 > Product ID `55594` · Digistore24 productId `643804` · [HTML profile page](../../produkte/minikurs-cashflow-system-55594.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.68 (Single payment) |
+| Price | $38.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.34 |
+| Earnings/sale* | $19.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Business_Kickstart |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurs Cashflow System? — Typ: E-books, Anbieter: Business_Kickstart, gelistet seit 2025-10-24
-- Wie viel kostet es? — 38.681188 USD
+- Wie viel kostet es? — 38.750348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

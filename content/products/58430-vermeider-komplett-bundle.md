@@ -4,15 +4,15 @@ digistore24_product_id: 717908
 title: "Vermeider Komplett Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 109.67
+price: 109.86
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 32.9
+earnings_per_sale: 32.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/vermeider/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vermeider Komplett Bundle
 
 > Product ID `58430` · Digistore24 productId `717908` · [HTML profile page](../../produkte/vermeider-komplett-bundle-58430.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $109.67 (Single payment) |
+| Price | $109.86 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $32.90 |
+| Earnings/sale* | $32.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermeider Komplett Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 109.667544 USD
+- Wie viel kostet es? — 109.86362400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

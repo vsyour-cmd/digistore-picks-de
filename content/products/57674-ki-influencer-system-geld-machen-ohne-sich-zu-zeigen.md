@@ -4,15 +4,15 @@ digistore24_product_id: 705597
 title: "KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen"
 vendor: "ellai-llc"
 product_type: "Member area and video courses"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 31.3
+earnings_per_sale: 31.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.ellai.de/ki-influencer-system?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen
 
 > Product ID `57674` · Digistore24 productId `705597` · [HTML profile page](../../produkte/ki-influencer-system-geld-machen-ohne-sich-zu-zeigen-57674.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $31.30 |
+| Earnings/sale* | $31.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ellai-llc |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Influencer-System — Geld Machen Ohne Sich zu Zeigen? — Typ: Member area and video courses, Anbieter: ellai-llc, gelistet seit 2026-07-22
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

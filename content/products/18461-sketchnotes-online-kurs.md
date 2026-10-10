@@ -4,15 +4,15 @@ digistore24_product_id: 111195
 title: "Sketchnotes Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 83.35
+price: 83.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.28
+earnings_per_sale: 37.35
 cart_conversion_pct: 9
 cancel_rate_pct: 0.56
 categories: ["Education","Hobby & Craft","Profession & Job"]
 listed_since: "2016-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sketchnotes.com/sketchnotes-online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sketchnotes Online Kurs
 
 > Product ID `18461` · Digistore24 productId `111195` · [HTML profile page](../../produkte/sketchnotes-online-kurs-18461.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.35 (Single payment, Installment) |
+| Price | $83.50 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.28 |
+| Earnings/sale* | $37.35 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.56% |
 | Vendor | Timothy90 |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sketchnotes Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2016-12-30
-- Wie viel kostet es? — 83.34688600000001 USD
+- Wie viel kostet es? — 83.495906 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

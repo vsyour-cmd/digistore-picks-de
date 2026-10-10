@@ -4,15 +4,15 @@ digistore24_product_id: 705582
 title: "Home-Party-Verkaufsakademie"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 168.26
+price: 168.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.13
+earnings_per_sale: 84.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Sales Training","Marketing Services"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/705582?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Home-Party-Verkaufsakademie
 
 > Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../produkte/home-party-verkaufsakademie-57173.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.26 (Single payment) |
+| Price | $168.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.13 |
+| Earnings/sale* | $84.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Home-Party-Verkaufsakademie? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-06-29
-- Wie viel kostet es? — 168.25981199999998 USD
+- Wie viel kostet es? — 168.560652 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 333242
 title: "TikTok Marketing (deutsch)"
 vendor: "Monoly24"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 2.09
+earnings_per_sale: 2.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-06-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/333242?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TikTok Marketing (deutsch)
 
 > Product ID `33257` · Digistore24 productId `333242` · [HTML profile page](../../produkte/tiktok-marketing-deutsch-33257.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $2.09 |
+| Earnings/sale* | $2.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Monoly24 |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TikTok Marketing (deutsch)? — Typ: E-books, Anbieter: Monoly24, gelistet seit 2020-06-24
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

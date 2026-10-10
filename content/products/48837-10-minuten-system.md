@@ -4,15 +4,15 @@ digistore24_product_id: 517395
 title: "10-Minuten-System"
 vendor: "finanz-erfolg"
 product_type: "Member area and video courses"
-price: 187.9
+price: 188.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.95
+earnings_per_sale: 94.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://lp.renerenk.de/10minuten-system/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10-Minuten-System
 
 > Product ID `48837` · Digistore24 productId `517395` · [HTML profile page](../../produkte/10-minuten-system-48837.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.90 (Subscription) |
+| Price | $188.24 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.95 |
+| Earnings/sale* | $94.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | finanz-erfolg |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10-Minuten-System? — Typ: Member area and video courses, Anbieter: finanz-erfolg, gelistet seit 2023-09-21
-- Wie viel kostet es? — 187.902428 USD
+- Wie viel kostet es? — 188.238388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

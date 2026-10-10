@@ -4,15 +4,15 @@ digistore24_product_id: 349057
 title: "Der Traffic Schnellstarter Kurs - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 34.52
+earnings_per_sale: 34.58
 cart_conversion_pct: 7
 cancel_rate_pct: 19.29
 categories: ["Profession & Job"]
 listed_since: "2020-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/tssk-7511/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Traffic Schnellstarter Kurs - von Gunnar Kessler
 
 > Product ID `33576` · Digistore24 productId `349057` · [HTML profile page](../../produkte/der-traffic-schnellstarter-kurs-von-gunnar-kessler-33576.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $467.18 (Single payment) |
+| Price | $468.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $34.52 |
+| Earnings/sale* | $34.58 |
 | Cart conversion* | 7% |
 | Cancel rate* | 19.29% |
 | Vendor | GTK-littlefreilich |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Traffic Schnellstarter Kurs - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2020-09-22
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

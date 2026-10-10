@@ -4,15 +4,15 @@ digistore24_product_id: 552698
 title: "Breathwork und Beambreath Grundausbildung"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 1177.82
+price: 1179.92
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 172.29
+earnings_per_sale: 172.59
 cart_conversion_pct: 17
 cancel_rate_pct: 2.7
 categories: ["Personal Development"]
 listed_since: "2024-05-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/breathwork-teacher-training?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Breathwork und Beambreath Grundausbildung
 
 > Product ID `56256` · Digistore24 productId `552698` · [HTML profile page](../../produkte/breathwork-und-beambreath-grundausbildung-56256.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1177.82 (Single payment, Installment) |
+| Price | $1179.92 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $172.29 |
+| Earnings/sale* | $172.59 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.7% |
 | Vendor | BeamdreamBreathworks |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Breathwork und Beambreath Grundausbildung? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2024-05-16
-- Wie viel kostet es? — 1177.818684 USD
+- Wie viel kostet es? — 1179.9245640000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

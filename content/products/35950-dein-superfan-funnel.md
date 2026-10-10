@@ -4,15 +4,15 @@ digistore24_product_id: 356369
 title: "Dein Superfan-Funnel"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 69.35
+price: 69.48
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 20.81
+earnings_per_sale: 20.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-11-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/superfan-funnel/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Superfan-Funnel
 
 > Product ID `35950` · Digistore24 productId `356369` · [HTML profile page](../../produkte/dein-superfan-funnel-35950.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.35 (Single payment, Installment) |
+| Price | $69.48 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $20.81 |
+| Earnings/sale* | $20.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Superfan-Funnel? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2020-11-08
-- Wie viel kostet es? — 69.3532 USD
+- Wie viel kostet es? — 69.4772 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

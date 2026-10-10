@@ -4,15 +4,15 @@ digistore24_product_id: 641118
 title: "BRANDNEU - Pin-Cash Codes 2.0"
 vendor: "YannickBre"
 product_type: "Member area and video courses"
-price: 32.61
+price: 32.67
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 17.74
+earnings_per_sale: 17.77
 cart_conversion_pct: 8
 cancel_rate_pct: 7.21
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.affiliate-akademie.com/pin-cash-codes-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BRANDNEU - Pin-Cash Codes 2.0
 
 > Product ID `55529` · Digistore24 productId `641118` · [HTML profile page](../../produkte/brandneu-pin-cash-codes-2-0-55529.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.61 (Single payment) |
+| Price | $32.67 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $17.74 |
+| Earnings/sale* | $17.77 |
 | Cart conversion* | 8% |
 | Cancel rate* | 7.21% |
 | Vendor | YannickBre |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BRANDNEU - Pin-Cash Codes 2.0? — Typ: Member area and video courses, Anbieter: YannickBre, gelistet seit 2025-10-13
-- Wie viel kostet es? — 32.60719 USD
+- Wie viel kostet es? — 32.66549 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

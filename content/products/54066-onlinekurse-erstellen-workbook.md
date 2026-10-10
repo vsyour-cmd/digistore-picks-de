@@ -4,15 +4,15 @@ digistore24_product_id: 494109
 title: "Onlinekurse erstellen Workbook"
 vendor: "Jyotima"
 product_type: "E-books"
-price: 45.64
+price: 45.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.05
+earnings_per_sale: 11.07
 cart_conversion_pct: 4
 cancel_rate_pct: 0.86
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-04-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/onlinekursturbo/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurse erstellen Workbook
 
 > Product ID `54066` · Digistore24 productId `494109` · [HTML profile page](../../produkte/onlinekurse-erstellen-workbook-54066.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $45.64 (Single payment) |
+| Price | $45.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.05 |
+| Earnings/sale* | $11.07 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0.86% |
 | Vendor | Jyotima |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurse erstellen Workbook? — Typ: E-books, Anbieter: Jyotima, gelistet seit 2023-04-14
-- Wie viel kostet es? — 45.63888 USD
+- Wie viel kostet es? — 45.72048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

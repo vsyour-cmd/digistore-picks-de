@@ -4,15 +4,15 @@ digistore24_product_id: 354191
 title: "Handlettering Generator Plus"
 vendor: "Timothy90"
 product_type: "Software"
-price: 56.4
+price: 56.5
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 18.96
+earnings_per_sale: 18.99
 cart_conversion_pct: 34
 cancel_rate_pct: 0.69
 categories: ["Software"]
 listed_since: "2020-10-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://handletteringlernen.de/handlettering-generator-plus/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Handlettering Generator Plus
 
 > Product ID `42433` · Digistore24 productId `354191` · [HTML profile page](../../produkte/handlettering-generator-plus-42433.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $56.40 (Subscription) |
+| Price | $56.50 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $18.96 |
+| Earnings/sale* | $18.99 |
 | Cart conversion* | 34% |
 | Cancel rate* | 0.69% |
 | Vendor | Timothy90 |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handlettering Generator Plus? — Typ: Software, Anbieter: Timothy90, gelistet seit 2020-10-25
-- Wie viel kostet es? — 56.399812000000004 USD
+- Wie viel kostet es? — 56.500652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

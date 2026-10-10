@@ -4,15 +4,15 @@ digistore24_product_id: 689114
 title: "Das Casting-Profil, das überzeugt — Fokus-Kurs"
 vendor: "silja3cbc"
 product_type: "Member area and video courses"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 9.73
+earnings_per_sale: 9.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.peoplecastagency.com/kurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Casting-Profil, das überzeugt — Fokus-Kurs
 
 > Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../produkte/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $9.73 |
+| Earnings/sale* | $9.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silja3cbc |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Casting-Profil, das überzeugt — Fokus-Kurs? — Typ: Member area and video courses, Anbieter: silja3cbc, gelistet seit 2026-07-02
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

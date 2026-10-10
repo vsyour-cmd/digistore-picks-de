@@ -4,15 +4,15 @@ digistore24_product_id: 289305
 title: "Business Playbook"
 vendor: "jonahstruck"
 product_type: "Member area and video courses"
-price: 1409.44
+price: 1411.96
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 140.94
+earnings_per_sale: 141.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Sales Training"]
 listed_since: "2019-10-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/289305?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Business Playbook
 
 > Product ID `46937` · Digistore24 productId `289305` · [HTML profile page](../../produkte/business-playbook-46937.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1409.44 (Single payment) |
+| Price | $1411.96 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $140.94 |
+| Earnings/sale* | $141.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jonahstruck |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Business Playbook? — Typ: Member area and video courses, Anbieter: jonahstruck, gelistet seit 2019-10-03
-- Wie viel kostet es? — 1409.4360000000001 USD
+- Wie viel kostet es? — 1411.9560000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

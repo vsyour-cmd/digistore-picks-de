@@ -4,15 +4,15 @@ digistore24_product_id: 684652
 title: "Seelenname — dein persönlicher 33-Seiten-Guide"
 vendor: "dotrockets"
 product_type: "Downloads"
-price: 82.72
+price: 82.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.37
+earnings_per_sale: 41.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://seelenname.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Seelenname — dein persönlicher 33-Seiten-Guide
 
 > Product ID `58456` · Digistore24 productId `684652` · [HTML profile page](../../produkte/seelenname-dein-pers-nlicher-33-seiten-guide-58456.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $82.72 (Single payment) |
+| Price | $82.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.37 |
+| Earnings/sale* | $41.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dotrockets |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seelenname — dein persönlicher 33-Seiten-Guide? — Typ: Downloads, Anbieter: dotrockets, gelistet seit 2026-08-19
-- Wie viel kostet es? — 82.72047 USD
+- Wie viel kostet es? — 82.86837000000001 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

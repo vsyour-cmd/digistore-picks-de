@@ -4,15 +4,15 @@ digistore24_product_id: 228291
 title: "Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!"
 vendor: "Maxruebensal"
 product_type: "Downloads"
-price: 14.11
+price: 14.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.23
+earnings_per_sale: 4.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2018-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://blog.maxruebensal.com/acrylic-pouring-1x1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!
 
 > Product ID `26756` · Digistore24 productId `228291` · [HTML profile page](../../produkte/acrylic-pouring-1x1-e-book-atemberaubende-flie-kunst-26756.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.11 (Single payment) |
+| Price | $14.13 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.23 |
+| Earnings/sale* | $4.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Maxruebensal |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!? — Typ: Downloads, Anbieter: Maxruebensal, gelistet seit 2018-06-17
-- Wie viel kostet es? — 14.105546 USD
+- Wie viel kostet es? — 14.130766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

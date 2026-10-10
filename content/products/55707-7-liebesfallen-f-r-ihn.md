@@ -4,15 +4,15 @@ digistore24_product_id: 670682
 title: "7 LIEBESFALLEN für IHN"
 vendor: "benjaminmeisebaf3"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.93
+earnings_per_sale: 9.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Survival"]
 listed_since: "2026-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/670682?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 7 LIEBESFALLEN für IHN
 
 > Product ID `55707` · Digistore24 productId `670682` · [HTML profile page](../../produkte/7-liebesfallen-f-r-ihn-55707.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.93 |
+| Earnings/sale* | $9.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | benjaminmeisebaf3 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 LIEBESFALLEN für IHN? — Typ: E-books, Anbieter: benjaminmeisebaf3, gelistet seit 2026-02-22
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 701937
 title: "Die Kunst des ersten Eindrucks"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 17.66
+price: 17.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.84
+earnings_per_sale: 8.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/kunst-des-ersten-eindrucks?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Kunst des ersten Eindrucks
 
 > Product ID `57180` · Digistore24 productId `701937` · [HTML profile page](../../produkte/die-kunst-des-ersten-eindrucks-57180.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.66 (Single payment) |
+| Price | $17.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.84 |
+| Earnings/sale* | $8.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Kunst des ersten Eindrucks? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 17.662694 USD
+- Wie viel kostet es? — 17.694274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

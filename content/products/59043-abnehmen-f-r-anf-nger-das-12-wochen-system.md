@@ -4,15 +4,15 @@ digistore24_product_id: 731158
 title: "Abnehmen für Anfänger – Das 12-Wochen-System"
 vendor: "gowxsese"
 product_type: "Downloads"
-price: 99.32
+price: 99.5
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 79.45
+earnings_per_sale: 79.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Sport"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/731158?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmen für Anfänger – Das 12-Wochen-System
 
 > Product ID `59043` · Digistore24 productId `731158` · [HTML profile page](../../produkte/abnehmen-f-r-anf-nger-das-12-wochen-system-59043.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $99.32 (Single payment) |
+| Price | $99.50 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $79.45 |
+| Earnings/sale* | $79.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen für Anfänger – Das 12-Wochen-System? — Typ: Downloads, Anbieter: gowxsese, gelistet seit 2026-09-09
-- Wie viel kostet es? — 99.32049400000001 USD
+- Wie viel kostet es? — 99.49807400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

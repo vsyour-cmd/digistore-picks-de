@@ -4,15 +4,15 @@ digistore24_product_id: 305619
 title: "Die Smartphone Cashmaschine"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 329.37
+price: 329.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 120.13
+earnings_per_sale: 120.34
 cart_conversion_pct: 10
 cancel_rate_pct: 0.79
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2020-01-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.incomebutler.com/24hzugangscm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Smartphone Cashmaschine
 
 > Product ID `55700` · Digistore24 productId `305619` · [HTML profile page](../../produkte/die-smartphone-cashmaschine-55700.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $329.37 (Single payment, Installment) |
+| Price | $329.96 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $120.13 |
+| Earnings/sale* | $120.34 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.79% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Smartphone Cashmaschine? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2020-01-29
-- Wie viel kostet es? — 329.37177 USD
+- Wie viel kostet es? — 329.96067 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

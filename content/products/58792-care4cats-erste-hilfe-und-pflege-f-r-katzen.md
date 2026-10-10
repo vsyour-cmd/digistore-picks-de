@@ -4,15 +4,15 @@ digistore24_product_id: 671225
 title: "Care4Cats Erste Hilfe und Pflege für Katzen"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 137.05
+price: 137.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.41
+earnings_per_sale: 27.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Family & Children"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Care4Cats Erste Hilfe und Pflege für Katzen
 
 > Product ID `58792` · Digistore24 productId `671225` · [HTML profile page](../../produkte/care4cats-erste-hilfe-und-pflege-f-r-katzen-58792.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $137.05 (Single payment, Installment) |
+| Price | $137.30 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.41 |
+| Earnings/sale* | $27.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Care4Cats Erste Hilfe und Pflege für Katzen? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31
-- Wie viel kostet es? — 137.050872 USD
+- Wie viel kostet es? — 137.295912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

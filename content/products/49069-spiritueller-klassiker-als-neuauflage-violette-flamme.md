@@ -4,15 +4,15 @@ digistore24_product_id: 549833
 title: "Spiritueller Klassiker als Neuauflage \"Violette Flamme\""
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 51.7
+price: 51.79
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 20.68
+earnings_per_sale: 20.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://magierschule.de/violette-flamme/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Spiritueller Klassiker als Neuauflage "Violette Flamme"
 
 > Product ID `49069` · Digistore24 productId `549833` · [HTML profile page](../../produkte/spiritueller-klassiker-als-neuauflage-violette-flamme-49069.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $51.70 (Single payment) |
+| Price | $51.79 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spiritueller Klassiker als Neuauflage "Violette Flamme"? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2024-04-25
-- Wie viel kostet es? — 51.701692 USD
+- Wie viel kostet es? — 51.794132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

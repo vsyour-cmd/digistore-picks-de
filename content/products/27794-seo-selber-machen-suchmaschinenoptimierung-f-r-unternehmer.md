@@ -4,15 +4,15 @@ digistore24_product_id: 256949
 title: "SEO selber machen - Suchmaschinenoptimierung für Unternehmer"
 vendor: "StefanieEngel"
 product_type: "Webinar"
-price: 334.46
+price: 335.06
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 83.62
+earnings_per_sale: 83.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-01-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SEO selber machen - Suchmaschinenoptimierung für Unternehmer
 
 > Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../produkte/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $334.46 (Single payment) |
+| Price | $335.06 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $83.62 |
+| Earnings/sale* | $83.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieEngel |
@@ -108,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SEO selber machen - Suchmaschinenoptimierung für Unternehmer? — Typ: Webinar, Anbieter: StefanieEngel, gelistet seit 2019-01-18
-- Wie viel kostet es? — 334.4614 USD
+- Wie viel kostet es? — 335.05940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

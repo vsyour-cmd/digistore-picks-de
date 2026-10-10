@@ -4,15 +4,15 @@ digistore24_product_id: 193615
 title: "Overlock Masterkurs"
 vendor: "DotsDesigns"
 product_type: "Member area and video courses"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.19
+earnings_per_sale: 8.2
 cart_conversion_pct: 33
 cancel_rate_pct: 2.3
 categories: ["Hobby & Craft"]
 listed_since: "2018-01-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.dots-designs.de/overlockkurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Overlock Masterkurs
 
 > Product ID `26133` · Digistore24 productId `193615` · [HTML profile page](../../produkte/overlock-masterkurs-26133.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.79 (Single payment, Installment) |
+| Price | $18.83 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.20 |
 | Cart conversion* | 33% |
 | Cancel rate* | 2.3% |
 | Vendor | DotsDesigns |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Overlock Masterkurs? — Typ: Member area and video courses, Anbieter: DotsDesigns, gelistet seit 2018-01-13
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

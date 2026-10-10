@@ -4,15 +4,15 @@ digistore24_product_id: 301360
 title: "Die Pharell Sportwetten Strategie"
 vendor: "Pharell"
 product_type: "Downloads"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.53
+earnings_per_sale: 46.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2019-12-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://flopharell.com/onlinekurse/sportwetten?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Pharell Sportwetten Strategie
 
 > Product ID `31625` · Digistore24 productId `301360` · [HTML profile page](../../produkte/die-pharell-sportwetten-strategie-31625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.06 (Single payment, Installment) |
+| Price | $93.22 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.53 |
+| Earnings/sale* | $46.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pharell |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Pharell Sportwetten Strategie? — Typ: Downloads, Anbieter: Pharell, gelistet seit 2019-12-29
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

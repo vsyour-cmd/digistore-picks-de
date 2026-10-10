@@ -4,15 +4,15 @@ digistore24_product_id: 417859
 title: "FABI's große Abenteuer Paket"
 vendor: "FABISDESIGNkids"
 product_type: "Member area and video courses"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 16.78
+earnings_per_sale: 16.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-11-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://fabisdesign-kids.com/de/fabis-grosse-abenteuer-paket-lp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FABI's große Abenteuer Paket
 
 > Product ID `39286` · Digistore24 productId `417859` · [HTML profile page](../../produkte/fabi-s-gro-e-abenteuer-paket-39286.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $16.78 |
+| Earnings/sale* | $16.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FABISDESIGNkids |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FABI's große Abenteuer Paket? — Typ: Member area and video courses, Anbieter: FABISDESIGNkids, gelistet seit 2021-11-25
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

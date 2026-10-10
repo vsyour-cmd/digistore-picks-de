@@ -4,15 +4,15 @@ digistore24_product_id: 429073
 title: "Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt"
 vendor: "gesundergeist"
 product_type: "Member area and video courses"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://michaelrepkowsky.grweb.site/selbstliebe-tageskarten?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt
 
 > Product ID `57465` · Digistore24 productId `429073` · [HTML profile page](../../produkte/heilende-frequenzen-teil-2-sehr-beliebtes-affiliate-produkt-57465.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt? — Typ: Member area and video courses, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

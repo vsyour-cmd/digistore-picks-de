@@ -4,15 +4,15 @@ digistore24_product_id: 518108
 title: "SucceX Business - Erfolg auf der Microblogging-Plattform X"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.27
+price: 71.39
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.57
+earnings_per_sale: 13.59
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2023-09-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/succex-fe/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SucceX Business - Erfolg auf der Microblogging-Plattform X
 
 > Product ID `45514` · Digistore24 productId `518108` · [HTML profile page](../../produkte/succex-business-erfolg-auf-der-microblogging-plattform-x-45514.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.27 (Single payment) |
+| Price | $71.39 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.57 |
+| Earnings/sale* | $13.59 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SucceX Business - Erfolg auf der Microblogging-Plattform X? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2023-09-26
-- Wie viel kostet es? — 71.266006 USD
+- Wie viel kostet es? — 71.393426 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

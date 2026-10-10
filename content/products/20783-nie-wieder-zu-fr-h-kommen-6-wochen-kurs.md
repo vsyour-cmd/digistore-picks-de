@@ -4,15 +4,15 @@ digistore24_product_id: 176333
 title: "Nie wieder zu Früh kommen - 6 Wochen Kurs"
 vendor: "Kama44"
 product_type: "Downloads"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.43
+earnings_per_sale: 32.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2017-11-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.die-sexualitaet.de/nie-mehr-zu-frueh-kommen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nie wieder zu Früh kommen - 6 Wochen Kurs
 
 > Product ID `20783` · Digistore24 productId `176333` · [HTML profile page](../../produkte/nie-wieder-zu-fr-h-kommen-6-wochen-kurs-20783.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.43 |
+| Earnings/sale* | $32.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kama44 |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie wieder zu Früh kommen - 6 Wochen Kurs? — Typ: Downloads, Anbieter: Kama44, gelistet seit 2017-11-02
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

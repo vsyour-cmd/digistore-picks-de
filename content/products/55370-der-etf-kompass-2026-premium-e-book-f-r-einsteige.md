@@ -4,15 +4,15 @@ digistore24_product_id: 662501
 title: "Der ETF-Kompass 2026 – Premium E-Book für Einsteige"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 20.91
+price: 20.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.46
+earnings_per_sale: 10.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances","Project Management"]
 listed_since: "2026-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kompassde.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der ETF-Kompass 2026 – Premium E-Book für Einsteige
 
 > Product ID `55370` · Digistore24 productId `662501` · [HTML profile page](../../produkte/der-etf-kompass-2026-premium-e-book-f-r-einsteige-55370.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.91 (Single payment) |
+| Price | $20.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.46 |
+| Earnings/sale* | $10.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ETF-Kompass 2026 – Premium E-Book für Einsteige? — Typ: E-books, Anbieter: manuelcosta, gelistet seit 2026-01-19
-- Wie viel kostet es? — 20.906634 USD
+- Wie viel kostet es? — 20.944014000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

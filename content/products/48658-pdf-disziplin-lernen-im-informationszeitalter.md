@@ -4,7 +4,7 @@ digistore24_product_id: 559429
 title: "PDF - Disziplin lernen im Informationszeitalter"
 vendor: "kristallmann_philipp"
 product_type: "E-books"
-price: 3.39
+price: 3.4
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 0.85
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/559429?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # PDF - Disziplin lernen im Informationszeitalter
 
 > Product ID `48658` · Digistore24 productId `559429` · [HTML profile page](../../produkte/pdf-disziplin-lernen-im-informationszeitalter-48658.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.39 (Single payment) |
+| Price | $3.40 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $0.85 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PDF - Disziplin lernen im Informationszeitalter? — Typ: E-books, Anbieter: kristallmann_philipp, gelistet seit 2024-07-02
-- Wie viel kostet es? — 3.389358 USD
+- Wie viel kostet es? — 3.395418 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

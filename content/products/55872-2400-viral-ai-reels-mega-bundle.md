@@ -4,15 +4,15 @@ digistore24_product_id: 675218
 title: "2400+ Viral AI Reels Mega Bundle"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.17
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/viralreelpaket?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 2400+ Viral AI Reels Mega Bundle
 
 > Product ID `55872` · Digistore24 productId `675218` · [HTML profile page](../../produkte/2400-viral-ai-reels-mega-bundle-55872.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.17 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 2400+ Viral AI Reels Mega Bundle? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2026-03-10
-- Wie viel kostet es? — 10.335864 USD
+- Wie viel kostet es? — 10.354344000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 35629
 title: "Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung"
 vendor: "uepselon"
 product_type: "Downloads"
-price: 18.51
+price: 18.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.26
+earnings_per_sale: 9.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2014-11-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.beziehungs-retter.de/der-aktuelle-beziehungsratgeber/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung
 
 > Product ID `5213` · Digistore24 productId `35629` · [HTML profile page](../../produkte/beziehungsratgeber-der-rettungsplan-f-r-ihre-beziehung-5213.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.51 (Subscription) |
+| Price | $18.55 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.26 |
+| Earnings/sale* | $9.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | uepselon |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung? — Typ: Downloads, Anbieter: uepselon, gelistet seit 2014-11-03
-- Wie viel kostet es? — 18.51283 USD
+- Wie viel kostet es? — 18.545930000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

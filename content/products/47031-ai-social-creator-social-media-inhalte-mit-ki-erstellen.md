@@ -4,15 +4,15 @@ digistore24_product_id: 529808
 title: "AI SOCIAL CREATOR - Social Media-Inhalte mit \"KI\" erstellen"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 220.36
+price: 220.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 110.18
+earnings_per_sale: 110.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing"]
 listed_since: "2023-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.aisocialcreator.eu?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen
 
 > Product ID `47031` · Digistore24 productId `529808` · [HTML profile page](../../produkte/ai-social-creator-social-media-inhalte-mit-ki-erstellen-47031.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $220.36 (Single payment) |
+| Price | $220.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $110.18 |
+| Earnings/sale* | $110.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-12-14
-- Wie viel kostet es? — 220.3642 USD
+- Wie viel kostet es? — 220.75820000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

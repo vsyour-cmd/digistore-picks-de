@@ -4,15 +4,15 @@ digistore24_product_id: 739379
 title: "Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker"
 vendor: "Leonard_Probst"
 product_type: "Member area and video courses"
-price: 279.18
+price: 279.68
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 167.51
+earnings_per_sale: 167.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Profession & Job"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://akademie.leonardprobst.com/top-performer-protocol?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
 > Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../produkte/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.18 (Single payment) |
+| Price | $279.68 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $167.51 |
+| Earnings/sale* | $167.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Leonard_Probst |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker? — Typ: Member area and video courses, Anbieter: Leonard_Probst, gelistet seit 2026-10-05
-- Wie viel kostet es? — 279.18018800000004 USD
+- Wie viel kostet es? — 279.679348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

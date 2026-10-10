@@ -4,15 +4,15 @@ digistore24_product_id: 682513
 title: "Nachtfrequenzen – Audio-Begleitung zur Selbstregulation"
 vendor: "praxiskaulbarsch"
 product_type: "Downloads"
-price: 149.46
+price: 149.72
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.94
+earnings_per_sale: 14.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682513?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nachtfrequenzen – Audio-Begleitung zur Selbstregulation
 
 > Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../produkte/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $149.46 (Single payment) |
+| Price | $149.72 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.94 |
+| Earnings/sale* | $14.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiskaulbarsch |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nachtfrequenzen – Audio-Begleitung zur Selbstregulation? — Typ: Downloads, Anbieter: praxiskaulbarsch, gelistet seit 2026-04-06
-- Wie viel kostet es? — 149.45614600000002 USD
+- Wie viel kostet es? — 149.72336600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

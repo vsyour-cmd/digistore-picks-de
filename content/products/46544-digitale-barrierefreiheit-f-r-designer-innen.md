@@ -4,15 +4,15 @@ digistore24_product_id: 520506
 title: "Digitale Barrierefreiheit für Designer*innen"
 vendor: "GehirngerechtDigitalGmbH"
 product_type: "Member area and video courses"
-price: 272.6
+price: 273.09
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 68.16
+earnings_per_sale: 68.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2023-10-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Barrierefreiheit für Designer*innen
 
 > Product ID `46544` · Digistore24 productId `520506` · [HTML profile page](../../produkte/digitale-barrierefreiheit-f-r-designer-innen-46544.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $272.60 (Single payment) |
+| Price | $273.09 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $68.16 |
+| Earnings/sale* | $68.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GehirngerechtDigitalGmbH |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Barrierefreiheit für Designer*innen? — Typ: Member area and video courses, Anbieter: GehirngerechtDigitalGmbH, gelistet seit 2023-10-12
-- Wie viel kostet es? — 272.60282 USD
+- Wie viel kostet es? — 273.09022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 369670
 title: "Ayurveda-Komplett-Ausbildung"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 2368.8
+price: 2373.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 710.65
+earnings_per_sale: 711.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/ayurveda-komplett-ausbildung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ayurveda-Komplett-Ausbildung
 
 > Product ID `39741` · Digistore24 productId `369670` · [HTML profile page](../../produkte/ayurveda-komplett-ausbildung-39741.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2368.80 (Single payment, Subscription, Installment) |
+| Price | $2373.04 (Single payment, Subscription, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $710.65 |
+| Earnings/sale* | $711.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda-Komplett-Ausbildung? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2021-01-23
-- Wie viel kostet es? — 2368.8032900000003 USD
+- Wie viel kostet es? — 2373.03859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

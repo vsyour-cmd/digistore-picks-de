@@ -4,15 +4,15 @@ digistore24_product_id: 416568
 title: "Praxis Elektrik - Handwerkzeuge der Elektroinstallation"
 vendor: "elektricks"
 product_type: "E-books"
-price: 105.62
+price: 105.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.8
+earnings_per_sale: 18.84
 cart_conversion_pct: 24
 cancel_rate_pct: 8.4
 categories: ["Education"]
 listed_since: "2021-11-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Praxis Elektrik - Handwerkzeuge der Elektroinstallation
 
 > Product ID `41851` · Digistore24 productId `416568` · [HTML profile page](../../produkte/praxis-elektrik-handwerkzeuge-der-elektroinstallation-41851.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $105.62 (Single payment) |
+| Price | $105.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.84 |
 | Cart conversion* | 24% |
 | Cancel rate* | 8.4% |
 | Vendor | elektricks |
@@ -107,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxis Elektrik - Handwerkzeuge der Elektroinstallation? — Typ: E-books, Anbieter: elektricks, gelistet seit 2021-11-17
-- Wie viel kostet es? — 105.618212 USD
+- Wie viel kostet es? — 105.807052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

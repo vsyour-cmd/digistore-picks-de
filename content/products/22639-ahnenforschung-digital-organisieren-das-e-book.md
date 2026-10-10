@@ -4,7 +4,7 @@ digistore24_product_id: 198697
 title: "Ahnenforschung digital organisieren - das e-Book"
 vendor: "tiamana"
 product_type: "E-books"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.32
@@ -12,7 +12,7 @@ cart_conversion_pct: 10
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2018-02-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://welt-der-vorfahren.de/ahnenforschung-digital-organisieren-e-book/?cam=ds24-marktplatz&aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Ahnenforschung digital organisieren - das e-Book
 
 > Product ID `22639` · Digistore24 productId `198697` · [HTML profile page](../../produkte/ahnenforschung-digital-organisieren-das-e-book-22639.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.32 |
 | Cart conversion* | 10% |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ahnenforschung digital organisieren - das e-Book? — Typ: E-books, Anbieter: tiamana, gelistet seit 2018-02-05
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

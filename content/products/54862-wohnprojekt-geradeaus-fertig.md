@@ -4,15 +4,15 @@ digistore24_product_id: 653624
 title: "Wohnprojekt. Geradeaus. Fertig."
 vendor: "BaukeinScheiss"
 product_type: "Telephone coaching"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 95
-earnings_per_sale: 88.4
+earnings_per_sale: 88.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Leadership & Management","Project Management","Real Estate"]
 listed_since: "2025-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.hofmann-projektmanagement.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wohnprojekt. Geradeaus. Fertig.
 
 > Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../produkte/wohnprojekt-geradeaus-fertig-54862.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 95% |
-| Earnings/sale* | $88.40 |
+| Earnings/sale* | $88.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BaukeinScheiss |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnprojekt. Geradeaus. Fertig.? — Typ: Telephone coaching, Anbieter: BaukeinScheiss, gelistet seit 2025-12-06
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

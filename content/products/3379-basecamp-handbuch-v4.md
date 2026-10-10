@@ -4,15 +4,15 @@ digistore24_product_id: 12747
 title: "BaseCamp Handbuch V4"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 26.09
+price: 26.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://basecamphandbuch.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BaseCamp Handbuch V4
 
 > Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../produkte/basecamp-handbuch-v4-3379.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.09 (Single payment) |
+| Price | $26.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BaseCamp Handbuch V4? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2013-06-06
-- Wie viel kostet es? — 26.085752000000003 USD
+- Wie viel kostet es? — 26.132392000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

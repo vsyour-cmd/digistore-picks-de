@@ -12,7 +12,7 @@ cart_conversion_pct: 62
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/Dein-KI-Avatar-Deine-24-7-Geldmaschine/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # KI Avatar - Deine 24/7 Geldmaschine
 
 > Product ID `55478` · Digistore24 productId `662769` · [HTML profile page](../../produkte/ki-avatar-deine-24-7-geldmaschine-55478.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Avatar - Deine 24/7 Geldmaschine? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-20
-- Wie viel kostet es? — 0.201348 USD
+- Wie viel kostet es? — 0.201708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

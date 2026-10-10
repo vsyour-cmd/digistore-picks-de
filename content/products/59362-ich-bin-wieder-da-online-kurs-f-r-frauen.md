@@ -4,15 +4,15 @@ digistore24_product_id: 734181
 title: "Ich bin wieder da – Online-Kurs für Frauen"
 vendor: "beatelindemann"
 product_type: "Member area and video courses"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.64
+earnings_per_sale: 27.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://campus.beate-lindemann.de/lp/ich-bin-wieder-da?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ich bin wieder da – Online-Kurs für Frauen
 
 > Product ID `59362` · Digistore24 productId `734181` · [HTML profile page](../../produkte/ich-bin-wieder-da-online-kurs-f-r-frauen-59362.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.18 (Single payment, Installment) |
+| Price | $138.43 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.64 |
+| Earnings/sale* | $27.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | beatelindemann |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich bin wieder da – Online-Kurs für Frauen? — Typ: Member area and video courses, Anbieter: beatelindemann, gelistet seit 2026-09-18
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

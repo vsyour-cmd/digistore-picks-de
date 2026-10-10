@@ -4,15 +4,15 @@ digistore24_product_id: 79507
 title: "Internet Geld Maschine - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 751.06
+price: 752.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 375.54
+earnings_per_sale: 376.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/internet-geld-maschine-7500/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Internet Geld Maschine - von Gunnar Kessler
 
 > Product ID `12039` · Digistore24 productId `79507` · [HTML profile page](../../produkte/internet-geld-maschine-von-gunnar-kessler-12039.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $751.06 (Single payment) |
+| Price | $752.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $375.54 |
+| Earnings/sale* | $376.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GTK-littlefreilich |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Internet Geld Maschine - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2016-04-29
-- Wie viel kostet es? — 751.061598 USD
+- Wie viel kostet es? — 752.404458 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 681476
 title: "Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring"
 vendor: "akashanicolementh"
 product_type: "Online coaching"
-price: 1870.6
+price: 1873.95
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 335.58
+earnings_per_sale: 336.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.akasha-portal.com/intensivkurs-kartenlegen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring
 
 > Product ID `56346` · Digistore24 productId `681476` · [HTML profile page](../../produkte/kartenlegen-taromand-orakel-das-15-monatige-mentoring-56346.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1870.60 (Single payment) |
+| Price | $1873.95 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $335.58 |
+| Earnings/sale* | $336.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | akashanicolementh |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring? — Typ: Online coaching, Anbieter: akashanicolementh, gelistet seit 2026-04-02
-- Wie viel kostet es? — 1870.601222 USD
+- Wie viel kostet es? — 1873.945762 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

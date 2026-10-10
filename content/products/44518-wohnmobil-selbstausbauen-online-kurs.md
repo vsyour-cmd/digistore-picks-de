@@ -4,15 +4,15 @@ digistore24_product_id: 183927
 title: "Wohnmobil Selbstausbauen online Kurs"
 vendor: "MBMweb"
 product_type: "Member area and video courses"
-price: 49.73
+price: 49.82
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 27.11
+earnings_per_sale: 27.16
 cart_conversion_pct: 9
 cancel_rate_pct: 2.18
 categories: ["Hobby & Craft"]
 listed_since: "2017-11-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://womoselbstausbauen.com/vk1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wohnmobil Selbstausbauen online Kurs
 
 > Product ID `44518` · Digistore24 productId `183927` · [HTML profile page](../../produkte/wohnmobil-selbstausbauen-online-kurs-44518.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $49.73 (Single payment) |
+| Price | $49.82 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $27.11 |
+| Earnings/sale* | $27.16 |
 | Cart conversion* | 9% |
 | Cancel rate* | 2.18% |
 | Vendor | MBMweb |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnmobil Selbstausbauen online Kurs? — Typ: Member area and video courses, Anbieter: MBMweb, gelistet seit 2017-11-30
-- Wie viel kostet es? — 49.732956 USD
+- Wie viel kostet es? — 49.821876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

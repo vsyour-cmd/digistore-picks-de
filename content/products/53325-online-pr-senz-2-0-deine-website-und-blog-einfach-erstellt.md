@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Online-Praesenz?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Online Präsenz 2.0 - Deine Website und Blog einfach erstellt
 
 > Product ID `53325` · Digistore24 productId `626644` · [HTML profile page](../../produkte/online-pr-senz-2-0-deine-website-und-blog-einfach-erstellt-53325.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Präsenz 2.0 - Deine Website und Blog einfach erstellt? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-07-29
-- Wie viel kostet es? — 2.449734 USD
+- Wie viel kostet es? — 2.454114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

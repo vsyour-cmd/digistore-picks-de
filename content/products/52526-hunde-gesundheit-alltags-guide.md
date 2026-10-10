@@ -4,15 +4,15 @@ digistore24_product_id: 612767
 title: "Hunde Gesundheit - Alltags Guide"
 vendor: "Loverie"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.94
+earnings_per_sale: 7.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2025-05-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hunde Gesundheit - Alltags Guide
 
 > Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment, Installment) |
+| Price | $19.90 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.94 |
+| Earnings/sale* | $7.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loverie |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hunde Gesundheit - Alltags Guide? — Typ: E-books, Anbieter: Loverie, gelistet seit 2025-05-14
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

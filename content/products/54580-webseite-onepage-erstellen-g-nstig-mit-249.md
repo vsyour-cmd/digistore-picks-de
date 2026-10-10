@@ -4,15 +4,15 @@ digistore24_product_id: 646601
 title: "Webseite \" OnePage \" erstellen günstig mit 249"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 278.53
+price: 279.03
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 69.63
+earnings_per_sale: 69.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2025-11-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-onepage-erstellen-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Webseite " OnePage " erstellen günstig mit 249
 
 > Product ID `54580` · Digistore24 productId `646601` · [HTML profile page](../../produkte/webseite-onepage-erstellen-g-nstig-mit-249-54580.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $278.53 (Single payment) |
+| Price | $279.03 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $69.63 |
+| Earnings/sale* | $69.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite " OnePage " erstellen günstig mit 249? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-06
-- Wie viel kostet es? — 278.5314 USD
+- Wie viel kostet es? — 279.0294 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

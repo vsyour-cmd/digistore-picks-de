@@ -4,15 +4,15 @@ digistore24_product_id: 330349
 title: "Bauanleitung - Citroen Berlingo III Kombibett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.26
+price: 30.31
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.95
+earnings_per_sale: 11.97
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/citroen-berlingo-III?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bauanleitung - Citroen Berlingo III Kombibett
 
 > Product ID `35165` · Digistore24 productId `330349` · [HTML profile page](../../produkte/bauanleitung-citroen-berlingo-iii-kombibett-35165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.31 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.95 |
+| Earnings/sale* | $11.97 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Citroen Berlingo III Kombibett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-06-06
-- Wie viel kostet es? — 30.25813 USD
+- Wie viel kostet es? — 30.312230000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

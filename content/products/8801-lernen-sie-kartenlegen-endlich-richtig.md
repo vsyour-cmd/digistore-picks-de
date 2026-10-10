@@ -4,15 +4,15 @@ digistore24_product_id: 61745
 title: "Lernen Sie Kartenlegen endlich richtig"
 vendor: "maren_giertz"
 product_type: "Downloads"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lernen Sie Kartenlegen endlich richtig
 
 > Product ID `8801` · Digistore24 productId `61745` · [HTML profile page](../../produkte/lernen-sie-kartenlegen-endlich-richtig-8801.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment) |
+| Price | $23.53 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maren_giertz |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lernen Sie Kartenlegen endlich richtig? — Typ: Downloads, Anbieter: maren_giertz, gelistet seit 2015-10-27
-- Wie viel kostet es? — 23.4906 USD
+- Wie viel kostet es? — 23.532600000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

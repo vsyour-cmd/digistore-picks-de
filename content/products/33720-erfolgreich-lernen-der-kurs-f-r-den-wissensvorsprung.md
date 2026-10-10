@@ -4,15 +4,15 @@ digistore24_product_id: 319119
 title: "ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung"
 vendor: "krissmueller"
 product_type: "Member area and video courses"
-price: 41.77
+price: 41.84
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.17
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-04-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://erfolgreich-lernen.online/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung
 
 > Product ID `33720` · Digistore24 productId `319119` · [HTML profile page](../../produkte/erfolgreich-lernen-der-kurs-f-r-den-wissensvorsprung-33720.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.77 (Single payment) |
+| Price | $41.84 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.17 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krissmueller |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung? — Typ: Member area and video courses, Anbieter: krissmueller, gelistet seit 2020-04-07
-- Wie viel kostet es? — 41.768524000000006 USD
+- Wie viel kostet es? — 41.84320400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

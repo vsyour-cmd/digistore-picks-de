@@ -4,15 +4,15 @@ digistore24_product_id: 718161
 title: "Das 90/10-System – In 7 Schritten zu deinem ersten digitalen"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das 90/10-System – In 7 Schritten zu deinem ersten digitalen
 
 > Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../produkte/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 90/10-System – In 7 Schritten zu deinem ersten digitalen? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-04
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

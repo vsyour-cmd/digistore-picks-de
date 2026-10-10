@@ -4,15 +4,15 @@ digistore24_product_id: 151443
 title: "FreieEnergie24"
 vendor: "gunkes"
 product_type: "E-books"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.69
+earnings_per_sale: 20.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2017-07-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://freieenergie24.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FreieEnergie24
 
 > Product ID `17973` · Digistore24 productId `151443` · [HTML profile page](../../produkte/freieenergie24-17973.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.69 |
+| Earnings/sale* | $20.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gunkes |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FreieEnergie24? — Typ: E-books, Anbieter: gunkes, gelistet seit 2017-07-18
-- Wie viel kostet es? — 41.388200000000005 USD
+- Wie viel kostet es? — 41.4622 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

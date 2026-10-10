@@ -4,15 +4,15 @@ digistore24_product_id: 571310
 title: "Mit Umfragen lukrativ Geld verdienen"
 vendor: "tippsnet"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 10.19
+earnings_per_sale: 10.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://umfragen.geld-verdienen.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mit Umfragen lukrativ Geld verdienen
 
 > Product ID `49784` · Digistore24 productId `571310` · [HTML profile page](../../produkte/mit-umfragen-lukrativ-geld-verdienen-49784.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $10.19 |
+| Earnings/sale* | $10.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tippsnet |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Umfragen lukrativ Geld verdienen? — Typ: E-books, Anbieter: tippsnet, gelistet seit 2024-09-19
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

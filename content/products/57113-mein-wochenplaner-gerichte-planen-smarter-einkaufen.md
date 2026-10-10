@@ -4,15 +4,15 @@ digistore24_product_id: 700947
 title: "Mein Wochenplaner - Gerichte planen, smarter einkaufen"
 vendor: "pakohli8ptrick"
 product_type: "Member area and video courses"
-price: 72.71
+price: 72.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.35
+earnings_per_sale: 36.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://wochenplaner.patrickkohli.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mein Wochenplaner - Gerichte planen, smarter einkaufen
 
 > Product ID `57113` · Digistore24 productId `700947` · [HTML profile page](../../produkte/mein-wochenplaner-gerichte-planen-smarter-einkaufen-57113.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $72.71 (Single payment) |
+| Price | $72.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.35 |
+| Earnings/sale* | $36.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pakohli8ptrick |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Wochenplaner - Gerichte planen, smarter einkaufen? — Typ: Member area and video courses, Anbieter: pakohli8ptrick, gelistet seit 2026-06-23
-- Wie viel kostet es? — 72.709 USD
+- Wie viel kostet es? — 72.839 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 433387
 title: "Wohlfühkörper Kurs"
 vendor: "Issdichgesund_Mel"
 product_type: "Downloads"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.94
+earnings_per_sale: 25.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wohlfühkörper Kurs
 
 > Product ID `40077` · Digistore24 productId `433387` · [HTML profile page](../../produkte/wohlf-hk-rper-kurs-40077.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.94 |
+| Earnings/sale* | $25.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Issdichgesund_Mel |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohlfühkörper Kurs? — Typ: Downloads, Anbieter: Issdichgesund_Mel, gelistet seit 2022-03-09
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

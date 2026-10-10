@@ -7,12 +7,12 @@ product_type: "Member area and video courses"
 price: 0.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.04
+earnings_per_sale: 16.07
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://kb-om.com/affiliate-marketing-das-mega-bundle/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing - Mega Bundle
 
 > Product ID `44016` · Digistore24 productId `498008` · [HTML profile page](../../produkte/affiliate-marketing-mega-bundle-44016.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.04 |
+| Earnings/sale* | $16.07 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.86% |
 | Vendor | Plebvin |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing - Mega Bundle? — Typ: Member area and video courses, Anbieter: Plebvin, gelistet seit 2023-05-08
-- Wie viel kostet es? — 0.6264160000000001 USD
+- Wie viel kostet es? — 0.6275360000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 725694
 title: "Auswandern und B2B-Freelancing in der EU"
 vendor: "info269b"
 product_type: "E-books"
-price: 13.58
+price: 13.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.79
+earnings_per_sale: 6.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725694?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern und B2B-Freelancing in der EU
 
 > Product ID `58908` · Digistore24 productId `725694` · [HTML profile page](../../produkte/auswandern-und-b2b-freelancing-in-der-eu-58908.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.58 (Single payment) |
+| Price | $13.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.79 |
+| Earnings/sale* | $6.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info269b |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern und B2B-Freelancing in der EU? — Typ: E-books, Anbieter: info269b, gelistet seit 2026-09-04
-- Wie viel kostet es? — 13.579804000000001 USD
+- Wie viel kostet es? — 13.604084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

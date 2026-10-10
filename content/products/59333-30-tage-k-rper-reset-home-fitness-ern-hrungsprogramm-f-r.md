@@ -4,15 +4,15 @@ digistore24_product_id: 734087
 title: "30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für"
 vendor: "ersanfidan6767c470"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.39
+earnings_per_sale: 20.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://koerperleveltwo.netlify.app?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für
 
 > Product ID `59333` · Digistore24 productId `734087` · [HTML profile page](../../produkte/30-tage-k-rper-reset-home-fitness-ern-hrungsprogramm-f-r-59333.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.39 |
+| Earnings/sale* | $20.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ersanfidan6767c470 |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für? — Typ: E-books, Anbieter: ersanfidan6767c470, gelistet seit 2026-09-17
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

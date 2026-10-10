@@ -4,15 +4,15 @@ digistore24_product_id: 425571
 title: "„Die Heilung des Schoßraumes, der Sexualorgane und der...“"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 464.68
+price: 465.51
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 73.38
+earnings_per_sale: 73.51
 cart_conversion_pct: 23
 cancel_rate_pct: 2.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/schossraum-e?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Die Heilung des Schoßraumes, der Sexualorgane und der...“
 
 > Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../produkte/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $464.68 (Single payment, Installment) |
+| Price | $465.51 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $73.38 |
+| Earnings/sale* | $73.51 |
 | Cart conversion* | 23% |
 | Cancel rate* | 2.86% |
 | Vendor | phoenix999 |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die Heilung des Schoßraumes, der Sexualorgane und der...“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2022-01-19
-- Wie viel kostet es? — 464.67762600000003 USD
+- Wie viel kostet es? — 465.50844600000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

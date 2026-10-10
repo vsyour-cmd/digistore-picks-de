@@ -12,7 +12,7 @@ cart_conversion_pct: 47
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/youtube-content-maschine/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # YouTube - 24/7 Geldmaschine
 
 > Product ID `47354` · Digistore24 productId `541768` · [HTML profile page](../../produkte/youtube-24-7-geldmaschine-47354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist YouTube - 24/7 Geldmaschine? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-03-03
-- Wie viel kostet es? — 0.100674 USD
+- Wie viel kostet es? — 0.100854 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

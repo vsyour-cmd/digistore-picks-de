@@ -4,15 +4,15 @@ digistore24_product_id: 327088
 title: "\"Ein Hund Namens Money\" von Bodo Schäfer"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 7.29
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 45
 cancel_rate_pct: 4.02
 categories: ["Family & Children","Personal Development"]
 listed_since: "2020-05-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/ein-hund-namens-money/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # "Ein Hund Namens Money" von Bodo Schäfer
 
 > Product ID `45110` · Digistore24 productId `327088` · [HTML profile page](../../produkte/ein-hund-namens-money-von-bodo-sch-fer-45110.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.29 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | 45% |
 | Cancel rate* | 4.02% |
 | Vendor | BodoSchaefer |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Ein Hund Namens Money" von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2020-05-17
-- Wie viel kostet es? — 7.293272 USD
+- Wie viel kostet es? — 7.306312 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

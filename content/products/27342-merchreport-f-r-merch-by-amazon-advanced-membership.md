@@ -4,15 +4,15 @@ digistore24_product_id: 248863
 title: "Merchreport für Merch by Amazon (Advanced Membership)"
 vendor: "biedermann_klose"
 product_type: "Downloads"
-price: 267.12
+price: 267.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 53.42
+earnings_per_sale: 53.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2018-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://merchreport.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Merchreport für Merch by Amazon (Advanced Membership)
 
 > Product ID `27342` · Digistore24 productId `248863` · [HTML profile page](../../produkte/merchreport-f-r-merch-by-amazon-advanced-membership-27342.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $267.12 (bt.) |
+| Price | $267.60 (bt.) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $53.42 |
+| Earnings/sale* | $53.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | biedermann_klose |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Merchreport für Merch by Amazon (Advanced Membership)? — Typ: Downloads, Anbieter: biedermann_klose, gelistet seit 2018-11-20
-- Wie viel kostet es? — 267.12168 USD
+- Wie viel kostet es? — 267.59928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

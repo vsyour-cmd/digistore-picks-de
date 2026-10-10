@@ -4,15 +4,15 @@ digistore24_product_id: 595169
 title: "Posting Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 331.24
+price: 331.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 115.94
+earnings_per_sale: 116.15
 cart_conversion_pct: 11
 cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/posting-mastery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Posting Mastery
 
 > Product ID `55687` · Digistore24 productId `595169` · [HTML profile page](../../produkte/posting-mastery-55687.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $331.24 (Single payment) |
+| Price | $331.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $115.94 |
+| Earnings/sale* | $116.15 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.77% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Posting Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 331.23983200000004 USD
+- Wie viel kostet es? — 331.83207200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 450058
 title: "eBook zur Leica M11 Kamera"
 vendor: "birnbacherm"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.06
+earnings_per_sale: 6.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2022-07-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/450058?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eBook zur Leica M11 Kamera
 
 > Product ID `41370` · Digistore24 productId `450058` · [HTML profile page](../../produkte/ebook-zur-leica-m11-kamera-41370.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.06 |
+| Earnings/sale* | $6.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | birnbacherm |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook zur Leica M11 Kamera? — Typ: E-books, Anbieter: birnbacherm, gelistet seit 2022-07-06
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

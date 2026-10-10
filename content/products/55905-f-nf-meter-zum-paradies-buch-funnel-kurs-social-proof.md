@@ -4,15 +4,15 @@ digistore24_product_id: 656397
 title: "Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof"
 vendor: "fuenfmeterzumparadies"
 product_type: "Book (printed)"
-price: 28.04
+price: 28.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.23
+earnings_per_sale: 13.26
 cart_conversion_pct: 15
 cancel_rate_pct: 4.16
 categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof
 
 > Product ID `55905` · Digistore24 productId `656397` · [HTML profile page](../../produkte/f-nf-meter-zum-paradies-buch-funnel-kurs-social-proof-55905.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $28.04 (Single payment) |
+| Price | $28.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.23 |
+| Earnings/sale* | $13.26 |
 | Cart conversion* | 15% |
 | Cancel rate* | 4.16% |
 | Vendor | fuenfmeterzumparadies |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof? — Typ: Book (printed), Anbieter: fuenfmeterzumparadies, gelistet seit 2025-12-18
-- Wie viel kostet es? — 28.043302 USD
+- Wie viel kostet es? — 28.093442 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

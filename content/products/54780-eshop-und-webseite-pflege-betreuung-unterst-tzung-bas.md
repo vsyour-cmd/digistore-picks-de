@@ -4,15 +4,15 @@ digistore24_product_id: 650787
 title: "Eshop und Webseite: Pflege - Betreuung - Unterstützung \" Bas"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 162.2
+price: 162.49
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 48.66
+earnings_per_sale: 48.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-11-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-pflege-unterstuetzung-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas
 
 > Product ID `54780` · Digistore24 productId `650787` · [HTML profile page](../../produkte/eshop-und-webseite-pflege-betreuung-unterst-tzung-bas-54780.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $162.20 (Subscription) |
+| Price | $162.49 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $48.66 |
+| Earnings/sale* | $48.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-24
-- Wie viel kostet es? — 162.197 USD
+- Wie viel kostet es? — 162.487 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

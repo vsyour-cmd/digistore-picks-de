@@ -4,15 +4,15 @@ digistore24_product_id: 255194
 title: "Musik von Sayama - Richard Hiebinger"
 vendor: "sayamaapps"
 product_type: "Downloads"
-price: 18.11
+price: 18.14
 currency: "USD"
 affiliate_commission_pct: 33.3
-earnings_per_sale: 5.22
+earnings_per_sale: 5.23
 cart_conversion_pct: 3
 cancel_rate_pct: 0.88
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-01-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.sayama-music.de/cd/herzschwingungen-venus/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Musik von Sayama - Richard Hiebinger
 
 > Product ID `32913` · Digistore24 productId `255194` · [HTML profile page](../../produkte/musik-von-sayama-richard-hiebinger-32913.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.11 (Single payment) |
+| Price | $18.14 (Single payment) |
 | Affiliate commission | 33.3% |
-| Earnings/sale* | $5.22 |
+| Earnings/sale* | $5.23 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.88% |
 | Vendor | sayamaapps |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Musik von Sayama - Richard Hiebinger? — Typ: Downloads, Anbieter: sayamaapps, gelistet seit 2019-01-05
-- Wie viel kostet es? — 18.110134000000002 USD
+- Wie viel kostet es? — 18.142514000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 53
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/NZ5ozmhfW6BSTmYkM?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Streaming Cashflow
 
 > Product ID `55918` · Digistore24 productId `676406` · [HTML profile page](../../produkte/streaming-cashflow-55918.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

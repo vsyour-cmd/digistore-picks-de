@@ -4,15 +4,15 @@ digistore24_product_id: 15333
 title: "Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen"
 vendor: "DotsDesigns"
 product_type: "Downloads"
-price: 16.91
+price: 16.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.46
+earnings_per_sale: 8.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen
 
 > Product ID `4199` · Digistore24 productId `15333` · [HTML profile page](../../produkte/alle-hausschuhe-mit-traubenkerne-erwachsenen-gr-ssen-4199.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.91 (Single payment) |
+| Price | $16.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.46 |
+| Earnings/sale* | $8.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DotsDesigns |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alle Hausschuhe mit Traubenkerne Erwachsenen Grössen? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-09-06
-- Wie viel kostet es? — 16.913232 USD
+- Wie viel kostet es? — 16.943472 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

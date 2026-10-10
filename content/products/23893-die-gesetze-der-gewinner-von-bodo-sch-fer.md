@@ -4,15 +4,15 @@ digistore24_product_id: 215489
 title: "\"Die Gesetze Der Gewinner\" von Bodo Schäfer"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 8.11
+price: 8.12
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.56
+earnings_per_sale: 5.57
 cart_conversion_pct: 43
 cancel_rate_pct: 3.08
 categories: ["Personal Development"]
 listed_since: "2018-04-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://buch.bodoschaefer.de/die-gesetze-der-gewinner?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # "Die Gesetze Der Gewinner" von Bodo Schäfer
 
 > Product ID `23893` · Digistore24 productId `215489` · [HTML profile page](../../produkte/die-gesetze-der-gewinner-von-bodo-sch-fer-23893.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $8.11 (Single payment) |
+| Price | $8.12 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.56 |
+| Earnings/sale* | $5.57 |
 | Cart conversion* | 43% |
 | Cancel rate* | 3.08% |
 | Vendor | BodoSchaefer |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Die Gesetze Der Gewinner" von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2018-04-16
-- Wie viel kostet es? — 8.10985 USD
+- Wie viel kostet es? — 8.12435 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

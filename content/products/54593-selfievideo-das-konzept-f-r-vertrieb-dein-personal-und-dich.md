@@ -4,15 +4,15 @@ digistore24_product_id: 638520
 title: "Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich"
 vendor: "Selfievideo-Finanzmedia"
 product_type: "Member area and video courses"
-price: 188.8
+price: 189.13
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 18.88
+earnings_per_sale: 18.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2025-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://finanzmedia.de/deine-tierversicherung-kosten-nicht-unterschaetzen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich
 
 > Product ID `54593` · Digistore24 productId `638520` · [HTML profile page](../../produkte/selfievideo-das-konzept-f-r-vertrieb-dein-personal-und-dich-54593.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.80 (Subscription) |
+| Price | $189.13 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $18.88 |
+| Earnings/sale* | $18.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Selfievideo-Finanzmedia |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich? — Typ: Member area and video courses, Anbieter: Selfievideo-Finanzmedia, gelistet seit 2025-09-29
-- Wie viel kostet es? — 188.79730800000002 USD
+- Wie viel kostet es? — 189.134868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

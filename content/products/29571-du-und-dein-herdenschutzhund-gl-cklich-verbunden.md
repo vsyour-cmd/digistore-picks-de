@@ -4,15 +4,15 @@ digistore24_product_id: 276887
 title: "Du und Dein Herdenschutzhund - glücklich verbunden"
 vendor: "ZappZapp"
 product_type: "Webinar"
-price: 541.44
+price: 542.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 162.43
+earnings_per_sale: 162.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2019-06-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
 > Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $541.44 (Single payment, Installment) |
+| Price | $542.40 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $162.43 |
+| Earnings/sale* | $162.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZappZapp |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Du und Dein Herdenschutzhund - glücklich verbunden? — Typ: Webinar, Anbieter: ZappZapp, gelistet seit 2019-06-25
-- Wie viel kostet es? — 541.435958 USD
+- Wie viel kostet es? — 542.404018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

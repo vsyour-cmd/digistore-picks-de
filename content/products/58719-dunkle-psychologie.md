@@ -4,15 +4,15 @@ digistore24_product_id: 716901
 title: "Dunkle Psychologie"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 13.69
+price: 13.72
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.36
+earnings_per_sale: 1.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/psycho.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dunkle Psychologie
 
 > Product ID `58719` · Digistore24 productId `716901` · [HTML profile page](../../produkte/dunkle-psychologie-58719.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.69 (Single payment) |
+| Price | $13.72 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.36 |
+| Earnings/sale* | $1.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dunkle Psychologie? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 13.691664000000001 USD
+- Wie viel kostet es? — 13.716144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

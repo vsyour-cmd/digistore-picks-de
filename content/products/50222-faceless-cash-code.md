@@ -4,15 +4,15 @@ digistore24_product_id: 572149
 title: "Faceless Cash Code"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 257.56
+price: 258.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 128.78
+earnings_per_sale: 129.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://facelesscashcode.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Faceless Cash Code
 
 > Product ID `50222` · Digistore24 productId `572149` · [HTML profile page](../../produkte/faceless-cash-code-50222.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $257.56 (Single payment) |
+| Price | $258.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $128.78 |
+| Earnings/sale* | $129.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Faceless Cash Code? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 257.55765 USD
+- Wie viel kostet es? — 258.01815 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

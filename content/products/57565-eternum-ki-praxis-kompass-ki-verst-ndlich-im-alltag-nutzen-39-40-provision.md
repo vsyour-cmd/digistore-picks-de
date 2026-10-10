@@ -4,15 +4,15 @@ digistore24_product_id: 712329
 title: "ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision"
 vendor: "megareichtum"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.31
+earnings_per_sale: 16.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/ki-schnellstart?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision
 
 > Product ID `57565` · Digistore24 productId `712329` · [HTML profile page](../../produkte/eternum-ki-praxis-kompass-ki-verst-ndlich-im-alltag-nutzen-39-40-provision-57565.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.31 |
+| Earnings/sale* | $16.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision? — Typ: E-books, Anbieter: megareichtum, gelistet seit 2026-07-16
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

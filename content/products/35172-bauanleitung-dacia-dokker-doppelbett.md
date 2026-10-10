@@ -4,15 +4,15 @@ digistore24_product_id: 340371
 title: "Bauanleitung - Dacia Dokker Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.26
+price: 30.31
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.95
+earnings_per_sale: 11.97
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-08-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/dacia-dokker?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bauanleitung - Dacia Dokker Doppelbett
 
 > Product ID `35172` · Digistore24 productId `340371` · [HTML profile page](../../produkte/bauanleitung-dacia-dokker-doppelbett-35172.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.31 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.95 |
+| Earnings/sale* | $11.97 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Dacia Dokker Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-08-10
-- Wie viel kostet es? — 30.25813 USD
+- Wie viel kostet es? — 30.312230000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

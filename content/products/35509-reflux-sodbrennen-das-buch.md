@@ -4,15 +4,15 @@ digistore24_product_id: 368076
 title: "Reflux Sodbrennen - Das Buch"
 vendor: "partner17"
 product_type: "E-books"
-price: 15.63
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 5.16
+earnings_per_sale: 5.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.reflux-kliniken.de/das_buch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reflux Sodbrennen - Das Buch
 
 > Product ID `35509` · Digistore24 productId `368076` · [HTML profile page](../../produkte/reflux-sodbrennen-das-buch-35509.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.63 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $5.16 |
+| Earnings/sale* | $5.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | partner17 |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reflux Sodbrennen - Das Buch? — Typ: E-books, Anbieter: partner17, gelistet seit 2021-01-15
-- Wie viel kostet es? — 15.626842000000002 USD
+- Wie viel kostet es? — 15.654782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

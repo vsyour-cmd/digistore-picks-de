@@ -4,15 +4,15 @@ digistore24_product_id: 277893
 title: "Gitarre ONLINE Elementar"
 vendor: "Guitarschool"
 product_type: "Member area and video courses"
-price: 83.29
+price: 83.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 21.64
+earnings_per_sale: 21.68
 cart_conversion_pct: 17
 cancel_rate_pct: 7.76
 categories: ["Dancing & Music"]
 listed_since: "2019-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.guitarschool.at/gitarrenkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre ONLINE Elementar
 
 > Product ID `29356` · Digistore24 productId `277893` · [HTML profile page](../../produkte/gitarre-online-elementar-29356.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.29 (Single payment) |
+| Price | $83.44 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $21.64 |
+| Earnings/sale* | $21.68 |
 | Cart conversion* | 17% |
 | Cancel rate* | 7.76% |
 | Vendor | Guitarschool |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre ONLINE Elementar? — Typ: Member area and video courses, Anbieter: Guitarschool, gelistet seit 2019-07-03
-- Wie viel kostet es? — 83.290956 USD
+- Wie viel kostet es? — 83.439876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

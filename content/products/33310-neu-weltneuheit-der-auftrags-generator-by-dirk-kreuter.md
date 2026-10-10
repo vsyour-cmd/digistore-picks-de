@@ -4,15 +4,15 @@ digistore24_product_id: 323519
 title: "Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter"
 vendor: "Act_by_Dirk_Kreuter"
 product_type: "Software"
-price: 222.6
+price: 223
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.3
+earnings_per_sale: 111.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/323519?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter
 
 > Product ID `33310` · Digistore24 productId `323519` · [HTML profile page](../../produkte/neu-weltneuheit-der-auftrags-generator-by-dirk-kreuter-33310.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $222.60 (Subscription) |
+| Price | $223.00 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.30 |
+| Earnings/sale* | $111.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Act_by_Dirk_Kreuter |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter? — Typ: Software, Anbieter: Act_by_Dirk_Kreuter, gelistet seit 2020-04-28
-- Wie viel kostet es? — 222.6014 USD
+- Wie viel kostet es? — 222.9994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

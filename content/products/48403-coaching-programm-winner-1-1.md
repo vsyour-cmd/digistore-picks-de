@@ -4,15 +4,15 @@ digistore24_product_id: 462842
 title: "Coaching-Programm WINNER 1:1"
 vendor: "OneHeart4All"
 product_type: "Online coaching"
-price: 4350.32
+price: 4358.1
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 335.58
+earnings_per_sale: 336.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2022-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.christianrupp.ch/coaching-programm-winner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Coaching-Programm WINNER 1:1
 
 > Product ID `48403` · Digistore24 productId `462842` · [HTML profile page](../../produkte/coaching-programm-winner-1-1-48403.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $4350.32 (Single payment, Installment) |
+| Price | $4358.10 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $335.58 |
+| Earnings/sale* | $336.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | OneHeart4All |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Coaching-Programm WINNER 1:1? — Typ: Online coaching, Anbieter: OneHeart4All, gelistet seit 2022-10-01
-- Wie viel kostet es? — 4350.324888 USD
+- Wie viel kostet es? — 4358.103048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

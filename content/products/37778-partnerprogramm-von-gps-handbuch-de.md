@@ -4,7 +4,7 @@ digistore24_product_id: 379427
 title: "Partnerprogramm von GPS-Handbuch.de"
 vendor: "Navigation-Professionell"
 product_type: "E-books"
-price: 15.65
+price: 15.68
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.43
@@ -12,7 +12,7 @@ cart_conversion_pct: 10
 cancel_rate_pct: 0.31
 categories: ["Hobby & Craft"]
 listed_since: "2021-03-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.gps-handbuch.de/garmin-edge-1030-plus-ebook-anleitung/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Partnerprogramm von GPS-Handbuch.de
 
 > Product ID `37778` · Digistore24 productId `379427` · [HTML profile page](../../produkte/partnerprogramm-von-gps-handbuch-de-37778.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.68 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.43 |
 | Cart conversion* | 10% |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Partnerprogramm von GPS-Handbuch.de? — Typ: E-books, Anbieter: Navigation-Professionell, gelistet seit 2021-03-17
-- Wie viel kostet es? — 15.649214 USD
+- Wie viel kostet es? — 15.677194 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

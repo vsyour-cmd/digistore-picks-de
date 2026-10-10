@@ -4,15 +4,15 @@ digistore24_product_id: 679587
 title: "Übergriffigkeit erkennen und sicher reagieren"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.81
+earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Übergriffigkeit erkennen und sicher reagieren
 
 > Product ID `58431` · Digistore24 productId `679587` · [HTML profile page](../../produkte/bergriffigkeit-erkennen-und-sicher-reagieren-58431.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.81 |
+| Earnings/sale* | $7.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Übergriffigkeit erkennen und sicher reagieren? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

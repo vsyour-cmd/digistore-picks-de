@@ -4,15 +4,15 @@ digistore24_product_id: 230767
 title: "No Brainer Club"
 vendor: "BullMarketsMedia"
 product_type: "E-books"
-price: 2603.09
+price: 2607.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 486.39
+earnings_per_sale: 487.26
 cart_conversion_pct: 2
 cancel_rate_pct: 0.82
 categories: ["Business & Investment"]
 listed_since: "2018-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.sharedeals.de/nobrainerclub/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # No Brainer Club
 
 > Product ID `47191` · Digistore24 productId `230767` · [HTML profile page](../../produkte/no-brainer-club-47191.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $2603.09 (Subscription) |
+| Price | $2607.75 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $486.39 |
+| Earnings/sale* | $487.26 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0.82% |
 | Vendor | BullMarketsMedia |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist No Brainer Club? — Typ: E-books, Anbieter: BullMarketsMedia, gelistet seit 2018-06-27
-- Wie viel kostet es? — 2603.09406 USD
+- Wie viel kostet es? — 2607.74826 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 110755
 title: "Basis-Webinar Teil 1"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.46
+earnings_per_sale: 23.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-12-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://rheinische-hundeschule.de/Start/basis-webinar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Basis-Webinar Teil 1
 
 > Product ID `21293` · Digistore24 productId `110755` · [HTML profile page](../../produkte/basis-webinar-teil-1-21293.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.46 |
+| Earnings/sale* | $23.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Basis-Webinar Teil 1? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2016-12-27
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

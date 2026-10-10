@@ -4,15 +4,15 @@ digistore24_product_id: 349935
 title: "Akkorde ohne Noten - Liedbegleitung für Einsteiger"
 vendor: "Guitarschool"
 product_type: "Member area and video courses"
-price: 85.17
+price: 85.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.88
+earnings_per_sale: 22.92
 cart_conversion_pct: 19
 cancel_rate_pct: 7.13
 categories: ["Education","Hobby & Craft"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.guitarschool.at/akkorde-lernen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Akkorde ohne Noten - Liedbegleitung für Einsteiger
 
 > Product ID `41162` · Digistore24 productId `349935` · [HTML profile page](../../produkte/akkorde-ohne-noten-liedbegleitung-f-r-einsteiger-41162.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $85.17 (Single payment) |
+| Price | $85.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.88 |
+| Earnings/sale* | $22.92 |
 | Cart conversion* | 19% |
 | Cancel rate* | 7.13% |
 | Vendor | Guitarschool |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Akkorde ohne Noten - Liedbegleitung für Einsteiger? — Typ: Member area and video courses, Anbieter: Guitarschool, gelistet seit 2020-09-28
-- Wie viel kostet es? — 85.170204 USD
+- Wie viel kostet es? — 85.322484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

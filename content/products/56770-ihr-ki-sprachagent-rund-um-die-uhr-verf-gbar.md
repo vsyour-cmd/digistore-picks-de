@@ -4,15 +4,15 @@ digistore24_product_id: 689970
 title: "Ihr KI-Sprachagent. Rund um die Uhr verfügbar."
 vendor: "Chainpaysolutions"
 product_type: "Remote service provided electronically"
-price: 55.92
+price: 56.02
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 19.58
+earnings_per_sale: 19.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://spreka.ai/digistore?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ihr KI-Sprachagent. Rund um die Uhr verfügbar.
 
 > Product ID `56770` · Digistore24 productId `689970` · [HTML profile page](../../produkte/ihr-ki-sprachagent-rund-um-die-uhr-verf-gbar-56770.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $55.92 (Subscription) |
+| Price | $56.02 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $19.58 |
+| Earnings/sale* | $19.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chainpaysolutions |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihr KI-Sprachagent. Rund um die Uhr verfügbar.? — Typ: Remote service provided electronically, Anbieter: Chainpaysolutions, gelistet seit 2026-06-01
-- Wie viel kostet es? — 55.918814000000005 USD
+- Wie viel kostet es? — 56.01879400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

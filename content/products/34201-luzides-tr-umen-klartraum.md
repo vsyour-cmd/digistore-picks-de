@@ -4,15 +4,15 @@ digistore24_product_id: 349290
 title: "Luzides Träumen – Klartraum"
 vendor: "Dreamworld"
 product_type: "Member area and video courses"
-price: 112.8
+price: 113
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.56
+earnings_per_sale: 22.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Luzides Träumen – Klartraum
 
 > Product ID `34201` · Digistore24 productId `349290` · [HTML profile page](../../produkte/luzides-tr-umen-klartraum-34201.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.80 (Single payment) |
+| Price | $113.00 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.56 |
+| Earnings/sale* | $22.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dreamworld |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luzides Träumen – Klartraum? — Typ: Member area and video courses, Anbieter: Dreamworld, gelistet seit 2020-09-23
-- Wie viel kostet es? — 112.79962400000001 USD
+- Wie viel kostet es? — 113.001304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

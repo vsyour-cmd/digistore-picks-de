@@ -4,15 +4,15 @@ digistore24_product_id: 737065
 title: "Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort"
 vendor: "bltsad"
 product_type: "Software"
-price: 939.06
+price: 940.74
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 375.63
+earnings_per_sale: 376.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://assetshield-x.com/anti-rosenkrieg-kompass.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort
 
 > Product ID `59969` · Digistore24 productId `737065` · [HTML profile page](../../produkte/scheidung-vorbereiten-unterlagen-finanzen-und-termine-an-einem-ort-59969.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $939.06 (Single payment) |
+| Price | $940.74 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $375.63 |
+| Earnings/sale* | $376.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bltsad |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort? — Typ: Software, Anbieter: bltsad, gelistet seit 2026-09-27
-- Wie viel kostet es? — 939.0647 USD
+- Wie viel kostet es? — 940.7437 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

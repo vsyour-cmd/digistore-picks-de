@@ -4,15 +4,15 @@ digistore24_product_id: 307235
 title: "Nils (Norwegischkurs für Anfänger) Niveau A1/A2"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 303.39
+price: 303.93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 63.41
+earnings_per_sale: 63.53
 cart_conversion_pct: 4
 cancel_rate_pct: 1.14
 categories: ["Languages"]
 listed_since: "2020-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://skapago.coachy.net/lp/nils-norwegischkurs-fur-anfanger/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nils (Norwegischkurs für Anfänger) Niveau A1/A2
 
 > Product ID `31654` · Digistore24 productId `307235` · [HTML profile page](../../produkte/nils-norwegischkurs-f-r-anf-nger-niveau-a1-a2-31654.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $303.39 (Subscription) |
+| Price | $303.93 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $63.41 |
+| Earnings/sale* | $63.53 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.14% |
 | Vendor | Skapago |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nils (Norwegischkurs für Anfänger) Niveau A1/A2? — Typ: Member area and video courses, Anbieter: Skapago, gelistet seit 2020-02-08
-- Wie viel kostet es? — 303.38669200000004 USD
+- Wie viel kostet es? — 303.92913200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

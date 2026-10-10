@@ -4,15 +4,15 @@ digistore24_product_id: 459068
 title: "Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 19.86
+price: 19.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.93
+earnings_per_sale: 9.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/459068?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch
 
 > Product ID `41128` · Digistore24 productId `459068` · [HTML profile page](../../produkte/gesund-und-gl-cklich-lter-werden-ruediger-dahlke-h-rbuch-41128.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $19.86 (Single payment) |
+| Price | $19.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.93 |
+| Earnings/sale* | $9.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2022-09-06
-- Wie viel kostet es? — 19.855150000000002 USD
+- Wie viel kostet es? — 19.89065 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 222585
 title: "geführte Meditation: Beziehungen heilen"
 vendor: "Ninuschka"
 product_type: "Downloads"
-price: 15.13
+price: 15.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.54
+earnings_per_sale: 4.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-05-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # geführte Meditation: Beziehungen heilen
 
 > Product ID `24583` · Digistore24 productId `222585` · [HTML profile page](../../produkte/gef-hrte-meditation-beziehungen-heilen-24583.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.13 (Single payment) |
+| Price | $15.16 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.54 |
+| Earnings/sale* | $4.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ninuschka |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist geführte Meditation: Beziehungen heilen? — Typ: Downloads, Anbieter: Ninuschka, gelistet seit 2018-05-20
-- Wie viel kostet es? — 15.134658 USD
+- Wie viel kostet es? — 15.161718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

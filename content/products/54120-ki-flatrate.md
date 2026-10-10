@@ -4,15 +4,15 @@ digistore24_product_id: 634205
 title: "KI-Flatrate"
 vendor: "MibeneUG"
 product_type: "Online coaching"
-price: 1060.43
+price: 1062.33
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 212.09
+earnings_per_sale: 212.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Personal Development"]
 listed_since: "2025-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/634205?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Flatrate
 
 > Product ID `54120` · Digistore24 productId `634205` · [HTML profile page](../../produkte/ki-flatrate-54120.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1060.43 (Subscription) |
+| Price | $1062.33 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $212.09 |
+| Earnings/sale* | $212.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MibeneUG |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Flatrate? — Typ: Online coaching, Anbieter: MibeneUG, gelistet seit 2025-09-07
-- Wie viel kostet es? — 1060.4328 USD
+- Wie viel kostet es? — 1062.3288 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

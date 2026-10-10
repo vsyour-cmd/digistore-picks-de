@@ -4,15 +4,15 @@ digistore24_product_id: 389617
 title: "Buch \"Der freie Mensch / Atlas Shrugged\" von Ayn Rand"
 vendor: "thinkum"
 product_type: "Book (printed)"
-price: 62.72
+price: 62.83
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2021-05-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.aynrand.jetzt/buch-der-freie-mensch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch "Der freie Mensch / Atlas Shrugged" von Ayn Rand
 
 > Product ID `37043` · Digistore24 productId `389617` · [HTML profile page](../../produkte/buch-der-freie-mensch-atlas-shrugged-von-ayn-rand-37043.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $62.72 (Single payment) |
+| Price | $62.83 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thinkum |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch "Der freie Mensch / Atlas Shrugged" von Ayn Rand? — Typ: Book (printed), Anbieter: thinkum, gelistet seit 2021-05-13
-- Wie viel kostet es? — 62.719902000000005 USD
+- Wie viel kostet es? — 62.832042 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 701394
 title: "Mein Start auf Bluesky"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.93
+earnings_per_sale: 9.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/mein-start-auf-bluesky?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mein Start auf Bluesky
 
 > Product ID `56974` · Digistore24 productId `701394` · [HTML profile page](../../produkte/mein-start-auf-bluesky-56974.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.93 |
+| Earnings/sale* | $9.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Start auf Bluesky? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

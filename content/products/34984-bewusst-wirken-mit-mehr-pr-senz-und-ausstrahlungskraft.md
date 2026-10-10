@@ -4,15 +4,15 @@ digistore24_product_id: 361553
 title: "Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft"
 vendor: "AlexandraLohr"
 product_type: "Online coaching"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.43
+earnings_per_sale: 8.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft
 
 > Product ID `34984` · Digistore24 productId `361553` · [HTML profile page](../../produkte/bewusst-wirken-mit-mehr-pr-senz-und-ausstrahlungskraft-34984.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft? — Typ: Online coaching, Anbieter: AlexandraLohr, gelistet seit 2020-12-07
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

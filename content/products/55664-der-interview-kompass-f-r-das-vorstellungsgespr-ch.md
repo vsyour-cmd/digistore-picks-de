@@ -4,15 +4,15 @@ digistore24_product_id: 670242
 title: "Der Interview-Kompass für das Vorstellungsgespräch"
 vendor: "Diveco"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.18
+earnings_per_sale: 5.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Marketing Services"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-der-interview-kompass-landingpage/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Interview-Kompass für das Vorstellungsgespräch
 
 > Product ID `55664` · Digistore24 productId `670242` · [HTML profile page](../../produkte/der-interview-kompass-f-r-das-vorstellungsgespr-ch-55664.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.18 |
+| Earnings/sale* | $5.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Interview-Kompass für das Vorstellungsgespräch? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-02-20
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

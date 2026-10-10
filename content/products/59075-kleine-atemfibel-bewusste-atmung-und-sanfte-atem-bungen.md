@@ -4,15 +4,15 @@ digistore24_product_id: 731682
 title: "Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen"
 vendor: "gritboettcher2c4c"
 product_type: "E-books"
-price: 13.49
+price: 13.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.75
+earnings_per_sale: 6.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://workbooks.bewusstseinsfibel.de/atemfibel?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen
 
 > Product ID `59075` · Digistore24 productId `731682` · [HTML profile page](../../produkte/kleine-atemfibel-bewusste-atmung-und-sanfte-atem-bungen-59075.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.49 (Single payment) |
+| Price | $13.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.75 |
+| Earnings/sale* | $6.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gritboettcher2c4c |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen? — Typ: E-books, Anbieter: gritboettcher2c4c, gelistet seit 2026-09-09
-- Wie viel kostet es? — 13.490316000000002 USD
+- Wie viel kostet es? — 13.514436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

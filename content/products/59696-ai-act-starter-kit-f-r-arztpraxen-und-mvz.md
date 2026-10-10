@@ -4,15 +4,15 @@ digistore24_product_id: 649020
 title: "AI Act Starter-Kit für Arztpraxen und MVZ"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.49
+price: 103.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.05
+earnings_per_sale: 31.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649020?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI Act Starter-Kit für Arztpraxen und MVZ
 
 > Product ID `59696` · Digistore24 productId `649020` · [HTML profile page](../../produkte/ai-act-starter-kit-f-r-arztpraxen-und-mvz-59696.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.49 (Single payment) |
+| Price | $103.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.05 |
+| Earnings/sale* | $31.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Act Starter-Kit für Arztpraxen und MVZ? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.492872 USD
+- Wie viel kostet es? — 103.677912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

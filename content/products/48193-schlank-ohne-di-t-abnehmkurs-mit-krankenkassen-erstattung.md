@@ -4,15 +4,15 @@ digistore24_product_id: 548679
 title: "Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung"
 vendor: "fitnessdoc"
 product_type: "Member area and video courses"
-price: 127.41
+price: 127.64
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 29.07
+earnings_per_sale: 29.12
 cart_conversion_pct: 9
 cancel_rate_pct: 7.69
 categories: ["Health & Fitness"]
 listed_since: "2024-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fitnessdoc.net/sod/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung
 
 > Product ID `48193` · Digistore24 productId `548679` · [HTML profile page](../../produkte/schlank-ohne-di-t-abnehmkurs-mit-krankenkassen-erstattung-48193.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.41 (Single payment) |
+| Price | $127.64 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $29.07 |
+| Earnings/sale* | $29.12 |
 | Cart conversion* | 9% |
 | Cancel rate* | 7.69% |
 | Vendor | fitnessdoc |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung? — Typ: Member area and video courses, Anbieter: fitnessdoc, gelistet seit 2024-04-18
-- Wie viel kostet es? — 127.40854000000002 USD
+- Wie viel kostet es? — 127.63634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

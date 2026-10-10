@@ -4,15 +4,15 @@ digistore24_product_id: 724786
 title: "Paulownia Project Compact | Проект Павловния Компакт"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 559.3
+price: 560.3
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 55.93
+earnings_per_sale: 56.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724786?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Paulownia Project Compact | Проект Павловния Компакт
 
 > Product ID `59434` · Digistore24 productId `724786` · [HTML profile page](../../produkte/paulownia-project-compact-59434.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $559.30 (Single payment) |
+| Price | $560.30 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $55.93 |
+| Earnings/sale* | $56.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paulownia Project Compact | Проект Павловния Компакт? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 559.3000000000001 USD
+- Wie viel kostet es? — 560.3000000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

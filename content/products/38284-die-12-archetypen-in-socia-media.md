@@ -4,15 +4,15 @@ digistore24_product_id: 413924
 title: "Die 12 Archetypen in Socia-Media!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 46.56
+price: 46.64
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 18.71
+earnings_per_sale: 18.75
 cart_conversion_pct: 4
 cancel_rate_pct: 1.24
 categories: ["Social Media"]
 listed_since: "2021-10-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.jyotimaflak.com/archetypen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 Archetypen in Socia-Media!
 
 > Product ID `38284` · Digistore24 productId `413924` · [HTML profile page](../../produkte/die-12-archetypen-in-socia-media-38284.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.56 (Single payment, Installment) |
+| Price | $46.64 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $18.71 |
+| Earnings/sale* | $18.75 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.24% |
 | Vendor | Jyotima |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Archetypen in Socia-Media!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2021-10-28
-- Wie viel kostet es? — 46.556132 USD
+- Wie viel kostet es? — 46.639372 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

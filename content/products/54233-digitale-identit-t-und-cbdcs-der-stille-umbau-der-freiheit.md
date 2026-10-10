@@ -4,7 +4,7 @@ digistore24_product_id: 639110
 title: "Digitale Identität und CBDCs – Der stille Umbau der Freiheit"
 vendor: "vkomjagin"
 product_type: "E-books"
-price: 10.46
+price: 10.48
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.24
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2025-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/639110?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Digitale Identität und CBDCs – Der stille Umbau der Freiheit
 
 > Product ID `54233` · Digistore24 productId `639110` · [HTML profile page](../../produkte/digitale-identit-t-und-cbdcs-der-stille-umbau-der-freiheit-54233.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.46 (Single payment) |
+| Price | $10.48 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.24 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Identität und CBDCs – Der stille Umbau der Freiheit? — Typ: E-books, Anbieter: vkomjagin, gelistet seit 2025-10-01
-- Wie viel kostet es? — 10.45891 USD
+- Wie viel kostet es? — 10.47761 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

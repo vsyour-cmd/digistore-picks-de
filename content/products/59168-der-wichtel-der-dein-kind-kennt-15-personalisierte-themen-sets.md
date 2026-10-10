@@ -4,15 +4,15 @@ digistore24_product_id: 723173
 title: "Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets"
 vendor: "Anha13"
 product_type: "E-books"
-price: 15.63
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.25
+earnings_per_sale: 6.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ahliving.de/ahliving-de-personalisierte-wichtelbriefe/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets
 
 > Product ID `59168` · Digistore24 productId `723173` · [HTML profile page](../../produkte/der-wichtel-der-dein-kind-kennt-15-personalisierte-themen-sets-59168.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.63 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 15.626842000000002 USD
+- Wie viel kostet es? — 15.654782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 509481
 title: "Trading - Emotion Control von manitYou"
 vendor: "manitYou"
 product_type: "Member area and video courses"
-price: 83.66
+price: 83.81
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 16.73
+earnings_per_sale: 16.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Finances"]
 listed_since: "2023-07-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/509481/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trading - Emotion Control von manitYou
 
 > Product ID `45036` · Digistore24 productId `509481` · [HTML profile page](../../produkte/trading-emotion-control-von-manityou-45036.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.66 (Subscription) |
+| Price | $83.81 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $16.73 |
+| Earnings/sale* | $16.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manitYou |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trading - Emotion Control von manitYou? — Typ: Member area and video courses, Anbieter: manitYou, gelistet seit 2023-07-31
-- Wie viel kostet es? — 83.66009400000002 USD
+- Wie viel kostet es? — 83.80967400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

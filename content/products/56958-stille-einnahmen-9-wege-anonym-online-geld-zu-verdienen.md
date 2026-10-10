@@ -4,15 +4,15 @@ digistore24_product_id: 701272
 title: "Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen"
 vendor: "MagicPotter"
 product_type: "E-books"
-price: 19.33
+price: 19.36
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 8.7
+earnings_per_sale: 8.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/701272?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen
 
 > Product ID `56958` · Digistore24 productId `701272` · [HTML profile page](../../produkte/stille-einnahmen-9-wege-anonym-online-geld-zu-verdienen-56958.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.33 (Single payment) |
+| Price | $19.36 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $8.70 |
+| Earnings/sale* | $8.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stille Einnahmen — 9 Wege, anonym online Geld zu verdienen? — Typ: E-books, Anbieter: MagicPotter, gelistet seit 2026-06-15
-- Wie viel kostet es? — 19.329408 USD
+- Wie viel kostet es? — 19.363968000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

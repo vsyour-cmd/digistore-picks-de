@@ -4,15 +4,15 @@ digistore24_product_id: 720887
 title: "Motivation ist eine Lüge (E-Book)"
 vendor: "MagicPotter"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.24
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Personal Development","Marketing Services"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/720887?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Motivation ist eine Lüge (E-Book)
 
 > Product ID `58321` · Digistore24 productId `720887` · [HTML profile page](../../produkte/motivation-ist-eine-l-ge-e-book-58321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.24 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Motivation ist eine Lüge (E-Book)? — Typ: E-books, Anbieter: MagicPotter, gelistet seit 2026-08-12
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

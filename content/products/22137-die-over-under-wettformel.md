@@ -4,15 +4,15 @@ digistore24_product_id: 195109
 title: "Die Over/Under Wettformel!"
 vendor: "ttservice"
 product_type: "Downloads"
-price: 37.6
+price: 37.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.8
+earnings_per_sale: 18.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2018-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Over/Under Wettformel!
 
 > Product ID `22137` · Digistore24 productId `195109` · [HTML profile page](../../produkte/die-over-under-wettformel-22137.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.60 (Single payment) |
+| Price | $37.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ttservice |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Over/Under Wettformel!? — Typ: Downloads, Anbieter: ttservice, gelistet seit 2018-01-19
-- Wie viel kostet es? — 37.596146 USD
+- Wie viel kostet es? — 37.663366 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

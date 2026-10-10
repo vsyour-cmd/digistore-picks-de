@@ -4,15 +4,15 @@ digistore24_product_id: 543257
 title: "Kinderbuch Masterkurs"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 120.92
+price: 121.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.06
+earnings_per_sale: 19.1
 cart_conversion_pct: 5
 cancel_rate_pct: 0.8
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-kinderbuch-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kinderbuch Masterkurs
 
 > Product ID `47719` · Digistore24 productId `543257` · [HTML profile page](../../produkte/kinderbuch-masterkurs-47719.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $120.92 (Single payment) |
+| Price | $121.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.06 |
+| Earnings/sale* | $19.10 |
 | Cart conversion* | 5% |
 | Cancel rate* | 0.8% |
 | Vendor | seotech |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderbuch Masterkurs? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2024-03-12
-- Wie viel kostet es? — 120.92066 USD
+- Wie viel kostet es? — 121.13686 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -3,6 +3,18 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Fehler-Check: Audit-Tools repariert (Schema-Audit validiert jetzt @graph-Entitäten über 6452 Seiten — alle bestanden), falsche Duplicate-Title-Treffer entfernt, Anbieter-Verzeichnis verlinkt, Ghost-Seiten entfernter Angebote gelöscht (neuer prune-stale.js-Schritt). QA alles grün.",
+      "changes": [
+        "audit-schema.js: @graph-Auswertung + Statistik-Keys repariert",
+        "audit-full / audit-inlinks / qa-links: doppelte Verzeichnis-Einträge entfernt, Sitemap-Logik synchronisiert",
+        "build-dataset-de.js: CJK-Sätze aus Anbieterbeschreibungen entfernt; Label-Fallback bei leerem Namen (Produkt 57140, MD-Link-404 behoben)",
+        "build-site.js: Anbieter-Hubs verlinken das Anbieter-Verzeichnis; Startseite verlinkt die monatliche Übersicht (Orphan behoben)",
+        "prune-stale.js in die Pipeline aufgenommen: 50 veraltete Seiten/MD-Dateien entfernt",
+        "patch-imagesitemap.js Syntax repariert"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Kategorie-Guides auf alle Kategorien erweitert (Blog 13→43 Seiten DE), Internal-Link-Audit abgeschlossen (monthly-new Orphan behoben). Alle Seiten >=60 Vertrauensscore.",
       "changes": [
         "30 neue deutsche Kategorie-Guides",

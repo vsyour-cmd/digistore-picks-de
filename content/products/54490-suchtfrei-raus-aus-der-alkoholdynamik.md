@@ -4,15 +4,15 @@ digistore24_product_id: 639794
 title: "suchtfrei – Raus aus der Alkoholdynamik"
 vendor: "SandyKral"
 product_type: "Member area and video courses"
-price: 185.18
+price: 185.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 46.3
+earnings_per_sale: 46.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://suchtfrei.app.mentortools.com/suchtfrei?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # suchtfrei – Raus aus der Alkoholdynamik
 
 > Product ID `54490` · Digistore24 productId `639794` · [HTML profile page](../../produkte/suchtfrei-raus-aus-der-alkoholdynamik-54490.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.18 (Single payment) |
+| Price | $185.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $46.30 |
+| Earnings/sale* | $46.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SandyKral |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist suchtfrei – Raus aus der Alkoholdynamik? — Typ: Member area and video courses, Anbieter: SandyKral, gelistet seit 2025-10-06
-- Wie viel kostet es? — 185.18423 USD
+- Wie viel kostet es? — 185.51533 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 648026
 title: "Vital Leben mit Parkinson"
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 52.17
+price: 52.26
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.44
+earnings_per_sale: 10.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Services","Marketing Services"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/648026?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vital Leben mit Parkinson
 
 > Product ID `54700` · Digistore24 productId `648026` · [HTML profile page](../../produkte/vital-leben-mit-parkinson-54700.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.17 (Single payment) |
+| Price | $52.26 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vital Leben mit Parkinson? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-11-12
-- Wie viel kostet es? — 52.171504000000006 USD
+- Wie viel kostet es? — 52.264784000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

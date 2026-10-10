@@ -4,15 +4,15 @@ digistore24_product_id: 736764
 title: "Auswandern leicht gemacht: Aufenthalt  digitales Einkommen"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 271.66
+price: 272.15
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 108.66
+earnings_per_sale: 108.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736764?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern leicht gemacht: Aufenthalt  digitales Einkommen
 
 > Product ID `59686` · Digistore24 productId `736764` · [HTML profile page](../../produkte/auswandern-leicht-gemacht-aufenthalt-digitales-einkommen-59686.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $271.66 (Single payment) |
+| Price | $272.15 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $108.66 |
+| Earnings/sale* | $108.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nowdigitalproducts |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern leicht gemacht: Aufenthalt  digitales Einkommen? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-24
-- Wie viel kostet es? — 271.663196 USD
+- Wie viel kostet es? — 272.14891600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

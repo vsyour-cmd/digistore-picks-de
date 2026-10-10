@@ -4,15 +4,15 @@ digistore24_product_id: 309532
 title: "[NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 909.3
+price: 910.92
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.84
+earnings_per_sale: 31.89
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Business & Investment"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/309532/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de
 
 > Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../produkte/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $909.30 (Single payment) |
+| Price | $910.92 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.84 |
+| Earnings/sale* | $31.89 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2020-02-24
-- Wie viel kostet es? — 909.298754 USD
+- Wie viel kostet es? — 910.924534 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

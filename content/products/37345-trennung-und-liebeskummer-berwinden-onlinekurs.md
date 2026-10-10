@@ -4,15 +4,15 @@ digistore24_product_id: 395658
 title: "Trennung und Liebeskummer überwinden (Onlinekurs)"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 270.72
+price: 271.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 108.29
+earnings_per_sale: 108.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2021-06-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/trennung-verarbeiten?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trennung und Liebeskummer überwinden (Onlinekurs)
 
 > Product ID `37345` · Digistore24 productId `395658` · [HTML profile page](../../produkte/trennung-und-liebeskummer-berwinden-onlinekurs-37345.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $270.72 (Single payment, Installment) |
+| Price | $271.21 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $108.29 |
+| Earnings/sale* | $108.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -106,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trennung und Liebeskummer überwinden (Onlinekurs)? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-24
-- Wie viel kostet es? — 270.72357200000005 USD
+- Wie viel kostet es? — 271.20761200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

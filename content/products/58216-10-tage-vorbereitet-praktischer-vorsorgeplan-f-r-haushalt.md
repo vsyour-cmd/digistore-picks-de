@@ -4,15 +4,15 @@ digistore24_product_id: 719636
 title: "10 Tage vorbereitet-praktischer Vorsorgeplan für Haushalt"
 vendor: "silviodante"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.24
+earnings_per_sale: 12.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Survival"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/719636?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10 Tage vorbereitet-praktischer Vorsorgeplan für Haushalt
 
 > Product ID `58216` · Digistore24 productId `719636` · [HTML profile page](../../produkte/10-tage-vorbereitet-praktischer-vorsorgeplan-f-r-haushalt-58216.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.24 |
+| Earnings/sale* | $12.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silviodante |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 Tage vorbereitet-praktischer Vorsorgeplan für Haushalt? — Typ: E-books, Anbieter: silviodante, gelistet seit 2026-08-07
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

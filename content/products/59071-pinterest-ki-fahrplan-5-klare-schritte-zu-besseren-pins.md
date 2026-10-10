@@ -4,15 +4,15 @@ digistore24_product_id: 729867
 title: "Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins"
 vendor: "mitti10"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pinterest-ki-fahrplan.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins
 
 > Product ID `59071` · Digistore24 productId `729867` · [HTML profile page](../../produkte/pinterest-ki-fahrplan-5-klare-schritte-zu-besseren-pins-59071.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mitti10 |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins? — Typ: E-books, Anbieter: mitti10, gelistet seit 2026-09-09
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

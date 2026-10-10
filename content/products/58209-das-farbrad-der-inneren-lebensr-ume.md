@@ -4,15 +4,15 @@ digistore24_product_id: 700139
 title: "Das Farbrad der inneren Lebensräume"
 vendor: "FiaBiba"
 product_type: "Member area and video courses"
-price: 188
+price: 188.34
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 18.8
+earnings_per_sale: 18.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.embodiedcoloracademy.de/farbrad-lebensraeume.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Farbrad der inneren Lebensräume
 
 > Product ID `58209` · Digistore24 productId `700139` · [HTML profile page](../../produkte/das-farbrad-der-inneren-lebensr-ume-58209.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.00 (Single payment) |
+| Price | $188.34 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FiaBiba |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Farbrad der inneren Lebensräume? — Typ: Member area and video courses, Anbieter: FiaBiba, gelistet seit 2026-08-07
-- Wie viel kostet es? — 188.003102 USD
+- Wie viel kostet es? — 188.339242 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 431719
 title: "High Frequency Evergreen Kongress - VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 110.92
+price: 111.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.46
+earnings_per_sale: 55.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-02-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.highfrequencykongress.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # High Frequency Evergreen Kongress - VIP Paket und Bundle
 
 > Product ID `39593` · Digistore24 productId `431719` · [HTML profile page](../../produkte/high-frequency-evergreen-kongress-vip-paket-und-bundle-39593.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.92 (Single payment, Installment) |
+| Price | $111.12 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.46 |
+| Earnings/sale* | $55.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Evergreen Kongress - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-02-26
-- Wie viel kostet es? — 110.920376 USD
+- Wie viel kostet es? — 111.118696 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

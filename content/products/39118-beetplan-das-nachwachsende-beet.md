@@ -4,7 +4,7 @@ digistore24_product_id: 380867
 title: "Beetplan „Das Nachwachsende Beet“"
 vendor: "meine-ernte"
 product_type: "Downloads"
-price: 5.55
+price: 5.56
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 1.67
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2021-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meine-ernte.shop/beetplan-das-nachwachsende-beet-ds24/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Beetplan „Das Nachwachsende Beet“
 
 > Product ID `39118` · Digistore24 productId `380867` · [HTML profile page](../../produkte/beetplan-das-nachwachsende-beet-39118.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $5.55 (Single payment) |
+| Price | $5.56 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $1.67 |
 | Cart conversion* | — |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beetplan „Das Nachwachsende Beet“? — Typ: Downloads, Anbieter: meine-ernte, gelistet seit 2021-03-25
-- Wie viel kostet es? — 5.548256 USD
+- Wie viel kostet es? — 5.5581760000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

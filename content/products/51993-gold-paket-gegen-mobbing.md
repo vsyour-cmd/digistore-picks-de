@@ -4,15 +4,15 @@ digistore24_product_id: 584786
 title: "Gold-Paket gegen Mobbing"
 vendor: "walk-around-the-world"
 product_type: "Member area and video courses"
-price: 836.6
+price: 838.1
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 276.08
+earnings_per_sale: 276.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2024-12-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://rinaldo-inabnit-6.mstrpages.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gold-Paket gegen Mobbing
 
 > Product ID `51993` · Digistore24 productId `584786` · [HTML profile page](../../produkte/gold-paket-gegen-mobbing-51993.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $836.60 (Subscription) |
+| Price | $838.10 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $276.08 |
+| Earnings/sale* | $276.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | walk-around-the-world |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gold-Paket gegen Mobbing? — Typ: Member area and video courses, Anbieter: walk-around-the-world, gelistet seit 2024-12-07
-- Wie viel kostet es? — 836.60094 USD
+- Wie viel kostet es? — 838.09674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

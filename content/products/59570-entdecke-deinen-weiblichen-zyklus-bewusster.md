@@ -4,15 +4,15 @@ digistore24_product_id: 736397
 title: "Entdecke deinen weiblichen Zyklus bewusster"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 14.05
+price: 14.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.02
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Entdecke deinen weiblichen Zyklus bewusster
 
 > Product ID `59570` · Digistore24 productId `736397` · [HTML profile page](../../produkte/entdecke-deinen-weiblichen-zyklus-bewusster-59570.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.05 (Single payment) |
+| Price | $14.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entdecke deinen weiblichen Zyklus bewusster? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-23
-- Wie viel kostet es? — 14.049616 USD
+- Wie viel kostet es? — 14.074736000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

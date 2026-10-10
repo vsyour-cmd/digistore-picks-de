@@ -4,15 +4,15 @@ digistore24_product_id: 730789
 title: "Wenn sich alles verändert"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 37.63
+price: 37.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.81
+earnings_per_sale: 18.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Leadership & Management"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/730789?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wenn sich alles verändert
 
 > Product ID `58990` · Digistore24 productId `730789` · [HTML profile page](../../produkte/wenn-sich-alles-ver-ndert-58990.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.63 (Single payment) |
+| Price | $37.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.81 |
+| Earnings/sale* | $18.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn sich alles verändert? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-07
-- Wie viel kostet es? — 37.629704000000004 USD
+- Wie viel kostet es? — 37.696984 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

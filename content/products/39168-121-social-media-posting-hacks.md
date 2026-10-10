@@ -4,7 +4,7 @@ digistore24_product_id: 42599
 title: "121 Social Media Posting Hacks"
 vendor: "sattelitevendor"
 product_type: "E-books"
-price: 85.29
+price: 85.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.4
@@ -12,7 +12,7 @@ cart_conversion_pct: 8
 cancel_rate_pct: 1.57
 categories: ["Social Media"]
 listed_since: "2015-02-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://torstenjaeger.com/121socialmediapostinghacks?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 121 Social Media Posting Hacks
 
 > Product ID `39168` · Digistore24 productId `42599` · [HTML profile page](../../produkte/121-social-media-posting-hacks-39168.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $85.29 (Single payment) |
+| Price | $85.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.40 |
 | Cart conversion* | 8% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 121 Social Media Posting Hacks? — Typ: E-books, Anbieter: sattelitevendor, gelistet seit 2015-02-11
-- Wie viel kostet es? — 85.29325 USD
+- Wie viel kostet es? — 85.44575 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 728038
 title: "Mit Kindern wachsen"
 vendor: "wissenskind"
 product_type: "E-books"
-price: 5.18
+price: 5.19
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.6
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Mit Kindern wachsen
 
 > Product ID `59203` · Digistore24 productId `728038` · [HTML profile page](../../produkte/mit-kindern-wachsen-59203.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.18 (Single payment) |
+| Price | $5.19 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.60 |
 | Cart conversion* | — |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Kindern wachsen? — Typ: E-books, Anbieter: wissenskind, gelistet seit 2026-09-13
-- Wie viel kostet es? — 5.179118 USD
+- Wie viel kostet es? — 5.188378 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 667201
 title: "Werde Affiliate und profitiere vom Fitness-Boom"
 vendor: "purple-toaster110"
 product_type: "Downloads"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 6.71
+earnings_per_sale: 6.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/667201?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Werde Affiliate und profitiere vom Fitness-Boom
 
 > Product ID `55596` · Digistore24 productId `667201` · [HTML profile page](../../produkte/werde-affiliate-und-profitiere-vom-fitness-boom-55596.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $6.71 |
+| Earnings/sale* | $6.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | purple-toaster110 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde Affiliate und profitiere vom Fitness-Boom? — Typ: Downloads, Anbieter: purple-toaster110, gelistet seit 2026-02-07
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

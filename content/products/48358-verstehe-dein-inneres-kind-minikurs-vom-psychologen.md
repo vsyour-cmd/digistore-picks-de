@@ -4,15 +4,15 @@ digistore24_product_id: 477488
 title: "Verstehe dein inneres Kind - Minikurs vom Psychologen"
 vendor: "RamonSchlemmbach"
 product_type: "Member area and video courses"
-price: 27.36
+price: 27.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.96
+earnings_per_sale: 32.02
 cart_conversion_pct: 16
 cancel_rate_pct: 1.57
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-01-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/477488?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Verstehe dein inneres Kind - Minikurs vom Psychologen
 
 > Product ID `48358` · Digistore24 productId `477488` · [HTML profile page](../../produkte/verstehe-dein-inneres-kind-minikurs-vom-psychologen-48358.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.36 (Single payment) |
+| Price | $27.41 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.96 |
+| Earnings/sale* | $32.02 |
 | Cart conversion* | 16% |
 | Cancel rate* | 1.57% |
 | Vendor | RamonSchlemmbach |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verstehe dein inneres Kind - Minikurs vom Psychologen? — Typ: Member area and video courses, Anbieter: RamonSchlemmbach, gelistet seit 2023-01-03
-- Wie viel kostet es? — 27.360956 USD
+- Wie viel kostet es? — 27.409876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

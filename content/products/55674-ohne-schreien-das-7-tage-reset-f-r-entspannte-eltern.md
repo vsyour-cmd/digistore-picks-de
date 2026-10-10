@@ -4,15 +4,15 @@ digistore24_product_id: 668221
 title: "Ohne Schreien – Das 7-Tage Reset für entspannte Eltern"
 vendor: "AndreiPintilii"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.54
+earnings_per_sale: 12.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-02-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/668221?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ohne Schreien – Das 7-Tage Reset für entspannte Eltern
 
 > Product ID `55674` · Digistore24 productId `668221` · [HTML profile page](../../produkte/ohne-schreien-das-7-tage-reset-f-r-entspannte-eltern-55674.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.54 |
+| Earnings/sale* | $12.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreiPintilii |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ohne Schreien – Das 7-Tage Reset für entspannte Eltern? — Typ: E-books, Anbieter: AndreiPintilii, gelistet seit 2026-02-11
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

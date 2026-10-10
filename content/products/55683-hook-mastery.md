@@ -4,15 +4,15 @@ digistore24_product_id: 595134
 title: "Hook Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 114.69
+earnings_per_sale: 114.9
 cart_conversion_pct: 9
 cancel_rate_pct: 0.83
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/hook-mastery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hook Mastery
 
 > Product ID `55683` · Digistore24 productId `595134` · [HTML profile page](../../produkte/hook-mastery-55683.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $114.69 |
+| Earnings/sale* | $114.90 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.83% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hook Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

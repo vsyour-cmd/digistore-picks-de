@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.88
+earnings_per_sale: 12.9
 cart_conversion_pct: 37
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/pinterest-insider-secrets/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Pinterest Insider Secrets
 
 > Product ID `47265` · Digistore24 productId `541185` · [HTML profile page](../../produkte/pinterest-insider-secrets-47265.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.88 |
+| Earnings/sale* | $12.90 |
 | Cart conversion* | 37% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |

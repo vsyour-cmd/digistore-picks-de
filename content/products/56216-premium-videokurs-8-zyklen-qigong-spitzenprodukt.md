@@ -4,15 +4,15 @@ digistore24_product_id: 553895
 title: "Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 553.71
+price: 554.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 276.85
+earnings_per_sale: 277.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-04-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)
 
 > Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../produkte/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $553.71 (Single payment) |
+| Price | $554.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $276.85 |
+| Earnings/sale* | $277.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-04-10
-- Wie viel kostet es? — 553.707 USD
+- Wie viel kostet es? — 554.697 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

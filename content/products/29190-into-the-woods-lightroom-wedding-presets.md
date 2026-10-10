@@ -4,15 +4,15 @@ digistore24_product_id: 274342
 title: "Into The Woods Lightroom Wedding Presets"
 vendor: "Creative4life"
 product_type: "Downloads"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.71
+earnings_per_sale: 29.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-06-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://stefanundkai.de/verkaufsseite-presets/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Into The Woods Lightroom Wedding Presets
 
 > Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.26 (Single payment) |
+| Price | $74.40 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.71 |
+| Earnings/sale* | $29.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Creative4life |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Woods Lightroom Wedding Presets? — Typ: Downloads, Anbieter: Creative4life, gelistet seit 2019-06-03
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

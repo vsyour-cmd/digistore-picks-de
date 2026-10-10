@@ -4,15 +4,15 @@ digistore24_product_id: 677652
 title: "Trost in trostloser Zeit. Geschenk für das erste Trauerjahr"
 vendor: "wolfgang1958lange628c"
 product_type: "E-books"
-price: 9.93
+price: 9.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.97
+earnings_per_sale: 4.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.edition-morgenglanz.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trost in trostloser Zeit. Geschenk für das erste Trauerjahr
 
 > Product ID `56316` · Digistore24 productId `677652` · [HTML profile page](../../produkte/trost-in-trostloser-zeit-geschenk-f-r-das-erste-trauerjahr-56316.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.93 (Single payment) |
+| Price | $9.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.97 |
+| Earnings/sale* | $4.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wolfgang1958lange628c |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trost in trostloser Zeit. Geschenk für das erste Trauerjahr? — Typ: E-books, Anbieter: wolfgang1958lange628c, gelistet seit 2026-03-19
-- Wie viel kostet es? — 9.933168000000002 USD
+- Wie viel kostet es? — 9.950928000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

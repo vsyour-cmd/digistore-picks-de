@@ -4,15 +4,15 @@ digistore24_product_id: 691897
 title: "Money Mindset Membership"
 vendor: "Glareena"
 product_type: "Member area and video courses"
-price: 771.83
+price: 773.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 231.55
+earnings_per_sale: 231.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gluecksmomente-jeden-tag.com/abo-dein-neustart?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Money Mindset Membership
 
 > Product ID `56878` · Digistore24 productId `691897` · [HTML profile page](../../produkte/money-mindset-membership-56878.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $771.83 (Subscription) |
+| Price | $773.21 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $231.55 |
+| Earnings/sale* | $231.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glareena |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Mindset Membership? — Typ: Member area and video courses, Anbieter: Glareena, gelistet seit 2026-06-13
-- Wie viel kostet es? — 771.8340000000001 USD
+- Wie viel kostet es? — 773.214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

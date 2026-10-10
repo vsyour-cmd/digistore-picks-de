@@ -4,15 +4,15 @@ digistore24_product_id: 609640
 title: "Webseite in 48 – Webseiten-Paket zum Upload"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 83.29
+price: 83.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 128.99
+earnings_per_sale: 129.22
 cart_conversion_pct: 4
 cancel_rate_pct: 0.81
 categories: ["Computer & Internet","Online Marketing"]
 listed_since: "2025-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/webseitein48h?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Webseite in 48 – Webseiten-Paket zum Upload
 
 > Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.29 (Single payment, Installment) |
+| Price | $83.44 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $128.99 |
+| Earnings/sale* | $129.22 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0.81% |
 | Vendor | Jyotima |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite in 48 – Webseiten-Paket zum Upload? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2025-04-28
-- Wie viel kostet es? — 83.290956 USD
+- Wie viel kostet es? — 83.439876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

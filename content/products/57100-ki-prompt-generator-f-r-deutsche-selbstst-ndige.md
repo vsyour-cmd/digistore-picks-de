@@ -4,15 +4,15 @@ digistore24_product_id: 704859
 title: "KI-Prompt-Generator für deutsche Selbstständige"
 vendor: "fantasticman36"
 product_type: "Remote service provided electronically"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.42
+earnings_per_sale: 18.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://promptforge-salespage.pages.dev?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Prompt-Generator für deutsche Selbstständige
 
 > Product ID `57100` · Digistore24 productId `704859` · [HTML profile page](../../produkte/ki-prompt-generator-f-r-deutsche-selbstst-ndige-57100.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.42 |
+| Earnings/sale* | $18.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fantasticman36 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Prompt-Generator für deutsche Selbstständige? — Typ: Remote service provided electronically, Anbieter: fantasticman36, gelistet seit 2026-06-22
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 307047
 title: "Das Bargeldkomplott"
 vendor: "wertvollleben"
 product_type: "E-books"
-price: 17.76
+price: 17.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.88
+earnings_per_sale: 8.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2020-02-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.wertvollleben.net/onlineshop/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Bargeldkomplott
 
 > Product ID `33931` · Digistore24 productId `307047` · [HTML profile page](../../produkte/das-bargeldkomplott-33931.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.76 (Single payment) |
+| Price | $17.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.88 |
+| Earnings/sale* | $8.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wertvollleben |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Bargeldkomplott? — Typ: E-books, Anbieter: wertvollleben, gelistet seit 2020-02-07
-- Wie viel kostet es? — 17.763368 USD
+- Wie viel kostet es? — 17.795128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

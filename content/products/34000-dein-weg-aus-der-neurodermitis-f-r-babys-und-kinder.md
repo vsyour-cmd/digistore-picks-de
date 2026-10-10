@@ -4,15 +4,15 @@ digistore24_product_id: 347010
 title: "Dein Weg aus der Neurodermitis - für Babys und Kinder"
 vendor: "Vitalfit24"
 product_type: "Webinar"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 24.25
+earnings_per_sale: 24.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jacqueline-glaetsch-hoffmann.coachy.net/lp/dein-weg-aus-der-neurodermitis/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Weg aus der Neurodermitis - für Babys und Kinder
 
 > Product ID `34000` · Digistore24 productId `347010` · [HTML profile page](../../produkte/dein-weg-aus-der-neurodermitis-f-r-babys-und-kinder-34000.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $121.26 (Single payment) |
+| Price | $121.47 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $24.25 |
+| Earnings/sale* | $24.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vitalfit24 |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Weg aus der Neurodermitis - für Babys und Kinder? — Typ: Webinar, Anbieter: Vitalfit24, gelistet seit 2020-09-07
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

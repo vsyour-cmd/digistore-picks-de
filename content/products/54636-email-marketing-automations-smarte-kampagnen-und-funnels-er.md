@@ -4,15 +4,15 @@ digistore24_product_id: 647619
 title: "Email Marketing Automations: Smarte Kampagnen und Funnels er"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 335.58
+price: 336.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.67
+earnings_per_sale: 100.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-11-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Email Marketing Automations: Smarte Kampagnen und Funnels er
 
 > Product ID `54636` · Digistore24 productId `647619` · [HTML profile page](../../produkte/email-marketing-automations-smarte-kampagnen-und-funnels-er-54636.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $335.58 (Subscription) |
+| Price | $336.18 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.67 |
+| Earnings/sale* | $100.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Email Marketing Automations: Smarte Kampagnen und Funnels er? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-11
-- Wie viel kostet es? — 335.58 USD
+- Wie viel kostet es? — 336.18 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

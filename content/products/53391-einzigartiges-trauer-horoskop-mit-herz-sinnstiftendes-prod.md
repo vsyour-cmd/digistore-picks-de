@@ -4,15 +4,15 @@ digistore24_product_id: 627656
 title: "Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod"
 vendor: "danachblog"
 product_type: "Downloads"
-price: 61.36
+price: 61.46
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 15.79
+earnings_per_sale: 15.82
 cart_conversion_pct: 11
 cancel_rate_pct: 4.09
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://seelenwegweiser-astro.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod
 
 > Product ID `53391` · Digistore24 productId `627656` · [HTML profile page](../../produkte/einzigartiges-trauer-horoskop-mit-herz-sinnstiftendes-prod-53391.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $61.36 (Single payment) |
+| Price | $61.46 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $15.79 |
+| Earnings/sale* | $15.82 |
 | Cart conversion* | 11% |
 | Cancel rate* | 4.09% |
 | Vendor | danachblog |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einzigartiges Trauer-Horoskop mit Herz – Sinnstiftendes Prod? — Typ: Downloads, Anbieter: danachblog, gelistet seit 2025-08-03
-- Wie viel kostet es? — 61.35521000000001 USD
+- Wie viel kostet es? — 61.46491 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

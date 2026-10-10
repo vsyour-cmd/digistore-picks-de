@@ -4,15 +4,15 @@ digistore24_product_id: 408918
 title: "eBook - Die Kraft der Meditation"
 vendor: "hh-akademie"
 product_type: "E-books"
-price: 3.12
+price: 3.13
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 3.12
+earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/408918?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eBook - Die Kraft der Meditation
 
 > Product ID `37933` · Digistore24 productId `408918` · [HTML profile page](../../produkte/ebook-die-kraft-der-meditation-37933.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.12 (Single payment) |
+| Price | $3.13 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $3.12 |
+| Earnings/sale* | $3.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hh-akademie |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Die Kraft der Meditation? — Typ: E-books, Anbieter: hh-akademie, gelistet seit 2021-09-23
-- Wie viel kostet es? — 3.1208940000000003 USD
+- Wie viel kostet es? — 3.126474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

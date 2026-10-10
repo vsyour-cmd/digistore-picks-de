@@ -4,15 +4,15 @@ digistore24_product_id: 734523
 title: "Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.35
+earnings_per_sale: 9.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734523?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2
 
 > Product ID `59332` · Digistore24 productId `734523` · [HTML profile page](../../produkte/englisch-master-komplettkurs-in-100-lektionen-von-a1-zu-b2-59332.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.35 |
+| Earnings/sale* | $9.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nowdigitalproducts |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-17
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

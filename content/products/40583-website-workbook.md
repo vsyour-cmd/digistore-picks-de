@@ -4,7 +4,7 @@ digistore24_product_id: 421769
 title: "Website Workbook"
 vendor: "ThomasMohr"
 product_type: "E-books"
-price: 16.75
+price: 16.78
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2021-12-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/421769?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Website Workbook
 
 > Product ID `40583` · Digistore24 productId `421769` · [HTML profile page](../../produkte/website-workbook-40583.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.75 (Single payment) |
+| Price | $16.78 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.68 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website Workbook? — Typ: E-books, Anbieter: ThomasMohr, gelistet seit 2021-12-22
-- Wie viel kostet es? — 16.745442 USD
+- Wie viel kostet es? — 16.775382 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

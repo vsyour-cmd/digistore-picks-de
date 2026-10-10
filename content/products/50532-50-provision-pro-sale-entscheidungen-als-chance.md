@@ -4,15 +4,15 @@ digistore24_product_id: 568261
 title: "50 % Provision pro Sale – Entscheidungen als Chance"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 11.75
+price: 11.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.87
+earnings_per_sale: 5.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/568261?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale – Entscheidungen als Chance
 
 > Product ID `50532` · Digistore24 productId `568261` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungen-als-chance-50532.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.75 (Single payment) |
+| Price | $11.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.87 |
+| Earnings/sale* | $5.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale – Entscheidungen als Chance? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-09-03
-- Wie viel kostet es? — 11.7453 USD
+- Wie viel kostet es? — 11.766300000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

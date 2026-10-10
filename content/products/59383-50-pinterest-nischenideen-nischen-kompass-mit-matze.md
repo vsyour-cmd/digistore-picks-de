@@ -4,15 +4,15 @@ digistore24_product_id: 732859
 title: "50 Pinterest-Nischenideen – Nischen-Kompass mit Matze"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.18
+earnings_per_sale: 4.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/732859?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59383` · Digistore24 productId `732859` · [HTML profile page](../../produkte/50-pinterest-nischenideen-nischen-kompass-mit-matze-59383.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.18 |
+| Earnings/sale* | $4.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

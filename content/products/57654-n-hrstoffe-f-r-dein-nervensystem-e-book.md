@@ -4,15 +4,15 @@ digistore24_product_id: 707719
 title: "Nährstoffe für dein Nervensystem - e-book"
 vendor: "wwwmind2soulde"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.07
+earnings_per_sale: 13.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mind2soul.de/buch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nährstoffe für dein Nervensystem - e-book
 
 > Product ID `57654` · Digistore24 productId `707719` · [HTML profile page](../../produkte/n-hrstoffe-f-r-dein-nervensystem-e-book-57654.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.07 |
+| Earnings/sale* | $13.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wwwmind2soulde |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nährstoffe für dein Nervensystem - e-book? — Typ: E-books, Anbieter: wwwmind2soulde, gelistet seit 2026-07-21
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

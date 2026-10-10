@@ -4,15 +4,15 @@ digistore24_product_id: 252196
 title: "WELPENZEIT - Schritt für Schritt zum tollen Hund"
 vendor: "ddsteffi"
 product_type: "Member area and video courses"
-price: 105.79
+price: 105.98
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 28.41
+earnings_per_sale: 28.46
 cart_conversion_pct: 13
 cancel_rate_pct: 0.4
 categories: ["Animals & Pets"]
 listed_since: "2018-12-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://hundeerziehung-hundepension.de/9wzvk7ytt?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # WELPENZEIT - Schritt für Schritt zum tollen Hund
 
 > Product ID `38896` · Digistore24 productId `252196` · [HTML profile page](../../produkte/welpenzeit-schritt-f-r-schritt-zum-tollen-hund-38896.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $105.79 (Single payment) |
+| Price | $105.98 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $28.41 |
+| Earnings/sale* | $28.46 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.4% |
 | Vendor | ddsteffi |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WELPENZEIT - Schritt für Schritt zum tollen Hund? — Typ: Member area and video courses, Anbieter: ddsteffi, gelistet seit 2018-12-11
-- Wie viel kostet es? — 105.786002 USD
+- Wie viel kostet es? — 105.97514199999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

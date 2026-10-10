@@ -4,7 +4,7 @@ digistore24_product_id: 348043
 title: "Buch „Erfolg geht nur gemeinsam“ von Roland Arndt"
 vendor: "rolandarndt"
 product_type: "Book (printed)"
-price: 26.09
+price: 26.13
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.61
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/348043?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Buch „Erfolg geht nur gemeinsam“ von Roland Arndt
 
 > Product ID `34873` · Digistore24 productId `348043` · [HTML profile page](../../produkte/buch-erfolg-geht-nur-gemeinsam-von-roland-arndt-34873.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $26.09 (Single payment) |
+| Price | $26.13 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.61 |
 | Cart conversion* | — |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch „Erfolg geht nur gemeinsam“ von Roland Arndt? — Typ: Book (printed), Anbieter: rolandarndt, gelistet seit 2020-09-15
-- Wie viel kostet es? — 26.085752000000003 USD
+- Wie viel kostet es? — 26.132392000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

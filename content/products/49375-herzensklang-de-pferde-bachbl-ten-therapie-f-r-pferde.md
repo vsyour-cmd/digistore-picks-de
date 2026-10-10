@@ -4,15 +4,15 @@ digistore24_product_id: 569319
 title: "Herzensklang de Pferde - Bachblüten Therapie für Pferde"
 vendor: "stable-stuff"
 product_type: "E-books"
-price: 51.22
+price: 51.31
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.25
+earnings_per_sale: 10.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2024-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://stable-stuff.com/bachblueten-fuer-pferde-herzensklang-der-pferde?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Herzensklang de Pferde - Bachblüten Therapie für Pferde
 
 > Product ID `49375` · Digistore24 productId `569319` · [HTML profile page](../../produkte/herzensklang-de-pferde-bachbl-ten-therapie-f-r-pferde-49375.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.22 (Single payment) |
+| Price | $51.31 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.25 |
+| Earnings/sale* | $10.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stable-stuff |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herzensklang de Pferde - Bachblüten Therapie für Pferde? — Typ: E-books, Anbieter: stable-stuff, gelistet seit 2024-09-09
-- Wie viel kostet es? — 51.220694 USD
+- Wie viel kostet es? — 51.312274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

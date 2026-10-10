@@ -4,15 +4,15 @@ digistore24_product_id: 232178
 title: "Schlaf gut mit Chakra-Vokal-Klängen"
 vendor: "chakraklang"
 product_type: "Downloads"
-price: 14.11
+price: 14.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.06
+earnings_per_sale: 7.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.chakraklang.de/106-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schlaf gut mit Chakra-Vokal-Klängen
 
 > Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../produkte/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.11 (Single payment) |
+| Price | $14.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.06 |
+| Earnings/sale* | $7.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chakraklang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf gut mit Chakra-Vokal-Klängen? — Typ: Downloads, Anbieter: chakraklang, gelistet seit 2018-07-05
-- Wie viel kostet es? — 14.105546 USD
+- Wie viel kostet es? — 14.130766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

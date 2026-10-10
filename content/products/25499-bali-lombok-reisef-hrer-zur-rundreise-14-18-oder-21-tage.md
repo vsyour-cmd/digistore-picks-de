@@ -4,15 +4,15 @@ digistore24_product_id: 203221
 title: "Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 3.62
+earnings_per_sale: 3.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2018-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)
 
 > Product ID `25499` · Digistore24 productId `203221` · [HTML profile page](../../produkte/bali-lombok-reisef-hrer-zur-rundreise-14-18-oder-21-tage-25499.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $3.62 |
+| Earnings/sale* | $3.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2018-02-22
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

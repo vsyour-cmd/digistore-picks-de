@@ -4,15 +4,15 @@ digistore24_product_id: 697070
 title: "Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/die-12-ruhe-anker/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop
 
 > Product ID `56765` · Digistore24 productId `697070` · [HTML profile page](../../produkte/die-12-ruhe-anker-mp3-e-book-karten-angstfrei-shop-56765.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Seelendank |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-05-31
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

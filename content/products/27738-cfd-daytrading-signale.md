@@ -4,15 +4,15 @@ digistore24_product_id: 222381
 title: "CFD Daytrading Signale"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 171.27
+price: 171.58
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 42.62
+earnings_per_sale: 42.69
 cart_conversion_pct: 9
 cancel_rate_pct: 14.79
 categories: ["Trading Products"]
 listed_since: "2018-05-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/cfd-daytrading-handelssignale/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CFD Daytrading Signale
 
 > Product ID `27738` · Digistore24 productId `222381` · [HTML profile page](../../produkte/cfd-daytrading-signale-27738.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $171.27 (Subscription) |
+| Price | $171.58 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $42.62 |
+| Earnings/sale* | $42.69 |
 | Cart conversion* | 9% |
 | Cancel rate* | 14.79% |
 | Vendor | daxtrading |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CFD Daytrading Signale? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2018-05-18
-- Wie viel kostet es? — 171.26884600000002 USD
+- Wie viel kostet es? — 171.57506600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

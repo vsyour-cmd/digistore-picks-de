@@ -4,15 +4,15 @@ digistore24_product_id: 516161
 title: "KI Flow"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 268.39
+price: 268.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 87.07
+earnings_per_sale: 87.23
 cart_conversion_pct: 11
 cancel_rate_pct: 0.79
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2023-09-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.kimate.de/flow/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Flow
 
 > Product ID `55701` · Digistore24 productId `516161` · [HTML profile page](../../produkte/ki-flow-55701.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $268.39 (Single payment) |
+| Price | $268.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $87.07 |
+| Earnings/sale* | $87.23 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.79% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Flow? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-09-12
-- Wie viel kostet es? — 268.385698 USD
+- Wie viel kostet es? — 268.865558 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

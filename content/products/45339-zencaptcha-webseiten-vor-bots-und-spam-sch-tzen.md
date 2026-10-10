@@ -4,15 +4,15 @@ digistore24_product_id: 504248
 title: "Zencaptcha - Webseiten vor Bots und Spam schützen"
 vendor: "reflix"
 product_type: "Member area and video courses"
-price: 2246.6
+price: 2250.61
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 561.65
+earnings_per_sale: 562.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Software"]
 listed_since: "2023-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.zencaptcha.com/products?id=Enterprise&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zencaptcha - Webseiten vor Bots und Spam schützen
 
 > Product ID `45339` · Digistore24 productId `504248` · [HTML profile page](../../produkte/zencaptcha-webseiten-vor-bots-und-spam-sch-tzen-45339.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2246.60 (Subscription) |
+| Price | $2250.61 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $561.65 |
+| Earnings/sale* | $562.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reflix |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zencaptcha - Webseiten vor Bots und Spam schützen? — Typ: Member area and video courses, Anbieter: reflix, gelistet seit 2023-06-22
-- Wie viel kostet es? — 2246.5962400000003 USD
+- Wie viel kostet es? — 2250.61304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

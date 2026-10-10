@@ -4,15 +4,15 @@ digistore24_product_id: 657831
 title: "Das „No-Budget“ Business für jeden Kaffeeliebhaber."
 vendor: "Rosi47"
 product_type: "E-books"
-price: 10.4
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.2
+earnings_per_sale: 5.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Food & Drink","Online Marketing & E-Business"]
 listed_since: "2025-12-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cobyspartnerebook.netlify.app?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das „No-Budget“ Business für jeden Kaffeeliebhaber.
 
 > Product ID `55066` · Digistore24 productId `657831` · [HTML profile page](../../produkte/das-no-budget-business-f-r-jeden-kaffeeliebhaber-55066.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.20 |
+| Earnings/sale* | $5.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rosi47 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das „No-Budget“ Business für jeden Kaffeeliebhaber.? — Typ: E-books, Anbieter: Rosi47, gelistet seit 2025-12-29
-- Wie viel kostet es? — 10.402980000000001 USD
+- Wie viel kostet es? — 10.42158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

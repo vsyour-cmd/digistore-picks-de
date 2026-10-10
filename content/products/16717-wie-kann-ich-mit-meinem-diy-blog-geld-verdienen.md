@@ -4,15 +4,15 @@ digistore24_product_id: 132869
 title: "Wie kann ich mit meinem DIY-Blog Geld verdienen?"
 vendor: "kreativlaborberlin"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.72
+earnings_per_sale: 3.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.kreativlaborberlin.de/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wie kann ich mit meinem DIY-Blog Geld verdienen?
 
 > Product ID `16717` · Digistore24 productId `132869` · [HTML profile page](../../produkte/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen-16717.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kreativlaborberlin |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie kann ich mit meinem DIY-Blog Geld verdienen?? — Typ: Downloads, Anbieter: kreativlaborberlin, gelistet seit 2017-04-18
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

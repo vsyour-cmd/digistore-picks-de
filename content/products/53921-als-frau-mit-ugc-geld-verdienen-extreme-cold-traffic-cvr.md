@@ -4,15 +4,15 @@ digistore24_product_id: 624279
 title: "Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR"
 vendor: "drfranzwalter"
 product_type: "Member area and video courses"
-price: 514.18
+price: 515.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 257.09
+earnings_per_sale: 257.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Photography & Film","Profession & Job"]
 listed_since: "2025-07-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ugc-community.funnelcockpit.com/angebot/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR
 
 > Product ID `53921` · Digistore24 productId `624279` · [HTML profile page](../../produkte/als-frau-mit-ugc-geld-verdienen-extreme-cold-traffic-cvr-53921.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $514.18 (Single payment) |
+| Price | $515.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $257.09 |
+| Earnings/sale* | $257.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | drfranzwalter |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR? — Typ: Member area and video courses, Anbieter: drfranzwalter, gelistet seit 2025-07-15
-- Wie viel kostet es? — 514.1756760000001 USD
+- Wie viel kostet es? — 515.094996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

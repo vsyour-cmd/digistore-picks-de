@@ -4,15 +4,15 @@ digistore24_product_id: 646435
 title: "PlayGood.ai – Der digitale Fußball-Elterncoach | 10 € mtl."
 vendor: "playgoodai"
 product_type: "Member area and video courses"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Sport"]
 listed_since: "2025-11-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://playgood.ai?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PlayGood.ai – Der digitale Fußball-Elterncoach | 10 € mtl.
 
 > Product ID `54662` · Digistore24 productId `646435` · [HTML profile page](../../produkte/playgood-ai-der-digitale-fu-ball-elterncoach-10-mtl-54662.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.11 (Subscription) |
+| Price | $28.16 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | playgoodai |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PlayGood.ai – Der digitale Fußball-Elterncoach | 10 € mtl.? — Typ: Member area and video courses, Anbieter: playgoodai, gelistet seit 2025-11-05
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 150401
 title: "25+ EDU Quellen für Gratis* EDU Backlinks"
 vendor: "martingonev"
 product_type: "Downloads"
-price: 108.5
+price: 108.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.25
+earnings_per_sale: 54.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.martingonev.de/edu-trust-backlinks/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 25+ EDU Quellen für Gratis* EDU Backlinks
 
 > Product ID `17765` · Digistore24 productId `150401` · [HTML profile page](../../produkte/25-edu-quellen-f-r-gratis-edu-backlinks-17765.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $108.50 (Single payment, Installment) |
+| Price | $108.70 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.25 |
+| Earnings/sale* | $54.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | martingonev |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 25+ EDU Quellen für Gratis* EDU Backlinks? — Typ: Downloads, Anbieter: martingonev, gelistet seit 2017-07-13
-- Wie viel kostet es? — 108.5042 USD
+- Wie viel kostet es? — 108.6982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

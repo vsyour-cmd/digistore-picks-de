@@ -4,15 +4,15 @@ digistore24_product_id: 324193
 title: "Tanzminis - Kreativer Kindertanz zuhause"
 vendor: "tanzminis"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.03
+earnings_per_sale: 23.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-04-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.tanzminis.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tanzminis - Kreativer Kindertanz zuhause
 
 > Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../produkte/tanzminis-kreativer-kindertanz-zuhause-32876.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.03 |
+| Earnings/sale* | $23.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tanzminis |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tanzminis - Kreativer Kindertanz zuhause? — Typ: Member area and video courses, Anbieter: tanzminis, gelistet seit 2020-04-30
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

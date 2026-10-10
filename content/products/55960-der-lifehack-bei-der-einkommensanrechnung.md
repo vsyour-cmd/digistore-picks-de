@@ -4,15 +4,15 @@ digistore24_product_id: 664496
 title: "Der Lifehack bei der Einkommensanrechnung"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 46.02
+price: 46.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.41
+earnings_per_sale: 37.47
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-01-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Lifehack bei der Einkommensanrechnung
 
 > Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../produkte/der-lifehack-bei-der-einkommensanrechnung-55960.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.02 (Single payment) |
+| Price | $46.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.41 |
+| Earnings/sale* | $37.47 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | verwitwet-leben |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Lifehack bei der Einkommensanrechnung? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2026-01-27
-- Wie viel kostet es? — 46.019204 USD
+- Wie viel kostet es? — 46.101484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

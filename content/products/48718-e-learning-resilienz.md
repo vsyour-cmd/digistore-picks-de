@@ -4,15 +4,15 @@ digistore24_product_id: 550000
 title: "E-Learning Resilienz"
 vendor: "Nedler"
 product_type: "Member area and video courses"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 22.37
+earnings_per_sale: 22.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2024-04-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/550000?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Learning Resilienz
 
 > Product ID `48718` · Digistore24 productId `550000` · [HTML profile page](../../produkte/e-learning-resilienz-48718.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.40 (Subscription) |
+| Price | $9.41 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $22.37 |
+| Earnings/sale* | $22.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nedler |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Learning Resilienz? — Typ: Member area and video courses, Anbieter: Nedler, gelistet seit 2024-04-26
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

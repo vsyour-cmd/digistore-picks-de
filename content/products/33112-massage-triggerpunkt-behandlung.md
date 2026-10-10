@@ -4,15 +4,15 @@ digistore24_product_id: 326806
 title: "Massage Triggerpunkt Behandlung"
 vendor: "UweGoy"
 product_type: "Member area and video courses"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 30.87
+earnings_per_sale: 30.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-05-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://medios-seminare-online.de/triggerpunkt?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Massage Triggerpunkt Behandlung
 
 > Product ID `33112` · Digistore24 productId `326806` · [HTML profile page](../../produkte/massage-triggerpunkt-behandlung-33112.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $30.87 |
+| Earnings/sale* | $30.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UweGoy |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Massage Triggerpunkt Behandlung? — Typ: Member area and video courses, Anbieter: UweGoy, gelistet seit 2020-05-15
-- Wie viel kostet es? — 77.1834 USD
+- Wie viel kostet es? — 77.3214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

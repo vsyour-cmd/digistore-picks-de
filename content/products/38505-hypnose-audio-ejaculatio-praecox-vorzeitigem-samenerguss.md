@@ -4,15 +4,15 @@ digistore24_product_id: 391233
 title: "Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss"
 vendor: "HypnoseC"
 product_type: "Downloads"
-price: 28.2
+price: 28.25
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 15.51
+earnings_per_sale: 15.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-05-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://rdmmdl.wixsite.com/hypnose-hilft?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss
 
 > Product ID `38505` · Digistore24 productId `391233` · [HTML profile page](../../produkte/hypnose-audio-ejaculatio-praecox-vorzeitigem-samenerguss-38505.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.20 (Single payment, Installment) |
+| Price | $28.25 (Single payment, Installment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $15.51 |
+| Earnings/sale* | $15.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HypnoseC |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Audio Ejaculatio praecox/vorzeitigem Samenerguss? — Typ: Downloads, Anbieter: HypnoseC, gelistet seit 2021-05-24
-- Wie viel kostet es? — 28.199906000000002 USD
+- Wie viel kostet es? — 28.250326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 634968
 title: "ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch"
 vendor: "Keto-Fasten"
 product_type: "Audio book (download)"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.4
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch
 
 > Product ID `53998` · Digistore24 productId `634968` · [HTML profile page](../../produkte/adhs-bei-erwachsenen-gesegnet-und-verflucht-h-rbuch-53998.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.40 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Keto-Fasten |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch? — Typ: Audio book (download), Anbieter: Keto-Fasten, gelistet seit 2025-09-10
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

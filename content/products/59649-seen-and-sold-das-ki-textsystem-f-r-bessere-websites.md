@@ -4,15 +4,15 @@ digistore24_product_id: 733708
 title: "Seen and Sold: Das KI-Textsystem für bessere Websites"
 vendor: "DigitalDuniaLLC"
 product_type: "E-books"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.35
+earnings_per_sale: 35.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Marketing Services"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/733708?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Seen and Sold: Das KI-Textsystem für bessere Websites
 
 > Product ID `59649` · Digistore24 productId `733708` · [HTML profile page](../../produkte/seen-and-sold-das-ki-textsystem-f-r-bessere-websites-59649.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.35 |
+| Earnings/sale* | $35.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DigitalDuniaLLC |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seen and Sold: Das KI-Textsystem für bessere Websites? — Typ: E-books, Anbieter: DigitalDuniaLLC, gelistet seit 2026-09-24
-- Wie viel kostet es? — 88.3694 USD
+- Wie viel kostet es? — 88.5274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

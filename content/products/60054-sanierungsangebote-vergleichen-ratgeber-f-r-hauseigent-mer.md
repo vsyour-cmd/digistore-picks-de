@@ -4,15 +4,15 @@ digistore24_product_id: 738953
 title: "Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer"
 vendor: "Marketing17"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.48
+earnings_per_sale: 12.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://haus-energieberater.de/sanierungsangebote-vergleichen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer
 
 > Product ID `60054` · Digistore24 productId `738953` · [HTML profile page](../../produkte/sanierungsangebote-vergleichen-ratgeber-f-r-hauseigent-mer-60054.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.48 |
+| Earnings/sale* | $12.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Marketing17 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sanierungsangebote vergleichen: Ratgeber für Hauseigentümer? — Typ: E-books, Anbieter: Marketing17, gelistet seit 2026-09-30
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 372605
 title: "Freeride.Today MTB Trail-Guide"
 vendor: "FreerideToday"
 product_type: "Member area and video courses"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.76
+earnings_per_sale: 3.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2021-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://freeride.today/index.php?page_id=13133&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Freeride.Today MTB Trail-Guide
 
 > Product ID `37011` · Digistore24 productId `372605` · [HTML profile page](../../produkte/freeride-today-mtb-trail-guide-37011.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.79 (Subscription) |
+| Price | $18.83 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.76 |
+| Earnings/sale* | $3.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreerideToday |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freeride.Today MTB Trail-Guide? — Typ: Member area and video courses, Anbieter: FreerideToday, gelistet seit 2021-02-08
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

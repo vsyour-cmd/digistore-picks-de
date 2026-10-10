@@ -4,15 +4,15 @@ digistore24_product_id: 391017
 title: "Goodbye 9 to 5 - Passives Einkommen [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.63
+price: 14.66
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 5.12
+earnings_per_sale: 5.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
 listed_since: "2021-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/passives-einkommen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Goodbye 9 to 5 - Passives Einkommen [E-Book]
 
 > Product ID `36794` · Digistore24 productId `391017` · [HTML profile page](../../produkte/goodbye-9-to-5-passives-einkommen-e-book-36794.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.63 (Single payment) |
+| Price | $14.66 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $5.12 |
+| Earnings/sale* | $5.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Goodbye 9 to 5 - Passives Einkommen [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2021-05-21
-- Wie viel kostet es? — 14.631288000000001 USD
+- Wie viel kostet es? — 14.657448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

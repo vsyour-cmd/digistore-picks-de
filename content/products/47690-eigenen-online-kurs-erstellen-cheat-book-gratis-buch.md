@@ -4,7 +4,7 @@ digistore24_product_id: 546702
 title: "Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 0.88
+price: 0.89
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0.34
@@ -12,7 +12,7 @@ cart_conversion_pct: 36
 cancel_rate_pct: 1.68
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/mein-erster-online-kurs-cheat-book/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)
 
 > Product ID `47690` · Digistore24 productId `546702` · [HTML profile page](../../produkte/eigenen-online-kurs-erstellen-cheat-book-gratis-buch-47690.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $0.88 (Single payment) |
+| Price | $0.89 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 36% |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-04
-- Wie viel kostet es? — 0.8836940000000001 USD
+- Wie viel kostet es? — 0.8852740000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

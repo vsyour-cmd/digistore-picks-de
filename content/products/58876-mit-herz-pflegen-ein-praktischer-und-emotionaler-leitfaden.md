@@ -4,15 +4,15 @@ digistore24_product_id: 727344
 title: "Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden"
 vendor: "olasmartness90fa"
 product_type: "E-books"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.06
+earnings_per_sale: 9.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727344?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden
 
 > Product ID `58876` · Digistore24 productId `727344` · [HTML profile page](../../produkte/mit-herz-pflegen-ein-praktischer-und-emotionaler-leitfaden-58876.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.06 |
+| Earnings/sale* | $9.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | olasmartness90fa |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden? — Typ: E-books, Anbieter: olasmartness90fa, gelistet seit 2026-09-02
-- Wie viel kostet es? — 30.2022 USD
+- Wie viel kostet es? — 30.2562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

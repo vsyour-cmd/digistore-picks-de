@@ -4,15 +4,15 @@ digistore24_product_id: 331144
 title: "Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute"
 vendor: "Andrea1A"
 product_type: "Member area and video courses"
-price: 183.3
+price: 183.63
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 45.83
+earnings_per_sale: 45.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-06-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/messen-mit-der-einhandrute-tiere?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute
 
 > Product ID `37407` · Digistore24 productId `331144` · [HTML profile page](../../produkte/selbsthilfe-im-alltag-tiere-messen-mit-tensor-einhandrute-37407.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.30 (Single payment) |
+| Price | $183.63 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $45.83 |
+| Earnings/sale* | $45.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andrea1A |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbsthilfe im Alltag Tiere, Messen mit Tensor Einhandrute? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-06-11
-- Wie viel kostet es? — 183.30498200000002 USD
+- Wie viel kostet es? — 183.632722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

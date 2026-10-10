@@ -4,15 +4,15 @@ digistore24_product_id: 181839
 title: "VA Online Kurs"
 vendor: "veru79"
 product_type: "Member area and video courses"
-price: 42.28
+price: 42.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.1
+earnings_per_sale: 12.12
 cart_conversion_pct: 9
 cancel_rate_pct: 2.71
 categories: ["Education"]
 listed_since: "2017-11-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fernarbeit.net/virtueller-assistent-online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VA Online Kurs
 
 > Product ID `44521` · Digistore24 productId `181839` · [HTML profile page](../../produkte/va-online-kurs-44521.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.28 (Single payment) |
+| Price | $42.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.10 |
+| Earnings/sale* | $12.12 |
 | Cart conversion* | 9% |
 | Cancel rate* | 2.71% |
 | Vendor | veru79 |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VA Online Kurs? — Typ: Member area and video courses, Anbieter: veru79, gelistet seit 2017-11-22
-- Wie viel kostet es? — 42.28308 USD
+- Wie viel kostet es? — 42.35868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

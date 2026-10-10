@@ -4,15 +4,15 @@ digistore24_product_id: 614526
 title: "Tierschutz-Guide"
 vendor: "Tierheimsponsoring"
 product_type: "E-books"
-price: 87.81
+price: 87.97
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 21.96
+earnings_per_sale: 22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Food & Drink","Animals & Pets"]
 listed_since: "2025-05-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/614526?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide
 
 > Product ID `55040` · Digistore24 productId `614526` · [HTML profile page](../../produkte/tierschutz-guide-55040.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $87.81 (Subscription) |
+| Price | $87.97 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $21.96 |
+| Earnings/sale* | $22.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide? — Typ: E-books, Anbieter: Tierheimsponsoring, gelistet seit 2025-05-23
-- Wie viel kostet es? — 87.8101 USD
+- Wie viel kostet es? — 87.9671 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

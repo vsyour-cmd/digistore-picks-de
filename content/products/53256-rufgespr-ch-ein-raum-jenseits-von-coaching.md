@@ -4,15 +4,15 @@ digistore24_product_id: 604159
 title: "Rufgespräch – ein Raum jenseits von Coaching"
 vendor: "digicube"
 product_type: "Online coaching"
-price: 101.52
+price: 101.71
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 30.46
+earnings_per_sale: 30.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-03-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/rufgespraech/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rufgespräch – ein Raum jenseits von Coaching
 
 > Product ID `53256` · Digistore24 productId `604159` · [HTML profile page](../../produkte/rufgespr-ch-ein-raum-jenseits-von-coaching-53256.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $101.52 (Single payment) |
+| Price | $101.71 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $30.46 |
+| Earnings/sale* | $30.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rufgespräch – ein Raum jenseits von Coaching? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-03-27
-- Wie viel kostet es? — 101.52413600000001 USD
+- Wie viel kostet es? — 101.705656 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 266796
 title: "1x1SPORT Tennis"
 vendor: "einsxeins"
 product_type: "Downloads"
-price: 18.32
+price: 18.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.49
+earnings_per_sale: 5.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.1x1sport.de/videos/kreatives-tennistraining-fuer-kinder-aufschlag-volley/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1SPORT Tennis
 
 > Product ID `29117` · Digistore24 productId `266796` · [HTML profile page](../../produkte/1x1sport-tennis-29117.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.32 (Single payment) |
+| Price | $18.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.49 |
+| Earnings/sale* | $5.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einsxeins |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1SPORT Tennis? — Typ: Downloads, Anbieter: einsxeins, gelistet seit 2019-04-04
-- Wie viel kostet es? — 18.322668 USD
+- Wie viel kostet es? — 18.355428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

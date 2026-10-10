@@ -4,15 +4,15 @@ digistore24_product_id: 652004
 title: "Master Of Cashflow | Community Version"
 vendor: "Tim_Ecommerce"
 product_type: "Member area and video courses"
-price: 56.39
+price: 56.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.2
+earnings_per_sale: 28.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2025-12-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/652004?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Master Of Cashflow | Community Version
 
 > Product ID `55013` · Digistore24 productId `652004` · [HTML profile page](../../produkte/master-of-cashflow-community-version-55013.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $56.39 (Single payment, Installment) |
+| Price | $56.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.20 |
+| Earnings/sale* | $28.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tim_Ecommerce |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Master Of Cashflow | Community Version? — Typ: Member area and video courses, Anbieter: Tim_Ecommerce, gelistet seit 2025-12-01
-- Wie viel kostet es? — 56.388625999999995 USD
+- Wie viel kostet es? — 56.489446 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

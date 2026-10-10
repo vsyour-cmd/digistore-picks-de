@@ -4,15 +4,15 @@ digistore24_product_id: 614195
 title: "Datenprognose (grafisch und tabellarisch)"
 vendor: "Prognose-kaufen"
 product_type: "Remote service provided electronically"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 42.22
+earnings_per_sale: 42.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Services","Software"]
 listed_since: "2025-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/614195?voucher=PROGNOSEKAUFEN20&aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Datenprognose (grafisch und tabellarisch)
 
 > Product ID `55312` · Digistore24 productId `614195` · [HTML profile page](../../produkte/datenprognose-grafisch-und-tabellarisch-55312.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $42.22 |
+| Earnings/sale* | $42.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Prognose-kaufen |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Datenprognose (grafisch und tabellarisch)? — Typ: Remote service provided electronically, Anbieter: Prognose-kaufen, gelistet seit 2025-05-21
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

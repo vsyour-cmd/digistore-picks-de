@@ -4,15 +4,15 @@ digistore24_product_id: 529405
 title: "Hautpflege mit Kaffee"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 69.55
+price: 69.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.28
+earnings_per_sale: 13.3
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-12-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/hautpflege-mit-kaffee?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hautpflege mit Kaffee
 
 > Product ID `53733` · Digistore24 productId `529405` · [HTML profile page](../../produkte/hautpflege-mit-kaffee-53733.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.55 (Single payment) |
+| Price | $69.68 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.28 |
+| Earnings/sale* | $13.30 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hautpflege mit Kaffee? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-12-12
-- Wie viel kostet es? — 69.554548 USD
+- Wie viel kostet es? — 69.678908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

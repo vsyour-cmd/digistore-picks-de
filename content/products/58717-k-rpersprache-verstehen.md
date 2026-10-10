@@ -4,7 +4,7 @@ digistore24_product_id: 725280
 title: "Körpersprache verstehen"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 16.87
+price: 16.9
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.69
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/koerpersprache.php?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Körpersprache verstehen
 
 > Product ID `58717` · Digistore24 productId `725280` · [HTML profile page](../../produkte/k-rpersprache-verstehen-58717.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.87 (Single payment) |
+| Price | $16.90 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.69 |
 | Cart conversion* | — |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Körpersprache verstehen? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 16.868488 USD
+- Wie viel kostet es? — 16.898648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

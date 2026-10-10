@@ -4,15 +4,15 @@ digistore24_product_id: 298769
 title: "US-Firmengründung speziell für Tax-Lien-Investoren"
 vendor: "floridagb"
 product_type: "Remote service provided electronically"
-price: 2796.5
+price: 2801.5
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 699.13
+earnings_per_sale: 700.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2019-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.florida-grundbesitz.com/firma/tax-lien/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # US-Firmengründung speziell für Tax-Lien-Investoren
 
 > Product ID `30906` · Digistore24 productId `298769` · [HTML profile page](../../produkte/us-firmengr-ndung-speziell-f-r-tax-lien-investoren-30906.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2796.50 (Subscription) |
+| Price | $2801.50 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $699.13 |
+| Earnings/sale* | $700.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | floridagb |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist US-Firmengründung speziell für Tax-Lien-Investoren? — Typ: Remote service provided electronically, Anbieter: floridagb, gelistet seit 2019-12-08
-- Wie viel kostet es? — 2796.5 USD
+- Wie viel kostet es? — 2801.5 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

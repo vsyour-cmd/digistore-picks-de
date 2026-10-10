@@ -4,15 +4,15 @@ digistore24_product_id: 266849
 title: "Tools von ClearPMO"
 vendor: "UweMerkert"
 product_type: "Software"
-price: 366.6
+price: 367.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 109.98
+earnings_per_sale: 110.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.clearpmo.de/tools/online-kaufen-ohne-server/clearpmo-team/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tools von ClearPMO
 
 > Product ID `28586` · Digistore24 productId `266849` · [HTML profile page](../../produkte/tools-von-clearpmo-28586.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $366.60 (Single payment) |
+| Price | $367.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $109.98 |
+| Earnings/sale* | $110.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UweMerkert |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tools von ClearPMO? — Typ: Software, Anbieter: UweMerkert, gelistet seit 2019-04-04
-- Wie viel kostet es? — 366.59877800000004 USD
+- Wie viel kostet es? — 367.25423800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

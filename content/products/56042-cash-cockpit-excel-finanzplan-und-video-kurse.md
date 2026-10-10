@@ -4,15 +4,15 @@ digistore24_product_id: 679567
 title: "Cash Cockpit | Excel-Finanzplan und Video-Kurse"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.25
+earnings_per_sale: 4.26
 cart_conversion_pct: 8
 cancel_rate_pct: 4.1
 categories: ["Education","Profession & Job","Software"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/warum-ein-finanzplan-heute-unverzichtbar-ist/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Cockpit | Excel-Finanzplan und Video-Kurse
 
 > Product ID `56042` · Digistore24 productId `679567` · [HTML profile page](../../produkte/cash-cockpit-excel-finanzplan-und-video-kurse-56042.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.26 (Single payment, Installment) |
+| Price | $27.31 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.25 |
+| Earnings/sale* | $4.26 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.1% |
 | Vendor | NilsWarnecke |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Cockpit | Excel-Finanzplan und Video-Kurse? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

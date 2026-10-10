@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://michael-schlinder.com/KI-KursLab365?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # KI-Kurs Architekt - Kurse mit 100% KI erstellen
 
 > Product ID `46891` · Digistore24 productId `535689` · [HTML profile page](../../produkte/ki-kurs-architekt-kurse-mit-100-ki-erstellen-46891.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kurs Architekt - Kurse mit 100% KI erstellen? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-01-23
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

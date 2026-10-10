@@ -4,15 +4,15 @@ digistore24_product_id: 442573
 title: "TikTok Geld Geheimnis"
 vendor: "CyrilCash"
 product_type: "E-books"
-price: 207.12
+price: 207.49
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 152.9
+earnings_per_sale: 153.17
 cart_conversion_pct: 8
 cancel_rate_pct: 2.03
 categories: ["Social Media"]
 listed_since: "2022-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://social.business-kickstart.de/tgg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TikTok Geld Geheimnis
 
 > Product ID `40004` · Digistore24 productId `442573` · [HTML profile page](../../produkte/tiktok-geld-geheimnis-40004.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $207.12 (Single payment) |
+| Price | $207.49 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $152.90 |
+| Earnings/sale* | $153.17 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.03% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TikTok Geld Geheimnis? — Typ: E-books, Anbieter: CyrilCash, gelistet seit 2022-05-12
-- Wie viel kostet es? — 207.119976 USD
+- Wie viel kostet es? — 207.490296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

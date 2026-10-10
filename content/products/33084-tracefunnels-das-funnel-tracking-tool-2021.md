@@ -4,15 +4,15 @@ digistore24_product_id: 364920
 title: "TraceFunnels - Das Funnel Tracking Tool 2021"
 vendor: "TraceFunnels"
 product_type: "Member area and video courses"
-price: 186.81
+price: 187.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.04
+earnings_per_sale: 56.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://tracefunnels.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
 > Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.81 (Subscription) |
+| Price | $187.14 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.04 |
+| Earnings/sale* | $56.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TraceFunnels |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TraceFunnels - Das Funnel Tracking Tool 2021? — Typ: Member area and video courses, Anbieter: TraceFunnels, gelistet seit 2020-12-28
-- Wie viel kostet es? — 186.80620000000002 USD
+- Wie viel kostet es? — 187.1402 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

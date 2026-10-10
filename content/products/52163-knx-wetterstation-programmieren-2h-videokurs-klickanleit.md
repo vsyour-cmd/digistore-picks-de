@@ -4,15 +4,15 @@ digistore24_product_id: 360643
 title: "KNX Wetterstation programmieren - 2h Videokurs Klickanleit."
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 238.07
+price: 238.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 40.38
+earnings_per_sale: 40.45
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Marketing Services"]
 listed_since: "2020-12-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KNX Wetterstation programmieren - 2h Videokurs Klickanleit.
 
 > Product ID `52163` · Digistore24 productId `360643` · [HTML profile page](../../produkte/knx-wetterstation-programmieren-2h-videokurs-klickanleit-52163.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $238.07 (Single payment) |
+| Price | $238.50 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $40.38 |
+| Earnings/sale* | $40.45 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KNX Wetterstation programmieren - 2h Videokurs Klickanleit.? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-12-01
-- Wie viel kostet es? — 238.07163800000004 USD
+- Wie viel kostet es? — 238.49729800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

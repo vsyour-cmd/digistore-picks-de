@@ -4,15 +4,15 @@ digistore24_product_id: 398268
 title: "Menschen Zeichnen Masterkurs: Video-Kurs und eBook"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 140.95
+price: 141.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.38
+earnings_per_sale: 56.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2021-07-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/menschen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Menschen Zeichnen Masterkurs: Video-Kurs und eBook
 
 > Product ID `37257` · Digistore24 productId `398268` · [HTML profile page](../../produkte/menschen-zeichnen-masterkurs-video-kurs-und-ebook-37257.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.95 (Single payment, Installment) |
+| Price | $141.21 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.38 |
+| Earnings/sale* | $56.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrawTut |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschen Zeichnen Masterkurs: Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2021-07-15
-- Wie viel kostet es? — 140.954786 USD
+- Wie viel kostet es? — 141.206806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

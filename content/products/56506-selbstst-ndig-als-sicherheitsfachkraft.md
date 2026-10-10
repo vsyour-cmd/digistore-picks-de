@@ -4,15 +4,15 @@ digistore24_product_id: 682122
 title: "Selbstständig als Sicherheitsfachkraft"
 vendor: "Ullertec"
 product_type: "E-books"
-price: 73.17
+price: 73.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.59
+earnings_per_sale: 36.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/682122?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstständig als Sicherheitsfachkraft
 
 > Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../produkte/selbstst-ndig-als-sicherheitsfachkraft-56506.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $73.17 (Single payment) |
+| Price | $73.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.59 |
+| Earnings/sale* | $36.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ullertec |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstständig als Sicherheitsfachkraft? — Typ: E-books, Anbieter: Ullertec, gelistet seit 2026-04-04
-- Wie viel kostet es? — 73.167626 USD
+- Wie viel kostet es? — 73.298446 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 299072
 title: "Evoflix - Das Netflix für Expertenwissen"
 vendor: "EvoflixClubStore"
 product_type: "Member area and video courses"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 6.17
+earnings_per_sale: 6.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-12-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.evoflix.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Evoflix - Das Netflix für Expertenwissen
 
 > Product ID `32394` · Digistore24 productId `299072` · [HTML profile page](../../produkte/evoflix-das-netflix-f-r-expertenwissen-32394.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.70 (Subscription) |
+| Price | $18.74 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $6.17 |
+| Earnings/sale* | $6.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EvoflixClubStore |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Evoflix - Das Netflix für Expertenwissen? — Typ: Member area and video courses, Anbieter: EvoflixClubStore, gelistet seit 2019-12-10
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

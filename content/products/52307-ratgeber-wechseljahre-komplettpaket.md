@@ -4,15 +4,15 @@ digistore24_product_id: 610471
 title: "Ratgeber Wechseljahre Komplettpaket"
 vendor: "BackstageMarketing"
 product_type: "E-books"
-price: 22.32
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 16.73
+earnings_per_sale: 16.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://reivita.de/wechseljahre-report/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ratgeber Wechseljahre Komplettpaket
 
 > Product ID `52307` · Digistore24 productId `610471` · [HTML profile page](../../produkte/ratgeber-wechseljahre-komplettpaket-52307.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.32 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $16.73 |
+| Earnings/sale* | $16.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BackstageMarketing |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ratgeber Wechseljahre Komplettpaket? — Typ: E-books, Anbieter: BackstageMarketing, gelistet seit 2025-05-02
-- Wie viel kostet es? — 22.31607 USD
+- Wie viel kostet es? — 22.35597 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

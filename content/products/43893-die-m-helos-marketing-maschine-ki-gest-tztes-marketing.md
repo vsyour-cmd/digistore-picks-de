@@ -4,15 +4,15 @@ digistore24_product_id: 491653
 title: "Die Mühelos Marketing-Maschine - KI-gestütztes Marketing"
 vendor: "davidgoebel"
 product_type: "Member area and video courses"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-03-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/491653?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Mühelos Marketing-Maschine - KI-gestütztes Marketing
 
 > Product ID `43893` · Digistore24 productId `491653` · [HTML profile page](../../produkte/die-m-helos-marketing-maschine-ki-gest-tztes-marketing-43893.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.40 (Subscription) |
+| Price | $9.41 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | davidgoebel |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Mühelos Marketing-Maschine - KI-gestütztes Marketing? — Typ: Member area and video courses, Anbieter: davidgoebel, gelistet seit 2023-03-30
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

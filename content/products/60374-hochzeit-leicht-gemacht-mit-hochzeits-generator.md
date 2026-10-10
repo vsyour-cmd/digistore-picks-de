@@ -4,15 +4,15 @@ digistore24_product_id: 742507
 title: "Hochzeit leicht gemacht – mit Hochzeits-Generator"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 31.25
+price: 31.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.51
+earnings_per_sale: 12.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742507?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hochzeit leicht gemacht – mit Hochzeits-Generator
 
 > Product ID `60374` · Digistore24 productId `742507` · [HTML profile page](../../produkte/hochzeit-leicht-gemacht-mit-hochzeits-generator-60374.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.25 (Single payment) |
+| Price | $31.31 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.51 |
+| Earnings/sale* | $12.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hochzeit leicht gemacht – mit Hochzeits-Generator? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 31.253684000000003 USD
+- Wie viel kostet es? — 31.309564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

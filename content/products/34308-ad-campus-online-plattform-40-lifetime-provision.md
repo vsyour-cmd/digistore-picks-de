@@ -4,15 +4,15 @@ digistore24_product_id: 295505
 title: "Ad Campus Online Plattform - 40% Lifetime Provision"
 vendor: "ChrisdaS"
 product_type: "Member area and video courses"
-price: 84.58
+price: 84.73
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.83
+earnings_per_sale: 33.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-11-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.ad-campus.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ad Campus Online Plattform - 40% Lifetime Provision
 
 > Product ID `34308` · Digistore24 productId `295505` · [HTML profile page](../../produkte/ad-campus-online-plattform-40-lifetime-provision-34308.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $84.58 (Subscription) |
+| Price | $84.73 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.83 |
+| Earnings/sale* | $33.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ad Campus Online Plattform - 40% Lifetime Provision? — Typ: Member area and video courses, Anbieter: ChrisdaS, gelistet seit 2019-11-17
-- Wie viel kostet es? — 84.577346 USD
+- Wie viel kostet es? — 84.728566 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

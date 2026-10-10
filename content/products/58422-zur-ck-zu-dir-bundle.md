@@ -4,15 +4,15 @@ digistore24_product_id: 695517
 title: "Zurück zu dir Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 135.8
+price: 136.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 40.74
+earnings_per_sale: 40.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/deine-beduerfnisse/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zurück zu dir Bundle
 
 > Product ID `58422` · Digistore24 productId `695517` · [HTML profile page](../../produkte/zur-ck-zu-dir-bundle-58422.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $135.80 (Single payment) |
+| Price | $136.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $40.74 |
+| Earnings/sale* | $40.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zurück zu dir Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 135.79804000000001 USD
+- Wie viel kostet es? — 136.04084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

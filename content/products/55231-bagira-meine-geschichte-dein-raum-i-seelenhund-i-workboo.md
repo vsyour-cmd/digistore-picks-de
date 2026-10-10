@@ -4,15 +4,15 @@ digistore24_product_id: 662105
 title: "Bagira – Meine Geschichte - Dein Raum I Seelenhund I Workboo"
 vendor: "HundecoachWolfgangSiebel"
 product_type: "E-books"
-price: 15.68
+price: 15.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Hobby & Craft"]
 listed_since: "2026-01-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.sensiebelfotografie.de/bagira-eine-geschichte-uber-das-leben-und-den-tod-ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bagira – Meine Geschichte - Dein Raum I Seelenhund I Workboo
 
 > Product ID `55231` · Digistore24 productId `662105` · [HTML profile page](../../produkte/bagira-meine-geschichte-dein-raum-i-seelenhund-i-workboo-55231.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.71 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HundecoachWolfgangSiebel |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bagira – Meine Geschichte - Dein Raum I Seelenhund I Workboo? — Typ: E-books, Anbieter: HundecoachWolfgangSiebel, gelistet seit 2026-01-17
-- Wie viel kostet es? — 15.682772 USD
+- Wie viel kostet es? — 15.710812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

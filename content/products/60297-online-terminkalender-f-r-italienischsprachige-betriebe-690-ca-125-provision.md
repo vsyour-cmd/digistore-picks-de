@@ -4,15 +4,15 @@ digistore24_product_id: 741566
 title: "Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 771.83
+price: 773.21
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 154.37
+earnings_per_sale: 154.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/agenda-online?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision
 
 > Product ID `60297` · Digistore24 productId `741566` · [HTML profile page](../../produkte/online-terminkalender-f-r-italienischsprachige-betriebe-690-ca-125-provision-60297.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $771.83 (Single payment) |
+| Price | $773.21 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $154.37 |
+| Earnings/sale* | $154.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 771.8340000000001 USD
+- Wie viel kostet es? — 773.214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

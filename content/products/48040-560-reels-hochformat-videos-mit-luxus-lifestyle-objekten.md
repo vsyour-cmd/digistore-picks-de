@@ -12,7 +12,7 @@ cart_conversion_pct: 20
 cancel_rate_pct: 1.88
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-05-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/551106?aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # 560+ Reels (Hochformat Videos) mit Luxus Lifestyle Objekten
 
 > Product ID `48040` · Digistore24 productId `551106` · [HTML profile page](../../produkte/560-reels-hochformat-videos-mit-luxus-lifestyle-objekten-48040.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 560+ Reels (Hochformat Videos) mit Luxus Lifestyle Objekten? — Typ: Downloads, Anbieter: webpirat, gelistet seit 2024-05-05
-- Wie viel kostet es? — 1.5660399999999999 USD
+- Wie viel kostet es? — 1.56884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 502762
 title: "1x1 Erfolgsformel für deine Website: Buch von Oliver Pfeil"
 vendor: "opfeil"
 product_type: "E-books"
-price: 134.55
+price: 134.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.33
+earnings_per_sale: 13.36
 cart_conversion_pct: 10
 cancel_rate_pct: 4.29
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.oliverpfeil.de/produkte/buch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Erfolgsformel für deine Website: Buch von Oliver Pfeil
 
 > Product ID `14609` · Digistore24 productId `502762` · [HTML profile page](../../produkte/1x1-erfolgsformel-f-r-deine-website-buch-von-oliver-pfeil-14609.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $134.55 (Single payment) |
+| Price | $134.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.33 |
+| Earnings/sale* | $13.36 |
 | Cart conversion* | 10% |
 | Cancel rate* | 4.29% |
 | Vendor | opfeil |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Erfolgsformel für deine Website: Buch von Oliver Pfeil? — Typ: E-books, Anbieter: opfeil, gelistet seit 2023-06-12
-- Wie viel kostet es? — 134.545208 USD
+- Wie viel kostet es? — 134.78576800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

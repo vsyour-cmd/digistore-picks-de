@@ -4,15 +4,15 @@ digistore24_product_id: 598233
 title: "KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste"
 vendor: "EFFICAX"
 product_type: "E-books"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.06
+earnings_per_sale: 7.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.sanversity.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste
 
 > Product ID `59104` · Digistore24 productId `598233` · [HTML profile page](../../produkte/ki-hype-e-book-100-midjourney-prompts-copy-paste-59104.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.06 |
+| Earnings/sale* | $7.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EFFICAX |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste? — Typ: E-books, Anbieter: EFFICAX, gelistet seit 2026-09-10
-- Wie viel kostet es? — 28.222278000000003 USD
+- Wie viel kostet es? — 28.272738 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

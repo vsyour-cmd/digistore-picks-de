@@ -4,15 +4,15 @@ digistore24_product_id: 526339
 title: "Money Magnet 2.0 - Einzigartige VSL im DACH Raum"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 63.78
+price: 63.9
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 40.69
+earnings_per_sale: 40.77
 cart_conversion_pct: 12
 cancel_rate_pct: 8.44
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Money Magnet 2.0 - Einzigartige VSL im DACH Raum
 
 > Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../produkte/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.78 (Single payment, Installment) |
+| Price | $63.90 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $40.69 |
+| Earnings/sale* | $40.77 |
 | Cart conversion* | 12% |
 | Cancel rate* | 8.44% |
 | Vendor | funnelprofits |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Magnet 2.0 - Einzigartige VSL im DACH Raum? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2023-11-21
-- Wie viel kostet es? — 63.78257200000001 USD
+- Wie viel kostet es? — 63.896612000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

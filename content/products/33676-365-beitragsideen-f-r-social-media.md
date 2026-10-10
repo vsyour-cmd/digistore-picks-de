@@ -4,15 +4,15 @@ digistore24_product_id: 313884
 title: "365 Beitragsideen für Social-Media"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.06
+earnings_per_sale: 9.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/365beitragsideen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 365 Beitragsideen für Social-Media
 
 > Product ID `33676` · Digistore24 productId `313884` · [HTML profile page](../../produkte/365-beitragsideen-f-r-social-media-33676.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.06 |
+| Earnings/sale* | $9.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 365 Beitragsideen für Social-Media? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2020-03-19
-- Wie viel kostet es? — 30.2022 USD
+- Wie viel kostet es? — 30.2562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

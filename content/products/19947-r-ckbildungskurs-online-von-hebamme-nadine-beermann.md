@@ -4,15 +4,15 @@ digistore24_product_id: 152971
 title: "Rückbildungskurs Online von Hebamme Nadine Beermann"
 vendor: "beermann"
 product_type: "Member area and video courses"
-price: 77.55
+price: 77.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 26.38
+earnings_per_sale: 26.42
 cart_conversion_pct: 20
 cancel_rate_pct: 0.34
 categories: ["Health & Fitness"]
 listed_since: "2017-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.nadine-beermann.de/onlinekurs-rb/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rückbildungskurs Online von Hebamme Nadine Beermann
 
 > Product ID `19947` · Digistore24 productId `152971` · [HTML profile page](../../produkte/r-ckbildungskurs-online-von-hebamme-nadine-beermann-19947.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.55 (Single payment) |
+| Price | $77.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $26.38 |
+| Earnings/sale* | $26.42 |
 | Cart conversion* | 20% |
 | Cancel rate* | 0.34% |
 | Vendor | beermann |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückbildungskurs Online von Hebamme Nadine Beermann? — Typ: Member area and video courses, Anbieter: beermann, gelistet seit 2017-07-25
-- Wie viel kostet es? — 77.552538 USD
+- Wie viel kostet es? — 77.691198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

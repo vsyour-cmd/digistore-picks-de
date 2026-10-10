@@ -4,15 +4,15 @@ digistore24_product_id: 665255
 title: "Nett sein ist dein größter Fehler.."
 vendor: "gbuiss"
 product_type: "E-books"
-price: 18.14
+price: 18.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.7
+earnings_per_sale: 17.73
 cart_conversion_pct: 10
 cancel_rate_pct: 2.05
 categories: ["Dating, Relationships & Romance","Personal Development","Social Media"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665255?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nett sein ist dein größter Fehler..
 
 > Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../produkte/nett-sein-ist-dein-gr-ter-fehler-55395.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.14 (Single payment) |
+| Price | $18.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.70 |
+| Earnings/sale* | $17.73 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.05% |
 | Vendor | gbuiss |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nett sein ist dein größter Fehler..? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-01-30
-- Wie viel kostet es? — 18.143691999999998 USD
+- Wie viel kostet es? — 18.176132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

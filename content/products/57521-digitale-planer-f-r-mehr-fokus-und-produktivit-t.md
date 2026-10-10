@@ -4,15 +4,15 @@ digistore24_product_id: 711127
 title: "Digitale Planer für mehr Fokus und Produktivität"
 vendor: "nick4nders"
 product_type: "Downloads"
-price: 11.28
+price: 11.3
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.77
+earnings_per_sale: 6.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/711127?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Planer für mehr Fokus und Produktivität
 
 > Product ID `57521` · Digistore24 productId `711127` · [HTML profile page](../../produkte/digitale-planer-f-r-mehr-fokus-und-produktivit-t-57521.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.28 (Single payment) |
+| Price | $11.30 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.77 |
+| Earnings/sale* | $6.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nick4nders |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Planer für mehr Fokus und Produktivität? — Typ: Downloads, Anbieter: nick4nders, gelistet seit 2026-07-14
-- Wie viel kostet es? — 11.275488000000001 USD
+- Wie viel kostet es? — 11.295648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 461394
 title: "WEDDING MAGAZINE für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 136.09
+price: 136.33
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 21
 cancel_rate_pct: 2.28
 categories: ["Profession & Job"]
 listed_since: "2022-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://juliaandgil.education/wedding-guide/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # WEDDING MAGAZINE für Fotografen
 
 > Product ID `43531` · Digistore24 productId `461394` · [HTML profile page](../../produkte/wedding-magazine-f-r-fotografen-43531.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.09 (Single payment, Installment) |
+| Price | $136.33 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 21% |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WEDDING MAGAZINE für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-09-21
-- Wie viel kostet es? — 136.088876 USD
+- Wie viel kostet es? — 136.332196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

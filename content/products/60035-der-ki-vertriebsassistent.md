@@ -4,7 +4,7 @@ digistore24_product_id: 738797
 title: "Der KI-Vertriebsassistent"
 vendor: "AlcaAzar5f7"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.54
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sales Training"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://nine-to-never.systeme.io/07cae43a?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Der KI-Vertriebsassistent
 
 > Product ID `60035` · Digistore24 productId `738797` · [HTML profile page](../../produkte/der-ki-vertriebsassistent-60035.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.54 |
 | Cart conversion* | — |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der KI-Vertriebsassistent? — Typ: Downloads, Anbieter: AlcaAzar5f7, gelistet seit 2026-09-29
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

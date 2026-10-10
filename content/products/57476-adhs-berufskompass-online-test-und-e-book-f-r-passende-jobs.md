@@ -4,15 +4,15 @@ digistore24_product_id: 708246
 title: "ADHS Berufskompass Online-Test und E-Book für passende Jobs"
 vendor: "Keto-Fasten"
 product_type: "Software"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.25
+earnings_per_sale: 11.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://adhs-berufskompass.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ADHS Berufskompass Online-Test und E-Book für passende Jobs
 
 > Product ID `57476` · Digistore24 productId `708246` · [HTML profile page](../../produkte/adhs-berufskompass-online-test-und-e-book-f-r-passende-jobs-57476.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.51 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.25 |
+| Earnings/sale* | $11.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Keto-Fasten |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS Berufskompass Online-Test und E-Book für passende Jobs? — Typ: Software, Anbieter: Keto-Fasten, gelistet seit 2026-07-10
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

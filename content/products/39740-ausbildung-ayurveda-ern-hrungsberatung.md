@@ -4,15 +4,15 @@ digistore24_product_id: 369652
 title: "Ausbildung: Ayurveda-Ernährungsberatung"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 1336.68
+price: 1339.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 401.01
+earnings_per_sale: 401.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/ayurveda-ernaehrungsberatung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ausbildung: Ayurveda-Ernährungsberatung
 
 > Product ID `39740` · Digistore24 productId `369652` · [HTML profile page](../../produkte/ausbildung-ayurveda-ern-hrungsberatung-39740.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1336.68 (Single payment, Installment) |
+| Price | $1339.07 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $401.01 |
+| Earnings/sale* | $401.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung: Ayurveda-Ernährungsberatung? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2021-01-23
-- Wie viel kostet es? — 1336.682256 USD
+- Wie viel kostet es? — 1339.0721760000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

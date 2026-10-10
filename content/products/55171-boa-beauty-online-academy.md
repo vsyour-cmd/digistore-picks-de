@@ -4,15 +4,15 @@ digistore24_product_id: 658523
 title: "BOA-Beauty Online Academy"
 vendor: "Vali_572"
 product_type: "Online coaching"
-price: 70.04
+price: 70.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.02
+earnings_per_sale: 35.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing","Marketing Services"]
 listed_since: "2026-01-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://beauty-onlineacademy.at?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BOA-Beauty Online Academy
 
 > Product ID `55171` · Digistore24 productId `658523` · [HTML profile page](../../produkte/boa-beauty-online-academy-55171.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $70.04 (Single payment) |
+| Price | $70.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.02 |
+| Earnings/sale* | $35.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vali_572 |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BOA-Beauty Online Academy? — Typ: Online coaching, Anbieter: Vali_572, gelistet seit 2026-01-02
-- Wie viel kostet es? — 70.035546 USD
+- Wie viel kostet es? — 70.160766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

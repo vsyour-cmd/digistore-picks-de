@@ -4,15 +4,15 @@ digistore24_product_id: 502495
 title: "Inner Circle Mitgliedschaft. Trading & Investment Gruppe"
 vendor: "LebensfrohLLC"
 product_type: "Member area and video courses"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.15
+earnings_per_sale: 22.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2023-06-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/inner-circle-gruppe-exklusive-trading-investment-signale/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Inner Circle Mitgliedschaft. Trading & Investment Gruppe
 
 > Product ID `44934` · Digistore24 productId `502495` · [HTML profile page](../../produkte/inner-circle-mitgliedschaft-trading-investment-gruppe-44934.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.74 (Subscription) |
+| Price | $110.94 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.15 |
+| Earnings/sale* | $22.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LebensfrohLLC |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inner Circle Mitgliedschaft. Trading & Investment Gruppe? — Typ: Member area and video courses, Anbieter: LebensfrohLLC, gelistet seit 2023-06-10
-- Wie viel kostet es? — 110.7414 USD
+- Wie viel kostet es? — 110.9394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

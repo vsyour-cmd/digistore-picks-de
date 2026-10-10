@@ -4,15 +4,15 @@ digistore24_product_id: 651384
 title: "Endlich raus aus dem System: Der große Exit Masterplan 2026"
 vendor: "alohalearndigital"
 product_type: "Member area and video courses"
-price: 2344.91
+price: 2349.1
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 654.15
+earnings_per_sale: 655.32
 cart_conversion_pct: 7
 cancel_rate_pct: 7.15
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nomadmaster.de/exit-masterplan?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
 > Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2344.91 (Single payment, Installment) |
+| Price | $2349.10 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $654.15 |
+| Earnings/sale* | $655.32 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.15% |
 | Vendor | alohalearndigital |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich raus aus dem System: Der große Exit Masterplan 2026? — Typ: Member area and video courses, Anbieter: alohalearndigital, gelistet seit 2025-11-27
-- Wie viel kostet es? — 2344.909994 USD
+- Wie viel kostet es? — 2349.102574 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

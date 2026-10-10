@@ -4,15 +4,15 @@ digistore24_product_id: 726221
 title: "50% Provision: Digitale Ärzte-Fortbildung CME-Punkte"
 vendor: "Evident-Bildung"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 70.04
+earnings_per_sale: 70.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Profession & Job"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cura-mind.de/bundle?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: Digitale Ärzte-Fortbildung CME-Punkte
 
 > Product ID `58952` · Digistore24 productId `726221` · [HTML profile page](../../produkte/50-provision-digitale-rzte-fortbildung-cme-punkte-58952.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment) |
+| Price | $140.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $70.04 |
+| Earnings/sale* | $70.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Evident-Bildung |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: Digitale Ärzte-Fortbildung CME-Punkte? — Typ: Member area and video courses, Anbieter: Evident-Bildung, gelistet seit 2026-09-05
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 38219
 title: "Das Partnerprogramm von KlickTipp. Das Beste oder nichts."
 vendor: "klick-tipp"
 product_type: "Downloads"
-price: 1199.82
+price: 1201.97
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 349.54
+earnings_per_sale: 350.17
 cart_conversion_pct: 39
 cancel_rate_pct: 11.78
 categories: ["Email Marketing"]
 listed_since: "2014-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.klicktipp.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von KlickTipp. Das Beste oder nichts.
 
 > Product ID `5609` · Digistore24 productId `38219` · [HTML profile page](../../produkte/das-partnerprogramm-von-klicktipp-das-beste-oder-nichts-5609.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1199.82 (Subscription) |
+| Price | $1201.97 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $349.54 |
+| Earnings/sale* | $350.17 |
 | Cart conversion* | 39% |
 | Cancel rate* | 11.78% |
 | Vendor | klick-tipp |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von KlickTipp. Das Beste oder nichts.? — Typ: Downloads, Anbieter: klick-tipp, gelistet seit 2014-12-08
-- Wie viel kostet es? — 1199.821546 USD
+- Wie viel kostet es? — 1201.966766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 187753
 title: "Spanisch lernen mit der Sprachblock-Methode"
 vendor: "Sprachheld"
 product_type: "Member area and video courses"
-price: 135.9
+price: 136.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.44
+earnings_per_sale: 98.61
 cart_conversion_pct: 6
 cancel_rate_pct: 13.91
 categories: ["Languages"]
 listed_since: "2017-12-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.sprachheld.de/spanisch-challenge/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Spanisch lernen mit der Sprachblock-Methode
 
 > Product ID `41554` · Digistore24 productId `187753` · [HTML profile page](../../produkte/spanisch-lernen-mit-der-sprachblock-methode-41554.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $135.90 (Single payment) |
+| Price | $136.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.44 |
+| Earnings/sale* | $98.61 |
 | Cart conversion* | 6% |
 | Cancel rate* | 13.91% |
 | Vendor | Sprachheld |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spanisch lernen mit der Sprachblock-Methode? — Typ: Member area and video courses, Anbieter: Sprachheld, gelistet seit 2017-12-15
-- Wie viel kostet es? — 135.898714 USD
+- Wie viel kostet es? — 136.141694 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

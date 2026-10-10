@@ -4,15 +4,15 @@ digistore24_product_id: 611450
 title: "Der Performance Code –  Produktivität auf Autopilot, Erfolg"
 vendor: "Snatchez"
 product_type: "Member area and video courses"
-price: 206.8
+price: 207.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 103.4
+earnings_per_sale: 103.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/611450?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Performance Code –  Produktivität auf Autopilot, Erfolg
 
 > Product ID `52435` · Digistore24 productId `611450` · [HTML profile page](../../produkte/der-performance-code-produktivit-t-auf-autopilot-erfolg-52435.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $206.80 (Single payment, Installment) |
+| Price | $207.17 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $103.40 |
+| Earnings/sale* | $103.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Snatchez |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Performance Code –  Produktivität auf Autopilot, Erfolg? — Typ: Member area and video courses, Anbieter: Snatchez, gelistet seit 2025-05-07
-- Wie viel kostet es? — 206.79558200000002 USD
+- Wie viel kostet es? — 207.165322 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

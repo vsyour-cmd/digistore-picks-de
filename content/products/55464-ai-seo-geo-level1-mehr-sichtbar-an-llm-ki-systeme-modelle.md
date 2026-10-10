@@ -4,15 +4,15 @@ digistore24_product_id: 666030
 title: "AI SEO GEO \"Level1\". Mehr Sichtbar an LLM KI-Systeme Modelle"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 167.79
+price: 168.09
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.34
+earnings_per_sale: 50.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle
 
 > Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../produkte/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $167.79 (Single payment, Installment) |
+| Price | $168.09 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.34 |
+| Earnings/sale* | $50.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-02-02
-- Wie viel kostet es? — 167.79 USD
+- Wie viel kostet es? — 168.09 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

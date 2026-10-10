@@ -4,15 +4,15 @@ digistore24_product_id: 391052
 title: "Minikurs-Methode, Ebook"
 vendor: "Jyotima"
 product_type: "E-books"
-price: 12.3
+price: 12.33
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.69
+earnings_per_sale: 3.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-05-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/minikursmethode/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurs-Methode, Ebook
 
 > Product ID `36765` · Digistore24 productId `391052` · [HTML profile page](../../produkte/minikurs-methode-ebook-36765.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.30 (Single payment) |
+| Price | $12.33 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.69 |
+| Earnings/sale* | $3.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurs-Methode, Ebook? — Typ: E-books, Anbieter: Jyotima, gelistet seit 2021-05-22
-- Wie viel kostet es? — 12.3046 USD
+- Wie viel kostet es? — 12.326600000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

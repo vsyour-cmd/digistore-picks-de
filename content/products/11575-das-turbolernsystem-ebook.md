@@ -4,15 +4,15 @@ digistore24_product_id: 24351
 title: "Das Turbolernsystem - Ebook"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.43
+earnings_per_sale: 32.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.lerntipp.com/turbolernstrategie?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Turbolernsystem - Ebook
 
 > Product ID `11575` · Digistore24 productId `24351` · [HTML profile page](../../produkte/das-turbolernsystem-ebook-11575.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.43 |
+| Earnings/sale* | $32.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Turbolernsystem - Ebook? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-18
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 702998
 title: "10 KI-Prompts für Business-Mamas - Copy-Paste Playbook"
 vendor: "carinabauer"
 product_type: "Downloads"
-price: 13.15
+price: 13.18
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.29
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Profession & Job"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/702998?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook
 
 > Product ID `57109` · Digistore24 productId `702998` · [HTML profile page](../../produkte/10-ki-prompts-f-r-business-mamas-copy-paste-playbook-57109.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.15 (Single payment) |
+| Price | $13.18 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook? — Typ: Downloads, Anbieter: carinabauer, gelistet seit 2026-06-23
-- Wie viel kostet es? — 13.154736 USD
+- Wie viel kostet es? — 13.178256000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

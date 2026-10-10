@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://verkaufstexter-kompendium.de?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Verkaufstexter-Kompendium
 
 > Product ID `2661` · Digistore24 productId `22655` · [HTML profile page](../../produkte/verkaufstexter-kompendium-2661.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufstexter-Kompendium? — Typ: Downloads, Anbieter: Beopal, gelistet seit 2014-03-15
-- Wie viel kostet es? — 0.939624 USD
+- Wie viel kostet es? — 0.941304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

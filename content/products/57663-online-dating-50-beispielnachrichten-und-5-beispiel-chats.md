@@ -4,15 +4,15 @@ digistore24_product_id: 713101
 title: "Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats"
 vendor: "MF-Digital-Solutions"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.02
+earnings_per_sale: 13.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713101?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats
 
 > Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../produkte/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.02 |
+| Earnings/sale* | $13.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MF-Digital-Solutions |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats? — Typ: E-books, Anbieter: MF-Digital-Solutions, gelistet seit 2026-07-21
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

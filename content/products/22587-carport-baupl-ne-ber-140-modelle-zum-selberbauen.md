@@ -4,15 +4,15 @@ digistore24_product_id: 64947
 title: "Carport-Baupläne – Über 140 Modelle zum Selberbauen"
 vendor: "ccbvcc"
 product_type: "E-books"
-price: 23.05
+price: 23.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.51
+earnings_per_sale: 6.52
 cart_conversion_pct: 14
 cancel_rate_pct: 0.35
 categories: ["Home & Garden"]
 listed_since: "2015-12-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/64947/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Carport-Baupläne – Über 140 Modelle zum Selberbauen
 
 > Product ID `22587` · Digistore24 productId `64947` · [HTML profile page](../../produkte/carport-baupl-ne-ber-140-modelle-zum-selberbauen-22587.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.05 (Single payment) |
+| Price | $23.10 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.51 |
+| Earnings/sale* | $6.52 |
 | Cart conversion* | 14% |
 | Cancel rate* | 0.35% |
 | Vendor | ccbvcc |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Carport-Baupläne – Über 140 Modelle zum Selberbauen? — Typ: E-books, Anbieter: ccbvcc, gelistet seit 2015-12-05
-- Wie viel kostet es? — 23.054346 USD
+- Wie viel kostet es? — 23.095566 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

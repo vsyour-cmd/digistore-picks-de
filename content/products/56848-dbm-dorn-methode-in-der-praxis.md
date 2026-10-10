@@ -4,15 +4,15 @@ digistore24_product_id: 698552
 title: "DBM - Dorn-Methode in der Praxis"
 vendor: "dornbreuss"
 product_type: "Member area and video courses"
-price: 18.61
+price: 18.65
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 13.03
+earnings_per_sale: 13.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DBM - Dorn-Methode in der Praxis
 
 > Product ID `56848` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-methode-in-der-praxis-56848.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.61 (Single payment) |
+| Price | $18.65 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $13.03 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dornbreuss |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DBM - Dorn-Methode in der Praxis? — Typ: Member area and video courses, Anbieter: dornbreuss, gelistet seit 2026-06-09
-- Wie viel kostet es? — 18.613504000000002 USD
+- Wie viel kostet es? — 18.646784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

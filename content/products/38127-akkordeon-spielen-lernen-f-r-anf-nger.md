@@ -4,15 +4,15 @@ digistore24_product_id: 13613
 title: "Akkordeon spielen lernen für Anfänger"
 vendor: "doormaker"
 product_type: "Member area and video courses"
-price: 552.72
+price: 553.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 276.36
+earnings_per_sale: 276.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2013-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.onlinemusikschule.info/akkordeon-spielen-lernen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Akkordeon spielen lernen für Anfänger
 
 > Product ID `38127` · Digistore24 productId `13613` · [HTML profile page](../../produkte/akkordeon-spielen-lernen-f-r-anf-nger-38127.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $552.72 (Single payment, Installment) |
+| Price | $553.71 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $276.36 |
+| Earnings/sale* | $276.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | doormaker |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Akkordeon spielen lernen für Anfänger? — Typ: Member area and video courses, Anbieter: doormaker, gelistet seit 2013-07-05
-- Wie viel kostet es? — 552.722632 USD
+- Wie viel kostet es? — 553.710872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 290934
 title: "Das große Laufbuch der Trainingspläne"
 vendor: "HDsports"
 product_type: "E-books"
-price: 33.35
+price: 33.41
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.hdsports.at/literatur/trainingsplaene-fuer-laeufer-und-laeuferinnen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Laufbuch der Trainingspläne
 
 > Product ID `30406` · Digistore24 productId `290934` · [HTML profile page](../../produkte/das-gro-e-laufbuch-der-trainingspl-ne-30406.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $33.35 (Single payment) |
+| Price | $33.41 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HDsports |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Laufbuch der Trainingspläne? — Typ: E-books, Anbieter: HDsports, gelistet seit 2019-10-16
-- Wie viel kostet es? — 33.345466 USD
+- Wie viel kostet es? — 33.405086 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

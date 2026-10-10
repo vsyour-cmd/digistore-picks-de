@@ -4,15 +4,15 @@ digistore24_product_id: 741265
 title: "Social Media Starter Paket"
 vendor: "DigitalIncomeDE"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741265?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Starter Paket
 
 > Product ID `60206` · Digistore24 productId `741265` · [HTML profile page](../../produkte/social-media-starter-paket-60206.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DigitalIncomeDE |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Starter Paket? — Typ: E-books, Anbieter: DigitalIncomeDE, gelistet seit 2026-10-05
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

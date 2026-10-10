@@ -4,15 +4,15 @@ digistore24_product_id: 694712
 title: "In 7 Tagen Flugangst bewältigen | Audiokurs mit E-Book"
 vendor: "PsycheVital"
 product_type: "Downloads"
-price: 18.75
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Travel & Culture"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.loslassenlernen-online.de/flugangst-aufl%C3%B6sen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # In 7 Tagen Flugangst bewältigen | Audiokurs mit E-Book
 
 > Product ID `56658` · Digistore24 productId `694712` · [HTML profile page](../../produkte/in-7-tagen-flugangst-bew-ltigen-audiokurs-mit-e-book-56658.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.75 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PsycheVital |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 7 Tagen Flugangst bewältigen | Audiokurs mit E-Book? — Typ: Downloads, Anbieter: PsycheVital, gelistet seit 2026-05-22
-- Wie viel kostet es? — 18.747736000000003 USD
+- Wie viel kostet es? — 18.781256000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

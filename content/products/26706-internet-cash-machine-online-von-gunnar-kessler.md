@@ -4,15 +4,15 @@ digistore24_product_id: 233565
 title: "Internet Cash Machine Online - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 275.77
+price: 276.26
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 129.28
+earnings_per_sale: 129.51
 cart_conversion_pct: 19
 cancel_rate_pct: 22.07
 categories: ["Profession & Job"]
 listed_since: "2018-07-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/icmo-7500/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Internet Cash Machine Online - von Gunnar Kessler
 
 > Product ID `26706` · Digistore24 productId `233565` · [HTML profile page](../../produkte/internet-cash-machine-online-von-gunnar-kessler-26706.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $275.77 (Single payment) |
+| Price | $276.26 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $129.28 |
+| Earnings/sale* | $129.51 |
 | Cart conversion* | 19% |
 | Cancel rate* | 22.07% |
 | Vendor | GTK-littlefreilich |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Internet Cash Machine Online - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-07-17
-- Wie viel kostet es? — 275.768458 USD
+- Wie viel kostet es? — 276.261518 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 674475
 title: "Bitcoin Einsteiger E-Book – 70 % Affiliate Provision"
 vendor: "gluecksschmiedef9e2"
 product_type: "E-books"
-price: 31.25
+price: 31.31
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 21.88
+earnings_per_sale: 21.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/674475?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bitcoin Einsteiger E-Book – 70 % Affiliate Provision
 
 > Product ID `55993` · Digistore24 productId `674475` · [HTML profile page](../../produkte/bitcoin-einsteiger-e-book-70-affiliate-provision-55993.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.25 (Single payment) |
+| Price | $31.31 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $21.88 |
+| Earnings/sale* | $21.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gluecksschmiedef9e2 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bitcoin Einsteiger E-Book – 70 % Affiliate Provision? — Typ: E-books, Anbieter: gluecksschmiedef9e2, gelistet seit 2026-03-07
-- Wie viel kostet es? — 31.253684000000003 USD
+- Wie viel kostet es? — 31.309564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

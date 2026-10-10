@@ -4,15 +4,15 @@ digistore24_product_id: 654187
 title: "Wachstumsmarkt Parkinson – werde Partner unserer Bücher."
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 62.62
+price: 62.73
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 12.53
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/654187?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wachstumsmarkt Parkinson – werde Partner unserer Bücher.
 
 > Product ID `55155` · Digistore24 productId `654187` · [HTML profile page](../../produkte/wachstumsmarkt-parkinson-werde-partner-unserer-b-cher-55155.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $62.62 (Single payment) |
+| Price | $62.73 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $12.53 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wachstumsmarkt Parkinson – werde Partner unserer Bücher.? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-12-09
-- Wie viel kostet es? — 62.619228 USD
+- Wie viel kostet es? — 62.731187999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

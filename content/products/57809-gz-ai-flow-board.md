@@ -4,15 +4,15 @@ digistore24_product_id: 709579
 title: "GZ-AI. FLOW Board"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11
+earnings_per_sale: 11.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Office Organization"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.gz-ai-stacks.de/Flow-Board/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GZ-AI. FLOW Board
 
 > Product ID `57809` · Digistore24 productId `709579` · [HTML profile page](../../produkte/gz-ai-flow-board-57809.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.00 |
+| Earnings/sale* | $11.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GZ-AI. FLOW Board? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-30
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

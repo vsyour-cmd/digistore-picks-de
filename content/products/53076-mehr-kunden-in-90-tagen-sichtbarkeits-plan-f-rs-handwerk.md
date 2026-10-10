@@ -4,15 +4,15 @@ digistore24_product_id: 622102
 title: "Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk"
 vendor: "SOMEONMARKETING"
 product_type: "Downloads"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.41
+earnings_per_sale: 27.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.someonmarketing.com/sichtbarkeits-plan/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk
 
 > Product ID `53076` · Digistore24 productId `622102` · [HTML profile page](../../produkte/mehr-kunden-in-90-tagen-sichtbarkeits-plan-f-rs-handwerk-53076.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.41 |
+| Earnings/sale* | $27.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOMEONMARKETING |
@@ -107,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk? — Typ: Downloads, Anbieter: SOMEONMARKETING, gelistet seit 2025-07-03
-- Wie viel kostet es? — 54.8114 USD
+- Wie viel kostet es? — 54.909400000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

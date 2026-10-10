@@ -4,15 +4,15 @@ digistore24_product_id: 634143
 title: "Freiheitssystem Masterclass"
 vendor: "online-sales"
 product_type: "Member area and video courses"
-price: 338.4
+price: 339
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 203.04
+earnings_per_sale: 203.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Freiheitssystem Masterclass
 
 > Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../produkte/freiheitssystem-masterclass-53885.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $338.40 (Single payment, Installment) |
+| Price | $339.00 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $203.04 |
+| Earnings/sale* | $203.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | online-sales |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freiheitssystem Masterclass? — Typ: Member area and video courses, Anbieter: online-sales, gelistet seit 2025-09-06
-- Wie viel kostet es? — 338.398872 USD
+- Wie viel kostet es? — 339.003912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

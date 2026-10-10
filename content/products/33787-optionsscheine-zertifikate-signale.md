@@ -4,15 +4,15 @@ digistore24_product_id: 264879
 title: "Optionsscheine & Zertifikate Signale"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 207.58
+price: 207.95
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 64.06
+earnings_per_sale: 64.18
 cart_conversion_pct: 6
 cancel_rate_pct: 8.42
 categories: ["Trading Products"]
 listed_since: "2019-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/knock-out-handelssignale/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Optionsscheine & Zertifikate Signale
 
 > Product ID `33787` · Digistore24 productId `264879` · [HTML profile page](../../produkte/optionsscheine-zertifikate-signale-33787.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $207.58 (Subscription) |
+| Price | $207.95 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $64.06 |
+| Earnings/sale* | $64.18 |
 | Cart conversion* | 6% |
 | Cancel rate* | 8.42% |
 | Vendor | kagels-trading |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Optionsscheine & Zertifikate Signale? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2019-03-21
-- Wie viel kostet es? — 207.578602 USD
+- Wie viel kostet es? — 207.949742 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

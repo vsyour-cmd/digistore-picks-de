@@ -4,15 +4,15 @@ digistore24_product_id: 571579
 title: "spryfuel® ResonanceX - Der beste Frequenz-Kopfhörer"
 vendor: "Insider-Media"
 product_type: "Deliverable"
-price: 278.53
+price: 279.03
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 41.78
+earnings_per_sale: 41.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Skin Care"]
 listed_since: "2024-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.spryfuel.com/frequenz-kopfhoerer/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # spryfuel® ResonanceX - Der beste Frequenz-Kopfhörer
 
 > Product ID `50618` · Digistore24 productId `571579` · [HTML profile page](../../produkte/spryfuel-resonancex-der-beste-frequenz-kopfh-rer-50618.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $278.53 (Single payment) |
+| Price | $279.03 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $41.78 |
+| Earnings/sale* | $41.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist spryfuel® ResonanceX - Der beste Frequenz-Kopfhörer? — Typ: Deliverable, Anbieter: Insider-Media, gelistet seit 2024-09-21
-- Wie viel kostet es? — 278.5314 USD
+- Wie viel kostet es? — 279.0294 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

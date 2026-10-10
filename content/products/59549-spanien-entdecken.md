@@ -4,15 +4,15 @@ digistore24_product_id: 736190
 title: "Spanien entdecken"
 vendor: "blockchainmediagroupes"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.8
+earnings_per_sale: 7.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/736190?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Spanien entdecken
 
 > Product ID `59549` · Digistore24 productId `736190` · [HTML profile page](../../produkte/spanien-entdecken-59549.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.80 |
+| Earnings/sale* | $7.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blockchainmediagroupes |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spanien entdecken? — Typ: E-books, Anbieter: blockchainmediagroupes, gelistet seit 2026-09-22
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

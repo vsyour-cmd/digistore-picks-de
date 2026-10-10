@@ -4,15 +4,15 @@ digistore24_product_id: 530328
 title: "Family Bootcamp"
 vendor: "flavioni"
 product_type: "Online coaching"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 13.96
+earnings_per_sale: 13.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Profession & Job"]
 listed_since: "2023-12-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/530328?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Family Bootcamp
 
 > Product ID `47865` · Digistore24 productId `530328` · [HTML profile page](../../produkte/family-bootcamp-47865.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $93.06 (Subscription) |
+| Price | $93.22 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $13.96 |
+| Earnings/sale* | $13.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | flavioni |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Family Bootcamp? — Typ: Online coaching, Anbieter: flavioni, gelistet seit 2023-12-18
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

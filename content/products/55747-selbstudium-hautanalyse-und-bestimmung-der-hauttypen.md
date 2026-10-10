@@ -4,7 +4,7 @@ digistore24_product_id: 671945
 title: "Selbstudium Hautanalyse und Bestimmung der Hauttypen"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 28.2
+price: 28.25
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.82
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/671945?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstudium Hautanalyse und Bestimmung der Hauttypen
 
 > Product ID `55747` · Digistore24 productId `671945` · [HTML profile page](../../produkte/selbstudium-hautanalyse-und-bestimmung-der-hauttypen-55747.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.20 (Single payment) |
+| Price | $28.25 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstudium Hautanalyse und Bestimmung der Hauttypen? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-26
-- Wie viel kostet es? — 28.199906000000002 USD
+- Wie viel kostet es? — 28.250326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 700100
 title: "Dein entspannter Start  in die Welpenerziehung"
 vendor: "sortner1f14b"
 product_type: "E-books"
-price: 39.21
+price: 39.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 15.68
+earnings_per_sale: 15.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Animals & Pets"]
 listed_since: "2026-06-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/700100?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein entspannter Start  in die Welpenerziehung
 
 > Product ID `56859` · Digistore24 productId `700100` · [HTML profile page](../../produkte/dein-entspannter-start-in-die-welpenerziehung-56859.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.21 (Single payment) |
+| Price | $39.28 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $15.68 |
+| Earnings/sale* | $15.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sortner1f14b |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein entspannter Start  in die Welpenerziehung? — Typ: E-books, Anbieter: sortner1f14b, gelistet seit 2026-06-11
-- Wie viel kostet es? — 39.20693 USD
+- Wie viel kostet es? — 39.277029999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

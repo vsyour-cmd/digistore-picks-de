@@ -4,15 +4,15 @@ digistore24_product_id: 687248
 title: "Nebenkostenabrechnung und -verwaltung für Vermieter"
 vendor: "PanoramaBizz"
 product_type: "Software"
-price: 75.1
+price: 75.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.55
+earnings_per_sale: 37.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nebenkosten-guru.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nebenkostenabrechnung und -verwaltung für Vermieter
 
 > Product ID `57399` · Digistore24 productId `687248` · [HTML profile page](../../produkte/nebenkostenabrechnung-und-verwaltung-f-r-vermieter-57399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.10 (Single payment) |
+| Price | $75.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.55 |
+| Earnings/sale* | $37.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PanoramaBizz |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nebenkostenabrechnung und -verwaltung für Vermieter? — Typ: Software, Anbieter: PanoramaBizz, gelistet seit 2026-07-04
-- Wie viel kostet es? — 75.102804 USD
+- Wie viel kostet es? — 75.23708400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

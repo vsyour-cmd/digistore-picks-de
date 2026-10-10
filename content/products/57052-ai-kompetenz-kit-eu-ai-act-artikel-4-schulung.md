@@ -4,15 +4,15 @@ digistore24_product_id: 702019
 title: "AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung"
 vendor: "svenpetercontacteb58"
 product_type: "Member area and video courses"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.35
+earnings_per_sale: 35.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Law & Justice"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ai-kompetenz-kit.de/kit?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung
 
 > Product ID `57052` · Digistore24 productId `702019` · [HTML profile page](../../produkte/ai-kompetenz-kit-eu-ai-act-artikel-4-schulung-57052.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.35 |
+| Earnings/sale* | $35.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | svenpetercontacteb58 |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung? — Typ: Member area and video courses, Anbieter: svenpetercontacteb58, gelistet seit 2026-06-18
-- Wie viel kostet es? — 88.3694 USD
+- Wie viel kostet es? — 88.5274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 546649
 title: "KI Online Kurs Masterclass"
 vendor: "webpirat"
 product_type: "Member area and video courses"
-price: 0.88
+price: 0.89
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0.34
@@ -12,7 +12,7 @@ cart_conversion_pct: 36
 cancel_rate_pct: 1.05
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/ki-online-kurs-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # KI Online Kurs Masterclass
 
 > Product ID `47705` · Digistore24 productId `546649` · [HTML profile page](../../produkte/ki-online-kurs-masterclass-47705.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $0.88 (Single payment) |
+| Price | $0.89 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 36% |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Online Kurs Masterclass? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2024-04-03
-- Wie viel kostet es? — 0.8836940000000001 USD
+- Wie viel kostet es? — 0.8852740000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 88413
 title: "Entspannungs- Komplettset - Autogenes Training"
 vendor: "AutogenesTraining"
 product_type: "Downloads"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.06
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2016-07-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.autogenes-training-coach.de/entspannungs-komplettpaket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Entspannungs- Komplettset - Autogenes Training
 
 > Product ID `12311` · Digistore24 productId `88413` · [HTML profile page](../../produkte/entspannungs-komplettset-autogenes-training-12311.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.06 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AutogenesTraining |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entspannungs- Komplettset - Autogenes Training? — Typ: Downloads, Anbieter: AutogenesTraining, gelistet seit 2016-07-19
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

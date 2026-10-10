@@ -4,15 +4,15 @@ digistore24_product_id: 682669
 title: "Ebook - Der Kuss"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-04-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682669?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Der Kuss
 
 > Product ID `56265` · Digistore24 productId `682669` · [HTML profile page](../../produkte/ebook-der-kuss-56265.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Der Kuss? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-07
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

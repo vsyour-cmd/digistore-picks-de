@@ -4,15 +4,15 @@ digistore24_product_id: 470151
 title: "Affiliate Kumpel"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 279.46
+price: 279.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.86
+earnings_per_sale: 24.9
 cart_conversion_pct: 3
 cancel_rate_pct: 1.65
 categories: ["Profession & Job"]
 listed_since: "2022-11-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.icbclub.de/affiliate-kumpel-deal?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Kumpel
 
 > Product ID `44126` · Digistore24 productId `470151` · [HTML profile page](../../produkte/affiliate-kumpel-44126.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.46 (Single payment) |
+| Price | $279.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.86 |
+| Earnings/sale* | $24.90 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.65% |
 | Vendor | seotech |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Kumpel? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2022-11-16
-- Wie viel kostet es? — 279.45983800000005 USD
+- Wie viel kostet es? — 279.959498 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

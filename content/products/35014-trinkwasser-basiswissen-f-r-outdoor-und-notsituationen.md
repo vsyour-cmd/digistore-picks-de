@@ -4,15 +4,15 @@ digistore24_product_id: 361856
 title: "Trinkwasser Basiswissen für Outdoor und Notsituationen"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 23
+price: 23.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.5
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2020-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/trinkwasser/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trinkwasser Basiswissen für Outdoor und Notsituationen
 
 > Product ID `35014` · Digistore24 productId `361856` · [HTML profile page](../../produkte/trinkwasser-basiswissen-f-r-outdoor-und-notsituationen-35014.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.00 (Single payment) |
+| Price | $23.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.50 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trinkwasser Basiswissen für Outdoor und Notsituationen? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2020-12-08
-- Wie viel kostet es? — 22.998416 USD
+- Wie viel kostet es? — 23.039536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

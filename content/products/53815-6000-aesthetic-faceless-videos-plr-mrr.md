@@ -4,15 +4,15 @@ digistore24_product_id: 632791
 title: "6000+ Aesthetic Faceless Videos - PLR/MRR"
 vendor: "thefemininebusiness"
 product_type: "Downloads"
-price: 14.11
+price: 14.13
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media"]
 listed_since: "2025-08-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/632791?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 6000+ Aesthetic Faceless Videos - PLR/MRR
 
 > Product ID `53815` · Digistore24 productId `632791` · [HTML profile page](../../produkte/6000-aesthetic-faceless-videos-plr-mrr-53815.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.11 (Single payment) |
+| Price | $14.13 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thefemininebusiness |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 6000+ Aesthetic Faceless Videos - PLR/MRR? — Typ: Downloads, Anbieter: thefemininebusiness, gelistet seit 2025-08-30
-- Wie viel kostet es? — 14.105546 USD
+- Wie viel kostet es? — 14.130766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

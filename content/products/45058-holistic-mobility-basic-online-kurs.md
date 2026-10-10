@@ -4,15 +4,15 @@ digistore24_product_id: 512313
 title: "Holistic Mobility BASIC [Online Kurs]"
 vendor: "timboettner"
 product_type: "Member area and video courses"
-price: 930.6
+price: 932.26
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 93.06
+earnings_per_sale: 93.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512313?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Holistic Mobility BASIC [Online Kurs]
 
 > Product ID `45058` · Digistore24 productId `512313` · [HTML profile page](../../produkte/holistic-mobility-basic-online-kurs-45058.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $930.60 (Subscription) |
+| Price | $932.26 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $93.06 |
+| Earnings/sale* | $93.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | timboettner |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Holistic Mobility BASIC [Online Kurs]? — Typ: Member area and video courses, Anbieter: timboettner, gelistet seit 2023-08-17
-- Wie viel kostet es? — 930.596898 USD
+- Wie viel kostet es? — 932.260758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

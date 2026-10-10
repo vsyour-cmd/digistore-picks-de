@@ -4,7 +4,7 @@ digistore24_product_id: 741367
 title: "ChatGPT ADS Blueprint"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 5.22
+price: 5.23
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.53
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/5kae6oPtqE3R5eoub?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # ChatGPT ADS Blueprint
 
 > Product ID `60165` · Digistore24 productId `741367` · [HTML profile page](../../produkte/chatgpt-ads-blueprint-60165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.22 (Single payment) |
+| Price | $5.23 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.53 |
 | Cart conversion* | — |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT ADS Blueprint? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2026-10-04
-- Wie viel kostet es? — 5.2238620000000004 USD
+- Wie viel kostet es? — 5.233202 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

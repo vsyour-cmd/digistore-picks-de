@@ -4,15 +4,15 @@ digistore24_product_id: 737377
 title: "GUITestStudio – Testautomatisierung für Windows-Anwendunng"
 vendor: "inspiredsoftware"
 product_type: "Software"
-price: 781.9
+price: 783.3
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 312.76
+earnings_per_sale: 313.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.inspiredsoftware.de/go/guiteststudio?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GUITestStudio – Testautomatisierung für Windows-Anwendunng
 
 > Product ID `60092` · Digistore24 productId `737377` · [HTML profile page](../../produkte/guiteststudio-testautomatisierung-f-r-windows-anwendunng-60092.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $781.90 (Single payment) |
+| Price | $783.30 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $312.76 |
+| Earnings/sale* | $313.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | inspiredsoftware |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GUITestStudio – Testautomatisierung für Windows-Anwendunng? — Typ: Software, Anbieter: inspiredsoftware, gelistet seit 2026-10-01
-- Wie viel kostet es? — 781.9014000000001 USD
+- Wie viel kostet es? — 783.2994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

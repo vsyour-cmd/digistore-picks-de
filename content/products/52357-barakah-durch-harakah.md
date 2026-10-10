@@ -4,15 +4,15 @@ digistore24_product_id: 607131
 title: "Barakah durch Harakah"
 vendor: "Indira_bdh"
 product_type: "Member area and video courses"
-price: 233.62
+price: 234.04
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 97.71
+earnings_per_sale: 97.88
 cart_conversion_pct: 1
 cancel_rate_pct: 2.64
 categories: ["Education","Online Marketing"]
 listed_since: "2025-04-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/607131?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Barakah durch Harakah
 
 > Product ID `52357` · Digistore24 productId `607131` · [HTML profile page](../../produkte/barakah-durch-harakah-52357.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $233.62 (Single payment, Installment) |
+| Price | $234.04 (Single payment, Installment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $97.71 |
+| Earnings/sale* | $97.88 |
 | Cart conversion* | 1% |
 | Cancel rate* | 2.64% |
 | Vendor | Indira_bdh |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Barakah durch Harakah? — Typ: Member area and video courses, Anbieter: Indira_bdh, gelistet seit 2025-04-13
-- Wie viel kostet es? — 233.61961 USD
+- Wie viel kostet es? — 234.03731 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

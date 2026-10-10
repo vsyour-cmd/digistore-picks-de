@@ -4,15 +4,15 @@ digistore24_product_id: 362484
 title: "App Cash System"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 219.12
+price: 219.51
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 155.44
+earnings_per_sale: 155.72
 cart_conversion_pct: 8
 cancel_rate_pct: 2.03
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2020-12-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://app-cash-system.de/start-vsl-1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # App Cash System
 
 > Product ID `35834` · Digistore24 productId `362484` · [HTML profile page](../../produkte/app-cash-system-35834.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $219.12 (Single payment) |
+| Price | $219.51 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $155.44 |
+| Earnings/sale* | $155.72 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.03% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist App Cash System? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2020-12-12
-- Wie viel kostet es? — 219.12255399999998 USD
+- Wie viel kostet es? — 219.514334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

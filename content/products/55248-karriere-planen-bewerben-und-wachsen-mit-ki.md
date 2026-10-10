@@ -4,15 +4,15 @@ digistore24_product_id: 662111
 title: "Karriere planen, bewerben und wachsen – mit KI"
 vendor: "JoergJanssen_KI"
 product_type: "Member area and video courses"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.28
+earnings_per_sale: 22.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2026-01-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ai-tribe.de/ki-karriere-kick-onlinekurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Karriere planen, bewerben und wachsen – mit KI
 
 > Product ID `55248` · Digistore24 productId `662111` · [HTML profile page](../../produkte/karriere-planen-bewerben-und-wachsen-mit-ki-55248.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.26 (Single payment) |
+| Price | $74.40 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.28 |
+| Earnings/sale* | $22.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JoergJanssen_KI |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Karriere planen, bewerben und wachsen – mit KI? — Typ: Member area and video courses, Anbieter: JoergJanssen_KI, gelistet seit 2026-01-17
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

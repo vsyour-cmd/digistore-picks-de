@@ -4,15 +4,15 @@ digistore24_product_id: 664061
 title: "SPS Das Copy-Paste Prinzip"
 vendor: "SalesPalsSystems"
 product_type: "Downloads"
-price: 258.5
+price: 258.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 129.25
+earnings_per_sale: 129.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Marketing Services"]
 listed_since: "2026-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/664061?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SPS Das Copy-Paste Prinzip
 
 > Product ID `55326` · Digistore24 productId `664061` · [HTML profile page](../../produkte/sps-das-copy-paste-prinzip-55326.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $258.50 (Single payment) |
+| Price | $258.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $129.25 |
+| Earnings/sale* | $129.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SalesPalsSystems |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SPS Das Copy-Paste Prinzip? — Typ: Downloads, Anbieter: SalesPalsSystems, gelistet seit 2026-01-25
-- Wie viel kostet es? — 258.497274 USD
+- Wie viel kostet es? — 258.959454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

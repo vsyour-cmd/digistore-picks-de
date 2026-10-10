@@ -4,15 +4,15 @@ digistore24_product_id: 101703
 title: "Passiver Geldfluss Academy"
 vendor: "Hegder"
 product_type: "Member area and video courses"
-price: 32.9
+price: 32.96
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.87
+earnings_per_sale: 9.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://passivergeldfluss.academy?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Passiver Geldfluss Academy
 
 > Product ID `14313` · Digistore24 productId `101703` · [HTML profile page](../../produkte/passiver-geldfluss-academy-14313.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.90 (Subscription) |
+| Price | $32.96 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.87 |
+| Earnings/sale* | $9.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hegder |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passiver Geldfluss Academy? — Typ: Member area and video courses, Anbieter: Hegder, gelistet seit 2016-10-27
-- Wie viel kostet es? — 32.898026 USD
+- Wie viel kostet es? — 32.956846 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

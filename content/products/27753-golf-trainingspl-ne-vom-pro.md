@@ -4,15 +4,15 @@ digistore24_product_id: 256260
 title: "Golf Trainingspläne vom Pro"
 vendor: "hinmed"
 product_type: "E-books"
-price: 82.59
+price: 82.73
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 12.38
+earnings_per_sale: 12.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-01-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.golf-trainingsplan.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Golf Trainingspläne vom Pro
 
 > Product ID `27753` · Digistore24 productId `256260` · [HTML profile page](../../produkte/golf-trainingspl-ne-vom-pro-27753.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.59 (Single payment) |
+| Price | $82.73 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $12.38 |
+| Earnings/sale* | $12.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Golf Trainingspläne vom Pro? — Typ: E-books, Anbieter: hinmed, gelistet seit 2019-01-14
-- Wie viel kostet es? — 82.586238 USD
+- Wie viel kostet es? — 82.733898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

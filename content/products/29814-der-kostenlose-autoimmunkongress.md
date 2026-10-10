@@ -4,15 +4,15 @@ digistore24_product_id: 267630
 title: "DER KOSTENLOSE AUTOIMMUNKONGRESS"
 vendor: "autoimmunportal"
 product_type: "Member area and video courses"
-price: 53.58
+price: 53.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.79
+earnings_per_sale: 26.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-04-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/autoimmunkongress/wissenspaket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE AUTOIMMUNKONGRESS
 
 > Product ID `29814` · Digistore24 productId `267630` · [HTML profile page](../../produkte/der-kostenlose-autoimmunkongress-29814.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $53.58 (Single payment, Installment) |
+| Price | $53.68 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.79 |
+| Earnings/sale* | $26.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | autoimmunportal |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE AUTOIMMUNKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2019-04-11
-- Wie viel kostet es? — 53.58094 USD
+- Wie viel kostet es? — 53.67674 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

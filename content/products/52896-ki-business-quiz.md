@@ -7,12 +7,12 @@ product_type: "Member area and video courses"
 price: 2.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.07
+earnings_per_sale: 8.08
 cart_conversion_pct: 18
 cancel_rate_pct: 5.21
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # KI-Business-Quiz
 
 > Product ID `52896` · Digistore24 productId `611742` · [HTML profile page](../../produkte/ki-business-quiz-52896.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $2.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.07 |
+| Earnings/sale* | $8.08 |
 | Cart conversion* | 18% |
 | Cancel rate* | 5.21% |
 | Vendor | ReneAktivNetz |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Business-Quiz? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-09
-- Wie viel kostet es? — 2.9754760000000005 USD
+- Wie viel kostet es? — 2.9807960000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 275358
 title: "IK-Jahres-ePaper-Abo"
 vendor: "IbizaKurier"
 product_type: "Downloads"
-price: 111.3
+price: 111.5
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 16
 cancel_rate_pct: 1.65
 categories: ["Travel & Culture"]
 listed_since: "2019-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ibizakurier.de/epaper/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # IK-Jahres-ePaper-Abo
 
 > Product ID `29929` · Digistore24 productId `275358` · [HTML profile page](../../produkte/ik-jahres-epaper-abo-29929.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $111.30 (Subscription) |
+| Price | $111.50 (Subscription) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 16% |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist IK-Jahres-ePaper-Abo? — Typ: Downloads, Anbieter: IbizaKurier, gelistet seit 2019-06-12
-- Wie viel kostet es? — 111.3007 USD
+- Wie viel kostet es? — 111.4997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

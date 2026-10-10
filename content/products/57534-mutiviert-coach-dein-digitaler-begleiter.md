@@ -4,7 +4,7 @@ digistore24_product_id: 710169
 title: "MUTiviert Coach - Dein digitaler Begleiter"
 vendor: "coachd535"
 product_type: "Member area and video courses"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/710169?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # MUTiviert Coach - Dein digitaler Begleiter
 
 > Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../produkte/mutiviert-coach-dein-digitaler-begleiter-57534.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.39 (Subscription) |
+| Price | $9.40 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MUTiviert Coach - Dein digitaler Begleiter? — Typ: Member area and video courses, Anbieter: coachd535, gelistet seit 2026-07-14
-- Wie viel kostet es? — 9.385054 USD
+- Wie viel kostet es? — 9.401834000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

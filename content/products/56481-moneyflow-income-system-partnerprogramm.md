@@ -4,15 +4,15 @@ digistore24_product_id: 620218
 title: "Moneyflow Income System | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 473.5
+price: 474.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 257.48
+earnings_per_sale: 257.94
 cart_conversion_pct: 5
 cancel_rate_pct: 2.83
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/620218/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Moneyflow Income System | Partnerprogramm
 
 > Product ID `56481` · Digistore24 productId `620218` · [HTML profile page](../../produkte/moneyflow-income-system-partnerprogramm-56481.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $473.50 (Single payment, Installment) |
+| Price | $474.35 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $257.48 |
+| Earnings/sale* | $257.94 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.83% |
 | Vendor | profitbuddies |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Moneyflow Income System | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2025-06-23
-- Wie viel kostet es? — 473.50338000000005 USD
+- Wie viel kostet es? — 474.34998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

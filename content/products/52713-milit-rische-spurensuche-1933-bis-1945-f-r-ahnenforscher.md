@@ -4,7 +4,7 @@ digistore24_product_id: 615255
 title: "Militärische Spurensuche 1933 bis 1945 für Ahnenforscher"
 vendor: "tiamana"
 product_type: "Downloads"
-price: 8.3
+price: 8.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,7 +12,7 @@ cart_conversion_pct: 4
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Hobby & Craft"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://welt-der-vorfahren.de/opa-im-krieg-militaerische-spurensuche-spickzettel/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Militärische Spurensuche 1933 bis 1945 für Ahnenforscher
 
 > Product ID `52713` · Digistore24 productId `615255` · [HTML profile page](../../produkte/milit-rische-spurensuche-1933-bis-1945-f-r-ahnenforscher-52713.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.30 (Single payment) |
+| Price | $8.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | 4% |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Militärische Spurensuche 1933 bis 1945 für Ahnenforscher? — Typ: Downloads, Anbieter: tiamana, gelistet seit 2025-05-27
-- Wie viel kostet es? — 8.300012 USD
+- Wie viel kostet es? — 8.314852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

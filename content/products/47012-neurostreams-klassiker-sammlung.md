@@ -4,15 +4,15 @@ digistore24_product_id: 588998
 title: "Neurostreams™ KLASSIKER (Sammlung)"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 97.75
+price: 97.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.88
+earnings_per_sale: 48.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-01-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/klassiker/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ KLASSIKER (Sammlung)
 
 > Product ID `47012` · Digistore24 productId `588998` · [HTML profile page](../../produkte/neurostreams-klassiker-sammlung-47012.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $97.75 (Single payment, Installment) |
+| Price | $97.93 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.88 |
+| Earnings/sale* | $48.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ KLASSIKER (Sammlung)? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2025-01-06
-- Wie viel kostet es? — 97.75445400000001 USD
+- Wie viel kostet es? — 97.92923400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

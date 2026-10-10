@@ -4,15 +4,15 @@ digistore24_product_id: 681541
 title: "Hausaufgaben ohne Tränen"
 vendor: "Grundschulabitur"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/681541?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hausaufgaben ohne Tränen
 
 > Product ID `58278` · Digistore24 productId `681541` · [HTML profile page](../../produkte/hausaufgaben-ohne-tr-nen-58278.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Grundschulabitur |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hausaufgaben ohne Tränen? — Typ: E-books, Anbieter: Grundschulabitur, gelistet seit 2026-08-11
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

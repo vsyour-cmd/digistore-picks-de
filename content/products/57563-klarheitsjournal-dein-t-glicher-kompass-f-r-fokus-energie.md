@@ -4,15 +4,15 @@ digistore24_product_id: 559233
 title: "Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie"
 vendor: "DrSilviaSchaefer"
 product_type: "E-books"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.29
+earnings_per_sale: 11.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Leadership & Management"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://silviaschaefer.com/klarheitsjournal/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie
 
 > Product ID `57563` · Digistore24 productId `559233` · [HTML profile page](../../produkte/klarheitsjournal-dein-t-glicher-kompass-f-r-fokus-energie-57563.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.29 |
+| Earnings/sale* | $11.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrSilviaSchaefer |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie? — Typ: E-books, Anbieter: DrSilviaSchaefer, gelistet seit 2026-07-16
-- Wie viel kostet es? — 28.222278000000003 USD
+- Wie viel kostet es? — 28.272738 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

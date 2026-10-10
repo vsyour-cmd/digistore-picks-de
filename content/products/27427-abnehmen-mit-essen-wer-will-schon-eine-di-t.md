@@ -4,15 +4,15 @@ digistore24_product_id: 252613
 title: "Abnehmen mit Essen! Wer will schon eine Diät..."
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 8.36
+price: 8.37
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.01
+earnings_per_sale: 5.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2018-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/252613?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmen mit Essen! Wer will schon eine Diät...
 
 > Product ID `27427` · Digistore24 productId `252613` · [HTML profile page](../../produkte/abnehmen-mit-essen-wer-will-schon-eine-di-t-27427.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.36 (Single payment) |
+| Price | $8.37 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.01 |
+| Earnings/sale* | $5.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen mit Essen! Wer will schon eine Diät...? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2018-12-14
-- Wie viel kostet es? — 8.355942 USD
+- Wie viel kostet es? — 8.370882 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

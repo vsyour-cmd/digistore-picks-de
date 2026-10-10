@@ -4,15 +4,15 @@ digistore24_product_id: 407027
 title: "DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN"
 vendor: "HarshaGramminger"
 product_type: "Member area and video courses"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.23
+earnings_per_sale: 37.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN
 
 > Product ID `38015` · Digistore24 productId `407027` · [HTML profile page](../../produkte/detox-your-life-vital-gesund-in-7-tagen-38015.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.23 |
+| Earnings/sale* | $37.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HarshaGramminger |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN? — Typ: Member area and video courses, Anbieter: HarshaGramminger, gelistet seit 2021-09-13
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

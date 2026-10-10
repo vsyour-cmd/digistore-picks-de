@@ -4,7 +4,7 @@ digistore24_product_id: 655261
 title: "The Deep Reset - Entlastung für Körper und Seele"
 vendor: "ErikaSchmid"
 product_type: "Downloads"
-price: 20.83
+price: 20.87
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.67
@@ -12,7 +12,7 @@ cart_conversion_pct: 3
 cancel_rate_pct: 4.51
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/655261?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # The Deep Reset - Entlastung für Körper und Seele
 
 > Product ID `54997` · Digistore24 productId `655261` · [HTML profile page](../../produkte/the-deep-reset-entlastung-f-r-k-rper-und-seele-54997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.83 (Single payment) |
+| Price | $20.87 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.67 |
 | Cart conversion* | 3% |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Deep Reset - Entlastung für Körper und Seele? — Typ: Downloads, Anbieter: ErikaSchmid, gelistet seit 2025-12-13
-- Wie viel kostet es? — 20.828332000000003 USD
+- Wie viel kostet es? — 20.865572 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 411354
 title: "Schluss mit Fremdbestimmung [Buch]"
 vendor: "mitherzundpferd"
 product_type: "Book (printed)"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.8
+earnings_per_sale: 7.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-10-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.mitherzundpferd.de/buch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schluss mit Fremdbestimmung [Buch]
 
 > Product ID `42465` · Digistore24 productId `411354` · [HTML profile page](../../produkte/schluss-mit-fremdbestimmung-buch-42465.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.80 |
+| Earnings/sale* | $7.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mitherzundpferd |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Fremdbestimmung [Buch]? — Typ: Book (printed), Anbieter: mitherzundpferd, gelistet seit 2021-10-11
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

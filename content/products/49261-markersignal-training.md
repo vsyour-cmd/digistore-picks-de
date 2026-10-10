@@ -4,15 +4,15 @@ digistore24_product_id: 562078
 title: "Markersignal-Training"
 vendor: "Carola-Zilm"
 product_type: "Member area and video courses"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2024-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://carolazilm.com/effektives-training-mit-dem-markersignal?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Markersignal-Training
 
 > Product ID `49261` · Digistore24 productId `562078` · [HTML profile page](../../produkte/markersignal-training-49261.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Carola-Zilm |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Markersignal-Training? — Typ: Member area and video courses, Anbieter: Carola-Zilm, gelistet seit 2024-07-21
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

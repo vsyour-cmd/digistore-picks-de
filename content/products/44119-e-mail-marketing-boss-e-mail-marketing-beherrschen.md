@@ -4,15 +4,15 @@ digistore24_product_id: 482128
 title: "E-Mail-Marketing Boss - E-Mail-Marketing beherrschen"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 47.27
+price: 47.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.29
+earnings_per_sale: 17.32
 cart_conversion_pct: 7
 cancel_rate_pct: 0.22
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/emmb-vkslp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Mail-Marketing Boss - E-Mail-Marketing beherrschen
 
 > Product ID `44119` · Digistore24 productId `482128` · [HTML profile page](../../produkte/e-mail-marketing-boss-e-mail-marketing-beherrschen-44119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.27 (Single payment, Installment) |
+| Price | $47.36 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.29 |
+| Earnings/sale* | $17.32 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0.22% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Marketing Boss - E-Mail-Marketing beherrschen? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 47.272036 USD
+- Wie viel kostet es? — 47.356556 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

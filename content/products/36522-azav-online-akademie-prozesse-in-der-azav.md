@@ -4,15 +4,15 @@ digistore24_product_id: 384784
 title: "AZAV Online-Akademie - Prozesse in der AZAV"
 vendor: "UrsulaWienken"
 product_type: "Webinar"
-price: 149.46
+price: 149.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 44.83
+earnings_per_sale: 44.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Leadership & Management"]
 listed_since: "2021-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AZAV Online-Akademie - Prozesse in der AZAV
 
 > Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $149.46 (Single payment) |
+| Price | $149.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $44.83 |
+| Earnings/sale* | $44.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UrsulaWienken |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AZAV Online-Akademie - Prozesse in der AZAV? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-04-15
-- Wie viel kostet es? — 149.45614600000002 USD
+- Wie viel kostet es? — 149.72336600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

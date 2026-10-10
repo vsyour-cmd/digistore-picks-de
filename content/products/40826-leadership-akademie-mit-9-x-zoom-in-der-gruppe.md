@@ -4,15 +4,15 @@ digistore24_product_id: 401127
 title: "Leadership-Akademie mit 9 x Zoom in der Gruppe"
 vendor: "MENSCHLICHERFOLGREICH"
 product_type: "Member area and video courses"
-price: 2483.29
+price: 2487.73
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 248.33
+earnings_per_sale: 248.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://online-akademie.angela-dietz.de/?page_id=7960&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Leadership-Akademie mit 9 x Zoom in der Gruppe
 
 > Product ID `40826` · Digistore24 productId `401127` · [HTML profile page](../../produkte/leadership-akademie-mit-9-x-zoom-in-der-gruppe-40826.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2483.29 (Single payment, Installment) |
+| Price | $2487.73 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $248.33 |
+| Earnings/sale* | $248.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MENSCHLICHERFOLGREICH |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadership-Akademie mit 9 x Zoom in der Gruppe? — Typ: Member area and video courses, Anbieter: MENSCHLICHERFOLGREICH, gelistet seit 2021-08-05
-- Wie viel kostet es? — 2483.292 USD
+- Wie viel kostet es? — 2487.732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

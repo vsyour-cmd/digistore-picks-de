@@ -4,7 +4,7 @@ digistore24_product_id: 640932
 title: "Fortbildung (Dr. M. Wengenroth) \"Erschöpfung und Entzündung\""
 vendor: "MartinaWengenroth"
 product_type: "Member area and video courses"
-price: 387.99
+price: 388.68
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 1.12
@@ -12,7 +12,7 @@ cart_conversion_pct: 2
 cancel_rate_pct: 3.2
 categories: ["Health & Fitness"]
 listed_since: "2025-10-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Fortbildung (Dr. M. Wengenroth) "Erschöpfung und Entzündung"
 
 > Product ID `54481` · Digistore24 productId `640932` · [HTML profile page](../../produkte/fortbildung-dr-m-wengenroth-ersch-pfung-und-entz-ndung-54481.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $387.99 (Single payment) |
+| Price | $388.68 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $1.12 |
 | Cart conversion* | 2% |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fortbildung (Dr. M. Wengenroth) "Erschöpfung und Entzündung"? — Typ: Member area and video courses, Anbieter: MartinaWengenroth, gelistet seit 2025-10-12
-- Wie viel kostet es? — 387.98641000000003 USD
+- Wie viel kostet es? — 388.68011 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

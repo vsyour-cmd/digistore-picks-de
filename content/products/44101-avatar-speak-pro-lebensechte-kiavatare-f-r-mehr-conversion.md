@@ -4,15 +4,15 @@ digistore24_product_id: 497890
 title: "Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion"
 vendor: "sattelitevendor"
 product_type: "Software"
-price: 262.26
+price: 262.72
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 104.9
+earnings_per_sale: 105.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.avatarspeakpro.com/go/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion
 
 > Product ID `44101` · Digistore24 productId `497890` · [HTML profile page](../../produkte/avatar-speak-pro-lebensechte-kiavatare-f-r-mehr-conversion-44101.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $262.26 (Single payment) |
+| Price | $262.72 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $104.90 |
+| Earnings/sale* | $105.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion? — Typ: Software, Anbieter: sattelitevendor, gelistet seit 2023-05-08
-- Wie viel kostet es? — 262.25577 USD
+- Wie viel kostet es? — 262.72467 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

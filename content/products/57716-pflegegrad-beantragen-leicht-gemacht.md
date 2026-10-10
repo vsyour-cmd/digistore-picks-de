@@ -4,15 +4,15 @@ digistore24_product_id: 706444
 title: "Pflegegrad beantragen leicht gemacht"
 vendor: "PflegekommpassAutismusRecht"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.62
+earnings_per_sale: 7.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/706444?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pflegegrad beantragen leicht gemacht
 
 > Product ID `57716` · Digistore24 productId `706444` · [HTML profile page](../../produkte/pflegegrad-beantragen-leicht-gemacht-57716.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.62 |
+| Earnings/sale* | $7.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PflegekommpassAutismusRecht |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pflegegrad beantragen leicht gemacht? — Typ: Downloads, Anbieter: PflegekommpassAutismusRecht, gelistet seit 2026-07-24
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

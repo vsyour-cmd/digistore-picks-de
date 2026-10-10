@@ -4,15 +4,15 @@ digistore24_product_id: 423371
 title: "Selbstgeführte Stadtrallye Bamberg | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 34.35
+price: 34.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.03
+earnings_per_sale: 8.05
 cart_conversion_pct: 8
 cancel_rate_pct: 1.13
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2022-01-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-bamberg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Bamberg | Hint-Caching
 
 > Product ID `51137` · Digistore24 productId `423371` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-bamberg-hint-caching-51137.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.35 (Single payment) |
+| Price | $34.41 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.03 |
+| Earnings/sale* | $8.05 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.13% |
 | Vendor | hintcaching |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Bamberg | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-01-05
-- Wie viel kostet es? — 34.352206 USD
+- Wie viel kostet es? — 34.413626 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

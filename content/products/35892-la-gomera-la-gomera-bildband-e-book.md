@@ -4,15 +4,15 @@ digistore24_product_id: 375691
 title: "LA GOMERA: La Gomera Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.66
+price: 14.69
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 2.95
+earnings_per_sale: 2.96
 cart_conversion_pct: 30
 cancel_rate_pct: 0.69
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2021-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/la-gomera-bildband/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LA GOMERA: La Gomera Bildband [E-Book]
 
 > Product ID `35892` · Digistore24 productId `375691` · [HTML profile page](../../produkte/la-gomera-la-gomera-bildband-e-book-35892.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.66 (Single payment) |
+| Price | $14.69 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $2.95 |
+| Earnings/sale* | $2.96 |
 | Cart conversion* | 30% |
 | Cancel rate* | 0.69% |
 | Vendor | rheinrost |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LA GOMERA: La Gomera Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2021-02-24
-- Wie viel kostet es? — 14.664846 USD
+- Wie viel kostet es? — 14.691066 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

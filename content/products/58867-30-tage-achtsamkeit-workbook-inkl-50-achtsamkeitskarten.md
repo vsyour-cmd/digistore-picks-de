@@ -4,15 +4,15 @@ digistore24_product_id: 728740
 title: "30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 28.16
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.26
+earnings_per_sale: 11.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten
 
 > Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../produkte/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.16 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.26 |
+| Earnings/sale* | $11.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 28.155162000000004 USD
+- Wie viel kostet es? — 28.205502000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

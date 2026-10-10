@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # [GRATIS BUCH] COACHING MILLIONÄR
 
 > Product ID `40321` · Digistore24 productId `445024` · [HTML profile page](../../produkte/gratis-buch-coaching-million-r-40321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

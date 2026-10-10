@@ -4,15 +4,15 @@ digistore24_product_id: 629200
 title: "Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen"
 vendor: "Freifone"
 product_type: "E-books"
-price: 34.44
+price: 34.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.23
+earnings_per_sale: 17.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2025-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/zurueck-ins-herz?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen
 
 > Product ID `53497` · Digistore24 productId `629200` · [HTML profile page](../../produkte/zur-ck-ins-herz-ex-partner-garantiert-zur-ckzugewinnen-53497.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $34.44 (Single payment) |
+| Price | $34.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.23 |
+| Earnings/sale* | $17.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-08-12
-- Wie viel kostet es? — 34.441694 USD
+- Wie viel kostet es? — 34.503274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

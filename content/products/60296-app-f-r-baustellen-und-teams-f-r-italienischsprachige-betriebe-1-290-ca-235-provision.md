@@ -4,15 +4,15 @@ digistore24_product_id: 741563
 title: "App für Baustellen und Teams für italienischsprachige Betriebe: 1.290 €, ca. 235 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 1442.99
+price: 1445.57
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 288.6
+earnings_per_sale: 289.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/squadre-e-cantieri?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # App für Baustellen und Teams für italienischsprachige Betriebe: 1.290 €, ca. 235 € Provision
 
 > Product ID `60296` · Digistore24 productId `741563` · [HTML profile page](../../produkte/app-f-r-baustellen-und-teams-f-r-italienischsprachige-betriebe-1-290-ca-235-provision-60296.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1442.99 (Single payment) |
+| Price | $1445.57 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $288.60 |
+| Earnings/sale* | $289.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist App für Baustellen und Teams für italienischsprachige Betriebe: 1.290 €, ca. 235 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 1442.9940000000001 USD
+- Wie viel kostet es? — 1445.574 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 90363
 title: "Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 5.5
+earnings_per_sale: 5.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)
 
 > Product ID `13005` · Digistore24 productId `90363` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-small-lizenz-1-stk-13005.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.66 (Subscription) |
+| Price | $36.72 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $5.50 |
+| Earnings/sale* | $5.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2016-08-06
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

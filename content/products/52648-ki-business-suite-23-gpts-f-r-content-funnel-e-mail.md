@@ -4,15 +4,15 @@ digistore24_product_id: 615669
 title: "KI Business Suite, 23 GPTs für Content, Funnel, E-Mail"
 vendor: "ReneAktivNetz"
 product_type: "Member area and video courses"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.63
+earnings_per_sale: 60.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-business-suite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Business Suite, 23 GPTs für Content, Funnel, E-Mail
 
 > Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../produkte/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.26 (Single payment, Installment) |
+| Price | $121.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.63 |
+| Earnings/sale* | $60.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReneAktivNetz |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Business Suite, 23 GPTs für Content, Funnel, E-Mail? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-29
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

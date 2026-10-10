@@ -4,15 +4,15 @@ digistore24_product_id: 723430
 title: "Websites & SEO für KMU weltweit: 30 % Provision"
 vendor: "astraios"
 product_type: "Remote service provided electronically"
-price: 1219.27
+price: 1221.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 365.78
+earnings_per_sale: 366.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://grodt.ch/ds24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Websites & SEO für KMU weltweit: 30 % Provision
 
 > Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../produkte/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1219.27 (Single payment) |
+| Price | $1221.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $365.78 |
+| Earnings/sale* | $366.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astraios |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Websites & SEO für KMU weltweit: 30 % Provision? — Typ: Remote service provided electronically, Anbieter: astraios, gelistet seit 2026-08-24
-- Wie viel kostet es? — 1219.2740000000001 USD
+- Wie viel kostet es? — 1221.454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

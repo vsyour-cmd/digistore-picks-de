@@ -4,15 +4,15 @@ digistore24_product_id: 736582
 title: "Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 939.06
+price: 940.74
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 375.63
+earnings_per_sale: 376.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736582?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %
 
 > Product ID `59606` · Digistore24 productId `736582` · [HTML profile page](../../produkte/online-business-komplettpaket-alle-16-praxiskurse-mit-matze-40-59606.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $939.06 (Single payment) |
+| Price | $940.74 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $375.63 |
+| Earnings/sale* | $376.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 939.0647 USD
+- Wie viel kostet es? — 940.7437 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

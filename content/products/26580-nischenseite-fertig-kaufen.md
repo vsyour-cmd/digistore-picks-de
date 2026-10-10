@@ -4,15 +4,15 @@ digistore24_product_id: 170983
 title: "Nischenseite fertig kaufen"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 243.99
+price: 244.43
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 34.09
+earnings_per_sale: 34.16
 cart_conversion_pct: 5
 cancel_rate_pct: 2.18
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-10-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/lars-baut-dir-deine-lukrative-nischenseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nischenseite fertig kaufen
 
 > Product ID `26580` · Digistore24 productId `170983` · [HTML profile page](../../produkte/nischenseite-fertig-kaufen-26580.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $243.99 (Single payment, Installment) |
+| Price | $244.43 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $34.09 |
+| Earnings/sale* | $34.16 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.18% |
 | Vendor | Cleriker |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischenseite fertig kaufen? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2017-10-18
-- Wie viel kostet es? — 243.989032 USD
+- Wie viel kostet es? — 244.425272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

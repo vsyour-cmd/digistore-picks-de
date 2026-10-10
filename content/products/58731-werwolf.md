@@ -4,15 +4,15 @@ digistore24_product_id: 717607
 title: "WERWOLF"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 5.18
+price: 5.19
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 0.51
+earnings_per_sale: 0.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # WERWOLF
 
 > Product ID `58731` · Digistore24 productId `717607` · [HTML profile page](../../produkte/werwolf-58731.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $5.18 (Single payment) |
+| Price | $5.19 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $0.51 |
+| Earnings/sale* | $0.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -65,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WERWOLF? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 5.179118 USD
+- Wie viel kostet es? — 5.188378 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

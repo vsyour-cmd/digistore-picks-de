@@ -4,15 +4,15 @@ digistore24_product_id: 56501
 title: "Vegan Kickstarter E-Book"
 vendor: "chrisi20"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.6
+earnings_per_sale: 3.61
 cart_conversion_pct: 4
 cancel_rate_pct: 2.46
 categories: ["Food & Drink"]
 listed_since: "2015-08-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/56501?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vegan Kickstarter E-Book
 
 > Product ID `24223` · Digistore24 productId `56501` · [HTML profile page](../../produkte/vegan-kickstarter-e-book-24223.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.60 |
+| Earnings/sale* | $3.61 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.46% |
 | Vendor | chrisi20 |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan Kickstarter E-Book? — Typ: Downloads, Anbieter: chrisi20, gelistet seit 2015-08-13
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

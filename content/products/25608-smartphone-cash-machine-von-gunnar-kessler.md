@@ -4,15 +4,15 @@ digistore24_product_id: 230451
 title: "Smartphone Cash Machine - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 183.04
+price: 183.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.09
+earnings_per_sale: 111.29
 cart_conversion_pct: 7
 cancel_rate_pct: 19.44
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-06-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/smartphone-cash-7500/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Smartphone Cash Machine - von Gunnar Kessler
 
 > Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.04 (Single payment) |
+| Price | $183.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.09 |
+| Earnings/sale* | $111.29 |
 | Cart conversion* | 7% |
 | Cancel rate* | 19.44% |
 | Vendor | GTK-littlefreilich |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smartphone Cash Machine - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-06-26
-- Wie viel kostet es? — 183.036518 USD
+- Wie viel kostet es? — 183.363778 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

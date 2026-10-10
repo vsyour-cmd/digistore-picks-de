@@ -4,15 +4,15 @@ digistore24_product_id: 676553
 title: "PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision"
 vendor: "PRIXUS-UG"
 product_type: "Software"
-price: 75.1
+price: 75.24
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.53
+earnings_per_sale: 22.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676553?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision
 
 > Product ID `55970` · Digistore24 productId `676553` · [HTML profile page](../../produkte/prixus-baupreis24-baukosten-kalkulation-f-r-profis-30-provision-55970.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.10 (Single payment) |
+| Price | $75.24 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.53 |
+| Earnings/sale* | $22.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PRIXUS-UG |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision? — Typ: Software, Anbieter: PRIXUS-UG, gelistet seit 2026-03-15
-- Wie viel kostet es? — 75.102804 USD
+- Wie viel kostet es? — 75.23708400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

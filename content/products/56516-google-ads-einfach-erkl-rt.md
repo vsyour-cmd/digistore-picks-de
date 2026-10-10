@@ -4,15 +4,15 @@ digistore24_product_id: 688319
 title: "Google Ads einfach erklärt"
 vendor: "privat16850fc2"
 product_type: "Member area and video courses"
-price: 11.07
+price: 11.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.54
+earnings_per_sale: 5.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.onlinebusiness-wissen.de/google-ads-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Google Ads einfach erklärt
 
 > Product ID `56516` · Digistore24 productId `688319` · [HTML profile page](../../produkte/google-ads-einfach-erkl-rt-56516.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $11.07 (Single payment) |
+| Price | $11.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.54 |
+| Earnings/sale* | $5.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | privat16850fc2 |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Google Ads einfach erklärt? — Typ: Member area and video courses, Anbieter: privat16850fc2, gelistet seit 2026-04-28
-- Wie viel kostet es? — 11.074140000000002 USD
+- Wie viel kostet es? — 11.09394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

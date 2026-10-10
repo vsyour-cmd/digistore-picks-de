@@ -4,15 +4,15 @@ digistore24_product_id: 516555
 title: "BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT"
 vendor: "stepi007"
 product_type: "Member area and video courses"
-price: 89.49
+price: 89.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.74
+earnings_per_sale: 44.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2023-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://blogkiqueen.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT
 
 > Product ID `46827` · Digistore24 productId `516555` · [HTML profile page](../../produkte/blogkiqueen-die-revolution-im-blogmarketing-mit-chatgpt-46827.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $89.49 (Single payment, Installment) |
+| Price | $89.65 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.74 |
+| Earnings/sale* | $44.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stepi007 |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BlogKiQueen - die Revolution im Blogmarketing mit ChatGPT? — Typ: Member area and video courses, Anbieter: stepi007, gelistet seit 2023-09-15
-- Wie viel kostet es? — 89.488 USD
+- Wie viel kostet es? — 89.648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

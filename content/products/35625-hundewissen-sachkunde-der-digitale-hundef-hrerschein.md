@@ -4,15 +4,15 @@ digistore24_product_id: 366886
 title: "Hundewissen Sachkunde - Der Digitale Hundeführerschein"
 vendor: "perrocc"
 product_type: "Member area and video courses"
-price: 56.31
+price: 56.41
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.89
+earnings_per_sale: 16.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-01-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hundewissen Sachkunde - Der Digitale Hundeführerschein
 
 > Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../produkte/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $56.31 (Single payment) |
+| Price | $56.41 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.89 |
+| Earnings/sale* | $16.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | perrocc |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundewissen Sachkunde - Der Digitale Hundeführerschein? — Typ: Member area and video courses, Anbieter: perrocc, gelistet seit 2021-01-09
-- Wie viel kostet es? — 56.31032400000001 USD
+- Wie viel kostet es? — 56.411004000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

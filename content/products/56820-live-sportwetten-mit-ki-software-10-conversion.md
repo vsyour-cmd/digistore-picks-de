@@ -4,15 +4,15 @@ digistore24_product_id: 632734
 title: "[Live] Sportwetten mit KI | Software | +10% Conversion"
 vendor: "betrev"
 product_type: "Member area and video courses"
-price: 343.1
+price: 343.71
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 120.08
+earnings_per_sale: 120.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems","Software","Sport"]
 listed_since: "2026-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.wettmatrix.com/online-training/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [Live] Sportwetten mit KI | Software | +10% Conversion
 
 > Product ID `56820` · Digistore24 productId `632734` · [HTML profile page](../../produkte/live-sportwetten-mit-ki-software-10-conversion-56820.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $343.10 (Subscription) |
+| Price | $343.71 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $120.08 |
+| Earnings/sale* | $120.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | betrev |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [Live] Sportwetten mit KI | Software | +10% Conversion? — Typ: Member area and video courses, Anbieter: betrev, gelistet seit 2026-06-06
-- Wie viel kostet es? — 343.09699200000006 USD
+- Wie viel kostet es? — 343.710432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 663828
 title: "Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg"
 vendor: "Ankava"
 product_type: "Software"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.43
+earnings_per_sale: 32.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-01-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ankava.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg
 
 > Product ID `55418` · Digistore24 productId `663828` · [HTML profile page](../../produkte/mehr-autoank-ufe-von-privat-mit-dem-ankava-autoankauf-widg-55418.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $64.86 (Subscription) |
+| Price | $64.97 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.43 |
+| Earnings/sale* | $32.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ankava |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Autoankäufe von privat – mit dem Ankava Autoankauf-Widg? — Typ: Software, Anbieter: Ankava, gelistet seit 2026-01-24
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

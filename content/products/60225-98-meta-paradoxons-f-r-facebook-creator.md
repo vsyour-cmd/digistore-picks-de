@@ -4,15 +4,15 @@ digistore24_product_id: 734372
 title: "98 Meta Paradoxons (für Facebook Creator)"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.18
+earnings_per_sale: 44.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734372?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 98 Meta Paradoxons (für Facebook Creator)
 
 > Product ID `60225` · Digistore24 productId `734372` · [HTML profile page](../../produkte/98-meta-paradoxons-f-r-facebook-creator-60225.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.18 |
+| Earnings/sale* | $44.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 98 Meta Paradoxons (für Facebook Creator)? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 88.3694 USD
+- Wie viel kostet es? — 88.5274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

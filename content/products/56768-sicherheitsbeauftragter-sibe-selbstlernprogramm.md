@@ -4,15 +4,15 @@ digistore24_product_id: 697156
 title: "Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm"
 vendor: "PERSOFIT"
 product_type: "Remote service provided electronically"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.22
+earnings_per_sale: 33.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Office Organization"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697156?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm
 
 > Product ID `56768` · Digistore24 productId `697156` · [HTML profile page](../../produkte/sicherheitsbeauftragter-sibe-selbstlernprogramm-56768.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.22 |
+| Earnings/sale* | $33.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PERSOFIT |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm? — Typ: Remote service provided electronically, Anbieter: PERSOFIT, gelistet seit 2026-06-01
-- Wie viel kostet es? — 110.7414 USD
+- Wie viel kostet es? — 110.9394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

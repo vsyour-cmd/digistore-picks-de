@@ -4,7 +4,7 @@ digistore24_product_id: 27609
 title: "Kühltasche Schnittmuster"
 vendor: "DotsDesigns"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-06-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/kuehltasche-selber-naehen/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Kühltasche Schnittmuster
 
 > Product ID `4333` · Digistore24 productId `27609` · [HTML profile page](../../produkte/k-hltasche-schnittmuster-4333.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kühltasche Schnittmuster? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2014-06-20
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

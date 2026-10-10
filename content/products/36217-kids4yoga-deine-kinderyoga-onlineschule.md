@@ -4,15 +4,15 @@ digistore24_product_id: 374645
 title: "kids4yoga - Deine Kinderyoga-Onlineschule"
 vendor: "ActivCampus"
 product_type: "Member area and video courses"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kids4yoga.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # kids4yoga - Deine Kinderyoga-Onlineschule
 
 > Product ID `36217` · Digistore24 productId `374645` · [HTML profile page](../../produkte/kids4yoga-deine-kinderyoga-onlineschule-36217.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ActivCampus |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist kids4yoga - Deine Kinderyoga-Onlineschule? — Typ: Member area and video courses, Anbieter: ActivCampus, gelistet seit 2021-02-18
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

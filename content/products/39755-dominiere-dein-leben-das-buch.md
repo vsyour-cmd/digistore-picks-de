@@ -4,7 +4,7 @@ digistore24_product_id: 382593
 title: "Dominiere dein Leben - Das Buch"
 vendor: "Erschaffedichneu"
 product_type: "Book (printed)"
-price: 23.09
+price: 23.13
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.73
@@ -12,7 +12,7 @@ cart_conversion_pct: 22
 cancel_rate_pct: 2.98
 categories: ["Personal Development"]
 listed_since: "2021-04-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://erschaffedichneu.com/dominiere-gratis?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Dominiere dein Leben - Das Buch
 
 > Product ID `39755` · Digistore24 productId `382593` · [HTML profile page](../../produkte/dominiere-dein-leben-das-buch-39755.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $23.09 (Single payment) |
+| Price | $23.13 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.73 |
 | Cart conversion* | 22% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dominiere dein Leben - Das Buch? — Typ: Book (printed), Anbieter: Erschaffedichneu, gelistet seit 2021-04-05
-- Wie viel kostet es? — 23.087904 USD
+- Wie viel kostet es? — 23.129184000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

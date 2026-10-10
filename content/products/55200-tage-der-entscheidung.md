@@ -4,15 +4,15 @@ digistore24_product_id: 621434
 title: "Tage der Entscheidung"
 vendor: "Joerg-Loehr-ET"
 product_type: "Seminar/event for recreation"
-price: 2107.44
+price: 2111.21
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 559.3
+earnings_per_sale: 560.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://partner.joerg-loehr.com/seminare/tagederentscheidung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tage der Entscheidung
 
 > Product ID `55200` · Digistore24 productId `621434` · [HTML profile page](../../produkte/tage-der-entscheidung-55200.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar/event for recreation |
-| Price | $2107.44 (Single payment, Installment) |
+| Price | $2111.21 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $559.30 |
+| Earnings/sale* | $560.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Joerg-Loehr-ET |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tage der Entscheidung? — Typ: Seminar/event for recreation, Anbieter: Joerg-Loehr-ET, gelistet seit 2025-06-30
-- Wie viel kostet es? — 2107.4424 USD
+- Wie viel kostet es? — 2111.2104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

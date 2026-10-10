@@ -4,15 +4,15 @@ digistore24_product_id: 258719
 title: "Paint & Smile LIMITED OFFER Testmonat"
 vendor: "paintandsmile"
 product_type: "Member area and video courses"
-price: 607.47
+price: 608.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.74
+earnings_per_sale: 14.77
 cart_conversion_pct: 14
 cancel_rate_pct: 2.99
 categories: ["Hobby & Craft"]
 listed_since: "2019-02-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://www.online-malkurs.com/limited-offer-testangebot/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Paint & Smile LIMITED OFFER Testmonat
 
 > Product ID `30132` · Digistore24 productId `258719` · [HTML profile page](../../produkte/paint-smile-limited-offer-testmonat-30132.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $607.47 (Subscription) |
+| Price | $608.55 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.74 |
+| Earnings/sale* | $14.77 |
 | Cart conversion* | 14% |
 | Cancel rate* | 2.99% |
 | Vendor | paintandsmile |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paint & Smile LIMITED OFFER Testmonat? — Typ: Member area and video courses, Anbieter: paintandsmile, gelistet seit 2019-02-01
-- Wie viel kostet es? — 607.466916 USD
+- Wie viel kostet es? — 608.5530359999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 282703
 title: "Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs"
 vendor: "ZartesGlueck"
 product_type: "Remote service provided electronically"
-price: 63.92
+price: 64.03
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 15.98
+earnings_per_sale: 16.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2019-08-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs
 
 > Product ID `29763` · Digistore24 productId `282703` · [HTML profile page](../../produkte/erste-hilfe-am-kind-kurs-f-r-zuhause-und-unterwegs-29763.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $63.92 (Single payment) |
+| Price | $64.03 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $15.98 |
+| Earnings/sale* | $16.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZartesGlueck |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs? — Typ: Remote service provided electronically, Anbieter: ZartesGlueck, gelistet seit 2019-08-13
-- Wie viel kostet es? — 63.916804000000006 USD
+- Wie viel kostet es? — 64.031084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

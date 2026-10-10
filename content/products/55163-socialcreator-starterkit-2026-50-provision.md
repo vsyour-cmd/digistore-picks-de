@@ -4,7 +4,7 @@ digistore24_product_id: 660143
 title: "Socialcreator Starterkit 2026 - 50% Provision"
 vendor: "Stiwo2024"
 product_type: "E-books"
-price: 5.21
+price: 5.22
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.61
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-01-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://socialcreator-starterkit.my.canva.site/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Socialcreator Starterkit 2026 - 50% Provision
 
 > Product ID `55163` · Digistore24 productId `660143` · [HTML profile page](../../produkte/socialcreator-starterkit-2026-50-provision-55163.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.21 (Single payment) |
+| Price | $5.22 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.61 |
 | Cart conversion* | — |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Socialcreator Starterkit 2026 - 50% Provision? — Typ: E-books, Anbieter: Stiwo2024, gelistet seit 2026-01-09
-- Wie viel kostet es? — 5.212676 USD
+- Wie viel kostet es? — 5.221996000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

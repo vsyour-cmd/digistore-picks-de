@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Hobby & Craft"]
 listed_since: "2025-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/601255?aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Schlangen als Haustier - Ratgeber
 
 > Product ID `52015` · Digistore24 productId `601255` · [HTML profile page](../../produkte/schlangen-als-haustier-ratgeber-52015.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlangen als Haustier - Ratgeber? — Typ: E-books, Anbieter: NaranNelson, gelistet seit 2025-03-12
-- Wie viel kostet es? — 2.0805960000000003 USD
+- Wie viel kostet es? — 2.0843160000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

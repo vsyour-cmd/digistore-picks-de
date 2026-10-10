@@ -4,15 +4,15 @@ digistore24_product_id: 300439
 title: "Jesus, christliche Mystik & Weihnachten (Satsang)"
 vendor: "ediowk"
 product_type: "Downloads"
-price: 12.22
+price: 12.24
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.05
+earnings_per_sale: 3.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-12-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://owk.eu/video-weihnachten?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Jesus, christliche Mystik & Weihnachten (Satsang)
 
 > Product ID `30807` · Digistore24 productId `300439` · [HTML profile page](../../produkte/jesus-christliche-mystik-weihnachten-satsang-30807.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.22 (Single payment) |
+| Price | $12.24 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.05 |
+| Earnings/sale* | $3.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ediowk |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jesus, christliche Mystik & Weihnachten (Satsang)? — Typ: Downloads, Anbieter: ediowk, gelistet seit 2019-12-19
-- Wie viel kostet es? — 12.215112 USD
+- Wie viel kostet es? — 12.236952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

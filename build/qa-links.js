@@ -88,7 +88,7 @@ for (const [root, sm, dirs] of [
   ["G:/Digistore24/site-de", "sitemap.xml", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]],
 ]) {
   const smContent = fs.readFileSync(path.join(root, sm), "utf8");
-  const smUrls = new Set([...smContent.matchAll(/<loc>[^<]+\/([^<]+)<\/loc>/g)].map((m) => m[1]));
+  const smUrls = new Set([...smContent.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace(/^https:\/\/vsyour-cmd\.github\.io\/digistore-picks(-de)?\//, "")));
   const files = collect(root, dirs);
   const notInSitemap = files.filter((f) => !smUrls.has(f) && !smUrls.has("") && f !== "404.html" && !/^google[0-9a-f]+.html$/.test(f) && !/^[0-9a-f]{32}\.txt$/.test(f));
   console.log(`${path.basename(root)}: sitemap ${smUrls.size} 条 | 应入未入: ${notInSitemap.length}`);

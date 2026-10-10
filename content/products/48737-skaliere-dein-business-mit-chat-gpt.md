@@ -12,7 +12,7 @@ cart_conversion_pct: 54
 cancel_rate_pct: 7.46
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Skaliere Dein Business mit Chat GPT
 
 > Product ID `48737` · Digistore24 productId `562679` · [HTML profile page](../../produkte/skaliere-dein-business-mit-chat-gpt-48737.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skaliere Dein Business mit Chat GPT? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2024-07-25
-- Wie viel kostet es? — 0.27965 USD
+- Wie viel kostet es? — 0.28015 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 433662
 title: "Selbstgeführte Stadtrallye Stuttgart | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 46.32
+price: 46.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.08
+earnings_per_sale: 8.09
 cart_conversion_pct: 9
 cancel_rate_pct: 0.6
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2022-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-stuttgart/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Stuttgart | Hint-Caching
 
 > Product ID `51165` · Digistore24 productId `433662` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-stuttgart-hint-caching-51165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.32 (Single payment) |
+| Price | $46.40 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.08 |
+| Earnings/sale* | $8.09 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.6% |
 | Vendor | hintcaching |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Stuttgart | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-03-10
-- Wie viel kostet es? — 46.321225999999996 USD
+- Wie viel kostet es? — 46.404046 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

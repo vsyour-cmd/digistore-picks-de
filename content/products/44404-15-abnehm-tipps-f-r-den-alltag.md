@@ -4,15 +4,15 @@ digistore24_product_id: 435091
 title: "15 Abnehm-Tipps für den Alltag"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 10.35
+price: 10.37
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.25
+earnings_per_sale: 7.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/cWH7eKtkes2snMa9M?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 15 Abnehm-Tipps für den Alltag
 
 > Product ID `44404` · Digistore24 productId `435091` · [HTML profile page](../../produkte/15-abnehm-tipps-f-r-den-alltag-44404.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.37 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.25 |
+| Earnings/sale* | $7.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Abnehm-Tipps für den Alltag? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-20
-- Wie viel kostet es? — 10.347050000000001 USD
+- Wie viel kostet es? — 10.36555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

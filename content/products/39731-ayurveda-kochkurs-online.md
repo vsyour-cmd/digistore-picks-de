@@ -4,15 +4,15 @@ digistore24_product_id: 364131
 title: "Ayurveda-Kochkurs Online"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 148.52
+price: 148.78
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 44.55
+earnings_per_sale: 44.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/ayurveda-kochkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ayurveda-Kochkurs Online
 
 > Product ID `39731` · Digistore24 productId `364131` · [HTML profile page](../../produkte/ayurveda-kochkurs-online-39731.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $148.52 (Single payment, Installment) |
+| Price | $148.78 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $44.55 |
+| Earnings/sale* | $44.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda-Kochkurs Online? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2020-12-22
-- Wie viel kostet es? — 148.516522 USD
+- Wie viel kostet es? — 148.78206200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

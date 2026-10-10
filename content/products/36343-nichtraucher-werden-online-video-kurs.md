@@ -4,15 +4,15 @@ digistore24_product_id: 383424
 title: "Nichtraucher werden Online-Video-Kurs"
 vendor: "walter444"
 product_type: "Online coaching"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.1
+earnings_per_sale: 69.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-04-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.123nichtraucher-werden.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nichtraucher werden Online-Video-Kurs
 
 > Product ID `36343` · Digistore24 productId `383424` · [HTML profile page](../../produkte/nichtraucher-werden-online-video-kurs-36343.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $138.18 (Single payment) |
+| Price | $138.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.10 |
+| Earnings/sale* | $69.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | walter444 |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nichtraucher werden Online-Video-Kurs? — Typ: Online coaching, Anbieter: walter444, gelistet seit 2021-04-08
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 556089
 title: "KI Business Cash Box Abo + 150€ über Upsells verdienen"
 vendor: "Magnodesign"
 product_type: "Member area and video courses"
-price: 43.4
+price: 43.48
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.15
@@ -12,7 +12,7 @@ cart_conversion_pct: 19
 cancel_rate_pct: 2.74
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/FWmWjSFpi92Y4Pqsm?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # KI Business Cash Box Abo + 150€ über Upsells verdienen
 
 > Product ID `20319` · Digistore24 productId `556089` · [HTML profile page](../../produkte/ki-business-cash-box-abo-150-ber-upsells-verdienen-20319.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.40 (Subscription) |
+| Price | $43.48 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.15 |
 | Cart conversion* | 19% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Business Cash Box Abo + 150€ über Upsells verdienen? — Typ: Member area and video courses, Anbieter: Magnodesign, gelistet seit 2024-06-09
-- Wie viel kostet es? — 43.40168 USD
+- Wie viel kostet es? — 43.479279999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

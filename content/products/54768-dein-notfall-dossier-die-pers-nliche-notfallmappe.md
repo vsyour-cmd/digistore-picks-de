@@ -4,15 +4,15 @@ digistore24_product_id: 651091
 title: "Dein Notfall-Dossier – Die persönliche Notfallmappe"
 vendor: "dd530xd"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Law & Justice","Services"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/651091?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Notfall-Dossier – Die persönliche Notfallmappe
 
 > Product ID `54768` · Digistore24 productId `651091` · [HTML profile page](../../produkte/dein-notfall-dossier-die-pers-nliche-notfallmappe-54768.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dd530xd |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Notfall-Dossier – Die persönliche Notfallmappe? — Typ: Downloads, Anbieter: dd530xd, gelistet seit 2025-11-26
-- Wie viel kostet es? — 9.385054 USD
+- Wie viel kostet es? — 9.401834000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

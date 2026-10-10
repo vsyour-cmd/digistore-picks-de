@@ -4,15 +4,15 @@ digistore24_product_id: 679185
 title: "Affili Forge Premium Mentoring"
 vendor: "AffiliForge"
 product_type: "Member area and video courses"
-price: 1107.41
+price: 1109.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 332.22
+earnings_per_sale: 332.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/masterclass-anmeldung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affili Forge Premium Mentoring
 
 > Product ID `56361` · Digistore24 productId `679185` · [HTML profile page](../../produkte/affili-forge-premium-mentoring-56361.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1107.41 (Subscription) |
+| Price | $1109.39 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $332.22 |
+| Earnings/sale* | $332.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AffiliForge |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affili Forge Premium Mentoring? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2026-03-25
-- Wie viel kostet es? — 1107.414 USD
+- Wie viel kostet es? — 1109.394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

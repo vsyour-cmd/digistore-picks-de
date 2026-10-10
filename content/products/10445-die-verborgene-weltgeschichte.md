@@ -4,15 +4,15 @@ digistore24_product_id: 73653
 title: "Die verborgene Weltgeschichte"
 vendor: "RaGarve"
 product_type: "Member area and video courses"
-price: 377.63
+price: 378.3
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 74.51
+earnings_per_sale: 74.64
 cart_conversion_pct: 14
 cancel_rate_pct: 6.38
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-03-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/geheimnissen-auf-der-spur/die-verborgene-weltgeschichte/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die verborgene Weltgeschichte
 
 > Product ID `10445` · Digistore24 productId `73653` · [HTML profile page](../../produkte/die-verborgene-weltgeschichte-10445.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $377.63 (Single payment) |
+| Price | $378.30 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $74.51 |
+| Earnings/sale* | $74.64 |
 | Cart conversion* | 14% |
 | Cancel rate* | 6.38% |
 | Vendor | RaGarve |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die verborgene Weltgeschichte? — Typ: Member area and video courses, Anbieter: RaGarve, gelistet seit 2016-03-01
-- Wie viel kostet es? — 377.628174 USD
+- Wie viel kostet es? — 378.303354 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

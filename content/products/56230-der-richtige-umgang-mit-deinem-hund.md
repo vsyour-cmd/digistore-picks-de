@@ -4,15 +4,15 @@ digistore24_product_id: 684095
 title: "Der richtige Umgang mit deinem Hund"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.58
+price: 13.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.79
+earnings_per_sale: 6.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/umgang-mit-hund?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der richtige Umgang mit deinem Hund
 
 > Product ID `56230` · Digistore24 productId `684095` · [HTML profile page](../../produkte/der-richtige-umgang-mit-deinem-hund-56230.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.58 (Single payment) |
+| Price | $13.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.79 |
+| Earnings/sale* | $6.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der richtige Umgang mit deinem Hund? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-12
-- Wie viel kostet es? — 13.579804000000001 USD
+- Wie viel kostet es? — 13.604084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

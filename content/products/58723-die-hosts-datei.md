@@ -4,7 +4,7 @@ digistore24_product_id: 716974
 title: "Die Hosts  Datei"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 8.46
+price: 8.47
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.85
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/hosts.php?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Die Hosts  Datei
 
 > Product ID `58723` · Digistore24 productId `716974` · [HTML profile page](../../produkte/die-hosts-datei-58723.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.46 (Single payment) |
+| Price | $8.47 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.85 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Hosts  Datei? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 8.456616 USD
+- Wie viel kostet es? — 8.471736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

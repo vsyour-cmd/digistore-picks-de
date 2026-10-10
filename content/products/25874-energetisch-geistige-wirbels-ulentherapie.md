@@ -4,15 +4,15 @@ digistore24_product_id: 295916
 title: "Energetisch Geistige Wirbelsäulentherapie"
 vendor: "reichl"
 product_type: "Downloads"
-price: 201.35
+price: 201.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 100.67
+earnings_per_sale: 100.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.energy-healing.bayern/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Energetisch Geistige Wirbelsäulentherapie
 
 > Product ID `25874` · Digistore24 productId `295916` · [HTML profile page](../../produkte/energetisch-geistige-wirbels-ulentherapie-25874.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $201.35 (Single payment, Installment) |
+| Price | $201.71 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $100.67 |
+| Earnings/sale* | $100.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reichl |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetisch Geistige Wirbelsäulentherapie? — Typ: Downloads, Anbieter: reichl, gelistet seit 2019-11-20
-- Wie viel kostet es? — 201.348 USD
+- Wie viel kostet es? — 201.708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

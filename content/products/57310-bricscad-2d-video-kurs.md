@@ -4,15 +4,15 @@ digistore24_product_id: 531911
 title: "BricsCAD 2D Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 334.46
+price: 335.06
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 66.89
+earnings_per_sale: 67.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cad-video.de/bricscad-2d-channel?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # BricsCAD 2D Video-Kurs
 
 > Product ID `57310` · Digistore24 productId `531911` · [HTML profile page](../../produkte/bricscad-2d-video-kurs-57310.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.46 (Single payment) |
+| Price | $335.06 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $66.89 |
+| Earnings/sale* | $67.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD 2D Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-06-30
-- Wie viel kostet es? — 334.4614 USD
+- Wie viel kostet es? — 335.05940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

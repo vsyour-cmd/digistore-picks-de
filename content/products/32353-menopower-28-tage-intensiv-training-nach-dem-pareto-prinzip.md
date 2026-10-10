@@ -4,15 +4,15 @@ digistore24_product_id: 348303
 title: "MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip"
 vendor: "australia1011"
 product_type: "Downloads"
-price: 55.46
+price: 55.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.73
+earnings_per_sale: 27.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pilates4life.lpages.co/menopower-69/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip
 
 > Product ID `32353` · Digistore24 productId `348303` · [HTML profile page](../../produkte/menopower-28-tage-intensiv-training-nach-dem-pareto-prinzip-32353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.46 (Single payment) |
+| Price | $55.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.73 |
+| Earnings/sale* | $27.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | australia1011 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MenoPower® 28 Tage Intensiv-Training nach dem Pareto-Prinzip? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2020-03-04
-- Wie viel kostet es? — 55.460188 USD
+- Wie viel kostet es? — 55.559348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

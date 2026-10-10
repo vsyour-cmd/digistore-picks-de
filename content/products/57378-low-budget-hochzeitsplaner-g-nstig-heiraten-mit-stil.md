@@ -4,15 +4,15 @@ digistore24_product_id: 705194
 title: "Low-Budget-Hochzeitsplaner – günstig heiraten mit Stil"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 7.53
+earnings_per_sale: 7.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Dating, Relationships & Romance","Travel & Culture"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hochzeitszauberwelt.de/low-budget-hochzeitsplaner/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Low-Budget-Hochzeitsplaner – günstig heiraten mit Stil
 
 > Product ID `57378` · Digistore24 productId `705194` · [HTML profile page](../../produkte/low-budget-hochzeitsplaner-g-nstig-heiraten-mit-stil-57378.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $7.53 |
+| Earnings/sale* | $7.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low-Budget-Hochzeitsplaner – günstig heiraten mit Stil? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-02
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

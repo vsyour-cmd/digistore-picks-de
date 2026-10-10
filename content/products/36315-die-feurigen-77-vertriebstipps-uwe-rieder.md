@@ -4,7 +4,7 @@ digistore24_product_id: 369918
 title: "Die feurigen 77 Vertriebstipps - Uwe Rieder"
 vendor: "UweRieder"
 product_type: "E-books"
-price: 4.34
+price: 4.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.55
@@ -12,7 +12,7 @@ cart_conversion_pct: 32
 cancel_rate_pct: 0.46
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Die feurigen 77 Vertriebstipps - Uwe Rieder
 
 > Product ID `36315` · Digistore24 productId `369918` · [HTML profile page](../../produkte/die-feurigen-77-vertriebstipps-uwe-rieder-36315.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $4.34 (Single payment) |
+| Price | $4.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.55 |
 | Cart conversion* | 32% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die feurigen 77 Vertriebstipps - Uwe Rieder? — Typ: E-books, Anbieter: UweRieder, gelistet seit 2021-01-25
-- Wie viel kostet es? — 4.340168 USD
+- Wie viel kostet es? — 4.3479280000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

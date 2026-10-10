@@ -4,15 +4,15 @@ digistore24_product_id: 688298
 title: "Gesamte Mathematik für Lehrlinge in der Berufsausbildung"
 vendor: "Mathecloud"
 product_type: "Member area and video courses"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.1
+earnings_per_sale: 69.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/mathematik-fuer-deine-berufsausbildung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gesamte Mathematik für Lehrlinge in der Berufsausbildung
 
 > Product ID `56456` · Digistore24 productId `688298` · [HTML profile page](../../produkte/gesamte-mathematik-f-r-lehrlinge-in-der-berufsausbildung-56456.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.18 (Single payment) |
+| Price | $138.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.10 |
+| Earnings/sale* | $69.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mathecloud |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesamte Mathematik für Lehrlinge in der Berufsausbildung? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-04-28
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

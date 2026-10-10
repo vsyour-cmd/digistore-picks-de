@@ -4,15 +4,15 @@ digistore24_product_id: 509254
 title: "Das Lifetime-Partnerprogramm von Coaching24"
 vendor: "zielgruppe"
 product_type: "Remote service provided electronically"
-price: 2796.5
+price: 2801.5
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 279.65
+earnings_per_sale: 280.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-07-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.zielgruppe.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Lifetime-Partnerprogramm von Coaching24
 
 > Product ID `44854` · Digistore24 productId `509254` · [HTML profile page](../../produkte/das-lifetime-partnerprogramm-von-coaching24-44854.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2796.50 (Single payment) |
+| Price | $2801.50 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $279.65 |
+| Earnings/sale* | $280.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | zielgruppe |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Lifetime-Partnerprogramm von Coaching24? — Typ: Remote service provided electronically, Anbieter: zielgruppe, gelistet seit 2023-07-28
-- Wie viel kostet es? — 2796.5 USD
+- Wie viel kostet es? — 2801.5 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 88863
 title: "Ganzheitlich FREI Kongresspaket 1"
 vendor: "kandina"
 product_type: "Member area and video courses"
-price: 122.15
+price: 122.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 61.08
+earnings_per_sale: 61.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://ganzheitlich-frei.com/upsell-kongresspakete1-3/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ganzheitlich FREI Kongresspaket 1
 
 > Product ID `14353` · Digistore24 productId `88863` · [HTML profile page](../../produkte/ganzheitlich-frei-kongresspaket-1-14353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.15 (Single payment, Installment) |
+| Price | $122.37 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $61.08 |
+| Earnings/sale* | $61.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kandina |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ganzheitlich FREI Kongresspaket 1? — Typ: Member area and video courses, Anbieter: kandina, gelistet seit 2016-07-24
-- Wie viel kostet es? — 122.15112 USD
+- Wie viel kostet es? — 122.36952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

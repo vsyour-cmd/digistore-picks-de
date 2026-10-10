@@ -4,15 +4,15 @@ digistore24_product_id: 356950
 title: "ONLINE TANZKURS ANFÄNGER/BRONZE"
 vendor: "andyandkellykainz"
 product_type: "Member area and video courses"
-price: 32.81
+price: 32.87
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.57
+earnings_per_sale: 6.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-11-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andyandkellykainz.com/bronze-tanzkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ONLINE TANZKURS ANFÄNGER/BRONZE
 
 > Product ID `36087` · Digistore24 productId `356950` · [HTML profile page](../../produkte/online-tanzkurs-anf-nger-bronze-36087.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.81 (Single payment) |
+| Price | $32.87 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.57 |
+| Earnings/sale* | $6.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andyandkellykainz |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ONLINE TANZKURS ANFÄNGER/BRONZE? — Typ: Member area and video courses, Anbieter: andyandkellykainz, gelistet seit 2020-11-12
-- Wie viel kostet es? — 32.808538 USD
+- Wie viel kostet es? — 32.867198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

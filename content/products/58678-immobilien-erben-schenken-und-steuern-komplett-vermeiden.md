@@ -4,15 +4,15 @@ digistore24_product_id: 733505
 title: "Immobilien: Erben, Schenken und Steuern komplett vermeiden"
 vendor: "ericpromm"
 product_type: "Downloads"
-price: 2345.3
+price: 2349.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1172.65
+earnings_per_sale: 1174.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances","Real Estate"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://promm.de/nachfolge-workshop?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Immobilien: Erben, Schenken und Steuern komplett vermeiden
 
 > Product ID `58678` · Digistore24 productId `733505` · [HTML profile page](../../produkte/immobilien-erben-schenken-und-steuern-komplett-vermeiden-58678.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $2345.30 (Single payment, Installment) |
+| Price | $2349.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1172.65 |
+| Earnings/sale* | $1174.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ericpromm |
@@ -111,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien: Erben, Schenken und Steuern komplett vermeiden? — Typ: Downloads, Anbieter: ericpromm, gelistet seit 2026-08-26
-- Wie viel kostet es? — 2345.301504 USD
+- Wie viel kostet es? — 2349.494784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

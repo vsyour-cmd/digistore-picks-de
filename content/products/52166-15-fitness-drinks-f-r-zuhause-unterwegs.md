@@ -4,15 +4,15 @@ digistore24_product_id: 608744
 title: "15 Fitness Drinks für Zuhause & Unterwegs"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.54
+price: 13.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.77
+earnings_per_sale: 6.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Sport"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/15-fitness-drinks?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 15 Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../produkte/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.54 (Single payment) |
+| Price | $13.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.77 |
+| Earnings/sale* | $6.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Fitness Drinks für Zuhause & Unterwegs? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-04-22
-- Wie viel kostet es? — 13.53506 USD
+- Wie viel kostet es? — 13.55926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 598709
 title: "Business Sofortstart"
 vendor: "digitalesonlinebusiness"
 product_type: "Downloads"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-02-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/business-sofortstart/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Business Sofortstart
 
 > Product ID `51856` · Digistore24 productId `598709` · [HTML profile page](../../produkte/business-sofortstart-51856.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Business Sofortstart? — Typ: Downloads, Anbieter: digitalesonlinebusiness, gelistet seit 2025-02-26
-- Wie viel kostet es? — 22.360813999999998 USD
+- Wie viel kostet es? — 22.400793999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

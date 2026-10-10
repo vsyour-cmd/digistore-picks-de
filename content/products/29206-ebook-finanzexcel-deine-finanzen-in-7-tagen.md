@@ -4,15 +4,15 @@ digistore24_product_id: 237430
 title: "eBook + Finanzexcel: Deine Finanzen in 7 Tagen"
 vendor: "geldschnurrbart"
 product_type: "Downloads"
-price: 18.75
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2018-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://geldschnurrbart.de/ebook-deine_finanzen_in_7_tagen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eBook + Finanzexcel: Deine Finanzen in 7 Tagen
 
 > Product ID `29206` · Digistore24 productId `237430` · [HTML profile page](../../produkte/ebook-finanzexcel-deine-finanzen-in-7-tagen-29206.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.75 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldschnurrbart |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook + Finanzexcel: Deine Finanzen in 7 Tagen? — Typ: Downloads, Anbieter: geldschnurrbart, gelistet seit 2018-08-22
-- Wie viel kostet es? — 18.747736000000003 USD
+- Wie viel kostet es? — 18.781256000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

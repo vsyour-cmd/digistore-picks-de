@@ -4,15 +4,15 @@ digistore24_product_id: 671283
 title: "VigorSana - Premium DACH Men's Performance"
 vendor: "DS24-MySana"
 product_type: "Supplements - health"
-price: 180.77
+price: 181.09
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 93.69
+earnings_per_sale: 93.86
 cart_conversion_pct: 11
 cancel_rate_pct: 4.2
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://myvigorsana.com/vigorsana-pdp-fe?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VigorSana - Premium DACH Men's Performance
 
 > Product ID `55719` · Digistore24 productId `671283` · [HTML profile page](../../produkte/vigorsana-premium-dach-men-s-performance-55719.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $180.77 (Single payment) |
+| Price | $181.09 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $93.69 |
+| Earnings/sale* | $93.86 |
 | Cart conversion* | 11% |
 | Cancel rate* | 4.2% |
 | Vendor | DS24-MySana |
@@ -105,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VigorSana - Premium DACH Men's Performance? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-02-24
-- Wie viel kostet es? — 180.76576 USD
+- Wie viel kostet es? — 181.08896000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

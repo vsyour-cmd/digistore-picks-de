@@ -4,15 +4,15 @@ digistore24_product_id: 64997
 title: "Thai-Crashkurs - ab dem ersten Tag anwenden"
 vendor: "findsbesserraus"
 product_type: "Downloads"
-price: 20.02
+price: 20.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.62
+earnings_per_sale: 8.64
 cart_conversion_pct: 1
 cancel_rate_pct: 1.97
 categories: ["Travel & Culture"]
 listed_since: "2015-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.thailaendisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Thai-Crashkurs - ab dem ersten Tag anwenden
 
 > Product ID `9655` · Digistore24 productId `64997` · [HTML profile page](../../produkte/thai-crashkurs-ab-dem-ersten-tag-anwenden-9655.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.02 (Single payment) |
+| Price | $20.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.62 |
+| Earnings/sale* | $8.64 |
 | Cart conversion* | 1% |
 | Cancel rate* | 1.97% |
 | Vendor | findsbesserraus |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Thai-Crashkurs - ab dem ersten Tag anwenden? — Typ: Downloads, Anbieter: findsbesserraus, gelistet seit 2015-12-06
-- Wie viel kostet es? — 20.02294 USD
+- Wie viel kostet es? — 20.05874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

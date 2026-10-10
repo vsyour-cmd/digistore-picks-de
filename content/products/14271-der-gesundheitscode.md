@@ -4,15 +4,15 @@ digistore24_product_id: 109797
 title: "Der Gesundheitscode"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 289.25
+price: 289.76
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 59.98
+earnings_per_sale: 60.09
 cart_conversion_pct: 21
 cancel_rate_pct: 7.28
 categories: ["Health & Fitness"]
 listed_since: "2016-12-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Gesundheitscode
 
 > Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../produkte/der-gesundheitscode-14271.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $289.25 (Single payment) |
+| Price | $289.76 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $59.98 |
+| Earnings/sale* | $60.09 |
 | Cart conversion* | 21% |
 | Cancel rate* | 7.28% |
 | Vendor | RaGarve |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Gesundheitscode? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2016-12-19
-- Wie viel kostet es? — 289.247588 USD
+- Wie viel kostet es? — 289.764748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

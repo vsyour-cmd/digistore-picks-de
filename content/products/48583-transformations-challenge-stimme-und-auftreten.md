@@ -4,15 +4,15 @@ digistore24_product_id: 559815
 title: "Transformations-Challenge: Stimme und Auftreten"
 vendor: "Stimmfluencer"
 product_type: "Telephone coaching"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2024-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/transformations-challenge?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Transformations-Challenge: Stimme und Auftreten
 
 > Product ID `48583` · Digistore24 productId `559815` · [HTML profile page](../../produkte/transformations-challenge-stimme-und-auftreten-48583.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $23.49 (Single payment) |
+| Price | $23.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Transformations-Challenge: Stimme und Auftreten? — Typ: Telephone coaching, Anbieter: Stimmfluencer, gelistet seit 2024-07-04
-- Wie viel kostet es? — 23.4906 USD
+- Wie viel kostet es? — 23.532600000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

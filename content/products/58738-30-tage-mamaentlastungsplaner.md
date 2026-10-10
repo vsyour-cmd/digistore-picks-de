@@ -4,15 +4,15 @@ digistore24_product_id: 725415
 title: "30 Tage Mamaentlastungsplaner"
 vendor: "mamaplaneinfach"
 product_type: "Downloads"
-price: 7.51
+price: 7.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.76
+earnings_per_sale: 3.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/725415?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 30 Tage Mamaentlastungsplaner
 
 > Product ID `58738` · Digistore24 productId `725415` · [HTML profile page](../../produkte/30-tage-mamaentlastungsplaner-58738.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.51 (Single payment) |
+| Price | $7.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.76 |
+| Earnings/sale* | $3.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mamaplaneinfach |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Mamaentlastungsplaner? — Typ: Downloads, Anbieter: mamaplaneinfach, gelistet seit 2026-08-27
-- Wie viel kostet es? — 7.505806000000001 USD
+- Wie viel kostet es? — 7.519226000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

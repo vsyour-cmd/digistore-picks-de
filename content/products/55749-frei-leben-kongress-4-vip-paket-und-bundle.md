@@ -4,15 +4,15 @@ digistore24_product_id: 655140
 title: "Frei Leben Kongress 4 - VIP-Paket und Bundle"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 57.97
+price: 58.07
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 21.61
+earnings_per_sale: 21.65
 cart_conversion_pct: 20
 cancel_rate_pct: 0.33
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.freileben4.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frei Leben Kongress 4 - VIP-Paket und Bundle
 
 > Product ID `55749` · Digistore24 productId `655140` · [HTML profile page](../../produkte/frei-leben-kongress-4-vip-paket-und-bundle-55749.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $57.97 (Single payment, Installment) |
+| Price | $58.07 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $21.61 |
+| Earnings/sale* | $21.65 |
 | Cart conversion* | 20% |
 | Cancel rate* | 0.33% |
 | Vendor | kongresshero |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei Leben Kongress 4 - VIP-Paket und Bundle? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2025-12-13
-- Wie viel kostet es? — 57.965852000000005 USD
+- Wie viel kostet es? — 58.069492000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

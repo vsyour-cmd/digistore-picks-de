@@ -4,15 +4,15 @@ digistore24_product_id: 599906
 title: "Organic Sales"
 vendor: "LauraTeresaG"
 product_type: "Member area and video courses"
-price: 610.06
+price: 611.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 305.03
+earnings_per_sale: 305.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/599906?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Organic Sales
 
 > Product ID `52952` · Digistore24 productId `599906` · [HTML profile page](../../produkte/organic-sales-52952.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $610.06 (Single payment) |
+| Price | $611.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $305.03 |
+| Earnings/sale* | $305.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LauraTeresaG |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Organic Sales? — Typ: Member area and video courses, Anbieter: LauraTeresaG, gelistet seit 2025-03-05
-- Wie viel kostet es? — 610.0620680000001 USD
+- Wie viel kostet es? — 611.152828 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

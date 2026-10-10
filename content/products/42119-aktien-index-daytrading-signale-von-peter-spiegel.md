@@ -4,15 +4,15 @@ digistore24_product_id: 467093
 title: "Aktien-Index Daytrading Signale von Peter Spiegel"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 190.35
+price: 190.69
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 92.06
+earnings_per_sale: 92.23
 cart_conversion_pct: 8
 cancel_rate_pct: 11.3
 categories: ["Trading Products"]
 listed_since: "2022-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/index-daytrading-peter-spiegel/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Aktien-Index Daytrading Signale von Peter Spiegel
 
 > Product ID `42119` · Digistore24 productId `467093` · [HTML profile page](../../produkte/aktien-index-daytrading-signale-von-peter-spiegel-42119.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $190.35 (Subscription) |
+| Price | $190.69 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $92.06 |
+| Earnings/sale* | $92.23 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.3% |
 | Vendor | kagels-trading |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aktien-Index Daytrading Signale von Peter Spiegel? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2022-10-29
-- Wie viel kostet es? — 190.352162 USD
+- Wie viel kostet es? — 190.692502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

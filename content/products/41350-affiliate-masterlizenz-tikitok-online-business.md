@@ -4,15 +4,15 @@ digistore24_product_id: 462015
 title: "Affiliate Masterlizenz \"TikiTok Online Business\""
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.27
+price: 71.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.57
+earnings_per_sale: 13.59
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://onlinekurse-von-experten.com/masterlizenz-tikitok/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Masterlizenz "TikiTok Online Business"
 
 > Product ID `41350` · Digistore24 productId `462015` · [HTML profile page](../../produkte/affiliate-masterlizenz-tikitok-online-business-41350.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.27 (Subscription) |
+| Price | $71.39 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.57 |
+| Earnings/sale* | $13.59 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Masterlizenz "TikiTok Online Business"? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2022-09-26
-- Wie viel kostet es? — 71.266006 USD
+- Wie viel kostet es? — 71.393426 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

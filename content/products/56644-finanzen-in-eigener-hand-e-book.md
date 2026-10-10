@@ -4,15 +4,15 @@ digistore24_product_id: 694925
 title: "Finanzen in eigener Hand (E-Book)"
 vendor: "worldxpb"
 product_type: "E-books"
-price: 22.26
+price: 22.3
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 11.35
+earnings_per_sale: 11.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Finances"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694925?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Finanzen in eigener Hand (E-Book)
 
 > Product ID `56644` · Digistore24 productId `694925` · [HTML profile page](../../produkte/finanzen-in-eigener-hand-e-book-56644.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.26 (Single payment) |
+| Price | $22.30 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $11.35 |
+| Earnings/sale* | $11.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzen in eigener Hand (E-Book)? — Typ: E-books, Anbieter: worldxpb, gelistet seit 2026-05-22
-- Wie viel kostet es? — 22.26014 USD
+- Wie viel kostet es? — 22.29994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 676585
 title: "ändere deinen Blickwinkel"
 vendor: "ReinerKatzinger"
 product_type: "Member area and video courses"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.41
+earnings_per_sale: 27.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.reinergeist.com/blickwinkel/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ändere deinen Blickwinkel
 
 > Product ID `57104` · Digistore24 productId `676585` · [HTML profile page](../../produkte/ndere-deinen-blickwinkel-57104.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.41 |
+| Earnings/sale* | $27.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReinerKatzinger |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ändere deinen Blickwinkel? — Typ: Member area and video courses, Anbieter: ReinerKatzinger, gelistet seit 2026-06-22
-- Wie viel kostet es? — 54.8114 USD
+- Wie viel kostet es? — 54.909400000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

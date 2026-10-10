@@ -4,15 +4,15 @@ digistore24_product_id: 692792
 title: "50 % Provision: Prioritäten-Playbook für Führung"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.26
+price: 215.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.63
+earnings_per_sale: 107.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692792?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision: Prioritäten-Playbook für Führung
 
 > Product ID `58790` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-priorit-ten-playbook-f-r-f-hrung-58790.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.26 (Single payment) |
+| Price | $215.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.63 |
+| Earnings/sale* | $107.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision: Prioritäten-Playbook für Führung? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-08-31
-- Wie viel kostet es? — 215.263384 USD
+- Wie viel kostet es? — 215.648264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 648703
 title: "Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis"
 vendor: "liebezumleben"
 product_type: "Downloads"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.14
+earnings_per_sale: 37.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Hobby & Craft"]
 listed_since: "2025-11-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://malenmitanke.de/acrylmalkurs-meer-bundle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis
 
 > Product ID `54660` · Digistore24 productId `648703` · [HTML profile page](../../produkte/die-grosse-meer-auszeit-4-acryl-kurse-zum-spar-preis-54660.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.26 (Single payment) |
+| Price | $74.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.14 |
+| Earnings/sale* | $37.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | liebezumleben |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis? — Typ: Downloads, Anbieter: liebezumleben, gelistet seit 2025-11-15
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

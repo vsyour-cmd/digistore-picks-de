@@ -4,15 +4,15 @@ digistore24_product_id: 667437
 title: "Online-Leitfaden Aus Freude am Schreiben"
 vendor: "MadrigenumVerlag"
 product_type: "Downloads"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.53
+earnings_per_sale: 46.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Leitfaden Aus Freude am Schreiben
 
 > Product ID `55504` · Digistore24 productId `667437` · [HTML profile page](../../produkte/online-leitfaden-aus-freude-am-schreiben-55504.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.53 |
+| Earnings/sale* | $46.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MadrigenumVerlag |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Leitfaden Aus Freude am Schreiben? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-08
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

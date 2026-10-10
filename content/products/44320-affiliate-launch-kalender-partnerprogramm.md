@@ -4,7 +4,7 @@ digistore24_product_id: 500221
 title: "Affiliate Launch Kalender | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 5.59
+price: 5.6
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-05-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.profitbuddies.de/affiliate-launch-kalender?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Affiliate Launch Kalender | Partnerprogramm
 
 > Product ID `44320` · Digistore24 productId `500221` · [HTML profile page](../../produkte/affiliate-launch-kalender-partnerprogramm-44320.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $5.59 (Subscription) |
+| Price | $5.60 (Subscription) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Launch Kalender | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2023-05-24
-- Wie viel kostet es? — 5.593 USD
+- Wie viel kostet es? — 5.603 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 383261
 title: "Traffic Commando"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 25.07
+price: 25.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 155.07
+earnings_per_sale: 155.35
 cart_conversion_pct: 10
 cancel_rate_pct: 2.03
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-04-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://traffic-commando.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Traffic Commando
 
 > Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../produkte/traffic-commando-36702.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.07 (Single payment, Installment) |
+| Price | $25.11 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $155.07 |
+| Earnings/sale* | $155.35 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.03% |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traffic Commando? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2021-04-08
-- Wie viel kostet es? — 25.067826 USD
+- Wie viel kostet es? — 25.112646 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

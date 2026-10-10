@@ -4,15 +4,15 @@ digistore24_product_id: 676422
 title: "Linkfuse Partnerprogramm"
 vendor: "Hermas"
 product_type: "Software"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 163.52
+earnings_per_sale: 163.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://linkfuse.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Linkfuse Partnerprogramm
 
 > Product ID `56142` · Digistore24 productId `676422` · [HTML profile page](../../produkte/linkfuse-partnerprogramm-56142.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $467.18 (Single payment) |
+| Price | $468.02 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $163.52 |
+| Earnings/sale* | $163.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hermas |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Linkfuse Partnerprogramm? — Typ: Software, Anbieter: Hermas, gelistet seit 2026-03-15
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

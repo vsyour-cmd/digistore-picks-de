@@ -4,15 +4,15 @@ digistore24_product_id: 366081
 title: "THE FUTURE SELF"
 vendor: "Soulset"
 product_type: "Downloads"
-price: 208.67
+price: 209.05
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 156.5
+earnings_per_sale: 156.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/366081?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # THE FUTURE SELF
 
 > Product ID `58904` · Digistore24 productId `366081` · [HTML profile page](../../produkte/the-future-self-58904.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $208.67 (Single payment) |
+| Price | $209.05 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $156.50 |
+| Earnings/sale* | $156.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Soulset |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THE FUTURE SELF? — Typ: Downloads, Anbieter: Soulset, gelistet seit 2026-09-04
-- Wie viel kostet es? — 208.67483000000001 USD
+- Wie viel kostet es? — 209.04793 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

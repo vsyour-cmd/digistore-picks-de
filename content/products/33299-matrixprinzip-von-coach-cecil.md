@@ -4,15 +4,15 @@ digistore24_product_id: 459976
 title: "MATRIXPRINZIP von Coach Cecil"
 vendor: "coachcecil"
 product_type: "Member area and video courses"
-price: 1054.43
+price: 1056.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 920.41
+earnings_per_sale: 922.05
 cart_conversion_pct: 1
 cancel_rate_pct: 2.71
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2022-09-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.matrixprinzip.de/aft?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MATRIXPRINZIP von Coach Cecil
 
 > Product ID `33299` · Digistore24 productId `459976` · [HTML profile page](../../produkte/matrixprinzip-von-coach-cecil-33299.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1054.43 (Single payment, Installment) |
+| Price | $1056.31 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $920.41 |
+| Earnings/sale* | $922.05 |
 | Cart conversion* | 1% |
 | Cancel rate* | 2.71% |
 | Vendor | coachcecil |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MATRIXPRINZIP von Coach Cecil? — Typ: Member area and video courses, Anbieter: coachcecil, gelistet seit 2022-09-12
-- Wie viel kostet es? — 1054.4259180000001 USD
+- Wie viel kostet es? — 1056.311178 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

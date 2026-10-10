@@ -4,15 +4,15 @@ digistore24_product_id: 470910
 title: "New Spirit for Money und Business VIP Paket und Bundle"
 vendor: "herzengel"
 product_type: "Member area and video courses"
-price: 100.58
+price: 100.76
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.06
+earnings_per_sale: 10.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.newspiritkongress.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # New Spirit for Money und Business VIP Paket und Bundle
 
 > Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../produkte/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $100.58 (Single payment, Installment) |
+| Price | $100.76 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.06 |
+| Earnings/sale* | $10.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herzengel |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New Spirit for Money und Business VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: herzengel, gelistet seit 2022-11-20
-- Wie viel kostet es? — 100.584512 USD
+- Wie viel kostet es? — 100.764352 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

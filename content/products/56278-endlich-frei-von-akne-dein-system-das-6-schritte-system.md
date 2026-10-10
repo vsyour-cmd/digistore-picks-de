@@ -4,15 +4,15 @@ digistore24_product_id: 164663
 title: "Endlich frei von Akne – Dein System | Das 6-Schritte-System"
 vendor: "skinbalance"
 product_type: "Member area and video courses"
-price: 188.98
+price: 189.31
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 57.41
+earnings_per_sale: 57.51
 cart_conversion_pct: 14
 cancel_rate_pct: 3.23
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2017-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lp.drlaemmerhirt.com/produkt-dein-system?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Endlich frei von Akne – Dein System | Das 6-Schritte-System
 
 > Product ID `56278` · Digistore24 productId `164663` · [HTML profile page](../../produkte/endlich-frei-von-akne-dein-system-das-6-schritte-system-56278.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.98 (Single payment) |
+| Price | $189.31 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $57.41 |
+| Earnings/sale* | $57.51 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.23% |
 | Vendor | skinbalance |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich frei von Akne – Dein System | Das 6-Schritte-System? — Typ: Member area and video courses, Anbieter: skinbalance, gelistet seit 2017-09-20
-- Wie viel kostet es? — 188.976284 USD
+- Wie viel kostet es? — 189.314164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 659667
 title: "Brandschutzsystem für BSB / FaSi / Makler | 25% Provision"
 vendor: "HuggerRiskConsulting"
 product_type: "Downloads"
-price: 845.06
+price: 846.57
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 211.27
+earnings_per_sale: 211.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Project Management"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hurico.de/brandschutz-manager-system/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Brandschutzsystem für BSB / FaSi / Makler | 25% Provision
 
 > Product ID `55239` · Digistore24 productId `659667` · [HTML profile page](../../produkte/brandschutzsystem-f-r-bsb-fasi-makler-25-provision-55239.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $845.06 (Single payment) |
+| Price | $846.57 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $211.27 |
+| Earnings/sale* | $211.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HuggerRiskConsulting |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brandschutzsystem für BSB / FaSi / Makler | 25% Provision? — Typ: Downloads, Anbieter: HuggerRiskConsulting, gelistet seit 2026-01-07
-- Wie viel kostet es? — 845.0575560000001 USD
+- Wie viel kostet es? — 846.568476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 279016
 title: "Elterngeld-Check"
 vendor: "ElterngeldMedia"
 product_type: "Remote service provided electronically"
-price: 32.81
+price: 32.87
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2019-07-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://elterngeldcheck.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Elterngeld-Check
 
 > Product ID `36755` · Digistore24 productId `279016` · [HTML profile page](../../produkte/elterngeld-check-36755.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $32.81 (Single payment) |
+| Price | $32.87 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ElterngeldMedia |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elterngeld-Check? — Typ: Remote service provided electronically, Anbieter: ElterngeldMedia, gelistet seit 2019-07-11
-- Wie viel kostet es? — 32.808538 USD
+- Wie viel kostet es? — 32.867198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

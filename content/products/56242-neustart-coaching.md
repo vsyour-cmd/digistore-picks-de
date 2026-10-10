@@ -4,15 +4,15 @@ digistore24_product_id: 683577
 title: "Neustart Coaching"
 vendor: "optima_gesundheitsberatung"
 product_type: "Telephone coaching"
-price: 655.18
+price: 656.35
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 98.28
+earnings_per_sale: 98.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-04-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://optima-gesundheitsberatung.de/messenger-coaching/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neustart Coaching
 
 > Product ID `56242` · Digistore24 productId `683577` · [HTML profile page](../../produkte/neustart-coaching-56242.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $655.18 (Single payment) |
+| Price | $656.35 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $98.28 |
+| Earnings/sale* | $98.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optima_gesundheitsberatung |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neustart Coaching? — Typ: Telephone coaching, Anbieter: optima_gesundheitsberatung, gelistet seit 2026-04-09
-- Wie viel kostet es? — 655.1752060000001 USD
+- Wie viel kostet es? — 656.346626 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

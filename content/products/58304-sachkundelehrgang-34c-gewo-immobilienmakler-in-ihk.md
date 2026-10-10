@@ -4,15 +4,15 @@ digistore24_product_id: 721130
 title: "Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 281.06
+price: 281.56
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.27
+earnings_per_sale: 70.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Law & Justice","Personal Development"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34c-gewo-immobilienmakler-in-ihk/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)
 
 > Product ID `58304` · Digistore24 productId `721130` · [HTML profile page](../../produkte/sachkundelehrgang-34c-gewo-immobilienmakler-in-ihk-58304.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.06 (Single payment) |
+| Price | $281.56 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.27 |
+| Earnings/sale* | $70.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sachkundelehrgang · § 34c GewO Immobilienmakler/-in (IHK)? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-08-12
-- Wie viel kostet es? — 281.059436 USD
+- Wie viel kostet es? — 281.561956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

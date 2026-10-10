@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Services"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734232?aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Geld verdienen mit digitalen Dienstleistungen
 
 > Product ID `59627` · Digistore24 productId `734232` · [HTML profile page](../../produkte/geld-verdienen-mit-digitalen-dienstleistungen-59627.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

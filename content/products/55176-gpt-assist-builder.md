@@ -4,15 +4,15 @@ digistore24_product_id: 554813
 title: "GPT Assist Builder"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 108.5
+price: 108.7
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 43.4
+earnings_per_sale: 43.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-05-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cash4lead.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GPT Assist Builder
 
 > Product ID `55176` · Digistore24 productId `554813` · [HTML profile page](../../produkte/gpt-assist-builder-55176.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.50 (Single payment) |
+| Price | $108.70 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $43.40 |
+| Earnings/sale* | $43.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GPT Assist Builder? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2024-05-30
-- Wie viel kostet es? — 108.5042 USD
+- Wie viel kostet es? — 108.6982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

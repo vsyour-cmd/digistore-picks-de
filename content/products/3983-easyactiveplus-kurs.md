@@ -4,15 +4,15 @@ digistore24_product_id: 25521
 title: "EasyActivePlus-Kurs"
 vendor: "crack1967"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.35
+earnings_per_sale: 27.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://easyactiveplus.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # EasyActivePlus-Kurs
 
 > Product ID `3983` · Digistore24 productId `25521` · [HTML profile page](../../produkte/easyactiveplus-kurs-3983.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.35 |
+| Earnings/sale* | $27.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | crack1967 |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EasyActivePlus-Kurs? — Typ: Member area and video courses, Anbieter: crack1967, gelistet seit 2014-05-12
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

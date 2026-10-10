@@ -4,15 +4,15 @@ digistore24_product_id: 451681
 title: "UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®"
 vendor: "KellyMalottke"
 product_type: "Member area and video courses"
-price: 122.65
+price: 122.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 146.58
+earnings_per_sale: 146.84
 cart_conversion_pct: 8
 cancel_rate_pct: 4.39
 categories: ["Family & Children"]
 listed_since: "2022-07-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.zauberhafte-babyhaende.de/unlimited?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®
 
 > Product ID `55092` · Digistore24 productId `451681` · [HTML profile page](../../produkte/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.65 (Single payment) |
+| Price | $122.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $146.58 |
+| Earnings/sale* | $146.84 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.39% |
 | Vendor | KellyMalottke |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®? — Typ: Member area and video courses, Anbieter: KellyMalottke, gelistet seit 2022-07-19
-- Wie viel kostet es? — 122.65449000000001 USD
+- Wie viel kostet es? — 122.87379000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

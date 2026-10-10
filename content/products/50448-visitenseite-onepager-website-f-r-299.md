@@ -4,7 +4,7 @@ digistore24_product_id: 570011
 title: "Visitenseite | Onepager-Website für 299 €"
 vendor: "janschulzesiebert"
 product_type: "Remote service provided electronically"
-price: 452.9
+price: 453.71
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 14
 cancel_rate_pct: 9.85
 categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
 listed_since: "2024-09-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://visitenseite.de/angebot?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Visitenseite | Onepager-Website für 299 €
 
 > Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../produkte/visitenseite-onepager-website-f-r-299-50448.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $452.90 (Single payment) |
+| Price | $453.71 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 14% |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Visitenseite | Onepager-Website für 299 €? — Typ: Remote service provided electronically, Anbieter: janschulzesiebert, gelistet seit 2024-09-12
-- Wie viel kostet es? — 452.898768 USD
+- Wie viel kostet es? — 453.708528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

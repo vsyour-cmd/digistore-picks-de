@@ -4,15 +4,15 @@ digistore24_product_id: 655771
 title: "Workbook – Dein Lebenslauf"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.7
+earnings_per_sale: 11.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2025-12-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-lebenslauf-landingpage/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Workbook – Dein Lebenslauf
 
 > Product ID `55513` · Digistore24 productId `655771` · [HTML profile page](../../produkte/workbook-dein-lebenslauf-55513.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.70 |
+| Earnings/sale* | $11.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workbook – Dein Lebenslauf? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2025-12-16
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

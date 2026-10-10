@@ -4,15 +4,15 @@ digistore24_product_id: 567558
 title: "Die 7 Schritte Brooklyn-Strategie"
 vendor: "carstenfeuerbach"
 product_type: "E-books"
-price: 7.87
+price: 7.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.24
+earnings_per_sale: 3.25
 cart_conversion_pct: 18
 cancel_rate_pct: 2.54
 categories: ["Education","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-08-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://q16jd1.eu-2.quentn-site.com/brooklyn-strategie-1?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 7 Schritte Brooklyn-Strategie
 
 > Product ID `51046` · Digistore24 productId `567558` · [HTML profile page](../../produkte/die-7-schritte-brooklyn-strategie-51046.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.87 (Single payment) |
+| Price | $7.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.24 |
+| Earnings/sale* | $3.25 |
 | Cart conversion* | 18% |
 | Cancel rate* | 2.54% |
 | Vendor | carstenfeuerbach |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 7 Schritte Brooklyn-Strategie? — Typ: E-books, Anbieter: carstenfeuerbach, gelistet seit 2024-08-29
-- Wie viel kostet es? — 7.874944 USD
+- Wie viel kostet es? — 7.889024 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

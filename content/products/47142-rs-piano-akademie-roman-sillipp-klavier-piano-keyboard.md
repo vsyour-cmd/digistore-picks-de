@@ -4,15 +4,15 @@ digistore24_product_id: 604618
 title: "RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)"
 vendor: "Roman_Sillipp"
 product_type: "Member area and video courses"
-price: 1308.48
+price: 1310.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 654.25
+earnings_per_sale: 655.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Fun & Games","Profession & Job"]
 listed_since: "2025-03-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://romansillipp.com/mitgliederbereich/kursvorstellung/kurs-a-grundlagenkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)
 
 > Product ID `47142` · Digistore24 productId `604618` · [HTML profile page](../../produkte/rs-piano-akademie-roman-sillipp-klavier-piano-keyboard-47142.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1308.48 (Single payment, Installment) |
+| Price | $1310.82 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $654.25 |
+| Earnings/sale* | $655.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Roman_Sillipp |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)? — Typ: Member area and video courses, Anbieter: Roman_Sillipp, gelistet seit 2025-03-30
-- Wie viel kostet es? — 1308.48235 USD
+- Wie viel kostet es? — 1310.82185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

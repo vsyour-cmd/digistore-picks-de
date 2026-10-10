@@ -4,7 +4,7 @@ digistore24_product_id: 347602
 title: "Dein Weg zu mehr finanziellem Spielraum"
 vendor: "regson"
 product_type: "Book (printed)"
-price: 7.27
+price: 7.28
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.64
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-09-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/347602/adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Dein Weg zu mehr finanziellem Spielraum
 
 > Product ID `34313` · Digistore24 productId `347602` · [HTML profile page](../../produkte/dein-weg-zu-mehr-finanziellem-spielraum-34313.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.27 (Single payment) |
+| Price | $7.28 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.64 |
 | Cart conversion* | — |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Weg zu mehr finanziellem Spielraum? — Typ: Book (printed), Anbieter: regson, gelistet seit 2020-09-11
-- Wie viel kostet es? — 7.2709 USD
+- Wie viel kostet es? — 7.2839 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

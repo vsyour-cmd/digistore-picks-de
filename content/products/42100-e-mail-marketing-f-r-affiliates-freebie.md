@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.78
+earnings_per_sale: 3.79
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Email Marketing"]
 listed_since: "2022-10-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://kb-om.com/e-mail-marketing-fuer-affiliates-ds24/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Freebie
 
 > Product ID `42100` · Digistore24 productId `464834` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-freebie-42100.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.78 |
+| Earnings/sale* | $3.79 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.86% |
 | Vendor | Plebvin |
@@ -64,7 +64,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Marketing für Affiliates - Freebie? — Typ: E-books, Anbieter: Plebvin, gelistet seit 2022-10-15
-- Wie viel kostet es? — 0.6264160000000001 USD
+- Wie viel kostet es? — 0.6275360000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

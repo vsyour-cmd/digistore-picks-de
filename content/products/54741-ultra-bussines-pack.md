@@ -4,15 +4,15 @@ digistore24_product_id: 650523
 title: "Ultra bussines Pack"
 vendor: "Adem21"
 product_type: "Member area and video courses"
-price: 10.18
+price: 10.2
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.11
+earnings_per_sale: 6.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services"]
 listed_since: "2025-11-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/650523?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ultra bussines Pack
 
 > Product ID `54741` · Digistore24 productId `650523` · [HTML profile page](../../produkte/ultra-bussines-pack-54741.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $10.18 (Single payment) |
+| Price | $10.20 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.11 |
+| Earnings/sale* | $6.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Adem21 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ultra bussines Pack? — Typ: Member area and video courses, Anbieter: Adem21, gelistet seit 2025-11-23
-- Wie viel kostet es? — 10.17926 USD
+- Wie viel kostet es? — 10.19746 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

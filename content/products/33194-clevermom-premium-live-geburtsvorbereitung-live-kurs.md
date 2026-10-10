@@ -4,15 +4,15 @@ digistore24_product_id: 293258
 title: "CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs"
 vendor: "CleverMom"
 product_type: "Member area and video courses"
-price: 131.6
+price: 131.84
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 46.06
+earnings_per_sale: 46.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2019-11-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://clevermom.de/onlinekurs-geburtsvorbereitung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs
 
 > Product ID `33194` · Digistore24 productId `293258` · [HTML profile page](../../produkte/clevermom-premium-live-geburtsvorbereitung-live-kurs-33194.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $131.60 (Single payment) |
+| Price | $131.84 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $46.06 |
+| Earnings/sale* | $46.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CleverMom |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs? — Typ: Member area and video courses, Anbieter: CleverMom, gelistet seit 2019-11-02
-- Wie viel kostet es? — 131.60329000000002 USD
+- Wie viel kostet es? — 131.83859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

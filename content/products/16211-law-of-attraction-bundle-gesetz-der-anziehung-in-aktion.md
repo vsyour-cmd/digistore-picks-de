@@ -4,15 +4,15 @@ digistore24_product_id: 133181
 title: "Law of Attraction Bundle – Gesetz der Anziehung in Aktion"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.63
+price: 267.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.55
+earnings_per_sale: 98.72
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2017-04-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/law-of-attraction-bundle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Law of Attraction Bundle – Gesetz der Anziehung in Aktion
 
 > Product ID `16211` · Digistore24 productId `133181` · [HTML profile page](../../produkte/law-of-attraction-bundle-gesetz-der-anziehung-in-aktion-16211.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.63 (Single payment) |
+| Price | $267.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.55 |
+| Earnings/sale* | $98.72 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Law of Attraction Bundle – Gesetz der Anziehung in Aktion? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-04-19
-- Wie viel kostet es? — 266.629496 USD
+- Wie viel kostet es? — 267.106216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

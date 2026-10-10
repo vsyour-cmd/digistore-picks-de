@@ -4,7 +4,7 @@ digistore24_product_id: 153427
 title: "5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon"
 vendor: "ImmobilienTycoon"
 product_type: "Book (printed)"
-price: 31.31
+price: 31.37
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-07-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.immobilien-tycoon.com/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon
 
 > Product ID `18839` · Digistore24 productId `153427` · [HTML profile page](../../produkte/5-provision-pro-gratis-buchverkauf-immobilien-tycoon-18839.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.31 (Single payment) |
+| Price | $31.37 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5€ Provision pro GRATIS Buchverkauf! Immobilien Tycoon? — Typ: Book (printed), Anbieter: ImmobilienTycoon, gelistet seit 2017-07-27
-- Wie viel kostet es? — 31.309614 USD
+- Wie viel kostet es? — 31.365593999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

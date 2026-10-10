@@ -4,15 +4,15 @@ digistore24_product_id: 325957
 title: "Rückbildungskurs Online"
 vendor: "ltcplus"
 product_type: "Member area and video courses"
-price: 27.98
+price: 28.03
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.13
+earnings_per_sale: 13.16
 cart_conversion_pct: 31
 cancel_rate_pct: 0.98
 categories: ["Health & Fitness"]
 listed_since: "2020-05-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://myhebamme24.de/rueckbildungskurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Rückbildungskurs Online
 
 > Product ID `33271` · Digistore24 productId `325957` · [HTML profile page](../../produkte/r-ckbildungskurs-online-33271.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.98 (Single payment) |
+| Price | $28.03 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.13 |
+| Earnings/sale* | $13.16 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.98% |
 | Vendor | ltcplus |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückbildungskurs Online? — Typ: Member area and video courses, Anbieter: ltcplus, gelistet seit 2020-05-11
-- Wie viel kostet es? — 27.976186000000002 USD
+- Wie viel kostet es? — 28.026206000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

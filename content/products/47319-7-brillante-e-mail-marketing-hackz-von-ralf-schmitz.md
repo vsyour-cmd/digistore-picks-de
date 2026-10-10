@@ -12,7 +12,7 @@ cart_conversion_pct: 44
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2020-02-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://emailmarketinghackz.com/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz
 
 > Product ID `47319` · Digistore24 productId `310034` · [HTML profile page](../../produkte/7-brillante-e-mail-marketing-hackz-von-ralf-schmitz-47319.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz? — Typ: Downloads, Anbieter: RalfSchmitz, gelistet seit 2020-02-26
-- Wie viel kostet es? — 0.011186 USD
+- Wie viel kostet es? — 0.011206 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

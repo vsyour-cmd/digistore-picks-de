@@ -4,15 +4,15 @@ digistore24_product_id: 742563
 title: "Was darf´s kosten?"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 43.63
+price: 43.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 21.81
+earnings_per_sale: 21.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742563?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Was darf´s kosten?
 
 > Product ID `60226` · Digistore24 productId `742563` · [HTML profile page](../../produkte/was-darf-s-kosten-60226.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.63 (Single payment) |
+| Price | $43.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $21.81 |
+| Earnings/sale* | $21.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Was darf´s kosten?? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 43.6254 USD
+- Wie viel kostet es? — 43.7034 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

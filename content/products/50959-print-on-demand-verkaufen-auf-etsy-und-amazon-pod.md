@@ -4,15 +4,15 @@ digistore24_product_id: 590509
 title: "Print on Demand, Verkaufen auf Etsy und Amazon, POD"
 vendor: "Cansoul"
 product_type: "Downloads"
-price: 23.5
+price: 23.54
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/590509?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Print on Demand, Verkaufen auf Etsy und Amazon, POD
 
 > Product ID `50959` · Digistore24 productId `590509` · [HTML profile page](../../produkte/print-on-demand-verkaufen-auf-etsy-und-amazon-pod-50959.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.50 (Single payment) |
+| Price | $23.54 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cansoul |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Print on Demand, Verkaufen auf Etsy und Amazon, POD? — Typ: Downloads, Anbieter: Cansoul, gelistet seit 2025-01-15
-- Wie viel kostet es? — 23.501786000000003 USD
+- Wie viel kostet es? — 23.543806000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

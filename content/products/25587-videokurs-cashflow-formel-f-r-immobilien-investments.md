@@ -4,15 +4,15 @@ digistore24_product_id: 363165
 title: "Videokurs \"Cashflow-Formel für Immobilien-Investments\""
 vendor: "Jederkannimmobilien"
 product_type: "Member area and video courses"
-price: 478.46
+price: 479.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 143.54
+earnings_per_sale: 143.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-12-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs "Cashflow-Formel für Immobilien-Investments"
 
 > Product ID `25587` · Digistore24 productId `363165` · [HTML profile page](../../produkte/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $478.46 (Single payment, Installment) |
+| Price | $479.31 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $143.54 |
+| Earnings/sale* | $143.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jederkannimmobilien |
@@ -108,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Cashflow-Formel für Immobilien-Investments"? — Typ: Member area and video courses, Anbieter: Jederkannimmobilien, gelistet seit 2020-12-16
-- Wie viel kostet es? — 478.45877800000005 USD
+- Wie viel kostet es? — 479.31423800000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

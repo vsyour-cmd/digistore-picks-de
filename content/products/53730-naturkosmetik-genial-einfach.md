@@ -4,15 +4,15 @@ digistore24_product_id: 525075
 title: "Naturkosmetik genial einfach"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 80.52
+price: 80.66
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 34.24
+earnings_per_sale: 34.3
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-11-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/nkge-onlinekurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Naturkosmetik genial einfach
 
 > Product ID `53730` · Digistore24 productId `525075` · [HTML profile page](../../produkte/naturkosmetik-genial-einfach-53730.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $80.52 (Single payment, Installment) |
+| Price | $80.66 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $34.24 |
+| Earnings/sale* | $34.30 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturkosmetik genial einfach? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-13
-- Wie viel kostet es? — 80.516828 USD
+- Wie viel kostet es? — 80.66078800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

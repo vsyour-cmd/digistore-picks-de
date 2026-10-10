@@ -4,15 +4,15 @@ digistore24_product_id: 582142
 title: "50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 65.76
+price: 65.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.89
+earnings_per_sale: 32.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://seelengarten-phoenix.com/bundle-power-typen-paket?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp
 
 > Product ID `50527` · Digistore24 productId `582142` · [HTML profile page](../../produkte/50-provision-pro-sale-entdecke-alle-4-pers-nlichkeitstyp-50527.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $65.76 (Single payment) |
+| Price | $65.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.89 |
+| Earnings/sale* | $32.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 65.762494 USD
+- Wie viel kostet es? — 65.88007400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 620915
 title: "designdeinverein.de – Einfaches Vereins-Branding für Social"
 vendor: "agemcymedia"
 product_type: "Remote service provided electronically"
-price: 393.86
+price: 394.56
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 78.77
+earnings_per_sale: 78.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport","Marketing Services"]
 listed_since: "2025-06-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designdeinverein.de/pakete/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # designdeinverein.de – Einfaches Vereins-Branding für Social
 
 > Product ID `53718` · Digistore24 productId `620915` · [HTML profile page](../../produkte/designdeinverein-de-einfaches-vereins-branding-f-r-social-53718.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $393.86 (Subscription) |
+| Price | $394.56 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $78.77 |
+| Earnings/sale* | $78.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | agemcymedia |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist designdeinverein.de – Einfaches Vereins-Branding für Social? — Typ: Remote service provided electronically, Anbieter: agemcymedia, gelistet seit 2025-06-26
-- Wie viel kostet es? — 393.85906000000006 USD
+- Wie viel kostet es? — 394.56326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

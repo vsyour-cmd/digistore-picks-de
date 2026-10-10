@@ -4,15 +4,15 @@ digistore24_product_id: 679015
 title: "PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus"
 vendor: "Marius3"
 product_type: "Remote service provided electronically"
-price: 937.19
+price: 938.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 468.59
+earnings_per_sale: 469.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus
 
 > Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../produkte/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $937.19 (Single payment) |
+| Price | $938.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $468.59 |
+| Earnings/sale* | $469.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Marius3 |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus? — Typ: Remote service provided electronically, Anbieter: Marius3, gelistet seit 2026-03-24
-- Wie viel kostet es? — 937.185452 USD
+- Wie viel kostet es? — 938.8610920000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

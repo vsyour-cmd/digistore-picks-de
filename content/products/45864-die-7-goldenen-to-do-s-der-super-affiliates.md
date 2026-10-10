@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://affiliforge.net/die-7-goldenen-to-dos?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Die 7 goldenen To-Do´s der Super-Affiliates
 
 > Product ID `45864` · Digistore24 productId `523793` · [HTML profile page](../../produkte/die-7-goldenen-to-do-s-der-super-affiliates-45864.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 7 goldenen To-Do´s der Super-Affiliates? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2023-11-04
-- Wie viel kostet es? — 2.449734 USD
+- Wie viel kostet es? — 2.454114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

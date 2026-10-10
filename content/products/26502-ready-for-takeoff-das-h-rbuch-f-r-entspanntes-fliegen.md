@@ -4,15 +4,15 @@ digistore24_product_id: 236650
 title: "Ready for Takeoff - Das Hörbuch für entspanntes Fliegen"
 vendor: "cockpitbuddy"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.08
+earnings_per_sale: 5.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-08-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.cockpitbuddy.com/takeoff?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ready for Takeoff - Das Hörbuch für entspanntes Fliegen
 
 > Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../produkte/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.08 |
+| Earnings/sale* | $5.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cockpitbuddy |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ready for Takeoff - Das Hörbuch für entspanntes Fliegen? — Typ: Downloads, Anbieter: cockpitbuddy, gelistet seit 2018-08-15
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

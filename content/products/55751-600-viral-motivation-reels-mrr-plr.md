@@ -4,15 +4,15 @@ digistore24_product_id: 651543
 title: "600+ Viral Motivation Reels [MRR & PLR]"
 vendor: "MagicPotter"
 product_type: "Downloads"
-price: 22.55
+price: 22.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.28
+earnings_per_sale: 11.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/651543?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 600+ Viral Motivation Reels [MRR & PLR]
 
 > Product ID `55751` · Digistore24 productId `651543` · [HTML profile page](../../produkte/600-viral-motivation-reels-mrr-plr-55751.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.55 (Single payment, Installment) |
+| Price | $22.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.28 |
+| Earnings/sale* | $11.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 600+ Viral Motivation Reels [MRR & PLR]? — Typ: Downloads, Anbieter: MagicPotter, gelistet seit 2025-11-28
-- Wie viel kostet es? — 22.550976000000002 USD
+- Wie viel kostet es? — 22.591296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 701364
 title: "So baust du eine Community auf WhatsApp"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.09
+price: 25.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.55
+earnings_per_sale: 12.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-baust-du-eine-community-auf-whatsapp?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # So baust du eine Community auf WhatsApp
 
 > Product ID `56931` · Digistore24 productId `701364` · [HTML profile page](../../produkte/so-baust-du-eine-community-auf-whatsapp-56931.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.09 (Single payment) |
+| Price | $25.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.55 |
+| Earnings/sale* | $12.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So baust du eine Community auf WhatsApp? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 25.090198 USD
+- Wie viel kostet es? — 25.135058 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

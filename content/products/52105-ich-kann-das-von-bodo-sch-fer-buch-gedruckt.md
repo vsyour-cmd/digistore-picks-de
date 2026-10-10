@@ -4,15 +4,15 @@ digistore24_product_id: 606598
 title: "ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.48
+earnings_per_sale: 5.49
 cart_conversion_pct: 12
 cancel_rate_pct: 0.56
 categories: ["Marketing Services"]
 listed_since: "2025-04-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../produkte/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.48 |
+| Earnings/sale* | $5.49 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0.56% |
 | Vendor | BodoSchaefer |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2025-04-10
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

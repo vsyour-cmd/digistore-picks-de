@@ -4,15 +4,15 @@ digistore24_product_id: 471435
 title: "Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating"
 vendor: "wielandstolzenburg"
 product_type: "Online coaching"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.45
+earnings_per_sale: 19.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2022-11-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/singleletter?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating
 
 > Product ID `42295` · Digistore24 productId `471435` · [HTML profile page](../../produkte/singleletter-der-3monatige-e-mail-kurs-f-r-singles-dating-42295.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $64.86 (Single payment) |
+| Price | $64.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.45 |
+| Earnings/sale* | $19.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Singleletter: Der 3monatige E-Mail-Kurs für Singles + Dating? — Typ: Online coaching, Anbieter: wielandstolzenburg, gelistet seit 2022-11-23
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

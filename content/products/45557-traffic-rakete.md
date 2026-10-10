@@ -4,15 +4,15 @@ digistore24_product_id: 519897
 title: "Traffic Rakete"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 15.53
+earnings_per_sale: 15.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/oksP3Kyy3TLejEFHM?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Traffic Rakete
 
 > Product ID `45557` · Digistore24 productId `519897` · [HTML profile page](../../produkte/traffic-rakete-45557.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $15.53 |
+| Earnings/sale* | $15.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traffic Rakete? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2023-10-08
-- Wie viel kostet es? — 28.222278000000003 USD
+- Wie viel kostet es? — 28.272738 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

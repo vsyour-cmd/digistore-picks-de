@@ -4,15 +4,15 @@ digistore24_product_id: 231925
 title: "Online Hypnose Selbstsicherheit im Sport - Sport Hypnose"
 vendor: "manjushri"
 product_type: "Downloads"
-price: 42.31
+price: 42.38
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.38
+earnings_per_sale: 25.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://online-hypnose.eu/kurs-010-selbstsicherheit-im-sport-sporthypnose/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Hypnose Selbstsicherheit im Sport - Sport Hypnose
 
 > Product ID `25558` · Digistore24 productId `231925` · [HTML profile page](../../produkte/online-hypnose-selbstsicherheit-im-sport-sport-hypnose-25558.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.31 (Single payment) |
+| Price | $42.38 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.38 |
+| Earnings/sale* | $25.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manjushri |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Hypnose Selbstsicherheit im Sport - Sport Hypnose? — Typ: Downloads, Anbieter: manjushri, gelistet seit 2018-07-04
-- Wie viel kostet es? — 42.305452 USD
+- Wie viel kostet es? — 42.381092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

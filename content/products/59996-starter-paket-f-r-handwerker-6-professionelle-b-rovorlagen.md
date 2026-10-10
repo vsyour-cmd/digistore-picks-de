@@ -4,7 +4,7 @@ digistore24_product_id: 736463
 title: "Starter Paket für Handwerker 6 professionelle Bürovorlagen"
 vendor: "kkaufmehl16fe"
 product_type: "Downloads"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.74
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Services"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ks-studiobusiness.carrd.co/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Starter Paket für Handwerker 6 professionelle Bürovorlagen
 
 > Product ID `59996` · Digistore24 productId `736463` · [HTML profile page](../../produkte/starter-paket-f-r-handwerker-6-professionelle-b-rovorlagen-59996.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.74 |
 | Cart conversion* | — |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starter Paket für Handwerker 6 professionelle Bürovorlagen? — Typ: Downloads, Anbieter: kkaufmehl16fe, gelistet seit 2026-09-28
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

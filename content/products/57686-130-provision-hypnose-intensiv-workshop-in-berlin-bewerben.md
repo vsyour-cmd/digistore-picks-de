@@ -4,15 +4,15 @@ digistore24_product_id: 711304
 title: "130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben"
 vendor: "Jafmar"
 product_type: "Seminar for business customers"
-price: 653.3
+price: 654.46
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 145.42
+earnings_per_sale: 145.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://september.hypnose-erfolg.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben
 
 > Product ID `57686` · Digistore24 productId `711304` · [HTML profile page](../../produkte/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $653.30 (Single payment) |
+| Price | $654.46 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $145.42 |
+| Earnings/sale* | $145.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jafmar |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben? — Typ: Seminar for business customers, Anbieter: Jafmar, gelistet seit 2026-07-22
-- Wie viel kostet es? — 653.295958 USD
+- Wie viel kostet es? — 654.464018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

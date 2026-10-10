@@ -4,15 +4,15 @@ digistore24_product_id: 512303
 title: "Holistic Mobility DEEP [Online Kurs]"
 vendor: "timboettner"
 product_type: "Member area and video courses"
-price: 328.06
+price: 328.65
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.62
+earnings_per_sale: 65.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512303?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Holistic Mobility DEEP [Online Kurs]
 
 > Product ID `45057` · Digistore24 productId `512303` · [HTML profile page](../../produkte/holistic-mobility-deep-online-kurs-45057.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.06 (Single payment, Installment) |
+| Price | $328.65 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.62 |
+| Earnings/sale* | $65.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | timboettner |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Holistic Mobility DEEP [Online Kurs]? — Typ: Member area and video courses, Anbieter: timboettner, gelistet seit 2023-08-17
-- Wie viel kostet es? — 328.06300799999997 USD
+- Wie viel kostet es? — 328.649568 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

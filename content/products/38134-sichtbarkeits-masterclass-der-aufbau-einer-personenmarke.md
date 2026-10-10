@@ -4,15 +4,15 @@ digistore24_product_id: 314882
 title: "Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke"
 vendor: "mdinet"
 product_type: "Member area and video courses"
-price: 239.7
+price: 240.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 119.86
+earnings_per_sale: 120.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke
 
 > Product ID `38134` · Digistore24 productId `314882` · [HTML profile page](../../produkte/sichtbarkeits-masterclass-der-aufbau-einer-personenmarke-38134.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $239.70 (Single payment, Installment) |
+| Price | $240.13 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $119.86 |
+| Earnings/sale* | $120.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mdinet |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke? — Typ: Member area and video courses, Anbieter: mdinet, gelistet seit 2020-03-23
-- Wie viel kostet es? — 239.704794 USD
+- Wie viel kostet es? — 240.133374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

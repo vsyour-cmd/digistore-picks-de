@@ -4,15 +4,15 @@ digistore24_product_id: 76523
 title: "SWOT-Analyse Excel-Vorlage Premium Upgrade"
 vendor: "meckseo"
 product_type: "Downloads"
-price: 11.28
+price: 11.3
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.51
+earnings_per_sale: 4.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-03-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://swot-analyse.net/premium-upgrade/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SWOT-Analyse Excel-Vorlage Premium Upgrade
 
 > Product ID `12265` · Digistore24 productId `76523` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-premium-upgrade-12265.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.28 (Single payment) |
+| Price | $11.30 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.51 |
+| Earnings/sale* | $4.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meckseo |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SWOT-Analyse Excel-Vorlage Premium Upgrade? — Typ: Downloads, Anbieter: meckseo, gelistet seit 2016-03-31
-- Wie viel kostet es? — 11.275488000000001 USD
+- Wie viel kostet es? — 11.295648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

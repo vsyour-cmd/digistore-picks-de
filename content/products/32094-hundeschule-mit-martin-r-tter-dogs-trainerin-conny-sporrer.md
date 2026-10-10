@@ -4,15 +4,15 @@ digistore24_product_id: 313967
 title: "Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer"
 vendor: "trafficoftrust"
 product_type: "Member area and video courses"
-price: 376
+price: 376.67
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 62.38
+earnings_per_sale: 62.5
 cart_conversion_pct: 14
 cancel_rate_pct: 3.7
 categories: ["Animals & Pets"]
 listed_since: "2020-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hundetraining.me?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer
 
 > Product ID `32094` · Digistore24 productId `313967` · [HTML profile page](../../produkte/hundeschule-mit-martin-r-tter-dogs-trainerin-conny-sporrer-32094.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $376.00 (Subscription) |
+| Price | $376.67 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $62.38 |
+| Earnings/sale* | $62.50 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.7% |
 | Vendor | trafficoftrust |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer? — Typ: Member area and video courses, Anbieter: trafficoftrust, gelistet seit 2020-03-19
-- Wie viel kostet es? — 375.995018 USD
+- Wie viel kostet es? — 376.667278 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

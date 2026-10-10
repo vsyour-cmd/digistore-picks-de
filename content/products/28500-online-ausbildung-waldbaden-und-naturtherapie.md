@@ -4,15 +4,15 @@ digistore24_product_id: 266706
 title: "Online-Ausbildung \"Waldbaden und Naturtherapie\""
 vendor: "growstudio"
 product_type: "Member area and video courses"
-price: 185.18
+price: 185.52
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 55.56
+earnings_per_sale: 55.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Home & Garden","Profession & Job"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.ganzheitliche-heilung.de/waldbaden/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Ausbildung "Waldbaden und Naturtherapie"
 
 > Product ID `28500` · Digistore24 productId `266706` · [HTML profile page](../../produkte/online-ausbildung-waldbaden-und-naturtherapie-28500.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.18 (Single payment, Installment) |
+| Price | $185.52 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $55.56 |
+| Earnings/sale* | $55.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | growstudio |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ausbildung "Waldbaden und Naturtherapie"? — Typ: Member area and video courses, Anbieter: growstudio, gelistet seit 2019-04-04
-- Wie viel kostet es? — 185.18423 USD
+- Wie viel kostet es? — 185.51533 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

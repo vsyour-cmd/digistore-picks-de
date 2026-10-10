@@ -4,15 +4,15 @@ digistore24_product_id: 634910
 title: "[NEU] Fuck Smalltalk 2.0 - zu verschenken | Buch (gedruckt)"
 vendor: "Erschaffedichneu"
 product_type: "Book (printed)"
-price: 11.9
+price: 11.92
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 6.24
+earnings_per_sale: 6.25
 cart_conversion_pct: 15
 cancel_rate_pct: 1.23
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://erschaffedichneu.com/f-k-smalltalk?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] Fuck Smalltalk 2.0 - zu verschenken | Buch (gedruckt)
 
 > Product ID `54519` · Digistore24 productId `634910` · [HTML profile page](../../produkte/neu-fuck-smalltalk-2-0-zu-verschenken-buch-gedruckt-54519.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.90 (Single payment) |
+| Price | $11.92 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $6.24 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | 15% |
 | Cancel rate* | 1.23% |
 | Vendor | Erschaffedichneu |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Fuck Smalltalk 2.0 - zu verschenken | Buch (gedruckt)? — Typ: Book (printed), Anbieter: Erschaffedichneu, gelistet seit 2025-09-10
-- Wie viel kostet es? — 11.901904000000002 USD
+- Wie viel kostet es? — 11.923184000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

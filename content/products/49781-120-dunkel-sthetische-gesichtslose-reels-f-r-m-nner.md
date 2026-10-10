@@ -4,7 +4,7 @@ digistore24_product_id: 572291
 title: "120+ dunkelästhetische gesichtslose Reels für Männer"
 vendor: "NiclasH"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.47
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Health & Fitness"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/572291?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 120+ dunkelästhetische gesichtslose Reels für Männer
 
 > Product ID `49781` · Digistore24 productId `572291` · [HTML profile page](../../produkte/120-dunkel-sthetische-gesichtslose-reels-f-r-m-nner-49781.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.47 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 120+ dunkelästhetische gesichtslose Reels für Männer? — Typ: Downloads, Anbieter: NiclasH, gelistet seit 2024-09-25
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

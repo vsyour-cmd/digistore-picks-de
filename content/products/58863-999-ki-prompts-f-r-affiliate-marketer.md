@@ -4,15 +4,15 @@ digistore24_product_id: 728764
 title: "999 KI-Prompts für Affiliate-Marketer"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 5.58
+price: 5.59
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 3.34
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728764?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 999 KI-Prompts für Affiliate-Marketer
 
 > Product ID `58863` · Digistore24 productId `728764` · [HTML profile page](../../produkte/999-ki-prompts-f-r-affiliate-marketer-58863.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.58 (Single payment) |
+| Price | $5.59 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $3.34 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 999 KI-Prompts für Affiliate-Marketer? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-02
-- Wie viel kostet es? — 5.5818140000000005 USD
+- Wie viel kostet es? — 5.591794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

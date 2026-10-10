@@ -4,15 +4,15 @@ digistore24_product_id: 93941
 title: "FUERTE: Fuerteventura Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 17.33
+price: 17.36
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 2.93
+earnings_per_sale: 2.94
 cart_conversion_pct: 21
 cancel_rate_pct: 1.58
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2016-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/fuerteventura-bildband/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FUERTE: Fuerteventura Bildband [E-Book]
 
 > Product ID `34089` · Digistore24 productId `93941` · [HTML profile page](../../produkte/fuerte-fuerteventura-bildband-e-book-34089.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.33 (Single payment) |
+| Price | $17.36 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $2.93 |
+| Earnings/sale* | $2.94 |
 | Cart conversion* | 21% |
 | Cancel rate* | 1.58% |
 | Vendor | rheinrost |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FUERTE: Fuerteventura Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-09-03
-- Wie viel kostet es? — 17.327114 USD
+- Wie viel kostet es? — 17.358094 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

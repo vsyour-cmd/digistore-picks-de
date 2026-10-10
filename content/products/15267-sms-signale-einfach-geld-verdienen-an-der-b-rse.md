@@ -4,15 +4,15 @@ digistore24_product_id: 99275
 title: "SMS-Signale - einfach Geld verdienen an der Börse"
 vendor: "samuelwartmann"
 product_type: "E-books"
-price: 1353.57
+price: 1355.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.61
+earnings_per_sale: 54.71
 cart_conversion_pct: 17
 cancel_rate_pct: 1.49
 categories: ["Business & Investment"]
 listed_since: "2016-10-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.sms-signale.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SMS-Signale - einfach Geld verdienen an der Börse
 
 > Product ID `15267` · Digistore24 productId `99275` · [HTML profile page](../../produkte/sms-signale-einfach-geld-verdienen-an-der-b-rse-15267.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1353.57 (Subscription, Installment) |
+| Price | $1355.99 (Subscription, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.61 |
+| Earnings/sale* | $54.71 |
 | Cart conversion* | 17% |
 | Cancel rate* | 1.49% |
 | Vendor | samuelwartmann |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SMS-Signale - einfach Geld verdienen an der Börse? — Typ: E-books, Anbieter: samuelwartmann, gelistet seit 2016-10-11
-- Wie viel kostet es? — 1353.573116 USD
+- Wie viel kostet es? — 1355.993236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

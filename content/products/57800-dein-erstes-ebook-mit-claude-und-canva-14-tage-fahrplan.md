@@ -4,15 +4,15 @@ digistore24_product_id: 716190
 title: "Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan"
 vendor: "webtrafficde"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.34
+earnings_per_sale: 5.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://success.webtraffic.de/ebooks/claude_canva/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan
 
 > Product ID `57800` · Digistore24 productId `716190` · [HTML profile page](../../produkte/dein-erstes-ebook-mit-claude-und-canva-14-tage-fahrplan-57800.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.34 |
+| Earnings/sale* | $5.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | webtrafficde |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan? — Typ: E-books, Anbieter: webtrafficde, gelistet seit 2026-07-29
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

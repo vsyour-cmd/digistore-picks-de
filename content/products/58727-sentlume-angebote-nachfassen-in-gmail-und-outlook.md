@@ -4,15 +4,15 @@ digistore24_product_id: 724926
 title: "Sentlume – Angebote nachfassen in Gmail und Outlook"
 vendor: "enginucar"
 product_type: "Software"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.81
+earnings_per_sale: 13.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sentlume.pages.dev/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sentlume – Angebote nachfassen in Gmail und Outlook
 
 > Product ID `58727` · Digistore24 productId `724926` · [HTML profile page](../../produkte/sentlume-angebote-nachfassen-in-gmail-und-outlook-58727.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.06 (Subscription) |
+| Price | $46.15 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.81 |
+| Earnings/sale* | $13.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enginucar |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sentlume – Angebote nachfassen in Gmail und Outlook? — Typ: Software, Anbieter: enginucar, gelistet seit 2026-08-27
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

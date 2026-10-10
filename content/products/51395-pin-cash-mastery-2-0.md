@@ -4,15 +4,15 @@ digistore24_product_id: 577857
 title: "Pin-Cash Mastery 2.0"
 vendor: "YannickBre"
 product_type: "Member area and video courses"
-price: 100.29
+price: 100.47
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 60.18
+earnings_per_sale: 60.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.affiliate-akademie.com/pin-cash-mastery-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pin-Cash Mastery 2.0
 
 > Product ID `51395` · Digistore24 productId `577857` · [HTML profile page](../../produkte/pin-cash-mastery-2-0-51395.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $100.29 (Single payment, Installment) |
+| Price | $100.47 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $60.18 |
+| Earnings/sale* | $60.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | YannickBre |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pin-Cash Mastery 2.0? — Typ: Member area and video courses, Anbieter: YannickBre, gelistet seit 2024-10-29
-- Wie viel kostet es? — 100.293676 USD
+- Wie viel kostet es? — 100.472996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

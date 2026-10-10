@@ -4,15 +4,15 @@ digistore24_product_id: 430475
 title: "Online Minikurs \"Dein Pferd dein Coach\""
 vendor: "AlexandraLohr"
 product_type: "Webinar"
-price: 215.26
+price: 215.65
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 43.05
+earnings_per_sale: 43.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/430475?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Minikurs "Dein Pferd dein Coach"
 
 > Product ID `39339` · Digistore24 productId `430475` · [HTML profile page](../../produkte/online-minikurs-dein-pferd-dein-coach-39339.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $215.26 (Single payment) |
+| Price | $215.65 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $43.05 |
+| Earnings/sale* | $43.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Minikurs "Dein Pferd dein Coach"? — Typ: Webinar, Anbieter: AlexandraLohr, gelistet seit 2022-02-18
-- Wie viel kostet es? — 215.263384 USD
+- Wie viel kostet es? — 215.648264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

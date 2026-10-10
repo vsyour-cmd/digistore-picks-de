@@ -4,15 +4,15 @@ digistore24_product_id: 411785
 title: "Vermögensaufbau leicht gemacht - Das Buch"
 vendor: "informationsforum100"
 product_type: "Book (printed)"
-price: 6.22
+price: 6.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.11
+earnings_per_sale: 3.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2021-10-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.claus-roppel-buch.de/buch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vermögensaufbau leicht gemacht - Das Buch
 
 > Product ID `38408` · Digistore24 productId `411785` · [HTML profile page](../../produkte/verm-gensaufbau-leicht-gemacht-das-buch-38408.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.22 (Single payment) |
+| Price | $6.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.11 |
+| Earnings/sale* | $3.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | informationsforum100 |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermögensaufbau leicht gemacht - Das Buch? — Typ: Book (printed), Anbieter: informationsforum100, gelistet seit 2021-10-13
-- Wie viel kostet es? — 6.219416 USD
+- Wie viel kostet es? — 6.230536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

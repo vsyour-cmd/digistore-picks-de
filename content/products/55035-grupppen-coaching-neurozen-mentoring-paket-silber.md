@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://holistic-life.coachy.net/lp/1-1-coaching-gold/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Grupppen Coaching / NeuroZen® Mentoring Paket "Silber"
 
 > Product ID `55035` · Digistore24 productId `634778` · [HTML profile page](../../produkte/grupppen-coaching-neurozen-mentoring-paket-silber-55035.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

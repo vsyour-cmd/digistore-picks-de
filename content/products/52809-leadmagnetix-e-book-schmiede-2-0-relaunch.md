@@ -4,15 +4,15 @@ digistore24_product_id: 616865
 title: "Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 28.19
+price: 28.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/ebook-schmiede?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)
 
 > Product ID `52809` · Digistore24 productId `616865` · [HTML profile page](../../produkte/leadmagnetix-e-book-schmiede-2-0-relaunch-52809.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.19 (Single payment) |
+| Price | $28.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 28.18872 USD
+- Wie viel kostet es? — 28.23912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

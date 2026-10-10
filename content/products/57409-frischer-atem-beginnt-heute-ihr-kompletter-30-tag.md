@@ -4,15 +4,15 @@ digistore24_product_id: 708518
 title: "Frischer Atem beginnt heute – Ihr kompletter 30-Tag"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 46.9
+price: 46.99
 currency: "USD"
 affiliate_commission_pct: 52
-earnings_per_sale: 24.39
+earnings_per_sale: 24.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Skin Care"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://freshbreath-24-de.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frischer Atem beginnt heute – Ihr kompletter 30-Tag
 
 > Product ID `57409` · Digistore24 productId `708518` · [HTML profile page](../../produkte/frischer-atem-beginnt-heute-ihr-kompletter-30-tag-57409.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.90 (Single payment) |
+| Price | $46.99 (Single payment) |
 | Affiliate commission | 52% |
-| Earnings/sale* | $24.39 |
+| Earnings/sale* | $24.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frischer Atem beginnt heute – Ihr kompletter 30-Tag? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-07-05
-- Wie viel kostet es? — 46.902898 USD
+- Wie viel kostet es? — 46.986758 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

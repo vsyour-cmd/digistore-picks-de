@@ -4,15 +4,15 @@ digistore24_product_id: 368033
 title: "Liebeskummer stoppen | Hypnose Audio"
 vendor: "HypnoseC"
 product_type: "Downloads"
-price: 24.44
+price: 24.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.23
+earnings_per_sale: 12.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://rdmmdl.wixsite.com/liebeskummer-stoppen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Liebeskummer stoppen | Hypnose Audio
 
 > Product ID `38504` · Digistore24 productId `368033` · [HTML profile page](../../produkte/liebeskummer-stoppen-hypnose-audio-38504.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.44 (Single payment, Installment) |
+| Price | $24.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.23 |
+| Earnings/sale* | $12.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HypnoseC |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liebeskummer stoppen | Hypnose Audio? — Typ: Downloads, Anbieter: HypnoseC, gelistet seit 2021-01-15
-- Wie viel kostet es? — 24.44141 USD
+- Wie viel kostet es? — 24.485110000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 556210
 title: "Magische Mandalas - Dein Ausmalbuch für innere Balance"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 6.26
+price: 6.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Hobby & Craft"]
 listed_since: "2024-06-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556210?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Magische Mandalas - Dein Ausmalbuch für innere Balance
 
 > Product ID `48336` · Digistore24 productId `556210` · [HTML profile page](../../produkte/magische-mandalas-dein-ausmalbuch-f-r-innere-balance-48336.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magische Mandalas - Dein Ausmalbuch für innere Balance? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2024-06-10
-- Wie viel kostet es? — 6.2641599999999995 USD
+- Wie viel kostet es? — 6.27536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 631548
 title: "„Deine Reflexionen – Für ein glückliches Leben“ - Workbook"
 vendor: "MissionVerantwortung"
 product_type: "E-books"
-price: 80.49
+price: 80.64
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 8.05
+earnings_per_sale: 8.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-08-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.berndkiesewetter.com/deine-reflexionen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Deine Reflexionen – Für ein glückliches Leben“ - Workbook
 
 > Product ID `54293` · Digistore24 productId `631548` · [HTML profile page](../../produkte/deine-reflexionen-f-r-ein-gl-ckliches-leben-workbook-54293.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $80.49 (Single payment) |
+| Price | $80.64 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $8.05 |
+| Earnings/sale* | $8.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MissionVerantwortung |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Deine Reflexionen – Für ein glückliches Leben“ - Workbook? — Typ: E-books, Anbieter: MissionVerantwortung, gelistet seit 2025-08-25
-- Wie viel kostet es? — 80.494456 USD
+- Wie viel kostet es? — 80.638376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

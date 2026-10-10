@@ -4,15 +4,15 @@ digistore24_product_id: 695423
 title: "DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest"
 vendor: "mindstream"
 product_type: "Telephone coaching"
-price: 124.16
+price: 124.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 41.21
+earnings_per_sale: 41.28
 cart_conversion_pct: 2
 cancel_rate_pct: 0
 categories: ["Personal Development","Personal Development","Marketing Services"]
 listed_since: "2026-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695423?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest
 
 > Product ID `56233` · Digistore24 productId `695423` · [HTML profile page](../../produkte/die-guten-7-jahre-mit-annette-das-aurachirurgie-fest-56233.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $124.16 (Single payment) |
+| Price | $124.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $41.21 |
+| Earnings/sale* | $41.28 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0% |
 | Vendor | mindstream |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIE GUTEN 7 JAHRE mit Annette - das Aurachirurgie Fest? — Typ: Telephone coaching, Anbieter: mindstream, gelistet seit 2026-03-04
-- Wie viel kostet es? — 124.16460000000001 USD
+- Wie viel kostet es? — 124.3866 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

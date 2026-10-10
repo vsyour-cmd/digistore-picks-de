@@ -4,15 +4,15 @@ digistore24_product_id: 433657
 title: "Selbstgeführte Stadtrallye Augsburg | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.12
+earnings_per_sale: 8.14
 cart_conversion_pct: 11
 cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2022-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-augsburg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Augsburg | Hint-Caching
 
 > Product ID `51123` · Digistore24 productId `433657` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-augsburg-hint-caching-51123.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.12 |
+| Earnings/sale* | $8.14 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0% |
 | Vendor | hintcaching |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Augsburg | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-03-10
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

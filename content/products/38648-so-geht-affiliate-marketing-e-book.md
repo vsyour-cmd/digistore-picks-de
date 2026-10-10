@@ -4,15 +4,15 @@ digistore24_product_id: 421917
 title: "So geht Affiliate Marketing E-Book"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 22.22
+earnings_per_sale: 22.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-12-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/fnY9qz75uA5hJaxwc?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # So geht Affiliate Marketing E-Book
 
 > Product ID `38648` · Digistore24 productId `421917` · [HTML profile page](../../produkte/so-geht-affiliate-marketing-e-book-38648.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $22.22 |
+| Earnings/sale* | $22.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So geht Affiliate Marketing E-Book? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2021-12-24
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

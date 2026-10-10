@@ -4,15 +4,15 @@ digistore24_product_id: 321105
 title: "Die Vision von Neuland + Die NeuLand Welle"
 vendor: "jwalaundkarlgamper"
 product_type: "Downloads"
-price: 1306.6
+price: 1308.94
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 261.32
+earnings_per_sale: 261.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-04-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/321105?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Vision von Neuland + Die NeuLand Welle
 
 > Product ID `32817` · Digistore24 productId `321105` · [HTML profile page](../../produkte/die-vision-von-neuland-die-neuland-welle-32817.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1306.60 (Single payment) |
+| Price | $1308.94 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $261.32 |
+| Earnings/sale* | $261.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jwalaundkarlgamper |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Vision von Neuland + Die NeuLand Welle? — Typ: Downloads, Anbieter: jwalaundkarlgamper, gelistet seit 2020-04-16
-- Wie viel kostet es? — 1306.603102 USD
+- Wie viel kostet es? — 1308.939242 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 482586
 title: "KI Cash Klub - Geld verdienen mit künstlicher Intelligenz"
 vendor: "ss-business"
 product_type: "Member area and video courses"
-price: 32.44
+price: 32.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.22
+earnings_per_sale: 16.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-02-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/482586/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Cash Klub - Geld verdienen mit künstlicher Intelligenz
 
 > Product ID `42756` · Digistore24 productId `482586` · [HTML profile page](../../produkte/ki-cash-klub-geld-verdienen-mit-k-nstlicher-intelligenz-42756.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.44 (Single payment) |
+| Price | $32.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.22 |
+| Earnings/sale* | $16.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ss-business |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Cash Klub - Geld verdienen mit künstlicher Intelligenz? — Typ: Member area and video courses, Anbieter: ss-business, gelistet seit 2023-02-03
-- Wie viel kostet es? — 32.4394 USD
+- Wie viel kostet es? — 32.4974 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

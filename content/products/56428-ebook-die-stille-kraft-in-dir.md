@@ -4,15 +4,15 @@ digistore24_product_id: 689554
 title: "Ebook - Die stille Kraft in dir"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.79
+price: 6.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.4
+earnings_per_sale: 3.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689554?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Die stille Kraft in dir
 
 > Product ID `56428` · Digistore24 productId `689554` · [HTML profile page](../../produkte/ebook-die-stille-kraft-in-dir-56428.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.79 (Single payment) |
+| Price | $6.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.40 |
+| Earnings/sale* | $3.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die stille Kraft in dir? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 6.7899020000000005 USD
+- Wie viel kostet es? — 6.802042 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

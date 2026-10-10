@@ -4,15 +4,15 @@ digistore24_product_id: 711237
 title: "100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 21.22
+earnings_per_sale: 21.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Health & Fitness"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/detox-style-smoothies/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten
 
 > Product ID `57529` · Digistore24 productId `711237` · [HTML profile page](../../produkte/100-smoothie-rezepte-wochenpl-ne-einkaufslisten-57529.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $21.22 |
+| Earnings/sale* | $21.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-14
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

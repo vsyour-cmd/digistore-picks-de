@@ -4,15 +4,15 @@ digistore24_product_id: 389005
 title: "Die 2Punkt-Onlineschule"
 vendor: "ResonanceQuantique"
 product_type: "Member area and video courses"
-price: 282
+price: 282.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.6
+earnings_per_sale: 84.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-05-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/389005?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 2Punkt-Onlineschule
 
 > Product ID `37263` · Digistore24 productId `389005` · [HTML profile page](../../produkte/die-2punkt-onlineschule-37263.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $282.00 (Single payment, Installment) |
+| Price | $282.50 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.60 |
+| Earnings/sale* | $84.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ResonanceQuantique |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 2Punkt-Onlineschule? — Typ: Member area and video courses, Anbieter: ResonanceQuantique, gelistet seit 2021-05-10
-- Wie viel kostet es? — 281.99906 USD
+- Wie viel kostet es? — 282.50326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

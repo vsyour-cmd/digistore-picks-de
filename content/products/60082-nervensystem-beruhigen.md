@@ -4,15 +4,15 @@ digistore24_product_id: 739608
 title: "Nervensystem beruhigen"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 20.12
+price: 20.16
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.07
+earnings_per_sale: 12.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/739608?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nervensystem beruhigen
 
 > Product ID `60082` · Digistore24 productId `739608` · [HTML profile page](../../produkte/nervensystem-beruhigen-60082.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.12 (Single payment) |
+| Price | $20.16 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.07 |
+| Earnings/sale* | $12.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nervensystem beruhigen? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-10-01
-- Wie viel kostet es? — 20.123614 USD
+- Wie viel kostet es? — 20.159594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

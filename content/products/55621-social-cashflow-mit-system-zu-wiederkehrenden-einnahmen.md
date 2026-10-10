@@ -12,7 +12,7 @@ cart_conversion_pct: 53
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-02-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/Dv3857vCp42YKaNT8?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Social Cashflow – mit System zu wiederkehrenden Einnahmen
 
 > Product ID `55621` · Digistore24 productId `668926` · [HTML profile page](../../produkte/social-cashflow-mit-system-zu-wiederkehrenden-einnahmen-55621.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

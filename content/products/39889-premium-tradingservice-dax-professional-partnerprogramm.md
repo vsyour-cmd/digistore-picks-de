@@ -4,15 +4,15 @@ digistore24_product_id: 427776
 title: "Premium Tradingservice - DAX Professional - Partnerprogramm"
 vendor: "Geldgeheimnisse"
 product_type: "Telephone coaching"
-price: 74.26
+price: 74.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.14
+earnings_per_sale: 37.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://torstenwiese.com/dax-pro/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Tradingservice - DAX Professional - Partnerprogramm
 
 > Product ID `39889` · Digistore24 productId `427776` · [HTML profile page](../../produkte/premium-tradingservice-dax-professional-partnerprogramm-39889.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $74.26 (Subscription) |
+| Price | $74.40 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.14 |
+| Earnings/sale* | $37.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Geldgeheimnisse |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Tradingservice - DAX Professional - Partnerprogramm? — Typ: Telephone coaching, Anbieter: Geldgeheimnisse, gelistet seit 2022-02-02
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

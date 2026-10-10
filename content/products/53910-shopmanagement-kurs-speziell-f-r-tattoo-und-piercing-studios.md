@@ -4,15 +4,15 @@ digistore24_product_id: 609856
 title: "Shopmanagement-Kurs speziell für Tattoo und Piercing Studios"
 vendor: "MfL-Academy"
 product_type: "Member area and video courses"
-price: 374.94
+price: 375.61
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 56.24
+earnings_per_sale: 56.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mfl.academy/?dig=609856&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Shopmanagement-Kurs speziell für Tattoo und Piercing Studios
 
 > Product ID `53910` · Digistore24 productId `609856` · [HTML profile page](../../produkte/shopmanagement-kurs-speziell-f-r-tattoo-und-piercing-studios-53910.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $374.94 (Single payment, Installment) |
+| Price | $375.61 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $56.24 |
+| Earnings/sale* | $56.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MfL-Academy |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Shopmanagement-Kurs speziell für Tattoo und Piercing Studios? — Typ: Member area and video courses, Anbieter: MfL-Academy, gelistet seit 2025-04-28
-- Wie viel kostet es? — 374.943534 USD
+- Wie viel kostet es? — 375.613914 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

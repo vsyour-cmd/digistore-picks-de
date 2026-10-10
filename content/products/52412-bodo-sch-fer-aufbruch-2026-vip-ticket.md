@@ -4,15 +4,15 @@ digistore24_product_id: 526403
 title: "Bodo Schäfer AUFBRUCH 2026 VIP-Ticket"
 vendor: "BodoSchaefer"
 product_type: "Online coaching"
-price: 49.15
+price: 49.24
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 32.07
+earnings_per_sale: 32.13
 cart_conversion_pct: 2
 cancel_rate_pct: 2.34
 categories: ["Education"]
 listed_since: "2023-11-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://aufbruch7.de/aff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bodo Schäfer AUFBRUCH 2026 VIP-Ticket
 
 > Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../produkte/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $49.15 (Single payment) |
+| Price | $49.24 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $32.07 |
+| Earnings/sale* | $32.13 |
 | Cart conversion* | 2% |
 | Cancel rate* | 2.34% |
 | Vendor | BodoSchaefer |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bodo Schäfer AUFBRUCH 2026 VIP-Ticket? — Typ: Online coaching, Anbieter: BodoSchaefer, gelistet seit 2023-11-22
-- Wie viel kostet es? — 49.151284 USD
+- Wie viel kostet es? — 49.239164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

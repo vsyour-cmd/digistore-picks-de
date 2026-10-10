@@ -4,15 +4,15 @@ digistore24_product_id: 589848
 title: "10 Wege, um online Geld zu verdienen"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.66
+price: 141.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.73
+earnings_per_sale: 86.88
 cart_conversion_pct: 5
 cancel_rate_pct: 5.85
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-01-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.andreaslangdigital.com/10wegegeldzuverdienen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10 Wege, um online Geld zu verdienen
 
 > Product ID `47088` · Digistore24 productId `589848` · [HTML profile page](../../produkte/10-wege-um-online-geld-zu-verdienen-47088.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.66 (Single payment) |
+| Price | $141.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.73 |
+| Earnings/sale* | $86.88 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.85% |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 Wege, um online Geld zu verdienen? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2025-01-10
-- Wie viel kostet es? — 141.659504 USD
+- Wie viel kostet es? — 141.91278400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

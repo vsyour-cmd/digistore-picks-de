@@ -4,15 +4,15 @@ digistore24_product_id: 275410
 title: "Smarte Medizin mit Dr. Dahlke und Dr. Hobert"
 vendor: "Ingohobert"
 product_type: "Member area and video courses"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.44
+earnings_per_sale: 93.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ethnomed.de/smarte-medizin/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Smarte Medizin mit Dr. Dahlke und Dr. Hobert
 
 > Product ID `33984` · Digistore24 productId `275410` · [HTML profile page](../../produkte/smarte-medizin-mit-dr-dahlke-und-dr-hobert-33984.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $467.18 (Single payment) |
+| Price | $468.02 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.44 |
+| Earnings/sale* | $93.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ingohobert |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smarte Medizin mit Dr. Dahlke und Dr. Hobert? — Typ: Member area and video courses, Anbieter: Ingohobert, gelistet seit 2019-06-12
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

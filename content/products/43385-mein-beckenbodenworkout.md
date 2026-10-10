@@ -4,7 +4,7 @@ digistore24_product_id: 482699
 title: "Mein Beckenbodenworkout"
 vendor: "buggyFit"
 product_type: "Online coaching"
-price: 127.95
+price: 128.17
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 13
 cancel_rate_pct: 2.77
 categories: ["Health & Fitness"]
 listed_since: "2023-02-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/482699/?voucher=Meinbeckenboden23&aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Mein Beckenbodenworkout
 
 > Product ID `43385` · Digistore24 productId `482699` · [HTML profile page](../../produkte/mein-beckenbodenworkout-43385.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $127.95 (Single payment) |
+| Price | $128.17 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 13% |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Beckenbodenworkout? — Typ: Online coaching, Anbieter: buggyFit, gelistet seit 2023-02-03
-- Wie viel kostet es? — 127.945468 USD
+- Wie viel kostet es? — 128.174228 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

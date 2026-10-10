@@ -4,15 +4,15 @@ digistore24_product_id: 23599
 title: "Pilates&Friends Abo - Das Online Pilates Paket"
 vendor: "rudingo"
 product_type: "Member area and video courses"
-price: 405.17
+price: 405.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 214.97
+earnings_per_sale: 215.36
 cart_conversion_pct: 15
 cancel_rate_pct: 0.71
 categories: ["Health & Fitness","Sport"]
 listed_since: "2014-04-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://pilatesandfriends.com/abo?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates&Friends Abo - Das Online Pilates Paket
 
 > Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $405.17 (Subscription) |
+| Price | $405.89 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $214.97 |
+| Earnings/sale* | $215.36 |
 | Cart conversion* | 15% |
 | Cancel rate* | 0.71% |
 | Vendor | rudingo |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates&Friends Abo - Das Online Pilates Paket? — Typ: Member area and video courses, Anbieter: rudingo, gelistet seit 2014-04-03
-- Wie viel kostet es? — 405.16810599999997 USD
+- Wie viel kostet es? — 405.892526 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

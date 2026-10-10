@@ -4,15 +4,15 @@ digistore24_product_id: 742050
 title: "Digitales Krimidiner - Die letzte Séance"
 vendor: "krimery"
 product_type: "Software"
-price: 15.97
+price: 16
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.99
+earnings_per_sale: 4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/742050/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitales Krimidiner - Die letzte Séance
 
 > Product ID `60246` · Digistore24 productId `742050` · [HTML profile page](../../produkte/digitales-krimidiner-die-letzte-s-ance-60246.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $15.97 (Single payment) |
+| Price | $16.00 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.99 |
+| Earnings/sale* | $4.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krimery |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Krimidiner - Die letzte Séance? — Typ: Software, Anbieter: krimery, gelistet seit 2026-10-06
-- Wie viel kostet es? — 15.973608 USD
+- Wie viel kostet es? — 16.002168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

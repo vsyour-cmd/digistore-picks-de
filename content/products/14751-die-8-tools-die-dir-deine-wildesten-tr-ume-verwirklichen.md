@@ -4,15 +4,15 @@ digistore24_product_id: 112111
 title: "„Die 8 Tools die Dir Deine wildesten Träume verwirklichen“"
 vendor: "GTK-littlefreilich"
 product_type: "Downloads"
-price: 8.41
+price: 8.43
 currency: "USD"
 affiliate_commission_pct: 99
-earnings_per_sale: 8.32
+earnings_per_sale: 8.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2017-01-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://digitalmoneymaker.de/traumbeschleuniger-tb/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Die 8 Tools die Dir Deine wildesten Träume verwirklichen“
 
 > Product ID `14751` · Digistore24 productId `112111` · [HTML profile page](../../produkte/die-8-tools-die-dir-deine-wildesten-tr-ume-verwirklichen-14751.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.41 (Single payment) |
+| Price | $8.43 (Single payment) |
 | Affiliate commission | 99% |
-| Earnings/sale* | $8.32 |
+| Earnings/sale* | $8.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GTK-littlefreilich |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die 8 Tools die Dir Deine wildesten Träume verwirklichen“? — Typ: Downloads, Anbieter: GTK-littlefreilich, gelistet seit 2017-01-06
-- Wie viel kostet es? — 8.411872 USD
+- Wie viel kostet es? — 8.426912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

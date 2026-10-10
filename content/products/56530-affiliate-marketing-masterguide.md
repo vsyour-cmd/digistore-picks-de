@@ -4,15 +4,15 @@ digistore24_product_id: 692634
 title: "Affiliate Marketing Masterguide"
 vendor: "MikeyBear12"
 product_type: "E-books"
-price: 15.67
+price: 15.7
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-05-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692634?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Marketing Masterguide
 
 > Product ID `56530` · Digistore24 productId `692634` · [HTML profile page](../../produkte/affiliate-marketing-masterguide-56530.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.67 (Single payment, Installment) |
+| Price | $15.70 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MikeyBear12 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Masterguide? — Typ: E-books, Anbieter: MikeyBear12, gelistet seit 2026-05-13
-- Wie viel kostet es? — 15.671586 USD
+- Wie viel kostet es? — 15.699606000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 733217
 title: "Gamma-Training Premium"
 vendor: "AnandaBernstein"
 product_type: "Online coaching"
-price: 2538
+price: 2542.54
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 559.3
+earnings_per_sale: 560.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lebenimsein-institut.at/gamma-training.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gamma-Training Premium
 
 > Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../produkte/gamma-training-premium-59399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2538.00 (Single payment, Installment) |
+| Price | $2542.54 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $559.30 |
+| Earnings/sale* | $560.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AnandaBernstein |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gamma-Training Premium? — Typ: Online coaching, Anbieter: AnandaBernstein, gelistet seit 2026-09-19
-- Wie viel kostet es? — 2538.0027259999997 USD
+- Wie viel kostet es? — 2542.5405459999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 258330
 title: "WOWING"
 vendor: "pspbiz"
 product_type: "Downloads"
-price: 670.04
+price: 671.24
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 134.01
+earnings_per_sale: 134.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-01-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://wowing.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # WOWING
 
 > Product ID `28047` · Digistore24 productId `258330` · [HTML profile page](../../produkte/wowing-28047.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $670.04 (Subscription) |
+| Price | $671.24 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $134.01 |
+| Earnings/sale* | $134.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pspbiz |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WOWING? — Typ: Downloads, Anbieter: pspbiz, gelistet seit 2019-01-29
-- Wie viel kostet es? — 670.0414000000001 USD
+- Wie viel kostet es? — 671.2394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

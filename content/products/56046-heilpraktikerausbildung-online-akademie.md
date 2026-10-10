@@ -4,15 +4,15 @@ digistore24_product_id: 679337
 title: "Heilpraktikerausbildung - Online-Akademie"
 vendor: "info8293"
 product_type: "Online coaching"
-price: 2650.8
+price: 2655.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 795.25
+earnings_per_sale: 796.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679337?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Heilpraktikerausbildung - Online-Akademie
 
 > Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../produkte/heilpraktikerausbildung-online-akademie-56046.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2650.80 (Single payment) |
+| Price | $2655.54 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $795.25 |
+| Earnings/sale* | $796.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info8293 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilpraktikerausbildung - Online-Akademie? — Typ: Online coaching, Anbieter: info8293, gelistet seit 2026-03-25
-- Wie viel kostet es? — 2650.80235 USD
+- Wie viel kostet es? — 2655.54185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

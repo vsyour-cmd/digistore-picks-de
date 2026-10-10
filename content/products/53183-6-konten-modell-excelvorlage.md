@@ -4,15 +4,15 @@ digistore24_product_id: 623771
 title: "6-Konten-Modell Excelvorlage"
 vendor: "NilsWarnecke"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.94
+earnings_per_sale: 16.97
 cart_conversion_pct: 5
 cancel_rate_pct: 4.08
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2025-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 6-Konten-Modell Excelvorlage
 
 > Product ID `53183` · Digistore24 productId `623771` · [HTML profile page](../../produkte/6-konten-modell-excelvorlage-53183.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.94 |
+| Earnings/sale* | $16.97 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.08% |
 | Vendor | NilsWarnecke |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 6-Konten-Modell Excelvorlage? — Typ: Downloads, Anbieter: NilsWarnecke, gelistet seit 2025-07-13
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 474857
 title: "Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen"
 vendor: "LUMEUS"
 product_type: "Member area and video courses"
-price: 20.62
+price: 20.65
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.11
+earnings_per_sale: 6.12
 cart_conversion_pct: 11
 cancel_rate_pct: 2.73
 categories: ["Health & Fitness"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/474857/?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen
 
 > Product ID `45826` · Digistore24 productId `474857` · [HTML profile page](../../produkte/gesunde-stressbew-ltigung-achtsamkeit-positive-emotionen-45826.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $20.62 (Single payment) |
+| Price | $20.65 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.11 |
+| Earnings/sale* | $6.12 |
 | Cart conversion* | 11% |
 | Cancel rate* | 2.73% |
 | Vendor | LUMEUS |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen? — Typ: Member area and video courses, Anbieter: LUMEUS, gelistet seit 2022-12-14
-- Wie viel kostet es? — 20.615798 USD
+- Wie viel kostet es? — 20.652658 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

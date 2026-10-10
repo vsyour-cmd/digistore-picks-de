@@ -4,15 +4,15 @@ digistore24_product_id: 504054
 title: "101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.84
+earnings_per_sale: 7.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Marketing Services"]
 listed_since: "2023-06-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/504054?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!
 
 > Product ID `44414` · Digistore24 productId `504054` · [HTML profile page](../../produkte/101-magische-verkaufstexte-so-geht-verkaufen-kinderleicht-44414.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.84 |
+| Earnings/sale* | $7.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2023-06-21
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

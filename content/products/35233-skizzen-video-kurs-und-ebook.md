@@ -4,15 +4,15 @@ digistore24_product_id: 350097
 title: "Skizzen Video-Kurs und eBook"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 37.73
+price: 37.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.38
+earnings_per_sale: 16.41
 cart_conversion_pct: 6
 cancel_rate_pct: 1.69
 categories: ["Hobby & Craft"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/skizzen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Skizzen Video-Kurs und eBook
 
 > Product ID `35233` · Digistore24 productId `350097` · [HTML profile page](../../produkte/skizzen-video-kurs-und-ebook-35233.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $37.73 (Single payment) |
+| Price | $37.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.38 |
+| Earnings/sale* | $16.41 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.69% |
 | Vendor | DrawTut |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skizzen Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2020-09-28
-- Wie viel kostet es? — 37.730377999999995 USD
+- Wie viel kostet es? — 37.797838 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 427805
 title: "Mit kleinen Kursen große Kunden gewinnen!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 45.87
+price: 45.96
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.21
+earnings_per_sale: 43.29
 cart_conversion_pct: 4
 cancel_rate_pct: 1.35
 categories: ["Social Media"]
 listed_since: "2022-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.jyotimaflak.com/minikurs-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mit kleinen Kursen große Kunden gewinnen!
 
 > Product ID `39075` · Digistore24 productId `427805` · [HTML profile page](../../produkte/mit-kleinen-kursen-gro-e-kunden-gewinnen-39075.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.87 (Single payment, Installment) |
+| Price | $45.96 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.21 |
+| Earnings/sale* | $43.29 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.35% |
 | Vendor | Jyotima |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit kleinen Kursen große Kunden gewinnen!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2022-02-02
-- Wie viel kostet es? — 45.873786 USD
+- Wie viel kostet es? — 45.955806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

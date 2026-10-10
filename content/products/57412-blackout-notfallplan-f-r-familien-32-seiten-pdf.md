@@ -4,15 +4,15 @@ digistore24_product_id: 707990
 title: "Blackout- & Notfallplan für Familien – 32 Seiten PDF"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 6.59
+earnings_per_sale: 6.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Survival"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/vorratsplan-notfallplan/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Blackout- & Notfallplan für Familien – 32 Seiten PDF
 
 > Product ID `57412` · Digistore24 productId `707990` · [HTML profile page](../../produkte/blackout-notfallplan-f-r-familien-32-seiten-pdf-57412.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $6.59 |
+| Earnings/sale* | $6.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blackout- & Notfallplan für Familien – 32 Seiten PDF? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-05
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 709550
 title: "Callis Gesundheits-Kompass: Kinderbücher für den Alltag"
 vendor: "callidus"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.callidus-am.de/kinderbuch/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Callis Gesundheits-Kompass: Kinderbücher für den Alltag
 
 > Product ID `58886` · Digistore24 productId `709550` · [HTML profile page](../../produkte/callis-gesundheits-kompass-kinderb-cher-f-r-den-alltag-58886.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Callis Gesundheits-Kompass: Kinderbücher für den Alltag? — Typ: Downloads, Anbieter: callidus, gelistet seit 2026-09-02
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

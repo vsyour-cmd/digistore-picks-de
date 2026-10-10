@@ -4,15 +4,15 @@ digistore24_product_id: 309651
 title: "TradingView Indikator | SwingCatcher"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 329
+price: 329.59
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 65.74
+earnings_per_sale: 65.86
 cart_conversion_pct: 2
 cancel_rate_pct: 3.42
 categories: ["Trading Products"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/tradingview-directional-swing-catcher/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TradingView Indikator | SwingCatcher
 
 > Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../produkte/tradingview-indikator-swingcatcher-33790.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $329.00 (Single payment) |
+| Price | $329.59 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $65.74 |
+| Earnings/sale* | $65.86 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.42% |
 | Vendor | daxtrading |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TradingView Indikator | SwingCatcher? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2020-02-24
-- Wie viel kostet es? — 329.002632 USD
+- Wie viel kostet es? — 329.590872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

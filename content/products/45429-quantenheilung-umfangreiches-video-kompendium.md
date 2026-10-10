@@ -4,15 +4,15 @@ digistore24_product_id: 511532
 title: "Quantenheilung - umfangreiches Video Kompendium"
 vendor: "bjheede"
 product_type: "Member area and video courses"
-price: 1054.68
+price: 1056.57
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 316.41
+earnings_per_sale: 316.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Quantenheilung - umfangreiches Video Kompendium
 
 > Product ID `45429` · Digistore24 productId `511532` · [HTML profile page](../../produkte/quantenheilung-umfangreiches-video-kompendium-45429.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1054.68 (Single payment, Installment) |
+| Price | $1056.57 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $316.41 |
+| Earnings/sale* | $316.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bjheede |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Quantenheilung - umfangreiches Video Kompendium? — Typ: Member area and video courses, Anbieter: bjheede, gelistet seit 2023-08-11
-- Wie viel kostet es? — 1054.683196 USD
+- Wie viel kostet es? — 1056.568916 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

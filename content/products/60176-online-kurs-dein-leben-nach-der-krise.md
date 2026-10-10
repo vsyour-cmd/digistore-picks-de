@@ -4,15 +4,15 @@ digistore24_product_id: 610810
 title: "Online-Kurs \"Dein Leben nach der Krise\""
 vendor: "BLLcode25"
 product_type: "Member area and video courses"
-price: 332.22
+price: 332.82
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 33.22
+earnings_per_sale: 33.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/610810?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs "Dein Leben nach der Krise"
 
 > Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../produkte/online-kurs-dein-leben-nach-der-krise-60176.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $332.22 (Single payment) |
+| Price | $332.82 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $33.22 |
+| Earnings/sale* | $33.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BLLcode25 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs "Dein Leben nach der Krise"? — Typ: Member area and video courses, Anbieter: BLLcode25, gelistet seit 2026-10-04
-- Wie viel kostet es? — 332.2242 USD
+- Wie viel kostet es? — 332.8182 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

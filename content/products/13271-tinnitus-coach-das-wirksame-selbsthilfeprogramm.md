@@ -4,15 +4,15 @@ digistore24_product_id: 90385
 title: "Tinnitus Coach - das wirksame Selbsthilfeprogramm"
 vendor: "Institut_MH"
 product_type: "Downloads"
-price: 342
+price: 342.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 207.08
+earnings_per_sale: 207.45
 cart_conversion_pct: 9
 cancel_rate_pct: 7.61
 categories: ["Health & Fitness"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "http://www.tinnitus-coach.eu?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tinnitus Coach - das wirksame Selbsthilfeprogramm
 
 > Product ID `13271` · Digistore24 productId `90385` · [HTML profile page](../../produkte/tinnitus-coach-das-wirksame-selbsthilfeprogramm-13271.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $342.00 (Single payment, Installment) |
+| Price | $342.61 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $207.08 |
+| Earnings/sale* | $207.45 |
 | Cart conversion* | 9% |
 | Cancel rate* | 7.61% |
 | Vendor | Institut_MH |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tinnitus Coach - das wirksame Selbsthilfeprogramm? — Typ: Downloads, Anbieter: Institut_MH, gelistet seit 2016-08-06
-- Wie viel kostet es? — 342.000764 USD
+- Wie viel kostet es? — 342.61224400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

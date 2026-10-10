@@ -4,15 +4,15 @@ digistore24_product_id: 399693
 title: "KONFERENZ DER MENSCHEN - ABO (monatlich)"
 vendor: "PlanetSOL"
 product_type: "Downloads"
-price: 94
+price: 94.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 47
+earnings_per_sale: 47.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-07-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://konferenzdermenschen.com/konferenzpaket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KONFERENZ DER MENSCHEN - ABO (monatlich)
 
 > Product ID `38132` · Digistore24 productId `399693` · [HTML profile page](../../produkte/konferenz-der-menschen-abo-monatlich-38132.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $94.00 (Single payment, Subscription) |
+| Price | $94.16 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $47.00 |
+| Earnings/sale* | $47.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetSOL |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KONFERENZ DER MENSCHEN - ABO (monatlich)? — Typ: Downloads, Anbieter: PlanetSOL, gelistet seit 2021-07-26
-- Wie viel kostet es? — 93.995958 USD
+- Wie viel kostet es? — 94.164018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

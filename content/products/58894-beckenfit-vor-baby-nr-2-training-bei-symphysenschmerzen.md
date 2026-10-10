@@ -4,15 +4,15 @@ digistore24_product_id: 710962
 title: "Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen"
 vendor: "vorbereitet-schwanger"
 product_type: "E-books"
-price: 29.16
+price: 29.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.67
+earnings_per_sale: 11.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://vorbereitet-schwanger.de/beckenfit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen
 
 > Product ID `58894` · Digistore24 productId `710962` · [HTML profile page](../../produkte/beckenfit-vor-baby-nr-2-training-bei-symphysenschmerzen-58894.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.16 (Single payment) |
+| Price | $29.21 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.67 |
+| Earnings/sale* | $11.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vorbereitet-schwanger |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beckenfit vor Baby Nr. 2: Training bei Symphysenschmerzen? — Typ: E-books, Anbieter: vorbereitet-schwanger, gelistet seit 2026-09-03
-- Wie viel kostet es? — 29.161902 USD
+- Wie viel kostet es? — 29.214042000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

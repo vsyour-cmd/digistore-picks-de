@@ -4,15 +4,15 @@ digistore24_product_id: 648874
 title: "KI ganz leicht verstehen – Affiliate über Webinar"
 vendor: "Life-in-Balance"
 product_type: "Member area and video courses"
-price: 553.56
+price: 554.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 276.79
+earnings_per_sale: 277.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2025-11-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://22413.webinaris.co/32148/dieses_webinar_zeigt_dir_ki_so_einfach.html?mode=N&v=4&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI ganz leicht verstehen – Affiliate über Webinar
 
 > Product ID `52152` · Digistore24 productId `648874` · [HTML profile page](../../produkte/ki-ganz-leicht-verstehen-affiliate-ber-webinar-52152.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $553.56 (Single payment, Installment) |
+| Price | $554.55 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $276.79 |
+| Earnings/sale* | $277.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Life-in-Balance |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI ganz leicht verstehen – Affiliate über Webinar? — Typ: Member area and video courses, Anbieter: Life-in-Balance, gelistet seit 2025-11-16
-- Wie viel kostet es? — 553.561582 USD
+- Wie viel kostet es? — 554.551322 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 693031
 title: "MAFIA der Essgelüste –  Schluss mit Heißhunger"
 vendor: "infoea49"
 product_type: "Deliverable"
-price: 26.32
+price: 26.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.9
+earnings_per_sale: 7.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-06-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/693031?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MAFIA der Essgelüste –  Schluss mit Heißhunger
 
 > Product ID `56782` · Digistore24 productId `693031` · [HTML profile page](../../produkte/mafia-der-essgel-ste-schluss-mit-hei-hunger-56782.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $26.32 (Single payment) |
+| Price | $26.37 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.90 |
+| Earnings/sale* | $7.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infoea49 |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MAFIA der Essgelüste –  Schluss mit Heißhunger? — Typ: Deliverable, Anbieter: infoea49, gelistet seit 2026-06-02
-- Wie viel kostet es? — 26.320658 USD
+- Wie viel kostet es? — 26.367718000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

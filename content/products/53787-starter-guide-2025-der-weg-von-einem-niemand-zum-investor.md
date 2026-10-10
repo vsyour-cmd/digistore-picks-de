@@ -4,15 +4,15 @@ digistore24_product_id: 633236
 title: "Starter Guide 2025 Der Weg von einem Niemand zum Investor"
 vendor: "claritydigital"
 product_type: "E-books"
-price: 155.77
+price: 156.04
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 70.09
+earnings_per_sale: 70.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Finances"]
 listed_since: "2025-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633236?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Starter Guide 2025 Der Weg von einem Niemand zum Investor
 
 > Product ID `53787` · Digistore24 productId `633236` · [HTML profile page](../../produkte/starter-guide-2025-der-weg-von-einem-niemand-zum-investor-53787.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $155.77 (Single payment) |
+| Price | $156.04 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $70.09 |
+| Earnings/sale* | $70.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | claritydigital |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starter Guide 2025 Der Weg von einem Niemand zum Investor? — Typ: E-books, Anbieter: claritydigital, gelistet seit 2025-09-02
-- Wie viel kostet es? — 155.76505 USD
+- Wie viel kostet es? — 156.04355 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

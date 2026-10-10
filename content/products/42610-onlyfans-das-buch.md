@@ -4,15 +4,15 @@ digistore24_product_id: 482002
 title: "Onlyfans das Buch"
 vendor: "Sht-corporation"
 product_type: "Member area and video courses"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 7.83
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.social-media-agentur-mv.de/Digitales-COACHING-PREISE/Onlinekurse-Social-Media-Produkte/Online-Geld-verdienen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlyfans das Buch
 
 > Product ID `42610` · Digistore24 productId `482002` · [HTML profile page](../../produkte/onlyfans-das-buch-42610.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sht-corporation |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlyfans das Buch? — Typ: Member area and video courses, Anbieter: Sht-corporation, gelistet seit 2023-01-31
-- Wie viel kostet es? — 22.360813999999998 USD
+- Wie viel kostet es? — 22.400793999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

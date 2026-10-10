@@ -4,15 +4,15 @@ digistore24_product_id: 690735
 title: "Haushaltsbuch Excel für Privatpersonen"
 vendor: "BloomGeneration"
 product_type: "Downloads"
-price: 7.43
+price: 7.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.71
+earnings_per_sale: 3.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/690735?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Haushaltsbuch Excel für Privatpersonen
 
 > Product ID `56484` · Digistore24 productId `690735` · [HTML profile page](../../produkte/haushaltsbuch-excel-f-r-privatpersonen-56484.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.43 (Single payment) |
+| Price | $7.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.71 |
+| Earnings/sale* | $3.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BloomGeneration |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haushaltsbuch Excel für Privatpersonen? — Typ: Downloads, Anbieter: BloomGeneration, gelistet seit 2026-05-06
-- Wie viel kostet es? — 7.427504 USD
+- Wie viel kostet es? — 7.440784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

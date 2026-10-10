@@ -4,15 +4,15 @@ digistore24_product_id: 656511
 title: "Research Report - Krypto Technologie Analyse (PDF+Video)"
 vendor: "BelowGoodLife"
 product_type: "Downloads"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 30.31
+earnings_per_sale: 30.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-12-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://researchreport.onepage.me/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Research Report - Krypto Technologie Analyse (PDF+Video)
 
 > Product ID `55275` · Digistore24 productId `656511` · [HTML profile page](../../produkte/research-report-krypto-technologie-analyse-pdf-video-55275.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.26 (Single payment) |
+| Price | $121.47 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $30.31 |
+| Earnings/sale* | $30.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BelowGoodLife |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Research Report - Krypto Technologie Analyse (PDF+Video)? — Typ: Downloads, Anbieter: BelowGoodLife, gelistet seit 2025-12-19
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

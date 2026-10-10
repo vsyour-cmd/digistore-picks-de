@@ -4,15 +4,15 @@ digistore24_product_id: 719640
 title: "KI-App Masterclass (Videokurs)"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 94
+price: 94.16
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.5
+earnings_per_sale: 23.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/719640?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-App Masterclass (Videokurs)
 
 > Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../produkte/ki-app-masterclass-videokurs-58284.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $94.00 (Single payment) |
+| Price | $94.16 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-App Masterclass (Videokurs)? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-08-11
-- Wie viel kostet es? — 93.995958 USD
+- Wie viel kostet es? — 94.164018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

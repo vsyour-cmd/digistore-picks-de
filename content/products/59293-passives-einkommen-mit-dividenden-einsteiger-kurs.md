@@ -4,15 +4,15 @@ digistore24_product_id: 727810
 title: "Passives Einkommen mit Dividenden – Einsteiger-Kurs"
 vendor: "FinanzKalkuel"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 84.04
+earnings_per_sale: 84.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://finanzkalkuel.de/dividenden-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Passives Einkommen mit Dividenden – Einsteiger-Kurs
 
 > Product ID `59293` · Digistore24 productId `727810` · [HTML profile page](../../produkte/passives-einkommen-mit-dividenden-einsteiger-kurs-59293.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment) |
+| Price | $140.31 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $84.04 |
+| Earnings/sale* | $84.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FinanzKalkuel |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passives Einkommen mit Dividenden – Einsteiger-Kurs? — Typ: Member area and video courses, Anbieter: FinanzKalkuel, gelistet seit 2026-09-16
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

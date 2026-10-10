@@ -4,15 +4,15 @@ digistore24_product_id: 489492
 title: "Ziele mit Leichtigkeit erreichen"
 vendor: "lauraknillcoaching"
 product_type: "Member area and video courses"
-price: 65.8
+price: 65.91
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.74
+earnings_per_sale: 19.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-03-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/489492?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ziele mit Leichtigkeit erreichen
 
 > Product ID `54332` · Digistore24 productId `489492` · [HTML profile page](../../produkte/ziele-mit-leichtigkeit-erreichen-54332.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.80 (Single payment, Installment) |
+| Price | $65.91 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.74 |
+| Earnings/sale* | $19.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lauraknillcoaching |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ziele mit Leichtigkeit erreichen? — Typ: Member area and video courses, Anbieter: lauraknillcoaching, gelistet seit 2023-03-16
-- Wie viel kostet es? — 65.796052 USD
+- Wie viel kostet es? — 65.913692 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

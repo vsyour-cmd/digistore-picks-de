@@ -4,15 +4,15 @@ digistore24_product_id: 637958
 title: "Onlinekongress Entzündungen entschlüsseln"
 vendor: "IreneSmiatek"
 product_type: "Member area and video courses"
-price: 45.54
+price: 45.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.21
+earnings_per_sale: 48.3
 cart_conversion_pct: 7
 cancel_rate_pct: 6.85
 categories: ["Health & Fitness"]
 listed_since: "2025-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekongress Entzündungen entschlüsseln
 
 > Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../produkte/onlinekongress-entz-ndungen-entschl-sseln-54960.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.54 (Single payment, Installment) |
+| Price | $45.62 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.21 |
+| Earnings/sale* | $48.30 |
 | Cart conversion* | 7% |
 | Cancel rate* | 6.85% |
 | Vendor | IreneSmiatek |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekongress Entzündungen entschlüsseln? — Typ: Member area and video courses, Anbieter: IreneSmiatek, gelistet seit 2025-09-25
-- Wie viel kostet es? — 45.538206 USD
+- Wie viel kostet es? — 45.619626000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

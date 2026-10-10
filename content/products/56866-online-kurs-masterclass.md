@@ -4,15 +4,15 @@ digistore24_product_id: 444328
 title: "Online Kurs Masterclass"
 vendor: "anchukoegl"
 product_type: "Member area and video courses"
-price: 2677.93
+price: 2682.72
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 669.48
+earnings_per_sale: 670.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://anchukoegl.com/obm-sonderpreis/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Kurs Masterclass
 
 > Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2677.93 (Single payment, Installment) |
+| Price | $2682.72 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $669.48 |
+| Earnings/sale* | $670.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | anchukoegl |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs Masterclass? — Typ: Member area and video courses, Anbieter: anchukoegl, gelistet seit 2026-06-12
-- Wie viel kostet es? — 2677.9284000000002 USD
+- Wie viel kostet es? — 2682.7164000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

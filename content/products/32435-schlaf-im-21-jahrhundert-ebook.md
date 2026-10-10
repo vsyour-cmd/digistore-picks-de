@@ -4,15 +4,15 @@ digistore24_product_id: 320088
 title: "Schlaf im 21. Jahrhundert - eBook"
 vendor: "sleep-performance"
 product_type: "E-books"
-price: 6.22
+price: 6.23
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://buch.schlafonaut.de/ebook?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schlaf im 21. Jahrhundert - eBook
 
 > Product ID `32435` · Digistore24 productId `320088` · [HTML profile page](../../produkte/schlaf-im-21-jahrhundert-ebook-32435.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.22 (Single payment) |
+| Price | $6.23 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sleep-performance |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf im 21. Jahrhundert - eBook? — Typ: E-books, Anbieter: sleep-performance, gelistet seit 2020-04-11
-- Wie viel kostet es? — 6.219416 USD
+- Wie viel kostet es? — 6.230536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

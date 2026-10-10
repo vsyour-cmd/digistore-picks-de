@@ -4,15 +4,15 @@ digistore24_product_id: 449908
 title: "Buch \"DEIN LEBEN - DEINE ENTSCHEIDUNG\""
 vendor: "wipec100"
 product_type: "Book (printed)"
-price: 20.85
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.21
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://wipec.de/buch-dein-leben-deine-entscheidung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"
 
 > Product ID `41421` · Digistore24 productId `449908` · [HTML profile page](../../produkte/buch-dein-leben-deine-entscheidung-41421.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.85 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.21 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wipec100 |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"? — Typ: Book (printed), Anbieter: wipec100, gelistet seit 2022-07-05
-- Wie viel kostet es? — 20.850704 USD
+- Wie viel kostet es? — 20.887984000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

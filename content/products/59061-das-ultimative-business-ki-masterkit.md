@@ -4,15 +4,15 @@ digistore24_product_id: 727270
 title: "Das ultimative Business KI-Masterkit"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 93.05
+price: 93.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.52
+earnings_per_sale: 46.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://auranit.de/business-und-ki/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Business KI-Masterkit
 
 > Product ID `59061` · Digistore24 productId `727270` · [HTML profile page](../../produkte/das-ultimative-business-ki-masterkit-59061.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.05 (Single payment) |
+| Price | $93.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.52 |
+| Earnings/sale* | $46.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Business KI-Masterkit? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 93.04514800000001 USD
+- Wie viel kostet es? — 93.21150800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

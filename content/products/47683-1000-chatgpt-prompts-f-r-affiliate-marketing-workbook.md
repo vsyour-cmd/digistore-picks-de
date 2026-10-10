@@ -4,15 +4,15 @@ digistore24_product_id: 545559
 title: "1000+ ChatGPT Prompts für Affiliate Marketing Workbook"
 vendor: "HB1976"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.7
+earnings_per_sale: 12.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-03-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affilifuchs.de/1000-ki-prompts-fuer-affiliate-marketing?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1000+ ChatGPT Prompts für Affiliate Marketing Workbook
 
 > Product ID `47683` · Digistore24 productId `545559` · [HTML profile page](../../produkte/1000-chatgpt-prompts-f-r-affiliate-marketing-workbook-47683.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.70 |
+| Earnings/sale* | $12.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HB1976 |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1000+ ChatGPT Prompts für Affiliate Marketing Workbook? — Typ: Downloads, Anbieter: HB1976, gelistet seit 2024-03-26
-- Wie viel kostet es? — 25.381034000000003 USD
+- Wie viel kostet es? — 25.426414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 529678
 title: "Zeichnen lernen-Premium-Mitgliedschaft Schmidts Zeichenwelt"
 vendor: "SchmidtsZeichenwelt"
 product_type: "Member area and video courses"
-price: 74.26
+price: 74.4
 currency: "USD"
-affiliate_commission_pct: 33
-earnings_per_sale: 32.29
+affiliate_commission_pct: 40
+earnings_per_sale: 32.35
 cart_conversion_pct: 3
 cancel_rate_pct: 2.38
 categories: ["Education","Hobby & Craft"]
 listed_since: "2023-12-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://schmidtszeichenwelt.de/akademie-schmidts-zeichenwelt-premium-mitgliedschaft/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zeichnen lernen-Premium-Mitgliedschaft Schmidts Zeichenwelt
 
 > Product ID `54935` · Digistore24 productId `529678` · [HTML profile page](../../produkte/zeichnen-lernen-premium-mitgliedschaft-schmidts-zeichenwelt-54935.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.26 (Subscription) |
-| Affiliate commission | 33% |
-| Earnings/sale* | $32.29 |
+| Price | $74.40 (Subscription) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $32.35 |
 | Cart conversion* | 3% |
 | Cancel rate* | 2.38% |
 | Vendor | SchmidtsZeichenwelt |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeichnen lernen-Premium-Mitgliedschaft Schmidts Zeichenwelt? — Typ: Member area and video courses, Anbieter: SchmidtsZeichenwelt, gelistet seit 2023-12-13
-- Wie viel kostet es? — 74.26385400000001 USD
+- Wie viel kostet es? — 74.396634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 628818
 title: "Der Einsteigerkurs: Geld verdienen mit Social Media"
 vendor: "reneryllmarketing"
 product_type: "Member area and video courses"
-price: 72.38
+price: 72.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 28.95
+earnings_per_sale: 29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2025-08-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.reneryll.de/anleitung-ansehen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Einsteigerkurs: Geld verdienen mit Social Media
 
 > Product ID `53611` · Digistore24 productId `628818` · [HTML profile page](../../produkte/der-einsteigerkurs-geld-verdienen-mit-social-media-53611.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $72.38 (Single payment, Installment) |
+| Price | $72.51 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $28.95 |
+| Earnings/sale* | $29.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reneryllmarketing |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Einsteigerkurs: Geld verdienen mit Social Media? — Typ: Member area and video courses, Anbieter: reneryllmarketing, gelistet seit 2025-08-10
-- Wie viel kostet es? — 72.38460599999999 USD
+- Wie viel kostet es? — 72.514026 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

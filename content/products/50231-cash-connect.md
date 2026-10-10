@@ -4,15 +4,15 @@ digistore24_product_id: 590709
 title: "Cash Connect"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 878.9
+price: 880.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.85
+earnings_per_sale: 87
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.cashconnect.online/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Connect
 
 > Product ID `50231` · Digistore24 productId `590709` · [HTML profile page](../../produkte/cash-connect-50231.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $878.90 (Single payment, Installment) |
+| Price | $880.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.85 |
+| Earnings/sale* | $87.00 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Connect? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2025-01-15
-- Wie viel kostet es? — 878.895206 USD
+- Wie viel kostet es? — 880.466626 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

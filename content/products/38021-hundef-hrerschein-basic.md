@@ -4,15 +4,15 @@ digistore24_product_id: 388540
 title: "Hundeführerschein Basic"
 vendor: "perrocc"
 product_type: "Member area and video courses"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.18
+earnings_per_sale: 8.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-05-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://perrocc.coachy.net/lp/hundewissen-kompakt/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hundeführerschein Basic
 
 > Product ID `38021` · Digistore24 productId `388540` · [HTML profile page](../../produkte/hundef-hrerschein-basic-38021.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.18 |
+| Earnings/sale* | $8.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | perrocc |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundeführerschein Basic? — Typ: Member area and video courses, Anbieter: perrocc, gelistet seit 2021-05-06
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

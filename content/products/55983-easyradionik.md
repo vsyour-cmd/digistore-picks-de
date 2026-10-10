@@ -4,15 +4,15 @@ digistore24_product_id: 670575
 title: "EasyRadionik"
 vendor: "kohnlesoft"
 product_type: "Software"
-price: 486.57
+price: 487.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.16
+earnings_per_sale: 50.25
 cart_conversion_pct: 21
 cancel_rate_pct: 2.03
 categories: ["Software","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/670575/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # EasyRadionik
 
 > Product ID `55983` · Digistore24 productId `670575` · [HTML profile page](../../produkte/easyradionik-55983.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $486.57 (Subscription) |
+| Price | $487.44 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.16 |
+| Earnings/sale* | $50.25 |
 | Cart conversion* | 21% |
 | Cancel rate* | 2.03% |
 | Vendor | kohnlesoft |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EasyRadionik? — Typ: Software, Anbieter: kohnlesoft, gelistet seit 2026-02-21
-- Wie viel kostet es? — 486.56862800000005 USD
+- Wie viel kostet es? — 487.43858800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

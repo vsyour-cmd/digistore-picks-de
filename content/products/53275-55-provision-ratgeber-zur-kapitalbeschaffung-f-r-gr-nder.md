@@ -4,15 +4,15 @@ digistore24_product_id: 578289
 title: "55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer"
 vendor: "kukkltd"
 product_type: "E-books"
-price: 38.68
+price: 38.75
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 21.28
+earnings_per_sale: 21.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-11-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://danieldirks.com/der-weg-zum-geld-vsl?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer
 
 > Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../produkte/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.68 (Single payment) |
+| Price | $38.75 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $21.28 |
+| Earnings/sale* | $21.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kukkltd |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer? — Typ: E-books, Anbieter: kukkltd, gelistet seit 2024-11-01
-- Wie viel kostet es? — 38.681188 USD
+- Wie viel kostet es? — 38.750348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

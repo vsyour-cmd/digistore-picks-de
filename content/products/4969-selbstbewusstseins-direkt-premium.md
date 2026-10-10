@@ -4,15 +4,15 @@ digistore24_product_id: 33459
 title: "Selbstbewusstseins-Direkt-Premium"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 92.22
+price: 92.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.11
+earnings_per_sale: 46.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstbewusstseins-Direkt-Premium
 
 > Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../produkte/selbstbewusstseins-direkt-premium-4969.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $92.22 (Single payment, Installment) |
+| Price | $92.38 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.11 |
+| Earnings/sale* | $46.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstbewusstseins-Direkt-Premium? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2014-09-24
-- Wie viel kostet es? — 92.217384 USD
+- Wie viel kostet es? — 92.382264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

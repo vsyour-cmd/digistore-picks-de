@@ -4,15 +4,15 @@ digistore24_product_id: 71639
 title: "JoomISP für Joomla!"
 vendor: "RolandSM"
 product_type: "Downloads"
-price: 256.94
+price: 257.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 51.39
+earnings_per_sale: 51.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2016-02-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://joomisp.de/de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # JoomISP für Joomla!
 
 > Product ID `14395` · Digistore24 productId `71639` · [HTML profile page](../../produkte/joomisp-f-r-joomla-14395.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $256.94 (Single payment, Subscription) |
+| Price | $257.40 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $51.39 |
+| Earnings/sale* | $51.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RolandSM |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist JoomISP für Joomla!? — Typ: Downloads, Anbieter: RolandSM, gelistet seit 2016-02-12
-- Wie viel kostet es? — 256.94241999999997 USD
+- Wie viel kostet es? — 257.40182 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

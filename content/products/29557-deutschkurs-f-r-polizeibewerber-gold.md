@@ -4,15 +4,15 @@ digistore24_product_id: 346980
 title: "Deutschkurs für Polizeibewerber - Gold"
 vendor: "master-your-life"
 product_type: "Member area and video courses"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 233.6
+earnings_per_sale: 234.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.master-your-police-german.ch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Deutschkurs für Polizeibewerber - Gold
 
 > Product ID `29557` · Digistore24 productId `346980` · [HTML profile page](../../produkte/deutschkurs-f-r-polizeibewerber-gold-29557.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $467.18 (Single payment, Installment) |
+| Price | $468.02 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $233.60 |
+| Earnings/sale* | $234.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | master-your-life |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deutschkurs für Polizeibewerber - Gold? — Typ: Member area and video courses, Anbieter: master-your-life, gelistet seit 2020-09-07
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

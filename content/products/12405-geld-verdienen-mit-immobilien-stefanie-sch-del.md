@@ -4,15 +4,15 @@ digistore24_product_id: 80125
 title: "Geld verdienen mit Immobilien ( Stefanie Schädel)"
 vendor: "Jederkannimmobilien"
 product_type: "Member area and video courses"
-price: 250.98
+price: 251.43
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 82.82
+earnings_per_sale: 82.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-05-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.jeder-kann-immobilien.de/v/immobilienkauf/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geld verdienen mit Immobilien ( Stefanie Schädel)
 
 > Product ID `12405` · Digistore24 productId `80125` · [HTML profile page](../../produkte/geld-verdienen-mit-immobilien-stefanie-sch-del-12405.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $250.98 (Single payment, Installment) |
+| Price | $251.43 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $82.82 |
+| Earnings/sale* | $82.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jederkannimmobilien |
@@ -110,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit Immobilien ( Stefanie Schädel)? — Typ: Member area and video courses, Anbieter: Jederkannimmobilien, gelistet seit 2016-05-04
-- Wie viel kostet es? — 250.98028200000002 USD
+- Wie viel kostet es? — 251.429022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

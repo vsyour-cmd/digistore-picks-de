@@ -4,15 +4,15 @@ digistore24_product_id: 654461
 title: "Das moderne Bewerbungshandbuch - Anschreiben und KI"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.7
+earnings_per_sale: 11.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-landingpage1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das moderne Bewerbungshandbuch - Anschreiben und KI
 
 > Product ID `55227` · Digistore24 productId `654461` · [HTML profile page](../../produkte/das-moderne-bewerbungshandbuch-anschreiben-und-ki-55227.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.70 |
+| Earnings/sale* | $11.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das moderne Bewerbungshandbuch - Anschreiben und KI? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2025-12-10
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

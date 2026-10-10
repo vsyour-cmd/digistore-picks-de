@@ -4,15 +4,15 @@ digistore24_product_id: 597672
 title: "Starke Kinder stärken"
 vendor: "Mamipassion_Kerstin"
 product_type: "Downloads"
-price: 32.44
+price: 32.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.73
+earnings_per_sale: 9.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2025-02-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/597672?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Starke Kinder stärken
 
 > Product ID `51419` · Digistore24 productId `597672` · [HTML profile page](../../produkte/starke-kinder-st-rken-51419.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.44 (Single payment) |
+| Price | $32.50 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.73 |
+| Earnings/sale* | $9.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mamipassion_Kerstin |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starke Kinder stärken? — Typ: Downloads, Anbieter: Mamipassion_Kerstin, gelistet seit 2025-02-21
-- Wie viel kostet es? — 32.4394 USD
+- Wie viel kostet es? — 32.4974 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

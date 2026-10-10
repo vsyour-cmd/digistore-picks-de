@@ -4,15 +4,15 @@ digistore24_product_id: 668180
 title: "Social Media Post Generator"
 vendor: "DaveCrypto"
 product_type: "Software"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.72
+earnings_per_sale: 3.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-02-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/668180?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Post Generator
 
 > Product ID `55570` · Digistore24 productId `668180` · [HTML profile page](../../produkte/social-media-post-generator-55570.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DaveCrypto |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Post Generator? — Typ: Software, Anbieter: DaveCrypto, gelistet seit 2026-02-11
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

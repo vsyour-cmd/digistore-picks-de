@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Digital-Genius-Pro?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Digital Genius Pro - Digital-Produktgenerator
 
 > Product ID `51217` · Digistore24 productId `593791` · [HTML profile page](../../produkte/digital-genius-pro-digital-produktgenerator-51217.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Genius Pro - Digital-Produktgenerator? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-02-02
-- Wie viel kostet es? — 2.449734 USD
+- Wie viel kostet es? — 2.454114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 535979
 title: "Pferdeernährungsberater"
 vendor: "VETogether"
 product_type: "Member area and video courses"
-price: 648.91
+price: 650.07
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 65.73
+earnings_per_sale: 65.85
 cart_conversion_pct: 3
 cancel_rate_pct: 3.82
 categories: ["Animals & Pets","Education","Profession & Job"]
 listed_since: "2024-01-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/535979/?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pferdeernährungsberater
 
 > Product ID `49810` · Digistore24 productId `535979` · [HTML profile page](../../produkte/pferdeern-hrungsberater-49810.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $648.91 (Single payment, Installment) |
+| Price | $650.07 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $65.73 |
+| Earnings/sale* | $65.85 |
 | Cart conversion* | 3% |
 | Cancel rate* | 3.82% |
 | Vendor | VETogether |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pferdeernährungsberater? — Typ: Member area and video courses, Anbieter: VETogether, gelistet seit 2024-01-25
-- Wie viel kostet es? — 648.911046 USD
+- Wie viel kostet es? — 650.071266 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

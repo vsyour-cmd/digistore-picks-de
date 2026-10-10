@@ -7,12 +7,12 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 2.4
+earnings_per_sale: 2.41
 cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/schluessel-zur-freiheit/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Bitcoin - Dein Schlüssel zur Freiheit
 
 > Product ID `55538` · Digistore24 productId `667457` · [HTML profile page](../../produkte/bitcoin-dein-schl-ssel-zur-freiheit-55538.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $2.40 |
+| Earnings/sale* | $2.41 |
 | Cart conversion* | 55% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |

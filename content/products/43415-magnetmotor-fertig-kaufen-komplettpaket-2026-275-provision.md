@@ -4,15 +4,15 @@ digistore24_product_id: 220553
 title: "Magnetmotor fertig kaufen Komplettpaket 2026 -275€ Provision"
 vendor: "deinwissen"
 product_type: "Downloads"
-price: 35.26
+price: 35.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.9
+earnings_per_sale: 13.93
 cart_conversion_pct: 3
 cancel_rate_pct: 7.97
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
 listed_since: "2018-05-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://magnetmotor4u.funnelcockpit.com/magnetmotor-kaufen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Magnetmotor fertig kaufen Komplettpaket 2026 -275€ Provision
 
 > Product ID `43415` · Digistore24 productId `220553` · [HTML profile page](../../produkte/magnetmotor-fertig-kaufen-komplettpaket-2026-275-provision-43415.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $35.26 (Single payment) |
+| Price | $35.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.90 |
+| Earnings/sale* | $13.93 |
 | Cart conversion* | 3% |
 | Cancel rate* | 7.97% |
 | Vendor | deinwissen |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetmotor fertig kaufen Komplettpaket 2026 -275€ Provision? — Typ: Downloads, Anbieter: deinwissen, gelistet seit 2018-05-11
-- Wie viel kostet es? — 35.258272 USD
+- Wie viel kostet es? — 35.321312 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

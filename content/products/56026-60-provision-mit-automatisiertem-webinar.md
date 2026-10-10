@@ -4,15 +4,15 @@ digistore24_product_id: 564175
 title: "60% Provision mit automatisiertem Webinar"
 vendor: "jessicabusse"
 product_type: "Member area and video courses"
-price: 349.69
+price: 350.31
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 209.82
+earnings_per_sale: 210.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-chakra-seminar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 60% Provision mit automatisiertem Webinar
 
 > Product ID `56026` · Digistore24 productId `564175` · [HTML profile page](../../produkte/60-provision-mit-automatisiertem-webinar-56026.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $349.69 (Single payment, Installment) |
+| Price | $350.31 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $209.82 |
+| Earnings/sale* | $210.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jessicabusse |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60% Provision mit automatisiertem Webinar? — Typ: Member area and video courses, Anbieter: jessicabusse, gelistet seit 2024-08-06
-- Wie viel kostet es? — 349.68554600000004 USD
+- Wie viel kostet es? — 350.310766 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

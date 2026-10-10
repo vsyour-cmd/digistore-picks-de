@@ -4,15 +4,15 @@ digistore24_product_id: 225242
 title: "TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)"
 vendor: "profitbiz"
 product_type: "Supplements - for slimming"
-price: 187.13
+price: 187.47
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 130.99
+earnings_per_sale: 131.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://nie-wieder-impotenz.com/video/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)
 
 > Product ID `57656` · Digistore24 productId `225242` · [HTML profile page](../../produkte/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $187.13 (Subscription) |
+| Price | $187.47 (Subscription) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $130.99 |
+| Earnings/sale* | $131.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | profitbiz |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)? — Typ: Supplements - for slimming, Anbieter: profitbiz, gelistet seit 2026-07-21
-- Wie viel kostet es? — 187.130594 USD
+- Wie viel kostet es? — 187.465174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

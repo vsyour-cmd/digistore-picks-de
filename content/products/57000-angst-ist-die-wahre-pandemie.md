@@ -4,15 +4,15 @@ digistore24_product_id: 702939
 title: "Angst ist die wahre Pandemie"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.22
+earnings_per_sale: 5.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Politics & Economy","Personal Development"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Angst ist die wahre Pandemie
 
 > Product ID `57000` · Digistore24 productId `702939` · [HTML profile page](../../produkte/angst-ist-die-wahre-pandemie-57000.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.22 |
+| Earnings/sale* | $5.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Seelendank |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Angst ist die wahre Pandemie? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-06-16
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

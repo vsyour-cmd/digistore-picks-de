@@ -12,7 +12,7 @@ cart_conversion_pct: 15
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision
 
 > Product ID `54258` · Digistore24 productId `628002` · [HTML profile page](../../produkte/sofort-guide-innere-freiheit-mit-50-upsell-provision-54258.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision? — Typ: Member area and video courses, Anbieter: Sternenlichter, gelistet seit 2025-08-05
-- Wie viel kostet es? — 2.7965 USD
+- Wie viel kostet es? — 2.8015 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

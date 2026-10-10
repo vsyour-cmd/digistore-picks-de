@@ -4,15 +4,15 @@ digistore24_product_id: 463226
 title: "GRATIS Social Media Vorlagen"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 183.58
+price: 183.91
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 124.52
+earnings_per_sale: 124.75
 cart_conversion_pct: 9
 cancel_rate_pct: 1.78
 categories: ["Social Media"]
 listed_since: "2022-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/social-media-vorlagen-gratis/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # GRATIS Social Media Vorlagen
 
 > Product ID `41474` · Digistore24 productId `463226` · [HTML profile page](../../produkte/gratis-social-media-vorlagen-41474.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.58 (Single payment) |
+| Price | $183.91 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $124.52 |
+| Earnings/sale* | $124.75 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.78% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRATIS Social Media Vorlagen? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-10-04
-- Wie viel kostet es? — 183.584632 USD
+- Wie viel kostet es? — 183.91287200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

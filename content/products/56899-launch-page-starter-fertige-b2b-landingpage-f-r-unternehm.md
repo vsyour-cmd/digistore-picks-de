@@ -4,15 +4,15 @@ digistore24_product_id: 701698
 title: "Launch Page Starter™ – fertige B2B-Landingpage für Unternehm"
 vendor: "smartboostAI"
 product_type: "Remote service provided electronically"
-price: 333.34
+price: 333.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 166.67
+earnings_per_sale: 166.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://aiagentbusiness.io/landingpage-erstellen-lassen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Launch Page Starter™ – fertige B2B-Landingpage für Unternehm
 
 > Product ID `56899` · Digistore24 productId `701698` · [HTML profile page](../../produkte/launch-page-starter-fertige-b2b-landingpage-f-r-unternehm-56899.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $333.34 (Single payment, Installment) |
+| Price | $333.94 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $166.67 |
+| Earnings/sale* | $166.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Launch Page Starter™ – fertige B2B-Landingpage für Unternehm? — Typ: Remote service provided electronically, Anbieter: smartboostAI, gelistet seit 2026-06-15
-- Wie viel kostet es? — 333.3428 USD
+- Wie viel kostet es? — 333.9388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

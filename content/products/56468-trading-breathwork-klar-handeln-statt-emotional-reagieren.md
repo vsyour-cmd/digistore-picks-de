@@ -4,15 +4,15 @@ digistore24_product_id: 686937
 title: "Trading Breathwork – Klar handeln statt emotional reagieren."
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 250.98
+price: 251.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 75.29
+earnings_per_sale: 75.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-04-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.tradingbreathwork.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trading Breathwork – Klar handeln statt emotional reagieren.
 
 > Product ID `56468` · Digistore24 productId `686937` · [HTML profile page](../../produkte/trading-breathwork-klar-handeln-statt-emotional-reagieren-56468.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $250.98 (Single payment, Installment) |
+| Price | $251.43 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $75.29 |
+| Earnings/sale* | $75.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trading Breathwork – Klar handeln statt emotional reagieren.? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-04-23
-- Wie viel kostet es? — 250.98028200000002 USD
+- Wie viel kostet es? — 251.429022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

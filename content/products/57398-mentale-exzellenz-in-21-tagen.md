@@ -4,15 +4,15 @@ digistore24_product_id: 683993
 title: "Mentale Exzellenz in 21 Tagen"
 vendor: "creators-academy"
 product_type: "Member area and video courses"
-price: 380.7
+price: 381.39
 currency: "USD"
 affiliate_commission_pct: 27
-earnings_per_sale: 102.79
+earnings_per_sale: 102.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/683993/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mentale Exzellenz in 21 Tagen
 
 > Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../produkte/mentale-exzellenz-in-21-tagen-57398.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $380.70 (Single payment, Installment) |
+| Price | $381.39 (Single payment, Installment) |
 | Affiliate commission | 27% |
-| Earnings/sale* | $102.79 |
+| Earnings/sale* | $102.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | creators-academy |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mentale Exzellenz in 21 Tagen? — Typ: Member area and video courses, Anbieter: creators-academy, gelistet seit 2026-07-04
-- Wie viel kostet es? — 380.704324 USD
+- Wie viel kostet es? — 381.385004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

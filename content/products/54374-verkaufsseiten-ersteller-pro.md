@@ -4,15 +4,15 @@ digistore24_product_id: 640720
 title: "Verkaufsseiten-Ersteller Pro"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 44.63
+price: 44.71
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 37.94
+earnings_per_sale: 38.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-10-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://verkaufsseiten-ersteller-page.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Verkaufsseiten-Ersteller Pro
 
 > Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../produkte/verkaufsseiten-ersteller-pro-54374.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $44.63 (Single payment) |
+| Price | $44.71 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $37.94 |
+| Earnings/sale* | $38.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufsseiten-Ersteller Pro? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2025-10-11
-- Wie viel kostet es? — 44.63214 USD
+- Wie viel kostet es? — 44.71194 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

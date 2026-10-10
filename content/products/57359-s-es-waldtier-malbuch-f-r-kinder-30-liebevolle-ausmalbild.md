@@ -4,15 +4,15 @@ digistore24_product_id: 705407
 title: "Süßes Waldtier-Malbuch für Kinder – 30 liebevolle Ausmalbild"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 6.59
+earnings_per_sale: 6.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Hobby & Craft"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/waldtiere-ausmalbilder/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Süßes Waldtier-Malbuch für Kinder – 30 liebevolle Ausmalbild
 
 > Product ID `57359` · Digistore24 productId `705407` · [HTML profile page](../../produkte/s-es-waldtier-malbuch-f-r-kinder-30-liebevolle-ausmalbild-57359.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $6.59 |
+| Earnings/sale* | $6.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Süßes Waldtier-Malbuch für Kinder – 30 liebevolle Ausmalbild? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-02
-- Wie viel kostet es? — 9.407426000000001 USD
+- Wie viel kostet es? — 9.424246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

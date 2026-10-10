@@ -4,15 +4,15 @@ digistore24_product_id: 462788
 title: "1-Klick Copy+Paste 100K Business | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 250.17
+price: 250.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 122.21
+earnings_per_sale: 122.43
 cart_conversion_pct: 2
 cancel_rate_pct: 0.86
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2022-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/462788/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1-Klick Copy+Paste 100K Business | Partnerprogramm
 
 > Product ID `41946` · Digistore24 productId `462788` · [HTML profile page](../../produkte/1-klick-copy-paste-100k-business-partnerprogramm-41946.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $250.17 (Single payment, Installment) |
+| Price | $250.62 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $122.21 |
+| Earnings/sale* | $122.43 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0.86% |
 | Vendor | profitbuddies |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1-Klick Copy+Paste 100K Business | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2022-10-01
-- Wie viel kostet es? — 250.17489 USD
+- Wie viel kostet es? — 250.62219000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

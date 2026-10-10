@@ -4,15 +4,15 @@ digistore24_product_id: 730548
 title: "RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide"
 vendor: "sinamir"
 product_type: "E-books"
-price: 18.71
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.48
+earnings_per_sale: 7.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/730548?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide
 
 > Product ID `58982` · Digistore24 productId `730548` · [HTML profile page](../../produkte/re-skin-reset-der-hautneustart-als-digitale-pdf-guide-58982.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.48 |
+| Earnings/sale* | $7.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sinamir |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide? — Typ: E-books, Anbieter: sinamir, gelistet seit 2026-09-07
-- Wie viel kostet es? — 18.714178 USD
+- Wie viel kostet es? — 18.747638000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

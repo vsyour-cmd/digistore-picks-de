@@ -4,15 +4,15 @@ digistore24_product_id: 738060
 title: "Social Media Agent Masterclass – 89 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 83.66
+price: 83.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.84
+earnings_per_sale: 41.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/738060?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Agent Masterclass – 89 €, 50 % Provision
 
 > Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../produkte/social-media-agent-masterclass-89-50-provision-59972.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.66 (Single payment) |
+| Price | $83.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.84 |
+| Earnings/sale* | $41.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Agent Masterclass – 89 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 83.66009400000002 USD
+- Wie viel kostet es? — 83.80967400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

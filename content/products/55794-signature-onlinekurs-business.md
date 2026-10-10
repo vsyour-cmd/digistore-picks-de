@@ -4,15 +4,15 @@ digistore24_product_id: 646623
 title: "Signature-Onlinekurs-Business"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 1201.38
+price: 1203.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 600.69
+earnings_per_sale: 601.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-11-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://expertscalingsystem.ralfwenda.education/webinar-training/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Signature-Onlinekurs-Business
 
 > Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../produkte/signature-onlinekurs-business-55794.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1201.38 (Single payment, Installment) |
+| Price | $1203.52 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $600.69 |
+| Earnings/sale* | $601.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Signature-Onlinekurs-Business? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2025-11-06
-- Wie viel kostet es? — 1201.3764 USD
+- Wie viel kostet es? — 1203.5244 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

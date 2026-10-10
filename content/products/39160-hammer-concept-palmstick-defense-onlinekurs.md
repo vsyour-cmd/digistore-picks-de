@@ -4,15 +4,15 @@ digistore24_product_id: 391973
 title: "Hammer Concept Palmstick Defense Onlinekurs"
 vendor: "fma24_com"
 product_type: "Member area and video courses"
-price: 95.88
+price: 96.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 47.94
+earnings_per_sale: 48.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport","Survival"]
 listed_since: "2021-05-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.fma24.com/onlinekurse/palmstick-defense/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hammer Concept Palmstick Defense Onlinekurs
 
 > Product ID `39160` · Digistore24 productId `391973` · [HTML profile page](../../produkte/hammer-concept-palmstick-defense-onlinekurs-39160.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $95.88 (Single payment, Installment) |
+| Price | $96.05 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $47.94 |
+| Earnings/sale* | $48.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fma24_com |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hammer Concept Palmstick Defense Onlinekurs? — Typ: Member area and video courses, Anbieter: fma24_com, gelistet seit 2021-05-28
-- Wie viel kostet es? — 95.87520599999999 USD
+- Wie viel kostet es? — 96.046626 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

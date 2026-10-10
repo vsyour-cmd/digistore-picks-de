@@ -4,15 +4,15 @@ digistore24_product_id: 710082
 title: "Der 5-Stunden-Nebenjob"
 vendor: "Caffiliate"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.08
+earnings_per_sale: 4.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710082?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der 5-Stunden-Nebenjob
 
 > Product ID `57481` · Digistore24 productId `710082` · [HTML profile page](../../produkte/der-5-stunden-nebenjob-57481.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.08 |
+| Earnings/sale* | $4.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Caffiliate |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 5-Stunden-Nebenjob? — Typ: E-books, Anbieter: Caffiliate, gelistet seit 2026-07-10
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

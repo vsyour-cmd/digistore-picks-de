@@ -4,15 +4,15 @@ digistore24_product_id: 303289
 title: "Million Euro Baby Videokurs"
 vendor: "Cleriker"
 product_type: "Member area and video courses"
-price: 937.19
+price: 938.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 468.59
+earnings_per_sale: 469.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-01-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/million-euro-baby-videokurs-ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Million Euro Baby Videokurs
 
 > Product ID `37117` · Digistore24 productId `303289` · [HTML profile page](../../produkte/million-euro-baby-videokurs-37117.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $937.19 (Single payment, Subscription) |
+| Price | $938.86 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $468.59 |
+| Earnings/sale* | $469.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Million Euro Baby Videokurs? — Typ: Member area and video courses, Anbieter: Cleriker, gelistet seit 2020-01-14
-- Wie viel kostet es? — 937.185452 USD
+- Wie viel kostet es? — 938.8610920000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

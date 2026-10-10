@@ -4,15 +4,15 @@ digistore24_product_id: 642395
 title: "Elternschaft im digitalen Zeitalter"
 vendor: "AspireVerse"
 product_type: "E-books"
-price: 26.85
+price: 26.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.42
+earnings_per_sale: 13.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-10-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://parentingds.aspireonecs.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Elternschaft im digitalen Zeitalter
 
 > Product ID `54450` · Digistore24 productId `642395` · [HTML profile page](../../produkte/elternschaft-im-digitalen-zeitalter-54450.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.85 (Single payment) |
+| Price | $26.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.42 |
+| Earnings/sale* | $13.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AspireVerse |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elternschaft im digitalen Zeitalter? — Typ: E-books, Anbieter: AspireVerse, gelistet seit 2025-10-20
-- Wie viel kostet es? — 26.846400000000003 USD
+- Wie viel kostet es? — 26.8944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

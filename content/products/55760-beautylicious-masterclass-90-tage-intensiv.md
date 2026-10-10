@@ -4,15 +4,15 @@ digistore24_product_id: 671738
 title: "Beautylicious Masterclass 90 Tage intensiv"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Telephone coaching"
-price: 561.18
+price: 562.18
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 56.12
+earnings_per_sale: 56.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/671738?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Beautylicious Masterclass 90 Tage intensiv
 
 > Product ID `55760` · Digistore24 productId `671738` · [HTML profile page](../../produkte/beautylicious-masterclass-90-tage-intensiv-55760.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $561.18 (Single payment) |
+| Price | $562.18 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $56.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xxbeautyliciousbysun8aec |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beautylicious Masterclass 90 Tage intensiv? — Typ: Telephone coaching, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-25
-- Wie viel kostet es? — 561.179248 USD
+- Wie viel kostet es? — 562.1826080000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

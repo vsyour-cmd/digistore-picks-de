@@ -4,15 +4,15 @@ digistore24_product_id: 354869
 title: "1% CLUB | Instagram - Business - Online Geld verdienen"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.9
+price: 35.96
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 17.98
+earnings_per_sale: 18.01
 cart_conversion_pct: 8
 cancel_rate_pct: 1.26
 categories: ["Social Media"]
 listed_since: "2020-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://einprozentclub.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1% CLUB | Instagram - Business - Online Geld verdienen
 
 > Product ID `33621` · Digistore24 productId `354869` · [HTML profile page](../../produkte/1-club-instagram-business-online-geld-verdienen-33621.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.90 (Single payment) |
+| Price | $35.96 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $17.98 |
+| Earnings/sale* | $18.01 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.26% |
 | Vendor | moserda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% CLUB | Instagram - Business - Online Geld verdienen? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-10-29
-- Wie viel kostet es? — 35.895874000000006 USD
+- Wie viel kostet es? — 35.96005400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

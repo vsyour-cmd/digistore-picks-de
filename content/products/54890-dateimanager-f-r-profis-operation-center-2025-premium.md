@@ -4,7 +4,7 @@ digistore24_product_id: 571730
 title: "Dateimanager für Profis: Operation Center 2025 Premium"
 vendor: "JMMGComm"
 product_type: "Software"
-price: 33.12
+price: 33.18
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.64
@@ -12,7 +12,7 @@ cart_conversion_pct: 16
 cancel_rate_pct: 2.17
 categories: ["Software"]
 listed_since: "2024-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/571730?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Dateimanager für Profis: Operation Center 2025 Premium
 
 > Product ID `54890` · Digistore24 productId `571730` · [HTML profile page](../../produkte/dateimanager-f-r-profis-operation-center-2025-premium-54890.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $33.12 (Single payment) |
+| Price | $33.18 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.64 |
 | Cart conversion* | 16% |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dateimanager für Profis: Operation Center 2025 Premium? — Typ: Software, Anbieter: JMMGComm, gelistet seit 2024-09-23
-- Wie viel kostet es? — 33.121746 USD
+- Wie viel kostet es? — 33.180966 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

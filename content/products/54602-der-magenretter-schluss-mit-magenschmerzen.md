@@ -4,15 +4,15 @@ digistore24_product_id: 632881
 title: "Der Magenretter - Schluss mit Magenschmerzen"
 vendor: "Lobato1"
 product_type: "Member area and video courses"
-price: 1015.2
+price: 1017.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 304.56
+earnings_per_sale: 305.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.rafaellobato.de/der-magenretter?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Magenretter - Schluss mit Magenschmerzen
 
 > Product ID `54602` · Digistore24 productId `632881` · [HTML profile page](../../produkte/der-magenretter-schluss-mit-magenschmerzen-54602.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1015.20 (Single payment, Installment) |
+| Price | $1017.01 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $304.56 |
+| Earnings/sale* | $305.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Lobato1 |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Magenretter - Schluss mit Magenschmerzen? — Typ: Member area and video courses, Anbieter: Lobato1, gelistet seit 2025-08-31
-- Wie viel kostet es? — 1015.196616 USD
+- Wie viel kostet es? — 1017.0117359999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

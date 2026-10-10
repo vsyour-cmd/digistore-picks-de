@@ -4,15 +4,15 @@ digistore24_product_id: 611563
 title: "SchlafKompass Baby Schlafcoaching"
 vendor: "Traumwerkstatt-Schlafberatung"
 product_type: "Member area and video courses"
-price: 141
+price: 141.25
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.11
+earnings_per_sale: 14.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2025-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://traumwerkstatt-schlafberatung.de/schlafkompass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SchlafKompass Baby Schlafcoaching
 
 > Product ID `52739` · Digistore24 productId `611563` · [HTML profile page](../../produkte/schlafkompass-baby-schlafcoaching-52739.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.00 (Single payment, Installment) |
+| Price | $141.25 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Traumwerkstatt-Schlafberatung |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SchlafKompass Baby Schlafcoaching? — Typ: Member area and video courses, Anbieter: Traumwerkstatt-Schlafberatung, gelistet seit 2025-05-08
-- Wie viel kostet es? — 140.99953 USD
+- Wie viel kostet es? — 141.25163 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

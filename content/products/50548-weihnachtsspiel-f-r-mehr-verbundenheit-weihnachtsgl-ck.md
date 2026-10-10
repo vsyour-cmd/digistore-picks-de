@@ -4,15 +4,15 @@ digistore24_product_id: 583074
 title: "Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück"
 vendor: "wiegehtliebe-de"
 product_type: "Downloads"
-price: 4.61
+price: 4.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.3
+earnings_per_sale: 2.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/583074/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück
 
 > Product ID `50548` · Digistore24 productId `583074` · [HTML profile page](../../produkte/weihnachtsspiel-f-r-mehr-verbundenheit-weihnachtsgl-ck-50548.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.61 (Single payment) |
+| Price | $4.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.30 |
+| Earnings/sale* | $2.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wiegehtliebe-de |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weihnachtsspiel für mehr Verbundenheit - Weihnachtsglück? — Typ: Downloads, Anbieter: wiegehtliebe-de, gelistet seit 2024-11-27
-- Wie viel kostet es? — 4.608632 USD
+- Wie viel kostet es? — 4.616872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

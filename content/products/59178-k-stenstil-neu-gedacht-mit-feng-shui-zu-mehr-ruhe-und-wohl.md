@@ -4,15 +4,15 @@ digistore24_product_id: 721962
 title: "Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/721962?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl
 
 > Product ID `59178` · Digistore24 productId `721962` · [HTML profile page](../../produkte/k-stenstil-neu-gedacht-mit-feng-shui-zu-mehr-ruhe-und-wohl-59178.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment) |
+| Price | $23.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-09-13
-- Wie viel kostet es? — 23.4906 USD
+- Wie viel kostet es? — 23.532600000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 595203
 title: "ReichweitenBooster"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 331.02
+price: 331.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 126.88
+earnings_per_sale: 127.11
 cart_conversion_pct: 11
 cancel_rate_pct: 0.76
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/reichweitenbooster/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ReichweitenBooster
 
 > Product ID `55693` · Digistore24 productId `595203` · [HTML profile page](../../produkte/reichweitenbooster-55693.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $331.02 (Single payment, Installment) |
+| Price | $331.61 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $126.88 |
+| Earnings/sale* | $127.11 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.76% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ReichweitenBooster? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 331.016112 USD
+- Wie viel kostet es? — 331.607952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

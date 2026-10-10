@@ -4,7 +4,7 @@ digistore24_product_id: 586552
 title: "Videokurs \"Kratzmöglichkeiten für Katzen\""
 vendor: "MiriamKnischewski"
 product_type: "Member area and video courses"
-price: 17.86
+price: 17.9
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.79
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2024-12-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://shop.katzen-fieber.de/kratzmoebel-kurs?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Videokurs "Kratzmöglichkeiten für Katzen"
 
 > Product ID `51328` · Digistore24 productId `586552` · [HTML profile page](../../produkte/videokurs-kratzm-glichkeiten-f-r-katzen-51328.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $17.86 (Single payment) |
+| Price | $17.90 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.79 |
 | Cart conversion* | — |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Kratzmöglichkeiten für Katzen"? — Typ: Member area and video courses, Anbieter: MiriamKnischewski, gelistet seit 2024-12-17
-- Wie viel kostet es? — 17.864042 USD
+- Wie viel kostet es? — 17.895982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

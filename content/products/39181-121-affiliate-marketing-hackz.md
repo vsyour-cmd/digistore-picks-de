@@ -12,7 +12,7 @@ cart_conversion_pct: 11
 cancel_rate_pct: 1.81
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://torstenjaeger.com/121affiliatehackz?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # 121 Affiliate Marketing HACKZ
 
 > Product ID `39181` · Digistore24 productId `107607` · [HTML profile page](../../produkte/121-affiliate-marketing-hackz-39181.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 121 Affiliate Marketing HACKZ? — Typ: E-books, Anbieter: sattelitevendor, gelistet seit 2016-12-06
-- Wie viel kostet es? — 3.366986 USD
+- Wie viel kostet es? — 3.3730059999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

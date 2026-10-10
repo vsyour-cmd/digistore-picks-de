@@ -4,15 +4,15 @@ digistore24_product_id: 518862
 title: "Chakren-Energetik - Lichtvoll in die Zukunft"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 258.5
+price: 258.96
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 85.3
+earnings_per_sale: 85.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://magierschule.de/7Chakren?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Chakren-Energetik - Lichtvoll in die Zukunft
 
 > Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../produkte/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $258.50 (Single payment, Installment) |
+| Price | $258.96 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $85.30 |
+| Earnings/sale* | $85.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakren-Energetik - Lichtvoll in die Zukunft? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2023-10-01
-- Wie viel kostet es? — 258.497274 USD
+- Wie viel kostet es? — 258.959454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

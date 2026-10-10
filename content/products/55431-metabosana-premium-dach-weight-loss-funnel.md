@@ -4,15 +4,15 @@ digistore24_product_id: 663162
 title: "MetaboSana - Premium DACH Weight Loss Funnel"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 164.62
+price: 164.92
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 105.55
+earnings_per_sale: 105.74
 cart_conversion_pct: 16
 cancel_rate_pct: 0.82
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://metabosana.com/metabosana-pdp-fe?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MetaboSana - Premium DACH Weight Loss Funnel
 
 > Product ID `55431` · Digistore24 productId `663162` · [HTML profile page](../../produkte/metabosana-premium-dach-weight-loss-funnel-55431.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $164.62 (Single payment) |
+| Price | $164.92 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $105.55 |
+| Earnings/sale* | $105.74 |
 | Cart conversion* | 16% |
 | Cancel rate* | 0.82% |
 | Vendor | DS24-MySana |
@@ -104,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MetaboSana - Premium DACH Weight Loss Funnel? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-21
-- Wie viel kostet es? — 164.624362 USD
+- Wie viel kostet es? — 164.918702 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

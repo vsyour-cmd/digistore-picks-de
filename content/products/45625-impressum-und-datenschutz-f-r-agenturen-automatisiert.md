@@ -4,15 +4,15 @@ digistore24_product_id: 228023
 title: "Impressum und Datenschutz für Agenturen automatisiert"
 vendor: "Paragraf7"
 product_type: "Member area and video courses"
-price: 267.12
+price: 267.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 53.42
+earnings_per_sale: 53.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Law & Justice"]
 listed_since: "2018-06-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Impressum und Datenschutz für Agenturen automatisiert
 
 > Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../produkte/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $267.12 (Subscription) |
+| Price | $267.60 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $53.42 |
+| Earnings/sale* | $53.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Paragraf7 |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Impressum und Datenschutz für Agenturen automatisiert? — Typ: Member area and video courses, Anbieter: Paragraf7, gelistet seit 2018-06-15
-- Wie viel kostet es? — 267.12168 USD
+- Wie viel kostet es? — 267.59928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

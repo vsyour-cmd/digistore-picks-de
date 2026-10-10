@@ -4,15 +4,15 @@ digistore24_product_id: 378010
 title: "Buch | Tausche Hamsterrad gegen Traumleben"
 vendor: "jochenlilleike"
 product_type: "Book (printed)"
-price: 7.27
+price: 7.28
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://buch.berufungscode.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch | Tausche Hamsterrad gegen Traumleben
 
 > Product ID `39937` · Digistore24 productId `378010` · [HTML profile page](../../produkte/buch-tausche-hamsterrad-gegen-traumleben-39937.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.27 (Single payment) |
+| Price | $7.28 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jochenlilleike |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch | Tausche Hamsterrad gegen Traumleben? — Typ: Book (printed), Anbieter: jochenlilleike, gelistet seit 2021-03-09
-- Wie viel kostet es? — 7.2709 USD
+- Wie viel kostet es? — 7.2839 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

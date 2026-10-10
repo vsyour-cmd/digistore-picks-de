@@ -4,15 +4,15 @@ digistore24_product_id: 703375
 title: "Seminar zur Sprachförderung von Kleinkindern"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 671.16
+price: 672.36
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 67.12
+earnings_per_sale: 67.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/703375?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Seminar zur Sprachförderung von Kleinkindern
 
 > Product ID `57368` · Digistore24 productId `703375` · [HTML profile page](../../produkte/seminar-zur-sprachf-rderung-von-kleinkindern-57368.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $671.16 (Single payment) |
+| Price | $672.36 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $67.12 |
+| Earnings/sale* | $67.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seminar zur Sprachförderung von Kleinkindern? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 671.16 USD
+- Wie viel kostet es? — 672.36 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

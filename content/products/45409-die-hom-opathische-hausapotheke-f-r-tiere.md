@@ -4,15 +4,15 @@ digistore24_product_id: 506679
 title: "Die homöopathische Hausapotheke für Tiere"
 vendor: "PetraSchwarz"
 product_type: "Member area and video courses"
-price: 173.9
+price: 174.21
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 34.78
+earnings_per_sale: 34.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2023-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die homöopathische Hausapotheke für Tiere
 
 > Product ID `45409` · Digistore24 productId `506679` · [HTML profile page](../../produkte/die-hom-opathische-hausapotheke-f-r-tiere-45409.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $173.90 (Single payment, Installment) |
+| Price | $174.21 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $34.78 |
+| Earnings/sale* | $34.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSchwarz |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die homöopathische Hausapotheke für Tiere? — Typ: Member area and video courses, Anbieter: PetraSchwarz, gelistet seit 2023-07-09
-- Wie viel kostet es? — 173.897556 USD
+- Wie viel kostet es? — 174.20847600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

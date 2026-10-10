@@ -4,15 +4,15 @@ digistore24_product_id: 610020
 title: "Frei Leben Kongress 3 - VIP-Paket & Bundle"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 121.93
+price: 122.15
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.19
+earnings_per_sale: 12.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.freileben3.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frei Leben Kongress 3 - VIP-Paket & Bundle
 
 > Product ID `53007` · Digistore24 productId `610020` · [HTML profile page](../../produkte/frei-leben-kongress-3-vip-paket-bundle-53007.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.93 (Single payment, Installment) |
+| Price | $122.15 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.19 |
+| Earnings/sale* | $12.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kongresshero |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei Leben Kongress 3 - VIP-Paket & Bundle? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2025-04-29
-- Wie viel kostet es? — 121.9274 USD
+- Wie viel kostet es? — 122.14540000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

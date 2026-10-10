@@ -4,15 +4,15 @@ digistore24_product_id: 525408
 title: "Copy Klick System - Hohe Conversion dank Webinar"
 vendor: "Moneycashnow"
 product_type: "Member area and video courses"
-price: 417.36
+price: 418.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 208.69
+earnings_per_sale: 209.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digitale-profis.com/webinar-eintragung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Copy Klick System - Hohe Conversion dank Webinar
 
 > Product ID `51901` · Digistore24 productId `525408` · [HTML profile page](../../produkte/copy-klick-system-hohe-conversion-dank-webinar-51901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $417.36 (Single payment, Installment) |
+| Price | $418.11 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $208.69 |
+| Earnings/sale* | $209.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Moneycashnow |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Copy Klick System - Hohe Conversion dank Webinar? — Typ: Member area and video courses, Anbieter: Moneycashnow, gelistet seit 2023-11-15
-- Wie viel kostet es? — 417.36084600000004 USD
+- Wie viel kostet es? — 418.10706600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

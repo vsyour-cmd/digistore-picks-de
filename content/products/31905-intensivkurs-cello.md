@@ -4,15 +4,15 @@ digistore24_product_id: 387861
 title: "Intensivkurs Cello"
 vendor: "FelixSeiffert"
 product_type: "Member area and video courses"
-price: 366.6
+price: 367.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 183.3
+earnings_per_sale: 183.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-05-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://bogenbalance.de/intensivkurs-cello-affiliate/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Intensivkurs Cello
 
 > Product ID `31905` · Digistore24 productId `387861` · [HTML profile page](../../produkte/intensivkurs-cello-31905.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $366.60 (Subscription) |
+| Price | $367.25 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $183.30 |
+| Earnings/sale* | $183.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FelixSeiffert |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Intensivkurs Cello? — Typ: Member area and video courses, Anbieter: FelixSeiffert, gelistet seit 2021-05-03
-- Wie viel kostet es? — 366.59877800000004 USD
+- Wie viel kostet es? — 367.25423800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

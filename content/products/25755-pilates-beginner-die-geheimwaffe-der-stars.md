@@ -4,15 +4,15 @@ digistore24_product_id: 228293
 title: "Pilates Beginner - Die Geheimwaffe der Stars"
 vendor: "Pilatesliebe"
 product_type: "Member area and video courses"
-price: 41.35
+price: 41.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://pilatesliebe.com/pilatesbeginner?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates Beginner - Die Geheimwaffe der Stars
 
 > Product ID `25755` · Digistore24 productId `228293` · [HTML profile page](../../produkte/pilates-beginner-die-geheimwaffe-der-stars-25755.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.35 (Single payment) |
+| Price | $41.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pilatesliebe |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates Beginner - Die Geheimwaffe der Stars? — Typ: Member area and video courses, Anbieter: Pilatesliebe, gelistet seit 2018-06-17
-- Wie viel kostet es? — 41.354642 USD
+- Wie viel kostet es? — 41.428582 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

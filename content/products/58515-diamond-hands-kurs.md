@@ -4,15 +4,15 @@ digistore24_product_id: 680424
 title: "Diamond Hands Kurs"
 vendor: "Loewin999"
 product_type: "Member area and video courses"
-price: 733.2
+price: 734.51
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 109.98
+earnings_per_sale: 110.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://marinathomsen.de/webinar?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Diamond Hands Kurs
 
 > Product ID `58515` · Digistore24 productId `680424` · [HTML profile page](../../produkte/diamond-hands-kurs-58515.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $733.20 (Single payment, Installment) |
+| Price | $734.51 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $109.98 |
+| Earnings/sale* | $110.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loewin999 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Diamond Hands Kurs? — Typ: Member area and video courses, Anbieter: Loewin999, gelistet seit 2026-08-22
-- Wie viel kostet es? — 733.1975560000001 USD
+- Wie viel kostet es? — 734.5084760000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

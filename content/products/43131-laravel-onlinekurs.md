@@ -4,15 +4,15 @@ digistore24_product_id: 451280
 title: "Laravel Onlinekurs"
 vendor: "andreaspabst"
 product_type: "Member area and video courses"
-price: 164.43
+price: 164.73
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 49.33
+earnings_per_sale: 49.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2022-07-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/451280?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Laravel Onlinekurs
 
 > Product ID `43131` · Digistore24 productId `451280` · [HTML profile page](../../produkte/laravel-onlinekurs-43131.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.43 (Single payment, Installment) |
+| Price | $164.73 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $49.33 |
+| Earnings/sale* | $49.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andreaspabst |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Laravel Onlinekurs? — Typ: Member area and video courses, Anbieter: andreaspabst, gelistet seit 2022-07-15
-- Wie viel kostet es? — 164.4342 USD
+- Wie viel kostet es? — 164.72820000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

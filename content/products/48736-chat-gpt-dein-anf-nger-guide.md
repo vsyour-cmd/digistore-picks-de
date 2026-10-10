@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0.41
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.54
+earnings_per_sale: 6.56
 cart_conversion_pct: 50
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - Dein Anfänger Guide
 
 > Product ID `48736` · Digistore24 productId `561894` · [HTML profile page](../../produkte/chat-gpt-dein-anf-nger-guide-48736.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.41 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.54 |
+| Earnings/sale* | $6.56 |
 | Cart conversion* | 50% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chat GPT - Dein Anfänger Guide? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2024-07-19
-- Wie viel kostet es? — 0.413882 USD
+- Wie viel kostet es? — 0.414622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

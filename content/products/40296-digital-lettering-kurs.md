@@ -4,15 +4,15 @@ digistore24_product_id: 295701
 title: "Digital Lettering Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 76.58
+price: 76.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.38
+earnings_per_sale: 37.45
 cart_conversion_pct: 23
 cancel_rate_pct: 0.39
 categories: ["Hobby & Craft"]
 listed_since: "2019-11-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/digital-lettering-kurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Lettering Kurs
 
 > Product ID `40296` · Digistore24 productId `295701` · [HTML profile page](../../produkte/digital-lettering-kurs-40296.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $76.58 (Single payment, Installment) |
+| Price | $76.72 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.38 |
+| Earnings/sale* | $37.45 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.39% |
 | Vendor | Timothy90 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Lettering Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2019-11-18
-- Wie viel kostet es? — 76.57935599999999 USD
+- Wie viel kostet es? — 76.716276 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

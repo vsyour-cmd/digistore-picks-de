@@ -4,15 +4,15 @@ digistore24_product_id: 396802
 title: "Visualisierungs-Checkliste-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 35.25
+price: 35.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.55
+earnings_per_sale: 14.58
 cart_conversion_pct: 17
 cancel_rate_pct: 6.46
 categories: ["Personal Development"]
 listed_since: "2021-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Visualisierungs-Checkliste-Videotraining
 
 > Product ID `40070` · Digistore24 productId `396802` · [HTML profile page](../../produkte/visualisierungs-checkliste-videotraining-40070.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.25 (Single payment) |
+| Price | $35.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.55 |
+| Earnings/sale* | $14.58 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.46% |
 | Vendor | Erfolg-Intuitiv |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Visualisierungs-Checkliste-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2021-07-04
-- Wie viel kostet es? — 35.247086 USD
+- Wie viel kostet es? — 35.310106000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

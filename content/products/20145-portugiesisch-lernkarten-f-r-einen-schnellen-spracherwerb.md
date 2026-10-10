@@ -4,7 +4,7 @@ digistore24_product_id: 175237
 title: "Portugiesisch Lernkarten für einen schnellen Spracherwerb"
 vendor: "weable"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2017-10-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://stuffdesk.de/portugiesisch-lernkarten-kaufen/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Portugiesisch Lernkarten für einen schnellen Spracherwerb
 
 > Product ID `20145` · Digistore24 productId `175237` · [HTML profile page](../../produkte/portugiesisch-lernkarten-f-r-einen-schnellen-spracherwerb-20145.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Portugiesisch Lernkarten für einen schnellen Spracherwerb? — Typ: Downloads, Anbieter: weable, gelistet seit 2017-10-30
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

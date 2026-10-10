@@ -4,15 +4,15 @@ digistore24_product_id: 665663
 title: "Der Schäferhund ein Begleiter fürs Leben"
 vendor: "Towink"
 product_type: "E-books"
-price: 10.4
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.24
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Profession & Job"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665663?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Schäferhund ein Begleiter fürs Leben
 
 > Product ID `56761` · Digistore24 productId `665663` · [HTML profile page](../../produkte/der-sch-ferhund-ein-begleiter-f-rs-leben-56761.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.24 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Towink |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Schäferhund ein Begleiter fürs Leben? — Typ: E-books, Anbieter: Towink, gelistet seit 2026-05-31
-- Wie viel kostet es? — 10.402980000000001 USD
+- Wie viel kostet es? — 10.42158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

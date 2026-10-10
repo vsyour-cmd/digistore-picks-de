@@ -4,15 +4,15 @@ digistore24_product_id: 74657
 title: "Umstieg auf Mac für Einsteiger"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.umstiegaufmac.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Umstieg auf Mac für Einsteiger
 
 > Product ID `10589` · Digistore24 productId `74657` · [HTML profile page](../../produkte/umstieg-auf-mac-f-r-einsteiger-10589.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment) |
+| Price | $23.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Umstieg auf Mac für Einsteiger? — Typ: Downloads, Anbieter: FIMA2011, gelistet seit 2016-03-10
-- Wie viel kostet es? — 23.4906 USD
+- Wie viel kostet es? — 23.532600000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

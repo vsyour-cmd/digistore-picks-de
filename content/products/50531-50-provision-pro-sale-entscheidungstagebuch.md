@@ -4,15 +4,15 @@ digistore24_product_id: 568264
 title: "50 % Provision pro Sale –„Entscheidungstagebuch“!"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 7
+price: 7.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.5
+earnings_per_sale: 3.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/568264?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale –„Entscheidungstagebuch“!
 
 > Product ID `50531` · Digistore24 productId `568264` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungstagebuch-50531.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.00 (Single payment) |
+| Price | $7.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.50 |
+| Earnings/sale* | $3.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale –„Entscheidungstagebuch“!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-09-03
-- Wie viel kostet es? — 7.002436 USD
+- Wie viel kostet es? — 7.014956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

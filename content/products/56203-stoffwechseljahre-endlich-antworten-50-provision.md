@@ -4,15 +4,15 @@ digistore24_product_id: 678563
 title: "Stoffwechseljahre – Endlich Antworten | 50% Provision"
 vendor: "info4833"
 product_type: "E-books"
-price: 31.25
+price: 31.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.63
+earnings_per_sale: 15.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-03-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/678563?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Stoffwechseljahre – Endlich Antworten | 50% Provision
 
 > Product ID `56203` · Digistore24 productId `678563` · [HTML profile page](../../produkte/stoffwechseljahre-endlich-antworten-50-provision-56203.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.25 (Single payment) |
+| Price | $31.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.63 |
+| Earnings/sale* | $15.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info4833 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stoffwechseljahre – Endlich Antworten | 50% Provision? — Typ: E-books, Anbieter: info4833, gelistet seit 2026-03-23
-- Wie viel kostet es? — 31.253684000000003 USD
+- Wie viel kostet es? — 31.309564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

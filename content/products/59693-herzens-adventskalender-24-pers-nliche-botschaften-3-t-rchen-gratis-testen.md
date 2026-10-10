@@ -4,15 +4,15 @@ digistore24_product_id: 737348
 title: "Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen"
 vendor: "Anha13"
 product_type: "Remote service provided electronically"
-price: 12.13
+price: 12.15
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.85
+earnings_per_sale: 4.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Hobby & Craft"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://ahliving.de/adventskalender/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen
 
 > Product ID `59693` · Digistore24 productId `737348` · [HTML profile page](../../produkte/herzens-adventskalender-24-pers-nliche-botschaften-3-t-rchen-gratis-testen-59693.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $12.13 (Single payment) |
+| Price | $12.15 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.85 |
+| Earnings/sale* | $4.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen? — Typ: Remote service provided electronically, Anbieter: Anha13, gelistet seit 2026-09-25
-- Wie viel kostet es? — 12.125624 USD
+- Wie viel kostet es? — 12.147304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

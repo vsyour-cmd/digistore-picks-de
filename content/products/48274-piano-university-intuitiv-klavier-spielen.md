@@ -4,15 +4,15 @@ digistore24_product_id: 548914
 title: "Piano.University - Intuitiv Klavier spielen"
 vendor: "gordonnovember"
 product_type: "Member area and video courses"
-price: 422.06
+price: 422.81
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 105.52
+earnings_per_sale: 105.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education","Hobby & Craft"]
 listed_since: "2024-04-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/548914?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Piano.University - Intuitiv Klavier spielen
 
 > Product ID `48274` · Digistore24 productId `548914` · [HTML profile page](../../produkte/piano-university-intuitiv-klavier-spielen-48274.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $422.06 (Subscription) |
+| Price | $422.81 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $105.52 |
+| Earnings/sale* | $105.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gordonnovember |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Piano.University - Intuitiv Klavier spielen? — Typ: Member area and video courses, Anbieter: gordonnovember, gelistet seit 2024-04-19
-- Wie viel kostet es? — 422.058966 USD
+- Wie viel kostet es? — 422.81358600000004 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 564083
 title: "Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas"
 vendor: "aufderSonnenseite"
 product_type: "Member area and video courses"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.16
+earnings_per_sale: 9.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Sport"]
 listed_since: "2024-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://yoga-tenerife.com/de/yoga-online/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas
 
 > Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../produkte/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.16 |
+| Earnings/sale* | $9.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aufderSonnenseite |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas? — Typ: Member area and video courses, Anbieter: aufderSonnenseite, gelistet seit 2024-08-05
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

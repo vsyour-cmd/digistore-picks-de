@@ -4,15 +4,15 @@ digistore24_product_id: 676251
 title: "AI- Business System™"
 vendor: "smartboostAI"
 product_type: "Member area and video courses"
-price: 941.88
+price: 943.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 470.94
+earnings_per_sale: 471.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Services"]
 listed_since: "2026-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://ai-agent-business.com/ai-business-system?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # AI- Business System™
 
 > Product ID `56811` · Digistore24 productId `676251` · [HTML profile page](../../produkte/ai-business-system-56811.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $941.88 (Single payment, Installment) |
+| Price | $943.57 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $470.94 |
+| Earnings/sale* | $471.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI- Business System™? — Typ: Member area and video courses, Anbieter: smartboostAI, gelistet seit 2026-06-05
-- Wie viel kostet es? — 941.883572 USD
+- Wie viel kostet es? — 943.567612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

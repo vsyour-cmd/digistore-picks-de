@@ -4,15 +4,15 @@ digistore24_product_id: 645039
 title: "Be Different ecademy – Entwicklung, die funktioniert"
 vendor: "ecademy"
 product_type: "Member area and video courses"
-price: 507.6
+price: 508.51
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 101.52
+earnings_per_sale: 101.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://be-different-ecademy.com/member?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Be Different ecademy – Entwicklung, die funktioniert
 
 > Product ID `59068` · Digistore24 productId `645039` · [HTML profile page](../../produkte/be-different-ecademy-entwicklung-die-funktioniert-59068.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $507.60 (Subscription) |
+| Price | $508.51 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $101.52 |
+| Earnings/sale* | $101.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ecademy |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Be Different ecademy – Entwicklung, die funktioniert? — Typ: Member area and video courses, Anbieter: ecademy, gelistet seit 2026-09-09
-- Wie viel kostet es? — 507.598308 USD
+- Wie viel kostet es? — 508.50586799999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

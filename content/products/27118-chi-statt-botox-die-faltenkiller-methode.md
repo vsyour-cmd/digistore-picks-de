@@ -4,15 +4,15 @@ digistore24_product_id: 120183
 title: "Chi statt Botox - die Faltenkiller-Methode"
 vendor: "Zdena75"
 product_type: "Member area and video courses"
-price: 130.87
+price: 131.1
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 31.18
+earnings_per_sale: 31.23
 cart_conversion_pct: 14
 cancel_rate_pct: 0.77
 categories: ["Health & Fitness"]
 listed_since: "2017-02-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://chi-statt-botox.com/online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Chi statt Botox - die Faltenkiller-Methode
 
 > Product ID `27118` · Digistore24 productId `120183` · [HTML profile page](../../produkte/chi-statt-botox-die-faltenkiller-methode-27118.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $130.87 (Single payment) |
+| Price | $131.10 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $31.18 |
+| Earnings/sale* | $31.23 |
 | Cart conversion* | 14% |
 | Cancel rate* | 0.77% |
 | Vendor | Zdena75 |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chi statt Botox - die Faltenkiller-Methode? — Typ: Member area and video courses, Anbieter: Zdena75, gelistet seit 2017-02-16
-- Wie viel kostet es? — 130.865014 USD
+- Wie viel kostet es? — 131.098994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

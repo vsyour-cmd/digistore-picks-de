@@ -4,15 +4,15 @@ digistore24_product_id: 326584
 title: "1% Money System I Automatisierte Cash Maschine"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.9
+price: 35.96
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 98.46
+earnings_per_sale: 98.64
 cart_conversion_pct: 8
 cancel_rate_pct: 1.26
 categories: ["Social Media"]
 listed_since: "2020-05-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://einprozentclub.com/moneysystem/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1% Money System I Automatisierte Cash Maschine
 
 > Product ID `38851` · Digistore24 productId `326584` · [HTML profile page](../../produkte/1-money-system-i-automatisierte-cash-maschine-38851.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.90 (Single payment, Installment) |
+| Price | $35.96 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $98.46 |
+| Earnings/sale* | $98.64 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.26% |
 | Vendor | moserda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% Money System I Automatisierte Cash Maschine? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-05-14
-- Wie viel kostet es? — 35.895874000000006 USD
+- Wie viel kostet es? — 35.96005400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

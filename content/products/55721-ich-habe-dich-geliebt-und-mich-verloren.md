@@ -4,7 +4,7 @@ digistore24_product_id: 671242
 title: "Ich habe dich geliebt und mich verloren"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 15.03
+price: 15.06
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.5
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/671242?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Ich habe dich geliebt und mich verloren
 
 > Product ID `55721` · Digistore24 productId `671242` · [HTML profile page](../../produkte/ich-habe-dich-geliebt-und-mich-verloren-55721.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.03 (Single payment) |
+| Price | $15.06 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.50 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich habe dich geliebt und mich verloren? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-24
-- Wie viel kostet es? — 15.033984 USD
+- Wie viel kostet es? — 15.060864 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

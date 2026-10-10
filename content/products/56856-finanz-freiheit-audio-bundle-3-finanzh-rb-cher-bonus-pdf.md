@@ -4,15 +4,15 @@ digistore24_product_id: 699174
 title: "Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF"
 vendor: "AureliusKaneAudio75b1"
 product_type: "Audio book (download)"
-price: 15.63
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.25
+earnings_per_sale: 6.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Personal Development"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/699174?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF
 
 > Product ID `56856` · Digistore24 productId `699174` · [HTML profile page](../../produkte/finanz-freiheit-audio-bundle-3-finanzh-rb-cher-bonus-pdf-56856.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $15.63 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AureliusKaneAudio75b1 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanz-Freiheit Audio-Bundle - 3 Finanzhörbücher + Bonus-PDF? — Typ: Audio book (download), Anbieter: AureliusKaneAudio75b1, gelistet seit 2026-06-10
-- Wie viel kostet es? — 15.626842000000002 USD
+- Wie viel kostet es? — 15.654782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

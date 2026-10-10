@@ -4,15 +4,15 @@ digistore24_product_id: 209825
 title: "Der Schritt-für-Schritt Generator für die DSGVO"
 vendor: "oliengel"
 product_type: "Downloads"
-price: 222.6
+price: 223
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 66.78
+earnings_per_sale: 66.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Schritt-für-Schritt Generator für die DSGVO
 
 > Product ID `23439` · Digistore24 productId `209825` · [HTML profile page](../../produkte/der-schritt-f-r-schritt-generator-f-r-die-dsgvo-23439.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $222.60 (Single payment, Subscription) |
+| Price | $223.00 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $66.78 |
+| Earnings/sale* | $66.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oliengel |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Schritt-für-Schritt Generator für die DSGVO? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-03-21
-- Wie viel kostet es? — 222.6014 USD
+- Wie viel kostet es? — 222.9994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

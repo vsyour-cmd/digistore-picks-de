@@ -4,15 +4,15 @@ digistore24_product_id: 659614
 title: "Die Gefährlichen 10"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.66
+price: 141.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.73
+earnings_per_sale: 86.88
 cart_conversion_pct: 5
 cancel_rate_pct: 5.85
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.zielgesundheit.de/diegefaehrlichen10/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Gefährlichen 10
 
 > Product ID `50021` · Digistore24 productId `659614` · [HTML profile page](../../produkte/die-gef-hrlichen-10-50021.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.66 (Single payment) |
+| Price | $141.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.73 |
+| Earnings/sale* | $86.88 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.85% |
 | Vendor | AndreasLang |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Gefährlichen 10? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2026-01-07
-- Wie viel kostet es? — 141.659504 USD
+- Wie viel kostet es? — 141.91278400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

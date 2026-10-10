@@ -4,15 +4,15 @@ digistore24_product_id: 324765
 title: "VIP ONLINE DANCE ACADEMY ABO"
 vendor: "andyandkellykainz"
 product_type: "Member area and video courses"
-price: 32.81
+price: 32.87
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 4.92
+earnings_per_sale: 4.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-05-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andyandkellykainz.com/vip-academy/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VIP ONLINE DANCE ACADEMY ABO
 
 > Product ID `36096` · Digistore24 productId `324765` · [HTML profile page](../../produkte/vip-online-dance-academy-abo-36096.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.81 (Subscription) |
+| Price | $32.87 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $4.92 |
+| Earnings/sale* | $4.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andyandkellykainz |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP ONLINE DANCE ACADEMY ABO? — Typ: Member area and video courses, Anbieter: andyandkellykainz, gelistet seit 2020-05-04
-- Wie viel kostet es? — 32.808538 USD
+- Wie viel kostet es? — 32.867198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

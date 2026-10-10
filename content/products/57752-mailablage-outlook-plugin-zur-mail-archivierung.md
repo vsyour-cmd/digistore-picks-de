@@ -4,15 +4,15 @@ digistore24_product_id: 711244
 title: "MailAblage - Outlook Plugin zur Mail-Archivierung"
 vendor: "mailablage"
 product_type: "Software"
-price: 94
+price: 94.16
 currency: "USD"
 affiliate_commission_pct: 12
-earnings_per_sale: 11.28
+earnings_per_sale: 11.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2026-07-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://outlook-mailablage.de/kaufen.html?edition=pro&license=perpetual&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MailAblage - Outlook Plugin zur Mail-Archivierung
 
 > Product ID `57752` · Digistore24 productId `711244` · [HTML profile page](../../produkte/mailablage-outlook-plugin-zur-mail-archivierung-57752.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $94.00 (Single payment) |
+| Price | $94.16 (Single payment) |
 | Affiliate commission | 12% |
-| Earnings/sale* | $11.28 |
+| Earnings/sale* | $11.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mailablage |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MailAblage - Outlook Plugin zur Mail-Archivierung? — Typ: Software, Anbieter: mailablage, gelistet seit 2026-07-26
-- Wie viel kostet es? — 93.995958 USD
+- Wie viel kostet es? — 94.164018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

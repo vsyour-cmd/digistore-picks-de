@@ -4,15 +4,15 @@ digistore24_product_id: 59979
 title: "Videokurs - Hormonfrei und Sicher Verhüten"
 vendor: "wombaider"
 product_type: "Downloads"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.12
+earnings_per_sale: 56.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://hormonfreiundsicher.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs - Hormonfrei und Sicher Verhüten
 
 > Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../produkte/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.06 (Single payment) |
+| Price | $187.40 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $56.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wombaider |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs - Hormonfrei und Sicher Verhüten? — Typ: Downloads, Anbieter: wombaider, gelistet seit 2015-09-30
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

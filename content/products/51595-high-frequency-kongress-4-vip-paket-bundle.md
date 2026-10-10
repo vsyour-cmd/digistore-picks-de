@@ -4,15 +4,15 @@ digistore24_product_id: 568283
 title: "High Frequency Kongress 4 - VIP Paket + Bundle"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 121.93
+price: 122.15
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.19
+earnings_per_sale: 12.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/568283?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # High Frequency Kongress 4 - VIP Paket + Bundle
 
 > Product ID `51595` · Digistore24 productId `568283` · [HTML profile page](../../produkte/high-frequency-kongress-4-vip-paket-bundle-51595.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.93 (Single payment, Installment) |
+| Price | $122.15 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.19 |
+| Earnings/sale* | $12.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kongresshero |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Kongress 4 - VIP Paket + Bundle? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2024-09-03
-- Wie viel kostet es? — 121.9274 USD
+- Wie viel kostet es? — 122.14540000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

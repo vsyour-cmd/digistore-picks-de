@@ -4,7 +4,7 @@ digistore24_product_id: 373521
 title: "Wie glänze ich in Interviews?"
 vendor: "stumpfine"
 product_type: "E-books"
-price: 10.45
+price: 10.47
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.66
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-02-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://petrastumpf.at/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Wie glänze ich in Interviews?
 
 > Product ID `35733` · Digistore24 productId `373521` · [HTML profile page](../../produkte/wie-gl-nze-ich-in-interviews-35733.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.45 (Single payment) |
+| Price | $10.47 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie glänze ich in Interviews?? — Typ: E-books, Anbieter: stumpfine, gelistet seit 2021-02-12
-- Wie viel kostet es? — 10.447724000000001 USD
+- Wie viel kostet es? — 10.466404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

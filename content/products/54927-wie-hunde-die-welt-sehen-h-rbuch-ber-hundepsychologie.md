@@ -4,15 +4,15 @@ digistore24_product_id: 655417
 title: "Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie"
 vendor: "JR_Charlie"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.36
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://wie-ein-hund-die-welt-sieht.my.canva.site/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie
 
 > Product ID `54927` · Digistore24 productId `655417` · [HTML profile page](../../produkte/wie-hunde-die-welt-sehen-h-rbuch-ber-hundepsychologie-54927.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.36 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JR_Charlie |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie? — Typ: Downloads, Anbieter: JR_Charlie, gelistet seit 2025-12-14
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

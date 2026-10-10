@@ -4,15 +4,15 @@ digistore24_product_id: 684474
 title: "E-Mail Anfänger - Komplettpaket"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 81.78
+price: 81.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.9
+earnings_per_sale: 40.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://affiliate-macher.de/emailmarketingkurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Mail Anfänger - Komplettpaket
 
 > Product ID `56289` · Digistore24 productId `684474` · [HTML profile page](../../produkte/e-mail-anf-nger-komplettpaket-56289.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $81.78 (Single payment) |
+| Price | $81.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.90 |
+| Earnings/sale* | $40.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Anfänger - Komplettpaket? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2026-04-14
-- Wie viel kostet es? — 81.780846 USD
+- Wie viel kostet es? — 81.927066 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 495399
 title: "Dropshipping Leitfaden 2023 (Ebook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 52.26
+price: 52.35
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 27.97
+earnings_per_sale: 28.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/495399?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dropshipping Leitfaden 2023 (Ebook)
 
 > Product ID `43690` · Digistore24 productId `495399` · [HTML profile page](../../produkte/dropshipping-leitfaden-2023-ebook-43690.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.26 (Single payment) |
+| Price | $52.35 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $27.96 |
+| Earnings/sale* | $28.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dropshipping Leitfaden 2023 (Ebook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 52.260992 USD
+- Wie viel kostet es? — 52.354432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

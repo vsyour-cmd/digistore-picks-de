@@ -4,15 +4,15 @@ digistore24_product_id: 569007
 title: "APP - ZEIT FÜR MICH"
 vendor: "hh-akademie"
 product_type: "Member area and video courses"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 6.96
+earnings_per_sale: 6.97
 cart_conversion_pct: 9
 cancel_rate_pct: 4.86
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2024-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/569007/?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # APP - ZEIT FÜR MICH
 
 > Product ID `56183` · Digistore24 productId `569007` · [HTML profile page](../../produkte/app-zeit-f-r-mich-56183.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.11 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $6.96 |
+| Earnings/sale* | $6.97 |
 | Cart conversion* | 9% |
 | Cancel rate* | 4.86% |
 | Vendor | hh-akademie |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist APP - ZEIT FÜR MICH? — Typ: Member area and video courses, Anbieter: hh-akademie, gelistet seit 2024-09-06
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

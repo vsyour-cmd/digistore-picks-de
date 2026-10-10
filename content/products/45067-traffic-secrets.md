@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 8.17
+earnings_per_sale: 8.18
 cart_conversion_pct: 46
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Traffic Secrets
 
 > Product ID `45067` · Digistore24 productId `512445` · [HTML profile page](../../produkte/traffic-secrets-45067.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $8.17 |
+| Earnings/sale* | $8.18 |
 | Cart conversion* | 46% |
 | Cancel rate* | 0% |
 | Vendor | kpsecrets |

@@ -4,15 +4,15 @@ digistore24_product_id: 681020
 title: "Systemischer Business-Coach (m/w/d)"
 vendor: "wehner82f5"
 product_type: "Member area and video courses"
-price: 277.3
+price: 277.8
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 124.79
+earnings_per_sale: 125.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/681020/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Systemischer Business-Coach (m/w/d)
 
 > Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../produkte/systemischer-business-coach-m-w-d-56451.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $277.30 (Single payment) |
+| Price | $277.80 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $124.79 |
+| Earnings/sale* | $125.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wehner82f5 |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Systemischer Business-Coach (m/w/d)? — Typ: Member area and video courses, Anbieter: wehner82f5, gelistet seit 2026-03-31
-- Wie viel kostet es? — 277.30094 USD
+- Wie viel kostet es? — 277.79674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

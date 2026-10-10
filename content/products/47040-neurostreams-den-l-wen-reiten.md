@@ -4,15 +4,15 @@ digistore24_product_id: 250033
 title: "Neurostreams™ Den Löwen reiten"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 15.98
+price: 16.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8
+earnings_per_sale: 8.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/labor/gegen-angst-gegen-beklemmung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Den Löwen reiten
 
 > Product ID `47040` · Digistore24 productId `250033` · [HTML profile page](../../produkte/neurostreams-den-l-wen-reiten-47040.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $16.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.00 |
+| Earnings/sale* | $8.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Den Löwen reiten? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 15.984793999999999 USD
+- Wie viel kostet es? — 16.013374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

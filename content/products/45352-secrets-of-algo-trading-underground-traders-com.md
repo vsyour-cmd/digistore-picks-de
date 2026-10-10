@@ -4,15 +4,15 @@ digistore24_product_id: 502326
 title: "SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM"
 vendor: "UGT2022"
 product_type: "Member area and video courses"
-price: 357.19
+price: 357.83
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 281.85
+earnings_per_sale: 282.36
 cart_conversion_pct: 2
 cancel_rate_pct: 1.93
 categories: ["Trading Products"]
 listed_since: "2023-06-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://underground-traders.com/secrets-of-algotrading/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM
 
 > Product ID `45352` · Digistore24 productId `502326` · [HTML profile page](../../produkte/secrets-of-algo-trading-underground-traders-com-45352.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $357.19 (Single payment, Installment) |
+| Price | $357.83 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $281.85 |
+| Earnings/sale* | $282.36 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.93% |
 | Vendor | UGT2022 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM? — Typ: Member area and video courses, Anbieter: UGT2022, gelistet seit 2023-06-08
-- Wie viel kostet es? — 357.191352 USD
+- Wie viel kostet es? — 357.829992 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 394006
 title: "Baglama lernen mit Cemil Aydemir"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 111.11
+price: 111.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 144.66
+earnings_per_sale: 144.92
 cart_conversion_pct: 20
 cancel_rate_pct: 9.92
 categories: ["Dancing & Music"]
 listed_since: "2021-06-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/baglama/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Baglama lernen mit Cemil Aydemir
 
 > Product ID `27841` · Digistore24 productId `394006` · [HTML profile page](../../produkte/baglama-lernen-mit-cemil-aydemir-27841.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.11 (Single payment, Installment) |
+| Price | $111.31 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $144.66 |
+| Earnings/sale* | $144.92 |
 | Cart conversion* | 20% |
 | Cancel rate* | 9.92% |
 | Vendor | meineMusikschule |
@@ -106,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Baglama lernen mit Cemil Aydemir? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-06-11
-- Wie viel kostet es? — 111.110538 USD
+- Wie viel kostet es? — 111.30919800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

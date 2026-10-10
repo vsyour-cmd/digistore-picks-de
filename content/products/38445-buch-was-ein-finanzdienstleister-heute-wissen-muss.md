@@ -4,7 +4,7 @@ digistore24_product_id: 407851
 title: "Buch: Was ein Finanzdienstleister Heute wissen muss…"
 vendor: "RobertPeukert"
 product_type: "Book (printed)"
-price: 320.97
+price: 321.54
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.25
@@ -12,7 +12,7 @@ cart_conversion_pct: 11
 cancel_rate_pct: 1.83
 categories: ["Education"]
 listed_since: "2021-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Buch: Was ein Finanzdienstleister Heute wissen muss…
 
 > Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../produkte/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $320.97 (Single payment) |
+| Price | $321.54 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.25 |
 | Cart conversion* | 11% |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Was ein Finanzdienstleister Heute wissen muss…? — Typ: Book (printed), Anbieter: RobertPeukert, gelistet seit 2021-09-16
-- Wie viel kostet es? — 320.971084 USD
+- Wie viel kostet es? — 321.544964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

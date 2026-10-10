@@ -4,7 +4,7 @@ digistore24_product_id: 339401
 title: "Der Yoni-Talk (Audio-Kurs als mp3)"
 vendor: "Nhanga"
 product_type: "Downloads"
-price: 23.5
+price: 23.54
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nhanga.de/audio-kurse/yoni-talk/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Der Yoni-Talk (Audio-Kurs als mp3)
 
 > Product ID `35872` · Digistore24 productId `339401` · [HTML profile page](../../produkte/der-yoni-talk-audio-kurs-als-mp3-35872.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.50 (Single payment) |
+| Price | $23.54 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Yoni-Talk (Audio-Kurs als mp3)? — Typ: Downloads, Anbieter: Nhanga, gelistet seit 2020-08-03
-- Wie viel kostet es? — 23.501786000000003 USD
+- Wie viel kostet es? — 23.543806000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

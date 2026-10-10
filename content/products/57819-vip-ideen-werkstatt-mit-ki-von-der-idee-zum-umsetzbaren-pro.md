@@ -4,15 +4,15 @@ digistore24_product_id: 715316
 title: "VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro"
 vendor: "Goldfrau"
 product_type: "Online coaching"
-price: 805.39
+price: 806.83
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 241.62
+earnings_per_sale: 242.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ki-werkstatt.sinneskraft.de/angebot.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro
 
 > Product ID `57819` · Digistore24 productId `715316` · [HTML profile page](../../produkte/vip-ideen-werkstatt-mit-ki-von-der-idee-zum-umsetzbaren-pro-57819.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $805.39 (Single payment, Installment) |
+| Price | $806.83 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $241.62 |
+| Earnings/sale* | $242.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Goldfrau |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro? — Typ: Online coaching, Anbieter: Goldfrau, gelistet seit 2026-07-31
-- Wie viel kostet es? — 805.392 USD
+- Wie viel kostet es? — 806.832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

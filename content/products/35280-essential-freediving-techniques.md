@@ -4,15 +4,15 @@ digistore24_product_id: 356494
 title: "Essential Freediving Techniques"
 vendor: "SOjstersek"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-11-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.freitauchen-lernen.com/essentielle-techniken/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Essential Freediving Techniques
 
 > Product ID `35280` · Digistore24 productId `356494` · [HTML profile page](../../produkte/essential-freediving-techniques-35280.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOjstersek |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Essential Freediving Techniques? — Typ: E-books, Anbieter: SOjstersek, gelistet seit 2020-11-09
-- Wie viel kostet es? — 11.186 USD
+- Wie viel kostet es? — 11.206 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

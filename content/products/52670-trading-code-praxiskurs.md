@@ -4,15 +4,15 @@ digistore24_product_id: 604570
 title: "Trading-Code Praxiskurs"
 vendor: "bsmllc"
 product_type: "Member area and video courses"
-price: 406.13
+price: 406.86
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 235.48
+earnings_per_sale: 235.9
 cart_conversion_pct: 9
 cancel_rate_pct: 12.82
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2025-03-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://dertradingcode.de/kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trading-Code Praxiskurs
 
 > Product ID `52670` · Digistore24 productId `604570` · [HTML profile page](../../produkte/trading-code-praxiskurs-52670.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $406.13 (Single payment, Installment) |
+| Price | $406.86 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $235.48 |
+| Earnings/sale* | $235.90 |
 | Cart conversion* | 9% |
 | Cancel rate* | 12.82% |
 | Vendor | bsmllc |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trading-Code Praxiskurs? — Typ: Member area and video courses, Anbieter: bsmllc, gelistet seit 2025-03-30
-- Wie viel kostet es? — 406.130102 USD
+- Wie viel kostet es? — 406.856242 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

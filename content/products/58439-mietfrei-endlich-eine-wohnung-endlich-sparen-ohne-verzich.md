@@ -4,15 +4,15 @@ digistore24_product_id: 715295
 title: "MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich"
 vendor: "steffenhjgeissler7b27"
 product_type: "Member area and video courses"
-price: 548.11
+price: 549.09
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 219.25
+earnings_per_sale: 219.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.aacco.info/mietfrei-ds24?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich
 
 > Product ID `58439` · Digistore24 productId `715295` · [HTML profile page](../../produkte/mietfrei-endlich-eine-wohnung-endlich-sparen-ohne-verzich-58439.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $548.11 (Single payment) |
+| Price | $549.09 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $219.25 |
+| Earnings/sale* | $219.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | steffenhjgeissler7b27 |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich? — Typ: Member area and video courses, Anbieter: steffenhjgeissler7b27, gelistet seit 2026-08-17
-- Wie viel kostet es? — 548.114 USD
+- Wie viel kostet es? — 549.094 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

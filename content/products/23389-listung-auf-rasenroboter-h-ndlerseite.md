@@ -4,15 +4,15 @@ digistore24_product_id: 191677
 title: "Listung auf Rasenroboter-Händlerseite"
 vendor: "mhaeussler"
 product_type: "Remote service provided electronically"
-price: 335.58
+price: 336.18
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 83.9
+earnings_per_sale: 84.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2018-01-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://haeussler-marketing.de/listung-auf-haeussler-rasenroboter-haendlerseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Listung auf Rasenroboter-Händlerseite
 
 > Product ID `23389` · Digistore24 productId `191677` · [HTML profile page](../../produkte/listung-auf-rasenroboter-h-ndlerseite-23389.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $335.58 (Subscription) |
+| Price | $336.18 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $83.89 |
+| Earnings/sale* | $84.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mhaeussler |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Listung auf Rasenroboter-Händlerseite? — Typ: Remote service provided electronically, Anbieter: mhaeussler, gelistet seit 2018-01-05
-- Wie viel kostet es? — 335.58 USD
+- Wie viel kostet es? — 336.18 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 731028
 title: "E-Book „Deine Basis für ein bewusstes Leben in Balance“"
 vendor: "SylviaMybestprojectisME"
 product_type: "E-books"
-price: 15.68
+price: 15.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.84
+earnings_per_sale: 7.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731028?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book „Deine Basis für ein bewusstes Leben in Balance“
 
 > Product ID `59028` · Digistore24 productId `731028` · [HTML profile page](../../produkte/e-book-deine-basis-f-r-ein-bewusstes-leben-in-balance-59028.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.84 |
+| Earnings/sale* | $7.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SylviaMybestprojectisME |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book „Deine Basis für ein bewusstes Leben in Balance“? — Typ: E-books, Anbieter: SylviaMybestprojectisME, gelistet seit 2026-09-08
-- Wie viel kostet es? — 15.682772 USD
+- Wie viel kostet es? — 15.710812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

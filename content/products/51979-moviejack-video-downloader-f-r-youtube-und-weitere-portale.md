@@ -4,15 +4,15 @@ digistore24_product_id: 516334
 title: "MovieJack - Video-Downloader für YouTube und weitere Portale"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Software"]
 listed_since: "2023-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/516334?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MovieJack - Video-Downloader für YouTube und weitere Portale
 
 > Product ID `51979` · Digistore24 productId `516334` · [HTML profile page](../../produkte/moviejack-video-downloader-f-r-youtube-und-weitere-portale-51979.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.79 (Single payment) |
+| Price | $18.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MovieJack - Video-Downloader für YouTube und weitere Portale? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2023-09-13
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -7,12 +7,12 @@ product_type: "Book (printed)"
 price: 2.43
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.68
+earnings_per_sale: 3.69
 cart_conversion_pct: 38
 cancel_rate_pct: 1.77
 categories: ["Personal Development"]
 listed_since: "2023-02-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://missiongoodlife.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Mission: Goodlife Free plus Shipping - von Gunnar Kessler
 
 > Product ID `47290` · Digistore24 productId `484846` · [HTML profile page](../../produkte/mission-goodlife-free-plus-shipping-von-gunnar-kessler-47290.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Book (printed) |
 | Price | $2.43 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.68 |
+| Earnings/sale* | $3.69 |
 | Cart conversion* | 38% |
 | Cancel rate* | 1.77% |
 | Vendor | GTK-littlefreilich |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mission: Goodlife Free plus Shipping - von Gunnar Kessler? — Typ: Book (printed), Anbieter: GTK-littlefreilich, gelistet seit 2023-02-17
-- Wie viel kostet es? — 2.427362 USD
+- Wie viel kostet es? — 2.431702 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

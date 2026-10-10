@@ -4,15 +4,15 @@ digistore24_product_id: 601112
 title: "Berechnungshilfe Hinterbliebenenrente"
 vendor: "verwitwet-leben"
 product_type: "Downloads"
-price: 41.13
+price: 41.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.62
+earnings_per_sale: 19.66
 cart_conversion_pct: 19
 cancel_rate_pct: 0.45
 categories: ["Education","Profession & Job","Finances"]
 listed_since: "2025-03-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Berechnungshilfe Hinterbliebenenrente
 
 > Product ID `51691` · Digistore24 productId `601112` · [HTML profile page](../../produkte/berechnungshilfe-hinterbliebenenrente-51691.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.13 (Single payment) |
+| Price | $41.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.62 |
+| Earnings/sale* | $19.66 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Berechnungshilfe Hinterbliebenenrente? — Typ: Downloads, Anbieter: verwitwet-leben, gelistet seit 2025-03-11
-- Wie viel kostet es? — 41.130922000000005 USD
+- Wie viel kostet es? — 41.20446200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

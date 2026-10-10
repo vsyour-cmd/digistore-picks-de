@@ -4,15 +4,15 @@ digistore24_product_id: 227813
 title: "LingoClick - der 1-Klick-Übersetzer"
 vendor: "schleinzer"
 product_type: "Software"
-price: 17.86
+price: 17.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.36
+earnings_per_sale: 5.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2018-06-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lingo.click/?digistore24&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LingoClick - der 1-Klick-Übersetzer
 
 > Product ID `14123` · Digistore24 productId `227813` · [HTML profile page](../../produkte/lingoclick-der-1-klick-bersetzer-14123.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $17.86 (Single payment) |
+| Price | $17.90 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.36 |
+| Earnings/sale* | $5.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | schleinzer |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LingoClick - der 1-Klick-Übersetzer? — Typ: Software, Anbieter: schleinzer, gelistet seit 2018-06-14
-- Wie viel kostet es? — 17.864042 USD
+- Wie viel kostet es? — 17.895982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

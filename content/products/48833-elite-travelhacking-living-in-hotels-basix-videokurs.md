@@ -4,15 +4,15 @@ digistore24_product_id: 553720
 title: "Elite travelhacking - Living in Hotels BasiX Videokurs"
 vendor: "Business2travel"
 product_type: "Member area and video courses"
-price: 87.58
+price: 87.73
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 92.83
+earnings_per_sale: 93
 cart_conversion_pct: 14
 cancel_rate_pct: 1.19
 categories: ["Education","Hotels & Gastronomy","Travel & Culture"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://elitetravelhacking.de/basix?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Elite travelhacking - Living in Hotels BasiX Videokurs
 
 > Product ID `48833` · Digistore24 productId `553720` · [HTML profile page](../../produkte/elite-travelhacking-living-in-hotels-basix-videokurs-48833.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $87.58 (Single payment) |
+| Price | $87.73 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $92.83 |
+| Earnings/sale* | $93.00 |
 | Cart conversion* | 14% |
 | Cancel rate* | 1.19% |
 | Vendor | Business2travel |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elite travelhacking - Living in Hotels BasiX Videokurs? — Typ: Member area and video courses, Anbieter: Business2travel, gelistet seit 2024-05-23
-- Wie viel kostet es? — 87.57519400000001 USD
+- Wie viel kostet es? — 87.73177400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

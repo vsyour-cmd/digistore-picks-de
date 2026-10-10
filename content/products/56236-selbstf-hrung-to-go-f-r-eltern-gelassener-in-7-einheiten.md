@@ -4,15 +4,15 @@ digistore24_product_id: 412211
 title: "Selbstführung to go – für Eltern. Gelassener in 7 Einheiten."
 vendor: "LifeSkripting_"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.81
+earnings_per_sale: 13.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2021-10-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/412211/?email=katrin@dr-hegendoerfer.de&aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.
 
 > Product ID `56236` · Digistore24 productId `412211` · [HTML profile page](../../produkte/selbstf-hrung-to-go-f-r-eltern-gelassener-in-7-einheiten-56236.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.81 |
+| Earnings/sale* | $13.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LifeSkripting_ |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.? — Typ: Member area and video courses, Anbieter: LifeSkripting_, gelistet seit 2021-10-17
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

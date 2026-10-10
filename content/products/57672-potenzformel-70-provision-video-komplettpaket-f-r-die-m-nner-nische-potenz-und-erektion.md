@@ -4,15 +4,15 @@ digistore24_product_id: 145327
 title: "PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)"
 vendor: "profitbiz"
 product_type: "Downloads"
-price: 187.06
+price: 187.4
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 130.94
+earnings_per_sale: 131.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)
 
 > Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.06 (Single payment) |
+| Price | $187.40 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $130.94 |
+| Earnings/sale* | $131.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | profitbiz |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)? — Typ: Downloads, Anbieter: profitbiz, gelistet seit 2026-07-22
-- Wie viel kostet es? — 187.063478 USD
+- Wie viel kostet es? — 187.39793799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 387661
 title: "Online-Webinar \"Pferdesprache richtig interpretieren\""
 vendor: "Linnon"
 product_type: "Downloads"
-price: 117.5
+price: 117.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 23.5
+earnings_per_sale: 23.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-05-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/webinar-pferdesprache?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Webinar "Pferdesprache richtig interpretieren"
 
 > Product ID `36685` · Digistore24 productId `387661` · [HTML profile page](../../produkte/online-webinar-pferdesprache-richtig-interpretieren-36685.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $117.50 (Single payment) |
+| Price | $117.71 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Linnon |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Webinar "Pferdesprache richtig interpretieren"? — Typ: Downloads, Anbieter: Linnon, gelistet seit 2021-05-01
-- Wie viel kostet es? — 117.49774400000001 USD
+- Wie viel kostet es? — 117.70782400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 616090
 title: "KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 6.24
+price: 6.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.74
+earnings_per_sale: 8.75
 cart_conversion_pct: 10
 cancel_rate_pct: 0.65
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2025-06-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.webpirat.de/passives-ki-affiliate-marketing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)
 
 > Product ID `52705` · Digistore24 productId `616090` · [HTML profile page](../../produkte/ki-affiliate-website-strategie-inkl-5-nischen-ideen-2025-52705.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.24 (Single payment) |
+| Price | $6.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.74 |
+| Earnings/sale* | $8.75 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.65% |
 | Vendor | webpirat |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Affiliate Website Strategie inkl. 5 Nischen-Ideen (2025)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-06-01
-- Wie viel kostet es? — 6.241788000000001 USD
+- Wie viel kostet es? — 6.252948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 428528
 title: "Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs"
 vendor: "innerwise"
 product_type: "Member area and video courses"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-02-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://innerwise.science/reden-ohne-worte?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs
 
 > Product ID `39196` · Digistore24 productId `428528` · [HTML profile page](../../produkte/reden-ohne-worte-ein-empathie-und-wahrnehmungskurs-39196.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | innerwise |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs? — Typ: Member area and video courses, Anbieter: innerwise, gelistet seit 2022-02-07
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

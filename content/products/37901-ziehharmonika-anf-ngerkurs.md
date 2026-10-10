@@ -4,15 +4,15 @@ digistore24_product_id: 404226
 title: "Ziehharmonika Anfängerkurs"
 vendor: "harmonicademy"
 product_type: "Member area and video courses"
-price: 202.48
+price: 202.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 72.7
+earnings_per_sale: 72.83
 cart_conversion_pct: 6
 cancel_rate_pct: 5.61
 categories: ["Dancing & Music"]
 listed_since: "2021-08-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.harmonicademy.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ziehharmonika Anfängerkurs
 
 > Product ID `37901` · Digistore24 productId `404226` · [HTML profile page](../../produkte/ziehharmonika-anf-ngerkurs-37901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $202.48 (Single payment) |
+| Price | $202.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $72.70 |
+| Earnings/sale* | $72.83 |
 | Cart conversion* | 6% |
 | Cancel rate* | 5.61% |
 | Vendor | harmonicademy |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ziehharmonika Anfängerkurs? — Typ: Member area and video courses, Anbieter: harmonicademy, gelistet seit 2021-08-25
-- Wie viel kostet es? — 202.477786 USD
+- Wie viel kostet es? — 202.839806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-01-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://michael-schlinder.com/Affiliatecrashkurs?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # GRATIS Affiliate Crashkurs
 
 > Product ID `46837` · Digistore24 productId `533098` · [HTML profile page](../../produkte/gratis-affiliate-crashkurs-46837.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRATIS Affiliate Crashkurs? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-01-06
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

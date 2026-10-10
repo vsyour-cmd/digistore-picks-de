@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 0.53
 categories: ["Education"]
 listed_since: "2022-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/instaclub-24h-launch-2?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Insta Club
 
 > Product ID `41339` · Digistore24 productId `460457` · [HTML profile page](../../produkte/insta-club-41339.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta Club? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-09-14
-- Wie viel kostet es? — 2.9978480000000003 USD
+- Wie viel kostet es? — 3.0032080000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 111745
 title: "375+ Erlesene Quellen für kostenlose und einfache Backlinks"
 vendor: "martingonev"
 product_type: "Downloads"
-price: 66
+price: 66.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 33
+earnings_per_sale: 33.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-01-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.martingonev.de/1a-kostenlose-backlinks/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 375+ Erlesene Quellen für kostenlose und einfache Backlinks
 
 > Product ID `14703` · Digistore24 productId `111745` · [HTML profile page](../../produkte/375-erlesene-quellen-f-r-kostenlose-und-einfache-backlinks-14703.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $66.00 (Single payment, Installment) |
+| Price | $66.12 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $33.00 |
+| Earnings/sale* | $33.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | martingonev |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 375+ Erlesene Quellen für kostenlose und einfache Backlinks? — Typ: Downloads, Anbieter: martingonev, gelistet seit 2017-01-04
-- Wie viel kostet es? — 65.9974 USD
+- Wie viel kostet es? — 66.11540000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

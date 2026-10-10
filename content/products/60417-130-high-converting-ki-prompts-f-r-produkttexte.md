@@ -4,15 +4,15 @@ digistore24_product_id: 743612
 title: "130 High-Converting KI-Prompts für Produkttexte"
 vendor: "DaveCrypto"
 product_type: "Downloads"
-price: 14
+price: 14.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7
+earnings_per_sale: 7.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/743612?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 130 High-Converting KI-Prompts für Produkttexte
 
 > Product ID `60417` · Digistore24 productId `743612` · [HTML profile page](../../produkte/130-high-converting-ki-prompts-f-r-produkttexte-60417.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.00 |
+| Earnings/sale* | $7.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DaveCrypto |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 130 High-Converting KI-Prompts für Produkttexte? — Typ: Downloads, Anbieter: DaveCrypto, gelistet seit 2026-10-08
-- Wie viel kostet es? — 14.004872 USD
+- Wie viel kostet es? — 14.029912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

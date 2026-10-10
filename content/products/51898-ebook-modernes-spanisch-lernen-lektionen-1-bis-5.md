@@ -4,7 +4,7 @@ digistore24_product_id: 595192
 title: "eBook Modernes Spanisch lernen - Lektionen 1 bis 5"
 vendor: "digiheini"
 product_type: "Downloads"
-price: 8.37
+price: 8.38
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.dirk-wohlfeil.de/sp-endlich-den-einstieg-in-die-spanische-sprache-meistern-l1-bis-l5/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # eBook Modernes Spanisch lernen - Lektionen 1 bis 5
 
 > Product ID `51898` · Digistore24 productId `595192` · [HTML profile page](../../produkte/ebook-modernes-spanisch-lernen-lektionen-1-bis-5-51898.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.37 (Single payment) |
+| Price | $8.38 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.68 |
 | Cart conversion* | — |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Modernes Spanisch lernen - Lektionen 1 bis 5? — Typ: Downloads, Anbieter: digiheini, gelistet seit 2025-02-09
-- Wie viel kostet es? — 8.367128000000001 USD
+- Wie viel kostet es? — 8.382088000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

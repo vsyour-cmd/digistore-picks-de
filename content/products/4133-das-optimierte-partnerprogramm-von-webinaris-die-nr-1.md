@@ -4,15 +4,15 @@ digistore24_product_id: 432363
 title: "Das optimierte Partnerprogramm von Webinaris. Die Nr. 1"
 vendor: "Webinaris"
 product_type: "Member area and video courses"
-price: 1583.24
+price: 1586.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 287.87
+earnings_per_sale: 288.39
 cart_conversion_pct: 13
 cancel_rate_pct: 3.04
 categories: ["Software"]
 listed_since: "2022-03-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.webinaris.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das optimierte Partnerprogramm von Webinaris. Die Nr. 1
 
 > Product ID `4133` · Digistore24 productId `432363` · [HTML profile page](../../produkte/das-optimierte-partnerprogramm-von-webinaris-die-nr-1-4133.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1583.24 (Subscription) |
+| Price | $1586.07 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $287.87 |
+| Earnings/sale* | $288.39 |
 | Cart conversion* | 13% |
 | Cancel rate* | 3.04% |
 | Vendor | Webinaris |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das optimierte Partnerprogramm von Webinaris. Die Nr. 1? — Typ: Member area and video courses, Anbieter: Webinaris, gelistet seit 2022-03-02
-- Wie viel kostet es? — 1583.2440680000002 USD
+- Wie viel kostet es? — 1586.0748280000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

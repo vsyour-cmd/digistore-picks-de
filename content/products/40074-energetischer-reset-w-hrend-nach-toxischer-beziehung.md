@@ -4,15 +4,15 @@ digistore24_product_id: 419278
 title: "ENERGETISCHER RESET während/ nach toxischer Beziehung"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 141.94
+price: 142.19
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.48
+earnings_per_sale: 35.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2021-12-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://katja-amberg-shop.de/energetischer-reset?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ENERGETISCHER RESET während/ nach toxischer Beziehung
 
 > Product ID `40074` · Digistore24 productId `419278` · [HTML profile page](../../produkte/energetischer-reset-w-hrend-nach-toxischer-beziehung-40074.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $141.94 (Single payment, Installment) |
+| Price | $142.19 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.48 |
+| Earnings/sale* | $35.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ENERGETISCHER RESET während/ nach toxischer Beziehung? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2021-12-05
-- Wie viel kostet es? — 141.939154 USD
+- Wie viel kostet es? — 142.192934 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

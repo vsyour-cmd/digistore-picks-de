@@ -4,15 +4,15 @@ digistore24_product_id: 742582
 title: "Adventskalender leicht gemacht – E-Book zum Ausdrucken"
 vendor: "ratgeberleichtgemacht"
 product_type: "Downloads"
-price: 9.31
+price: 9.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.72
+earnings_per_sale: 3.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742582?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Adventskalender leicht gemacht – E-Book zum Ausdrucken
 
 > Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../produkte/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.31 (Single payment) |
+| Price | $9.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adventskalender leicht gemacht – E-Book zum Ausdrucken? — Typ: Downloads, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 9.306752000000001 USD
+- Wie viel kostet es? — 9.323392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 649929
 title: "Schufa löschen leicht gemacht"
 vendor: "AffiliateEvangelist"
 product_type: "Downloads"
-price: 27.95
+price: 28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.82
+earnings_per_sale: 11.84
 cart_conversion_pct: 19
 cancel_rate_pct: 1.06
 categories: ["Business & Investment","Politics & Economy"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://schufa-booster.mrschuldenfrei.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schufa löschen leicht gemacht
 
 > Product ID `55931` · Digistore24 productId `649929` · [HTML profile page](../../produkte/schufa-l-schen-leicht-gemacht-55931.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.95 (Single payment) |
+| Price | $28.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.82 |
+| Earnings/sale* | $11.84 |
 | Cart conversion* | 19% |
 | Cancel rate* | 1.06% |
 | Vendor | AffiliateEvangelist |
@@ -62,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schufa löschen leicht gemacht? — Typ: Downloads, Anbieter: AffiliateEvangelist, gelistet seit 2025-11-20
-- Wie viel kostet es? — 27.953813999999998 USD
+- Wie viel kostet es? — 28.003794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 183803
 title: "Einführung in NinjaTrader 8"
 vendor: "HBreuerTrading"
 product_type: "Downloads"
-price: 225.6
+price: 226
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 78.96
+earnings_per_sale: 79.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2017-11-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Einführung in NinjaTrader 8
 
 > Product ID `21197` · Digistore24 productId `183803` · [HTML profile page](../../produkte/einf-hrung-in-ninjatrader-8-21197.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $225.60 (Single payment) |
+| Price | $226.00 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $78.96 |
+| Earnings/sale* | $79.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HBreuerTrading |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einführung in NinjaTrader 8? — Typ: Downloads, Anbieter: HBreuerTrading, gelistet seit 2017-11-29
-- Wie viel kostet es? — 225.59924800000002 USD
+- Wie viel kostet es? — 226.002608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

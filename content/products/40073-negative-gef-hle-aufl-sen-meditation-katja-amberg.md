@@ -4,7 +4,7 @@ digistore24_product_id: 311670
 title: "NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 27.26
+price: 27.31
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.73
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://katja-amberg-shop.de/negativegefuehleaufloesen?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg
 
 > Product ID `40073` · Digistore24 productId `311670` · [HTML profile page](../../produkte/negative-gef-hle-aufl-sen-meditation-katja-amberg-40073.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.26 (Single payment) |
+| Price | $27.31 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | — |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-07
-- Wie viel kostet es? — 27.260282000000004 USD
+- Wie viel kostet es? — 27.309022000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

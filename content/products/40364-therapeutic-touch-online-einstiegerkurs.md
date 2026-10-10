@@ -4,15 +4,15 @@ digistore24_product_id: 447934
 title: "THERAPEUTIC TOUCH Online-Einstiegerkurs"
 vendor: "TT-Coach"
 product_type: "Member area and video courses"
-price: 197.4
+price: 197.75
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 49.35
+earnings_per_sale: 49.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # THERAPEUTIC TOUCH Online-Einstiegerkurs
 
 > Product ID `40364` · Digistore24 productId `447934` · [HTML profile page](../../produkte/therapeutic-touch-online-einstiegerkurs-40364.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.40 (Single payment, Installment) |
+| Price | $197.75 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $49.35 |
+| Earnings/sale* | $49.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TT-Coach |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THERAPEUTIC TOUCH Online-Einstiegerkurs? — Typ: Member area and video courses, Anbieter: TT-Coach, gelistet seit 2022-06-22
-- Wie viel kostet es? — 197.39934200000002 USD
+- Wie viel kostet es? — 197.752282 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

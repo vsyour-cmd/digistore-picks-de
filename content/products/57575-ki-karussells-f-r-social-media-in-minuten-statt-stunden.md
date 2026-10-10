@@ -4,15 +4,15 @@ digistore24_product_id: 704143
 title: "KI-Karussells für Social Media – in Minuten statt Stunden"
 vendor: "Mabo1973"
 product_type: "Software"
-price: 28.11
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.06
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-07-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/704143?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Karussells für Social Media – in Minuten statt Stunden
 
 > Product ID `57575` · Digistore24 productId `704143` · [HTML profile page](../../produkte/ki-karussells-f-r-social-media-in-minuten-statt-stunden-57575.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.11 (Subscription) |
+| Price | $28.16 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.06 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mabo1973 |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Karussells für Social Media – in Minuten statt Stunden? — Typ: Software, Anbieter: Mabo1973, gelistet seit 2026-07-17
-- Wie viel kostet es? — 28.110418 USD
+- Wie viel kostet es? — 28.160678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 435093
 title: "Kunden gewinnen mit Social Media auf Knopfdruck"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 12.44
+price: 12.46
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 9.96
+earnings_per_sale: 9.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden gewinnen mit Social Media auf Knopfdruck
 
 > Product ID `41724` · Digistore24 productId `435093` · [HTML profile page](../../produkte/kunden-gewinnen-mit-social-media-auf-knopfdruck-41724.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.44 (Single payment) |
+| Price | $12.46 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $9.96 |
+| Earnings/sale* | $9.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden gewinnen mit Social Media auf Knopfdruck? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-20
-- Wie viel kostet es? — 12.438832 USD
+- Wie viel kostet es? — 12.461072 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

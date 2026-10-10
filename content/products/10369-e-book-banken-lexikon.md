@@ -4,15 +4,15 @@ digistore24_product_id: 72935
 title: "E-Book: Banken Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 36.5
+price: 36.57
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 15.97
+earnings_per_sale: 16
 cart_conversion_pct: 19
 cancel_rate_pct: 3.92
 categories: ["Business & Investment"]
 listed_since: "2016-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/banken-lexikon/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: Banken Lexikon
 
 > Product ID `10369` · Digistore24 productId `72935` · [HTML profile page](../../produkte/e-book-banken-lexikon-10369.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.50 (Single payment) |
+| Price | $36.57 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $15.97 |
+| Earnings/sale* | $16.00 |
 | Cart conversion* | 19% |
 | Cancel rate* | 3.92% |
 | Vendor | Staatenlos |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Banken Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2016-02-24
-- Wie viel kostet es? — 36.499918 USD
+- Wie viel kostet es? — 36.565178 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

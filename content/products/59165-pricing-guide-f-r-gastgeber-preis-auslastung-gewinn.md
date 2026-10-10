@@ -4,15 +4,15 @@ digistore24_product_id: 706785
 title: "Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn"
 vendor: "Anha13"
 product_type: "E-books"
-price: 24.05
+price: 24.09
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.62
+earnings_per_sale: 9.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
 > Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.05 (Single payment) |
+| Price | $24.09 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.62 |
+| Earnings/sale* | $9.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 24.0499 USD
+- Wie viel kostet es? — 24.0929 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

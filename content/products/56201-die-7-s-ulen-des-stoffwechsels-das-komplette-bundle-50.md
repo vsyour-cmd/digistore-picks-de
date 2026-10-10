@@ -4,15 +4,15 @@ digistore24_product_id: 678558
 title: "Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%"
 vendor: "info4833"
 product_type: "E-books"
-price: 93.98
+price: 94.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.99
+earnings_per_sale: 47.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-03-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/678558?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%
 
 > Product ID `56201` · Digistore24 productId `678558` · [HTML profile page](../../produkte/die-7-s-ulen-des-stoffwechsels-das-komplette-bundle-50-56201.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.98 (Single payment) |
+| Price | $94.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.99 |
+| Earnings/sale* | $47.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info4833 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 7 Säulen des Stoffwechsels – Das komplette Bundle | 50%? — Typ: E-books, Anbieter: info4833, gelistet seit 2026-03-23
-- Wie viel kostet es? — 93.98477199999999 USD
+- Wie viel kostet es? — 94.152812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

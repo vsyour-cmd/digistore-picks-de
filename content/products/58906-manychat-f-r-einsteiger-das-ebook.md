@@ -4,15 +4,15 @@ digistore24_product_id: 708959
 title: "ManyChat für Einsteiger - Das eBook"
 vendor: "KundenFinder"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.89
+earnings_per_sale: 8.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://manychatebook.dietlmeier.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ManyChat für Einsteiger - Das eBook
 
 > Product ID `58906` · Digistore24 productId `708959` · [HTML profile page](../../produkte/manychat-f-r-einsteiger-das-ebook-58906.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.89 |
+| Earnings/sale* | $8.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ManyChat für Einsteiger - Das eBook? — Typ: E-books, Anbieter: KundenFinder, gelistet seit 2026-09-04
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

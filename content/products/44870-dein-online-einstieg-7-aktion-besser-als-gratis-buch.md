@@ -4,15 +4,15 @@ digistore24_product_id: 420657
 title: "Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!"
 vendor: "Leseidee"
 product_type: "Member area and video courses"
-price: 362.82
+price: 363.47
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 83.45
+earnings_per_sale: 83.6
 cart_conversion_pct: 6
 cancel_rate_pct: 2.42
 categories: []
 listed_since: "2021-12-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://deals.davebrych.com/dein-online-einstieg-jetzt/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!
 
 > Product ID `44870` · Digistore24 productId `420657` · [HTML profile page](../../produkte/dein-online-einstieg-7-aktion-besser-als-gratis-buch-44870.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $362.82 (Single payment) |
+| Price | $363.47 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $83.45 |
+| Earnings/sale* | $83.60 |
 | Cart conversion* | 6% |
 | Cancel rate* | 2.42% |
 | Vendor | Leseidee |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!? — Typ: Member area and video courses, Anbieter: Leseidee, gelistet seit 2021-12-14
-- Wie viel kostet es? — 362.81791000000004 USD
+- Wie viel kostet es? — 363.46661000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

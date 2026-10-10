@@ -4,15 +4,15 @@ digistore24_product_id: 710090
 title: "Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 13.9
+earnings_per_sale: 13.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/mein-buntes-rollstuhl-malbuch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +
 
 > Product ID `57482` · Digistore24 productId `710090` · [HTML profile page](../../produkte/inklusives-rollstuhl-malbuch-f-r-kinder-30-ausmalbilder-57482.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $13.90 |
+| Earnings/sale* | $13.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-10
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

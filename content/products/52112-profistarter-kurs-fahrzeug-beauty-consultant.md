@@ -4,15 +4,15 @@ digistore24_product_id: 607630
 title: "Profistarter Kurs: Fahrzeug-Beauty Consultant"
 vendor: "jan133"
 product_type: "Member area and video courses"
-price: 183.3
+price: 183.63
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 64.15
+earnings_per_sale: 64.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.profistarter.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Profistarter Kurs: Fahrzeug-Beauty Consultant
 
 > Product ID `52112` · Digistore24 productId `607630` · [HTML profile page](../../produkte/profistarter-kurs-fahrzeug-beauty-consultant-52112.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.30 (Single payment, Installment) |
+| Price | $183.63 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $64.15 |
+| Earnings/sale* | $64.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan133 |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profistarter Kurs: Fahrzeug-Beauty Consultant? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2025-04-15
-- Wie viel kostet es? — 183.30498200000002 USD
+- Wie viel kostet es? — 183.632722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

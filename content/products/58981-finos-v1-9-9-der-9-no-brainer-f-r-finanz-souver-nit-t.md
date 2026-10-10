@@ -4,15 +4,15 @@ digistore24_product_id: 725138
 title: "FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität"
 vendor: "Tobias7812"
 product_type: "Downloads"
-price: 8.46
+price: 8.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.23
+earnings_per_sale: 4.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725138?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität
 
 > Product ID `58981` · Digistore24 productId `725138` · [HTML profile page](../../produkte/finos-v1-9-9-der-9-no-brainer-f-r-finanz-souver-nit-t-58981.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.46 (Single payment) |
+| Price | $8.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.23 |
+| Earnings/sale* | $4.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tobias7812 |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FinOS v1.9.9 – Der 9€ No-Brainer für Finanz-Souveränität? — Typ: Downloads, Anbieter: Tobias7812, gelistet seit 2026-09-07
-- Wie viel kostet es? — 8.456616 USD
+- Wie viel kostet es? — 8.471736 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

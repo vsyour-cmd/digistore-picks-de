@@ -4,15 +4,15 @@ digistore24_product_id: 731479
 title: "PandaPosting – Google- & KI – 20 % laufende Provision"
 vendor: "Digitelli_GmbH"
 product_type: "Software"
-price: 200.23
+price: 200.59
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.05
+earnings_per_sale: 40.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pandaposting.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PandaPosting – Google- & KI – 20 % laufende Provision
 
 > Product ID `59105` · Digistore24 productId `731479` · [HTML profile page](../../produkte/pandaposting-google-ki-20-laufende-provision-59105.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $200.23 (Subscription) |
+| Price | $200.59 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.05 |
+| Earnings/sale* | $40.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Digitelli_GmbH |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PandaPosting – Google- & KI – 20 % laufende Provision? — Typ: Software, Anbieter: Digitelli_GmbH, gelistet seit 2026-09-10
-- Wie viel kostet es? — 200.2294 USD
+- Wie viel kostet es? — 200.5874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

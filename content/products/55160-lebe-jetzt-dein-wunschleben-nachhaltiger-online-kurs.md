@@ -4,15 +4,15 @@ digistore24_product_id: 558070
 title: "Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs"
 vendor: "Distel_Pipe"
 product_type: "Member area and video courses"
-price: 1588.6
+price: 1591.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 794.31
+earnings_per_sale: 795.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.thebig3.ch/online-kurse/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs
 
 > Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../produkte/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1588.60 (Single payment) |
+| Price | $1591.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $794.31 |
+| Earnings/sale* | $795.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Distel_Pipe |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs? — Typ: Member area and video courses, Anbieter: Distel_Pipe, gelistet seit 2024-06-22
-- Wie viel kostet es? — 1588.6021620000001 USD
+- Wie viel kostet es? — 1591.442502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

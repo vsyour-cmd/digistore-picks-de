@@ -4,15 +4,15 @@ digistore24_product_id: 482126
 title: "Pinterest Mastery - Geld verdienen und Traffic mit Pinterest"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 256.74
+price: 257.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 117.24
+earnings_per_sale: 117.45
 cart_conversion_pct: 3
 cancel_rate_pct: 1.7
 categories: ["Social Media"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/pinvkslp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest Mastery - Geld verdienen und Traffic mit Pinterest
 
 > Product ID `44124` · Digistore24 productId `482126` · [HTML profile page](../../produkte/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $256.74 (Single payment, Installment) |
+| Price | $257.20 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $117.24 |
+| Earnings/sale* | $117.45 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.7% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Mastery - Geld verdienen und Traffic mit Pinterest? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 256.74107200000003 USD
+- Wie viel kostet es? — 257.20011200000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 740893
 title: "Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.81
+price: 20.84
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.32
+earnings_per_sale: 8.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Profession & Job"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740893?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
 
 > Product ID `60261` · Digistore24 productId `740893` · [HTML profile page](../../produkte/k-ndigungsschutz-leicht-gemacht-ratgeber-fristen-rechner-60261.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.81 (Single payment) |
+| Price | $20.84 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.32 |
+| Earnings/sale* | $8.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-06
-- Wie viel kostet es? — 20.805960000000002 USD
+- Wie viel kostet es? — 20.84316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

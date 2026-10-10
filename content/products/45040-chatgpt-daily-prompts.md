@@ -4,15 +4,15 @@ digistore24_product_id: 495580
 title: "ChatGPT - Daily Prompts"
 vendor: "sattelitevendor"
 product_type: "Remote service provided electronically"
-price: 224.18
+price: 224.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.33
+earnings_per_sale: 6.34
 cart_conversion_pct: 8
 cancel_rate_pct: 2.13
 categories: ["Online Marketing & E-Business","Profession & Job","Online Marketing"]
 listed_since: "2023-04-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.aiinzider.com/daily-prompts/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ChatGPT - Daily Prompts
 
 > Product ID `45040` · Digistore24 productId `495580` · [HTML profile page](../../produkte/chatgpt-daily-prompts-45040.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $224.18 (Single payment) |
+| Price | $224.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.33 |
+| Earnings/sale* | $6.34 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.13% |
 | Vendor | sattelitevendor |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT - Daily Prompts? — Typ: Remote service provided electronically, Anbieter: sattelitevendor, gelistet seit 2023-04-22
-- Wie viel kostet es? — 224.178626 USD
+- Wie viel kostet es? — 224.579446 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

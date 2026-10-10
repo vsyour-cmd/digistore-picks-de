@@ -4,15 +4,15 @@ digistore24_product_id: 566548
 title: "Traumaorientierte Körperzentrierte Hypnose zum Thema Angst"
 vendor: "jennifersubke"
 product_type: "Downloads"
-price: 3.77
+price: 3.78
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 11.02
+earnings_per_sale: 11.04
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/566548?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Traumaorientierte Körperzentrierte Hypnose zum Thema Angst
 
 > Product ID `49816` · Digistore24 productId `566548` · [HTML profile page](../../produkte/traumaorientierte-k-rperzentrierte-hypnose-zum-thema-angst-49816.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $3.77 (Single payment) |
+| Price | $3.78 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $11.04 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traumaorientierte Körperzentrierte Hypnose zum Thema Angst? — Typ: Downloads, Anbieter: jennifersubke, gelistet seit 2024-08-22
-- Wie viel kostet es? — 3.7696820000000004 USD
+- Wie viel kostet es? — 3.776422 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

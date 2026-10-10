@@ -4,15 +4,15 @@ digistore24_product_id: 705881
 title: "Der Besichtigungs-Check: Souverän durch jede Besichtigung"
 vendor: "bujocee4"
 product_type: "Downloads"
-price: 18.7
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.35
+earnings_per_sale: 9.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Real Estate"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://besichtigungs-check.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Besichtigungs-Check: Souverän durch jede Besichtigung
 
 > Product ID `57508` · Digistore24 productId `705881` · [HTML profile page](../../produkte/der-besichtigungs-check-souver-n-durch-jede-besichtigung-57508.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.70 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.35 |
+| Earnings/sale* | $9.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bujocee4 |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Besichtigungs-Check: Souverän durch jede Besichtigung? — Typ: Downloads, Anbieter: bujocee4, gelistet seit 2026-07-13
-- Wie viel kostet es? — 18.702992 USD
+- Wie viel kostet es? — 18.736432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

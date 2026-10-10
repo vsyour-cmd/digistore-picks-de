@@ -4,15 +4,15 @@ digistore24_product_id: 690693
 title: "eben.Haut 90 Tage Begleitung"
 vendor: "vschmitt632c"
 product_type: "Online coaching"
-price: 250.98
+price: 251.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 50.19
+earnings_per_sale: 50.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://hautberatung.my.canva.site/ebenhaut-90-tage-begleitung?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eben.Haut 90 Tage Begleitung
 
 > Product ID `56490` · Digistore24 productId `690693` · [HTML profile page](../../produkte/eben-haut-90-tage-begleitung-56490.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $250.98 (Single payment, Installment) |
+| Price | $251.43 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $50.19 |
+| Earnings/sale* | $50.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vschmitt632c |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eben.Haut 90 Tage Begleitung? — Typ: Online coaching, Anbieter: vschmitt632c, gelistet seit 2026-05-06
-- Wie viel kostet es? — 250.98028200000002 USD
+- Wie viel kostet es? — 251.429022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

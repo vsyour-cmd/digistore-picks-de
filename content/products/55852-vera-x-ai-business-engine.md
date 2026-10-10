@@ -4,15 +4,15 @@ digistore24_product_id: 674753
 title: "VERA-X AI-Business Engine™"
 vendor: "smartboostAI"
 product_type: "Remote service provided electronically"
-price: 13413.13
+price: 13437.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4023.94
+earnings_per_sale: 4031.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/674753?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # VERA-X AI-Business Engine™
 
 > Product ID `55852` · Digistore24 productId `674753` · [HTML profile page](../../produkte/vera-x-ai-business-engine-55852.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $13413.13 (Single payment, Installment) |
+| Price | $13437.11 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4023.94 |
+| Earnings/sale* | $4031.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -110,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VERA-X AI-Business Engine™? — Typ: Remote service provided electronically, Anbieter: smartboostAI, gelistet seit 2026-03-09
-- Wie viel kostet es? — 13413.1326 USD
+- Wie viel kostet es? — 13437.1146 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

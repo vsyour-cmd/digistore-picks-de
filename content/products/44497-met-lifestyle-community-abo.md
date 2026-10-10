@@ -4,15 +4,15 @@ digistore24_product_id: 276341
 title: "MET lifestyle-Community Abo"
 vendor: "franke2met"
 product_type: "Member area and video courses"
-price: 230.43
+price: 230.84
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.54
+earnings_per_sale: 4.55
 cart_conversion_pct: 43
 cancel_rate_pct: 0.47
 categories: ["Education"]
 listed_since: "2019-06-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/metlifestyle-community-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MET lifestyle-Community Abo
 
 > Product ID `44497` · Digistore24 productId `276341` · [HTML profile page](../../produkte/met-lifestyle-community-abo-44497.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $230.43 (Subscription) |
+| Price | $230.84 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.54 |
+| Earnings/sale* | $4.55 |
 | Cart conversion* | 43% |
 | Cancel rate* | 0.47% |
 | Vendor | franke2met |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MET lifestyle-Community Abo? — Typ: Member area and video courses, Anbieter: franke2met, gelistet seit 2019-06-20
-- Wie viel kostet es? — 230.4316 USD
+- Wie viel kostet es? — 230.8436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

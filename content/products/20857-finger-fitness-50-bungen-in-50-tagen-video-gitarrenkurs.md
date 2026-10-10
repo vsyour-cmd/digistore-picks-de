@@ -4,15 +4,15 @@ digistore24_product_id: 180001
 title: "Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 67.49
+price: 67.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 24.72
+earnings_per_sale: 24.77
 cart_conversion_pct: 14
 cancel_rate_pct: 1.9
 categories: ["Dancing & Music"]
 listed_since: "2017-11-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.gitarrenvideounterricht.de/kurse/finger-fitness/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)
 
 > Product ID `20857` · Digistore24 productId `180001` · [HTML profile page](../../produkte/finger-fitness-50-bungen-in-50-tagen-video-gitarrenkurs-20857.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $67.49 (Single payment) |
+| Price | $67.61 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $24.72 |
+| Earnings/sale* | $24.77 |
 | Cart conversion* | 14% |
 | Cancel rate* | 1.9% |
 | Vendor | musiklehrer |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2017-11-16
-- Wie viel kostet es? — 67.485138 USD
+- Wie viel kostet es? — 67.60579800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

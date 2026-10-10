@@ -4,15 +4,15 @@ digistore24_product_id: 733005
 title: "Ein Produkt, das sich von selbst verkauft - 50% Provision"
 vendor: "stellenmanufaktur"
 product_type: "Remote service provided electronically"
-price: 2340.6
+price: 2344.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1170.3
+earnings_per_sale: 1172.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733005?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ein Produkt, das sich von selbst verkauft - 50% Provision
 
 > Product ID `59349` · Digistore24 productId `733005` · [HTML profile page](../../produkte/ein-produkt-das-sich-von-selbst-verkauft-50-provision-59349.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2340.60 (Single payment, Installment) |
+| Price | $2344.79 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1170.30 |
+| Earnings/sale* | $1172.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stellenmanufaktur |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ein Produkt, das sich von selbst verkauft - 50% Provision? — Typ: Remote service provided electronically, Anbieter: stellenmanufaktur, gelistet seit 2026-09-18
-- Wie viel kostet es? — 2340.603384 USD
+- Wie viel kostet es? — 2344.7882640000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

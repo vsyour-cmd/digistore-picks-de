@@ -4,15 +4,15 @@ digistore24_product_id: 714186
 title: "Wiederkehrende Provision mit der Platin-Mitgliedschaft"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 70.36
+earnings_per_sale: 70.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://byebyehamsterrad.de/platin-mitgliedschaft/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wiederkehrende Provision mit der Platin-Mitgliedschaft
 
 > Product ID `57697` · Digistore24 productId `714186` · [HTML profile page](../../produkte/wiederkehrende-provision-mit-der-platin-mitgliedschaft-57697.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Subscription) |
+| Price | $469.90 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $70.36 |
+| Earnings/sale* | $70.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MSFS_2218 |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wiederkehrende Provision mit der Platin-Mitgliedschaft? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-07-23
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

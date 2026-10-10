@@ -4,15 +4,15 @@ digistore24_product_id: 559832
 title: "Stilvoll Fotografieren"
 vendor: "ChristofArnold"
 product_type: "Book (printed)"
-price: 32.26
+price: 32.32
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.98
+earnings_per_sale: 3.99
 cart_conversion_pct: 27
 cancel_rate_pct: 0.61
 categories: ["Education","Photography & Film"]
 listed_since: "2024-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://stilvollfotografieren.de/buchfunnel-startseite/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Stilvoll Fotografieren
 
 > Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../produkte/stilvoll-fotografieren-48680.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $32.26 (Single payment) |
+| Price | $32.32 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.98 |
+| Earnings/sale* | $3.99 |
 | Cart conversion* | 27% |
 | Cancel rate* | 0.61% |
 | Vendor | ChristofArnold |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stilvoll Fotografieren? — Typ: Book (printed), Anbieter: ChristofArnold, gelistet seit 2024-07-04
-- Wie viel kostet es? — 32.260424 USD
+- Wie viel kostet es? — 32.318104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

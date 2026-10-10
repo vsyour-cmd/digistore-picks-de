@@ -4,15 +4,15 @@ digistore24_product_id: 582716
 title: "50 % Provision für ein stark konvertierendes Krypto-Produkt"
 vendor: "StBDirkWinkler"
 product_type: "Member area and video courses"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.54
+earnings_per_sale: 234.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products","Finances"]
 listed_since: "2024-11-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.krypto-steuerfrei.de/webinar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision für ein stark konvertierendes Krypto-Produkt
 
 > Product ID `51251` · Digistore24 productId `582716` · [HTML profile page](../../produkte/50-provision-f-r-ein-stark-konvertierendes-krypto-produkt-51251.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.06 (Single payment) |
+| Price | $469.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.54 |
+| Earnings/sale* | $234.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StBDirkWinkler |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision für ein stark konvertierendes Krypto-Produkt? — Typ: Member area and video courses, Anbieter: StBDirkWinkler, gelistet seit 2024-11-25
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

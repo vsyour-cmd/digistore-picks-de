@@ -4,15 +4,15 @@ digistore24_product_id: 688002
 title: "Das Digital Reselling Ebook"
 vendor: "BastianBauer"
 product_type: "E-books"
-price: 25.6
+price: 25.65
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 10.07
+earnings_per_sale: 10.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/688002?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Digital Reselling Ebook
 
 > Product ID `56375` · Digistore24 productId `688002` · [HTML profile page](../../produkte/das-digital-reselling-ebook-56375.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.60 (Single payment, Installment) |
+| Price | $25.65 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $10.07 |
+| Earnings/sale* | $10.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BastianBauer |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Digital Reselling Ebook? — Typ: E-books, Anbieter: BastianBauer, gelistet seit 2026-04-27
-- Wie viel kostet es? — 25.604754 USD
+- Wie viel kostet es? — 25.650534 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

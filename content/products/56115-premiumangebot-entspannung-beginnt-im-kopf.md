@@ -4,15 +4,15 @@ digistore24_product_id: 680855
 title: "Premiumangebot Entspannung beginnt im Kopf"
 vendor: "HeidiPro"
 product_type: "Telephone coaching"
-price: 417.36
+price: 418.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 125.2
+earnings_per_sale: 125.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Marketing Services"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://hpheidi-hoeck.systeme.io/a9b7945e?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premiumangebot Entspannung beginnt im Kopf
 
 > Product ID `56115` · Digistore24 productId `680855` · [HTML profile page](../../produkte/premiumangebot-entspannung-beginnt-im-kopf-56115.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $417.36 (Single payment) |
+| Price | $418.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $125.20 |
+| Earnings/sale* | $125.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeidiPro |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premiumangebot Entspannung beginnt im Kopf? — Typ: Telephone coaching, Anbieter: HeidiPro, gelistet seit 2026-03-31
-- Wie viel kostet es? — 417.36084600000004 USD
+- Wie viel kostet es? — 418.10706600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

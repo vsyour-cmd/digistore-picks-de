@@ -12,7 +12,7 @@ cart_conversion_pct: 56
 cancel_rate_pct: 7.42
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://lp-mircodigital.de/rc/freebie?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Reddit Cashflow
 
 > Product ID `52826` · Digistore24 productId `614011` · [HTML profile page](../../produkte/reddit-cashflow-52826.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -62,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reddit Cashflow? — Typ: E-books, Anbieter: Verdienst-Kompass, gelistet seit 2025-05-21
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

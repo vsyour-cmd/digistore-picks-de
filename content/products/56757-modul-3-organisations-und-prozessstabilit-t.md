@@ -4,15 +4,15 @@ digistore24_product_id: 696891
 title: "Modul 3 – Organisations- und Prozessstabilität"
 vendor: "weipert-consulting-gmbh"
 product_type: "Downloads"
-price: 328.06
+price: 328.65
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.62
+earnings_per_sale: 65.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Modul 3 – Organisations- und Prozessstabilität
 
 > Product ID `56757` · Digistore24 productId `696891` · [HTML profile page](../../produkte/modul-3-organisations-und-prozessstabilit-t-56757.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $328.06 (Single payment) |
+| Price | $328.65 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.62 |
+| Earnings/sale* | $65.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weipert-consulting-gmbh |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Modul 3 – Organisations- und Prozessstabilität? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
-- Wie viel kostet es? — 328.06300799999997 USD
+- Wie viel kostet es? — 328.649568 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

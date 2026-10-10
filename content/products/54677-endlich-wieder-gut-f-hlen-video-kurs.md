@@ -4,15 +4,15 @@ digistore24_product_id: 649004
 title: "Endlich wieder gut fühlen - Video Kurs"
 vendor: "MarcWoche"
 product_type: "Member area and video courses"
-price: 281.06
+price: 281.56
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.27
+earnings_per_sale: 70.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-11-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649004?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Endlich wieder gut fühlen - Video Kurs
 
 > Product ID `54677` · Digistore24 productId `649004` · [HTML profile page](../../produkte/endlich-wieder-gut-f-hlen-video-kurs-54677.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.06 (Single payment) |
+| Price | $281.56 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.27 |
+| Earnings/sale* | $70.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarcWoche |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich wieder gut fühlen - Video Kurs? — Typ: Member area and video courses, Anbieter: MarcWoche, gelistet seit 2025-11-17
-- Wie viel kostet es? — 281.059436 USD
+- Wie viel kostet es? — 281.561956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

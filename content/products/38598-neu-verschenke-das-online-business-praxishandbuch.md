@@ -4,15 +4,15 @@ digistore24_product_id: 419814
 title: "[NEU] Verschenke das Online Business Praxishandbuch"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 11.67
+price: 11.69
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 8.36
+earnings_per_sale: 8.37
 cart_conversion_pct: 8
 cancel_rate_pct: 1.9
 categories: ["Business & Investment"]
 listed_since: "2021-12-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/419814/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] Verschenke das Online Business Praxishandbuch
 
 > Product ID `38598` · Digistore24 productId `419814` · [HTML profile page](../../produkte/neu-verschenke-das-online-business-praxishandbuch-38598.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.67 (Single payment) |
+| Price | $11.69 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $8.36 |
+| Earnings/sale* | $8.37 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.9% |
 | Vendor | digitalbeat |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Verschenke das Online Business Praxishandbuch? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2021-12-08
-- Wie viel kostet es? — 11.666998 USD
+- Wie viel kostet es? — 11.687858 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

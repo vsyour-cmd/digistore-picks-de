@@ -4,15 +4,15 @@ digistore24_product_id: 422668
 title: "NFT Akademie Grundkurs - From Zero To Moon"
 vendor: "NFTAkademie"
 product_type: "Member area and video courses"
-price: 561.18
+price: 562.18
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 140.29
+earnings_per_sale: 140.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2021-12-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nft-akademie.com/nft-akademie-grundkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # NFT Akademie Grundkurs - From Zero To Moon
 
 > Product ID `39379` · Digistore24 productId `422668` · [HTML profile page](../../produkte/nft-akademie-grundkurs-from-zero-to-moon-39379.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $561.18 (Single payment, Installment) |
+| Price | $562.18 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $140.29 |
+| Earnings/sale* | $140.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NFTAkademie |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NFT Akademie Grundkurs - From Zero To Moon? — Typ: Member area and video courses, Anbieter: NFTAkademie, gelistet seit 2021-12-31
-- Wie viel kostet es? — 561.179248 USD
+- Wie viel kostet es? — 562.1826080000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

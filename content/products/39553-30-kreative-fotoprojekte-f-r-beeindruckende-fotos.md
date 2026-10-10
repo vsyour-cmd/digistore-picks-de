@@ -4,15 +4,15 @@ digistore24_product_id: 382418
 title: "30+ kreative Fotoprojekte für beeindruckende Fotos"
 vendor: "like-fotode"
 product_type: "E-books"
-price: 15.63
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.82
+earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2021-04-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://like-foto.de/kreative-fotoideen-zum-nachmachen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 30+ kreative Fotoprojekte für beeindruckende Fotos
 
 > Product ID `39553` · Digistore24 productId `382418` · [HTML profile page](../../produkte/30-kreative-fotoprojekte-f-r-beeindruckende-fotos-39553.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.63 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | like-fotode |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30+ kreative Fotoprojekte für beeindruckende Fotos? — Typ: E-books, Anbieter: like-fotode, gelistet seit 2021-04-03
-- Wie viel kostet es? — 15.626842000000002 USD
+- Wie viel kostet es? — 15.654782 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

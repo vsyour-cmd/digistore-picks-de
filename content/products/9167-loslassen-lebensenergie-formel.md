@@ -4,15 +4,15 @@ digistore24_product_id: 60947
 title: "Loslassen-Lebensenergie-Formel"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 24.72
+price: 24.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.54
+earnings_per_sale: 50.63
 cart_conversion_pct: 18
 cancel_rate_pct: 4.58
 categories: ["Personal Development"]
 listed_since: "2015-10-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/energie-webinar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Loslassen-Lebensenergie-Formel
 
 > Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.72 (Single payment, Installment) |
+| Price | $24.77 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.54 |
+| Earnings/sale* | $50.63 |
 | Cart conversion* | 18% |
 | Cancel rate* | 4.58% |
 | Vendor | Erfolg-Intuitiv |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loslassen-Lebensenergie-Formel? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2015-10-14
-- Wie viel kostet es? — 24.72106 USD
+- Wie viel kostet es? — 24.76526 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

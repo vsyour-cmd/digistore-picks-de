@@ -4,15 +4,15 @@ digistore24_product_id: 425615
 title: "Hacking-Akademie"
 vendor: "ciregrebma"
 product_type: "Member area and video courses"
-price: 281.06
+price: 281.56
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.32
+earnings_per_sale: 84.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-01-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/425615?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hacking-Akademie
 
 > Product ID `44674` · Digistore24 productId `425615` · [HTML profile page](../../produkte/hacking-akademie-44674.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.06 (Subscription) |
+| Price | $281.56 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.32 |
+| Earnings/sale* | $84.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ciregrebma |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hacking-Akademie? — Typ: Member area and video courses, Anbieter: ciregrebma, gelistet seit 2022-01-19
-- Wie viel kostet es? — 281.059436 USD
+- Wie viel kostet es? — 281.561956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

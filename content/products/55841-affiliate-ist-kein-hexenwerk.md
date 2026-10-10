@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.07
+earnings_per_sale: 5.08
 cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/FzaqcuWo4AC9DSqeq?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate ist kein Hexenwerk
 
 > Product ID `55841` · Digistore24 productId `674448` · [HTML profile page](../../produkte/affiliate-ist-kein-hexenwerk-55841.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.07 |
+| Earnings/sale* | $5.08 |
 | Cart conversion* | 55% |
 | Cancel rate* | 0% |
 | Vendor | werni1 |

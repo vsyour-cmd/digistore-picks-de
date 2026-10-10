@@ -4,7 +4,7 @@ digistore24_product_id: 353628
 title: "Soccerkinetics Fußballbuch"
 vendor: "Soccerkinetics"
 product_type: "Book (printed)"
-price: 9.04
+price: 9.05
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,7 +12,7 @@ cart_conversion_pct: 29
 cancel_rate_pct: 0.17
 categories: ["Sport"]
 listed_since: "2020-10-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://soccerkinetics.de/buch/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Soccerkinetics Fußballbuch
 
 > Product ID `37034` · Digistore24 productId `353628` · [HTML profile page](../../produkte/soccerkinetics-fu-ballbuch-37034.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $9.04 (Single payment) |
+| Price | $9.05 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 29% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Soccerkinetics Fußballbuch? — Typ: Book (printed), Anbieter: Soccerkinetics, gelistet seit 2020-10-22
-- Wie viel kostet es? — 9.038288 USD
+- Wie viel kostet es? — 9.054448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

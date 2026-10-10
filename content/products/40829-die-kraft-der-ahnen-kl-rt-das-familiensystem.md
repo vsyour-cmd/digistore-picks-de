@@ -4,15 +4,15 @@ digistore24_product_id: 119917
 title: "„Die Kraft der Ahnen“ - Klärt das Familiensystem"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 316.94
+price: 317.51
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 97.78
+earnings_per_sale: 97.95
 cart_conversion_pct: 20
 cancel_rate_pct: 1.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-02-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # „Die Kraft der Ahnen“ - Klärt das Familiensystem
 
 > Product ID `40829` · Digistore24 productId `119917` · [HTML profile page](../../produkte/die-kraft-der-ahnen-kl-rt-das-familiensystem-40829.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $316.94 (Single payment, Installment) |
+| Price | $317.51 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $97.78 |
+| Earnings/sale* | $97.95 |
 | Cart conversion* | 20% |
 | Cancel rate* | 1.86% |
 | Vendor | phoenix999 |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die Kraft der Ahnen“ - Klärt das Familiensystem? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2017-02-15
-- Wie viel kostet es? — 316.944124 USD
+- Wie viel kostet es? — 317.510804 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

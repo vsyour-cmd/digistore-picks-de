@@ -4,15 +4,15 @@ digistore24_product_id: 683631
 title: "PLR-E-Book-Bundle"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 333.34
+price: 333.94
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 54.81
+earnings_per_sale: 54.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/bundle-plr-business/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PLR-E-Book-Bundle
 
 > Product ID `57116` · Digistore24 productId `683631` · [HTML profile page](../../produkte/plr-e-book-bundle-57116.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $333.34 (Single payment) |
+| Price | $333.94 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $54.81 |
+| Earnings/sale* | $54.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PLR-E-Book-Bundle? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2026-06-23
-- Wie viel kostet es? — 333.3428 USD
+- Wie viel kostet es? — 333.9388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 641367
 title: "Cashflow Magic"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 410.53
+price: 411.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 76.37
+earnings_per_sale: 76.5
 cart_conversion_pct: 7
 cancel_rate_pct: 0.79
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-10-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/cashflow/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Cashflow Magic
 
 > Product ID `55689` · Digistore24 productId `641367` · [HTML profile page](../../produkte/cashflow-magic-55689.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $410.53 (Single payment, Installment) |
+| Price | $411.26 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $76.37 |
+| Earnings/sale* | $76.50 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0.79% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cashflow Magic? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-10-14
-- Wie viel kostet es? — 410.5262 USD
+- Wie viel kostet es? — 411.2602 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

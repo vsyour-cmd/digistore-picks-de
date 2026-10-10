@@ -4,15 +4,15 @@ digistore24_product_id: 504474
 title: "WutPower 20%"
 vendor: "Elternkunst"
 product_type: "Member area and video courses"
-price: 138.18
+price: 138.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.64
+earnings_per_sale: 27.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2023-06-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/504474?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # WutPower 20%
 
 > Product ID `45471` · Digistore24 productId `504474` · [HTML profile page](../../produkte/wutpower-20-45471.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.18 (Single payment) |
+| Price | $138.43 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.64 |
+| Earnings/sale* | $27.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elternkunst |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WutPower 20%? — Typ: Member area and video courses, Anbieter: Elternkunst, gelistet seit 2023-06-24
-- Wie viel kostet es? — 138.180658 USD
+- Wie viel kostet es? — 138.427718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

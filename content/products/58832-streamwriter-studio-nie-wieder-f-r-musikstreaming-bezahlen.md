@@ -4,15 +4,15 @@ digistore24_product_id: 727349
 title: "StreamWriter Studio - Nie wieder für Musikstreaming bezahlen"
 vendor: "andrelobach79c7"
 product_type: "Software"
-price: 46.99
+price: 47.08
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://streamwriter.studio/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # StreamWriter Studio - Nie wieder für Musikstreaming bezahlen
 
 > Product ID `58832` · Digistore24 productId `727349` · [HTML profile page](../../produkte/streamwriter-studio-nie-wieder-f-r-musikstreaming-bezahlen-58832.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.99 (Single payment) |
+| Price | $47.08 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andrelobach79c7 |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StreamWriter Studio - Nie wieder für Musikstreaming bezahlen? — Typ: Software, Anbieter: andrelobach79c7, gelistet seit 2026-09-01
-- Wie viel kostet es? — 46.992385999999996 USD
+- Wie viel kostet es? — 47.076406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

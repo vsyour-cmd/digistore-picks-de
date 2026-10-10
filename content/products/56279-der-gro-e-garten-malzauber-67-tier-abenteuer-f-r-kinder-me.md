@@ -4,15 +4,15 @@ digistore24_product_id: 684848
 title: "Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me"
 vendor: "MagicPotter"
 product_type: "Downloads"
-price: 15.03
+price: 15.06
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.02
+earnings_per_sale: 6.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games","Marketing Services"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/684848?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me
 
 > Product ID `56279` · Digistore24 productId `684848` · [HTML profile page](../../produkte/der-gro-e-garten-malzauber-67-tier-abenteuer-f-r-kinder-me-56279.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.03 (Single payment) |
+| Price | $15.06 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.02 |
+| Earnings/sale* | $6.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Große Garten-Malzauber: 67 Tier-Abenteuer für Kinder (Me? — Typ: Downloads, Anbieter: MagicPotter, gelistet seit 2026-04-15
-- Wie viel kostet es? — 15.033984 USD
+- Wie viel kostet es? — 15.060864 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

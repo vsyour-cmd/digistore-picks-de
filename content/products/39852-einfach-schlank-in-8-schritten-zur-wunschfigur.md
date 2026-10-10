@@ -4,15 +4,15 @@ digistore24_product_id: 371024
 title: "Einfach schlank! In 8 Schritten zur Wunschfigur"
 vendor: "wildkitchen"
 product_type: "Member area and video courses"
-price: 552.72
+price: 553.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 110.54
+earnings_per_sale: 110.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.wildkitchen.at/einfach-schlank-onlinekurs-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Einfach schlank! In 8 Schritten zur Wunschfigur
 
 > Product ID `39852` · Digistore24 productId `371024` · [HTML profile page](../../produkte/einfach-schlank-in-8-schritten-zur-wunschfigur-39852.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $552.72 (Single payment, Installment) |
+| Price | $553.71 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $110.54 |
+| Earnings/sale* | $110.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wildkitchen |
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach schlank! In 8 Schritten zur Wunschfigur? — Typ: Member area and video courses, Anbieter: wildkitchen, gelistet seit 2021-01-31
-- Wie viel kostet es? — 552.722632 USD
+- Wie viel kostet es? — 553.710872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

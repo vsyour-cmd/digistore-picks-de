@@ -4,15 +4,15 @@ digistore24_product_id: 733311
 title: "Reinigungsfirma Starter-Kit Deutschland"
 vendor: "susannepirinis9e0f"
 product_type: "Downloads"
-price: 23.4
+price: 23.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.36
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/733311?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Reinigungsfirma Starter-Kit Deutschland
 
 > Product ID `59354` · Digistore24 productId `733311` · [HTML profile page](../../produkte/reinigungsfirma-starter-kit-deutschland-59354.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.40 (Single payment) |
+| Price | $23.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.36 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | susannepirinis9e0f |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reinigungsfirma Starter-Kit Deutschland? — Typ: Downloads, Anbieter: susannepirinis9e0f, gelistet seit 2026-09-18
-- Wie viel kostet es? — 23.401112 USD
+- Wie viel kostet es? — 23.442952000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

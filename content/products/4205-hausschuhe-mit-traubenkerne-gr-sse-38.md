@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Hausschuhe mit Traubenkerne Grösse: 38
 
 > Product ID `4205` · Digistore24 productId `15345` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-38-4205.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hausschuhe mit Traubenkerne Grösse: 38? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-09-06
-- Wie viel kostet es? — 3.74731 USD
+- Wie viel kostet es? — 3.75401 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

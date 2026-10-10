@@ -4,15 +4,15 @@ digistore24_product_id: 594738
 title: "200 DFY Reels with Hook and Caption(German-English)"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 32.41
+price: 32.46
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 22.69
+earnings_per_sale: 22.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/594738?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 200 DFY Reels with Hook and Caption(German-English)
 
 > Product ID `51272` · Digistore24 productId `594738` · [HTML profile page](../../produkte/200-dfy-reels-with-hook-and-caption-german-english-51272.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.41 (Single payment) |
+| Price | $32.46 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $22.69 |
+| Earnings/sale* | $22.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 200 DFY Reels with Hook and Caption(German-English)? — Typ: E-books, Anbieter: moneywithangie, gelistet seit 2025-02-06
-- Wie viel kostet es? — 32.405842 USD
+- Wie viel kostet es? — 32.463782 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

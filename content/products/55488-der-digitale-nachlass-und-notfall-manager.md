@@ -4,15 +4,15 @@ digistore24_product_id: 666255
 title: "Der digitale Nachlass und Notfall Manager"
 vendor: "Pinfinest"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.39
+earnings_per_sale: 20.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Finances"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666255?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der digitale Nachlass und Notfall Manager
 
 > Product ID `55488` · Digistore24 productId `666255` · [HTML profile page](../../produkte/der-digitale-nachlass-und-notfall-manager-55488.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.39 |
+| Earnings/sale* | $20.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pinfinest |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der digitale Nachlass und Notfall Manager? — Typ: E-books, Anbieter: Pinfinest, gelistet seit 2026-02-03
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

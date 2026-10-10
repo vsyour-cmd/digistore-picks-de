@@ -4,15 +4,15 @@ digistore24_product_id: 695576
 title: "12 Wochen Schreibmoment - E-Mail-Kurs"
 vendor: "Heike1704"
 product_type: "Remote service provided electronically"
-price: 64.86
+price: 64.97
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.94
+earnings_per_sale: 25.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695576?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 12 Wochen Schreibmoment - E-Mail-Kurs
 
 > Product ID `56713` · Digistore24 productId `695576` · [HTML profile page](../../produkte/12-wochen-schreibmoment-e-mail-kurs-56713.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $64.86 (Single payment, Installment) |
+| Price | $64.97 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.94 |
+| Earnings/sale* | $25.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Heike1704 |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 Wochen Schreibmoment - E-Mail-Kurs? — Typ: Remote service provided electronically, Anbieter: Heike1704, gelistet seit 2026-05-27
-- Wie viel kostet es? — 64.856428 USD
+- Wie viel kostet es? — 64.972388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 519840
 title: "Die Macht von ChatGPT - Perfekte Prompts für deinen Content"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 115.97
+price: 116.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.13
+earnings_per_sale: 44.21
 cart_conversion_pct: 12
 cancel_rate_pct: 3.53
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2023-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ki-ideenfabrik.com/start?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Macht von ChatGPT - Perfekte Prompts für deinen Content
 
 > Product ID `45581` · Digistore24 productId `519840` · [HTML profile page](../../produkte/die-macht-von-chatgpt-perfekte-prompts-f-r-deinen-content-45581.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $115.97 (Single payment) |
+| Price | $116.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.13 |
+| Earnings/sale* | $44.21 |
 | Cart conversion* | 12% |
 | Cancel rate* | 3.53% |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Macht von ChatGPT - Perfekte Prompts für deinen Content? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-10-08
-- Wie viel kostet es? — 115.96526200000001 USD
+- Wie viel kostet es? — 116.17260200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

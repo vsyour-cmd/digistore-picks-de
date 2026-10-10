@@ -4,15 +4,15 @@ digistore24_product_id: 619107
 title: "Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt"
 vendor: "SilviaGunsilius"
 product_type: "Downloads"
-price: 18.75
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.69
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hypnocoach-online.de/mentaltraining-shop/nie-mehr-sprechangst-vor-gruppen.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt
 
 > Product ID `55302` · Digistore24 productId `619107` · [HTML profile page](../../produkte/lampenfieber-ad-souver-n-auftreten-wenn-es-drauf-ankommt-55302.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.75 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.69 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SilviaGunsilius |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt? — Typ: Downloads, Anbieter: SilviaGunsilius, gelistet seit 2025-06-17
-- Wie viel kostet es? — 18.747736000000003 USD
+- Wie viel kostet es? — 18.781256000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

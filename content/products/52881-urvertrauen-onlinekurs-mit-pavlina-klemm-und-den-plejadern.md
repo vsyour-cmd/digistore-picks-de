@@ -4,15 +4,15 @@ digistore24_product_id: 610784
 title: "Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern"
 vendor: "ChannelingKongress"
 product_type: "Member area and video courses"
-price: 168.83
+price: 169.13
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 52.59
+earnings_per_sale: 52.68
 cart_conversion_pct: 12
 cancel_rate_pct: 1.07
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-05-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
 
 > Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../produkte/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.83 (Single payment, Installment) |
+| Price | $169.13 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $52.59 |
+| Earnings/sale* | $52.68 |
 | Cart conversion* | 12% |
 | Cancel rate* | 1.07% |
 | Vendor | ChannelingKongress |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern? — Typ: Member area and video courses, Anbieter: ChannelingKongress, gelistet seit 2025-05-04
-- Wie viel kostet es? — 168.83029800000003 USD
+- Wie viel kostet es? — 169.132158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

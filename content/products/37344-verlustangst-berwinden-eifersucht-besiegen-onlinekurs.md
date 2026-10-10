@@ -4,15 +4,15 @@ digistore24_product_id: 395441
 title: "Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 507.6
+price: 508.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 171.39
+earnings_per_sale: 171.7
 cart_conversion_pct: 4
 cancel_rate_pct: 7.55
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2021-06-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/verlustangst-ueberwinden?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)
 
 > Product ID `37344` · Digistore24 productId `395441` · [HTML profile page](../../produkte/verlustangst-berwinden-eifersucht-besiegen-onlinekurs-37344.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $507.60 (Single payment, Installment) |
+| Price | $508.51 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $171.39 |
+| Earnings/sale* | $171.70 |
 | Cart conversion* | 4% |
 | Cancel rate* | 7.55% |
 | Vendor | wielandstolzenburg |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-23
-- Wie viel kostet es? — 507.598308 USD
+- Wie viel kostet es? — 508.50586799999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

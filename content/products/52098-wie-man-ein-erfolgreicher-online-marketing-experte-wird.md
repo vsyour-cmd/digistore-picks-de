@@ -4,15 +4,15 @@ digistore24_product_id: 607645
 title: "Wie man ein erfolgreicher Online Marketing Experte wird"
 vendor: "Freifone"
 product_type: "E-books"
-price: 52.22
+price: 52.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.11
+earnings_per_sale: 26.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/online-marketing-experte?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wie man ein erfolgreicher Online Marketing Experte wird
 
 > Product ID `52098` · Digistore24 productId `607645` · [HTML profile page](../../produkte/wie-man-ein-erfolgreicher-online-marketing-experte-wird-52098.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.22 (Single payment) |
+| Price | $52.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.11 |
+| Earnings/sale* | $26.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie man ein erfolgreicher Online Marketing Experte wird? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-04-15
-- Wie viel kostet es? — 52.216248 USD
+- Wie viel kostet es? — 52.309608000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

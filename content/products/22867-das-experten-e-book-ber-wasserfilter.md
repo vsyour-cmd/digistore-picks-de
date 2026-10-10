@@ -4,15 +4,15 @@ digistore24_product_id: 202329
 title: "Das Experten E-Book über Wasserfilter!"
 vendor: "H2O-Beratungscenter"
 product_type: "Downloads"
-price: 27.95
+price: 28
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 12.58
+earnings_per_sale: 12.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-02-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://wasserfilter-doc.com/e-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Experten E-Book über Wasserfilter!
 
 > Product ID `22867` · Digistore24 productId `202329` · [HTML profile page](../../produkte/das-experten-e-book-ber-wasserfilter-22867.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.95 (Single payment) |
+| Price | $28.00 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $12.58 |
+| Earnings/sale* | $12.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | H2O-Beratungscenter |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Experten E-Book über Wasserfilter!? — Typ: Downloads, Anbieter: H2O-Beratungscenter, gelistet seit 2018-02-19
-- Wie viel kostet es? — 27.953813999999998 USD
+- Wie viel kostet es? — 28.003794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

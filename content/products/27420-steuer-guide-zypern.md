@@ -4,15 +4,15 @@ digistore24_product_id: 251596
 title: "Steuer Guide Zypern"
 vendor: "BSHoldingLTD"
 product_type: "Downloads"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.52
+earnings_per_sale: 11.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2018-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://bs-holding.limited/steuer-guide-zypern/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Steuer Guide Zypern
 
 > Product ID `27420` · Digistore24 productId `251596` · [HTML profile page](../../produkte/steuer-guide-zypern-27420.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.52 |
+| Earnings/sale* | $11.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BSHoldingLTD |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuer Guide Zypern? — Typ: Downloads, Anbieter: BSHoldingLTD, gelistet seit 2018-12-06
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

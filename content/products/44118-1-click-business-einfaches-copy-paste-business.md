@@ -4,15 +4,15 @@ digistore24_product_id: 482133
 title: "1 Click Business - Einfaches Copy-Paste Business"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 322.95
+price: 323.53
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 422.51
+earnings_per_sale: 423.26
 cart_conversion_pct: 4
 cancel_rate_pct: 1.35
 categories: ["Business & Investment"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/cbwaff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1 Click Business - Einfaches Copy-Paste Business
 
 > Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../produkte/1-click-business-einfaches-copy-paste-business-44118.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.95 (Single payment, Installment) |
+| Price | $323.53 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $422.51 |
+| Earnings/sale* | $423.26 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.35% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1 Click Business - Einfaches Copy-Paste Business? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 322.951006 USD
+- Wie viel kostet es? — 323.52842599999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

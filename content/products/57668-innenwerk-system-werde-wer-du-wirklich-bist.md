@@ -4,15 +4,15 @@ digistore24_product_id: 689739
 title: "InnenWerk-System – Werde, wer Du wirklich bist"
 vendor: "JuergenBraun-Mentoring"
 product_type: "Member area and video courses"
-price: 973.18
+price: 974.92
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 291.95
+earnings_per_sale: 292.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://innenwerk-system.systeme.io/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # InnenWerk-System – Werde, wer Du wirklich bist
 
 > Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../produkte/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $973.18 (Single payment, Installment) |
+| Price | $974.92 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $291.95 |
+| Earnings/sale* | $292.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuergenBraun-Mentoring |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist InnenWerk-System – Werde, wer Du wirklich bist? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-07-22
-- Wie viel kostet es? — 973.182 USD
+- Wie viel kostet es? — 974.922 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

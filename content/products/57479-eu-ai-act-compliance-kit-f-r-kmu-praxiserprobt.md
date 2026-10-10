@@ -4,15 +4,15 @@ digistore24_product_id: 679113
 title: "EU AI-Act Compliance Kit für KMU (Praxiserprobt)"
 vendor: "maila7bf"
 product_type: "Downloads"
-price: 1400.6
+price: 1403.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 420.18
+earnings_per_sale: 420.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679113?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # EU AI-Act Compliance Kit für KMU (Praxiserprobt)
 
 > Product ID `57479` · Digistore24 productId `679113` · [HTML profile page](../../produkte/eu-ai-act-compliance-kit-f-r-kmu-praxiserprobt-57479.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1400.60 (Single payment) |
+| Price | $1403.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $420.18 |
+| Earnings/sale* | $420.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maila7bf |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI-Act Compliance Kit für KMU (Praxiserprobt)? — Typ: Downloads, Anbieter: maila7bf, gelistet seit 2026-07-10
-- Wie viel kostet es? — 1400.59906 USD
+- Wie viel kostet es? — 1403.1032599999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

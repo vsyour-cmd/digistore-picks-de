@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/business-starten?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Business starten leicht gemacht - Verdiene an den Ad On's
 
 > Product ID `56232` · Digistore24 productId `684108` · [HTML profile page](../../produkte/business-starten-leicht-gemacht-verdiene-an-den-ad-on-s-56232.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 130059
 title: "Online-Video-Kurs \"Singen lernen - Das musst Du wissen\""
 vendor: "isidde"
 product_type: "Downloads"
-price: 103.4
+price: 103.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 51.7
+earnings_per_sale: 51.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2017-04-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Video-Kurs "Singen lernen - Das musst Du wissen"
 
 > Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../produkte/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $103.40 (Single payment, Installment) |
+| Price | $103.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $51.70 |
+| Earnings/sale* | $51.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs "Singen lernen - Das musst Du wissen"? — Typ: Downloads, Anbieter: isidde, gelistet seit 2017-04-01
-- Wie viel kostet es? — 103.403384 USD
+- Wie viel kostet es? — 103.588264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

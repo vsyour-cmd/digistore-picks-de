@@ -4,15 +4,15 @@ digistore24_product_id: 543394
 title: "DAS FREIGEIST KONGRESS PAKET"
 vendor: "KompassDerFreiheit"
 product_type: "Downloads"
-price: 375.06
+price: 375.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 187.53
+earnings_per_sale: 187.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2024-03-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://freigeistkongress.com/paket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DAS FREIGEIST KONGRESS PAKET
 
 > Product ID `47576` · Digistore24 productId `543394` · [HTML profile page](../../produkte/das-freigeist-kongress-paket-47576.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $375.06 (Single payment) |
+| Price | $375.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $187.53 |
+| Earnings/sale* | $187.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KompassDerFreiheit |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DAS FREIGEIST KONGRESS PAKET? — Typ: Downloads, Anbieter: KompassDerFreiheit, gelistet seit 2024-03-13
-- Wie viel kostet es? — 375.05539400000004 USD
+- Wie viel kostet es? — 375.72597400000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

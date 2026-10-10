@@ -4,15 +4,15 @@ digistore24_product_id: 234171
 title: "Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 286.25
+price: 286.76
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 56.95
+earnings_per_sale: 57.05
 cart_conversion_pct: 19
 cancel_rate_pct: 7.28
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-07-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/der-weg-zu-wahrer-selbst-erkenntnis/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess
 
 > Product ID `25783` · Digistore24 productId `234171` · [HTML profile page](../../produkte/das-phaenomen-leben-als-wahrer-selbst-erkenntnisprozess-25783.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $286.25 (Single payment) |
+| Price | $286.76 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $56.95 |
+| Earnings/sale* | $57.05 |
 | Cart conversion* | 19% |
 | Cancel rate* | 7.28% |
 | Vendor | RaGarve |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2018-07-23
-- Wie viel kostet es? — 286.24974000000003 USD
+- Wie viel kostet es? — 286.76154 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

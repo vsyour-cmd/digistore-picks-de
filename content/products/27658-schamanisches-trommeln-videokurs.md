@@ -4,15 +4,15 @@ digistore24_product_id: 255743
 title: "Schamanisches Trommeln Videokurs"
 vendor: "Schaman"
 product_type: "Downloads"
-price: 62.98
+price: 63.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.49
+earnings_per_sale: 31.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-01-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://superschaman.de/schamanisches-trommeln.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schamanisches Trommeln Videokurs
 
 > Product ID `27658` · Digistore24 productId `255743` · [HTML profile page](../../produkte/schamanisches-trommeln-videokurs-27658.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $62.98 (Single payment) |
+| Price | $63.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.49 |
+| Earnings/sale* | $31.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Schaman |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schamanisches Trommeln Videokurs? — Typ: Downloads, Anbieter: Schaman, gelistet seit 2019-01-10
-- Wie viel kostet es? — 62.97718 USD
+- Wie viel kostet es? — 63.08978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

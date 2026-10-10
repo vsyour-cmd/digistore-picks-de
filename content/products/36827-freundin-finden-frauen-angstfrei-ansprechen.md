@@ -4,15 +4,15 @@ digistore24_product_id: 392837
 title: "Freundin finden + Frauen angstfrei ansprechen"
 vendor: "herozon"
 product_type: "E-books"
-price: 256.81
+price: 257.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.28
+earnings_per_sale: 2.29
 cart_conversion_pct: 5
 cancel_rate_pct: 3.96
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-06-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://home.herozon.de/e-book-bundle-herozon?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Freundin finden + Frauen angstfrei ansprechen
 
 > Product ID `36827` · Digistore24 productId `392837` · [HTML profile page](../../produkte/freundin-finden-frauen-angstfrei-ansprechen-36827.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $256.81 (Single payment) |
+| Price | $257.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.28 |
+| Earnings/sale* | $2.29 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.96% |
 | Vendor | herozon |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freundin finden + Frauen angstfrei ansprechen? — Typ: E-books, Anbieter: herozon, gelistet seit 2021-06-03
-- Wie viel kostet es? — 256.80818800000003 USD
+- Wie viel kostet es? — 257.267348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

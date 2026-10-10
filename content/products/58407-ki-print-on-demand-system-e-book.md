@@ -4,15 +4,15 @@ digistore24_product_id: 709737
 title: "KI Print-on-Demand System E-Book"
 vendor: "gowxsese"
 product_type: "E-books"
-price: 103.49
+price: 103.68
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 62.09
+earnings_per_sale: 62.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/709737?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI Print-on-Demand System E-Book
 
 > Product ID `58407` · Digistore24 productId `709737` · [HTML profile page](../../produkte/ki-print-on-demand-system-e-book-58407.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.49 (Single payment) |
+| Price | $103.68 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $62.09 |
+| Earnings/sale* | $62.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Print-on-Demand System E-Book? — Typ: E-books, Anbieter: gowxsese, gelistet seit 2026-08-16
-- Wie viel kostet es? — 103.492872 USD
+- Wie viel kostet es? — 103.677912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

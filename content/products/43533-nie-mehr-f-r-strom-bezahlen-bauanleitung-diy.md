@@ -4,7 +4,7 @@ digistore24_product_id: 492908
 title: "Nie mehr für Strom bezahlen! - Bauanleitung DIY"
 vendor: "gehtanders"
 product_type: "E-books"
-price: 12.17
+price: 12.19
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 10.03
 categories: ["Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-04-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Nie mehr für Strom bezahlen! - Bauanleitung DIY
 
 > Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../produkte/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.17 (Single payment) |
+| Price | $12.19 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | 28% |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie mehr für Strom bezahlen! - Bauanleitung DIY? — Typ: E-books, Anbieter: gehtanders, gelistet seit 2023-04-06
-- Wie viel kostet es? — 12.170368000000002 USD
+- Wie viel kostet es? — 12.192128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

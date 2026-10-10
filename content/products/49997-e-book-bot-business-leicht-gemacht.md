@@ -12,7 +12,7 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2024-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/BOT-Business?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book - Bot-Business leicht gemacht
 
 > Product ID `49997` · Digistore24 productId `573978` · [HTML profile page](../../produkte/e-book-bot-business-leicht-gemacht-49997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book - Bot-Business leicht gemacht? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-10-07
-- Wie viel kostet es? — 2.449734 USD
+- Wie viel kostet es? — 2.454114 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

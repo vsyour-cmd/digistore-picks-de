@@ -4,15 +4,15 @@ digistore24_product_id: 411279
 title: "Onlinekurs \"Achtsamkeit und MBSR\""
 vendor: "growstudio"
 product_type: "Member area and video courses"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.35
+earnings_per_sale: 27.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2021-10-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs "Achtsamkeit und MBSR"
 
 > Product ID `47773` · Digistore24 productId `411279` · [HTML profile page](../../produkte/onlinekurs-achtsamkeit-und-mbsr-47773.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.35 |
+| Earnings/sale* | $27.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | growstudio |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Achtsamkeit und MBSR"? — Typ: Member area and video courses, Anbieter: growstudio, gelistet seit 2021-10-11
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

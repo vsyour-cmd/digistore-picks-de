@@ -4,7 +4,7 @@ digistore24_product_id: 599400
 title: "Ebook Sauerteig für Einsteiger - Traditionelles Wissen"
 vendor: "AusEigenerHand"
 product_type: "E-books"
-price: 11.49
+price: 11.51
 currency: "USD"
 affiliate_commission_pct: 8
 earnings_per_sale: 0.92
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Hobby & Craft"]
 listed_since: "2025-03-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/599400?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Ebook Sauerteig für Einsteiger - Traditionelles Wissen
 
 > Product ID `51581` · Digistore24 productId `599400` · [HTML profile page](../../produkte/ebook-sauerteig-f-r-einsteiger-traditionelles-wissen-51581.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.49 (Single payment) |
+| Price | $11.51 (Single payment) |
 | Affiliate commission | 8% |
 | Earnings/sale* | $0.92 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook Sauerteig für Einsteiger - Traditionelles Wissen? — Typ: E-books, Anbieter: AusEigenerHand, gelistet seit 2025-03-03
-- Wie viel kostet es? — 11.488021999999999 USD
+- Wie viel kostet es? — 11.508562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

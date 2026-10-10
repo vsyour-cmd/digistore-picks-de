@@ -4,15 +4,15 @@ digistore24_product_id: 515126
 title: "Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen"
 vendor: "FinestAudience"
 product_type: "Member area and video courses"
-price: 370.36
+price: 371.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 185.18
+earnings_per_sale: 185.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Travel & Culture","Online Marketing"]
 listed_since: "2023-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.priority-meilen.de/pmm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen
 
 > Product ID `45191` · Digistore24 productId `515126` · [HTML profile page](../../produkte/priority-meilen-masterclass-mit-meilen-punkte-fl-ge-zahlen-45191.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $370.36 (Single payment, Installment) |
+| Price | $371.02 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $185.18 |
+| Earnings/sale* | $185.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FinestAudience |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Priority Meilen MasterClass: Mit Meilen+Punkte Flüge zahlen? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2023-09-05
-- Wie viel kostet es? — 370.35727399999996 USD
+- Wie viel kostet es? — 371.019454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 174383
 title: "Bilder SEO 2018 (E-Book)"
 vendor: "Missfeldt"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.41
+earnings_per_sale: 9.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.tagseoblog.de/bilder-seo-ebook?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bilder SEO 2018 (E-Book)
 
 > Product ID `21921` · Digistore24 productId `174383` · [HTML profile page](../../produkte/bilder-seo-2018-e-book-21921.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Missfeldt |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bilder SEO 2018 (E-Book)? — Typ: E-books, Anbieter: Missfeldt, gelistet seit 2017-10-27
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

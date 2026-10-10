@@ -4,15 +4,15 @@ digistore24_product_id: 642742
 title: "Whitepaper Professionelle Erstellung plus Optimierung"
 vendor: "LidoConsultingAps"
 product_type: "Remote service provided electronically"
-price: 995.55
+price: 997.33
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 248.89
+earnings_per_sale: 249.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Marketing Services"]
 listed_since: "2025-10-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/642742?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Whitepaper Professionelle Erstellung plus Optimierung
 
 > Product ID `54477` · Digistore24 productId `642742` · [HTML profile page](../../produkte/whitepaper-professionelle-erstellung-plus-optimierung-54477.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $995.55 (Single payment) |
+| Price | $997.33 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $248.89 |
+| Earnings/sale* | $249.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LidoConsultingAps |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Whitepaper Professionelle Erstellung plus Optimierung? — Typ: Remote service provided electronically, Anbieter: LidoConsultingAps, gelistet seit 2025-10-21
-- Wie viel kostet es? — 995.5540000000001 USD
+- Wie viel kostet es? — 997.3340000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

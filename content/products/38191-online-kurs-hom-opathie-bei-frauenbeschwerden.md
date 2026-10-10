@@ -4,15 +4,15 @@ digistore24_product_id: 368016
 title: "Online-Kurs: Homöopathie bei Frauenbeschwerden"
 vendor: "thopuh"
 product_type: "Member area and video courses"
-price: 61.08
+price: 61.18
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 26.15
+earnings_per_sale: 26.2
 cart_conversion_pct: 13
 cancel_rate_pct: 1.59
 categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-frauenbeschwerden?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs: Homöopathie bei Frauenbeschwerden
 
 > Product ID `38191` · Digistore24 productId `368016` · [HTML profile page](../../produkte/online-kurs-hom-opathie-bei-frauenbeschwerden-38191.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $61.08 (Single payment) |
+| Price | $61.18 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $26.15 |
+| Earnings/sale* | $26.20 |
 | Cart conversion* | 13% |
 | Cancel rate* | 1.59% |
 | Vendor | thopuh |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: Homöopathie bei Frauenbeschwerden? — Typ: Member area and video courses, Anbieter: thopuh, gelistet seit 2021-01-15
-- Wie viel kostet es? — 61.07556 USD
+- Wie viel kostet es? — 61.184760000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

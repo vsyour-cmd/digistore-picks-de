@@ -4,15 +4,15 @@ digistore24_product_id: 638932
 title: "Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B"
 vendor: "DrImhofNaturLifeBalance"
 product_type: "Member area and video courses"
-price: 185.18
+price: 185.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.6
+earnings_per_sale: 92.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638932?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B
 
 > Product ID `55174` · Digistore24 productId `638932` · [HTML profile page](../../produkte/nat-rlich-in-balance-ganzheitliche-hilfe-bei-chronischen-b-55174.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.18 (Single payment) |
+| Price | $185.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.60 |
+| Earnings/sale* | $92.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrImhofNaturLifeBalance |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B? — Typ: Member area and video courses, Anbieter: DrImhofNaturLifeBalance, gelistet seit 2025-09-30
-- Wie viel kostet es? — 185.18423 USD
+- Wie viel kostet es? — 185.51533 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

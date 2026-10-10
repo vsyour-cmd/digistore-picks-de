@@ -4,15 +4,15 @@ digistore24_product_id: 614001
 title: "Individuelles Mentoring – 3 Monate intensiv"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 733.2
+price: 734.51
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 73.32
+earnings_per_sale: 73.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-05-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/individuelles-mentoring/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Individuelles Mentoring – 3 Monate intensiv
 
 > Product ID `56543` · Digistore24 productId `614001` · [HTML profile page](../../produkte/individuelles-mentoring-3-monate-intensiv-56543.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $733.20 (Single payment, Installment) |
+| Price | $734.51 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $73.32 |
+| Earnings/sale* | $73.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verwitwet-leben |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Individuelles Mentoring – 3 Monate intensiv? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-05-16
-- Wie viel kostet es? — 733.1975560000001 USD
+- Wie viel kostet es? — 734.5084760000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

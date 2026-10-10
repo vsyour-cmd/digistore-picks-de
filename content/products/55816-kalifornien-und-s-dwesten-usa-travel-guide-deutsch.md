@@ -4,7 +4,7 @@ digistore24_product_id: 658151
 title: "Kalifornien und Südwesten USA Travel Guide (Deutsch)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 22.56
+price: 22.6
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.26
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658151?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Kalifornien und Südwesten USA Travel Guide (Deutsch)
 
 > Product ID `55816` · Digistore24 productId `658151` · [HTML profile page](../../produkte/kalifornien-und-s-dwesten-usa-travel-guide-deutsch-55816.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.56 (Single payment) |
+| Price | $22.60 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.26 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kalifornien und Südwesten USA Travel Guide (Deutsch)? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-30
-- Wie viel kostet es? — 22.562162000000004 USD
+- Wie viel kostet es? — 22.602502 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 540894
 title: "KI SpeedCash"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 322.04
+price: 322.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 124.78
+earnings_per_sale: 125
 cart_conversion_pct: 10
 cancel_rate_pct: 0.92
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-02-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.kimate.de/moca2vkslp/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI SpeedCash
 
 > Product ID `47732` · Digistore24 productId `540894` · [HTML profile page](../../produkte/ki-speedcash-47732.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.04 (Single payment, Installment) |
+| Price | $322.62 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $124.78 |
+| Earnings/sale* | $125.00 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.92% |
 | Vendor | seotech |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI SpeedCash? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2024-02-26
-- Wie viel kostet es? — 322.04494 USD
+- Wie viel kostet es? — 322.62074 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 733805
 title: "Das digistore24 Erfolgsrezept"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 148.8
+price: 149.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.6
+earnings_per_sale: 94.77
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/733805?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das digistore24 Erfolgsrezept
 
 > Product ID `50217` · Digistore24 productId `733805` · [HTML profile page](../../produkte/das-digistore24-erfolgsrezept-50217.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $148.80 (Single payment) |
+| Price | $149.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.60 |
+| Earnings/sale* | $94.77 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das digistore24 Erfolgsrezept? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 148.796172 USD
+- Wie viel kostet es? — 149.06221200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

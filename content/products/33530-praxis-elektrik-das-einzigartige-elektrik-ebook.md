@@ -4,15 +4,15 @@ digistore24_product_id: 319140
 title: "Praxis Elektrik - das einzigartige Elektrik eBook"
 vendor: "elektricks"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.59
+earnings_per_sale: 13.62
 cart_conversion_pct: 25
 cancel_rate_pct: 6.15
 categories: ["Education"]
 listed_since: "2020-04-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://elektricks.com/praxis-elektrik-fachbuch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Praxis Elektrik - das einzigartige Elektrik eBook
 
 > Product ID `33530` · Digistore24 productId `319140` · [HTML profile page](../../produkte/praxis-elektrik-das-einzigartige-elektrik-ebook-33530.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.59 |
+| Earnings/sale* | $13.62 |
 | Cart conversion* | 25% |
 | Cancel rate* | 6.15% |
 | Vendor | elektricks |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxis Elektrik - das einzigartige Elektrik eBook? — Typ: E-books, Anbieter: elektricks, gelistet seit 2020-04-07
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 738823
 title: "Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 31.35
+price: 31.41
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.54
+earnings_per_sale: 12.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.mg-wissen.de/berufswahl/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu
 
 > Product ID `60036` · Digistore24 productId `738823` · [HTML profile page](../../produkte/berufswahl-im-zeitalter-von-ki-und-robotik-60-berufe-im-zu-60036.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.35 (Single payment) |
+| Price | $31.41 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.54 |
+| Earnings/sale* | $12.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-29
-- Wie viel kostet es? — 31.354358 USD
+- Wie viel kostet es? — 31.410418000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

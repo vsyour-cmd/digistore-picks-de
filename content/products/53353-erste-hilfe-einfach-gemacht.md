@@ -4,15 +4,15 @@ digistore24_product_id: 623457
 title: "Erste Hilfe einfach gemacht"
 vendor: "bestlifeproducts"
 product_type: "Member area and video courses"
-price: 18.78
+price: 18.81
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Profession & Job","Services"]
 listed_since: "2025-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/623457?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Erste Hilfe einfach gemacht
 
 > Product ID `53353` · Digistore24 productId `623457` · [HTML profile page](../../produkte/erste-hilfe-einfach-gemacht-53353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.78 (Single payment) |
+| Price | $18.81 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bestlifeproducts |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste Hilfe einfach gemacht? — Typ: Member area and video courses, Anbieter: bestlifeproducts, gelistet seit 2025-07-10
-- Wie viel kostet es? — 18.781294 USD
+- Wie viel kostet es? — 18.814874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

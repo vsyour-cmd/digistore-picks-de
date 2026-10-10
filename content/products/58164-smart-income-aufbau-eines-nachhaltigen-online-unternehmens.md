@@ -4,15 +4,15 @@ digistore24_product_id: 717957
 title: "SMART INCOME, Aufbau eines nachhaltigen online Unternehmens"
 vendor: "Simex20"
 product_type: "E-books"
-price: 15.67
+price: 15.7
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 9.36
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/717957?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SMART INCOME, Aufbau eines nachhaltigen online Unternehmens
 
 > Product ID `58164` · Digistore24 productId `717957` · [HTML profile page](../../produkte/smart-income-aufbau-eines-nachhaltigen-online-unternehmens-58164.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.67 (Single payment) |
+| Price | $15.70 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $9.36 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Simex20 |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SMART INCOME, Aufbau eines nachhaltigen online Unternehmens? — Typ: E-books, Anbieter: Simex20, gelistet seit 2026-08-05
-- Wie viel kostet es? — 15.671586 USD
+- Wie viel kostet es? — 15.699606000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

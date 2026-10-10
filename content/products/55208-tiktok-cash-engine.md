@@ -4,15 +4,15 @@ digistore24_product_id: 661764
 title: "TIKTOK CASH ENGINE"
 vendor: "IGCLOSE"
 product_type: "Downloads"
-price: 18.78
+price: 18.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Social Media"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/661764?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TIKTOK CASH ENGINE
 
 > Product ID `55208` · Digistore24 productId `661764` · [HTML profile page](../../produkte/tiktok-cash-engine-55208.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.78 (Single payment) |
+| Price | $18.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IGCLOSE |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TIKTOK CASH ENGINE? — Typ: Downloads, Anbieter: IGCLOSE, gelistet seit 2026-01-16
-- Wie viel kostet es? — 18.781294 USD
+- Wie viel kostet es? — 18.814874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

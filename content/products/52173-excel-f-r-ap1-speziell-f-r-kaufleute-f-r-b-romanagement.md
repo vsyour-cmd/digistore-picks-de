@@ -4,15 +4,15 @@ digistore24_product_id: 607751
 title: "Excel für AP1 – speziell für Kaufleute für Büromanagement"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 74.44
+price: 74.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.6
+earnings_per_sale: 41.68
 cart_conversion_pct: 13
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Excel für AP1 – speziell für Kaufleute für Büromanagement
 
 > Product ID `52173` · Digistore24 productId `607751` · [HTML profile page](../../produkte/excel-f-r-ap1-speziell-f-r-kaufleute-f-r-b-romanagement-52173.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.44 (Single payment) |
+| Price | $74.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.60 |
+| Earnings/sale* | $41.68 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0% |
 | Vendor | wileleg |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel für AP1 – speziell für Kaufleute für Büromanagement? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-16
-- Wie viel kostet es? — 74.44283 USD
+- Wie viel kostet es? — 74.57593 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

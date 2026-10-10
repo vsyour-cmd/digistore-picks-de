@@ -4,15 +4,15 @@ digistore24_product_id: 729864
 title: "Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 80.49
+price: 80.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.25
+earnings_per_sale: 40.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Leadership & Management","Personal Development"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729864?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo
 
 > Product ID `58925` · Digistore24 productId `729864` · [HTML profile page](../../produkte/das-komplette-10-1-bonus-bundle-10-premium-ratgeber-1-bo-58925.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $80.49 (Single payment) |
+| Price | $80.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.25 |
+| Earnings/sale* | $40.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-04
-- Wie viel kostet es? — 80.494456 USD
+- Wie viel kostet es? — 80.638376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 727511
 title: "10 in 1 Wissenspaket"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 49.14
+price: 49.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.58
+earnings_per_sale: 24.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727511?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 10 in 1 Wissenspaket
 
 > Product ID `59079` · Digistore24 productId `727511` · [HTML profile page](../../produkte/10-in-1-wissenspaket-59079.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.14 (Single payment) |
+| Price | $49.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.58 |
+| Earnings/sale* | $24.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 in 1 Wissenspaket? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-09
-- Wie viel kostet es? — 49.140098 USD
+- Wie viel kostet es? — 49.227958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

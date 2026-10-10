@@ -4,15 +4,15 @@ digistore24_product_id: 651085
 title: "Schlank mit Verstand für Frauen ab 40"
 vendor: "SabineGnech"
 product_type: "Downloads"
-price: 279.18
+price: 279.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.84
+earnings_per_sale: 55.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/651085?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Schlank mit Verstand für Frauen ab 40
 
 > Product ID `54868` · Digistore24 productId `651085` · [HTML profile page](../../produkte/schlank-mit-verstand-f-r-frauen-ab-40-54868.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.18 (Single payment) |
+| Price | $279.68 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.84 |
+| Earnings/sale* | $55.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineGnech |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlank mit Verstand für Frauen ab 40? — Typ: Downloads, Anbieter: SabineGnech, gelistet seit 2025-11-26
-- Wie viel kostet es? — 279.18018800000004 USD
+- Wie viel kostet es? — 279.679348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

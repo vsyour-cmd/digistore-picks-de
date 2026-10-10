@@ -4,15 +4,15 @@ digistore24_product_id: 167361
 title: "Online Kurs - Entspannt fliegen bei Turbulenzen"
 vendor: "cockpitbuddy"
 product_type: "Member area and video courses"
-price: 44.18
+price: 44.26
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.84
+earnings_per_sale: 8.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-10-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.cockpitbuddy.com/turbulenzen?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Kurs - Entspannt fliegen bei Turbulenzen
 
 > Product ID `19537` · Digistore24 productId `167361` · [HTML profile page](../../produkte/online-kurs-entspannt-fliegen-bei-turbulenzen-19537.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.18 (Single payment) |
+| Price | $44.26 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.84 |
+| Earnings/sale* | $8.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cockpitbuddy |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs - Entspannt fliegen bei Turbulenzen? — Typ: Member area and video courses, Anbieter: cockpitbuddy, gelistet seit 2017-10-03
-- Wie viel kostet es? — 44.1847 USD
+- Wie viel kostet es? — 44.2637 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

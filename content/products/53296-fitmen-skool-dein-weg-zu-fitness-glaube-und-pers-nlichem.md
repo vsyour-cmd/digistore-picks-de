@@ -4,15 +4,15 @@ digistore24_product_id: 621114
 title: "FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem"
 vendor: "Ioakim"
 product_type: "Member area and video courses"
-price: 169.19
+price: 169.49
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.68
+earnings_per_sale: 67.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/621114?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem
 
 > Product ID `53296` · Digistore24 productId `621114` · [HTML profile page](../../produkte/fitmen-skool-dein-weg-zu-fitness-glaube-und-pers-nlichem-53296.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.19 (Subscription) |
+| Price | $169.49 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.68 |
+| Earnings/sale* | $67.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ioakim |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem? — Typ: Member area and video courses, Anbieter: Ioakim, gelistet seit 2025-06-27
-- Wie viel kostet es? — 169.18825 USD
+- Wie viel kostet es? — 169.49075000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 713116
 title: "Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso"
 vendor: "DeinKiService"
 product_type: "Downloads"
-price: 8.46
+price: 8.47
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.38
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713116?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso
 
 > Product ID `57644` · Digistore24 productId `713116` · [HTML profile page](../../produkte/digitaler-notfall-kompass-das-must-have-f-r-digitale-vorso-57644.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.46 (Single payment) |
+| Price | $8.47 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.38 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso? — Typ: Downloads, Anbieter: DeinKiService, gelistet seit 2026-07-21
-- Wie viel kostet es? — 8.456616 USD
+- Wie viel kostet es? — 8.471736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

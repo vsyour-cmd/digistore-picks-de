@@ -4,15 +4,15 @@ digistore24_product_id: 743202
 title: "OLVIX Digital Business Bundle – Digital + Marketing"
 vendor: "olvixdigok8f53"
 product_type: "Member area and video courses"
-price: 130.66
+price: 130.9
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 52.26
+earnings_per_sale: 52.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/743202?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # OLVIX Digital Business Bundle – Digital + Marketing
 
 > Product ID `60393` · Digistore24 productId `743202` · [HTML profile page](../../produkte/olvix-digital-business-bundle-digital-marketing-60393.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $130.66 (Single payment) |
+| Price | $130.90 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $52.26 |
+| Earnings/sale* | $52.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | olvixdigok8f53 |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OLVIX Digital Business Bundle – Digital + Marketing? — Typ: Member area and video courses, Anbieter: olvixdigok8f53, gelistet seit 2026-10-07
-- Wie viel kostet es? — 130.663666 USD
+- Wie viel kostet es? — 130.897286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 310527
 title: "ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.67
+earnings_per_sale: 3.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-02-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://katja-amberg-shop.de/entscheidungshilfe?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose
 
 > Product ID `40076` · Digistore24 productId `310527` · [HTML profile page](../../produkte/entscheidungshilfe-finde-deinen-richtigen-weg-hypnose-40076.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.67 |
+| Earnings/sale* | $3.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-29
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

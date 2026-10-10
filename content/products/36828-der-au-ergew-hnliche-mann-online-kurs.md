@@ -4,15 +4,15 @@ digistore24_product_id: 384521
 title: "Der außergewöhnliche Mann - Online-Kurs"
 vendor: "herozon"
 product_type: "Member area and video courses"
-price: 392.92
+price: 393.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 196.46
+earnings_per_sale: 196.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-04-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://home.herozon.de/der-aussergewoehnliche-mann?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der außergewöhnliche Mann - Online-Kurs
 
 > Product ID `36828` · Digistore24 productId `384521` · [HTML profile page](../../produkte/der-au-ergew-hnliche-mann-online-kurs-36828.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $392.92 (Single payment, Installment) |
+| Price | $393.62 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $196.46 |
+| Earnings/sale* | $196.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herozon |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der außergewöhnliche Mann - Online-Kurs? — Typ: Member area and video courses, Anbieter: herozon, gelistet seit 2021-04-14
-- Wie viel kostet es? — 392.919436 USD
+- Wie viel kostet es? — 393.621956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 527524
 title: "Geführte Chakren Meditation für spirituelle Menschen"
 vendor: "gesundergeist"
 product_type: "Downloads"
-price: 11.28
+price: 11.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://michaelrepkowsky.grweb.site/chakren-meditation?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Geführte Chakren Meditation für spirituelle Menschen
 
 > Product ID `57471` · Digistore24 productId `527524` · [HTML profile page](../../produkte/gef-hrte-chakren-meditation-f-r-spirituelle-menschen-57471.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.28 (Single payment) |
+| Price | $11.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geführte Chakren Meditation für spirituelle Menschen? — Typ: Downloads, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 11.275488000000001 USD
+- Wie viel kostet es? — 11.295648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

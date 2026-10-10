@@ -4,15 +4,15 @@ digistore24_product_id: 214963
 title: "E-Book \"Die zehn Ziele der Mensch-Pferd-Beziehung\""
 vendor: "Linnon"
 product_type: "E-books"
-price: 8.88
+price: 8.9
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 0.88
+earnings_per_sale: 0.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2018-04-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/e-book-10-ziele/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"
 
 > Product ID `38922` · Digistore24 productId `214963` · [HTML profile page](../../produkte/e-book-die-zehn-ziele-der-mensch-pferd-beziehung-38922.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.88 (Single payment) |
+| Price | $8.90 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $0.88 |
+| Earnings/sale* | $0.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Linnon |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"? — Typ: E-books, Anbieter: Linnon, gelistet seit 2018-04-13
-- Wie viel kostet es? — 8.881684 USD
+- Wie viel kostet es? — 8.897564000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

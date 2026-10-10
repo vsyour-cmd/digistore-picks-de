@@ -4,15 +4,15 @@ digistore24_product_id: 723087
 title: "Vergesellschaftung von Hund und Katze"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 53.58
+price: 53.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.72
+earnings_per_sale: 10.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Family & Children"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://acatemy.at/vergesellschaftung-zusammenfuehrung-hund-katzen-katzentraining?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Vergesellschaftung von Hund und Katze
 
 > Product ID `58791` · Digistore24 productId `723087` · [HTML profile page](../../produkte/vergesellschaftung-von-hund-und-katze-58791.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $53.58 (Single payment, Installment) |
+| Price | $53.68 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.72 |
+| Earnings/sale* | $10.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vergesellschaftung von Hund und Katze? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31
-- Wie viel kostet es? — 53.58094 USD
+- Wie viel kostet es? — 53.67674 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

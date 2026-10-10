@@ -4,15 +4,15 @@ digistore24_product_id: 416536
 title: "7Onliners - Die Affiliate Cash Maschine"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 398.22
+price: 398.93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 119.47
+earnings_per_sale: 119.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-11-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://7onliners.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 7Onliners - Die Affiliate Cash Maschine
 
 > Product ID `38375` · Digistore24 productId `416536` · [HTML profile page](../../produkte/7onliners-die-affiliate-cash-maschine-38375.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $398.22 (Single payment, Installment) |
+| Price | $398.93 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $119.47 |
+| Earnings/sale* | $119.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7Onliners - Die Affiliate Cash Maschine? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2021-11-17
-- Wie viel kostet es? — 398.2216 USD
+- Wie viel kostet es? — 398.9336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

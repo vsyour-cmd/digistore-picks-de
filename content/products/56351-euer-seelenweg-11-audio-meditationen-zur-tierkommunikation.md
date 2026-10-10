@@ -4,15 +4,15 @@ digistore24_product_id: 686408
 title: "Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation"
 vendor: "Pia-Seelenwege"
 product_type: "Downloads"
-price: 56.4
+price: 56.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.2
+earnings_per_sale: 28.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Animals & Pets"]
 listed_since: "2026-04-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/686408?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation
 
 > Product ID `56351` · Digistore24 productId `686408` · [HTML profile page](../../produkte/euer-seelenweg-11-audio-meditationen-zur-tierkommunikation-56351.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.40 (Single payment, Installment) |
+| Price | $56.50 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.20 |
+| Earnings/sale* | $28.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pia-Seelenwege |
@@ -98,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation? — Typ: Downloads, Anbieter: Pia-Seelenwege, gelistet seit 2026-04-22
-- Wie viel kostet es? — 56.399812000000004 USD
+- Wie viel kostet es? — 56.500652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

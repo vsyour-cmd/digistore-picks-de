@@ -4,15 +4,15 @@ digistore24_product_id: 489975
 title: "Sketchnotes Figuren Meisterkurs (Online)"
 vendor: "cartoonsbyroth"
 product_type: "Member area and video courses"
-price: 503.37
+price: 504.27
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 125.84
+earnings_per_sale: 126.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2023-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cartoonsbyroth.com/online-zeichenkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Sketchnotes Figuren Meisterkurs (Online)
 
 > Product ID `42770` · Digistore24 productId `489975` · [HTML profile page](../../produkte/sketchnotes-figuren-meisterkurs-online-42770.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $503.37 (Single payment, Installment) |
+| Price | $504.27 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $125.84 |
+| Earnings/sale* | $126.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cartoonsbyroth |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sketchnotes Figuren Meisterkurs (Online)? — Typ: Member area and video courses, Anbieter: cartoonsbyroth, gelistet seit 2023-03-20
-- Wie viel kostet es? — 503.37 USD
+- Wie viel kostet es? — 504.27000000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

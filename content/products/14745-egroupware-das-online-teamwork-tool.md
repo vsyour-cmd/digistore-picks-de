@@ -4,15 +4,15 @@ digistore24_product_id: 164599
 title: "EGroupware - Das Online Teamwork Tool"
 vendor: "egroupware"
 product_type: "Downloads"
-price: 278.53
+price: 279.03
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.71
+earnings_per_sale: 55.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-09-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.egroupware.org/de/preise?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # EGroupware - Das Online Teamwork Tool
 
 > Product ID `14745` · Digistore24 productId `164599` · [HTML profile page](../../produkte/egroupware-das-online-teamwork-tool-14745.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $278.53 (Subscription) |
+| Price | $279.03 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.71 |
+| Earnings/sale* | $55.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | egroupware |
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EGroupware - Das Online Teamwork Tool? — Typ: Downloads, Anbieter: egroupware, gelistet seit 2017-09-20
-- Wie viel kostet es? — 278.5314 USD
+- Wie viel kostet es? — 279.0294 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

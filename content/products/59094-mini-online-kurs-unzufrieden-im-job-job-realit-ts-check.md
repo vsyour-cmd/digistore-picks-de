@@ -4,15 +4,15 @@ digistore24_product_id: 651802
 title: "Mini Online Kurs \"Unzufrieden im Job\"- Job-Realitäts-Check"
 vendor: "HeartfulMindset"
 product_type: "Member area and video courses"
-price: 47
+price: 47.09
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.7
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Personal Development"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.heartful-mindset.de/jobrealitaetscheck-live?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check
 
 > Product ID `59094` · Digistore24 productId `651802` · [HTML profile page](../../produkte/mini-online-kurs-unzufrieden-im-job-job-realit-ts-check-59094.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.00 (Single payment, Installment) |
+| Price | $47.09 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeartfulMindset |
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check? — Typ: Member area and video courses, Anbieter: HeartfulMindset, gelistet seit 2026-09-10
-- Wie viel kostet es? — 47.003572000000005 USD
+- Wie viel kostet es? — 47.08761200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

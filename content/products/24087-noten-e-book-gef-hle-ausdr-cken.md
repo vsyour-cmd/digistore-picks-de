@@ -4,15 +4,15 @@ digistore24_product_id: 193571
 title: "Noten-E-Book Gefühle ausdrücken"
 vendor: "musikbegeisterung"
 product_type: "Downloads"
-price: 15.88
+price: 15.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.94
+earnings_per_sale: 7.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2018-01-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://musikbegeisterung.de/notenbuch-gefuehle/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Noten-E-Book Gefühle ausdrücken
 
 > Product ID `24087` · Digistore24 productId `193571` · [HTML profile page](../../produkte/noten-e-book-gef-hle-ausdr-cken-24087.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.88 (Single payment) |
+| Price | $15.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.94 |
+| Earnings/sale* | $7.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | musikbegeisterung |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Noten-E-Book Gefühle ausdrücken? — Typ: Downloads, Anbieter: musikbegeisterung, gelistet seit 2018-01-13
-- Wie viel kostet es? — 15.88412 USD
+- Wie viel kostet es? — 15.91252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

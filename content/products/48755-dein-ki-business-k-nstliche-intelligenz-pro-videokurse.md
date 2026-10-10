@@ -4,15 +4,15 @@ digistore24_product_id: 556468
 title: "\"Dein KI-Business\" - Künstliche Intelligenz PRO - Videokurse"
 vendor: "O112358"
 product_type: "Member area and video courses"
-price: 374.12
+price: 374.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 187.06
+earnings_per_sale: 187.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2024-06-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kuenstliche-intelligenz.pro?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # "Dein KI-Business" - Künstliche Intelligenz PRO - Videokurse
 
 > Product ID `48755` · Digistore24 productId `556468` · [HTML profile page](../../produkte/dein-ki-business-k-nstliche-intelligenz-pro-videokurse-48755.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $374.12 (Single payment) |
+| Price | $374.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $187.06 |
+| Earnings/sale* | $187.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | O112358 |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Dein KI-Business" - Künstliche Intelligenz PRO - Videokurse? — Typ: Member area and video courses, Anbieter: O112358, gelistet seit 2024-06-11
-- Wie viel kostet es? — 374.11577 USD
+- Wie viel kostet es? — 374.78467 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 728372
 title: "Content System – Network Edition"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 121.26
+price: 121.47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 48.5
+earnings_per_sale: 48.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/content-system-network-edition?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Content System – Network Edition
 
 > Product ID `58873` · Digistore24 productId `728372` · [HTML profile page](../../produkte/content-system-network-edition-58873.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.26 (Single payment) |
+| Price | $121.47 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $48.50 |
+| Earnings/sale* | $48.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content System – Network Edition? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 121.25624 USD
+- Wie viel kostet es? — 121.47304000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

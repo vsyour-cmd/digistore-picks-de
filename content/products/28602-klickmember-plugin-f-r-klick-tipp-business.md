@@ -4,15 +4,15 @@ digistore24_product_id: 179949
 title: "KlickMember Plugin für Klick-Tipp (Business)"
 vendor: "intellicon"
 product_type: "Downloads"
-price: 205.86
+price: 206.22
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 61.76
+earnings_per_sale: 61.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-11-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.klicksuite.de/bestellung/?product=179949&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KlickMember Plugin für Klick-Tipp (Business)
 
 > Product ID `28602` · Digistore24 productId `179949` · [HTML profile page](../../produkte/klickmember-plugin-f-r-klick-tipp-business-28602.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $205.86 (Subscription) |
+| Price | $206.22 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $61.76 |
+| Earnings/sale* | $61.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | intellicon |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KlickMember Plugin für Klick-Tipp (Business)? — Typ: Downloads, Anbieter: intellicon, gelistet seit 2017-11-15
-- Wie viel kostet es? — 205.85595800000002 USD
+- Wie viel kostet es? — 206.224018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 735885
 title: "Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.76
+earnings_per_sale: 18.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Health & Fitness"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/ruhige-naechte/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision
 
 > Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../produkte/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.51 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.76 |
+| Earnings/sale* | $18.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-22
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 301508
 title: "Das vegane Starterpaket (E-Book)"
 vendor: "Melanie341"
 product_type: "E-books"
-price: 16.77
+price: 16.8
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das vegane Starterpaket (E-Book)
 
 > Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../produkte/das-vegane-starterpaket-e-book-31629.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.77 (Single payment) |
+| Price | $16.80 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Melanie341 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das vegane Starterpaket (E-Book)? — Typ: E-books, Anbieter: Melanie341, gelistet seit 2019-12-30
-- Wie viel kostet es? — 16.767814 USD
+- Wie viel kostet es? — 16.797794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

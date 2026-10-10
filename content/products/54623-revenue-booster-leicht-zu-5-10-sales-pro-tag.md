@@ -4,15 +4,15 @@ digistore24_product_id: 603392
 title: "Revenue Booster - leicht zu 5-10 Sales pro Tag"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 352.36
+price: 352.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 176.18
+earnings_per_sale: 176.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ralfwenda.education/revenue-booster/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Revenue Booster - leicht zu 5-10 Sales pro Tag
 
 > Product ID `54623` · Digistore24 productId `603392` · [HTML profile page](../../produkte/revenue-booster-leicht-zu-5-10-sales-pro-tag-54623.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $352.36 (Single payment, Installment) |
+| Price | $352.99 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $176.18 |
+| Earnings/sale* | $176.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Revenue Booster - leicht zu 5-10 Sales pro Tag? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2025-03-24
-- Wie viel kostet es? — 352.35900000000004 USD
+- Wie viel kostet es? — 352.98900000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

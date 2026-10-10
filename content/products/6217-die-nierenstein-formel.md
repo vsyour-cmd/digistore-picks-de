@@ -4,15 +4,15 @@ digistore24_product_id: 41759
 title: "Die Nierenstein-Formel"
 vendor: "mike_r"
 product_type: "E-books"
-price: 23.94
+price: 23.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.97
+earnings_per_sale: 11.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-01-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://die-nierenstein-formel.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die Nierenstein-Formel
 
 > Product ID `6217` · Digistore24 productId `41759` · [HTML profile page](../../produkte/die-nierenstein-formel-6217.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.94 (Single payment) |
+| Price | $23.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.97 |
+| Earnings/sale* | $11.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mike_r |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Nierenstein-Formel? — Typ: E-books, Anbieter: mike_r, gelistet seit 2015-01-29
-- Wie viel kostet es? — 23.93804 USD
+- Wie viel kostet es? — 23.98084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

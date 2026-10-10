@@ -4,15 +4,15 @@ digistore24_product_id: 501781
 title: "Powerchord-Workshop (60 min)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 73.25
+price: 73.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.47
+earnings_per_sale: 13.49
 cart_conversion_pct: 17
 cancel_rate_pct: 2.58
 categories: ["Dancing & Music"]
 listed_since: "2023-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Powerchord-Workshop (60 min)
 
 > Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../produkte/powerchord-workshop-60-min-44228.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.25 (Single payment) |
+| Price | $73.38 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.47 |
+| Earnings/sale* | $13.49 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.58% |
 | Vendor | musiklehrer |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Powerchord-Workshop (60 min)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2023-06-05
-- Wie viel kostet es? — 73.245928 USD
+- Wie viel kostet es? — 73.37688800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

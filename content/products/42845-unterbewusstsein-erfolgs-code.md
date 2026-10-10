@@ -4,15 +4,15 @@ digistore24_product_id: 481475
 title: "Unterbewusstsein-Erfolgs-Code"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 29.39
+price: 29.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.86
+earnings_per_sale: 11.88
 cart_conversion_pct: 19
 cancel_rate_pct: 6.03
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-01-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/unterbewusstsein-erfolgs-code-online-seminar-vc/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Unterbewusstsein-Erfolgs-Code
 
 > Product ID `42845` · Digistore24 productId `481475` · [HTML profile page](../../produkte/unterbewusstsein-erfolgs-code-42845.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $29.39 (Single payment, Installment) |
+| Price | $29.44 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.86 |
+| Earnings/sale* | $11.88 |
 | Cart conversion* | 19% |
 | Cancel rate* | 6.03% |
 | Vendor | Erfolg-Intuitiv |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unterbewusstsein-Erfolgs-Code? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2023-01-27
-- Wie viel kostet es? — 29.385622 USD
+- Wie viel kostet es? — 29.438162000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

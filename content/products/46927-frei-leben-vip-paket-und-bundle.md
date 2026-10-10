@@ -4,15 +4,15 @@ digistore24_product_id: 499482
 title: "Frei Leben VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 121.93
+price: 122.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.96
+earnings_per_sale: 61.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-05-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/499482?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frei Leben VIP Paket und Bundle
 
 > Product ID `46927` · Digistore24 productId `499482` · [HTML profile page](../../produkte/frei-leben-vip-paket-und-bundle-46927.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.93 (Single payment, Installment) |
+| Price | $122.15 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.96 |
+| Earnings/sale* | $61.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei Leben VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-05-18
-- Wie viel kostet es? — 121.9274 USD
+- Wie viel kostet es? — 122.14540000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

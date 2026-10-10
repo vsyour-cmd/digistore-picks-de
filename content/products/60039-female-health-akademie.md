@@ -4,15 +4,15 @@ digistore24_product_id: 632057
 title: "Female Health Akademie"
 vendor: "JohannaKlatt"
 product_type: "Member area and video courses"
-price: 745.42
+price: 746.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 223.63
+earnings_per_sale: 224.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hcjohannaklatt.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Female Health Akademie
 
 > Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../produkte/female-health-akademie-60039.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $745.42 (Single payment, Installment) |
+| Price | $746.76 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $223.63 |
+| Earnings/sale* | $224.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JohannaKlatt |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Female Health Akademie? — Typ: Member area and video courses, Anbieter: JohannaKlatt, gelistet seit 2026-09-29
-- Wie viel kostet es? — 745.423854 USD
+- Wie viel kostet es? — 746.756634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

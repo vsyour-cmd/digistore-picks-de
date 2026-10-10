@@ -4,15 +4,15 @@ digistore24_product_id: 692340
 title: "Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.54
+price: 12.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.28
+earnings_per_sale: 6.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-05-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692340?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie
 
 > Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../produkte/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.54 (Single payment) |
+| Price | $12.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.28 |
+| Earnings/sale* | $6.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-13
-- Wie viel kostet es? — 12.539506000000001 USD
+- Wie viel kostet es? — 12.561926000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

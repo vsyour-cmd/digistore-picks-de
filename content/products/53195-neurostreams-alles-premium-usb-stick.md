@@ -4,15 +4,15 @@ digistore24_product_id: 264931
 title: "Neurostreams™ ALLES ( Premium USB-Stick)"
 vendor: "newdimension"
 product_type: "Deliverable"
-price: 318.66
+price: 319.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 159.33
+earnings_per_sale: 159.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2019-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/neurostreams-alles?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ ALLES ( Premium USB-Stick)
 
 > Product ID `53195` · Digistore24 productId `264931` · [HTML profile page](../../produkte/neurostreams-alles-premium-usb-stick-53195.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $318.66 (Single payment, Installment) |
+| Price | $319.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $159.33 |
+| Earnings/sale* | $159.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ ALLES ( Premium USB-Stick)? — Typ: Deliverable, Anbieter: newdimension, gelistet seit 2019-03-21
-- Wie viel kostet es? — 318.65558200000004 USD
+- Wie viel kostet es? — 319.225322 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

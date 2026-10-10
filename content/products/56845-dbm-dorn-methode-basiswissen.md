@@ -4,15 +4,15 @@ digistore24_product_id: 699384
 title: "DBM - Dorn-Methode Basiswissen"
 vendor: "dornbreuss"
 product_type: "Member area and video courses"
-price: 133.38
+price: 133.62
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 93.37
+earnings_per_sale: 93.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Marketing Services"]
 listed_since: "2026-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-methode-basiswissen-ep?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # DBM - Dorn-Methode Basiswissen
 
 > Product ID `56845` · Digistore24 productId `699384` · [HTML profile page](../../produkte/dbm-dorn-methode-basiswissen-56845.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $133.38 (Single payment) |
+| Price | $133.62 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $93.37 |
+| Earnings/sale* | $93.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dornbreuss |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DBM - Dorn-Methode Basiswissen? — Typ: Member area and video courses, Anbieter: dornbreuss, gelistet seit 2026-06-09
-- Wie viel kostet es? — 133.381864 USD
+- Wie viel kostet es? — 133.620344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 666396
 title: "1. Immobilienquadrant - In 3 Monaten zur ersten Immobilie"
 vendor: "Christian_Bleser"
 product_type: "Member area and video courses"
-price: 467.18
+price: 468.02
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 46.72
+earnings_per_sale: 46.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Real Estate"]
 listed_since: "2026-02-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666396?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 1. Immobilienquadrant - In 3 Monaten zur ersten Immobilie
 
 > Product ID `55445` · Digistore24 productId `666396` · [HTML profile page](../../produkte/1-immobilienquadrant-in-3-monaten-zur-ersten-immobilie-55445.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $467.18 (Single payment) |
+| Price | $468.02 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $46.72 |
+| Earnings/sale* | $46.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Christian_Bleser |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1. Immobilienquadrant - In 3 Monaten zur ersten Immobilie? — Typ: Member area and video courses, Anbieter: Christian_Bleser, gelistet seit 2026-02-04
-- Wie viel kostet es? — 467.18329 USD
+- Wie viel kostet es? — 468.01859 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

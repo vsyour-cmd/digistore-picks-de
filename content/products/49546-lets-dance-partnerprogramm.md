@@ -4,15 +4,15 @@ digistore24_product_id: 516694
 title: "Lets-Dance - Partnerprogramm"
 vendor: "Laphosio"
 product_type: "Member area and video courses"
-price: 31.2
+price: 31.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.56
+earnings_per_sale: 11.58
 cart_conversion_pct: 53
 cancel_rate_pct: 0.25
 categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
 listed_since: "2023-09-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/516694/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lets-Dance - Partnerprogramm
 
 > Product ID `49546` · Digistore24 productId `516694` · [HTML profile page](../../produkte/lets-dance-partnerprogramm-49546.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $31.20 (Subscription) |
+| Price | $31.25 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.56 |
+| Earnings/sale* | $11.58 |
 | Cart conversion* | 53% |
 | Cancel rate* | 0.25% |
 | Vendor | Laphosio |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lets-Dance - Partnerprogramm? — Typ: Member area and video courses, Anbieter: Laphosio, gelistet seit 2023-09-17
-- Wie viel kostet es? — 31.197754000000003 USD
+- Wie viel kostet es? — 31.253534000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

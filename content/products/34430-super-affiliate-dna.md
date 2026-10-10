@@ -4,15 +4,15 @@ digistore24_product_id: 330258
 title: "Super-Affiliate DNA"
 vendor: "startuprakete"
 product_type: "Audio book (download)"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.69
+earnings_per_sale: 20.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://startuprakete.de/super-affiliate-dna/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Super-Affiliate DNA
 
 > Product ID `34430` · Digistore24 productId `330258` · [HTML profile page](../../produkte/super-affiliate-dna-34430.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.69 |
+| Earnings/sale* | $20.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | startuprakete |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Super-Affiliate DNA? — Typ: Audio book (download), Anbieter: startuprakete, gelistet seit 2020-06-05
-- Wie viel kostet es? — 41.388200000000005 USD
+- Wie viel kostet es? — 41.4622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

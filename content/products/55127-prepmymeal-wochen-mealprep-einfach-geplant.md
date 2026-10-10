@@ -4,15 +4,15 @@ digistore24_product_id: 659489
 title: "PrepMyMeal – Wochen-Mealprep einfach geplant"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 7.05
+price: 7.06
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 0.7
+earnings_per_sale: 0.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/659489?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PrepMyMeal – Wochen-Mealprep einfach geplant
 
 > Product ID `55127` · Digistore24 productId `659489` · [HTML profile page](../../produkte/prepmymeal-wochen-mealprep-einfach-geplant-55127.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.05 (Single payment) |
+| Price | $7.06 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $0.70 |
+| Earnings/sale* | $0.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sparwerk96 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PrepMyMeal – Wochen-Mealprep einfach geplant? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2026-01-07
-- Wie viel kostet es? — 7.04718 USD
+- Wie viel kostet es? — 7.05978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

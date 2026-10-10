@@ -4,15 +4,15 @@ digistore24_product_id: 556810
 title: "Remote Academy"
 vendor: "SocialUpMedia"
 product_type: "Member area and video courses"
-price: 28.2
+price: 28.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Marketing Services"]
 listed_since: "2024-06-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556810?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Remote Academy
 
 > Product ID `53307` · Digistore24 productId `556810` · [HTML profile page](../../produkte/remote-academy-53307.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.20 (Subscription) |
+| Price | $28.25 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SocialUpMedia |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Remote Academy? — Typ: Member area and video courses, Anbieter: SocialUpMedia, gelistet seit 2024-06-14
-- Wie viel kostet es? — 28.199906000000002 USD
+- Wie viel kostet es? — 28.250326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

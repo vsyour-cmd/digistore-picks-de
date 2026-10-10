@@ -4,15 +4,15 @@ digistore24_product_id: 736580
 title: "Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 469.06
+price: 469.9
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 187.62
+earnings_per_sale: 187.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/online-business-starten/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision
 
 > Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../produkte/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $469.06 (Single payment) |
+| Price | $469.90 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $187.62 |
+| Earnings/sale* | $187.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 469.062538 USD
+- Wie viel kostet es? — 469.901198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

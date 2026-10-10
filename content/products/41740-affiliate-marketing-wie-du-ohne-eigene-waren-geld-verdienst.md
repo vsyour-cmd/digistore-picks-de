@@ -7,12 +7,12 @@ product_type: "Downloads"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 4.23
+earnings_per_sale: 4.24
 cart_conversion_pct: 33
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-11-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst
 
 > Product ID `41740` · Digistore24 productId `468511` · [HTML profile page](../../produkte/affiliate-marketing-wie-du-ohne-eigene-waren-geld-verdienst-41740.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $4.23 |
+| Earnings/sale* | $4.24 |
 | Cart conversion* | 33% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |

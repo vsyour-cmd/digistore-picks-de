@@ -4,15 +4,15 @@ digistore24_product_id: 444619
 title: "Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)"
 vendor: "wielandstolzenburg"
 product_type: "Online coaching"
-price: 169.2
+price: 169.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.76
+earnings_per_sale: 50.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-05-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)
 
 > Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../produkte/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $169.20 (Single payment, Installment) |
+| Price | $169.50 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.76 |
+| Earnings/sale* | $50.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)? — Typ: Online coaching, Anbieter: wielandstolzenburg, gelistet seit 2022-05-29
-- Wie viel kostet es? — 169.199436 USD
+- Wie viel kostet es? — 169.501956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

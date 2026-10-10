@@ -4,15 +4,15 @@ digistore24_product_id: 507926
 title: "Gold/Silber Trading Signale"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 136.56
+price: 136.8
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 39.14
+earnings_per_sale: 39.21
 cart_conversion_pct: 8
 cancel_rate_pct: 12.44
 categories: ["Trading Products"]
 listed_since: "2023-07-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/gold-silber-handelssignale/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gold/Silber Trading Signale
 
 > Product ID `45186` · Digistore24 productId `507926` · [HTML profile page](../../produkte/gold-silber-trading-signale-45186.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $136.56 (Subscription) |
+| Price | $136.80 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $39.14 |
+| Earnings/sale* | $39.21 |
 | Cart conversion* | 8% |
 | Cancel rate* | 12.44% |
 | Vendor | kagels-trading |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gold/Silber Trading Signale? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2023-07-18
-- Wie viel kostet es? — 136.558688 USD
+- Wie viel kostet es? — 136.802848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

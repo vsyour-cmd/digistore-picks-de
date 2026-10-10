@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 1.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.97
+earnings_per_sale: 9.98
 cart_conversion_pct: 26
 cancel_rate_pct: 7.2
 categories: ["Email Marketing","Profession & Job","Marketing Services"]
 listed_since: "2025-11-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # KI Handwerker
 
 > Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../produkte/ki-handwerker-54626.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $1.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.97 |
+| Earnings/sale* | $9.98 |
 | Cart conversion* | 26% |
 | Cancel rate* | 7.2% |
 | Vendor | ReneAktivNetz |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Handwerker? — Typ: E-books, Anbieter: ReneAktivNetz, gelistet seit 2025-11-09
-- Wie viel kostet es? — 1.152158 USD
+- Wie viel kostet es? — 1.154218 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

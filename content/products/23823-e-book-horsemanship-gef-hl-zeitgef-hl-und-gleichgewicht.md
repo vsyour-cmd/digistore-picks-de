@@ -4,7 +4,7 @@ digistore24_product_id: 315338
 title: "E-Book Horsemanship \"Gefühl, Zeitgefühl und Gleichgewicht\""
 vendor: "Linnon"
 product_type: "E-books"
-price: 10.4
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/e-book-gleichgewicht/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book Horsemanship "Gefühl, Zeitgefühl und Gleichgewicht"
 
 > Product ID `23823` · Digistore24 productId `315338` · [HTML profile page](../../produkte/e-book-horsemanship-gef-hl-zeitgef-hl-und-gleichgewicht-23823.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book Horsemanship "Gefühl, Zeitgefühl und Gleichgewicht"? — Typ: E-books, Anbieter: Linnon, gelistet seit 2020-03-24
-- Wie viel kostet es? — 10.402980000000001 USD
+- Wie viel kostet es? — 10.42158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 394565
 title: "Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 78.6
+price: 78.74
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.88
+earnings_per_sale: 22.92
 cart_conversion_pct: 16
 cancel_rate_pct: 2.63
 categories: ["Dancing & Music"]
 listed_since: "2021-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.gitarrenvideounterricht.de/kurse/blues-ratgeber/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre
 
 > Product ID `36961` · Digistore24 productId `394565` · [HTML profile page](../../produkte/blues-ratgeber-begleitung-und-solospiel-auf-der-e-gitarre-36961.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $78.60 (Single payment) |
+| Price | $78.74 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.88 |
+| Earnings/sale* | $22.92 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.63% |
 | Vendor | musiklehrer |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2021-06-17
-- Wie viel kostet es? — 78.604022 USD
+- Wie viel kostet es? — 78.744562 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

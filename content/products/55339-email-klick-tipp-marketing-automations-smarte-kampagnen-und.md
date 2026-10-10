@@ -4,15 +4,15 @@ digistore24_product_id: 664290
 title: "Email Klick Tipp Marketing Automations: Smarte Kampagnen und"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 145.42
+price: 145.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.63
+earnings_per_sale: 43.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-01-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/130euro-monat-2stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Email Klick Tipp Marketing Automations: Smarte Kampagnen und
 
 > Product ID `55339` · Digistore24 productId `664290` · [HTML profile page](../../produkte/email-klick-tipp-marketing-automations-smarte-kampagnen-und-55339.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $145.42 (Subscription) |
+| Price | $145.68 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.63 |
+| Earnings/sale* | $43.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Email Klick Tipp Marketing Automations: Smarte Kampagnen und? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-01-26
-- Wie viel kostet es? — 145.418 USD
+- Wie viel kostet es? — 145.678 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

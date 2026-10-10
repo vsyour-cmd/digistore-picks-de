@@ -4,15 +4,15 @@ digistore24_product_id: 306828
 title: "Ideenreiche Frisuren - das Bundle"
 vendor: "LaurieMakeupArtist"
 product_type: "Downloads"
-price: 136.3
+price: 136.55
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 27.97
+earnings_per_sale: 28.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-02-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ideenreiche Frisuren - das Bundle
 
 > Product ID `32010` · Digistore24 productId `306828` · [HTML profile page](../../produkte/ideenreiche-frisuren-das-bundle-32010.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $136.30 (Single payment) |
+| Price | $136.55 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $27.96 |
+| Earnings/sale* | $28.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LaurieMakeupArtist |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ideenreiche Frisuren - das Bundle? — Typ: Downloads, Anbieter: LaurieMakeupArtist, gelistet seit 2020-02-05
-- Wie viel kostet es? — 136.30141 USD
+- Wie viel kostet es? — 136.54511 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

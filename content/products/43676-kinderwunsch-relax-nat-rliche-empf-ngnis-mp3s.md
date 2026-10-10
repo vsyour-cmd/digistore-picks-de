@@ -4,15 +4,15 @@ digistore24_product_id: 356906
 title: "Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)"
 vendor: "Kinderwunsch-Relax"
 product_type: "Downloads"
-price: 24.45
+price: 24.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.76
+earnings_per_sale: 11.78
 cart_conversion_pct: 23
 cancel_rate_pct: 0.38
 categories: ["Family & Children"]
 listed_since: "2020-11-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)
 
 > Product ID `43676` · Digistore24 productId `356906` · [HTML profile page](../../produkte/kinderwunsch-relax-nat-rliche-empf-ngnis-mp3s-43676.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.45 (Single payment) |
+| Price | $24.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.76 |
+| Earnings/sale* | $11.78 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.38% |
 | Vendor | Kinderwunsch-Relax |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)? — Typ: Downloads, Anbieter: Kinderwunsch-Relax, gelistet seit 2020-11-11
-- Wie viel kostet es? — 24.452596 USD
+- Wie viel kostet es? — 24.496316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

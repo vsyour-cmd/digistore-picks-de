@@ -4,15 +4,15 @@ digistore24_product_id: 425343
 title: "Hängematte statt Hamsterrad - Dein Weltreise-Planer"
 vendor: "flipflopblog"
 product_type: "E-books"
-price: 12.02
+price: 12.05
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2022-01-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/425343?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hängematte statt Hamsterrad - Dein Weltreise-Planer
 
 > Product ID `48424` · Digistore24 productId `425343` · [HTML profile page](../../produkte/h-ngematte-statt-hamsterrad-dein-weltreise-planer-48424.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.02 (Single payment) |
+| Price | $12.05 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | flipflopblog |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hängematte statt Hamsterrad - Dein Weltreise-Planer? — Typ: E-books, Anbieter: flipflopblog, gelistet seit 2022-01-18
-- Wie viel kostet es? — 12.02495 USD
+- Wie viel kostet es? — 12.04645 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

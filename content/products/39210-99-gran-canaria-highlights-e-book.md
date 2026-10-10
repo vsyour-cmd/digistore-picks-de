@@ -4,7 +4,7 @@ digistore24_product_id: 430908
 title: "99 Gran Canaria Highlights [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.3
+price: 14.32
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.93
@@ -12,7 +12,7 @@ cart_conversion_pct: 31
 cancel_rate_pct: 0.79
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2022-02-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/99-gran-canaria-highlights/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 99 Gran Canaria Highlights [E-Book]
 
 > Product ID `39210` · Digistore24 productId `430908` · [HTML profile page](../../produkte/99-gran-canaria-highlights-e-book-39210.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.30 (Single payment) |
+| Price | $14.32 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.93 |
 | Cart conversion* | 31% |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Gran Canaria Highlights [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2022-02-21
-- Wie viel kostet es? — 14.295708 USD
+- Wie viel kostet es? — 14.321268 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 161889
 title: "eMail-Kurs \"In 66 Tagen Gewohnheiten ändern\""
 vendor: "rkwichmann"
 product_type: "Downloads"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.66
+earnings_per_sale: 14.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2017-09-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.persoenlichkeits-blog.de/in-66-tagen-ihre-gewohnheiten-aendern?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # eMail-Kurs "In 66 Tagen Gewohnheiten ändern"
 
 > Product ID `31452` · Digistore24 productId `161889` · [HTML profile page](../../produkte/email-kurs-in-66-tagen-gewohnheiten-ndern-31452.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.66 |
+| Earnings/sale* | $14.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rkwichmann |
@@ -104,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eMail-Kurs "In 66 Tagen Gewohnheiten ändern"? — Typ: Downloads, Anbieter: rkwichmann, gelistet seit 2017-09-06
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 10761
 title: "Werbemail24 Jahres Goldmitgliedschaft Viralmailer"
 vendor: "kostenlos"
 product_type: "Member area and video courses"
-price: 220.36
+price: 220.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 88.15
+earnings_per_sale: 88.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2013-01-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://werbemail24.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Werbemail24 Jahres Goldmitgliedschaft Viralmailer
 
 > Product ID `35518` · Digistore24 productId `10761` · [HTML profile page](../../produkte/werbemail24-jahres-goldmitgliedschaft-viralmailer-35518.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $220.36 (Subscription) |
+| Price | $220.76 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $88.15 |
+| Earnings/sale* | $88.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kostenlos |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werbemail24 Jahres Goldmitgliedschaft Viralmailer? — Typ: Member area and video courses, Anbieter: kostenlos, gelistet seit 2013-01-28
-- Wie viel kostet es? — 220.3642 USD
+- Wie viel kostet es? — 220.75820000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

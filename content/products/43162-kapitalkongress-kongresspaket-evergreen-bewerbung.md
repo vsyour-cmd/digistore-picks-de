@@ -4,15 +4,15 @@ digistore24_product_id: 663277
 title: "Kapitalkongress Kongresspaket (Evergreen Bewerbung)"
 vendor: "einfachgeldanlegen"
 product_type: "Member area and video courses"
-price: 47.34
+price: 47.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.66
+earnings_per_sale: 32.72
 cart_conversion_pct: 11
 cancel_rate_pct: 0.51
 categories: ["Business & Investment"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Kapitalkongress Kongresspaket (Evergreen Bewerbung)
 
 > Product ID `43162` · Digistore24 productId `663277` · [HTML profile page](../../produkte/kapitalkongress-kongresspaket-evergreen-bewerbung-43162.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.34 (Single payment) |
+| Price | $47.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.66 |
+| Earnings/sale* | $32.72 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.51% |
 | Vendor | einfachgeldanlegen |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kapitalkongress Kongresspaket (Evergreen Bewerbung)? — Typ: Member area and video courses, Anbieter: einfachgeldanlegen, gelistet seit 2026-01-22
-- Wie viel kostet es? — 47.339152 USD
+- Wie viel kostet es? — 47.423792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

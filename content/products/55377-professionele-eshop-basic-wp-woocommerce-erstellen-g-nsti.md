@@ -4,15 +4,15 @@ digistore24_product_id: 664270
 title: "Professionele Eshop \" Basic WP WooCommerce\" erstellen günsti"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 2795.38
+price: 2800.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 838.61
+earnings_per_sale: 840.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-01-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-wp-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Professionele Eshop " Basic WP WooCommerce" erstellen günsti
 
 > Product ID `55377` · Digistore24 productId `664270` · [HTML profile page](../../produkte/professionele-eshop-basic-wp-woocommerce-erstellen-g-nsti-55377.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2795.38 (Installment) |
+| Price | $2800.38 (Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $838.61 |
+| Earnings/sale* | $840.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -97,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Professionele Eshop " Basic WP WooCommerce" erstellen günsti? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-01-26
-- Wie viel kostet es? — 2795.3814 USD
+- Wie viel kostet es? — 2800.3794000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

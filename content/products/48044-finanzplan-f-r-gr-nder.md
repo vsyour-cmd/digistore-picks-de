@@ -7,12 +7,12 @@ product_type: "Downloads"
 price: 0.1
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 2.84
+earnings_per_sale: 2.85
 cart_conversion_pct: 52
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-05-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/finanzplan/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Finanzplan für Gründer
 
 > Product ID `48044` · Digistore24 productId `551046` · [HTML profile page](../../produkte/finanzplan-f-r-gr-nder-48044.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.10 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $2.84 |
+| Earnings/sale* | $2.85 |
 | Cart conversion* | 52% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzplan für Gründer? — Typ: Downloads, Anbieter: Spekulatius, gelistet seit 2024-05-04
-- Wie viel kostet es? — 0.100674 USD
+- Wie viel kostet es? — 0.100854 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

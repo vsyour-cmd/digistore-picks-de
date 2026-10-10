@@ -4,15 +4,15 @@ digistore24_product_id: 462502
 title: "Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell"
 vendor: "KE6211806270"
 product_type: "Remote service provided electronically"
-price: 166.67
+price: 166.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 83.34
+earnings_per_sale: 83.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2022-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://experteam.de/consent-management-platform?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell
 
 > Product ID `41355` · Digistore24 productId `462502` · [HTML profile page](../../produkte/cookie-consent-dsgvo-und-ttdsg-konform-immer-aktuell-41355.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $166.67 (Subscription) |
+| Price | $166.97 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $83.34 |
+| Earnings/sale* | $83.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KE6211806270 |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cookie Consent: DSGVO- und TTDSG-konform & immer aktuell? — Typ: Remote service provided electronically, Anbieter: KE6211806270, gelistet seit 2022-09-29
-- Wie viel kostet es? — 166.6714 USD
+- Wie viel kostet es? — 166.9694 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

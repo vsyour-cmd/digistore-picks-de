@@ -4,15 +4,15 @@ digistore24_product_id: 714591
 title: "KiFlowPilot WhatsappBot"
 vendor: "SylviaBallheimer"
 product_type: "Software"
-price: 91.18
+price: 91.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 36.47
+earnings_per_sale: 36.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/714591?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KiFlowPilot WhatsappBot
 
 > Product ID `58440` · Digistore24 productId `714591` · [HTML profile page](../../produkte/kiflowpilot-whatsappbot-58440.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $91.18 (Single payment) |
+| Price | $91.34 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $36.47 |
+| Earnings/sale* | $36.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SylviaBallheimer |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KiFlowPilot WhatsappBot? — Typ: Software, Anbieter: SylviaBallheimer, gelistet seit 2026-08-18
-- Wie viel kostet es? — 91.177086 USD
+- Wie viel kostet es? — 91.340106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 180839
 title: "Der Ernährungs-Code"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 121.17
+price: 121.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 29.96
+earnings_per_sale: 30.01
 cart_conversion_pct: 36
 cancel_rate_pct: 9.2
 categories: ["Health & Fitness"]
 listed_since: "2017-11-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-fatalen-irrtuemer-der-modernen-ernaehrung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der Ernährungs-Code
 
 > Product ID `20851` · Digistore24 productId `180839` · [HTML profile page](../../produkte/der-ern-hrungs-code-20851.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.17 (Single payment) |
+| Price | $121.38 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $29.96 |
+| Earnings/sale* | $30.01 |
 | Cart conversion* | 36% |
 | Cancel rate* | 9.2% |
 | Vendor | RaGarve |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ernährungs-Code? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2017-11-19
-- Wie viel kostet es? — 121.166752 USD
+- Wie viel kostet es? — 121.383392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

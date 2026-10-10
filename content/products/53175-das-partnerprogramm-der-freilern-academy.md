@@ -4,15 +4,15 @@ digistore24_product_id: 598121
 title: "Das Partnerprogramm der FreiLern-Academy"
 vendor: "SunnySteiner"
 product_type: "Member area and video courses"
-price: 159.8
+price: 160.09
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 27.97
+earnings_per_sale: 28.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-02-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/598121?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm der FreiLern-Academy
 
 > Product ID `53175` · Digistore24 productId `598121` · [HTML profile page](../../produkte/das-partnerprogramm-der-freilern-academy-53175.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $159.80 (Single payment, Installment) |
+| Price | $160.09 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $27.96 |
+| Earnings/sale* | $28.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SunnySteiner |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm der FreiLern-Academy? — Typ: Member area and video courses, Anbieter: SunnySteiner, gelistet seit 2025-02-24
-- Wie viel kostet es? — 159.803196 USD
+- Wie viel kostet es? — 160.088916 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

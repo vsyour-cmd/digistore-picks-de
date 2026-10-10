@@ -4,15 +4,15 @@ digistore24_product_id: 715168
 title: "Dogs with Lifestyle® Luxury Journal"
 vendor: "dogswithlifestyle"
 product_type: "E-books"
-price: 72.14
+price: 72.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.07
+earnings_per_sale: 36.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Marketing Services"]
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://dogswithlifestyle.com/luxury-journal?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dogs with Lifestyle® Luxury Journal
 
 > Product ID `57785` · Digistore24 productId `715168` · [HTML profile page](../../produkte/dogs-with-lifestyle-luxury-journal-57785.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.14 (Single payment) |
+| Price | $72.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.07 |
+| Earnings/sale* | $36.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dogswithlifestyle |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dogs with Lifestyle® Luxury Journal? — Typ: E-books, Anbieter: dogswithlifestyle, gelistet seit 2026-07-28
-- Wie viel kostet es? — 72.138514 USD
+- Wie viel kostet es? — 72.267494 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

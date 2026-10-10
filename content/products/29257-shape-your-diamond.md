@@ -4,15 +4,15 @@ digistore24_product_id: 294832
 title: "SHAPE YOUR DIAMOND"
 vendor: "InaHaskic"
 product_type: "Member area and video courses"
-price: 958.8
+price: 960.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 287.64
+earnings_per_sale: 288.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-11-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://diamondangel.de/shape-your-diamond/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SHAPE YOUR DIAMOND
 
 > Product ID `29257` · Digistore24 productId `294832` · [HTML profile page](../../produkte/shape-your-diamond-29257.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $958.80 (Single payment, Installment) |
+| Price | $960.51 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $287.64 |
+| Earnings/sale* | $288.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | InaHaskic |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SHAPE YOUR DIAMOND? — Typ: Member area and video courses, Anbieter: InaHaskic, gelistet seit 2019-11-13
-- Wie viel kostet es? — 958.7968040000001 USD
+- Wie viel kostet es? — 960.511084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

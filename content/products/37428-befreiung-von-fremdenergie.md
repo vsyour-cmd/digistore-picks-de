@@ -4,15 +4,15 @@ digistore24_product_id: 387951
 title: "Befreiung von Fremdenergie"
 vendor: "allsenses"
 product_type: "Member area and video courses"
-price: 428.64
+price: 429.4
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 42.86
+earnings_per_sale: 42.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-05-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.allsenses.de/befreiung-von-fremdenergie-masterkurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Befreiung von Fremdenergie
 
 > Product ID `37428` · Digistore24 productId `387951` · [HTML profile page](../../produkte/befreiung-von-fremdenergie-37428.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $428.64 (Single payment, Installment) |
+| Price | $429.40 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $42.86 |
+| Earnings/sale* | $42.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | allsenses |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Befreiung von Fremdenergie? — Typ: Member area and video courses, Anbieter: allsenses, gelistet seit 2021-05-03
-- Wie viel kostet es? — 428.63633400000003 USD
+- Wie viel kostet es? — 429.402714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

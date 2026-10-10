@@ -4,15 +4,15 @@ digistore24_product_id: 716903
 title: "KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026"
 vendor: "davidgonz13"
 product_type: "Member area and video courses"
-price: 446.32
+price: 447.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 178.53
+earnings_per_sale: 178.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://kadenzgroup.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026
 
 > Product ID `58165` · Digistore24 productId `716903` · [HTML profile page](../../produkte/ki-schulung-art-4-eu-ai-act-f-r-kmu-pflichtthema-2026-58165.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $446.32 (Single payment) |
+| Price | $447.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $178.53 |
+| Earnings/sale* | $178.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | davidgonz13 |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026? — Typ: Member area and video courses, Anbieter: davidgonz13, gelistet seit 2026-08-05
-- Wie viel kostet es? — 446.32140000000004 USD
+- Wie viel kostet es? — 447.11940000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

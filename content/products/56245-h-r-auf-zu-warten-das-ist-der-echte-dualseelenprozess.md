@@ -4,15 +4,15 @@ digistore24_product_id: 667607
 title: "Hör auf zu warten – das ist der echte Dualseelenprozess"
 vendor: "SabineBartl"
 product_type: "E-books"
-price: 23
+price: 23.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.5
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/667607?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Hör auf zu warten – das ist der echte Dualseelenprozess
 
 > Product ID `56245` · Digistore24 productId `667607` · [HTML profile page](../../produkte/h-r-auf-zu-warten-das-ist-der-echte-dualseelenprozess-56245.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.00 (Single payment) |
+| Price | $23.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.50 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineBartl |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hör auf zu warten – das ist der echte Dualseelenprozess? — Typ: E-books, Anbieter: SabineBartl, gelistet seit 2026-02-09
-- Wie viel kostet es? — 22.998416 USD
+- Wie viel kostet es? — 23.039536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

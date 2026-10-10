@@ -4,15 +4,15 @@ digistore24_product_id: 567551
 title: "Zero Budget CopyCasher"
 vendor: "AffiliForge"
 product_type: "Member area and video courses"
-price: 3.96
+price: 3.97
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.16
+earnings_per_sale: 35.22
 cart_conversion_pct: 16
 cancel_rate_pct: 0.82
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-08-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/ZBCC?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zero Budget CopyCasher
 
 > Product ID `49555` · Digistore24 productId `567551` · [HTML profile page](../../produkte/zero-budget-copycasher-49555.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3.96 (Single payment, Installment) |
+| Price | $3.97 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.16 |
+| Earnings/sale* | $35.22 |
 | Cart conversion* | 16% |
 | Cancel rate* | 0.82% |
 | Vendor | AffiliForge |
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zero Budget CopyCasher? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-08-29
-- Wie viel kostet es? — 3.9598440000000004 USD
+- Wie viel kostet es? — 3.966924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

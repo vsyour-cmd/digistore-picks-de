@@ -4,15 +4,15 @@ digistore24_product_id: 545133
 title: "KI TEXT SERVICE"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.27
+price: 71.39
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.57
+earnings_per_sale: 13.59
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business","Profession & Job","Services"]
 listed_since: "2024-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/ki-textservice-frontend/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI TEXT SERVICE
 
 > Product ID `47566` · Digistore24 productId `545133` · [HTML profile page](../../produkte/ki-text-service-47566.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.27 (Single payment) |
+| Price | $71.39 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.57 |
+| Earnings/sale* | $13.59 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI TEXT SERVICE? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2024-03-24
-- Wie viel kostet es? — 71.266006 USD
+- Wie viel kostet es? — 71.393426 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

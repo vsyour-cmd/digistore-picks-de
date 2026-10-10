@@ -4,15 +4,15 @@ digistore24_product_id: 641364
 title: "SalesPage Masterclass"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 131.99
+price: 132.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.26
+earnings_per_sale: 37.33
 cart_conversion_pct: 8
 cancel_rate_pct: 1.82
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-10-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/spmc/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SalesPage Masterclass
 
 > Product ID `55695` · Digistore24 productId `641364` · [HTML profile page](../../produkte/salespage-masterclass-55695.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $131.99 (Single payment, Installment) |
+| Price | $132.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.26 |
+| Earnings/sale* | $37.33 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.82% |
 | Vendor | seotech |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SalesPage Masterclass? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-10-14
-- Wie viel kostet es? — 131.9948 USD
+- Wie viel kostet es? — 132.23080000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 728519
 title: "Das Elite-Mindset"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.12
+price: 20.16
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.07
+earnings_per_sale: 12.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Profession & Job"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728519?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Elite-Mindset
 
 > Product ID `58853` · Digistore24 productId `728519` · [HTML profile page](../../produkte/das-elite-mindset-58853.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.12 (Single payment) |
+| Price | $20.16 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.07 |
+| Earnings/sale* | $12.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Elite-Mindset? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-01
-- Wie viel kostet es? — 20.123614 USD
+- Wie viel kostet es? — 20.159594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

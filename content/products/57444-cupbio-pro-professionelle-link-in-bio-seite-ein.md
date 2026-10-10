@@ -4,15 +4,15 @@ digistore24_product_id: 706469
 title: "CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 38.02
+price: 38.09
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 19.39
+earnings_per_sale: 19.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706469?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein
 
 > Product ID `57444` · Digistore24 productId `706469` · [HTML profile page](../../produkte/cupbio-pro-professionelle-link-in-bio-seite-ein-57444.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $38.02 (Single payment) |
+| Price | $38.09 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $19.39 |
+| Earnings/sale* | $19.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2026-07-07
-- Wie viel kostet es? — 38.021214 USD
+- Wie viel kostet es? — 38.089194000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

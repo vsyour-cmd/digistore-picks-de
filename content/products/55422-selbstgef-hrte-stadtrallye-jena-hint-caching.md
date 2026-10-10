@@ -4,15 +4,15 @@ digistore24_product_id: 665433
 title: "Selbstgeführte Stadtrallye Jena | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 46.06
+price: 46.15
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.22
+earnings_per_sale: 9.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-jena/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstgeführte Stadtrallye Jena | Hint-Caching
 
 > Product ID `55422` · Digistore24 productId `665433` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-jena-hint-caching-55422.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.06 (Single payment) |
+| Price | $46.15 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.22 |
+| Earnings/sale* | $9.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hintcaching |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Jena | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2026-01-30
-- Wie viel kostet es? — 46.063948 USD
+- Wie viel kostet es? — 46.146308000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

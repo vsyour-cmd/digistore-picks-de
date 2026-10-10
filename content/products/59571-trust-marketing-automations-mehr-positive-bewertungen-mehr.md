@@ -4,15 +4,15 @@ digistore24_product_id: 727806
 title: "Trust Marketing Automations: Mehr positive Bewertungen. Mehr"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 548.11
+price: 549.09
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 164.43
+earnings_per_sale: 164.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/bewertungskampagne-trustmarketing-reputationmarketing-1sprache-digistore/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trust Marketing Automations: Mehr positive Bewertungen. Mehr
 
 > Product ID `59571` · Digistore24 productId `727806` · [HTML profile page](../../produkte/trust-marketing-automations-mehr-positive-bewertungen-mehr-59571.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $548.11 (Single payment) |
+| Price | $549.09 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $164.43 |
+| Earnings/sale* | $164.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trust Marketing Automations: Mehr positive Bewertungen. Mehr? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-09-23
-- Wie viel kostet es? — 548.114 USD
+- Wie viel kostet es? — 549.094 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

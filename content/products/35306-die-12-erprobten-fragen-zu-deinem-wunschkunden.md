@@ -4,15 +4,15 @@ digistore24_product_id: 416183
 title: "Die 12 erprobten Fragen zu Deinem Wunschkunden"
 vendor: "ChrisdaS"
 product_type: "Downloads"
-price: 23.47
+price: 23.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-11-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.ad-campus.com/wunschkunde?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
 > Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.47 (Single payment) |
+| Price | $23.51 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 erprobten Fragen zu Deinem Wunschkunden? — Typ: Downloads, Anbieter: ChrisdaS, gelistet seit 2021-11-15
-- Wie viel kostet es? — 23.468228 USD
+- Wie viel kostet es? — 23.510188000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

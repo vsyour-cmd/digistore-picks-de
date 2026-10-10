@@ -4,15 +4,15 @@ digistore24_product_id: 537143
 title: "QUICKPIX AI - \"KI\" Kreativität für deine Grafiken und Bilder"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 127.52
+price: 127.75
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 51.01
+earnings_per_sale: 51.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.quickpixai.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder
 
 > Product ID `47135` · Digistore24 productId `537143` · [HTML profile page](../../produkte/quickpix-ai-ki-kreativit-t-f-r-deine-grafiken-und-bilder-47135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.52 (Single payment, Installment) |
+| Price | $127.75 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $51.01 |
+| Earnings/sale* | $51.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2024-02-01
-- Wie viel kostet es? — 127.52040000000001 USD
+- Wie viel kostet es? — 127.7484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 456226
 title: "Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 21.95
+price: 21.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.97
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-08-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.isid.de/angst-frisst-seele-ruediger-dahlke-hoerbuch-download/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download
 
 > Product ID `41070` · Digistore24 productId `456226` · [HTML profile page](../../produkte/angst-frisst-seele-ruediger-dahlke-h-rbuch-download-41070.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $21.95 (Single payment) |
+| Price | $21.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.97 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2022-08-18
-- Wie viel kostet es? — 21.946932 USD
+- Wie viel kostet es? — 21.986172000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 721645
 title: "Auswandern nach Ungarn – Praxis-Guide für Auswanderer"
 vendor: "elpalo"
 product_type: "E-books"
-price: 41.71
+price: 41.79
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.69
+earnings_per_sale: 16.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.ungarnportal.net/auswandern-nach-ungarn-praxis-guide/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern nach Ungarn – Praxis-Guide für Auswanderer
 
 > Product ID `58391` · Digistore24 productId `721645` · [HTML profile page](../../produkte/auswandern-nach-ungarn-praxis-guide-f-r-auswanderer-58391.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.71 (Single payment) |
+| Price | $41.79 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.69 |
+| Earnings/sale* | $16.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elpalo |
@@ -108,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Ungarn – Praxis-Guide für Auswanderer? — Typ: E-books, Anbieter: elpalo, gelistet seit 2026-08-16
-- Wie viel kostet es? — 41.712594 USD
+- Wie viel kostet es? — 41.787174 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

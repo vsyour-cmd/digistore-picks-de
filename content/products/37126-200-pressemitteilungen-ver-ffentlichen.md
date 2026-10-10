@@ -4,15 +4,15 @@ digistore24_product_id: 330267
 title: "200+ Pressemitteilungen veröffentlichen"
 vendor: "Cleriker"
 product_type: "Remote service provided electronically"
-price: 56.36
+price: 56.46
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 5.64
+earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/pressemitteilung-4-you/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 200+ Pressemitteilungen veröffentlichen
 
 > Product ID `37126` · Digistore24 productId `330267` · [HTML profile page](../../produkte/200-pressemitteilungen-ver-ffentlichen-37126.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $56.36 (Single payment, Subscription) |
+| Price | $56.46 (Single payment, Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 200+ Pressemitteilungen veröffentlichen? — Typ: Remote service provided electronically, Anbieter: Cleriker, gelistet seit 2020-06-06
-- Wie viel kostet es? — 56.355068 USD
+- Wie viel kostet es? — 56.455828000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

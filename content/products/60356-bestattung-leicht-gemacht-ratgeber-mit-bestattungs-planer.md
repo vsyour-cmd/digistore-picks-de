@@ -4,15 +4,15 @@ digistore24_product_id: 741776
 title: "Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.23
+earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741776?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer
 
 > Product ID `60356` · Digistore24 productId `741776` · [HTML profile page](../../produkte/bestattung-leicht-gemacht-ratgeber-mit-bestattungs-planer-60356.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.23 |
+| Earnings/sale* | $6.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

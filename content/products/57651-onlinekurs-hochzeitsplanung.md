@@ -4,15 +4,15 @@ digistore24_product_id: 711585
 title: "Onlinekurs Hochzeitsplanung"
 vendor: "AnnieScholzEvents"
 product_type: "Member area and video courses"
-price: 168.26
+price: 168.56
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 33.65
+earnings_per_sale: 33.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/711585?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs Hochzeitsplanung
 
 > Product ID `57651` · Digistore24 productId `711585` · [HTML profile page](../../produkte/onlinekurs-hochzeitsplanung-57651.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.26 (Single payment, Installment) |
+| Price | $168.56 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $33.65 |
+| Earnings/sale* | $33.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AnnieScholzEvents |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs Hochzeitsplanung? — Typ: Member area and video courses, Anbieter: AnnieScholzEvents, gelistet seit 2026-07-21
-- Wie viel kostet es? — 168.25981199999998 USD
+- Wie viel kostet es? — 168.560652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

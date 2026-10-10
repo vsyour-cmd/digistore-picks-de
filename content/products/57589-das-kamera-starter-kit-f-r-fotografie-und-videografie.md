@@ -4,15 +4,15 @@ digistore24_product_id: 710700
 title: "Das Kamera-Starter-Kit für Fotografie und Videografie."
 vendor: "dop09e6a"
 product_type: "E-books"
-price: 26.03
+price: 26.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.02
+earnings_per_sale: 13.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://fotofilmbeginner.com/das-kamera-starter-kit?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Kamera-Starter-Kit für Fotografie und Videografie.
 
 > Product ID `57589` · Digistore24 productId `710700` · [HTML profile page](../../produkte/das-kamera-starter-kit-f-r-fotografie-und-videografie-57589.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.03 (Single payment) |
+| Price | $26.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.02 |
+| Earnings/sale* | $13.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dop09e6a |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Kamera-Starter-Kit für Fotografie und Videografie.? — Typ: E-books, Anbieter: dop09e6a, gelistet seit 2026-07-18
-- Wie viel kostet es? — 26.029822 USD
+- Wie viel kostet es? — 26.076362 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

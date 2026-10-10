@@ -4,15 +4,15 @@ digistore24_product_id: 695090
 title: "Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie"
 vendor: "floriankirch83e8"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.13
+earnings_per_sale: 12.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://dasschichtsystem.de/stufe1.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie
 
 > Product ID `58546` · Digistore24 productId `695090` · [HTML profile page](../../produkte/starter-guide-f-r-schichtarbeiter-schlaf-ern-hrung-energie-58546.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.13 |
+| Earnings/sale* | $12.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | floriankirch83e8 |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie? — Typ: E-books, Anbieter: floriankirch83e8, gelistet seit 2026-08-23
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

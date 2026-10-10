@@ -4,15 +4,15 @@ digistore24_product_id: 679892
 title: "Grenzen setzen Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 104.43
+price: 104.62
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 25.48
+earnings_per_sale: 25.53
 cart_conversion_pct: 7
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Grenzen setzen Bundle
 
 > Product ID `56094` · Digistore24 productId `679892` · [HTML profile page](../../produkte/grenzen-setzen-bundle-56094.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $104.43 (Single payment) |
+| Price | $104.62 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $25.48 |
+| Earnings/sale* | $25.53 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0% |
 | Vendor | SinaDieterle |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grenzen setzen Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-03-27
-- Wie viel kostet es? — 104.432496 USD
+- Wie viel kostet es? — 104.61921600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

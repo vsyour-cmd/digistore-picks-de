@@ -4,15 +4,15 @@ digistore24_product_id: 651818
 title: "Premium Online Kurs \"Traumjob Transformation\""
 vendor: "HeartfulMindset"
 product_type: "Member area and video courses"
-price: 589.38
+price: 590.43
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 235.76
+earnings_per_sale: 236.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Personal Development"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.heartful-mindset.de/traumjob-transformation-1?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Online Kurs "Traumjob Transformation"
 
 > Product ID `59095` · Digistore24 productId `651818` · [HTML profile page](../../produkte/premium-online-kurs-traumjob-transformation-59095.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $589.38 (Single payment, Installment) |
+| Price | $590.43 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $235.76 |
+| Earnings/sale* | $236.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeartfulMindset |
@@ -94,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Online Kurs "Traumjob Transformation"? — Typ: Member area and video courses, Anbieter: HeartfulMindset, gelistet seit 2026-09-10
-- Wie viel kostet es? — 589.379154 USD
+- Wie viel kostet es? — 590.432934 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

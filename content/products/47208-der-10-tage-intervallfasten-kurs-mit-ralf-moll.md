@@ -4,15 +4,15 @@ digistore24_product_id: 462653
 title: "Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 36.37
+price: 36.43
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 5.97
+earnings_per_sale: 5.98
 cart_conversion_pct: 15
 cancel_rate_pct: 3.8
 categories: ["Health & Fitness"]
 listed_since: "2022-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll
 
 > Product ID `47208` · Digistore24 productId `462653` · [HTML profile page](../../produkte/der-10-tage-intervallfasten-kurs-mit-ralf-moll-47208.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $36.37 (Single payment) |
+| Price | $36.43 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $5.97 |
+| Earnings/sale* | $5.98 |
 | Cart conversion* | 15% |
 | Cancel rate* | 3.8% |
 | Vendor | RalfMollFastensuppen |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2022-09-29
-- Wie viel kostet es? — 36.365686 USD
+- Wie viel kostet es? — 36.430706 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

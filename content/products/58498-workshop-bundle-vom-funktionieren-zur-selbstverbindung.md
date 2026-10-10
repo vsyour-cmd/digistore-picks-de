@@ -4,15 +4,15 @@ digistore24_product_id: 718693
 title: "Workshop-Bundle: Vom Funktionieren zur Selbstverbindung"
 vendor: "empathiemitherz"
 product_type: "E-books"
-price: 26.13
+price: 26.18
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.45
+earnings_per_sale: 10.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://empathiemitherz.de/workshops/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Workshop-Bundle: Vom Funktionieren zur Selbstverbindung
 
 > Product ID `58498` · Digistore24 productId `718693` · [HTML profile page](../../produkte/workshop-bundle-vom-funktionieren-zur-selbstverbindung-58498.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.18 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.45 |
+| Earnings/sale* | $10.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | empathiemitherz |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workshop-Bundle: Vom Funktionieren zur Selbstverbindung? — Typ: E-books, Anbieter: empathiemitherz, gelistet seit 2026-08-21
-- Wie viel kostet es? — 26.130496 USD
+- Wie viel kostet es? — 26.177216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

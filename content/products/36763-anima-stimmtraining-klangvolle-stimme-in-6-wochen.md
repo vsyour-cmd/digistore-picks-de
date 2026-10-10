@@ -4,15 +4,15 @@ digistore24_product_id: 257434
 title: "ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen"
 vendor: "hyperhertz"
 product_type: "Downloads"
-price: 271.66
+price: 272.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 81.5
+earnings_per_sale: 81.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.stimme-veraendern.de/anima-stimmtraining-onlinekurs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen
 
 > Product ID `36763` · Digistore24 productId `257434` · [HTML profile page](../../produkte/anima-stimmtraining-klangvolle-stimme-in-6-wochen-36763.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $271.66 (Single payment) |
+| Price | $272.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $81.50 |
+| Earnings/sale* | $81.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hyperhertz |
@@ -106,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ANIMA STIMMTRAINING - klangvolle Stimme in 6 Wochen? — Typ: Downloads, Anbieter: hyperhertz, gelistet seit 2019-01-22
-- Wie viel kostet es? — 271.663196 USD
+- Wie viel kostet es? — 272.14891600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

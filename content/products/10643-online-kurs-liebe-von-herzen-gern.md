@@ -4,15 +4,15 @@ digistore24_product_id: 72695
 title: "Online-Kurs \" Liebe - von Herzen gern!\""
 vendor: "Quanten-Resonanz"
 product_type: "Downloads"
-price: 94
+price: 94.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 47
+earnings_per_sale: 47.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2016-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://quantenresonanz.de/liebe-von-herzen-gern-nw/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs " Liebe - von Herzen gern!"
 
 > Product ID `10643` · Digistore24 productId `72695` · [HTML profile page](../../produkte/online-kurs-liebe-von-herzen-gern-10643.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $94.00 (Single payment, Installment) |
+| Price | $94.16 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $47.00 |
+| Earnings/sale* | $47.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Quanten-Resonanz |
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs " Liebe - von Herzen gern!"? — Typ: Downloads, Anbieter: Quanten-Resonanz, gelistet seit 2016-02-22
-- Wie viel kostet es? — 93.995958 USD
+- Wie viel kostet es? — 94.164018 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

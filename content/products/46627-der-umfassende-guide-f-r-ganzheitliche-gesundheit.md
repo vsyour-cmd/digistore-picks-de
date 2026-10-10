@@ -4,15 +4,15 @@ digistore24_product_id: 531072
 title: "Der umfassende Guide für ganzheitliche Gesundheit"
 vendor: "linus2023"
 product_type: "E-books"
-price: 13.54
+price: 13.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.77
+earnings_per_sale: 6.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2023-12-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/531072?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der umfassende Guide für ganzheitliche Gesundheit
 
 > Product ID `46627` · Digistore24 productId `531072` · [HTML profile page](../../produkte/der-umfassende-guide-f-r-ganzheitliche-gesundheit-46627.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.54 (Single payment) |
+| Price | $13.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.77 |
+| Earnings/sale* | $6.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linus2023 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der umfassende Guide für ganzheitliche Gesundheit? — Typ: E-books, Anbieter: linus2023, gelistet seit 2023-12-22
-- Wie viel kostet es? — 13.53506 USD
+- Wie viel kostet es? — 13.55926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

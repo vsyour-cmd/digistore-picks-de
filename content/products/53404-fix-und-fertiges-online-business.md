@@ -4,15 +4,15 @@ digistore24_product_id: 627525
 title: "Fix und fertiges Online Business"
 vendor: "digitalesonlinebusiness"
 product_type: "Remote service provided electronically"
-price: 111.86
+price: 112.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.56
+earnings_per_sale: 33.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/fertiges-online-business/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Fix und fertiges Online Business
 
 > Product ID `53404` · Digistore24 productId `627525` · [HTML profile page](../../produkte/fix-und-fertiges-online-business-53404.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $111.86 (Single payment, Installment) |
+| Price | $112.06 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.56 |
+| Earnings/sale* | $33.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fix und fertiges Online Business? — Typ: Remote service provided electronically, Anbieter: digitalesonlinebusiness, gelistet seit 2025-08-02
-- Wie viel kostet es? — 111.86 USD
+- Wie viel kostet es? — 112.06 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

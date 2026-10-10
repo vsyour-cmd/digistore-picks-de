@@ -4,7 +4,7 @@ digistore24_product_id: 699161
 title: "Faceless TikTok Videos mit KI erstellen - Komplettanleitung"
 vendor: "viralohnegesicht8bb4"
 product_type: "E-books"
-price: 19.87
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 2.98
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-06-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/699161?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Faceless TikTok Videos mit KI erstellen - Komplettanleitung
 
 > Product ID `56883` · Digistore24 productId `699161` · [HTML profile page](../../produkte/faceless-tiktok-videos-mit-ki-erstellen-komplettanleitung-56883.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.87 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $2.98 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Faceless TikTok Videos mit KI erstellen - Komplettanleitung? — Typ: E-books, Anbieter: viralohnegesicht8bb4, gelistet seit 2026-06-14
-- Wie viel kostet es? — 19.866336000000004 USD
+- Wie viel kostet es? — 19.901856000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

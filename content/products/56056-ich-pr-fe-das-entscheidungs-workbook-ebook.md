@@ -4,15 +4,15 @@ digistore24_product_id: 679624
 title: "ICH PRÜFE — Das Entscheidungs-Workbook (eBook)"
 vendor: "EHCA888"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.15
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Profession & Job"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://me-time.club/ich-pruefe-workbook/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # ICH PRÜFE — Das Entscheidungs-Workbook (eBook)
 
 > Product ID `56056` · Digistore24 productId `679624` · [HTML profile page](../../produkte/ich-pr-fe-das-entscheidungs-workbook-ebook-56056.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.15 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EHCA888 |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ICH PRÜFE — Das Entscheidungs-Workbook (eBook)? — Typ: E-books, Anbieter: EHCA888, gelistet seit 2026-03-26
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

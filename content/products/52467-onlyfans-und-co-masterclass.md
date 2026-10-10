@@ -4,15 +4,15 @@ digistore24_product_id: 578122
 title: "OnlyFans und Co. Masterclass"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 43.75
+price: 43.83
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.53
+earnings_per_sale: 11.55
 cart_conversion_pct: 3
 cancel_rate_pct: 5.35
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/578122?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # OnlyFans und Co. Masterclass
 
 > Product ID `52467` · Digistore24 productId `578122` · [HTML profile page](../../produkte/onlyfans-und-co-masterclass-52467.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.75 (Single payment) |
+| Price | $43.83 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.53 |
+| Earnings/sale* | $11.55 |
 | Cart conversion* | 3% |
 | Cancel rate* | 5.35% |
 | Vendor | AnneWuensche |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OnlyFans und Co. Masterclass? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2024-10-31
-- Wie viel kostet es? — 43.748446 USD
+- Wie viel kostet es? — 43.826666 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

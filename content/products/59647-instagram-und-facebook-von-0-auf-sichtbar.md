@@ -4,15 +4,15 @@ digistore24_product_id: 736804
 title: "Instagram und Facebook: Von 0 auf sichtbar"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.06
+price: 93.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.23
+earnings_per_sale: 37.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/instagram-facebook-von-0-auf-sichtbar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram und Facebook: Von 0 auf sichtbar
 
 > Product ID `59647` · Digistore24 productId `736804` · [HTML profile page](../../produkte/instagram-und-facebook-von-0-auf-sichtbar-59647.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.06 (Single payment) |
+| Price | $93.22 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.23 |
+| Earnings/sale* | $37.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram und Facebook: Von 0 auf sichtbar? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-24
-- Wie viel kostet es? — 93.056334 USD
+- Wie viel kostet es? — 93.222714 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

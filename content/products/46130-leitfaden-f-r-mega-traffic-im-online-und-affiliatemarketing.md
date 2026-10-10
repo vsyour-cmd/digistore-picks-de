@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Mega-Traffic?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Leitfaden für mega Traffic im Online- und Affiliatemarketing
 
 > Product ID `46130` · Digistore24 productId `525532` · [HTML profile page](../../produkte/leitfaden-f-r-mega-traffic-im-online-und-affiliatemarketing-46130.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leitfaden für mega Traffic im Online- und Affiliatemarketing? — Typ: E-books, Anbieter: MSchlinder, gelistet seit 2023-11-16
-- Wie viel kostet es? — 0.268464 USD
+- Wie viel kostet es? — 0.268944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

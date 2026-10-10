@@ -4,15 +4,15 @@ digistore24_product_id: 633664
 title: "Einfach live visualisieren - für Coaches, Berater, Trainer"
 vendor: "JoergSchmidt"
 product_type: "Member area and video courses"
-price: 155.49
+price: 155.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 62.19
+earnings_per_sale: 62.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://einfach-visualisieren.coachy.net/lp/einfach-live-visualisieren/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Einfach live visualisieren - für Coaches, Berater, Trainer
 
 > Product ID `53914` · Digistore24 productId `633664` · [HTML profile page](../../produkte/einfach-live-visualisieren-f-r-coaches-berater-trainer-53914.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $155.49 (Single payment) |
+| Price | $155.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $62.19 |
+| Earnings/sale* | $62.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JoergSchmidt |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach live visualisieren - für Coaches, Berater, Trainer? — Typ: Member area and video courses, Anbieter: JoergSchmidt, gelistet seit 2025-09-04
-- Wie viel kostet es? — 155.4854 USD
+- Wie viel kostet es? — 155.76340000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

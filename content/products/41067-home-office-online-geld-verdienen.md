@@ -4,15 +4,15 @@ digistore24_product_id: 458319
 title: "Home Office -  Online Geld verdienen"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 52.17
+price: 52.26
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 41.73
+earnings_per_sale: 41.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/bHKvmdgL9nMdtSxQe?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Home Office -  Online Geld verdienen
 
 > Product ID `41067` · Digistore24 productId `458319` · [HTML profile page](../../produkte/home-office-online-geld-verdienen-41067.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.17 (Single payment) |
+| Price | $52.26 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $41.73 |
+| Earnings/sale* | $41.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Home Office -  Online Geld verdienen? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-08-31
-- Wie viel kostet es? — 52.171504000000006 USD
+- Wie viel kostet es? — 52.264784000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

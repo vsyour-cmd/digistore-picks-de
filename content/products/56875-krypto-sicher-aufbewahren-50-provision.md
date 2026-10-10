@@ -4,15 +4,15 @@ digistore24_product_id: 699224
 title: "Krypto sicher aufbewahren — 50 % Provision"
 vendor: "germany4951"
 product_type: "E-books"
-price: 72.14
+price: 72.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.07
+earnings_per_sale: 36.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet"]
 listed_since: "2026-06-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://alarm.de/krypto-vermoegen-schuetzen-dein-krypto-vermoegen-ist-nur-so-sicher-wie-deine-vorbereitung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Krypto sicher aufbewahren — 50 % Provision
 
 > Product ID `56875` · Digistore24 productId `699224` · [HTML profile page](../../produkte/krypto-sicher-aufbewahren-50-provision-56875.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.14 (Single payment) |
+| Price | $72.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.07 |
+| Earnings/sale* | $36.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | germany4951 |
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krypto sicher aufbewahren — 50 % Provision? — Typ: E-books, Anbieter: germany4951, gelistet seit 2026-06-12
-- Wie viel kostet es? — 72.138514 USD
+- Wie viel kostet es? — 72.267494 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

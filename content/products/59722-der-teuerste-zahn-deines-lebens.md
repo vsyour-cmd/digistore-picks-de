@@ -4,15 +4,15 @@ digistore24_product_id: 719976
 title: "Der teuerste Zahn deines Lebens"
 vendor: "SocratesDentalAcademy"
 product_type: "Member area and video courses"
-price: 176.72
+price: 177.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 88.36
+earnings_per_sale: 88.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://socratesdentalacademy.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Der teuerste Zahn deines Lebens
 
 > Product ID `59722` · Digistore24 productId `719976` · [HTML profile page](../../produkte/der-teuerste-zahn-deines-lebens-59722.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $176.72 (Single payment, Installment) |
+| Price | $177.03 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $88.36 |
+| Earnings/sale* | $88.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SocratesDentalAcademy |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der teuerste Zahn deines Lebens? — Typ: Member area and video courses, Anbieter: SocratesDentalAcademy, gelistet seit 2026-09-25
-- Wie viel kostet es? — 176.716428 USD
+- Wie viel kostet es? — 177.032388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

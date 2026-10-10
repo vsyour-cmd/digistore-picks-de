@@ -4,15 +4,15 @@ digistore24_product_id: 723302
 title: "Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 11.17
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.7
+earnings_per_sale: 6.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/723302?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund
 
 > Product ID `58489` · Digistore24 productId `723302` · [HTML profile page](../../produkte/toby-der-mutige-kleine-l-we-geschichten-und-malbuch-bund-58489.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.17 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.70 |
+| Earnings/sale* | $6.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | a968403496d45 |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Toby, der mutige kleine Löwe – Geschichten- und Malbuch-Bund? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-08-21
-- Wie viel kostet es? — 11.174814000000001 USD
+- Wie viel kostet es? — 11.194794 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

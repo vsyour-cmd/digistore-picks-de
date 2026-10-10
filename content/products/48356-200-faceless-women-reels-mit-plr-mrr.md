@@ -4,15 +4,15 @@ digistore24_product_id: 556373
 title: "200 Faceless Women Reels mit PLR/MRR"
 vendor: "NiclasH"
 product_type: "Downloads"
-price: 4.69
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 5
-earnings_per_sale: 0.23
+earnings_per_sale: 0.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2024-06-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/556373?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # 200 Faceless Women Reels mit PLR/MRR
 
 > Product ID `48356` · Digistore24 productId `556373` · [HTML profile page](../../produkte/200-faceless-women-reels-mit-plr-mrr-48356.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.69 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 5% |
-| Earnings/sale* | $0.23 |
+| Earnings/sale* | $0.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NiclasH |
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 200 Faceless Women Reels mit PLR/MRR? — Typ: Downloads, Anbieter: NiclasH, gelistet seit 2024-06-11
-- Wie viel kostet es? — 4.686934000000001 USD
+- Wie viel kostet es? — 4.695314000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

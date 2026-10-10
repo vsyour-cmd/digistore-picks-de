@@ -4,15 +4,15 @@ digistore24_product_id: 439162
 title: "Buch: Islam, Geld und Wohlstand"
 vendor: "IslamGeldWohlstand"
 product_type: "Book (printed)"
-price: 31.15
+price: 31.21
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.23
+earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-04-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/439162?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch: Islam, Geld und Wohlstand
 
 > Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../produkte/buch-islam-geld-und-wohlstand-40012.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.15 (Single payment) |
+| Price | $31.21 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.23 |
+| Earnings/sale* | $6.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IslamGeldWohlstand |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Islam, Geld und Wohlstand? — Typ: Book (printed), Anbieter: IslamGeldWohlstand, gelistet seit 2022-04-16
-- Wie viel kostet es? — 31.153010000000002 USD
+- Wie viel kostet es? — 31.208710000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

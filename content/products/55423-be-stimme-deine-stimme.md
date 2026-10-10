@@ -4,15 +4,15 @@ digistore24_product_id: 656139
 title: "Be (Stimme) deine Stimme"
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 57.09
+price: 57.2
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.96
+earnings_per_sale: 7.98
 cart_conversion_pct: 4
 cancel_rate_pct: 5.22
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/656139?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Be (Stimme) deine Stimme
 
 > Product ID `55423` · Digistore24 productId `656139` · [HTML profile page](../../produkte/be-stimme-deine-stimme-55423.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $57.09 (Single payment) |
+| Price | $57.20 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.96 |
+| Earnings/sale* | $7.98 |
 | Cart conversion* | 4% |
 | Cancel rate* | 5.22% |
 | Vendor | Erfolg2026 |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Be (Stimme) deine Stimme? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-12-17
-- Wie viel kostet es? — 57.093344 USD
+- Wie viel kostet es? — 57.195424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

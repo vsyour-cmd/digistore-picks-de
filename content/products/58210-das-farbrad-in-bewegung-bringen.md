@@ -4,15 +4,15 @@ digistore24_product_id: 712064
 title: "Das Farbrad in bewegung bringen"
 vendor: "FiaBiba"
 product_type: "Member area and video courses"
-price: 122.2
+price: 122.41
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.22
+earnings_per_sale: 12.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/712064?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Farbrad in bewegung bringen
 
 > Product ID `58210` · Digistore24 productId `712064` · [HTML profile page](../../produkte/das-farbrad-in-bewegung-bringen-58210.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.20 (Single payment) |
+| Price | $122.41 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.22 |
+| Earnings/sale* | $12.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FiaBiba |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Farbrad in bewegung bringen? — Typ: Member area and video courses, Anbieter: FiaBiba, gelistet seit 2026-08-07
-- Wie viel kostet es? — 122.195864 USD
+- Wie viel kostet es? — 122.414344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

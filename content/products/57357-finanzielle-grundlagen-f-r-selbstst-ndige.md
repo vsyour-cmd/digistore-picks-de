@@ -4,15 +4,15 @@ digistore24_product_id: 707219
 title: "Finanzielle Grundlagen für Selbstständige"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 39.68
+price: 39.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.9
+earnings_per_sale: 11.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/707219?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Finanzielle Grundlagen für Selbstständige
 
 > Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../produkte/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.68 (Single payment) |
+| Price | $39.75 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.90 |
+| Earnings/sale* | $11.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buergelconsulting |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzielle Grundlagen für Selbstständige? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 39.676742 USD
+- Wie viel kostet es? — 39.747682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

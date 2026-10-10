@@ -4,15 +4,15 @@ digistore24_product_id: 600240
 title: "Heimarbeit Paket - VSL der Geld in deine Tasche spült"
 vendor: "Moneycashnow"
 product_type: "Member area and video courses"
-price: 91.03
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.12
+earnings_per_sale: 40.2
 cart_conversion_pct: 8
 cancel_rate_pct: 11.41
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-03-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://heimarbeit-taetigkeiten.funnelcockpit.com/heimarbeit-vsl-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Heimarbeit Paket - VSL der Geld in deine Tasche spült
 
 > Product ID `52106` · Digistore24 productId `600240` · [HTML profile page](../../produkte/heimarbeit-paket-vsl-der-geld-in-deine-tasche-sp-lt-52106.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.03 (Single payment, Installment) |
+| Price | $91.19 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.12 |
+| Earnings/sale* | $40.20 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.41% |
 | Vendor | Moneycashnow |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heimarbeit Paket - VSL der Geld in deine Tasche spült? — Typ: Member area and video courses, Anbieter: Moneycashnow, gelistet seit 2025-03-06
-- Wie viel kostet es? — 91.031668 USD
+- Wie viel kostet es? — 91.194428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

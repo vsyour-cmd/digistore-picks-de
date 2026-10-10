@@ -4,15 +4,15 @@ digistore24_product_id: 466465
 title: "FABI's Kreativclub \"Video\""
 vendor: "FABISDESIGNkids"
 product_type: "Member area and video courses"
-price: 197.4
+price: 197.75
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 71.13
+earnings_per_sale: 71.26
 cart_conversion_pct: 25
 cancel_rate_pct: 1.8
 categories: ["Family & Children"]
 listed_since: "2022-10-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FABI's Kreativclub "Video"
 
 > Product ID `44423` · Digistore24 productId `466465` · [HTML profile page](../../produkte/fabi-s-kreativclub-video-44423.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.40 (Subscription) |
+| Price | $197.75 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $71.13 |
+| Earnings/sale* | $71.26 |
 | Cart conversion* | 25% |
 | Cancel rate* | 1.8% |
 | Vendor | FABISDESIGNkids |
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FABI's Kreativclub "Video"? — Typ: Member area and video courses, Anbieter: FABISDESIGNkids, gelistet seit 2022-10-25
-- Wie viel kostet es? — 197.39934200000002 USD
+- Wie viel kostet es? — 197.752282 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

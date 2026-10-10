@@ -4,15 +4,15 @@ digistore24_product_id: 605495
 title: "Das LaunchReady System"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/launchready?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das LaunchReady System
 
 > Product ID `55321` · Digistore24 productId `605495` · [HTML profile page](../../produkte/das-launchready-system-55321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.49 (Single payment) |
+| Price | $23.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das LaunchReady System? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-04-04
-- Wie viel kostet es? — 23.4906 USD
+- Wie viel kostet es? — 23.532600000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

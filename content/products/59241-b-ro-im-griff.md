@@ -4,15 +4,15 @@ digistore24_product_id: 731526
 title: "Büro im Griff"
 vendor: "sumsi204512"
 product_type: "Member area and video courses"
-price: 36.66
+price: 36.72
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.67
+earnings_per_sale: 3.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Marketing Services"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731526?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Büro im Griff
 
 > Product ID `59241` · Digistore24 productId `731526` · [HTML profile page](../../produkte/b-ro-im-griff-59241.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.66 (Single payment) |
+| Price | $36.72 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.67 |
+| Earnings/sale* | $3.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sumsi204512 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Büro im Griff? — Typ: Member area and video courses, Anbieter: sumsi204512, gelistet seit 2026-09-15
-- Wie viel kostet es? — 36.656522 USD
+- Wie viel kostet es? — 36.72206200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

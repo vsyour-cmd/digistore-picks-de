@@ -4,7 +4,7 @@ digistore24_product_id: 161321
 title: "Goodbye 9 to 5 - ortsunabhängig arbeiten und leben [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 10.46
+price: 10.48
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.66
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
 listed_since: "2017-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/ortsunabhaengig-arbeiten-main/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Goodbye 9 to 5 - ortsunabhängig arbeiten und leben [E-Book]
 
 > Product ID `25509` · Digistore24 productId `161321` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-arbeiten-und-leben-e-book-25509.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.46 (Single payment) |
+| Price | $10.48 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Goodbye 9 to 5 - ortsunabhängig arbeiten und leben [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2017-09-03
-- Wie viel kostet es? — 10.45891 USD
+- Wie viel kostet es? — 10.47761 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

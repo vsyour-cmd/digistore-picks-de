@@ -4,15 +4,15 @@ digistore24_product_id: 540153
 title: "Zuckerfrei leben und dabei Geld verdienen"
 vendor: "Libelle99"
 product_type: "Downloads"
-price: 14.09
+price: 14.12
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2024-02-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://soulcare-health.de/zuckerfrei-e-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Zuckerfrei leben und dabei Geld verdienen
 
 > Product ID `51479` · Digistore24 productId `540153` · [HTML profile page](../../produkte/zuckerfrei-leben-und-dabei-geld-verdienen-51479.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.09 (Single payment) |
+| Price | $14.12 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Libelle99 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zuckerfrei leben und dabei Geld verdienen? — Typ: Downloads, Anbieter: Libelle99, gelistet seit 2024-02-21
-- Wie viel kostet es? — 14.09436 USD
+- Wie viel kostet es? — 14.11956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

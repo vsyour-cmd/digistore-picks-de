@@ -4,7 +4,7 @@ digistore24_product_id: 504039
 title: "Onboarding Internetbusiness"
 vendor: "gehtanders"
 product_type: "Member area and video courses"
-price: 12.17
+price: 12.19
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,7 +12,7 @@ cart_conversion_pct: 28
 cancel_rate_pct: 10.03
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-06-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://passive-online-rente.de/onboarding/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Onboarding Internetbusiness
 
 > Product ID `44488` · Digistore24 productId `504039` · [HTML profile page](../../produkte/onboarding-internetbusiness-44488.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $12.17 (Single payment) |
+| Price | $12.19 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | 28% |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onboarding Internetbusiness? — Typ: Member area and video courses, Anbieter: gehtanders, gelistet seit 2023-06-21
-- Wie viel kostet es? — 12.170368000000002 USD
+- Wie viel kostet es? — 12.192128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

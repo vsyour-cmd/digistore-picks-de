@@ -4,15 +4,15 @@ digistore24_product_id: 648294
 title: "Große Linien - Ausmalbuch für Senioren und Menschen mit Deme"
 vendor: "Zukunftsgestalterin"
 product_type: "E-books"
-price: 18.71
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.62
+earnings_per_sale: 5.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Hobby & Craft"]
 listed_since: "2025-11-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/648294?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Große Linien - Ausmalbuch für Senioren und Menschen mit Deme
 
 > Product ID `54673` · Digistore24 productId `648294` · [HTML profile page](../../produkte/gro-e-linien-ausmalbuch-f-r-senioren-und-menschen-mit-deme-54673.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.62 |
+| Earnings/sale* | $5.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Zukunftsgestalterin |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Große Linien - Ausmalbuch für Senioren und Menschen mit Deme? — Typ: E-books, Anbieter: Zukunftsgestalterin, gelistet seit 2025-11-13
-- Wie viel kostet es? — 18.714178 USD
+- Wie viel kostet es? — 18.747638000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

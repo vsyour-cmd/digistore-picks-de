@@ -4,7 +4,7 @@ digistore24_product_id: 599898
 title: "InstaBoost AI (1€)"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 2.74
+price: 2.75
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 1.39
@@ -12,7 +12,7 @@ cart_conversion_pct: 35
 cancel_rate_pct: 6.35
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/instaboostai?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # InstaBoost AI (1€)
 
 > Product ID `52813` · Digistore24 productId `599898` · [HTML profile page](../../produkte/instaboost-ai-1-52813.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2.74 (Single payment) |
+| Price | $2.75 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $1.39 |
 | Cart conversion* | 35% |
@@ -61,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist InstaBoost AI (1€)? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-03-05
-- Wie viel kostet es? — 2.7405700000000004 USD
+- Wie viel kostet es? — 2.74547 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

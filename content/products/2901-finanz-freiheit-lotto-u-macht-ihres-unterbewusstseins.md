@@ -4,15 +4,15 @@ digistore24_product_id: 23585
 title: "FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS"
 vendor: "joviojo"
 product_type: "Downloads"
-price: 37.32
+price: 37.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.66
+earnings_per_sale: 18.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2014-04-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://pendelsystem.de?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS
 
 > Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../produkte/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.32 (Single payment) |
+| Price | $37.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.66 |
+| Earnings/sale* | $18.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joviojo |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS? — Typ: Downloads, Anbieter: joviojo, gelistet seit 2014-04-02
-- Wie viel kostet es? — 37.316496 USD
+- Wie viel kostet es? — 37.383216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

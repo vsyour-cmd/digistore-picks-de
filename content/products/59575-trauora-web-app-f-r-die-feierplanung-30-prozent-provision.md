@@ -4,15 +4,15 @@ digistore24_product_id: 735858
 title: "Trauora: Web-App für die Feierplanung, 30 Prozent Provision"
 vendor: "delnexstudio"
 product_type: "Member area and video courses"
-price: 46.99
+price: 47.08
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://trauora.de/?partner=1&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Trauora: Web-App für die Feierplanung, 30 Prozent Provision
 
 > Product ID `59575` · Digistore24 productId `735858` · [HTML profile page](../../produkte/trauora-web-app-f-r-die-feierplanung-30-prozent-provision-59575.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.99 (Single payment) |
+| Price | $47.08 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | delnexstudio |
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trauora: Web-App für die Feierplanung, 30 Prozent Provision? — Typ: Member area and video courses, Anbieter: delnexstudio, gelistet seit 2026-09-23
-- Wie viel kostet es? — 46.992385999999996 USD
+- Wie viel kostet es? — 47.076406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

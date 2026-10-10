@@ -4,15 +4,15 @@ digistore24_product_id: 621099
 title: "Haus privat verkaufen - ohne hohe Maklerkosten"
 vendor: "Jeanne70"
 product_type: "E-books"
-price: 38.68
+price: 38.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.74
+earnings_per_sale: 7.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Real Estate","Sales Training"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/621099?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Haus privat verkaufen - ohne hohe Maklerkosten
 
 > Product ID `53010` · Digistore24 productId `621099` · [HTML profile page](../../produkte/haus-privat-verkaufen-ohne-hohe-maklerkosten-53010.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.68 (Single payment) |
+| Price | $38.75 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.74 |
+| Earnings/sale* | $7.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jeanne70 |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haus privat verkaufen - ohne hohe Maklerkosten? — Typ: E-books, Anbieter: Jeanne70, gelistet seit 2025-06-27
-- Wie viel kostet es? — 38.681188 USD
+- Wie viel kostet es? — 38.750348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

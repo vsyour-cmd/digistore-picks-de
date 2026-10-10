@@ -4,15 +4,15 @@ digistore24_product_id: 673934
 title: "Pinterest Mastery – Mit Pinterest planbar"
 vendor: "JennyKlh"
 product_type: "E-books"
-price: 134.86
+price: 135.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 67.43
+earnings_per_sale: 67.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-03-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mama-zuhause-erfolgreich.de/pinterest-mastery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest Mastery – Mit Pinterest planbar
 
 > Product ID `55801` · Digistore24 productId `673934` · [HTML profile page](../../produkte/pinterest-mastery-mit-pinterest-planbar-55801.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $134.86 (Single payment) |
+| Price | $135.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $67.43 |
+| Earnings/sale* | $67.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JennyKlh |
@@ -90,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Mastery – Mit Pinterest planbar? — Typ: E-books, Anbieter: JennyKlh, gelistet seit 2026-03-05
-- Wie viel kostet es? — 134.858416 USD
+- Wie viel kostet es? — 135.099536 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

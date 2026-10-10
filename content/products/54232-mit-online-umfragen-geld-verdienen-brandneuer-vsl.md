@@ -4,15 +4,15 @@ digistore24_product_id: 614532
 title: "Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 212.49
+price: 212.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 156.16
+earnings_per_sale: 156.44
 cart_conversion_pct: 7
 cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-05-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://umfragen-system.de/komplettpaket-start-2/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!
 
 > Product ID `54232` · Digistore24 productId `614532` · [HTML profile page](../../produkte/mit-online-umfragen-geld-verdienen-brandneuer-vsl-54232.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $212.49 (Single payment, Installment) |
+| Price | $212.87 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $156.16 |
+| Earnings/sale* | $156.44 |
 | Cart conversion* | 7% |
 | Cancel rate* | 1.99% |
 | Vendor | CyrilCash |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2025-05-23
-- Wie viel kostet es? — 212.489256 USD
+- Wie viel kostet es? — 212.869176 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

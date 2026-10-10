@@ -4,15 +4,15 @@ digistore24_product_id: 740055
 title: "CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window"
 vendor: "inspiredsoftware"
 product_type: "Software"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.92
+earnings_per_sale: 21.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.inspiredsoftware.de/go/capturestudio?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window
 
 > Product ID `60121` · Digistore24 productId `740055` · [HTML profile page](../../produkte/capturestudio-bildschirm-und-sprecher-aufnahme-f-r-window-60121.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.92 |
+| Earnings/sale* | $21.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | inspiredsoftware |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window? — Typ: Software, Anbieter: inspiredsoftware, gelistet seit 2026-10-02
-- Wie viel kostet es? — 54.8114 USD
+- Wie viel kostet es? — 54.909400000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

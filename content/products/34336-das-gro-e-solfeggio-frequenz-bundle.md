@@ -4,15 +4,15 @@ digistore24_product_id: 305026
 title: "Das große Solfeggio-Frequenz Bundle"
 vendor: "Michalis"
 product_type: "Downloads"
-price: 17.11
+price: 17.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.67
+earnings_per_sale: 32.73
 cart_conversion_pct: 8
 cancel_rate_pct: 0.66
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.solfeggio-frequenzen.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Solfeggio-Frequenz Bundle
 
 > Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../produkte/das-gro-e-solfeggio-frequenz-bundle-34336.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.11 (Single payment) |
+| Price | $17.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.67 |
+| Earnings/sale* | $32.73 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.66% |
 | Vendor | Michalis |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Solfeggio-Frequenz Bundle? — Typ: Downloads, Anbieter: Michalis, gelistet seit 2020-01-23
-- Wie viel kostet es? — 17.11458 USD
+- Wie viel kostet es? — 17.14518 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

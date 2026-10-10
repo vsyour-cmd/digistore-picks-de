@@ -4,15 +4,15 @@ digistore24_product_id: 174217
 title: "Dividenden-Alarm"
 vendor: "WebValley"
 product_type: "Downloads"
-price: 331.62
+price: 332.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 92.75
+earnings_per_sale: 92.92
 cart_conversion_pct: 24
 cancel_rate_pct: 0.17
 categories: ["Business & Investment"]
 listed_since: "2017-10-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://reich-mit-plan.de/dividendenstrategie-dividenden-alarm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Dividenden-Alarm
 
 > Product ID `20083` · Digistore24 productId `174217` · [HTML profile page](../../produkte/dividenden-alarm-20083.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $331.62 (Single payment) |
+| Price | $332.21 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $92.75 |
+| Earnings/sale* | $92.92 |
 | Cart conversion* | 24% |
 | Cancel rate* | 0.17% |
 | Vendor | WebValley |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dividenden-Alarm? — Typ: Downloads, Anbieter: WebValley, gelistet seit 2017-10-26
-- Wie viel kostet es? — 331.620156 USD
+- Wie viel kostet es? — 332.213076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

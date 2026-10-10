@@ -4,15 +4,15 @@ digistore24_product_id: 735755
 title: "TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach"
 vendor: "digitale24"
 product_type: "E-books"
-price: 10.4
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.2
+earnings_per_sale: 5.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Online Marketing"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735755?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach
 
 > Product ID `59493` · Digistore24 productId `735755` · [HTML profile page](../../produkte/tiktok-shop-masterclass-der-vollst-ndige-praxiskurs-f-r-dach-59493.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.20 |
+| Earnings/sale* | $5.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitale24 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach? — Typ: E-books, Anbieter: digitale24, gelistet seit 2026-09-22
-- Wie viel kostet es? — 10.402980000000001 USD
+- Wie viel kostet es? — 10.42158 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

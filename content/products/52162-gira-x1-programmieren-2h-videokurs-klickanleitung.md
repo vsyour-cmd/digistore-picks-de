@@ -4,15 +4,15 @@ digistore24_product_id: 303866
 title: "Gira X1 programmieren - 2h Videokurs Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 238.07
+price: 238.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.61
+earnings_per_sale: 47.69
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-01-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
 > Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $238.07 (Single payment, Installment) |
+| Price | $238.50 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.61 |
+| Earnings/sale* | $47.69 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gira X1 programmieren - 2h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-01-18
-- Wie viel kostet es? — 238.07163800000004 USD
+- Wie viel kostet es? — 238.49729800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

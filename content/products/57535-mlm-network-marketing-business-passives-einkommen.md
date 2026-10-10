@@ -4,15 +4,15 @@ digistore24_product_id: 711804
 title: "MLM/Network-Marketing Business - Passives Einkommen"
 vendor: "FreedomBusinessSH3"
 product_type: "Member area and video courses"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.28
+earnings_per_sale: 11.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.freedom-network-business.de/mlm-formel?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # MLM/Network-Marketing Business - Passives Einkommen
 
 > Product ID `57535` · Digistore24 productId `711804` · [HTML profile page](../../produkte/mlm-network-marketing-business-passives-einkommen-57535.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.79 (Single payment) |
+| Price | $18.83 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.28 |
+| Earnings/sale* | $11.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreedomBusinessSH3 |
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MLM/Network-Marketing Business - Passives Einkommen? — Typ: Member area and video courses, Anbieter: FreedomBusinessSH3, gelistet seit 2026-07-14
-- Wie viel kostet es? — 18.79248 USD
+- Wie viel kostet es? — 18.82608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 649949
 title: "Orbli – So klebrig waren Provisionen noch nie!"
 vendor: "Orbli-GmbH"
 product_type: "Remote service provided electronically"
-price: 408.29
+price: 409.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 122.49
+earnings_per_sale: 122.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.orbli.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Orbli – So klebrig waren Provisionen noch nie!
 
 > Product ID `54919` · Digistore24 productId `649949` · [HTML profile page](../../produkte/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $408.29 (Subscription) |
+| Price | $409.02 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $122.49 |
+| Earnings/sale* | $122.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Orbli-GmbH |
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Orbli – So klebrig waren Provisionen noch nie!? — Typ: Remote service provided electronically, Anbieter: Orbli-GmbH, gelistet seit 2025-11-20
-- Wie viel kostet es? — 408.289 USD
+- Wie viel kostet es? — 409.019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

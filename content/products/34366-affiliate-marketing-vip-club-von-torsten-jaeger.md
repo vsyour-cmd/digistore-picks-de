@@ -4,15 +4,15 @@ digistore24_product_id: 320335
 title: "Affiliate Marketing - VIP CLUB von Torsten Jaeger"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 69.08
+price: 69.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 62.88
+earnings_per_sale: 62.99
 cart_conversion_pct: 8
 cancel_rate_pct: 1.82
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-04-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://vipaffiliatemarketingclub.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Marketing - VIP CLUB von Torsten Jaeger
 
 > Product ID `34366` · Digistore24 productId `320335` · [HTML profile page](../../produkte/affiliate-marketing-vip-club-von-torsten-jaeger-34366.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.08 (Subscription) |
+| Price | $69.21 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $62.88 |
+| Earnings/sale* | $62.99 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.82% |
 | Vendor | sattelitevendor |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing - VIP CLUB von Torsten Jaeger? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2020-04-13
-- Wie viel kostet es? — 69.084736 USD
+- Wie viel kostet es? — 69.208256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

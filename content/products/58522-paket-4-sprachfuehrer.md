@@ -4,15 +4,15 @@ digistore24_product_id: 724901
 title: "paket_4_sprachfuehrer"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 17.77
+price: 17.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.89
+earnings_per_sale: 8.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724901?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # paket_4_sprachfuehrer
 
 > Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../produkte/paket-4-sprachfuehrer-58522.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.89 |
+| Earnings/sale* | $8.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist paket_4_sprachfuehrer? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-22
-- Wie viel kostet es? — 17.774554000000002 USD
+- Wie viel kostet es? — 17.806334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

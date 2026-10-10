@@ -4,15 +4,15 @@ digistore24_product_id: 607924
 title: "PornExit Masterclass: Schluss mit Pornosucht"
 vendor: "NatureHeartAcademy"
 product_type: "Member area and video courses"
-price: 337.46
+price: 338.06
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 67.5
+earnings_per_sale: 67.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.fabiankowallikacademy.de/start/pornexit-masterclass/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # PornExit Masterclass: Schluss mit Pornosucht
 
 > Product ID `52338` · Digistore24 productId `607924` · [HTML profile page](../../produkte/pornexit-masterclass-schluss-mit-pornosucht-52338.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $337.46 (Single payment) |
+| Price | $338.06 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $67.50 |
+| Earnings/sale* | $67.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NatureHeartAcademy |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PornExit Masterclass: Schluss mit Pornosucht? — Typ: Member area and video courses, Anbieter: NatureHeartAcademy, gelistet seit 2025-04-17
-- Wie viel kostet es? — 337.459248 USD
+- Wie viel kostet es? — 338.062608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

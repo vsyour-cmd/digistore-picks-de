@@ -4,15 +4,15 @@ digistore24_product_id: 110115
 title: "Audio Heilung"
 vendor: "doitAkademie"
 product_type: "Downloads"
-price: 849.06
+price: 850.58
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 281.52
+earnings_per_sale: 282.02
 cart_conversion_pct: 2
 cancel_rate_pct: 9.97
 categories: ["Personal Development"]
 listed_since: "2016-12-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://bodysense.de/koerperfeldcoaching-audio/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Audio Heilung
 
 > Product ID `37900` · Digistore24 productId `110115` · [HTML profile page](../../produkte/audio-heilung-37900.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $849.06 (Single payment, Installment) |
+| Price | $850.58 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $281.52 |
+| Earnings/sale* | $282.02 |
 | Cart conversion* | 2% |
 | Cancel rate* | 9.97% |
 | Vendor | doitAkademie |
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio Heilung? — Typ: Downloads, Anbieter: doitAkademie, gelistet seit 2016-12-21
-- Wie viel kostet es? — 849.062144 USD
+- Wie viel kostet es? — 850.580224 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 557396
 title: "Low Content Bücher erstellen und verkaufen"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 224.66
+price: 225.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 59.25
+earnings_per_sale: 59.36
 cart_conversion_pct: 8
 cancel_rate_pct: 0.68
 categories: ["Education","Hobby & Craft","Online Marketing & E-Business"]
 listed_since: "2024-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/lowcontent?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Low Content Bücher erstellen und verkaufen
 
 > Product ID `48784` · Digistore24 productId `557396` · [HTML profile page](../../produkte/low-content-b-cher-erstellen-und-verkaufen-48784.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $224.66 (Single payment, Installment) |
+| Price | $225.06 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $59.25 |
+| Earnings/sale* | $59.36 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.68% |
 | Vendor | Jyotima |
@@ -102,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Content Bücher erstellen und verkaufen? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2024-06-18
-- Wie viel kostet es? — 224.659624 USD
+- Wie viel kostet es? — 225.061304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

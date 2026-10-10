@@ -4,15 +4,15 @@ digistore24_product_id: 734491
 title: "Buch erstellen mit KI – KI-Autor Komplettsystem"
 vendor: "BroLimits"
 product_type: "Member area and video courses"
-price: 140.06
+price: 140.31
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 55.93
+earnings_per_sale: 56.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Software"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://buch-erstellen-mit-ki.de/mitglied-werden/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Buch erstellen mit KI – KI-Autor Komplettsystem
 
 > Product ID `60231` · Digistore24 productId `734491` · [HTML profile page](../../produkte/buch-erstellen-mit-ki-ki-autor-komplettsystem-60231.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.06 (Single payment) |
+| Price | $140.31 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $55.93 |
+| Earnings/sale* | $56.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BroLimits |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch erstellen mit KI – KI-Autor Komplettsystem? — Typ: Member area and video courses, Anbieter: BroLimits, gelistet seit 2026-10-06
-- Wie viel kostet es? — 140.05990599999998 USD
+- Wie viel kostet es? — 140.310326 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

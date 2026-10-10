@@ -4,15 +4,15 @@ digistore24_product_id: 665513
 title: "Werde Digitaler Assistent: Starte dein Home-Office Business"
 vendor: "iloveit24"
 product_type: "Member area and video courses"
-price: 279.18
+price: 279.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.59
+earnings_per_sale: 139.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
 listed_since: "2026-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.digitaler-assistent-werden.com/start?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Werde Digitaler Assistent: Starte dein Home-Office Business
 
 > Product ID `55416` · Digistore24 productId `665513` · [HTML profile page](../../produkte/werde-digitaler-assistent-starte-dein-home-office-business-55416.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.18 (Single payment) |
+| Price | $279.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.59 |
+| Earnings/sale* | $139.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | iloveit24 |
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde Digitaler Assistent: Starte dein Home-Office Business? — Typ: Member area and video courses, Anbieter: iloveit24, gelistet seit 2026-01-31
-- Wie viel kostet es? — 279.18018800000004 USD
+- Wie viel kostet es? — 279.679348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

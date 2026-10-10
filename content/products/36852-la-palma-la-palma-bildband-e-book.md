@@ -4,15 +4,15 @@ digistore24_product_id: 392067
 title: "LA PALMA: La Palma Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.41
+price: 14.43
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 2.95
+earnings_per_sale: 2.96
 cart_conversion_pct: 31
 cancel_rate_pct: 0.77
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2021-05-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/la-palma-bildband/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # LA PALMA: La Palma Bildband [E-Book]
 
 > Product ID `36852` · Digistore24 productId `392067` · [HTML profile page](../../produkte/la-palma-la-palma-bildband-e-book-36852.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.41 (Single payment) |
+| Price | $14.43 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $2.95 |
+| Earnings/sale* | $2.96 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.77% |
 | Vendor | rheinrost |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LA PALMA: La Palma Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2021-05-28
-- Wie viel kostet es? — 14.407568000000001 USD
+- Wie viel kostet es? — 14.433328000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

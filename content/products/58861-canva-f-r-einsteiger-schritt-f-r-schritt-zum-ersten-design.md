@@ -4,15 +4,15 @@ digistore24_product_id: 727952
 title: "Canva für Einsteiger - Schritt für Schritt zum ersten Design"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13.13
+earnings_per_sale: 13.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Online Marketing"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Canva für Einsteiger - Schritt für Schritt zum ersten Design
 
 > Product ID `58861` · Digistore24 productId `727952` · [HTML profile page](../../produkte/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-design-58861.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.51 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.13 |
+| Earnings/sale* | $13.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva für Einsteiger - Schritt für Schritt zum ersten Design? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

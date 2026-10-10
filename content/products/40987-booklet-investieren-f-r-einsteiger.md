@@ -4,15 +4,15 @@ digistore24_product_id: 446147
 title: "Booklet: Investieren für Einsteiger"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 7.48
+price: 7.5
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 5.22
+earnings_per_sale: 5.23
 cart_conversion_pct: 31
 cancel_rate_pct: 0.22
 categories: ["Finances"]
 listed_since: "2022-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Booklet: Investieren für Einsteiger
 
 > Product ID `40987` · Digistore24 productId `446147` · [HTML profile page](../../produkte/booklet-investieren-f-r-einsteiger-40987.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.48 (Single payment) |
+| Price | $7.50 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $5.22 |
+| Earnings/sale* | $5.23 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.22% |
 | Vendor | Staatenlos |
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Booklet: Investieren für Einsteiger? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2022-06-09
-- Wie viel kostet es? — 7.483434000000001 USD
+- Wie viel kostet es? — 7.4968140000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

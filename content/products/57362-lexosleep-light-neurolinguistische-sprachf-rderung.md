@@ -4,15 +4,15 @@ digistore24_product_id: 670975
 title: "Lexosleep light - Neurolinguistische Sprachförderung"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 67.12
+price: 67.24
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.71
+earnings_per_sale: 6.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-light-2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Lexosleep light - Neurolinguistische Sprachförderung
 
 > Product ID `57362` · Digistore24 productId `670975` · [HTML profile page](../../produkte/lexosleep-light-neurolinguistische-sprachf-rderung-57362.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $67.12 (Single payment) |
+| Price | $67.24 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.71 |
+| Earnings/sale* | $6.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lexosleep light - Neurolinguistische Sprachförderung? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 67.116 USD
+- Wie viel kostet es? — 67.236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 274760
 title: "Yoga Fit - Das Yogaworkoutprogramm"
 vendor: "andrea-szodruch"
 product_type: "Member area and video courses"
-price: 34.78
+price: 34.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://simsix.lpages.co/yoga-fit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga Fit - Das Yogaworkoutprogramm
 
 > Product ID `30395` · Digistore24 productId `274760` · [HTML profile page](../../produkte/yoga-fit-das-yogaworkoutprogramm-30395.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.78 (Single payment) |
+| Price | $34.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andrea-szodruch |
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Fit - Das Yogaworkoutprogramm? — Typ: Member area and video courses, Anbieter: andrea-szodruch, gelistet seit 2019-06-06
-- Wie viel kostet es? — 34.777274 USD
+- Wie viel kostet es? — 34.839454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

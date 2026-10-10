@@ -4,15 +4,15 @@ digistore24_product_id: 651840
 title: "Die „Elite“ Der Aton-Kult"
 vendor: "Axel-Schoenfelder"
 product_type: "E-books"
-price: 58.95
+price: 59.06
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 20.97
+earnings_per_sale: 21.01
 cart_conversion_pct: 2
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Politics & Economy"]
 listed_since: "2025-11-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/651840?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die „Elite“ Der Aton-Kult
 
 > Product ID `54800` · Digistore24 productId `651840` · [HTML profile page](../../produkte/die-elite-der-aton-kult-54800.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $58.95 (Single payment) |
+| Price | $59.06 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $20.97 |
+| Earnings/sale* | $21.01 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0% |
 | Vendor | Axel-Schoenfelder |
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die „Elite“ Der Aton-Kult? — Typ: E-books, Anbieter: Axel-Schoenfelder, gelistet seit 2025-11-29
-- Wie viel kostet es? — 58.95022000000001 USD
+- Wie viel kostet es? — 59.055620000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

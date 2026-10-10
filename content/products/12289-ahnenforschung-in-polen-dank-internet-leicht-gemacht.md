@@ -4,15 +4,15 @@ digistore24_product_id: 436380
 title: "Ahnenforschung in Polen dank Internet leicht gemacht"
 vendor: "amanka"
 product_type: "E-books"
-price: 36.49
+price: 36.55
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.13
+earnings_per_sale: 9.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2022-03-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.ahnenforschunginpolen.eu/buch/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ahnenforschung in Polen dank Internet leicht gemacht
 
 > Product ID `12289` · Digistore24 productId `436380` · [HTML profile page](../../produkte/ahnenforschung-in-polen-dank-internet-leicht-gemacht-12289.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.49 (Single payment) |
+| Price | $36.55 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.13 |
+| Earnings/sale* | $9.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | amanka |
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ahnenforschung in Polen dank Internet leicht gemacht? — Typ: E-books, Anbieter: amanka, gelistet seit 2022-03-29
-- Wie viel kostet es? — 36.488732 USD
+- Wie viel kostet es? — 36.553972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

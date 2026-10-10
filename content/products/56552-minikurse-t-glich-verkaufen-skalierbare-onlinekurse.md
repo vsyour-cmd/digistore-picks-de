@@ -4,15 +4,15 @@ digistore24_product_id: 688026
 title: "Minikurse täglich verkaufen, skalierbare Onlinekurse"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 63.76
+price: 63.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.13
+earnings_per_sale: 19.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/minikurs-hotcake/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurse täglich verkaufen, skalierbare Onlinekurse
 
 > Product ID `56552` · Digistore24 productId `688026` · [HTML profile page](../../produkte/minikurse-t-glich-verkaufen-skalierbare-onlinekurse-56552.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.76 (Single payment, Installment) |
+| Price | $63.87 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.13 |
+| Earnings/sale* | $19.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurse täglich verkaufen, skalierbare Onlinekurse? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2026-05-18
-- Wie viel kostet es? — 63.760200000000005 USD
+- Wie viel kostet es? — 63.8742 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,15 +4,15 @@ digistore24_product_id: 653727
 title: "Digitale Bachblüten – ein weltweit neuartiges Produkt"
 vendor: "AquaLunaris"
 product_type: "Downloads"
-price: 32.85
+price: 32.91
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.14
+earnings_per_sale: 13.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://aqualunaris.de/digitale-bachblueten-mischung-039-notfalltropfen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Bachblüten – ein weltweit neuartiges Produkt
 
 > Product ID `55105` · Digistore24 productId `653727` · [HTML profile page](../../produkte/digitale-bachbl-ten-ein-weltweit-neuartiges-produkt-55105.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.85 (Single payment) |
+| Price | $32.91 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.14 |
+| Earnings/sale* | $13.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AquaLunaris |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Bachblüten – ein weltweit neuartiges Produkt? — Typ: Downloads, Anbieter: AquaLunaris, gelistet seit 2025-12-07
-- Wie viel kostet es? — 32.853282 USD
+- Wie viel kostet es? — 32.912022 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

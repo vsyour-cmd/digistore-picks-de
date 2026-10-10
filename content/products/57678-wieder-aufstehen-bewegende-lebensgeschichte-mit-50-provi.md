@@ -4,15 +4,15 @@ digistore24_product_id: 681444
 title: "Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi"
 vendor: "Weisskopfadler2013"
 product_type: "Downloads"
-price: 12.17
+price: 12.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.09
+earnings_per_sale: 6.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/681444?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi
 
 > Product ID `57678` · Digistore24 productId `681444` · [HTML profile page](../../produkte/wieder-aufstehen-bewegende-lebensgeschichte-mit-50-provi-57678.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.17 (Single payment) |
+| Price | $12.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.09 |
+| Earnings/sale* | $6.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Weisskopfadler2013 |
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wieder Aufstehen – Bewegende Lebensgeschichte mit 50 % Provi? — Typ: Downloads, Anbieter: Weisskopfadler2013, gelistet seit 2026-07-22
-- Wie viel kostet es? — 12.170368000000002 USD
+- Wie viel kostet es? — 12.192128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

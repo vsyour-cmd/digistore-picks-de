@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Wärmekissen Schnittmuster
 
 > Product ID `4179` · Digistore24 productId `12439` · [HTML profile page](../../produkte/w-rmekissen-schnittmuster-4179.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wärmekissen Schnittmuster? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-05-27
-- Wie viel kostet es? — 2.807686 USD
+- Wie viel kostet es? — 2.812706 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

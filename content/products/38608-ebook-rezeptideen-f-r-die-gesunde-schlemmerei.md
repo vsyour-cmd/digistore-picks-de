@@ -4,7 +4,7 @@ digistore24_product_id: 421370
 title: "eBook - Rezeptideen für die Gesunde Schlemmerei"
 vendor: "bebrave"
 product_type: "E-books"
-price: 15.68
+price: 15.71
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-12-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/421370?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Rezeptideen für die Gesunde Schlemmerei
 
 > Product ID `38608` · Digistore24 productId `421370` · [HTML profile page](../../produkte/ebook-rezeptideen-f-r-die-gesunde-schlemmerei-38608.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.71 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Rezeptideen für die Gesunde Schlemmerei? — Typ: E-books, Anbieter: bebrave, gelistet seit 2021-12-19
-- Wie viel kostet es? — 15.682772 USD
+- Wie viel kostet es? — 15.710812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 710046
 title: "30% Provision für Scroll-Stopp Fast: Die 14-Tage Handy-Chall"
 vendor: "Tipp-Meister"
 product_type: "E-books"
-price: 15.58
+price: 15.61
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Social Media"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://scrolll-stop-fast.netlify.app?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # 30% Provision für Scroll-Stopp Fast: Die 14-Tage Handy-Chall
 
 > Product ID `57477` · Digistore24 productId `710046` · [HTML profile page](../../produkte/30-provision-f-r-scroll-stopp-fast-die-14-tage-handy-chall-57477.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.58 (Single payment) |
+| Price | $15.61 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.68 |
 | Cart conversion* | — |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30% Provision für Scroll-Stopp Fast: Die 14-Tage Handy-Chall? — Typ: E-books, Anbieter: Tipp-Meister, gelistet seit 2026-07-10
-- Wie viel kostet es? — 15.582098 USD
+- Wie viel kostet es? — 15.609958 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

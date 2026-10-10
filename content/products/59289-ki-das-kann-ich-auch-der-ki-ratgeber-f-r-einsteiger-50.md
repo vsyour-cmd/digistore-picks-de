@@ -4,15 +4,15 @@ digistore24_product_id: 732960
 title: "KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 30.31
+price: 30.37
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.13
+earnings_per_sale: 12.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Software"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.mg-wissen.de/buecher/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+
 
 > Product ID `59289` · Digistore24 productId `732960` · [HTML profile page](../../produkte/ki-das-kann-ich-auch-der-ki-ratgeber-f-r-einsteiger-50-59289.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.37 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.13 |
+| Earnings/sale* | $12.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-16
-- Wie viel kostet es? — 30.31406 USD
+- Wie viel kostet es? — 30.368260000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

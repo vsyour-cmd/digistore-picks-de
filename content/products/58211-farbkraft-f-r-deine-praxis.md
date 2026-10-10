@@ -4,15 +4,15 @@ digistore24_product_id: 714898
 title: "Farbkraft für deine Praxis"
 vendor: "FiaBiba"
 product_type: "Member area and video courses"
-price: 235
+price: 235.42
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.5
+earnings_per_sale: 23.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.embodiedcoloracademy.de/farbkraft-praxis.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Farbkraft für deine Praxis
 
 > Product ID `58211` · Digistore24 productId `714898` · [HTML profile page](../../produkte/farbkraft-f-r-deine-praxis-58211.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $235.00 (Single payment) |
+| Price | $235.42 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FiaBiba |
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Farbkraft für deine Praxis? — Typ: Member area and video courses, Anbieter: FiaBiba, gelistet seit 2026-08-07
-- Wie viel kostet es? — 234.99548800000002 USD
+- Wie viel kostet es? — 235.41564800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

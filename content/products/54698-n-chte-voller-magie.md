@@ -4,15 +4,15 @@ digistore24_product_id: 615316
 title: "Nächte voller Magie"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 40.77
+price: 40.85
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.15
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dreamelfes-buisness.systeme.io/naechte-voller-magie-ds?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Nächte voller Magie
 
 > Product ID `54698` · Digistore24 productId `615316` · [HTML profile page](../../produkte/n-chte-voller-magie-54698.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.77 (Single payment) |
+| Price | $40.85 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.15 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DreamElfe |
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nächte voller Magie? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-05-27
-- Wie viel kostet es? — 40.77297000000001 USD
+- Wie viel kostet es? — 40.845870000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

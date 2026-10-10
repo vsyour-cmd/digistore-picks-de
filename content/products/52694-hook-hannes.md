@@ -4,7 +4,7 @@ digistore24_product_id: 615995
 title: "Hook Hannes"
 vendor: "ReneAktivNetz"
 product_type: "Downloads"
-price: 6.77
+price: 6.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.55
@@ -12,7 +12,7 @@ cart_conversion_pct: 11
 cancel_rate_pct: 5.03
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2025-05-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/hook-hannes/?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Hook Hannes
 
 > Product ID `52694` · Digistore24 productId `615995` · [HTML profile page](../../produkte/hook-hannes-52694.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.77 (Single payment) |
+| Price | $6.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.55 |
 | Cart conversion* | 11% |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hook Hannes? — Typ: Downloads, Anbieter: ReneAktivNetz, gelistet seit 2025-05-31
-- Wie viel kostet es? — 6.76753 USD
+- Wie viel kostet es? — 6.77963 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

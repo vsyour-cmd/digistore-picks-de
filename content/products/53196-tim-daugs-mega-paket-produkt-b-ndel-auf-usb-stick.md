@@ -4,15 +4,15 @@ digistore24_product_id: 283606
 title: "Tim Daugs: MEGA Paket (Produkt-Bündel) auf USB-Stick"
 vendor: "newdimension"
 product_type: "Deliverable"
-price: 414.54
+price: 415.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 103.64
+earnings_per_sale: 103.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
 listed_since: "2019-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.timdaugs.com/angebot-mega-paket/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Tim Daugs: MEGA Paket (Produkt-Bündel) auf USB-Stick
 
 > Product ID `53196` · Digistore24 productId `283606` · [HTML profile page](../../produkte/tim-daugs-mega-paket-produkt-b-ndel-auf-usb-stick-53196.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $414.54 (Single payment, Installment) |
+| Price | $415.28 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $103.64 |
+| Earnings/sale* | $103.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tim Daugs: MEGA Paket (Produkt-Bündel) auf USB-Stick? — Typ: Deliverable, Anbieter: newdimension, gelistet seit 2019-08-21
-- Wie viel kostet es? — 414.541974 USD
+- Wie viel kostet es? — 415.28315399999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

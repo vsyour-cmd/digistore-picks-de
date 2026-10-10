@@ -4,15 +4,15 @@ digistore24_product_id: 603664
 title: "SlimPower – High Carb Low Fat für max. Abnehmerfolg!"
 vendor: "Bettina_Loeper"
 product_type: "E-books"
-price: 153.67
+price: 153.95
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 46.1
+earnings_per_sale: 46.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/603664?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # SlimPower – High Carb Low Fat für max. Abnehmerfolg!
 
 > Product ID `53132` · Digistore24 productId `603664` · [HTML profile page](../../produkte/slimpower-high-carb-low-fat-f-r-max-abnehmerfolg-53132.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $153.67 (Single payment) |
+| Price | $153.95 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $46.10 |
+| Earnings/sale* | $46.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bettina_Loeper |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SlimPower – High Carb Low Fat für max. Abnehmerfolg!? — Typ: E-books, Anbieter: Bettina_Loeper, gelistet seit 2025-03-25
-- Wie viel kostet es? — 153.673268 USD
+- Wie viel kostet es? — 153.948028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

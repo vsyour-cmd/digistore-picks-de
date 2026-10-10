@@ -4,15 +4,15 @@ digistore24_product_id: 488621
 title: "Digital Heart Business Academy ABO"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 5.48
+earnings_per_sale: 5.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-03-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://dhba.funnelcockpit.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Heart Business Academy ABO
 
 > Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../produkte/digital-heart-business-academy-abo-47158.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.81 (Subscription) |
+| Price | $54.91 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $5.48 |
+| Earnings/sale* | $5.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Heart Business Academy ABO? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-03-12
-- Wie viel kostet es? — 54.8114 USD
+- Wie viel kostet es? — 54.909400000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

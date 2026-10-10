@@ -4,7 +4,7 @@ digistore24_product_id: 658682
 title: "Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Services"]
 listed_since: "2026-01-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658682?aff=adminstore"
@@ -22,14 +22,14 @@ language: "de"
 # Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30
 
 > Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../produkte/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2026-01-03
-- Wie viel kostet es? — 9.39624 USD
+- Wie viel kostet es? — 9.41304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

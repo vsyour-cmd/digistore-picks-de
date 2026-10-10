@@ -4,15 +4,15 @@ digistore24_product_id: 487962
 title: "Das Handbuch des Erfolgs"
 vendor: "kohnlesoft"
 product_type: "E-books"
-price: 486.57
+price: 487.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.82
+earnings_per_sale: 49.91
 cart_conversion_pct: 21
 cancel_rate_pct: 2.03
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-03-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/487962/adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Handbuch des Erfolgs
 
 > Product ID `43832` · Digistore24 productId `487962` · [HTML profile page](../../produkte/das-handbuch-des-erfolgs-43832.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $486.57 (Single payment) |
+| Price | $487.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.82 |
+| Earnings/sale* | $49.91 |
 | Cart conversion* | 21% |
 | Cancel rate* | 2.03% |
 | Vendor | kohnlesoft |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Handbuch des Erfolgs? — Typ: E-books, Anbieter: kohnlesoft, gelistet seit 2023-03-08
-- Wie viel kostet es? — 486.56862800000005 USD
+- Wie viel kostet es? — 487.43858800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

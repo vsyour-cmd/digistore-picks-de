@@ -4,15 +4,15 @@ digistore24_product_id: 488356
 title: "Microsoft Excel Grundlagen Intensivkurs"
 vendor: "Trainstitute"
 product_type: "Member area and video courses"
-price: 23.27
+price: 23.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.65
+earnings_per_sale: 33.71
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://video-schulungen.de/courses/excel-grundlagen/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Microsoft Excel Grundlagen Intensivkurs
 
 > Product ID `44158` · Digistore24 productId `488356` · [HTML profile page](../../produkte/microsoft-excel-grundlagen-intensivkurs-44158.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.27 (Single payment, Installment) |
+| Price | $23.31 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.65 |
+| Earnings/sale* | $33.71 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | Trainstitute |
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Excel Grundlagen Intensivkurs? — Typ: Member area and video courses, Anbieter: Trainstitute, gelistet seit 2023-03-09
-- Wie viel kostet es? — 23.26688 USD
+- Wie viel kostet es? — 23.308480000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

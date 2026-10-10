@@ -4,15 +4,15 @@ digistore24_product_id: 668995
 title: "STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P"
 vendor: "DEKAYLLC"
 product_type: "Member area and video courses"
-price: 44.18
+price: 44.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.09
+earnings_per_sale: 22.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://startklar.idsystem.net/Startklar/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P
 
 > Product ID `56542` · Digistore24 productId `668995` · [HTML profile page](../../produkte/startklar-dein-erster-mini-funnel-dein-erstes-digitales-p-56542.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.18 (Single payment) |
+| Price | $44.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.09 |
+| Earnings/sale* | $22.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DEKAYLLC |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P? — Typ: Member area and video courses, Anbieter: DEKAYLLC, gelistet seit 2026-05-16
-- Wie viel kostet es? — 44.1847 USD
+- Wie viel kostet es? — 44.2637 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

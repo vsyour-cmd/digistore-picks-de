@@ -4,15 +4,15 @@ digistore24_product_id: 708858
 title: "Das Bundle - DEIN NÄCHSTER SCHRITT"
 vendor: "JEMORIS"
 product_type: "Downloads"
-price: 156.82
+price: 157.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.41
+earnings_per_sale: 78.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Dating, Relationships & Romance","Education"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jemoris.com/Vorverkaufsseite_Bundle.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Das Bundle - DEIN NÄCHSTER SCHRITT
 
 > Product ID `57484` · Digistore24 productId `708858` · [HTML profile page](../../produkte/das-bundle-dein-n-chster-schritt-57484.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $156.82 (Single payment, Installment) |
+| Price | $157.10 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.41 |
+| Earnings/sale* | $78.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JEMORIS |
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Bundle - DEIN NÄCHSTER SCHRITT? — Typ: Downloads, Anbieter: JEMORIS, gelistet seit 2026-07-10
-- Wie viel kostet es? — 156.816534 USD
+- Wie viel kostet es? — 157.096914 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

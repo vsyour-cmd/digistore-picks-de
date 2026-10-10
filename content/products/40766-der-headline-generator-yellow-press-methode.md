@@ -7,12 +7,12 @@ product_type: "E-books"
 price: 0.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.22
+earnings_per_sale: 6.23
 cart_conversion_pct: 51
 cancel_rate_pct: 4.26
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2022-07-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://carsten-feuerbach-3.mstrpages.com/headline-generator?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "de"
 # Der Headline Generator (Yellow-Press-Methode)
 
 > Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../produkte/der-headline-generator-yellow-press-methode-40766.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.22 |
+| Earnings/sale* | $6.23 |
 | Cart conversion* | 51% |
 | Cancel rate* | 4.26% |
 | Vendor | carstenfeuerbach |
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Headline Generator (Yellow-Press-Methode)? — Typ: E-books, Anbieter: carstenfeuerbach, gelistet seit 2022-07-28
-- Wie viel kostet es? — 0.50337 USD
+- Wie viel kostet es? — 0.50427 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

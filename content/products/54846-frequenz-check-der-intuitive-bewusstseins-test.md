@@ -4,15 +4,15 @@ digistore24_product_id: 652397
 title: "Frequenz-Check – Der intuitive Bewusstseins-Test"
 vendor: "AndreasTauscher"
 product_type: "Member area and video courses"
-price: 37.51
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.76
+earnings_per_sale: 18.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://andreas-tauscher.coachy.net/lp/frequenz-check/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Frequenz-Check – Der intuitive Bewusstseins-Test
 
 > Product ID `54846` · Digistore24 productId `652397` · [HTML profile page](../../produkte/frequenz-check-der-intuitive-bewusstseins-test-54846.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $37.51 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.76 |
+| Earnings/sale* | $18.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasTauscher |
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frequenz-Check – Der intuitive Bewusstseins-Test? — Typ: Member area and video courses, Anbieter: AndreasTauscher, gelistet seit 2025-12-02
-- Wie viel kostet es? — 37.506658 USD
+- Wie viel kostet es? — 37.573718 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

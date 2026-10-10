@@ -4,15 +4,15 @@ digistore24_product_id: 665594
 title: "Die stressfreie Schlaf-Strategie"
 vendor: "burn89"
 product_type: "Member area and video courses"
-price: 108.5
+price: 108.7
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.85
+earnings_per_sale: 10.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665594?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Die stressfreie Schlaf-Strategie
 
 > Product ID `55516` · Digistore24 productId `665594` · [HTML profile page](../../produkte/die-stressfreie-schlaf-strategie-55516.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.50 (Single payment) |
+| Price | $108.70 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.85 |
+| Earnings/sale* | $10.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | burn89 |
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die stressfreie Schlaf-Strategie? — Typ: Member area and video courses, Anbieter: burn89, gelistet seit 2026-01-31
-- Wie viel kostet es? — 108.5042 USD
+- Wie viel kostet es? — 108.6982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

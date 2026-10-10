@@ -4,15 +4,15 @@ digistore24_product_id: 688503
 title: "Ebook - Dollar-Dominanz"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.54
+price: 12.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.28
+earnings_per_sale: 6.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/688503?aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Dollar-Dominanz
 
 > Product ID `56381` · Digistore24 productId `688503` · [HTML profile page](../../produkte/ebook-dollar-dominanz-56381.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.54 (Single payment) |
+| Price | $12.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.28 |
+| Earnings/sale* | $6.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Dollar-Dominanz? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-28
-- Wie viel kostet es? — 12.539506000000001 USD
+- Wie viel kostet es? — 12.561926000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

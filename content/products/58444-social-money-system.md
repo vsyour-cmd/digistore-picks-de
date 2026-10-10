@@ -4,15 +4,15 @@ digistore24_product_id: 711980
 title: "Social Money System"
 vendor: "AI-mazing"
 product_type: "Member area and video courses"
-price: 530.22
+price: 531.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 159.06
+earnings_per_sale: 159.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software","Marketing Services"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ai-mazing.de/social-money-system/optin/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "de"
 # Social Money System
 
 > Product ID `58444` · Digistore24 productId `711980` · [HTML profile page](../../produkte/social-money-system-58444.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $530.22 (Single payment, Installment) |
+| Price | $531.16 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $159.06 |
+| Earnings/sale* | $159.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AI-mazing |
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Money System? — Typ: Member area and video courses, Anbieter: AI-mazing, gelistet seit 2026-08-18
-- Wie viel kostet es? — 530.2164 USD
+- Wie viel kostet es? — 531.1644 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
